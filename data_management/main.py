@@ -10,11 +10,10 @@ if __name__ == '__main__':
     df_dict = FileInterpreter(data_folder='small_datasheets')()
     # describe each dataframe
     for df_name, df in df_dict.items():
-        print('\n\n#### DATAFRAME:', df_name)
-        print('#### INFO:')
+        print('\n\n#### DATAFRAME', df_name, '####')
         df.info()
-        print('#### DESCRIPTION:')
-        df.describe().transpose()
 
     # passes the textual tokens to the text manager
-    text_matrix = TextMatrix(df_dict=df_dict)()
+    text_matrix = TextMatrix(df_dict=df_dict)
+    text_matrix.text_pipelines()
+    text_matrix.fit()
