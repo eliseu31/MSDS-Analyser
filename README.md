@@ -1,4 +1,4 @@
-# Datasheet Analyser
+# Material Safety Data Sheet (MSDS) Analyser
 
 - [x] Data scrapping from the **hazard.com** site
 - [x] Read the files and split the files categories using regex
@@ -8,19 +8,16 @@
 - [ ] Graphics to check some metrics
 - [ ] Apply different classification models
 
-## Papers
+## Data Organization
 
-* https://www.sciencedirect.com/science/article/abs/pii/S0091674902000374
-* https://www.sciencedirect.com/science/article/abs/pii/S019606449670272X
+The full dataset contains **253963** files (datasheets), with a total size of **1.5GB**.
+There are 2 different types of datasheet: 
+the **f1** type that contains **17454** files (**155.4MB**) and 
+the **f2** type that contains **236507** files (**1.3GB**).
 
-## Data
+The following table shows all the variables present in each file. 
+The variables are grouped in categories: **chemical**, **health**, **personal** and **procedures**. 
 
-Dataset size **253963** files, **1.5GB**: 
-* **f1**: **17454** files, **155.4MB** 
-* **f2**: **236507** files, **1.3GB**
-
-
-### Data Structure
 
 | Features                 |  Category  |       Type       | Model  |
 |:-------------------------|:----------:|:----------------:|:------:|
@@ -58,7 +55,8 @@ Dataset size **253963** files, **1.5GB**:
 
 ### Text Processing
 
-* n-grams
-* pos-tag
-* bag-of-words
 
+## Useful Papers
+
+* https://www.sciencedirect.com/science/article/abs/pii/S0091674902000374
+* https://www.sciencedirect.com/science/article/abs/pii/S019606449670272X
