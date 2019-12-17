@@ -1,23 +1,7 @@
 import nltk
 from collections import defaultdict
-import string
-
-from nltk.corpus import stopwords as sw
 from nltk.corpus import wordnet as wn
-from nltk import wordpunct_tokenize
 from nltk import WordNetLemmatizer
-from nltk import sent_tokenize
-from nltk import pos_tag
-from nltk import word_tokenize
-
-
-class LemmaTokenizer(object):
-
-    def __init__(self):
-        self.wnl = WordNetLemmatizer()
-
-    def __call__(self, doc):
-        return [self.wnl.lemmatize(t) for t in word_tokenize(doc)]
 
 
 def pos_tagging(sentence):

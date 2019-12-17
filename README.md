@@ -4,7 +4,6 @@
 - [x] Read the files and split the files categories using regex
 - [x] Join all the categories in a single dataframe
 - [ ] Use n-grams, pos_tag to process text description categories and extract features
-- [ ] Use clustering to get the labels/classes
 - [ ] Graphics to check some metrics
 - [ ] Apply different classification models
 
@@ -53,7 +52,7 @@ The variables are grouped in categories: **chemical**, **health**, **personal** 
 | storage_precautions      | procedures | text description | Target |
 | disposal                 | procedures | text description | Target |
 
-### Text Processing
+## Text Processing
 
 
 ## Useful Papers

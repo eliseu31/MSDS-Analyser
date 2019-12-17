@@ -1,5 +1,6 @@
 from data_extraction.file_interpreter import FileInterpreter
-from data_management.text_converter import TextMatrix
+from data_management.text_pipeline import TextPipeline
+from data_management.bootstrap import BootstrapLabels
 
 
 if __name__ == '__main__':
@@ -14,6 +15,16 @@ if __name__ == '__main__':
         df.info()
 
     # passes the textual tokens to the text manager
-    text_matrix = TextMatrix(df_dict=df_dict)
-    text_matrix.text_pipelines()
-    text_matrix.fit()
+    text_pipe = TextPipeline(df_dict=df_dict)
+
+    # search in the train df
+    # bootstrap = BootstrapLabels()
+    # text_pipe.x_train.apply(bootstrap.search_pattern)
+    # print('patterns set size', len(bootstrap.patterns_founded))
+    # # print(list(bootstrap.patterns_founded)[5])
+    # text_pipe.x_train.apply(bootstrap.search_tuple)
+    # print(len(bootstrap.tuples_founded))
+
+    text_pipe.text_pipelines()
+    text_pipe.fit()
+    text_pipe.score()
