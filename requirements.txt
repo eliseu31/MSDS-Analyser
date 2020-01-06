@@ -1,3 +1,5 @@
+scipy
+spacy
 matplotlib
 scikit-learn
 nltk

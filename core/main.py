@@ -1,0 +1,79 @@
+import argparse
+import os
+import sys
+
+sys.path.append(os.path.join(os.path.dirname(sys.path[0])))
+
+from extraction.file_interpreter import FileInterpreter
+from extraction.scraper import DataScraper
+from core.pipelines_manager import PipelinesManager
+
+if __name__ == '__main__':
+
+    df_dict = None
+    n_jobs = 8
+    data_folder = 'datasheets_smaller'
+    n_features = 150
+    n_targets = 20
+
+    procedures_list = [('fire_fighting', ['extinguishing_media', 'fire_fighting']),
+                       ('disposal', ['disposal']),
+                       ('storage', ['handling_storage'])]
+    # procedures_list = [('fire_fighting', ['extinguishing_media', 'fire_fighting'])]
+
+    # build parser for application command line arguments
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-j', metavar='n_jobs', nargs=1, help="number of jobs to use (default: 8)")
+    parser.add_argument('-s', action='store_true', help="scrapes the MSDS data from the web")
+    parser.add_argument('-e', metavar='extract_data', nargs=1, help="extract the dataframes from the dataset, you "
+                                                                    "must specify the dataset name e.g. datasheets")
+    parser.add_argument('-t', metavar=('n_feature', 'n_class'), nargs=2,
+                        help="train with 70%% of the dataset and score with 30%% of the dataset, specify the number of "
+                             "features and target classes (default 150 features and 20 classes)")
+    parser.add_argument('-p', metavar='file_path', nargs=1,
+                        help="predict the procedures for a certain MSDS with a file path")
+    args = parser.parse_args()
+
+    if args.s:
+        # get the data from the web
+        DataScraper()()
+
+    if args.e is not None:
+        # get the arguments
+        data_folder = args.e[0]
+        # extract the text from the files
+        df_dict = FileInterpreter(data_folder=data_folder)(n_jobs=n_jobs)
+
+    if args.t is not None:
+        # get the arguments
+        n_features = args.t[0]
+        n_targets = args.t[1]
+        # passes the textual tokens to the text manager
+        pipes_manager = PipelinesManager(df_dict)
+        pipes_manager.create_predictors(procedures_list,
+                                        relation_extraction=True,
+                                        n_features=n_features,
+                                        n_targets=n_targets,
+                                        n_jobs=n_jobs)
+        pipes_manager.fit()
+        pipes_manager.score()
+        pipes_manager.pickle_system()
+
+    if args.p is not None:
+        # creates the pipes manager
+        pipes_manager = PipelinesManager()
+        pipes_manager.unpickle_system(procedures_list)
+
+        # get the arguments
+        file_path = args.p[0]
+        absolute_path = os.path.join(os.path.dirname(sys.path[0]), file_path)
+        # extracts the data
+        with open(file_path) as f:
+            text = f.read()
+            # extracts the data
+            file_data = FileInterpreter().process_f2(text)
+
+        # predicts the file procedures
+        pipes_manager.predict(file_data)
+
+    # pipes_manager.score()

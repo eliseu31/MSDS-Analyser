@@ -1,4 +1,3 @@
-from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
 
 
@@ -17,18 +16,18 @@ class PlotGraphics:
         # plot the features in the button
         count_vectorizer = self.text_extraction_pipes['feature']['vectorizer']
         self.plot_word_freq(count_vectorizer, self.x_train, axes[1])
-        plt.title('Target Data')
+        plt.title('Feature Data', weight='bold')
         # plot the targets in the top
         self.plot_metrics(class_report, axes[0])
-        plt.title('Feature Data')
+        plt.title('Target Data', weight='bold')
         # shows the plot
         plt.show()
 
-    def plot_metrics(self, class_report, ax1):
+    def plot_metrics(self, class_report, bag_words_ax):
         # plot the bar word frequency
         count_vectorizer = self.text_extraction_pipes['target']['vectorizer']
         # TEST ALSO Y_TEST
-        word_labels, _ = self.plot_word_freq(count_vectorizer, self.y_train, ax=ax1)
+        word_labels, _ = self.plot_word_freq(count_vectorizer, self.y_train, ax=bag_words_ax)
         # get the metrics lists
         metrics_list = []
         # iterate over the word labels
@@ -39,43 +38,43 @@ class PlotGraphics:
                              class_report[label]['f1-score'])
             metrics_list.append(metrics_tuple)
 
+        # format the word labels
+        word_labels = list(word_labels)
+        for i, label in enumerate(word_labels):
+            # splits the label
+            label_parts = label.split(' ')
+            # slices all the words in groups of 2
+            slices = [' '.join(label_parts[i:i+2]) for i in range(0, len(label_parts), 2)]
+            # joins all the slices
+            word_labels[i] = '\n'.join(slices)
+
         # plot the metrics graph
-        ax2 = ax1.twinx()
+        twin_ax = bag_words_ax.twinx()
         precision, recall, f1_sco = zip(*metrics_list)
-        ax2.plot(word_labels, precision, label='precision', marker='.', color='red')
-        ax2.plot(word_labels, recall, label='recall', marker='o', color='green')
-        ax2.plot(word_labels, f1_sco, label='f1-score', marker='v', color='yellow')
-        ax2.set_ylim(bottom=0, top=1)
+        # plots the metrics
+        twin_ax.plot(word_labels, precision, label='precision', marker='.', color='red')
+        twin_ax.plot(word_labels, recall, label='recall', marker='o', color='green')
+        twin_ax.plot(word_labels, f1_sco, label='f1-score', marker='v', color='yellow')
+        twin_ax.set_ylim(bottom=0, top=1)
         # shows the legend
         plt.legend()
 
     @staticmethod
     def plot_word_freq(vectorizer, string_df, ax=plt):
         # plot the vocabulary freq
-        # plt.rcParams.update({'font.size': 17})
+        # plt.rcParams.update({'font.size': 15})
         bag_of_words = vectorizer.transform(string_df)
         sum_words = bag_of_words.sum(axis=0)
-        words_freq = [(word, sum_words[0, i]) for word, i in vectorizer.vocabulary_.items()]
+        words_freq = [(word, sum_words[0, i]) for i, word in enumerate(vectorizer.get_feature_names())]
         words_freq = sorted(words_freq, key=lambda x: x[1], reverse=True)
         words, total = zip(*words_freq)
-        ax.bar(words[0:50], total[0:50])
+        # plots the histogram
+        ax.bar(words[0:30], total[0:30])
+        # alternative method to rotate the graphics
         # plt.xticks(rotation=90)
+        # method to rotate the graphics
         ax.set_visible(True)
         for tick in ax.get_xticklabels():
             tick.set_rotation(90)
         # return the word labels and values
         return words, total
-
-    @staticmethod
-    def plot_pca(x_data, y_data, class_labels):
-        pca = PCA(n_components=2)
-        pca_data = pca.fit_transform(x_data.todense())
-        print(pca_data)
-        print(pca_data.shape)
-        print(y_data.shape)
-        print(y_data.todense())
-
-        # plot the pca
-        # for class_label in class_labels:
-        #     plt.scatter(pca_data[:, 0], pca_data[:, 1], c=y_data)
-        #     plt.show()

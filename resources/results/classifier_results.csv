@@ -1,0 +1,7 @@
+model,procedure,precision,recall,f1-score,roc
+DT,fire,0.65,0.67,0.66,0.86
+KNN,fire,0.77,0.60,0.68,0.83
+DT,disposal,0.60,0.61,0.61,0.80
+KNN,disposal,0.74,0.52,0.61,0.77
+DT,storage,0.48,0.50,0.49,0.74
+KNN,storage,0.74,0.35,0.48,0.68
