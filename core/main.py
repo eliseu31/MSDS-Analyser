@@ -48,6 +48,8 @@ if __name__ == '__main__':
         data_folder = args.e[0]
         # extract the text from the files
         df_dict = FileInterpreter(data_folder=data_folder)(n_jobs=n_jobs)
+        # to pickle data
+        PipelinesManager(df_dict)
 
     if args.l:
         # get the procedures
