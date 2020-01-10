@@ -1,0 +1,136 @@
+=====================  Product Identification  =====================
+
+Product ID:EDM-R
+MSDS Date:08/02/1985
+FSC:6850
+NIIN:01-298-0518
+MSDS Number: BHWDY
+=== Responsible Party ===
+Company Name:COOLANT CONTROL,INC.
+Address:3567-BLUE ROCK ROAD,
+City:CINCINNATI
+State:OH
+ZIP:45247
+Country:US
+Info Phone Num:513-385-0800
+Emergency Phone Num:513-385-0800
+Preparer's Name:G/L.MAURER
+CAGE:0J446
+=== Contractor Identification ===
+Company Name:COOLANT CONTROL,INC.
+Address:3567-BLUE ROCK ROAD,
+City:CINCINNATI
+State:OH
+ZIP:45247
+Country:US
+Phone:513-385-0800/800-424-9300(CHEMTREC)
+CAGE:0J446
+Company Name:INTECH TECHNOLOGY CORP
+Address:2001 W 16TH ST
+Box:6129
+City:BROADVIEW
+State:IL
+ZIP:60153-3851
+Country:US
+Phone:708-681-6110
+CAGE:31473
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM NITRITE  (SARA III)
+CAS:7632-00-0
+RTECS #:RA1225000
+Fraction by Wt: 3.0%
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:AQUEOUS DILUENT,DIONIZED,BUFFERED
+Fraction by Wt: 96.0%
+
+Ingred Name:NON-SILICONE DEFOAMERS
+Fraction by Wt: 1.0%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD 50 RAT 900 MG/KG
+Routes of Entry: Inhalation:UNKNOWN  Skin:UNKNOWN  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:IRRITATION OF EYES (MILD).NO
+    OTHER DATA AVAILABLE.
+Explanation of Carcinogenicity:DATA PER MGF MSDS.
+Effects of Overexposure:SEE HEALTH HAZARDS DATA.
+Medical Cond Aggravated by Exposure:PRE-EXISTING CONDITIONS MAY BE
+    WORSEN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES AND SKIN:FLUSH WITH LARGE AMOUNT OF WATER FOR ABOUT
+    15-20 MINUTES;SEEK MEDICAL ATTENTION IMMEDIATELY.INHALATION:REMOVE
+    TO FRESH AIR;CALL A PHYSICIAN.INGESTION:SEEK MEDICAL ATTENTION
+    IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE SUITABLE MEDIA FOR SURROUNDING FIRE
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:NONE EXPECTED
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPER PERSONAL PROTECTION;SWEEP UP OR
+    VACUUM AND COLLECT FOR PROPER DISPOSAL IN AN APPROVED CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE ABOVE 0 C.KEEP CONTAINER CLOSED
+    WHEN NOT IN USE.
+Other Precautions:WASH THOROUGHLY AFTER EACH USE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR FOR DUST/MIST
+    IF ABOVE PEL/TLV OR SCBA IN AN ENCLOSED AREA.
+Ventilation:LOCAL/GENERAL TO MAINTAIN PEL/TLV.
+Protective Gloves:IMPERVIOUS
+Eye Protection:SAFETY GLASSES/GOGGLES
+Other Protective Equipment:PROTECTIVE CLOTHINGS.EYE-WASH
+    FACILITIES,SAFETY SHOWER.
+Work Hygienic Practices:AVOID CONTACT WITH EYES AND SKIN;DO NOT BREATHE
+    VAPORS/MIST/DUST.WASH THOROUGHLY AFTER EACH USE;DO NOT
+    EAT,DRINK,SMOKE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:212F,100C
+Vapor Pres:1.0
+Spec Gravity:1.019
+pH:7-7.5
+Solubility in Water:COMPLETE
+Appearance and Odor:GREEN FLUID,PLEASANT,ESTER ODOR
+Percent Volatiles by Volume:0.0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACIDS BELOW PH 7.0
+Stability Condition to Avoid:ACIDS
+Hazardous Decomposition Products:OXIDES OF NITROGEN
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT LOCAL AUTHORITIES;DISPOSAL MUST BE IN
+    ACCORDANCE WITH LOCAL,STATE AND FEDERAL REGULATIONS
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,111 @@
+=====================  Product Identification  =====================
+
+Product ID:TIME-OUT ODOR-OUT, DA6590
+MSDS Date:07/07/1988
+FSC:6840
+NIIN:00N021454
+MSDS Number: BLMKY
+=== Responsible Party ===
+Company Name:DRUMMOND AMERICAN CORP
+Address:1700 SHERWIN AVE
+City:DES PLAINES
+State:IL
+ZIP:60010
+Country:US
+Info Phone Num:312-297-1777
+Emergency Phone Num:312-297-1777;800-424-9300(CHEMTREC)
+CAGE:64557
+=== Contractor Identification ===
+Company Name:DRUMMOND AMERICAN CORPORATION
+Address:600 CORPORATE WOODS PKWY.
+Box:City:VERNON HILLS
+State:IL
+ZIP:60061
+Country:US
+Phone:708-913-9313
+CAGE:64557
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NON-HAZARDOUS INGREDIENTS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MAY CAUSE DIZZINESS OR NARCOSIS IN
+    HIGH VAPOR CONCENTRATIONS. WILL CAUSE DEFATTING OF SKIN.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE LISTED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:REMOVE VICTIM AND RESTORE BREATHING IF REQUIRED.
+    SKIN:REMOVE W/SOAP & WATER. EYE:FLUSH W/COPIOUS QUANTITIES OF WATER
+    FOR AT LEAST 15 MINUTES. CALL MD. INGEST:GET MD IMMEDIATELY .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TOC
+Flash Point:153F,67C
+Lower Limits:1.6%
+Extinguishing Media:CARBON DIOXIDE, DRY CHEMICAL, SAND.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL PROT
+    EQUIP . WATER MAY BE USED TO COOL CNTNRS TO PVNT PRESS BUILD-UP &
+    POSS EXPLOSION WHEN EXPOSED TO EXTREME HEAT.
+Unusual Fire/Explosion Hazard:AT ELEVATED TEMPERATURES (OVER 130F)
+    CONTAINERS MAY VENT, RUPTURE OR BURST.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA. REMOVE OPEN FLAMES AND SOURCES
+    OF IGNITION. PICK UP W/INERT ABSORBENTS.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN WELL VENTILATED AREAS AT
+    TEMPERATURES BELOW 120F.
+Other Precautions:KEEP OUT OF REACH OF CHILDREN. ALL EMPTY CONTAINERS
+    HAVE RESIDUAL PRESSURE. DO NOT INCINERATE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT APPLICABLE. USE NIOSH/MSHA APPROVED
+    RESPIRATOR APPROPRIATE FOR EXPOSURE OF CONCERN .
+Protective Gloves:NOT REQUIRED.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NOT REQUIRED.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V4
+Boiling Pt:B.P. Text:240F,116C
+Vapor Pres:2300
+Vapor Density:LTR/AIR
+Spec Gravity:0.90
+Evaporation Rate & Reference:SLOWER THAN ETHER.
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:LIGHT YELLOW LIQUID, AROMATIC ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF I/A/W FEDERAL, STATE AND LOCAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

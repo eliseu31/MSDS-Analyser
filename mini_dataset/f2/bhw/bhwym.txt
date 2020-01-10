@@ -1,0 +1,187 @@
+=====================  Product Identification  =====================
+
+Product ID:436 WHITE URETHANE LINE MARKING
+MSDS Date:11/21/1988
+FSC:8010
+NIIN:01-312-2651
+Kit Part:Y
+MSDS Number: BHWYM
+=== Responsible Party ===
+Company Name:TENNANT CO
+Address:701 N LILAC DR
+Box:1452
+City:MINNEAPOLIS
+State:MN
+ZIP:55440-1452
+Country:US
+Info Phone Num:612-540-1381/612-738-9734(NIGHT)
+Emergency Phone Num:612-540-1381/612-544-5163(NIGHT)
+Preparer's Name:NORMAN W. GILL,TECH.SERV.
+CAGE:59500
+=== Contractor Identification ===
+Company Name:TENNANT CO
+Address:701 N LILAC DR
+Box:1452
+City:MINNEAPOLIS
+State:MN
+ZIP:55440-1452
+Country:US
+Phone:612-540-1556/800-553-8033
+CAGE:59500
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS)	(SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Minumum % Wt:5.
+Maxumum % Wt:15.
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:N-BUTYL ACETATE  (SARA III)
+CAS:123-86-4
+RTECS #:AF7350000
+Minumum % Wt:5.
+Maxumum % Wt:15.
+OSHA PEL:150 PPM/200 STEL
+ACGIH TLV:150 PPM/200STEL;9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:VM&P NAPHTHA (LIGROINE)
+CAS:8032-32-4
+RTECS #:OI6180000
+Minumum % Wt:1.
+Maxumum % Wt:10.
+OSHA PEL:300 PPM/400 STEL
+ACGIH TLV:300 PPM; 9192
+
+Ingred Name:ALKYD RESIN, MODIFIED.
+Minumum % Wt:10.
+Maxumum % Wt:20.
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Minumum % Wt:55.
+Maxumum % Wt:65.
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:CARBON BLACK
+CAS:1333-86-4
+RTECS #:FF5800000
+< Wt:1.
+OSHA PEL:3.5 MG/M3
+ACGIH TLV:3.5 MG/M3; 9192
+
+Ingred Name:YELLOW IRON OXIDE (OSHA PEL 10 MG/M3 TOTAL PARTICULATE AS
+    IRON)
+CAS:1310-14-1
+< Wt:1.
+OSHA PEL:10 MG/M3 TOT.PARTIC.
+ACGIH TLV:5 MG/M3 (IRON FUME)
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MAY CAUSE IRRITATION AND CENTRAL
+    NERVOUS SYSTEM EFFECTS.
+Explanation of Carcinogenicity:NONE OF THE CHEMICALS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:EYES:IRRITATION. SKIN:IRRITATION.
+    INHALATION:ANESTHESIA, RESPIRATORY TRACT IRRITATION, DIZZINESS,
+    STAGGERING GAIT, CONFUSSION, UNCONSCIOUSNESS. INGESTION:BURNING
+    SENSATION, VOMITING, DIARRHEA, DROWSIN ESS.
+Medical Cond Aggravated by Exposure:PERSONS WITH A HISTORY OF SKIN AND
+    RESPIRATORY DISORDERS MAY BE AT INCREASED RISK FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE SUBJECT TO FRESH AIR. EYE: FLUSH WITH
+    PLENTY OF WATER FOR 15 MINUTES. GET IMMEDIATE MEDICAL ATTENTION.
+    SKIN: WASH WITH SOAP AND WATER. INGESTION: DO NOT INDUCE VOMITING.
+    GET IMMEDIA TE MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:=26.7C, 80.F
+Lower Limits:1.0
+Upper Limits:7.0
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS. CLOSED CONTAINERS
+    MAY EXPLODE WHEN EXPOSED TO EXTREME HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE IGNITION SOURCES. AVOID BREATHING
+    VAPORS. VENTILATE AREA. REMOVE WITH INERT ABSORBENT. SCRUB RESIDUE
+    WITH SOAP AND WATER.
+Neutralizing Agent:NONE APPLICABLE FOR THIS MATERIAL
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL, DRY, WELL VENTILATED
+    AREA. PROTECT FROM PHYSICAL DAMAGE, HEAT AND IGNITION SOURCES. KEEP
+    CONTAINERS CLOSED.
+Other Precautions:DO NOT TAKE INTERNALLY. AVOID PROLONGED CONTACT WITH
+    SKIN. AVOID FREE FALL OF LIQUID IN EXCESS OF A FEW INCHES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR NIOSH/MSHA-APPROVED RESPIRATOR FOR ORGANIC
+    VAPORS DURING THE APPLICATION AND UNTIL THE WORK AREA HAS BEEN
+    EXHAUSTED OF ALL VAPORS.
+Ventilation:PROVIDE LOCAL EXHAUST VENTILATION.
+Protective Gloves:RUBBER
+Eye Protection:CHEMICAL SPLASH GOGGLES
+Other Protective Equipment:SAFETY SHOWER AND EYE BATH. OTHER EQUIPMENT
+    AS REQUIRED TO MINIMIZE EXPOSURE FROM PROLONGED OR REPEATED
+    CONTACT.
+Work Hygienic Practices:WASH THROUGHLY AFTER HANDLING AND BEFORE
+    EATING. LAUNDER CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F3
+Boiling Pt:=126.7C, 260.F
+Vapor Pres:8.4
+Vapor Density:>1
+Spec Gravity:1.7
+Evaporation Rate & Reference:<1 (BUTYL ACETATE = 1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:WHITE LIQUID. FRUITY ODOR.
+Percent Volatiles by Volume:52
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HIGH TEMPERATURES, SPARKS, AND OPEN FLAMES
+Hazardous Decomposition Products:CARBON DIOXIDE, CARBON MONOXIDE,
+    NITROGEN OXIDES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH ALL APPLICABLE
+    FEDERAL, STATE AND LOCAL LAWS AND REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

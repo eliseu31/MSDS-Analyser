@@ -1,0 +1,117 @@
+=====================  Product Identification  =====================
+
+Product ID:CONSOLMO MOTOR OIL 10W
+MSDS Date:01/01/1987
+FSC:9150
+NIIN:00-186-6668
+MSDS Number: BDHBQ
+=== Responsible Party ===
+Company Name:CONSOLIDATED MOTOR OILS,INC.
+Emergency Phone Num:(609)691-1066
+CAGE:9Z316
+=== Contractor Identification ===
+Company Name:CONSOLIDATED MOTOR OIL CO INC
+Address:1773 PINE AVE
+Box:427
+City:VINELAND
+State:NJ
+ZIP:08360-3442
+Country:US
+Phone:609-691-1066
+CAGE:9Z316
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:REFINED PETROLEUM OILS, (LD50,ORAL RAT:>15G/KG)TAKE TLV AS
+    OIL MIST =5MG/CUM,(75-80%)
+Fraction by Wt: 80.0%
+ACGIH TLV:5MG/CUM(OILMIST
+
+Ingred Name:DETERGENT INHIBITOR PACKAGE(CONTAINS ZINC
+    DIALKYLDITHIOPHOSPHATE,5-15%)
+Fraction by Wt: 10.0%
+ACGIH TLV:NOT SPECIFIED
+
+Ingred Name:POLYMERIC HYDROCARBON,5-10%
+Fraction by Wt: 7.5%
+ACGIH TLV:NOT SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Effects of
+    Overexposure:EYES:IRRITATION;SKIN:IRRITATION/DERMATITIS;INGEST/INHA
+    L:NAUSEA,VOMIT,DIARRHEA;IRRITATION RESP.TRACT
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALE:REMOVE TO FRESH AIR, GIVE CPR/O*2 IF
+    NEED;EYES/SKIN:FLUSH W LG AMTS H*2O FOR 15 MIN;INGEST:RINSE MOUTH;
+    GET MEDICAL ATTENTION FOR EYES, BREATHING DIFFICULTY, OR OTHER
+    SYMPTOMS OF OVEREXPOSURE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:430F/221C (COC)
+Extinguishing Media:CO*2,DRY CHEMICAL,FOAM,OR WATER FOG
+Fire Fighting Procedures:NONE NOTED;USE NIOSH/MSHA APPROVED SCBA IN
+    ENCLOSED AREA
+Unusual Fire/Explosion Hazard:WATER MAY CAUSE FROTHING
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPER PERSONAL PROTECTION;RECOVER FREE
+    LIQUID;USE SUITABLE ABSORBENT MATERIAL AND RECOVER FOR PROPER
+    DISPOSAL;DO NOT LET THE PRODUCT GO TO SEWER OR WATER COURSES.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AT ROOM TEMPERATURE.KEEP AWAY
+    FROM HEAT OR OPEN FLAMES.KEEP CONTAINER CLOSED WHEN NOT IN USE.
+Other Precautions:AVOID CONTACT WITH EYES AND SKIN.DO NOT INHALE
+    VAPORS/MIST.WASH AFTER USE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR FOR ORGANIC
+    VAPORS/MIST IF > TLV
+Ventilation:MECH(GEN)OR LOCAL EXHAUST THAT PROVIDES ADEQUATE
+    VENTILATION
+Protective Gloves:OIL IMPERVIOUS
+Eye Protection:SAFETY/CHEM GOGGLES
+Other Protective Equipment:FULL WORK CLOTHING TO PREVENT REPEATED OR
+    PROLONGED CONTACT.
+Supplemental Safety and Health
+MSDS REVISED DATE:01/15/86;ITEM IS 10W GRADE OF SPEC:MIL-L-2104.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Vapor Pres:NEG
+Vapor Density:>1.0
+Spec Gravity:0.88
+Evaporation Rate & Reference:NEGLIGIBLE
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:AMBER LIQUID
+Percent Volatiles by Volume:NEGL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDANTS
+Stability Condition to Avoid:HEAT,OPEN FLAMES
+Hazardous Decomposition Products:BURNING:CO,CO*2,TRACES OF SULFUR
+    OXIDES AND OF P,ZN
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF COLLECTED MATERIAL IN ACCORDANCE WITH
+    LOCAL,STATE AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

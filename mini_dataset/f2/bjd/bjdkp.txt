@@ -1,0 +1,188 @@
+=====================  Product Identification  =====================
+
+Product ID:4043 ALUMINUM
+MSDS Date:01/01/1987
+FSC:3439
+NIIN:01-012-6661
+MSDS Number: BJDKP
+=== Responsible Party ===
+Company Name:NATIONAL WELDING ALLOYS, INC.
+Address:1600 SOUTH CANAL STREET
+City:PITTSBURGH
+State:PA
+ZIP:15215
+Country:US
+Info Phone Num:412-781-4255
+Emergency Phone Num:412-781-4255
+CAGE:0ACE2
+=== Contractor Identification ===
+Company Name:NATIONAL WELDING ALLOYS INC
+Address:1600 SOUTH CANAL STREET
+Box:City:PITTSBURGH
+State:PA
+ZIP:15215-2624
+Country:US
+Phone:412-781-4255
+CAGE:0ACE2
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ALUMINUM  (SARA III)
+CAS:7429-90-5
+RTECS #:BD0330000
+Fraction by Wt: 93-94%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:15MG/M3 DUST/5 FUME
+ACGIH TLV:10MG/M3 DUST; 9192
+
+Ingred Name:COPPER  (SARA III)
+CAS:7440-50-8
+RTECS #:GL5325000
+Fraction by Wt: 0.3%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:0.1MG/M3 FUME/1 DUST
+ACGIH TLV:0.2MG/M3 FUME; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:IRON
+CAS:7439-89-6
+RTECS #:NO4565500
+Fraction by Wt: 0.8%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:10 MG/M3 FE2O3 AS FE
+ACGIH TLV:5 MG/M3 FE2O3 AS FE
+
+Ingred Name:MAGNESIUM
+CAS:7439-95-4
+RTECS #:OM2100000
+Fraction by Wt: 0.05%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:MANGANESE  (SARA III)
+CAS:7439-96-5
+RTECS #:OO9275000
+Fraction by Wt: 0.05%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:(C) 5 MG/M3 DUST
+ACGIH TLV:5 MG/M3 DUST 9293
+
+Ingred Name:SILICON
+CAS:7440-21-3
+RTECS #:VW0400000
+Fraction by Wt: 4.5-6.0%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:TITANIUM, METAL
+CAS:7440-32-6
+RTECS #:XR1700000
+Fraction by Wt: 0.20%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:ZINC  (SARA III)
+CAS:7440-66-6
+RTECS #:ZG8600000
+Fraction by Wt: 0.10%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:10 MG ZNO/M3
+ACGIH TLV:10 MG ZNO/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:OTHER COMPONENTS
+Fraction by Wt: 0.05%
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:FUMES AND GASES CAN BE DANGEROUS TO
+    YOUR HEALTH. ARC RAYS CAN INJURE EYES AND BURN SKIN. ELECTRIC SHOCK
+    CAN KILL. NOISE CAN DAMAGE HEARING.
+Explanation of Carcinogenicity:INGREDIENTS ARE NOT LISTED UNDER OSHA,
+    IARC OR NTP.
+Effects of Overexposure:ACUTE:METALLIC TASTE,NAUSEA,TIGHTNESS OF
+    CHEST,FEVER,DIZZINESS,DRYNESS,IRRITATION OF EYES,NOSE AND THROAT.
+    CHRONIC:EXCESSIVE LEVELS MAY CAUSE BRONQUIAL ASTHMA,LUNG FIBROSIS
+    AND PNEUMOCONIOSIS.
+Medical Cond Aggravated by Exposure:AGGRAVATION OF EXISTING RESPIRATORY
+    OR ALLERGIC CONDITIONS.HIGHER LEVEL OF LUNG RELATED PROBLEMS AMONG
+    SMOKERS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:REMOVE FROM EXPOSURE AND OBTAIN PROMPT MEDICAL ATTENTION. IF
+    NOT BREATHING,GIVE CPR/OXYGEN. EMPLOY FIRST AID TECHNIQUES
+    RECOMMENDED BY AMERICAN RED CROSS.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:AS APPROPIATE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:WELDING ARCS, SPARKS, ETC. MAY IGNITE
+    COMBUSTIBLE MATERIAL.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CLEAN UP ANY GRINDING DUST OR WASTE RESIDUE
+    AND PLACE IN APPROPIATE DISPOSAL CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN DRY AREA. ELECTRODES EXPOSED
+    TO MOISTURE MAY EXPLODE VIOLENTLY IF USED. DRY MOIST RODS BY BAKING
+    AT 300F FOR TEN HOURS.
+Other Precautions:TRAIN WELDER TO KEEP HIS HEAD OUT OF THE
+    FUMES.MONITOR AIR TO ENSURE ACCEPTABLE EXPOSURES.AVOID ELECTRICAL
+    SHOCK BY MAINTAINING DRY WORK AREA. WELDING ARC CAN IGNITE
+    COMBUSTIBLES AND FLAMMABLES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:FUME RESPIRATOR OR AIR SUPPLIED RESPIRATOR IN
+    CONFINED SPACES OR WHERE VENTILATION DOES NOT KEEP EXPOSURE BELOW
+    TLV.
+Ventilation:LOCAL EXHAUST TO KEEP BELOW TLV.
+Protective Gloves:WELDER'S GLOVES.
+Eye Protection:HELMET OR FACE SHIELD WITH FILTER LENS.
+Other Protective Equipment:SUBSTANTIAL DARK CLOTH,ARM
+    PROTECTOR,APRON,HAT AND SHOULDER PROTECTION. AIR SAMPLING TO
+    DETERMINE CORRECTIVE MEASURES.
+Work Hygienic Practices:WASH HANDS THOROUGHLY BEFORE EATING,SMOKING OR
+    USING SANITARY FACILITIES.
+Supplemental Safety and Health
+NONE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Solubility in Water:INSOLUBLE
+Appearance and Odor:WELDING ROD. NO ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Hazardous Decomposition Products:FUMES OF METALS AND METAL OXIDES FROM
+    ELECTRODE AND BASE METAL, CARBON MONOXIDE, CARBON DIOXIDE, OZONE,
+    NITROGEN OXIDES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT WITH YOUR LOCAL ENVIRONMENTAL
+    OFFICER.DISPOSE OF FUMES,FLUX OR WELD GRINDING RESIDUE FROM THE
+    WORK AREA OR FROM FILTERS IN ACCORDANCE WITH FEDERAL,STATE AND
+    LOCAL ENVIRONMENTAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

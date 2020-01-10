@@ -1,0 +1,150 @@
+=====================  Product Identification  =====================
+
+Product ID:TRANE OIL 15
+MSDS Date:04/13/1993
+FSC:9150
+NIIN:01-411-9132
+Status Code:A
+MSDS Number: CJQXC
+=== Responsible Party ===
+Company Name:TRANE/SERVICE FIRST
+Address:4500 MORRIS FIELD DR
+City:CHARLOTTE
+State:NC
+ZIP:28208-5837
+Country:US
+Info Phone Num:704-398-4600
+Emergency Phone Num:704-398-4600
+CAGE:4X241
+=== Contractor Identification ===
+Company Name:IBIDE INTL CORP
+Address:2804 LINDIN WAY (FORM:229 GENTLEBROOK RD
+Box:City:WOODSTOCK (FORM:OWINGS MILLS
+State:MD
+ZIP:21163-1400
+Country:US
+Phone:410-521-8711
+CAGE:06PW2
+Company Name:TRANE/SERVICE FIRST
+Address:4500 MORRIS FIELD DR
+Box:City:CHARLOTTE
+State:NC
+ZIP:28208-5837
+Country:US
+Phone:704-398-4600
+Contract Num:SP0450-99-M-B143
+CAGE:4X241
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:REFINED MINERAL OIL
+CAS:64742-52-5
+Code:F
+RTECS #:PY8035000
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Health Hazards Acute and Chronic:PROLONGED CONTACT MAY CAUSE MINOR SKIN
+    IRRITATION.
+Explanation of Carcinogenicity:NONE SPECIFIED BY MANUFACTURER.
+Effects of Overexposure:SKIN IRRITATION.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES- FLUSH WITH LARGE AMOUNTS OF WATER FOR AT LEAST 15
+    MINUTES. IF REDNESS OR IRRITATION PERSISTS, CONTACT A PHYSICIAN.
+    SKIN CONTACT-WASH WITH SOAP & WATER. WASH CLOTHING BEFORE REUSE.
+    INHALATION-OBS ERVE THE PERMISSABLE CONCENTRATION (AIR) OF 5 MG/M3
+    OF MINERAL OIL MIST (OSHA). INGESTION-CALL A PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:>148.9C, 300.F
+Extinguishing Media:USE WATER FOG, DRY CHEMICAL, CARBON DIOXIDE, FOAM
+    OR SAND TO EXTINGUISH FIRE.
+Fire Fighting Procedures:WATER SPRAY IS AN UNSUITABLE EXTINGUISHING
+    AGENT. FIREFIGHTERS SHOULD WEAR FULL PROTECTIVE EQUIPMENT AND USE
+    FULL FACED SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:STOP LEAK & DIKE UP LARGE SPILLS. USE INERT
+    ABSORBENT MATERIAL SUCH AS EARTH, SAND OR VERMICULITE FOR CLEAN-UP.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY PLACE. AVOID
+    EXPOSURE TO HEAT & FLAME. PROTECT AGAINST EYE & SKIN CONTACT. WASH
+    THOROUGHLY AFTER HANDLING.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SPECIFIED BY MANUFACTURER.
+Ventilation:NOT APPLICABLE.
+Protective Gloves:OIL RESISTANT RUBBER.
+Eye Protection:CHEMCIAL SPLASH GOGGLES
+Other Protective Equipment:RUBBER APRON.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:>260.C, 500.F
+Vapor Pres:<0.0001 MMHG @ 20C
+Vapor Density:>10
+Spec Gravity:.89 @ 15.6 C
+Viscosity:>100
+Evaporation Rate & Reference:NEGLIGIBLE
+Solubility in Water:INSOLUBLE
+Appearance and Odor:CLEAR AMBER, VISCOUS LIQUID-PETROLEUM ODOR.
+Percent Volatiles by Volume:NEGLIGIBLE
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+KEEP AWAY FROM STRONG OXIDIZING AGENTS SUCH AS CHROMIC ACID, HYDROGEN
+    PEROXIDE AND BROMINE.
+Hazardous Decomposition Products:UPON COMBUSTION CARBON DIOXIDE (CO2)
+    AND CARBON MONOXIDE (CO) ARE GENERATED.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:NONE SPECIFIED BY MANUFACTURER.
+
+=====================  Ecological Information  =====================
+
+Ecological:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH FEDERAL, STATE &
+    LOCAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:US DOT: NOT REGULATED.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:NONE SPECIFIED BY MANUFACTURER.
+Federal Regulatory Information:NONE SPECIFIED BY MANUFACTURER.
+State Regulatory Information:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

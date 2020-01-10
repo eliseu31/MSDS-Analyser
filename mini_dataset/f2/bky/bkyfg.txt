@@ -1,0 +1,133 @@
+=====================  Product Identification  =====================
+
+Product ID:174572 STORAGE (FOGGING) OIL, AEROSOL
+MSDS Date:03/23/1989
+FSC:9150
+NIIN:00F018552
+MSDS Number: BKYFG
+=== Responsible Party ===
+Company Name:GUARDSMAN PRODUCTS INC
+Address:411 N DARLING
+City:FREMONT
+State:MI
+ZIP:49412-1290
+Info Phone Num:(616) 924-3950
+Emergency Phone Num:(616) 924-3950
+Preparer's Name:ANDREW B WHITLOCK
+CAGE:25705
+=== Contractor Identification ===
+Company Name:GUARDSMAN PRODUCTS SBU, LILLY INDUSTRIES INC
+Address:411 NORTH DARLING
+Box:City:FREMONT
+State:MI
+ZIP:49412-1290
+Country:US
+Phone:616-924-3950
+CAGE:25705
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MEDIUM ALIPHATIC NAPHTHA (AROMATIC 100), PARAFFIN-NAPTHANES
+    MINERAL SPIRITS
+CAS:64742-88-7
+Fraction by Wt: 10-20%
+Other REC Limits:100 PPM
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:PETROLEUM OIL, HYDROTREATED HEAVY NAPHTHENIC DISTILLATE
+    (PETROLEUM), PETROLEUM DISTILLATES, MINERAL OIL
+CAS:64742-52-5
+RTECS #:PY8035000
+Fraction by Wt: 55-65%
+OSHA PEL:5 MG/CUM
+ACGIH TLV:5 MG/CUM
+
+Ingred Name:CALCIUM SULFONATE
+CAS:68783-96-0
+Fraction by Wt: 15-25%
+OSHA PEL:5 MG/CUM
+ACGIH TLV:5 MG/CUM
+
+Ingred Name:LPG (LIQUEFIED PETROLEUM GAS)
+CAS:68476-85-7
+RTECS #:SE7545000
+Fraction by Wt: 5-15%
+Other REC Limits:1800 MG/CUM
+OSHA PEL:1000 PPM
+ACGIH TLV:1000 PPM; 9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN/EYES: IRRITATION. INHALATION:
+    NAUSEA, HEADACHE, & RESPIRTORY IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: NAUSEA, HEADACHE, & RESPIRATORY
+    IRRITATION. SKIN/EYES: IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/RUNNING WATER FOR 15 MINUTES. SKIN: WASH W/MILD
+    SOAP & WATER. APPLY SKIN CREAM FOR IRRITATION. INHALATION: REMOVE
+    TO FRESH AIR AT ONCE. APPLY ARTIFICIAL RESPIRATION IF NECESSARY.
+    INGESTI ON; DON'T INDUCE VOMITING. OBTAIN MEDICAL ATTENTION IN ALL
+    CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:150F
+Extinguishing Media:FOAM, DRY CHEMICAL, CO2
+Fire Fighting Procedures:USE SCBA. WATER IS NOT SUITABLE AS AN
+    EXTINGUISHING MEDIA, BUT MAY BE USEFUL FOR COOLING NEARBY
+    CONTAINERS.
+Unusual Fire/Explosion Hazard:AEROSOL CONTAINERS MAY BURST WHEN EXPOSED
+    TO TEMPERATURES IN EXCESS OF 120F. LEAKING AEROSOLS ARE AN EXTREME
+    FIRE & EXPLOSION HAZARD.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. CHECK AREA
+    W/GAS DETECTOR. MOVE LEAKING CANS OUTDOORS & EMPTY INTO SUITABLE
+    CONTAINER BY DEPRESSING VALVE BOTTON. SMALL LIQUID SPILLS MAY BE
+    TAKEN UP W/ABSORBENT MATERI AL, SUCH AS EARTH OR FLOOR DRY.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINERS CAPPED WHEN NOT IN
+    USE. DON'T STORE OR HANDLE NEAR HEAT, SPARKS, FLAME, OR STRONG
+    OXIDIZERS. ALWAYS MAINTAIN ADEQUATE VENTILATION.
+Other Precautions:AVOID BREATHING VAPORS OR MISTS & CONTACT W/SKIN &
+    EYES. EXPOSURE TO LIQUIDS, VAPORS, MISTS, OR FUMES SHOULD BE
+    MINIMIZED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE SELF-CONTAINED BREATHING APPARATUS OR
+    APPROVED HYDROCARBON VAPOR RESPIRATOR TO KEEP 60 FPM. ADEQUATE TO KEEP 1
+Spec Gravity:0.9
+Solubility in Water:NIL
+Appearance and Odor:DARK LIQUID W/PETROLEUM ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS LIKE CHLORINE OR CONCENTRATED OXYGEN
+Stability Condition to Avoid:TEMPERATURES >120F, HEAT, SPARKS, OPEN
+    FLAME, IGNITION SOURCES.
+Hazardous Decomposition Products:CO, CALCIUM, & SULFUR OXIDES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

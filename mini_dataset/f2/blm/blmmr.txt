@@ -1,0 +1,170 @@
+=====================  Product Identification  =====================
+
+Product ID:SANDEZE
+MSDS Date:09/10/1987
+FSC:6850
+NIIN:00N021583
+MSDS Number: BLMMR
+=== Responsible Party ===
+Company Name:STA-LUBE INC
+Address:3039 ANA STREET
+City:RANCHO DOMINGUEZ
+State:CA
+ZIP:90221
+Country:US
+Info Phone Num:213-537-5650
+Emergency Phone Num:303-893-7774
+Preparer's Name:NELSON ALLEY
+CAGE:33876
+=== Contractor Identification ===
+Company Name:STA-LUBE INC
+Address:3039 ANA ST
+Box:City:RANCHO DOMINGUEZ (PART OF COMPTON)
+State:CA
+ZIP:90221
+Country:US
+Phone:310-664-2121/800-424-9300(CHEMTREC)
+CAGE:33876
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: <50%
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: <15%
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:PETROLEUM DISTILLATE;(PETROLEUM SOLVENT)
+CAS:66742-95-6
+Fraction by Wt: <25%
+ACGIH TLV:N/K 
+
+Ingred Name:N-BUTYL ALCOHOL  (SARA III)
+CAS:71-36-3
+RTECS #:EO1400000
+Fraction by Wt: <5%
+OSHA PEL:100 PPM
+ACGIH TLV:S, C 50 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:2-BUTOXYETHANOL
+CAS:111-76-2
+RTECS #:KJ8575000
+Fraction by Wt: <10%
+OSHA PEL:S, 50 PPM
+ACGIH TLV:S, 25 PPM; 9293
+
+Ingred Name:METHYL ISOBUTYL KETONE  (SARA III)
+CAS:108-10-1
+RTECS #:SA9275000
+Fraction by Wt: <5%
+OSHA PEL:100 PPM/75 STEL
+ACGIH TLV:50 PPM/75 STEL; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHAL:IRRITATION OF RESPIRATORY TRACT.
+    INGESTION:DIZZINESS, HEADACHE, VOMITING. SKIN:IF ABSORBED CAN CAUSE
+    BLOOD DISORDERS, KIDNEY DAMAGE, LIVER DAMAGE. REPEATED & PROLONGED
+    OVEREXPOSURE CAN PRODUCE N EUROLOGICAL & OTHER PHYSIOLOGICAL
+    DAMAGE. (SUPP DATA)
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:DERMATITIS ON PROLONGED CONTACT. DIZZINESS,
+    NAUSEA, WEAKNESS, VOMITING.
+Medical Cond Aggravated by Exposure:DISEASE OF CENTRAL NERVOUS SYSTEM &
+    LIVER. DERMATITIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: REMOVE TO FRESH AIR AND ADMINISTER OXYGEN/ARTIFICAL
+    RESPIRATION. EYE/SKIN:WASH WITH PLENTY OF WATER FOR AT LEAST 15
+    MINUTES. INGEST:DO NOT INDUCE VOMITING. CALL POISON CENTER OR
+    EMERGENCY HOSPI TAL OR PHYSICIAN IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TOC
+Flash Point:55.0F,12.8C
+Lower Limits:1%
+Extinguishing Media:WATER SPRAY MIST, CO2, DRY CHEMICAL
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:CAN FORM EXPLOSIVE MIXTURE IN THE AIR IF
+    CONCENTRATED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:PROVIDE FIRE PROTECTION. SMALLER SPILLS SOAK
+    UP WITH ABSORBENT & DISPOSE OF ACCORDING TO LOCAL REGULATIONS.
+    PROVIDE CHEMICAL CARTRIDGE RESPIRATORY PROTECTION WHEN HANDLING.
+    VENTILATE FUMES.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE BELOW 120F.
+Other Precautions:PROVIDE ADEQUATE VENTILATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AVOID CONCENTRATION OF VAPORS. NIOSH/MSHA
+    APPROVED CHEMICAL CARTRIDGE RESPIRATOR.
+Ventilation:LOCAL EXHAUST, MECHANICAL AND GENERAL.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:WASH HANDS THOROUGHLY AFTER USE.
+Supplemental Safety and Health
+HLTH HAZ:ANIMAL STUDIES HAVE CLEARLY DEMONSTRATED DOSE-RELATED ADVERSE
+    EFTS ON CNS, HEMATOPOIETIC TISS, BLOOD, KIDNEYS, AND LIVER
+    ASSOCIATED WITH ADMINISTRATION OF ETHYLENE GLYCOL MONOBUTYL ETHER
+    (EGB E) AND ETHYLENE GLYCOL MONOBUTYL ETHER ACETATE (EGBEA).
+    (EXTRACTED FROM DHHS (NIOSH PUBLICATION NO. 90-118) 
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F3
+Boiling Pt:B.P. Text:175F,79C
+Vapor Pres:20 @ 20C
+Spec Gravity:0.82
+Evaporation Rate & Reference:GREATER THAN WATER.
+Solubility in Water:80%
+Appearance and Odor:CLEAR, AROMATIC LIQUID.
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING AGENTS & FLAME
+Hazardous Decomposition Products:CO, CO2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CHEMICAL WASTE DISPOSAL IS GOVERNED BY THE
+    RESOURCE CONSERVATION & RECOVERY ACT AS WELL AS BY OTHER LOCAL,
+    STATE, AND FEDERAL LAWS AND REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

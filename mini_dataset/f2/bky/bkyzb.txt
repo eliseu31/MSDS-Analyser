@@ -1,0 +1,123 @@
+=====================  Product Identification  =====================
+
+Product ID:RC4864HH CATCH ALL BRAND
+MSDS Date:11/24/1985
+FSC:4130
+NIIN:01-320-9204
+MSDS Number: BKYZB
+=== Responsible Party ===
+Company Name:SPORLAN VALVE COMPANY
+Address:7525 SUSSEX AVENUE
+City:ST. LOUIS
+State:MO
+ZIP:63143
+Info Phone Num:(314) 647-2775
+Emergency Phone Num:(314) 647-2775
+Preparer's Name:JOHN E. HOFFMAN
+CAGE:78462
+=== Contractor Identification ===
+Company Name:SPORLAN VALVE COMPANY
+Address:7525 SUSSEX AVE.
+Box:City:ST LOUIS
+State:MO
+ZIP:63143
+Phone:314-647-2775
+CAGE:78462
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ALPHA-ALUMINA (ALUMINUM OXIDE)  (EPA LISTS ONLY FIBROUS
+    FORMS)  (SARA III)
+CAS:1344-28-1
+RTECS #:BD1200000
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:SODIUM ALUMINOSILICATE
+CAS:1344-00-9
+
+Ingred Name:GRAPHITE, SYNTHETIC
+CAS:7440-44-0
+RTECS #:FF5250100
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:2 MG/M3 TDUST; 9293
+
+Ingred Name:ALUMINUM PHOSPHATE, MONOAMMONIUM PHOSPHATE
+CAS:7784-30-7
+RTECS #:TB6450000
+ACGIH TLV:2 MG/CUM
+
+Ingred Name:KAOLIN
+CAS:1332-58-7
+RTECS #:GF1670500
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:2 MG/M3 TDUST; 9293
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION/SKIN/EYES/INGESTION: LOW
+    RISK OF IRRITABILITY.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION/SKIN/EYES/INGESTION: LOW RISK OF
+    IRRITABILITY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON-FLAMMABLE
+Unusual Fire/Explosion Hazard:ACTIVATED CHARCOAL WILL BURN IF HEATED
+    >450F IN THE AIR.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH SMALL AMOUNTS W/WATER, MOP UP OR SWEEP
+    UP, & DISPOSE OF IN THE SAME MANNER AS CONVENTIONAL PAPER TRASH.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NO PRECAUTIONS ARE NECESSARY FOR
+    STORING. STORE IN NORMAL CONDITIONS. CORE WILL PICK UP WATER BY
+    ADSORPTION PROCESS/WILL GET WARM DURING WATER PICKUP.
+Other Precautions:TO OPEN THE METAL CAN CONTAINING THE PRODUCT, THE
+    TEAR STRIP ON THE SIDE OF THE CAN SHOULD BE OPENED CAUTIOUSLY USING
+    PLIERS TO AVOID BEING CUT BY THE SHARP METAL EDGE OF THE TEAR
+    STRIP.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Other Protective Equipment:AS NECESSARY
+Supplemental Safety and Health
+PRODUCT TO REMOVE CONTAMINANTS FROM CIRCULATING REFRIGERANT ON
+    REFRIGERATION/AIR CONDITIONING SYSTEMS/UTILIZE SOLID FILTER CORE
+    MOLDED FROM DESICCANT GRANULES. IF MOLDED BLOCK IS CRUSHED, IT IS
+    POSSIB LE THE RESULTING POWDER TO BE CONSIDERED A NUISANCE DUST IF
+    >10 MG/CUM. 8% VOL AT 1700F.
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:1.1 G/ML
+Solubility in Water:INSOLUBLE
+Appearance and Odor:CORE IS ABRASIVE SOLID MATERIAL/ODORLESS, COMPOSED
+    OF WHITE/BUFF/BLACK GRAINS.
+Percent Volatiles by Volume:0%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:TEMPERATURES >450F
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL SHOULD BE HANDLED ACCORDING TO LOCAL
+    LAWS. HOWEVER, SPILLED MATERIAL NEED NOT BE CONSIDERED A HAZARDOUS
+    WASTE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

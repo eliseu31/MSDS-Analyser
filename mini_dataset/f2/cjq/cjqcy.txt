@@ -1,0 +1,185 @@
+=====================  Product Identification  =====================
+
+Product ID:CATALIZED HYDRAZINE 7%
+MSDS Date:08/06/1999
+FSC:6810
+NIIN:01-304-5373
+MSDS Number: CJQCY
+=== Responsible Party ===
+Company Name:TAN GRAM CO LLC
+Address:125 CORPORATE DR
+City:HOLTSVILLE
+State:NY
+ZIP:11742
+Country:US
+Info Phone Num:516-758-0471
+Emergency Phone Num:800-424-9300
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:1H2F5
+=== Contractor Identification ===
+Company Name:TANGRAM COMPANY LLC
+Address:125 CORPORATE DR
+Box:City:HOLTSVILLE
+State:NY
+ZIP:11742
+Country:US
+Phone:631-758-0460
+Contract Num:SP0450-01-MD409
+CAGE:1H2F5
+Company Name:TANGRAM COMPANY LLC
+Address:125 CORPORATE DR
+Box:City:HOLTSVILLE
+State:NY
+ZIP:11742
+Country:US
+Phone:631-758-0460
+Contract Num:SP0450-99-M-NG86
+CAGE:1H2F5
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HYDRAZINE HYDRATE
+CAS:302-01-2
+= Wt:7.
+OSHA PEL:1 PPM
+ACGIH TLV:0.1 PPM
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:HYDROQUINONE
+CAS:123-31-9
+RTECS #:MX3500000
+= Wt:1.
+Code:F
+OSHA PEL:2 MG/M3
+ACGIH TLV:2 MG/M3
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 I.C.V. IN RATS 75 MG/KILO
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:TARGET ORGANS: LUNGS, NERVOUS SYSTEM,
+    LIVER, KIDNEY, & SUBCUTANEOUS TISSUE.  INGESTION: POISON BY
+    INGESTION. DAMAGES LIVER AND DESTROYS RED BLOOD CELLS.  INHALATION:
+    CORROSIVE BY INHALATION. CAUSES BU RNS TO MUCOUS MEMBRANES IF
+    INHALED.  SKIN: CORROSIVE, CAUSES SKIN BURNS, MAY CAUSE SKIN
+    SENSITIZATION AND SYSTEMIC POISONING.  EYES: CORROSIVE, CAUSES EYE
+    BURNS, MAY CAUSE BLINDNESS.  EFFECTS OF REPEA TED EXPOSURE: SUSPECT
+    CARCINOGEN & ALLERGIC SENSITIZER.
+Explanation of Carcinogenicity:HYDRAZINE IS A POISON AND CARCINOGEN
+    AFFECTING THE LUNGS (TUMORIGEN), NERVOUS SYSTEM, LIVER, KIDNEYS AND
+    SUBCUTANEOUS TISSUE. HYDRAZINE IS LISTED BY NTP & IARC AS A
+    POSSIBLE GROUP B HUMAN CARCINOGEN.
+Effects of Overexposure:SKIN: CAUSES SKIN BURNS.  INHALATION: CAUSES
+    BURNS TO MUCOUS MEMBRANES.	EYES: CAUSES BURNS AND MAY CAUSE
+    BLINDNESS.
+Medical Cond Aggravated by Exposure:POSSIBLE DAMAGE TO LIVER, BLOOD AND
+    EYE IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH PLENTY OF WATER. SEEK MEDICAL ATTENTION. 
+    SKIN: WASH WITH SOAP AND WATER. REMOVE AND LAUNDER CONTAMINATED
+    CLOTHING, GET MEDICAL ATTENTION.  INHALATION: REMOVE TO FRESH AIR,
+    GET MEDICA L ATTENTION.  INGESTION: INDUCE VOMITING. FOR LARGE
+    AMOUNTS INGESTED INDUCE VOMITING WITH IEPCAC. DO NOT INDUCE
+    VOMITING IF THE PERSON IS COMATOSE. GET EMERGENCY MEDICAL
+    ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:FLUSH WITH WATER
+Fire Fighting Procedures:NONE KNOWN
+Unusual Fire/Explosion Hazard:HYDRAZINE IN CONCENTRATIONS ABOVE 50%
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR NIOSH/MSHA APPROVED SELF-CONTAINED
+    BREATHING APPARATUS. FOLLOWING OSHA REGULATIONS FOR RESPIRATOR USE
+    (SEE CFR 1910.134). WEAR GOGGLES, COVERALLS AND PVC OR BUTYL RUBBER
+    GLOVES AND BOOTS. WASH AL L CONTAMINATED CLOTHING. DESTROY ANY
+    CONTAMINATED LEATHER ARTICLES.  SEE WASTE DISPOSAL METHODS.
+Neutralizing Agent:DILUTE HYPOCHLORITE SOLUTION.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT GET IN EYES, ON SKIN, OR ON
+    CLOTHING. DO NOT TAKE INTERNALLY. AVOID BREATHING MIST OR VAPOR.
+    DESTROY ANY CONTAMINATED LEATHER ARTICLES. MAINTAIN ATMOSPHERE OF
+    NITROGEN OVER HYDRAZINE. CONTAINER S MUST BE GROUNDED. ADEQUATE
+    WATER SUPPLY MUST BE AVAILABLE FOR FLUSHING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR NIOSH/MSHA APPROVED SELF-CONTAINED
+    BREATHING APPARATUS. FOLLOWING OSHA REGULATIONS FOR RESPIRATOR USE
+    (SEE CFR 1910.134)
+Ventilation:FRESH AIR
+Protective Gloves:PVC OR BUTYL RUBBER GLOVES
+Eye Protection:SAFETY GLASSES WITH SIDE SHIELDS.
+Other Protective Equipment:COVERALLS,  PVC OR BUTYL RUBBER BOOTS, &
+    RUBBER LAB COAT.
+Work Hygienic Practices:WASH ALL CONTAMINATED CLOTHING. DESTROY ANY
+    CONTAMINATED LEATHER ARTICLES
+Supplemental Safety and Health
+DLA-HMIS: THIS NSN REQUIRES 7 PERCENT HYDRAZINE, 92 PERCENT WATER, AND
+    1 PERCENT CATALYST.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T4
+Boiling Pt:=101.7C, 215.F
+Vapor Pres:SAME AS WATER
+Vapor Density:AS WATER
+Spec Gravity:1.003
+Evaporation Rate & Reference:SAME AS WATER
+Solubility in Water:MISCIBLE
+Appearance and Odor:CLEAR, COLORLESS, SLIGHTLY FISHY ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS, STRONG OXIDIZING MATERIALS
+Stability Condition to Avoid:NO DATA PROVIDED BY MANUFACTURER.
+Hazardous Decomposition Products:AMMONIA
+
+===================  Toxicological Information	===================
+
+Toxicological Information:LD-50 I.C.V. IN RATS 75 MG/KG.
+
+=====================  Ecological Information  =====================
+
+Ecological:NO DATA PROVIDED BY MANUFACTURER
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:FLUSH WTIH LARGE AMOUNTS OF WATER AND DRAIN INTO
+    A CATCH BASIN. TRANSFER INTO AN APPROVED DOT CONTAINER AND SEAL.
+    NEUTRALIZE ANY REMAINING MATERIAL WITH DILUTE HYPOCHLORITE SOLUTION
+    AND WASH DOWN WITH	WATER.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:HYDRAZINE, AQUEOUS SOLUTION UN3293, PG III, CLASS
+    6.1.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:SPECIFICALLY LISTED UNDER SARA TITLE III
+    SECTION 313.
+Federal Regulatory Information:TSCA INVENTORY STATUS: LISTED.
+State Regulatory Information:NO DATA PROVIDED BY MANUFACTURER.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

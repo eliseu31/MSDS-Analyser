@@ -1,0 +1,157 @@
+=====================  Product Identification  =====================
+
+Product ID:MICRO FIBER, 102 BULK
+MSDS Date:09/16/1987
+FSC:5330
+NIIN:00N022662
+MSDS Number: BLMRB
+=== Responsible Party ===
+Company Name:MANVILLE FIBERGLASS GROUP
+Box:5108
+City:DENVER
+State:CO
+ZIP:80217
+Country:US
+Info Phone Num:303-978-3120
+Emergency Phone Num:303-978-3120
+Preparer's Name:KENNETH A ROBERTS
+CAGE:IO131
+=== Contractor Identification ===
+Company Name:MANVILLE FIBERGLASS GROUP
+Box:5108
+City:DENVER
+State:CO
+ZIP:80217
+Country:US
+Phone:303-978-3120 / 303-978-4900
+CAGE:IO131
+Company Name:SCHULLER INTERNATIONAL INC.
+Address:Box:5108
+City:DENVER
+State:CO
+ZIP:80217-5108
+Country:US
+Phone:303-978-4900
+CAGE:75165
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:GLASS, FIBROUS
+RTECS #:LK3651000
+Fraction by Wt: 100%
+Other REC Limits:1 FIBER/CC (MFR)
+OSHA PEL:15 MG/M3 (DUST)
+ACGIH TLV:10 MG/M3 (DUST);9192
+
+Ingred Name:SUPP DATA:FIBER GLASS MFR WORKERS,NO STATISTICALLY
+    SIGNIFICANT INCR RISKS FOR MALIGNANT/NONMALIGNANT RESP DISEASE
+    FOUND.
+RTECS #:9999999ZZ
+
+Ingred Name:OTHER PREC: SEPARATELY FROM OTHER CLOTHING; RINSE WASHER
+    THOROUGHLY.
+RTECS #:9999999ZZ
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHAL: IRRIT/SORENESS IN THROAT &
+    NOSE. IN EXTREME EXPOS SOME CONGESTION MAY OCCUR. SKIN CONT: TEMP
+    IRRIT/RASH. SKIN ABSORP: NOT APPLICABLE. INGEST: NOT HAZ WHEN
+    INGESTED. MAY CAUSE TEMP IRRIT TO GI T RACT. EYES: TEMP
+    IRRIT/INFLAMMATION. STUDIES ON LAB ANIMALS FALL INTO 2 CATEGORIES:
+    ANIMALS WHICH (SEE EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ: BRTHD HIGH CONC SHOWED NO DISEASE,
+    WHILE SOME EXPOS THRU ARTF MEANS (E.G., IMPLANTATION) HAVE
+    DEVELOPED CANCER. RECENT U.S. & EUROPEAN STUDIES OF ALMOST 27,000
+    PRODUCTION WORKERS (1930S TO 1 980S) FOUND NO SIGNIFICANT INCR IN
+    DISEASE FROM FIBER GLASS EXPOS. EVEN THOUGH EXTENSIVE HUMAN STUDIES
+    WERE (SUP DATA)
+Medical Cond Aggravated by Exposure:AS WITH ANY DUST, PRE-EXISTING
+    UPPER RESPIRATORY AND LUNG DISEASES MAY BE AGGRAVATED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: REMOVE TO FRESH AIR. DRINK WATER TO CLEAR THROAT AND
+    BLOW NOSE TO EVACUATE FIBERS. SKIN CONTACT: WASH AFFECTED AREAS
+    GENTLY WITH SOAP AND WARM WATER. SKIN ABSORP: NOT APPLICABLE.
+    INGESTION: NOT  APPLICABLE. EYES: FLUSH EYES WITH COPIOUS
+    QUANTITIES OF WATER. IF IRRITATION PERSISTS CONSULT A PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONFLAMMABLE
+Extinguishing Media:NOT APPLICABLE. USE MEDIA SUITABLE FOR SURROUNDING
+    CONDITIONS .
+Fire Fighting Procedures:NONE.
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:PICK UP PIECES. VACUUM CLEAN DUSTS. IF
+    SWEEPING IS NECESSARY USE A DUST SUPRESSANT.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP MATERIAL DRY. USE ADEQUATE
+    VENTILATION TO KEEP DUST LEVEL TO BELOW PEL/TLV/WEG (WORKPLACE
+    EXPOSURE GUIDELINE).
+Other Precautions:FOR ADDITIONAL INFORMATION, REFER TO MANVILLE SALES
+    CORP BULLETIN HSE-64C, 9/87, AVAILABLE FROM: HEALTH, SAFETY &
+    ENVIRONMENT DEPT. MANVILLE SALES CORPORATION, P.O. BOX 5108,
+    DENVER, CO 80217.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:<10 F/CC, USE MSA COMFO II W/H FILTER; <50 F/CC,
+    USE MSA ULTRA-TWIN W/H FILTER/EQUIV. FOR MORE SPECIFIC
+    RECOMMENDATIONS, SEE MANVILLE SALES CORP BULLETIN HSE-64C.
+Ventilation:USE SUFFICIENT NATURAL OR MECHANICAL VENTILATION TO KEEP
+    DUST LEVEL TO BELOW PEL/TLV/WEG (WORKPLACE EXPOSURE GUIDELINE).
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:WEAR LOOSE FITTING, LONG SLEEVED CLTHG. WASH
+    EXP AREAS W/SOAP & WARM H*2O AFTER HNDLG. WASH WORK CLTHS (INGRED
+    3)
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+EFTS OF OVEREXP: JUDGED INADEQ FOR CARCIN, IARC HAS CLASSIFIED GLASS
+    WOOL AS POS CARCIN FOR HUMANS, BASED ON ARTF EXPOS ANIMAL STUDIES.
+    PROD IS NOT CONSIDERED CARCIN BY NTP & OSHA. ACUTE: PROD IS MECH 
+    IRRIT TO SKIN, EYES & UPPER RESP SYS. CHRONIC: WHEN COMBINING RSLTS
+    OF 3 INTERNATIONAL MORTALITY STUDIES OF (ING 2)
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Melt/Freeze Pt:M.P/F.P Text:>1300F
+Spec Gravity:VAR
+Solubility in Water:NIL
+Appearance and Odor:WHITE FIBROUS BULK MATERIAL-NO ODOR.
+Percent Volatiles by Volume:0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+HYDROFLUORIC ACID.
+Stability Condition to Avoid:NONE IN DESIGNED USE.
+Hazardous Decomposition Products:NONE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:WASTES ARE NOT HAZARDOUS AS DEFINED BY RCRA (40
+    CFR PART 261). COMPLY WITH FEDERAL, STATE AND LOCAL REGULATIONS.
+    METHOD OF DISPOSAL-LANDFILL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

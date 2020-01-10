@@ -1,0 +1,153 @@
+=====================  Product Identification  =====================
+
+Product ID:104 1581 EKTACOLOR PRIME STBLZR & RPLNSHR/EP-2NP,RA-4NP,CONC
+MSDS Date:07/19/1995
+FSC:6750
+NIIN:01-329-6492
+MSDS Number: BWRGG
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-477-3194 MSDS :800- 242-2424
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 90-95%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:POLY(1-VINYL-2-PYRROLIDINONE)
+CAS:9003-39-8
+RTECS #:TR8160000
+Fraction by Wt: 1-5%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:DIPROPYLENE GLYCOL
+CAS:110-98-5
+RTECS #:UB8785000
+Fraction by Wt: 1-5%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:ORGANO SILICONE
+Fraction by Wt: 1-5%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:1,2-BENZISOTHIAZOL-3(2H)-ONE
+CAS:2634-33-5
+RTECS #:DE4620000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHAL:EXPECTED TO BE A LOW HAZARD FOR
+    RECOMMENDED HANDLING. EYES:CAUSES IRRITATION. SKIN:CAUSES
+    IRRITATION. MAY CAUSE ALLERGIC SKIN REACTION. INGEST:EXPECTED TO BE
+    A LOW INGESTION HAZARD.
+Explanation of Carcinogenicity:PER MSDS:CARCINOGENICITY
+    CALLSIFICATION(COMPONENTS PRESENT @0.1% OR
+    MORE):IARC/ACGIH/NTP/OSHA:NONE.
+Effects of Overexposure:EYES & SKIN IRRITATION. ALLERGIC SKIN REACTION.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:IF SYMPTOMATIC MOVE TO FRESH AIR.SYMPTOMS PERSIST GET
+    MED ATTN. EYES:IMMED FLUSH W/PLENTY OF WATER FOR @LEAST 15MINS.GET
+    MED ATTN. SKIN:IMMED REMOVE CONTAMIN CLOTH/SHOES.WASH W/SOAP/PLENTY
+    OF WA TER.GET MED ATTN. INGEST:DRINK 1-2 GLASSES OF WATER.SEEK MED
+    ATTN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE,NON-COMBUST
+Extinguishing Media:USE APPROPRIATE AGENT FOR ADJACENT FIRE.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS &
+    PROTECTIVE CLOTHING.
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH TO SEWER W/LG AMTS OF WATER.OTHERWISE
+    ABSORB SPILL W/VERMICULITE/OTHER INERT MATL.THEN PLACE IN CNTNR FOR
+    CHEM WASTE.CLEAN SURFACE THOROUGHLY TO REMOVE RESIDUAL
+    CONTAMIN.CAUTION:CONTAMINATED SUR FACES MAY BE SLIPPERY.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTACT W/EYES/SKIN/CLOTH.USE
+    W/ADEQUATE VENTI.KEEP CNTNR CLSD.
+Other Precautions:THE ROUTINE USE OF A NONALKALINE (ACID) TYPE OF HAND
+    CLEANER & REGULAR CLEANING OF WORKING SURFACES, GLOVES, ETC WILL
+    HELP MINIMIZE THE POSSIBILITY OF A SKIN REACTION. MATL HAS NT BEEN
+    TESTED FOR ENVI RO EFFECTS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SHOULD BE NEEDED.
+Ventilation:GOOD GENERAL VENTILATION (TYPICALLY 10AIR CHANGES/HR)
+    SHOULD BE USED.MATCH VENTILATION RATES TO CONDITIONS.
+Protective Gloves:IMPERVIOUS GLOVES.
+Eye Protection:SAF GLASSES W/SIDESHIELDS OR GOGGLES.
+Other Protective Equipment:EYEBATH,WASHING FACILITIES,SAFETY SHOWER.
+Work Hygienic Practices:WASH CONTAMIN CLOTH BEF REUSE.DESTROY/CLEAN
+    THORO CONTAMIN SHOES.WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+SEE SAME NSN FOR WORKING SOLN. MAKES 12.5 GALLONS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:B3
+Boiling Pt:B.P. Text:>212F,>100C
+Vapor Pres:18MM @20C
+Vapor Density:0.4
+Spec Gravity:1.015
+pH:9.0
+Solubility in Water:COMPLETE
+Appearance and Odor:BROWN LIQUID, ODORLESS.
+Percent Volatiles by Volume:95-100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE W/COMMON MATERIALS & CONTAMINANTS W/WHICH THE MATERIAL MAY
+    REASONABLY COME INTO CONTACT.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:HAZ COMBUST PROD:NONE. HAZ DECOMP
+    PROD:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:FLUSH TO SEWER W/LG AMTS OF WATER.
+    DISCHARGE,TREATMENT,DISPOSAL MAY BE SUBJECT TO LOCAL, STATE AND
+    FEDERAL REGULATIONS. NO CHEM PRESENT TO REPORTING REQMTS OF SEC 313
+    OR TITLE III OF SARA & 40CFR PART  372.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

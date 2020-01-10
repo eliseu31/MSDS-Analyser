@@ -1,0 +1,178 @@
+=====================  Product Identification  =====================
+
+Product ID:FO-52DR ORGANIC PHOTOCONDUCTER
+MSDS Date:08/22/1990
+FSC:6850
+NIIN:01-419-5396
+Status Code:A
+MSDS Number: CJQBY
+=== Responsible Party ===
+Company Name:SHARP ELECTRONICS CORP.
+Address:SHARP PLAZA
+City:MAHWAH
+State:NJ
+ZIP:07430-2135
+Country:US
+Info Phone Num:201-529-8200
+Emergency Phone Num:201-529-9223
+CAGE:18520
+=== Contractor Identification ===
+Company Name:ABM OFFICE SUPPLY CO INC
+Address:766 SPIRIT OF SAINT LOUIS BLVD
+Box:City:CHESTERFIELD
+State:MO
+ZIP:63005
+Country:US
+Phone:800-266-5020
+Contract Num:SP0450-99-M-C359
+CAGE:79775
+Company Name:AUTOMATION AIDS INC (800-234-2790)
+Address:420 BABYLON RD, SUITE B
+Box:UNKNOW
+City:HORSHAM
+State:PA
+ZIP:19044
+Country:US
+Phone:800-817-4448
+CAGE:01QM9
+Company Name:R.F. FAKLER
+Address:RT 2
+Box:218
+City:CONCORDIA
+State:KS
+ZIP:66901-0218
+Country:US
+Phone:913-243-7959
+CAGE:6X546
+Company Name:SHARP ELECTRONICS CORP.
+Address:SHARP PLAZA
+Box:City:MAHWAH
+State:NJ
+ZIP:07430-2135
+Country:US
+Phone:201-529-9223
+CAGE:18520
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ALUMINUM (SARA 313)
+CAS:7429-90-5
+RTECS #:BD0330000
+> Wt:97.
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:15 MG/M3 DUST
+ACGIH TLV:10 MG/M3 DUST; 9596
+
+Ingred Name:BINDER RESIN
+CAS:9011-14-7
+RTECS #:TR0400000
+= Wt:.4
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:PHOTOSENSITIVE MATERIAL
+CAS:73276-70-7
+= Wt:.3
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:PIGMENT
+CAS:84982-68-3
+= Wt:.1
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:THE LDLO VALUE OF THE COATED COMPOUNDS
+    ON THE ALUMINUM SUBSTRATE IN AN ORAL TOXICITY TEST IS OVER 3.571
+    MG/KG. THE RESULT OF AMES TEST IS NEGATIVE.
+Explanation of Carcinogenicity:NONE SPECIFIED BY MANUFACTURER.
+Effects of Overexposure:NONE.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:ENO TREATMENT IS REQUIRED.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:CARBON DIOXIDE, DRY CHEMICAL, FOAM OR WATER.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT. THIS MATERIAL WILL BE SCORCHED IN THE CASE OF
+    FIRE.
+Unusual Fire/Explosion Hazard:THIS MATERIAL HAS NO UNUSUAL FIRE OR
+    EXPLOSION HAZARDS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NO SPECIAL PRECAUTION.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NO SPECIAL STORAGE REQUIREMENTS FOR
+    SAFETY REASONS.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED UNDER NORMAL USE.
+Ventilation:NONE REQUIRED.
+Protective Gloves:NONE REQUIRED UNDER NORMAL USE.
+Eye Protection:NONE REQUIRED UNDER NORMAL USE.
+Other Protective Equipment:NONE REQUIRED UNDER NORMAL USE.
+Work Hygienic Practices:NONE.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Spec Gravity:2.7 (H2O=1)
+Evaporation Rate & Reference:NOT APPLICABLE.
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:GREEN, ODORLESS AND SOLID CYLINDER.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:CARBON DIOXIDE (CO), CARBON MONOXIDE
+    (CO2), OXIDES OF NITROGEN (NOX).
+
+===================  Toxicological Information	===================
+
+Toxicological Information:NONE SPECIFIED BY MANUFACTURER.
+
+=====================  Ecological Information  =====================
+
+Ecological:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:WASTE MATERIAL MAY BE DUMPED OR INCINERATED
+    UNDER CONDITION WHICH MEETS ALL FEDERAL, STATE AND LOCAL
+    ENVIRONMENTAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:NONE SPECIFIED BY MANUFACTURER.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:NONE SPECIFIED BY MANUFACTURER.
+Federal Regulatory Information:NONE SPECIFIED BY MANUFACTURER.
+State Regulatory Information:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

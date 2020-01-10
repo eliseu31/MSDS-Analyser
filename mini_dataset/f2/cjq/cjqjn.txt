@@ -1,0 +1,153 @@
+=====================  Product Identification  =====================
+
+Product ID:S00072 CLEAR OUT
+MSDS Date:05/04/1998
+FSC:NIIN:Submitter:F BT
+Status Code:A
+MSDS Number: CJQJN
+=== Responsible Party ===
+Company Name:STATE CHEMICAL MFG CO
+Address:3100 HAMILTON AVE
+City:CLEVELAND
+State:OH
+ZIP:44114-3701
+Country:US
+Info Phone Num:216-861-7114
+Emergency Phone Num:905-670-4669
+Preparer's Name:BILL HAMMOCK
+CAGE:53798
+=== Contractor Identification ===
+Company Name:STATE CHEMICAL MANUFACTURING CO.
+Address:3100 HAMILTON AVENUE
+Box:City:CLEVELAND
+State:OH
+ZIP:44114-3701
+Country:US
+Phone:216-861-7114
+CAGE:53798
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM HYDROXIDE
+CAS:1310-73-2
+RTECS #:WB4900000
+< Wt:50.
+OSHA PEL:2 MG/M3
+ACGIH STEL:C2 MG/M3
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ALUMINUM
+CAS:7429-90-5
+RTECS #:BD0330000
+< Wt:10.
+OSHA PEL:15 MG/M3
+ACGIH TLV:10 MG/M3
+
+Ingred Name:SODIUM NITRATE
+CAS:7631-99-4
+RTECS #:WC5600000
+< Wt:15.
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Health Hazards Acute and Chronic:EYES: SEVERE IRRITATION/BURNS. CORNEAL
+    DAMAGE & BLINDNESS. SKIN: BURNS & SEVERE IRRITATION. INHALATION:
+    MAY BE HARMFUL/FATAL. SEVERE IRRITATION & BURNS TO THE NOSE, THROAT
+    & RESPIRATORY TRACT. INGESTI ON: HARMFUL/FATAL. SEVERE IRRITATION &
+    BURNS OF THE MOUTH, THROAT & DIGESTIVE TRACT.
+Effects of Overexposure:IRRITATION, BURNS, STINGING, TEARING, REDNESS,
+    SWELLING
+Medical Cond Aggravated by Exposure:PRE-EXISTING LUNG & SKIN DISORDERS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH IMMEDIATELY W/PLENTY OF COOL WATER FOR 15 MINS.
+    SKIN: IMMEDIATELY FLUSH W/PLENTY OF WATER. INHALATION: REMOVE TO
+    FRESH AIR. INGESTION: DON'T INDUCE VOMITING. DRINK LARGE QUANTITIES
+    OF WATE R TO DILUTE THE CAUSTICS. NEVER GIVE ANYTHING BY MOUTH IF
+    UNCONSCIOUS. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE EXTINGUISHING MEDIA APPROPRIATE FOR SURROUNDING
+    FIRE.
+Fire Fighting Procedures:WEAR A SELF CONTAINED BREATHING APPARATUS
+    W/FULL PROTECTIVE CLOTHING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE GOGGLES & GLOVES. SWEEP THE
+    EXCESS POWDER UP & RETURN TO CONTAINER. FLUSH ANY RESIDUES W/PLENTY
+    OF WATER FOLLOW W/A MILD HYDROCHLORIC ACID RINSE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINERS TIGHTLY CLOSED WHEN
+    NOT IN USE. DON'T ALLOW WATER TO GET INTO CONTAINER. WHEN HANDLING,
+    WEAR GOGGLES/FACE SHIELD & A LONG-SLEEVED SHIRT. KEEP OUT OF REACH
+    OF CHILDREN.
+Other Precautions:NEVER USE IN AN ALUMINUM CONTAINER. NEVER MIX W/ANY
+    ACID/ANY OTHER CHEMICALS. READ & FOLLOW ALL LABEL DIRECTIONS &
+    PRECAUTIONS CAREFULLY BEFORE USING THE PRODUCT. THESE PRODUCTS ARE
+    INTENDED FOR INDUS TRIAL & INSTITUTIONAL USE ONLY. NOT FOR
+    HOUSEFOLD USE/RESALE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF WORKPLACE EXPOSURE LIMIT IS EXCEEDED, A
+    NIOSH/MSHA APPROVED AIR SUPPLY RESPIRATOR IS ADVISED IN THE ABSENCE
+    OF ENVIRONMENTAL CONTROL.
+Ventilation:SUFFICIENT MECHANICAL VENTILATION TO MAINTAIN EXPOSURE
+    BELOW TLVS.
+Protective Gloves:CHEMICAL RESISTANT GLOVES
+Eye Protection:CHEMICAL SPLASH GOGGLES/OTHER TYPE OF SAFETY GLASSES.
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING & SHOES
+    BEFORE REUSE. WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+CONTACT LENSES SHOULD NOT BE WORN WHEN WORKING W/THIS PRODUCT.
+
+==================  Physical/Chemical Properties  ==================
+
+Solubility in Water:COMPLETE
+Appearance and Odor:A YELLOW GRANULAR POWDER W/LEMON FRAGRANCE
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACIDS, FLAMMABLE LIQUIDS & HALOGENATED MATERIALS. PLASTICS
+Hazardous Decomposition Products:AMMONIA
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF RESIDUE IN CHEMICAL RECEPTACLE IN A
+    SANITARY LANDFILL. DON'T REUSE EMPTY CONTAINERS. DISPOSE OF IN
+    ACCORDANCE W/LOCAL, STATE & FEDERAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:CANADIAN TDG: SHIPPED IN ACCORDANCE W/49 CFR AS
+    PART OF A TRANSBORDER SHIPMENT AUTHORIZED UNDER SECTION 5.2 OF THE
+    CANADIAN TRANSPORTATION FOR DANGEROUS GOODS ACT.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:EPA SARA 313: THIS PRODUCT CONTAINS THE
+    FOLLOWING TOXIC CHEMICALS SUBJECT TO THE REPORTING REQUIREMENTS OF
+    SECTION 313 OF THE EMERGENCY PLANNING & COMMUNITY RIGHT-TO-KNOW ACT
+    OF 1986 40 CFR 372: ALUMI NUM DUST <10%.
+State Regulatory Information:PROPOSITION 65: THIS PRODUCT CONTAINS
+    TRACE QUANTITIES OF A CHEMICAL KNOWN TO THE STATE OF CALIFORNIA TO
+    BE A CARCINOGEN & A REPRODUCTIVE TOXIN.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

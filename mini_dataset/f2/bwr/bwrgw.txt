@@ -1,0 +1,140 @@
+=====================  Product Identification  =====================
+
+Product ID:MIL-C-22750E B-COMPONENT, F-09P400
+MSDS Date:02/11/1994
+FSC:8010
+NIIN:01-350-2678
+Kit Part:Y
+MSDS Number: BWRGW
+=== Responsible Party ===
+Company Name:SEAGRAVE COATINGS CORP OF VIRGINIA
+Address:4030 SEAGUARD AVE
+City:PORTSMOUTH
+State:VA
+ZIP:23701-2636
+Country:US
+Info Phone Num:804-488-4411
+Emergency Phone Num:804-488-4411
+CAGE:60163
+=== Contractor Identification ===
+Company Name:SHERWIN-WILLIAMS, SEAGUARD
+Address:3560 ELM AVE.
+Box:City:PORTSMOUTH
+State:VA
+ZIP:23704
+Country:US
+Phone:757-397-2223
+CAGE:60163
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:IPA 99% (2-PROPANOL)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: <25%
+Other REC Limits:NONE RECOMMENDED
+ACGIH TLV:400 PPM;STEL 500 PPM
+
+Ingred Name:VOC: 1.97 LB/GAL;  236 GR/LTR
+RTECS #:9999999VO
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Health Hazards Acute and Chronic:BREATHING OF HIGH VAPOR CONCENTRATIONS
+    MAY PRODUCE NARCOSIS.LIQUID MAY CAUSE MINOR SKIN IRRITATN &
+    DEFINITE EYE IRRITATION.CAUSES NOSE & THROAT IRRIT.CAUSES SKIN
+    IRRIT.REPEATED & PROLONGED OVEREXPOSUR E TO SOLVENTS COULD CAUSE
+    PERMANENT BRAIN & NERVOUS SYSTEM DAMAGE.CONCENTRATING & INHALING
+    PRODUCT MAY BE HARMFUL/FATAL.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: REMOVE TO FRESH AIR, RESTORE BREATHING. CONSULT
+    PHYSICIAN. SKIN CONTACT: FLUSH WITH WATER. EYE CONTACT: FLUSH
+    IMMEDIATELY WITH LARGE AMOUNTS OF WATER. CONSULT PHYSICIAN. FIRST
+    AID: IF CONTACT,  IMMEDIATELY FLUSH EYES/SKIN WITH PLENTYOF WATER
+    AT LEAST 15 MIN WHILE REMOVING CONTAMINATED CLOTHING/SHOES. GET
+    IMMED MED AID. WASH CLOTHING BEFORE REUSE. DESTROY SHOES.
+    INGEST:GET MEDICAL AID IMMED.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:63.0F,17.2C
+Lower Limits:2.0
+Upper Limits:12.0
+Extinguishing Media:ALCOHOL, DRY CHEMICAL, WATER FOG
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED GAS MASK FOR FIRE
+    FIGHTING PERSONNEL. WATER MAY BE USED TO COOL CONTAINERS. IF WATER
+    IS USED FOG NOZZLES ARE PREFERRED.
+Unusual Fire/Explosion Hazard:KEEP CNTNRS CLSD.VAPORS MAY MIGRATE TO
+    IGNIT SOURCE,FLASHBACK. KEEP FROM HEAT,SPARKS,ELECTRICAL
+    EQUIPMENT,APPLIANCES,IGNITION SOURCES. FLAMMABLE LIQUID & VAPOR.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:IN CASE OF SPILLAGE ABSORB WITH INERT MATERIAL
+    AND DISPOSE OF IN ACCORDANCE WITH APPLICABLE REGULATIONS OF EPA AND
+    OTHER LOCAL STATE AND FEDERAL AUTHORITIES.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM HEAT, SPARKS, AND OPEN
+    FLAME. AVOID PROLONGED SKIN CONTACT. DO NOT BREATHE SPRAY MIST.
+    GROUND CONTAINERS WHILE POURING.
+Other Precautions:STORE IN COOL DRY AREA WITH VENT FOR STORING MAT'L
+    SUITABLE FOR STORING MATERIALS SHOWN IN INGREDIENTS AVOID
+    SPONTANEOUS COMBUSITON OF CONTAMINATED RAGS/OTHER ORGANIC MATERIAL.
+    EMPTY CONTAINERS MAY RE TAIN HAZARD PROPERTIES,CAN BE DANGEROUS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/OSHA RESPIRATOR FOR MAT'L IN
+    INGREDIENTS.CHEM/MECHANICAL FILTER RECOMMND IF RESTRICTED VENT.
+    DON'T BREATH (DUST,VAPOR,SPRAY MIST). WEAR RESPIRATOR DURING &
+    AFTER APPLICATION UNLESS BELOW TLV/PEL .FOLLOW RESPIRATOR MFR'S
+    DIRECTIONS.
+Ventilation:SUFFICIENT VENTILATION, IN VOLUME & PATTERN TO KEEP AIR
+    CONTAMINATION BELOW PEL/TLV. USE WITH ADEQUATE VENTILATION.
+Protective Gloves:CHEM RESISTANT PLASTIC OR RUBBER.
+Eye Protection:CHEM GOGGLES W/SIDE SHLD OR FACE SHIELD
+Other Protective Equipment:AS REQ'D TO AVOID WETTING CLOTHING. USE
+    PROTECTIVE CREAMS WHERE SKIN CONTACT LIKELY. EYE BATH AND SAFETY
+    SHOWER.
+Work Hygienic Practices:REMOVE & WASH CONTAMINATED CLOTHING BEFORE
+    REUSE. AVOID CONTACT WITH EYES,SKIN,CLOTHING. WASH THOROUGHLY AFTER
+    HANDLING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:180 TO 181F
+Vapor Density:> AIR
+Evaporation Rate & Reference:FASTER THAN ETHER
+Solubility in Water:INSOLUBLE
+Appearance and Odor:LIQUID, ALCOHOL ODOR
+Percent Volatiles by Volume:30.3
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:EXCESSIVE HEAT, SPARKS, OR OPEN FLAME.
+Conditions to Avoid Polymerization:EXCESSIVE HEAT, SPARKS, OR OPEN
+    FLAME.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PLACE IN CLOSED CONTAINERS. DISPOSE OF PRODUCT
+    IN ACCORDANCE WITH LOCAL, STATE, AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

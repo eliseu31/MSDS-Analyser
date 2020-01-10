@@ -1,0 +1,145 @@
+=====================  Product Identification  =====================
+
+Product ID:V2001 EASY STREET PRESS CLEANER
+MSDS Date:08/07/1990
+FSC:6850
+NIIN:01-293-7735
+MSDS Number: BWRMK
+=== Responsible Party ===
+Company Name:VANSON HOLLAND INK CORPORATION OF AMERICA(DISTRIB0
+Address:92 UNION STREET
+City:MINEOLA
+State:NY
+ZIP:11501-3428
+Country:US
+Info Phone Num:516-294-8811
+Emergency Phone Num:516-294-8811 & 800-645-4182
+Preparer's Name:G. LINDQUIST
+CAGE:EO322
+=== Contractor Identification ===
+Company Name:VAN SON HOLLAND INK CORP
+Address:92 UNION STREET
+City:MINEOLA
+State:NY
+ZIP:11501-3428
+Country:US
+Phone:516-294-8811
+CAGE:55269
+Company Name:VANSON HOLLAND INK CORPORATION OF AMERICA(DISTRIB0
+Address:92 UNION STREET
+City:MINEOLA
+State:NY
+ZIP:11501-3428
+Country:US
+Phone:516-294-8811
+CAGE:EO322
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DIETHYL PHTHALATE  (SARA III)
+CAS:84-66-2
+RTECS #:TI1050000
+Fraction by Wt: 40-55%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:OZOKERITE WAX
+CAS:8001-75-0
+Fraction by Wt: 5%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:ROSIN ESTER (GLYCEROL ESTER OF HYDROGENATED ROSIN)
+CAS:65997-13-9
+Fraction by Wt: 40-55%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: UNLIKELY AT AMBIENT
+    TEMPERATURES. EXCESSIVE TEMPERATURE MAY PRODUCE IRRITATION OF EYES,
+    NOSE, THROAT. TOXIC POTENTIAL CONSIDERED EXTREMELY LOW. DLA-HMIS:
+    MAY CAUSE SKIN IRRITATION, ESPECIALLY I N SENSITIVE PERSONS.
+    CHRONIC: NONE SPECIFIED BY MANUFACTURER.
+Explanation of Carcinogenicity:NO INGREDIENT OF A CONCENTRATION OF 0.1%
+    OR GREATER IS LISTED AS A CARCINOGEN OR SUEPECTED CARCINOGEN.
+Effects of Overexposure:EYES: IRRITATION. INHALED: COUGHING, SNEEZING,
+    SORE THROAT.
+Medical Cond Aggravated by Exposure:PRESONS WITH DERMATITIS PROBLEMS
+    SHOULD TAKE PRECAUTIONS AGAINST SKIN CONTACT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALED-REMOVE TO FRESH AIR. SKIN-WASH WITH SOAP AND WATER.
+    EYES-FLUSH WITH WATER FOR 15 MINUTES. INGESTED-NONE SPECIFIED BY
+    MANUFACTURER.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:350F,177C
+Extinguishing Media:WATER FOG, CARBON DIOXIDE, FOAM.
+Fire Fighting Procedures:DLA-HMIS: WEAR SELF-CONTAINED BREATHING
+    APPARATUS AND FULL PROTECTIVE GEAR. COOL FIRE EXPOSED CONTAINERS
+    WITH WATER.
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NO SPECIAL PRECAUTIONS. USE METHODS SIMILAR TO
+    ANY NON-HAZARDOUS MATERIAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:ALTHOUGH NO SPECIAL PRECAUTIONS APPEAR
+    NECESSARY, GOOD INDUSTRIAL PRACTICE AS TO GOOD HOUSEKEEPING &
+    PERSONAL HYGIENE SHOULD BE USED.
+Other Precautions:AVOID PROLONGED AND/OR REPEATED SKIN CONTACT. AVOID
+    EYE CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY REQUIRED.
+Ventilation:NORMAL VENTIALTION.
+Protective Gloves:NONE NORMALLY REQUIRED.
+Eye Protection:SAFETY GLASSES/CHEMICAL SPLASH GOGGLES
+Other Protective Equipment:NONE NORMALLY REQUIRED.
+Work Hygienic Practices:WASH HANDS AFTER HANDLING AND BEFORE EATING,
+    DRINKING, OR SMOKING. LAUNDER CONTAMINATED CLOTHES BEFORE REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V2
+Boiling Pt:=293.3C, 560.F
+Vapor Density:>1
+Spec Gravity:>1
+Evaporation Rate & Reference:<1 (N-BUTYL ACETATE=1)
+Appearance and Odor:VISCOUS AMBER PASTE; RESINOUS ODOR.
+Percent Volatiles by Volume:0.1
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:NONE.
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:SAME AS HEAVY MOTOR OIL OR GREASE. DISPOSE OF IN
+    ACCORDANCE WITH LOCAL, STATE AND FEDERAL ENVIRONMENTAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

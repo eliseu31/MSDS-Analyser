@@ -1,0 +1,161 @@
+=====================  Product Identification  =====================
+
+Product ID:0025-FAST SANDING SEALER-CLEAR-
+MSDS Date:09/15/1992
+FSC:8010
+NIIN:00N056999
+MSDS Number: BWRPB
+=== Responsible Party ===
+Company Name:KYANIZE PAINT
+Address:601 S HAVEN ST
+City:BALTIMORE
+State:MD
+ZIP:21224
+Country:US
+Info Phone Num:410-342-3636
+Emergency Phone Num:410-342-3641
+CAGE:85520
+=== Contractor Identification ===
+Company Name:KYANIZE PAINT
+Address:601 S HAVEN ST
+Box:City:BALTIMORE
+State:MD
+ZIP:21224
+Country:US
+Phone:800-368-2076
+CAGE:85520
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:RULE 66 MINERAL SPIRITS. VP: 3 @ 20C.
+CAS:64741-41-9
+Fraction by Wt: 27.83%
+OSHA PEL:300 PPM
+ACGIH TLV:300 PPM
+
+Ingred Name:SPECIAL NAPHTHOLITE. VP: .90 @ 20C.
+CAS:64475-85-0
+RTECS #:PY8240000
+Fraction by Wt: 38.04%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:CALCIUM CARBONATE
+CAS:1317-65-3
+RTECS #:EV9580000
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST
+
+Ingred Name:CLAYS
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:TALC (POWDER) CONTAINING NO ASBESTOS; (TALC)
+CAS:14807-96-6
+RTECS #:WW2710000
+OSHA PEL:0.2 FIBERS/CC
+ACGIH TLV:0.2 FIBER/CC
+
+Ingred Name:OTHER PIGMENTS
+OSHA PEL:15MG/M3 TDUST;5RDUST
+ACGIH TLV:10 MG/M3 TDUST
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: INHALATION OF HIGH VAPOR
+    CONCENTRATION MAY HAVE RESULTS, RANGING FROM MILD DEPRESSION TO
+    CONVULSIONS AND LOSS OF CONSCIOUSNESS. EYE OR SKIN CONTACT MAY
+    CAUSE DISCOMFORT. CHRONIC: PROLONGED OR R EPEATED EXPOSURE TO HIGH
+    LEVELS MAY CAUSE BRAIN DAMAGE.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE FROM EXPOSURE IMMEDIATELY. CALL PHYSICIAN.
+    IF BREATHING IS IRREGULAR OR STOPPED, START RESUSCITATION,
+    ADMINISTER OXYGEN. SKIN: REMOVE CONTAMINATED CLOTHING. WASH SKIN.
+    EYE: FLUSH WI TH WATER FOR AT LEAST 15 MINUTES/TILL IRRITATION
+    STOPS. INGESTION: CALL PHYSICIAN, DO NOT INDUCE VOMITING OR GIVE
+    ANYTHING BY MOUTH.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:>20F,>-6.6C
+Upper Limits:0.7%
+Extinguishing Media:CARBON DIOXIDE, FOAM, WATER FOG, DRY CHEMICAL. NFPA
+    CLASS B FIRE-BURNING LIQUIDS-USE CLASS B FIRE EXTING/EXTING AGENT.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT . AVOID BREATHING VAPOR OR FUMES.
+Unusual Fire/Explosion Hazard:KEEP CONTAINER TIGHTLY CLOSED. ISOLATE
+    FROM HEAT, ELECTRICAL EQUIPMENT, SPARKS AND OPEN FLAME. CLOSED
+    CONTAINERS MAY EXPLODE WHEN EXPOSED TO EXTREME HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION-FLAME, HOT
+    SURFACES, ELECTRICAL. VENTILATE AREA. CONTAIN & REMOVE WITH INERT
+    ABSORBENT MATERIAL AND NON-SPARKING TOOLS. DO NOT FLUSH WITH WATER,
+    USE SAND OR OTHER INERT  MATERIAL TO DAM/CONTAIN SPILL IN CASE OF
+    LRG RELS.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT STORE ABOVE 110F. DO NOT STORE
+    OR USE NEAR HEAT, SPARKS OR FLAME.
+Other Precautions:STORE LARGE QUANTITY IN COMPLIANCE WITH OSHA 29 CFR
+    1910.101.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED MECHANICAL FILTER
+    RESPIRATOR. HYDROCARBON VAPOR CANISTER.
+Ventilation:EXPLOSION PROOF VENTILATION EQUIPMENT. LOC EXHST-FACE
+    VELOCITY 60 FPM. NO SMOKING/OPEN LIGHTS. USE ONLY WITH ADEQ VENT.
+Protective Gloves:CHEMICAL-RESISTANT GLOVES.
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGG .
+Other Protective Equipment:USE CHEMICAL RESISTANT APRON IF NEEDED.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+PERCENT VOLATILES: 65.87 (WT).
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>250F,>121C
+Vapor Pres:SEE INGS
+Vapor Density:HVR/AIR
+Spec Gravity:.84 
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Appearance and Odor:NONE SPECIFIED BY MANUFACTURER.
+Percent Volatiles by Volume:SUPDAT
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS OR OXIDIZING AGENTS AND SELECTED AMINES.
+Stability Condition to Avoid:STORAGE ABOVE 110F, NEAR HEAT, SPARKS OR
+    FLAME.
+Hazardous Decomposition Products:CARBON MONOXIDE AND/OR CARBON DIOXIDE
+    IN CASES OF INCOMPLETE COMBUSTION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:KEEP PETROLEUM PRODUCTS OUT OF STREAMS &
+    WATERWAYS. DISPOSE IN ACCORDANCE WITH LOCAL, STATE AND FEDERAL
+    REGS. IN CASE OF LARGE SPILL-LICENSED HAZARDOUS WASTE DISPOSAL
+    COMPANY. DO NOT INCINERATE CLOSED  CONTAINERS. IMMEDIATELY IMMERSED
+    IN WATER.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

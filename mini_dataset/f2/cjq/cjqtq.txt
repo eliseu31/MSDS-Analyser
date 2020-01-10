@@ -1,0 +1,266 @@
+=====================  Product Identification  =====================
+
+Product ID:BRAKLEEN BRAKE PARTS CLEANER-NON-CHLORINATED,85088
+MSDS Date:07/26/1999
+FSC:6850
+NIIN:01-167-0678
+MSDS Number: CJQTQ
+=== Responsible Party ===
+Company Name:CRC INDUSTRIES,INC.
+Address:885 LOUIS DR.
+City:WARMINSTER
+State:PA
+ZIP:18974
+Country:US
+Info Phone Num:215-674-4300
+Emergency Phone Num:215-674-4300
+Preparer's Name:ADAM M. SELISKER
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:023V4
+=== Contractor Identification ===
+Company Name:ABSCOA INDUSTRIES INC
+Address:2000 ROBOTICS PL
+Box:185369
+City:FORT WORTH
+State:TX
+ZIP:76118-7129
+Country:US
+Phone:817-284-4449
+Contract Num:SP0450-99-M-C950
+CAGE:2N335
+Company Name:CRC INDUSTRIES, INC.
+Address:885 LOUIS DRIVE
+Box:City:WARMINSTER
+State:PA
+ZIP:18974-2869
+Country:US
+Phone:215-674-4300/ 800-521-3168
+CAGE:023V4
+Company Name:GENERAL TOOL & SUPPLY CO.
+Address:5614 7TH AVENUE SOUTH
+Box:80904
+City:SEATTLE
+State:WA
+ZIP:98108-3317
+Country:US
+Phone:206-762-1500
+Contract Num:SP0450-00-M-D966
+CAGE:3Z323
+Company Name:NETEX INDUSTRIES(FORMER NORTHEAST TEXAS IND)
+Address:1700 NORTH EDWARDS STREET
+Box:City:MOUNT PLEASANT
+State:TX
+ZIP:75455
+Country:US
+Phone:903-577-0388
+Contract Num:SP0450-00-M-D609
+CAGE:0WAG0
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TOLUENE (SARA 313) (CERCLA)
+CAS:108-88-3
+RTECS #:XS5250000
+Minumum % Wt:0.
+Maxumum % Wt:60.
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:200 PPM; Z-2
+ACGIH TLV:S, 50 PPM
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:METHANOL (SARA 313) (CERCLA)
+CAS:67-56-1
+RTECS #:PC1400000
+Minumum % Wt:30.
+Maxumum % Wt:40.
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:200 PPM
+ACGIH TLV:200PPM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ACETONE (SARA 313) (CERCLA)
+CAS:67-64-1
+RTECS #:AL3150000
+Minumum % Wt:0.
+Maxumum % Wt:35.
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:1000 PPM
+ACGIH TLV:750PPM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:XYLENE
+CAS:1330-20-7
+RTECS #:ZE2100000
+Minumum % Wt:0.
+Maxumum % Wt:60.
+OSHA PEL:100 PPM
+ACGIH TLV:434 MG/M3;100 PPM
+ACGIH STEL:651 MG/M3;150 PPM
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:HEPTANE
+CAS:142-82-5
+RTECS #:MI7700000
+Minumum % Wt:0.
+Maxumum % Wt:35.
+OSHA PEL:2000 MG/M3;500 PPM
+ACGIH TLV:1640 MG/M3;400 PPM
+ACGIH STEL:2050 MG/M3;500 PPM
+
+Ingred Name:N-HEXANE
+CAS:110-54-3
+RTECS #:MN9275000
+Minumum % Wt:0.
+Maxumum % Wt:35.
+OSHA PEL:1800 MG/M3;500 PPM
+ACGIH TLV:50 PPM
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:CARBON DIOXIDE
+CAS:124-38-9
+RTECS #:FF6400000
+< Wt:10.
+OSHA PEL:9000 MG/M3;5000 PPM
+ACGIH TLV:9000 MG/M3;5000 PPM
+ACGIH STEL:54000 MG/M3
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL (RAT) IS UNKNOWN.
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:POTENTIAL HEALTH EFFECTS: INHALATION:
+    DIZZINESS, BREATHING DIFFICULTIES, ANESTHETIC EFFECTS, NAUSEA, AND 
+    IRRITATION TO RESPIRATORY TRACT. EYES:  IRRITATION. SKIN: 
+    IRRITATION, DEFATTING. INGESTION: N /A. CHRONIC OVEREXPOSURE:
+    CONTACT DERMATITIS. MAY CAUSE NERVOUS SYSTEM DAMAGE.
+Explanation of Carcinogenicity:NONE SPECIFIED BY MANUFACTURER.
+Effects of Overexposure:DIZZINESS, BREATHING DIFFICULTIES, ANESTHETIC
+    EFFECTS, NAUSEA, RESPIRATORY TRACT IRRITATION, EYE IRRITATION, SKIN
+    IRRITATION, DEFATTING, NERVOUS SYSTEM DAMAGE.
+Medical Cond Aggravated by Exposure:BREATHING PROBLEMS
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR.  GIVE ARITIFICIAL
+    RESPIRATION IF NECESSARY.  EYES: FLUSH WITH LARGE AMOUNTS OF WATER
+    FOR 15 MINUTES.  SKIN: REMOVE CONTAMINATED CLOTHING AND WASH AREA
+    WITH SOAP AND WA TER.  INGESTION: CALL A PHYSICIAN.  DO NOT INDUCE
+    VOMITING.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:<-17.6C, 0.F
+Lower Limits:1.0
+Upper Limits:13.0
+Extinguishing Media:CO2, FOAM, AND FOG.
+Fire Fighting Procedures:REMOVE CONTAINERS FROM FIRE AREA IF POSSIBLE. 
+    USE SELF-CONTAINED BREATHING APPARATUS FOR FIRE FIGHTING.  AEROSOL
+    CANS MAY EXPLODE IF HEATED ABOVE 120F.
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USUALLY NOT A PROBLEM WITH AEROSOLS. AREA
+    SHOULD BE VENTILATED. ABSORBENT SHOULD BE USED TO PICK UP EXCESS
+    MATERIAL. ALL USED AND UNUSED PRODUCT SHOULD BE DISPOSED OF IN
+    ACCORDANCE WITH FEDERAL, STATE , AND LOCAL REGULATIONS.
+Neutralizing Agent:NONE SPECIFIED BY MNAUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY AREA. AEROSOL
+    CANS MUST BE MAINTAINED BELOW 120F TO PREVENT CANS FROM EXPLODING.
+Other Precautions:EMERGENCY OVERVIEW: DANGER. EXTREMELY FLAMMABLE.
+    VAPOR HARMFUL OR FATAL IF SWALLOWED. MAY BE FATAL OR CAUSE
+    BLINDNESS IF SWALLOWED. EYE & SKIN IRRITANT. CONTENTS UNDER
+    PRESSURE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA COMPLIANT RESPIRATORS OR
+    SELF-CONTAINED BREATHING APPARATUS ABOVE EXPOSURE LIMITS. FOLLOW
+    OSHA REGULATIONS 29 CFR 1910.134.
+Ventilation:USE MECHANICAL MEANS IF NECESSARY TO MAINTIAN LEVELS BELOW
+    THE EXPOSURE LIMITS. FOLLOW APPLICABLE OSHA REGULATIONS IN CONFINED
+    SPACES.
+Protective Gloves:WEAR CHEMICALLY PROTECTIVE GLOVES.
+Eye Protection:SAFETY GLASSES.
+Other Protective Equipment:USE A SPLASH APRON AND BOOTS IF SPLASHING
+    OCCURS.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+P/N: 05088. ENGINEERING CONTROLS: ADEQUATE TO PREVENT ACCUMULATION OF
+    VAPORS. IF WORKING IN A CONFINED SPACE, FOLLOW APPLICABLE OSHA
+    REGULATIONS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V1
+Boiling Pt:=55.C, 131.F
+B.P. Text:INITIAL
+Melt/Freeze Pt:M.P/F.P Text:N/D
+Vapor Pres:N/D
+Vapor Density:N/D
+Volatile Org Content %:70
+Spec Gravity:0.765 - 0.835
+Evaporation Rate & Reference:FAST
+Solubility in Water:PARTIALLY SOLUBLE
+Appearance and Odor:CLEAR, WATER WHITE LIQUID.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS AND SOURCES OF IGNITION.
+Stability Condition to Avoid:SOURCES OF IGNITION.
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:LONG-TERM TOXICOLOGICAL STUDIES HAVE NOT BEEN
+    CONDUCTED FOR THIS PRODUCT.
+
+=====================  Ecological Information  =====================
+
+Ecological:ECOTOXICITY: NO DATA AVAILABLE. ENVIRONMENTAL FATE: NO DATA
+    AVAILABLE  FOR BIODEGRADATION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:THIS MATERIAL IF DISCARDED MAY BE HAZARDOUS
+    WASTE UNDER U.S. EPA RCRA REGULATIONS. ALL DISPOSAL ACTIVITIES MUST
+    COMPLY WITH FEDERAL, STATE, AND LOCAL REGULATIONS. CONTACT YOUR
+    LOCAL OR STATE ENVIRONME NTAL AGENCY FOR SPECIFIC RULES. DO NOT
+    DUMP INTO SEWERS, ON THE GROUND OR INTO ANY BODY OF WATER.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:SHIPPING NAME: CONSUMER COMMODITY. HAZARD CLASS:
+    ORM D.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:SECTION 311/312: ACUTE, PRESSURE. SECTION
+    313: TOLUENE, METHANOL, XYLENE AND N-HEXANE.
+Federal Regulatory Information:TSCA: ALL COMPONENTS ARE EITHER LISTED
+    UNDER TSCA OR ARE EXEMPT. CERCLA/SUPERFUND(RQ): MIXTURE. EXTREMELY
+    HAZARDOUS SUBSTANCE: NO.
+State Regulatory Information:CALIFORNIA PROPOSITION 65: THIS PRODUCT
+    CONTAINS CHEMICALS KNOWN TO THE STATE OF CALIFORNIA TO CAUSE
+    CANCER, BIRTH DEFECT AND OTHER REPRODUCTIVE HARM.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

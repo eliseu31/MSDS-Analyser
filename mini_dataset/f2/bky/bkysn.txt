@@ -1,0 +1,109 @@
+=====================  Product Identification  =====================
+
+Product ID:10% FERRIC CHLORIDE
+MSDS Date:12/20/1985
+FSC:6550
+NIIN:01-153-6988
+MSDS Number: BKYSN
+=== Responsible Party ===
+Company Name:API ANALYTAB PRODUCTS DIV SHERWOOD MEDICAL
+Address:200 EXPRESS STREET
+City:PLAINVIEW
+State:NY
+ZIP:11803
+Country:US
+Info Phone Num:800-645-7034
+Emergency Phone Num:800-645-7034
+Preparer's Name:S. TUDY
+CAGE:1R956
+=== Contractor Identification ===
+Company Name:API ANALYTAB PRODUCTS DIV SHERWOOD MEDICAL
+Address:200 EXPRESS STREET
+Box:City:PLAINVIEW
+State:NY
+ZIP:11803
+Country:US
+Phone:800-645-7034
+CAGE:1R956
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:FERRIC CHLORIDE (SARA III)
+CAS:7705-08-0
+RTECS #:LJ9100000
+Fraction by Wt: 10%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:1 MG FE/M3
+ACGIH TLV:1 MG FE/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:WATER, H2O
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 75%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN/EYES: IRRITATION AND CORROSION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN/EYES: IRRITATION AND CORROSION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN/EYES: FLUSH WITH WATER FOR AT LEAST 15 MINUTES. OBTAIN
+    MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:DRY CHEMICAL, CARBON DIOXIDE, WATER, OR FOAM.
+Unusual Fire/Explosion Hazard:CORROSIVE LIQUID.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB ON VERMICULITE. SCOOP UP AND PLACE IN A
+    SUITABLE CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AT ROOM TEMPERATURE 59F - 86F.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AS REQUIRED
+Ventilation:AS REQUIRED
+Protective Gloves:RECOMMENDED
+Eye Protection:RECOMMENDED
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C3
+Vapor Pres:14
+Vapor Density:0.7
+Spec Gravity:1.32
+Evaporation Rate & Reference:> 1 (ETHER = 1)
+Solubility in Water:COMPLETE
+Appearance and Odor:YELLOWISH-ORANGE LIQUID.
+Percent Volatiles by Volume:65%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:TEMPERATURES < 59F OR > 86F.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH ALL APPLICABLE
+    LOCAL, STATE, AND FEDERAL REGULATIONS. CORROSIVE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,126 @@
+=====================  Product Identification  =====================
+
+Product ID:FIVE STAR SAE 50
+MSDS Date:11/01/1985
+FSC:9150
+NIIN:00-188-9867
+MSDS Number: BDHQC
+=== Responsible Party ===
+Company Name:DELTA PETROLEUM CO.,INC.
+Address:3011 LAUSAT ST.
+City:METAIRIE
+State:LA
+ZIP:70001
+Info Phone Num:504-833-2861
+Emergency Phone Num:504-833-2861
+Preparer's Name:L.R. SWOAP,TECH DIRECTOR
+CAGE:7A348
+=== Contractor Identification ===
+Company Name:DELTA PETROLEUM CO., INC
+Address:10352 RIVER ROAD,
+Box:10397
+City:ST. ROSE
+State:LA
+ZIP:70087
+Country:US
+Phone:504-832-2732
+CAGE:7A348
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PETROLEUM OIL
+Fraction by Wt: >85%
+Other REC Limits:5MG/M*3 (OIL MIST)
+ACGIH TLV:5MG/CUM(MIST)
+
+Ingred Name:ADDITIVE PACAKGE CONTAINING: ZINC,SULFUR,CALCIUM,PHOSPHORUS
+    & MAGNESIUM
+Fraction by Wt: 5-10%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 ORAL RAT>5G/KG
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SEE SIGNS AND SYMPTOMS OF
+    OVEREXPOSURE.
+Explanation of Carcinogenicity:USED MOTOR OILS HAVE CAUSED SKIN CANCER
+    IN LAB ANIMALS WHEN REPEATEDLY APPLIED & LEFT IN PLACE BETWEEN
+    APPLICATIONS.
+Effects of Overexposure:NONE EXPECTED OTHER THAN POSSIBLE MINIMAL
+    IRRITATION.
+Medical Cond Aggravated by Exposure:NONE NOTED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SHOULD EYE CONTACT OCCUR,FLUSH WITH PLENTY OF WATER;SKIN
+    CONTACT:WASH W.SOAP & WATER,OIL SOAKED CLOTH SHOULD BE CLEANED
+    BEFORE REUSE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:450F(232C)
+Extinguishing Media:WTR SPRAY,DRY CHEM,FOAM,CO*2-WTR,FOAM MAY CAUSE
+    FROTHING.
+Fire Fighting Procedures:USE WTR TO COOL FIRE EXPOSED CONTAINERS.
+Unusual Fire/Explosion Hazard:IF LEAK HAS NOT IGN,USE WTR SPRAY TO
+    DISPERSE THE VAPORS AND TO PROVIDE PROTECTION FOR PERSONS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE IGNITION SOURCES,VENTILATE AREA
+    WELL.ABSORB WITH VERMICULITE OR OTHER MATERIALS, SUCH AS
+    SAWDUST,RAGS,PAPER & PLACE IN CLOSED CONTAINER. USE NON SPARKING
+    TOOLS. WEAR PROPER PROTECTIVE EQUIPMENT  DURING CLEAN UP.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:MINIMUM FEASIBLE HANDLING TEMPS.SHOULD
+    BE MAINTAINED.PERIODS OF EXPOSURE TO HIGH TEMPS SHOULD BE
+    MINIMIZED.WATER CONTAMINATION SHOULD BE AVOIDED.
+Other Precautions:PRODUCT HAS BEEN EVALUATED FOR RCRA CHARACTERISTICS
+    AND DOES NOT MEET CRITERIA OF A HAZARDOUS WASTE IF DISCARDED IN ITS
+    PURCHASED FORM.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED IF EXPOSURES ARE BELOW TLV OF
+    5MG/M*3 FOR MINERAL OIL MIST.
+Ventilation:NO SPECIAL REQUIREMENTS W ADEQUATE VENT.
+Protective Gloves:TYPE AS REQD
+Eye Protection:CHEMICAL TYPE GOGGLES,FACE SHIELD,OPTNL.
+Other Protective Equipment:NORMAL WORK CLOTHING COVERING ARMS & LEGS.
+Work Hygienic Practices:CLEAN EXPOSED SKIN AREAS SEVERAL TIMES DAILY
+    WITH SOAP & WATER. LAUNDER SOILED WORK CLOTHING AT LEAST WEEKLY.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Spec Gravity:0.9007
+Viscosity:18 CST @ 212F
+Appearance and Odor:BRIGHT & CLEAR OILY LIQUID
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE NOTED.
+Stability Condition to Avoid:HEAT,SPARKS,OPEN FLAMES.
+Hazardous Decomposition
+    Products:CO,CO*2,ALDEHYDES,KETONES,COMBUST.PROD.OF NITROGEN,SULFUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:KEEP IN COVERED DRUMS,PENDING DISPOSAL. HANDLE &
+    DISPOSE IN FULL COMPLIANCE WITH ALL APPLICABLE
+    INTERNATIONAL,FEDERAL,STATE, & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

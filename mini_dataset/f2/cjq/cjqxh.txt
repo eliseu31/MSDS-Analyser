@@ -1,0 +1,147 @@
+=====================  Product Identification  =====================
+
+Product ID:PHOTOCONDUCTOR S051011 IMAGING CARTRIDGE
+MSDS Date:03/04/1993
+FSC:6850
+NIIN:01-411-2477
+Status Code:A
+MSDS Number: CJQXH
+=== Responsible Party ===
+Company Name:MINOLTA CO LTD
+Address:3-13 2-CHOME AREA AZUCHI-MACHI CHUO-KU
+City:OSAKA, JAPAN 541
+Info Phone Num:06-271-2251
+Emergency Phone Num:201-825-4000 OR IN JAPAN#06-2712251
+CAGE:SC024
+=== Contractor Identification ===
+Company Name:BJC SALES INC CO
+Address:3835 R E THOUSAND OAKS BLVD STE 164
+Box:City:THOUSAND OAKS
+State:CA
+ZIP:91362
+Country:US
+Phone:888-811-2601
+Contract Num:SP0450-99-M-C730
+CAGE:1CXD3
+Company Name:MINOLTA CO LTD
+Address:3-13 2-CHOME AREA AZUCHI-MACHI CHUO-KU
+Box:City:OSAKA, JAPAN 541
+Phone:06-271-2251
+CAGE:SC024
+Company Name:MINOLTA CORPORATION
+Address:101 WILLIAMS DRIVE
+Box:City:RAMSEY
+State:NJ
+ZIP:07446
+Country:US
+Phone:201-825-4000
+CAGE:23736
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ALUMINUM DRUM
+> Wt:97.
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:BINDER RESIN
+< Wt:1.
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:PHOTOSENSITIVE MATERIAL
+< Wt:1.
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:PIGMENT
+< Wt:1.
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 ORAL RAT: 5 GM/KG
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MINIMAL RESPIRATORY TRACT IRRITATION
+    MAY OCCUR AS WITH EXPOSURE TO LARGE AMOUNTS OF ANY NON-TOXIC DUST.
+Explanation of Carcinogenicity:NOT LISTED BY NTP, IARC, AND OSHA.
+Effects of Overexposure:NONE
+Medical Cond Aggravated by Exposure:NONE
+
+=======================  First Aid Measures  =======================
+
+First Aid:NO TREATMENT IS REQUIRED.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER, FOAM, DRY CHEMICAL.
+Fire Fighting Procedures:AVOID INHALATION OF SMOKE.
+Unusual Fire/Explosion Hazard:IF DISPERSED IN AIR, TONER, LIKE MOST
+    FINELY DIVIDED ORGANIC POWDERS, MAY FORM AN EXPLOSIVE MIXTURE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:IF SPILLED, SWEEP UP OR VACUUM.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NONE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED WHEN USED AS INTENDED IN MINOLTA
+    EQUIPMENT.
+Protective Gloves:NONE REQUIRED WHEN USED AS INTENDED IN MINOLTA
+    EQUIPMENT.
+Eye Protection:NONE REQUIRED WHEN USED AS INTENDED IN MINOLTA
+    EQUIPMENT.
+Work Hygienic Practices:NONE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Spec Gravity:1.2
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:BLACK POWDER, FAINT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:PRODUCTS OF COMBUSTION ARE TOXIC.
+    AVOID BREATHING OF SMOKE.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:TONER PRESENTS A LOW HAZARD FOR USUAL
+    OCCUPATIONAL SETTINGS. BASED ON AVAILABLE DATA, HUMAN EXPOSURE TO
+    TONER HAS BEEN SHOWN TO CAUSE MINIMAL RESPIRATORY TRACT IRRITATION
+    AS MAY OCCUR WITH LARGE AMOUN TS OF ANY NON-TOXIC DUSTS. THE
+    RESULTS OF ONE ANIMAL STUDY WHERE RATS INHALED TONER THAT WAS TEN
+    TIMES MORE RESPIRABLE THAN COMMERCIALLY AVAILABLE TONER WERE
+    OBSERVED TO HAVE NO LUNG CHANGES AT LOW EX POSURES (THE MOST
+    RELEVANT LEVEL TO POTENTIAL HUMAN EXPOSURES). AT HIGHER LEVELS A
+    SLIGHT DEGREE OF LUNG FIBROSIS WAS OBSERVED DUE TO EXCESSIVE
+    AMOUNTS OF DUST RETAINED IN LUNGS FOR A PROLONGED INTERV AL.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:WASTE MAY BE DISPOSED OR INCINERATED UNDER
+    CONDITIONS WHICH MEET ALL FEDERAL, STATE , AND LOCAL ENVIRONMENTAL
+    REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:DOT SHIPPING NAME: NOT REGULATED.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

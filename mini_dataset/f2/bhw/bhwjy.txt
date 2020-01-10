@@ -1,0 +1,165 @@
+=====================  Product Identification  =====================
+
+Product ID:PLASTI DIP
+MSDS Date:06/01/1989
+FSC:5970
+NIIN:01-038-0593
+MSDS Number: BHWJY
+=== Responsible Party ===
+Company Name:P D I INC
+Address:3760 FLOWEFIELD RD
+City:BLAINE
+State:MN
+ZIP:55434
+Country:US
+Info Phone Num:612-785-2158, FAX 612-785-2058
+Emergency Phone Num:612-785-2158
+Preparer's Name:CHARLES NELSON
+CAGE:55638
+=== Contractor Identification ===
+Company Name:P D I INC
+Address:3760 FLOWEFIELD RD
+Box:City:CIRCLE PINES
+State:MN
+ZIP:55014
+Country:US
+Phone:612-785-2156
+CAGE:55638
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL CHLOROFORM (1,1,1-TRICHLOROEHANE)  (SARA III)
+CAS:71-55-6
+RTECS #:KJ2975000
+Fraction by Wt: 22-24%
+OSHA PEL:350 PPM/450 STEL
+ACGIH TLV:350 PPM/450STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+Ozone Depleting Chemical:1
+
+Ingred Name:HYDROTREATED HEAVY NAPHTHA
+CAS:64742-48-9
+Fraction by Wt: 24-26%
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 12-14%
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:N-HEPTANE
+CAS:142-82-5
+RTECS #:MI7700000
+Fraction by Wt: 11-13%
+OSHA PEL:500 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9293
+
+Ingred Name:RESINS
+Fraction by Wt: 27.0%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: MAY CAUSE EYE & SKIN
+    IRRITATION. MAY CAUSE RESPIRATORY TRACT IRRITATION. CENTRAL NERVOUS
+    SYSTEM DEPRESSANT. LOSS OF CONSCIOUSNESS AND EVEN DEATH CAN OCCUR
+    AT HIGH LEVELS OF EXPOSURE.CNS,CVS,PNS ,LIVER,KIDNEY,LUNGS EFFECTS
+    ON LONG TERMBASIS.
+Explanation of Carcinogenicity:DATA PER MSDS
+Effects of Overexposure:SEE HEALTH HAZARDS DATA
+Medical Cond Aggravated by Exposure:PRE-EXISTING CONDITIONS MAY BE
+    WORSEN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. IF NOT BREATHING, GIVE CPR.
+    IF BREATHING IS DIFFICULT, GIVE OXYGEN. CALL A PHYSICIAN. EYE:
+    FLUSH IMMEDIATELY WITH LARGE AMOUNTS OF WATER FOR 15 MINUTES. GET
+    MEDICAL AT TENTION. SKIN: REMOVE CONTAMINATED CLOTHING. WASH WITH
+    SOAP AND WATER PROMPTLY. INGESTION: DO NOT INDUCE VOMITING. GIVE
+    MILK OR USP MINERAL OIL. GET IMMEDIATE MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:24.0F,-4.4C
+Lower Limits:1.1
+Upper Limits:10.5
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SMALL SPILL: WIPE UP WITH RAGS OR TOWELS.
+    LARGE SPILLS: WEAR NIOSH APPROVED RESPIRATOR. VENTILATE AREA. DIKE
+    TO RETAIN FLUID. PUMP UP FREE LIQUID. RESIDUE WILL EVAPORATE
+    QUICKLY. DO NOT FLUSH TO SEWER  OR WATERWAY.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL-VENTILATED
+    LOCATION, AWAY FROM ANY AREA WHERE THE FIRE HAZARD MAY BE ACUTE.
+    KEEP CONTAINERS CLOSED WHEN NOT IN USE.
+Other Precautions:READ AND FOLLOW DIRECTIONS ON LABEL. DO NOT REUSE
+    CONTAINERS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IN HIGH VAPOR AREA, USE NIOSH/MSHA APPROVED
+    RESPIRATOR WITH ORGANIC VAPOR CARTRIDGE. USE SELF-CONTAINED
+    BREATHING APPARATUS IF VAPOR LEVELS EXCEED 1000 PPM.
+Ventilation:GEMERAL OR LOCAL EXHAUST RECOMMENDED TO CONTROL VAPORS
+    BELOW 50% OF TLV.
+Protective Gloves:NEOPRENE, PVA GLOVES RECOMMENDED.
+Eye Protection:USE CHEMICAL SAFETY GOGGLES.
+Other Protective Equipment:APRON AND WORK CLOTHING TO MINIMIZE
+    EXPOSURE. EYE WASH STATION & SAFETY SHOWER RECOMMENDED.
+Work Hygienic Practices:WASH THOROUGHLY AFTER USE AND BEFORE EATING,
+    SMOKING OR USING TOILET FACILITIES. DO NOT BREATH VAPORS OR MIST.
+Supplemental Safety and Health
+TARGET ORGANS ARE SKIN, CNS, CVS,LUNGS,PNS AND EYES.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:B.P. Text:16.0F,-8.9C
+Vapor Pres:55
+Vapor Density:4.6
+Spec Gravity:0.92-0.94
+Evaporation Rate & Reference:4.5 (N-BUTYL ACETARE=1)
+Solubility in Water:INSOLUBLE
+Appearance and Odor:VARIOUS COLORS, HONEY LIKE SUBSTANCE-CHARACTERISTIC
+    ODOR
+Percent Volatiles by Volume:80-81
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HIGH TEMPERATURES, SPARKS, AND OPEN FLAMES
+Hazardous Decomposition Products:CO AND/OR C0*2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISOPSE OF I/A/W FEDERAL, STATE & LOCAL
+    REGULATIONS
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

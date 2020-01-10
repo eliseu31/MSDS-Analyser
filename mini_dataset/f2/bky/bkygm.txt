@@ -1,0 +1,147 @@
+=====================  Product Identification  =====================
+
+Product ID:5-9070 METHANOL 4X4L
+MSDS Date:05/01/1989
+FSC:6810
+NIIN:00-098-0149
+MSDS Number: BKYGM
+=== Responsible Party ===
+Company Name:J T BAKER INC
+Address:222 RED SCHOOL LANE
+City:PHILLIPSBURG
+State:NJ
+ZIP:08865
+Info Phone Num:(800) 582-2537
+Emergency Phone Num:(908) 859-2151
+Resp. Party Other MSDS Num.:LABCO SCIENTIFIC DIV OK 73104
+CAGE:DO803
+=== Contractor Identification ===
+Company Name:J T BAKER INC
+Address:222 RED SCHOOL LANE
+City:PHILLIPSBURG
+State:NJ
+ZIP:08865
+Country:US
+Phone:1-800-582-2537
+CAGE:DO803
+Company Name:LABCO SCIENTIFIC DIV OKLAHOMA CITY OK
+CAGE:1A109
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL ALCOHOL (METHANOL)  (SARA III)
+CAS:67-56-1
+RTECS #:PC1400000
+Fraction by Wt: 90-100%
+Other REC Limits:200 PPM
+OSHA PEL:S,200PPM/250STEL
+ACGIH TLV:S,200PPM/250STEL; 93
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): 5628 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION:
+    HARMFUL/HEADACHE/NAUSEA/VOMITING/DIZZINESS/NARCOSIS/RESPIRATORY
+    FAILURE/LOW BLOOD PRESSURE/CNS DEPRESSION/FATAL. SKIN:
+    IRRITATION/DERMATITIS. EYE: IRRITATION/CORNEAL DAMAGE. INGESTION:
+    HAR
+    MFUL/BLINDNESS/HEADACHE/NAUSEA/VOMITING/DIZZINESS/GASTROINTESTINAL
+    IRRITATION/CNS DEPRESSION/HEARING LOSS/FATAL.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: KIDNEY/LIVER DAMAGE. SKIN:
+    IRRITATION & DERMATITIS. EYES: IRRITATION & CORNEAL DAMAGE.
+    INGESTION: HARMFUL, BLINDNESS, HEADACHE, NAUSEA, VOMITING,
+    DIZZINESS, GASTROINTESTINAL IRRITATION, CN S DEPRESSION, HEARING
+    LOSS, & FATAL. POISON, CANNOT BE MADE NON-POISONOUS.
+Medical Cond Aggravated by Exposure:EYE, SKIN, LIVER OR KIDNEY
+    DISORDERS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION: IF CONSCIOUS, DRINK PLENTY OF WATER. INDUCE
+    VOMITING. INHALATION: REMOVE TO FRESH AIR. GIVE CPR OR OXYGEN IF
+    NEEDED. SKIN/EYES: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINS.
+    OBTAIN MEDICAL  ATTENTION IN ALL CASES. POISON, CANNOT BE MADE
+    NON-POISONOUS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:54F
+Lower Limits:6%
+Upper Limits:36%
+Extinguishing Media:ALCOHOL FOAM, DRY CHEMICAL, OR CO2. WATER MAY BE
+    INEFFECTIVE. USE WATER SPRAY TO REDUCE VAPORS.
+Fire Fighting Procedures:WEAR PROTECTIVE EQUIP & SCBA W/FULL FACEPIECE
+    OPERATED IN POSITIVE PRESSURE MODE. SAFELY, MOVE CONTAINERS. USE
+    WATER TO KEEP FIRE EXPOSED CONTAINERS COOL.
+Unusual Fire/Explosion Hazard:VAPORS MAY FLOW TO IGNITION
+    SOURCES/FLASHBACK. CLOSED CONTAINERS EXPOSED TO HEAT MAY EXPLODE.
+    BURNS W/CLEAR, ALMOST INVISIBLE FLAME. AUTO-IGNITION TEMP: 867F.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE EQUIP. SHUT OFF IGNITION
+    SOURCES. SAFELY, STOP LEAK. USE WATER SPRAY TO REDUCE VAPORS. TAKE
+    UP W/SAND OR OTHER NON-COMBUSTIBLE ABSORBENT MATERIAL & PLACE INTO
+    CONTAINER FOR LATER DISPO SAL. FLUSH AREA W/WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER TIGHTLY CLOSED. STORE
+    IN A COOL, DRY, WELL-VENTILATED, FLAMMABLE LIQUID STORAGE AREA.
+    BOND/GROUND CONTAINERS WHEN TRANSFERRING LIQUID.
+Other Precautions:AVOID CONTACT W/EYES, SKIN, CLOTHING, & BREATHING
+    VAPORS. KEEP OUT OF REACH OF CHILDREN. DON'T SMOKE. CONTACT
+    W/STRONG OXIDIZERS MAY CAUSE FIRE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AT CONCENTRATIONS >200 PPM, USE A SELF-CONTAINED
+    BREATHING APPARATUS.
+Ventilation:PROVIDE GENERAL/LOCAL EXHAUST VENTILATION TO KEEP <TLV.
+Protective Gloves:RUBBER
+Eye Protection:SAFETY GOGGLES, FACE SHIELD
+Other Protective Equipment:UNIFORM, PROTECTIVE SUIT
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:149F
+Melt/Freeze Pt:M.P/F.P Text:-144F
+Vapor Pres:96
+Vapor Density:1.11
+Spec Gravity:0.79
+Evaporation Rate & Reference:(BU AC = 1 ): 4.6
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR, COLORLESS LIQUID W/PUNGENT ODOR.
+Percent Volatiles by Volume:100%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, ACIDS, ZINC, ALUMINUM, & MAGNESIUM.
+Stability Condition to Avoid:HEAT, FLAME, FLARES, SMOKING OR OTHER
+    SOURCES OF IGNITION.
+Hazardous Decomposition Products:CO, CO2, & FORMALDEHYDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. EPA HAZARDOUS WASTE NUMBER: U154. FLAMMABLE
+    LIQUID. UN1230.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

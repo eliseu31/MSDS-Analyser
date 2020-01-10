@@ -1,0 +1,154 @@
+=====================  Product Identification  =====================
+
+Product ID:EA 934 NA PART A
+MSDS Date:09/29/1989
+FSC:8040
+NIIN:00-016-8662
+Kit Part:Y
+MSDS Number: BLMYB
+=== Responsible Party ===
+Company Name:DIAL CORP THE
+Address:1865 DIAL TOWER
+Box:312
+City:PHOENIX
+State:AZ
+ZIP:85077-1865
+Country:US
+Info Phone Num:602-991-3000
+Emergency Phone Num:602-991-3000
+Preparer's Name:SUZANNE FRANZ
+CAGE:0EK45
+=== Contractor Identification ===
+Company Name:DEXTER CORPORATION ADHESIVE & COATING SYSTEMS
+Address:2850 WILLOW PASS ROAD
+Box:312
+City:BAY POINT
+State:CA
+ZIP:94565-3299
+Country:US
+Phone:202-483-7616
+CAGE:33564
+Company Name:DIAL CORP THE
+Address:111 W CLARENDON AVE
+Box:3223
+City:PHOENIX
+State:AZ
+ZIP:85077
+Country:US
+Phone:602-991-3000
+CAGE:0EK45
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:EPOXY RESIN SYSTEM
+
+Ingred Name:SILICA
+CAS:112945-52-5
+RTECS #:VV7310000
+Fraction by Wt: <15%
+OSHA PEL:20 MPPCF
+ACGIH TLV:0.1 MG/M3
+
+Ingred Name:ALUMINUM  (SARA III)
+CAS:7429-90-5
+RTECS #:BD0330000
+Fraction by Wt: <30%
+OSHA PEL:15MG/M3 DUST/5 FUME
+ACGIH TLV:10MG/M3 DUST; 9192
+
+Ingred Name:4-GLYCIDYLOXY-N,N-DIGLYCIDYLANILINE
+CAS:5026-74-4
+Fraction by Wt: <35%
+
+Ingred Name:VOC <10 G/L ESTIMATE
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Health Hazards Acute and Chronic:CORROSIVE TO SKIN AND EYES. CAN CAUSE
+    CHEMICAL BURNS TO SKIN AND EYES. REPEATED CONTACT MAY CAUSE
+    SENSITIZATION. VAPORS IRRITATING AND MAY CAUSE CHEST DISCOMFORT AND
+    BRONCHITIS SYMPTOMS. MAY CAUSE SEV ERE EYE OR SKIN BURNS.
+Effects of Overexposure:POSSIBLE BURNS TO EYES AND SKIN; IRRITATION AND
+    POSSIBLE SENSITIZATION TO SKIN. IRRITATION TO UPPER RESPIRATORY
+    TRACT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:FLUSH SKIN AND EYE CONTACT WITH PLENTY OF WATER. WASH
+    THOROUGHLY WITH SOAP AND WATER, RUBBING ALCOHOL OR HAND CLEANER. DO
+    NOT USE SOLVENTS. REMOVE SOILED CLOTHING AND WASH BEFORE REUSE. IF
+    IRRITATION	PERSISTS, SEE PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TOC
+Flash Point:>300F,>149C
+Extinguishing Media:DRY CHEMICAL OR HALON FIRE EXTINGUISHER, WATER
+    SPRAY, FOAM OR FOG.
+Fire Fighting Procedures:USE SELF-CONTAINED BREATHING APPARATUS WHEN
+    FIGHTING FIRES IN CONFINED AREAS.
+Unusual Fire/Explosion Hazard:DENSE SMOKE AND TOXIC GASES MAY BE
+    LIBERATED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE CLOTHING, GLOVES AND SAFETY
+    GLASSES. SCRAPE UP AND TRANSFER TO METAL CONTAINER. WIPE UP
+    REMAINING RESIDUE WITH SOLVENTS, OBSERVING SOLVENT FLAMMABILITY
+    CAUTIONS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP COOL IN ACCORDANCE WITH LABEL
+    INSTRUCTIONS. STORE AT ROOM TEMPERATURE (77 DEG. F) FOR 12 MONTHS.
+Other Precautions:FOLLOW RECOMMENDED CURING SCHEDULE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NEEDED WITH GOOD INDUSTRIAL VENTILATION.
+Ventilation:LOCAL EXHAUST RECOMMENDED.
+Protective Gloves:IMPERVIOUS PLASTIC OR RUBBER.
+Eye Protection:SAFETY GLASSES OR GOGGLES.
+Other Protective Equipment:AS NEEDED TO PROTECT SKIN AND CLOTHING.
+Supplemental Safety and Health
+FAILURE TO OBSERVE CAUTION MAY RESULT IN EXCESSIVE HEAT BUILD-UP WITH
+    THE RELEASE OF TOXIC GASES. PART B CONTAINS DIETHYLENETRIAMINE. USE
+    ONLY IN WELL VENTILATED AREA. DO NOT GET ON SKIN OR CLOTHING.  DO
+    NOT HANDLE OR USE UNTIL THE MSDS HASBEEN READ AND UNDERSTOOD.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:B2
+Boiling Pt:B.P. Text:DECOMPOSES
+Vapor Pres:<0.01MM
+Vapor Density:NIL
+Spec Gravity:<1
+Evaporation Rate & Reference:NIL
+Solubility in Water:NIL
+Appearance and Odor:VISCOUS GRAY PASTE WITH SLIGHT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, STRONG LEWIS OR MINERAL ACIDS.
+Hazardous Decomposition Products:CO, NOX, ALDEHYDES, ACIDS AND
+    UNDETERMINED ORGANICS.
+Conditions to Avoid Polymerization:MIXING RESIN/CURING AGENT IN BATCHES
+    GREATER THAN 1 LB. DO NOT HEAT MIXED ADHESIVE UNLESS CURING
+    SURFACES TO BE BONDED.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF AS HAZARDOUS WASTE ACCORDING TO
+    FEDERAL, STATE AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,129 @@
+=====================  Product Identification  =====================
+
+Product ID:CONDUCTIVITY STD SOLUTIONS, CDS-45;CDS-40;CDS-1500;CDS-4500.
+MSDS Date:11/29/1989
+FSC:6505
+NIIN:01-210-9512
+MSDS Number: BWRMD
+=== Responsible Party ===
+Company Name:OMEGA ENGINEERING INC.
+Address:ONE OMEGA DRIVE
+Box:4047
+City:STAMFORD
+State:CT
+ZIP:06907-0047
+Country:US
+Info Phone Num:203-359-1660
+Emergency Phone Num:203-359-1660
+CAGE:29907
+=== Contractor Identification ===
+Company Name:OMEGA ENGINEERING INC.
+Address:ONE OMEGA DRIVE
+Box:4047
+City:STAMFORD
+State:CT
+ZIP:06907-0047
+Country:US
+Phone:203-359-1660
+CAGE:29907
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POTASSIUM CHLORIDE
+CAS:7447-40-7
+RTECS #:TS8050000
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 ORAL, RAT=2600MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MAY BE HARMUFL BY INAHL,INGEST OR SKIN
+    ABSORPTION.CAUSES EYE & SKIN IRRIT.MATL IS IRRIT TO MUC MEMBRANES &
+    UPPER RESP TRACT.TO BEST OF OUR KNOWLEDGE
+    CHEMICAL/PHYSICAL/TOXICOLOGYICAL PROPERTIES HAVE NO T BEEN
+    THOROUGHLY INVESTIGATED. LG AMTSINGEST CAN CAUSE WEAKNESS,GI IRRIT
+    & CIRCULATORY DISTURBANCES.
+Effects of Overexposure:HARMFUL BY INGEST/INHAL/SKIN ABSORPTION.
+    EYE/SKIN/MUC MEMBRANES/UPPER RESP TRACT IRRIT.
+Medical Cond Aggravated by Exposure:TARGET
+    ORGANS:BEHAVIORAL(CONVULSIONS OR EFFECT IN SEIZURE
+    THRESHOLD);CARDIAC(ARRYTHMIAS),LUNGS,THORAX OR
+    RESP(DYSPNAE),GI(NAU/VOMIT),BLOOD(CHANGE IN CLOTTING FACTORS).NO
+    MED COND SPEC BY MFG.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:IMMED FLUSH W/COPIOUS AMTS OF WATER FOR @LEAST 15MINS.
+    SKIN:IMMED WASH W/SOAP & COPIOUS AMTS OF WATER. INHAL:REMOVE TO
+    FRESH IAR. IF NOT BREATHING GIVE ARTIFICIAL RESPIRATION. IF
+    BREATHING IS DIFF ICULT GIVE OXYGEN. CALL PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON-COMBUSTILBE
+Extinguishing Media:WATER SPRAY, CARBON DIOXIDE, DRY CHEMICAL POWDER,
+    ALCOHOL OR POLYMER FOAM.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS &
+    PROTECTIVE CLOTHING TO PREVENT CONTACT W/SKIN & EYES.
+Unusual Fire/Explosion Hazard:EMITS TOXIC FUMES UNDER FIRE CONDITIONS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS,RUBB
+    BOOTS 7 HEAVY RUBB GLOVES. SWEEP UP. PLACE IN BAG & HOLD FOR WASTE
+    DISPOSAL. AVOID RAISING DUST. VENTILATE AREA & WASH SPILL SITE
+    AFTER MATERIAL PICKUP IS  COMPLETE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL DRY PLACE. KEEP TIGHTLY
+    CLOSED.
+Other Precautions:HARMFUL SOLID, IRRITANT. AVOID CONTACT & INHALATION.
+    DO NOT GET IN EYES, ON SKIN, ON CLOTHING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR
+Ventilation:MECHANICAL EXHAUST REQUIRED.
+Protective Gloves:RUBBER GLOVES
+Eye Protection:CHEMICAL SAFETY GOGGLES
+Other Protective Equipment:SAFETY SHOWER & EYE BATH.
+Work Hygienic Practices:WASH CONTAMINATED CLOTHING BEFORE REUSE. WASH
+    THOROUGHLY AFATER HANDLING.
+Supplemental Safety and Health
+DISPOSAL:CAN BE CONTROLLED BY THE RATE OF ADDITION.OBSERVE ALL LOCAL,
+    STATE AND FEDERAL LAWS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Melt/Freeze Pt:M.P/F.P Text:1418F,770C
+Spec Gravity:1.984
+Solubility in Water:SOLUBLE
+Appearance and Odor:WHITE CRYSTALS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, STRONG ACIDS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:HYDROGEN CHLORIDE GAS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:SM AMTS:CAUTIOUSLY ADD TO LG STIRRED EXCESS OF
+    WATER.ADJUST PH TO NEUTRAL.SEPARATE ANY INSOLUBLE
+    SOLIDS/LIQ.PACKAGE THEM FOR HAZ WASTE DISPOSAL.FLUSH AQU AOLN DOWN
+    DRAIN W/PLENTY OF WATER.HYDROLYSIS &  NEUTRALIZATION TX MAY
+    GENERATE HEAT/FUMES (SUPPL)
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

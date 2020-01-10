@@ -1,0 +1,196 @@
+=====================  Product Identification  =====================
+
+Product ID:COMP A, U-1201-D
+MSDS Date:06/01/1993
+FSC:8010
+NIIN:00-082-2477
+Kit Part:Y
+MSDS Number: BWRVZ
+=== Responsible Party ===
+Company Name:STERLING LACQUER MFG CO, INC
+Address:3150 BRANNON AVE
+City:ST LOUIS
+State:MO
+ZIP:63139
+Country:US
+Info Phone Num:314-776-4450
+Emergency Phone Num:314-776-4450
+Preparer's Name:P.D. MOORE
+CAGE:60003
+=== Contractor Identification ===
+Company Name:STERLING LACQUER MFG CO
+Address:3150 BRANNON AVE
+Box:City:ST. LOUIS
+State:MO
+ZIP:63139-1422
+Country:US
+Phone:314-776-4450
+CAGE:60003
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TOLUENE (SARA III) (CERCLA) (VAPOR PRESSURE 22.7 MM HG @
+    68F)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 8%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:200 PPM
+ACGIH TLV:100 PPM
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: <5.0%
+Other REC Limits:5 MG/M3
+OSHA PEL:5 MG/M3
+ACGIH TLV:10 MG/M3
+
+Ingred Name:AMORPHOUS SILICA
+CAS:112945-52-5
+RTECS #:VV7310000
+Fraction by Wt: <5.0%
+Other REC Limits:3 MG/M3
+OSHA PEL:6 MG/M3
+ACGIH TLV:10 MG/M3
+
+Ingred Name:CHROMIUM COMPOUND AS CRO3 (6+) (SARA III)
+CAS:1333-82-0
+RTECS #:GB6650000
+Fraction by Wt: 9.34%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:0.1 MG/M3
+ACGIH TLV:0.05 MG/M3
+
+Ingred Name:CRYSTALLINE SILICA: QUARTZ
+CAS:14808-60-7
+RTECS #:VV7330000
+Fraction by Wt: 0.14%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:0.1 MG/M3
+ACGIH TLV:0.1 MG/M3
+
+Ingred Name:NORMAL PROPYL ACETATE (VAPOR PRESSURE 25.0 MM HG @ 68F)
+CAS:109-60-4
+RTECS #:AJ3675000
+Fraction by Wt: 20%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:200 PPM
+ACGIH TLV:200 PPM
+
+Ingred Name:DIACETONE ALCOHOL (VAPOR PRESSURE 1.0 MM HG @ 68F)
+CAS:123-42-2
+RTECS #:SA9100000
+Fraction by Wt: 10%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:50 PPM
+ACGIH TLV:50 PPM
+
+Ingred Name:COATING VOC: 4.45 LB/GL (533 G/L) MATERIAL VOC: 4.45 LB/GL
+    (533 G/L)
+RTECS #:9999999VO
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHAL: IRRITATION TO RESPIRATORY TRACT
+    (NOSE,THROAT,LUNGS) AND/OR NARCOSIS. SKIN & EYE CONTACT:
+    IRRITATING, MAY INJURE EYE TISSUE IF NOT PROPERLY REMOVED. SKIN
+    ABSORPTION: SLIGHT IRRITATION DUE TO SOL VENTS. INGESTION: TOXIC.
+    MAY CAUSE NAUSEA, VOMITING, & DIARRHEA. DON'T INGEST. MAY CAUSE
+    BLOOD DISORDERS (ANIMAL DATA).
+Medical Cond Aggravated by Exposure:RESPIRATORY PROBLEMS CAN BE
+    INCREASED BY INHALATION OF VAPORS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH WATER FOR 15 MINUTES. GET IMMEDIATE MEDICAL
+    ATTENTION. SKIN: REMOVE CONTAMINATED CLOTHING. WASH AFFECTED AREA
+    WITH SOAP AND WATER. INHALATION: MOVE TO FARESH AIR OBTAIN MEDICAL
+    ATTENT ION IF NEEDED. INGESTION: DO NOT INDUCEVOMTIING. GET
+    IMMEDIATE MEDICAL ATTENTION. FOR INDUSTRIAL USE. KEEP AWAY FROM
+    CHILDREN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:45.0F,7.2C
+Lower Limits:1.2
+Upper Limits:8.0
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL
+Fire Fighting Procedures:WEAR SELF CONTAINED BREATHING APPARATUS WITH A
+    FULL FACEPIECE OPERATED IN PRESSURE DEMAND WHEN FIGHTING FIRES. USE
+    WATER FOG NOZZLES TO COOL CLOSED CONTAINERS.
+Unusual Fire/Explosion Hazard:DON'T USE H2O.FLAMMABLE LIQ CAN RELEASE
+    VAPOR THAT FORM FLAMMABLE MIX AT TEMP AT OR ABOVE FLASHPOINT.ELIMIN
+    & KEEP FROM IGNIT SOURCE.CO,CO2,TOXIC GASES PRODUCED
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR RESPIRATOR, ABSORB WITH VERMICULITE OR
+    OTHER ABSORBENT MATERIAL. ELIMINATE ALL IGNITION SOURCES. STOP
+    SPILL AT SOURCE AND PREVENT SPREADING.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN DRY AREA.KEEP CNTNR
+    CLSD.PROTECT FROM PHYSICL DAMAGE.EMPTD CNTNR RETAIN PRODUCT
+    RESIDUE(VAPOR,LIQ,SOLID).STORE BELOW 120F.FOR INDUSTRIAL USE.
+Other Precautions:OBEY CAUTIONS GIVEN IN MSDS.STORE LRG QTY IN BLDGS IN
+    COMPLY W/OSHA 1910.106.KEEP CLOSURE TIGHT & CNTNR UPRIGHT TO
+    PREVENT LEAK.DON'T STORE NEAR HEAT,SPARKS,FLAME.DON'T GET IN
+    EYE.KEEP AWAY FROM CHILD REN.AVOID SKIN CONTACT.DON'T INGEST.FOR
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF >TLV OF PRODCT/COMPONNT,NIOSH/MSHA APROVD AIR
+    SUPPLY RESPRTR ADVISED IN ABSENCE OF ENVIRONMNTL CONTROL.OSHA REGS
+    PERMIT OTHER NIOSH/MSHA RESPRTR UNDER SPECIFIED CONDITN.SEE SFTY
+    EQUIP SUPPLR.IMPLEM ENT ENGINEERING/ADMINISTRATIVE CONTROLS.
+Ventilation:PROVIDE SUFFICIENT MECHANICAL (GENERAL/LOCAL EXHAUST) TO
+    MAINTAIN EXPOSURE BELOW TLV.
+Protective Gloves:WEAR SOLVENT RESISTANT GLOVES
+Eye Protection:CHEMCIAL SPLASH GOGGLES, SAFETY GLASSES
+Other Protective Equipment:TO PREVENT REPEATED OR PROLONGED SKIN
+    CONTACT, WEAR SOLVENT IMPERVIOUS CLOTHING AND BOOTS.
+Work Hygienic Practices:WASH WITH SOAP AND WATER AFTER USE, BEFORE
+    EATING OR SMOKING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:B.P. Text:214 TO 336F
+Vapor Pres:> AIR
+Spec Gravity:1.3 (H2O)
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:YELLOW LIQUID, SOLVENT ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID STRONG OXIDIZING AGENT.
+Stability Condition to Avoid:AVOID EXCESSIVE HEAT.
+Hazardous Decomposition Products:BURNING CAN PRODUCE CARBON DIOXIDE AND
+    CARBON MONOXIDE.
+Conditions to Avoid Polymerization:AVOID EXCESSIVE HEAT.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DESTROY BY LIQUID INCINERATION. CONTAMINATED
+    ABSORBENT MAY BE DEPOSITED IN A LANDFILL IN ACCORDANCE WITH LOCAL,
+    STATE, ADN FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

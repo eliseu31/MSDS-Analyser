@@ -1,0 +1,168 @@
+=====================  Product Identification  =====================
+
+Product ID:TECTYL Q 1449 A
+MSDS Date:08/09/1990
+FSC:9150
+NIIN:01-030-0632
+MSDS Number: BJDTT
+=== Responsible Party ===
+Company Name:VALVOLINE, INC
+Address:200 E MAIN ST
+Box:14000
+City:LEXINGTON
+State:KY
+ZIP:40512
+Country:US
+Emergency Phone Num:606-264-7000
+CAGE:FO793
+=== Contractor Identification ===
+Company Name:ASHLAND INC
+Address:1409 WINCHESTER AVE
+Box:391
+City:ASHLAND
+State:KY
+ZIP:41114
+Country:US
+Phone:800-622-6846
+CAGE:81355
+Company Name:VALVOLINE OIL CO
+Address:3499 BLAZER PKY
+Box:14000
+City:LEXINGTON
+State:KY
+ZIP:40512
+Country:US
+Phone:606-357-7206 / 800-274-5263
+CAGE:72527
+Company Name:VALVOLINE, INC
+Address:3499 DABNEY DR.
+Box:14000
+City:LEXINGTON
+State:KY
+ZIP:40512
+Phone:(606) 264-7000
+CAGE:FO793
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LUBE OIL ADDITIVE (30% BARIUM CMPD; 30% ZINC CMPD)
+Fraction by Wt: 5-10%
+
+Ingred Name:PETROLEUM LUBE OIL
+CAS:64742-65-0
+RTECS #:PY8038500
+Fraction by Wt: 55-70%
+OSHA PEL:5MG/M3 (OIL MIST)
+ACGIH TLV:5MG/M3;STEL-10MG/CUM
+
+Ingred Name:N-BUTYL ALCOHOL  (SARA III)
+CAS:71-36-3
+RTECS #:EO1400000
+Fraction by Wt: 10-15%
+OSHA PEL:100 PPM
+ACGIH TLV:S, C 50 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Health Hazards Acute and Chronic:CHRONIC: MAY CAUSE CNS DEPRESSION
+    AND/OR EYE DAMAGE.
+Explanation of Carcinogenicity:NONE SPECIFIED BY MANUFACTURER.
+Effects of Overexposure:ACUTE:CAN CAUSE EYES MODERATE
+    IRRITATION,REDNESS,TEARING;SKIN:SLIGHT IRRITATION; SWALLOWING:GI
+    IRRITATION,NAUSEA,VOMITING,& DIARRHEA; BREATHING:(OF MIST)
+    IRRITATION OF NASAL & RESPIRATORY PASSAGES. CH RONIC:CAN CAUSE
+    ANEMIA, & LIVER,KIDNEY,EYE & LUNG DAMAGE IN LAB ANIMALS. MAY CAUSE
+    EYE DAMAGE IN HUMANS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:THOROUGHLY WASH EXPOSED AREA W/SOAP & WATER. REMOVE
+    CONTAMINATED CLOTHING; LAUNDER BEFORE RE-USE. REMOVE CONTAMINATED
+    SHOES PROMPTLY & DISCARD.  EYES:FLUSH W/LARGE AMOUNTS OF WATER.
+    SWALLOWED:DO  NOT INDUCE VOMITING. KEEP PERSON WARM, QUITE & GET
+    MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:90 F OR 32 C
+Lower Limits:1.4%
+Extinguishing Media:REGULAR FOAM OR CARBON DIOXIDE OR DRY CHEMICAL
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS WITH
+    FULL FACEPIECE OPERATED IN A POSITIVE PRESSURE DEMAND MODE WHEN
+    FIGHTING FIRES.WATER/FOAM MAY CAUSE VIOLENT FROTHNG
+Unusual Fire/Explosion Hazard:NEVER USE WELDING OR CUTTING TORCH
+    ON/NEAR DRUM (EVEN EMPTY)BECAUSE PRODUCT CAN IGNITE
+    EXPLOSIVELY.GROUND/BOND-5 GAL PAILS & LARGER WHEN MATERIAL IS
+    TRANSFERRED
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SMALL:ABSORB LIQUID ON PAPER OR OTHER
+    ABSORBENT MATL. LARGE:ELIM. ALL IGNIT SOURCES. EXCLUDE PERSONS W/O
+    PPE FROM AREA. STOP SPILL AT SOURCE;DIKE SPILL AREA; PUMP LIQUID TO
+    SALVAGE TANK. CONTINUE W/SM ALL  SPILL PROC. PROTECT WATER BODIES.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY HEAT,SPARKS,FLAME.STORE
+    W/ADEQUATE VENT. MAINTAIN AMBIENT AIR CONC BELOW PEL. AVOID CONTACT
+    W/EYES.DO NOT USE CUTTING/WELDING TORCH ON CONTR
+Other Precautions:CONTAINERS OF THIS MATERIAL MAY BE HAZARDOUS WHEN
+    EMPTIED DUE TO PRODUCT RESIDUES (VAPOR, LIQUID AND/OR SOLID).  ALL
+    HAZARD PRECAUTIONS MUST BE OBSERVED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA RESPIRATOR IF PEL IS EXCEEDED.
+    NEGATIVE PRESSURE NIOSH/MSHA RESPIRATOR CAN BE USED AS SPECIFIED BY
+    SAFETY EQUIPMENT SUPPLIER.	IMPLEMENT ENGINEERING & ADMINISTRATIVE
+    CONTROLS ALSO.
+Ventilation:PROVIDE SUFFICIENT GENERAL AND/OR LOCAL EXHAUST
+    VENTILATION.
+Protective Gloves:RESISTANT GLOVES.
+Eye Protection:WEAR SAFETY GOGGLES OR GLASSES.
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:MINIMIZE EXPOSURE THROUGH GOOD HYGIENIC
+    PRACTICES.
+Supplemental Safety and Health
+SKIN ABSORPTION MAY POTENTIALLY CONTRIBUTE TO THE OVERALL EXPOSURE TO
+    THIS MATERIAL. APPROPRIATE MEASURES SHOULD BE TAKEN TO PREVENT SKIN
+    ABSORPTION SO THAT TLV IS NOT INVALIDATED.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:243 F @ NTP
+Vapor Pres:4.40MM HG
+Vapor Density:>AIR
+Spec Gravity:.910 @ 60 F
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:10-25
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTACT WITH STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:MAY FORM CARBON DIOXIDE, CARBON
+    MONOXIDE, VARIOUS HYDROCARBONS AND SULFUR COMPOUNDS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF I/A/W LOCAL, STATE AND FEDERAL
+    REGULATIONS
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

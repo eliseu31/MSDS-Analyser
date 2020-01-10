@@ -1,0 +1,145 @@
+=====================  Product Identification  =====================
+
+Product ID:LD-301 LYSOL BRAND FOAMING BASIN TUB & TILE CLEANER
+MSDS Date:01/05/1990
+FSC:6840
+NIIN:00F019099
+MSDS Number: BLPKG
+=== Responsible Party ===
+Company Name:LEHN & FINK PRODUCTS COMPANY
+Address:225 SUMMIT AVENUE
+City:MONTVALE
+State:NJ
+ZIP:07645
+Info Phone Num:(201) 573-5700
+Emergency Phone Num:(201) 573-5700
+CAGE:DO879
+=== Contractor Identification ===
+Company Name:LEHN & FINK PRODUCTS COMANY
+Address:225 SUMMIT AVE
+City:MONTVALE
+State:NJ
+ZIP:07645-1523
+Country:US
+Phone:201-573-5700 (24 HRS)
+CAGE:DO879
+Company Name:RECKITT & COLMAN INC
+Address:225 SUMMIT AVE
+Box:City:MONTVALE
+State:NJ
+ZIP:07645
+Country:US
+Phone:201-573-5700
+CAGE:73820
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:2-(2-BUTOXYETHYOXY)-ETHANOL, DIETHYLENE GLYCOL MONOBUTYL
+    ETHER (BUTYL CARBITOL)
+CAS:112-34-5
+RTECS #:KJ9100000
+Fraction by Wt: 5.6%
+
+Ingred Name:ISOBUTANE, 2-METHYLPROPANE
+CAS:75-28-5
+RTECS #:TZ4300000
+Fraction by Wt: 7%
+Other REC Limits:1000 PPM
+OSHA PEL:1800 MG/CUM
+ACGIH TLV:1000 PPM
+
+Ingred Name:DIOCTYL DIMETHYL AMMONIUM CHLORIDE
+Fraction by Wt: 0.025%
+
+Ingred Name:OCTYL DECYL DIMETHYL AMMONIUM CHLORIDE
+CAS:32426-11-2
+RTECS #:HD6520000
+Fraction by Wt: 0.025%
+
+Ingred Name:OCTYL DECYL DIMETHYL AMMONIUM CHLORIDE
+Fraction by Wt: 0.025%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES/SKIN: IRRITATION. INGESTION:
+    GASTROINTESTINAL TRACT IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES/SKIN: IRRITATION. INGESTION:
+    GASTROINTESTINAL TRACT IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINS. REMOVE
+    CONTACT LENSES TO INSURE A THOROUGH FLUSH. SKIN: RINSE W/WATER.
+    INGESTION: GIVE LARGE QUANTITIES OF WATER TO DILUTE. DON'T GIVE
+    LIQUIDS TO AN  UNCONSCIOUS PERSON. OBTAIN MEDICAL ATTENTION IN ALL
+    CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:>200F
+Extinguishing Media:WATER SPRAY, FOAM, DRY CHEMICAL OR CO.
+Fire Fighting Procedures:USE SCBA & FLAME/CHEMICAL RESISTANT CLOTHING.
+    IF W/O RISK, REMOVE MATERIAL FROM FIRE AREA. USE WATER SPRAY TO
+    COOL FIRE EXPOSED CONTAINERS.
+Unusual Fire/Explosion Hazard:EXPOSURE TO TEMP. >120F OR IN SUN,
+    DISCARDING CAN IN FIRE OR INCINERATOR MAY CAUSE BURSTING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH SPILLS W/WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE <120F COOL, DRY LOCATION AWAY
+    FROM DIRECT SUNLIGHT, HOT SURFACES, SPARKS OR FLAME. DON'T
+    PUNCTURE, INCINERATE OR USE NEAR HEAT OR FLAME.
+Other Precautions:THIS PRODUCT IS A REGISTERED PESTICIDE. USE OF THIS
+    PRODUCT IN A MANNER NOT CONSISTENT W/THE LABEL INSTRUCTIONS IS A
+    VIOLATION OF FEDERAL LAW.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AS REQUIRED.
+Ventilation:AS REQUIRED.
+Protective Gloves:AS REQUIRED.
+Eye Protection:AS REQUIRED.
+Other Protective Equipment:AS REQUIRED.
+Supplemental Safety and Health
+CHEMICALS OF THIS PRODUCT ARE IDENTIFIED AS A SARA SECTION 313 TOXIC
+    CHEMICAL.
+
+==================  Physical/Chemical Properties  ==================
+
+Vapor Pres:34-40 PSIG
+Vapor Density:>AIR
+Spec Gravity:1.007-1.017
+pH:12.1
+Evaporation Rate & Reference:SLOWER THAN BU AC
+Solubility in Water:MISCIBLE
+Appearance and Odor:AEROSOL CONTAINER
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING AGENTS & ACIDS
+Stability Condition to Avoid:HEAT, OPEN FLAME, SUN, FIRE, TEMPS. >120F
+Hazardous Decomposition Products:OXIDES OF NITROGEN, CO & OTHER
+    UNIDENTIFIED ORGANIC COMPOUNDS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

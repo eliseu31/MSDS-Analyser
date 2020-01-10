@@ -1,0 +1,192 @@
+=====================  Product Identification  =====================
+
+Product ID:6394 GLAZING PUTTY, RED OXIDE
+MSDS Date:02/08/1988
+FSC:8030
+NIIN:00F019290
+MSDS Number: BLPVP
+=== Responsible Party ===
+Company Name:MARTIN-SENOUR CO/DIV SHERWIN WILLIAMS CO
+Address:2500 S SENOUR AVE
+City:CHICAGO
+State:IL
+ZIP:60608-5724
+Info Phone Num:(216) 566-2902
+Emergency Phone Num:(216) 566-2917
+CAGE:MART2
+=== Contractor Identification ===
+Company Name:MARTIN-SENOUR CO
+Address:101 PROSPECT AVE N.W.
+City:CLEVELAND
+State:OH
+ZIP:44115
+Country:US
+Phone:216-566-2902
+CAGE:MART2
+Company Name:SHERWIN-WILLIAMS CO THE
+Address:101 PROSPECT AVE NW
+Box:City:CLEVELAND
+State:OH
+ZIP:44115-1042
+Country:US
+Phone:800-251-2486/216-566-2242
+CAGE:54636
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 5-15%
+Other REC Limits:100 PPM
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS)	(SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 10%
+Other REC Limits:100 PPM
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:SOLVENT NAPHTHA, HEAVY AROMATIC NAPHTHA
+CAS:64742-94-5
+RTECS #:WF3100000
+Fraction by Wt: <5%
+ACGIH TLV:50 PPM
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: <5%
+Other REC Limits:400 PPM
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+Ingred Name:N-BUTYL ACETATE  (SARA III)
+CAS:123-86-4
+RTECS #:AF7350000
+Fraction by Wt: 10-20%
+Other REC Limits:150 PPM
+OSHA PEL:150 PPM/200 STEL
+ACGIH TLV:150 PPM/200STEL;9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:DI-SEC-OCTYL PHTHALATE (DI-2-ETHYLHEXYL-PHTHALATE)	(SARA
+    III)
+CAS:117-81-7
+RTECS #:TI0350000
+Fraction by Wt: 5%
+OSHA PEL:5 MG/M3/10 STEL
+ACGIH TLV:5 MG/M3; 9192
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:TALC (CONTAINING NO ASBESTOS)
+CAS:14807-96-6
+RTECS #:WW2710000
+Fraction by Wt: 50%
+OSHA PEL:2 MG/M3 RDUST
+ACGIH TLV:2 MG/M3 RDUST; 9192
+
+Ingred Name:ROSIN ESTER
+Fraction by Wt: 5-15%
+
+Ingred Name:WET NITROCELLULOSE, NITROCELLULOSE, NITRATE CELLULOSE
+CAS:9004-70-0
+RTECS #:QW0975200
+Fraction by Wt: 5%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:EYES/SKIN: IRRITATION, REDNESS,
+    ITCHING, & BURNING SENSATION. INHALATION: RESPIRATORY SYSTEM
+    IRRITATION, NERVOUS SYSTEM DEPRESSION, UNCONSCIOUSNESS, DEATH,
+    HEADACHE, DIZZINESS, NAUSEA, LOSS OF COORDIN ATION.
+    LIVER/URINARY/BLOOD FORMING/CARDIO-VASCULAR/REPRODUCTIVE SYSTEM
+    EFFECTS. PERMANENT BRAIN & NERVOUS SYSTEM DAMAGE.
+Explanation of Carcinogenicity:BIS (2-ETHYHEXYL) PHTHALATE IS A
+    SUSPECTED HUMAN CARCINOGEN BY ACGIH.
+Effects of Overexposure:EYES/SKIN: IRRITATION, REDNESS, ITCHING, &
+    BURNING SENSATION. INHALATION: RESPIRATORY SYSTEM IRRITATION,
+    NERVOUS SYSTEM DEPRESSION, UNCONSCIOUSNESS, DEATH, HEADACHE,
+    DIZZINESS, NAUSEA, LOSS OF COORDIN ATION. LIVER/URINARY/BLOOD
+    FORMING/CARDIO-VASCULAR/REPRODUCTIVE SYSTEM EFFECTS. PERMANENT
+    BRAIN & NERVOUS SYSTEM DAMAGE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR & RESTORE BREATHING. KEEP
+    WARM & QUIET. SKIN: WASH W/SOAP & WATER. EYES: FLUSH W/PLENTY OF
+    WATER FOR 15 MINS. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:62F
+Lower Limits:0.8%
+Extinguishing Media:CO2, DRY CHEMICAL, OR FOAM
+Fire Fighting Procedures:WATER SPRAY MAY BE INEFFECTIVE. IF WATER IS
+    USED, FOG NOZZLES ARE PREFERABLE. WEAR FULL PROTECTIVE CLOTHING &
+    SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:WATER SPRAY MAY BE USED TO COOL CLOSED
+    CONTAINERS TO PREVENT PRESSURE BUILD-UP, POSSIBLE AUTOIGNITION &
+    EXPLOSION WHEN EXPOSED TO EXTREME HEAT. FLAMMABLE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. VENTILATE &
+    REMOVE W/INERT ABSORBENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER CLOSED WHEN NOT IN USE.
+    TRANSFER ONLY TO APPROVED CONTAINERS W/COMPLETE & APPROPRIATE
+    LABELING. DON'T TAKE INTERNALLY. DON'T SMOKE.
+Other Precautions:USE ONLY W/ADEQUATE VENTILATION. AVOID BREATHING
+    VAPOR/SPRAY MIST. DON'T GET IN EYES OR ON SKIN. INTENTIONAL MISUSE
+    BY DELIBERATELY CONCENTRATING & INHALING THE CONTENTS CAN BE
+    HARMFUL OR FATAL. KEEP  OUT OF REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE PROPERLY FITTED NIOSH/MSHA APPROVED ORGANIC
+    VAPOR/PARTICULATE RESPIRATOR. WHEN SANDING OR ABRADING THE DRIED
+    FILM, WEAR A DUST MASK OR PARTICULATE RESPIRATOR.
+Ventilation:LOCAL EXHAUST OR GENERAL EXHAUST TO KEEP AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Appearance and Odor:RED
+Percent Volatiles by Volume: 40%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:HEAT/ELECTRICAL EQUIPMENT &
+    TOOLS/SPARKS/OPEN FLAME/PILOT LIGHTS/HEATERS/STOVES/APPLIANCES &
+    ALL OTHER IGNITION SOURCES.
+Hazardous Decomposition Products:CO, CO2, OXIDES OF NITROGEN & HYDROGEN
+    CYANIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:MAY BE RCRA HAZARDOUS WASTE. TEST FOR
+    IGNITABILITY TO DETERMINE EPA HAZARDOUS WASTE NUMBERS. INCINERATE
+    IN APPROVED FACILITY ACCORDING TO FEDERAL, STATE, & LOCAL
+    REGULATIONS. DON'T INCINERATE CLOSED    CONTAINERS. FLAMMABLE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

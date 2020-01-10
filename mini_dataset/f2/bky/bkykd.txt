@@ -1,0 +1,75 @@
+=====================  Product Identification  =====================
+
+Product ID:LIMESTONE
+MSDS Date:01/01/1987
+FSC:5610
+NIIN:00-270-1565
+MSDS Number: BKYKD
+=== Responsible Party ===
+Company Name:DOLESE BROS CO
+Box:677
+City:OKLAHOMA CITY
+State:OK
+ZIP:73101
+Info Phone Num:(405) 235-2311
+Emergency Phone Num:(405) 235-2311
+CAGE:0GLS5
+=== Contractor Identification ===
+Company Name:DOLESE BROS CO
+Box:City:OKLAHOMA CITY
+State:OK
+ZIP:73101
+Phone:(405) 235-2311
+CAGE:0GLS5
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CALCIUM CARBONATE (MARBLE) (LIMESTONE)
+CAS:1317-65-3
+RTECS #:EV9580000
+Fraction by Wt: 100%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:NONE
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:NONE
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: WASH W/SOAP & WATER. OBTAIN MEDICAL ATTENTION IN ALL
+    CASES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Protective Gloves:RECOMMENDED
+Eye Protection:RECOMMENDED
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:2.65
+Solubility in Water:0
+Appearance and Odor:WHITE TO DARK GRAY, ODORLESS
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF AS COMMON WASTE MATERIAL ACCORDING TO
+    FEDERAL, STATE & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

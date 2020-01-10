@@ -1,0 +1,120 @@
+=====================  Product Identification  =====================
+
+Product ID:VV-P-236, SULFLO
+MSDS Date:06/01/1990
+FSC:9150
+NIIN:00-250-0926
+MSDS Number: BLPFC
+=== Responsible Party ===
+Company Name:SULFLO INC.
+Address:1158 ERIE AVENUE
+Box:285
+City:NORTH TONAWANDA
+State:NY
+ZIP:14120-3507
+Country:US
+Info Phone Num:716-695-3585  FAX: 716-695-0367
+Emergency Phone Num:716-695-3585
+CAGE:JO986
+=== Contractor Identification ===
+Company Name:SULFLO INC
+Address:1158 ERIE AVE
+Box:285
+City:NORTH TONAWANDA
+State:NY
+ZIP:14120-3507
+Country:US
+Phone:716-695-3585
+CAGE:1V074
+Company Name:SULFLO INC.
+Address:1158 ERIE AVE
+Box:285
+City:NORTH TONAWANDA
+State:NY
+ZIP:14120-3507
+Country:US
+Phone:716-695-3585
+CAGE:JO986
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:GREASE, PETROLEUM
+CAS:8009-03-8
+Fraction by Wt: 100%
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:THIS PRODUCT HAS BEEN USED FOR YEARS
+    WITH NO KNOWN ILL EFFECTS.
+Medical Cond Aggravated by Exposure:NONE KNOWN
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION: GET MEDICAL ATTENTION.  SKIN: FLUSH WITH SOAP AND
+    WATER. REMOVE AND LAUNDER CONTAMINATED CLOTHING.  EYES: FLUSH WITH
+    SOAP AND WATER FOR AT LEAST 15 MIN. GET MEDICAL ATTENTION. 
+    INHALATION:  NOT APPLICABLE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:400F,204C
+Autoignition Temp:Autoignition Temp Text:430F
+Extinguishing Media:WATER FOG, CARBON DIOXIDE, DRY CHEMICAL, FOAM,
+    EARTH OR SAND.
+Fire Fighting Procedures:WATER MAY CAUSE FROTHING.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB WITH SAND OR INERT MATERIAL.  SWEEP OR
+    SCOOP UP AND REMOVE.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINERS CLOSED WHEN NOT IN
+    USE.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Protective Gloves:NEOPRENE
+Eye Protection:FACE SHIELD
+Other Protective Equipment:NONE
+Work Hygienic Practices:WASH HANDS THOROUGHLY AFTER USING THIS PRODUCT.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:700F,371C
+Melt/Freeze Pt:M.P/F.P Text:165F,74C
+Spec Gravity:0.866
+Solubility in Water:NIL
+Appearance and Odor:YELLOW WAX - BLAND
+Percent Volatiles by Volume:0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:EXTREME TEMPERATURES.
+Hazardous Decomposition Products:CARBON MONOXIDE AND CARBON DIOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

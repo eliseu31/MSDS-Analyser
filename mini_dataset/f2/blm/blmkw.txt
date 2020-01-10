@@ -1,0 +1,157 @@
+=====================  Product Identification  =====================
+
+Product ID:RESPECT AEROSOL, DA6680
+MSDS Date:07/07/1988
+FSC:8030
+NIIN:00N021452
+MSDS Number: BLMKW
+=== Responsible Party ===
+Company Name:DRUMMOND AMERICAN CORP
+Address:1700 SHERWIN AVE
+City:DES PLAINES
+State:IL
+ZIP:60010
+Country:US
+Info Phone Num:312-297-1777
+Emergency Phone Num:312-297-1777;800-424-9300(CHEMTREC)
+CAGE:64557
+=== Contractor Identification ===
+Company Name:DRUMMOND AMERICAN CORPORATION
+Address:600 CORPORATE WOODS PKWY.
+Box:City:VERNON HILLS
+State:IL
+ZIP:60061
+Country:US
+Phone:708-913-9313
+CAGE:64557
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL CHLOROFORM (1,1,1-TRICHLOROEHANE)  (SARA III)
+CAS:71-55-6
+RTECS #:KJ2975000
+Fraction by Wt: >50%
+OSHA PEL:350 PPM/450 STEL
+ACGIH TLV:350 PPM/450STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+Ozone Depleting Chemical:1
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS)	(SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 5-10%
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:CARBON DIOXIDE
+CAS:124-38-9
+RTECS #:FF6400000
+Fraction by Wt: 1-5%
+OSHA PEL:5000 PPM
+ACGIH TLV:5000PPM/30000STEL;93
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MAY BE HARMFUL IF SWALLOWED. MAY CAUSE
+    EYE OR SKIN IRRITATION. CAUSES GASTROINTESTINAL IRRITATION.
+    INHAL:CNS DEPRESSANT. MAY INCREASE MYOCARDIAL IRRITABILITY.
+    ASPIRATION OF LIQUID MAY CAUSE CHEMICAL P NEUMONITIS. MAY CAUSE
+    LIVER OR KIDNEY EFFECTS. CHLOROCARBON MATERIALS HAVE PRODUCED
+    SENSITIZATION (SEE EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:HLTH HAZ:OF THE MYOCARDIUM TO EPINEPHRINE IN
+    LAB ANIMALS AND COULD HAVE A SIMILAR EFFECT IN HUMANS.
+    ADRENOMIMETICS (E.G. ,EPINEPHRINE) MAY BE CONTRAINDICATED EXCEPT
+    FOR LIFE-SUSTAINING USES IN HUMANS	ACUTELY OR CHRONICALLY EXPOSED
+    TO CHLOROCARBONS .
+Medical Cond Aggravated by Exposure:SKIN, LIVER OR KIDNEY DISEASES.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH W/WATER FOR AT LEAST 15 MINUTES & GET MD. SKIN:WASH
+    W/SOAP & WATER. INGEST:DO NOT INDUCE VOMITING. GET MD. INHAL:MOVE
+    TO FRESH AIR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:165F,74C
+Lower Limits:13%
+Extinguishing Media:CARBON DIOXIDE, DRY CHEMICAL, WATER FOG, SAND.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL PROT
+    EQUIPMENT . KEEP CNTNRS COOL. USE SHIELDING TO PROTECT PERSONNEL
+    AGAINST BURSTING, RUPTURING OR VENTING CNTNRS.
+Unusual Fire/Explosion Hazard:AT ELEVATED TEMPERATURES (OVER 130F)
+    CONTAINERS MAY VENT, RUPTURE OR BURST. THERMAL DECOMPOSITION
+    PRODUCTS MAY INCLUDE HCL & PHOSGENE (FP NN).
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:PROVIDE VENTILATION. REMOVE SOURCES OF FLAME,
+    SPARK OR HEAT. WIPE UP SPILLS, THEN WASH W/CLEANER TO REMOVE FINAL
+    TRACES.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL, DRY, VENTILATED AREA.
+    VAPORS ARE HEAVIER THAN AIR AND WILL COLLECT IN LOW AREAS. AEROSOL
+    PRODUCT:TREAT AS CYLINDER OF COMPRESSED GAS.
+Other Precautions:READ ENTIRE LABEL BEFORE USING. NO SMOKING IN AREA OF
+    USE. DO NOT USE IN THE GENERAL VICINITY OF ARC WELDING, OPEN FLAMES
+    OR HOT SURFACES. HEAT AND/OR UV RADIATION MAY CAUSE THE FORMATION
+    OF HCL AND/O R PHOSGENE .
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED. USE NIOSH/MSHA APPROVED
+    RESPIRATOR APPROPRIATE FOR EXPOSURE OF CONCERN .
+Ventilation:LOCAL EXHAUST:HOOD OR FAN. MECHANICAL:MAINTAIN ADEQUATE
+    VENTILATION.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NOT REQUIRED.
+Work Hygienic Practices:WASH HANDS BEFORE EATING OR USING THE WASHROOM.
+    SMOKE IN SMOKING AREAS ONLY.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:165F,74C
+Vapor Pres:89
+Vapor Density:LTR/AIR
+Spec Gravity:1.23
+Evaporation Rate & Reference:SLOWER THAN ETHER.
+Solubility in Water:NEGLIGIBLE.
+Appearance and Odor:CLEAR, THIN AMBER LIQUID.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:HEAT
+Hazardous Decomposition Products:HCL, COX AND MINUTE TRACES OF PHOSGENE
+    AND CHLORINE, FORMED UPON COMBUSTION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF PRODUCT I/A/W LOCAL, COUNTY, STATE
+    AND FEDERAL REGULATIONS. DO NOT PUNCTURE OR INCINERATE CONTAINER.
+    DO NOT REUSE CONTAINER. WRAP CONTAINER AND PLACE IN TRASH
+    COLLECTION.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

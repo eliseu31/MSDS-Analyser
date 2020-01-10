@@ -1,0 +1,122 @@
+=====================  Product Identification  =====================
+
+Product ID:MERCURIC NITRATE
+MSDS Date:09/01/1989
+FSC:6810
+NIIN:01-044-4218
+MSDS Number: BLMVM
+=== Responsible Party ===
+Company Name:HAWK CREEK LABS INC
+Address:RD 1 SIMPSON RD
+Box:686
+City:GLEN ROCK
+State:PA
+ZIP:17327
+Country:US
+Info Phone Num:717-235-3849
+Emergency Phone Num:717-235-3849
+CAGE:61004
+=== Contractor Identification ===
+Company Name:HAWK CREEK LABORATORY, INC.
+Address:RT 1, SIMPSON ROAD
+Box:686
+City:GLEN ROCK
+State:PA
+ZIP:17327-9622
+Country:US
+Phone:717-235-3849
+CAGE:61084
+Company Name:HAWK CREEK LABS
+Address:RD 1 SIMPSON RD
+Box:686
+City:GLEN ROCK
+Phone:717-235-3849
+CAGE:61004
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MERCURIC NITRATE MONOHYDRATE
+CAS:7783-34-8
+Fraction by Wt: 9.7%
+ACGIH TLV:0.05 MG/CU.M (MFR)
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:TOXIC BY INGESTION, INHALATION, OR
+    SKIN CONTACT. CAUSES SKIN IRRITATION, NAUSEA, VOMITING, ABDOMINAL
+    PAIN, BURNS, AND DEATH.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH WATER FOR AT LEAST 15 MIN; GET IMMED MED
+    ASSISTANCE. SKIN: REMOVE CONTAMINATED CLOTHING AND WASH WITH SOAP
+    AND WATER. INHAL: REMOVE TO FRESH AIR & GIVE ARTF RESP IF BREATHING
+    HAS STOP PED; GET MED ATTN. INGEST: GET MED ATTNIMMED. GET MED
+    ASSISTANCE FOR ALL CASES OF OVEREXPOSURE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONCOMBUSTIBLE
+Extinguishing Media:USE MEDIA APPROPRIATE FOR SURROUNDING MATERIAL.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:TOXIC MERCURY COMPOUNDS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB WITH SAND OR VERMICULITE AND SCOOP UP
+    AND CONTAINERIZE FOR PROPER DISPOSAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTR TIGHTLY CLSD. STORE IN
+    COOL/DRY/VENTD AREA. KEEP AWAY FROM COMB MATL & IGNIT SOURCE. WASH
+    THORO AFTER HNDLG. EMPTY CONTR MAY BE HAZ(SUPDAT)
+Other Precautions:DO NOT GET IN EYES, ON SKIN OR CLOTHING. DO NOT
+    BREATHE VAPORS OR MISTS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR NIOSH/MSHA APPROVED SCBA IN HIGH VAPOR
+    AREAS.
+Ventilation:PROVIDE ADEQUATE GENERAL AND LOCAL EXHAUST VENTILATION.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+HNDLG/STOR PREC: DUE TO RETAINED RESIDUE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T3
+Solubility in Water:MISCIBLE
+Appearance and Odor:COLORLESS AQEUOUS SOLUTION.
+
+=================  Stability and Reactivity Data  =================
+
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:CONTACT WITH COMBUSTIBLE MATERIAL, ORGANIC
+    MATERIALS, REDUCING AGENTS AND LIGHTS.
+Hazardous Decomposition Products:MERCURY AND MERCURY COMPOUNDS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:COMPLY WITH ALL LOCAL, STATE AND FEDERAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

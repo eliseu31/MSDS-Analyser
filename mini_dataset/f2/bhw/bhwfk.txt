@@ -1,0 +1,150 @@
+=====================  Product Identification  =====================
+
+Product ID:H AGENT SIMULANT VIAL,DMS,(SEE SUPP DATA)
+MSDS Date:01/01/1987
+FSC:6910
+NIIN:00-106-4800
+Kit Part:Y
+MSDS Number: BHWFK
+=== Responsible Party ===
+Company Name:CHEMTRONICS,INC NOW,JET RESEARCH
+Address:180 OLD BEE TREE RD
+City:SWANNANOA
+State:NC
+ZIP:28778
+Country:US
+Info Phone Num:704-298-7941
+Emergency Phone Num:704-298-7941
+CAGE:KO082
+=== Contractor Identification ===
+Company Name:CHEMTRONICS INC
+Address:180 OLD BEE TREE RD
+Box:City:SWANNANOA
+State:NC
+ZIP:28778-3409
+Country:US
+Phone:NOT LISTED IN PHONE DIRECTORY
+CAGE:60737
+Company Name:CHEMTRONICS,INC NOW JET RESEARCH(NO LONGER MFR)
+Address:180 OLD BEE TREE ROAD
+Box:City:SWANNANOA
+State:NC
+ZIP:28778
+Country:US
+Phone:703-298-7941
+CAGE:KO082
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DIMETHYL SULFATE  (SARA III)
+CAS:77-78-1
+RTECS #:WS8225000
+Other REC Limits:N/K 
+OSHA PEL:S, 1 PPM
+ACGIH TLV:S, 0.1 PPM, A2; 9293
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:N/K 
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:DELAYED EFFECTS.SEVERE DAMAGE TO
+    RESPIRATORY TRACT.SEVERE EYE INJURY FROM VAPORS.CORROSIVE TO AND
+    PENETRATES SKIN.
+Explanation of Carcinogenicity:DIMETHYL SULFATE:SUSP HUM CARC/KNOWN
+    ANIM CARC (NTP,1989).INADEQ EVID FOR CARC IN HUM;SUFF EVID FOR CARC
+    IN (SEE SUPP)
+Effects of Overexposure:DELAYED EFFECTS.EYES:SEVERE INJURY FROM
+    VAPORS.SKIN:CORROSIVE TO AND PENETRATES SKIN.INGESTION:N/K
+    .INHALATION:PAINFUL COUGH.SEVERE DAMAGE TO RESPIRATORY TRACT.
+Medical Cond Aggravated by Exposure:N/K 
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:IMMEDIATELY FLUSH FOR 15 MINUTES WITH WITH
+    WATER.SKIN:WASH WITH WATER.APPLY ICE PACK.INGESTION:GIVE MILK.DO
+    NOT INDUCE VOMITING.INHALATION:MOVE TO FRESH AIR.ARTIFICIAL
+    RESPIRATION IF NECESSARY.CO NSULT PHYSICIAN IN ALL INSTANCES OF
+    CONTACT.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:84.4C,183F
+Lower Limits:N/K 
+Upper Limits:N/K 
+Extinguishing Media:FOAM,DRY CHEMICAL,CO*2 OR WATER.
+Fire Fighting Procedures:SCBA REQUIRED.
+Unusual Fire/Explosion Hazard:MIXTURES OF DIMETHYL SULFATE AND
+    CONCENTRATED AMMONIA CAN EXPLODE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR ORGANIC RESPIRATOR,GLOVES AND CLOTHING
+    DURING CLEAN-UP.COVER SPILLS WITH SODA ASH AND WATER SPRAY.LET
+    STAND 24 HOURS.WASH AWAY WITH WATER.
+Neutralizing Agent:N/K 
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT STORE WITH AQUEOUS AMMONIA OR
+    NEAR GASEOUS AMMONIA.KEEP AWAY FROM AREAS OF HIGH HEAT.
+Other Precautions:KEEP CONTAINERS,VIALS AND AMPOULES CLOSED OR SEALED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:MESA APPROVED RESPIRATOR WITH ORGANIC VAPOR
+    CARTRIDGE.
+Ventilation:CONSULT LOCAL SAFETY/HEALTH AUTHORITIES IF ADDITIONAL
+    GUIDANCE IS NEEDED .LOCAL-FUME HOOD:100 LFM MINIMUM.
+Protective Gloves:RUBBER
+Eye Protection:SPLASH PROOF GOGGLES.
+Other Protective Equipment:RUBBERIZEED COVERALLS,RUBBER BOOTS AND SCBA
+    FOR EMERGENCIES.
+Work Hygienic Practices:N/K 
+Supplemental Safety and Health
+BP:DECOMPOSES @ 188C,370.4F.EXPLAN OF CARC:ANIMALS (IARC,1987).ACGIH
+    A2=SUSP HUM CARC (1990).KNOWN TO CAUSE CANCER (CAL PROP 65
+    1988).WASTE DISP METHODS:WITH ALKALI SCRUBBER OBSERVING LOCAL,STATE
+    AND  FEDERAL REGULATIONS.TLV:1 PPM OR 5 MG/M3.PART NO:(M72-A1
+    TRAINING SET).
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:SEE SUPP
+Melt/Freeze Pt:M.P/F.P Text:N/K 
+Decomp Temp:Decomp Text:188C,370.4F
+Vapor Pres:0.54 MMHG
+Vapor Density:4.35,AIR=1
+Spec Gravity:1.328 (WATER=1)
+Evaporation Rate & Reference:>1 (BUTYL ACETATE=1)
+Solubility in Water:SLIGHT
+Appearance and Odor:CLEAR WHITE WITH NO CHARACTERISTIC ODOR.
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AMMONIA AND METAL SALTS.
+Stability Condition to Avoid:N/K 
+Hazardous Decomposition Products:POSSIBLY SULFUR DIOXIDE,HYDROGEN
+    SULFIDE,CARBON DIOXIDE,CARBON MONOXIDE.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISP MUST BE IAW FEDERAL,STATE & LOCAL
+    REGULATIONS.COORDINATION W/ SUPPORTING INSTALLATION/MACOM ENVIRON
+    COORDINATION BEFORE DISP IS REC TO DETERMINE APPROP DISP METHODS
+    .MIX UNCONTAM MATL W/ SO LV & BURN IN INCINERATOR W/ AFTER BURNER
+    (SEE SUP)
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

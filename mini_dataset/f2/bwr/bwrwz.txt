@@ -1,0 +1,101 @@
+=====================  Product Identification  =====================
+
+Product ID:LIQUID OXYGEN
+MSDS Date:08/01/1990
+FSC:6830
+NIIN:00-808-9531
+MSDS Number: BWRWZ
+=== Responsible Party ===
+Company Name:LIQUID CARBONIC CORP
+Address:135 S LA SALLE STREET
+City:CHICAGO
+State:IL
+ZIP:60603-4282
+Country:US
+Info Phone Num:312-855-2500
+Emergency Phone Num:504-673-8831/800-424-9300(CHEMTREC)
+CAGE:36517
+=== Contractor Identification ===
+Company Name:LIQUID CARBONIC CORP
+Address:135 S LA SALLE STREET
+Box:City:CHICAGO
+State:IL
+ZIP:60603-4101
+Country:US
+Phone:312-855-2500
+CAGE:36517
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:OXYGEN
+CAS:7782-44-7
+RTECS #:RS2060000
+Fraction by Wt: 99.5%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Health Hazards Acute and Chronic:INHALATION: OXYGEN IS THE VITAL
+    ELEMENT IN THE ATMOSPHERE IN WHICH WE LIVE & BREATHE. ATMOSPHERE
+    CONTAINS  21 MOLAR % OXYGEN. BREATHING HIGH CONCENTRATIONS COULD
+    LEAD TO HYPEROXIA & PNEUMONIA OR COULD  PRESENT A RISK OF
+    INFLAMMATION OF ORGANIC MATTER IN BODY. PERSONS IN ILL HEALTH WHERE
+    SUCH ILLNESS WOULD BE AGGRAVATED*
+Effects of Overexposure:* BY EXPOSURE TO HIGH THAN NORMAL LEVELS OF
+    OXYGEN SHOULD NOT BE ALLOWED TO WORK WITH OR HANDLE THIS PRODUCT.
+    SKIN OR EYE CONTACT: CONTACT WITH THE CRYOGENIC LIQUID OR COLD
+    PIPING COULD RESULT IN CRYO GENIC "BURNS" OR FROSTBITE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: CONSCIOUS PERSONS SHOULD BE ASSISTED TO AN
+    UNCONTAMINATED AREA AND BREATHE FRESH AIR. THEY SHOULD BE KEPT WARM
+    AND QUIET. THE PHYSICIAN SHOULD BE INFORMED THAT THE VICTIM IS
+    EXPERIENCING ( HAS EXPERIENCED) HYPEROXIA. UNCONSCIOUSPERSONS
+    SHOULD BE MOVED TO AN UNCONTAMINATED AREA & GIVEN ASSISTED
+    RESPIRATION. WHEN BREATHING RESTORED, TREAT AS ABOVE. CONTINUED
+    TREATMENT SHOULD BE **
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:FIRES WITH OXYGEN AS THE OXIDIZER SHOULD BE FOUGHT
+    WITH COPIOUS QUANTITIES OF WATER.
+Fire Fighting Procedures:IF POSSIBLE, STOP THE SOURCES OF OXYGEN WHICH
+    IS SUPPORTING THE FIRE.
+Unusual Fire/Explosion Hazard:VIGOROUSLY ACCELERATES COMBUSTN.MANY
+    COMPOUNDS NOT FLAMMABLE IN AIR MAY BURN IN PURE OXYGEN.IF LIQ
+    CYLNDR INVOLVED IN FIRE,SAFELY RELOCATE/KEEP COOL W/H2O SPRAY
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:N/K	** SYMPTOMATIC AND SUPPORTIVE.
+    CRYOGENIC BURNS OR FROSTBITE: FLUSH AFFECTED AREAS WITH LUKEWARM
+    WATER. DO NOT USE HOT WATER. PHYSICIAN SHOULD SEE PATIENT PROMPTLY
+    IF CRYOGENIC "BURN" RESULTS IN  BLISTERING DERMAL SURFACE OR DEEP
+    TISSUE FREEZING
+
+=============  Exposure Controls/Personal Protection  =============
+
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:G4
+Boiling Pt:B.P. Text:-297F,-183C
+Vapor Pres:760 @ B PT
+Vapor Density:1.11 @ 70F
+Spec Gravity:1.14 @ B PT
+Solubility in Water:SLIGHTLY (VAPOR)
+Appearance and Odor:LIQUID IS CLEAR AND LIGHT BLUE; VAPOR IS COLORLESS
+    & ODORLESS.
+Percent Volatiles by Volume:100
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

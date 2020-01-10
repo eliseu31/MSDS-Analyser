@@ -1,0 +1,177 @@
+=====================  Product Identification  =====================
+
+Product ID:ENGINE BRITE HEAVY DUTY ENGINE CLEANER EB-1
+MSDS Date:08/01/1996
+FSC:6850
+NIIN:01-278-8273
+MSDS Number: BWRFS
+=== Responsible Party ===
+Company Name:RADIATOR SPECIALTY COMPANY
+Address:1400 W. INDEPENDENCE BLVD.
+City:CHARLOTTE
+State:NC
+ZIP:28208
+Country:US
+Info Phone Num:704-377-6555
+Emergency Phone Num:704-377-6555
+Preparer's Name:K. PHILLIPS,CHEMIST
+CAGE:77628
+=== Contractor Identification ===
+Company Name:RADIATOR SPECIALTY COMPANY
+Address:1900 WILKINSON BLVD.
+Box:34689
+City:CHARLOTTE
+State:NC
+ZIP:28208
+Country:US
+Phone:704-377-6555/303-623-5716
+CAGE:77628
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NONYLPHENOL POLYETHOXATE
+CAS:9016-45-9
+RTECS #:MD0900000
+Fraction by Wt: 4-5%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:ALIPHATIC PETROLEUM DISTILLATE
+CAS:68476-34-6
+Fraction by Wt: 80-84%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:HEAVY AROMATIC NAPHTHA (SOLVENT NAPHTHA)
+CAS:64742-94-5
+RTECS #:WF3100000
+Fraction by Wt: 8-9%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:2-BUTOXYETHANOL
+CAS:111-76-2
+RTECS #:KJ8575000
+Fraction by Wt: 1-2%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:S, 50 PPM
+ACGIH TLV:S, 25 PPM; 9596
+
+Ingred Name:PETROSUL 2729; (SODIUM PETROLEUM SULFONATE)
+CAS:68608-26-4
+RTECS #:WR7150000
+Fraction by Wt: 1-2%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:CARBON DIOXIDE
+CAS:124-38-9
+RTECS #:FF6400000
+Fraction by Wt: 1-3%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:5000 PPM
+ACGIH TLV:5000PPM/30000STEL;96
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYE:SEVERE IRRIT.PROLONGED EXPOSURE
+    MAY CAUSE EYE BURNS.INAHL:OVEREXPOSURE MAY CAUSE NAUSEA,HEADACHE, &
+    RESPIRATORY IRRIT.SKIN:IRRIT,DEFATTING.OVEREXPOSURE MAY CAUSE
+    DERMATITIS.INGEST:HARMFUL OR FATAL	IF SWALLOWED.
+Explanation of Carcinogenicity:ONE COMPONENT, AROMATIC PETROLEUM
+    DISTILLATE, IS LISTED BY NTP AS A POSSIBLE CARCINOGEN. SEE SUPP
+    DATA.
+Effects of Overexposure:SEVERE EYE IRRIT, BURNS. NAUSEA,
+    HEADACHE,RESPIRATORY IRRIT. SKIN IRRIT,DEFATTING, DERAMTITIS.
+    HARMFUL/FATAL IF SWALLOWED.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH W/WATER FOR @LEAST 15MINS.IF ADVERSE SYMPT PERSIST
+    CONSULT PHYSICIAN IMMED.SKIN:WASH W/SOAP/WATER THOROUGHLY.REMOE
+    CONTAM CLOTHING & LAUNDER BEFORE REUSE.INHAL:MOVE TO FRESH AIR
+    IMMED.CONSUL T PHYSICIAN IF ADVERSE EFFECTS CONTINUE.INGEST:DRINK
+    WATER.DONT INDUCE VOMITING.CONSULT PHYSICIAN IMMED.DONT ADMINISTER
+    ADRENALIN OR EPINEPHRINE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:165F,74C
+Autoignition Temp:Autoignition Temp Text:NP
+Lower Limits:NP
+Upper Limits:NP
+Extinguishing Media:WATER FOG, FOAM, CO2, DRY CHEMICAL.
+Fire Fighting Procedures:WEAR SELF-CONTAIN POSITIVE PRESSURE BREATHING
+    APPARATUS & PROTECTIVE CLOTHES.COOL CNTNRS W/WATER SPRAY.USE SHIELD
+    TO PROTECT FROM VENTING OR BURSTING CANS.
+Unusual Fire/Explosion Hazard:AT ELEVATED TEMPERATURES CONTAINERS MAY
+    VENTI,RUPTURE OR BURST, EVEN VIOLENTLY.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:OBSERVING HEALTH HAZARDS DESCRIBED ABOVE,
+    VENTILATE AREA, REMOVE IGNITION SOURCES.FLUSH RESIDUE W/WATER,
+    CONFINE SPILL & PLACE IN DRUM.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.TION. BULK
+    HNDLG:GENERAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL PLACE AWAY FROM IGNITION
+    SOURCES.
+Other Precautions:COMBUSTIBLE!KEEP AWAY FROM CHILDREN & ANIMALS.WEARING
+    OF CONTACT LENSES IS INADVISABLE.DONT PUNCTURE OR INCINDERATE
+    CONTAINERS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:CONSUMER:NA. BULK HNDLG:NIOSH APPROVED
+    RESPIRATOR.
+Ventilation:CONSUMER:USE W/ADEQUATE VENTILATION. BULK HNDLG:GENERAL.
+Protective Gloves:NONE SPECIFIED BY MANUFACTURER.
+Eye Protection:CONSUMER:GOGG.BULK:FULLY PROT GOG,FCSHIE
+Other Protective Equipment:CONSUMER:NA. BULK HNDLG:SOLVETN RESISTANT
+    GLOVES & APRON.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V4
+Boiling Pt:B.P. Text:305F,152C
+Melt/Freeze Pt:M.P/F.P Text:NA
+Decomp Temp:Decomp Text:NP
+Vapor Pres:N/AVAI
+Vapor Density:1.2
+Spec Gravity:0.86
+pH:7-8
+Viscosity:NP
+Evaporation Rate & Reference:NA
+Solubility in Water:EMSULSIFIES
+Appearance and Odor:AMBER LIQUID WITH PETROLEUM ODOR
+Percent Volatiles by Volume:95
+Corrosion Rate:NP
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:HIGH TEMPERATURES & IGNITION SOURCES
+    PRODUCE PRODUCTS OF COMBUSTION:CARBON MONOXIDE, SURLFUR-LIKE SMOKE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTAINS CHEM SUBJ TO REPORTING REQMTS OF SEC
+    313 SARA TITLE III.DISPOSE OF IN ACCORDANCE WITH APPLICABLE
+    GOVERNMENT LAWS/REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

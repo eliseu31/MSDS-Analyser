@@ -1,0 +1,124 @@
+=====================  Product Identification  =====================
+
+Product ID:TUNGSTEN ANHYDRIDE, 0240-2044
+MSDS Date:03/05/1992
+FSC:6810
+NIIN:00N057746
+MSDS Number: BWRTW
+=== Responsible Party ===
+Company Name:PERKIN-ELMER CORP
+Address:761 MAIN AVE
+City:NORWALK
+State:CT
+ZIP:06859
+Country:US
+Info Phone Num:203-762-1000
+Emergency Phone Num:203-762-4464
+CAGE:GO172
+=== Contractor Identification ===
+Company Name:PERKIN ELMER CORP
+Address:761 MAIN AVE
+Box:City:NORWALK
+State:CT
+ZIP:06859
+Country:US
+Phone:203-762-1000
+CAGE:46555
+Company Name:PERKIN-ELMER CORP
+Address:HDQS 761 MAIN AVE
+City:NORWALK
+State:CT
+ZIP:06859-0001
+Country:US
+Phone:203-762-1000
+CAGE:GO172
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TUNGSTEN OXIDE; (TUNGSTEN ANHYDRIDE)
+CAS:1314-35-8
+RTECS #:YO7760000
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50:(ORAL,RAT) 840 MG/KG.
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:INHAL:NO DATA FOUND. REGARD AS
+    TOXIC BY INHALATION. INGEST:MODERATELY TOXIC BY INGESTION. SKIN:NO
+    DATA FOUND. EYE:IRRITATING. CHRONIC:NO DATA FOUND.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NO DATA FOUND.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:MOVE PERS TO FRESH AIR. ADMIN OXYGEN IF PERS EXPERS
+    DFCLTY IN BRTHG. INGEST:IMMED CONT LOC POIS CTL CTR. SKIN:REMOVE
+    CONTAM CLTHG, THEN FLUSH SKIN W/WATER FOR AT LST 15 MINS. WASH
+    CLTHG THORO &  SEPARATELY, BEFORE RE-USE. EYE:FLUSH W/WATER FOR AT
+    LST 15 MINS, OCCAS LIFTING UPPER & LOWER EYELIDS. IF IRRITATION
+    CONTINUES, GET MEDICAL ATTENTION IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:MEDIA SUITABLE FOR SURROUNDING FIRE .
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONCOMBUSTIBLE. NOT AN EXPLOSION HAZARD.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SPILLS MAY BE SWEPT UP, AVOIDING GENERATION OF
+    DUST. PLACE MATERIAL IN A SEALED CONTAINER FOR PROPER DISPOSAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID STORING THIS PRODUCT NEAR
+    INCOMPATIBLE MATERIALS. KEEP CONTAINER TIGHTLY SEALED WHEN NOT IN
+    USE. AVOID GENERATION OF DUST.
+Other Precautions:AVOID INHALATION, INGESTION & CONTACT W/EYES & SKIN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR NIOSH/MSHA APPROVED RESPIRATOR.
+Ventilation:USE IN A LABORATORY HOOD OR W/LOCAL EXHAUST.
+Protective Gloves:CHEMICAL RESISTANT GLOVES.
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGGS(SUPDAT)
+Other Protective Equipment:EYE WASH FOUNTAIN & DELUGE SHOWER WHICH MEET
+    ANSI DESIGN CRITERIA . WEAR CHEMICAL RESISTANT CLOTHING.
+Work Hygienic Practices:WASH THOROUGHLY AFTER USE.
+Supplemental Safety and Health
+MATLS TO AVOID:W/FOLLOWING MATERIALS: CHLORINE, CHLORINE TRIFLUORIDE,
+    LITHIUM. EYE PROT:& FULL LENGTH FACESHIELD .
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:M.P/F.P Text:2683F,1473C
+Spec Gravity:7.16 (H*2O=1)
+Solubility in Water:INSOLUBLE
+Appearance and Odor:YELLOW POWDER; ODORLESS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+EXTREMELY VIOLENT/EXPLO RXNS HAVE BEEN REPORTED TO OCCUR WHEN TUNGSTEN
+    ANHYDRIDE IS PERMITTED TO COME INTO CONT (SUPDAT)
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:NO DATA FOUND.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:COMPLY W/ALL FEDERAL, STATE & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

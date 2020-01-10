@@ -1,0 +1,109 @@
+=====================  Product Identification  =====================
+
+Product ID:R-392-2 FIRE FIGHTING FOAM
+MSDS Date:06/10/1987
+FSC:4210
+NIIN:00F018561
+MSDS Number: BLPJD
+=== Responsible Party ===
+Company Name:AMREP INC
+Address:945 E PLEASANT RUN RD
+City:LANCASTER
+State:TX
+ZIP:75146
+Info Phone Num:(214) 227-3304
+Emergency Phone Num:(214) 227-3304
+Preparer's Name:K.L. REDDICK
+CAGE:3V338
+=== Contractor Identification ===
+Company Name:AMREP INC
+Address:990 INDUSTRIAL PK DR
+Box:City:MARIETTA
+State:GA
+ZIP:30062-2433
+Country:US
+Phone:404-422-2071
+CAGE:3V338
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NONYLPHENOXYPOLYETHOXYETHANOL
+CAS:68412-54-4
+Fraction by Wt: <5%
+
+Ingred Name:NON-HAZARDOUS FOR INGREDIENTS
+Fraction by Wt: >95%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION. SKIN: IRRITATION &
+    DRYING. INGESTION: GASTROINTESTINAL IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: IRRITATION. SKIN: IRRITATION & DRYING.
+    INGESITON: GASTROINTESTINAL IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES/SKIN: WASH W/COOL WATER FOR 15 MIN. INHALATION: REMOVE
+    TO FRESH AIR. INGESTION: DON'T INDUCE VOMITING. OBTAIN MEDICAL
+    ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE MEDIA APPROPRIATE FOR SURROUNDING FIRE.
+Unusual Fire/Explosion Hazard:RESIDUE REMAINING AFTER WATER HAS
+    EVAPORATED WILL SUPPORT COMBUSTION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DILUTE SMALL SPILL W/WATER & WASH DOWN THE
+    DRAIN. DIKE & CONTAIN LARGE SPILL, COLLECT & REUSE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINED, SEALED & IN A COOL
+    AREA WHEN NOT IN USE. STORE IN ORIGINAL CONTAINER W/PROPER LABEL
+    INTACT. SHELF LIFE 1 YEAR.
+Other Precautions:KEEP AWAY FROM CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:NORMAL VENTILATION: ADEQUATE.
+Protective Gloves:RUBBER
+Eye Protection:GOGGLES
+Work Hygienic Practices:WASH HANDS & FACE AFTER USE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>200F
+Vapor Pres:18
+Vapor Density:3
+Spec Gravity:1.02
+Evaporation Rate & Reference:(WATER = 1): 0.09
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR FLUID, LOW VISCOSITY, AMBER COLOR W/BOUQUET
+    FRAGRANCE
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ANY MATERIAL NOT COMPATIBLE W/WATER.
+Hazardous Decomposition Products:OXIDES OF CARBON, NITROGEN, & SULFUR
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PRODUCT MAY BE DISPOSED OF IN A NON-HAZARDOUS
+    LANDFILL ACCORDING TO FEDERAL, STATE, & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

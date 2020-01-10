@@ -1,0 +1,129 @@
+=====================  Product Identification  =====================
+
+Product ID:PROPELLANT GRAIN 2R PELLETS BKNO3
+MSDS Date:05/16/1989
+FSC:1376
+NIIN:01-281-1665
+MSDS Number: BLMXG
+=== Responsible Party ===
+Company Name:TRACOR AEROSPACE INC
+Address:HIGHLAND INDUSTRIAL PARK
+Box:3297
+City:EAST CAMDEN
+State:AR
+ZIP:71701
+Country:US
+Info Phone Num:501-574-1712
+Emergency Phone Num:501-574-1712
+CAGE:19397
+=== Contractor Identification ===
+Company Name:TRACOR AEROSPACE INC
+Address:HIGHLAND INDUSTRIAL PARK
+Box:City:EAST CAMDEN
+State:AR
+ZIP:71701
+Country:US
+Phone:501-574-1712
+CAGE:19397
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BORON OXIDE
+CAS:1303-86-2
+RTECS #:ED7900000
+Fraction by Wt: 12-25%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3; 9293
+
+Ingred Name:POTASSIUM NITRATE. DECOMP TEMP: 400 C
+CAS:7757-79-1
+RTECS #:TT3700000
+Fraction by Wt: 70-85%
+
+Ingred Name:BINDERS; (POLYESTER BINDER)
+Fraction by Wt: 0-8%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:TOXICITY- MODERATE (BORON IS AN
+    ACCUMULATIVE POISON). COMBUSTION TOXICITY- TOXIC, AVOID INHALATION
+    AND INGESTION.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: IMMEDIATELY FLUSH WITH POTABLE WATER FOR A MINIMUM OF 15
+    MIN. SEEK ASSISTANCE FROM MD . SKIN: FLUSH WITH COPIOUS AMOUNTS OF
+    WATER. CALL MD . INHAL: REMOVE TO FRESH AIR. SUPPORT BREATH ING.
+    (GIVE O*2/ARTF RESP) . INGEST: GET MD IMMEDIATELY .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:INGREDIENT 1
+Extinguishing Media:EXTINGUISHING MEDIA SUITABLE FOR SURROUNDING FIRE .
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT . TOXIC COMBUSTION PRODUCTS; AVOID INHALATION
+    OR INGESTION.
+Unusual Fire/Explosion Hazard:BORON: HIGH FIRE/EXPLO HAZ AS DUST OR
+    MIXED W/OXIDIZERS. POTASSIUM NITRATE: MODERATE FIRE HAZ. CAN
+    DECOMPOSE AT ELEVATED TEMPS AND OR FUELS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:KEEP FIRE AND/OR IGNITION SOURCES AWAY. USING
+    PROPER PERSONAL PROTECTIVE AND HANDLING EQUIPMENT, CLEAN UP AND
+    DISPOSE OF SPILLED MATERIAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM HIGH TEMPERATURE, FIRE
+    AND OTHER IGNTION SOURCES.
+Other Precautions:FOLLOW APPLICABLE SAFETY PRECAUTIONS AND REGULATIONS
+    FOR EXPLOSIVES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED GENERAL VENTILATION
+    AND/OR RESPIRATORS IF REQUIRED.
+Ventilation:USE APPROVED GENERAL VENTILATION.
+Protective Gloves:NONE SPECIFIED BY MANUFACTURER.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:AS A MINIMUM, CONDUCTIVE FOOTWEAR, FLAME
+    RESISTANT CLOTHING.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:1.6-2
+Appearance and Odor:DARK BROWN PELLETS.
+Percent Volatiles by Volume:< 0.5
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:EXPOSURE TO HUMIDITY WILL RESULT IN
+    ABSORPTION OF WATER WHICH MAY CAUSE DEGRAGATION OF PERFOMANCE.
+Hazardous Decomposition Products:TOXIC FUMES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:BURN UNDER FEDERAL, STATE AND LOCAL APPROVED
+    CONDITIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

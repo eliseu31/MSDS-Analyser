@@ -1,0 +1,166 @@
+=====================  Product Identification  =====================
+
+Product ID:10-4706 CORONA DOPE (AEROSOL)
+MSDS Date:11/02/1989
+FSC:8010
+NIIN:00F019189
+MSDS Number: BLPPV
+=== Responsible Party ===
+Company Name:GC ELECTRONICS
+Address:1801 MORGAN ST
+City:ROCKFORD
+State:IL
+ZIP:61105-1209
+Info Phone Num:(815) 968-9661
+Emergency Phone Num:(815) 968-9661
+CAGE:72653
+=== Contractor Identification ===
+Company Name:GC THORSEN
+Address:1801 MORGAN STREET
+Box:City:ROCKFORD
+State:IL
+ZIP:61105
+Country:US
+Phone:815-968-9661
+CAGE:72653
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ACETONE  (SARA III)
+CAS:67-64-1
+RTECS #:AL3150000
+Fraction by Wt: 8%
+Other REC Limits:590 MG/CUM
+OSHA PEL:1000PPM
+ACGIH TLV:750PPM/1000STEL;9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:N-BUTYL ACETATE  (SARA III)
+CAS:123-86-4
+RTECS #:AF7350000
+Fraction by Wt: 15%
+Other REC Limits:150 PPM
+OSHA PEL:150 PPM/200 STEL
+ACGIH TLV:150 PPM/200STEL;9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ETHYL ACETATE  (SARA III)
+CAS:141-78-6
+RTECS #:AH5425000
+Fraction by Wt: 12%
+Other REC Limits:400 PPM
+OSHA PEL:400 PPM
+ACGIH TLV:400 PPM; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 19%
+Other REC Limits:100 PPM
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:PLASTICIZER
+Fraction by Wt: <18%
+
+Ingred Name:PIGMENT
+Fraction by Wt: <18%
+Other REC Limits:10 MG/CUM (DUST)
+
+Ingred Name:BUTANE
+CAS:106-97-8
+RTECS #:EJ4200000
+Fraction by Wt: <23%
+Other REC Limits:800 PPM
+OSHA PEL:800 PPM
+ACGIH TLV:800 PPM; 9192
+
+Ingred Name:PROPANE
+CAS:74-98-6
+RTECS #:TX2275000
+Fraction by Wt: <23%
+Other REC Limits:1800 MG/CUM
+OSHA PEL:1000 PPM
+ACGIH TLV:ASPHYXIANT; 9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: DIZZINESS, NAUSEA,
+    FATIQUE, NASAL & RESPIRATORY IRRITATION. INGESTION:
+    GASTROINTESTINAL IRRITATION, DIARRHEA, VOMITING, ASPIRATION INTO
+    LUNGS CAN CAUSE CHEMICAL PNEUMONITIS. SKIN: IRRITATI ON &
+    DERMATITIS. EYES: IRRITATION, BLURRED VISION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: DIZZINESS, NASUEA, FATIQUE,
+    NASAL/RESPIRATORY IRRITATION. INGESTION: GASTROINTESTINAL
+    IRRITATION, DIARRHEA, VOMITING, ASPIRATION INTO LUNGS MAY CAUSE
+    CHEMICAL PNEUMONITIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER FOR AT LEAST 15 MINS. SKIN: WASH W/SOAP &
+    WATER. INHALATION: MOVE TO FRESH AIR. GIVE OXYGEN, ARTIFICIAL
+    RESPIRATION. INGESTION: DON'T INDUCE VOMITING. KEEP WARM. OBTAIN
+    MEDICAL ATT ENTION ALL IN CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:CO2, FOAM, DRY CHEMICAL
+Fire Fighting Procedures:USE SELF CONTAINED BREATHING APPARATUS. FUMES
+    FROM COMBUSTION ARE TOXIC.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:PICK UP W/INERT ABSORBENT. STORE IN SEALED
+    METAL CONTAINERS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM HEAT OR IGNITION
+    SOURCES. AVOID CONTACT W/SKIN. FUMES FROM COMBUSTION ARE TOXIC.
+Other Precautions:USE ONLY IN WELL VENTILATED AREA.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:APPROVED RESPIRATOR OR SCBA IF TLV'S EXCEEDED.
+Ventilation:LOCAL EXHAUST OR MECHANICAL TO KEEP <TLV.
+Protective Gloves:AS REQUIRED
+Eye Protection:CHEMICAL GOGGLES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:0.80
+Evaporation Rate & Reference:(BU AC = 1): 1.5
+Solubility in Water:INSOLUBLE
+Appearance and Odor:BLACK OPAQUE LIQUID, ACETATE ODOR.
+Percent Volatiles by Volume:82%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS
+Stability Condition to Avoid:HIGH TEMPERATURES, HEAT OR IGNITION
+    SOURCES
+Hazardous Decomposition Products:CO, CO2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:AUTHORIZED INCINERATOR OR RECLAIMER.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

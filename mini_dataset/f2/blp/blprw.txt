@@ -1,0 +1,120 @@
+=====================  Product Identification  =====================
+
+Product ID:DURABOND AR-20 ALMOND GROUT
+MSDS Date:09/16/1988
+FSC:8030
+NIIN:00F019232
+MSDS Number: BLPRW
+=== Responsible Party ===
+Company Name:DAP INC
+Box:277
+City:DAYTON
+State:OH
+ZIP:45401-0277
+Info Phone Num:(800) 543-3840
+Emergency Phone Num:(800) 543-3840
+CAGE:90300
+=== Contractor Identification ===
+Company Name:DAP INC.
+Box:277
+City:DAYTON
+State:OH
+ZIP:45401-0277
+Country:US
+Phone:513-253-7154/800-543-3840
+CAGE:90300
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SILICA, CRYSTALLINE - QUARTZ
+CAS:14808-60-7
+RTECS #:VV7330000
+Fraction by Wt: 50-60%
+Other REC Limits:0.05 MG/CUM NIOSH
+OSHA PEL:SEE TABLE Z3
+ACGIH TLV:0.1 MG/M3 RDUST;9293
+
+Ingred Name:PORTLAND CEMENT
+CAS:65997-15-1
+RTECS #:VV8770000
+Fraction by Wt: 25-35%
+Other REC Limits:50 MPPCF (MSHA)
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN: WET CEMENT CAN DRY & ALKALI
+    BURNS. INHALATION: DUST CAN CAUSE EYES, EARS, NOSE & MOUTH
+    IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN: WET CEMENT CAN DRY & ALKALI BURNS.
+    INHALATION: DUST CAN CAUSE PULMONARY & RESPIRATORY DAMAAGE, EYES,
+    EARS, NOSE & MOUTH IRRITATION.
+Medical Cond Aggravated by Exposure:ASTHMATIC CONDITIONS
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH W/LARGE AMOUNTS OF WATER FOR 15 MINS. SKIN: WASH
+    W/SOAP & WATER. INHALATION: REMOVE TO FRESH AIR. INGESTION: DON'T
+    INDUCE VOMITING. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL
+Fire Fighting Procedures:USE WATER SPRAY TO COOL EXPOSED SURFACES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE ABSORBENT MATERIAL OR SCRAPE UP DRIED
+    MATERIAL & PLACE INTO CONTAINERS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM ACIDS. KEEP CONTAINERS
+    TIGHTLY CLOSED WHEN NOT IN USE. KEEP OUT OF REACH OF CHILDREN. KEEP
+    CONTAINERS FROM EXCESSIVE HEAT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF TLV IS EXCEEDED FOR ANY COMPONENT, USE AN
+    APPROVED NIOSH/OSHA RESPIRATOR.
+Ventilation:IF DRY-SANDING, PROVIDE SUFFICIENT MECHANICAL VENTILATION
+    TO KEEP <TLV & PEL.
+Protective Gloves:RECOMMENDED
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:PROVIDE EYEWASH & IMPERVIOUS APRON.
+Work Hygienic Practices:WASH CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:2.3-2.4
+Solubility in Water:DISPERSION
+Appearance and Odor:SANDY FREE-FLOWING POWDER, ALMOND COLOR.
+Percent Volatiles by Volume:<1%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACIDS
+Stability Condition to Avoid:EXCESSIVE HEAT
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. DON'T REUSE EMPTY CONTAINERS. THIS PRODUCT IS
+    NON-HAZARDOUS ACCORDING TO U.S. EPA'S HAZARDOUS WASTE MANAGEMENT
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

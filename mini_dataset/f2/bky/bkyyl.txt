@@ -1,0 +1,110 @@
+=====================  Product Identification  =====================
+
+Product ID:236141 HDL-CHOLESTEROL PRECIPITANT
+MSDS Date:11/15/1988
+FSC:6550
+NIIN:01-314-2639
+MSDS Number: BKYYL
+=== Responsible Party ===
+Company Name:CIBA CORNING DIAGNOSTICS CORPORATION
+Address:132 ARTINO STREET
+City:OBERLIN
+State:OH
+ZIP:44074
+Info Phone Num:(216) 774-1041
+Emergency Phone Num:(216) 774-1041
+Preparer's Name:DEBBIE MULL
+CAGE:24143
+=== Contractor Identification ===
+Company Name:CIBA CORNING DIAGNOSTICS CORP GILFORD SYSTEMS
+Address:132 ARTINO ST
+Box:City:OBERLIN
+State:OH
+ZIP:44074-1206
+Country:US
+Phone:216-774--1041
+CAGE:24143
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MAGNESIUM SULFATE
+CAS:10034-99-8
+RTECS #:OM4508000
+Fraction by Wt: 92.3%
+
+Ingred Name:SODIUM AZIDE  (SARA III)
+CAS:26628-22-8
+RTECS #:VY8050000
+Fraction by Wt: 0.19%
+Other REC Limits:0.1 PPM
+OSHA PEL:S, C 0.1 PPM(HN3)
+ACGIH TLV:C 0.11 PPM; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL-RAT LD50: 27 MG/KG SODIUM AZIDE
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN/EYES: IRRITATION. INHALATION:
+    RESPIRATORY IRRITATION OR INTESTINAL PAIN. SODIUM AZIDE MAY ALTER
+    GENETIC MATERIALS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN/EYES: IRRITATION. INHALATION: RESPIRATORY
+    IRRITATION OR INTESTINAL PAIN. SODIUM AZIDE MAY ALTER GENETIC
+    MATERIALS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES/SKIN: FLUSH AREA W/WATER FOR 15 MINS. INGESTION: OBTAIN
+    MEDICAL ATTENTION IN ALL CASES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP DRY. THEN FLUSH AFFECTED AREA
+    W/WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE BETWEEN 35.6 - 46.4F. AVOID
+    CONTACT W/SKIN, EYES & INGESTION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:DUST MASK REQUIRED WHEN WORKING W/THE DRY,
+    UNRECONSTITUED HDL-CHOLESTEROL PRECIPITANT.
+Ventilation:GENERAL
+Protective Gloves:LATEX
+Eye Protection:GOGGLES
+Other Protective Equipment:EYEBATH, USUAL LABORATORY PROTECTIVE
+    CLOTHING.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING PRODUCT. FOLLOW
+    GOOD LABORATORY PRACTICES.
+Supplemental Safety and Health
+THIS PRODUCT IS LABELED IN ACCORDANCE W/CFR 21 FOOD & DRUG
+    ADMINISTRATION. INGREDIENT PERCENTAGES ARE BASED ON THE
+    DRY-UN-RECONSTITUTED PRODUCTS.
+
+==================  Physical/Chemical Properties  ==================
+
+Solubility in Water:COMPLETE
+Appearance and Odor:WHITE POWDER
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

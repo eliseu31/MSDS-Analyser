@@ -1,0 +1,149 @@
+=====================  Product Identification  =====================
+
+Product ID:ETHAFOAM 220 ANTI-STATIC PLANK POLYETHYLENE
+MSDS Date:03/20/1988
+FSC:9330
+NIIN:01-185-2486
+MSDS Number: BLMWR
+=== Responsible Party ===
+Company Name:DOW CHEMICAL U.S.A.
+Address:CHEMICAL AND METALS DEPARTMENT
+City:MIDLAND
+State:MI
+ZIP:48674
+Country:US
+Info Phone Num:517-636-4400
+Emergency Phone Num:517-636-4400
+CAGE:96717
+=== Contractor Identification ===
+Company Name:DOW CHEMICAL CO
+Address:100 LARKIN CENTER
+Box:City:MIDLAND
+State:MI
+ZIP:48674
+Country:US
+Phone:800-258-2436
+CAGE:96717
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WAX/POLYETHYLENE FOAM
+CAS:8002-74-2
+RTECS #:RV0350000
+Fraction by Wt: 84- 100%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:DICHLORODIFLUOROMETHANE  (SARA III)
+CAS:75-71-8
+RTECS #:PA8200000
+Fraction by Wt: 0 - 3%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:1000 PPM
+ACGIH TLV:1000 PPM; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+Ozone Depleting Chemical:1
+
+Ingred Name:DICHLOROTETRAFLUOROETHANE  (SARA III)
+CAS:76-14-2
+RTECS #:KI1101000
+Fraction by Wt: 0 - 11%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:1000 PPM
+ACGIH TLV:1000 PPM; 9192
+Ozone Depleting Chemical:1
+
+Ingred Name:ETHOXYLATED ALKYL AMINE/ANTI-STATIC ADDITIVE
+CAS:61791-44-4
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE-EYE:SOLID/DUST MAY CAUSE
+    IRRITATION/CORNEAL INJURY.SKIN:NON-IRRITATING.MECHANICAL INJURY
+    ONLY.INHALATION:DUST/VAPORS MAY CAUSE IRRITATION OF UPPER
+    RESPIRATORY TRACT.INGESTION:MAY CAUSE CHOKING.C HRONIC-NONE
+Effects of Overexposure:DUST MAY CAUSE EYE IRRITATION/CORNEAL INJURY.
+    MECHANICAL INJURY OF SKIN ONLY.DUST/VAPORS (AT HIGH TEMPERATURES)
+    MAY CAUSE IRRITATION OF UPPER RESPIRATORY TRACT. INGESTION MAY
+    CAUSE CHOKING.
+Medical Cond Aggravated by Exposure:PERSONS WITH A HISTORY OF AILMENTS
+    OR WITH A PRE-EXISTING DISEASE INVOLVING THE SKIN, OR RESPIRATORY
+    TRACT MAY BE AT INCREASED RISK FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION:REMOVE TO FRESH AIR.CONSULT A
+    PHYSICIAN.EYES:IMMEDIATELY FLUSH WITH WATER FOR AT LEAST 5 MINUTES
+    HOLDING EYELIDS OPEN.MECHANICAL EFFECTS ONLY.SKIN/INGESTION:NO
+    ADVERSE EFFECTS ANTICIPATED.N OTE TO PHYSICIAN:NO SPECIFIC
+    ANTIDOTE.SUPPORTIVE CARE.TREATMENT BASED ON JUDGMENT OF THE
+    PHYSICIAN IN RESPONSE TO REACTIONS OF THE PATIENT.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE WATER FOG.
+Fire Fighting Procedures:WEAR FIRE FIGHTING PROTECTIVE EQUIPMENT AND A
+    FULL FACED SELF CONTAINED BREATHING APPARATUS OPERATED IN POSITIVE
+    PRESSURE. COOL FIRE EXPOSED CONTAINERS WITH H2O
+Unusual Fire/Explosion Hazard:DENSE SMOKE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:PICK UP AND HANDLE AS ANY OTHER INERT
+    MATERIAL.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORAGE-STORE IN A COOL AREA AWAY FROM
+    EXCESSIVE HEAT,FLAME/SOURCES OF IGNITION.
+Other Precautions:LARGE QUANTITIES OF THIS PRODUCT CAN CAUSE CORROSION
+    OF HEATERS AND EVENTUALLY CREATE HOLES IN THE COMBUSTION CHAMBER
+    LEADING TO THE RELEASE OF COMBUSTION GASES AND CARBON MONOXIDE.
+    THIS PRODUCT IS CO MBUSTIBLE AND CAN BURN RAPIDLY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NO RESPIRATORY PROTECTION SHOULD BE NEEDED.
+Ventilation:GOOD GENERAL VENTILATION. LOCAL EXHAUST VENTILATION MAY BE
+    NECESSARY FOR SOME OPERATIONS SUCH AS HOT-WIRE CUTTING.
+Protective Gloves:NOT NEEDED.RUBBER/PLASTIC MAY BE USED.
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:EYE WASH STATION, SAFETY SHOWER, WORK
+    CLOTHING
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Spec Gravity:0.02 - 0.06
+Solubility in Water:INSOLUBLE
+Appearance and Odor:CELLULAR SOLID PLASTIC FOAM WITH NO ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:FIRE AND TEMPERATURES ABOVE 625F(329C)
+Hazardous Decomposition Products:CARBON MONOXIDE AND OTHER TOXIC
+    SUBSTANCES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:REUSE OR BURY IN AN APPROVED LANDFILL. DISPOSAL
+    MUST BE MADE IN ACCORDANCE WITH ALL APPLICABLE FEDERAL, STATE AND
+    LOCAL LAWS AND REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

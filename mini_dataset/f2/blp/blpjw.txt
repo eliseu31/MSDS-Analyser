@@ -1,0 +1,143 @@
+=====================  Product Identification  =====================
+
+Product ID:5004 BELT-GUARD AEROSOL
+MSDS Date:04/26/1990
+FSC:6850
+NIIN:00F019091
+MSDS Number: BLPJW
+=== Responsible Party ===
+Company Name:MANTEK, DIVISION OF NCH CORP
+Box:152170
+City:IRVING
+State:TX
+ZIP:75015
+Info Phone Num:(214) 438-1381
+Emergency Phone Num:(214) 438-1381
+Preparer's Name:KELLY SEALS
+CAGE:FO947
+=== Contractor Identification ===
+Company Name:MANTEK, DIVISION OF NCH CORP
+Box:152170
+City:IRVING
+State:TX
+ZIP:75015
+Phone:(214) 438-1381
+CAGE:FO947
+Company Name:NCH CORP
+Address:2727 CHEMSEARCH BLVD
+Box:152170
+City:IRVING
+State:TX
+ZIP:75015-2170
+Country:US
+Phone:972-438-0563
+CAGE:20913
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL CHLOROFORM (1,1,1-TRICHLOROEHANE)  (SARA III)
+CAS:71-55-6
+RTECS #:KJ2975000
+Fraction by Wt: 80%
+Other REC Limits:450 PPM STEL
+OSHA PEL:350 PPM/450 STEL
+ACGIH TLV:350 PPM/450STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+Ozone Depleting Chemical:1
+
+Ingred Name:CARBON DIOXIDE
+CAS:124-38-9
+RTECS #:FF6400000
+Other REC Limits:10000 PPM
+OSHA PEL:5000 PPM
+ACGIH TLV:5000PPM/30000STEL;93
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL HUMAN TDLO: 670 MG/KG SEE SUP.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: HEADACHE, NAUSEA,
+    ASPHYXIATION, CENTRAL NERVOUS SYSTEM DEPRESSION, MUCOUS MEMBRANES
+    IRRITATION. SKIN: IRRITATION. EYES: BLURRED VISION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: HEADACHE, NAUSEA, DIZZINESS,
+    ASPHYXIATION, CENTRAL NERVOUS SYSTEM DEPRESSION & MUCOUS MEMBRANES
+    IRRITATION. EYES: BLURRED VISION. SKIN: IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: MOVE TO FRESH AIR & TREAT SYMPTOMATICALLY. IF
+    BREATHING IS DIFFICULT, GIVE OXYGEN. IF BREATHING STOPS, GIVE
+    ARTIFICIAL RESPIRATION. EYES: FLUSH W/WATER 5-6 MINS. SKIN: WASH
+    W/SOAP & WATER.  INGESTION: DON'T INDUCE VOMITING. IF IT OCCURS,
+    KEEP HEAD BELOW HIPS TO PREVENT ASPIRATION OF LIQUID INTO LUNGS.
+    OBTAIN MEDICAL ATTENTION IN ALL CASES. (SEE SUPP.).
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:NON-FLAMMABLE
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL, WATER SPRAY
+Fire Fighting Procedures:SPRAY WATER ON AEROSOL CONTAINERS TO COOL THEM
+    & AVOID RUPTURING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SPILL IS UNLIKELY, PRODUCT IS IN AN AEROSOL
+    CONTAINER. IF SPILLED, PREVENT FROM ENTERING SEWER OR WATER
+    SOURCES. VENTILATE ENCLOSED AREA. CLEAN UP W/RAGS OR ABSORB W/SAND,
+    COTTON WASTE OR OTHER ABSORB ANTS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP OUT OF REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF PRODUCT IS MISTED, USE NIOSH APPROVED MASK
+    FOR SPRAY MISTS. IN EMERGENCIES: CCROV/SA/SCBA,
+    CCROVF/GMOV/SAF/SCBAF, OR GMOV/SCBA.
+Ventilation:PROVIDE SUFFICIENT VENTILATION TO BE EQUAL TO OR <TLV.
+Protective Gloves:VITON, PVA OR EQUIVALENT
+Eye Protection:CHEMICAL GOGGLES
+Supplemental Safety and Health
+PHYSICIAN NOTES: DEPENDING ON THE AMOUNT INGESTED & RETAINED AS WELL AS
+    THE TOXICITY OF THE PRODUCT, GASTRIC LAVAGE SHOUDL BE EMPLOYED
+    BEDCAUSE OF PULMONARY ASPIRATION. IF COMATOSE, A CUFFED ENDOTRACH
+    EAL TUBE WILL PREVENT ASPIRATION. CONSULT A POISON CONTROL CENTER.
+    TDLO IS FOR 1,1,1 TRICHLOROETHANE.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:165F
+Vapor Pres:80
+Vapor Density:4.6
+Spec Gravity:1.050
+Evaporation Rate & Reference:(BU AC = 1): 5.0
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:AMBER, TRANSPARENT, CHLORINATED ODOR.
+Percent Volatiles by Volume:82%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ALKALIES, ACIDS, & SELECTED AMINES
+Hazardous Decomposition Products:CO2, HYDROGEN CHLORIDE, & PHOSGENE &
+    CO
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. WRAP EMPTY CAN W/SEVERAL LAYERS OF NEWSPAPER &
+    DISCARD IN TRASH.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

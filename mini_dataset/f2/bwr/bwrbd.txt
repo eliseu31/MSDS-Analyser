@@ -1,0 +1,159 @@
+=====================  Product Identification  =====================
+
+Product ID:27 PAINT THINNER, TT-T-291
+MSDS Date:03/23/1990
+FSC:8010
+NIIN:00-582-4583
+MSDS Number: BWRBD
+=== Responsible Party ===
+Company Name:PRO-LINE PAINT CO
+Address:2646 MAIN ST
+City:SAN DIEGO
+State:CA
+ZIP:92113-3697
+Country:US
+Info Phone Num:619-231-2313;619-232-8968
+Emergency Phone Num:619-728-3192;619-274-8357
+Preparer's Name:F SOETERIK
+CAGE:9D157
+=== Contractor Identification ===
+Company Name:PRO-LINE PAINT CO
+Address:2646 MAIN STREET
+Box:City:SAN DIEGO
+State:CA
+ZIP:92113-3697
+Country:US
+Phone:619-231-2313; 619-232-8968
+CAGE:9D157
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:KEROSENE (PETROLEUM), HYDROTREATED; (PETROLEUM SPIRITS)
+CAS:64742-47-8
+RTECS #:OA5504000
+Fraction by Wt: 100%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:SOLVENT NAPHTHA (PETROLEUM) MEDIUM ALIPHATIC;(PETROLEUM
+    SPIRITS)
+CAS:64742-88-7
+Fraction by Wt: 100%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:VOLATILE ORGANIC CONTENT: 780 GR/L
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50: (ORAL,RAT) > 15.3 GR/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: INHAL:SLIGHT ACUTE TOX BY
+    INHAL. BRTHG VAPS ABOVE EXPOS STD CAN CAUSE CNS DEPRESS.
+    SKIN/EYE:BURNING SENSATION FROM VAP/LIQ. DERM, SENSIT.
+    SKIN(ABSORP):MAY CAUSE SKIN IRRIT ON PLNGD/FREQUENT RPT D CONT.
+    INGEST:TOX IF INGESTED. CAN CAUSE BURNING SENSATION, VOMIT, DIARR,
+    DROWS. NAUS, DIZZ, HDCH,(EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ:CONVULS. INGEST OF PROD/SUBSEQUENT
+    VOMIT CAN RSLT IN ASPIR OF LIGHT HYDROCARBON LIQ WHICH CAN CAUSE
+    PNEUM. CHRONIC: RPTS HAVE SHOWN THAT ASSOC RPTD & PLNGD OCCUP
+    OVEREXP TO SOLVS CAN CAUSE PE RM BRAIN & CNS DMG. INTENTIONAL
+    MISUSE BY DELIB CONC & INHAL CONTENTS MAY BE HARMFUL/FATAL. USE
+    ONLY W/ADEQ VENT.
+Medical Cond Aggravated by Exposure:ASTHMA & SKIN ALLERGIES.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH IMMED W/FRESH WATER BY AN EYE WASH APPARATUS/BY
+    HAND. SEEK MED ATTN. SKIN: WASH IMMED W/WATER. THEN WASH W/SOAP &
+    WATER, RINSE IMMED. SEEK MED ATTN. INHAL: MOVE PERS TO FRESH AIR/
+    ARTF RESP  IF NEC. SEEK MED ATTN. INGEST: IMMED CALL POISON CONTROL
+    CENTER/MD. DO NOT INDUCE VOMIT. REC TO MD: IN ACUTE CASES SEEK MED
+    ATTN IMMED. FOR WORKERS WHO MAY BE EXPOS REGULARLY, PROVIDE
+    DETAILED(SUPDAT)
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:101F,38C
+Lower Limits:1.0%
+Upper Limits:6.0%
+Extinguishing Media:FOAM, CARBON DIOXIDE, DRY CHEMICAL.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPRVD SCBA & FULL PROT EQUIP.
+    BLANKET FLAME W/EXTING MEDIA. VAPS OF COMBUST MAY BE IRRIT TO RESP
+    TRACT. MAY CAUSE BRTHG DFCLTYS.(SUPDAT)
+Unusual Fire/Explosion Hazard:KEEP MATERIAL AWAY FROM HEAT, SPARKS &
+    OPEN FLAMES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL TYPES OF IGNIT SOURCES. PROVIDE
+    SUFFICENT VENT. PROTECT CLEAN-UP PERS W/8540 3M CORP RESP & GOGGS.
+    USE METAL CNTNR MARKED "DO NOT REUSE". PUT MATL IN CNTNR. USE
+    VERMICULITE/OTHER INERT ABSO RB. KEEP AWAY FROM SEWER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:PROTECT AGAINST PHYSICAL DMG TO CNTNRS
+    & SPILLAGE. STORE IN A COOL WELL VENT AREA WITH SPRINKLER SYSTEM.
+    KEEP AWAY FROM HEAT. POST NO SMOKING SIGNS.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPRVD DUST/MIST RESP (HIGH
+    EFFICIENCY CARTRIDGES ADVISED) IF SPRAYING/SANDING. USE ORG VAP
+    CARTRIDGE RESP IF TLV FOR SOLV COMPONENTS MAY BE EXCEEDED E.G. 8540
+    3M CORP RESP (NIOSH/MSHA  APPRVD). WHEN USING(SUPDAT)
+Ventilation:USE LOCAL EXHAUST WHEN APPLYING THIS PAINT IN CONFINED
+    AREA, USE AIR-FED HOOD.
+Protective Gloves:SOLVENT RESISTANT GLOVES.
+Eye Protection:ANSI APPRVD CHEM WORKERS GOGGS.
+Other Protective Equipment:USE PROT CLTHG & CHANGE CONTAMD CLTHG IMMED.
+    PROVIDE EMER SHOWERS & EYEWASH AT STATIONARY PAINT APPLICATION
+    FACILITIES.
+Work Hygienic Practices:TRAIN EMPLOYEES ON ALL SPECIAL HNDLG PROCEDURES
+    IN THIS SECTION BEFORE THEY WORK W/THIS PRODUCT.
+Supplemental Safety and Health
+FIRE FIGHT PROC: PVNT HUMAN EXPOS TO FIRE, SMOKE, FUMES, ETC. HAZ
+    DECOMP: & WATER. INCOMP COMBUSTION CAN PRODUCE CARBON MONOXIDE.
+    RESP: IN CONFINED AREA, USE NIOSH/MSHA APPRVD AIR-FED HOOD. FIRST
+    AID  PROC: PERIODIC EXAMS.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>310F,>154C
+Vapor Pres:5 @ 20C
+Vapor Density:4.8
+Spec Gravity:0.78 @ 60/60F
+Evaporation Rate & Reference:0.22 (BUAC=1)
+Solubility in Water:INSOLUBLE
+Appearance and Odor:COLORLESS LIQUID; MILD PETROLEUM ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+MAY REACT W/STRONG OXIDIZING MATERIALS.
+Stability Condition to Avoid:HEAT, SPARKS AND OPEN FLAMES. DO NOT ALLOW
+    VAPORS TO ACCUMULATE.
+Hazardous Decomposition Products:FLAMMABLE FUMES MAY ACCUMULATE IN
+    CONFINED AREA & SPARKS/OPEN FLAMES MAY IGNITE IT. COMPLETE COMBUST
+    PRDCES CO*2(SUPDAT)
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF ALL WASTES IN ACCORDANCE WITH LOCAL,
+    STATE & FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

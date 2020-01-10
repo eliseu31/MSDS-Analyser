@@ -1,0 +1,131 @@
+=====================  Product Identification  =====================
+
+Product ID:PLATERS DURACHROME 60 CATALYST
+MSDS Date:06/07/1989
+FSC:8010
+NIIN:00N021216
+MSDS Number: BLMHD
+=== Responsible Party ===
+Company Name:PLATERS SUPPLY CO
+Address:2030 MIDWAY DR
+City:TWINSBURG
+State:OH
+ZIP:44087
+Country:US
+Info Phone Num:216-425-4291
+Emergency Phone Num:216-425-4291
+CAGE:6R090
+=== Contractor Identification ===
+Company Name:PLATERS SUPPLY CO
+Address:2030 MIDWAY DR
+Box:City:TWINSBURG
+State:OH
+ZIP:44087
+Country:US
+Phone:216-425-4291
+CAGE:6R090
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POTASSIUM BICHROMATE  (SARA III)
+CAS:7778-50-9
+RTECS #:HX7680000
+Other REC Limits:0.025 MG/M3 (NIOSH)
+OSHA PEL:C,0.1 MG/M3 CRO3
+ACGIH TLV:0.5 MG CR/M3; 9293
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:HMIS HEALTH RATING-3. INHALATION OF
+    MIST OR DUST MAY CAUSE NASAL ULCERATION AND/OR PERFORATION.
+    BREATHING OF MIST OR DUST MAY CAUSE NOSE AND THROAT IRRITATIONS.
+    SORES AND SKIN ULCERS MAY DEVELOP IF NO T WASHED-OFF PROMPTLY AFTER
+    CONTACT.
+Explanation of Carcinogenicity:POTASSIUM DICHROMATE(HEXAVALENT
+    DICHROMATE) - IARC GROUP 1.
+Effects of Overexposure:IRRITATION OF EYES, NOSE OR THROAT. REDNESS,
+    BURNING OR SCARRING OF SKIN TISSUE. COUGHING MAY BE A SYMPTOM OF
+    INHALATION EXPOSURE.
+Medical Cond Aggravated by Exposure:ANY RESPIRATORY CONDITION. POSSIBLY
+    SKIN AND MUCOUS MEMBRANE DERMATITIS CONDITIONS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:REMOVE TO CLEAN, FRESH AIR. SKIN:WASH WITH LARGE
+    VOLUMES OF COLD WATER AND SOAP. EYE:WASH WITH WATER FOR AT LEAST 15
+    MINUTES AND CALL PHYSICIAN. INGEST:CALL A PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NOT FLAMMABLE
+Extinguishing Media:WATER, CARBON DIOXIDE OR DRY CHEMICAL EXTINGUISHERS
+    MAY BE USED ON THE SOURCE OF THE FIRE.
+Fire Fighting Procedures:NONE KNOWN. USE NIOSH/MSHA APPROVED SCBA AND
+    FULL PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:MAY IGNITE OXIDIZABLE SUBSTANCES IF THIS
+    MATERIAL IS LEFT TO DRY ON THEM.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP AND REPACKAGE AS MUCH MATERIAL AS
+    POSSIBLE, FLUSH REMAINING MATERIAL WITH WATER AND CONTAIN VOLUME.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP THIS MATERIAL IN A CLOSED, SEALED
+    CONTAINER AWAY FROM MOISTURE. STORE AWAY FROM OXIDIZABLE SUBSTANCE.
+    SEPARATE FROM REDUCING CHEMICALS.
+Other Precautions:MAY FROTH AND GIVE OFF HEAT ON MIXING WITH WATER.
+    AVOID MOISTURE IN STORING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE A NIOSH/MSHA APPROVED RESPIRATOR AROUND DUST
+    AS RECOMMEDNED FOR NUISANCE PARTICULATES.
+Ventilation:LOCAL EXHAUST:RECOMMENDED FOR HOT SOLUTIONS.
+    SPECIAL:INCLUDE MIST ELIMINATOR IN SYSTEM. MECH:USE HOOD AND
+    EXHAUST FAN.
+Protective Gloves:RUBBER GLOVES WHEN HANDLING.
+Eye Protection:CHEM WORK GOG & FULL LGTH FSHLD .
+Other Protective Equipment:WEAR RUBBER APRON AND BOOTS. MAINTAIN A
+    SAFETY SHOWER/EYE WASH IN THE AREA.
+Work Hygienic Practices:WASH HANDS REGULARLY-IMMEDIATELY IF EXPOSED.
+    WEAR CLEAN CLOTHING.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:210-215
+Spec Gravity:1.072
+Solubility in Water:VERY SOLUBLE
+Appearance and Odor:ODORLESS ORANGE LIQUID.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTACT WITH REDUCING SUBSTANCES AND OXIDIZABLE ORGANICS.
+Stability Condition to Avoid:NONE KNOWN
+Hazardous Decomposition Products:NONE KNOWN.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:REDUCE CHROMATE TO TRIVALENT STATE AND
+    NEUTRALIZE. CONTAIN RESULTANT PRECIPITATE AND DISPOSE OF PROPERLY.
+    CONSULT LOCAL, STATE AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

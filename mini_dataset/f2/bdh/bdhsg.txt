@@ -1,0 +1,112 @@
+=====================  Product Identification  =====================
+
+Product ID:DELVAC 1330 (SAE 30)
+MSDS Date:01/01/1985
+FSC:9150
+NIIN:00-189-6729
+MSDS Number: BDHSG
+=== Responsible Party ===
+Company Name:MOBIL OIL CORPORATION
+Emergency Phone Num:212-883-4242
+CAGE:1G112
+=== Contractor Identification ===
+Company Name:MOBIL CORP
+Address:150 E 42ND ST
+Box:City:NEW YORK
+State:NY
+ZIP:10017-5612
+Country:US
+Phone:212-883-4242
+CAGE:57635
+Company Name:MOBIL OIL CORPORATION
+Address:3225 GALLOWS RD
+City:FAIRFAX
+State:VA
+ZIP:22037-0001
+Phone:(703) 846-1482
+CAGE:1G112
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MINERAL OIL (EXPOSURE REGULATED AS 'OIL MIST')
+CAS:8012-95-1
+RTECS #:PY8030000
+Fraction by Wt: >90%
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3/10 STEL;9192
+
+Ingred Name:ADDITIVES
+Fraction by Wt: <10%
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:SKIN:SLIGHT IRRIT
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH W/ H*20 FOR 15 MIN. SKIN:WASH W/ SOAP & WATER.
+    INHAL:REM OVE FROM EXPOS. IF UNCON-SEEK MEDICAL HELP. IF BREATH
+    STOPS GIVE MOUTH TO MOUTH RESUSCITATION. INGEST:IF >0.5 LITER(PINT)
+    INGEST, IM MED GIVE 1-2 GLASSES OF H*20. (SEE SUPPDATA)
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:425F;218C (OC)
+Extinguishing Media:CO*2, FOAM, DRY CHEM
+Fire Fighting Procedures:USE NIOSH/MSHA APPRVD SCBA
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB ON FIRE RETARDANT TREATED SAWDUST,
+    DIATOMACEOUS EARTH, OR OTHER ABSORBENT. SHOVEL UP & REMOVE. REPORT
+    SPILL TO APPROPRIATE AUTHORITIES. SPILLS THAT MAY REACH WATER(DRY
+    CREEKS INCLUDED)CALL COAS T GUARD 800-424-8802.
+
+======================	Handling and Storage  ======================
+
+Other Precautions:EYE PROTECTION:IF EYE CONTACT IS LIKELY USE CHEM TYPE
+    GOGGLES OR SAFETY GLASSES W/SIDE SHIELDS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NEEDED UNDER NORMAL CONDITIONS AND W/
+    ADEQUATE VENT(MFR)
+Ventilation:ADEQUATE VENT TO KEEP BELDW TLV.
+Protective Gloves:SEE OTHER EQUIP
+Eye Protection:SEE OTHER PRECAUTIONS
+Other Protective Equipment:OIL IMPERVIOUS GLOVES FOR RPTD/PRLNG
+    EXPOSURE.
+Supplemental Safety and Health
+FIRST AIR PROCEDURE:INGEST-CALL MD/POISON CONTROL FOR WAY TO INDUCE
+    VOMIT. IF UNCON-DO NOT INDUCE VOMIT OR GIVE ANYTHING BY MOUTH.
+    CONTAINER SIZE:55 GAL DRUM. VP:<0.1. RELATIVE  DENSITY=0.883
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:>600F;316C
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:CLEAR LIQUID;MILD ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS
+Stability Condition to Avoid:STRONG OXIDATION
+Hazardous Decomposition Products:METAL OXIDES, CO
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:MFR RECOMMENDS DILUTING WASTE W/ A FLAMMABLE
+    SOLVENT (FL PT ABOUT 100F) & DISPOSE BY SUPERVISED INCINERATION.
+    DISPOSAL METHOD MUST BE IAW FEDERAL, STATE AND LOCAL CODES.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

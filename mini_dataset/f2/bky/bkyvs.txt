@@ -1,0 +1,140 @@
+=====================  Product Identification  =====================
+
+Product ID:44GN007CAT COMP B, MIL-P-85582B, TY 1, CL C1
+MSDS Date:06/30/1992
+FSC:8010
+NIIN:01-218-7354
+MSDS Number: BKYVS
+=== Responsible Party ===
+Company Name:DEFT INC  CHEMICAL COATING DIV
+Address:17451 VON KARMAN AVE
+City:IRVINE
+State:CA
+ZIP:92614
+Country:US
+Info Phone Num:949-474-9499
+Emergency Phone Num:949-474-9499
+Preparer's Name:NORM GAUL
+CAGE:KO194
+=== Contractor Identification ===
+Company Name:DEFT INC  CHEMICAL COATING DIV
+Address:17451 VON KARMAN AVE
+City:IRVINE
+State:CA
+ZIP:92614
+Country:US
+Phone:949-474-9499
+CAGE:KO194
+Company Name:DEFT,  INC.
+Address:17451 VON KARMAN AVE
+City:IRVINE
+State:CA
+ZIP:92614
+Country:US
+Phone:949-474-0400
+CAGE:33461
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NITROETHANE
+CAS:79-24-3
+RTECS #:KI5600000
+Fraction by Wt: 15%
+Other REC Limits:100 PPM
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:VOLATILE ORGANIC CONTENT: 187 GM/L
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: RESPIRATORY TRACT
+    IRRITATION, ACUTE NERVOUS SYSTEM DEPRESSION. SKIN: MODERATE
+    IRRITATION. EYES: IRRITATION. INGESTION: IRRITATION & POSSIBLE
+    CORROSIVE ACTION IN MOUTH/STOMACH TISSUE & DIGE STIVE TRACT.
+    VOMITING MAY CAUSE ASPIRATION OF SOLVENT, RESULTING IN CHEMICAL
+    PNEUMONITIS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:IRRITATION, HEADACHE, DIZZINESS, STAGGERING
+    GAIT, CONFUSION, UNCONSCIOUSNESS, COMA, SWELLING, REDNESS, RASH,
+    TEARING, STINGING SENSATION, DRYING, DEFATTING, CRACKING, DIFFICULT
+    BREATHING.
+Medical Cond Aggravated by Exposure:ASTHMA/OTHER RESPIRATORY DISORDERS,
+    SKIN ALLERGIES, ECZEMA, DERMATITIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. RESTORE BREATHING. SKIN:
+    WASH THOUROUGHLY W/SOAP & WATER. EYES: FLUSH W/CLEAN LUKEWARM WATER
+    (LOW PRESSURE) FOR 15 MINS. INGESTION: DON'T INDUCE VOMITING.
+    ASPIRATION H AZARD. DON'T GIVE ANYTHING BY MOUTH TO AN UNCONSCIOUS
+    PERSON. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:87F
+Lower Limits:3.4
+Extinguishing Media:FOAM, ALCOHOL FOAM, CO2, DRY CHEMICAL, WATER FOG.
+Fire Fighting Procedures:WEAR SCBA & FULL PPROTECTIVE CLOTHING. WATER
+    MAY BE USED TO COOL CLOSED CONTAINERS TO PREVENT PRESSURE BUILD-UP,
+    AUTO-IGNITION/EXPLOSION.
+Unusual Fire/Explosion Hazard:CLOSED CONTAINERS MAY EXPLODE WHEN
+    EXPOSED TO EXTREME HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE AREA. REMOVE IGNITION SOURCES.
+    VENTILATE AREA. CONTAIN & REMOVE W/INERT ABSORBENT & NON-SPARKING
+    TOOLS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN TIGHTLY CLOSED CONTAINERS, IN
+    WELL VENTILATED AREA. AVOID STORING NEAR HIGH TEMPS & IGNITION
+    SOURCES.
+Other Precautions:KEEP CONTAINERS TIGHT & UPRIGHT TO PREVENT LEAKAGE.
+    PREVENT PROLONGED BREATHING OF VAPORS/SPRAY MISTS. AVOID CONTACT
+    W/SKIN & EYES. DON'T TAKE INTERNALLY. SMOKE IN DESIGNATED SMOKING
+    AREAS ONLY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR AN APPROVED AIR-PURIFYING/FRESH AIR
+    SUPPLIED RESPIRATOR.
+Ventilation:EXHAUST VENTILATION SUFFICIENT TO KEEP AIRBORNE
+    CONCENTRATIONS OF SOLVENT VAPORS/MISTS 1
+Spec Gravity:1.14406
+Evaporation Rate & Reference:(N-BU AC = 1): 1.27
+Solubility in Water:INSOLUBLE
+Appearance and Odor:AMBER LIQUID W/SOLVENT ODOR.
+Percent Volatiles by Volume:17.7
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, STRONG LEWIS/MINERAL ACIDS, AMINES.
+Stability Condition to Avoid:EXTREME HEAT, SPARKS, ELECTRICAL
+    EQUIPMENT, OPEN FLAME, HOT SURFACES, HIGH TEMPS & OTHER IGNITION
+    SOURCES.
+Hazardous Decomposition Products:CO, CO2, OXIDES OF NITROGEN,
+    ALDEHYDES, & ACIDS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IAW/FEDERAL, STATE & LOCAL
+    REGULATIONS. HANDLE EMPTY CONTAINERS W/CARE, DUE TO PRODUCT RESIDUE
+    & FLAMMABLE VAPOR. DON'T INCINERATE CLOSED CONTAINERS. FLAMMABLE
+    LIQUID UN1263.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

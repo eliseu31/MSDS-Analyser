@@ -1,0 +1,137 @@
+=====================  Product Identification  =====================
+
+Product ID:SWD 115 COMPONENT A
+MSDS Date:08/05/1991
+FSC:8010
+NIIN:00F019362
+MSDS Number: BLPZD
+=== Responsible Party ===
+Company Name:SWD URETHANE COMPANY
+Address:222 S DATE
+City:MESA
+State:AZ
+ZIP:85210
+Info Phone Num:(602) 969-8413
+Emergency Phone Num:(602) 969-8413
+CAGE:FO963
+=== Contractor Identification ===
+Company Name:SWD URETHANE COMPANY
+Address:222 S DATE ST
+City:MESA
+State:AZ
+ZIP:85202
+Phone:(602) 969-8413
+CAGE:FO963
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYLENE BISPHENYL ISOCYANATE (MDI)  (SARA III)
+CAS:101-68-8
+RTECS #:NQ9350000
+Fraction by Wt: 50%
+Other REC Limits:0.005 PPM
+OSHA PEL:C, 0.02 PPM
+ACGIH TLV:0.005 PPM; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:HIGHER OLIGOMERS OF MDI, POLYMETHYLENE POLYPHENYLENE
+    POLYISOCYANATE
+CAS:9016-87-9
+RTECS #:TR0350000
+Fraction by Wt: 50%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: UPPER RESPIRATORY TRACT &
+    MUCOUS MEMBRANE IRRITATION, TIGHTNESS OF CHEST, COUGHING, HEADACHE,
+    & SHORTNESS OF BREATH. SKIN: ALLERGIC SENSITIZATION W/ASTHMA LIKE
+    SYMPTOMS. EYES: IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: IRRITATION OF UPPER RESPIRATORY
+    TRACT & MUCOUS MEMBRANES, TIGHTNESS OF CHEST, COUGHING, HEADACHE, &
+    SHORTNESS OF BREATH. SKIN: ALLERGIC SENSITIZATION W/ASTHMA LIKE
+    SYMPTOMS. EYES: IRRITATI ON.
+Medical Cond Aggravated by Exposure:ASTHMA LIKE ALLERGIES
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. GIVE OXYGEN IF NEEDED. EYES:
+    FLUSH W/WATER FOR 15 MINS. SKIN: WASH THOROUGHLY W/SOAP & WATER.
+    INGESTION: OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:390F
+Extinguishing Media:DRY CHEMICAL, FOAM, OR CO2
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS W/FULL
+    FACE PIECE & PROTECTIVE CLOTHING.
+Unusual Fire/Explosion Hazard:GENERATION OF CO2 DUE TO MOISTURE
+    CONTAMINATION MAY RUPTURE CONTAINER. PRODUCT IS A SUDDEN PRESSURE
+    RELEASE HAZARD.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE/VENTILATE AREA/USE PROTECTIVE
+    EQUIPMENT. CONTAIN/COVER/ABSORB W/SAWDUST/VERMICULITE. SHOVEL INTO
+    SUITABLE UNSEALED CONTAINER. TREAT W/NEUTRALIZING SOLUTION: 90%
+    WATER/8% CONC. AMMONIA/2% LIQU ID DETERGENT. ALLOW TO STAND
+    UNCOVERED FOR 48 HRS.
+Neutralizing Agent:SOLUTION OF 90% WATER, 8% CONCENTRATED AMMONIA, & 2%
+    LIQUID DETERGENT
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T RESEAL CONTAINERS IF THERE IS
+    ANY DOUBT ABOUT PRESENCE OF MOISTURE. AVOID MOISTURE CONTAMINATION.
+    DON'T STORE DRUMS UNCOVERED OUTSIDE.
+Other Precautions:STORE AT TEMPERATURES BETWEEN 50F & 100F. AVERAGE
+    SHELF LIFE IN SEALED CONTAINER IS 6 MONTHS FROM DATE OF
+    MANUFACTURING. USE W/ADEQUATE VENTILATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:HIGH CONCENTRATIONS REQUIRE SELF-CONTAINED
+    BREATHING APPARATUS.
+Ventilation:LOCAL EXHAUST: AS NECESSARY. MECHANICAL (GENERAL):
+    ADEQUATE.
+Protective Gloves:RUBBER LATEX/PLASTIC CHEMICAL RESISTANT
+Eye Protection:SAFETY GLASSES OF GOGGLES
+Other Protective Equipment:EYE WASH STATION
+Work Hygienic Practices:KEEP AREA CLEAN.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:400F
+Vapor Pres:>0.00001
+Vapor Density:8.5
+Spec Gravity:1.2
+Evaporation Rate & Reference:NEGLIGIBLE
+Solubility in Water:INSOLUBLE
+Appearance and Odor:DARK BROWN W/SLIGHT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+WATER, AMINES, STRONG BASES, & ALCOHOLS
+Stability Condition to Avoid:MOISTURE
+Hazardous Decomposition Products:CO, CO2, OXIDES OF NITROGEN, TRACES OF
+    HYDROGEN CYANIDE, & DIPHENYLMETHANE DIISOCYANATE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF BY INCINERATION IN ACCORDANCE
+    W/LOCAL, STATE, & FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

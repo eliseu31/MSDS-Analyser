@@ -1,0 +1,151 @@
+=====================  Product Identification  =====================
+
+Product ID:153 2753,FLEXCOLOR DEVL REPL,PT A(POST 9/89
+MSDS Date:12/06/1989
+FSC:6750
+NIIN:01-178-4421
+MSDS Number: BHWNH
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-722-5151
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+Company Name:EASTMAN KODAK CO US CUSTOMER SERVICE/GOVERNMENT SALES
+Address:800 LEE RD
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-3129
+Country:US
+Phone:800-828-6203
+CAGE:5K871
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 55-60%
+
+Ingred Name:POTASSIUM CARBONATE
+CAS:584-08-7
+RTECS #:TS7750000
+Fraction by Wt: 25-30%
+
+Ingred Name:POTASSIUM BICARBONATE
+CAS:298-14-6
+Fraction by Wt: 1-5%
+
+Ingred Name:PENTETIC ACID,PENTASODIUM SALT
+CAS:140-01-2
+Fraction by Wt: 1-5%
+
+Ingred Name:POTASSIUM SULFITE
+CAS:10117-38-1
+Fraction by Wt: 1-5%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Health Hazards Acute and Chronic:ACUTE: MAY CAUSE SKIN/EYE IRRITATION.
+Effects of Overexposure:INHALATION: LOW HAZARD FOR USUAL INDUSTRIAL
+    HANDLING; EYES: CAUSES IRRITATION; SKIN:CAUSES IRRITATION;
+    INGESTION:EXPECTED TO BE A LOW INGESTION HAZARD. MAY CAUSE
+    GASTROINTESTINAL TRACT IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION:REMOVE TO FRESH AIR; EYES/SKIN:FLUSH WITH LARGE
+    AMOUNTS OF WATER FOR 15 MINUTES.REMOVE CONTAMINATED CLOTHING AND
+    SHOES. GET MEDICAL HELP IF SYMPTOMS ARE PRESENT AFTER FLUSHING;
+    INGESTION:IF  SWALLOWED, GIVE 1-2 GLASSES OF WATER. SEEK MED HELP.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:EXTINGUISH WITH AGENT SUITABLE FOR SURROUNDING FIRE
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS AND
+    PROTECTIVE CLOTHING.
+Unusual Fire/Explosion Hazard:NONE NOTED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SMALL SPILL:ABSORB WITH INERT ABSORBENT.PLACE
+    IN CLOSED CONTAINER. FLUSH AREA WITH WATER TO SEWER; LARGE SPILL:
+    USE APPROPRIATE PROTECTIVE EQUIPMENT. ELIMINATE IGNITION SOURCES;
+    DIKE AHEAD FOR LATER D ISPOSAL. NOTIFY AUTHORITIES.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTACT WITH MINERAL ACIDS.STORE
+    IN COOL,DRY PLACE.KEEP CONTAINERS CLOSED.PROTECT FROM PHYSICAL
+    DAMAGE.
+Other Precautions:LOW HAZARD FOR RECOMMENDED HANDLING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY REQUIRED; SUPPLEMENTARY
+    VENTILATION OR RESPIRATORY PROTECTION MAY BE NEEDED IN SPECIAL
+    CIRCUMSTANCES.
+Ventilation:GOOD VENTILATION (TYPICALLY, 10 ROOM VOLUMES PER HOUR IS
+    CONSIDERED GOOD). SUPPLEMENTARY VENTILATION MAY BE NEEDED.
+Protective Gloves:IMPERVIOUS
+Eye Protection:SAFETY GLASSES WITH SIDE SHIELD.
+Other Protective Equipment:NONE INDICATED BY KODAK.
+Work Hygienic Practices:GENERAL HYGIEN PRACTICE IS RECOMMENDED.
+Supplemental Safety and Health
+ITEM IS PART A OF A 3 PART DEVELOPER REPLENISHER KIT. SOLUTION NO OF
+    THIS PART IS 5444 AND ACCESSION NO: 449532; THIS IS NEW FORMULATION
+    EFFECTIVE 11/3/89; OLD FORMULATION HAS DIFFERENT SOLUTION NO AN D
+    ACCESSION NO. SEE P/N IND B & C,THIS NSN, FOR PARTS B AND C OF
+    DEVELOPER REPLENISHER; KEY1:C4
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:B3
+Boiling Pt:B.P. Text:212F/100C
+Vapor Pres:18MMHG@20C
+Vapor Density:0.6
+Spec Gravity:1.426
+pH:11.3
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR COLORLESS SOLUTION; ODORLESS
+Percent Volatiles by Volume:55%58%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACID
+Stability Condition to Avoid:EXCESSIVE HEAT
+Hazardous Decomposition Products:NONE NOTED BY KODAK COMPANY. HOWEVER,
+    EXPECT OXIDES OF CARBON AND SULFUR (SULFUR DIOXIDE) WHEN INVOLVE IN
+    COMBUSTION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:KEEP IN COVERED DRUMS PENDING DISPOSAL. HANDLE &
+    DISPOSE IN FULL COMPLIANCE WITH ALL APPLICABLE FEDERAL, STATE, &
+    LOCAL REGULATIONS. DISCHARGE, TREATMENT, OR DISPOSAL MAY BE SUBJECT
+    TO APPLICABLE STAT UTES.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

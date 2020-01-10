@@ -1,0 +1,159 @@
+=====================  Product Identification  =====================
+
+Product ID:116 4037,HOBBY-PAC COLR NEG DEVL,PT 1A(1/90
+MSDS Date:01/04/1990
+FSC:6750
+NIIN:01-057-7994
+Kit Part:Y
+MSDS Number: BHWXS
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-722-5151
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+Company Name:EASTMAN KODAK CO US CUSTOMER SERVICE/GOVERNMENT SALES
+Address:800 LEE RD
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-3129
+Country:US
+Phone:800-828-6203
+CAGE:5K871
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 55-65%
+
+Ingred Name:POTASSIUM CARBONATE
+CAS:584-08-7
+RTECS #:TS7750000
+Fraction by Wt: 25-30%
+
+Ingred Name:POTASSIUM BICARBONATE
+CAS:298-14-6
+Fraction by Wt: 1-5%
+
+Ingred Name:SODIUM SULFITE
+CAS:7757-83-7
+RTECS #:WE2150000
+Fraction by Wt: 1-5%
+
+Ingred Name:PENTETIC ACID,PENTASODIUM SALT
+CAS:140-01-2
+Fraction by Wt: 1-5%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:CAUSES EYE IRRITATION ON LIQUID
+    CONTACT. LIQUID MAY CAUSE IRRITATION.
+Effects of Overexposure:INHALATION:LOW HAZARD FOR RECOMMENDED HANDLING;
+    EYES:CAUSES IRRITATION; SKIN:PROLONGED OR REPEATED CONTACT MAY
+    CAUSE SKIN IRRITATION; INGESTION:EXPECTED TO BE A LOW INGESTION
+    HAZARD. IF SWALLOWED, MAY  CAUSE GASTROINTESTINAL TRACT IRRITATION.
+Medical Cond Aggravated by Exposure:NOT STATED BY KODAK.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:IMMEDIATELY FLUSH EYES WITH PLENTY OF WATER FOR AT LEAST
+    15 MINUTES & GET MEDICAL ATTENTION; SKIN:IMMEDIATELY FLUSH WITH
+    PLENTY OF WATER FOR AT LEAST 15 MINUTES AND GET MEDICAL ATTENTION
+    IF SYMPT OMS ARE PRESENT AFTER WASHING; INGESTION:IF SWALLOWED,
+    DRINK 1-2 GLASSES OF WATER. SEEK MEDICAL ATTENTION;
+    INHALATION:KODAK DID NOT SPECIFIED.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE APPROPRIATE  AGENT FOR SURROUNDING FIRE.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS &
+    PROTECTIVE CLOTHING TO PREVENT CONTACT WITH SKIN & EYES.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE UNPROTCTD PERSONS.USE SUITABLE
+    PROTECTIVE EQUIPMENT.STOP LEAK W/O RISK.PROVIDE VENTILATION.DIKE
+    LARGE SPILL,NEUTRALIZE WITH SODIUM BISULFITE & PUMP TO COVERD
+    DRUMS;SMALL SPILL:FLUSH NEUTRALIZ ED SOLUTION TO SEWER WITH LARGE
+    AMOUNT OF WATER.
+Neutralizing Agent:SODIUM BISULFATE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DRY,WELL VENTILATED
+    AREA.KEEP CONTNRS TIGHTLY CLOSED.PROTECT CONTNRS FROM PHYSICAL
+    DAMAGE.STORE AWAY FM MINERAL ACIDS IN CASE OF SPILL.
+Other Precautions:AVOID CONTACT WITH SKIN.WASH THOROUGHLY AFTER
+    HANDLING & BEFORE EATING OR SMOKING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AN APPROPRIATE NIOSH-APPRVD RESP FOR SO*2 GAS
+    SHOULD BE WORN IF NEED
+Ventilation:GOOD GENERAL VENTILATION SHOULD BE SUFFICIENT.
+Protective Gloves:IMPERVIOUS
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:AS NECESSARY TO PREVENT SKIN CONTACT.
+Work Hygienic Practices:ADOPT NORMAL HYGEIN PRACTICE.
+Supplemental Safety and Health
+ITEM IS 8 PARTS KIT.DURING 1990,KODAK CHANGED FORMULA OF THIS PART
+    KEEPING THE SAME SOLUTION NO:4802 OF HOBBY-PAC COLOR NEGATIVE
+    DEVELOPER,PART 1A;FOR OLD FORMULA OF PART 1A DEVELOPER,SEE PNI
+    'I',THIS  NSN;FOR OLDEST FORMULA(BEFORE CHANGINGKIT NAME),SEE PNI A
+    THRU H;THIS IS COLOR NEGATIVE DEVLPR,PART 1A(NEWEST);KEY1:N1
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C1
+Boiling Pt:=100.C, 212.F
+Vapor Pres:18MMHG@20C
+Vapor Density:0.6
+Spec Gravity:1.409
+pH:10.9
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR,COLORLESS SOLUTION;ODORLESS
+Percent Volatiles by Volume:60
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS.
+Stability Condition to Avoid:HIGH HEAT/TEMPERATURES.
+Hazardous Decomposition Products:COMBUSTION WILL PRODUCE CARBON
+    DIOXIDE,CARBON MONOXIDE AND OXIDES OF SULFUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:NEUTRALIZE WASTE COLLECTIONS WITH SODIUM
+    BISULFATE.FLUSH TO SEWER WITH LARGE AMTS OF
+    WATER.DISCHARGE,TREATMENT OR DISPOSAL MAY BE SUBJECT TO
+    FEDERAL,STATE OR LOCAL LAWS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

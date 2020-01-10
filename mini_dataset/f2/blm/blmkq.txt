@@ -1,0 +1,159 @@
+=====================  Product Identification  =====================
+
+Product ID:FLEXICOLOR STABILIZER & REPLENISHER LF, CAT
+MSDS Date:11/08/1990
+FSC:6750
+NIIN:00N021393
+MSDS Number: BLMKQ
+=== Responsible Party ===
+Company Name:EASTMAN KODAK CO
+Address:343 STATE ST
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-722-5151
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 55-60%
+
+Ingred Name:HEXAMETHYLENETETRAMINE
+CAS:100-97-0
+RTECS #:MN4725000
+Fraction by Wt: 35-40%
+
+Ingred Name:NONIONIC SURFACTANTS (MFR CAS NO 24938-91-8)
+CAS:9416-45-9
+Fraction by Wt: 5-10%
+
+Ingred Name:POLYMALEIC ACID
+CAS:26099-09-2
+Fraction by Wt: < 1%
+
+Ingred Name:THIAZOLIN-3-ONE; (SUBSTITUTED)
+Fraction by Wt: < 1%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: FOR RECOMMENDED HANDLING,
+    THIS PRODUCT IS NOT EXPECTED TO BE AN INHALATION HAZARD. UNDER
+    ACIDIC CONDITIONS, THIS PRODUCT MAY RELEASE FORMALDEHYDE WHICH MAY
+    CAUSE RESPIRATORY SENSITIZATION  IN SOME INDIVIDUALS OR AGGRAVATE
+    PRE-EXISTING ASTHMATIC CONDITIONS. EYES: CAUSES EYE IRRITATION.
+    (SEE EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ: SKIN: MAY CAUSE ALLERGIC SKIN
+    REACTION. INGESTION: HARMFUL IF SWALLOWED. MAY CAUSE IRRITATION OF
+    GASTROINTESTINAL TRACT. HEXAMETHYLENETETRAMINE IN ACID MAY PRODUCE
+    FORMALDEHYDE, A CARCINOGEN	OR POTENTIAL CARCINOGEN.
+Medical Cond Aggravated by Exposure:PRE-EXISTING ASTHMATIC CONDITIONS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: REMOVE TO FRESH AIR. TREAT SYMP. IF SYMP ARE PRESENT
+    GET MED ATTN. EYES: IMMED FLUSH EYES W/PLENTY OF WATER FOR AT LEAST
+    15 MIN. GET MED ATTN. SKIN: FLUSH SKIN W/PLENTY OF SOAP & WATER. IF
+    SKIN  IRRIT/ALLERGIC SKIN RXN DEVELOPS, GET MED ATTN. REMOVE CONTAM
+    CLTHG & SHOES. WASH CONTAM CLTHG BEFORE REUSE. DESTROY/THORO CLEAN
+    CONTAM SHOES. INGEST: DO NOT INDUCE VOMIT. IMMED GIVE VICTIM (SUP
+    DAT)
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE MEDIA SUITABLE FOR SURROUNDING FIRE .
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH MATERIAL TO SEWER WITH LARGE AMOUNTS OF
+    WATER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP FROM CONTACT WITH OXIDIZING
+    MATERIALS. KEEP CONTAINER TIGHTLY CLOSED AND AWAY FROM STRONG
+    ACIDS.
+Other Precautions:CALIFORNIA PROPOSITION 65 REGULATED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF FORMALDEHYDE IS LIBERATED AT LEVS REQ RESP
+    PROT, A NIOSH/MSHA APPRVD FULL FACEPIECE W/CARTRIDGES/CANISTERS FOR
+    PROT AGAINST FORMALDEHYDE/TYPE C SUP AIR RESP SHD BE WORN. IF RESP
+    ARE USED, A PROGRAM , SHD BE INSTITUTED TO ASSURE(SUPP DATA)
+Ventilation:GOOD GENERAL VENTILATION SHD BE USED. LOCAL EXHST VENT OR
+    AN ENCLOSED HANDLING SYS MAY BE NEEDED TO CONTROL AIR CONTAM.
+Protective Gloves:NITRILE OR NEOPRENE GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:ROUTINE USE OF NON-ALKALINE (ACID) TYPE OF
+    SKIN CLEANER & REGULAR CLEANING OF WORKING SURFS, GLOVES, ETC. WILL
+    (SUP DAT)
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+FIRST AID PROC: GLASS OF WATER. NEVER GIVE ANYTHING BY MOUTH TO AN
+    UNCON PERSON. CALL PHYS/POISON CONTROL CENTER IMMED. RESP PROT:
+    COMPLIANCE WITH OSHA STANDARD 29CFR 1910.134 & 29CFR 1910.1048.
+    OTHER  PROT EQUIP: HELP MINIMIZE THE POSSIBILITY OF ALLERGIC SKIN
+    REACTION.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:B3
+Boiling Pt:B.P. Text:212F,100C
+Vapor Pres:18
+Vapor Density:0.6
+Spec Gravity:1.09
+pH:9.06
+Evaporation Rate & Reference:0.4 (N-BUTYL ACETATE=1)
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR TAN COLORED SOLUTION; LITTLE OR NO ODOR.
+Percent Volatiles by Volume:88.8
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS; STRONG ACIDS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:COMBUSTION WILL PRODUCE CO2 AND
+    PROBABLY CO. AMMONIA, FORMALDEHYDE, AND OXIDES OF NITROGEN MAY ALSO
+    BE PRESENT.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISCHARGE, TREATMENT, OR DISPOSAL MAY BE SUBJECT
+    TO FEDERAL, STATE, OR LOCAL LAWS. AFTER DILUTION W/LRG AMT OF
+    WATER, FOLLOWED BY SECONDARY WASTE TREATMENT, THE CHEMICALS IN THIS
+    FORMULATION ARE NOT E XPECTED TO HAVE ANY ADVERSE ENVIRONMENTAL
+    IMPACT.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

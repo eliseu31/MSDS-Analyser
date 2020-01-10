@@ -1,0 +1,184 @@
+=====================  Product Identification  =====================
+
+Product ID:03W040 POLYURETHANE
+MSDS Date:06/28/1990
+FSC:8010
+NIIN:00-181-8282
+Kit Part:Y
+MSDS Number: BHWYX
+=== Responsible Party ===
+Company Name:DEFT INC CHEMICAL COATING DIV
+Address:17451 VON KARMAN AVE
+City:IRVINE
+State:CA
+ZIP:92714-6205
+Country:US
+Info Phone Num:714-474-0400
+Emergency Phone Num:714-474-0400
+CAGE:33461
+=== Contractor Identification ===
+Company Name:DEFT,  INC.
+Address:17451 VON KARMAN AVE
+City:IRVINE
+State:CA
+ZIP:92614
+Country:US
+Phone:949-474-0400
+CAGE:33461
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHYL-3-ETHOXYPROPIONATE
+CAS:763-69-9
+RTECS #:UF3325000
+Fraction by Wt: 20%
+
+Ingred Name:N-BUTYL ACETATE  (SARA III)
+CAS:123-86-4
+RTECS #:AF7350000
+Fraction by Wt: <1%
+OSHA PEL:150 PPM/200 STEL
+ACGIH TLV:150 PPM/200STEL;9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: <1%
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ETHYL ACETATE  (SARA III)
+CAS:141-78-6
+RTECS #:AH5425000
+Fraction by Wt: 10%
+OSHA PEL:400 PPM
+ACGIH TLV:400 PPM; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:PROPYLENE GLYCOL METHYL ETHER ACETATE
+CAS:108-65-6
+RTECS #:AI8295000
+Fraction by Wt: <0.1%
+Other REC Limits:100 PPM
+
+Ingred Name:DIBUTYLTIN DILAURATE
+CAS:77-58-7
+RTECS #:WH7000000
+Fraction by Wt: <0.1%
+OSHA PEL:0.1 MG SN/M3 SKIN
+ACGIH TLV:0.1 MG SN/M3
+
+Ingred Name:"NOT HAZARDOUS" (THESE INGREDIENTS ARE NOT LISTED BY MFR
+    AND BY DEFINITION OF HCS ARE ASSUMED TO BE NOT HAZARDOUS)
+Fraction by Wt: TO 100%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:PRODUCT IS IRRITATING TO BODY TISSUES
+    AND IS SEVERELY IRRITATING OR CORROSIVE TO MUCOUS MEMBRANES. 
+    VOLATILE SOLVENTS MAY EFFECT THE CENTRAL NERVOUS SYSTEM.
+Explanation of Carcinogenicity:NONE OF THE COMPOUNDS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP, OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:EYE:IRRITATION,REDNESS.   SKIN,POSSIBLE
+    IRRITATION. REPEATED EXPOSURE MAY CAUSE DRYING AND CRACKING. 
+    INHALED:RESPIRATORY IRRITATION,CENTRAL NERVOUS SYSTEM DEPRESSION
+    CHARACTERIZED BY HEADACHE,DIZZINE SS,CONFUSION,AND UNCONSCIOUSNESS.
+Medical Cond Aggravated by Exposure:ANY RESPIRATORY OR SKIN CONDITION
+    MAY BE AGGRAVATED BY CONTACT WITH THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH W/ WATER 15 MIN HOLD LIDS OPEN. SEE A DOCTOR.
+    SKIN:REMOVE CONTAMINATED CLOTHING AND LAUNDER BEFORE  REUSE.  WASH
+    WITH SOAP & WATER, ALCOHOL, OR HAND CLEANER. INHALATION:REMOVE FROM
+    EXPOSURE.  RESTORE BREATHING AS NECESSARY. INGESTED:UNLIKELY, BUT
+    IF OCCURRING,DO NOT INDUCE VOMITING, GET IMMEDIATE MEDICAL CARE. 
+    IF IRRITATION PERSISTS,OR IS SEVERE,SEE A DOCTOR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:=-4.4C, 24.F
+Lower Limits:1%
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS. SYMPTOMS OF
+    EXPOSURE MAY BE DELAYED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE IGNITION SOURCES.  VENTILATE AREA.
+    WIPE UP OR ABSORB ON SUITABLE MATERIAL AND SHOVEL UP USING
+    NON-SPARKING TOOLS. AVOID ALL PERSONAL CONTACT. CLEAN AREA WITH
+    SOLVENT OBSERVING ANY FLAMMABILI TY OF THE SOLVENT.
+Neutralizing Agent:NONE. SOLVENT; ETHYL-3-ETHOXYPROPIONATE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL WELL VENTILATED AREA PER
+    LABEL. KEEP AWAY FROM HEAT, SPARKS AND OPEN FLAMES. KEEP CONTAINER
+    CLOSED WHEN NOT IN USE.
+Other Precautions:**EMPTY' CONTAINERS MAY CONTAIN RESIDUE OR VAPOR.
+    TREAT THEM WITH THE RESPECT DUE FULL ONES. DO NOT CUT,WELD,ETC. ON
+    THEM. **FOLLOW RECOMMENDED CURE SCHEDULE.  **DO NOT USE UNTIL AFTER
+    READING MFR'S I NSTRUCTIONS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESPIRATOR NORMALLY BE NECESSARY ONLY IF
+    SPRAYING.  USE NIOSH/MSHA APPROVED AIR SUPPLIED RESPIRATOR OR
+    RESPIRATOR FOR ORGANIC  DUST/MIST IF EXPOSURE IS ABOVE THE TLV/PEL.
+    SEE 29 CFR 1910.134 FOR REGUL ATIONS ON RESPIRATORS.
+Ventilation:USE OF LOCAL EXHAUST IS RECOMMENDED BY MFR.
+Protective Gloves:IMPERVIOUS; RUBBER OR PLASTIC
+Eye Protection:SAFETY GLASSES OR SPLASH GOGGLES
+Other Protective Equipment:AS NECESSARY TO AVOID PROLONGED AND/OR
+    REPEATED CONTACT.
+Work Hygienic Practices:USE GOOD CHEMICAL HYGIENE PRACTICE. AVOID ANY
+    UNNECESSARY CONTACT.
+Supplemental Safety and Health
+THIS IS PART A OF A TWO PART PRODUCT. SEE P/N D FOR PART B. NEW
+    FORMULATION EFFECTIVE JUNE90.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:=76.1C, 169.F
+Vapor Density:>1
+Spec Gravity:1.33
+Evaporation Rate & Reference:1.31 (BUTYL ACETATE = 1)
+Appearance and Odor:WHITE LIQUID,SOLVENT ODOR
+Percent Volatiles by Volume:44.4
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HIGH TEMPERATURES, SPARKS, AND OPEN FLAMES
+Hazardous Decomposition Products:CARBON MONOXIDE,CARBON DIOXIDE,
+    NITROGEN OXIDES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W FEDERAL,STATE,LOCAL REGULATIONS.
+    HMIS SUGGESTS INCINERATION. DO NOT INCINERATE CLOSED CONTAINERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

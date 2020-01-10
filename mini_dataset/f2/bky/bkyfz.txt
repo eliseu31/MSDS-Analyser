@@ -1,0 +1,87 @@
+=====================  Product Identification  =====================
+
+Product ID:30-5178 CARBIMET
+MSDS Date:02/26/1986
+FSC:8030
+NIIN:00F018568
+MSDS Number: BKYFZ
+=== Responsible Party ===
+Company Name:BUEHLER LTD
+Address:41 WAUKEGAN ROAD
+Box:1
+City:LAKE BLUFF
+State:IL
+ZIP:60044
+Info Phone Num:(312) 295-6500
+Emergency Phone Num:(312) 295-6500
+Preparer's Name:T. DERAM
+CAGE:09410
+=== Contractor Identification ===
+Company Name:BUEHLER LTD.
+Address:41 WAUKEGAN RD.
+Box:City:LAKE BLUFF
+State:IL
+ZIP:60044-1687
+Country:US
+Phone:847-295-8500
+CAGE:09410
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NON-HAZARDOUS FOR INGREDIENTS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN: IRRITATION BY ABRASION.
+    INHALATION: CHOKING SENSATION FROM DUSTY CONDITIONS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN: IRRITATION BY ABRASION. INHALATION:
+    CHOKING SENSATION FROM DUSTY CONDITIONS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: FLUSH W/WATER. INHALATION: REMOVE TO FRESH AIR. OBTAIN
+    MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER, CO2, FOAM OR DRY CHEMICAL
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NO SPECIAL PROCEDURES ARE REQUIRED.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NORMAL PRECAUTIONS SHOULD BE TAKEN FOR
+    NUISANCE DUSTS & PARTICULATES GENERATED DURING GRINDING OPERATION
+    PRINCIPALLY FROM WORK PIECE.
+Other Precautions:AVOID BREATHING DUST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AS REQUIRED
+Ventilation:LOCAL EXHAUST FOR NORMAL DUST PROCEDURE
+Protective Gloves:RECOMMENDED WHEN GRINDING
+Eye Protection:FACE SHIELD/SAFETY GOGGLES FOR GRINDING
+Supplemental Safety and Health
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

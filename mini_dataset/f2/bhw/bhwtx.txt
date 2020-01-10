@@ -1,0 +1,146 @@
+=====================  Product Identification  =====================
+
+Product ID:INSPEX II DRY SILVER FILM
+MSDS Date:10/29/1991
+FSC:6750
+NIIN:01-193-8757
+MSDS Number: BHWTX
+=== Responsible Party ===
+Company Name:MINNESOTA MINING & MFG CO
+Address:3M CTR 224-2S-25
+City:ST. PAUL
+State:MN
+ZIP:55144-1000
+Country:US
+Info Phone Num:612-733-5454 OR 800-362-3456
+Emergency Phone Num:612-733-5454
+CAGE:76381
+=== Contractor Identification ===
+Company Name:MINNESOTA MINING AND  MFG CO, DBA 3M
+Address:3M CENTER BLDG 224-5S-04
+Box:City:SAINT PAUL
+State:MN
+ZIP:55144-1000
+Country:US
+Phone:866-556 5712 / 612-733-1110
+CAGE:76381
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POLYESTER FILM BACKING
+Fraction by Wt: 80-90%
+
+Ingred Name:POLY VINYL BUTYRAL RESIN
+CAS:63148-65-2
+Fraction by Wt: 4-8%
+
+Ingred Name:SILVER BEHENATE
+CAS:2489-05-6
+Fraction by Wt: 1.0-5.0%
+OSHA PEL:0.01 MG/M3 (AG)
+ACGIH TLV:0.01 MG/M3 (AG)
+
+Ingred Name:CELLULOSE ACETATE
+CAS:9004-35-7
+Fraction by Wt: <5.0%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:ACRYLIC RESINS
+Fraction by Wt: <5%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3
+
+Ingred Name:MERCURIC BROMIDE
+CAS:7789-47-1
+RTECS #:OV7415000
+Fraction by Wt: <0.1%
+OSHA PEL:0.1 MG/M3 (HG)
+ACGIH TLV:0.05 MG/M3 (HG)
+
+Ingred Name:2,2'(3,5,5TRIMETHYLHEXYLIDENE)BIS4,6DIMETHYLPHENOL
+CAS:7292-14-0
+Fraction by Wt: <5%
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:IRRITATION OF
+    EYES,SKIN,RESPIRATORY OR G,I.TRACT;REDNESS OR BURNS OF EYES ARE
+    POSSIBLE.CHRONIC EXPOSURE TO MERCURY CAN CAUSE KIDNEY,LIVER,LUNGS
+    AND CNS EFFECTS
+Explanation of Carcinogenicity:DATA PER MGF MSDS.
+Effects of Overexposure:INHALATION: COUGHING, WHEEZING. EYES: REDNESS,
+    TEARING. SKIN: REDNESS, RASH. INGESTION: NAUSEA, VOMITING,
+    DIARRHEA.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES AND SKIN: FLUSH WITH LARGE AMOUNT OF WATER FOR ABOUT
+    15-20 MINUTES; SEEK MEDICAL ATTENTION. INHALATION:REMOVE TO FRESH
+    AIR. INGESTION:SEEK MEDICAL ATTENTION IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE FOAM, WATER
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE.
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPER PERSONAL PROTECTION;SWEEP UP OR
+    VACUUM AND COLLECT FOR PROPER DISPOSAL IN AN APPROVED CONTAINER.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DRY AND WELL VENTILATED
+    AREA.
+Other Precautions:WASH THOROUGHLY AFTER EACH USE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR FOR DUST/MIST
+    IF ABOVE PEL/TLV.
+Ventilation:LOCAL/GENERAL TO MAINTAIN PEL/TLV.
+Protective Gloves:IMPERVIOUS
+Eye Protection:SAFETY GLASSES/GOGGLES
+Other Protective Equipment:PROTECTIVE CLOTHINGS.EYE-WASH
+    FACILITIES,SAFETY SHOWER.
+Work Hygienic Practices:AVOID CONTACT WITH EYES AND SKIN;DO NOT BREATHE
+    VAPORS/MIST/DUST.WASH THOROUGHLY AFTER EACH USE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Solubility in Water:SLIGHT
+Appearance and Odor:TRANSPARENT FILM, BLUE TINT, ESSENTIALLY ODORLESS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:HIGH TEMPERATURES
+Hazardous Decomposition Products:MERCURY COMPOUNDS, SILVER COMPOUNDS,
+    CARBON DIOXIDE, AND CARBON PARTICLES IF BURNED
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:RECLAMATION OF SILVER AND/OR PAPER IS PREFERRED.
+    CONSULT LOCAL AUTHORITIES;DISPOSAL MUST BE IN ACCORDANCE WITH
+    LOCAL,STATE AND FEDERAL REGULATIONS
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

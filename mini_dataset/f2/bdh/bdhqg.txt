@@ -1,0 +1,131 @@
+=====================  Product Identification  =====================
+
+Product ID:CLEANING COMPOUND, OPTICAL LENS
+MSDS Date:01/01/1987
+FSC:6850
+NIIN:00-188-9875
+MSDS Number: BDHQG
+=== Responsible Party ===
+Company Name:SPECIALTY PRODUCTS GROUP
+Address:1734 HAYES AVE
+City:LONG BEACH
+State:CA
+ZIP:90813
+Country:US
+Info Phone Num:415-983-9214
+Emergency Phone Num:415-983-9214
+CAGE:SPPRD
+=== Contractor Identification ===
+Company Name:MCKESSON CORP MCKESSON CHEMICAL CO DIV
+Address:1734 HAYES AVE
+Box:City:LONG BEACH
+State:CA
+ZIP:90813
+Country:US
+Phone:415-983-9214
+CAGE:1JK82
+Company Name:SPECIALTY PRODUCTS
+Address:75 TOPAWANADA ST
+City:BUFFALO
+State:NY
+ZIP:14207-5000
+Country:US
+Phone:718-873-6000/800-876-7005
+CAGE:SPPRD
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHYL ALCOHOL (ETHANOL)
+CAS:64-17-5
+RTECS #:KQ6300000
+Fraction by Wt: 54.3%
+OSHA PEL:1000 PPM
+ACGIH TLV:1000 PPM; 9192
+
+Ingred Name:METHYL ALCOHOL (METHANOL)  (SARA III)
+CAS:67-56-1
+RTECS #:PC1400000
+Fraction by Wt: 2.7%
+OSHA PEL:S,200PPM/250STEL
+ACGIH TLV:S,200PPM/250STEL; 93
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:DETERGENTS (TRITON N-101)
+Fraction by Wt: 0.15%
+
+Ingred Name:WATER (CAS #7732-18-5)
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 42.9%
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:DIZZ,DROW,NAU,VOMIT,COMA. EYE & SKIN IRRIT
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:RMV TO FRESH AIR. IF NOT BRTHNG GIVE CPR; IF BRTHNG
+    DIFF GIVE OXYGEN. EYE:IMMED FLUSH W/PLENTY OF WATER. SKIN:WASH
+    W/SOAP&WATER. RMV CONTAM CLTHG&SHOES. INGEST:INDUCE VOMIT. RPT
+    UNTIL VOMIT IS C LEAR. NOTHG BY MOUTH IF UNCONSC. GET MEDICAL ATTN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:60F,15.6C (TCC)
+Extinguishing Media:CO*2,DRY CHEM,WATER SPRAY
+Fire Fighting Procedures:WEAR SCBA & FULL GEAR.
+Unusual Fire/Explosion Hazard:VAPORS MAY TRAVEL & BE IGNITED BY REMOTE
+    IGNITION SOURCES. CONTACT W/OXIDIZERS MAY FORM EXPLOSIVE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIM ALL IGNIT SOURCES. ABSORB LIQUID W/INERT
+    MATL & PLACE IN CLOSED DISPOSAL CONTAINER. FLUSH SM AMTS W/LG AMT
+    OF WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT TAKE INTERNALLY. AVOID
+    BREATHING VAPORS. KEEP CONTAINER CLOSED WHEN NOT IN USE. STORE IN
+    COOL,DRY PLACE AWAY FROM HEAT & FLAMES
+Other Precautions:WASH THOROUGHLY AFTER HANDLING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED RESP FOR ENCLOSED AREA OR VENT IS
+    POOR.
+Ventilation:MECHANICAL (GEN) REQD
+Protective Gloves:IMPERVIOUS
+Eye Protection:SAFETY/CHEM GOGGLES
+Other Protective Equipment:SAFETY SHOWER & EYE BATH
+Supplemental Safety and Health
+MSDS NOT DATED.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Evaporation Rate & Reference:1.93 (BU AC=1)
+Solubility in Water:COMPLETE
+Appearance and Odor:COLORLESS, CLEAR LIQUID. MILD ALCOHOL ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AND REDUCING AGENTS
+Stability Condition to Avoid:HEAT, SPARKS, FLAME
+Hazardous Decomposition Products:CO & CO*2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:LIQUID MAYBE INCINERATED. DISPOSE I/A/W ALL
+    LOCAL, STATE & FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

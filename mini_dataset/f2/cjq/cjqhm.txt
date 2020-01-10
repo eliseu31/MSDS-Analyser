@@ -1,0 +1,133 @@
+=====================  Product Identification  =====================
+
+Product ID:RADIANCE FURNITURE POLISH, 10120
+MSDS Date:04/09/1996
+FSC:7930
+NIIN:00N092086
+Status Code:A
+MSDS Number: CJQHM
+=== Responsible Party ===
+Company Name:ECOLAB INC
+Address:370 WABASHA ST.  ECOLAB CENTER
+City:ST PAUL
+State:MN
+ZIP:55102
+Country:US
+Info Phone Num:800-352-5326
+Emergency Phone Num:800-328-0026
+CAGE:85884
+=== Contractor Identification ===
+Company Name:ECOLAB PROFESSIONAL PRODUCTS DIVISION OF ECOLAB INC.
+Address:ECOLAB CENTER
+Box:City:ST PAUL
+State:MN
+ZIP:55102
+Country:US
+Phone:800-352-5326
+CAGE:85884
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LIGHT ALIPHATIC SOLVENT NAPHTHA (PETROLEUM); (LIGHT
+    ALIPHATIC NAPHTHA)
+CAS:64742-89-8
+Minumum % Wt:15.
+Maxumum % Wt:30.
+
+Ingred Name:N-BUTANE
+CAS:106-97-8
+RTECS #:EJ4200000
+Minumum % Wt:5.
+Maxumum % Wt:10.
+ACGIH TLV:1900 MG/M3;800 PPM
+
+Ingred Name:PROPANE
+CAS:74-98-6
+RTECS #:TX2275000
+Minumum % Wt:5.
+Maxumum % Wt:10.
+OSHA PEL:1800 MG/M3;1000 PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN AND EYES: MAY CAUSE IRRITATION,
+    DEPENDING UPON DEGREE OF EXPOSURE. INHALATION: DELIBERATE
+    INHALATION OF CONCENTRATED PRODUCT SPRAY CAN BE HARMFUL OR FATAL.
+    EXCESSIVE AIRBORNE CONCENTRATIONS MAY C AUSE BREATHING
+    DIFFICULTIES, DIZZINESS OR HEADACHES.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH IMMEDIATELY WITH PLENTY OF COOL RUNNING WATER FOR
+    AT LEAST 15 MINUTES. REMOVE CONTACT LENSES, IF USED AND THEN FLUSH
+    AGAIN. SKIN: FLUSH WITH WATER, THEN WASH WITH SOAP AND WATER. WASH
+    CONT AMINATED CLOTHING WELL BEFORE REUSE. INGESTION: RINSE MOUTH.
+    DO NOT INDUCE VOMITING. IN CASE OF NAUSEA OR SPONTANEOUS VOMITING,
+    KEEP VICTIM'S HEAD BELOW HIPS. NEVER GIVE ANYTHING BY MOUTH TO AN
+    UNCONS CIOUS PERSON. IF INGESTION, CALL THE ECOLAB EMERGENCY NUMBER
+    IMMEDIATELY (1-800-328-0026); IN CASE OF PERSISTENT EYE OR SKIN
+    IRRITATION, CALL A POISON CONTROL CENTER OR PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:CARBON DIOXIDE, DRY CHEM/FOAM. WATER MAY BE
+    INEFFECTIVE-H*2O MAY BE USED TO COOL EXPOSED CNTNRS. PROPELLANT IS
+    EXTREMELY FLAMMABLE. TO REDUCE FLAMMABILITY, SHAKE WELL BEFORE
+    USING.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT . CONTENTS UNDER PRESSURE. FLAMMABLE.
+Unusual Fire/Explosion Hazard:LEVEL 1 AEROSOL (NFPA 30B). HAZARD
+    RATING: HEALTH: 1, FIRE: 2, REACTIVITY: 0.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE OR TURN OFF ALL IGNITION SOURCES.
+    VENTILATE. AVOID BREATHING VAPORS AND REMOVE WITH INERT ABSORBENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP OUT OF REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN .
+Ventilation:AVOID BREATHING MISTS OR VAPORS CONTAINING PRODUCT.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:ANSI APPROVED EYE WASH AND DELUGE SHOWER .
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Solubility in Water:SLIGHT
+Appearance and Odor:AEROSOL DELIVERING A CREAMY WHITE EMULSION; LEMON
+    ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+DO NOT SPRAY NEAR FIRE OR OPEN FLAME. DO NOT STORE ABOVE 120 DEG F.
+    EXPOSURE TO SUNLIGHT OR OTHER HEAT MAY CAUSE BURSTING.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DO NOT PUNCTURE OR INCINERATE CONTAINER.
+    DISPOSAL MUST BE IN ACCORDANCE WITH FEDERAL, STATE AND LOCAL
+    REGULATIONS .
+
+=====================  Regulatory Information  =====================
+
+State Regulatory Information:
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

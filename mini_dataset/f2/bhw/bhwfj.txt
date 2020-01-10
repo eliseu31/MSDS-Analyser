@@ -1,0 +1,141 @@
+=====================  Product Identification  =====================
+
+Product ID:V AGENT SIMULANT VIAL,(SEE SUPP DATA)
+MSDS Date:01/01/1987
+FSC:6910
+NIIN:00-106-4800
+Kit Part:Y
+MSDS Number: BHWFJ
+=== Responsible Party ===
+Company Name:CHEMTRONICS,INC/NOW,JET RESEARCH
+Address:180 OLD BEE TREE RD
+City:SWANNANOA
+State:NC
+ZIP:28778
+Country:US
+Info Phone Num:704-298-7941
+Emergency Phone Num:704-298-7941
+CAGE:KO083
+=== Contractor Identification ===
+Company Name:CHEMTRONICS INC
+Address:180 OLD BEE TREE RD
+Box:City:SWANNANOA
+State:NC
+ZIP:28778-3409
+Country:US
+Phone:NOT LISTED IN PHONE DIRECTORY
+CAGE:60737
+Company Name:CHEMTRONICS,INC/NOW,JET RESEARCH (NO LONGER MFR)
+Address:180 OLD BEE TREE RD
+Box:City:SWANNANOA
+State:NC
+ZIP:28778
+Country:US
+Phone:704-298-7941
+CAGE:KO083
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ACETIC ACID  (SARA III)
+CAS:64-19-7
+RTECS #:AF1225000
+Other REC Limits:N/K 
+OSHA PEL:10 PPM
+ACGIH TLV:10 PPM/15 STEL; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:N/K 
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:CAUSES SEVERE EYE DAMAGE.CORROSIVE TO
+    SKIN.SWALLOWING DAMAGES MUCOUS MEMBRANES.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES:CAUSES SEVERE
+    DAMAGE.SKIN:CORROSIVE.INGESTION:SWALLOWING DAMAGES MUCOUS
+    MEMBRANES.INHALATION:IRRITATING TO RESPIRATORY PASSAGE.
+Medical Cond Aggravated by Exposure:N/K 
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:IMMEDIATELY FLUSH FOR 15 MINUTES WITH WITH
+    WATER.SKIN:FLUSH WITH WATER.INGESTION:GIVE 2 GLASSES OF WATER.DO
+    NOT INDUCE VOMITING.CALL MD.INHALATION:MOVE TO FRESH AIR.IF
+    NECESSARY,GIVE ARTIFICIAL R ESPIRATION AND OXYGEN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:109F,43C
+Lower Limits:N/K 
+Upper Limits:N/K 
+Extinguishing Media:ALCOHOL FOAM,DRY CHEMICAL,CO*2,WATER.
+Fire Fighting Procedures:SCBA REQUIRED IN PRESSURE DEMAND MODE.VAPORS
+    READILY IGNITED.
+Unusual Fire/Explosion Hazard:REACTS WITH MOST METALS TO PRODUCE
+    HYDROGEN GAS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:COVER SPILLS WITH SODA ASH.SCOOP INTO
+    CONTAINER FOR DISPOSAL OR FLUSH DOWN DRAIN WITH WATER IF
+    ENVIRONMENTAL REGULATIONS PERMIT.
+Neutralizing Agent:N/K 
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP FROM FREEZING.IF FROZEN,THAW
+    SLOWLY.
+Other Precautions:UNCONTROLLED MIXING OF ACETIC ACID AND NITRIC ACID
+    HAS PRODUCED EXPLOSIONS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESPIRATOR WITH ORGANIC CARTRIDGE OR SCBA.
+Ventilation:CONSULT LOCAL SAFETY/HEALTH AUTHORITIES IF ADDITIONAL
+    GUIDANCE IS NEEDED .
+Protective Gloves:RUBBER
+Eye Protection:SPLASH PROOF GOGGLES.
+Other Protective Equipment:N/K 
+Work Hygienic Practices:N/K 
+Supplemental Safety and Health
+PART NO:(M73-A1 TRAINING SET CHEMIC).
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:117C,242F
+Melt/Freeze Pt:M.P/F.P Text:N/K 
+Decomp Temp:Decomp Text:N/K 
+Vapor Pres:11 MMHG
+Vapor Density:>1 (AIR=1)
+Spec Gravity:1.050 (WATER=1)
+Evaporation Rate & Reference:<1 (BUTYL ACETATE=1)
+Solubility in Water:MISCIBLE
+Appearance and Odor:COLORLESS LIQUID WITH STRONG VINEGAR ODOR.
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS,STRONG ALKALINES,STRONG MINERAL ACIDS.
+Stability Condition to Avoid:N/K 
+Hazardous Decomposition Products:CARBON DIOXIDE,CARBON MONOXIDE.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISP MUST BE IAW FEDERAL,STATE & LOCAL
+    REGULATIONS.COORDINATION W/ SUPPORTING INSTALLATION/MACOM ENVIRON
+    COORDINATION BEFORE DISP IS REC TO DETERMINE APPROP DISP METHODS
+    .LARGE SPILLS SHOULD BE  TRANSFERRED TO A CONTAINER FOR INCIN
+    IFLEGAL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

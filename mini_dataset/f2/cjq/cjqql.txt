@@ -1,0 +1,131 @@
+=====================  Product Identification  =====================
+
+Product ID:BLUE TETRAZOLIUM, B54800
+MSDS Date:01/01/1999
+FSC:6810
+NIIN:00N092208
+Status Code:A
+MSDS Number: CJQQL
+=== Responsible Party ===
+Company Name:ALDRICH CHEMICAL CO INC
+Address:1001 WEST ST PAUL
+City:MILWAUKEE
+State:WI
+ZIP:53233
+Country:US
+Info Phone Num:414-273-3850
+Emergency Phone Num:414-273-3850
+CAGE:60928
+=== Contractor Identification ===
+Company Name:ALDRICH CHEMICAL CO INC
+Address:1001 WEST ST PAUL AVE
+Box:355
+City:MILWAUKEE
+State:WI
+ZIP:53233
+Country:US
+Phone:414-273-3850
+CAGE:60928
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BLUE TETRAZOLIUM
+CAS:1871-22-3
+Other REC Limits:N/K 
+OSHA PEL:N/K 
+OSHA STEL:N/K 
+ACGIH TLV:N/K 
+ACGIH STEL:N/K 
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: MAY BE HARMFUL BY INHALATION,
+    INGESTION, OR SKIN ABSORPTION. MAY CAUSE IRRITATION. THE
+    TOXICOLOGICAL PROPERTIES HAVE NOT BEEN THOROUGHLY INVESTIGATED.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION: WASH OUT MOUTH WITH WATER PROVIDED PERSON IS
+    CONSCIOUS. CALL A PHYSICIAN. SKIN: FLUSH WITH COPIOUS AMOUNTS OF
+    WATER FOR AT LEAST 15 MINUTES. REMOVE CONTAMINATED CLOTHING AND
+    SHOES. CALL A P HYSICIAN. INHALATION: REMOVE TO FRESH AIR. IF
+    BREATHING BECOMES DIFFICULT, CALL A PHYSICIAN. EYES: FLUSH WITH
+    COPIOUS AMOUNTS OF WATER FOR AT LEAST 15 MINUTES. ASSURE ADEQUATE
+    FLUSHING BY SEPARATING T HE EYELIDS WITH FINGERS. CALL A PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER SPRAY, CARBON DIOXIDE, DRY CHEMICAL POWDER OR
+    APPROPRIATE FOAM.
+Fire Fighting Procedures:WEAR NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT .
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE EQUIPMENT. SWEEP UP, PLACE IN
+    A BAG AND HOLD FOR WASTE DISPOSAL. AVOID RAISING DUST. VENTILATE
+    AREA AND WASH SPILL SITE AFTER MATERIAL PICKUP IS COMPLETE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:CAUTION: AVOID CONTACT AND INHALATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR APPROPRIATE NIOSH APPROVED RESPIRATOR.
+Ventilation:MECHANICAL EXHAUST.
+Protective Gloves:CHEMICAL-RESISTANT GLOVES.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:EYEWASH AND DELUGE SHOWER MEETING ANSI
+    DESIGN CRITERIA . WEAR APPROPRIATE PROTECTIVE CLOTHING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:=255.C, 491.F
+Appearance and Odor:YELLOW POWDER.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Hazardous Decomposition Products:TOXIC FUMES OF NITROGEN OXIDES AND
+    CHLORINE.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:THE TOXICOLOGICAL PROPERTIES HAVE NOT BEEN
+    THOROUGHLY INVESTIGATED.
+
+=====================  Ecological Information  =====================
+
+Ecological:DATA NOT YET AVAILABLE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISSOLVE OR MIX THE MATERIAL WITH A COMBUSTIBLE
+    SOLVENT AND BURN IN A CHEMICAL INCINERATOR EQUIPPED WITH AN
+    AFTERBURNER AND SCRUBBER. OBSERVE ALL FEDERAL, STATE AND LOCAL
+    ENVIRONMENTAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:CONTACT ALDRICH CHEMICAL COMPANY FOR
+    TRANSPORTATION INFORMATION.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:DATA NOT AVAILABLE.
+Federal Regulatory Information:DATA NOT AVAILABLE.
+State Regulatory Information:DATA NOT AVAILABLE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

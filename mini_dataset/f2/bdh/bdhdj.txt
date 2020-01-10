@@ -1,0 +1,134 @@
+=====================  Product Identification  =====================
+
+Product ID:LUBRICATING OIL 60,501-10/30
+MSDS Date:04/17/1989
+FSC:9150
+NIIN:00-186-6703
+MSDS Number: BDHDJ
+=== Responsible Party ===
+Company Name:BATTENFIELD AMERICA,INC.
+Address:1575 CLINTON ST
+City:BUFFALO
+State:NY
+ZIP:14206
+Info Phone Num:716-822-8410
+Emergency Phone Num:716-822-8410
+Preparer's Name:THOMAS G. MUSILLI
+CAGE:KO105
+=== Contractor Identification ===
+Company Name:BATTENFELD AMERICA INC
+Address:1575 CLINTON ST
+Box:City:BUFFALO
+State:NY
+ZIP:14206
+Country:US
+Phone:716-822-8410
+CAGE:61808
+Company Name:BATTENFIELD AMERICA,INC.
+Address:1575 CLINTON ST
+City:BUFFALO
+State:NY
+ZIP:14206
+Country:US
+Phone:716-822-8410
+CAGE:KO105
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MINERAL OIL
+CAS:64742-65-0
+RTECS #:PY8038500
+Fraction by Wt: 85.40%
+Other REC Limits:ACGIH:STEL 10 MG/M3
+OSHA PEL:5 MG/M3 OIL MIST
+ACGIH TLV:5 MG/M3 OIL MIST
+
+Ingred Name:LUBRIZOL 4856 (LUBRIZOL,CLEVELAND,OH)
+Fraction by Wt: 6.60%
+
+Ingred Name:OLEFIN COPOLYMER (EXXON, HOUSTON,TX)
+Fraction by Wt: 8.00%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MFR STATES"THIS PRODUCT HASBEEN USED
+    FOR YEARS WITH NO KNOWN ILL EFFECTS." THE MOST LIKELY HEALTH HAZARD
+    IS INHALATION OF OIL MIST IN THE UNLIKELY EVENT THAT THE PRODUCT
+    BECOMES AN AIRBORNE MIST.
+Effects of Overexposure:PRODUCT MAY IRRITATE EYES,SKIN. UNDER NORMAL
+    USE,SHOULD NOT BE INHALED OR INGESTED.
+Medical Cond Aggravated by Exposure:NONE
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH WITH WATER FOR 15 MIN. SKIN:REMOVE CONTAMINATED
+    CLOTHING. WASH WITH SOAP & WATER. LAUNDER CLOTHING BEFORE REUSE.
+    INHALED:(HIGHLY UNLIKELY)REMOVE FROM EXPOSURE. GET MEDICAL CARE.
+    INGESTED:DO  NOT INDUCE VOMITING GET MEDICAL CARE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:440F/227C
+Autoignition Temp:Autoignition Temp Text:470F
+Extinguishing Media:CARBON DIOXIDE,DRY CHEMICAL,FOAM,SAND/EARTH,WATER
+    FOG
+Fire Fighting Procedures:WEAR SELF CONTAINED BREATHING APPARATUS. WATER
+    MAY CAUSE FROTHING
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:RECOVER LIQUID IF POSSIBLE. ADSORB REMAINER
+    WITH INERT MATERIAL.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM HEAT,SPARKS,OPEN
+    FLAMES.
+Other Precautions:NO SPECIAL
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE IS EXPECTED TO BE NECESSARY. WEAR
+    NIOSH/MSHA RESPIRATOR IF EXPOSED ABOVE PEL/TLV OF OIL MIST.
+Ventilation:NORMAL ROOM VENTILATION
+Protective Gloves:NEOPRENE OR BUTYL
+Eye Protection:SAFETY GLASSES,SPLASH GOGGLES
+Other Protective Equipment:NONE
+Work Hygienic Practices:USE GOOD INDUSTRIAL HYGIENE PRACTICE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:700F/371C
+Spec Gravity:0.89
+Solubility in Water:N/L
+Appearance and Odor:FLUID OIL,BLAND ODOR
+Percent Volatiles by Volume:0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS
+Stability Condition to Avoid:HEAT,IGNITION SOURCES SUCH AS SPARKS &
+    OPEN FLAME
+Hazardous Decomposition Products:CARBON MONOXIDE,CARBON DIOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W FEDERAL,STATE,LOCAL REGULATIONS.
+    MFR SUGGESTS RECYCLE (PREFERRABLE) OR INCINERATE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

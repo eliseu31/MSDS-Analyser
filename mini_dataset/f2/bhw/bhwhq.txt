@@ -1,0 +1,188 @@
+=====================  Product Identification  =====================
+
+Product ID:62822 KATHON FP 1.5 BIOCIDE
+MSDS Date:10/15/1992
+FSC:6840
+NIIN:00-173-6940
+MSDS Number: BHWHQ
+=== Responsible Party ===
+Company Name:ROHM & HAAS COMPANY
+Address:INDEPENDENCE MALL WEST
+City:PHILADELPHIA
+State:PA
+ZIP:19105
+Country:US
+Info Phone Num:215-592-3000
+Emergency Phone Num:215-592-3000, CHEMTREC 800-424-9300
+CAGE:FO048
+=== Contractor Identification ===
+Company Name:FUEL QUALITY SERVICES, INC.
+Address:4584 CANTRELL ROAD
+Box:1380
+City:FLOWERY BRANCH
+State:GA
+ZIP:30542
+Country:US
+Phone:(800) 827-9790 - (770) 967-9790
+CAGE:40161
+Company Name:ROHM & HAAS COMPANY
+Address:INDEPENDENCE MALL WEST
+City:PHILADELPHIA
+State:PA
+ZIP:19105
+Country:US
+Phone:215-592-3000
+CAGE:FO048
+Company Name:ROHM AND HAAS CO
+Address:100 INDEPENDENCE MALL WEST
+Box:City:PHILADELPHIA
+State:PA
+ZIP:19106-2399
+Country:US
+Phone:215-592-2521/215-592-3000
+CAGE:77902
+Company Name:SHELDAHL INC
+Address:NORTH HWY 3
+Box:170
+City:NORTHFIELD
+State:MN
+ZIP:55057
+Country:US
+CAGE:62822
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:5-CHLORO-2-METHYL-4-ISOTHIOAZOLIN-3-ONE
+CAS:26172-55-4
+RTECS #:NX8156850
+Fraction by Wt: 1.0-1.3%
+Other REC Limits:0.1 MG/M3
+
+Ingred Name:2-METHYL-4-ISOTHIAZOLIN-3-ONE
+CAS:2682-20-4
+RTECS #:NX8157000
+Fraction by Wt: 0.2-0.5%
+Other REC Limits:0.1 MG/M3
+
+Ingred Name:MAGNESIUM CHLORIDE, ANHYDROUS
+CAS:7786-30-3
+RTECS #:OM2800000
+Fraction by Wt: 0.9-1.0%
+Other REC Limits:NONE SPECIFIED BY M.
+
+Ingred Name:MAGNESIUM NITRATE
+CAS:10377-60-3
+RTECS #:OM3750000
+Fraction by Wt: 1.7-1.8%
+Other REC Limits:NONE SPECIFIED BY M.
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 6-7%
+Other REC Limits:NONE SPECIFIED BY M.
+
+Ingred Name:DIPROPYLENE GLYCOL
+CAS:110-98-5
+RTECS #:UB8785000
+Fraction by Wt: 88-90%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT,MALE): 3500 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE-SKIN:IRRITATION, CHEMICAL BURNS.
+     EYE:IRRITATION & CORNEAL INJURY. INHALATION:IRRITATION OF NOSE AND
+    THROAT.  INGESTION: HARMFUL. CHRONIC:DERMATITIS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN: IRRITATION/BURNS. EYE:IRRITATION, BLURRED
+    VISIONS . INHALATION:IRRITATION OF NOSE AND THROAT. INGESTION:NONE
+    LISTED.
+Medical Cond Aggravated by Exposure:SKIN DISEASES.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION:REMOVE TO FRESH AIR, PROVIDE CPR/OXYGEN IF NEEDED.
+    EYE CONTACT:FLUSH WITH WATER FOR 15 MINUTES. GET MEDICAL HELP. SKIN
+    CONTACT:WASH WITH SOAP AND WATER. GET MED ATTENTION IF SYMPTOMS
+    PERSIS T. DISCARD CONTAMINATED CLOTHING. INGESTION:DRINK 1-2
+    GLASSES OF WATER. GET MEDICAL HELP IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:280F,138C
+Extinguishing Media:USE MEDIA APPROPRIATE FOR SURROUNDING FIRES.
+Fire Fighting Procedures:WEAR A NIOSH/MSHA APPROVED, PRESSURE DEMAND,
+    SELF-CONTAINED BREATHING APPARATUS & FULL PROTECTIVE CLOTHING. USE
+    WATER SPRAY TO COOL FIRE-EXPOSED CONTAINERS.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE EQUIPMENT. DIKE & ABSORB SPILL
+    W/INERT MATERIAL/EARTH/SAND. SHOVEL ALL CONTAMINATED SOLIDS SUCH AS
+    DIKING MATERIAL/ ABSORBENT/SOIL INTO CORROSION PROOF DRUMS. SEAL
+    DRUMS BEFORE DISPOSA L. KEEP RUNOFF OUT OF MUNICIPAL WATERWAYS.
+Neutralizing Agent:10 SODIUM THIOSULFATE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A WELL VENTILATED AREA BELOW
+    131F/55C. DO NOT STORE IN STEEL CONTAINERS.
+Other Precautions:MATERIAL IS A SEVERE IRRITANT, AVOID CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY REQUIRED. USE NIOSH APPROVED
+    SELF-CONTAINED BREATHING APPARATUS IF TLV IS EXCEEDED OR WHEN
+    SPRAYING OR USING IN CONFINED SPACES.
+Ventilation:USE LOCAL EXHAUST VENTILATION AT POINT OF DUST OR MIST
+    RELEASE.
+Protective Gloves:BUTYL RUBBER OR NITRILE
+Eye Protection:SPLASHPROOF GOGGLES, FACE SHIELD
+Other Protective Equipment:IMPERVIOUS APRON/SHOES, EYE WASH FACILITY,
+    EMERGENCY SHOWER.
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE. WASH AFTER HANDLING & SHOWER AT THE END OF WORK PERIOD.
+Supplemental Safety and Health
+EMPTY CONTAINERS RETAIN RESIDUE. DO NOT EXPOSE TO HEAT, FLAME. DO NOT
+    REUSE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T5
+Boiling Pt:B.P. Text:200F,93C
+Vapor Pres:0.1 MMHG
+Vapor Density:0.65
+Spec Gravity:1.0442
+pH:4.4
+Evaporation Rate & Reference:<1 (WATER = 1)
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR, YELLOW LIQUID, AROMATIC ODOR.
+Percent Volatiles by Volume:<97
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING AND REDUCING AGENTS, AMINES AND MERCAPTANS.
+Hazardous Decomposition Products:HYDROGEN CHLORIDE, SULFUR DIOXIDE &
+    OXIDES OF NITROGEN.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:THIS IS A HAZARDOUS WASTE, RCRA D002. REPORTABLE
+    QUANTITY 100 LBS. INCINERATE LIQUID AND CONTAMINATED LIQUID IN
+    ACCORDANCE WITH LOCAL, STATE AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

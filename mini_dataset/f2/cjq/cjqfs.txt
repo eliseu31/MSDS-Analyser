@@ -1,0 +1,142 @@
+=====================  Product Identification  =====================
+
+Product ID:1,2-DILAUROYL-SN-GLYCERO-3-PHOSPHOCHOLINE, 850335
+MSDS Date:01/01/1994
+FSC:6810
+NIIN:00N092052
+Status Code:A
+MSDS Number: CJQFS
+=== Responsible Party ===
+Company Name:AVANTI POLAR LIPIDS, INC
+Address:700 INDUSTRIAL PARK DRIVE
+City:ALABASTER
+State:AL
+ZIP:35007
+Country:US
+Info Phone Num:800-227-0651
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:TO229
+=== Contractor Identification ===
+Company Name:AVANTI POLAR LIPIDS, INC
+Address:700 INDUSTRIAL PARK DRIVE
+Box:City:ALABASTER
+State:AL
+ZIP:35007
+Country:US
+Phone:800-227-0651
+CAGE:TO229
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:1,2-DILAUROYL-SN-GLYCERO-3-PHOSPHOCHOLINE
+Other REC Limits:N/K 
+OSHA PEL:N/K 
+OSHA STEL:N/K 
+ACGIH TLV:N/K 
+ACGIH STEL:N/K 
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:POTENTIALLY HARMFUL IF INHALED OR
+    INGESTED. POTENTIAL SKIN AND EYE IRRITANT. TO THE BEST OF
+    MANUFACTURER'S KNOWLEDGE, THE HEALTH HAZARDS HAVE NOT BEEN
+    THOROUGHLY INVESTIGATED.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: WASH WITH PLENTY OF WATER. SEEK MEDICAL ADVICE. EYES:
+    WASH WITH PLENTY OF WATER FOR AT LEAST 15 MINUTES. SEEK MEDICAL
+    ADVICE. INGESTION: WASH MOUTH OUT WITH WATER AND SEEK MEDICAL
+    ADVICE. INHALA TION: EXPOSE TO FRESH AIR. IF BREATHING PROBLEMS
+    PERSIST, SEEK MEDICAL ADVICE.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER SPRAY, CARBON DIOXIDE, DRY CHEMICAL POWDER,
+    ALCOHOL OR POLYMER FOAM.
+Fire Fighting Procedures:WEAR NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:NOT A FLAMMABLE SOLID AS DEFINED BY
+    D.O.T. REGULATIONS, SECTION 173.150.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE EQUIPMENT. SWEEP UP, PLACE IN
+    A BAG AND HOLD FOR WASTE DISPOSAL. AVOID RAISING DUST. VENTILATE
+    AREA AND WASH SPILL SITE AFTER MATERIAL PICK UP IS COMPLETE. WASH
+    WITH ACETONE OR ALCOHOL , THEN WITH SOAP AND WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:POTENTIALLY HARMFUL IF INHALED OR
+    INGESTED. DO NOT GET IN EYES, ON SKIN, OR ON CLOTHING. POTENTIAL
+    SKIN AND EYE IRRITANT.
+Other Precautions:STORE IN FREEZER AT BELOW -20C.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED RESPIRATORY PROTECTION STRONGLY
+    RECOMMENDED.
+Ventilation:MECHANICAL VENTILATION STRONGLY RECOMMENDED.
+Protective Gloves:WEAR IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:EYEWASH AND DELUGE SHOWER MEETING ANSI
+    DESIGN CRITERIA .
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Appearance and Odor:WHITE POWDER.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:ORAL LD50 (RAT) = 1515 MG/KG. DERMAL LD50
+    (RABBIT) >2000 MG/KG. GENETIC TEST DATA: AMES SALMONELLA/MICROSOME:
+    DOSE RESPONSE INCR WITH S-9. CHO/HGPRT: NO ACTIVITY. IN VITRO
+    CYTOGENETICS: INCREASE IN AB ERRATIONS WITH AND WITHOUT S-9 AT
+    TOXIC LEVELS. UNSCHEDULED DNA SYNTHESIS: NO ACTIVITY. IN VITRO CELL
+    TRANSFORMATION: NO ACITIVITY.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISSOLVE OR MIX THE MATERIAL WITH A COMBUSTIBLE
+    SOLVENT AND BURN IN A CHEMICAL INCINERATOR EQUIPPED WITH AN
+    AFTERBURNER AND SCRUBBER. OBSERVE ALL FEDERAL, STATE, AND LOCAL
+    LAWS. SWEEP LOOSE SOLIDS INT O PAPER CONTAINER AND INCINERATE,
+    SUBJECT TO FEDERAL, STATE, AND LOCAL LAWS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:TSCA: THIS PROD IS LISTED ON TSCA AS INDIVIDUAL
+    ISOMERS UNDER CAS NUMBERS 102093-68-5 AND 104983-85-9. DOT
+    DESCRIPTION/PROPER SHIPPING NAME: EVNIRONMENTALLY HAZARDOUS
+    SUBSTANCES, LIQUID. N.O.S. (AROMA TIC AMINES). SEE NOTE 6.	DOT
+    HAZARD CLASS: 9. DOT ID NUMBER: UN3082. DOT PACKING GROUP: III.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:HAZARD CATEGORIES FOR SARA 311/312 REPORTING
+    ARE INDICATED BELOW: HEALTH IMMEDIATE (ACUTE) YES. HEALTH DELAYED
+    (CHRONIC) YES. PHYSICAL FIRE NO. PHYSICAL SUDDEN RELEASE OF
+    PRESSURE NO. PHYSICAL REACTIV E NO. NUISANCE MIST/DUST ONLY NO.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

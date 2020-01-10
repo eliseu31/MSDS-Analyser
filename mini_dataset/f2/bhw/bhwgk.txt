@@ -1,0 +1,117 @@
+=====================  Product Identification  =====================
+
+Product ID:COAGULANT,WATER TREATMENT
+MSDS Date:05/01/1988
+FSC:6850
+NIIN:01-167-5318
+MSDS Number: BHWGK
+=== Responsible Party ===
+Company Name:DIVERSIFIED CHEMICAL PRODUCTS,INC
+Address:1100 HOWELL
+City:NORTH KANSAS CITY
+State:MO
+ZIP:64116
+Country:US
+Info Phone Num:816-472-5515
+Emergency Phone Num:816-472-5515
+CAGE:OAU34
+=== Contractor Identification ===
+Company Name:DIVERSIFIED CHEMICAL PRODUCTS,INC
+Address:1100 HOWELL
+City:NORTH KANSAS CITY
+State:MO
+ZIP:64116
+Country:US
+Phone:816-472-5515
+CAGE:OAU34
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:COAGULANT,WATER TREATMENT (CONTAINS NO HAZARDOUS
+    INGREDIENTS ACCORDING TO OSHA HAZARD COMMUNICATION STANDARD).
+Other REC Limits:N/K 
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:N/K 
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:NONE KNOWN
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:NONE KNOWN
+Medical Cond Aggravated by Exposure:NONE KNOWN
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:RINSE WITH CLEAR WATER FOR AT LEAST 15 MINUTES.IF
+    IRRITATION DEVELOPS,CONSULT A
+    PHYSICIAN.SKIN/INGESTION/INHALATION:NOT APPLICABLE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON-FLAMMABLE
+Lower Limits:N/K 
+Upper Limits:N/K 
+Extinguishing Media:N/K 
+Unusual Fire/Explosion Hazard:HAZARDOUS DECOMPOSITION PRODUCTS:OXIDES
+    OF NITROGEN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DIKE UP AREA AFFECTED.SMALL AMOUNTS,RINSE WITH
+    WATER OR SOAK UP WITH CLAY.
+Neutralizing Agent:N/K 
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER CLOSED,DO NOT FREEZE.
+Other Precautions:N/K 
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT REQUIRED.
+Ventilation:USE MECHANICAL (GENERAL) VENTILATION.
+Protective Gloves:WATER RESISTANT
+Eye Protection:CHEMICAL SAFETY GLASSES.
+Other Protective Equipment:APRON AND BOOTS IF WORKING CONDITIONS MERIT.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+VAPOR PRESSURE:SIMILAR TO WATER.VAPOR DENSITY:SIMILAR TO
+    WATER.REACTIVITY IN WATER:NON-REACTIVE.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>212F,100C
+Melt/Freeze Pt:M.P/F.P Text:N/K 
+Decomp Temp:Decomp Text:N/K 
+Vapor Pres:SUPP DATA
+Vapor Density:SUPP DATA
+Spec Gravity:1.035 (WATER=1)
+Evaporation Rate & Reference:N/K 
+Solubility in Water:COMPLETE
+Appearance and Odor:WATER WHITE TO PALE YELLOW.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS.
+Hazardous Decomposition Products:OXIDES OF NITROGEN.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE IN ACCORDANCE WITH
+    FEDERAL,STATE AND LOCAL REGULATIONS.COORDINATION WITH SUPPORTING
+    INSTALLATION AND/OR MACOM ENVIRONMENTAL COORDINATION PRIOR TO
+    DISPOSAL IS RECOMMENDED TO DETERMINE  APPROPRIATE DISPOSAL METHODS
+    .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

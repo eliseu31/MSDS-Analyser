@@ -1,0 +1,157 @@
+=====================  Product Identification  =====================
+
+Product ID:ENAMEL ALKYD GLOSS BLUE 15102, PRODUCT ID 742516
+MSDS Date:09/24/1991
+FSC:8010
+NIIN:00-597-7844
+MSDS Number: BHWZS
+=== Responsible Party ===
+Company Name:PRATT AND LAMBERT INC
+Address:16116 E 13TH ST
+Box:2153
+City:WICHITA
+State:KS
+ZIP:67201
+Country:US
+Info Phone Num:316-733-1361
+Emergency Phone Num:716-873-6000/ DOT 800-255-3924
+Preparer's Name:W. A. ELLISON
+CAGE:61196
+=== Contractor Identification ===
+Company Name:PRATT AND LAMBERT INC
+Box:6027
+City:CLEVELAND
+State:OH
+ZIP:44101-1027
+Country:US
+Phone:216-566-2902
+CAGE:61196
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SOLVENT NAPHTHA (PETROLEUM) MEDIUM ALIPHATIC
+CAS:64742-88-7
+Fraction by Wt: 45%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 10%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9394
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SWALLOWING: CAN CAUSE GASTROINTESTINAL
+    IRR/NAUSEA/VOMIT. ASPIRATION OF MAT'L MAYCAUSE CHEM PNEUMONITIS.
+    INHALATION: NOSE/THROAT IRRITA. HIGH CONCENTRATION MAY  CAUSE
+    CENTRAL NERVOUS SYSTEM DEPRESSION  CHAR BY
+    HEADACHES/DIZZINESS/NAUSEA/CONFUSION. EYE: MAY CAUSE EYE IRRITA.
+    SKIN: MAY CAUSE DEFATTING AND IRRITATION.
+Explanation of Carcinogenicity:TITANIUM DIOXIDE IS NOT LISTED AS A
+    POTENTIAL CARCINOGEN BY THE NTP, IARC, OSHA OR A.C.G.I.H.
+Effects of Overexposure:REPORTS HAVE ASSOCIATED PROLONGED AND REPEATED
+    OCCUPATIONAL OVEREXPOSURE TO     SOLVENTS WITH PERMANENT BRAIN AND
+    NERVOUS SYSTEM DAMAGE. INTENTIONAL MISUSE BY  DELIBERATELY
+    CONCENTRATING AND INHALING	THE CONTENTS MAY BE HARMFUL OR
+    FATAL.THERE IS NO SIGNIFICANT LABORATORY DATA WITH POSSIBLE
+    RELEVANCE TO HUMAN HEALTH.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SWALLOWING: DO NOT INDUCE VOMITING/GET MED ATTN. INHALATION:
+    REMOVE TO FRESH AIRIF BREATHING HAS STOPPED GIVE CPR. GET MED ATTN.
+    EYE: FLUSH W/WATER FOR 15 MIN  LIFTING UPPER/LOWER LIDS. GET MED
+    ATTN.  SKIN: REMOVE CONTAMINATED CLOTHING.WASH AFFECTRED AREA.
+    OBTAIN MED ATTN IF IRR'N PERSISTS. TREATMENT REQ FOR OVER- EXPOSURE
+    S/B DIRECTED AT THE CONTROL OF SYMPTOMS AND THE CLINICAL
+    CONDITIONS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:>102F 39C
+Extinguishing Media:USE CLASS B FIRE EXTINGUISHERS. POLYMER FOAM IS
+    PREFERRED	FOR LARGE FIRES.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS. WATER
+    TO COOL CONT TO PREVENT POSSIBLE AUTO-IGNITION OR EXPLOSION. IF
+    WATER IS USED, FOG NOZZLES ARE PREFERABLE.
+Unusual Fire/Explosion Hazard:ISOLATE FROM HEAT/ELEC EQUIP/SPARKS
+    FLAME. CONT MAY EXPLODE WHEN EXPOSED TO	HEAT. OVEREXPOSURE TO
+    DECOMP PRODUCTS MAY CAUSE HEALTH HAZ. OBTAIN MED ATTN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIM ALL IGNITION SOURCES. DIKE/CONTAIN SPILL
+    WITHINERT MAT'L. TRANSFER LIQ'S/ABSORBENT DIKING MAT'LIN COVERED
+    METAL CONT'S FOR RECOVERY/DISPOSAL. USEONLY NON-SPARKING TOOLS.
+    PREVENT CONTAM OF SEWERS/ STREAMS/GROUNDWATER W/SPILLED MAT'L/USED
+    ABSORBENT
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT STORE ABOVE 95F. STORE LARGE
+    QUANTITIES IN COMPLIANCE WITH OSHA 29CFR1910.106.
+Other Precautions:DO NOT REUSE EMPTY CONTAINER. DO NOT TAKE INTERNALLY.
+    CONTAINER S/B GROUNDED ANDBONDED TO THE RECEIVING CONTAINER. DO NOT
+    WELD, BRAZE OR CUT CONTAINER. NEVER   USE PRESSURE TO EMPTY. DRUM
+    IS NOT A PRE SSURE VESSEL. CLOSE AFTER EACH USE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WELL VENTILATED AREA-RESP NOT REQ. RESTRICTED
+    VENT-NIOSH CHEMICAL CARTRIDGE MAY BE REQ. IF SPRAYING, MECH
+    PREFILTER MAY BE REQ. IF TLV ARE EXCEEDED, USE A PROP FITTED
+    NIOSH/MSHA RESP W/APPROP PROTECTI ON FACTOR. SEE OSHA 29 CFR
+    1910.134.
+Ventilation:PROVIDE DILUT/LOCAL EXH VENT TO KEEP CONCENT OF HAZ INGRID 
+    BELOW EXPOSURE LMT STD. REMOVE PROD GEN-WELD/CUT/BRAZ OBJECT
+Protective Gloves:SOLVENT IMPERMEABLE GLOVES.
+Eye Protection:WEAR SAFETY SPECTACLES.
+Other Protective Equipment:NOT LIKELY TO BE NEEDED.
+Work Hygienic Practices:WASH WITH SOAP AND WATER HAND/FACE THROUGHLY
+    BEFORE EATING  OR DRINKING.
+Supplemental Safety and Health
+NK
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:302F-390F
+Spec Gravity:1.0
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Appearance and Odor:BLUE LIQUID.
+Percent Volatiles by Volume:61
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS OR ALKALINE MATERIALS.			    BURNING,
+    INCLUDING WHEN HEATED BY WELDING/CUTTING WILL PRO-
+Stability Condition to Avoid:AVOID EXCESSIVE HEAT AND SOURCES OF
+    IGNITION.
+Hazardous Decomposition Products:BURNING, INCLUDING WHEN HEATED BY
+    WELDING OR CUTTING, WILL PRODUCE SMOKE, CARBON MONOXIDE AND CARBON
+    DIOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE ONLY IN EPA PERMITTED FACILITY.
+    DISPOSEONLY IAW FED/STATE/LOCAL REGS. DO NOT INCINERATE  CLOSED
+    CONTAINERS. OBSERVE PRECAUTIONS FOR DIS-   POSAL OF FLAMMABLE
+    MAT'S. CONTAMINATED ABSORBENT   MAY BE DISPOSED IN A HAZARDOUS
+    WASTE LANDFILL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

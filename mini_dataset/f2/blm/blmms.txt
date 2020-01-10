@@ -1,0 +1,166 @@
+=====================  Product Identification  =====================
+
+Product ID:ALL PURPOSE AND TRIM ADHESIVE, 77160
+MSDS Date:04/04/1989
+FSC:8040
+NIIN:00N021585
+MSDS Number: BLMMS
+=== Responsible Party ===
+Company Name:KAR PRODUCTS
+Address:461 NORTH THIRD AVENUE
+City:DES PLAINES
+State:IL
+ZIP:60016
+Country:US
+Info Phone Num:312-296-6111
+Emergency Phone Num:312-296-6111
+CAGE:GO039
+=== Contractor Identification ===
+Company Name:KAR PRODUCTS
+Address:461 NORTH THIRD AVENUE
+Box:City:DES PLAINES
+State:IL
+ZIP:60016
+Country:US
+Phone:847-296-6111
+CAGE:5L381
+Company Name:KAR PRODUCTS
+Address:461 NORTH THIRD AVENUE
+City:DES PLAINES
+State:IL
+ZIP:60016
+Phone:(312) 296-6111
+CAGE:GO039
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYLENE CHLORIDE	(SARA III)
+CAS:75-09-2
+RTECS #:PA8050000
+Fraction by Wt: 34%
+OSHA PEL:500 PPM/C,1000; Z2
+ACGIH TLV:50 PPM, A2; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:HEXANE (N-HEXANE)
+CAS:110-54-3
+RTECS #:MN9275000
+Fraction by Wt: 13%
+OSHA PEL:500 PPM
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:PROPANE
+CAS:74-98-6
+RTECS #:TX2275000
+Fraction by Wt: 25%
+OSHA PEL:1000 PPM
+ACGIH TLV:ASPHYXIANT; 9192
+
+Ingred Name:PROPANE, 2-METHYL-;(ISOBUTANE)
+CAS:75-28-5
+RTECS #:TZ4300000
+
+Ingred Name:NON HAZARDOUS INGREDIENTS
+Fraction by Wt: 28%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:EYE & SKIN IRRIT. MODERATE BY INGEST.
+    CHLOROCARBON MATLS HAVE PRODUCED SENSITIZATION OF MYOCARDIUM TO
+    EPINEPHRINE IN LAB ANIMALS & COULD HAVE A SIMILAR EFT IN HUMANS.
+    ADRENOMIMETICS (E.G., EPINEPHRINE ) MAY BE CONTRAINDICATED EXCEPT
+    FOR LIFE-SUSTAINING USES IN HUMANS ACUTELY/CHRONICALLY EXPOSED TO
+    CHLOROCARBONS .
+Explanation of Carcinogenicity:METHYLENE CHLORIDE:GROUP 2B (IARC);
+    GROUP 2 (NTP)
+Effects of Overexposure:EYE AND SKIN IRRITANT. MODERATE BY INGESTION.
+    MAY CAUSE DERMATITIS ON PROLONGED CONTACT IN SENSITIVE INDIVIDUALS.
+Medical Cond Aggravated by Exposure:NONE KNOWN
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH WITH WATER FOR AT LEAST 15 MINUTES. OBTAIN MEDICAL
+    ATTENTION. SKIN:FUSH WITH WATER. INHAL:REMOVE PERSON TO FRESH AIR.
+    IF SYMPTOMS PERSIST, OBTAIN MEDICAL ATTENTION. INGEST: INDUCE
+    VOMITING.  OBTAIN MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:-40F,-40C
+Lower Limits:1.8%
+Upper Limits:12%
+Extinguishing Media:USE WATER FOG, DRY CHEMICAL OR CARBON DIOXIDE.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED PRESSURE DEMAND SCBA
+    AND FULL PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:AT ELEVATED TEMPERATURES (130F OR OVER).
+    CONTAINERS MAY VENT, RUPTURE OR BURST. THERMAL DECOMP PRODUCTS MAY
+    INCLUDE HCL AND PHOSGENE .
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SOAK UP IN AN INERT ABSORBENT. STORE IN A
+    PARTLY FILLED, CLOSED CONTAINER UNTIL DISPOSAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE BELOW 110F, TO PRESERVE SHELF
+    LIFE. KEEP AWAY FROM EYES. AVOID PROLONGED SKIN CONTACT.
+Other Precautions:CONTACT LENSES SHOULD NOT BE WORN WHEN WORKING
+    W/CHEM. NO SMOKING IN AREA OF USE. DO NOT USE IN GENERAL VICINITY
+    OF ARC WELDING, OPEN FLAMES OR HOT SURFACE. HEAT AND/OR UV
+    RADIATION MAY CAUSE THE FORM ATION OF HCL AND/OR PHOSGENE .
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN .
+Ventilation:LOCAL EXHAUST SUFFICIENT TO MAINTAIN VAPOR CONCENTRATION
+    BELOW TLV.
+Protective Gloves:RUBBER OR PLASTIC GLOVES RECOMMENDED.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE RECOMMENDED
+Work Hygienic Practices:FOLLOW DIRECTIONS AND PRECAUTIONS ON LABEL;
+    PRACTICE GOOD HABITS OF CLEANLINESS.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V3
+Boiling Pt:B.P. Text:149F,65C
+Vapor Pres:50
+Vapor Density:4
+Spec Gravity:0.8
+Evaporation Rate & Reference:>1
+Solubility in Water:NIL
+Appearance and Odor:CLOUDY/SOLVENT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE.
+Stability Condition to Avoid:NONE.
+Hazardous Decomposition Products:FORMED BY FIRE OR THERMAL
+    DECOMPOSITION: IRRITATING ORGANIC VAPOR. HCL AND PHOSGENE .
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE FOLLOWING EPA AND LOCAL, STATE, AND
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

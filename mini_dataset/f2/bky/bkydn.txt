@@ -1,0 +1,155 @@
+=====================  Product Identification  =====================
+
+Product ID:AWS 5805 A286
+MSDS Date:01/06/1987
+FSC:3439
+NIIN:00F018537
+MSDS Number: BKYDN
+=== Responsible Party ===
+Company Name:UNITED STATES WELDING CORPORATION
+Address:20700 DEARBORN STREET
+City:CHATSWORTH
+State:CA
+ZIP:91311-2021
+Info Phone Num:(818) 341-2021
+Emergency Phone Num:(818) 341-2021
+Preparer's Name:JORGE JACOBS
+CAGE:58401
+=== Contractor Identification ===
+Company Name:UNITED STATES WELDING CORP
+Address:3579 HWY 50 E SUITE 104
+Box:City:CARSON CITY
+State:NV
+ZIP:89701-2807
+Country:US
+Phone:775-883-7878
+CAGE:58401
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CHROMIUM  (SARA III)
+CAS:7440-47-3
+RTECS #:GB4200000
+Fraction by Wt: 15%
+OSHA PEL:1 MG/M3
+ACGIH TLV:0.5 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:NICKEL  (SARA III)
+CAS:7440-02-0
+RTECS #:QR5950000
+Fraction by Wt: 25.5%
+Other REC Limits:1 MG/CUM
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+
+Ingred Name:MOLYBDENUM
+CAS:7439-98-7
+RTECS #:QA4680000
+Fraction by Wt: 1.3%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3; 9293
+
+Ingred Name:TITANIUM (DRY POWDER) (TI)
+CAS:7440-32-6
+RTECS #:XR1700000
+Fraction by Wt: 2.2%
+
+Ingred Name:BORON OXIDE
+CAS:1303-86-2
+RTECS #:ED7900000
+Fraction by Wt: 0.006%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3; 9293
+
+Ingred Name:VANADIUM  (SARA III)
+CAS:7440-62-2
+RTECS #:YW1355000
+Fraction by Wt: 0.3%
+Other REC Limits:0.1 MG/CUM
+OSHA PEL:C,0.5 MG V2O5/M3 RD
+ACGIH TLV:0.05 MG V205/M3;9293
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: DISCOMFORT SUCH AS
+    DIZZINESS, NAUSEA, DRYING OR IRRITATION OF NOSE/THROAT, HEADACHE,
+    BREATHING DIFFICULTY, FREQUENT COUGHING & CHEST PAINS. SOME TOXIC
+    GASES MAY CAUSE PULMONARY EDEMA, ASPH YXIATION, EXCESSIVE EXPOSURE
+    CAN BE FATAL, & WATER EYES. SKIN: IRRITATION.
+Explanation of Carcinogenicity:NICKEL IS CONSIDERED TO BE A1 CARCINOGEN
+    BY ACGIH.
+Effects of Overexposure:INHALATION: MAY RESULT IN NEUROLOGICAL DAMAGE,
+    LUNG FIBROSIS, PNEUMOCONSIS & OTHER LUNG DISEASES. SKIN:
+    IRRITATION.
+Medical Cond Aggravated by Exposure:IMPAIRED PULMONARY FUNCTION, AIRWAY
+    DISEASES & CONDITIONS SUCH AS ASTHMA, EMPHYSEMA, CHRONIC
+    BRONCHITIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: WASH W/LARGE AMOUNTS OF WATER. SKIN: WASH AREA W/SOAP
+    OR MILD DETERGENT FOR 5 MINS. INHALATION: REMOVE TO FRESH AIR,
+    ADMINISTER OXYGEN IF RESPIRATION IS DIFFICULT. IF NOT BREATHING
+    BEGIN ARTIFIC IAL RESPIRATION. IF PULSE NOT DETECTED BEGIN EXTERNAL
+    HEART MESSAGE. INGESTION: OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:DRY CHEMICAL
+Fire Fighting Procedures:SOLID FORM ISN'T COMBUSTIBLE UNDER NORMAL
+    CONDITIONS, USE FIRE FIGHTING METHODS THAT ARE APPROPRIATE FOR THE
+    SURROUNDING FIRE.
+Unusual Fire/Explosion Hazard:MOLTEN METAL ALLOYS MAY EXPLODE ON
+    CONTACT W/WATER, THEY MAY ALSO REACT VIOLENTLY W/WATER,
+    RUST/CERTAIN METAL OXIDES, OXIDES OF COPPER, IRON OR LEAD.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:IN SOLID FORM THIS POSES NO SPCIAL CLEAN-UP
+    PROBLEMS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:OBSERVE SAFETY PRECUATIONS IN WELDING
+    & CUTTING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH APPROVED RESPIRATORS.
+Ventilation:LOCAL EXHAUST TO KEEP <TLV.
+Protective Gloves:FLAMEPROOF WELDING
+Eye Protection:SAFETY GLASSES (UNDER WELDING HELMET)
+Other Protective Equipment:APRON FOR WELDING
+Work Hygienic Practices:PREVENT WASTE FROM CONTAMINATING SURROUNDING
+    ENVIRONMENT.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Solubility in Water:INSOLUBLE
+Appearance and Odor:ODORLESS FILLER METAL.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Hazardous Decomposition Products:METAL FUMES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. PRIOR TO DISPOSAL CONSIDER IF MATERIAL HAS
+    RECOVERY VALVE. DISCARD ANY PRODUCT IN ACCEPTABLE MANNER. PREVENT
+    WASTE FROM CONTAMINATING SU RROUNDING ENVIRONMENT.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

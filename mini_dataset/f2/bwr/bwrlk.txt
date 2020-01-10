@@ -1,0 +1,152 @@
+=====================  Product Identification  =====================
+
+Product ID:DAZZLENS CLEANER AND/OR LENS CLEANER,M 6015
+MSDS Date:02/08/1993
+FSC:6850
+NIIN:01-070-1512
+MSDS Number: BWRLK
+=== Responsible Party ===
+Company Name:OCCU-SAFE INC
+Address:777 N.E. LOOP 41C
+City:SAN ANTONIO
+State:TX
+ZIP:78209
+Country:US
+Info Phone Num:210-820-0963
+Emergency Phone Num:210-820-0963
+CAGE:OCCUS
+=== Contractor Identification ===
+Company Name:BAXTER HEALTHCARE, (NOW ALLEGIANTE HEALTHCARE)
+Address:1584 ENTERPRISE BLVD
+Box:City:WEST SACRAMENTO
+State:CA
+ZIP:95691
+Country:US
+Phone:800-677-7226
+CAGE:22353
+Company Name:OCCU-SAFE INC
+Address:777 N.E. LOOP 41C
+Box:City:SAN ANTONIO
+State:TX
+ZIP:78209
+Country:US
+Phone:210-820-0963
+CAGE:OCCUS
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOPROPYL ALCOHOL (SARA 313)
+CAS:67-63-0
+RTECS #:NT8050000
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:400 PPM
+ACGIH TLV:400 PPM/500STEL;9495
+
+Ingred Name:ACETIC ACID (CERCLA)
+CAS:64-19-7
+RTECS #:AF1225000
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:10 PPM
+ACGIH TLV:10 PPM/15 STEL; 9495
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ACETONE (SARA 313) (CERCLA)
+CAS:67-64-1
+RTECS #:AL3150000
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:1000 PPM
+ACGIH TLV:750PPM/1000STEL;9495
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL, RAT) IS NOT KNOWN.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:TARGET ORGANS:EYE, SKIN, RESPIRATORY
+    AND GASTROINTESTINAL TRACTS. ACUTE- EYE:IRRITATION.
+    SKIN:PROLONGED/REPEATED CONTACT MAY CAUSE IRRITATION & DEFATTING.
+    INHALE:VAPORS MAY CAUSE RESPIRATORY TRACT IRR ITATION AND HEADACHE.
+    ORAL:MAY CAUSE GASTROINTESTINAL TRACT IRRITATION. CHRONIC- UNKNOWN.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:IRRITATION, HEADACHE, DEFATTING OF SKIN
+
+=======================  First Aid Measures  =======================
+
+First Aid:GET MEDICAL HELP IF SYMPTOMS PERSIST. INHALED:REMOVE TO FRESH
+    AIR. PROVIDE CPR/OXYGEN IF NEEDED. EYES:FLUSH WITH WATER FOR 15
+    MINUTES, HOLDING EYELIDS OPEN. SKIN:WASH WITH SOAP & WATER.
+    ORAL:FOR SMALL  QUANTITIES, DRINK WATER. FOR LARGE QUANTITIES,
+    INDUCE VOMITING. GET IMMEDIATE MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:78.0F,25.6C
+Extinguishing Media:USE WATER.
+Fire Fighting Procedures:WEAR PROTECTIVE CLOTHING AND NIOSH-APPROVED
+    SELF-CONTAINED BREATHING APPARATUS IF NEEDED.
+Unusual Fire/Explosion Hazard:IN LARGE QUANTITIES, MATERIAL COULD BE AN
+    EXPLOSION HAZARD.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE EQUIPMENT. ELIMINATE IGNITION
+    SOURCES. VENTILATE AREA. PICK UP SPILL WITH NON-FLAMMABLE ABSORBENT
+    SUCH AS SAND, EARTH. PREVENT LIQUID FROM ENTERING SEWERS. SMALL
+    SPILL MAY BE FLUSHED T O SEWER WITH LARGE AMOUNT OF WATER IF
+    PERMITTED.
+Neutralizing Agent:NOT RELEVANT
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL, VENTILATED AREA AWAY
+    FROM SOURCES OF IGNITION. KEEP OUT OF REACH OF CHILDREN.
+Other Precautions:DO NOT GET IN EYES. DO NOT BREATHE VAPOR OR MIST.
+    AVOID PROLONGED OR REPEATED SKIN CONTACT. WASH THOROUGHLY AFTER
+    HANDLING AND BEFORE EATING OR DRINKING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF WORKING IN CONFINED AREAS, IF EXCESSIVE
+    MISTING IS EXPECTED OR IF EXPOSURE MAY OR DOES EXCEED RECOMMENDED
+    PERMISSIBLE EXPOSURE LIMITS (PEL), WEAR NIOSH-APPROVED RESPIRATORY
+    PROTECTION FOR ORGANIC V APORS (REFER TO 29 CFR 1910.134).
+Ventilation:MECHANICAL (GENERAL AND/OR LOCAL EXHAUST, EXPLOSION-PROOF)
+    VENTILATION TO MAINTAIN EXPOSURE BELOW TLV(S).
+Protective Gloves:NEOPRENE IF REPEATED CONTACT POSSIBLE
+Eye Protection:SPLASH-PROOF CHEMICAL SAFETY GOGGLES
+Other Protective Equipment:EYE WASH STATION, SAFETY SHOWER,
+    INDUSTRIAL-TYPE WORK CLOTHING, APRON
+Work Hygienic Practices:OBSERVE GOOD INDUSTRIAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES.
+Supplemental Safety and Health
+THIS NSN IS ASSOCIATED WITH MSDS SERIAL # BTQYQ AND ZZZXH.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F3
+NRC/State Lic Num:NOT RELEVANT
+Solubility in Water:SOLUBLE
+Appearance and Odor:GREEN LIQUID - CHARACTERISTIC ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL SHOULD BE IN ACCORDANCE WITH ALL LOCAL,
+    STATE AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

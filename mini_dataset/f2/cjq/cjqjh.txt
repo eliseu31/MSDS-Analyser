@@ -1,0 +1,192 @@
+=====================  Product Identification  =====================
+
+Product ID:ANTIOXIDANT NO. 37, AO-37
+MSDS Date:02/13/1998
+FSC:6850
+NIIN:01-011-5669
+Status Code:A
+MSDS Number: CJQJH
+=== Responsible Party ===
+Company Name:OCTEL AMERICA, INC.,
+Address:200 EXECUTIVE DRIVE
+City:NEWARK,
+State:DE
+ZIP:19702
+Country:US
+Info Phone Num:1-800-441-9547
+Emergency Phone Num:800-441-9547
+Resp. Party Other MSDS Num.:AO37
+Preparer's Name:AL HOMAN
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:CGFPF
+=== Contractor Identification ===
+Company Name:HOC INDUSTRIES, INC
+Address:3511 N. OHIO
+Box:2609
+City:WICHITA
+State:KS
+ZIP:67219
+Country:US
+Phone:316-838-4663
+Contract Num:SP0450-99-MNA11
+CAGE:0A9L8
+Company Name:OCTEL AMERICA, INC.,
+Address:200 EXECUTIVE DRIVE
+Box:City:NEWARK,
+State:DE
+ZIP:19702
+Country:US
+Phone:1-800-441-9547
+CAGE:CGFPF
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TERTIARY BUTYLATED PHENOL (REACTION MASS) WHICH INCLUDES
+    THE FOLLOWING: INGRED #2 TO 6.
+CAS:68610-06-0
+= Wt:100.
+OSHA PEL:5 PPM, 19 MG/M3,TWA
+ACGIH TLV:5 PPM, 19 MG/M3, TWA
+
+Ingred Name:2,6-DI-TERT-BUTYLPHENOL
+CAS:128-39-2
+RTECS #:SK8265000
+> Wt:75.
+
+Ingred Name:O-TER-BUTYLPHENOL
+CAS:88-18-6
+< Wt:10.
+
+Ingred Name:2,4,6-TRI-TER-BUTYLPHENOL
+CAS:732-26-3
+< Wt:15.
+
+Ingred Name:PHENOL
+CAS:108-95-2
+RTECS #:SJ3325000
+Minumum % Wt:.5
+Maxumum % Wt:1.5
+OSHA PEL:19 MG/M3;5 PPM
+ACGIH TLV:19 MG/M3;5 PPM
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 ORAL RAT = 8660 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Health Hazards Acute and Chronic:TARGET ORGANS: EYE, SKIN, GI TRACTS,
+    BLOOD CLOTTING FUNCTIONS. ACUTE- MAY CAUSE EYE AND SKIN IRRITATION.
+    THERE ARE NO REPORTS OF HUMAN SENSITIZATION. INGESTION MAY CAUSE
+    NON-SPECIFIC DISCOMFORT SUCH A S NAUSEA, DIARRHEA, HEADACHE OR
+    WEAKNESS. INHALATION: NO INFO PROVIDED. CHRONIC-ABNORMAL BLOOD
+    CLOTTING.
+Explanation of Carcinogenicity:NONE OF THE COMPONENTS ARE LISTED BY
+    NTP, IARC OR OSHA.
+Effects of Overexposure:SKIN IRRITATION, EYES: DISCOMFORT, REDNESS,
+    TEARING,  BLURRED VISION. INGESTION: NAUSEA, DIARRHEA, HEADACHE OR
+    WEAKNESS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: IMMEDIATELY FLUSH WITH WATER FOR 15 MINUTES. CALL
+    PHYSICIAN. SKIN: FLUSH WITH PLENTY OF WATER. WASH CLOTHING BEFORE
+    REUSE.  INHALATION: MOVE TO FRESH AIR. PROVIDE CPR/OXYGEN IF
+    NEEDED. INGESTION:	DO NOT INDUCE VOMITING, GIVE 2 GLASSES OF
+    WATER. NEVER GIVE FLUID OR INDUCE VOMITING IF PATIENT IS
+    UNCONSCIOUS OR HAS CONVULSIONS. CALL A PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:=104.C, 219.2F
+Extinguishing Media:WATER SPRAY,FOAM,DRY CHEMICAL,CO2.
+Fire Fighting Procedures:EVACUATE PERSONNEL TO SAFE AREA.WEAR
+    SELF-CONTAINED BREATHING APPARATUS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PERSONL PROTECTIVE EQUIPMENT BEFORE CLEAN
+    UP. SOAK UP  WITH SAWDUST, SAND, OIL DRY OR OTHER ABSORBENT
+    MATERIAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINERS TIGHTLY CLOSED. STORE
+    IN WELL VENTILATED AREA. STORE IN ACCORDANCE WITH NATIONAL FIRE
+    PROTECTION ASSOCIATION RECOMMENDATIONS.
+Other Precautions:AVOID BREATHING VAPORS OR MIST. AVOID CONTACT WITH
+    EYES, SKIN OR CLOTHING. WASH THOROUGHLY AFTER HANDLING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WHERE THERE IS POTENTIAL FOR AIRBORNE
+    EXPOSURES,WEAR NIOSH/MSHA APPROVED RESPIRATORY PROTECTION.
+Ventilation:USE ONLY WITH ADEQUATE VENTILATION.
+Protective Gloves:IMPERVIOUS GLOVES
+Eye Protection:SAFETY GLASSES OR COVERALL CHEMICAL SPLASH GOGGLES.
+Other Protective Equipment:WHERE THERE IS POTENTIALFOR SKIN CONTACT
+    HAVE AVAILABLE AND WEAR AS APPROPRIATE IMPERVIOUS
+    GLOVES,APRON,PANTS AND JACKET
+Work Hygienic Practices:AVOID BREATHING VAPOR/MIST.AVOID CONTACT WITH
+    EYES,SKIN,CLOTHING.WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V7
+Boiling Pt:=224.C, 435.2F
+B.P. Text:IBP
+Melt/Freeze Pt:=-26.C, -14.8F
+M.P/F.P Text:POUR POINT UNSEEDED
+Vapor Pres:0.01
+Spec Gravity:0.94
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:YELLOW LIQUID;PHENOLIC ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE REASONABLY FORESEEABLE.
+Hazardous Decomposition Products:WILL NOT OCCUR.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:AO-37: SKIN ABSORPTION LD50 > 9400 MG/KG IN
+    RABBITS. DOT CORROSIVITY: NOT A SKIN CORROSIVE. ORAL LD50: 8660
+    MG/KG IN RATS. PHENOL: INHALATION 1 HOUR LC50 >1-2 MG/L IN RATS.
+
+=====================  Ecological Information  =====================
+
+Ecological:PHENOL IS MODERATELY TOXIC: 96 HOUR LC50, FLATHEAD MINNOW:
+    24 MG/L (1-50 MG/L)
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE &
+    FEDERAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:NOT REGULATED IN CONTAINERS <119 GALLONS. IF
+    SHIPPED IN CONTAINERS >119 GALLONS, THEN USE PROPER SHIPPING NAME:
+    ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID,N.O.S,9,UN3082,III.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:SEC 311, 312 HAZARD CLASSIFICATION:
+    ACUTE=YES, CHRONIC/FIRE/REACTIVITY/PRESSURE= NO.
+Federal Regulatory Information:TSCA INVENTORY STATUS=
+    REPORTED/INCLUDED.
+State Regulatory Information:N.P
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

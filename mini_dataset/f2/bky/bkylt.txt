@@ -1,0 +1,130 @@
+=====================  Product Identification  =====================
+
+Product ID:LIQUEFIED PETROLEUM GAS OR PROPANE
+MSDS Date:01/01/1987
+FSC:3439
+NIIN:00-542-0531
+MSDS Number: BKYLT
+=== Responsible Party ===
+Company Name:MAGNA IND INC
+Address:2201 W 110TH ST
+Box:734
+City:CLEVELAND
+State:OH
+ZIP:44107
+Info Phone Num:(216) 251-3334
+Emergency Phone Num:(216) 251-3334
+CAGE:0AJNS
+=== Contractor Identification ===
+Company Name:MAGNA IND INC
+Address:2201 W 110TH ST
+Box:734
+City:CLEVELAND
+State:OH
+ZIP:44107
+Phone:(216) 251-3334
+CAGE:0AJNS
+Company Name:MAGNA INDUSTRIES INC
+Address:2201 WEST 110TH STREET
+Box:City:CLEVELAND
+State:OH
+ZIP:44102
+Country:US
+Phone:216-251-3334 OR 800-969-3334
+CAGE:0AJN5
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PROPANE
+CAS:74-98-6
+RTECS #:TX2275000
+Fraction by Wt: 2.1-9.6%
+Other REC Limits:1800 MG/CUM
+OSHA PEL:1000 PPM
+ACGIH TLV:ASPHYXIANT; 9192
+
+Ingred Name:AIR
+
+Ingred Name:ODORANT
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: DIZZINESS TO ANESTHESIS,
+    RESPIRATORY ARREST. EYES: IRRITATION. SKIN: IN LIQUID FORM CAN
+    CAUSE FREEZING OF TISSUE CAUSING INJURY SIMILAR TO THERMAL BURN.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: DIZZINESS TO ANESTHESIS, &
+    RESPIRATORY ARREST. EYES: IRRITATION. SKIN: IN LIQUID FORM CAN
+    CAUSE FREEZING OF TISSUE CAUSING INJURY SIMILAR TO THERMAL BURNS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. GUARD AGAINST SELF-INJURY.
+    APPLY ARTIFICIAL RESPIRATION IF BREATHING HAS STOPPED. OBTAIN
+    MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Lower Limits:2.15%
+Upper Limits:9.60%
+Extinguishing Media:WATER SPRAY CLASS A B C OR BC FIRE EXTINGUISHERS
+Fire Fighting Procedures:STOP FLOW OF GAS. USE WATER TO KEEP FIRE-
+    EXPOSED CONTAINERS COOL. USE WATER SPRAY TO DISPERSE UNIGNITED GAS
+    OR VAPOR.
+Unusual Fire/Explosion Hazard:IF IGNITION OCCURED/NO WATER AVAILABLE,
+    TANK METAL MAY WEAKEN FROM OVERHEATING. IF GAS HASN'T IGNITED,
+    DISPERSE LP-GAS LIQUID/VAPOR W/WATER SPRAY OR FLOODING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:KEEP PUBLIC AWAY. SHUT OFF SUPPLY OF GAS.
+    ELIMINATE SOURCES OF IGNITION. VENTILATE AREA. DISPERSE W/WATER
+    SPRAY.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINERS AWAY FROM HEAT
+    SOURCES/STORE IN UPRIGHT POSITION. CONTAINERS SHOULDN'T BE DROPPED.
+    KEEP CONTAINER VALVE CLOSED WHEN NOT IN USE.
+Other Precautions:INSTALL PROTECTIVE CAPS WHEN NOT CONNECTED FOR USE.
+    KEEP SOURCES OF IGNITION AT SAFE DISTANCES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:STAY OUT OF GAS OR VAPOR BECAUSE OF FIRE HAZARD.
+Ventilation:EXPLOSION-PROOF MOTORS
+Protective Gloves:LEATHER OR EQUIVALENT
+Eye Protection:GOGGLES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:G2
+Boiling Pt:B.P. Text:-44F
+Vapor Pres:9825
+Vapor Density:1.52
+Spec Gravity:0.51
+Solubility in Water:SLIGHTLY
+Appearance and Odor:CLEAR-UNPLEASANT ODOR
+Percent Volatiles by Volume:100%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+MIXING W/OXYGEN OR AIR, EXCEPT AT BURNER
+Stability Condition to Avoid:HEAT SOURCES, SOURCES OF IGNITION
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTROLLED BURNING. CONTACT SUPPLIER.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

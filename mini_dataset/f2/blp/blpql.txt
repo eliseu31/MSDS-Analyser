@@ -1,0 +1,138 @@
+=====================  Product Identification  =====================
+
+Product ID:OMC PREMIUM BLEND GEARCASE LUBRICANT
+MSDS Date:09/26/1985
+FSC:9150
+NIIN:00F019202
+MSDS Number: BLPQL
+=== Responsible Party ===
+Company Name:CITGO PETROLEUM CORPORATION
+Address:6100 S YALE BLDG 1 WARREN PL
+Box:3758
+City:TULSA
+State:OK
+ZIP:74102
+Info Phone Num:(918) 561-5165
+Emergency Phone Num:(318) 491-6215
+CAGE:7X110
+=== Contractor Identification ===
+Company Name:CITGO PETROLEUM CORP
+Address:6100 S YALE AVE
+Box:3758
+City:TULSA
+State:OK
+ZIP:74102
+Country:US
+Phone:918-495-5933
+CAGE:7X110
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MINERAL OIL, PETROLEUM DISTILLATES, SOLVENT-DEWAXED LIGHT
+    PARAFFINIC
+CAS:64742-56-9
+RTECS #:PY8039500
+Fraction by Wt: <95%
+
+Ingred Name:OIL PETROLEUM DISTILLATES, SOLVENT-DEWAXED HEAVY PARAFFINIC
+CAS:64742-65-0
+RTECS #:PY8038500
+Fraction by Wt: <95%
+Other REC Limits:5 MG/CUM
+
+Ingred Name:PETROLEUM HYDROCARBONS, SOLVENT DEWAXED RESIDUAL OIL
+    (PETROLEUM)
+CAS:64742-62-7
+Fraction by Wt: <95%
+
+Ingred Name:ANTI-OXIDANT
+Fraction by Wt: <3%
+
+Ingred Name:VI IMPROVER
+Fraction by Wt: <5%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): >15 G/KG.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: DROWSINESS, DIZZINESS,
+    HEADACHE, NAUSEA, LUNG IRRITATION, ASPIRATION MAY CAUSE CHEMICAL
+    PNEUMONITIS & LIPOID PNEUMONIA. EYES: IRRITATION. INGESTION:
+    GENERALIZED DEPRESSION, HEADACHE, DROWS INESS, NAUSEA, VOMITING,
+    DIARRHEA, & IRRITATION. SKIN: DRYING, CRACKING, DERMATITIS, &
+    FOLLICULITIS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: DROWSINESS, DIZZINESS, HEADACHE,
+    NAUSEA, LUNG IRRITATION, ASPIRATION MAY CAUSE CHEMICAL PNEUMONITIS
+    & LIPOID PNEUMONIA. EYES: IRRITATION. INGESTION: GENERALIZED
+    DEPRESSION, HEADACHE, DROWS INESS, NAUSEA, VOMITING, DIARRHEA, &
+    IRRITATION. SKIN: DRYING, CRACKING, DERMATITIS, & FOLLICULITIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. CPR IF NECESSARY. SKIN: WASH
+    W/SOAP & WATER. EYES: FLUSH W/WATER. INGESTION: DON'T INDUCE
+    VOMITING. NOTE TO PHYSICIAN: VISCOSITY <100 SUS (100F): CAREFUL
+    GASTRIC LAVAG E W/TIGHT FITTING/CUFFED TUBE IS PREFERRED OVER
+    EMESIS. VISCOSITIY >100 SUS (100F): EMESIS MAY BE INDUCED.
+    SUBCUTANEOUS INJECTION REQUIRES SURGICAL DEBRIDEMENT. OBTAIN
+    MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:380F
+Extinguishing Media:CO2, DRY CHEMICAL, FOAM, OR WATER FOG
+Fire Fighting Procedures:WATER MAY CAUSE FROTHING.
+Unusual Fire/Explosion Hazard:VERY HIGH MIST CONCENTRATIONS CAN RESULT
+    IN A FIRE/EXPLOSION HAZARD.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE SOURCES OF HEAT OR IGNITION. PROVIDE
+    ADEQUATE VENTILATION. ABSORB W/SUITABLE MATERIAL SUCH AS RAGS,
+    STRAW OR SAND. REPORT SPILLS TO APPROPRIATE AUTHORITIES.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE <120F. DON'T APPLY HIGH HEAT OR
+    FLAME TO CONTAINER. EMPTY CONTAINERS MAY CONTAIN PRODUCT RESIDUE
+    WHICH COULD INCLUDE FLAMMABLE/EXPLOSIVE VAPORS.
+Other Precautions:KEEP SEPARATE FROM STRONG OXIDIZING AGENTS. AVOID
+    PROLONGED CONTACT W/USED OIL. AVOID INHALATION OF VAPORS & CONTACT
+    W/SKIN. AVOID SPLASHING & INGESTION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE RESPIRATOR APPROVED FOR ORGANIC VAPORS/MISTS
+    WHEN >TLV.
+Ventilation:REQUIRED TO KEEP AIR
+Spec Gravity:0.88
+Evaporation Rate & Reference:(BU AC = 1): <1
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:AMBER LIQUID W/MILD ODOR
+Percent Volatiles by Volume:NEGL.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HIGH HEAT, FLAME, TEMPERATURES >120F, &
+    OTHER SOURCES OF IGNITION
+Hazardous Decomposition Products:CO, & CO2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT APPROPRIATE FEDERAL, STATE, & LOCAL
+    AUTHORITIES BEFORE REUSING, RECONDITIONING, RECLAIMING, RECYCLING,
+    OR DISPOSING OF EMPTY CONTAINERS & WASTE RESIDUES OF THIS PRODUCT.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

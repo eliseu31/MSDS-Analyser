@@ -1,0 +1,157 @@
+=====================  Product Identification  =====================
+
+Product ID:EPON 815
+MSDS Date:07/13/1989
+FSC:8030
+NIIN:00-116-1283
+MSDS Number: BKYGW
+=== Responsible Party ===
+Company Name:SHELL OIL COMPANY
+Box:4320
+City:HOUSTON
+State:TX
+ZIP:77210
+Info Phone Num:(713) 241-4819
+Emergency Phone Num:(713) 473-9461
+Preparer's Name:J. C. WILLETT
+CAGE:54527
+=== Contractor Identification ===
+Company Name:SHELL OIL COMPANY
+Box:2463
+City:HOUSTON
+State:TX
+ZIP:77210
+Country:US
+Phone:800-231-6950
+CAGE:54527
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BISPHENOL A DIGLYCIDYL ETHER RESIN, EPOXY RESIN,	       
+    ARALDITE 6004, 4,4'-ISOPROPYLIDENEDIPHENOL-EPICHLOROHYDRIN
+CAS:25068-38-6
+RTECS #:KD4380000
+Fraction by Wt: 86.5%
+
+Ingred Name:N-BUTYL GLYCIDYL ETHER (BGE)
+CAS:2426-08-6
+RTECS #:TX4200000
+Fraction by Wt: 13.5%
+Other REC Limits:25 PPM
+OSHA PEL:50 PPM
+ACGIH TLV:25 PPM; 9293
+
+Ingred Name:EPICHLOROHYDRIN  (SARA III)
+CAS:106-89-8
+RTECS #:TX4900000
+Fraction by Wt: TRACE
+Other REC Limits:2 PPM
+OSHA PEL:S, 5 PPM
+ACGIH TLV:S, 2 PPM; 9293
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:NO	 OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: IRRITATION TO THE NOSE,
+    THROAT & RESPIRATORY TRACT. INGESTION: SLIGHTLY TOXIC. SKIN:
+    IRRITATION, SENSITIZATION (ALLERGY), DEFATTING, DRYING, &
+    DERMATITIS. EYES: IRRITATION.
+Explanation of Carcinogenicity:EPICHLOROHYDRIN HAS BEEN SHOWN TO CAUSE
+    CANCER & IS CONSIDERED TO BE AN A2 CARCINOGEN.
+Effects of Overexposure:INHALATION: IRRITATION TO THE NOSE, THROAT &
+    RESPIRATORY TRACT. INGESTION: SLIGHTLY TOXIC. SKIN: IRRITATION,
+    SENSITIZATION (ALLERGY).
+Medical Cond Aggravated by Exposure:SKIN OR RESPIRATORY ALLERGIES &
+    DISORDERS
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINS. SKIN:
+    FLUSH W/WATER. FOLLOW BY WASHING W/SOAP & WATER. INHALATION: REMOVE
+    TO FRESH AIR/PROVIDE OXYGEN IF BREATHING IS DIFFICULT. INGESTION:
+    DON'T IN DUCE VOMITING. KEEP HEAD BELOW HIPS TO PREVENT ASPIRATION
+    OF LIQUID INTO THE LUNGS. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:164F
+Extinguishing Media:WATER FOG, ALCOHOL FOAM, DRY CHEMICAL, CO2
+Fire Fighting Procedures:DON'T ENTER CONFINED FIRE SPACE W/O FULL
+    BUNKER GEAR/A POSITIVE PRESSURE NIOSH APPROVED SCBA. USE WATER TO
+    KEEP FIRE-EXPOSED CONTAINERS COOL.
+Unusual Fire/Explosion Hazard:CLOSED CONTAINERS MAY RUPTURE, VENT, DUE
+    TO HEAT OR FLAMES & SHOULD BE COOLED W/WATER TO PREVENT VAPOR
+    PRESSURE BUILDUP.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE ALL SOURCES OF IGNITION. SHUT OFF
+    LEAK IF SAFE TO DO SO. FLUSH AREA W/WATER TO REMOVE TRACE RESIDUE;
+    DISPOSE OF FLUSH SOLUTION AS ABOVE. SMALL SPILLS: TAKE UP W/AN
+    ABSORBENT MATERIAL & PLACE	IN NON-LEAKING CONTAINER FOR PROPER
+    DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINERS CLOSED WHEN NOT IN
+    USE. VAPORS MAY ACCUMULATE & TRAVEL TO IGNITION SOURCES DISTANT
+    FROM HANDLING SITE & FLASH FIRE CAN RESULT.
+Other Precautions:DISCARD CONTAIMINATED LEATHER ITEMS. EMPTY CONTAINERS
+    RETAIN HAZARDOUS PRODUCT RESIDUES. DON'T CUT, DRILL, GRIND, WELD,
+    PERFORM SIMILAR OPERATIONS ON/NEAR CONTAINERS. BOND/GROUND TRANSFER
+    CONTAINERS/E QUIPMENT. AVOID CONTACT W/SKIN & EYES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF >TLV, USE A NIOSH-APPROVED RESPIRATOR TO
+    PREVENT OVEREXPOSURE. USE EITHER A FULL FACE, ATMOSPHERE-SUPPLYING
+    RESPIRATOR OR AN AIR-PURIFYING RESPIRATOR FOR ORGANIC VAPORS.
+Ventilation:USE EXPLOSION-PROOF VENTILATION AS REQUIRED TO CONTROL
+    VAPOR CONCENTRATIONS
+Protective Gloves:CHEMICAL-RESISTANT
+Eye Protection:GOGGLES, FACESHIELD
+Other Protective Equipment:EYE WASH FOUNTAIN, SAFETY SHOWERS, RUBBER
+    BOOTS, BUNKER COATS
+Work Hygienic Practices:WASH CONTAMINATED CLOTHING BEFORE REUSE. WASH
+    W/SOAP & WATER BEFORE EATING, DRINKING, SMOKING, APPLYING
+    COSMETICS.
+Supplemental Safety and Health
+AVOID BREATHING VAPOR OR MISTS. NOTE TO PHYSICIAN: IF >2.0 ML/KG HAS
+    BEEN INGESTED & VOMITING HASN'T OCCURED, EMESIS MAY BE INDUCED
+    W/SUPERVISION. KEEP VICTIM'S HEAD BELOW HIPS TO PREVENT ASPIRATION.
+     IF LOSS OF GAG REFLEX, CONVULSION OR UNCONSCIOUSNES OCCUR, LAVAGE
+    IS INDICATED.
+
+==================  Physical/Chemical Properties  ==================
+
+Vapor Pres:1
+Vapor Density:4.5
+Spec Gravity:1.13
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:LIGHT YELLOW LIQUID.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, STRONG LEWIS, MINERAL ACIDS, STRONG
+    MINERAL/ORGANIC BASES, & ALIPHATIC AMINES.
+Stability Condition to Avoid:SPARKS, HEAT, FLAME, SOURCES OF IGNITION,
+    STATIC ELECTRICITY, PILOT LIGHTS.
+Hazardous Decomposition Products:CO, ALDEHYDES, & ACIDS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:COMBUSTIBLE LIQUID.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,146 @@
+=====================  Product Identification  =====================
+
+Product ID:EZE 445
+MSDS Date:08/20/1992
+FSC:6850
+NIIN:01-239-0571
+MSDS Number: BHWYG
+=== Responsible Party ===
+Company Name:EZE PRODUCTS, INC
+Address:603 HIGH TECH CT
+City:GREENVILLE
+State:SC
+ZIP:29606
+Country:US
+Info Phone Num:803-879-7100
+Emergency Phone Num:803-242-1002 OR 803-879-7100
+CAGE:8Z357
+=== Contractor Identification ===
+Company Name:EZE PRODUCTS, INC
+Address:603 HIGH TECH CT
+Box:5744
+City:GREENVILLE
+State:SC
+ZIP:29606
+Country:US
+Phone:803-242-1002 OR 803-879-7100
+CAGE:8Z357
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DIPROPYLENE GLYCOL METHYL ETHER
+CAS:34590-94-8
+RTECS #:JM1575000
+Fraction by Wt: 1-10%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:S,100PPM/150STEL
+ACGIH TLV:S,100PPM/150STEL9192
+
+Ingred Name:MORPHOLINE (MFR LISTED CAS AS 110-19-8; NOT A VALID NUMBER)
+CAS:110-91-8
+RTECS #:QD6475000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:S,20 PPM/30 STEL
+ACGIH TLV:S, 20 PPM; 9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE-MAY BE IRRITATING TO SKIN &
+    EYES. CHRONIC-NONE EXPECTED AT INDUSTRIAL USE LEVELS WHEN GOOD
+    PERSONAL HYGIENE PRACTICES ARE FOLLOWED.
+Explanation of Carcinogenicity:MFR GAVE THE ABOVE LISTINGS ON THE MSDS
+    BUT NO OTHER COMMENTS WERE RECORDED.
+Effects of Overexposure:EYE:CAN CAUSE IRRITATION, BURNING, REDNESS.
+    SKIN:BRIEF CONTACT SHOULD NOT PRODUCE HARMFUL EFFECTS. PROLONGED
+    CONTACT MAY CAUSE IRRITATION, BURNING. INHALED:IN CONCENTRATED FORM
+    MAY CAUSE HEADACHE, DIZ ZINESS, NAUSEA & IRRITATION OF UPPER
+    RESPIRATORY TRACT. INGESTED:CAN CAUSE NAUSEA, VOMITING, DIARRHEA.
+Medical Cond Aggravated by Exposure:MFR GAVE NO INFORMATION ON MSDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:IF IRRITATION PERSISTS OR IS SEVERE, GET MEDICAL ATTENTION.
+    EYE:FLUSH W/WATER TO 15 MIN. SKIN:WASH W/SOAP & WATER. REMOVE
+    CONTAMINATED CLOTHING & LAUNDER BEFORE REUSE. INHALED:REMOVE FROM
+    EXPOSURE. AI D OR RESTORE BREATHING AS NEEDED. INGESTED:DO NOT
+    INDUCE VOMITING. GIVE WATER TO DRINK TO CAUSE DILAUTION IN STOMACH
+    AND GET IMMEDIATE MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:NONE TO BOILING
+Extinguishing Media:USE WATER FOG, FOAM, DRY CHEMICAL, CARBON DIOXIDE.
+    COOL FIRE-EXPOSED CONTAINERS WITH WATER SPRAY.
+Fire Fighting Procedures:WEAR PROTECTIVE CLOTHING AND NIOSH-APPROVED
+    SELF-CONTAINED BREATHING APPARATUS WHEN ENTERING CONFINED FIRE
+    SPACES.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONTAIN SPILL. ELIMINATE ANY IGNITION SOURCES.
+    AVOID BREATHING VAPORS. ABSORBSMALL SPILLS W/SAND, DIRT OR CLAY.
+    LARGE SPILLS MAY BE PUMPED INTO CONTAINERS FOR RECOVERY OR
+    DISPOSAL.
+Neutralizing Agent:MFR GAVE NO INFORMATION ON MSDS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:WEAR EYE PROTECTION, LAUNDER
+    CONTAMINATED CLOTHING BEFORE REUSE. STORE DRUMS IN A COOL PLACE,
+    BUNG UP & CLOSED TIGHTLY.
+Other Precautions:HAVE EYE WASH STATION, SAFETY SHOWER & WASHING
+    FACILITIES AVAILABLE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY REQUIRED. USE NIOSH APPROVED
+    ORGANIC VAPOR RESPIRATOR IF WORKING W/O ADEQUATE VENTILATION.
+Ventilation:ADEQUATE - LOCAL EXHAUST.
+Protective Gloves:RUBBER OR NEOPRENE.
+Eye Protection:SAFETY GLASSES W/SIDE SHIELDS OR GOGGLES
+Other Protective Equipment:WEAR PROTECTIVE CLOTHING TO PREVENT SKIN
+    CONTACT. WASH HANDS W/SOAP & WATER AFTER HANDLING.
+Work Hygienic Practices:MFR:?.	HMIS:USE GOOD CHEMICAL HYGIENE
+    PRACTICES. AVOID CONTACT IF POSSIBLE. WASH THOROUGHLY AFTER
+    HANDLING.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+NRC/State Lic Num:NONE
+Boiling Pt:B.P. Text:212F,100C
+Melt/Freeze Pt:M.P/F.P Text:16.0F,-8.9C
+Spec Gravity:1.0
+pH:9.0
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR, AMBER LIQUID WITH MILD ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, STRONG REDUCING AGENTS
+Stability Condition to Avoid:EXTREME HEAT
+Hazardous Decomposition Products:BURNING WILL PRODUCE OXIDES OF CARBON
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:FIRST CONSULT FEDERAL, STATE & LOCAL
+    REGULATIONS. CONTAMINATED ABSORBENT MAY BE DEPOSITED IN A LANDILL
+    OR WASTE MAY BE INCINTERATED.  EPA HAZARDOUS WASTE CODE: NONE
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

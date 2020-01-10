@@ -1,0 +1,164 @@
+=====================  Product Identification  =====================
+
+Product ID:D199303, 2,4-DINITROPHENYLHYDRAZINE, 97%, MOISTENED(SUPDAT)
+MSDS Date:04/01/1999
+FSC:6810
+NIIN:00N014672
+Status Code:A
+MSDS Number: CJQPS
+=== Responsible Party ===
+Company Name:ALDRICH CHEMICAL CO INC
+Address:1001 W ST PAUL
+City:MILWAUKEE
+State:WI
+ZIP:53233
+Country:US
+Info Phone Num:414-273-3850
+Emergency Phone Num:414-273-3850
+CAGE:60928
+=== Contractor Identification ===
+Company Name:ALDRICH CHEMICAL CO INC
+Address:1001 WEST ST PAUL AVE
+Box:355
+City:MILWAUKEE
+State:WI
+ZIP:53233
+Country:US
+Phone:414-273-3850
+CAGE:60928
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:2,4-DINITROPHENYLHYDRAZINE
+CAS:119-26-6
+RTECS #:MV3325000
+= Wt:97.
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+= Wt:30.
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE TOXICOLOGICAL INFORMATION.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: HARMFUL IF SWALLOWED, INHALED
+    OR ABSORBED THROUGH SKIN. CAUSES EYE AND SKIN IRRITATION. MAY CAUSE
+    ALLERGIC SKIN IRRITATION. MAY CAUSE ALLERGIC SKIN REACTION.
+    ABSORPTION INTO THE BODY LEADS TO T HE FORMATION OF METHEMOGLOBIN
+    WHICH IN SUFFICIENT CONCENTRATION CAUSES CYANOSIS. ONSET MAY BE
+    DELAYED 2 TO 4 HOURS OR LONGER. CHRONIC: LABORATORY EXPERIMENTS
+    HAVE SHOWN MUTAGENIC EFFECTS. TARGET ORGAN (S): BLOOD.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: IMMEDIATELY FLUSH WITH COPIOUS AMOUNTS OF WATER FOR AT
+    LEAST 15 MINUTES. SKIN: IMMEDIATELY WASH WITH SOAP AND COPIOUS
+    AMOUNTS OF WATER. DISCARD CONTAMINATED CLOTHING AND SHOES.
+    INHALATION: REMOV E TO FRESH AIR. IF NOT BREATHING GIVE ARTIFICIAL
+    RESPIRATION. IF BREATHING IS DIFFICULT, GIVE OXYGEN. INGESTION:
+    WASH OUT MOUTH WITH WATER PROVIDED PERSON IS CONSCIOUS. CALL MD.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER SPRAY, CARBON DIOXIDE, DRY CHEMICAL POWDER OR
+    APPROPRIATE FOAM.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT . FLAMMABLE SOLID. WARNING: THIS MATERIAL IS CLASSIFIED
+    AS AN EXPLOSIVE WHEN DRY. FIRE FIGHTING SHOULD BE DONE FROM A
+    REMOTE POSITION. MOIST  SOLID CONTAINING 30% WATER.
+Unusual Fire/Explosion Hazard:MAY EXPLODE WHEN HEATED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE AREA. SHUT OFF ALL SOURCES OF
+    IGNITION. WEAR NIOSH APPROVED SELF-CONTAINED BREATHING APPARATUS,
+    RUBBER BOOTS AND HEAVY RUBBER GLOVES. SWEEP UP, PLACE IN A BAG AND
+    HOLD FOR WASTE DISPOSAL. AVO ID RAISING DUST.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT BREATHE DUST. AVOID PROLONGED
+    OR REPEATED EXPOSURE. DO NOT GET IN EYES, ON SKIN, ON CLOTHING.
+    SENSITIZER. KEEP TIGHTLY CLOSED. KEEP AWAY FROM HEAT, SPARKS AND
+    OPEN FLAME. STORE IN A COOL, DRY P LACE.
+Other Precautions:FLAMMABLE. HARMFUL. HEATING MAY CAUSE AN EXPLOSION.
+    MAY CAUSE SENSITIZATION BY SKIN CONTACT. IRRITATING TO EYES,
+    RESPIRATORY SYSTEM AND SKIN. POSSIBLE MUTAGEN. KEEP AWAY FROM
+    SOURCES OF IGNITION - NO  SMOKING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR APPROPRIATE NIOSH APPROVED RESPIRATOR.
+Ventilation:USE ONLY IN A CHEMICAL FUME HOOD.
+Protective Gloves:CHEMICAL-RESISTANT GLOVES.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:ANSI APPROVED EYE WASH & DELUGE SHOWER .
+    WEAR OTHER PROTECTIVE CLOTHING. USE NON-SPARKING TOOLS.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+MFR'S TRADE NAME/PART NO: WITH WATER (30%). MFR'S INFO: MF: C6H6N404.
+    EC NO: 204-309-3.
+
+==================  Physical/Chemical Properties  ==================
+
+Appearance and Odor:MOIST ORANGE TO BRICK-RED POWDER.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:NO
+OXIDIZING AGENTS.
+Stability Condition to Avoid:HEAT. UNSTABLE ABOVE 160C.
+Hazardous Decomposition Products:THERMAL DECOMPOSITION MAY PRODUCE
+    CARBON MONOXIDE, CARBON DIOXIDE AND NITROGEN OXIDES.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:TO THE BEST OF MFR'S KNOWLEDGE, THE CHEMICAL,
+    PHYSICAL & TOXICOLOGICAL PROPERTIES HAVE NOT BEEN THOROUGHLY
+    INVESTIGATED. IRRITATION DATA: EYE-RBT 500 MG/24H MLD - 85JCAE
+    -,755,1986. TOXICITY DATA: LD5 0:(IPR,MUS) 450 MG/KG - CNREA8
+    41,1469,1981. ONLY SELECTED REGISTRY OF TOXIC EFFECTS OF CHEMICAL
+    SUBSTANCES (RTECS) DATA IS PRESENTED HERE. SEE ACTUAL ENTRY IN
+    RTECS FOR COMPLETE INFORMATION.
+
+=====================  Ecological Information  =====================
+
+Ecological:DATA NOT YET AVAILABLE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTACT A LICENSED PROFESSIONAL WASTE DISPOSAL
+    SERVICE TO DISPOSE OF THIS MATERIAL. OBSERVE ALL FEDERAL, STATE AND
+    LOCAL ENVIRONMENTAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:CONTACT ALDRICH CHEMICAL COMPANY FOR
+    TRANSPORTATION INFORMATION.
+
+=====================  Regulatory Information  =====================
+
+Federal Regulatory Information:EUROPEAN INFO: HIGHLY FLAMM; HARMFUL;
+    R-5 - HEATING MAY CAUSE AN EXPLOSION; R 20/21/22 - HARMFUL BY
+    INHAL, IN CONTACT WITH SKIN & IF SWALLOWED; R 43 - MAY CAUSE SENSIT
+    BY SKIN CONTACT; R 36/3738 - IRR ITATING TO EYES, RESP SYS & SKIN.
+    HIGHLY FLAMM; S 16 - KEEP AWAY FROM SOURCES OF IGNITION - NO
+    SMOKING. REVIEWS, STDS & REGS: OEL=MAK. NOHS 1974: HZD 82081; NIS
+    3; TNF 830; NOS 3; TNE 7486. NOES 1983:  HZD 82081; NIS 4; TNF 138;
+    NOS 7; TNE 2087; TFE 1068. EPA GENETOX PROGRAM 1988, POSITIVE:
+    HISTIDINE  REVERSION-AMES TEST. EPA TSCA SECTION 8 (B) CHEMICAL
+    INVENTORY. EPA TSCA TEST SUBMISSION (TSCATS) DATA BASE, JUNE 1998.
+State Regulatory Information:
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

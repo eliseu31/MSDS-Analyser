@@ -1,0 +1,169 @@
+=====================  Product Identification  =====================
+
+Product ID:30-04 LACQUER THINNER
+MSDS Date:01/22/1987
+FSC:8010
+NIIN:00F018498
+MSDS Number: BKYBR
+=== Responsible Party ===
+Company Name:SHEBOYGAN MACHINE CO INC
+Address:914 S 8TH ST
+City:SHEBOYGAN
+State:WI
+ZIP:53081-4412
+Info Phone Num:(414) 458-2157
+Emergency Phone Num:(414) 458-2157
+CAGE:27728
+=== Contractor Identification ===
+Company Name:SHEBOYGAN MACHINE CO INC
+Address:914 S 8TH ST
+Box:City:SHEBOYGAN
+State:WI
+ZIP:53081-4412
+Phone:(414) 458-2157
+CAGE:27728
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL ISOBUTYL KETONE  (SARA III)
+CAS:108-10-1
+RTECS #:SA9275000
+Other REC Limits:50 PPM
+OSHA PEL:100 PPM/75 STEL
+ACGIH TLV:50 PPM/75 STEL; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+Other REC Limits:590 MG/CUM
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ISOBUTYL ISOBUTYRATE
+CAS:97-85-8
+RTECS #:NQ5250000
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Other REC Limits:400 PPM
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Other REC Limits:100 PPM
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:VOL ORGANIC CMPD: 7 LBS.
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: SEVERE IRRITATION. SKIN:
+    IRRITATION, DERMATITIS, DEFATTING & ABSORPTION. INHALATION: NOSE &
+    RESPIRATORY IRRITATION, HEADACHE, STAGGERING GAIT, DIZZINESS,
+    CONFUSION, WEAKNESS, FATIGUE & NAUSEA. I NGESTION: GASTROINTESTINAL
+    TRACT IRRITATION, ASPIRATION OF VOMITUS INTO THE LUNGS MAY CAUSE
+    PNEUMONITIS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: SEVERE IRRITATION. SKIN: IRRITATION,
+    DERMATITIS, DEFATTING & ABSORPTION: INHALATION: NERVOUS SYSTEM
+    DEPRESSION, UNCONSCIOUSNESS, COMA, ASPHYXIATION, KIDNEY & BRAIN
+    CELL DAMAGE. INGESTION: GASTRO INTESTINAL TRACT IRRITATION,
+    ASPIRATIONOF VOMITUS MAY CAUSE PNEUMONITIS.
+Medical Cond Aggravated by Exposure:EYE, SKIN & RESPIRATORY DISORDERS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MIN. SKIN: WASH
+    W/SOAP & WATER. INHALATION: REMOVE TO FRESH AIR. GIVE OXYGEN OR
+    ARTIFICIAL RESPIRATION IF NEEDED. INGESTION: IF CONSCIOUS, DRINK
+    SEVERAL G LASSES OF WATER. INDUCE VOMITING. OBTAIN MEDICAL
+    ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:45F
+Extinguishing Media:CO2, DRY CHEMICAL, FOAM OR OTHER NFPA CLASS B
+    EXTINGUISHER FOR CLASS IB LIQUID FIRES
+Fire Fighting Procedures:WATER SPRAY MAY BE INEFFECTIVE. IF WATER IS
+    USED, FOG NOZZLES ARE PREFERABLE. WEAR SCBA. USE WATER TO COOL
+    CONTAINERS.
+Unusual Fire/Explosion Hazard:CLOSED CONTAINERS MAY
+    EXPLODE/AUTO-IGNITE/BUILD UP PRESSURE WHEN EXPOSED TO EXTREME HEAT.
+    FLAMMABLE LIQUID.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. VENTILATE
+    AREA. DIKE SPILL AREA & ADD INERT ABSORBENT. REMOVE SPILLED
+    MATERIAL W/NON-SPARKING TOOLS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T STORE >120F. NEVER USE PRESSURE
+    TO EMPTY, SINCE CONTAINER ISN'T A PRESSURE VESSEL. USE IN WELL
+    VENTILATED AREAS. DON'T INGEST.
+Other Precautions:KEEP CONTAINER TIGHTLY CLOSED & UPRIGHT TO AVOID
+    LEAKAGE. AVOID BREATHING VAPORS. DON'T SMOKE WHERE PRODUCT IS
+    STORED. DON'T DROP CONTAINER. GROUND CONTAINER WHEN POURING TO
+    PREVENT STATIC CHARGE. AVO ID CONTACT W/SKIN, EYES, & SPLASHING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:OUTDOOR/OPEN AREAS W/UNRESTRICTED VENTILATION:
+    USE NIOSH APPROVED RESPIRATOR FOR SOLID AIRBORNE PARTICULATES.
+    RESTRICTED AREAS: USE NIOSH CHEMICAL/MECHANICAL FILTERS FOR
+    PARTICULATES/VAPOR. CONFINED A REAS: USE AIRLINE RESPIRATOR OR
+    HOODS.
+Ventilation:SUFFICIENT TO REMOVEW HEAVY SOLVENT VAPORS/DECOMPOSITION
+    PRODUCTS FORMED BY WELDING/FLAME CUTTING COATED SURFACES.
+Protective Gloves:NEOPRENE RUBBER
+Eye Protection:GOGGLES FOR SPLASH OF LIQUIDS
+Other Protective Equipment:APRON, EYE WASHES, SAFETY SHOWERS &
+    PROTECTIVE CREAM
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING & SHOES
+    BEFORE REUSE. WASH HANDS BEFORE EATING, USING THE WASHROOM OR
+    SMOKING.
+Supplemental Safety and Health
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:172-304F
+Vapor Density:>AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:100%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:TEMPS >120F, SPARKS, OPEN FLAME, HOT
+    SURFACES, ELECTRICAL EQUIP/STATIC, FRICTIONAL SPARKS & OTHER
+    SOURCES OF IGNITION.
+Hazardous Decomposition Products:CO & CO2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL BY INCINERATION IN COMPLIANCE W/LOCAL,
+    STATE/FEDERAL REGS. FLAMMABLE LIQUID. UN1263. PUT CONTAMINATED RAGS
+    IN CLOSED CONTAINER/COVER W/WATER/REMOVE FROM BUILDING DAILY.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,116 @@
+=====================  Product Identification  =====================
+
+Product ID:VVD-1078-40000 CST
+MSDS Date:01/01/1987
+FSC:9150
+NIIN:00-087-4046
+MSDS Number: BLMYP
+=== Responsible Party ===
+Company Name:DAVIS HOWLAND OIL CORP.
+Address:200 ANDERSON AVE.
+City:ROCHESTER
+State:NY
+ZIP:14607
+Country:US
+Info Phone Num:716-473-6650
+Emergency Phone Num:716-473-6650
+CAGE:5A565
+=== Contractor Identification ===
+Company Name:DAVIS HOWLAND OIL CORP.
+Address:200 ANDERSON AVE.
+City:ROCHESTER
+State:NY
+ZIP:14607
+Country:US
+Phone:716-473-6650
+CAGE:5A565
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:"NOT HAZARDOUS"
+Fraction by Wt: 100%
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 ORAL (RAT) IS 20,000 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and
+    Chronic:ACUTE-EYE/SKIN/INHALATION/INGESTION:NONE KNOWN.CHRONIC-NONE
+    KNOWN. MAY CAUSE IRRITATION OF EYES AND SKIN. MISTS OR HOT VAPORS
+    MAY CAUSE RESPIRATORY TRACT IRRITATION. INGESTION: MAY BE
+    ASPIRATION HAZAR D.
+Effects of Overexposure:MAY BE EYES, SKIN AND RESPIRATORY TRACT
+    IRRITANT.
+Medical Cond Aggravated by Exposure:PRE-EXISTING SKIN DISORDERS
+
+=======================  First Aid Measures  =======================
+
+First Aid:CALL A PHYSICIAN.INHALATION: REMOVE TO FRESH AIR.EYE:
+    IMMEDIATELY FLUSH WITH PLENTY OF WATER FOR AT LEAST 15
+    MINUTES.SKIN:WASH WITH SOAP AND WATER.INGESTION:CALL PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:>400F,>204C
+Extinguishing Media:ALL STANDARD FIRE FIGHTING MEDIA
+Fire Fighting Procedures:WEAR FIRE FIGHTING PROTECTIVE EQUIPMENT AND A
+    FULL FACED SELF CONTAINED BREATHING APPARATUS. EVACUATE AREA. COOL
+    FIRE EXPOSED CONTAINERS WITH WATER SPRAY.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WIPE, SCRAPE OR SOAK UP IN AN INERT MATERIAL
+    AND PUT IN A CONTAINER FOR DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORAGE-KEEP CONTAINER CLOSED WHEN NOT
+    IN USE.
+Other Precautions:AVOID CONTACT WITH EYES, SKIN AND CLOTHING. DO NOT
+    BREATHE VAPORS OR MISTS. WASH THOROUGHLY AFTER HANDLING AND BEFORE
+    EATING OR DRINKING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF MISTS PRESENT, WEAR NIOSH-APPROVED
+    SELF-CONTAINED BREATHING APPARATUS.
+Ventilation:LOCAL EXHAUST
+Protective Gloves:RUBBER
+Eye Protection:SAFETY GLASSES - GOGGLES - FACE SHIELD
+Other Protective Equipment:EYE WASH STATION & SAFETY SHOWER
+Work Hygienic Practices:LAUNDER CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Vapor Pres:NEGLIGIBLE
+Spec Gravity:0.97
+Evaporation Rate & Reference:>1 (N-BUTYL ACETATE=1)
+Solubility in Water:INSOLUBLE
+Appearance and Odor:CLEAR LIQUID-ODORLESS
+Percent Volatiles by Volume:<1
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:HIGH HEAT, OPEN FLAMES
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE,
+    FORMALDEHYDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL SHOULD BE MADE IN ACCORDANCE WITH
+    LOCAL, STATE AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

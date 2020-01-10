@@ -1,0 +1,127 @@
+=====================  Product Identification  =====================
+
+Product ID:CHLOROFORM, CAT #4432
+MSDS Date:01/01/1987
+FSC:6505
+NIIN:00-191-6425
+MSDS Number: BDHWS
+=== Responsible Party ===
+Company Name:MALLINCKRODT INC.,SCIENCE PRODUCTS DIVISION
+Address:PARIS BYPASS
+Box:M
+City:PARIS
+State:KY
+ZIP:40361
+Country:US
+Info Phone Num:314-982-5000
+Emergency Phone Num:314-982-5000
+CAGE:62910
+=== Contractor Identification ===
+Company Name:MALLINCKRODT SPECIALTY CHEMICALS CO
+Address:222 RED SCHOOL LANE
+Box:City:PHILLIPSBURG
+State:NJ
+ZIP:08865
+Country:US
+Phone:908-859-2151
+CAGE:62910
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CHLOROFORM	(SARA III)
+CAS:67-66-3
+RTECS #:FS9100000
+Fraction by Wt: >99%
+OSHA PEL:(C) 50 PPM
+ACGIH TLV:10 PPM; A2; 9293
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:INH:ANESTHETIC.MAY IRRIT/IRREG HEART
+    BEAT;INGEST:SEV BURN OF MOUTH/THROAT;SKIN/EYES:IRRITN/BURNS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:REMOVE TO FRESH AIR.GIVE CPR/OXYGEN IF NEEDED;INGEST:IF
+    SWALLOWED,GIVE TWO GLASSES OF WATER & INDUCE VOMIT.NOTHING BY MOUTH
+    IF UNCON;SKIN/EYE EXPOSURE:RMV CONTMNTD CLOTHG.WASH SKIN W/SOAP &
+    H*2O .FLUSH SKIN/EYES W/LG H*2O;GET MED HELPIMMEDIATLY
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:EXTINQUISH W. AGENT SUITABLE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:WEAR SELF-CNTD BRTHG,APP H*20 SPRAY TO COOL
+    CONTR.
+Unusual Fire/Explosion Hazard:NOT CONSIDERED TO BE AN EXPLOSION
+    HAZARD;SLIGHT FIRE HAZARD WHEN EXPOSED TO HIGH HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIM IGN SOURCES,VENTL & EVAC AREA.USE PROTCV
+    CLOTHG/RESP PROTCTION FM VAP.CONTAIN & RECOVR LIQ IF POSS.ABSORB
+    W/VRMCULITE,EARTH,ETC.SCOOP UP W/NON-SPARKG TOOLS & PLACE IN CLOSD
+    CONTNRS.USE H*2O SPRAY  TO DISPERSE VAP/COOL CNTNR.DO NOT FLUSH TO
+    SEWR
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP IN TIGHTLY CLOSED CONTANRS AT
+    COOL,DRY,VENTILATED PLACE.PROTECT AGAINST PHY DAMAGE.
+Other Precautions:AVOID BREATHING VAPS.USE W/ADEQUATE VENTILATION.KEEP
+    CONTAINERS CLOSED.WASH THOROUGHLY AFTER HANDLING.AVOID SKIN,EYES &
+    CLOTHING CONTACT;DANGER!MAY BE FATAL IF SWALLOWED,INHALED/ABSORBD
+    BYSKIN
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:SUPPLIED AIR RESPIR/SCBA; ESCAPE: GAS MASK
+Ventilation:LOCAL EXHAUST TO MAINTN BELOW TLV.
+Protective Gloves:IMPERVIOUS
+Eye Protection:GOGGLES/FACE SHIELD
+Other Protective Equipment:FULL PROTECTIVE CLOTHING,SAFETY SHOWER,EYE
+    WASH STATION
+Supplemental Safety and Health
+MSDS FROM MFR DATED 14NOV85,CONFORMS TO OSHA HAZ COMM STD; VAP PRESSURE
+    AT 10.4C; WARNING! POSSIBLE CANCER HAZARD ON TESTS WITH LABORATORY
+    ANIMALS AS DEFINED BY IARC,MAK,NIOSH,NTP & ACGIH.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T4
+Boiling Pt:B.P. Text:61.3C(142F)
+Vapor Pres:100
+Vapor Density:4.1
+Spec Gravity:1.49
+Evaporation Rate & Reference:11.6(BU-AC=1)
+Solubility in Water:SLIGHT
+Appearance and Odor:CLEAR COLORLESS LIQ.HEAVY ETHEREAL ODOR
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG CAUSTICS,CHEM ACTIVE METALS,AL,K,NA,METHANO,OXIDZRS.
+Stability Condition to Avoid:PREVENT EXPOSURE TO AIR AND LIGHT(FORM
+    PHOSGENE & HCL GASES)
+Hazardous Decomposition Products:HCL,CL*2,PHOSGENE,& CO GASES WHEN
+    HEATED TO DECOMPOSITION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:SPILLS & LOT SIZES MAY BE COLLECTD & ATOMIZED IN
+    RCRA APPRVD COMBUSTN CHMBR EQUIPPD W/EFFLUENT GASE CLEANG
+    DIVEICE,OR ABSORBED IN ABSORBNT & DISPOSED IN RCRA APPRVD
+    FACILITY.ENSURE COMPLIANCE W/LOCAL, STATE & FEDERAL REGS; RCRA/CWA
+    RQ:5000 LBS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

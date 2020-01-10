@@ -1,0 +1,143 @@
+=====================  Product Identification  =====================
+
+Product ID:SERMETEL W - HIGH TEMP COATING
+MSDS Date:01/01/1987
+FSC:8030
+NIIN:00-145-0039
+MSDS Number: BLMYZ
+=== Responsible Party ===
+Company Name:SERMATECH INTERNATIONAL INCORPORATED
+Address:155 S LIMERICK RD
+City:LIMERICK
+State:PA
+ZIP:19468
+Country:US
+Info Phone Num:215-948-5100
+Emergency Phone Num:215-948-5100
+CAGE:58913
+=== Contractor Identification ===
+Company Name:SERMATECH INTERNATIONAL INC SUB OF TELEFEX INC
+Address:155 S LIMERICK RD
+Box:City:LIMERICK
+State:PA
+ZIP:19468-1603
+Country:US
+Phone:610-948-5100
+CAGE:58913
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ALUMINUM  (SARA III)
+CAS:7429-90-5
+RTECS #:BD0330000
+Fraction by Wt: 30-50%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:15MG/M3 DUST/5 FUME
+ACGIH TLV:10MG/M3 DUST; 9192
+
+Ingred Name:CHROMIC ACID  (SARA III)
+CAS:7738-94-5
+RTECS #:GB2450000
+Fraction by Wt: <5%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:0.1 MG CRO3/M3;CEILG
+ACGIH TLV:0.05 MG/M3
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:YES
+Health Hazards Acute and Chronic:PROLONGED CONTACT WITH THE COATING
+    LIQUID MAY PRODUCE SKIN DISCOLORATIONS AND ACID BURNS. EYE CONTACT
+    WILL CAUSE IRRITATION. INHALATION OF ATOMIZED COATING MATERIAL WILL
+    PRODUCE IRRITATION TO MUCOUS M EMBRANES AND LUNGS.
+Explanation of Carcinogenicity:HEXAVALENT CHROMIUM IS CONSIDERED A
+    CARCINOGEN.
+Effects of Overexposure:"METALLIC" TASTE NOTED WHEN BREATHING SPRAY
+    MISTS. PROLONGED CONTACT WITH THE COATING LIQUID MAY PRODUCE SKIN
+    DISCOLORATIONS AND ACID BURNS. EYE CONTACT WILL CAUSE IRRITATION.
+    INHALATION OF ATOMIZED C OATING MATERIAL WILL PRODUCE IRRITATIONTO
+    MUCOUS MEMBRANES AND LUNGS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:CONTACT-DRENCH SKIN WITH WATER, REMOVE CONTAMINATED CLOTHING
+    AND WASH BEFORE REUSE. SEVERE SKIN CONTACT MAY REQUIRE MEDICAL
+    ATTENTION. INGESTION-GIVE LARGE AMOUNTS OF WATER FOLLOWED BY MILK
+    OF MAGNESI A, OBTAIN MEDICAL ATTENTION. INHALATION-OBTAIN MEDICAL
+    ATTENTION. EYE CONTACT-FLUSH WITH WATER FOR 15 MINUTES, OBTAIN
+    MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:CARBON DIOXIDE, SAND AND DRY CHEMICAL.
+Fire Fighting Procedures:COATING CONTAINS ALUMINUM POWDER. DO NOT USE
+    WATER BASED EXTINGUISHING AGENTS.
+Unusual Fire/Explosion Hazard:DIRECT CONTACT WITH ALKALIS MAY PRODUCE
+    HYDROGEN GAS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB ONTO SAND OR VERMICULITE AND PLACE IN
+    CONTAINERS FOR DISPOSAL AS HAZARDOUS WASTE. FLUSH SPILL AREA WITH
+    EXCESS WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A DRY AREA AT 40-90 F (4-32
+    C). USE OLDEST STOCK FIRST. DO NOT FREEZE.
+Other Precautions:AVOID SKIN CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:SUPPLIED AIR RESPIRATORS ARE RECOMMENDED IF
+    COATING IS SPRAY APPLIED.
+Ventilation:LOCAL EXHAUST: FOR SPRAY: BOOTH SHOULD HAVE MINIMUM AIR
+    VELOCITY OF 150 FT/MIN.
+Protective Gloves:YES
+Eye Protection:GOGGLES
+Other Protective Equipment:APPLY COATING IN A CLEAN, WELL VENTILATED
+    AREA.
+Work Hygienic Practices:USE GOOD INDUSTRIAL HYGIENE PRACTICES.
+Supplemental Safety and Health
+PIGMENT INSOLUBLE, BINDER MISCIBLE. PH 1.8 TO 2.4.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C1
+Boiling Pt:B.P. Text:220
+Vapor Pres:23.7
+Vapor Density:0.7
+Spec Gravity:1.55-1.65
+pH:1.8
+Evaporation Rate & Reference:1
+Solubility in Water:INSOL/MISC
+Appearance and Odor:GRAY-GREEN LIQUID, ODORLESS.
+Percent Volatiles by Volume:64
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID ALKALIS AND STRONG OXIDIZING OR REDUCING AGENTS. KEEP AWAY FROM
+    ORGANIC PAINTS AND SOLVENTS.
+Hazardous Decomposition Products:DIRECT CONTACT WITH ALKALIS MAY
+    PRODUCE HYDROGEN GAS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:REMOVE PIGMENT BY FILTRATION TO TREAT COATING &
+    DISPOSE OF HAZARDOUS WASTE.LIQ PORTION MAY BE TREATED WITH SODIUM
+    BISULFITE AT PH 2-4 TO REDUCE CHROMATE FOLLOWED BY PH ADJUSTMENT.
+    FOLLOW APPLICABLE LO CAL, STATE & FED REGS FOR HAZARDOUS WASTE
+    DISPOSAL
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

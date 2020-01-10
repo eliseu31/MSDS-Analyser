@@ -1,0 +1,162 @@
+=====================  Product Identification  =====================
+
+Product ID:1654;DEX-O-TEX DC FINISH,COMP. B
+MSDS Date:02/12/1992
+FSC:5610
+NIIN:00-852-1907
+MSDS Number: BWRBH
+=== Responsible Party ===
+Company Name:CROSSFIELD PRODUCTS CORP
+Address:140 VALLEY ROAD
+City:ROSELLE PARK
+State:NJ
+ZIP:07204-1402
+Country:US
+Info Phone Num:908-245-2800 / FAX 908-245-2583
+Emergency Phone Num:908-245-2800
+CAGE:88167
+=== Contractor Identification ===
+Company Name:CROSSFIELD PRODUCTS CORP
+Address:140 VALLEY ROAD
+Box:City:ROSELLE PARK
+State:NJ
+ZIP:07204-1402
+Country:US
+Phone:908-245-2800
+CAGE:88167
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PROPYLENE GLYCOL MONOMETHYL ETHER ACETATE
+CAS:108-65-6
+RTECS #:AI8295000
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:NOT ESTABLISHED.
+ACGIH TLV:NOT ESTABLISHED.
+
+Ingred Name:THE FOLLOWING DRY INGREDIENTS ARE INCORPORATED INTO THE WET
+    BLEND
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:SILICA, CRYSTALLINE - QUARTZ
+CAS:14808-60-7
+RTECS #:VV7330000
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:SEE TABLE Z-3
+ACGIH TLV:0.1 MG/M3 RDUST;9394
+
+Ingred Name:SILICA, FUMED
+CAS:7631-86-9
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9394
+
+Ingred Name:LEAD CHROMATE(MAY BE CONTAINED IN THE PIGMENT OF SOME OF
+    THE COLORS)
+CAS:7758-97-6
+RTECS #:GB2975000
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT) IS 8532MG/KG INGRED #1
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:EYES:MAY CAUSE IRRITATION.SKIN:MAY
+    CAUSE IRRITATION.INGEST:MAY CAUSE GI TRACT
+    IRRITATION.INHAL/INGEST:ENTRY BY THESE ROUTES ARE SLIGHTLY TOXIC.
+Explanation of Carcinogenicity:LEAD CHROMATE IS LISSTED BY IARC AND
+    NTP.
+Effects of Overexposure:EYES:BURNING.SKIN:RASH.
+Medical Cond Aggravated by Exposure:NOT REPORTED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:REMOVE CONTAMINATED CLOTHING;WASH WITH SOAP AND
+    WATER.EYES:FLUSH WITH WATER FOR 15 MINUTES.INHAL:REMOVE TO FRESH
+    AIR.GIVE OXYGEN OR ARTIFICIAL RESPIRATION IF NEEDED.INGEST:DO NOT
+    INDUCE VOMITING. GET PROMPT QUALIFIED MEDICAL ATTENTION.IF
+    CONSCIOUS,GIVE 1 PINT OF LUKEWARM WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:116F,47C
+Autoignition Temp:Autoignition Temp Text:521F
+Lower Limits:1.5
+Upper Limits:10.2
+Extinguishing Media:CARBON DIOXIDE,FOAM.
+Fire Fighting Procedures:USE A SELF-CONTAINED BREATHING APPARATUS AND
+    FULL PROTECTIVE EQUIPMENT.
+Unusual Fire/Explosion Hazard:VAPORS ARE HEAVIER THAN AIR,CAN TRAVEL
+    DISTANCES ALONG THE GROUND,AND FLASHBACK AT THE SOURCE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE SOURCES OF IGNITION.USE PROPER
+    RESPIRATORY AND PROTECTIVE EQUIPMENT.VENTILATE AREA.SOAK UP WITH A
+    NON-COMBUSTIBLE INERT ABSORBANT(CLAY,SAND);PLACE IN PROPER
+    CONTAINER FOR DISPOSAL.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL,DRY,WELL-VENTILATED
+    PLACE.KEEP CONTAINER CLOSED WHEN NOT IN USE.KEEP AWAY FROM
+    HEAT,SPARKS,FLAMES AND INCOMPATIBLE MATERIALS.
+Other Precautions:FOLLOW LABEL DIRECTIONS.AVOID BREATHING VAPORS.AVOID
+    SKIN AND EYE CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WHERE ENVIRONMENTAL CONTROLS ARE LACKING OR IN
+    ENCLOSED SPACES USE A NIOSH/MSHA APPROVED RESPIRATOR FOR ORGANIC
+    VAPORS.
+Ventilation:LOCAL VENTILATION AT THE WORKSITE;MECHANICAL(GENERAL)
+    VENTILATION TO MAINTAIN TLV/PEL.
+Protective Gloves:RUBBER OR IMPERVIOUS
+Eye Protection:CHEMICAL SPLASH GOGGLES
+Other Protective Equipment:PROTECTIVE CLOTHING,AS NEEDED.PROVIDE A
+    LOCAL EYE WASH STATION AND SAFETY SHOWER.
+Work Hygienic Practices:WASH HANDS.SEPERATE WORK CLOTHES FROM STREET
+    CLOTHES.LAUNDER WORK CLOTHES BEFORE REUSE.KEEP FOOD OUT OF THE WORK
+    AREA.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:300F,149C
+Vapor Pres:2
+Vapor Density:4.7
+Evaporation Rate & Reference:0.3 (NO REFERENCE GIVEN)
+Solubility in Water:SLIGHT
+Appearance and Odor:LIQUID;GREEN(PER MILSPEC);SLIGHT AROMATIC ODOR
+Percent Volatiles by Volume:21
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.EXTENDED CONTACT WITH OXYGEN OR AIR.
+Stability Condition to Avoid:HIGH HEAT.
+Hazardous Decomposition Products:CARBON DIOXIDE,CARBON MONOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:BURN OR DISPOSE OF IN A SANITARY LANDFILL IN
+    ACCORDANCE WITH FEDERAL,STATE AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

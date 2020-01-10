@@ -1,0 +1,121 @@
+=====================  Product Identification  =====================
+
+Product ID:SILVER POWER
+MSDS Date:05/13/1993
+FSC:7930
+NIIN:01-236-8941
+MSDS Number: BWRFF
+=== Responsible Party ===
+Company Name:ECOLAB INC., INSTITUTIONAL PRODUCTS DIVISION
+Address:370 WABASHA STREET
+City:ST. PAUL
+State:MN
+ZIP:55102-1307
+Country:US
+Info Phone Num:612-293-2233 800-352-5326
+Emergency Phone Num:612-293-2233 800-328-0026
+CAGE:DO852
+=== Contractor Identification ===
+Company Name:ECOLAB INC., INSTITUTIONAL PRODUCTS DIVISION
+Address:370 WABASHA STREET
+City:ST. PAUL
+State:MN
+ZIP:55102-1307
+Country:US
+Phone:612-293-2233
+CAGE:DO852
+Company Name:ECOLAB PROFESSIONAL PRODUCTS DIVISION OF ECOLAB INC.
+Address:ECOLAB CENTER
+Box:City:ST PAUL
+State:MN
+ZIP:55102
+Country:US
+Phone:800-352-5326
+CAGE:85884
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ENZYME
+CAS:68909-17-1
+Other REC Limits:1.2X10-3MG/M3(MFG)
+
+Ingred Name:SODIUM CARBONATE
+CAS:497-19-8
+RTECS #:VZ4050000
+Fraction by Wt: 22%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN-CAUSES IRRITATION.
+    SWALLOWED-HARMFUL. CAUSES IRRITATION AND STOMACH DISTRESS.
+Explanation of Carcinogenicity:NOT APPLICABLE.
+Effects of Overexposure:SKIN: POSSIBLE SKIN RASH.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH IMMEDIATELY WITH PLENTY OF COOL RUNNING WATER.
+    REMOVE CONTACT LENSES. CONTINUE FLUSHING FOR 15 MIN. SKIN:FLUSH
+    SKIN WITH PLENTY OF COOL RUNNING WATER. WASH THOROUGHLY WITH SOAP
+    AND WATER. I F SWALLOWED:RINSE MOUTH; THEN DRINK 1-2LARGE GLASSES
+    OF WATER. DO NOT INDUCE VOMITING. NEVER GIVE ANYTHING BY MOUTH TO
+    AN UNCONSCIOUS PERSON.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:NONE
+Fire Fighting Procedures:PRODUCT DOES NOT SUPPORT COMBUSTION.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH AREA WITH WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP PRODUCT DRY. DO NOT STORE IN WET
+    OR MOIST AREA.
+Other Precautions:DUE TO THE SOLID FORM OF SILVER POWDER, NO SPECIAL
+    PROTECTION IS REQUIRED UNDER NORMAL USE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SPECIFIED BY MANUFACTURER.
+Ventilation:MANUFACTURER STATES NONE NEEDED UNDER NORAML USE.
+Protective Gloves:RUBBER WITH PROTECTIVE CUFFS&GAUNTLETS.
+Eye Protection:CHEMICAL SPLASH GOGGLES;W/FACE SHIELD
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:WASH HANDS. USE STANDARD HYGENIC PRACTICES.
+Supplemental Safety and Health
+KEEP OUT OF REACH OF CHILDREN.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+pH:10.8
+Solubility in Water:COMPLETE
+Appearance and Odor:LIGHT BLUE SOLID, CITRUS ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:NOT TO MIX WITH ANYTHING BUT WATER.
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT STATE AND LOCAL AUTHORITIES FOR
+    RESTRICTIONS ON DISPOSAL OF CHEMICAL WASTE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

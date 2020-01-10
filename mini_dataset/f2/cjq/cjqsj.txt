@@ -1,0 +1,144 @@
+=====================  Product Identification  =====================
+
+Product ID:BUFFER PE (CONCENTRATE), 27142
+MSDS Date:09/22/1997
+FSC:6550
+NIIN:01-414-9410
+MSDS Number: CJQSJ
+=== Responsible Party ===
+Company Name:QIAGEN INC
+Address:28159 AVENUE STANFORD
+City:SANTA CLARITA
+State:CA
+ZIP:91355
+Country:US
+Info Phone Num:800-362-7737
+Emergency Phone Num:800-362-7737
+CAGE:01QTQ
+=== Contractor Identification ===
+Company Name:QIAGEN INC
+Address:28159 AVENUE STANFORD
+Box:City:SANTA CLARITA
+State:CA
+ZIP:91355
+Country:US
+Phone:800-362-7737
+CAGE:01QTQ
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TRIS(HYDROXYMETHYL)AMINOMETHANE (AQUEOUS SOLUTION MIXED
+    WITH HYDROCHLORIC ACID)
+CAS:77-86-1
+RTECS #:TY2900000
+
+Ingred Name:HYDROCHLORIC ACID
+CAS:7647-01-0
+RTECS #:MW4025000
+OSHA PEL:C7 MG/M3;C5 PPM
+ACGIH STEL:C7.5 MG/M3;C5 PPM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: INHALATION: MAY BE HARMFUL BY
+    INHALATION. EYE/SKIN CONTACT: MAY CAUSE IRRITATION. INGESTION: MAY
+    BE HARMFUL IF SWALLOWED. CHRONIC: NOT APPLICABLE.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:CALL MD. REMOVE AND WASH CONTAMINATED CLOTHING PROMPTLY.
+    EYES: IMMEDIATLEY FLUSH WITH COPIOUS AMOUNTS OF WATER FOR AT LEAST
+    15 MINUTES. ASSURE ADEQUATE FLUSHING BY SEPARATING LIDS WITH
+    FINGERS. SKIN:  IMMEDIATELY WASH WITH SOAP AND COPIOUS AMOUNTS OF
+    WATER. INHALATION: REMOVE TO FRESH AIR. IF NOT BREATHING GIVE
+    ARTIFICIAL RESPIRATION. IF BREATHING IS DIFFICULT, GIVE OXYGEN.
+    INGESTION: WASH OUT MOUT H WITH WATER PROVIDED PERSON IS CONSCIOUS.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:NONCOMBUSTIBLE. USE EXTINGUISHING MEDIA APPROPRIATE
+    TO SURROUNDING FIRE CONDITIONS.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT .
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR NIOSH APPROVED SELF-CONTAINED BREATHING
+    APPARATUS, CHEMICAL SAFETY GOGGLES, RUBBER BOOTS AND HEAVY RUBBER
+    GLOVES. ABSORB ON SAND OR VERMICULITE AND PLACE IN CLOSED
+    CONTAINERS FOR DISPOSAL. VENTIL ATE AREA AND WASH SPILL SITE AFTER
+    MATERIAL PICKUP IS COMPLETE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE TIGHTLY CLOSED AT 20-25C. KEEP
+    TIGHTLY CLOSED. DO NOT GET IN EYES, ON SKIN, OR ON CLOTHING. DO NOT
+    BREATHE VAPOR. SEVERE EYE IRRITANT. STORE IN A DRY PLACE.
+Other Precautions:THE PRODUCT SHOULD BE HANDLED WITH THE NORMAL CAUTION
+    ACCORDED CHEMICALS. ADDITIONAL HARMFUL PROPERTIES CANNOT BE RULED
+    OUT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED RESPIRATOR.
+Ventilation:MECHANICAL EXHAUST REQUIRED.
+Protective Gloves:RUBBER GLOVES.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:ANSI APPROVED EYE WASH & DELUGE SHOWER . LAB
+    COATS.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Vapor Pres:NOT APPLICABLE (20C)
+Spec Gravity:0.985 G/CM3 @ 20C
+pH:7.7 @ 20C
+Viscosity:NOT APPLICABLE (20C)
+Solubility in Water:S0LUBLE
+Appearance and Odor:COLORLESS LIQUID; NO ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NOT APPLICABLE.
+Hazardous Decomposition Products:NOT APPLICABLE.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:NOT APPLICABLE.
+
+=====================  Ecological Information  =====================
+
+Ecological:NOT APPLICABLE,
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:FOR SMALL QUANTITIES, FLUSH DOWN SINK WITH
+    WATER. OBSERVE ALL FEDERAL, STATE AND LOCAL LAWS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:NOT APPLICABLE.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:NOT APPLICABLE.
+Federal Regulatory Information:NOT APPLICABLE.
+State Regulatory Information:NOT APPLICABLE.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

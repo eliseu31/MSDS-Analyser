@@ -1,0 +1,174 @@
+=====================  Product Identification  =====================
+
+Product ID:RED GAGE OIL
+MSDS Date:05/12/1987
+FSC:6685
+NIIN:00-897-4402
+MSDS Number: BJDLW
+=== Responsible Party ===
+Company Name:DWYER INSTRUMENTS INC.
+Address:JCT 212 AND US 12
+Box:373
+City:MICHIGAN CITY
+State:IN
+ZIP:46360
+Country:US
+Info Phone Num:219-872-9141
+Emergency Phone Num:219-872-9141
+CAGE:85274
+=== Contractor Identification ===
+Company Name:ADCO ENGINEERING SUPPLY CO. INC.
+Address:6404 MALLORY DRIVE
+Box:City:RICHMOND
+State:VA
+ZIP:23226
+Country:US
+Phone:804-264-7149
+CAGE:4Y509
+Company Name:AMERICAN OVERSEAS INDUSTRIES CORP
+Address:RICHMOND INTERNATIONAL AIRPORT
+Box:H
+City:RICHMOND
+State:VA
+ZIP:23150
+Country:US
+CAGE:9S525
+Company Name:DWYER INSTRUMENTS INC
+Address:JCT 212 AND US 12
+Box:373
+City:MICHIGAN CITY
+State:IN
+ZIP:46360
+Country:US
+Phone:219-872-9141
+CAGE:85274
+Company Name:ECCO PROCESS AND CONTROL EQUIPMENT CORP.
+Address:452 PARKWAY
+Box:210
+City:BROOMALL
+State:PA
+ZIP:19008-4201
+Country:US
+Phone:215-353-1000
+CAGE:5E756
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ALIPHATIC PETROLEUM DISTILLATES
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:500 PPM
+ACGIH TLV:100 MG/M3
+
+Ingred Name:HYDROTREATED MIDDLE PETROLEUM DISTILLATE
+CAS:64742-46-7
+RTECS #:JN9379645
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:HYDROTREATED HEAVY NAPHTHENIC DISTILLATE, PETROLEUM
+CAS:64742-52-5
+RTECS #:PY8035000
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:POLYMERIC ADDITIVE IN OIL (POLY-METHACRYLATE)
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:MINOR ADDITIVES
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:RED DYE
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: CAN CAUSE SEVERE IRRITATION,
+    BLURRED VISION. SKIN: PROLONGED/REPEATED CONTACT CAN CAUSE MODERATE
+    IRRITATION, DEFATTING, AND DERMATITIS. BREATHING: VAPORS CAN CAUSE
+    NASAL AND RESPIRATORY IRRITATI ON, POSSIBLE UNCONSCIOUSNESS AND
+    EVEN ASPHYXIATION. SWALLOWING: CAN CAUSE GASTROINTESTINAL
+    IRRITATION AND VOMITING.
+Explanation of Carcinogenicity:THE COMPONENTS OF THIS PRODUCT HAVE NOT
+    SHOWN ANY EVIDENCE OF BEING CARCINOGENIC.
+Effects of Overexposure:SYMPTOMS INCLUDE REDNESS AND TEARING OF EYES,
+    SKIN IRRITATION, DIZZINESS, WEAKNESS, FATIGUE, NAUSEA, HEADACHE,
+    VOMITING AND DIARRHEA. ASPIRATION OF MATERIAL INTO THE LUNGS CAN
+    CAUSE CHEMICAL PNEUMONIT IS WHICH CAN BE FATAL.
+Medical Cond Aggravated by Exposure:PERSONS WITH A SKIN DISORDER SHOULD
+    USE CAUTION WHEN HANDLING OR USING THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: REMOVE CONTAMINATED CLOTHING. WASH WITH SOAP AND WATER.
+    GET MEDICAL ATTENTION IF IRRITATION PERSISTS. INHALATION: REMOVE TO
+    FRESH AIR & RESTORE BREATHING IF NECESSARY. GET MEDICAL ATTENTION.
+    EYE : IMMEDIATELY FLUSH WITH WATER FOR 15 MINUTES WHILE HOLDING
+    EYELIDS OPEN. GET MEDICAL ATTENTION. INGESTION: GET IMMEDIATE
+    MEDICAL ATTENTION. DO NOT INDUCE VOMITING. NOTHING BY MOUTH IF
+    UNCONSCIOUS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:147F,64C
+Extinguishing Media:USE CARBON DIOXIDE, FOAM, OR DRY CHEMICAL.
+Fire Fighting Procedures:NONE SPECIFIED BY MANUFACTURER.
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:MINOR: ABSORB MATERIAL WITH CLAY, VERMICULITE,
+    OR SIMILAR ABSORBENT MATERIAL. PLACE IN DISPOSAL CONTAINERS. MAJOR:
+    DIKE & CONTAIN SPILL. ELIMINATE SOURCES OF IGNITION. SHUT OFF
+    LEAKS. REMOVE LIQUID BY  VACUUM OR ABSORBENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, VENTILATED WORK AREA.
+    KEEP CONTAINERS CLOSED WHEN NOT IN USE. COMBUSTIBLE LIQUID; EMPTY
+    CONTAINERS CAN BE HAZARDOUS.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR. AIR-SUPPLIED
+    OR FILTERING TYPE WITH ORGANIC VAPOR CARTRIDGES ARE RECOMMENDED.
+Ventilation:LOCAL AND MECHANICAL EXHAUST RECOMMENDED. AVOID OPEN
+    ELECTRICAL SOURCES NEAR PRODUCT VAPOR AREAS.
+Protective Gloves:NEOPRENE, NITRILE, OR POLYVINYL ALCOHOL
+Eye Protection:USE CHEMICAL SAFETY GOGGLES
+Other Protective Equipment:IMPERVIOUS CLOTHING OR APRON.
+Work Hygienic Practices:WASH THOROUGHLY BEFORE EATING OR SMOKING. DO
+    NOT EAT, DRINK, OR SMOKE IN WORK AREA.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V4
+Spec Gravity:0.826
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:RED LIQUID WITH SLIGHT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE,
+    HYDROGEN FLUORIDE, CHLORINE GAS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:WASTE MAY BE BURNED IN AN APPROVED INCINERATOR
+    OR DISPOSED OF IN ACCORDANCE WITH ALL APPLICABLE LOCAL, STATE AND
+    FEDERAL LAWS AND REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

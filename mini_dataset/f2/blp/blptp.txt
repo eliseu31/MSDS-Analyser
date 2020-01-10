@@ -1,0 +1,87 @@
+=====================  Product Identification  =====================
+
+Product ID:CEROX SR XII
+MSDS Date:12/01/1987
+FSC:6850
+NIIN:00F019268
+MSDS Number: BLPTP
+=== Responsible Party ===
+Company Name:ANOMET INC
+Address:2230 GLADWICK
+City:COMPTON
+State:CA
+ZIP:90220
+Info Phone Num:(213) 637-0734
+Emergency Phone Num:(213) 637-0734
+CAGE:OAEPS
+=== Contractor Identification ===
+Company Name:ANOMET INC
+Address:2230 GLADWICK
+City:COMPTON
+State:CA
+ZIP:90220
+Phone:(213) 637-0734
+CAGE:OAEPS
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER, H2O
+CAS:7732-18-5
+RTECS #:ZC0110000
+
+Ingred Name:CERIUM OXIDE
+CAS:1306-38-3
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Explanation of Carcinogenicity:NONE
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON-FLAMMABLE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:INERT MATERIAL. NO SPECIAL PRECAUTIONS
+    REQUIRED. CLEAN-UP.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NO SPECIAL PRECAUTIONS REQUIRED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Eye Protection:SAFETY GLASSES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:212F
+Vapor Pres:AS WATER
+Vapor Density:AS WATER
+Spec Gravity:1.1
+Evaporation Rate & Reference:(WATER =1): 1
+Solubility in Water:COMPLETE
+Appearance and Odor:TAN CLOUDY LIQUID W/NO ODOR
+Percent Volatiles by Volume:80%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:NON-TOXIC. CAN BE DISPOSED OF IN ORDINARY TRASH
+    IN ACCORDANCE W/LOCAL, STATE & FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,122 @@
+=====================  Product Identification  =====================
+
+Product ID:12213-5 FC 113
+MSDS Date:02/15/1995
+FSC:6850
+NIIN:00F018501
+MSDS Number: BKYBV
+=== Responsible Party ===
+Company Name:PCR INC DBA SCM SPECIALTY CHEMICALS
+Address:AIRPORT INDUSTRIAL PARK
+Box:1466
+City:GAINESVILLE
+State:FL
+ZIP:32602-5000
+Country:US
+Info Phone Num:904-376-8246
+Emergency Phone Num:904-376-8246
+Preparer's Name:L TEMPLIN
+CAGE:52921
+=== Contractor Identification ===
+Company Name:PCR INC DBA SCM SPECIALTY CHEM SUB OC SCM CORP
+Address:AIRPORT INDUSTRIAL PARK
+Box:1466
+City:GAINESVILLE
+State:FL
+ZIP:32602
+Country:US
+Phone:904-376-8246
+CAGE:52921
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:FREON 113, 1,1,2,-TRICHLORO-1,2,2,-TRIFLUOROETHANE,
+    TRICHLOROTRIFLUROETHANE		*95-4*
+CAS:76-13-1
+RTECS #:KJ4000000
+Fraction by Wt: 100%
+Other REC Limits:1000 PPM
+OSHA PEL:1000 PPM
+ACGIH TLV:1000 PPM
+Ozone Depleting Chemical:1
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): 43 G/KG
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: MAY CAUSE IRRITATION. SKIN:
+    MODERATE IRRITATION, DERMATITIS FROM PROLONGED/REPEATED CONTACT.
+    INHALAITON: NASAL & RESPIRATORY IRRITANT. OVEREXPOSURE MAY CAUSE
+    EFFECTS SUCH AS LIVER ABNORMALITIES,  KIDNEY DAMAGE.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:IRRITATION, DEFATTING, DIZZINESS, WEAKNESS,
+    FATIGUE, NAUSEA, HEADACHE
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: DON'T GIVE STIMULANTS. REMOVE TO FRESH AIR. IF
+    BREATHING IS DIFFICULT, GIVE OXYGEN. SKIN: FLUSH W/WATER FOR 15
+    MINS. EYES: WASH W/SOAP. FLUSH W/WATER FOR 15 MINS. OBTAIN MEDICAL
+    ATTENTION  IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON-FLAMMABLE
+Fire Fighting Procedures:USE A SELF CONTAINED BREATHING APPARATUS &
+    FULL PROTECTIVE CLOTHING WHEN FIGHTING FIRES.
+Unusual Fire/Explosion Hazard:TOXIC FUMES/MISTS MAY BE PRODUCED ON
+    THERMAL DECOMPOSITION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE AREA. WEAR PROTECTIVE GEAR. SOAK UP
+    W/ABSORBANT MATERIAL & PLACE IN A CONTAINER FOR DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY AREA. KEEP
+    CONTAINER CLOSED TIGHTLY WHEN NOT IN USE.
+Other Precautions:AVOID SKIN CONTACT. AVOID BREATHING VAPORS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR SELF-CONTAINED BREATHING APPARATUS IF TLV
+    IS EXCEEDED.
+Ventilation:LOCAL EXHAUST, MECHANICAL (GENERAL).
+Protective Gloves:RUBBER/NEOPRENE
+Eye Protection:SAFETY GLASSES, CHEMICAL SPLASH GOGGLES
+Other Protective Equipment:AS REQUIRED
+Work Hygienic Practices:MONITOR EMPLOYEE EXPOSURES TO THIS MATERIAL.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:117F
+Vapor Pres:334
+Vapor Density:2.9
+Spec Gravity:1.57
+Evaporation Rate & Reference:(BU AC = 1): 35
+Solubility in Water:INSOLUBLE
+Appearance and Odor:CLEAR LIQUID
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ALKALI METALS, POWDERED METALS
+Hazardous Decomposition Products:CO2, CO, HYDROGEN CHLORIDE, HYDROGEN
+    FLUORIDE, PHOSGENE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE/DISPOSE OF IN ACCORDANCE W/LOCAL,
+    STATE & FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

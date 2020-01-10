@@ -1,0 +1,141 @@
+=====================  Product Identification  =====================
+
+Product ID:AUTOMATIC MACHINE DISINFECTING SOLUTION (SU
+MSDS Date:02/01/1988
+FSC:6840
+NIIN:01-112-3474
+MSDS Number: BLMWD
+=== Responsible Party ===
+Company Name:SURGIKOS INC
+Box:130
+City:ARLINGTON
+State:TX
+ZIP:76010
+Country:US
+Info Phone Num:817-467-0211
+Emergency Phone Num:800-433-5170
+CAGE:52780
+=== Contractor Identification ===
+Company Name:JOHNSON & JOHNSON MEDICAL INC. (SUB OF JOHNSON & JOHNSON)
+Address:2500 ARBROOK BOULEVARD
+Box:City:ARLINGTON
+State:TX
+ZIP:76014
+Country:US
+Phone:800-433-5170
+CAGE:52780
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:GLUTARALDEHYDE
+CAS:111-30-8
+RTECS #:MA2450000
+Fraction by Wt: 12%
+OSHA PEL:C 0.2 PPM
+ACGIH TLV:C 0.2 PPM; 9192
+
+Ingred Name:BUFFER SALTS; (INERT BUFFER SALTS)
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 88%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50:(ORAL,RAT) 500-5000 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE AND CHRONIC: NONE KNOWN FROM
+    AVAILABLE INFORMATION. SEE EFFECTS OF OVEREXPOSURE.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:EYES: CORROSIVE, CAUSES SEVERE INJURY. SKIN:
+    CAN CAUSE SKIN SENSITIZATION. AVOID SKIN CONTACT. INHAL: VAPORS MAY
+    BE IRRITATING AND CAUSE HEADACHE, CHEST DISCOMFORT, SYMPTOMS OF
+    BRONCHITIS. INGEST: MAY  CAUSE NAUSEA, VOMITING AND GENERAL
+    SYSTEMIC ILLNESS.
+Medical Cond Aggravated by Exposure:NONE KNOWN FROM CURRENTLY AVAILABLE
+    INFORMATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH THOROUGHLY WITH WATER FOR AT LEAST 15 MIN. GET
+    MEDICAL ATTENTION. SKIN: FLUSH THOROUGHLY WITH WATER. IF IRRITATION
+    PERSITS, GET MEDICAL ATTENTION. INHAL: REMOVE TO FRESH AIR. IF
+    SYMPTOMS P ERSITS, GET MEDICAL ATTENTION. INGEST: DO NOT INDUCE
+    VOMITING. DRINK COPIOUS AMOUNTS OF MILK. GET MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:IF H*2O IS EVAPORATED, MATL CAN BURN. SML FIRES:
+    CO*2/DRY CHEM. LRG FIRES: FOAM (ALCOHOL, POLYMER/ORDINARY) OR H*2O
+    FOG.
+Fire Fighting Procedures:NIOSH/MSHA APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT  SHOULD BE AVAILABLE TO FIREMEN.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FOR LARGE SPILLS, USE AMMONIUM CARBONATE TO
+    "NEUTRALIZE" GLUTARALDEHYDE ODOR. COLLECT LIQUID & DISCARD IT. FOR
+    SMALL SPILLS, WIPE WITH SPONGE OR MOP DOWN AREA WITH AN EQUAL
+    MIXTURE OF HOUSEHOLD AMMONI A & WATER. FLUSH WITH LARGE
+    QUANTITIEESOF H*2O.
+Neutralizing Agent:AMMONIUM CARBONATE FOR ODOR.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:USE NORMAL STORAGE AND HANDLING
+    REQUIREMENTS.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED. EMERGENCY: NIOSH/MSHA APPROVED
+    ORGANIC VAPOR CARTRIDGE, CANISTER MASK.
+Ventilation:PROD SHOULD BE USED IN A COVERED CNTNR. USE W/STANDARD ROOM
+    VENT (AIR CNDTN); NATURAL DRAFT. EMERGENCY: ENHANCED VENT.
+Protective Gloves:IMPERVIOUS GLOVES.
+Eye Protection:CHEM WORK GOG & FULL LENGTH FSHLD.
+Other Protective Equipment:EMERGENCY: PROTECTIVE CLOTHING AND RUBBER
+    BOOTS. EMERGENCY EYE WASH AND DELUGE SHOWER .
+Work Hygienic Practices:AVOID CONTAMINATION OF FOOD.
+Supplemental Safety and Health
+MFR TRADE NAME/PART NO: CONENTRATE/ACTIVATOR VIAL, 2705.  APPEARANCE
+    AND ODOR: SHARP ODOR MASKED WITH LAVENDER FRAGRANCE.
+
+==================  Physical/Chemical Properties  ==================
+
+Vapor Pres:AS WATER
+Vapor Density:AS WATER
+Spec Gravity:1.03 G/CC
+pH:8
+Evaporation Rate & Reference:0.98 (H*2O=1)
+Solubility in Water:COMPLETE
+Appearance and Odor:2 COMPONENTS:COLORLESS FLUID & LIQ SALTS;TURNS
+    YELLOW WHEN ACTIVATED.(SUPP DATA
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:NONE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:TRIPLE RINSE EMPTY CONTAINER WITH WATER AND
+    DISPOSE IN AN INCINERATOR OR LANDIFLL APPROVED FOR PESTICIDE
+    CONTAINERS. DISCARD SOLUTION WITH LARGE QUANTITIES OF WATER.
+    DISPOSAL MUST BE IN ACCORDANCE WIT H FEDERAL, STATE AND LOCAL
+    REGULATIONS .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

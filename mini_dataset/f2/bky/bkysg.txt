@@ -1,0 +1,160 @@
+=====================  Product Identification  =====================
+
+Product ID:0870B121 PRO-SEAL 870 B-2 BASE COMPOUND
+MSDS Date:05/04/1994
+FSC:8030
+NIIN:01-124-7622
+Kit Part:Y
+MSDS Number: BKYSG
+=== Responsible Party ===
+Company Name:COURTAULDS AEROSPACE INC
+Address:5430 SAN FERNANDO RD
+Box:1800
+City:GLENDALE
+State:CA
+ZIP:91209-5000
+Country:US
+Info Phone Num:818-240-2060/800-228-6636
+Emergency Phone Num:800-228-6636/818-240-2060
+Preparer's Name:JCS
+CAGE:83574
+=== Contractor Identification ===
+Company Name:PRC-DESOTO INTERNATIONAL, INC. A PPG INDUSTRIES COMPANY
+Address:5430 SAN FERNANDO RD
+Box:1800
+City:GLENDALE
+State:CA
+ZIP:91209
+Country:US
+Phone:818-240-2060
+CAGE:83574
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL ETHYL KETONE, 2-BUTANONE   *96-4*
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: <5%
+Other REC Limits:590 MG/CUM
+OSHA PEL:200 PPM
+ACGIH TLV:200 PPM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:TITANIUM DIOXIDE, TITANIUM OXIDE  (SUSPECTED ANIMAL
+    CARCINOGEN, IARC GROUP 3)	*96-4*
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 5%
+OSHA PEL:10 MG/CUM
+ACGIH TLV:10 MG/CUM (DUST)
+
+Ingred Name:CALCIUM CARBONATE, DOMOLITE, LIMESTONE, WHITING  *96-4*
+CAS:1317-65-3
+RTECS #:EV9580000
+Fraction by Wt: 10%
+OSHA PEL:15 MG/CUM
+ACGIH TLV:10 MG/CUM (DUST)
+
+Ingred Name:TOLUENE (IARC CARC- GROUP 3)     *96-4*
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: <5%
+Other REC Limits:375 MG/CUM
+OSHA PEL:100 PPM
+ACGIH TLV:50 PPM
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:THIOL TERMINATED POLYETHER, POLYDITHIOETER (OR LIQ.
+    POLYSULFIDE POLYMER)    *96-4*
+CAS:68611-50-7
+
+Ingred Name:PHENOLIC RESIN POWDER
+
+Ingred Name:CATALYST AMORPHOUS SILICA, DI-ME SILOXANES & SILICONES
+    *96-4*
+CAS:67762-90-7
+
+Ingred Name:VOLATILE ORGANIC CONTENT: 84 GM/L (COMBINED PART A & B)
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:PHENOLIC RESIN-EYES: IRRITATION. SKIN:
+    ALLERGIC RASH. INGESTION: GI IRRITATION. METHYL ETHYL KETONE-EYES:
+    TRANSIENT CORNEAL CLOUDING. INHALATION: THROAT IRRITATION,
+    ANESTHETIC, CNS EFFECTS, REVERSIBLE  LIVER DAMAGE. TOLUENE-SKIN:
+    DERMATITIS. INHALATION: LIVER & KIDNEY DAMAGE.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:PHENOLIC RESIN-IRRITATION, REDNESS, TEARING.
+    METHYL ETHYL KETONE-IRRITATION, BURNING, TEARING, REDDENING,
+    DRYING, CRACKING, COUGHING, CHEST PAINS, HEADACHES, DIZZINESS,
+    DROWSINESS, NAUSEA. TOLUENE-BUR NING, TEARING, REDDENING, DRYING,
+    CRACKING, DIZZINESS, DROWSINESS, FATIGUE, NAUSEA, (SEE SUPP)
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/LUKEWARM WATER FOR 15 MINS. SKIN: WASH W/SOAP &
+    WATER. INHALATION: REMOVE TO FRESH AIR. OBTAIN MEDICAL ATTENTION IN
+    ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:80F
+Lower Limits:1.3
+Extinguishing Media:CO2, DRY CHEMICAL, FOAM, WATER.
+Fire Fighting Procedures:USE AIR SUPPLIED RESPIRATOR. USE WATER TO COOL
+    HEAT EXPOSED CONTAINERS.
+Unusual Fire/Explosion Hazard:HIGH TEMPS MAY CAUSE PRESSURE BUILDUP IN
+    CLOSED CONTAINERS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE IGNITION SOURCES. SCOOP INTO
+    CONTAINERS. CLEAN-UP RESIDUE W/A SUITABLE SOLVENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER TIGHTLY CLOSED. DON'T
+    STORE >120F. GROUNDING & BONDING PROCEDURE SHOULD BE FOLLOWED WHEN
+    TRANSPORTING THIS MATERIAL.
+Other Precautions:AVOID INGESTION. EMPTY DRUMS MAY CONTAIN EXPLOSIVE
+    VAPORS. DON'T CUT, PUNCTURE/WELD ON/NEAR DRUM. VAPORS ARE >AIR &
+    MAY COLLECT IN LOW/CONFINED AREAS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR AN ORGANIC VAPOR CARTRIDGE/AIR-SUPPLIED
+    RESPIRATOR WHEN APPLYING IN ANY CIRCUMSTANCES LIKELY TO PRODUCE
+    AIRBORNE LEVEL OF HAZARDOUS INGEDIENTS >TLVS.
+Ventilation:GENERAL TO MAINTAIN VAPORS 1
+Spec Gravity:1.439
+Evaporation Rate & Reference:(N-BU AC =1): <1
+Appearance and Odor:BEIGE THIXOTROPIC PASTE.
+Percent Volatiles by Volume:11.5
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:HIGH TEMPS & IGNITION SOURCES.
+Hazardous Decomposition Products:OXIDES OF CARBON, SULFUR DIOXIDE,
+    TRACES OF HYDROGEN SULFIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IAW/FEDERAL, STATE & LOCAL
+    REGULATIONS. EPA HAZARDOUS WASTE NO.: D001 & D035.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,196 @@
+=====================  Product Identification  =====================
+
+Product ID:THINNER SYNTHETIC RESIN ENAMEL & PRIMER.
+MSDS Date:11/23/1987
+FSC:8010
+NIIN:00-935-9889
+MSDS Number: BJDTK
+=== Responsible Party ===
+Company Name:CSD INC.
+Address:5 HACKBURY ST
+Box:687
+City:CONROE
+State:TX
+ZIP:77305-0687
+Country:US
+Info Phone Num:409-756-1065
+Emergency Phone Num:409-756-1065
+CAGE:JO933
+=== Contractor Identification ===
+Company Name:CSD INC.
+Address:5 HACKBERRY LANE
+Box:687
+City:CONROE
+State:TX
+ZIP:77305
+Country:US
+Phone:409-756-1065
+CAGE:JO933
+Company Name:CSD INC. (PRE 1985 NAME: MATHEWS, INC)
+Address:420 SEABOARD DRIVE
+Box:City:MATTHEWS
+State:NC
+ZIP:28105-5073
+Country:US
+Phone:704-821-9822
+CAGE:5W216
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:VM & P NAPTHA
+CAS:8030-30-6
+RTECS #:DE3030000
+Fraction by Wt: 36-37%
+Other REC Limits:NONE SPECIFIED
+ACGIH TLV:300 PPM
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 11-12%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS)	(SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 7-8%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ISOBUTYL ACETATE  (SARA III)
+CAS:110-19-0
+RTECS #:AI4025000
+Fraction by Wt: 7-8%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:150 PPM
+ACGIH TLV:150 PPM; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:2-METHOXYETHYL ACETATE (EGMEA)
+CAS:110-49-6
+RTECS #:KL5950000
+Fraction by Wt: 5-10%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:S, 25 PPM
+ACGIH TLV:S, 5 PPM; 9192
+
+Ingred Name:ACETONE  (SARA III)
+CAS:67-64-1
+RTECS #:AL3150000
+Fraction by Wt: 5-27%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:1000PPM
+ACGIH TLV:750PPM/1000STEL;9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Health Hazards Acute and Chronic:EYE & SKIN IRRITANT; MAY RESULT IN
+    DERMATITIS. OTHER EFFECTS:RESPIRATORY TRACT IRRITATION, ANESTHESIA
+    FROM HIGH CONCENTRATE, NAUSEA, VOMITING, LIVER & KIDNEY DAMAGE,
+    ABSORPTION THROUGH SKIN, BIRTH & R EPRODUCTIVE SYS EFFECTS IN SOME
+    LAB ANIMALS & BRAIN CELL DAMAGE MAY RESULT FROM LONG TERM
+    INHALATION OF TOLUENE VAPOR.
+Effects of Overexposure:IRRITATION TO RESPIRATORY TRACT, EYES, SKIN;
+    NAUSEA, VOMITING, BREATHING DIFFICULTIES, DIZZINESS OR
+    LIGHTHEADINESS FROM BREATHING HIGH VAPOR CONCENTRATION.
+Medical Cond Aggravated by Exposure:DERMATITIS, RESPIRATORY TRACT
+    IRRITATION, LIVER & KIDNEY DAMAGE & BRAIN CELL DAMAGE. HAS SHOWN
+    BIRTH & REPRODUCTIVE SYSTEM EFFECTS IN SOME LAB ANIMALS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE CONTACT: FLUSH WITH LARGE AMOUNTS OF WATER FOR 15
+    MINUTES. SKIN CONTACT: WASH AREA WITH LARGE AMOUNTS OF WATER &
+    REMOVE CONTAMINATED CLOTHING. INHALATION: REMOVE TO FRESH AIR. IF
+    BREATHING STOPS,  GIVE CPR. INGESTION: CONTACT POISON CONTROL
+    CENTER IMMEDIATELY REGARDING VOMITING.  GET MEDICAL ATTENTION
+    IMMEDIATELY FOR ANY OF THESE CONDITIONS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:32 F/0 C
+Extinguishing Media:USE CARBON DIOXIDE, FOAM, OR DRY CHEMICAL FIRE
+    FIGHTING APPARTUS.
+Fire Fighting Procedures:KEEP WORK AREAS CLEAR OF HOT METAL SURFACES &
+    OTHER SOURCES OF IGNITION.
+Unusual Fire/Explosion Hazard:USE SELF CONTAINED BREATHING APPARATUS. 
+    WATER MAY BE UNSUITABLE AS EXTINGUISHING MEDIA BUT HELPFUL TO KEEP
+    ADJACENT CONTAINERS COOL. AVOID SPREADING FIRE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:KEEP SPILL AWAY FROM IGNITE SOURCES & HOT
+    METAL SURFACES. FLUSH SPILLED MATERIAL INTO RETAINING AREAS OR
+    CONTAINERS WITH LARGE AMOUNTS OF WATER. SMALL AMOUNTS OF SPILLED
+    MATERIAL MAY BE ABSORBED INTO  AN APPROPRIATE ABSORBANT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP PRODUCT CONTAINERS COOL, DRY &
+    AWAY FROM IGNITE SOURCES. USE & STORE WITH ADEQUATE VENTILATION.
+    KEEP CONTAINERS CLOSED WHEN NOT IN USE.
+Other Precautions:PERSONNEL SHOULD AVOID INHALATION OF VAPORS. 
+    PERSONNEL CONTACT WITH PRODUCT SHOULD BE AVOIDED.  SHOULD CONTACT
+    BE MADE, REMOVE SATURATED CLOTHING AND FLUSH AFFECTED AREAS WITH
+    WATER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE OF RESPIRATORY PROTECTION DEPENDS ON VAPOR
+    CONCENTRATION ABOVE THE TIME-WEIGHTED TLV; USE A NIOSH APPROVED
+    CARTRIDGE RESPIRATOR OR GAS MASK.
+Ventilation:MECHANICAL OR LOCAL EXHAUST VENTILATION TO REDUCE TLV TO
+    APPROVED LEVEL.
+Protective Gloves:IMPERMEABLE GLOVES.
+Eye Protection:SAFETY GLASSES,CHEM GOGGLES & FACESHIELD
+Other Protective Equipment:RESPIRATORY MASKS OR ENVIRONMENTAL
+    CONTAINMENT DEVICE MAY BE REQUIRED IN EXTREME CASES.
+Work Hygienic Practices:USE OF IMPERMEABLE APRONS, EYE WASHES & SAFETY
+    SHOWERS RECOMMENDED WHEN WORKING WITH THIS PRODUCT.
+Supplemental Safety and Health
+THIS PRODUCT CONTAINS HAZARDOUS INGREDIENTS.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:133 TO 378F
+Vapor Density:> THAN AIR
+Spec Gravity:.8
+Evaporation Rate & Reference:SLOWER THAN ETHER.
+Solubility in Water:25%
+Appearance and Odor:CLEAR & FREE FROM SUSPENDED MATTER.
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID STRONG OXIDIZING AGENTS, ACIDS, BASES, SELECTED AMINES, HALOGNES,
+    HALOGEN CONTAINING COMPOUNDS & STRONG ALKALIES.
+Hazardous Decomposition Products:THERMAL DECOMPOSITION IN THE PRESENCE
+    OF AIR MAY YIELD MONOXIDE AND/OR CARBON DIOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W APPLICABLE LOCAL, COUNTY, STATE &
+    FEDERAL REGULATIONS. PREVENT SPILLED LIQUID FROM ENTERING SEWERS,
+    STORM DRAINS, OTHER UNAUTHORIZED SEWAGE TREATMENT/DRAINAGE SYSTEMS
+    & WATERWAYS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,185 @@
+=====================  Product Identification  =====================
+
+Product ID:OM-0017-2690 EVINRUDE BLUE
+MSDS Date:10/03/1986
+FSC:8010
+NIIN:00F019129
+MSDS Number: BLPLW
+=== Responsible Party ===
+Company Name:SEYMOUR OF SYCAMORE INC
+Address:917 CROSBY AVE
+City:SYCAMORE
+State:IL
+ZIP:60178-1343
+Info Phone Num:(815) 895-9101
+Emergency Phone Num:(815) 895-9101
+CAGE:59581
+=== Contractor Identification ===
+Company Name:SEYMOUR OF SYCAMORE
+Address:917 CROSBY AVE.
+Box:City:SYCAMORE
+State:IL
+ZIP:60178-1343
+Country:US
+Phone:815-895-9101/800-255-3924
+CAGE:59581
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYLENE CHLORIDE	(SARA III)
+CAS:75-09-2
+RTECS #:PA8050000
+Fraction by Wt: 18.63%
+OSHA PEL:500 PPM/C,1000; Z2
+ACGIH TLV:50 PPM, A2; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 24.10%
+Other REC Limits:100 PPM
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ACETONE  (SARA III)
+CAS:67-64-1
+RTECS #:AL3150000
+Fraction by Wt: 12.28%
+Other REC Limits:590 MG/CUM
+OSHA PEL:1000PPM
+ACGIH TLV:750PPM/1000STEL;9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:MINERAL SPIRITS
+CAS:64742-86-7
+Fraction by Wt: 1.10%
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS)	(SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 0.10%
+Other REC Limits:100 PPM
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:2-BUTOXYETHANOL
+CAS:111-76-2
+RTECS #:KJ8575000
+Fraction by Wt: 1.19%
+Other REC Limits:25 PPM (SKIN)
+OSHA PEL:S, 50 PPM
+ACGIH TLV:S, 25 PPM; 9293
+
+Ingred Name:SC-150 SOLVENT
+Fraction by Wt: 0.12%
+ACGIH TLV:100 PPM
+
+Ingred Name:PROPANE
+CAS:74-98-6
+RTECS #:TX2275000
+Fraction by Wt: 18%
+Other REC Limits:1800 MG/CUM
+OSHA PEL:1000 PPM
+ACGIH TLV:ASPHYXIANT; 9192
+
+Ingred Name:ISOBUTANE, 2-METHYLPROPANE
+CAS:75-28-5
+RTECS #:TZ4300000
+Fraction by Wt: 12%
+Other REC Limits:1000 PPM
+OSHA PEL:1800 MG/CUM
+ACGIH TLV:1000 PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:NO	 OSHA:NO
+Health Hazards Acute and Chronic:INHALATION:
+    HEADACHE/DIZZINESS/NAUSEA/MUSCULAR INCOORDINATION/RESPIRATORY TRACT
+    & MUCOUS MEMBRANE IRRITATION/VOMITING/STUPOR/VISUAL
+    DISTURBANCES/COUGH/APPETITE LOSS. SKIN:
+    ABSORPTION/IRRITATION/BURNIN G/DEFATTING. EYES:
+    IRRITATION/PAIN/INFLAMMATION/REDNESS. INGESTION: GASTROINTESTINAL
+    TRACT IRRITATION/UNCONSCIOUSNESS.
+Explanation of Carcinogenicity:METHYLENE CHLORIDE IS SUSPECTED HUMAN
+    CARCINOGEN BY ACGIH.
+Effects of Overexposure:INHALATION: LIVER & KIDNEY EFFECTS/CENTRAL
+    NERVOUS SYSTEM DEPRESSION/BRAIN CELL
+    DAMAGE/HARMFUL/UNCONSCIOUSNESS/ASPHYXIATION/DEATH. SKIN:
+    DERMATITIS/DEFATTING/ABSORPTION/HARMFUL. EYES: TEARING/BLURRED 
+    VISION/HARMFUL. INGESTION: LIQUID ASPIRATION INTO LUNGS CAN CAUSE
+    CHEMICAL PNEUMONITIS/PULMONARY EDEMA/HEMORRHAGE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER FOR 15 MINS. SKIN: WASH W/SOAP & WATER.
+    APPLY SOOTHING OINTMENT AFTER CLEANSING. INHALATION: REMOVE TO
+    FRESH AIR, GIVE OXYGEN. IF BREATHING STOPS, GIVE CPR. INGESTION:
+    DON'T INDUCE  VOMITING. IF VOMITING OCCURS SPONTANEOUSLY, KEEP HEAD
+    BELOW HIPS TO PREVENT ASPIRATION OF LIQUID INTO LUNGS. NEVER GIVE
+    ANYTHING BY MOUTH IF UNCONSCIOUS. OBTAIN MEDICAL ATTENTION IN ALL
+    CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TOC
+Flash Point:10F
+Extinguishing Media:CO2, DRY CHEMICAL OR FOAM
+Fire Fighting Procedures:WATER SPRAY MAY BE INEFFECTIVE. IF WATER IS
+    USED, FOG NOZZLES ARE PREFERABLE. FULL PROTECTIVE CLOTHING & SELF
+    CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:EXPOSURE TO HEAT MAY CAUSE BURSTING OF
+    AEROSOL CAN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. VENTILATE
+    AREA. WIPE UP W/INERT MATERIALS & PLACE IN APPROPRIATE CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T STORE >120F. USE ONLY AS
+    DIRECTED.
+Other Precautions:AVOID CONTINUOUS BREATHING OF VAPORS & SPRAY MISTS.
+    INTENTIONAL MISUSE BY DELIBERATELY CONCENTRATING VAPORS & INHALING
+    CONTENTS CAN BE HARMFUL OR FATAL.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE A SELF-CONTAINED BREATHING APPARATUS IF
+    >TLV.
+Ventilation:ADEQUATE TO KEEP AIR
+Evaporation Rate & Reference:FASTER THAN ETHER
+Percent Volatiles by Volume:85%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:TEMPERATURES >120F, SPARKS, PILOT LIGHTS,
+    OPEN FLAME OR OTHER SOURCES OF IGNITION
+Hazardous Decomposition Products:FUMES, CO2, CO, HYDROGEN CHLORIDE
+    VAPOR, & TRACES OF PHOSGENE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DON'T INCINERATE AEROSOL. DON'T PUNCTURE.
+    DISPOSE OF IN ACCORDANCE W/FEDERAL, STATE, & LOCAL REGULATIONS.
+    DON'T PLACE AEROSOL CANS IN HOME COMPACTOR.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

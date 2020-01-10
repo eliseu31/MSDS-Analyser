@@ -1,0 +1,135 @@
+=====================  Product Identification  =====================
+
+Product ID:G-60/MS
+MSDS Date:05/26/1992
+FSC:9150
+NIIN:00N057780
+MSDS Number: BWRVJ
+=== Responsible Party ===
+Company Name:NONFLUID OIL CORP
+Address:298 DELANCY ST
+City:NEWARK
+State:NJ
+ZIP:07105
+Country:US
+Info Phone Num:201-344-3451
+Emergency Phone Num:201-344-3451
+CAGE:76736
+=== Contractor Identification ===
+Company Name:NONFLUID OIL CORP/NFO TECHNOLOGIES, INC
+Address:298 DELANCY ST
+City:NEWARK
+State:NJ
+ZIP:07105-3009
+Country:US
+Phone:201-344-3451/800-424-9300(CHEMTREC)
+CAGE:76736
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MINERAL OIL, PETROLEUM DISTILLATES, HYDROTREATED (SEVERE),
+    HEAVY NAPHTHENIC
+CAS:64742-52-5
+RTECS #:PY8035001
+OSHA PEL:5 MG/M3 (MFR)
+ACGIH TLV:10 MG/M3 (MFR)
+
+Ingred Name:SOLVENT DEWAXED RESIDUAL OIL (PETROLEUM)
+CAS:64742-62-7
+OSHA PEL:5 MG/M3 (MFR)
+ACGIH TLV:10 MG/M3 (MFR)
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:PROLONGED OR REPEATED SKIN CONTACT
+    TENDS TO REMOVE SKIN OILS & MAY CAUSE SKIN IRRITATION. EXPOSURE TO
+    FUMES OR MISTS MAY CAUSE MUCOUS MEMBRANE IRRITATION.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:MILD IRRITATION OF SKIN & MUCOUS MEMBRANES.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:WIPE OFF & WASH W/SOAP & WATER. EYE:FLUSH W/COPIOUS
+    AMOUNTS OF WATER FOR AT LEAST 15 MINUTES & SEE MD. INHAL:REMOVE
+    FROM EXPOSURE TO FRESH AIR. INGEST:ADMINISTER WATER & SEEK MEDICAL
+    AID. DO NOT  INDUCE VOMITING.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:500F,260C
+Lower Limits:1%
+Upper Limits:6%
+Extinguishing Media:CO*2, DRY CHEMICAL, FOAM & WATER FOG (CAREFULLY TO
+    PREVENT FROTHING).
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:STOP FLOW. ELIMINATE IGNITION SOURCE. RECOVER
+    FREE PRODUCT. ADD ABSORBENT MATERIAL SUCH AS CLAY TO SPILL AREA.
+    SWEEP OR SCRAPE UP.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINERS CLOSED. HANDLE & STORE
+    USING METHODS GENERALLY ADVOCATED FOR PETROLEUM PRODUCTS. DO NOT
+    STORE OR MIX W/OXIDIZING MATERIALS.
+Other Precautions:AVOID EXCESSIVE HEAT OR FLAMES. AVOID REPEATED
+    CONTACT W/SKIN. AVOID CONTACT W/EYES & INHALATION OF FUMES, VAPORS
+    OR MISTS. DO NOT INGEST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NORMALLY REQUIRED. NIOSH/MSHA APPROVED
+    RESPIRATOR RECOMMENDED IF FUMING OR MISTING.
+Ventilation:LOCAL EXHAUST:RECOMMENDED TO CAPTURE HOT FUMES. MECHANICAL
+    (GENERAL): RECOMMENDED IF FUMING OR MISTING.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGGS .
+Other Protective Equipment:EYE WASH FOUNTAIN & DELUGE SHOWER WHICH MEET
+    ANSI DESIGN CRITERIA . OTHER PROT CLTHG/EQUIP NORMALLY NOT REQD.
+Work Hygienic Practices:WASH THORO AFTER HNDLG. WASH HANDS BEFORE
+    EATING OR DRINKING. DO NOT WEAR CONTAM CLTHG. REMOVE & LAUNDER
+    BEFORE RE-USE.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:600F,316C
+Melt/Freeze Pt:M.P/F.P Text:390F,199C
+Vapor Pres:<0.01@ 25C
+Vapor Density:>10
+Spec Gravity:0.9
+Evaporation Rate & Reference:<0.01 (BUTYL ACETATE=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:BLACK LUBRIATING GREASE; SLIGHT PETROLEUM ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTACT W/STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:EXCESSIVE HEAT & OPEN FLAMES.
+Hazardous Decomposition Products:OXIDES OF CARBON MAY FORM ON
+    INCOMPLETE COMBUSTION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF AS LOCAL, STATE & FEDERAL LAWS PERMIT
+    FOR PETROLEUM HYDROCARBONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,98 @@
+=====================  Product Identification  =====================
+
+Product ID:DURATEK HAND DEVELOPER
+MSDS Date:05/04/1988
+FSC:6850
+NIIN:00F019177
+MSDS Number: BLPPF
+=== Responsible Party ===
+Company Name:WESTERN LITHO PLATE & SUPPLY CO
+Address:343 TREE COURT INDUSTRIAL BLVD
+City:ST LOUIS
+State:MO
+ZIP:63122-6617
+Info Phone Num:(314) 225-5031
+Emergency Phone Num:(314) 225-2212
+Preparer's Name:HENRY DEMPSEY
+CAGE:34831
+=== Contractor Identification ===
+Company Name:WESTERN LITHO PLATE AND SUPPLY CO
+Address:3433 TREE COURT INDUSTRIAL BLVD
+Box:City:ST LOUIS
+State:MO
+ZIP:63122-6617
+Country:US
+CAGE:34831
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BENZYL ALCOHOL
+CAS:100-51-6
+RTECS #:DN3150000
+Fraction by Wt: 11%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES/SKIN: IRRITATION. INHALATION:
+    NOSE/THROAT IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES/SKIN: IRRITATION. INHALATION: NOSE/THROAT
+    IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: WASH W/WATER FOR AT LEAST 15 MINS. SKIN: WASH W/SOAP &
+    WATER. INHALATION: REMOVE TO FRESH AIR. INGESTION: OBTAIN MEDICAL
+    ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:203F
+Extinguishing Media:CO2, DRY CHEMICAL, FOAM
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SMALL SPILLS SHOULD FLUSHED W/LARGE QUANTITIES
+    OF WATER. LARGE SPILLS SHOULD BE MOPPED UP/DISPOSED IN DOT APPROVED
+    WASTE CONTAINERS THAT COMPLY W/ALL APPLICABLE FEDERAL, STATE &
+    LOCAL REGULATIONS IN D ISPOSAL OF WASTES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:REQUIRED
+Protective Gloves:RUBBER
+Eye Protection:GOGGLES OR GLASSES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:212F
+Spec Gravity:1.083
+Evaporation Rate & Reference:(BU AC = 1): <1
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR LIQUID
+Percent Volatiles by Volume:>85%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:OPEN FLAME & ELECTRICAL SPARKS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF CONTAMINATED OR WASTE PRODUCT IN A
+    MANNER APPROVED FOR THE MATERIAL. CONSULT APPROPRIATE FEDERAL,
+    STATE & LOCAL REGULATIONS AGENCIES TO ASCERTAIN PROPER DISPOSAL
+    PROCEDURES.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

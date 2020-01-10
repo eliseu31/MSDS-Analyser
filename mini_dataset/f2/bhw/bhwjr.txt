@@ -1,0 +1,143 @@
+=====================  Product Identification  =====================
+
+Product ID:ENAMEL ALKYD SEMI-GLOSS 25193 BLUE
+MSDS Date:09/22/1986
+FSC:8010
+NIIN:00-995-6963
+MSDS Number: BHWJR
+=== Responsible Party ===
+Company Name:CON-LUX COATINGS, INC.
+Address:226 TALMADGE ROAD
+Box:847
+City:EDISON
+State:NJ
+ZIP:08818-0847
+Country:US
+Info Phone Num:(206) 287-4000
+Emergency Phone Num:(206) 287-4000
+CAGE:60189
+=== Contractor Identification ===
+Company Name:CON-LUX COATINGS INC
+Address:226 TALMADGE RD
+Box:847
+City:EDISON
+State:NJ
+ZIP:08818-0847
+Country:US
+Phone:732-287-4000
+CAGE:60189
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MINERAL SPIRITS					       
+    (VAPOR PRESSURE 2 MM HG @ 20C)
+CAS:64742-47-8
+Fraction by Wt: 29.63%
+Other REC Limits:(LEL 1.0)
+OSHA PEL:100 PPM
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:2-ETHOXYETHANOL (EGEE)  (SARA III)
+CAS:110-80-5
+RTECS #:KK8050000
+Fraction by Wt: 4.32%
+Other REC Limits:(LEL 1.7)
+OSHA PEL:S,200 PPM
+ACGIH TLV:S, 5 PPM; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Effects of Overexposure:EYES: MAY CAUSE IRRITATION  SKIN: MAY CAUSE
+    IRRITATION	INHALATION: MAY IRRITATERESPIRATORY TRACT CAUSING
+    HEADACHE, NAUSEA AND DIZZINESS. INGESTION: NK
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH IMMEDIATELY W/WATER SKIN: WASH AFFECTED AREAS
+    WITH SOAP/WATER REMOVECONTAMINATAED CLOTHING, CONSULT PHYSICIAN IF
+    IRRITATION PERSISTS. INHALATION:   MOVE TO FRESH AIR, TREAT
+    SYMPTOMATICALLY . INGESTION: DRINK 1-2 GLASSES OF WATERDO NOT
+    INDUCE VOMITING. IF VOMITING OCCURS KEEP HEAD AT OR BELOW KNEE
+    LEVEL CON SULT PHYSICIAN OR POISON CONTROL CENTER IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:105F/40.56CD
+Extinguishing Media:FOAM, CO2, DRY, CHEMICAL, WATER MIST
+Fire Fighting Procedures:WATER MAY BE USED TO COOL DOWN UNOPENED
+    CONTAINERS IN VICINITY.
+Unusual Fire/Explosion Hazard:CONTAINS FLAMMABLE SOLVENT. DO NOT USE IN
+    AREAS WHERE SPARKS OR OPEN FLAMES ARE PRESENT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATAE ALL IGNITION SOURCES. WEAR
+    APPROPRIATE  PERSONAL PROTECTION EQUIPMENT AND APPROVED RESPIRATOR.
+    CONTAIN SPILL W/ABSORBENT MATL PUT INTO VAP OR TIGHT CONTAINER.
+    PREVENT MATL CONTACTING ANY WA TER SOURCES OR SEWERS LEADIN TO
+    SURFACEWATERS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN AREAS DESIGNED TO COMPLY WITH
+    ANSI/NFPA  30 FLAMMABLE AND COMBUSTIBLE LIQUIDS CODE.
+Other Precautions:GROUND CONTAINERS WHEN POURING LIQ/POWDERS.
+    READ/UNDERSTAND MANUFACTURERS SAFETYPRECAUTIONS BEFORE HANDLING.
+    PROVIDE ADEQUATE VENTILATION/RESPIRATORY PROTECTIONTO REMOVE
+    DECOMPOSITION PROD. DURING WEL DING, FLAME CUTTING, OR COATING
+    SURFACES
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IN OUTDOOR OR OPEN AREAS, USE APPROVED
+    RESPIRATOR TO REMOVE SOLID AIRBORNE PAR- TICLES OF OVER SPRAY
+    APPLICATION. IN RESTRICTED VENTILATION AREAS USE APPROVED 
+    RESPISRATOR DESIGN TO REMOVE A COMBINATI ON OF PARTICLES AND VAPOR.
+Ventilation:SUFFICIENT IN VOLUME, PATTERN TO KEEP AIR CONTAMINANT
+    CONCENTRATIONS BELOW CURRENT APPLIC. OSHA PERMISSIBLE EXPO. UNITS.
+Protective Gloves:LONG/REPEATED EXPOSURE: IMPERVIOUS TYPE
+Eye Protection:SAFETY EYEWEAR
+Other Protective Equipment:PREVENT PROLONGED SKIN CONTACT WITH
+    CONTAMINATED CLOTHING.
+Work Hygienic Practices:WASH HAND BEFORE EATING, SMOKING OR USING
+    WASHROOM FACILI-  TIES
+Supplemental Safety and Health
+NK
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:0-323F
+Vapor Density:>AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:56.99%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING AGENTS
+Stability Condition to Avoid:EXTREME HEAT, SPARKS OR OPEN FLAMES.
+Hazardous Decomposition Products:MAY PRODUCE HAZARDOUS FUMES WHEN
+    HEATED
+Conditions to Avoid Polymerization:EXTREME HEAT, SPARKS OR OPEN FLAMES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH FEDERAL, STATE AND
+     LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

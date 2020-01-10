@@ -1,0 +1,131 @@
+=====================  Product Identification  =====================
+
+Product ID:EA 9814 NA 50 MIL
+MSDS Date:06/10/1988
+FSC:8040
+NIIN:01-280-4793
+MSDS Number: BKYXV
+=== Responsible Party ===
+Company Name:DEXTER CORP/HYSOL DIVISION
+Address:2850 WILLOW PASS ROAD
+Box:312
+City:PITTSBURG
+State:CA
+ZIP:94565-0312
+Info Phone Num:(415) 687-4201
+Emergency Phone Num:(415) 687-4201
+Preparer's Name:SUZANNE FRANZ
+CAGE:1JB33
+=== Contractor Identification ===
+Company Name:DEXTER CORP THE HYSOL DIV
+Address:1 DEXTER DR
+Box:City:SEABROOK
+State:NH
+ZIP:03874
+Country:US
+Phone:603-474-5541/FAX: 603-474-5545
+CAGE:1JB33
+Company Name:DEXTER CORPORATION ADHESIVE & COATING SYSTEMS
+Address:2850 WILLOW PASS ROAD
+Box:312
+City:BAY POINT
+State:CA
+ZIP:94565-3299
+Country:US
+Phone:202-483-7616
+CAGE:33564
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:EPOXY RESIN SYSTEM
+
+Ingred Name:SILICON DIOXIDE
+CAS:7631-86-9
+RTECS #:VV3100000
+Fraction by Wt: <30%
+OSHA PEL:80 MG/CUM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN: IRRITATION, ALLERGIC REACTIONS,
+    RASH, SENSITIZATION, & DERMATITIS. EYES/INHALATION/INGESTION:
+    IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN: IRRITATION, ALLERGIC REACTIONS, RASH,
+    SENSITIZATION, & DERMATITIS. EYES/INHALATION/INGESTION: IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER. SKIN: WASH THOROUGHLY W/SOAP &
+    WATER, HAND CLEANERS. DON'T USE SOLVENTS. INHALATION: REMOVE TO
+    FRESH AIR. INGESTION: OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TOC
+Flash Point:>300F
+Extinguishing Media:DRY CHEMICAL, HALON FIRE EXTINGUISHER, WATER SPRAY,
+    FOAM, OR FOG.
+Fire Fighting Procedures:USE SELF-CONTAINED BREATHING APPARATUS IN
+    CONFINED AREAS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE EQUIPMENT. SCRAPE UP &
+    TRANSFER TO METAL CONTAINER. WIPE UP REMAINING RESIDUE W/SOLVENTS,
+    OBSERVING SOLVENT FLAMMABILITY CAUTIONS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP COOL IN ACCORDANCE W/LABEL
+    INSTRUCTIONS. SHELF LIFE 12 MONTHS AT 0 F. FOLLOW RECOMMENDED
+    CURING SCHEDULE.
+Other Precautions:AVOID CONTACT W/SKIN, EYES & CLOTHING.
+    READ/UNDERSTAND ALL SAFETY PRECAUTIONS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NEEDED W/GOOD INDUSTRIAL VENTILATION.
+Ventilation:LOCAL EXHAUST: RECOMMENDED
+Protective Gloves:IMPERVIOUS PLASTIC, RUBBER
+Eye Protection:SAFETY GLASSES, GOGGLES
+Other Protective Equipment:PROTECTIVE CLOTHING
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE. WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:DECOMPOSES
+Vapor Pres:<0.01
+Vapor Density:0
+Spec Gravity:>1
+Solubility in Water:INSOLUBLE
+Appearance and Odor:BLUE; SEMI-SOLID FILM
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, LEWIS OR MINERAL ACIDS.
+Hazardous Decomposition Products:CO, NITROGEN OXIDES, ACIDS,
+    UNDETERMINED ORGANICS, DENSE SMOKE, & TOXIC GASES.
+Conditions to Avoid Polymerization:HEAT UNLESS CURING SURFACES TO BE
+    BONDED. FAILURE OF CAUTION MAY RESULT IN EXCESSIVE HEAT BUILD-UP
+    W/TOXIC GASES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF AS HAZARDOUS WASTE ACCORDING TO DOT
+    HAZARD CLASS. IF NOT REGULATED BY DOT, DISPOSE OF AS ORM-E IN
+    ACCORDANCE W/LOCAL, STATE, & FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

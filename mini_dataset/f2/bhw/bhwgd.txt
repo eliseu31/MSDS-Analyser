@@ -1,0 +1,120 @@
+=====================  Product Identification  =====================
+
+Product ID:340 HEAT SINK
+MSDS Date:12/10/1985
+FSC:8030
+NIIN:01-128-5630
+MSDS Number: BHWGD
+=== Responsible Party ===
+Company Name:ACCUMERIC INC
+Address:340 S MULBERRY
+City:ELIZABETHTOWN
+State:KY
+ZIP:42701
+Country:US
+Info Phone Num:502-769-3385
+Emergency Phone Num:502-769-3385
+Preparer's Name:DEBBIE DUNN
+CAGE:58149
+=== Contractor Identification ===
+Company Name:ACCUMETRIC INC
+Address:350 RING RD
+Box:843
+City:ELIZABETHTOWN
+State:KY
+ZIP:42701
+Country:US
+Phone:502-769-3385
+CAGE:58149
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NON-HAZARDOUS INGREDIENTS
+Other REC Limits:N/K 
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:N/K 
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SEE SIGNS AND SYMPTOMS OF
+    OVEREXPOSURE.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES:MAY CAUSE TEMPORARY
+    DISCOMFORT.SKIN:SEVERAL REPEATED,PROLONGED EXPOSURES MAY CAUSE
+    DEVELOPMENT OF SOME SLIGHT IRRITATION.INGESTION/INHALATION:N/K .
+Medical Cond Aggravated by Exposure:N/K 
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH WITH WATER.SKIN:WIPE OFF AND FLUSH WITH
+    WATER.INGESTION/INHALATION:N/K .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:OC
+Flash Point:>250F,121C
+Extinguishing Media:WATER,WATER FOG,CARBON DIOXIDE,DRY CHEMICAL,FOAM.
+Fire Fighting Procedures:SELF-CONTAINED BREATHING APPARATUS AND
+    PROTECTIVE CLOTHING SHOULD BE WORN IN FIGHTING FIRES INVOLVING
+    CHEMICALS.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE PRODUCT AND USE ABSORBENT MATERIAL TO
+    TAKE CARE OF ANY OIL-LIKE RESIDUES.
+Neutralizing Agent:N/K 
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:USE REASONABLE CARE AND CAUTION.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED.
+Ventilation:MECHANICAL (GENERAL) RECOMMENDED.
+Protective Gloves:NONE REQUIRED
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:NONE
+Work Hygienic Practices:N/K 
+Supplemental Safety and Health
+N/K 
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>300F,148C
+Melt/Freeze Pt:M.P/F.P Text:N/K 
+Decomp Temp:Decomp Text:N/K 
+Vapor Pres:<5 MMHG
+Spec Gravity:2.8 (WATER=1)
+Evaporation Rate & Reference:<1 (ETHER=1)
+Solubility in Water:<0.1%
+Appearance and Odor:VERY LITTLE ODOR,PASTE-LIKE,WHITE.
+Percent Volatiles by Volume:<5
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING MATERIAL CAN CAUSE A REACTION.
+Hazardous Decomposition Products:METAL OXIDES,CARBON DIOXIDE,AND TRACES
+    OF INCOMPLETELY BURNED CARBON PRODUCTS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE IN ACCORDANCE WITH
+    FEDERAL,STATE AND LOCAL REGULATIONS.COORDINATION WITH SUPPORTING
+    INSTALLATION AND/OR MACOM ENVIRONMENTAL COORDINATION PRIOR TO
+    DISPOSAL IS RECOMMENDED TO DETERMINE  APPROPRIATE DISPOSAL METHODS
+    .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

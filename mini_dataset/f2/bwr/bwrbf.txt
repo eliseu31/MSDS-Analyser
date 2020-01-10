@@ -1,0 +1,209 @@
+=====================  Product Identification  =====================
+
+Product ID:AWS E8018-B2
+MSDS Date:04/15/1993
+FSC:3439
+NIIN:00-722-0628
+MSDS Number: BWRBF
+=== Responsible Party ===
+Company Name:LINCOLN ELECTRIC CO
+Address:22801 ST CLAIR AVE
+City:CLEVELAND
+State:OH
+ZIP:44117-2524
+Country:US
+Info Phone Num:216-481-8100
+Emergency Phone Num:216-481-8100
+CAGE:36232
+=== Contractor Identification ===
+Company Name:THE LINCOLN ELECTRIC CO
+Address:22801 ST CLAIR AVE
+Box:City:EUCLID
+State:OH
+ZIP:44117-1199
+Country:US
+Phone:216-481-8100
+CAGE:36232
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:IRON
+CAS:7439-89-6
+RTECS #:NO4565500
+Fraction by Wt: 10%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:CALCIUM CARBONATE (MARBLE) (LIMESTONE)
+CAS:1317-65-3
+RTECS #:EV9580000
+Fraction by Wt: 10%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9192
+
+Ingred Name:CALCIUM FLUORIDE (AS F)
+CAS:7789-75-5
+RTECS #:EW1760000
+Fraction by Wt: <5%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:SODIUM SILICATE
+CAS:1344-09-8
+Fraction by Wt: <5%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:MINERAL SILICATES (KAOLIN)
+CAS:1332-58-7
+RTECS #:GF1670500
+Fraction by Wt: <5%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:10 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9192
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: <5%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:10 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9192
+
+Ingred Name:CHROMIUM  (SARA III)
+CAS:7440-47-3
+RTECS #:GB4200000
+Fraction by Wt: 1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:1 MG/M3
+ACGIH TLV:0.5 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:SILICON
+CAS:7440-21-3
+RTECS #:VW0400000
+Fraction by Wt: 1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:10 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9192
+
+Ingred Name:STRONTIUM CARBONATE (AS SR)
+CAS:1633-05-2
+Fraction by Wt: 0.5%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:MANGANESE  (SARA III)
+CAS:7439-96-5
+RTECS #:OO9275000
+Fraction by Wt: 0.5%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:5 MG/M3 DUST
+ACGIH TLV:5 MG/M3 DUST 9192
+
+Ingred Name:MOLYBDENUM
+CAS:7439-98-7
+RTECS #:QA4680000
+Fraction by Wt: 0.5%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:10 MG/M3 TDUST
+ACGIH TLV:10 MG/M3; 9192
+
+Ingred Name:SILICA, CRYSTALLINE - QUARTZ
+CAS:14808-60-7
+RTECS #:VV7330000
+Fraction by Wt: <0.5%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:0.1 MG/M3 RDUST
+ACGIH TLV:0.1 MG/M3 RDUST;9192
+
+Ingred Name:IRON-AS CARBON STEEL CORE WIRE
+CAS:7439-89-6
+RTECS #:NO4565500
+Fraction by Wt: 60%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: INHALATION OF WELDING FUMES MAY
+    CAUSE NERVOUS SYSTEM AND MUSCLE IRREGULARITIES, IRRITATION OF EYES,
+    NOSE, THROAT, AND RESPIRATORY SYSTEM, METAL FUME FEVER. CHRONIC:
+    INHALATION OF FUMES MAY CAUS E CANCER, SIDEROSIS, FLUOROSIS AND
+    AFFECT LUNG FUNCTION.
+Explanation of Carcinogenicity:CHROMIUM IS A KNOWN CARCINOGEN.
+    CRYSTALLINE SILICA IS LISTED BY NTP & IARC AS A POTENTIAL
+    CARCINOGEN.
+Effects of Overexposure:INHALATION: NAUSEA, DIZZINESS,	DRYNESS OF NOSE
+    AND THROAT, COUGHING, WHEEZING AND SHORTNESS OF BREATH. EYES:
+    REDNESS, TEARING, BLURRED VISION.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. RESUSCITATE IF NEEDED. EYES:
+    FLUSH WITH PLENTY OF WATER FOR 15 MINUTES. SEE DOCTOR. SKIN: WASH
+    WITH SOAP AND WATER. INGESTION: DO NOT INDUCE VOMITING. SEE DOCTOR.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE MEDIA APPROPRIATE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS AND
+    FULL PROTECTIVE GEAR.
+Unusual Fire/Explosion Hazard:NON-FLAMMABLE; BUT SPARKS AND WELDING ARC
+    MAY IGNITE COMBUSTIBLES DURING USE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:PICK UP RODS. SWEEP UP OR MOP. PLACE RESIDUE
+    IN A CONTAINER FOR DISPOSAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:REMOVE ANY COMBUSTIBLES FROM WORK
+    AREA: SPARKS OR WELDING ARC COULD IGNITE NEARBY COMBUSTIBLES.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR FOR WELDING
+    FUMES OR SUPPLIED AIR RESPIRATOR IN CONFINED SPACES OR WHERE FUME
+    CONCENTRATION EXCEEDS REGULATORY LIMITS.
+Ventilation:USE MECHANICAL OR LOCAL EXHAUST OR BOTH TO MAINTAIN LEVELS
+    OF FUMES BELOW REGULATORY LIMITS.
+Protective Gloves:WELDERS WORK GLOVES
+Eye Protection:WELDERS HELMET WITH CORRECT LENSES
+Other Protective Equipment:CLOTHING TO PROTECT ENTIRE BODY FROM SPARKS.
+Work Hygienic Practices:WASH HANDS AFTER USE AND BEFORE EATING,
+    DRINKING, OR SMOKING. LAUNDER CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+SARA 313/312/311-TITANIUM DIOXIDE, CHROMIUM & ITS COMPOUNDS, MANGANESE
+    & ITS COMPOUNDS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Solubility in Water:INSOLUBLE
+Appearance and Odor:WELDING ELECTRODE, 14 INCHES LONG BY 0.125 INCHES
+    DIAMETER.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:METAL FUMES, FLUORIDES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE AND
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

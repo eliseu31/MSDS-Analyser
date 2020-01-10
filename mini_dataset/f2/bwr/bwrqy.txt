@@ -1,0 +1,148 @@
+=====================  Product Identification  =====================
+
+Product ID:FLEX-ZAP
+MSDS Date:11/07/1989
+FSC:8030
+NIIN:00N057456
+MSDS Number: BWRQY
+=== Responsible Party ===
+Company Name:PACE TECHNOLOGY
+Address:9420 SANTA ANITA AVE
+City:RANCHO CUCAMONGA
+State:CA
+ZIP:91730
+Country:US
+Info Phone Num:714-987-0550
+Emergency Phone Num:714-987-0550
+CAGE:IO984
+=== Contractor Identification ===
+Company Name:PACE TECHNOLOGY
+Address:9420 SANTA ANITA AVE
+Box:City:RANCHO CUCAMONGA
+State:CA
+ZIP:91730
+Country:US
+Phone:714-987-0550
+CAGE:IO984
+Company Name:PACER TECHNOLOGY
+Address:9420 SANTA ANITA AVENUE
+Box:City:RANCHO CUCAMONGA
+State:CA
+ZIP:91730
+Country:US
+Phone:909-987-0550
+CAGE:62530
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:2-PROPENOIC ACID, 2-CYANO-, ETHYL ESTER;
+    (ETHYL-2-CYANOACRYLATE)
+CAS:7085-85-0
+RTECS #:UD3330000
+Other REC Limits:2-5 PPM (MFR)
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:POLYMETHYLMETHACRYLATE (PMMA)
+CAS:9011-14-7
+RTECS #:TR0400000
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50:(ORAL,RAT) 12.2 CC/KG.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:IRRITATES EYES, MUCOUS
+    MEMBRANES. TEARING FROM EYE IRRITATION & MUCOUS MEMBRANES W/SOME
+    COUGHING. CHRONIC:NO RESIDUAL EFFECTS OF ACUTE PROPERTIES. ING
+    2:IMPLANTATION UNDER THE SKIN OF EXPERIMENT AL ANIMALS CAUSED
+    TUMORS.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:PRE-EXISTING SKIN, EYE &
+    RESPIRATORY DISORDERS MAY BE AGGRAVATED BY EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGEST:CALL MD IMMEDIATELY . EYES:IMMEDIATELY FLUSH W/POTABLE
+    WATER FOR A MINIMUM OF 15 MINUTES, SEEK ASSISTANCE FROM MD .
+    INHAL:REMOVE TO FRESH AIR. SKIN:FLUSH AREAS OF CONTACT W/WATER. W
+    IPE AWAY LIQUID ADHESIVE WHERE POSSIBLEW/RESIDUALS BEING REJECTED
+    BY SOAKING IN WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:176F,80C
+Extinguishing Media:FLUSH W/LARGE AMOUNTS OF WATER OR DRY CHEMICAL
+    EXTINGUISHER.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE. COMBUSTIBLE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB W/PAPER TOWELS OR CLOTH. SWEEP INTO
+    TRAY FOR LIQUID TO BE REACTED W/WATER FOR SOLID WASTE TREATMENT.
+    AVOID OVEREXPOSURE TO FUMES W/LARGE SPILLS & POOR VENTILATION.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID MOISTURE, DIRECT UV-SUNLIGHT &
+    DO NOT STORE >25C. KEEP CONTAINERS CLOSED TIGHTLY WHEN NOT IN USE.
+    IDEAL STORAGE IS 5-10C.
+Other Precautions:STORE IN A COOL, DRY PLACE FOR BEST PROPERTIES &
+    SHELF LIFE. AVOID BREATHING VAPOR, CONTACT W/EYES & SKIN. DO NOT
+    STORE AT <5C WHICH FREEZES PRODUCT TO USELESS STATE. PRODUCT NOT
+    DAMAGED BY FREEZING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NORMALLY NOT NECESSARY. A NIOSH/MSHA APPROVED
+    ORGANIC VAPOR CANISTER MAY BE USED.
+Ventilation:LOCAL EXHAUST: TO ELIMINATE EYE IRRITATION. MECHANICAL
+    (GENERAL): LARGE QUANTITIES USED TO 2 PPM.
+Protective Gloves:VINYL(POLYETHYLENE) NON-STICKING GLOVES.
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGGS .
+Other Protective Equipment:EYE WASH FOUNTAIN & DELUGE SHOWER WHICH MEET
+    ANSI DESIGN CRITERIA . NORMALLY NOT USED, HOWEVER, APRON (SUPP
+    DATA)
+Work Hygienic Practices:SOAP & WATER HELPS REMOVE ADHESIVE FROM SKIN.
+Supplemental Safety and Health
+OTHER PROT EQUIP:PROTECTS CLOTHING FROM HARDENED GLUE.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:149F,65C
+Vapor Pres:1 @ 20C
+Vapor Density:NIL
+Spec Gravity:1.05 (H*2O=1)
+Evaporation Rate & Reference:NIL
+Solubility in Water:INSOLUBLE
+Appearance and Odor:TRANSPARENT WATER-WHITE TO STRAW COLORED LIQUID
+    W/STIMULATIVE ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+POLYMERIZED BY WATER, ALCOHOL, AMINES & ALKALINE MATERIALS.
+Stability Condition to Avoid:EXCESSIVE HEAT >176, MOISTURE & DIRECT UV.
+Hazardous Decomposition Products:TYPICAL COMBUSTIBLE BY-PRODUCTS OF
+    CARBON MONOXIDE & DIOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE SOLID COMBUSTIBLE WASTE OR DUMP AS
+    CHEMICAL WASTE ACCORDING TO LOCAL, STATE & FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

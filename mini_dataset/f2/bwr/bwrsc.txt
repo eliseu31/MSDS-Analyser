@@ -1,0 +1,121 @@
+=====================  Product Identification  =====================
+
+Product ID:ANTI-STATIC SPRAY, 1310
+MSDS Date:11/30/1987
+FSC:6850
+NIIN:00N057639
+MSDS Number: BWRSC
+=== Responsible Party ===
+Company Name:BENJAMIN-INTERNATIONAL INC
+Address:1460 OLD COUNTRY RD
+City:PLAINVIEW
+State:NY
+ZIP:11803
+Country:US
+Info Phone Num:516-753-0700
+Emergency Phone Num:516-753-0700
+CAGE:02773
+=== Contractor Identification ===
+Company Name:BENJAMIN-INTERNATIONAL INC
+Address:1460 OLD COUNTRY RD
+Box:City:PLAINVIEW
+State:NY
+ZIP:11803
+Country:US
+Phone:516-753-0700
+CAGE:02773
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:QUATERNARY AMMONIUM COMPOUNDS; (ALKYL QUATERNARY AMMONIUM
+    SALT)
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:ALCOHOL (TYPE NOT SPECIFIED); (ALCOHOL).
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE/CHRONIC: NONE.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH COPIOUS AMOUNTS OF WATER FOR AT LEAST 15
+    MINUTES. SKIN: FLUSH WITH COPIOUS AMOUNTS OF WATER. INHAL: REMOVE
+    TO FRESH AIR. SUPPORT BREATHING(GIVE O*2/ARTF RESP). INGEST: CALL
+    MD I MMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:78.0F,25.6C
+Extinguishing Media:CO*2, FOAM.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT.
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SOAK UP WITH SAND OR SWEEPING COMPOUND.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NONE.
+Other Precautions:KEEP AWAY FROM OPEN FLAMES, SPARKS OR EXTREME HEAT -
+    USE ON EQUIPMENT ONLY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOTE REQUIRED(MFR). USE NIOSH/MSHA APPROVED
+    RESPIRATOR APPROPRIATE FOR EXPOSURE OF CONCERN .
+Ventilation:NONE SPECIFIED BY MANUFACTURER.
+Protective Gloves:RUBBER GLOVES.
+Eye Protection:ANSI APPRVD CHEM WORKERS GOGGLES.
+Other Protective Equipment:NONE.
+Work Hygienic Practices:USE ON EQUIPMENT ONLY.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:212F,100C
+Spec Gravity:0.98(H*2O=1)
+Solubility in Water:GOOD
+Appearance and Odor:CLEAR LIQUID WITH ALCOHOL ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ANIONIC SURFACTANTS.
+Stability Condition to Avoid:HEAT & SPARKS.
+Hazardous Decomposition Products:NONE.
+Conditions to Avoid Polymerization:HEAT & SPARKS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

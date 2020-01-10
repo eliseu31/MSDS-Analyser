@@ -1,0 +1,127 @@
+=====================  Product Identification  =====================
+
+Product ID:561 LAMINATING RESIN
+MSDS Date:02/01/1994
+FSC:8030
+NIIN:00F019194
+MSDS Number: BLPQB
+=== Responsible Party ===
+Company Name:FIBRE GLASS-EVERCOAT CO INC
+Address:6600 CORNELL RD
+City:CINCINNATI
+State:OH
+ZIP:45242
+Info Phone Num:(513) 489-7600
+Emergency Phone Num:(800) 543-4530
+CAGE:18731
+=== Contractor Identification ===
+Company Name:FIBRE GLASS-EVERCOAT CO INC
+Address:6600 CORNELL ROAD
+Box:City:CINCINNATI
+State:OH
+ZIP:45242
+Country:US
+Phone:513-489-7600
+CAGE:18731
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:STYRENE, MONOMER  (SARA III)
+CAS:100-42-5
+RTECS #:WL3675000
+Fraction by Wt: <40%
+Other REC Limits:50 PPM
+OSHA PEL:100 PPM
+ACGIH TLV:S,50PPM/100STEL;9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:POLYESTER; UNSATURATED
+Fraction by Wt: >60%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: IRRITATING TO ALL PARTS OF
+    RESPIRATORY TRACT. EXTREME OVER EXPOSURE MAY RESULT IN ANESTHESIA.
+    EYES: IRRITATING. SKIN: CAN DEFECT & IRRITATE.
+Explanation of Carcinogenicity:STYRENE IS A SUSPECTED 2B HUMAN
+    CARCINOGEN.
+Effects of Overexposure:IRRITATION, NARCOSIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. KEEP WARM. GIVE OXYGEN/CPR
+    IF NEEDED. SKIN: WASH THOROUGHLY W/SOAP & WATER. EYES: FLUSH
+    W/LARGE AMOUNTS OF WATER FOR 15 MINS. OBTAIN MEDICAL ATTENTION IN
+    ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:98F
+Lower Limits:1.1
+Extinguishing Media:WATER FOG, FOAM, DRY CHEMICAL, CO2
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:AT ELEVATED TEMPERATURES, POLYMERIZATION
+    MAY TAKE PLACE. IF CONTAINED, VIOLENT RUPTURE MAY RESULT. FLAMMABLE
+    LIQUID.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE SOURCES OF IGNITION & VENTILATE AREA.
+    ABSORB W/INERT MATERIAL SUCH AS VERMICULATE/SAND & PLACE IN CLOSED
+    CONTAINER FOR DISPOSAL AS SOLID WASTE. WASH AREA W/NON FLAMMABLE
+    SOLVENT/TRISODIUM PHOSP HATE & WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN ORIGINAL CLOSED CONTAINERS.
+    STORE <80F.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE U.S. BUREAU OF MINES APPROVED AIRLINE
+    MASK/SCBA.
+Ventilation:GENERAL DILUTION/LOCAL EXHAUST TO DRAW FUMES AWAY FROM
+    WORKERS. (STYRENE VAPOR IS > THAN AIR).
+Protective Gloves:NEOPRENE/NON-SOLUBLE PLASTIC
+Eye Protection:FACE SHIELD/SAFETY GLASSES
+Other Protective Equipment:PROTECTIVE CLOTHING TO MINIMIZE SKIN
+    CONTACT.
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE.
+Supplemental Safety and Health
+BOILING POINT & VAPOR PRESSURE IS FOR STYRENE.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:293F
+Vapor Pres:4.5
+Vapor Density:>1
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:40
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS, PEROXIDES, OXIDIZING AGENTS
+Stability Condition to Avoid:SUNLIGHT, HEAT, OPEN FLAME/CONTAMINATION,
+    ELEVATED TEMPS.
+Hazardous Decomposition Products:CO, CO2, HYDROCARBONS, ORGANIC ACIDS
+Conditions to Avoid Polymerization:EXPOSURE TO HEAT/OPEN FLAME,
+    CONTAMINATION BY OXIDIZING AGENTS, ELEVATED TEMPS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IAW/FEDERAL, STATE & LOCAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

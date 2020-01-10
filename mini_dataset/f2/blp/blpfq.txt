@@ -1,0 +1,164 @@
+=====================  Product Identification  =====================
+
+Product ID:FLUX,AMS 3410 G,0-F-499 D,TYPE B,AWS CLASS
+MSDS Date:01/16/1989
+FSC:3439
+NIIN:00-582-1110
+MSDS Number: BLPFQ
+=== Responsible Party ===
+Company Name:HANDY AND HARTMAN
+Address:850 THIRD AVE
+City:NEW YORK
+State:NY
+ZIP:10022-6222
+Country:US
+Info Phone Num:212-752-3400/203-259-8321
+Emergency Phone Num:212-207-2632/203-259-8321
+CAGE:JO825
+=== Contractor Identification ===
+Company Name:HANDY & HARMAN
+Address:850 THIRD AVENUE
+Box:City:NEW YORK
+State:NY
+ZIP:10022
+Country:US
+Phone:212-752-3400
+CAGE:73977
+Company Name:HANDY AND HARTMAN
+Address:850 THIRD AVE
+City:NEW YORK
+State:NY
+ZIP:10022-6222
+Country:US
+Phone:212-752-3400
+CAGE:JO825
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POTASSIUM FLUORIDE BORATE HYDROXIDE
+CAS:12228-71-6
+Fraction by Wt: 50 - 70%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:2.5 MG/M3 (MFR)
+ACGIH TLV:2.5 MG/M3 (MFR)
+
+Ingred Name:POTASSIUM HYDROXIDE  (SARA III)
+CAS:1310-58-3
+RTECS #:TT2100000
+Fraction by Wt: 0.05-.9%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:C, 2 MG/M3
+ACGIH TLV:C 2 MG/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:POTASSIUM FLUORIDE SOLUTION
+CAS:7789-23-3
+RTECS #:TT0700000
+Fraction by Wt: 5 - 20%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:2.5 MG/M3 (MFR)
+ACGIH TLV:2.5 MG/M3 (MFR)
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 20 - 35%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:NOT RELEVANT
+ACGIH TLV:NOT RELEVANT
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL RAT) IS 245 MG/KG FLUORIDES
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE-FLUORIDES ARE POISONOUS IF
+    SWALLOWED.POTASSIUM HYDROXIDE IS BOTH TOXIC(LD50,RAT=365 MG/KG) &
+    AN IRRITANT.PROLONGED SKIN CONTACT MAY CAUSE
+    DERMATITIS.OVEREXPOSURE TO BF3 & HF GASES ON HEATING ARE 
+    TOXIC.B2O3 IS AN IRRITANT.CHRONIC-DERMATITIS.
+Effects of Overexposure:EYES, SKIN AND RESPIRATORY TRACT IRRITATION.
+    TOXIC IF SWALLOWED OR INHALED.
+Medical Cond Aggravated by Exposure:PRE-EXISTING SKIN DISORDERS MAY BE
+    AGGRAVATED BY EXPOSURE TO THIS MATERIAL.
+
+=======================  First Aid Measures  =======================
+
+First Aid:CALL A PHYSICIAN IN ALL CASES.INHALATION:REMOVE TO FRESH
+    AIR.GIVE CPR/OXYGEN IF NEEDED.EYES:IMMEDIATELY FLUSH WITH WATER FOR
+    15 MINUTES HOLDING EYELIDS OPEN.SKIN:WASH WITH WATER.INGESTION:IF
+    CONSCIOUS ,INDUCE VOMITING.NEVER GIVE ANYTHING BYMOUTH TO AN
+    UNCONSCIOUS PERSON.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:WATER
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SELF
+    CONTAINED BREATHING APPARATUS OPERATED IN POSITIVE PRESSURE MODE.
+    USE WATER SPRAY TO COOL FIRE EXPOSED CONTAINERS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:AVOID CONTACT WITH EYES OR SKIN. AVOID HIGH
+    TEMPERATURES. WEAR RUBBER GLOVES DURING SPILL CLEAN-UP. DILUTE AND
+    WASH SPILLAGE WITH WATER.
+Neutralizing Agent:LIME THEN MAGNESIUM HYDROXIDE/ALUMINUM SULFATE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORAGE-STORE IN A DRY PLACE.AVOID
+    HEATING ABOVE 1050F.
+Other Precautions:THIS FLUX IS OFTEN USED WITH BRAZING FILLER METALS
+    CONTAINING CD. CD OXIDE FUMES IS A GREATER HAZARD THAN FLUORIDE
+    FUME FROM FLUX.ZN OXIDE FUME MAY ALSO BE EMITTED.PRODUCTS OF
+    COMBUSTION FROM TORCH/FU RNACE MAY BE TOXIC NO2, O3 & CO GASES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE FOR BRAZING IN PROPERLY VENTILATED AREA. IN
+    CONFINED SPACE USE AN AIRLINE RESPIRATOR OR HOSE MASK, NIOSH/MSHA
+    APPROVED HOSE TYPE C OR SELF-CONTAINED AIR RESPIRATOR.
+Ventilation:LOCAL EXHAUST/MECHANICAL
+Protective Gloves:LEATHER WELDING
+Eye Protection:SAFETY GOGGLES
+Other Protective Equipment:NON-FLAMMABLE PROTECTIVE CLOTHING, PLASTIC
+    FRAME SAFETY SPECTACLES WITH SIDE SHIELDS-FILTER LENSES SHADE # 3
+    OR # 4
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES. DO NOT WEAR CONTAMINATED CLOTHING OR
+    FOOTWEAR.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Melt/Freeze Pt:M.P/F.P Text:1050F,566C
+Spec Gravity:1.67
+pH:8.5
+Solubility in Water:SOLUBLE
+Appearance and Odor:WHITE PASTE - NO ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE KNOWN
+Stability Condition to Avoid:HIGH TEMPERATURES AND OPEN FLAMES
+Hazardous Decomposition Products:EXCESSIVE FUMES (BF3)
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ALL EFFLUENT INGREDIENTS ARE INORGANIC. LOCAL
+    REGULATIONS MAY REQUIRE THE REMOVAL OF FLUORIDES AND SUSPENDED
+    TRACE METALS BEFORE DISCHARGE OF FINAL EFFLUENT. ADDITION OF LIME
+    FOLLOWED BY MG(OH)2/AL2(S O4)3, THEN FILTRATION IS A SIMPLE METHOD.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

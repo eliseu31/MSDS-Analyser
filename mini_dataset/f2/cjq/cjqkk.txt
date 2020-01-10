@@ -1,0 +1,194 @@
+=====================  Product Identification  =====================
+
+Product ID:#671-32, SODIUM HYDROXIDE STANDARD SOLUTION 0.01N
+MSDS Date:08/07/1995
+FSC:6810
+NIIN:00-798-9642
+Status Code:A
+MSDS Number: CJQKK
+=== Responsible Party ===
+Company Name:HACH COMPANY
+Address:5600 LINDBERGH PKY
+Box:389
+City:LOVELAND
+State:CO
+ZIP:80539
+Country:US
+Info Phone Num:970-669-3050
+Emergency Phone Num:800-227-4224/515-232-2533
+CAGE:91224
+=== Contractor Identification ===
+Company Name:HACH CO
+Address:5600 LINDBERGH DR
+Box:389
+City:LOVELAND
+State:CO
+ZIP:80539
+Country:US
+Phone:970-669-3050/ 303-623-5716
+Contract Num:SP0450-00-M-D022
+CAGE:91224
+Company Name:HACH COMPANY
+Address:100 DAYTON RD.
+Box:907
+City:AMES
+State:IA
+ZIP:50010
+Country:US
+Phone:800-227-4224
+CAGE:4T252
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM HYDROXIDE (CERCLA)
+CAS:1310-73-2
+RTECS #:WB4900000
+< Wt:1.
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:2 MG/M3
+ACGIH TLV:C 2 MG/M3; 9596
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ISOPROPYL ALCOHOL (SARA 313)
+CAS:67-63-0
+RTECS #:NT8050000
+Minumum % Wt:1.
+Maxumum % Wt:10.
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:400 PPM
+ACGIH TLV:400 PPM/500STEL;9596
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+> Wt:90.
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:CAUSES EYE BURNS. IF INGESTED MAY
+    CAUSE ABDOMINAL CRAMPS AND NAUSEA. SKIN AND INHALATION EFFECTS:
+    NONE REPORTED. CHRONIC: NONE REPORTED.
+Explanation of Carcinogenicity:PER MSDS:NOT LISTED AS CARCINOGEN BY
+    OSHA, NTP AND IARC.
+Effects of Overexposure:CAUSES EYE BURNS. ABDOMINAL CRAMPS AND NAUSEA.
+Medical Cond Aggravated by Exposure:EYE & SKIN DISORDERS. TARGET ORGANS
+    NOT APPLICABLE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE/SKIN CONTACT: IMMEDIATELY FLUSH W/WATER FOR 15MINS.
+    REMOVE CONTAMINATED CLOTHING. CALL PHYSICIAN. INGESTION: DO NOT
+    INDUCE VOMITING. GIVE 1-2 GLASSES OF WATER.CALL PHYSICIAN . NEVER
+    GIVE ANYTHING  BY MOUTH TO UNCONSCIOUS PERSON. INHALATION: NOT
+    APPLICABLE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:=56.7C, 134.F
+134F,57C
+Autoignition Temp:Autoignition Temp Text:C/DETR
+Lower Limits:N/DETERMIN
+Upper Limits:N/DETERMIN
+Extinguishing Media:WATER, CARBON DIOXIDE, OR DRY CHEMICAL.
+Fire Fighting Procedures:AS IN ANY FIRE WEAR SELF-CONTAINED BREATHING
+    APPARATUS-PRESSURE DEMAND AND FULL PROTECTIVE GEAR.
+Unusual Fire/Explosion Hazard:COMBUSTIBLE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE AREA. COVER SPILL W/CITRIC ACID OR
+    ANOTHER SOLID ACIDIC MATL. SCOOP SLURRY TO BEAKER. ADD WATER &
+    NEUTRALIZE LIQUID TO PH BETWEEN 6 & 9.  FLUSH NEUTRALIZED WASTE TO
+    DRAIN W/EXCESS WATER. DCOM ANTE AREA WITH DILUTE SOLUTION OF ACID,
+    FOLLOWED BY WATER.
+Neutralizing Agent:CITRIC ACID OR ANOTHER SOLID ACIDIC MATERIAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE TIGHTLY CLOSED IN COOL DRY
+    PLACE.AVOID CONTACT W/EYE/SKIN/CLOTH. DO NOT BREATHE MIST/VAPOR.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SPECIFIED BY MANUFACTURER.
+Ventilation:ADEQUATE VENTILATION.
+Protective Gloves:DISPOSABLE LATEX GLOVES.
+Eye Protection:LAB GRADE GOGGLES.
+Other Protective Equipment:LAB COAT.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F7
+Boiling Pt:=94.C, 201.2F
+B.P. Text:201F,94C
+Melt/Freeze Pt:M.P/F.P Text:NA
+Decomp Temp:Decomp Text:NP
+Vapor Pres:N/DETER
+Vapor Density:N/DETER
+Spec Gravity:0.992
+pH:11.7
+Viscosity:NP
+Evaporation Rate & Reference:N/DETER
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR & COLORLESS LIQUID, ODORLESS
+Percent Volatiles by Volume:NP
+Corrosion Rate:0.00
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS.
+Stability Condition to Avoid:HEAT, EXPOSURE TO AIR (CAUSES C02
+    CONTAMINATION), CONTACT W/STRONG ACIDS. OPEN FLAMES
+Hazardous Decomposition Products:TOXIC FUMES OF SODIUM OXIDE, CARBON
+    MONOXIDE, CARBON DIOXIDE.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:LD50 AND LC50= NONE REPORTED. ISOPROYL
+    ALCOHOL: ORAL RAT LD50 = 5045 MG/KG, ORAL HUMAN= 2770 MG/KG.
+
+=====================  Ecological Information  =====================
+
+Ecological:NO ECOLOGICAL DATA AVAILABLE FOR THIS PRODUCT.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH ALL LOCAL, STATE
+    AND FEDERAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:PER MSDS NOT REGULATED. BUT HMIS THINKS IT SHOULD
+    BE REGULATED BECAUSE FLASH POINT IS 134F. AND PRODUCT IS ASSIGEND
+    EPA WASTE ID # D001(IGNITABLE)
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:SEC 311/312: CATEGORIZED AS ACUTE AND FIRE
+    HAZARD. SEC 313: NOT SUBJECT TO THE REPORTING REQUIREMENT OF SARA
+    TITLE III. RCRA; WASTE ID #D001.
+Federal Regulatory Information:ALL INGREDIENTS ARE LISTED IN THE TSCA
+    INVENTORY.
+State Regulatory Information:CALIFORNIA PROP 65: NONE LISTED.
+
+=======================  Other Information  =======================
+
+ ======================================================================
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,162 @@
+=====================  Product Identification  =====================
+
+Product ID:LEAD/ACID STORAGE BATTERY
+MSDS Date:10/24/1994
+FSC:6140
+NIIN:01-032-1326
+MSDS Number: BWRCK
+=== Responsible Party ===
+Company Name:SUPERIOR BATTERY SERVICE
+Address:2515 HWY 910
+Box:1010
+City:RUSSEL SPRINGS
+State:KY
+ZIP:42642
+Country:US
+Info Phone Num:502-866-6056
+Emergency Phone Num:502-866-6056
+Preparer's Name:PAUL TODD WILSON
+CAGE:0PXB2
+=== Contractor Identification ===
+Company Name:SUPERIOR BATTERY SERVICE
+Address:4690 LAGUNA LN
+Box:City:PORT ORCHARD
+State:WA
+ZIP:98366
+Country:US
+Phone:			     502-866-6056
+CAGE:0PXB2
+Company Name:THOMAS BATTERY CO
+Address:412 W ADAMS ST
+Box:59
+City:KOSCIUSKO
+State:MS
+ZIP:39090
+Country:US
+Phone:610-289-8025
+CAGE:07ZC5
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SULFURIC ACID  (SARA III)
+CAS:7664-93-9
+RTECS #:WS5600000
+Fraction by Wt: 10-30%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9394
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ARSENIC (SARA III)
+CAS:7440-38-2
+RTECS #:CG0525000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:SEE 1910.1018
+ACGIH TLV:0.01 MG/M3, A1; 9394
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:ANTIMONY  (SARA III)
+CAS:7440-36-0
+RTECS #:CC4025000
+Fraction by Wt: 1-5%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:0.5 MG/M3
+ACGIH TLV:0.5 MG (SB)/M3; 9394
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:LEAD/LEAD OXIDE/LEAD SULPHATE
+CAS:7439-92-1
+RTECS #:OF7525000
+Fraction by Wt: 60%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:0.05 MG/M3
+ACGIH TLV:0.15 MG/M3
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES- SEVERE BURNS, CORNEA DAMAGE AND
+    BLINDNESS.	SKIN- SEVERE IRRITATION, ULCERATION.  INHALATION-
+    BREATHING OF VAPORS OR MISTS MAY CAUSE RESPIRATORY DAMAGE. 
+    INGESTION- BURNS OF MOUTH, THROAT AND IN TESTINAL TRACK.
+Effects of Overexposure:NONE SPECIFIED BY MANUFACTURER.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH RUNNING WATER FOR 15 MINUTES WHILE LIFTING
+    EYELIDS. SKIN: FLUSH WITH WATER. REMOVE CONTAMINATED CLOTHING. 
+    INHALATION: REMOVE VICTIM TO FRESH AIR. GIVE OXYGEN OR ARTIFICIAL
+    RESPIRATIO N AS REQUIRED. GET MEDICAL ATTENTION.  INGESTION- DO NOT
+    INDUCE VOMITING. SEEK MEDICAL ATTENTION. GIVE MILD TO DRINK.
+
+=====================  Fire Fighting Measures  =====================
+
+Lower Limits:4.0
+Upper Limits:74.2
+Extinguishing Media:HALON OR DRY CHEMICAL.
+Fire Fighting Procedures:NONE SPECIFIED BY MANUFACTURER.
+Unusual Fire/Explosion Hazard:HYDROGEN GAS AND SULFURIC ACID VAPORS ARE
+    GENERATED UPON OVERCHARGING. VENTILATE CHARGING AREAS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WASH WITH WATER OR NEUTRALIZE WITH SODIUM
+    CARBONATE OR BICARBONATE.
+Neutralizing Agent:SODIUM CARBONATE OR BICARBONATE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM FLAMES DURING AND
+    IMMEDIATELY AFTER CHARGING.
+Other Precautions:AVOID PROLONGED OVERCHARGING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:SULFURIC ACID MIST-HALF MASK WITH DUST AND ACID
+    MIST FILTER.
+Ventilation:GENERAL MECHANICAL: ACCEPTABLE AT 1 TO 4 CHARGES/HR.
+Protective Gloves:RUBBER GLOVES.
+Eye Protection:GOGGLES OR FACE SHIELD.
+Other Protective Equipment:RUBBER OR PLASTIC APRON.
+Work Hygienic Practices:WASH HANDS THOROUGHLY AFTER HANDLING THIS
+    MATERIAL.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C1
+Boiling Pt:B.P. Text:203F,95C
+Vapor Pres:10
+Vapor Density:>1
+Solubility in Water:100%
+Appearance and Odor:SHARP, PENETRATING PUNGENT ODOR. LIQUID.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+COMBUSTIBLES, ORGANIC MATERIALS AND STRONG REDUCING AGENTS.
+Stability Condition to Avoid:OVERCHARGING AND SMOKING, OR SPARKS NEAR
+    BATTERY SURFACE.
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:NEUTRALIZE WITH SODIUM CARBONATE OR BICARBONATE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

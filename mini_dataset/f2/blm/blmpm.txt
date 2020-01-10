@@ -1,0 +1,165 @@
+=====================  Product Identification  =====================
+
+Product ID:BATTERY WET FILLED WITH ACID CORROSIVE (SUP
+MSDS Date:11/09/1990
+FSC:6850
+NIIN:00N021988
+MSDS Number: BLMPM
+=== Responsible Party ===
+Company Name:EAST PENN MANUFACTURING CO INC
+Address:DEKA ROAD
+City:LYON STATION
+State:PA
+ZIP:19536
+Country:US
+Info Phone Num:215-682-6361
+Emergency Phone Num:215-682-6361
+CAGE:DO231
+=== Contractor Identification ===
+Company Name:EAST PENN MANUFACTURING CO., INC.
+Address:DEKA ROAD
+City:LYON STATION
+State:PA
+ZIP:19536
+Phone:215-682-6361/800-424-9300(CHEMTREC)
+CAGE:DO231
+Company Name:EAST PENN MFG CO INC
+Address:DEKA RD
+Box:City:LYON STATION
+State:PA
+ZIP:19536
+Country:US
+Phone:610-682-6361
+CAGE:04055
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LEAD  (SARA III)
+CAS:7439-92-1
+RTECS #:OF7525000
+Fraction by Wt: 43-70%
+OSHA PEL:0.05 MG/M3;1910.1025
+ACGIH TLV:0.15 MG/M3;DUST 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:ANTIMONY  (SARA III)
+CAS:7440-36-0
+RTECS #:CC4025000
+Fraction by Wt: 0-4%
+OSHA PEL:0.5 MG/M3
+ACGIH TLV:0.5 MG SB/M3; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:SULFURIC ACID  (SARA III)
+CAS:7664-93-9
+RTECS #:WS5600000
+Fraction by Wt: 20-44%
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: SULFURIC ACID MAY CAUSE
+    IRRITATION OF EYES, NOSE & THROAT. PROLONGED CONTACT MAY CAUSE
+    SEVERE BURNS. CHRONIC: REPEATED CONTACT CAUSES IRRITATION AND SKIN
+    BURNS. REPEATED EXPOSURE TO MIST MAY CA USE EROSION OF TEETH,
+    CHRONIC EYE IRRITATION AND/OR CHRONIC INFLAMMATION OF THE NOSE,
+    THROAT AND BRONCHIAL TUBES.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:ACID CONTACT MAY CAUSE IRRITATION OF EYES, NOSE
+    & THROAT. BREATHING OF MIST MAY PRODUCE RESPIRATORY DIFFICULITY.
+    CONTACT WITH EYES AND SKIN CAUSES IRRITATION AND SKIN BURNS.
+    SULFURIC ACID IS A CORROSI VE CHEMICAL.
+Medical Cond Aggravated by Exposure:PULMONARY EDEMA, BRONCHITIS,
+    EMPHYSEMA, DENTAL EROSION AND TRACHEOBRONCHITIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: FLUSH CONTACTED AREA W/LARGE AMOUNTS OF WATER FOR AT
+    LEAST 15 MINUTES. REMOVE CONTAMINATED CLOTHING & OBTAIN MEDICAL
+    ATTENTION. EYES: IMMEDIATELY FLUSH W/POTABLE WATER FOR A MINIMUM OF
+    15 MIN, S EEK ASSISTANCE FROM MD . INGEST: GIVE LARGE VOLUMES OF
+    WATER. DO NOT INDUCE VOMITING, OBTAIN MEDICAL TREATMENT. INHAL:
+    REMOVE TO FRESH AIR. SUPPORT BRTHG (GIVE O2/ARTF RESP) .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON-FLAMMABLE
+Lower Limits:4%
+Upper Limits:74%
+Extinguishing Media:CLASS ABC EXTINGUISHER, CO2 AND/OR HALON.
+Fire Fighting Procedures:COOL EXTERIOR OF BATTERY IF EXPOSED TO FIRE TO
+    PVNT RUPTURE. ACID MIST/VAPS IN A FIRE SITUATION ARE CORR. WEAR
+    NIOSH/ MSHA APPRVD SCBA/FULL PROT EQUIP .
+Unusual Fire/Explosion Hazard:HYDROGEN GAS, WHICH MAY EXPLODE IF
+    IGNITED, IS PRDCED BY THIS BATTERY, ESPECIALLY WHEN CHARGING. USE
+    ADEQ VENT/AVOID OPEN FLAMES/SPARKS/OTHER SOURCES OF IGNIT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SULFURIC ACID: DILUTE SPILL CAUTIOUSLY W/ FIVE
+    TO SIX VOLUMES OF WATER & GRADUALLY NEUTRALIZE W/SODIUM
+    BICARBONATE, SODA ASH OR LIME. WHEN EXPOSURE LEVEL IS NOT KNOWN,
+    WEAR NIOSH/MSHA APPROVED POSITIV E PRESSURE SCBA.
+Neutralizing Agent:SEE SPILL/RELEASE PROCEDURES.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM REACTIVE MATERIAL.
+Other Precautions:SODIUM BICARBONATE, SODA ASH, SAND OR LIME SHOULD BE
+    KEPT IN SAME GENERAL AREA FOR EMERGENCY USE. IF BATTERY CASE IS
+    BROKEN, AVOID DIRECT CONTACT WITH INTERNAL COMPONENTS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED ACID GAS RESPIRATOR REQUIRED
+    WHEN PEL IS EXCEEDED OR EMPLOYEE WITNESSES RESPIRATORY IRRITATION.
+Ventilation:WHEN CHARGING IN AN ENCLOSED AREA: LOCAL EXHST PREFERRED.
+    MECH(GEN) VENT ACCEPTABLE AT 1-4 AIR EXCHANGES/HR. (SUPP DATA)
+Protective Gloves:ACID RESISTANT (EX: RUBBER) GLOVES.
+Eye Protection:CHEM WORK GOG & FULL LENGTH FSHLD.
+Other Protective Equipment:ACID-RESISTANT APRONS, BOOTS & PROTECTIVE
+    CLOTHING. EYEWASH & SHOWER STATIONS SHOULD BE MADE AVAILABLE.
+Work Hygienic Practices:GOOD PERSONAL HYGIENE AND WORK PRACTICES ARE
+    MANDATORY.
+Supplemental Safety and Health
+MFR'S PART NO/TRADE NAME: MATERIAL, UN2794. VENT: LOCAL BUILDING/FIRE
+    CODES MAY REQUIRE EXPLOSION PROOF FANS & EQUIPMENT.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:235F,113C
+Vapor Pres:13
+Spec Gravity:1.220-1.325
+Evaporation Rate & Reference:<1 (BUTYL ACETATE=1)
+Solubility in Water:COMPLETELY
+Appearance and Odor:CLEAR, ODORLESS, COLORLESS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS SUCH AS HOT NITRIC ACID, ETC.
+Stability Condition to Avoid:CASES DECOMPOSE AT 160-410C (322-770F).
+Hazardous Decomposition Products:COMBUSTION CAN PRODUCE CO2 AND CO.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:LEAD-ACID BATTERIES ARE COMPLETELY RECYCLABLE.
+    DISPOSAL MUST BE IN ACCORDANCE WITH FEDERAL, STATE, AND LOCAL
+    REGULATIONS .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

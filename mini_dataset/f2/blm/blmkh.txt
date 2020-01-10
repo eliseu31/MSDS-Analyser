@@ -1,0 +1,136 @@
+=====================  Product Identification  =====================
+
+Product ID:ZIRCONIUM POWDER, 00624
+MSDS Date:01/19/1988
+FSC:6810
+NIIN:00N021382
+MSDS Number: BLMKH
+=== Responsible Party ===
+Company Name:JOHNSON MATTHEY CATALOG CHEMICALS
+Address:152 ANDOVER ST
+City:DANVERS
+State:MA
+ZIP:01923
+Country:US
+Info Phone Num:508-777-1970
+Emergency Phone Num:508-777-1970
+CAGE:0JVJ1
+=== Contractor Identification ===
+Company Name:JOHNSON MATTHEY CATALOG CO INC ALFA AESAR
+Address:30 BOND ST
+Box:City:WARD HILL
+State:MA
+ZIP:01835-0747
+Country:US
+Phone:978-521-6300
+CAGE:0JVJ1
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ZIRCONIUM
+CAS:7440-67-7
+RTECS #:ZH7070000
+Fraction by Wt: 100%
+OSHA PEL:5 MG/M3/10 STEL
+ACGIH TLV:5 MG/M3/10 STEL;9192
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:(ACUTE) INGEST: NONE KNOWN. SKIN:
+    POWDER MAY CAUSE IRRITATION. EYE: POWDER MAY CAUSE IRRITATION.
+    INHAL: POWDER MAY CAUSE IRRITATION. (CHRONIC) INGEST: NONE KNOWN.
+    SKIN: NONE KNOWN. EYE: NONE KNOWN. IN HAL: NONE KNOWN. OTHER:
+    REPEATED TOPICAL APPLICATION OF ZIRCONIUM SALTS HAS CAUSED SKIN
+    GRANULOMAS.(SEE EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:HLTH HAZ: ADVERSE HEALTH EFFECTS UNLIKELY WITH
+    SOLID FORMS.
+Medical Cond Aggravated by Exposure:NONE KNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGEST: NO DATA AVAILABLE BUT ONE SHOULD OBTAIN MEDICAL
+    ATTENTION. SKIN: REMOVE CONTAMINATED CLOTHING, FLOOD SKIN WITH
+    LARGE AMOUNTS OF WATER. IF IRRITATION PERSISTS SEEK MEDICAL
+    ATTENTION. EYE: IMMED IATELY FLUSH EYES, INCLUDING UNDER LIDSWITH
+    LARGE AMOUNT OF WATER FOR AT LEAST 15 MINUTES. CALL MD. INHAL: NO
+    SPECIFIC INFORMATION AVAILABLE, ONE SHOULD OBTAIN MEDICAL
+    ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:FLAM IN POWDERED FORM. MAY BE PYROPHORIC IN
+    POWDERED FORM. IF INVOLVED IN FIRE DO NOT USE WATER, CO2 OR (SUPP
+    DATA)
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL PROT
+    EQUIP . IF WITHOUT RISK, REMOVE MATERIAL FROM FIRE AREA. COOL
+    CONTAINER WITH WATER FROM MAXIMUM DISTANCE.
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEARING FULL PROTECTIVE EQUIPMENT, COVER SPILL
+    WITH DRY SAND OR VERMICULITE. MIX WELL AND CAREFULLY TRANSFER TO A
+    CONTAINER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE UNDER AN INERT ATMOSPHERE.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED HIGH EFFICIENCY PARTICLE
+    RESPIRATOR.
+Ventilation:GLOVE BAG OR BOX WITH A DRY INERT ATMOSPHERE.
+Protective Gloves:RUBBER.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:LAB COAT & APRON, FLAME & CHEM RESISTANT
+    COVERALLS, EYEWASH CAPABLE OF SUSTAINED FLUSHING, SAFETY DRENCH
+    (SUPP DATA)
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+EXT MEDIA: HALOGENATED EXTINGUISHERS. USE DRY CHEMICALS, DRY SAND OR
+    DRY GROUND DOLOMITE. MATL TO AVOID: HYDROXIDE CHRMOATES &
+    DICHROMATES, KC1O3, KNO3, NITRYLFLUORIDE, CO2, N2, HALOGENS. OTHER
+    PROT E QUIP: SHOWER & HYGIENIC FACILITIES FOR WASHING.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F8
+Boiling Pt:B.P. Text:3580F,1971C
+Melt/Freeze Pt:M.P/F.P Text:1852
+Vapor Pres:0
+Spec Gravity:6.506
+Evaporation Rate & Reference:0 (BUTYL ACETATE = 1)
+Solubility in Water:INSOLUBLE
+Appearance and Odor:GREYISH-WHITE LUSTROUS METAL, ODORLESS.
+Percent Volatiles by Volume:0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS, P, O2, PB, STRONG OXIDIZING AGENTS, HALOGENATED SOLV,
+    COPPER OXIDE, BORAX, ALKALI METAL, (SEE SUPP DATA)
+Stability Condition to Avoid:INCOMPATIBLES.
+Hazardous Decomposition Products:H2, TOXIC FUMES.
+Conditions to Avoid Polymerization:MAY IGNITE SPONTANEOUSLY ON CUTTING
+    OR FILING. FORMS EXPLOSIVE MIXTURES WITH STRONG OXIDIZING AGENTS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT STATE, LOCAL OR FEDERAL EPA REGULATIONS
+    FOR PROPER DISPOSAL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,148 @@
+=====================  Product Identification  =====================
+
+Product ID:IDEAL AEROSOL SPRAY YELLOW
+MSDS Date:04/12/1989
+FSC:8010
+NIIN:00F019137
+MSDS Number: BLPMH
+=== Responsible Party ===
+Company Name:IDEAL STENCIL MACHINE & TAPE COMPANY
+Address:102 IOWA AVENUE
+Box:305
+City:BELLEVILLE
+State:IL
+ZIP:62222-0305
+Info Phone Num:(618) 233-0162
+Emergency Phone Num:(618) 233-0162 OR (618) 325-1821
+CAGE:30133
+=== Contractor Identification ===
+Company Name:IDEAL STENCIL MACHINE & TAPE COMPANY
+Address:102 IOWA AVE
+Box:305
+City:BELLEVILLE
+State:IL
+ZIP:62222
+Country:US
+Phone:618-233-0162
+CAGE:30133
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 30%
+Other REC Limits:100 PPM
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ACETONE  (SARA III)
+CAS:67-64-1
+RTECS #:AL3150000
+Fraction by Wt: 25%
+Other REC Limits:590 MG/CUM
+OSHA PEL:1000PPM
+ACGIH TLV:750PPM/1000STEL;9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:PROPANE
+CAS:74-98-6
+RTECS #:TX2275000
+Fraction by Wt: <27%
+Other REC Limits:1800 MG/CUM
+OSHA PEL:1000 PPM
+ACGIH TLV:ASPHYXIANT; 9192
+
+Ingred Name:BUTANE
+CAS:106-97-8
+RTECS #:EJ4200000
+Fraction by Wt: <27%
+Other REC Limits:800 PPM
+OSHA PEL:800 PPM
+ACGIH TLV:800 PPM; 9192
+
+Ingred Name:VOL ORGANIC CMPD: 150 G/L
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: PAIN, IRRITATION. SKIN:
+    IRRITATION, DEFATTING & DERMATITIS. INHALATION: ANESTHETIC
+    IRRITATION OF RESPIRATORY TRACT OR NERVOUS SYSTEM DEPRESSION,
+    HEADACHES, DIZZINESS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: PAIN, IRRITATION. SKIN: IRRITATION,
+    DEFATTING, & DERMATITIS. INHALATION: ANESTHETIC IRRITATION OF
+    RESPIRATORY TRACT OR NERVOUS SYSTEM DEPRESSION, HEADACHE,
+    DIZZINESS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINUTES. SKIN:
+    WIPE OFF W/TOWEL, REMOVE W/PAINT THINNER & WASH W/SOAP & WATER.
+    INHALATION: REMOVE TO FRESH AIR. GIVE CPR OR OXYGEN IF NEEDED.
+    INGESTION: O BTAIN MEDICAL ATTENTION IN ALL CASES. SEE SUPP.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:0F
+Extinguishing Media:CLASS B FIRE EXTINGUISHER
+Fire Fighting Procedures:WATER MAY BE INEFFECTIVE. DIRECT WATER STREAM
+    MAY SPREAD BURNING LIQUID.
+Unusual Fire/Explosion Hazard:AT TEMPS >120F CANS MAY RUPTURE RELEASING
+    FLAMMABLE LIQUID & VAPOR. VAPORS ARE >AIR & MAY TRAVEL ALONG THE
+    GROUND OR MOVE BY VENTILATION TO AN IGNITION SOURCE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE IGNITION SOURCES. VENTILATE AREA.
+    ALLOW AEROSOL TO ESCAPE, COVER & MIX SPILL W/ABSORBENT MATERIAL.
+    COLLECT IN METAL CONTAINERS & ALLOW MATERIAL TO DRY IN OPEN AIR.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T STORE >120F OR PUNCTURE OR
+    INCINERATE CANS. KEEP AWAY FROM CORROSIVE OR DAMP ATMOSPHERE. KEEP
+    AWAY FROM FOOD. AVOID INHALATION OF SPRAY.
+Other Precautions:STORE LARGE QUANTITIES IN BUILDING DESIGNED &
+    PROTECTED FOR STORAGE OF CLASS 1A FLAMMABLE LIQUIDS. INTENTIONAL
+    MISUSE BY CONCENTRATION OF VAPORS & INHALING CONTENTS CAN BE
+    HARMFUL & FATAL. EMPTY CONTA INERS MAY BE HAZARDOUS. 8.5 LB/GAL.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AS REQUIRED. USE NIOSH OR BUREAU OF MINES
+    APPROVED RESPIRATOR TO KEEP AIR
+Spec Gravity:1.024
+Evaporation Rate & Reference:FASTER THAN ETHER
+Appearance and Odor:YELLOW LIQUID
+Percent Volatiles by Volume:82%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:TEMPS >120F, PILOT LIGHTS, FLAME, SPARKS,
+    HOT SURFACES & OTHER IGNITION SOURCES
+Hazardous Decomposition Products:HYDROCHLORIC ACID VAPORS & HYDROCARBON
+    GAS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DON'T PUNCTURE OR INCINERATE CANS. DISPOSE OF IN
+    ACCORDANCE W/FEDERAL, STATE & LOCAL REGULATIONS. FLAMMABLE LIQUID.
+    CONTAINERS WHEN EMPTIED MAY BE HAZARDOUS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

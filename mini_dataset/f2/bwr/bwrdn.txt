@@ -1,0 +1,140 @@
+=====================  Product Identification  =====================
+
+Product ID:CYCLON SEALED LEAD BATTERY (CLOSED CYLINDRICAL)
+MSDS Date:04/18/1994
+FSC:6140
+NIIN:01-181-1332
+MSDS Number: BWRDN
+=== Responsible Party ===
+Company Name:HAWKER ENERGY PRODUCTS INC.
+Address:617 NORTH RIDGEVIEW DRIVE.
+City:WARRENSBURG
+State:MO
+ZIP:64093
+Country:US
+Info Phone Num:800-964-2837
+Emergency Phone Num:816-429-2165
+CAGE:U6335
+=== Contractor Identification ===
+Company Name:HAWKER ENERGY PRODUCTS INC
+Address:617 NORTH RIDGEVIEW DR
+Box:City:WARRENSBURG
+State:MO
+ZIP:64093
+Country:US
+Phone:660-429-7528 / 800-964-2837
+CAGE:0WY95
+Company Name:HAWKER ENERGY PRODUCTS LTD
+Address:STEPHENSON ST
+Box:5887
+City:NEWPORT GWENT NP9 0XJ
+Country:UK
+CAGE:U6335
+Company Name:HUGHS DEFENSE COMMUNICATIONS INC WEST CO
+Box:UNKNOW
+CAGE:12813
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LEAD OXIDES
+Fraction by Wt: 56-67%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:SULFURIC ACID  (SARA III)
+CAS:7664-93-9
+RTECS #:WS5600000
+Fraction by Wt: 6-8%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:NON-HAZARDOUS MATERIALS
+Fraction by Wt: 26-37%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:PER MANUFACTURER-NOT APPLICABLE.
+Explanation of Carcinogenicity:NO INGREDIENT OF A CONCENTRATION OF 0.1%
+    OR GREATER IS LSTED AS A CARCINOGEN OR SUSPECTED CARCINOGEN.
+Effects of Overexposure:NONE SPECIFIED BY MANUFACTURER.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:BATTERY CONTAINS ACID ELECTROLYTE. IF BATTERY CASE IS
+    PUNCTURED, COMPLETELY FLUSH ANY RELEASED MATERIAL FROM SKIN OR EYES
+    WITH WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:MULTI-PURPOSE DRY CHEMICAL, CARBON DIOXIDE, OR
+    WATER SPRAY.
+Fire Fighting Procedures:COOL BATTERY EXTERIOR TO PREVENT RUPTURE. ACID
+    MISTS AND VAPORS IN A FIRE ARE TOXIC AND CORROSIVE.
+Unusual Fire/Explosion Hazard:HYDROGEN GAS MAY BE PRODUCED AND MAY
+    EXPLODE IF IGNITED. REMOVE ALL SOURCES OF IGNITION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:AVOID CONTACT WITH ACID MATERIALS. USE SODA
+    ASH OR LIME TO NEUTRALIZE. FLUSH WITH WATER.
+Neutralizing Agent:SODA ASH OR LIME.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NONE SPECIFIED BY MANUFACTURER.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SPECIFIED BY MANUFACTURER.
+Ventilation:NONE SPECIFIED BY MANUFACTURER.
+Protective Gloves:NONE SPECIFIED BY MANUFACTURER.
+Eye Protection:NONE SPECIFIED BY MANUFACTURER.
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+ASSEMBLY (P/N 913598-802) ORIGINALLY MADE BY MAGNAVOX, NOW BY LEICA.
+    BATTERIES ARE 2.0 VOLTS PER CELL (12 CELLS). HAWKER USED TO BE
+    GATES ENERGY. THIS PRODUCT IS DETERMINED BY MANUFACTURER TO BE AN
+    AR TICLE ACCORDING TO THE OSHA HAZARD COMMUNICATION STANDARD AND IS
+    THEREBY EXCLUDED FROM ANY REQUIREMENTS OF THE STANDARD.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:Z4
+Appearance and Odor:BATTERY ASSEMBLY,8.500 INCHES X 4.060
+    INCHES,CYLINDRICAL;2 BATTERIES IN ASSEMBL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:AVOID SHORTING. USE ONLY APPROVED CHARGING
+    METHODS.
+Hazardous Decomposition Products:HYDROGEN GAS.
+Conditions to Avoid Polymerization:AVOID TEMPERATURE EXTREMES ABOVE 80C
+    AND BELOW -40C. DO NOT PUNCTURE BATTERY CASE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PLACE IN ACID RESISTANT CONTAINERS. DISPOSE OF
+    IN ACCORDANCE WITH LOCAL, STATE AND FEDERAL REGULATIONS. DO NOT
+    INCINERATE. BATTERIES SHOULD BE SHIPPED TO RECLAIMATION FACILITY
+    FOR RECOVERY OF METAL/PL ASTIC. CONTACT DISTRIBUTOR FOR RETURN
+    PROCEDURES.
+
+ ======================================================================
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

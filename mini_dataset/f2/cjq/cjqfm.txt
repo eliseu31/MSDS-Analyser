@@ -1,0 +1,156 @@
+=====================  Product Identification  =====================
+
+Product ID:1,2,3-PROPANETRIOL, GLYCOL ALCOHOL GLYCERINE USP 99.5% MIN
+MSDS Date:01/16/1996
+FSC:6810
+NIIN:00N092044
+Status Code:A
+MSDS Number: CJQFM
+=== Responsible Party ===
+Company Name:QUAKER CITY CHEMICALS, INC
+Address:7360 MILNOR ST
+City:PHILADELPHIA
+State:PA
+ZIP:19136
+Country:US
+Info Phone Num:215-333-2000
+Emergency Phone Num:713-627-7557
+CAGE:9Y364
+=== Contractor Identification ===
+Company Name:CONVOY OIL CORP
+Address:1410 N FRONT STREET
+Box:29366
+City:PHILADELPHIA
+State:PA
+ZIP:19125
+Country:US
+Phone:215-739-5281
+CAGE:6A438
+Company Name:QUAKER CITY CHEMICALS, INC
+Address:7360 MILNOR ST
+Box:City:PHILADELPHIA
+State:PA
+ZIP:19136
+Country:US
+Phone:215-333-2000
+CAGE:9Y364
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:1,2,3-PROPANETRIOL
+CAS:56-81-5
+RTECS #:MA8050000
+Other REC Limits:N/K 
+OSHA PEL:15 MG/M3
+OSHA STEL:N/K 
+ACGIH TLV:10 MG/M3
+ACGIH STEL:N/K 
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: MAY CAUSE MILD IRRITATION
+    (SLIGHT TRANSIENT IRRITATION). SKIN CONTACT: INJURY IS UNLIKELY.
+    ESSENTIALLY NON-IRRITATING. SKIN ABSORPTION: NOT LIKELY TO BE
+    ABSORBED BY SKIN. INHALATION: MAY CAUSE S EVERE IRRITATION WITH
+    OVEREXPOSURE. INGESTION: LOW IN TOXICITY. LOW SINGLE AND REPEATED
+    DOSE TOXICITY. RAT STUDIES INDICATE THAT THE KIDNEY IS TARGET ORGAN
+    WITH OVEREXPOSURE.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: IRRIGATION OF EYE FLUSHING IMMED W/WATER FOR AT LST 15
+    MINS. SKIN: WASH OFF IN FLOWING WATER. INGEST: INDUCE VOMITING IF
+    LGE AMT INGESTED. INHAL: REMOVE TO FRESH AIR. TRANSPORT TO MED
+    FACILITY I F NEC. NOTES TO PHYS: EYES: MAY CAUSE MILD IRRIT. STAIN
+    FOR EVID OF CORNEAL INJURY; UNLIKELY. SKIN: INJURY IS UNLIKELY.
+    RESPIRATORY: SHOULD AVOID HEATED VAPS. MAY CAUSE SEVERE IRRIT
+    W/OVEREXPOS. ADMIN	OXYGEN IF AVAIL. BRONCHODILATORS EXPECTORANTS &
+    ANTITUSSIVES MAY BE OF HELP. ORAL: LOW IN TOXICITY. SYSTEMIC: RAT
+    STUDIES INDICATE THAT KIDNEY IS TARGET ORGAN W/OVEREXPOS. NO
+    SPECIFIC ANTIDOTE. TREAT MENT BASED ON SOUND JUDGEMENT (SUPDAT)
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:=198.9C, 390.F
+Autoignition Temp:=370.C, 698.F
+Extinguishing Media:WATER FOG, ALCOHOL FOAM, CARBON DIOXIDE, DRY
+    CHEMICAL.
+Fire Fighting Procedures:NONE. WEAR NIOSH APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SMALL SPILLS: COVER WITH ABSORBENT MATERIAL.
+    SOAK UP AND SWEEP INTO A DRUM. LARGE SPILLS: DIKE AROUND SPILL AND
+    PUMP INTO SUITABLE CONTAINERS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:PRACTICE REASONABLE CARE AND CAUTION
+    WHEN HANDLING AND STORING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY NEEDED. WEAR NIOSH APPROVED
+    RESPIRATOR APPROPRIATE FOR EXPOSURE OF CONCERN .
+Ventilation:RECOMMENDED CONTROL OF MIST TO SUGGESTED GUIDE.
+Protective Gloves:WEAR IMPERVIOUS GLOVES .
+Eye Protection:NOT NORMALLY NECESSARY. ANSI APPROVED CHEMICAL WORKERS
+    GOGGLES .
+Other Protective Equipment:EYEWASH AND DELUGE SHOWER MEETING ANSI
+    DESIGN CRITERIA . NO PROTECTIVE CLOTHING REQUIRED.
+Supplemental Safety and Health
+FIRST AID: OF PHYSICIAN AND INDIVIDUAL REACTIONS OF THE PATIENT.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:=290.C, 554.F
+Vapor Pres:1.0 MMHG @ 20C
+Vapor Density:3.1(AIR=1)
+Spec Gravity:1.2607 @ 25C
+Solubility in Water:MISCIBLE
+Appearance and Odor:TRANSPARENT LIQUID WITH CHARACTERISTIC ODOR.
+Percent Volatiles by Volume:VERY LOW
+
+=================  Stability and Reactivity Data  =================
+
+AVOID STRONG OXIDIZING AGENTS (SODIUM HYPOCHLORITE, HYPOCHLOROUS ACID).
+    OXIDIZING MATERIALS.
+Hazardous Decomposition Products:ACROLEIN
+
+===================  Toxicological Information	===================
+
+Toxicological Information:RAT STUDIES INDICATE THAT THE KIDNEY IS
+    TARGET ORGAN WITH OVEREXPOSURE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:REPROCESS OR INCINERATE IN ACCORDANCE WITH ALL
+    LOCAL, STATE AND FEDERAL REQUIREMENTS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:DOMESTIC (D.O.T.): PROPER SHIPPING NAME: COMPOUND
+    CLEANING COMPOUND (NOT REGULATED). HAZARD CLASS: NONE. UN: NONE.
+    LABELS: NONE.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:DOES NOT CONTAIN SARA SECTION 313 REPORTABLE
+COMPOUNDS.
+State Regulatory Information:
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,127 @@
+=====================  Product Identification  =====================
+
+Product ID:ORIGINAL SSR COOLANT
+MSDS Date:10/14/1988
+FSC:6850
+NIIN:00N021475
+MSDS Number: BLMLK
+=== Responsible Party ===
+Company Name:INGERSOLL-RAND CO
+Address:800-D BEATY ST
+Box:1840
+City:DAVIDSON
+State:NC
+ZIP:28036
+Country:US
+Info Phone Num:704-896-4001
+Emergency Phone Num:704-892-7100
+CAGE:51436
+=== Contractor Identification ===
+Company Name:INGERSOLL-RAND
+Address:800D BEATTY ST
+Box:City:DAVIDSON
+State:NC
+ZIP:28036
+Country:US
+Phone:704-896-4001
+CAGE:3W293
+Company Name:INGERSOLL-RAND CO
+Address:INDUSTRIAL PARK
+Box:1840
+City:CAMPBELLSVILLE
+State:KY
+ZIP:42718
+Country:US
+Phone:501-465-3511
+CAGE:51436
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NON HAZARDOUS INGREDIENTS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN: PROLONGED OR REPEATED SKIN
+    CONTACT TENDS TO REMOVE SKIN OILS, POSSIBLY LEADING TO IRRITATION
+    AND DERMATITIS. INHAL: NOT ESTABLISHED.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH WATER FOR AT LEAST 15 MIN OR UNTIL
+    IRRITATION SUBSIDES. HOLD EYELIDS OPEN WHILE FLUSHING. IF
+    IRRITATION PERSISTS, GET MED ATTN. SKIN: REMOVE CONTAMINATED
+    CLOTHING AND WASH SKIN THORO  WITH SOAP AND WATER. INGEST: DO NOT
+    INDUCE VOMIT. SEEK MED AID. INHAL: REMOVE TO FRESH AIR. GET MED
+    ATTN IF DISCOMFORT PERSISTS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:490F,254C
+Extinguishing Media:WATER SPRAY, DRY CHEMICAL, FOAM OR CARBON DIOXIDE.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT  TO FIGHT FIRE. WATER OR FOAM MAY CAUSE
+    FROTHING.
+Unusual Fire/Explosion Hazard:NONE EXPECTED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:PREVENT SPREAD OF SPILL. ABSORB WITH SAND OR
+    AN INERT ABSORBENT MATERIAL. SWEEP OR SCOOP UP AND REMOVE.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:IF SPLASHING OCCURS, USE APRON. DO NOT
+    GET IN EYES, ON SKIN, OR CLOTHING. WASH THOROUGHLY AFTER HANDLING.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED EQUIPMENT: FILTER; DUST,
+    FUME OR MIST RESPIRATOR UNDER MISTY CONDITIONS.
+Ventilation:LOCAL EXHAUST TO CAPTURE VAPOR, MIST OR FUMES, IF
+    NECESSARY.
+Protective Gloves:CHEMICAL RESISTANT GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:APRON.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Vapor Pres:<5@20C
+Vapor Density:>15
+Spec Gravity:0.94@15.5
+Solubility in Water:NIL
+Appearance and Odor:BLUE TO DARK BLUE TRANSPARENT FLUID.
+Percent Volatiles by Volume:NEGLIG
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CAN REACT TO STRONG OXIDIZERS SUCH AS LIQUID CHLORINE, CONCENTRATED O2,
+    SODIUM HYPOCHLORITE OR CALCIUM HYPOCHLORITE.
+Stability Condition to Avoid:OPEN FLAMES.
+Hazardous Decomposition Products:BURNING WILL PRODUCE OXIDES OF CARBON.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE OR
+    FEDERAL LAWS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

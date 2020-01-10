@@ -1,0 +1,166 @@
+=====================  Product Identification  =====================
+
+Product ID:3068 RAPIDOEZE
+MSDS Date:10/18/1989
+FSC:6850
+NIIN:01-007-8073
+MSDS Number: BWRCB
+=== Responsible Party ===
+Company Name:KOH-I-NOOR RAPIDOGRAPH INC
+Address:100 NORTH STREET
+Box:68
+City:BLOOMSBURY
+State:NJ
+ZIP:08804-9501
+Country:US
+Info Phone Num:908-479-4124
+Emergency Phone Num:908-479-4124
+CAGE:75364
+=== Contractor Identification ===
+Company Name:KOH-I-NOOR RAPIDOGRAPH INC
+Address:100 NORTH STREET
+Box:City:BLOOMSBURY
+State:NJ
+ZIP:08804-9501
+Country:US
+Phone:908-479-4124
+CAGE:75364
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHANOLAMINE
+CAS:141-43-5
+RTECS #:KJ5775000
+Fraction by Wt: <5%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:3 PPM
+ACGIH TLV:3 PPM/6 STEL; 9394
+
+Ingred Name:POTASSIUM HYDROXIDE  (SARA III)
+CAS:1310-58-3
+RTECS #:TT2100000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:C 2 MG/M3
+ACGIH TLV:C 2 MG/M3; 9394
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:GLYCOLS, POLYETHYLENE, MONO(P-(1,1,3,3-TETRAMETHYL
+    BUTYL)PHENYL) ETHER  (TRITON X) (OCTOXYNOL)
+CAS:9002-93-1
+RTECS #:MD0907700
+Fraction by Wt: <5%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 85-90%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:ETHANOL, 2,2',2"-NITRILOTRI-; (TRIETHANOLAMINE)
+CAS:102-71-6
+RTECS #:KL9275000
+Fraction by Wt: <5%
+Other REC Limits:NONE RECOMMENDED
+ACGIH TLV:5 MG/M3
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 85-90%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50, RATS >5G/KG
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ROUTE:ONLY WATER VAPOR UNDER NORMAL
+    USAGE. MILD SKIN IRRITANT. DO NOT INGEST. PROD WAS TESTED TO BE AN
+    EYE IRRITANT BUT NOT A PRIMARY SKIN IRRITANT IAW PROCEDURES OF FED
+    HAZ SUBSTANCE ACT. INGESTION M AY CAUSE GASTRIC DISTURBANCES.
+Explanation of Carcinogenicity:PER MSDS:NONE OF THE INGREDIENTS ARE
+    LISTED AS CARCINOGEN.
+Effects of Overexposure:CONTACT WITH EYES MAY CAUSE CORNEAL OPACITY,
+    IRITIS, CONJUNCTIVITIS, & CHEMOSIS. CONTACT W/SKIN MAY CAUSE IRRIT.
+    INGESTION MAY CAUSE GASTRIC DISTURBANCES.
+Medical Cond Aggravated by Exposure:UNKNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:FLUSH EYES & SKIN W/LG AMTS OF WATER. IF INGESTED DRINK 1 OR
+    2 GLASSES OF WATER. DILUTED VINEGAR (20%) OR LEMON JUICE MAY BE
+    GIVEN. CONSULT PHYSICIAN OR POISON CONTROL CENTER.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Lower Limits:NONE
+Upper Limits:NONE
+Extinguishing Media:THIS FLUID WILL NOT BURN OR SUPPORT COMBUSTION.
+    HOWEVER USE APPROPRIATE EXT MEDIA FOR SURROUNDING MATL/FIRE.
+Fire Fighting Procedures:HIGH TEMPS WILL EVAPORATE THE WATER & THE
+    REMAINING RESIDUE WILL BURN. WATER IS AN ADEQUATE EXTINGUISHING
+    MEDIUM.
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:IT IS NOT A REGULATED PRODUCT. SPILLS SHOULD
+    BE CONTAINED, NEUTRALIZED W/SUITABLE ACID AND PLACE IN CONTAINERS
+    FOR DISPOSAL.
+Neutralizing Agent:SUITABLE ACID.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:EXTREME HEAT OR COLD MAY CAUSE
+    STRATIFICATION WHICH DISAPPEARS AT ROOM TEMPERATURE.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NEEDED.
+Ventilation:LOCAL EXHAUST:NOT NEEDED. MECHANICAL (GENERAL):SUFFICIENT.
+Protective Gloves:DESIRABLE FOR PROLONGED/REPEATED CONTACT
+Eye Protection:RECOMMENDED TO AVOID SPLASHING INTO EYES
+Other Protective Equipment:USE PROTECTIVE CREAM WHERE EXCESSIVE SKIN
+    CONTACT IS LIKELY.
+Work Hygienic Practices:USE IN ACCORDANCE WITH MFG'S INSTRUCTIONS. WASH
+    HANDS AFTER HANDLING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:B2
+Boiling Pt:B.P. Text:414F,212C
+Melt/Freeze Pt:M.P/F.P Text:26.0F,-3.3C
+Vapor Pres:LIKE WATER
+Vapor Density:LIKE WATER
+Spec Gravity:1.024
+pH:12.4
+Evaporation Rate & Reference:LIKE WATER
+Solubility in Water:MISCIBLE
+Appearance and Odor:WHITE TURBID LIQUID-MILD SOAP ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE, BURY, OR RUN INTO SEWER IN
+    ACCORDANCE WITH ALL LEGAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

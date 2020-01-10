@@ -1,0 +1,157 @@
+=====================  Product Identification  =====================
+
+Product ID:ARISTOCORT PARENTERAL AND INTRALESIONAL, ALL PRODUCT NUMBERS
+MSDS Date:08/20/1992
+FSC:6505
+NIIN:01-210-2147
+MSDS Number: BWRDZ
+=== Responsible Party ===
+Company Name:FUJISAWA USA, INC.
+Address:3 PARKWAY NORTH
+City:DEERFIELD
+State:IL
+ZIP:60015-2548
+Country:US
+Info Phone Num:708-317-0800 OR 800-888-7704
+Emergency Phone Num:708-317-0800 OR 800-888-7704
+Preparer's Name:GREGORY KOLAR
+CAGE:0K706
+=== Contractor Identification ===
+Company Name:FUJISAWA USA, INC.
+Address:3 PARKWAY NORTH
+Box:City:DEERFIELD
+State:IL
+ZIP:60015-2548
+Country:US
+Phone:708-317-0800 OR 800-888-7704
+CAGE:0K706
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BENZYL ALCOHOL
+CAS:100-51-6
+RTECS #:DN3150000
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:POLYETHYLENE GLYCOL
+CAS:25322-68-3
+RTECS #:TQ3500000
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:POLYSORBATE 80 (POLYOXYETHYLENESORBITOL OLEATE)
+CAS:9005-65-6
+RTECS #:WG2932500
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:SODIUM CHLORIDE
+CAS:7647-14-5
+RTECS #:VZ4725000
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:TRIAMCINOLONE DIACETATE
+CAS:67-78-7
+RTECS #:TU3950000
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:TDLO INTRAMUSCULAR RAT IS 3200 UG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:THIS PRODUCT IS INTENDED FOR
+    THEREPUTIC USE ONLY WHEN PRESCRIBED BY A PHYSICIAN. POTENTIAL
+    ADVERSE REACTIONS FROM PRESCTIBED DOSED & OVERDOSES ARE DESCRIBED
+    IN THE PACKAGE INSERT. OCCUPATIONAL EXPOSUR E HAS NOT BEEN FULLY
+    INVESTIGATED. FOR ADVERSE DRUG REACTION INFORMATION CALL
+    800-955-0321.
+Explanation of Carcinogenicity:MFR GAVE NO COMMENTS OTHER THAN THE
+    THREE NEGATIVE LISTINGS.
+Effects of Overexposure:PRIMARY IRRITATION OF THE SKIN OR EYES, FLUID
+    RETENTION, MUSCLE WEAKNESS, IMPAIRED HEALING OF WOUNDS, VERTIGO,
+    HEADACHE, CONVULSION.
+Medical Cond Aggravated by Exposure:PERSONS WITH PRE-EXISTING SKIN
+    AILMENTS MAY BE AT INCREASED RISK FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:IF IRRITATION PERSISTS OR IS SEVERE, GET MEDICAL ATTENTION.
+    SKIN:REMOVE CONTAMINATED CLOTHING. FLUSH W/WATER. EYE:FLUSH W/WATER
+    FOR 15 MIN. INHALED:NOT LIKELY TO OCCUR. INGESTED. FLUSH MOUTH OUT
+    W/WAT ER IMMEDIATELY & GET IMMEDIATE MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Lower Limits:N/EST.
+Upper Limits:N/EST.
+Extinguishing Media:WARER SPRAY, DRY CHEMICAL, CARBON DIOXIDE OR FOAM
+    AS APPROPRIATE.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS &
+    PROTECTIVE CLOTHING.
+Unusual Fire/Explosion Hazard:WHEN HEATED TO DECOMPOSITION IT EMITS
+    TOXIC FUMES OF FLUORIDE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE RECOMMENDED PERSONAL PROTECTIVE EQUIPMENT.
+    USE ABSORBANT TOWELS OR BOOMS TO CLEAN UP SPILL. WIPE SURFACES
+    CLEAN & WASH WITH SOAP AND WATER.
+Neutralizing Agent:MFR GAVE NO INFORMATION ON MSDS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:ASS A GENERAL RULE, WHEN HANDLING
+    PHARMACEUTICAL PRODUCTS, AVOID ALL CONTACT & INHALATION OF DUST,
+    FUME, MISTS, AND/OR VAPORS ASSOCIATED W/THE PRODUCT
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WITH SATISFACTORY VENTILATION, RESPIRATORY
+    PROTECTION NOT USUALLY REQUIRED.
+Ventilation:GENERAL ROOM VENTILATION IS USUALLY SATISFACTOYY, USE LOCAL
+    EXHAUST VENTILATION WHEN NECESSARY.
+Protective Gloves:DISPOSABLE LATEX GLOVES RECOMMENDED
+Eye Protection:SAFETY GLASSES OR GOGGLES RECOMMENDED.
+Other Protective Equipment:DISPOSABLE GARMENTS IF SKIN CONTACT IS
+    ANTICIPATED.  HMIS:EYE WASH STATION & SAFETY SHOWER.
+Work Hygienic Practices:MFR? HMIS:USE STRICT CHEMICAL HYGIENE
+    PRACTICES. AVOID ALL CONTACT. WASH THOROUGHLY AFTER ANY ACCIDENTAL
+    CONTACT.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+NRC/State Lic Num:NONE
+pH:6.0
+Solubility in Water:SLIGHTLY
+Appearance and Odor:CLEAR,STERILE SOLUTION, ODOR AND COLOR NOT
+    REPORTED.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+MFR GAVE NO INFORMATION ON MSDS.
+Stability Condition to Avoid:DO NOT FREEZE
+Hazardous Decomposition Products:FLUORIDE FUMES
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF I/A/W FEDERAL, STATE & LOCAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

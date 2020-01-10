@@ -1,0 +1,151 @@
+=====================  Product Identification  =====================
+
+Product ID:ROYCO 770 TYPE 1 AND TYPE 2
+MSDS Date:02/14/1995
+FSC:9150
+NIIN:00-111-6254
+MSDS Number: BHWVN
+=== Responsible Party ===
+Company Name:ROYAL LUBRICANTS COMPANY INC.
+Address:6 CAMPUS DR
+City:PARSIPPANY
+State:NJ
+ZIP:07054
+Country:US
+Info Phone Num:201-887-7410
+Emergency Phone Num:201-887-7411(CHEMTREC 800-424-9300)
+Preparer's Name:PRODUCT SAFETY
+CAGE:07950
+=== Contractor Identification ===
+Company Name:ROYAL LUBRICANTS COMPANY INC.
+Address:215 MERRY LN
+Box:518
+City:EAST HANOVER
+State:NJ
+ZIP:07936
+Country:US
+Phone:973-887-7411/7410
+CAGE:07950
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SYNTHETIC HYDROCARBON BASE OIL
+CAS:68649-12-7
+Fraction by Wt: 60-65%
+
+Ingred Name:SYNTHETIC ESTER
+Fraction by Wt: 25-30%
+
+Ingred Name:BARIUM DINONYLNAPHTHALENE SULFONATE OR PETROLEUM SULFONATE
+CAS:25619-56-1
+Fraction by Wt: 2-3%
+
+Ingred Name:BUTYLATED TRIPHENYL PHOSPHATE
+CAS:56803-37-3
+Fraction by Wt: 1-2%
+
+Ingred Name:MINOR ADDITIVES
+Fraction by Wt: <2.0%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: INHALATION OF VAPORS MAY
+    CAUSE/MISTS MAY CAUSE IRRITATION OF NOSE, THROAT & RESPIRATORY
+    TRACT. CONTACT MAY IRRITATE EYES. INGESTION MAY BE HARMFUL OR
+    FATAL; ASPIRATION MAY CAUSE CHEMICAL PNEUMO NITIS. CHRONIC:
+    PROLONGED/REPEATED EXPOSURE MAY CAUSE SKIN DISORDERS SUCH AS
+    DERMATITIS, FOLLICULITIS OR OIL ACNE.
+Explanation of Carcinogenicity:THE PRODUCT CONTAINS NO INGREDIENT THAT
+    IS LISTED BY IARC, NTP OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:EYE: IRRITATION. SKIN: IRRITATION, DERMATITIS,
+    OIL ACNE, FOLLICULITIS. INHALED: (HIGH TEMP VAPORS) IRRITATION TO
+    NOSE, THROAT. INGESTED: NAUSEA, VOMITING, ASPIRATION INTO LUNGS.
+Medical Cond Aggravated by Exposure:PERSONS WITH A HISTORY OF AILMENTS
+    OR WITH A PRE-EXISTING DISEASE INVOLVING THE EYES, SKIN, OR
+    RESPIRATORY TRACT MAY BE AT INCREASED RISK FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:IN ALL CASES GET MEDICAL ATTENTION. EYES-FLUSH WITH WATER FOR
+    15 MINUTES. SKIN-REMOVE CONTAMINATED CLOTHES. WASH WITH MILD SOAP &
+    WATER. INHALED-REMOVE TO FRESH AIR. GIVE OXYGEN OR ARTIFICIAL
+    RESPIRAT ION AS NEEDED. INGESTED-DO NOT INDUCE VOMITING! IN GENERAL
+    NO TREATMENT IS NEEDED UNLESS LARGE QUANTITIES INGESTED; HOWEVER,
+    GET MEDICAL ADVICE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:430F,221C
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL. DO NOT USE DIRECT STREAM OF WATER; OIL WILL FLOAT & MAY
+    REIGNITE.
+Fire Fighting Procedures:DO NOT ENTER ENCLOSED SPACE WITHOUT FULL
+    BUNKER GEAR INCLUDING POSITIVE PRESSURE NIOSH APPROVED SCBA. USE
+    WATER SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:MATERIAL WILL NOT BURN UNLESS PRE-HEATED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:MAY BURN. USE CAUTION. WEAR PROTECTIVE
+    EQUIPMENT. SHUT OFF LEAK IF W/O RISK. DIKE & CONTAIN. REMOVE WITH
+    VACUUM TRUCK OR PUMP TO STORAGE/SALVAGE VESSELS. SOAK UP REMAINDER
+    WITH SAND, CLAY, ETC. FLUSH  AREA W/ WATER. SMALL SPILL: ABSORB
+    WITHABSORBENT.
+Neutralizing Agent:NO INFORMATION GIVEN ON MSDS BY SUPPLIER
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL VENTILATED
+    AREA. PROTECT CONTAINERS FROM HEAT AND FLAMES.
+Other Precautions:NO INFORMATION GIVEN ON MSDS BY SUPPLIER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH APPROVED AIR SUPPLIED RESPIRATOR OR
+    AIR PURIFYING RESPIRATOR FOR OIL MIST AS REQUIRED TO PREVENT
+    OVEREXPOSURE. SEE 29 CFR 1910.134 FOR REGULATIONS PERTAINING TO
+    RESPIRATOR USE.
+Ventilation:NO INFORMATION GIVEN ON MSDS BY SUPPLIER
+Protective Gloves:GLOVES
+Eye Protection:CHEMICAL GOGGLES
+Other Protective Equipment:OTHER CLOTHING AS REQUIRED TO MINIMIZE
+    CONTACT.
+Work Hygienic Practices:WASH WITH SOAP AND WATER BEFORE EATING,
+    DRINKING, SMOKING OR USING TOILET FACILITIES. LAUNDER CLOTHING
+    BEFORE REUSE.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+NRC/State Lic Num:NONE
+Spec Gravity:0.86
+Evaporation Rate & Reference:NOT AVAILABLE
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:AMBER OIL; SLIGHT ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HEAT AND FLAME
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE AND
+    OTHER UNIDENTIFIED COMPONENTS ARE FORMED ON COMBUSTION.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE AS HAZARDOUS WASTE D005 (BASED ON BARIUM
+    CONTENT), UNLESS EXTRACTION RESULTS ARE LESS THAN EPA LIMITS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

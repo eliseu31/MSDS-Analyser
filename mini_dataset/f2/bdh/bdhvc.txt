@@ -1,0 +1,130 @@
+=====================  Product Identification  =====================
+
+Product ID:VV-G-671E; LUBRICATING GREASE; CODE #1164
+MSDS Date:01/01/1987
+FSC:9150
+NIIN:00-190-0918
+MSDS Number: BDHVC
+=== Responsible Party ===
+Company Name:SULFLO INC.
+Emergency Phone Num:(716)695-3585
+CAGE:JO986
+=== Contractor Identification ===
+Company Name:SULFLO INC
+Address:1158 ERIE AVE
+Box:285
+City:NORTH TONAWANDA
+State:NY
+ZIP:14120-3507
+Country:US
+Phone:716-695-3585
+CAGE:1V074
+Company Name:SULFLO INC.
+Address:1158 ERIE AVE
+Box:285
+City:NORTH TONAWANDA
+State:NY
+ZIP:14120-3507
+Country:US
+Phone:716-695-3585
+CAGE:JO986
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MINERAL OIL (EXPOSURE REGULATED AS 'OIL MIST')
+CAS:8012-95-1
+RTECS #:PY8030000
+Fraction by Wt: 85.0%
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3/10 STEL;9192
+
+Ingred Name:CALCIUM STEARATE, CAS #1592-23-0
+CAS:1592-23-0
+RTECS #:WI3000000
+Fraction by Wt: 10.0%
+ACGIH TLV:NOT SPECIFIED
+
+Ingred Name:GRAPHITE, CAS #7782-42-5 (TLV =5MG/CUM T.DUST)
+RTECS #:VV7780000
+Fraction by Wt: 5.0%
+ACGIH TLV:2.5MG/CUM R.DST
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:PER MFR,NO KNOWN ILL EFFECTS.MAY IRRITATE
+    EYES,SKIN AND RESPIRATORY TRACT;USE PROPER CARE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALE:REMOVE TO FRESH AIR, GIVE CPR/O*2 IF
+    NEED;EYES/SKIN:FLUSH W LG AMTS H*2O FOR 15 MIN;INGEST:RINSE MOUTH;
+    GET MEDICAL ATTENTION FOR EYES, BREATHING DIFFICULTY, OR OTHER
+    SYMPTOMS OF OVEREXPOSURE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:340F/171C(D-92)
+Autoignition Temp:Autoignition Temp Text:390F
+Extinguishing Media:WATER FOG,CO*2,DRY CHEMICAL,FOAM,EARTH OR SAND.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA IN AN ENCLOSED
+    AREA.
+Unusual Fire/Explosion Hazard:DO NOT USE WATER DIRECT;WATER MAY CAUSE
+    FROTHING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPER PERSONAL PROTECTION:USE SUITABLE
+    ABSORBENT MATERIAL LIKE SAND OR INERT MATERIAL AND RECOVER FOR
+    PROPER DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DRY AND WELL VENTILATED
+    AREA.KEEP AWAY FROM HEAT,SPARKS AND OPEN FLAMES;KEEP CONTAINERS
+    CLOSED WHEN NOT IN USE.
+Other Precautions:AVOID CONTACT WITH EYES AND SKIN AND CLOTHES;DO NOT
+    USE CONTAMINATED CLOTHES;WASH THOROUGHLY AFTER EACH USE.DO NOT
+    BREATHE VAPORS/MIST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR FOR ORGANIC
+    VAPORS/MIST IF > TLV.
+Ventilation:MECH(GEN)OR LOCAL EXHAUST THAT PROVIDES ADEQUATE
+    VENTILATION
+Protective Gloves:NEOPRENE
+Eye Protection:GOGGLES/FACE SHIELD
+Other Protective Equipment:FULL WORK CLOTHING TO PREVENT REPEATED OR
+    PROLONGED CONTACT.
+Supplemental Safety and Health
+MSDS UNDATED.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:700F/371C
+Spec Gravity:0.91
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:GRAY SEMI-SOLID -BLAND
+Percent Volatiles by Volume:0.0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS
+Stability Condition to Avoid:HEAT,OPEN SPARKS
+Hazardous Decomposition Products:CO AND CO*2 IF INCOMPLETE COMBUSTION
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF COLLECTED MATERIAL IN ACCORDANCE WITH
+    LOCAL,STATE AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

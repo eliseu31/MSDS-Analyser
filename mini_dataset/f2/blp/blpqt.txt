@@ -1,0 +1,139 @@
+=====================  Product Identification  =====================
+
+Product ID:7049 MIRROLAC GREAT COVER UP INT/EXT ALK URETHANE GLOSS ENL
+MSDS Date:06/06/1988
+FSC:8010
+NIIN:00F019209
+MSDS Number: BLPQT
+=== Responsible Party ===
+Company Name:DEVOE & RAYNOLDS COMPANY
+Address:4000 DUPONT CIRCLE
+City:LOUISVILLE
+State:KY
+ZIP:40207
+Info Phone Num:(502) 589-9340
+Emergency Phone Num:(502) 589-9340
+CAGE:EO559
+=== Contractor Identification ===
+Company Name:DEVOE & RAYNOLDS CO, INC.
+Box:7600
+CAGE:EO559
+Company Name:DEVOE AND RAYNOLDS CO DIV OF GROW GROUP INC
+Address:4000 DUPONT CIR
+Box:7600
+City:LOUISVILLE
+State:KY
+ZIP:40207
+Country:US
+Phone:502-361-2536/502-589-9340
+CAGE:6R552
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MEDIUM ALIPHATIC NAPHTHA (AROMATIC 100), PARAFFIN-NAPTHANES
+    MINERAL SPIRITS
+CAS:64742-88-7
+Fraction by Wt: 30%
+Other REC Limits:100 PPM
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:SOYA ALKYD RESIN
+Fraction by Wt: 30%
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 30%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: IRRITATION OF RESPIRATORY
+    TRACT, HEADACHE, NAUSEA, DIZZINESS, WEAKNESS, FATIGUE,
+    UNCONSCIOUSNESS, & RESPIRATORY ARREST. SKIN/EYES: IRRITATION.
+    INGESTION: STOMACH OR INTESTINAL IRRITATION,  NAUSEA, VOMITING,
+    DIARRHEA, OR CHEMICALPNEUMONITIS, WHICH CAN BE FATAL.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: PERMANENT BRAIN & NERVOUS SYSTEM
+    DAMAGE & DISEASE OF LUNGS. SKIN/EYES: IRRITATION. INGESTION:
+    STOMACH OR INTESTINAL IRRITATION, NAUSEA, VOMITING, DIARRHEA, OR
+    CHEMICAL PNEUMONITIS, WHICH C AN BE FATAL.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. IF BREATHING IS DIFFICULT,
+    RESTORE USING APPROVED CPR TECHNIQUES. EYES: FLUSH W/LARGE AMOUNTS
+    OF WATER FOR AT LEAST 15 MINS. SKIN: WASH THOROUGHLY W/SOAP &
+    WATER. INGE STION: DON'T INDUCE VOMITING. ASPIRATION OF VOMITUS CAN
+    CAUSE CHEMICAL PNEUMONITIS, WHICH CAN BE FATAL. OBTAIN MEDICAL
+    ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:102F
+Extinguishing Media:CO2, DRY CHEMICAL, FOAM, OR OTHER CLASS B
+    EXTINGUISHERS
+Fire Fighting Procedures:USE FULL PROTECTIVE EQUIPMENT INCLUDING
+    SELF-CONTAINED BREATHING APPARATUS. WATER SPRAY MAY BE INEFFECTIVE.
+    IF WATER IS USED, FOG NOZZLES ARE PREFERABLE.
+Unusual Fire/Explosion Hazard:USE WATER TO COOL CLOSED CONTAINERS TO
+    PREVENT PRESSURE BUILD-UP, AUTOIGNITION, OR EXPLOSION DUE TO
+    EXTREME HEAT. COMBUSTIBLE LIQUID.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. VENTILATE
+    AREA. CONTAIN SPILLED MATERIAL & REMOVE W/INERT ABSORBENT &
+    NON-SPARKING TOOLS. STORE IN CLOSED CONTAINERS UNTIL PROPERLY
+    DISPOSED OF.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T SMOKE. KEEP CONTAINER CLOSED
+    WHEN NOT IN USE. KEEP AWAY FROM CHILDREN. DON'T REUSE EMPTY
+    CONTAINERS. AVOID CONTACT W/SKIN & EYES.
+Other Precautions:DON'T TRANSFER CONTENTS TO BOTTLES/UNLABELLED
+    CONTAINERS. AVOID INHALATION OF VAPOR/SPRAY MIST/SANDING DUST.
+    NEVER USE WELDING/CUTTING TORCH ON/NEAR CONTAINER (EVEN EMPTY) AS
+    PRODUCT/ITS RESIDUES MAY  IGNITE. USE W/ADEQUATE VENTILATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:OPEN AREAS (DURING SANDING/GRINDING/FLAME
+    CUTTING/WELDING/BRAZING): MECHANICAL FILTER TO REMOVE SOLID
+    AIRBORNE PARTICLE. RESTRICTED: CHEMICAL/MECHANICAL FILTER TO REMOVE
+    PARTICULATE/VAPOR COMBINATION.  CONFINED: AIR-SUPPLY
+    RESPIRATOR/HOOD.
+Ventilation:GENERAL DILUTION/LOCAL EXHAUST IN VOLUME/PATTERN TO KEEP
+    AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:51.8%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:EXTREME HEAT, FLAME, FIRE, TEMPERATURES
+    >120F, OR OTHER SOURCES OF IGNITION
+Hazardous Decomposition Products:HAZARDOUS FUMES CONTAINING CO, CO2, &
+    OXIDES OF METALS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. INCINERATE ONLY IN APPROVED FACILITY. DON'T
+    INCINERATE CLOSED CONTAINERS. COMBUSTIBLE LIQUID.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,148 @@
+=====================  Product Identification  =====================
+
+Product ID:HYSOL EA 9309NA PT SYSTEM, PART B
+MSDS Date:06/01/1993
+FSC:8040
+NIIN:01-197-9773
+MSDS Number: BWRXW
+=== Responsible Party ===
+Company Name:DEXTER AEROSPACE; MATERIALS DIVISION
+Address:2850 WILLOW PASS ROAD
+Box:NOT ED
+City:PITTSBURG
+State:CA
+ZIP:94565-3299
+Country:US
+Info Phone Num:510-458-8000 X262/X263/202-483-7616
+Emergency Phone Num:800-424-9300 / 202-483-7616
+CAGE:33564
+=== Contractor Identification ===
+Company Name:DEXTER CORPORATION ADHESIVE & COATING SYSTEMS
+Address:2850 WILLOW PASS ROAD
+Box:312
+City:BAY POINT
+State:CA
+ZIP:94565-3299
+Country:US
+Phone:202-483-7616
+CAGE:33564
+Company Name:RESIN FORMULATORS CO
+Address:8500 STELLER DR
+Box:City:CALVER CITY
+State:CA
+ZIP:90232
+Country:US
+Phone:213-870-9561
+CAGE:03355
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DIETHYLENEGLYCOL DIAMINO PROPYL ETHER (ORAL, RAT LD50 4290
+    MG/KG; DERMAL, RABBIT LD50 2500 MG/KG)
+CAS:4246-51-9
+RTECS #:ID6475000
+Fraction by Wt: 60-100%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:VOC: <10 G/L (ESTIMATE)
+RTECS #:9999999VO
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:MIXTURE HAS NOT BEEN TESTED AS A WHOLE.
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:THIS MATERIAL MAY BE CORROSIVE TO EYES
+    AND SKIN. BRIEF CONTACT MAY CAUSE CHEMICAL BURNS. VAPORS AND MISTS
+    WILL IRRITATE NOSE AND THROAT. REPEATED OR PROLONGED SKIN CONTACT
+    MAY RESULT IN BURNS & POSSIB LE ALLERGIC SENSITIZATION.
+Effects of Overexposure:SKIN OR EYE IRRITATION, CHEST DISCOMFORT
+Medical Cond Aggravated by Exposure:SKIN SENSITIZATION
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH WITH LOTS OF RUNNING WATER FOR 15 MINUTES. GET
+    MEDICAL ATTENTION IMMEDIATELY. SKIN WASH THOROUGHLY WITH SOAP AND
+    WATER. IF IRRITATION PERSISTS, GET MEDICAL ATTENTION. INHALATION:
+    REMOVE VIC TIM TO FRESH AIR. IF SYMPTOMS PERSIST, GET MEDICAL
+    ATTENTION. INGESTION: DRINK PLENTY OF WATER. GET MEDICAL ATTENTION
+    IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:261F,127C
+Lower Limits:NOT TESTED
+Upper Limits:NOT TESTED
+Extinguishing Media:DRY CHEMICAL, HALON FIRE EXTINGUISHER, WATER SPRAY,
+    FOAM, OR FOG
+Fire Fighting Procedures:WEAR SCBA & FULL PROTECTIVE CLOTHING, SUCH AS
+    TURN OUT GEAR. CARTRIDGE RESPIRATORS DO NOT PROVIDE ADEQUATE
+    PROTECTION FOR FIRE FIGHTERS OR EXOTHERM MITIGATION.
+Unusual Fire/Explosion Hazard:MAY LIBERATE LARGE QUANTITIES OF DENSE
+    FOUL SMELLING SMOKE WHICH MAY CONTAIN UNIDENTIFIED TOXIC GASES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE CLOTHING, GLOVES, AND SAFETY
+    GLASSES. ABSORB SPILL WITH SORBENT MATERIAL SUCH AS VERMICULITE OR
+    SAND. SCRAPE UP OR SHOVEL INTO DOT APPROVED WASTE CONTAINERS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:THIS PRODUCT MAY BE STORED AT ROOM
+    TEMPERATURES FOR UP TO 12 MONTHS. KEEP CONTAINER TIGHLY CLOSED WHEN
+    NOT IN USE.
+Other Precautions:FOLLOW CURING SCHEDULE & MIXING RATIOS AS RECOMMENDED
+    IN PRODUCT LITERATURE. EMPTY CONTAINERS RETAIN PRODUCT RESIDUE SO
+    OBEY HAZARD WARNINGS & HANDLE EMPTY CONTAINERS AS IF THEY WERE
+    FULL. DO NOT CUT,  GRIND, WELD, OR DRILL ON OR NEAR CNTNR.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF LOCAL EXHAUST VENTILATION IS INADEQUATE, A
+    RESPIRATOR EQUIPPED WITH ORGANIC VAPOR CARTRIDGES MAY BE
+    APPROPRIATE.
+Ventilation:LOCAL EXHAUST VENTILATION AT THE POINT OF USE.
+Protective Gloves:BUTYL RUBBER, PVC, NITRILE RUBBER GLOVES
+Eye Protection:SAFETY GLASSES W/SIDESHLD / CHEM GOGGLES
+Other Protective Equipment:LONG-SLEEVED SHIRT AND TROUSERS, AN EYEWASH
+    AND SAFETY SHOWER SHOULD BE NEARBY AND READY FOR USE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Vapor Pres:<0.4
+Spec Gravity:1.02 (WATER=1)
+Solubility in Water:100%
+Appearance and Odor:REDDISH-ORANGE LIQUID WITH AMMONIACAL ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, STRONG LEWIS OR MINERAL ACIDS.
+Stability Condition to Avoid:AVOID MIX RESIN (PRT A)& CURING AGENT (PRT
+    B) IN BATCHES>1LB UNLESS USE IMMED. DON'T HEAT MIXED ADHESIVE >125F
+    UNLESS **
+Hazardous Decomposition Products:CO, NOX, ALDEHYDES, ACIDS AND
+    UNDETERMINED ORGANICS.
+Conditions to Avoid Polymerization:** CURING SRFCS TO BE BONDED.
+    FAILURE TO OBSERVE PRECAUTIONS MAY RESULT IN EXCESSIVE HEAT BLDUP
+    CAUSING AN EXOTHERM.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:NOT CONSIDERED RCRA HAZARDOUS WASTE.
+    INCINERATION IN EPA APPROVED WASTE INCINERATOR IS PREFERRED
+    DISPOSAL. ADDITIONS, PROCESSING, ALTERING MAY CHANGE REQUIREMENTS
+    OF DISPOSAL. STATE & LOCAL REQUIREMEN TS FOR WASTE DISPOSAL MAY
+    DIFFER FROM FED REGS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

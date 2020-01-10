@@ -1,0 +1,113 @@
+=====================  Product Identification  =====================
+
+Product ID:I-TECH
+MSDS Date:03/22/1989
+FSC:8030
+NIIN:00N021578
+MSDS Number: BLMMN
+=== Responsible Party ===
+Company Name:INTERNATIONAL ENVIRONMENT TECHNOLOGIES LTD
+Address:2450 EAST BELTLINE N E
+City:GRAND RAPIDS
+State:MI
+ZIP:49505
+Country:US
+Info Phone Num:616-453-8869
+Emergency Phone Num:616-453-8869
+CAGE:HO647
+=== Contractor Identification ===
+Company Name:INTERNATIONAL ENVIRONMENTAL TECHNOLOGIES,LTD
+Address:2450 EAST BELTLINE NE
+Box:City:GRAND RAPIDS
+State:MI
+ZIP:49505
+Phone:616-453-8869
+CAGE:HO647
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:STYRENE-ETHYLENE/BUTYLENE-STRYENE BLOCK COPOLYMER
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:AVAILABLE DATA & EXPERIENCE SHOW
+    POTENTIAL FOR SLIGHT IRRITATION TO EYES. SLIGHT ORAL TOXICITY.
+    PRODUCT MAY BE SLIGHTLY IRRITATING TO EYES. ORAL TOXICITY IS LOW.
+    THERMAL DECOMP MAY PRODUCE TOXIC/IRRIT ATING GASES OR FUMES.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:NONE SPECIFIED BY MANUFACTURER.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH EYES WITH WATER. IF IRRITATION OCCURS, CONSULT
+    PHYSICIAN. BURNS:TREAT AS FOR ORDINARY BURNS. INGEST:CALL MD
+    IMMEDIATELY . INHAL:REMOVE TO FRESH AIR. SUPPORT BREATHING (GIVE
+    O2/ARTF RES P) . SKIN:FLUSH WITH COPIOUS AMOUNTS OF WATER .
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER FOG, FOAM, DRY CHEMCIAL, CO2
+Fire Fighting Procedures:COOL EXPOSED CNTNRS. AVOID EXPOS TO PRODUCTS
+    OF THERMAL DECOM. WEAR NIOSH/MSHA APPRVD SCBA AND FULL PROT EQUIP .
+    MATL WILL NOT BURN UNLESS PREHEATED.
+Unusual Fire/Explosion Hazard:NONE KNOWN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:RECOVER SOLID WITH BROOM, SHOVEL OR VACCUM.
+    AVOID GENERATING DUST CLOUDS. PUT RECOVERED MATERIAL IN CONTAINERS
+    FOR RECLAMATION OR DISPOSAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:PRODUCT CAN ACCUMULATE STATIC CHARGES
+    WHEN HANDLED.
+Other Precautions:AVOID BREATHING VAPORS FROM HEATED PRODUCT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NORMALLY NOT REQUIRED. USE NIOSH/MSHA APPROVED
+    SCBA IF PRODUCT IS HEATED OR INVOLVED IN FIRE.
+Ventilation:NO SPECIAL REQUIREMENT.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE REQUIRED
+Work Hygienic Practices:WASH WITH SOAP AND WATER AFTER PROLONGED
+    CONTACT.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Spec Gravity:0.91
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:SOLID, GENERALLY IN POWDER FORM, ESSENTIALLY
+    ODORLESS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS
+Stability Condition to Avoid:EXTREME HEAT, OPEN FLAME
+Hazardous Decomposition Products:CO, CO2. MAY PRODUCE ACROLEIN, ACIDS,
+    KETONES, ALDEHYDES. TREAT COMBUSTION PRODUCTS AS TOXIC.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:FOLLOW FEDERAL, STATE AND LOCAL REGULATIONS.
+    WHEN USED AS ABSORBENT, FOLLOW REGULATIONS FOR ABSORBED MATERIAL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

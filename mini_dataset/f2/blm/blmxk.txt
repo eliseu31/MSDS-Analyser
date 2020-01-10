@@ -1,0 +1,165 @@
+=====================  Product Identification  =====================
+
+Product ID:801 0308 KODAK FLEXICOLOR STABILIZER II & REPLNSHR,WORK SOLN
+MSDS Date:03/17/1994
+FSC:6750
+NIIN:01-285-1771
+MSDS Number: BLMXK
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-477-3194 MSDS :800- 242-2424
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 95-100%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:TRIETHANOLAMINE
+CAS:102-71-6
+RTECS #:KL9275000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+ACGIH TLV:5 MG/M3; 9394
+
+Ingred Name:SILICONE
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:FORMALDEHYDE  (SARA III)
+CAS:50-00-0
+RTECS #:LP8925000
+Fraction by Wt: <0.1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:SEE 1910.1048
+ACGIH TLV:C 0.3 PPM; A2; 9394
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:METHYL ALCOHOL (METHANOL)  (SARA III)
+CAS:67-56-1
+RTECS #:PC1400000
+Fraction by Wt: <0.1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:S,200PPM
+ACGIH TLV:S,200PPM/250STEL; 94
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:YES
+Health Hazards Acute and Chronic:INHAL:LOW HAZARD FOR RECOMMENDED
+    HANDLING. EYES:NO SPECIFIC HAZARD KNOWN. MAY CAUSE TRANSIENT IRRIT.
+    INGEST:EXPECTED TO BE A LOW INGEST HAZARD.
+Explanation of Carcinogenicity:CONTAINS F	     [50-00-0] WHICH IS
+    LISTED BY NTP AND IARC AND REGULATED BY OSHA AS A CARCINOGEN.
+Effects of Overexposure:TRANSIENT EYE IRRITATION.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:IF SYMPTOMATIC, MOVE TO FRESH AIR. GET MED ATTN IF
+    SYMPTOMS PERSISTS. EYE:ANY MATERIALTHAT CONTACTS EYE SHOULD BE
+    WASHED OUT IMMED W/WATER. SKIN:WASH W/SOAP & WATER. REMOVE CONTAMIN
+    CLOTH/SHOES.  INGEST:DRINK 1-2 GLASSES OF WATER. SEEK MED ATTN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE,NON-COMBUST
+Extinguishing Media:USE APPROPRIATE AGENT FOR ADJACENT FIRE.
+Fire Fighting Procedures:NONE (NONCOMBUSTIBLE).
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH TO SEWER W/LG AMTS OF WATER. ABSORB
+    SPILL W/VERMICULTIE OR OTHER INERT MATERIAL THEN PLACE IN CONTAINER
+    FOR CHEMCIAL WSTE. CLEAN SURFACE THOROUGHLY TO REMOVE RESIDUAL
+    CONTAMINATION.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID BREATH VAP.AVOID CONTACT
+    W/EYE/SKIN/CLOTH.USE W/ADEQU VENTI.KEEP CNTNR CLSD.NO SPECIAL
+    PRECAUT MEASURES SHOULD BE NEEDED UNDER ANTI USE CONDITIO
+Other Precautions:MODERATELY ALKALINE AQU SOLN & MAY CAUSE ADVERSE
+    ENVIRON EFFECTS BUT MATL HAS NOT USED TO ESTIMATE IMPACT.MOD
+    BIOCHEM OXY DEMAND,CAUSE OXYG DEPLETION IN AQU SYS,MOD POT TO
+    AFFECT AQU ORGANISMS,HI POT  TO AFFECT 2ND WASTE TREATMENT
+    (SUPPLEME)
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF FORMALDEHYDE IS EMITTED @LEVELS REQUIRING
+    RESP PROT WEAR:FULL FACEPC W/CARTRIDGES/CANISTERS APPROVED NIOSH
+    FOR PROT AGAINST FORMALDEHYDE OR TYP C AIR-SUPPLIED RESP DEMAND TY
+    W/FULL FACEPCE,HOOD,HEL MET.FOLLOW OSHA STD 29CXFR1910.134&.1048
+Ventilation:USE GOOD GEN VENTI(TYP 10AIR CHANGES/HR).MATCH RATES
+    W/CONDITIONS.USE PROCESS ENCLOSURES/LOC EXH VENTI/OTHER (SUPPLEMEN)
+Protective Gloves:IMPERVIOUS (NEOPRENE RUBB, NITRILE RUBB)
+Eye Protection:SAFETY GLASSES W/SIDE SHIELDS OR GOGGLES
+Other Protective Equipment:IMPERVIOUS CLOTHING/OTHER PROT EQPMT FOR
+    APPROPRIATE EXPO RISK.EYEBATH,SAF SHOWER,WASHING FACILITIES.
+Work Hygienic Practices:WASH HANDS AFTER HANDLING.LAUNDER CONTAMIN
+    CLOTH PRIOR TO REUSE.
+Supplemental Safety and Health
+OTHER PRECAUT:MICROBIAL RESP,HI POT TO AFFECT GERMINATION &/OR EARLY
+    GROWTH OF SOME PLANTS,LOW POT TO BIOCONC,MOD POT TO AFFECT GROWTH
+    OF SOME PLANT SEEDLINGS.AFT DIL W/LOTS OF WATER & 2ND WASTE TREAT 
+    MATL EXPECT NO ADVERSE ENVIR EFFECTS.VENTI:ENGINEER CONTROLS TO
+    MAINTAIN AIRBORNE LEVELS BELOW RECOMMENDED EXPO LIMITS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:B3
+Boiling Pt:B.P. Text:>212F,>100C
+Vapor Pres:18MM @20C
+Vapor Density:0.6
+Spec Gravity:1.001
+pH:9.0
+Solubility in Water:COMPLETE
+Appearance and Odor:LIQUID, COLORLESS, SLIGHT FORMALDEHYDE ODOR.
+Percent Volatiles by Volume:95-100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE WITH COMMON MATERIALS AND CONTAMINANTS WITH WHICH THE MATERIAL MAY
+    REASONABLY COME INTO CONTACT.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:NONE (NON-COMBUSTIBLE)
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISCHARGE, TREATMENT, OR DISPOSAL MAY BE SUBJECT
+    TO ZLOCAL, STATE AND FEDERAL LAWS. FLUSH TO SEWER WITH LARGE AMTS
+    OF WATER.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

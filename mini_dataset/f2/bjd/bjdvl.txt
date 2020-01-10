@@ -1,0 +1,120 @@
+=====================  Product Identification  =====================
+
+Product ID:CALIBRATION GAS 23-4004
+MSDS Date:08/28/1987
+FSC:6830
+NIIN:01-190-8715
+MSDS Number: BJDVL
+=== Responsible Party ===
+Company Name:BACHARACH INC
+Address:625 ALPHA DR
+City:PITTSBURGH
+State:PA
+ZIP:15238
+Country:US
+Info Phone Num:412-963-2223
+Emergency Phone Num:412-963-2000
+CAGE:05083
+=== Contractor Identification ===
+Company Name:BACHARACH INC
+Address:625 ALPHA DRIVE
+Box:City:PITTSBURGH
+State:PA
+ZIP:15238
+Country:US
+Phone:412-963-2130
+CAGE:05083
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NITROGEN
+CAS:7727-37-9
+RTECS #:QW9700000
+Fraction by Wt: 78%
+ACGIH TLV:ASPHYXIANT; 9192
+
+Ingred Name:OXYGEN
+CAS:7782-44-7
+RTECS #:RS2060000
+Fraction by Wt: 21%
+
+Ingred Name:ARGON
+CAS:7440-37-1
+RTECS #:CF2300000
+Fraction by Wt: 93%
+ACGIH TLV:ASPHYXIANT; 9192
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:NONE
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:NONE
+Medical Cond Aggravated by Exposure:NONE KNOWN
+
+=======================  First Aid Measures  =======================
+
+First Aid:NONE INDICATED
+
+=====================  Fire Fighting Measures  =====================
+
+Fire Fighting Procedures:IF CYLINDER IS OVERHEATED, COOL W/WATERSPRAY
+Unusual Fire/Explosion Hazard:CYLINDERS MAY EXPLODE IF EXPOSED TO HIGH
+    TEMP. COMPRESSED AIR MIXTURES AT HI PRESSURE WILL ACCELERATE THE
+    BURNING OF MATERIALS
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA-MIXTURE IS BREATHABLE
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT STORE CYLINDERS NEAR HEAT OR
+    OPEN FLAME-EXPOSURE TO TEMP>54C MAY RUPTURE. SECURE CYLINDER, DO
+    NOT DROP
+Other Precautions:CONTENTS UNDER PRESSURE. DO NOT PUNCTURE. NEVER THROW
+    CONTAINER INTO FIRE OR INCINERATOR.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE,BREATHABLE MIXTURE
+Ventilation:NONE REQUIRED.  LOCAL EXHAUST: YES. MECHANICAL: ACCEPTABLE.
+Protective Gloves:LEATHER GLOVES SUGGESTED
+Eye Protection:PLASTIC SAFETY GLASSES SUGGESTED
+Other Protective Equipment:NOT REQUIRED
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:-318F,159C
+Vapor Pres:GAS AT STP
+Vapor Density:1.00
+Solubility in Water:18.6 ML/L @20C
+Appearance and Odor:COLORLESS, ODORLESS GAS
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:VENT TO ATMOSPHERE. LEAVE FILLER VALVE OPEN
+    DISPOSE OF CYLINDER W/OTHER NON-REUSABLE GOODS
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

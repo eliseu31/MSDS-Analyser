@@ -1,0 +1,170 @@
+=====================  Product Identification  =====================
+
+Product ID:STYCAST 2850 FT BLACK,CAT 9,PART A
+MSDS Date:05/11/1993
+FSC:5970
+NIIN:01-071-8878
+Kit Part:Y
+MSDS Number: BWRLL
+=== Responsible Party ===
+Company Name:EMERSON CUMING INC. SUB OF W R GRACE AND CO.
+Address:77 DRAGON COURT
+City:WOBURN
+State:MA
+ZIP:01888
+Country:US
+Info Phone Num:617-828-3300
+Emergency Phone Num:617-935-4850/617-938-8630
+Preparer's Name:DAVID HAAS
+CAGE:0B562
+=== Contractor Identification ===
+Company Name:EMERSON & CUMING
+Address:55 HAYDEN AVE
+Box:City:LEXINGTON
+State:MA
+ZIP:02173
+Country:US
+Phone:617-861-6600
+CAGE:0B562
+Company Name:GRACE W R & CO EMERSON & CUMING DEWEY & ALMY CHEM
+Address:869 WASHINGTON ST
+City:CANTON
+State:MA
+ZIP:02021-2513
+Country:US
+Phone:617-935-4850
+CAGE:04552
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MODIFIERS (TOTAL PERCENTAGE OF INGREDIENTS 1 AND 2 < 2%).
+Fraction by Wt: SEE ING
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:PIGMENTS
+Fraction by Wt: SEE # 1%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:ALUMINUM OXIDE
+CAS:1344-28-1
+RTECS #:BD1200000
+Fraction by Wt: 70 - 80%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:EPOXY RESIN
+Fraction by Wt: 20 - 30%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:N-BUTYL GLYCIDYL ETHER (BGE)
+CAS:2426-08-6
+RTECS #:TX4200000
+Fraction by Wt: <2%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:50 PPM
+ACGIH TLV:25 PPM; 9495
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL, RAT) IS NOT KNOWN.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:TARGET ORGANS:EYES, SKIN, RESPIRATORY
+    & GI TRACTS. ACUTE- EYES:MAY CAUSE IRRITATION.
+    SKIN:PROLONGED/REPEATED CONTACT MAY CAUSE DERMATITIS.
+    INHALE:HEATING CAN GENERATE VAPORS WHICH CAUSE IRRITATION & H
+    EADACHE. ORAL:HARMFUL IF SWALLOWED. CHRONIC- MAY CAUSE DRYING OF
+    SKIN AND DERMATITIS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:IRRITATION, BLURRED VISION, TEARING, DEFATTING
+    AND DRYING OF SKIN, NAUSEA, HEADACHE
+Medical Cond Aggravated by Exposure:PERSONS WITH PRE-EXISTING SKIN
+    DISORDERS, EYE PROBLEMS MAY BE MORE SUSCEPTIBLE TO THE EFFECTS OF
+    THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:GET MEDICAL HELP IF SYMPTOMS PERSIST. INHALED:REMOVE TO FRESH
+    AIR. PROVIDE CPR/OXYGEN IF NEEDED. EYES:FLUSH WITH WATER FOR 15
+    MINUTES, HOLDING EYELIDS OPEN. GET MEDICAL ATTENTION. SKIN:FLUSH
+    WITH WATE R FOLLOWED BY WASHING WITH SOAP & WATER.ORAL:IF
+    CONSCIOUS, DRINK LARGE AMOUNT OF WATER. GET MEDICAL ATTENTION.
+    NEVER GIVE ANYTIHING BY MOUTH TO AN UNCONSCIOUS PERSON.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:>200F,>93C
+Extinguishing Media:WATER FOG, CARBON DIOXIDE, FOAM OR DRY CHEMICAL.
+    USE WATER SPRAY TO COOL FIRE EXPOSED CONTAINERS.
+Fire Fighting Procedures:WEAR FULL PROTECTIVE CLOTHING AND
+    NIOSH-APPROVED SELF-CONTAINED BREATHING APPARATUS OPERATED IN
+    POSITIVE PRESSURE MODE. COOL FIRE-EXPOSED CONTAINERS WITH WATER.
+Unusual Fire/Explosion Hazard:DECOMPOSITION PRODUCTS MAY BE TOXIC.
+    CLOSED CONTAINERS MAY RUPTURE VIOLENTLY.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE EQUIPMENT. WIPE UP OR ABSORB
+    SPILLS WITH INERT MATERIAL SUCH AS SAND/VERMICULITE. SCRAPE SPILL
+    UP INTO CONTAINERS. WASH AREA WITH SOAPY WATER TO REMOVE RESIDUE.
+    COLLECT ABSORBED MATERI AL AND WATER RINSES IN APPROPRIATE
+    CONTAINERS.
+Neutralizing Agent:NOT RELEVANT
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL, DRY, VENTILATED AREA
+    AWAY FROM INCOMPATIBLE MATERIALS, OPEN FLAMES & HEAT SOURCES.
+Other Precautions:WASH THOROUGHLY WITH SOAP AND WATER AFTER HANDLING
+    AND BEFORE EATING, DRINKING, SMOKING. KEEP OUT OF REACH OF
+    CHILDREN. DO NOT TAKE INTERNALLY. AVOID EYES AND SKIN CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF TLV IS EXCEEDED OR FOR SYMPTOMS OF OVER
+    EXPOSURE, WEAR NIOSH-APPROVED RESPIRATOR OR AIR-PURIFYING
+    RESPIRATOR. IN EMERGENCY, WEAR A NIOSH-APPROVED POSITIVE-PRESSURE
+    SELF-CONTAINED BREATHING APPARATU S.
+Ventilation:GOOD GENERAL VENTILATION IS SUFFICIENT FOR MOST CONDITIONS
+    (10 ROOM VOLUMES PER HOUR).
+Protective Gloves:RUBBER OR LATEX
+Eye Protection:CHEMICAL SPLASH GOGGLES/FACE SHIELD
+Other Protective Equipment:EYE WASH STATION, SAFETY SHOWER, PROTECTIVE
+    CLOTHING
+Work Hygienic Practices:OBSERVE GOOD INDUSTRIAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES.
+Supplemental Safety and Health
+KEY1:T6. THIS PRODUCT IS A KIT CONSISTING OF TWO PARTS. THIS IS PART A.
+    SEE PNI B, SAME NSN, FOR PART B.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V5
+NRC/State Lic Num:NOT RELEVANT
+Vapor Pres:<0.1 @ 77F
+Spec Gravity:2.35 - 2.45
+Solubility in Water:INSOLUBLE
+Appearance and Odor:BLACK LIQUID
+Percent Volatiles by Volume:<2
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, ACIDS, BASES
+Stability Condition to Avoid:UNCONTROLLED MIXING WITH AMINES,
+    ANHYDRIDES, MERCAPTANS, IMIDAZOLES
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE,
+    ALDEHYDES, ACIDS AND OTHER ORGANIC SUBSTANCES MAY BE FORMED.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH ALL LOCAL, STATE
+    AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

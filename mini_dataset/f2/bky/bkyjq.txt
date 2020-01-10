@@ -1,0 +1,165 @@
+=====================  Product Identification  =====================
+
+Product ID:PATCHBOND
+MSDS Date:02/01/1989
+FSC:2640
+NIIN:00-242-3467
+MSDS Number: BKYJQ
+=== Responsible Party ===
+Company Name:PATCH RUBBER COMPANY
+Box:H
+City:ROANOKE RAPIDS
+State:NC
+ZIP:27870
+Info Phone Num:(919) 536-2574
+Emergency Phone Num:(919) 536-2574
+CAGE:FO808
+=== Contractor Identification ===
+Company Name:PATCH RUBBER CO
+Address:BECKER INDUSTRIAL PARK
+Box:H
+City:ROANOKE RAPIDS
+State:NC
+ZIP:27870
+Country:US
+Phone:919-536-2574/800-424-9300(CHEMTREC)
+CAGE:17124
+Company Name:PATCH RUBBER COMPANY
+Box:H
+City:ROANOKE RAPIDS
+State:NC
+ZIP:27870
+Phone:(919) 536-2574
+CAGE:FO808
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL CHLOROFORM (1,1,1-TRICHLOROEHANE)  (SARA III)
+CAS:71-55-6
+RTECS #:KJ2975000
+Fraction by Wt: 96-98%
+Other REC Limits:350 PPM (CL)
+OSHA PEL:350 PPM/450 STEL
+ACGIH TLV:350 PPM/450STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+Ozone Depleting Chemical:1
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): 10-12 G/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: CNS DEPRESSION/DAMAGE/
+    RESPIRATORY SYSTEM
+    IRRITATION/DIZZINESS/NAUSEA/LIGHTHEADEDNESS/HEADACHE/ LOSS OF
+    COORDINATION/EQUILIBRIUM/UNCONSCIOUSNESS/DEATH. EYES: DISCOMFORT/
+    PAIN/IRRITATION. S KIN: IRRITATION/DERMATITIS/ABSORPTION.
+    INGESTION: SEE SUPPLEMENTAL.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: CNS DEPRESSION/DAMAGE/ RESPIRATORY
+    SYSTEM IRRITATION/DIZZINESS/NAUSEA/LIGHTHEADEDNESS/HEADACHE/ LOSS
+    OF COORDINATION/EQUILIBRIUM/UNCONSCIOUSNESS/DEATH. EYES:
+    DISCOMFORT/ PAIN/IRRITATION. S KIN:
+    IRRITATION/DERMATITIS/ABSORPTION. INGESTION: SEE SUPPLEMENTAL.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. GIVE CPR, MOUTH-TO-MOUTH OR
+    GIVE OXYGEN IF NEEDED. EYES: FLUSH W/PLENTY OF WATER FOR AT LEAST
+    15 MINS. SKIN: FLUSH W/SOAP & WATER FOR AT LEAST 15 MINS.
+    INGESTION: GIVE  PLENTY OF WATER. DON'T INDUCE VOMITING. DON'T GIVE
+    ANYTHING BY MOUTH TO AN UNCONSCIOUS PERSON. IF UNCONSCIOUS OR IN
+    CONVULSIONS. OBTAIN MEDICAL ATTENTION IN ALL CASES. NOTE TO
+    PHYSICIAN: SEE SUPP
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Autoignition Temp:Autoignition Temp Text:1000F
+Lower Limits:7%
+Upper Limits:15%
+Extinguishing Media:WATER, DRY CHEMICAL, OR CO2.
+Fire Fighting Procedures:FIRE FIGHTERS, WEAR NIOSH/MSHA APPROVED
+    PRESSURE-DEMAND, SELF-CONTAINED BREATHING APPARATUS FOR POSSIBLE
+    EXPOSURE TO HYDROGEN CHLORIDE & TRACES OF PHOSGENE.
+Unusual Fire/Explosion Hazard:VAPORS IN A CONFINED/POORLY VENTILATED
+    AREA CAN IGNITE UPON CONTACT W/A HIGH ENERGY SPARK/FLAME/HIGH
+    INTENSITY SOURCE OF HEAT. THIS CAN OCCUR AT 7-15% BY VOLUME
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE/VENTILATE AREA. WEAR PROTECTIVE
+    EQUIP. RECOVER ON ABSORBENTS (SAWDUST/VERMICULITE). SWEEP INTO
+    CLOSED CONTAINERS FOR DISPOSAL. AFTER ALL VISIBLE TRACES ARE
+    REMOVED, WET VACUUM THE AREA. IF AR EA IS POROUS, REMOVE & PLACE IN
+    CLOSED CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER CLOSED WHEN NOT IN USE.
+    STORE ONLY IN CLOSED, PROPERLY LABELED CONTAINERS. DON'T USE
+    W/ALUMINUM OR INGEST. USE W/ADEQUATE VENTILATION.
+Other Precautions:DON'T USE CURING/WELDING TORCHES ON DRUMS UNLESS
+    PROPERLY PURGED/CLEANED. AVOID CONTACT W/EYES/SKIN/BREATHING
+    VAPORS. NOT SUITABLE FOR VAPOR DEGREASING. AVOID MIXING W/CAUSTIC
+    SODA/POTASH/OXIDIZING MA TERIALS. SHOCK SENSITIVE COMPOUNDS FORM.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF >TLV, USE A HALF OR FULL FACEPIECE ORGANIC
+    VAPOR CHEMICAL CARTRIDGE OR CANISTER RESPIRATOR. USE SCBA OR FULL
+    FACEPIECE AIRLINE RESPIRATOR W/AUXILIARY SCBA OPERATED IN THE
+    PRESSURE-DEMAND MODE. RESP IRATORS MUST BE APPROVED BY NIOSH/MSHA.
+Ventilation:LOCAL EXHAUST/MECHANICAL: AS APPROPRIATE TO KEEP <TLV.
+Protective Gloves:VITON, SILVER SHIELD, POLYVINYL ALCOHOL
+Eye Protection:SPLASHPROOF GOGGLES
+Other Protective Equipment:BOOTS, APRONS, CHEMICAL SUITS
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING/SHOES
+    BEFORE REUSE OR DISCARD. DON'T EAT, DRINK, OR SMOKE IN WORK AREAS.
+Supplemental Safety and Health
+BULK DENSITY: 11.08 LBS/GAL. THIS PRODUCT CONTAINS
+    1,1,1-THRICHLOROETHANE (METHYL CHLOROFORM) WHICH IS SUBJECT TO THE
+    REPORTING REQUIREMENTS OF SARA III. INGESTION: MOUTH &
+    GASTROINTESTINAL IRRITATION , CHEMICAL PNEUMONIA, PULMONARY EDEMA,
+    INJURY, FATAL, & OTHER EFFECTS LISTED FOR INHALATION.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T4
+Boiling Pt:B.P. Text:158-174F
+Melt/Freeze Pt:M.P/F.P Text:-95F
+Vapor Pres:104.4
+Vapor Density:4.54
+Spec Gravity:1.30
+pH:6-7.5
+Evaporation Rate & Reference:(ETHYL ETHER =1): 0.35
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:TRANSLUCENT, YELLOWISH LIQUID W/ETHER-LIKE ODOR.
+Percent Volatiles by Volume:95-97%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CAUSTIC SODA/POTASH OR OXIDIZING MATERIALS, & ALUMINUM.
+Stability Condition to Avoid:OPEN FLAMES, HOT GLOWING SURFACES,
+    ELECTRIC ARCS, HIGH ENERGY SPARK, OR OTHER SOURCES OF HEAT.
+Hazardous Decomposition Products:HYDROGEN CHLORIDE & TRACES OF
+    PHOSGENE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF CONTAMINATED
+    SAWDUST/VERMICULITE/POROUS SURFACE. REPROCESS/INCINERATE RECOVERED
+    LIQUIDS. ALL IN ACCORDANCE W/THE CLEAN AIR ACT/CLEAN WATER
+    ACT/RCRA/LOCAL/STATE/FED REGS. PREVENT CONTAMINATI ON OF
+    GROUND/SURFACE WATERS. DON'T FLUSH TO SEWER.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

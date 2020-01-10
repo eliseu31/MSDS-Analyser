@@ -1,0 +1,160 @@
+=====================  Product Identification  =====================
+
+Product ID:OIL ALKYD READY MIXED EXTERIOR
+MSDS Date:08/27/1990
+FSC:8010
+NIIN:00-584-3014
+MSDS Number: BJDSN
+=== Responsible Party ===
+Company Name:FARWEST PAINT MFG CO
+Address:4522 S. 133RD STREET
+City:TUKWILA
+State:WA
+ZIP:98168
+Country:US
+Info Phone Num:206-244-8844
+Emergency Phone Num:206-941-1619
+CAGE:6F266
+=== Contractor Identification ===
+Company Name:FARWEST PAINT MANUFACTURING CO
+Address:4522 SOUTH 133RD ST
+Box:City:TUKWILA
+State:WA
+ZIP:98168
+Country:US
+Phone:206-244-8844
+CAGE:6F266
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PIGMENTS
+Fraction by Wt: 39%
+
+Ingred Name:STODDARD SOLVENT
+CAS:8052-41-3
+RTECS #:WJ8925000
+Fraction by Wt: 45%
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM; 9293
+
+Ingred Name:STODDARD SOLVENT
+CAS:8052-41-3
+RTECS #:WJ8925000
+Fraction by Wt: 14%
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM; 9293
+
+Ingred Name:METAL SOAP DRIERS (VAPOR PRESSURE 1.0 MMHG @ 68F)
+Fraction by Wt: <2.00%
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION. SKIN:
+    PROLONGED/REPEATED CONTACT CAN CAUSE MODERATE IRRITATION,
+    DEFATTING, DERMATITIS. INHALE: NASAL & RESPIRATORY IRRIT, POSSIBLE
+    UNCONSCIOUSNESS & EVEN ASPHYXIATION. SWALLOW: CAN C AUSE
+    GASTROINTESTINAL IRRIT. ASPIRATIONOF MATERIAL INTO LUNGS CAN CAUSE
+    CHEMICAL PNEUMONITIS WHICH CAN BE FATAL.
+Effects of Overexposure:EYES: IRRITATION, REDNESS, TEARING, BLURRED
+    VISION. SKIN: MODERATE IRRITATION. INHALE: EXCESSIVE INHALE OF
+    VAPORS CAN CAUSE NASAL & RESPIRATORY IRRITATION, DIZZINESS,
+    WEAKNESS, FATIGUE, NAUSEA, HEADAC HE, POSSIBLE UNCONSCIOUSNESS,
+    ASPHYXIATION. SWALLOW: GASTROINTESTINAL IRRITATION, NAUSEA,
+    VOMITING & DIARRHEA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:THORO WASH AREA W/SOAP & WATER. REMOVE CONTAM CLOTHES.
+    LAUNDER CLOTHES BEFORE RE-USE. EYES:FLUSH W/LG AMTS OF WATER
+    LIFTING LIDS, GET MED ATTN. SWALLOW:DO NOT INDUCE VOMITING, KEEP
+    PERSON WARM, Q UIET & GET MED ATTN. ASPIRATION DUE TO VOMITING CAN
+    CAUSE CHEM PNEUMONITIS WHICH CAN BE FATAL. INHALE:REMOVE PERSON TO
+    FRESH AIR. IF BREATHING DIFF, ADMIN OXYGEN. IF STOPPED ADMIN CPR.
+    GET MED ATTN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:100 F/38 C
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL.
+Fire Fighting Procedures:SELF CONTAINED BREATHING APPARATUS WITH A FULL
+    FACEPIECE OPERATED IN PRESSURE DEMAND OR OTHER POSITIVE PRESSURE
+    MODE.
+Unusual Fire/Explosion Hazard:NEVER USE NEAR OR AROUND WELDERS OR
+    CUTTING TORCHES. DRUM (EVEN EMPTY) BECAUSE PRODUCT (EVEN JUST
+    RESIDUE) CAN IGNITE EXPLOSIVELY.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SML:ABSORB ON PAPER, VERMICULITE, ETC. &
+    TRANSFER TO HOOD. LG:ELIM ALL IGNITE SOURCES. WEAR PROTECT EQUIP.
+    STOP SPILL AT SOURCE, DIKE AREA. PUMP LIQ TO SALVAGE TANK,
+    REMAINDER TAKE UP W/SAND, ETC. PRE VENT RUN OFF TO SEWERS & OTHER
+    BODIES OF WATER. *
+Neutralizing Agent:N/K. *IF RUN-OFF OCCURS, NOTIFY PROPER AUTHORITIES
+    AS REQUIRED, A SPILL OCCURED.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:CONTAINERS OF THIS MATERIAL MAY BE
+    HAZARDOUS WHEN EMPTIED, SINCE EMPTIED CONTAINERS RETAIN PRODUCT
+    RESIDUES (VAPOR, LIQUID, &/OR SOLID).
+Other Precautions:ALL HAZARD PRECAUTIONS GIVEN IN THE DATA SHEET MUST
+    BE OBSERVED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:A JOINTLY APPROVED AIR SUPPLIED RSPRTR IS
+    ADVISED IN ABSENCE OF PROPER ENVIR CONTROL. OSHA REGS ALSO PERMIT
+    OTHER NIOSH/MSHA RSPRTR UNDER SPECIFIED CONDITIONS. (SEE YOUR
+    SAFETY EQUIP SUPPLIER)ENGINEER ING/ADMIN CONTROLS SHOULD BE
+    IMPLEMENTED
+Ventilation:SUFFICIENT MECHANICAL (GENERAL &/OR LOCAL EXHAUST)
+    VENTILATION TO MAINTAIN EXPOSURE BELOW TLV(S).
+Protective Gloves:WEAR RESISTANT GLOVES (NITRILE RUBBER)
+Eye Protection:CHEM SPLASH GOGGLES, SAFETY GLASSES.
+Other Protective Equipment:TO PREVENT REPEATED OR PROLONGED SKIN
+    CONTACT, WEAR IMPERVIOUS CLOTHING AND BOOTS.
+Work Hygienic Practices:KEEP WORK AREA CLEAN, FREE FROM LEAKS & SPILLS.
+    ALWAYS WASH HANDS THOROUGHLY W/SOAP & WATER BEFORE HANDLING
+    FOOD/DRINKS
+Supplemental Safety and Health
+"PURSUANT TO TITLE III OF THE SUPERFUND AMMENDMENTS & REAUTHORIZATION
+    ACT OF 1986 (SARA) & 40 CFR PART 372, THIS PRODUCT CONTAINS OR MAY
+    CONTAIN A TOXIC CHEMICAL IN A QUANTITY SUBJECT TO THE REPORTING 
+    REQUIREMENTS UNDER SECTION 313."
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:300F,149C
+Vapor Density:> THAN AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:COLORED THIN LIQUID WITH A MILD SWEET AROMATIC
+    ODOR.
+Percent Volatiles by Volume:<21
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTACT WITH STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:KEEP AWAY FROM OPEN FLAMES, SPARKS AND
+    HEAT. DO NOT WELD NEAR OR AROUND PRODUCT.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DESTROY BY LIQUID INCINERATION. CONTAMINATED
+    ABSORBENT MAY BE DEPOSITED IN A LANDFILL IN ACCORDANCE WITH LOCAL,
+    STATE AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

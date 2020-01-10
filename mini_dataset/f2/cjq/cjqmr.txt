@@ -1,0 +1,142 @@
+=====================  Product Identification  =====================
+
+Product ID:PUROLITE C-100-H ION EXCHANGE RESIN
+MSDS Date:01/01/1999
+FSC:6810
+NIIN:00-559-3267
+Status Code:A
+MSDS Number: CJQMR
+=== Responsible Party ===
+Company Name:THE PUROLITE CO, DIV OF BRO TECH CORPORATION
+Address:150 MONUMENT RD
+City:BALA-CYNWYD
+State:PA
+ZIP:19004-1713
+Country:US
+Info Phone Num:215-668-9090
+Emergency Phone Num:215-668-9090
+CAGE:67168
+=== Contractor Identification ===
+Company Name:THE PUROLITE CO, DIV OF BRO TECH CORPORATION
+Address:150 MONUMENT RD
+Box:City:BALA-CYNWYD
+State:PA
+ZIP:19004-1713
+Country:US
+Phone:610-668-9090
+CAGE:67168
+Company Name:VEHICLES INC.
+Address:702 GARFIELD ST
+Box:1444
+City:EMPORIA
+State:KS
+ZIP:66801-5110
+Country:US
+Phone:316-343-6653
+CAGE:0E5D8
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NON-HAZARDOUS INGREDIENTS
+Fraction by Wt: 100%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL, RAT) IS UNKNOWN.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:N/A. HMIS: ACUTE- LIKE OTHER FOREIGN
+    BODIES, PARTICLES MAY CAUSE MECHANICAL IRRITATION OF THE EYE. NO
+    EFFECTS ON SKIN. DUST MAY CAUSE RESPIRATORY TRACT IRRITATION.
+    INGESTION IS UNLIKELY. CHRONIC- UNKN OWN.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:IRRITATION
+Medical Cond Aggravated by Exposure:PERSONS WITH PRE-EXISTING EYE
+    PROBLEMS OR IMPAIRED RESPIRATORY FUNCTION MAY BE MORE SUSCEPTIBLE
+    TO THE EFFECTS OF THE DUST.
+
+=======================  First Aid Measures  =======================
+
+First Aid:CALL PHYSICIAN IF SYMPTOMS PERSIST. EYE:FLUSH WITH WATER FOR
+    15 MINUTES. HOLD EYELIDS OPEN. SKIN:WASH WITH SOAP & WATER.
+    INHALED:MOVE TO FRESH AIR. ORAL:CONSULT A PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Autoignition Temp:Autoignition Temp Text:800F
+Lower Limits:NOT RELEVANT
+Upper Limits:NOT RELEVANT
+Extinguishing Media:WATER FOG, CARBON DIOXIDE OR DRY CHEMICAL. USE
+    WATER SPRAY TO COOL FIRE EXPOSED CONTAINERS.
+Fire Fighting Procedures:WEAR PROTECTIVE CLOTHING AND NIOSH-APPROVED
+    SELF-CONTAINED BREATHING APPARATUS IN PRESSURE DEMAND.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP SPILL. AVOID CREATING DUST. PLACE IN
+    APPROPRIATE CONTAINER FOR DISPOSAL. VENTILATE AREA AND WASH SPILL
+    SITE. RESIN BEADS ON FLOOR MAY MECHANICALLY CAUSE FLOOR TO BE
+    SLIPPERY. USE CARE TO AVOI D FALLS.
+Neutralizing Agent:NOT RELEVANT
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER SEALED TO PREVENT
+    DRYING OR MOISTURE LOSS. USE IN VENTILATED AREA. STORE BELOW 49
+    C(120F) AND ABOVE 0C (32F0
+Other Precautions:DO NOT RAISE DUST. AVOID CONTACT WITH EYES. AVOID
+    INHALATION OF DUST. WASH THOROUGHLY AFTER HANDLING MATERIAL. KEEP
+    OUT OF REACH OF SMALL CHILDREN. DO NOT INGEST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY REQUIRED. IF AIRBORNE
+    CONCENTRATION IS HIGH, WEAR A NIOSH-APPROVED DUST RESPIRATOR OR
+    DUST MASK.
+Ventilation:GOOD GENERAL VENTILATION
+Protective Gloves:LATEX RECOMMENDED
+Eye Protection:SAFETY GLASSES/DUST GOGGLES RECOMMENDED
+Other Protective Equipment:EYE WASH STATION
+Work Hygienic Practices:OBSERVE GOOD INDUSTRIAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES. WASH BEFORE EATING OR DRINKING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+NRC/State Lic Num:NOT RELEVANT
+Decomp Temp:Decomp Text:>428F,>220C
+Spec Gravity:1.20
+Viscosity:NOT RELEVANT
+Evaporation Rate & Reference:NOT RELEVANT
+Solubility in Water:INSOLUBLE
+Appearance and Odor:AMBER TO MAHOGANY COLORED SPHERICAL BEADS -
+    ODORLESS
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:EXCESSIVE HEAT (TEMPERATURES ABOVE
+    220C/428F)
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE,
+    SULFUR DIOXIDE, SULFUR TRIOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:UNUSED RESIN MAY BE INCINERATED OR LANDFILLED IN
+    FACILITIES MEETING LOCAL, STATE AND FEDERAL REGULATIONS.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

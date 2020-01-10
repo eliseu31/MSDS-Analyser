@@ -1,0 +1,155 @@
+=====================  Product Identification  =====================
+
+Product ID:ISOPROPANOL, 91%, PM-437
+MSDS Date:08/04/1989
+FSC:7045
+NIIN:01-121-0901
+MSDS Number: BWRLR
+=== Responsible Party ===
+Company Name:UNION CARBIDE CORP., INDUSTRIAL CHEMICALS DIVISION
+Address:39 OLD RIDGEBURY ROAD
+City:DANBURY
+State:CT
+ZIP:06817-0001
+Country:US
+Info Phone Num:800-822-4357
+Emergency Phone Num:800-822-4357
+CAGE:61637
+=== Contractor Identification ===
+Company Name:COMPUTER ACCESSORIES CORP
+Address:211 NEW YORK AVENUE
+Box:City:HUNTINGTON
+State:NY
+ZIP:11743-2711
+Country:US
+Phone:516-421-0929
+CAGE:25041
+Company Name:UNION CARBIDE CORP
+Address:39 OLD RIDGEBURY ROAD
+Box:City:DANBURY
+State:CT
+ZIP:06817-0001
+Country:US
+Phone:800-822-4357/732-563-5522 (MSDS)
+CAGE:61637
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOPROPYL ALCOHOL (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:TWA OSHA ACGIH 400PPM
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INGEST:SLIGHTLY TOXIC.LG QUANT MAY
+    CAUSE DROWSINESS & LOSS OF CONSC. SKIN ABSORPTION:NO EVIDENCE OF
+    ADVERSE EFFECTS FROM AVAILABLE INFO. INHAL:LOW CONC MAY CAUSE MILD
+    IRRIT OF EYES/NOSE/THROAT. CONC A BOVE TLV MAY RESULT IN HEADACHE &
+    DROWSINESS. SKIN:PROLONGED CONTACT MAY CAUSE LOCAL
+    REDNESS/DRYING/CRACKING.
+Effects of Overexposure:LOSS OF CONSCIOUSNESS, DROWSINESS. STOMACH
+    CRAMPS, PAIN, NAUSEA, VOMITING, DIARRHEA. MILD EYE/NOSE/THROAT
+    IRRITATION. HEADACHES,. SKIN:REDNESS/DRYING/CRACKING.
+Medical Cond Aggravated by Exposure:MAY AGGRAVATE EXISTING DERMATITIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:REMOVE CONTAMIN CLOTH.WASH AREA W/SOAP/WATER.INHAL:IMMED
+    REMOVE TO FRESH AIR.GIVE ART RESP IF NOT BREATH.OXY MAY BE GIVEN BY
+    QUAL PERSONNEL IF DIFFI BREATH.GET MED ATTN.EYE:IMMED FLUSH WELL
+    W/WAT ER & CONT FLUSHING FOR SEVERAL MINS.GETMED ATTN.INGEST:IF
+    CONSC & HAS GAG REFLEX GIVE 2 GLASSES WATER.INDUCE VOMIT.GET IMMED
+    MED ATTN.NO SPECIFIC ANTIDOTE.TREAT ACCORDING TO SYMPTOMS/CLINICAL
+    CONDITI
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:65.0F,18.3C
+Lower Limits:2.0
+Upper Limits:12.7 @200F
+Extinguishing Media:ALCOHOL OR UNIVERSAL FOAM APPLIED BY MFR'S
+    RECOMMENDED TECHNIQUES FOR LARGE FIRE. CO2 OR DRY CHEMICAL FOR
+    SMALL FIRE.
+Fire Fighting Procedures:USE WATER SPRAY TO COOL FIRE EXPOSED
+    CONTAINERS AND STRUCTURES AND TO DISPERSE VAPORS. WEAR SCBA &
+    PROTECTIVE CLOTHING WHEN FIGHTING FIRE IN ENCLOSED AREA.
+Unusual Fire/Explosion Hazard:VAPORS ARE HEAVIER THAN AIR AND MAY
+    TRAVEL ALONG GROUND OR FLOOR, THEN 'FLASH BACK' FROM A DISTANT
+    IGNITION SOURCE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EXTINGUISH & DO NOT TURN ON ANY IGN SOURCES
+    TIL AREA IS DETERMINED TO BE FREE FROM EXPLOSION/FIRE HAZARDS.
+    COLLECT LG SPILLS FOR DISPOSAL. FLUSH SMALL SPILLS W/WATER.
+Neutralizing Agent:NO INFORMATION GIVEN ON MSDS BY MFR.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:WARNING! FLAMMABLE! CAUSES EYE
+    IRRITATION. KEEP AWAY FROM HEAT,SPARKS,& FLAME. AVOID CONTACT
+    W/EYES. KEEP CONTAINER CLOSED. USE WITH ADEQUATE VENTILA.
+Other Precautions:FOR INDUSTRIAL USE ONLY. TRANSFER HAZ:VAP MAY BE
+    IGNITED BY STATIC SPARKS. USE PROPER BOND/GROUND DURING LIQ TRANSF
+    PER DOC NFPA 77. THOROUGHLY EVALUATE PROD USAGE IN ELEVATED TEMP
+    PROCESSES-REFER TO	TECH BULLETIN "IGN HAZ OF ORG CHEM VAP".
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:SELF-CONTAINED BREATHING APPARATUS IN HIGH VAPOR
+    CONCENTRATIONS.
+Ventilation:GEN(MECHANICAL)RM VENTILATION SHOULD BE SAT. SPECIAL,LOC
+    VENTI NEDDED @PTS WHERE VAP ARE EXPECTED TO ESCAPE TO WORKPLACE
+Protective Gloves:BUTYL
+Eye Protection:MONOGOGGLES
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER,
+Work Hygienic Practices:WASH CONTAMIN CLOTHING PRIOR TO REUSE. WASH
+    THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+OTHER PRECAUTIONS:SUDDEN RELEASE OF HOT ORG CHEM VAP/MISTS FROM PROCESS
+    EQPMT @HI TEMPS/PRESSURE OR SUDDEN AIR ENTERING VAC EQPMT MAY
+    RESULT IN IGNITIONS W/O PRESENCE OF IGN SOURCES. NOTE:COTTON PADS 
+    SATURATED W/91% ISOPROPANOL.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:B.P. Text:176F,80C
+Melt/Freeze Pt:M.P/F.P Text:-76F,-60C
+Vapor Pres:34 MMHG
+Vapor Density:2.1
+Spec Gravity:0.8159
+Evaporation Rate & Reference:3.0   (N-BUTYL ACETATE=1)
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR LIQUID, ALCOHOL ODOR
+Percent Volatiles by Volume:100.0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CONC NITRIC & SULFURIC ACIDS, STRONG OXIDIZERS, ALDEHYDES, HALOGENS,
+    HALOGEN COMPOUNDS.
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:BURNING CARBON MONOXIDE HIGHLY TOXIC)
+    &/OR CARBON DIOXIDE (SUFFICIENT CONC ASPHYXIANT).
+Conditions to Avoid Polymerization:WILL NOT OCCUR
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE IN FURNACE WEHRE PERMITTED UNDER
+    APPROPRIATE LOCAL, STATE AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

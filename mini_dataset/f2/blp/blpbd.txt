@@ -1,0 +1,141 @@
+=====================  Product Identification  =====================
+
+Product ID:POLYESTER RESIN TYPE II
+MSDS Date:07/01/1979
+FSC:8030
+NIIN:00N022331
+MSDS Number: BLPBD
+=== Responsible Party ===
+Company Name:KOPPERS CO INC
+Address:COPPERS BUILDING
+City:PITTSBURGH
+State:PA
+ZIP:15219
+Country:US
+Info Phone Num:412-227-2000, 412-221-3100
+Emergency Phone Num:412-227-2000, 412-221-3100
+CAGE:80592
+=== Contractor Identification ===
+Company Name:KOPPERS CO INC
+Address:3000 KOPPERS BLDG
+Box:City:PITTSBURGH
+State:PA
+ZIP:15219-1818
+Country:US
+CAGE:80592
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:VEHICLE
+Fraction by Wt: 64%
+
+Ingred Name:STYRENE, MONOMER  (SARA III)
+CAS:100-42-5
+RTECS #:WL3675000
+Fraction by Wt: 36%
+OSHA PEL:100 PPM
+ACGIH TLV:S,50PPM/100STEL;9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:DIZZINESS, INCOORDINATION
+    (INTOXICATION), SLIGHT NAUSEA, LOSS OF APPETITE.
+Explanation of Carcinogenicity:STYRENE: IARC GROUP 2B.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:CALL MD; INHAL: GIVE ARTIFICIAL RESPIRATION IF NOT BREATHING,
+    PREFERRABLY BY MOUTH TO MOUTH. INGEST: DO NOT INDUCE VOMITING; CALL
+    MD. EYE: FLUSH WITH WATER FOR AT LEAST 15 MINUTES AND SEE MD. SKIN:
+    WA SH FROM SKIN WITH SOAP AND WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:85.0F,29.4C
+Lower Limits:1.1%
+Upper Limits:6.1%
+Extinguishing Media:EXCLUDE AIR. USE FOAM, STEAM, WATER FOG, DRY
+    CHEMICALS OR CARBON DIOXIDE.
+Fire Fighting Procedures:WHERE CONTACT WITH LIQUID, VAPOR OR SMOKE IS
+    POSSIBLE, WEAR RUBBERIZED PROTECTIVE CLOTHING. NIOSH/MSHA APPROVED
+    SCBA AND FULL PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:VAP FORMS EXPLOS MIX W/AIR BETWEEN UPPER
+    & LOWER LIMITS. WATER CAN BE USED TO COOL CNTNRS. SEALED (CLOSED)
+    CNTNRS CAN BUILD UP PRESS IF EXPOSED TO HEAT (FIRE).
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE OPEN FLAME, SPARKS, HOT SURFACES AND
+    OXIDIZING AGENTS. CLEAN UP WITH ABSORBENT DILUENT. AVOID BREATHING
+    VAPORS. USE PROTECTIVE MEASURES OUTLINED IN CONTROL MEASURES.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN CLSD, PROPERLY LBLD CNTNR IN
+    A COOL, VENTILATED AREA.KEEP AWAY FROM HEAT, OPEN FLAMES &
+    OXIDIZING AGENTS. DO NOT TRANSFER TO UNMARKER CNTNRS.
+Other Precautions:IF OXYGEN LEVEL IS BELOW 19.5% &/OR RESIN VAP
+    CONCENTRATION IS 2% FOR CANISTERS OR 0.1% FOR CARTRIDGES OR ABOVE,
+    USE NIOSH/MSHA APPROVED SCBA UNITS. USE WITH ADEQUATE VENTILATION.
+    AVOID SKIN AND EYE C ONTACT. HARMFUL OR FATAL IF SWALLOWED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE W/ADEQ VENT. WHERE REQUIRED, USE NIOSH/MSHA
+    APPRVD RESP PROT IN COMPLIANCE W/CURRENT OSHA REGS, (IE 1910.134 ET
+    AL). WHERE CARTRIDGE/CANISTER UNIT IS PERMISSIBLE, ORG VAP (OV)
+    UNITS ARE PROT FOR T HE RESIN VAP IN THE EXPOS (SUPP DATA)
+Ventilation:LOCAL EXHAUST WHERE NEC TO MAINTAIN EXPOS LEVELS BELOW OSHA
+    LIMITS. MECH (GEN): YES. SPECIAL: ONLY IF HEATED (SUPP DATA)
+Protective Gloves:RUBBER GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES.
+Other Protective Equipment:IF NECESSARY, RUBBER APRON, SHOES OR BOOTS.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+RESP PROT: RANGE SPECIFIED BY THE SUPPLIER. VENT: NEAR OR ABOVE THE
+    FLASH POINT.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:295F,146C
+Vapor Density:HVR/AIR
+Spec Gravity:1.2
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:SLIGHT
+Appearance and Odor:VISCOUS LIQUID; STYRENE ODOR.
+Percent Volatiles by Volume:48
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING AGENT.
+Stability Condition to Avoid:OPEN FLAME, HEAT, OXIDIZING AGENTS, FREE
+    RADICAL CATALYSTS AND PEROXIDES.
+Hazardous Decomposition Products:SMOKE, CARBON MONOXIDE, CARBON
+    DIOXIDE, HALOGEN & HALOGEN BYPRODUCTS.
+Conditions to Avoid Polymerization:OPEN FLAME, HEAT AND OXIDIZING
+    AGENTS, FREE RADICAL CATALYSTS AND PEROXIDES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:USE EITHER APPROVED SANITARY LANDFILL OR
+    INCINERATION. DO NOT INCINERATE CLOSED CONTAINERS. DISPOSAL MUST BE
+    CARRIED OUT I/A/W LOCAL, STATE AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,163 @@
+=====================  Product Identification  =====================
+
+Product ID:ETHYL ALCOHOL DILUENT FOR BICNU
+MSDS Date:06/27/1989
+FSC:6505
+NIIN:01-156-2062
+MSDS Number: BKYSQ
+=== Responsible Party ===
+Company Name:US PHARM & NUTRITIONAL GROUP
+Address:2400 W LLOYD EXPRESSWAY
+City:EVANSVILLE
+State:IN
+ZIP:47721
+Info Phone Num:(812) 429-5000 OR (812) 429-5678
+Emergency Phone Num:(812) 429-5000 OR (812) 429-5678
+Preparer's Name:JOHN S. BRANSFORD, JR.
+CAGE:NO082
+=== Contractor Identification ===
+Company Name:BRISTOL-MYERS US PHARMACEUTICAL & NUTRITIONAL GP.
+Address:2400 W LLOYD EXPY
+Box:City:EVANSVILLE
+State:IN
+ZIP:47721-0001
+Country:US
+Phone:812-429-5644
+CAGE:29398
+Company Name:OCCUPATIONAL HEALTH SERVICES INC
+Address:11 W 42ND ST 12 THE FLOOR
+City:NEW YORK
+State:NY
+ZIP:10036
+Country:US
+Phone:212-789-3535
+CAGE:0G9K0
+Company Name:US PHARM & NUTRITIONAL GROUP
+Address:2400 W LLOYD EXPRESSWAY
+City:EVANSVILLE
+State:IN
+ZIP:47721
+Phone:(812) 429-5000 OR (812) 429-5678
+CAGE:NO082
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHYL ALCOHOL (ETHANOL)
+CAS:64-17-5
+RTECS #:KQ6300000
+Fraction by Wt: 100%
+Other REC Limits:1900 MG/CUM
+OSHA PEL:1000 PPM
+ACGIH TLV:1000 PPM; 9192
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (GUINEA PIG): 5560 MG/KG.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES:
+    IRRITATION/TEARS/TEARING/BURNING/STINGING/CORNEAL CLOUDINESS. SKIN:
+    REDNESS/BURNING/SENSITIZATION/DRYNESS. INHALATION: UPPER
+    RESPIRATORY TRACT/MUCOUS MEMBRANE IRRITATION/CENTRAL NERVOUS SYSTEM
+    D EPRESSION/HEADACHE/STUPOR/FATIGUE. INGESTION:
+    HEADACHE/VOMITING/DRUNKEDNESS EFFECTS/STUPOR/WEIGHT LOSS/RAPID
+    PULSE.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: CORNEAL
+    EPTHELIUM/HYPEREMIA/TEARS/IRRITATION/BURNS. SKIN: DRYING/FISSURED
+    DERMATITIS/ECZEMATOUS/ERUPTIONS. INHALATION:
+    TREMORS/NARCOSIS/NERVOUSNESS/CNS DEPRESSION/COUGHING. INGESTION:
+    LIVER/KIDN EY/BRAIN
+    CHANGES/GASTROENTERITIS/INSOMNIA/DIARRHEA/PALPITATIONS OF HEART.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: WASH W/WATER/NORMAL SALINE. SKIN: WASH W/SOAP/MILD
+    DETERGENT/PLENTY OF WATER. INHALATION: REMOVE TO FRESH AIR. IF
+    BREATHING HAS STOPPED, GIVE ARTIFICIAL RESPIRATION. KEEP WARM & AT
+    REST. INGESTI ON: IF CONSCIOUS, REMOVE BY GASTRIC LAVAGE/INDUCE
+    EMESTS W/IPECAC SYRUP. KEEP HEAD BELOW HIPS TO PREVENT ASPIRATION.
+    TREAT SYMPTOMATICALLY/SUPPORTIVELY. OBTAIN MEDICAL ATTENTION IN ALL
+    CASES. SEE SUPP
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:55F
+Lower Limits:3.3%
+Upper Limits:19%
+Extinguishing Media:DRY CHEMICAL, CO2, HALON, WATER SPRAY OR ALCOHOL
+    FOAM
+Fire Fighting Procedures:MOVE CONTAINER FROM FIRE. COOL FIRE-EXPOSED
+    CONTAINERS W/WATER. USE WATER IN LARGE AMOUNTS AS FOG, SOLID
+    STREAMS MAY BE INEFFECTIVE. KEEP UPWIND.
+Unusual Fire/Explosion Hazard:STAY AWAY FROM STORAGE TANK ENDS. USE
+    UNMANNED HOSE HOLDER/MONITOR NOZZLES. WITHDRAW IN CASE OF RISING
+    SOUND FROM VENTING SAFETY DEVICE OR DISCOLORATION OF TANK
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SHUT OFF IGNITION SOURCES. STOP LEAK IF SAFE
+    TO DO SO. USE WATER SPRAY TO REDUCE VAPORS. TAKE UP W/SAND OR OTHER
+    ABSORBENT MATERIAL & PLACE INTO CONTAINERS FOR DISPOSAL. KEEP
+    UNNECESSARY PEOPLE AWAY:  ISOLATE HAZARD AREA & DENY ENTRY.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM INCOMPATIBLE
+    SUBSTANCES. AVOID BREATHING OF VAPORS. NO SMOKING. DON'T OVER HEAT
+    CONTAINERS MAY RUPTURE/TRAVEL TO HEAT/FIRE.
+Other Precautions:AUTOIGNITION TEMP: 685F. CONTACT LENSES SHOULD NOT BE
+    WORN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE SUPPLIED AIR-RESPIRATOR W/FULL FACEPIECE IN
+    COMBINATION W/AN AUXILIARY SELF-CONTAINED BREATHING APPARATUS
+    OPERATED IN PRESSURE DEMAND OR OTHER POSITIVE PRESSURE MODE.
+Ventilation:PROVIDE LOCAL EXHAUST OR GENERAL DILUTION VENTILATION TO
+    MAINTAIN <TLV. USE EXPLOSION PROOF EQUIPMENT.
+Protective Gloves:RECOMMENDED
+Eye Protection:SPLASH/DUST PROOF SAFETY GOGGLES
+Other Protective Equipment:IMPERVIOUS PROTECTIVE CLOTHING
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING/SHOES
+    BEFORE REUSE.
+Supplemental Safety and Health
+EVAPORATION RATE: CCL4 = CARBON TETRACHLORIDR. THE PRECAUTIONS IN THIS
+    MSDS IS FOR LARGE QUANTITIES OF ETHYL ALCOHOL. THIS PRODUCT IS A 3
+    ML VIAL OF ETHYL ALCOHOL TO BE USED TO DILUTE BICNU.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:173F
+Melt/Freeze Pt:M.P/F.P Text:-179F
+Vapor Pres:40
+Vapor Density:1.59
+Spec Gravity:0.7893
+Evaporation Rate & Reference:(CCL4 = 1): 1.4 SEE SUPP.
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR, COLORLESS, VOLATILE LIQUID W/PLEASANT ODOR &
+    BURNING TASTE
+Percent Volatiles by Volume:100%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS, ACIDS, ALCOHOLS & METALS
+Stability Condition to Avoid:HEAT, SPARKS, FLAMES & OTHER SOURCES OF
+    IGNITION
+Hazardous Decomposition Products:TOXIC OXIDES OF CARBON
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

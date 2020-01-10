@@ -1,0 +1,150 @@
+=====================  Product Identification  =====================
+
+Product ID:2400 TUN-O-WASH
+MSDS Date:06/01/1987
+FSC:6850
+NIIN:00F019204
+MSDS Number: BLPQN
+=== Responsible Party ===
+Company Name:CHEMTRONICS
+Address:8125 COBB CENTER DR
+City:KENNESAW
+State:GA
+ZIP:30144
+Info Phone Num:(516) 582-3322
+Emergency Phone Num:(516) 582-3322
+Preparer's Name:S. H. STEIN, PH.D.
+CAGE:21267
+=== Contractor Identification ===
+Company Name:CHEMTRONICS INC
+Address:8125 COBB CENTER DRIVE
+Box:City:KENNESAW
+State:GA
+ZIP:30152
+Country:US
+Phone:770-424-4888/800-645-5244
+CAGE:21267
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TRICHLOROFLUOROMETHANE  (CFC-11)  (SARA III)
+CAS:75-69-4
+RTECS #:PB6125000
+Fraction by Wt: 50-70%
+Other REC Limits:1000 PPM MSHA
+OSHA PEL:1000 PPM
+ACGIH TLV:C, 1000 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+Ozone Depleting Chemical:1
+
+Ingred Name:CARBON DIOXIDE
+CAS:124-38-9
+RTECS #:FF6400000
+Fraction by Wt: 3%
+Other REC Limits:10000 PPM
+OSHA PEL:5000 PPM
+ACGIH TLV:5000PPM/30000STEL;93
+
+Ingred Name:1,1,2-TRICHLORO-1,2,2-TRIFLUOROETHANE (FREON 113)  (SARA
+    III)
+CAS:76-13-1
+RTECS #:KJ4000000
+Fraction by Wt: 20-50%
+Other REC Limits:1000 PPM
+OSHA PEL:1000PPM/1250STEL
+ACGIH TLV:1000PPM/1250STEL9192
+Ozone Depleting Chemical:1
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LC50 (RAT): 26,200 PPM/4HR SEE SUPP
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: LIGHT-HEADEDNESS,
+    GIDDINESS, SHORTNESS OF BREATH, NARCOSIS, CARDIAC IRREGULARITIES,
+    UNCONSCIOUSNESS OR DEATH. SKIN: DEFATTING & IRRITATION. EYES:
+    DISCOMFORT.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: LIGHT-HEADEDNESS, GIDDINESS,
+    SHORTNESS OF BREATH, NARCOSIS, CARDIAC IRREGULARITIES,
+    UNCONSCIOUSNESS, OR DEATH. SKIN: DEFATTING & IRRITATION. EYES:
+    DISCOMFORT.
+Medical Cond Aggravated by Exposure:CARDIOVASCUALR DISEASE
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR/GIVE OXYGEN IS REQUIRED. IF
+    NOT BREATHING, GIVE CPR. EYES/SKIN: FLUSH W/PLENTY OF WATER FOR 15
+    MIN. INGESTION: DON'T INDUCE VOMITING. LUNG ASPIRATION HAZARD
+    >PASSING TH ROUGH INTESTINAL TRACT. OBTAIN MEDICAL ATTENTION IN ALL
+    CASES. PHYSICIAN NOTE: CATECHOLAMINE DRUGS, AS EPINEPHRINE,
+    INCREASES RISK OF ELICITING CARDIAC DYSRYTHMIAS. CONSIDER AS LAST
+    RESORT.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TOC
+Flash Point:NONE
+Extinguishing Media:NON-FLAMMABLE
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:PRESSURIZED AEROSOL CONTAINERS AT
+    ELEVATED TEMPERATURES MAY VENT, RUPTURE, OR BURST & ADD TO
+    FLYING/FALLING DEBRIS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA. ALLOW TO EVAPORATE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T PUNCTURE OR INCINERATE AEROSOL
+    CANS. DON'T SPRAY LIQUID ON SKIN. DON'T STORE NEAR HEAT, DIRECT
+    SUNLIGHT OR TEMPS >120F.
+Other Precautions:ROTATE STOCK.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE SELF-CONTAINED BREATHING APPARATUS.
+Ventilation:GENERAL ADEQUATE.  LOCAL EXHAUST: LOW AREAS.	       
+    MECHANICAL VENTILATION.
+Protective Gloves:BUTYL
+Eye Protection:CHEMICAL SPLASH GOGGLES
+Supplemental Safety and Health
+LC50 DATA IS FOR TRICHLOROFLUOROMETHANE.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:75-118F
+Vapor Pres:334
+Vapor Density:4.6
+pH:7
+Evaporation Rate & Reference:(ETHER = 1): 1
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:CLEAR COLORLESS LIQUID W/FAINT SOLVENT ODOR
+Percent Volatiles by Volume:100%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ALKALI OR ALKALINE EARTH METALS, SUCH AS POWDERED ALUMINUM, ZINC,
+    BERYLLIUM
+Stability Condition to Avoid:OPEN FLAMES, RED HOT/GLOWING SURFACES,
+    HEAT >120F.
+Hazardous Decomposition Products:HYDROCHLORIC, HYDROFLUORIC, & CARBONYL
+    HALIDES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DON'T PUNCTURE OR INCINERATE AEROSOL CANS.
+    DISPOSE OF IN ACCORDANCE W/FEDERAL, STATE, & LOCAL REGULATIONS.
+    UN1950.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

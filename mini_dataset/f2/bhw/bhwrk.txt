@@ -1,0 +1,111 @@
+=====================  Product Identification  =====================
+
+Product ID:PR-1826, B-1/4 PART B
+MSDS Date:01/11/1989
+FSC:8030
+NIIN:01-290-5135
+Kit Part:Y
+MSDS Number: BHWRK
+=== Responsible Party ===
+Company Name:PRODUCTS RESEARCH & CHEMICAL CORPORATION
+Address:5430 SAN FERNANDO ROAD
+Box:1800
+City:GLENDALE
+State:CA
+ZIP:91209
+Country:US
+Emergency Phone Num:818-240-2060
+Preparer's Name:D.J.
+CAGE:8K647
+=== Contractor Identification ===
+Company Name:PRODUCTS RESEARCH & CHEMICAL CORPORATION
+Address:5430 SAN FERNANDO RD
+Box:1800
+City:GLENDALE
+State:CA
+ZIP:91209
+Country:US
+Phone:800-228-5635
+CAGE:8K647
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: <5%
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:VOC. ORGANIC CMPD 29.50 LB/GL (MIXED)
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Effects of Overexposure:EYE: IRRITATION 			       
+				    SKIN: LOCAL IRRITATION	       
+						INGST: NAUSEA,
+    VOMITING, LIVER AND KIDNE Y DAMAGEINHL: IRRITATION TO NOSE, THROAT,
+    HEADACHES, DIZZINESS, AND UNCONSCIOUSNESS
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH W/LUKE WARM WATER FOR 15 MINS. CONSULT A
+    PHYSICIAN.			SKIN: WASH W/SOAP & WATER. CONSULT A
+    PHYSICIAN.				       INHAL: REMOVE TO FRESH
+    AIR. CONSULT A PH YSICIAN.INGST: CONSULT A PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:150F/66C
+Lower Limits:1.8
+Upper Limits:11% (MEK)
+Extinguishing Media:CO2, DRY CHEMICAL, FOAM, WATER
+Fire Fighting Procedures:USE AIR SUPPLIED RESPIRATOR
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SCOOP INTO CONTAINERS. CLEAN UP RESIDUE WITH
+    1,1, 1-TRICHLOROETHANE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:GENERAL VENTILATION
+Protective Gloves:SOLVENT RESISTANT
+Eye Protection:SAFETY GLASSES
+Supplemental Safety and Health
+KEY1:F8.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:NA
+Vapor Density:2.5 (MEK)
+Spec Gravity:1.42
+Evaporation Rate & Reference:3.2 (MEK)
+Solubility in Water:NEGLIGIBLE
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Hazardous Decomposition Products:OXIDES OF CARBON, SO2, TRACHES OF H2S
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT STATE REGULATIONS PRIOR TO DISPOSAL OF  
+     SPILLAGE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

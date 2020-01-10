@@ -1,0 +1,155 @@
+=====================  Product Identification  =====================
+
+Product ID:BLUE 35044
+MSDS Date:01/01/1987
+FSC:8010
+NIIN:00-166-3149
+MSDS Number: BDFBW
+=== Responsible Party ===
+Company Name:AMERON PROTECTIVE COATINGS
+Address:201 NORTH BERRY STREET
+City:BREA
+State:CA
+ZIP:92622-1020
+Country:US
+Info Phone Num:714-529-1951
+Emergency Phone Num:714-529-1951
+CAGE:0Y2E4
+=== Contractor Identification ===
+Company Name:AMERON PROTECTIVE COATINGS
+Address:201 NORTH BERRY STREET
+Box:1020
+City:BREA
+State:CA
+ZIP:92622-1020
+Country:US
+Phone:714-529-1951
+CAGE:0Y2E4
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TOLUENE (IARC CARC- GROUP 3)     *97-3*
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 16.3%
+Other REC Limits:375 MG/CUM
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:XYLENE, DIMETHYLBENZENE, XYLOL     (IARC - GROUP 3)  *97-3*
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 8.6%
+Other REC Limits:100 PPM
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM, SKIN
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ISOBUTANOL, 2-METHYL-1-PROPANOL, ISOBUTYL ALCOHOL
+CAS:78-83-1
+RTECS #:NP9625000
+Fraction by Wt: 3.5%
+Other REC Limits:50 PPM
+OSHA PEL:300 MG/CUM
+ACGIH TLV:152 MG/CUM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ISOPROPANOL (ISOPROPYL ALCOHOL), 2-PROPANOL, DIMETHYL
+    CARBINOL	(IARC-GROUP 3)	 *97-3*
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: 7.1%
+Other REC Limits:400 PPM
+OSHA PEL:400 PPM
+ACGIH TLV:400 PPM
+
+Ingred Name:ISOBUTYL ACETATE
+CAS:110-19-0
+RTECS #:AI4025000
+Fraction by Wt: 19.3%
+Other REC Limits:150 PPM
+OSHA PEL:150 PPM
+ACGIH TLV:713 MG/CUM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: ANESTHETIC. IRRITATION TO
+    RESPIRATORY TRACT & MAY CAUSE NERVOUS SYSTEM DEPRESSION. SKIN/EYES:
+    IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:IRRITATION
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN/EYES: FLUSH W/WATER. INHALATION: REMOVE TO FRESH AIR.
+    OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:40F
+Lower Limits:1.3
+Extinguishing Media:SMALL FIRES: CO2/DRY CHEMICAL. LARGE FIRES: FOAM
+Fire Fighting Procedures:USE SELF CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:CLOSED CONTAINERS EXPOSED TO HEAT MAY
+    EXPLODE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION; HOT SURFACES,
+    ELECTRICAL STATIC/FRICTIONAL SPARKS. AVOID BREATHING VAPORS. REMOVE
+    W/INERT ABSORBENT & NON-SPARKING TOOLS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T STORE ABOVE 120F. STORE LARGE
+    QUANTITIES IN BUILDINGS DESIGNED FOR STORAGE OF NFPA CLASS ONE
+    FLAMMABLE/COMBUSTIBLE.
+Other Precautions:CONTAINERS SHOULD BE GROUNDED WHEN POURING. AVOID
+    FREE FALL OF LIQUID IN EXCESS OF A FEW INCHES
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH APPROVED PAINT RESPIRATOR/AIR SUPPLIED
+    RESPIRATOR. RESPIRATOR USED BASED ON CHEMICAL CONDITION &
+    CONDITIONS OF USE.
+Ventilation:PROVIDE GENERAL DILUTION/LOCAL EXHAUST AS NECESSARY.
+Protective Gloves:REQUIRED
+Eye Protection:REQUIRED
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F3
+Boiling Pt:B.P. Text:175-287F
+Vapor Density:>1
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:73
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:FIRE, HEAT, HOT SURFACES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN ACCORDANCE W/LOCAL, STATE & FEDERAL
+    REGULATIONS. DON'T INCINERATE CLOSED CONTAINERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

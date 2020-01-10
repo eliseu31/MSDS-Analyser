@@ -1,0 +1,149 @@
+=====================  Product Identification  =====================
+
+Product ID:TRACER TECH P-131D
+MSDS Date:07/11/1990
+FSC:6850
+NIIN:01-263-4055
+MSDS Number: BJDWM
+=== Responsible Party ===
+Company Name:ARDROX INC
+Address:16961 KNOTT AVE
+City:LA MIRADA
+State:CA
+ZIP:90638-6015
+Country:US
+Info Phone Num:714-739-2821
+Emergency Phone Num:714-739-2821/800-424-9300(CHEMTREC)
+Preparer's Name:SHEREE L. KINZEL
+CAGE:23373
+=== Contractor Identification ===
+Company Name:BRENT AMERICA,  INC.
+Address:16961 KNOTT AVE.
+Box:City:LA MIRADA
+State:CA
+ZIP:90638-6015
+Country:US
+Phone:714-739-2821
+CAGE:23373
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WHITE MINERAL OIL
+CAS:8042-47-5
+RTECS #:PY8047000
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:5 MG/M3 (MIST)
+ACGIH TLV:5 MG/M3 (MIST)
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE-EYES:IRRITATION,
+    SKIN:DERMITITIS, INHALATION:IRRITATION TO THROAT AND LUNGS,
+    INGESTION:CENTRAL NERVOUS SYSTEM DISORDERS.
+    CHRONIC-EYES:IRRITATION, SKIN:CONTACT DERMITITIS,
+    INHALATION:DISORDERS OF  THE CENTRAL NERVOUS SYSTEM,
+    GASTROINTESTIONAL TRACT AND LUNGS, INGESTION:DISORDERS OF THE
+    CENTRAL NERVOUS SYSTEM.
+Explanation of Carcinogenicity:NONE OF THE COMPOUNDS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP, OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:EYES:IRRITATION, SKIN:DRYNESS, CHAPPING, AND
+    REDDENING, INHALATION:NON-SPECIFIC SYSTEMS RELATED TO THE CENTRAL
+    NERVOUS SYSTEM, GASTROINTESTINAL TRACT AND LUNGS,
+    INGESTION:DROWSINESS, DULLNESS, NUMBNES S, AND HEADACHE FOLLOWED BY
+    DIZZINESS, WEAKNESS AND NAUESA, LOSS OF CONSCIOUSNESS AND
+    CONVULSIONS FOLLOWED BY DEATH.
+Medical Cond Aggravated by Exposure:PERSONS WITH PRE-EXISTING SKIN
+    CONDITIONS MAY BE SUSEPTIBLE TO THE EFFECTS OF A COMPONENT(S) OF
+    THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH W/WATER 15 MIN, HOLD LIDS OPEN.  SKIN:WASH WITH
+    SOAP & WATER. REMOVE CONTAMINATED CLOTHING AND LAUNDER BEFORE
+    REUSE.  INHALED:REMOVE TO FRESH AIR. RESTORE BREATHING IF
+    NECESSARY.	INGESTED:D O NOT INDUCE VOMITING. GIVE LARGE AMOUNTS OF
+    WATER AND GET IMMEDIATE MEDICAL CARE. GIVE NOTHING BY MOUTH IF
+    UNCONSCIOUS.   IF IRRITATION PERSISTS OR IS SEVERE,SEE A DOCTOR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:>200F,>93C
+Autoignition Temp:Autoignition Temp Text:428F
+Lower Limits:1.1
+Upper Limits:6.0
+Extinguishing Media:USE CARBON DIOXIDE, FOAM, OR DRY CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WIPE/SOAK UP WITH CLOTH OR PAPER TOWEL OR
+    INERT ABSORBENT. PUT IN DISPOSAL CONTAINER. REMOVE RESIDUE WITH
+    WATER.*FOR LARGE SPILLS, PREVENT RUNOFF FROM ENTERING SEWERS, STORM
+    DRAINS, SURFACE WATER, AND	SOIL.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINERS COOL, DRY AND AWAY
+    FROM SOURCES OF IGNITION. DON'T STORE IN DIRECT SUNLIGHT, HIGH
+    TEMPERATURE, OR BELOW FREEZING AREAS.
+Other Precautions:EXERCISE REASONABLE CARE AND CAUTION. AVOID BREATHING
+    VAPORS AND/OR MISTS AND GETTING PRODUCT IN THE EYES OR ON THE SKIN.
+    GROUND ALL EQUIPMENT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESPIRATOR WILL NOT NORMALLY BE NECESSARY.  IF
+    NECESSARY, USE AN APPROVED POSITIVE PRESSURE, SELF-CONTAINED
+    BREATHING APPARATUS.
+Ventilation:GENERAL ROOM VENTILATION IS NORMALLY ADEQUATE. USE LOCAL
+    EXHAUST IF NECESSARY TO CONTROL EXPOSURE BELOW PEL/TLV.
+Protective Gloves:NEOPRENE, NITRILE, PVC OR NATURAL RUBBER
+Eye Protection:SAFETY GLASSES OR GOGGLES
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER.
+    INDUSTRIAL-TYPE WORK CLOTHING AND APRON AS REQUIRED.
+Work Hygienic Practices:USE GOOD CHEMICAL HYGIENE PRACTICE. AVOID
+    UNNECESSARY CONTACT.
+Supplemental Safety and Health
+DO NOT CONSUME FOOD, DRINK, OR TOBACCO PRODUCTS IN AREAS WHERE THEY MAY
+    BECOME CONTAMINATED WITH THIS MATERIAL.  WASH THOROUGHLY AFTER USE
+    OF THIS PRODUCT. *TWO MSDS'S WERE SUPPLIED BY THE MANUFACTURE R.
+    THEIR COMPANY REPRESENTATIVE, JIM RODDE, SAID TO USE ONLY THE MOST
+    CURRENT ONE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:>240F,>116C
+Spec Gravity:0.871
+Evaporation Rate & Reference:<1(BUTYL ACETATE = 1)
+Solubility in Water:MODERATE
+Appearance and Odor:FLUORESCENT YELLOW-GREEN MOBILE LIQUID.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HIGH TEMPERATURES AND OPEN FLAMES
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT APPROPIATE FEDERAL, STATE AND LOCAL
+    REGULATORY AGENCIES TO ASCERTAIN PROPER DISPOSAL PROCEDURES.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

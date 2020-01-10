@@ -1,0 +1,178 @@
+=====================  Product Identification  =====================
+
+Product ID:186 6151 COLOREDGE 1525 YELLOW DEVELOPER
+MSDS Date:04/12/1995
+FSC:6850
+NIIN:01-387-4839
+MSDS Number: BWRMW
+=== Responsible Party ===
+Company Name:CANON INC
+Address:30-2 SHIMOMARUKO 3-CHOME
+City:OHTO-KU,TOKYO
+Country:US
+Info Phone Num:716-722-5151
+Emergency Phone Num:716-722-5151
+CAGE:S4546
+=== Contractor Identification ===
+Company Name:CANON INC
+Address:11 28 MITA 3 CHOME MINATO KU
+Box:City:TOKYO
+Country:JA
+Phone:03-758-2111
+CAGE:S4546
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+Company Name:EASTMAN KODAK CO US CUSTOMER SERVICE/GOVERNMENT SALES
+Address:800 LEE RD
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-3129
+Country:US
+Phone:800-828-6203
+CAGE:5K871
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:FERRITE (MIXTURE); TOTAL PERCENTAGE OF INGREDIENTS 1 AND 2:
+    85 - 95
+CAS:1317-54-0
+RTECS #:LK0495000
+Fraction by Wt: SEE ING
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:IRON OXIDE
+CAS:1309-37-1
+RTECS #:NO7400000
+Fraction by Wt: SEE # 1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:10 MG/M3 (FE)
+ACGIH TLV:5MG(FE)/M3FUME,B2;96
+
+Ingred Name:CUPRIC OXIDE/COPPER OXIDE
+CAS:1317-38-0
+RTECS #:GL7900000
+Fraction by Wt: <15%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:1 MG CU/M3
+ACGIH TLV:1 MG CU/M3
+
+Ingred Name:ZINC OXIDE (SARA 313) (CERCLA)
+CAS:1314-13-2
+RTECS #:ZH4810000
+Fraction by Wt: <15%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9596
+
+Ingred Name:BISPHENOL A PROPYLENE OXIDE FUMARATE/POLYESTER RESIN
+CAS:39382-25-7
+Fraction by Wt: 3 - 7%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:PIGMENT-TRADE SECRET (NEW JERSEY), REGISTRATION NO.:
+    80100185-5011P
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:SALICYLIC ACID CHROMIUM (III) CHELATE
+CAS:72869-85-3
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL, RAT) IS UNKNOWN.
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:TARGET ORGANS:EYES. ACUTE- EYES:NO
+    SPECIFIC HAZARD KNOWN. MAY CAUSE TRANSIENT IRRITATION. SKIN:LOW
+    HAZARD FOR RECOMMENDED HANDLING. INHALATION:EXPECTED TO BE A LOW
+    HAZARD FOR RECOMMENDED HANDLING. ORA L:EXPECTED TO BE A LOW
+    INGESTION HAZARD. CHRONIC- UNKNOWN.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:TRANSIENT EYE IRRITATION
+Medical Cond Aggravated by Exposure:INDIVIDUALS WITH PRE-EXISTING EYE
+    DISORDERS MAY BE MORE SUCCEPTIBLE TO THE EFFECTS FROM EXPOSURE TO
+    THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:GET MEDICAL HELP IF SYMPTOMS PERSIST. INHALED:MOVE TO FRESH
+    AIR. EYES:ANY MATERIAL THAT CONTACTS THE EYE SHOULD BE WASHED OUT
+    IMMEDIATELY WITH WATER. SKIN:WASH WITH SOAP & WATER. ORAL:DRINK 1-2
+    GLASSE S OF WATER. SEEK MEDICAL ATTENTION. NEVER GIVE ANYTHING BY
+    MOUTH TO AN UNCONSCIOUS PERSON.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Lower Limits:NOT RELEVANT
+Upper Limits:NOT RELEVANT
+Extinguishing Media:WATER SPRAY, CARBON DIOXIDE, FOAM OR DRY CHEMICAL
+    FOR SURROUNDING FIRE. USE WATER SPRAY TO COOL FIRE EXPOSED
+    CONTAINERS.
+Fire Fighting Procedures:WEAR PROTECTIVE CLOTHING AND NIOSH-APPROVED
+    SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP MATERIAL ONTO PAPER AND PLACE IN A FIBER
+    CARTON. CLEAN SURFACE THOROUGHLY TO REMOVE RESIDUAL CONTAMINATION.
+Neutralizing Agent:NOT RELEVANT
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN DRY PLACE.
+Other Precautions:KEEP CONTAINER CLOSED. AVOID CONTACT WITH EYES. WASH
+    THOROUGHLY AFTER HANDLING MATERIAL. KEEP OUT OF REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SHOULD BE NEEDED.
+Ventilation:GOOD GENERAL VENTILATION (TYPICALLY 10 AIR CHANGES/HR)
+    SHOULD BE USED. VENTILATION RATES SHOULD BE MATCHED TO CONDITIONS
+Protective Gloves:LATEX FOR PROLONGED/REPEATED CONTACT
+Eye Protection:SAFETY GLASSES/GOGGLES RECOMMENDED
+Other Protective Equipment:EYE WASH STATION, WASHING FACILITY
+Work Hygienic Practices:OBSERVE GOOD INDUSTRIAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+NRC/State Lic Num:NOT RELEVANT
+Melt/Freeze Pt:M.P/F.P Text:212F- 302F
+Spec Gravity:1.0 - 4.5
+Evaporation Rate & Reference:NOT RELEVANT
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:YELLOW POWDER - SLIGHT ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE WITH COMMON MATERIALS AND CONTAMINANTS WITH WHICH THE MATERIAL MAY
+    REASONABLY COME INTO CONTACT.
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE OR LANDFILL. DISCHARGE, TREATMENT OR
+    DISPOSAL IS SUBJECT TO FEDERAL, STATE OR LOCAL LAWS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

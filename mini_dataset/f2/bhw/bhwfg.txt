@@ -1,0 +1,143 @@
+=====================  Product Identification  =====================
+
+Product ID:L AGENT SIMULANT VIAL,(SEE SUPP DATA)
+MSDS Date:01/01/1987
+FSC:6910
+NIIN:00-106-4800
+Kit Part:Y
+MSDS Number: BHWFG
+=== Responsible Party ===
+Company Name:CHEMTRONICS,INC NOW,JET RESEARCH
+Address:180 OLD BEE TREE RD
+City:SWANNANOA
+State:NC
+ZIP:28778
+Country:US
+Info Phone Num:704-298-7941
+Emergency Phone Num:704-298-7941
+CAGE:KO082
+=== Contractor Identification ===
+Company Name:CHEMTRONICS INC
+Address:180 OLD BEE TREE RD
+Box:City:SWANNANOA
+State:NC
+ZIP:28778-3409
+Country:US
+Phone:NOT LISTED IN PHONE DIRECTORY
+CAGE:60737
+Company Name:CHEMTRONICS,INC NOW JET RESEARCH(NO LONGER MFR)
+Address:180 OLD BEE TREE ROAD
+Box:City:SWANNANOA
+State:NC
+ZIP:28778
+Country:US
+Phone:703-298-7941
+CAGE:KO082
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PHENYLHYDRAZINE
+CAS:100-63-0
+RTECS #:MV8925000
+Other REC Limits:N/K 
+OSHA PEL:S, 5 PPM/10 STEL
+ACGIH TLV:S, 0.1 PPM, A2; 9192
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 RABBIT ORAL 80 MG/KG.
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EXTREMELY HARMFUL IF INHALED,INGESTED
+    OR ABSORBED THROUGH SKIN.CAUSES BURNS,SKIN SENSITIZATION AND
+    INTERNAL ORGAN DAMAGE.
+Explanation of Carcinogenicity:PHENYL HYDRAZINE:ACGIH A2:SUSPECTED
+    HUMAN CARCINOGEN (1990).
+Effects of Overexposure:EYES:BURNS.SKIN:BURNS,SENSITIZATION.EXTREMELY
+    HARMFUL IF ABSORBED.INGESTION:BURNS,INTERNAL ORGAN DAMAGE.EXTREMELY
+    HARMFUL IF INGESTED.INHALATION:EXTREMELY HARMFUL IF INHALED.CAUSES
+    BURNS & INTERNAL OR GAN DAMAGE.
+Medical Cond Aggravated by Exposure:N/K 
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH WITH WATER FOR 15 MINUTES.SKIN:REMOVE CONTAMINATED
+    CLOTHING.WASH THOROUGHLY.INGESTION:GIVE 2 GLASSES OF WATER.DO NOT
+    INDUCE VOMITING.SEEK MEDICAL ATTENTION.INHALATION:MOVE TO FRESH
+    AIR.IF N ECESSARY GIVE ARTIFICIAL RESPIRATION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:192F,89C
+Lower Limits:N/K 
+Upper Limits:N/K 
+Extinguishing Media:DRY CHEMICAL,CO*2,ALCOHOL FOAM.
+Fire Fighting Procedures:WEAR SCBA ESPECIALLY IN ENCLOSED AREAS.
+Unusual Fire/Explosion Hazard:EMITS TOXIC FUMES OF NITROGEN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB SPILLS WITH SAND OR VERMICULITE AND
+    PLACE IN SUITABLE CONTAINER FOR DISPOSAL.WEAR RESPIRATORY
+    PROTECTION DURING CLEAN-UP.
+Neutralizing Agent:N/K 
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:WASH ALL BODILY CONTACT AREAS
+    THOROUGHLY.REMOVE & LAUNDER ALL CONTAMINATED CLOTHING BEFORE REUSE.
+Other Precautions:WASH HANDS & FACE BEFORE
+    EATING,DRINKING,SMOKING,APPLYING MAKE-UP OR USING TOILET
+    FACILITIES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR RESPIRATOR WITH ORGANIC CARTRIDGE.
+Ventilation:CONSULT LOCAL SAFETY/HEALTH AUTHORITIES IF ADDITIONAL
+    GUIDANCE IS NEEDED .LOCAL EXHAUST TO LESS THAN TLV.
+Protective Gloves:RUBBER
+Eye Protection:SPLASH PROOF GOGGLES.
+Other Protective Equipment:N/K 
+Work Hygienic Practices:LAUNDER CONTAM CLTHG BEFORE REUSE.WASH HANDS &
+    FACE BEFORE EATING,DRINKING,SMKNG,MAKE-UP APPLIC,USING TOILET
+    FACILITIES.
+Supplemental Safety and Health
+PART NO:PHENYLHYDRAZINE (M72-A TRNG).TLV:5 PPM (SKIN).
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:244C,471F
+Melt/Freeze Pt:M.P/F.P Text:N/K 
+Decomp Temp:Decomp Text:N/K 
+Vapor Pres:<0.1 MMHG
+Vapor Density:>1 (AIR=1)
+Spec Gravity:1.098 (WATER=1)
+Evaporation Rate & Reference:>1
+Solubility in Water:SLIGHT
+Appearance and Odor:CLEAR LIQUID WITH AROMATIC ODOR.
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STORE AWAY FROM OXIDIZERS,LEAD OXIDE.
+Stability Condition to Avoid:HEAT,SPARKS AND OPEN FLAME.
+Hazardous Decomposition Products:OXIDES OF NITROGEN AND CARBON.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISP MUST BE IAW FEDERAL,STATE & LOCAL
+    REGS.COORDINATION W/ SUPPORTING INSTALLATION/MACOM ENVIRON
+    COORDINATION BEFORE DISP IS REC TO DETERM APPROP DISP METHODS
+    .INCIN UNCONTAM WASTE IAW LOCAL,ST ATE & FEDERAL REGS USING
+    AFTERBURNER & SCRUBBER.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,141 @@
+=====================  Product Identification  =====================
+
+Product ID:TARAMET STERLING WIRE SOLDER
+MSDS Date:03/01/1987
+FSC:3439
+NIIN:01-277-4758
+MSDS Number: BHWQZ
+=== Responsible Party ===
+Company Name:TARACORP INDUSTRIES IMACO PLANT
+Address:20 E ACADIA AVE
+City:WINSTON-SALEM
+State:NC
+ZIP:27108
+Country:US
+Info Phone Num:919-777-8600
+Emergency Phone Num:919-777-8600
+CAGE:84996
+=== Contractor Identification ===
+Company Name:TARACORP INDUSTRIES IMACO PLANT
+Address:20 E ACADIA AVE
+Box:City:WINSTON-SALEM
+State:NC
+ZIP:27108
+Country:US
+CAGE:84996
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TIN
+CAS:7440-31-5
+RTECS #:XP7320000
+Fraction by Wt: 95%
+OSHA PEL:2 MG/M3
+ACGIH TLV:2 MG/M3; 9192
+
+Ingred Name:COPPER  (SARA III)
+CAS:7440-50-8
+RTECS #:GL5325000
+Fraction by Wt: 4.5%
+OSHA PEL:0.1MG/M3 FUME/1 DUST
+ACGIH TLV:0.2MG/M3 FUME; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:SILVER  (SARA III)
+CAS:7440-22-4
+RTECS #:VW3500000
+Fraction by Wt: 0.5%
+OSHA PEL:0.01 MG/M3
+ACGIH TLV:0.1 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:UNCLASSIFIED WELDING FUMES=5MG/M3 PEL
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SHORT TERM EXPOSURE TO WELDING FUMES,
+    GASES OR DUST MAY RESULT IN DISCOMFORT SUCH AS DIZZINESS, NAUSEA,
+    FEVER, DRYNESS AND/OR IRRITATION OF NOSE, THROAT AND EYES. SKIN
+    SENSITIVITY MAY ALSO BE NOTED. P ROLONGED OVEREXPOSURE CAN RESULT
+    IN BENIGN PNEUMOCNIOSIS.
+Effects of Overexposure:SEE "HEALTH HAZARDS"
+Medical Cond Aggravated by Exposure:SOME WORKERS MAY BE AFFECTED BY A
+    PRE-EXISTING CONDITION OR OTHER OCCUPATIONAL ILLNESS BECAUSE OF THE
+    WIDE VARIATION IN INDIVIDUAL SUSCEPTIBILITIES.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:WASH WITH SOAP & WATER,GET MEDICAL ATTENTION IF
+    IRRITATION DEVELOPES; EYE:FLUSH WITH WATER REMOVE PARTICULATE;
+    INHALE:REMOVE TO FRESH AIR,GET MEDICAL ATTENTION; INGEST:GIVE
+    WATER. INDUCE VOMITING ,GET MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE PROPER MEDIA FOR SURROUNDING FIRE.
+Fire Fighting Procedures:IF INCOLVED IN FIRE, USE NIOSH/MSHA APPROVED
+    SELF-CONTAINED BREATHING APPARATUS & FULL PROTECTIVE CLOTHING.
+Unusual Fire/Explosion Hazard:NONE STATED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CLEAN UP ANY GRINDING DUST OR WASTE RESIDUES
+    AND PLACE IN SUITABLE DOT APPROVED CONTAINERS. KEEP OUT OF
+    WATERWAYS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:PRACTICE GOOD HOUSEKEEPING PROCEDURES
+    TO PREVENT DUST ACCUMULATIONS. KEEP MATERIAL DRY. KEEP PRODUCT AWAY
+    FROM CHILDREN.
+Other Precautions:SPECIAL ATTENTION IS DRAWN TO THE REGUIREMENTS OF THE
+    OSHA RESPIRATOR STANDARD (1910.134)
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE WELD FUME RESPIRATOR OR AIR SUPPLIED
+    RESPIRATOR WHEN CUTTING, GRINDING OR WELDING IN A CONFINED SPACE OR
+    WHERE LOCAL EXHAUST OR GENERAL VENTILATION DOES NOT KEEP EXPOSURE
+    BELOW RECOMMENDED LIMITS.  USE ONLY NIOSH APPROVED RESPIRATORS.
+Ventilation:NATURAL OR MECHANICAL VENTILATION SYSTEMS TO MAINTAIN
+    LEVELS BELOW THE PEL'S/TLV'S.
+Protective Gloves:WELDERS LEATHER GLOVES
+Eye Protection:OSHA APPROVED GOGGLES/FACE SHIELD W/LENS
+Other Protective Equipment:FLAME RETARDANT CLOTHING WHEN CUTTING,
+    GRINDING OR WELDING. DO NOT EXPOSE SKIN TO RADIATION WHEN HOT
+    CUTTING OR WELDING.
+Work Hygienic Practices:WASH THOROUGHLY BEFORE EATING OR SMOKING.
+    LAUNDER CONTAMINATIED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Spec Gravity:5.91
+Solubility in Water:INSOLUBLE
+Appearance and Odor:SILVER TO SILVER GRAY METAL, NO ODOR.
+Percent Volatiles by Volume:0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CHLORINE,TURPENTINE, ACETYLENE GAS, MAGNESIUM METAL.
+Stability Condition to Avoid:NONE STATED.
+Hazardous Decomposition Products:OXIDES OF TIN & COPPER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W FEDERAL, STATE & LOCAL REGULATIONS
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

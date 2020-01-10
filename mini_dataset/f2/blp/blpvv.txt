@@ -1,0 +1,111 @@
+=====================  Product Identification  =====================
+
+Product ID:QUICK SEAL 7
+MSDS Date:07/07/1984
+FSC:5610
+NIIN:00F019295
+MSDS Number: BLPVV
+=== Responsible Party ===
+Company Name:ARROW ENTERPRISES INC
+Box:7453
+City:GRAND RAPIDS
+State:MI
+ZIP:49510
+Info Phone Num:(616) 247-7877
+Emergency Phone Num:(616) 247-7877
+Preparer's Name:WILLIAM R. REID
+CAGE:FO959
+=== Contractor Identification ===
+Company Name:ARROW ENTERPRISES INC
+Box:7453
+City:GRAND RAPIDS
+State:MI
+ZIP:49510
+Phone:(616) 247-7877
+CAGE:FO959
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ALUMINUM SILICATE, BENTONITE, MONTMORILLONITE
+CAS:1302-78-9
+RTECS #:CT9450000
+Fraction by Wt: 81.5%
+ACGIH TLV:10 MG/CUM (DUST)
+
+Ingred Name:WATER, H2O	 (8% ABSORBED & 6% CHEMICALLY BONDED)
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 14%
+
+Ingred Name:SILICA, CRYSTALLINE - QUARTZ
+CAS:14808-60-7
+RTECS #:VV7330000
+Fraction by Wt: 4.5%
+Other REC Limits:0.05 MG/CUM NIOSH
+OSHA PEL:SEE TABLE Z3
+ACGIH TLV:0.1 MG/M3 RDUST;9293
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: DUST MAY CAUSE LUNG
+    DISEASE.
+Explanation of Carcinogenicity:CRYSTALLINE SILICA IS A SUSPECTED HUMAN
+    CARCINOGEN.
+Effects of Overexposure:INHALATION: DUST MAY CAUSE LUNG DISEASE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH THOROUGHLY W/WATER. SKIN: WASH W/SOAP & WATER.
+    INHALATION: REMOVE TO FRESH AIR. OBTAIN MEDICAL ATTENTION IN ALL
+    CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON-FLAMMABLE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP OR COLLECT & REUSE AS PRODUCT. IF
+    CONTAMINATED W/OTHER MATERIALS, COLLECT IN SUITABLE CONTAINERS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTACT W/EYES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF DUST IS >TLV, USE NIOSH APPROVED DUST
+    RESPIRATOR W/APPROVAL TC-21C-XXX, UNTIL ENGINEERING CONTROLS ARE
+    COMPLETED.
+Ventilation:LOCAL EXHAUST OR OTHER VENTILATION TO KEEP <TLV.
+Eye Protection:TIGHT-FITTING GOGGLES
+Other Protective Equipment:AS REQUIRED
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:2.6
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:YELLOW, TAN TO BLUE GRANULES OR POWDER W/EARTHY
+    ODOR
+Percent Volatiles by Volume:0%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:BURY IN APPROVED LAND DISPOSAL FACILITY IN
+    ACCORDANCE W/FEDERAL, STATE, & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

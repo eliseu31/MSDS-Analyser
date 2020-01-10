@@ -1,0 +1,149 @@
+=====================  Product Identification  =====================
+
+Product ID:IODINE
+MSDS Date:03/22/1991
+FSC:6505
+NIIN:01-167-8799
+MSDS Number: BLMWN
+=== Responsible Party ===
+Company Name:RUGER CHEMICAL CO./AMEND DRUG & CHEMICAL CO.
+Address:83 CORDIER STREET
+City:IRVINGTON
+State:NJ
+ZIP:07111
+Country:US
+Info Phone Num:201-926-0331
+Emergency Phone Num:201-926-0331/CHEMTREC 800-424-9300
+CAGE:20979
+=== Contractor Identification ===
+Company Name:AMEND DRUG AND CHEMICAL CO
+Address:83 CORDIER ST
+Box:City:HILLSIDE
+State:NJ
+ZIP:07205
+Country:US
+Phone:201-926-0333
+CAGE:20979
+Company Name:RUGER CHEMICAL CO. INC
+Address:83 CORDIER STREET
+Box:City:IRVINGTON
+State:NJ
+ZIP:07111
+Country:US
+Phone:973-926-0331
+CAGE:64220
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:IODINE
+CAS:7553-56-2
+RTECS #:NN1575000
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:C 0.1 PPM
+ACGIH TLV:C 0.1 PPM; 9192
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL RAT) IS 14000 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE-INHALATION:VAPORS SEVERELY
+    IRRITATE THE MUCOUS MEMBRANE & RESPIRATORY TRACT.CAN CAUSE
+    HEADACHE,SORE THROAT & PULMONARY EDEMA.EYE:VAPORS SEVERELY IRRITATE
+    & CAUSE TEARING & INFLAMMATION.SKIN:SEVE RE IRRITATION &
+    LESIONS.INGESTION:MAY CAUSE BURNING,PAIN,DIARRHEA,FEVER &
+    SHOCK.CHRONIC-ALLERGIC SENSITIZATION,INSOMNIA.
+Effects of Overexposure:INHALING VAPORS SEVERELY IRRITATE THE MUCOUS
+    MEMBRANE & RESPIRATORY TRACT. CAN CAUSE HEADACHE, SORE THROAT &
+    PULMONARY EDEMA. VAPORS SEVERELY IRRITATE EYES & CAUSE TEARING &
+    INFLAMMATION. CRYSTALS CAU SE SEVERE IRRITATION & LESIONS.
+    INGESTION MAY CAUSE BURNING, PAIN, DIARRHEA, VOMITING, FEVER &
+    SHOCK.
+Medical Cond Aggravated by Exposure:PERSONS WITH PRE-EXISTING SKIN
+    DISORDERS, EYE PROBLEMS, IMPAIRED RESPIRATORY FUNCTIONS OR DISEASE
+    OF THE THYROID, LUNGS OR KIDNEY MAY BE MORE SUSCEPTIBLE TO THE
+    EFFECTS OF THE SUBSTANCE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:GET MEDICAL CARE IN ALL CASES.INHALATION:REMOVE TO FRESH
+    AIR.GIVE CPR/OXYGEN IF NEEDED.EYES:IMMEDIATELY FLUSH WITH WATER FOR
+    15 MINUTES HOLDING EYELIDS OPEN.SKIN:WIPE OFF EXCESS FROM SKIN.WASH
+    SKIN WI TH SOAP & WATER FOR 15 MINUTES.INGESTION:IF CONSCIOUS,DRINK
+    WATER/MILK.INDUCE VOMITING IF MEDICAL HELP IS NOT IMMEDIATELY
+    AVAILABLE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NOT COMBUSTIBLE
+Extinguishing Media:MEDIA APPROPRIATE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:WEAR FIRE FIGHTING PROTECTIVE EQUIPMENT & A
+    FULL FACED SELF CONTAINED BREATHING APPARATUS OPERATED IN POSITIVE
+    PRESSURE.COOL FIRE EXPOSED CONTAINERS WITH WATER.
+Unusual Fire/Explosion Hazard:CONTACT WITH OXIDIZABLE SUBSTANCES MAY
+    CAUSE EXTREMELY VIOLENT COMBUSTION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE EQUIPMENT & A SELF-CONTAINED
+    BREATHING APPARATUS.VENTILATE THE AREA.DIKE AREA OF SPILL OR
+    LEAK.CONTAIN AND RECOVER LIQUID WHERE POSSIBLE.ABSORB WITH
+    VERMICULITES,DRY SAND OR EARTH FOR	DISPOSAL AS HAZARDOUS WASTE.DO
+    NOT FLUSH TO SEWER.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORAGE-STORE IN A COOL,DRY,WELL
+    VENTILATED AREA OUT OF DIRECT SUNLIGHT.
+Other Precautions:KEEP IN TIGHTLY CLOSED CONTAINER. PROTECT AGAINST
+    PHYSICAL DAMAGE. KEEP AWAY FROM REACTIVE/COMBUSTIBLE MATERIALS.
+    AVOID CONTACT WITH EYES, SKIN  OR CLOTHING. DO NOT BREATHE VAPORS.
+    WASH THOROUGHLY AFT ER HANDLING AND BEFORE EATING/DRINKING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF THE TLV IS EXCEEDED, A FULL FACEPIECE
+    CHEMICAL CARTRIDGE RESPIRATOR MAY BE WORN. ALTERNATIVELY, A
+    SUPPLIED AIR FULL FACEPIECE RESPIRATOR MAY BE WORN.
+Ventilation:LOCAL AND/OR GENERAL EXHAUST VENTILATION IS RECOMMENDED.
+Protective Gloves:NEOPRENE
+Eye Protection:CHEMICAL SAFETY GOGGLES
+Other Protective Equipment:EYE WASH STATION, SAFETY SHOWER, IMPERVIOUS
+    BOOTS, LAB COAT, COVERALLS. DO NOT WEAR CONTACT LENSES.
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:363F SUBLIM
+Melt/Freeze Pt:M.P/F.P Text:237F,114C
+Vapor Pres:0.3 @20C
+Vapor Density:8.8
+Spec Gravity:4.96
+Solubility in Water:0.03% @ 20C
+Appearance and Odor:BLUISH-BLACK CRYSTALS, METALLIC LUSTER - PUNGENT
+    ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+REDUCING AGENTS, AMMONIA, ALKALI METALS, AMMONIUM HYDROXIDE
+Stability Condition to Avoid:HIGH HEAT, OPEN FLAMES
+Hazardous Decomposition Products:TOXIC GASES AND VAPORS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT APPROPRIATE FEDERAL, STATE AND LOCAL
+    REGULATORY AGENCIES TO ASCERTAIN PROPER DISPOSAL PROCEDURES.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

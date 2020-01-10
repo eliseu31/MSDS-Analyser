@@ -1,0 +1,137 @@
+=====================  Product Identification  =====================
+
+Product ID:N 700A BLACK NEOPRENE MAINTENANCE COATING
+MSDS Date:05/23/1991
+FSC:8010
+NIIN:00F019224
+MSDS Number: BLPRM
+=== Responsible Party ===
+Company Name:HEARTZ MASON INC
+Address:270 PLEASANT ST
+Box:322
+City:WATERTOWN
+State:ME
+ZIP:02172-2401
+Info Phone Num:(617) 926-2300
+Emergency Phone Num:(617) 926-2300
+CAGE:FO956
+=== Contractor Identification ===
+Company Name:HAARTZ-MASON, INC.
+Address:270 PLEASANT STREET
+Box:322
+City:WATERTOWN
+State:MA
+ZIP:02172
+Country:US
+Phone:617-926-2300
+CAGE:84697
+Company Name:HEARTZ MASON INC
+Address:270 PLEASANT ST
+Box:322
+City:WATERTOWN
+State:ME
+ZIP:02172-2401
+Phone:(617) 926-2300
+CAGE:FO956
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS)	(SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 4%
+Other REC Limits:100 PPM
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION. SKIN: IRRITATION &
+    DRYNESS. INHALATION: MUCOUS MEMBRANES IRRITATION & NARCOSIS.
+    INGESTION: LIVER & CARDIAC ABNORMALITIES, NAUSEA/VOMITING.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: IRRITATION. SKIN: IRRITATION & DRYNESS.
+    INHALATION: MUCOUS MEMBRANES IRRITATION & NARCOSIS. INGESTION:
+    LIVER & CARDIAC ABNORMALITIES, NAUSEA/VOMITING.
+Medical Cond Aggravated by Exposure:RESPIRATORY AILMENTS
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION: DON'T INDUCE VOMITING. SKIN: WASH W/SOAP & WATER.
+    INHALATION: REMOVE TO FRESH AIR OR GIVE OXYGEN. IF NOT BREATHING,
+    USE CPR. EYES: FLUSH ABUNDENTLY W/CLEAR WATER. OBTAIN MEDICAL
+    ATTENTION I N ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:40F
+Lower Limits:1%
+Upper Limits:7%
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS. USE
+    WATER SPRAY TO COOL FIRE EXPOSED STRUCTURES & DISPOSE VAPOR CLOUD
+    IF FIRE IS NOT PRESENT.
+Unusual Fire/Explosion Hazard:SOLVENT VAPORS MAY TRAVEL CONSIDERABLE
+    DISTANCE & FLASH BACK FROM A SOURCE OF IGNITION. AUTOIGNITION
+    TEMP:947F.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB IN SAND, EARTH, VERMICULITE, OIL-DRI OR
+    SOL-SPEED-DRI. SHOVEL INTO STEEL CONTAINER & COVER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN APPROVED SOLVENT STORAGE
+    AREAS. KEEP TIGHTLY CLOSED.
+Other Precautions:KEEP FROM HEAT, OPEN FLAMES, SPARKS, HEAT SURFACES &
+    OXIDIZING AGENTS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH-APPROVED ATMOSPHERE OR AIR PURIFYING
+    RESPIRATOR FOR ORGANIC VAPORS AS REQUIRED.
+Ventilation:EXPLOSION-PROOF MECHANICAL OR LOCAL EXHAUST
+Protective Gloves:PVA
+Eye Protection:SAFETY GOGGLES
+Other Protective Equipment:FULL PROTECTIVE EQUIPMENT
+Work Hygienic Practices:GOOD PERSONAL HYGIENE, KEEP AREA CLEAN & CLEAN
+    UP SPILLS IMMEDIATELY.
+Supplemental Safety and Health
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:231
+Vapor Pres:25K
+Vapor Density:3.2
+Spec Gravity:1.028
+Evaporation Rate & Reference:(BU AC = 1): 1.5-2
+Solubility in Water:INSOLUBLE
+Appearance and Odor:BLACK VISCOUS LIQUID W/CHARACTERISTIC ODOR.
+Percent Volatiles by Volume:75%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING AGENTS
+Stability Condition to Avoid:HIGH HEAT, OPEN FLAMES, SPARKS, HOT
+    SURFACES & OTHER IGNITION SOURCES.
+Hazardous Decomposition Products:CO, CO2 & HYDROGEN CHLORIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/FEDERAL, STATE &
+    LOCAL CHEMICAL & SOLVENT WASTE DISPOSAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

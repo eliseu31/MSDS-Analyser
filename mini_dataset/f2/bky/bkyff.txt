@@ -1,0 +1,122 @@
+=====================  Product Identification  =====================
+
+Product ID:ANSULITE 3X3 ALCOHOL RESISTANT CONCENTRATE
+MSDS Date:01/01/1990
+FSC:4210
+NIIN:00F018551
+MSDS Number: BKYFF
+=== Responsible Party ===
+Company Name:ANSUL FIRE PROTECTION/WORMALD US INC
+Address:ONE STANTON STREET
+City:MARINETTE
+State:WI
+ZIP:54143-2542
+Info Phone Num:(715) 735-7411
+Emergency Phone Num:(715) 735-7411
+CAGE:03670
+=== Contractor Identification ===
+Company Name:ANSUL INC
+Address:ONE STANTON STREET
+Box:City:MARINETTE
+State:WI
+ZIP:54143-2542
+Country:US
+Phone:715-735-7411
+CAGE:03670
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:2-(2-BUTOXYETHYOXY)-ETHANOL, DIETHYLENE GLYCOL MONOBUTYL
+    ETHER (BUTYL CARBITOL)
+CAS:112-34-5
+RTECS #:KJ9100000
+Fraction by Wt: 10%
+
+Ingred Name:SODIUM O-PHENYLPHENATE (4H2O), DOWICIDE A
+CAS:132-27-4
+RTECS #:DV7700000
+Fraction by Wt: 0.015%
+
+Ingred Name:HIGH MOLECULAR WEIGHT POLYSACCHARIDES
+
+Ingred Name:WATER, H2O
+CAS:7732-18-5
+RTECS #:ZC0110000
+
+Ingred Name:INORGANIC SALTS
+
+Ingred Name:FLUOROSURFACTANTS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): 4120 MG/CUM.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES/SKIN: TRANSIENT IRRITATION.
+    INGESTION: MUCOUS MEMBRANE IRRITATION, NARCOSIS, LIVER & KIDNEY
+    DAMAGE.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES/SKIN: TRANSIENT IRRITATION. INGESTION:
+    MUCOUS MEMBRANE IRRITATION, NARCOSIS, LIVER & KIDNEY DAMAGE.
+Medical Cond Aggravated by Exposure:KIDNEY & LIVER DISEASES
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER. SKIN: WASH W/SOAP & WATER. INHALATION:
+    REMOVE TO FRESH AIR. INGESTION: IF CONSCIOUS, INDUCE VOMITING.
+    AFTER MATERIAL IS CLEARED, GIVE LARGE AMOUNTS OF WATER. OBTAIN
+    MEDICAL ATTENT ION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:RINSE FLOOR THOROUGHLY W/WATER AS MATERIAL CAN
+    PRESENT A HAZARD. PREVENT MATERIAL FROM REACHING SEWERS OR
+    WATERWAYS TO AVOID NUISANCE FOAMING.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN ORIGINAL CONTAINER. DON'T MIX
+    AGENTS. AVOID SKIN & EYE CONTACT & INGESTION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NORMALLY REQUIRED
+Ventilation:MECHANICAL (GENERAL): RECOMMENDED.
+Protective Gloves:RECOMMENDED
+Eye Protection:CHEMICAL GOGGLES
+Other Protective Equipment:EYE WASH & SAFETY SHOWERS
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>212F
+Vapor Density:<1
+Spec Gravity:1
+Evaporation Rate & Reference:(BU AC = 1):  0.4
+Solubility in Water:COMPLETE
+Appearance and Odor:OFF WHITE GEL-LIKE W/MILD SWEET ODOR
+Percent Volatiles by Volume: 85%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+WATER REACTIVE METALS, ELECTRICALLY ENERGIZED EQUIPMENT ORR ANY OTHER
+    MATERIAL REACTIVE W/WATER
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

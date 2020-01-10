@@ -1,0 +1,114 @@
+=====================  Product Identification  =====================
+
+Product ID:TL-26
+MSDS Date:01/01/1985
+FSC:8010
+NIIN:00-194-0318
+MSDS Number: BDHZW
+=== Responsible Party ===
+Company Name:AKZO COATINGS INC
+Address:434 W. MEATS STREET
+City:ORANGE
+State:CA
+ZIP:92661
+Country:US
+Info Phone Num:714-637-1750
+Emergency Phone Num:714-637-1750; CHEMTREC 800-424-9300
+CAGE:98502
+=== Contractor Identification ===
+Company Name:AKZO COATINGS INC
+Address:434 W. MEATS STREET
+Box:City:ORANGE
+State:CA
+ZIP:92661
+Country:US
+Phone:714-637-1750; CHEMTREC 800-424-9300
+CAGE:98502
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:KETONE SOLVENTS
+Fraction by Wt: 100%.
+ACGIH TLV:25-200 PPM(MFR)
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:HEADACHE,NAUSEA,DIZZINESS.BREATHING VAPOR WILL
+    BE IRRITATING TO NOSE,THROAT AND EYES.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:WASH AFFECTED AREA W/SOAP & WATER. EYE:IMMEDIATELY FLUSH
+    W/WATER AT LEAST 15 MIN.CALL MD. INGESTION:IMMEDIATELY CALL MD.
+    INHALATION:REMOVE VICTIM TO FRESH AIR.CALL MD.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:23F TCC (MIN)
+Lower Limits:1.2
+Extinguishing Media:FOAM,CO*2,STEAM,WATER FOG,DRY CHEM.EXCLUDE AIR.DONT
+    USE H*2O
+Fire Fighting Procedures:DO NOT USE WATER.COOL EXPOSED SURFACES W/WATER
+    SPRAY.
+Unusual Fire/Explosion Hazard:VAPOR FORMS EXPLOSIVE MIXTURE W/AIR
+    BETWEEN UPPER & LOWER EXPLOSION LIMITS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE SOURCES OF IGNITION AND CLEAR FUMES
+    FROM AREA. PREVENT LIQUID FROM ENTERNG SEWERS,WATER COURSES,LOW
+    AREAS.KEEP UNNECESSARY PERSONNEL AWAY.SHUT OFF SOURCE IF
+    POSSIBLE.CONTAIN SPILL W/SAWDUST, SAND,OIL ABSORBNG CMPD.WASH AREA
+    W/DETERGENT & H2O
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINERS CLOSED WHEN NOT IN
+    USE. DO NOT HANDLE OR STORE NEAR FLAME,HEAT OR STRONG OXIDANTS.
+    ADEQUATE VENTILATION REQUIRED.
+Other Precautions:CONTAINERS OF THIS PRODUCT MAY BE HAZARDOUS WHEN
+    EMPTIED(RETAIN PRODUCT RESIDUES-VAPOR,LIQ,ETC).ALL HANDLING EQUIP
+    SHOULD BE ELECTRICALLY GROUNDED. TREAT AS A VERY FLAMMABLE LIQUID.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPRVD RESP PROTECTN IF USED IN
+    NONVENTILATED AREA.
+Ventilation:MECH:EXPLOSN-PROOF EQUIP.FACE VELOCITY >60 FPM-CONFINED
+    AREA
+Protective Gloves:CHEM.RESISTANT
+Eye Protection:CHEM.SPLASH GOG/FACE SHLD
+Other Protective Equipment:EYE BATH AND SAFETY SHOWER
+Supplemental Safety and Health
+RED LABEL-FLAMMABLE. WEIGHT PER GALLON: 6.7 LBS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:B.P. Text:176 TO 262F
+Vapor Pres:70.
+Vapor Density:>1
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:100.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:STORAGE AT HIGH TEMPS. SPARKS AND OPEN
+    FLAMES.
+Hazardous Decomposition Products:CO, CO*2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT DISPOSAL EXPERT AND ENSURE CONFORMITY
+    W/LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

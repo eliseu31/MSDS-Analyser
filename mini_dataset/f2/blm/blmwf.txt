@@ -1,0 +1,173 @@
+=====================  Product Identification  =====================
+
+Product ID:LEAD ACID BATTERY
+MSDS Date:08/15/1988
+FSC:6140
+NIIN:01-116-7768
+MSDS Number: BLMWF
+=== Responsible Party ===
+Company Name:POWER BATTERY CO INC
+Address:543-53 E 42ND STREET
+City:PATTERSON
+State:NJ
+ZIP:07513
+Country:US
+Info Phone Num:201-523-8630
+Emergency Phone Num:201-523-8630
+CAGE:64748
+=== Contractor Identification ===
+Company Name:POWER BATTERY CO INC
+Address:25 MCLEAN BLVD.
+Box:City:PATERSON
+State:NJ
+ZIP:07514
+Country:US
+Phone:201-523-8630
+CAGE:64748
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LEAD  (SARA III)
+CAS:7439-92-1
+RTECS #:OF7525000
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:0.05 MG/M3;1910.1025
+ACGIH TLV:0.15 MG/M3;DUST 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:LEAD PEROXIDE
+CAS:1309-60-0
+RTECS #:OG0700000
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:0.05 MG/M3
+ACGIH TLV:0.15 MG/M3
+
+Ingred Name:LEAD SULFATE  (SARA III)
+CAS:7446-14-2
+RTECS #:OG4375000
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:SEE 1910.1025
+ACGIH TLV:0.15 MG PB/M3; 9192
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:SULFURIC ACID  (SARA III)
+CAS:7664-93-9
+RTECS #:WS5600000
+Fraction by Wt: 17-30%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: SULFURIC ACID MAY CAUSE
+    IRRITATION OF EYES, NOSE AND THROAT. PROLONGED CONTACT MAY CAUSE
+    SEVERE BURNS. CHRONIC: REPEATED CONTACT CAUSES IRRITATION AND SKIN
+    BURNS. REPEATED EXPOSURE TO MIST MAY  CAUSE EROSION OF TEETH,
+    CHRONIC EYE IRRITATION AND/OR CHRONIC INFLAMMATION OF THE NOSE,
+    THROAT AND BRONCHIAL TUBES.
+Explanation of Carcinogenicity:LEAD IS CONSIDERED A PROBABLE
+    CARCINOGEN, FOR WHICH THERE IS INSUFFICIENT EVIDENCE.
+Effects of Overexposure:ACID CONTACT MAY CAUSE IRRITATION OF EYES, NOSE
+    AND THROAT. BREATHING OF MIST MAY PRODUCE RESPIRATORY DIFFICULTY.
+    CONTACT WITH EYES AND SKIN CAUSES IRRITATION AND SKIN BURNS.
+    SULFURIC ACID IS A CORROS IVE CHEMICAL. OVEREXPOSURE TO LEAD MAY
+    CAUSE LOSS OF APPETITE, FATIGUE, ANEMIA, DAMAGE TO KIDNEYS AND
+    NERVOUS SYSTEM.
+Medical Cond Aggravated by Exposure:CHRONIC FORMS OF LIVER, KIDNEY AND
+    NEUROLOGICAL DISEASES, ECZEMA AND DERMATITIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE/SKIN:FLUSH CONTACTED AREA WITH LARGE AMOUNTS OF WATER FOR
+    AT LEAST 15 MINUTES. REMOVE CONTAMINATED CLOTHING AND GET MEDICAL
+    ATTENTION. IF SWALLOWED, GIVE LARGE VOLUMES OF WATER. DO NOT INDUCE
+    VOMI TING, OBTAIN MEDICAL ATTENTION. INHALATION OF FUMES:REMOVE TO
+    OPEN AREA AND CONSULT A PHYSICIAN. EYEWASH AND SHOWER STATIONS
+    SHOULD BE AVAILABLE.
+
+=====================  Fire Fighting Measures  =====================
+
+Lower Limits:4.0(H2 GAS)
+Upper Limits:74(FOR H2)
+Extinguishing Media:NON-COMBUSTIBLE. FOR SURROUNDING FIRE USE WATER
+    FOG, CARBON DIOXIDE, FOAM, OR DRY CHEMICAL.
+Fire Fighting Procedures:WEAR FIRE FIGHTING PROTECTIVE EQUIPMENT AND A
+    FULL FACED SELF CONTAINED BREATHING APPARATUS. EVACUATE AREA. COOL
+    FIRE EXPOSED CONTAINERS WITH WATER SPRAY.
+Unusual Fire/Explosion Hazard:COMBUSTION OR HEAT OF FIRE MAY PRODUCE
+    HAZARDOUS DECOMPOSITION PRODUCTS AND VAPORS. HYDROGEN & OXYGEN ARE
+    PRODUCED IN THE CELLS, KEEP AWAY FROM FIRE & SPARKS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SPILL-DILUTE SPILL CAUTIOUSLY WITH FIVE TO SIX
+    VOLUMES OF WATER AND GRADUALLY NEUTRALIZE WITH SODIUM BICARBONATE,
+    SODA ASH OR LIME. WHEN EXPOSURE LEVEL IS NOT KNOWN, WEAR NIOSH
+    APPROVED SELF-CONTAINED  RESPIRATOR.
+Neutralizing Agent:SODIUM BICARBONATE, SODA ASH OR LIME.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORAGE-STORE AWAY FROM REACTIVE
+    MATERIALS, OPEN FLAMES AND SOURCES OF IGNITION.
+Other Precautions:SODIUM BICARBONATE, SODA ASH, SAND OR LIME SHOULD BE
+    KEPT IN SAME GENERAL AREA FOR EMERGENCY USE. WASH HANDS THOROUGHLY
+    AFTER HANDLING LEAD TERMINALS INORDER TO AVOID INGESTION OF
+    LEAD/LEAD COMPOUNDS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE UNDER NORMAL CONDITIONS. ACID GAS
+    RESPIRATOR REQUIRED WHEN PEL IS EXCEEDED OR EMPLOYEE WITNESSES
+    RESPIRATORY IRRITATION.
+Ventilation:WHEN PEL IS EXCEEDED LOCAL EXHAUST IS PREFERRED. USE
+    ADEQUATE VENTILATION TO MAINTAIN EXPOSURE BELOW PEL.
+Protective Gloves:ACID RESISTANT
+Eye Protection:CHEMICAL SAFETY GOGGLES/FACE SHIELD
+Other Protective Equipment:ACID-RESISTANT APRONS, BOOTS AND PROTECTIVE
+    CLOTHING.
+Work Hygienic Practices:GOOD PERSONAL HYGIENE AND WORK PRACTICES ARE
+    MANDATORY.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:225F(ACID)
+Spec Gravity:1.27-1.3 ACID
+pH:<2
+Solubility in Water:COMPLETE FOR ACID
+Appearance and Odor:TRANSPARENT TO OPAQUE CASE & SEALED COVER WITH SIDE
+    OR TOP TERMINALS,ODERLESS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING & REDUCING AGENTS, METALS, CARBIDES, ORGANIC MATERIALS
+    AND COMBUSTIBLE MATERIALS.
+Stability Condition to Avoid:HIGH HEAT, OPEN FLAMES AND OTHER SOURCES
+    OF IGNITION
+Hazardous Decomposition Products:SULFUR TRIOXIDE AND OR SULFUR DIOXIDE,
+    HYDOGEN GAS AND OXIDES OF LEAD.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PLACE IN ACID-RESISTANT CONTAINERS. TURN IN FOR
+    RECYCLING. OR DISPOSAL MUST BE IN ACCORDANCE WITH APPLICABLE
+    GOVERNMENT REGULATIONS. DO NO FLUSH LEAD CONTAMINATED ACID TO
+    SEWER.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,154 @@
+=====================  Product Identification  =====================
+
+Product ID:HATCOL 3611
+MSDS Date:11/05/1990
+FSC:9150
+NIIN:00-985-7099
+MSDS Number: BJDKN
+=== Responsible Party ===
+Company Name:HATCO CORPORATION
+Address:KING GEORGE POST ROAD
+City:FORDS
+State:NJ
+ZIP:08863
+Country:US
+Info Phone Num:908-738-3553/908-738-1000
+Emergency Phone Num:908-738-3570
+Preparer's Name:H. HONDORP
+CAGE:KO466
+=== Contractor Identification ===
+Company Name:HATCO CHEMICAL CORP
+Address:KING GEORGE POST ROAD
+City:FORDS
+State:NJ
+ZIP:08863
+Country:US
+Phone:201-738-3568
+CAGE:3W990
+Company Name:HATCO CORP
+Address:1020 KING GEORGE POST ROAD
+Box:City:FORDS
+State:NJ
+ZIP:08863
+Country:US
+Phone:908-738-3517
+CAGE:0H3M4
+Company Name:HATCO CORPORATION
+Address:KING GEORGE POST ROAD
+City:FORDS
+State:NJ
+ZIP:08863
+Country:US
+Phone:908-738-3553/908-738-1000
+CAGE:KO466
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TRICRESYL PHOSPHATE (CONTAINS LESS THAN 0.02% OF THE ORTHO-
+    ISOMER WHICH IS A NEUROTOXIN)
+CAS:1330-78-5
+Other REC Limits:5 MG/M3 MFR
+
+Ingred Name:MIXED DIPENTAERYTHRITOL ESTERS
+CAS:68441-66-7
+Other REC Limits:5 MG/M3 MFR
+
+Ingred Name:MIXED TRIMETHYLOL-PROPANE ESTERS
+CAS:68130-53-0
+Other REC Limits:5 MG/M3 MFR
+
+Ingred Name:TSP-46728100000-0001
+Other REC Limits:5 MG/M3
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: MAY BE AN EYE OR SKIN IRRITANT.
+    CHRONIC: LOW IN TOXICITY.
+Explanation of Carcinogenicity:NONE OF THE CHEMICALS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:EYE/SKIN: IRRITATION.
+Medical Cond Aggravated by Exposure:NONE KNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE SUBJECT TO FRESH AIR. EYE: FLUSH WITH
+    PLENTY OF WATER FOR 15 MINUTES. GET IMMEDIATE MEDICAL ATTENTION.
+    SKIN: WASH WITH SOAP AND WATER. SEE PHYSICIAN IF NECESSARY. REMOVE
+    CONTAMINATE D CLOTHING. INGESTION: DO NOT INDUCE VOMITING. DRINK
+    PLENTY OF WATER. NOTHING BY MOUTH IF UNCONSCIOUS. GET IMMEDIATE
+    MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:480F,249C
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL. WATER MAY CAUSE FROTHING.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:COMBUSTION MAY PRODUCE HAZARDOUS
+    DECOMPOSITION PRODUCTS AND VAPORS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WIPE OR SOAK UP SMALL SPILLS WITH PAPER TOWEL
+    OR INERT ABSORBANT. REMOVE RESIDUE WITH INERT ABSORBANT. PLACE IN
+    DISPOSAL CONTAINER AND COVER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL, DRY, WELL VENTILATED
+    AREA. PROTECT FROM PHYSICAL DAMAGE, HEAT AND IGNITION SOURCES. KEEP
+    CONTAINERS CLOSED.
+Other Precautions:FOR INDUSTRIAL USE ONLY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY REQUIRED WITH ADEQUATE
+    VENTILATION. USE NIOSH APPROVED ORGANIC VAPOR CARTRIDGE RESPIRATOR.
+Ventilation:MECHANICAL (GENERAL) VENTILATION IS REQUIRED. LOCAL EXHAUST
+    MAY BE REQUIRED IF WORK AREA IS NOT VENTED.
+Protective Gloves:NEOPRENE
+Eye Protection:CHEMICAL SAFETY GOGGLES
+Other Protective Equipment:SAFETY SHOWER AND EYE BATH. PROTECTIVE
+    CLOTHING AS REQUIRED TO MINIMIZE EXPOSURE FROM PROLONGED OR
+    REPEATED CONTACT.
+Work Hygienic Practices:WASH THROUGHLY AFTER HANDLING AND BEFORE
+    EATING. LAUNDER CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+NONE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:>500F,>260C
+Vapor Density:>10
+Spec Gravity:0.98
+Solubility in Water:<0.1%
+Appearance and Odor:CLEAR LIQUID, LOW ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, STRONG ACIDS OR STRONG BASES.
+Stability Condition to Avoid:HIGH TEMPERATURES, OPEN FLAMES.
+Hazardous Decomposition Products:CARBON DIOXIDE, CARBON MONOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH ALL APPLICABLE
+    FEDERAL, STATE AND LOCAL LAWS AND REGULATIONS. FREE LIQUIDS MAY NOT
+    BE LANDFILLED. RECOVER AND OR INCINERATE LIQUIDS WHERE POSSIBLE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

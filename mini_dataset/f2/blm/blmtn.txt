@@ -1,0 +1,139 @@
+=====================  Product Identification  =====================
+
+Product ID:CECARBON GAC
+MSDS Date:02/26/1991
+FSC:6810
+NIIN:00-548-3884
+MSDS Number: BLMTN
+=== Responsible Party ===
+Company Name:ATOCHEM INC FOREX FIRE EXTINGUISHANTS
+Address:266 HARRISTOWN RD
+Box:607
+City:GLEN ROCK
+State:NJ
+ZIP:07452
+Country:US
+Emergency Phone Num:215-582-1551/800-248-2322 &424-9300
+CAGE:5P418
+=== Contractor Identification ===
+Company Name:ATOCHEM INC FOREX FIRE EXTINGUISHANTS
+Address:266 HARRISTOWN RD
+Box:607
+City:GLEN ROCK
+State:NJ
+ZIP:07452
+Country:US
+Phone:800-424-9300 (CHEMTREC)
+CAGE:5P418
+Company Name:JUNIUS PURIFIER CORP
+Address:538 JUNIUS STREET
+Box:City:BROOKLYN
+State:NY
+ZIP:11212
+Country:US
+Phone:718-272-7777
+CAGE:0PV96
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:GRAPHITE, SYNTHETIC
+CAS:7440-44-0
+RTECS #:FF5250100
+Fraction by Wt: 100%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:2 MG/M3 TDUST; 9293
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE-EYE:DUST MAY BE IRRITATING/CAUSE
+    MECHANICAL INJURY.SKIN:MAY CAUSE SLIGHT IRRITATION.INGESTION:MAY
+    CAUSE IRRITATION OF GI TRACT.INHALATION:DUST MAY BE IRRITATING TO
+    THE RESPIRATORY TRACT & CAUSE  COUGHING OR SNEEZING.CHRONIC-NO
+    EFFECTSFROM CHRONIC EXPOSURE ARE KNOWN.
+Effects of Overexposure:DUST MAY BE IRRITATING AND CAUSE MECHANICAL
+    INJURY TO EYES. MAY CAUSE SLIGHT IRRITATION OF SKIN.INGESTION MAY
+    CAUSE IRRITATION OF GI TRACT.INHALATION OF DUST MAY BE IRRITATING
+    TO THE RESPIRATORY TRACT  & CAUSE COUGHING OR SNEEZING.
+Medical Cond Aggravated by Exposure:AS WITH ANY ORGANIC COMPOUND THAT
+    IS HEATED TO VAPORIZATION, EXPOSURE MAY AGGRAVATE PRE-EXISTING
+    CONDITIONS SUCH AS COLDS, ALLERGIES, ASTHMA, EMPHYSEMA AND
+    PSORIASIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SEE A PHYSICIAN IF SYMPTOMS PERSIST.INHALATION:REMOVE TO
+    FRESH AIR.SUPPLY OXYGEN IF NECESSARY.EYES:IMMEDIATELY FLUSH WITH
+    PLENTY OF WATER FOR 15 MINUTES HOLDING EYELIDS OPEN.SKIN:WASH
+    THOROUGHLY WITH  SOAP & WATER.INGESTION:NO HARMFUL EFFECTS ARE
+    ANTICIPATED IF THE POWDER IS SWALLOWED. SEE A DOCTOR IF THE
+    IRRITATION PERSISTS.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL.
+Fire Fighting Procedures:WEAR FIRE FIGHTING PROTECTIVE EQUIPMENT AND A
+    FULL FACED SELF CONTAINED BREATHING APPARATUS. EVACUATE AREA. COOL
+    FIRE EXPOSED CONTAINERS WITH WATER SPRAY.
+Unusual Fire/Explosion Hazard:COMBUSTION OR HEAT OF FIRE MAY PRODUCE
+    IRRITATING AND/OR TOXIC GASES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CLEAN SPILLS IN A MANNER THAT DOES NOT
+    DISPERSE DUST INTO THE AIR, PREFERABLY A WET-DOWN PROCEDURE OR
+    VACUUM. USE NON-SPARKING TOOLS.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORAGE-STORE IN DRY PLACE.KEEP
+    CONTAINERS TIGHTLY CLOSED.AVOID DISPERSING OF DUST INTO AIR.
+Other Precautions:WARNING! AN OXYGEN DEFICIENCY CONDITION MAY EXIST
+    WHEN ACTIVATED CARBON IS EXPOSED TO MOIST CONDITIONS IN AN ENCLOSED
+    SPACE. SELF CONTAINED BREATHING APPARATUS REQUIRED OR VENTILATE TO
+    MAINTAIN OXYGEN  CONTENT AT 20 % BY VOLUME.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:CAUTION, DO NOT USE RESPIRATORS BEYOND THEIR
+    CAPABILITIES. NIOSH APPROVED FOR SUBSTANCES WITH TLV NOT LESS THAN
+    0.05 MG/M3 FOR DUST, MISTS AND FUMES.
+Ventilation:USE LOCAL/GENERAL TO MAINTAIN PEL/TLV.
+Protective Gloves:NATURAL RUBBER
+Eye Protection:SAFETY GLASSES WITH SIDE SHIELDS
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Spec Gravity:1.8 - 2.1
+Solubility in Water:INSOLUBLE
+Appearance and Odor:BLACK GRANULES WITH NO ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS AND ACIDS
+Stability Condition to Avoid:HIGH HEAT, OPEN FLAMES AND MOISTURE
+Hazardous Decomposition Products:OXIDES OF CARBON
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF AS SOLID WASTE OBSERVING ALL
+    APPLICABLE FEDERAL, STATE AND LOCAL LAWS AND REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

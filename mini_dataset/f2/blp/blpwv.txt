@@ -1,0 +1,135 @@
+=====================  Product Identification  =====================
+
+Product ID:71336 GREASE 9981936
+MSDS Date:07/19/1989
+FSC:9150
+NIIN:00F019315
+MSDS Number: BLPWV
+=== Responsible Party ===
+Company Name:SHELL OIL COMPANY
+Box:4320
+City:HOUSTON
+State:TX
+ZIP:77210
+Info Phone Num:(713) 473-9461
+Emergency Phone Num:(713) 473-9461
+Preparer's Name:J. C. WILLETT
+CAGE:54527
+=== Contractor Identification ===
+Company Name:SHELL OIL COMPANY
+Box:2463
+City:HOUSTON
+State:TX
+ZIP:77210
+Country:US
+Phone:800-231-6950
+CAGE:54527
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:FATTY ACID AMIDES
+CAS:69810-93-0
+Fraction by Wt: 1.5%
+
+Ingred Name:FATTY ACID AMIDES
+CAS:64754-98-9
+Fraction by Wt: 1.5%
+
+Ingred Name:COMPONENTS (UNIDENTIFIED)
+Fraction by Wt: 2%
+
+Ingred Name:AZELAIC ACID, (DIOCTYLAZELATE)
+CAS:103-24-2
+RTECS #:CM2000000
+Fraction by Wt: 90%
+
+Ingred Name:ALUMINUM SILICATE, BENTONITE, MONTMORILLONITE
+CAS:1302-78-9
+RTECS #:CT9450000
+Fraction by Wt: 5%
+ACGIH TLV:10 MG/CUM (DUST)
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION. SKIN: DISORDERS,
+    DERMATITIS, FOLLICULITIS, OIL ACNE, NECROSIS, PAIN & TISSUE DAMAGE
+    A FEW HOURS FOLLOWING INJECTION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: IRRITATION. SKIN: DISORDERS, DERMATITIS,
+    FOLLICULITIS, OIL ACNE, NECROSIS, PAIN, & TISSUE DAMAGE A FEW HOURS
+    FOLLOWING INJECTION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER FOR 15 MIN. SKIN: WASH W/SOAP & WATER OR
+    WATERLESS HAND CLEANER FOLLOWED BY SOAP & WATER. INHALATION: REMOVE
+    TO FRESH AIR & PROVIDE OXYGEN IF BREATHING IF DIFFICULT. INGESTION:
+    DON T' INDUCE VOMITING. NO TREATMENT IS NECESSARY UNLESS LARGE
+    QUANTITIES ARE INGESTED. DON'T WAIT FOR SYMPTOMS TO DEVELOP. OBTAIN
+    MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:420F
+Extinguishing Media:WATER FOG, DRY CHEMICAL, OR CO2. DON'T USE DIRECT
+    STREAM OF WATER.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS/FULL
+    PROTECTIVE CLOTHING IN CONFINED SPACE. COOL FIRE-EXPOSED CONTAINERS
+    SURROUNDING EQUIPMENT & STRUCTURES W/WATER.
+Unusual Fire/Explosion Hazard:PRODUCT WILL FLOAT & CAN BE IGNITED ON
+    SURFACE OF WATER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SCOOP UP EXCESS GREASE. CLEAN AREA
+    W/APPROPRIATE CLEANER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL, DRY PLACE W/ADEQUATE
+    VENTILATION. MINIMIZE SKIN CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AS REQUIRED
+Ventilation:ADEQUATE
+Protective Gloves:OIL RESISTANT
+Other Protective Equipment:OIL RESISTANT CLOTHING
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE. WASH HANDS BEFORE EATING/DRINKING/SMOKING OR USING TOILET
+    FACILITIES.
+Supplemental Safety and Health
+NOTE TO PHYSICIAN: EMESIS INDUCTION IS UNNECESSARY IN HIGH
+    VISCOSITY/LOW VOLATILITY PRODUCTS, SUCH AS MOST OILS/GREASES. THIS
+    PRODUCT'S COMPONENTS ARE LISTED ON THE EPA/TSCA INVENTORY OF
+    CHEMICAL SUBS TANCES.
+
+==================  Physical/Chemical Properties  ==================
+
+Solubility in Water:INSOLUBLE
+Appearance and Odor:BUFF COLORED, SMOOTH W/SLIGHT ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HEAT, HIGH TEMPERATURES, & OPEN FLAME
+Hazardous Decomposition Products:AIRBORNE SOLIDS, LIQUID PARTICULATES,
+    GASES, CO, & UNIDENTIFIED ORGANIC COMPOUNDS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

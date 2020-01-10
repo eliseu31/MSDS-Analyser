@@ -1,0 +1,150 @@
+=====================  Product Identification  =====================
+
+Product ID:CUTTING FLUID
+MSDS Date:10/17/1986
+FSC:9150
+NIIN:00-252-6373
+MSDS Number: BLMTB
+=== Responsible Party ===
+Company Name:EXXON CHEMICAL CO USA SALES OFFICE
+Address:1333 W LOOP S
+City:HOUSTON
+State:TX
+ZIP:77001
+Country:US
+Emergency Phone Num:713-656-3424
+CAGE:4H542
+=== Contractor Identification ===
+Company Name:EXXON CHEMICAL CO USA SALES OFFICE
+Address:1333 W LOOP S
+Box:3272
+City:HOUSTON
+State:TX
+ZIP:77253
+Country:US
+Phone:281-870-6000/6884
+CAGE:4H542
+Company Name:SANLO PRODUCTS CO
+Address:100 ,MANHATTAN AVE SUITE 103
+City:UNION CITY
+State:NJ
+ZIP:07087
+Country:US
+Phone:201-348-1684/800-424-9300(CHEMTREC)
+CAGE:0K5U0
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SOLVENT REFINED HEAVY NAPHTHENIC DISTILLATE, PETROLEUM
+CAS:64741-96-4
+RTECS #:PY8040000
+Fraction by Wt: >90%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:ADDITIVES
+Fraction by Wt: <10%
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: MAY CAUSE IRRITATION.  SKIN:
+    PROLONGED OR REPEATED SKIN CONTACT WITH THIS PRODUCT TENDS TO
+    REMOVE SKIN OILS POSSIBLY LEADING TO IRRITATION AND DERMATITIS. 
+    INGESTION: LOW ORDER OF ACUTE ORAL AND  DERMAL TOXICITY, BUT MINUTE
+    AMOUNTS ASPIRATED INTO THE LUNGS DURING INGESTION OR VOMITING MAY
+    CAUSE PULMONARY EDEMA.
+Effects of Overexposure:NONE SPECIFIED BY MANUFACTURER.
+Medical Cond Aggravated by Exposure:NONE RECOGNIZED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH CLEAR WATER FOR 15 MIN. OR UNTIL IRRITATION
+    SUBSIDES.  SKIN: REMOVE ANY CONTAMINATED CLOTHING AND WASH SKIN
+    THOROUGHLY WITH SOAP AND WATER.  INHALATION: VAPOR PRESSURE IS VERY
+    LOW. VA POR INHALATION UNDER AMBIENT CONDITIONSIS NORMALLY NOT A
+    PROBLEM.  INGESTION: DO NOT INDUCE VOMITING. CALL A PHYSICIAN
+    IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:370F,188C
+Autoignition Temp:Autoignition Temp Text:>500F
+Lower Limits:0.9
+Upper Limits:7
+Extinguishing Media:FOAM, WATER SPRAY (FOG), DRY CHEMICAL, CARBON
+    DIOXIDE AND VAPORIZING LIQUID TYPE EXTINGUISHING AGENTS.
+Fire Fighting Procedures:USE WATER TO KEEP FIRE-EXPOSED CONTAINERS
+    COOL. IF A LEAK OR SPILL HAS NOT IGNITED, USE WATER SPRAY TO
+    DISPERSE THE VAPORS. USE AIR-SUPPLIED RESPIRATORS.
+Unusual Fire/Explosion Hazard:HAZARDOUS DECOMPOSITION PRODUCTS MAY BE
+    PRESENT UNDER FIRE CONDITIONS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:RECOVER FREE PRODUCT. ADD SAND, EARTH, OR
+    OTHER SUITAVLE ABSORBENT TO SPILL AREA. MINIMIZE SKIN CONTACT. KEEP
+    PRODUCT OUT OF SEWERS AND WATERWAYS BY DIKING OR IMPOUNDING. ADVISE
+    AUTHORITIES IF PRODUCT  HAS ENTERED OR MAY ENTER SEWERS,
+    WATERCOURSES.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINERS AND STORAGE CONTAINERS
+    CLOSED WHEN NOT IN USE. DO NOT STORE NEAR HEAT, SPARKS, FLAME OR
+    STRONG OXIDANTS.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE SUPPLIED-AIR RESPIRATORY PROTECTION IN
+    CONFINED OR ENCLOSED SPACES, IF NEEDED.
+Ventilation:USE LOCAL EXHAUST TO CAPTURE VAPOR, MISTS OR FUMES, IF
+    NECESSARY.
+Protective Gloves:USE CHEMICAL-RESISTANT GLOVES
+Eye Protection:USE SPLASH GOGGLES OR FACE SHIELD.
+Other Protective Equipment:USE CHEMICAL-RESISTANT APRON OR OTHER
+    IMPERVIOUS CLOTHING.
+Work Hygienic Practices:CLEANSE SKIN THOROUGHLY AFTER CONTACT, BEFORE
+    BREAKS AND MEALS, AND AT END OF WORK PERIOD.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:480F,249C
+Vapor Pres:<0.01
+Vapor Density:>5
+Spec Gravity:0.89
+Viscosity:207 SSU
+Evaporation Rate & Reference:<0.01 (N-BUTYL ACETATE=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:CLEAR LIQUID, YELLOW COLOR WITH A MILD, BLAND
+    PETROLEUM ODOR.
+Percent Volatiles by Volume:SMALL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:HIGH TEMPERATURES.
+Hazardous Decomposition Products:FUMES, SMOKE, CARBON MONOXIDE, SULFUR
+    OXIDES, ALDEHYDES AND OTHER DECOMPOSITION PRODUCTS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ASSURE CONFORMITY WITH APPLICABLE GOVERNMENTAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

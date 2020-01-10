@@ -1,0 +1,149 @@
+=====================  Product Identification  =====================
+
+Product ID:FIRE EXTINGUISHER CARBON DIOXIDE-CO2
+MSDS Date:12/01/1988
+FSC:4210
+NIIN:00-203-0341
+MSDS Number: BLMSY
+=== Responsible Party ===
+Company Name:FLAG FIRE
+Address:1142 CORPORATE DRIVE
+City:HOLLAND
+State:OH
+ZIP:43528
+Country:US
+Info Phone Num:419-867-8700/FAX 419-867-8512
+Emergency Phone Num:419-867-8700/FAX 419-867-8512
+CAGE:KO595
+=== Contractor Identification ===
+Company Name:FLAG FIRE
+Address:1142 CORPORATE DRIVE
+Box:City:HOLLAND
+State:OH
+ZIP:43528
+Country:US
+Phone:419-867-8700/FAX 419-867-8512
+CAGE:KO595
+Company Name:FLAG FIRE INC
+Address:5655 OPPORTUNITY DR
+Box:City:TOLEDO
+State:OH
+ZIP:43612
+Country:US
+Phone:419-269-1800
+CAGE:0KS85
+Company Name:FRC INTL CORPORATION
+Address:478 ABINGTON AVE
+Box:City:GLENSIDE
+State:PA
+ZIP:19038
+Country:US
+Phone:215-233-3373
+CAGE:8V250
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CARBON DIOXIDE
+CAS:124-38-9
+RTECS #:FF6400000
+Fraction by Wt: 100%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:5000 PPM
+ACGIH TLV:5000PPM/30000STEL;93
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT) IS NOT RELEVANT
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Effects of Overexposure:PHYSICAL CONTACT WITH LIQUEFIED/SOLID CARBON
+    DIOXIDE CAN CAUSE FROSTBITE OR FREEZE BURNS.INHALATION OF VAPOR IN
+    CONCENTRATION OF 3-5% BY VOLUME IN AIR CAUSES INCREASED RESPIRATION
+    & HEADACHE;8-15% CAU SES HEADACHE,NAUSEA,VOMITING &
+    UNCONSCIOUSNESS.HIGHER CONCENTRATION MAY LEAD TO COMA & DEATH.
+
+=======================  First Aid Measures  =======================
+
+First Aid:GET MEDICAL ATTENTION.INHALATION:REMOVE TO FRESH AIR.GIVE
+    CPR/OXYGEN IF NEEDED.EYES:IMMEDIATELY FLUSH WITH PLENTY OF TEPID
+    WATER/STERILE SALINE.SKIN:FLUSH WITH LUKEWARM WATER.DO NOT USE HOT
+    WATER.PROM PT MEDICAL ATTENTION IS MANDATORY IN ALL CASES OF
+    OVEREXPOSURE TO CO2.RESCUE PERSONNEL SHOULD BE EQUIPPED WITH SELF
+    CONTAINED BREATHING APPARATUS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:MEDIA APPROPRIATE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:WEAR FIRE FIGHTING PROTECTIVE EQUIPMENT AND A
+    FULL FACED SELF CONTAINED BREATHING APPARATUS. EVACUATE AREA. COOL
+    FIRE EXPOSED CONTAINERS WITH WATER SPRAY.
+Unusual Fire/Explosion Hazard:CO2 IS A NON-FLAMMABLE INERT GAS.
+    HOWEVER, EXPOSURE TO FIRE OR SEVERE OVERHEATING CAN CAUSE CARBON
+    DIOXIDE CYLINDERS TO BURST.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE ALL PERSONNEL FROM AREA. USE
+    APPROPRIATE PROTECTIVE EQUIPMENT. PROVIDE VENTILATION TO AREA AND
+    AVOID CONTACT WITH SOLID OR LIQUID AND EXCESSIVE INHALATION OF
+    VAPOR. VALVE OFF CARBON DIOXIDE S UPPLY FROM LEAKING OR BROKEN
+    COMPONENTS.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL,DRY,VENTILATED
+    PLACE.DO NOT INSTALL STORAGE VESSELS IN SUB SURFACE,CLOSED AREA OR
+    NEAR HEAT/FLAME.
+Other Precautions:AVOID PROLONGED OR REPEATED BREATHING OF VAPOR. AVOID
+    CONTACT WITH EYES OR SKIN. USE WITH ADEQUATE VENTILATION. WASH
+    THOROUGHLY AFTER HANDLING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:POSITIVE PRESSURE AIR LINE WITH FULL FACE PIECE
+    AND ESCAPE AIR SUPPLY OR SELF CONTAINED BREATHING APPARATUS SHOULD
+    BE AVAILABLE FOR EMERGENCY USE.
+Ventilation:SUFFICIENT TO PREVENT ACCUMULATION ABOVE TLV. LOCAL EXHAUST
+    SHOULD BE LOCATED NEAR THE FLOOR.
+Protective Gloves:INSULATED AND COLD RESISTANT
+Eye Protection:SAFETY GOGGLES WITH OPTIONAL FACE SHIELD
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER.
+    INDUSTRIAL-TYPE WORK CLOTHING AND APRON AS REQUIRED.
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:G3
+Melt/Freeze Pt:M.P/F.P Text:-109F,-79C
+Vapor Pres:43680 @21C
+Vapor Density:1.53
+Spec Gravity:0.713
+Solubility in Water:1 TO 1 @ 60F & 1 ATM
+Appearance and Odor:COLORLESS,ODORLESS GAS
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:EXTREME HEAT AND FLAMES
+Hazardous Decomposition Products:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTAMINATED AREA SHOULD BE VENTILATED
+    THOROUGHLY. SOLID CARBON DIOXIDE SHOULD BE REMOVED OUT OF DOORS AND
+    ALLOWED TO SUBLIMATE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,116 @@
+=====================  Product Identification  =====================
+
+Product ID:AQUASET II
+MSDS Date:11/15/1987
+FSC:7930
+NIIN:00N021397
+MSDS Number: BLMKS
+=== Responsible Party ===
+Company Name:FLUID TECH INC
+Address:4335 WEST TROPICANNA AVE
+City:LAS VEGAS
+State:NV
+ZIP:89103
+Country:US
+Info Phone Num:702-871-1884
+Emergency Phone Num:702-871-1884
+CAGE:0C419
+=== Contractor Identification ===
+Company Name:FLUID TECH INC
+Address:4335 WEST TROPICANNA AVE
+Box:City:LAS VEGAS
+State:NV
+ZIP:89103
+Country:US
+Phone:702-871-1884
+CAGE:0C419
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MINERAL FIBERS; (MINERAL DUST)
+OSHA PEL:15 MG/M3 (MFR)
+ACGIH TLV:10 MG/M3 (MFR)
+
+Ingred Name:CRYSTALLINE SILICA
+OSHA PEL:5 MG/M3 (MFR)
+ACGIH TLV:5 MG/M3 (MFR)
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: COUGH IF EXPOSED TO DUST LEVELS
+    HIGHER THAN TLV'S. CHRONIC: MAY LEAD TO DEVELOPMENT OF SILICOSIS IF
+    CONSTANTLY EXPOSED TO DUST LEVELS HIGHER THAN TLV'S.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:LONG TERM EXPOSURES TO DUST IN EXCESS OF TLV'S
+    MAY LEAD TO SILICOSIS.
+Medical Cond Aggravated by Exposure:ANY RESPIRATORY ILLNESS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: REMOVE AFFECTED PERSONNEL FROM DUSTY AREA TO CLEAN
+    AIR. INGEST: CALL MD IMMEDIATELY . SKIN: FLUSH W/ COPIOUS AMOUNTS
+    OF WATER. CALL MD . EYES: IMMEDIATELY FLUSH W/POTABLE WATER FOR  A
+    MINIMUM OF 15 MINUTES, SEEK ASSISTANCE FROM MD .
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE MEDIA SUITABLE TO SURROUNDING FIRE .
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:AVOID BREATHING DUST, USE NIOSH/MSHA APPROVED
+    RESPIRATOR FOR SILICA BEARING DUST. VACUUM OR SWEEP UP DUST.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:USE NIOSH/MSHA APPROVED RESPIRATORS
+    FOR SILICA BEARING DUST WHEN DUST LEVELS EXCEED TLV'S.
+Other Precautions:IF WET DOWN ON FLOORS, MATERIAL WILL BECOME SLIPPERY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR FOR SILICA
+    BEARING DUSTS.
+Ventilation:LOCAL EXHAUST: YES, IF PRACTICAL.
+Protective Gloves:NOT NECESSARY.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE
+Work Hygienic Practices:GOOD HOUSEKEEPING AS FOR ANY INERT DUSTY
+    MATERIAL.
+Supplemental Safety and Health
+SPEC GRAV: BULK DENSITY IS 55 LBS/FT3.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Melt/Freeze Pt:M.P/F.P Text:2552F,1400C
+Spec Gravity:SUPP DATA
+Solubility in Water:INSOLUBLE
+Appearance and Odor:DARK TAN TO LIGHT TAN POWDER
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+HYDROFLUORIC ACID.
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W FEDERAL, STATE, AND LOCAL
+    REGULATIONS .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

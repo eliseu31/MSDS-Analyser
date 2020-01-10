@@ -1,0 +1,169 @@
+=====================  Product Identification  =====================
+
+Product ID:2655 LACQUER WHITE & COLORS
+MSDS Date:01/01/1987
+FSC:8010
+NIIN:00F019171
+MSDS Number: BLPNX
+=== Responsible Party ===
+Company Name:SINCLAIR PAINT CO
+Address:3960 E WASHINGTON BLVD
+City:LOS ANGELES
+State:CA
+ZIP:90023
+Info Phone Num:(213) 268-2511
+Emergency Phone Num:(213) 268-2511
+CAGE:SNCLA
+=== Contractor Identification ===
+Company Name:SINCLAIR PAINT CO
+Address:6100 SOUTH GARFIELD AVENUE
+City:LOS ANGELES
+State:CA
+ZIP:90040
+Country:US
+Phone:213-664-2121
+CAGE:SNCLA
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 10-12%
+Other REC Limits:100 PPM
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ALIPHATIC PETROLEUM NAPTHA
+Fraction by Wt: 15-18%
+ACGIH TLV:250 PPM
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: 10-13%
+Other REC Limits:590 MG/CUM
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: 8-10%
+Other REC Limits:400 PPM
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+Ingred Name:N-BUTYL ACETATE  (SARA III)
+CAS:123-86-4
+RTECS #:AF7350000
+Fraction by Wt: 19-21%
+Other REC Limits:150 PPM
+OSHA PEL:150 PPM/200 STEL
+ACGIH TLV:150 PPM/200STEL;9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:N-BUTYL ALCOHOL  (SARA III)
+CAS:71-36-3
+RTECS #:EO1400000
+Fraction by Wt: 2-3%
+Other REC Limits:300 MG/CUM
+OSHA PEL:100 PPM
+ACGIH TLV:S, C 50 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:N-AMYL ACETATE  (SARA III)
+CAS:628-63-7
+RTECS #:AJ1925000
+Fraction by Wt: 1-2%
+Other REC Limits:530 PPM
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ACETONE  (SARA III)
+CAS:67-64-1
+RTECS #:AL3150000
+Fraction by Wt: 1-2%
+Other REC Limits:590 MG/CUM
+OSHA PEL:1000PPM
+ACGIH TLV:750PPM/1000STEL;9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS)	(SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 0-1%
+Other REC Limits:100 PPM
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: FEELING OF DULLNESS,
+    DEPRESSION, & NAUSEA.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: FEELING OF DULLNESS, FATIGUE, &
+    NAUSEA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. EYES: WASH W/SALINE SOLUTION
+    OR PLENTY OF WATER. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:25-30F
+Lower Limits:1%
+Upper Limits:10%
+Extinguishing Media:DRY CHEMICAL, CO2, FOAM, WATER, OR FOG
+Fire Fighting Procedures:DON'T USE STRAIGHT WATER STREAM.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB W/SAWDUST, SWEEPING COMPOUND, OR OTHER
+    ABSORBANT MATERIAL. VENTILATE AREA. SHUT DOWN ANY NON-EXPLOSION
+    PROOF ELECTRICAL EQUIPMENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:WHEN TRANSFERRING ALL CONTAINERS ARE
+    TO BE GROUNDED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:LOCAL EXHAUST: EXPLOSION PROOF VENTING. GENERAL: EXPLOSION
+    PROOF FAN.
+Supplemental Safety and Health
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:HEAT, FIRE, OPEN FLAME, & SPARKS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:SEND TO CUT & FILL DUMP ACCORDING TO FEDERAL,
+    STATE, & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

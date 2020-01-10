@@ -1,0 +1,118 @@
+=====================  Product Identification  =====================
+
+Product ID:METHYL SALICYLATE USP SYNTHETIC
+MSDS Date:03/01/1981
+FSC:6810
+NIIN:00-982-5985
+MSDS Number: BJDZH
+=== Responsible Party ===
+Company Name:MONSANTO CO
+Address:800 N LINDBERGH BLVD
+City:ST LOUIS
+State:MO
+ZIP:63141
+Country:US
+Info Phone Num:314-694-1000
+Emergency Phone Num:314-694-1000
+CAGE:76541
+=== Contractor Identification ===
+Company Name:MONSANTO COMPANY
+Address:800 N LINDBERGH BLVD
+Box:City:SAINT LOUIS
+State:MO
+ZIP:63167
+Country:US
+Phone:314-694-6661 OR 800-332-3111
+CAGE:76541
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL SALICYLATE
+CAS:119-36-8
+Fraction by Wt: 100%
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT) IS 1420 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE-SKIN (RABBIT) SLIGHT
+    IRRITATION.EYE (RABBIT) SLIGHT IRRITATION. CHRONIC-NONE SPECIFIED
+    BY MANUFACTURER.
+Effects of Overexposure:NONE SPECIFIED BY MANUFACTURER.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:FIRST AID-NONE NEEDED.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:214F,101C
+Autoignition Temp:Autoignition Temp Text:850F
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, CHEMICAL FOAM, OR
+    DRY POWDER.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF CARBON MONOXIDE, CARBON DIOXIDE, SMOKE AND SOOT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SOAK UP WITH RAGS, CELLULOSE OR OTHER
+    ABSORBENT MATERIAL AND DISPOSE OF BY INCINERATION OR LANDFILLING.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORAGE-KEEP CONTAINER AWAY FROM
+    EXCESSIVE HEAT AND FLAME.
+Other Precautions:NONE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NOTED
+Ventilation:LOCAL EXHAUST SHOULD BE USED IF USE AT EXCESSIVELY HIGH
+    TEMPERATURES RESULTS IN HIGH VAPOR CONCENTRATIONS.
+Protective Gloves:NONE SPECIFIED BY MANUFACTURER.
+Eye Protection:NONE SPECIFIED BY MANUFACTURER.
+Other Protective Equipment:NONE
+Work Hygienic Practices:WASH HANDS WITH SOAP AND WATER AFTER WORKING
+    WITH CHEMICALS.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:432F,222C
+Melt/Freeze Pt:M.P/F.P Text:17.6F,-8.0C
+Vapor Pres:1 @40C
+Vapor Density:-5.24
+Spec Gravity:1.180-1.185
+Appearance and Odor:CLEAR, COLORLESS LIQUID WITH STRONG WINTERGREEN
+    ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE NOTED.
+Stability Condition to Avoid:HIGH TEMPERATURES, SPARKS, AND OPEN FLAMES
+Hazardous Decomposition Products:CARBON MONOXIDE AND DIOXIDE, SMOKE,
+    AND SOOT.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF BY INCINERATION OR BY LANDFILLING IN
+    A CLASS I CHEMICAL LANDFILL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

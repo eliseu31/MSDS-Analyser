@@ -1,0 +1,166 @@
+=====================  Product Identification  =====================
+
+Product ID:A242-4 O-PHOSPHORIC ACID
+MSDS Date:01/10/1995
+FSC:6810
+NIIN:01-150-0339
+MSDS Number: BLPGY
+=== Responsible Party ===
+Company Name:FISHER SCIENTIFIC, CHEMICAL DIV.
+Address:1 REAGENT LANE
+City:FAIR LAWN
+State:NJ
+ZIP:07410
+Country:US
+Info Phone Num:201-796-7100 OR 201-796-7523
+Emergency Phone Num:201-796-7100/800-424-9300(CHEMTREC)
+Preparer's Name:OCCUPATIONAL HEALTH SVC.
+CAGE:1B464
+=== Contractor Identification ===
+Company Name:FISHER SCIENTIFIC CO.  CHEMICAL MFG DIV
+Address:1 REAGENT LANE
+Box:City:FAIRLAWN
+State:NJ
+ZIP:07410-2802
+Country:US
+Phone:201-796-7100
+CAGE:1B464
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PHOSPHORIC ACID (SARA 313) (CERCLA)
+CAS:7664-38-2
+RTECS #:TB6300000
+Fraction by Wt: 85%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3/3 STEL; 9596
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 15%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL, RAT LD50=>90ML/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYE:MAY CAUSE IRREVERSIBLE
+    INJURY.CONTACT W/LIQ CORRO TO EYES,CAUSES SEVERE BURNS.SKIN:CONTACT
+    W/LIQ CORRO,CAUSES SEVERE BURNS,ULCERATION.INGEST:CAUSES SEVERE
+    PAIN,NAU,VOMIT,DIARR,SHOCK.MAY CAUSE HEMO RRHAGING OF GI
+    TRACT,CORRO,PERM TISSUE DESTRUCTION OF ESOPHAGUS/GI
+    TRACT.INHAL:IRRIT LEAD TO CHEM PNEUITIS/PULM (SUPPLE)
+Explanation of Carcinogenicity:PER MSDS:CARCINOGENICITY:PHOSPHORIC ACID
+    NOT LISTED BY ACGIH,IARC,NIOSH,NTP,OSHA.
+Effects of Overexposure:IRREVER EYE INJURY,CORROSIVE TO EYE/SKIN,SEVERE
+    EYE/SKIN BURNS,SKIN ULCERATION,SEVERE PAIN
+    (INGEST),NAU,VOMIT,DIARR,SHOCK,HEMORRHAGING OF GI TRACT,CORRO,PERM
+    TISSUE DESTRUCTION OF ESOPHAGUS/GI TRACT.C HEM PNEUITIS/PULM
+    EDEMA,SEVERE UPPER RESP TRACT IRRIT,COUGHING,BURNS,BREATH
+    DIFFICULTY,COMA,RESP TRAC INFLAMM,LUNG DMG.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+    TARGET ORGANS:NONE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:IMEMD FLUSH W/LOTS OF H2O FOR @LEAST 15MINS,LIFT
+    EYELIDS.GET MED AID IMMED.SKIN:GET MED AID IMMED.IMMED FLUSH W/LOTS
+    OF SOAP/H2O FOR @LEST 15MINS WHILE REMOVING CONTAM
+    CLOTH/SHOES.INGEST:DONT INDU CE VOMIT.IF CONSC/ALERT GIVE
+    2-4CUPFULSOF MILK/H2O.GET MED AID IMMED.INHAL:GET MED AID
+    IMMED.REMOVE TO FRESH AIR IMMED.NOT BREATH GIVE ART RESP;DIFFI GIVE
+    OXY.DR:TREAT SYMPT/SUPP.NO SPEC ANTIDOTE
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:N/AVAI
+Autoignition Temp:Autoignition Temp Text:N/AVAI
+Lower Limits:N/AVAI
+Upper Limits:N/AVAI
+Extinguishing Media:SMALL FIRE:USE WATER SPRAY,DRY CHEMICAL,CARBON
+    DIOXIDE,CHEM FOAM.
+Fire Fighting Procedures:WEAR APPROPRIATE PROT CLOTH TO PREVENT CONTACT
+    W/SKIN/EYES.WEAR SELF-CONTAINED BREATHING APPARATUS TO PREVENT
+    CONTACT W/THERMAL DECOMPOSITION PRODUCTS.
+Unusual Fire/Explosion Hazard:DANGER!CORROSIVE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPER PERSONAL PROTECTIVE EQPMT AS
+    INDICATED IN MSDS.COVER W/SAND/DRY LIME OR SODA ASH AND PLACE IN
+    CLOSED CONTAINER FOR DISPOSAL.FLUSH SPILL AREA W/WATER.
+Neutralizing Agent:DRY LIME, SODA ASH
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:USE ONLY IN WELL VENTI AREA.DONT GET
+    ON SKIN/EYES.DONT INGEST/INAHL.STORE IN TIGHTLY CLSD CNTNR,IN COLL
+    DRY WELL-VENT AREA AWAY FRM INCOMP SUBSTANCES.
+Other Precautions:KEEP AWAY FROM METALS.DONT STORE IN METAL CONTAINERS.
+    INCOMPAT CONTD:UNSAT HALIDES,ORG
+    PEROXIDES,SULFIDES,MERCAPTANS,CYANIDES,FLUORIDES,ORGANIC.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:FOLLOW OSHA RESPIRATOR REGS FOUND IN
+    29CFR1910.134.ALWAYS USE NIOSH-APPROVED RESPIRATOR WHEN NECESSARY.
+Ventilation:USE ADEQUATE GENERAL OR LOCAL EXHAUST VENTILATION TO KEEP
+    AIRBORNE CONCEN BELOW PERMISSIBLE EXPOSURE LIMITS.
+Protective Gloves:APPROPRIATE PROTECTIVE CLOTHING
+Eye Protection:APPRO PROT EYEGLASS,CHEM SAF GOGG,FACE
+Other Protective Equipment:EYES/FACE DESCRIBED IN OSHA 29CFR1910.133.
+Work Hygienic Practices:DISCARD CONTAM CLOTH IN MANNER WHICH LIMITS
+    FURTHER EXPO.WASH WELL AFT HNDLG.
+Supplemental Safety and Health
+PH=1.5 (0.1N SOLN) HEALTH:EDEMA.SEVERE IRRIT OF UPPER RESP TRACT
+    W/COUGH,BURNS,BREATH DIFFI,POSSIBLE COMA.CHRONIC:PROL INHAL MAY
+    CAUSE RESP TRACT INFLAMM/LUNG DMG.PROL/REP SKIN/EYE CONTACT MAY
+    CAUSE D ERM,CONJ,RESPECTIVELY.
+    INCOMPAT:TETRAHYDROBORATE;ALDEHYDES,AMINES,AMIDES,ALCOHOLS,GLYCOLS,
+    AZO-CMPDS,CARBAMATES,ESTERS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C1
+Boiling Pt:B.P. Text:319F,159C
+Melt/Freeze Pt:M.P/F.P Text:108F,42C
+Decomp Temp:Decomp Text:N/AVAI
+Vapor Pres:N/AVAI
+Vapor Density:N/AVAI
+Spec Gravity:1.69
+pH:SUPPLE
+Viscosity:N/AVAI
+Evaporation Rate & Reference:N/AVAILABLE
+Solubility in Water:COMPLETE
+Appearance and Odor:VISCOUS, COLORLESS, SYRUPY LIQUID, ODORLESS
+Percent Volatiles by Volume:NP
+Corrosion Rate:NP
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ALKALIES;CHLORIDE,STAINLESS
+    STEEL;CAUSTICS,PHENOLS,CRESOLS,KETONES,ORGANOPHOSPHATES,EPOXIDES,EX
+    PLO,COMBUST,NA(SUPPLEMEN)
+Stability Condition to Avoid:INCOMPATIBLE MATLS,METALS,EXCESS HEAT.
+Hazardous Decomposition Products:OXIDES OF PHOSPHOROUS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPO OF IN MANNER CONSISTENT W/FED/STATE/LOC
+    REGS.NOT LISTED AS MATL BANNED FROM LAD DISPO ACCORDING TO RCRA.NOT
+    CERCAL/SARA CHEM.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

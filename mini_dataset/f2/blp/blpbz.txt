@@ -1,0 +1,174 @@
+=====================  Product Identification  =====================
+
+Product ID:BODY UNDERCOATING & DEADENER, 4517
+MSDS Date:02/08/1988
+FSC:8010
+NIIN:00N022815
+MSDS Number: BLPBZ
+=== Responsible Party ===
+Company Name:MARTIN-SENOUR AUTOMOTIVE SALES
+Address:5422 DANSHER RD
+City:COUNTRYSIDE
+State:IL
+ZIP:60525
+Country:US
+Info Phone Num:216-566-2902
+Emergency Phone Num:216-566-2917
+CAGE:MART3
+=== Contractor Identification ===
+Company Name:MARTIN-SENOUR AUTOMOTIVE SALES
+Address:5422 DANSHER RD
+City:COUNTRYSIDE
+State:IL
+ZIP:60525
+Country:US
+Phone:216-566-2902
+CAGE:MART3
+Company Name:MARTIN-SENOUR CO THE DIV SHERWIN-WILLIAMS CO
+Address:2500 S SENOUR AVE
+Box:City:CHICAGO
+State:IL
+ZIP:60608-5724
+Country:US
+CAGE:16772
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:KEROSENE (PETROLEUM), HYDROTREATED; (MINERAL SPIRITS). PEL
+    AND TLV AS STODDARD SOLVENT. VP: 2
+CAS:64742-47-8
+RTECS #:OA5504000
+Fraction by Wt: 35%
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:ASPHALT (PETROLEUM)
+CAS:8052-42-4
+RTECS #:CI9900000
+Fraction by Wt: 45%
+ACGIH TLV:5 MG/M3; (FUME);9192
+
+Ingred Name:ALUMINOSILICATE
+CAS:1327-36-2
+Fraction by Wt: 5%
+
+Ingred Name:SILICIC ACID (H*2SIO*3), CALCIUM SALT (1:1); (CALCIUM
+    SILICATE)
+CAS:10101-39-0
+RTECS #:VV9170000
+Fraction by Wt: 5%
+
+Ingred Name:CARBONIC ACID, CALCIUM SALT (1:1); (CALCIUM CARBONATE).
+    PEL: 15 MG/M3 TDUST; 5 MG/M3 RDUST
+CAS:471-34-1
+RTECS #:FF9335000
+Fraction by Wt: 10%
+OSHA PEL:SEE INGREDIENT NAME
+ACGIH TLV:10 MG/M3 TDUST
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:(ACUTE)OVEREXP CAUSES EYE, SKIN & RESP
+    IRRIT.MAY CAUSE NERV SYS DEPRESS ACCOMPANIED BY HDCH, DIZZ, NAUS,
+    CONFUSN & STAGGERING GAIT.EXTREME OVEREXP MAY RESULT IN UNCON &
+    POSS DEATH.(CHRONIC)PRLNGD OVER EXP TO INGREDS MAY CAUSE ADVERSE
+    EFTS TO LIVER & URINARY SYS.RPTS HAVE ASSOC RPTD & PRLNGD OVEREXP
+    (SEE EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:HLTH HAZ: TO SOLVENTS WITH PERMANENT BRAIN AND
+    NERVOUS SYSTEM DAMAGE. INTENTIONAL MISUSE BY DELIBERATELY
+    CONCENTRATING AND INHALING CONTENTS CAN BE HARMFUL/FATAL.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: IF AFFECTED, REMOVE FROM EXPOSURE. RESTORE BREATHING.
+    KEEP WARM AND QUIET. SKIN: WASH AFFECTED AREA THOROUGHLY WITH SOAP
+    AND WATER. REMOVE CONTAMINATED CLOTHING AND LAUNDER BEFORE RE-USE.
+    EYES:  FLUSH WITH LARGE AMOUNTS OF WATER FOR AT LEAST 15 MINUTES.
+    CALL MD. INGEST: CALL MD IMMEDIATELY .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:126F,52C
+Lower Limits:1%
+Extinguishing Media:CO*2, DRY CHEMICAL, FOAM.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPRVD SCBA & FULL PROT EQUIP
+    .WATER SPRAY MAY BE INEFT.IF WATER IS USED,FOG NOZZ ARE PREF.WATER
+    MAY BE USED TO COOL CLSD (SUPP DATA)
+Unusual Fire/Explosion Hazard:KEEP CNTNRS TIGHTLY CLSD.ISOLATE FROM
+    HEAT, ELEC EQUIP, SPARKS & OPEN FLAME.CLSD CNTNRS MAY EXPLODE WHEN
+    EXPSD TO EXTREME HEAT.APPLICATN TO HOT SURF (SUPP DATA)
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. VENTILATE AND
+    REMOVE WITH INERT ABSORBENT.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:CONTENTS ARE COMBUST. KEEP AWAY FROM
+    HEAT & OPEN FLAME.CONSULT NFPA CODE. USE APPRVD BONDING & GROUNDING
+    PROCEDURES. KEEP CNTNRS CLSD WHEN NOT IN USE.
+Other Precautions:TRANSFER ONLY TO APPRVD CNTNRS WITH COMPLETE & APPROP
+    LABELING. DO NOT TAKE INTERNALLY. KEEP OUT OF REACH OF CHILDREN.
+    USE ONLY WITH ADEQ VENT. AVOID BREATHING VAPOR AND SPRAY MIST.
+    AVOID CONTACT WITH	SKIN AND EYES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF PERSONAL EXPOSURE CANNOT BE CONTROLLED BELOW
+    APPLICABLE LIMITS BY VENTILATION, WEAR NIOSH/MSHA APPROVED
+    RESPIRATORY DEVICE FOR PROTECTION AGAINST MATERIALS IN INGREDIENT
+    SECTION.
+Ventilation:LOC EXHST PREF. GENERAL EXHST ACCEP IF EXPOS TO MATERIALS
+    IN ING SECTION IS MAINTAINED <APPLIC EXPOSURE LIMITS.
+Protective Gloves:PROTECTIVE GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:WASH HANDS AFTER USING.
+Supplemental Safety and Health
+FIRE FIGHT PROC: CNTNRS TO PREVENT PRESSURE BUILD-UP & POSSIBLE
+    AUTOIGNITION OR EXPLOSION WHEN EXPOSED TO EXTREME HEAT. EXPLO HAZ:
+    REQUIRES SPECIAL PRECAUTIONS. DURING EMERGENCY CONDITIONS
+    OVEREXPOSUR E TO DECOMP PRODS MAY CAUSE A HEALTH HAZARD. SYMPTOMS
+    MAY NOT BE IMMEDIATELY APPARENT. CALL MD.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:300F,149C
+Vapor Pres:SEE INGRED
+Vapor Density:HVR/AIR
+Spec Gravity:1.0123 
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Appearance and Odor:NONE SPECIFIED BY MANUFACTURER.
+Percent Volatiles by Volume:46.6
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:BY FIRE: CO*2, CO.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:WASTE FROM PROD MAY BE HAZ AS DEFINED UNDER RCRA
+    40 CFR 261.WASTE MUST BE TESTED FOR IGNITABILITY TO DETERMINE THE
+    APPLIC EPA HAZ WASTE NUMBERS.INCIN IN APPRVD FACILITY.DO NOT INCIN
+    CLSD CNTNRS.DISPOS E OF I/A/W FED, ST AND LOCAL REGS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

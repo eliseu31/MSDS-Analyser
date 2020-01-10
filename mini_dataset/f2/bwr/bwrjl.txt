@@ -1,0 +1,144 @@
+=====================  Product Identification  =====================
+
+Product ID:ZINC CARBON BATTERY BA-802/U
+MSDS Date:03/15/1991
+FSC:6135
+NIIN:00-100-0402
+MSDS Number: BWRJL
+=== Responsible Party ===
+Company Name:BREN-TRONICS INC
+Address:10 BRAYTON CT
+City:COMMACK
+State:NY
+ZIP:11725-3104
+Country:US
+Info Phone Num:516-499-5155
+Emergency Phone Num:516-499-5155
+CAGE:51828
+=== Contractor Identification ===
+Company Name:BREN-TRONICS INC
+Address:10 BRAYTON CT
+Box:City:COMMACK
+State:NY
+ZIP:11725-3104
+Country:US
+Phone:631-499-5155
+CAGE:51828
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ZINC  (SARA III)
+CAS:7440-66-6
+RTECS #:ZG8600000
+Fraction by Wt: 29%
+Other REC Limits:NONE RECOMMENDED
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:MANGANESE DIOXIDE
+CAS:1313-13-9
+RTECS #:OP0350000
+Fraction by Wt: 37%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:5 MG MN/M3 CEILING
+ACGIH TLV:5 MG MN/M3
+
+Ingred Name:ZINC CHLORIDE  (SARA III)
+CAS:7646-85-7
+RTECS #:ZH1400000
+Fraction by Wt: 9%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:1 MG/M3
+ACGIH TLV:1MG/M3/2STEL(FUME)94
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:NO HEALTH HAZARD UNLESS BATTERY
+    RUPTURES. IF BATTERY RUPTURES, IT MAY CAUSE EYES, SKIN AND
+    RESPIRATORY TRACT IRRITATION.
+Explanation of Carcinogenicity:THERE ARE NO INGREDIENTS ABOVE 0.1%
+    WHICH ARE IDENTIFIED AS CARCINOGENS BY NTP,IARC OR OSHA.
+Effects of Overexposure:FUMES MAY CAUSE METAL FUME FEVER.SYMPTOMS
+    APPEAR 4-12 HOURS AFTER EXPOSURE.SYMPTOMS ARE
+    FEVER,SHAKING,CHILLS.SYMPTOMS DISSIPATE AFTER 24 HOURS.
+Medical Cond Aggravated by Exposure:UNLIKELY TO AGGRIVATE EXISTING
+    MEDICAL CONDITIONS UNDER NORMAL CONDITIONS OF USE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH PLENTY OF WATER AND GET IMMEDIATE MEDICAL
+    ATTENTION. SKIN: WASH WITH SOAP AND WATER. INHALATION: REMOVE TO
+    FRESH AIR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:IN BULK STORAGE AREAS, USE FOAM OR DRY POWDER.
+    WATER MAY CAUSE ELECTRICAL SHORTS.
+Fire Fighting Procedures:AS WITH ANY FIRE, WEAR SELF-CONTAINED
+    BREATHING APPARATUS TO AVOID INHALATION OF HAZARDOUS DECOMPOSITION
+    PRODUCTS.
+Unusual Fire/Explosion Hazard:LIKE ANY SEALED CONTAINER, BATTERY CELLS
+    MAY RUPTURE WHEN EXPOSED TO EXCESSIVE HEAT. THIS COULD RESULT IN
+    THE RELEASE OF CORROSIVE MATERIALS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:IN THE EVENT OF BATTERY RUPTURE, WEAR
+    PROTECTIVE EQUIPMENT, AND COLLECT ALL RELEASED MATERIAL IN A
+    PLASTIC BAG FOR WASTE DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN DRY PLACE. STORING UNPACKED
+    CELLS TOGETHER COULD RESULT IN CELL SHORTING AND HEAT BUILDUP.
+Other Precautions:DO NOT PACK, STORE, OR SHIP USED BATTERIES IN TIGHTLY
+    SEALED CONTAINERS. THE SLOW EVOLUTION OF HYDROGEN GAS FROM USED
+    BATTERIES MAY PRODUCE CONTAINER OVER-PRESSURE OR EXPLOSIVE
+    CONDITIONS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IN FIRE CONDITIONS USE A SELF-CONTAINED
+    BREATHING APPARATUS.
+Ventilation:PROVIDE LOCAL EXHAUST AFTER A FIRE.
+Protective Gloves:ACID RESISTANT FOR HANDLING LEAKERS.
+Eye Protection:SAFETY GLASSES WHEN HANDLING LEAKERS.
+Other Protective Equipment:USE PROTECTIVE CLOTHING WHEN HANDLING
+    LEAKERS. PROVIDE A LOCAL EYE WASH STATAION AND SAFETY SHOWER.
+Work Hygienic Practices:USE REASONABLE CARE IN HANDLING THIS
+    PRODUCT.WASH HANDS AFTER USE AND BEFORE EATING.
+Supplemental Safety and Health
+DO NOT MIX CARBON-ZINC BATTERIES AND ALKALINE BATTERIES IN THE SAME
+    EQUIPMENT.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Appearance and Odor:RECTANGULAR BATTERY WITH ROUNDED CORNERS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:AVOID ELECTRICAL SHORTING,HEAT.DO NOT
+    DISASSEMBLE OR RECHARGE.
+Hazardous Decomposition Products:OXIDES OR FUMES OF ZINC.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH ALL APPLICABLE
+    FEDERAL, STATE AND LOCAL REGULATIONS. DO NOT INCINERATE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

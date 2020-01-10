@@ -1,0 +1,125 @@
+=====================  Product Identification  =====================
+
+Product ID:4828A ENPLATE NI
+MSDS Date:06/17/1986
+FSC:6850
+NIIN:00-394-3551
+MSDS Number: BKYKN
+=== Responsible Party ===
+Company Name:ENTHONE INC
+Box:1900
+City:NEW HAVEN
+State:CT
+ZIP:06508
+Info Phone Num:(203) 934-8611
+Emergency Phone Num:(203) 934-8611
+Preparer's Name:J.A. ZEHNDER
+CAGE:EO297
+=== Contractor Identification ===
+Company Name:ENTHONE INC
+Address:350 FRONTAGE RD
+Box:1900
+City:WEST HAVEN
+State:CT
+ZIP:06516-4147
+Country:US
+Phone:203-934-8611
+CAGE:EO297
+Company Name:ENTHONE-OMI INC.
+Address:Box:1900
+City:NEW HAVEN
+State:CT
+ZIP:06508
+Country:US
+Phone:203-934-8611/ FAX 203-799-8179
+CAGE:02258
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NICKEL SULFATE  (SARA III)
+CAS:7786-81-4
+RTECS #:QR9350000
+Fraction by Wt: <35%
+OSHA PEL:1 MG NI/M3
+ACGIH TLV:0.1 MG NI/M3; 9293
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:WATER, H2O
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: >65%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION. SKIN: SENSITIZATION.
+    INHALATION: IRRITATION TO NOSE, THROAT & HARMFUL. INGESTION: TOXIC.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: IRRITATION. SKIN: SENSITIZATION.
+    INHALATION: IRRITATION TO NOSE, THROAT & HARMFUL. INGESTION: TOXIC.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES/SKIN: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINS.
+    INGESTION: INDUCE VOMITING. INHALATION: REMOVE TO FRESH AIR,.
+    OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:WATER, CO2 OR FOAM
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONTAIN SPILL W/SAND OR GRAVEL. SOAK UP SPILL
+    IN SUITABLE ABSORBENT SUCH AS SAND. SHOVEL UP INTO CONTAINERS FOR
+    TRANSFER TO CHEMICAL WASTE TREATMENT FACILITY. AFTER CLEAN-UP,
+    FLUSH AREA W/WATER TO REM OVE RESIDUE. AVOID ENTRY INTO
+    SEWERS/STREAMS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP FROM FREEZING. STORE INDOORS AT
+    35-110F.AVOID CONTACT W/HIGHLY ALKALINE MATERIALS, SKIN, EYES,
+    CLOTHING & INHALATION OF VAPORS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:TYPE FOR ACID MIST.
+Ventilation:LOCAL EXHAUST IS RECOMMENDED.
+Protective Gloves:RUBBER
+Eye Protection:GOGGLES W/FACE SHIELDS
+Other Protective Equipment:APRON, BOOTS, PROTECTIVE OINTMENT FOR THOSE
+    SENSITIVE TO NICKEL SALTS.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:212F
+Spec Gravity:1.243
+pH:3.4
+Solubility in Water:COMPLETE
+Appearance and Odor:GREEN LIQUID W/NO ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ALKALINE MATERIALS
+Stability Condition to Avoid:FREEZING
+Hazardous Decomposition Products:ACRID/TOXIC FUMES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:FOR WASTE DISPOSAL OF OPERATING SOLUTIONS,
+    CONSULT ENTHONE OPERATING INSTRUCTIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,170 @@
+=====================  Product Identification  =====================
+
+Product ID:MODIFIED OXIDES OF NITROGEN-III (MON-III)
+MSDS Date:01/26/1993
+FSC:9135
+NIIN:01-146-5134
+MSDS Number: BJDGW
+=== Responsible Party ===
+Company Name:VICKSBURG CHEMICAL CO
+Box:821003
+City:VICKSBURG
+State:MS
+ZIP:39182-1003
+Country:US
+Info Phone Num:601-636-1231
+Emergency Phone Num:800-424-9300
+Preparer's Name:DAVID GREEN
+CAGE:GO313
+=== Contractor Identification ===
+Company Name:VICKSBURG CHEMICAL CO
+Address:4280 RIFLE RANGE ROAD
+Box:821003
+City:VICKSBURG
+State:MS
+ZIP:39182
+Country:US
+Phone:(601) 636-1232
+CAGE:1K447
+Company Name:VICKSBURG CHEMICAL CO
+Address:4280 RIFLE RANGE RD
+Box:821003
+City:VICKSBURG
+State:MS
+ZIP:39182-1003
+Country:US
+Phone:601-636-1231
+CAGE:GO313
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NITROGEN TETROXIDE
+CAS:10544-72-6
+RTECS #:QX1575000
+Fraction by Wt: 97-97.5%
+OSHA PEL:1 PPM
+ACGIH TLV:3 PPM
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+Ingred Name:NITROUS OXIDE, NITROGEN OXIDE, NITROGEN MONOXIDE
+CAS:10024-97-2
+RTECS #:QX1350000
+Fraction by Wt: 2.5-3%
+Other REC Limits:50 PPM
+ACGIH TLV:25 PPM
+
+Ingred Name:WATER, H2O
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 0.17%
+
+Ingred Name:CHLORINE  (SARA III)
+CAS:7782-50-5
+RTECS #:FO2100000
+Fraction by Wt: 0.04%
+Other REC Limits:0.5 PPM
+OSHA PEL:(C) 1 PPM
+ACGIH TLV:0.5 PPM/1 STEL; 9293
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+Ingred Name:PARTICULATES
+Fraction by Wt: 10% MG/L
+ACGIH TLV:10 PPM
+
+Ingred Name:IRON
+CAS:7439-89-6
+RTECS #:NO4565500
+Fraction by Wt: 0.5% PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INGESTION: HIGH TOXICITY, HIGHLY
+    CORROSIVE TO TISSUE/TOXIC/FATAL. EYES: IRRITATION/HIGHLY CORROSIVE.
+    SKIN: HIGHLY CORROSIVE/SERIOUS BURNS/YELLOW STAINING. INHALATION:
+    HIGHLY CORROSIVE/PULMONARY DAMAGE /EDEMA/BURNS TO TISSUE/HIGH
+    TOXICITY/BURNS TO TISSUE/PULMONARY TRACT. CORROSIVE TO TEETH.
+    MUCOUS MEMBRANE IRRITANT.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INGESTION: FATAL. EYES: PERMENANT INJURY.
+    INHALATION: PULMONARY & EDEMA DAMAGE. FATAL.
+Medical Cond Aggravated by Exposure:EMPHYSEMA
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION: GIVE PLENTY OF WATER. DON'T INDUCE VOMITING. EYES:
+    FLUSH W/PLENTY OF WATER FOR AT LEAST 30 MINS. SKIN: WASH W/SOAP &
+    WATER FOR AT LEAST 15 MINS, WHILE REMOVEING CLOTHING. INHALATION:
+    REMOVE  TO FRESH AIR. ADMINISTER ARTIFICIAL RESPIRATION IF
+    BREATHING STOPS. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON-FLAMMABLE
+Fire Fighting Procedures:WEAR SELF-CONTAINED AIR SUPPLY & RESISTANT
+    CLOTHING.
+Unusual Fire/Explosion Hazard:POWERFUL OXIDIZER. WILL INCREASE
+    INTENSITY OF FIRE THOUGH IT IS NOT FLAMMABLE ITSELF. MAY INCREASE
+    RISK OF EXPLOSION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE PERSONNEL UPWIND. USE PROPER SAFETY
+    EQUIPMENT. CONTAIN MATERIAL. FLUSH W/WATER & NEUTRALIZE. KEEP OUT
+    OF LAKES OR STREAMS. PRODUCT WILL EVAPORATE IF TEMPERATURE IS >70F.
+    NEUTRALIZE LIQUID RES IDUE W/DILUTE INORGANIC BASE SOLUTION
+    &DISPOSE.
+Neutralizing Agent:SODIUM CARBONATE OR LIME, SODIUM HYDROXIDE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTACT W/SKIN, EYES, &
+    CLOTHING. AVOID BREATHING DUSTS. AVOID CONTACT W/WATER, BASES, OR
+    ORGANIC MATERIAL. KEEP OUT OF REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR SELF-CONTAINED AIR SUPPLY OR FULL FACE
+    RESPIRATOR.
+Ventilation:REQUIRED
+Protective Gloves:ACID RESISTANT
+Eye Protection:FULL FACE SHIELD
+Other Protective Equipment:ACID RESISTANT CLOTHING
+Work Hygienic Practices:SHOWER AFTER HANDLING. REMOVE/LAUNDER CLOTHING
+    BEFORE REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:G7
+Boiling Pt:B.P. Text:70F
+Melt/Freeze Pt:M.P/F.P Text:11.8F
+Vapor Pres:17.7
+Vapor Density:1.56
+Spec Gravity:1.49
+Solubility in Water:COMPLETE
+Appearance and Odor:GREENISH BROWN LIQUID W/ACIDIC ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+BASES, MOST METALS & ORGANICS, WATER
+Stability Condition to Avoid:MOISTURE
+Hazardous Decomposition Products:NOXIOUS FUMES, OXIDES OF NITROGEN
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF AWAY FROM STREAMS & WATER IN
+    ACCORDANCE W/FEDERAL, STATE, & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

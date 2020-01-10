@@ -1,0 +1,134 @@
+=====================  Product Identification  =====================
+
+Product ID:ISOBUTYL ACETATE, 95%
+MSDS Date:05/01/1986
+FSC:6810
+NIIN:00N057644
+MSDS Number: BWRSG
+=== Responsible Party ===
+Company Name:PFALTZ & BAUER INC
+Address:172 E AURORA ST
+City:WATERBURY
+State:CT
+ZIP:06708
+Country:US
+Info Phone Num:203-574-0075
+Emergency Phone Num:203-574-0075
+CAGE:IO568
+=== Contractor Identification ===
+Company Name:PFALTZ & BAUER INC
+Address:172 EAST AURORA ST
+Box:City:WATERBURY
+State:CT
+ZIP:06708
+Country:US
+Phone:203-574-0075
+CAGE:IO568
+Company Name:PFALTZ AND BAUER,INC.
+Address:172-EAST AURORA  STREET
+City:WATERBURY
+State:CT
+ZIP:06708
+Country:US
+Phone:203-574-0075
+CAGE:93272
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ACETIC ACID, ISOBUTYL ESTER (ISOBUTYL ACETATE)
+CAS:110-19-0
+RTECS #:AI4025000
+Fraction by Wt: 95%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:NON-HAZARDOUS INGREDIENTS
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:CAUSES HEADACHE, NAUSEA, VOMITING &
+    NARCOSIS.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: REMOVE TO FRESH AIR & CALL MD. SKIN: FLUSH WITH WATER.
+    EYE: FLUSH W/WATER FOR AT LEAST 15 MINUTES. INGEST: CALL MD
+    IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TOC
+Flash Point:83.0F,28.3C
+Lower Limits:2.3%
+Upper Limits:7.2%
+Extinguishing Media:CARBON DIOXIDE OR DRY CHEMICAL FOR SMALL FIRES.
+    ORDINARY FOAM FOR LARGER FIRES.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT.
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH HEAVILY WITH WATER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM HEAT, SPARKS & FIRE. DO
+    NOT LEAVE CONTAINER OPEN.
+Other Precautions:AVOID PROLONGED OR REPEATED BREATHING OF VAPOR.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA AIR-SUPPLIED MASK FOR CONCENTRATIONS
+    ABOVE 2% BY VOLUME. USE NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE
+    FOR EXPOSURE OF CONCERN .
+Ventilation:LOC EXHST: PREFERABLE. MECH: ACCEPTABLE.
+Protective Gloves:PLASTIC GLOVES.
+Eye Protection:ANSI APPRVD CHEM SAFETY GOGGLES .
+Other Protective Equipment:EYE BATH & SAFETY SHOWER.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:241F,116C
+Vapor Pres:12 @ 20C
+Spec Gravity:0.870(H*2O=1)
+Evaporation Rate & Reference:1.5 (BUAC=1)
+Solubility in Water:1%
+Appearance and Odor:WATER-WHITE LIQUID; FRUITY ODOR.
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTAMINATION WITH STRONG ALKALIES.
+Stability Condition to Avoid:AVOID HEAT, FIRES & SPARKS.
+Hazardous Decomposition Products:THERMAL DECOMPOSITION MAY YIELD CARBON
+    MONOXIDE &/CARBON DIOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE IN A FURNACE. DISPOSE OF IN
+    ACCORDANCE WITH LOCAL, STATE & FEDERAL REGULATIONS .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

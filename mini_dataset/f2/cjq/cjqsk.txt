@@ -1,0 +1,185 @@
+=====================  Product Identification  =====================
+
+Product ID:HALON 1301(CBRF3)
+MSDS Date:05/17/1999
+FSC:6830
+NIIN:00-435-9415
+Status Code:A
+MSDS Number: CJQSK
+=== Responsible Party ===
+Company Name:REMTEC INTERNATIONAL INC
+Address:6150 MERGER DRIVE
+City:HOLLAND
+State:OH
+ZIP:43528
+Country:US
+Info Phone Num:419-867-8990
+Emergency Phone Num:813-979-0626
+Resp. Party Other MSDS Num.:MSDS1301A.WPD
+Preparer's Name:PATRICIA A. BURNS
+CAGE:TO355
+=== Contractor Identification ===
+Company Name:GENERAL FIRE EXTINGUISHER CORP
+Address:1685 SHERMER RD
+Box:City:NORTHBROOK
+State:IL
+ZIP:60062-5315
+Country:US
+Phone:(708)  847-272-7500; 847-272-7500
+Contract Num:SP0450-99-MJD57
+CAGE:99539
+Company Name:REMTEC INTERNATIONAL INC
+Address:6150 MERGER DRIVE
+Box:City:HOLLAND
+State:OH
+ZIP:43528
+Country:US
+Phone:419-867-8990
+CAGE:TO355
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BROMOTRIFLUOROMETHANE (CBRF3)
+CAS:75-63-8
+RTECS #:PA5425000
+= Wt:100.
+OSHA PEL:6100 MG/M3;1000 PPM
+ACGIH TLV:6090 MG/M3;1000 PPM
+Ozone Depleting Chemical:1
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Health Hazards Acute and Chronic:ACUTE AND CHRONIC: APPROXIMATE LETHAL
+    CONCENTRATION OF HALON 1301 TO THE RAT IS 80% FOR 15 MINUTES. HALON
+    1301 HAS ANESTHETIC AND CARDIAC EFFECTS IN HUMANS AT CONCENTRATIONS
+    BELOW 10% ARE CONSIDERED S AFE FOR 0-5 MINUTES EXPOSURES. HALON
+    1301 IS CLASSIFIED AS GROUP 6 (LEAST TOXIC) IN THE UNDERWRITERS
+    LABORATORIES CLASSIFICATION OF COMPARATIVE LIFE HAZARDS OF FIRE
+    EXTINGUISHING AGENTS.
+Effects of Overexposure:ANESTHETIC EFFECT OF HALON 1301 AT LEVELS BELOW
+    10% IS SIMILAR TO A FEELING OF MILD INTOXICATION. ANESTHETIC
+    EFFECTS TO CONCENTRATIONS ABOVE 10% (15-20), MAY LEAD TO
+    UNCONSCIOUSNESS, POSSIBLY DEATH. H UMAN HEALTH EFFECTS OF
+    OVEREXPOSURE BY INHALATION MAY INCLUDE NONSPECIFIC DISCOMFORT, SUCH
+    AS NAUSEA, HEADACHE, WEAKNESS; OR TEMPORARY CENTRAL NERVOUS SYSTEM
+    DEPRESSION WITH EFFECTS SUCH AS DIZZINESS,	HEADACHE, CONFUSION,
+    INCOORDINATION, AND LOSS OF CONSCIOUSNESS. HIGHER EXPOSURE MAY
+    CAUSE TEMPORARY ALTERATION OF HEART'S ELECTRICAL ACTIVITY WITH
+    IRREGULAR PULSE OR INADEQUATE CIRCULATION. SKIN/EYE  CONTACT WITH
+    LIQUID MAY CAUSE FROSTBITE.
+Medical Cond Aggravated by Exposure:INDIVIDUALS WITH PRE-EXISTING
+    DISEASES OF THE CENTRAL NERVOUS SYSTEM OR CARDIOVASCULAR SYSTEM MAY
+    HAVE INCREASED SUSCEPTIBILITY TO THE TOXICITY OF EXCESSIVE
+    EXPOSURES.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE VICTIM TO FRESH AIR. GIVE SYMPTOMATIC AND
+    SUPPORTIVE CARE. GET MEDICAL ATTENTION. NOTE: ADRENALIN IS
+    CONTRADICTED IN TREATMENT OF OVEREXPOSURE TO HALON 1301. SKIN
+    CONTACT: IN CASE O F CONTACT, FLUSH SKIN WITH PLENTY OF WATER FOR
+    15 MINUTES. TREAT FOR FROSTBITE IF NECESSARY BY GENTLY WARMING
+    AFFECTED AREA. EYE CONTACT: IN CASE OF CONTACT, IMMEDIATELY FLUSH
+    EYES WITH PLENTY OF WATE R FOR AT LEAST 15 MINUTES. CALL A
+    PHYSICIAN. NOTES TO PHYSICIAN: BECAUSE OF POSSIBLE DISTURBANCES OF
+    CARDIAC RHYTHM, CATECHOLAMINE DRUGS SUCH AS EPINEPHRINE SHOULD ONLY
+    BE USED WITH SPECIAL CAUTION IN  SITUATIONS OF EMERGENCY LIFE
+    SUPPORT.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Autoignition Temp:Autoignition Temp Text:N/D
+Lower Limits:N/D
+Upper Limits:N/D
+Extinguishing Media:HALON 1301 IS A FIRE EXTINGUISHING AGENT.
+Fire Fighting Procedures:USE WATER SPRAY OR FOG TO COOL
+    CONTAINERS.SELF-CONTAINED BREATHING APPARATUS (SCBA) IS REQUIRED IF
+    CYLINDERS RUPTURE OR RELEASE UNDER FIRE CONDITIONS.
+Unusual Fire/Explosion Hazard:CYLINDERS ARE EQUIPPED WITH RELIEF
+    DEVICES BUT MAY STILL RUPTURE UNDER FIRE CONDITIONS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:AIR OUT ENCLOSED OR LOW AREAS. REMOVE OPEN
+    FLAMES. USE SELF-CONTAINED BREATHING APPARATUS FOR LARGE LEAK OR
+    SPILL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTAINER DAMAGE. STORAGE
+    CONDITIONS: CLEAN, DRY AREA, DO NOT HEAT ABOVE 125F.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH-APPROVE SELF-CONTAINED BREATHING
+    APPARATUS IF EXPOSED TO CONCENTRATIONS GREATER THAN 10%.
+Ventilation:LOCAL EXHAUST:NORMAL VENTILATION IS ADEQUATE.
+    MECHANICAL(GENERAL): USED IN LOW OR ENCLOSED PLACES.
+Protective Gloves:IMPERVIOUS GLOVES FOR PROLONG/REPEATED CONTACT
+Eye Protection:SPLASH GOGGLES
+Other Protective Equipment:NONE
+Work Hygienic Practices:DETERMINE THAT PIPING IS EMPTEY BEFORE DOING
+    MAINTENANCE WORK.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:G3
+Boiling Pt:=-57.6C, -72.F
+Decomp Temp:=850.C, 1562.F
+Vapor Pres:6200 @ 0C/32F
+Vapor Density:5.14@25C
+Spec Gravity:1.57
+pH:NEUTRAL
+Evaporation Rate & Reference:>1 (CCL4=1)
+Solubility in Water:.03WT @25C
+Appearance and Odor:CLEAR, COLORLESS,LIQUEFIED GAS; SLIGHT ETHEREAL
+    ODOR
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACTIVE METALS, ALKALI,FIRES OF METAL HYDRIDES, AND MATERIAL CONTAINING
+    OWN OXYGEN.
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:IN THE PRESENCE OF FLAMES OR HOT
+    SURFACES:ABOVE 1000F,HALON 1301 MAY RELEASE HYDROGEN
+    FLUORIDE,HYDROGEN BROMIDE,BROMINE,CARBONYL FLUORIDE,AND CARBONYL
+    BROMIDE.
+Conditions to Avoid Polymerization:HIGH TEMPERATURES,GLOWING METAL
+    SURFACES,OPEN FLAMES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:COMPLY WITH ALL FEDERAL, STATE, AND LOCAL
+    REGULATIONS. RECLAIM BY RECOVERY MACHINES AND REMOVE TO PERMITTED
+    WASTE DISPOSAL FACILITY.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:DOT FOR FRC RECYCLED: PROPER SHIPPING NAME:
+    BROMOTRIFLUOROMETHANE; HAZARD CLASS: NONFLAMMABLE GAS; GAS UN/NA
+    NO: UN1009; DOT LABEL: NONFLAMMABLE GAS. DOT/IMO HAZARD CLASS: 2.2
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:HALON 1301 IS A "TOXIC CHEMICAL" IN
+    ACCORDANCE WITH SARA 313 AND 40 CFR PART 372, AND IS THEREFORE
+    SUBJECT TO SARA 313 REPORTING REQUIREMENTS. BROMOTRIFLUOROMETHANE.
+State Regulatory Information:
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

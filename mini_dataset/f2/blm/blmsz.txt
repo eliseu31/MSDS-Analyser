@@ -1,0 +1,148 @@
+=====================  Product Identification  =====================
+
+Product ID:COMPRESSED ASBESTOS SHEETS, 7021
+MSDS Date:10/03/1991
+FSC:5330
+NIIN:00-228-2145
+MSDS Number: BLMSZ
+=== Responsible Party ===
+Company Name:GARLOCK INC
+Address:1666 DIVISION ST
+City:PALMYRA
+State:NY
+ZIP:14522
+Country:US
+Info Phone Num:315-597-4811
+Emergency Phone Num:315-597-4811
+CAGE:76380
+=== Contractor Identification ===
+Company Name:GARLOCK INC
+Address:1666 DIVISION ST
+Box:City:PALMYRA
+State:NY
+ZIP:14522
+Country:US
+Phone:315-597-4811
+CAGE:76380
+Company Name:GARLOCK INC MECHANICAL PACKING DIV
+Address:1666 DIVISION ST
+City:PALMYRA
+State:NY
+ZIP:14522-9343
+Country:US
+Phone:315-597-4811
+CAGE:73680
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ASBESTOS, CHRYSOTILE
+CAS:12001-29-5
+RTECS #:CI6478500
+Fraction by Wt: 80-90%
+OSHA PEL:0.2 FIBERS/CC
+ACGIH TLV:2 FIBERS/CC; A1;9192
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:YES
+Health Hazards Acute and Chronic:PRODS DO NOT POSE HLTH HAZ UNDER
+    ORDINARY CNDTNS OF USE. HAZ WOULD ARISE ONLY IF PRODS WERE
+    SUBJECTED TO MECH ACTIONS THAT WOULD CAUSE ASBESTOS FIBERS TO BE
+    REL FROM ELASTOMER COMPOUND MATRIX. INHAL O F SUCH AIRBORNE FIBERS
+    CAN CAUSE WELL-KNOWN LONG TERM EFTS OF ASBESTOSIS, LUNG CANCER &
+    MESOTHELIOMA. (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:CHRYSOTILE:GROUP 1(NTP, IARC), OSHA
+    REGULATED.
+Effects of Overexposure:HLTH HAZ:INGEST:FREE ASBESTOS FIBERS MAY BE
+    FACTOR IN CANCERS OF GI TRACT & LARNYX. SUCH CANCERS ARE BELIEVED
+    TO BE SMOKING RELATED. SKIN/EYE:SIMPLE IRRIT IN SENSITIVE
+    INDIVIDUALS. USERS SHOULD CONSUL T CURRENT PERMISSIBLE EXPOSURE
+    LEVELS FOR ASBESTOS .
+Medical Cond Aggravated by Exposure:INHALING FREE ASBESTOS FIBERS MAY
+    AGGRAVATE ANY LUNG CONDITIONS & RESPIRATORY TRACT IRRITATIONS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL(OF FIBER):REMOVE VICTIM FROM CONTAM AREA. REPORT EXPOS
+    TO MD. INGEST(OF FIBER):NO SPEC ACTION. REPORT EXPOS TO MD.
+    SKIN:WASH AREA OF CNTCT THORO W/SOAP & WATER. CALL MD IF IRRIT
+    PERSISTS. EYES:I F PARTICLES GET IN EYES IRRIGATE WELL W/WATER FOR
+    AT LEAST 15 MIN. CALL MD AS PRECAUTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER, FOAM, CO*2, DRY CHEMICAL.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:PRODUCES SMOKE, SOME FUMES & POSSIBLY
+    SOME FREE ASBESTOS FIBERS WHEN BURNED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NO SPECIFIC ACTION. GRINDING/MACHINING OF PROD
+    SHOULD BE AVOIDED SINCE THESE, OR SIMILAR OPERATIONS MAY GENERATE
+    ASBESTOS DUST. ANY SUCH DUST SHOULD BE VACUUMED UP, SEALED IN
+    PLASTIC BAG & DISPOSED OF  I/A/W INSTRUCTIONS FROM DISP COMPANY.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN CLEAN/DRY PLACE AWAY FROM
+    STRONG OXIDIZING AGENTS. ASBESTOS IS BONDED BY ELASTOMER CMPD,
+    HOWEVER, DO NOT MISUSE BY IMPROPER CUTTING/HNDLG.
+Other Precautions:SEE OSHA REGS 29 CFR 1910.1001. WHEN REMOVING USED
+    GASKETS, AVOID EXCESSIVE MECH ACTIONS & PLACE ASBESTOS CNTNG
+    RESIDUES IN PLASTIC BAG FOR DISP. AS PREC, DUST MASK SHOULD BE WORN
+    BY INDIVIDUALS WHEN  ENGAGED IN REMOVAL OF USED GASKETS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT REQUIRED UNDER NORMAL CONDITIONS OF USE. IF
+    ANY OPERATIONS ARE PERFORMED ON PRODUCT THAT MAY RELEASE ASBESTOS
+    FIBERS, USE NIOSH/MSHA APPROVED DUST MASK.
+Ventilation:NO SPECIAL REQS UNDER NORM CNDTNS OF USE. IF ANY OPERATIONS
+    ARE PERFORMED ON PROD THAT MAY REL ASBESTOS FIBERS, (SUPDAT)
+Protective Gloves:NOT REQD UNDER ORDINARY CNDTNS OF USE.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:NORMAL WASH UP AFTER HANDLING IS RECOMMENDED.
+Supplemental Safety and Health
+HAZ DECOMP PROD:THERE MAY BE OTHER PRODUCTS UNKNOWN TO US.
+    VENT:SUFFICIENT VENTILATION SHOULD BE PROVIDED TO KEEP FIBER LEVEL
+    BELOW 0.2 FIBERS PER CC. THE ASBESTOS FIBER IS BOUND AND
+    ENCAPSULATED BY A  VULCANIZED ELASTOMER MATRIX. THE FIBERS DO NOT
+    PRESENT A HAZARD AS LONG AS THE MATRIX REMAINS INTACT.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T6
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:GREY-BLACK TO BLACK SHEET OR GASKET - SLIGHT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:AVOID STORAGE W/STRONG OXIDIZING AGENTS.
+    DIRECT FLAME WILL IGNITE BINDER.
+Hazardous Decomposition Products:IN FIRE, SMOKE, POSS CO UNDER CERTAIN
+    CIRCUMSTANCES. SOME ASBESTOS FIBERS MAY BE REL ONCE BINDER HAS
+    BURNED. (SUPP DATA)
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:SINCE ASBESTOS IN PRODUCT IS SECURED W/BINDER &
+    IS NOT FRIABLE OR LOOSE, PRODUCT CAN BE DISPOSED OF W/OTHER INERT
+    MATERIALS IN NORMAL LANDFILL. USER IS RESPONSIBLE FOR COMPLYING
+    W/ANY LOCAL, STATE & F EDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

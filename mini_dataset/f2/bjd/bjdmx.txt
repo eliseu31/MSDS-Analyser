@@ -1,0 +1,151 @@
+=====================  Product Identification  =====================
+
+Product ID:CUTTER EVERGREEN SCENT INSECT REPELLENT STI
+MSDS Date:05/17/1990
+FSC:6840
+NIIN:00-142-8965
+MSDS Number: BJDMX
+=== Responsible Party ===
+Company Name:MILES INC HOUSEHOLD PRODUCTS INC
+Address:7123 W 65TH  ST
+City:CHICAGO
+State:IL
+ZIP:60638-4605
+Country:US
+Info Phone Num:708-458-6100
+Emergency Phone Num:219-264-8400
+Preparer's Name:NOT READABLE
+CAGE:DO939
+=== Contractor Identification ===
+Company Name:MILES INC HOUSEHOLD PRODUCTS INC
+Address:7123 W 65TH  ST
+City:CHICAGO
+State:IL
+ZIP:60638-4605
+Country:US
+Phone:312-458-6100
+CAGE:DO939
+Company Name:MILES INC, HOUSEHOLD PRODUCTS DIV
+Address:7123 W 65TH  ST
+Box:City:CHICAGO
+State:IL
+ZIP:60638-4605
+Country:US
+Phone:219-264-8400/412-681-6669(MEDICAL)
+CAGE:62801
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:N,N-DIETHYL-M-TOLUAMIDE (DEET)
+CAS:134-62-3
+RTECS #:XS3675000
+Fraction by Wt: 31.35%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:N,N-DIETHYL-P-TOLUAMIDE
+CAS:2728-05-4
+RTECS #:XS4025000
+Fraction by Wt: SEE # 3%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:N,N-DIETHYL-O-TOLUAMIDE (% SHOWN IS FOR INGREDIENTS 2 AND 3
+    COMBINED)
+CAS:2728-04-3
+RTECS #:XS3850000
+Fraction by Wt: 1.65%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: <10%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+Ingred Name:INERT MATERIALS
+Fraction by Wt: 57%
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL RAT) IS 5.7 G/KG
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: MAY CAUSE SKIN REACTIONS IN
+    RARE CASES. CHRONIC: NONE.
+Explanation of Carcinogenicity:NONE OF THE COMPOUNDS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP, OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:MAY CAUSE SKIN REACTIONS IN RARE CASES.
+Medical Cond Aggravated by Exposure:NONE
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: IMMEDIATELY FLUSH WITH COPIOUS AMOUNTS OF WATER. IF
+    IRRITATION PERSISTS, GET MEDICAL ATTENTION. INGEST: CALL A
+    PHYSICIAN OR POISON CONTROL. IF CONSCIOUS, GIVE ONE OR TWO GLASSES
+    OF WATER AND IND UCE VOMITING. SKIN: IF SKIN REACTION OCCURS, WASH
+    WITH SOAP AND WATER. GET MEDICAL ATTENTION IF IRRITATION PERSISTS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:NOT FLAMMABLE ;USE ANY MEDIA FOR SURROUNDING FIRES.
+Fire Fighting Procedures:WEAR FIRE FIGHTING PROTECTIVE EQUIPMENT AND A
+    FULL FACED SELF CONTAINED BREATHING APPARATUS. EVACUATE AREA. COOL
+    FIRE EXPOSED CONTAINERS WITH WATER SPRAY.
+Unusual Fire/Explosion Hazard:COMBUSTION OR HEAT OF FIRE MAY PRODUCE
+    HAZARDOUS DECOMPOSITION PRODUCTS AND VAPORS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:PICK UP BULK QUANTITIES AND WASH ANY RESIDUAL
+    TO THE DRAIN.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NONE
+Other Precautions:APPLY ONLY TO SKIN. DO NOT INGEST. KEEP OUT OF EYES.
+    READ AND FOLLOW ALL LABEL DIRECTIONS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE
+Ventilation:NONE
+Protective Gloves:NONE
+Eye Protection:NONE
+Other Protective Equipment:NONE
+Work Hygienic Practices:NONE
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Spec Gravity:0.98
+Solubility in Water:INSOLUBLE
+Appearance and Odor:YELLOW TRANSPARENT SOLID GEL WITH EVERGREEN
+    FRAGRANCE
+Percent Volatiles by Volume:9.0%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+MAY SOFTEN OR DAMAGE SOME SYNTHETICS SUCH AS RAYON. MAY DAMAGE LEATHER.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:THIS MATERIAL MAY BE DISPOSED OF AS NORMAL,
+    SOLID, NON-HAZARDOUS WASTE. DO NOT REUSE CONTAINER.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

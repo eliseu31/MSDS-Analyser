@@ -1,0 +1,191 @@
+=====================  Product Identification  =====================
+
+Product ID:704 HYDRAULIC OIL
+MSDS Date:04/22/1994
+FSC:9150
+NIIN:01-345-6134
+MSDS Number: BLMXY
+=== Responsible Party ===
+Company Name:SOUTHWESTERN PETROLEUM CORP
+Address:534 N MAIN ST
+Box:789
+City:FORT WORTH
+State:TX
+ZIP:76101
+Country:US
+Info Phone Num:817-332-2336
+Emergency Phone Num:817-332-2336, CHEMTREC 800-424-9300
+CAGE:14392
+=== Contractor Identification ===
+Company Name:SOUTHWESTERN PETROLEUM CORP
+Address:534 N MAIN ST
+Box:961005
+City:FORT WORTH
+State:TX
+ZIP:76106
+Country:US
+Phone:817-348-7235
+CAGE:14392
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:RESIDUAL OILS, HYDROTREATED
+CAS:64742-57-0
+Fraction by Wt: SEE # 7%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:5 MG/M3 (OIL MIST)
+ACGIH TLV:5 MG/M3 (OIL MIST)
+
+Ingred Name:SOLVENT,DEWAXED RESIDUAL OIL (PETROLEUM)
+CAS:64742-62-7
+Fraction by Wt: SEE # 7%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:5 MG/M3 OIL MIST
+ACGIH TLV:5 MG/M3 OIL MIST
+
+Ingred Name:DISTILLATES, HYDROTREATED HEAVY PARAFFINIC
+CAS:64742-54-7
+RTECS #:PY8035500
+Fraction by Wt: SEE # 7%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:5 MG/M3 OIL MIST
+ACGIH TLV:5 MG/M3 OIL MIST
+
+Ingred Name:MINERAL OIL, PETROLEUM DISTILLATES, SOLVENT-DEWAXED HEAVY
+    PARAFFINIC
+CAS:64742-65-0
+RTECS #:PY8038500
+Fraction by Wt: SEE # 7%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:5 MG/M3 OIL MIST
+ACGIH TLV:5 MG/M3 OIL MIST
+
+Ingred Name:SOLVENT REFINED, HYDROTREATED LIGHT PARAFFINIC DISTILLATE
+CAS:64742-55-8
+RTECS #:PY8036500
+Fraction by Wt: SEE # 7%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:5 MG/M3 OIL MIST
+ACGIH TLV:5 MG/M3 OIL MIST
+
+Ingred Name:DISTILLATES, SOLVENT-DEWAXED LIGHT PARAFFINIC
+CAS:64742-56-9
+RTECS #:PY8039500
+Fraction by Wt: SEE # 7%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:5 MG/M3 OIL MIST
+ACGIH TLV:5 MG/M3 OIL MIST
+
+Ingred Name:REFINED HEAVY PARAFFINIC DISTILLATES
+CAS:64741-88-4
+Fraction by Wt: >97%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:5 MG/M3 (OIL MIST)
+ACGIH TLV:5 MG/M3 (OIL MIST)
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NOT GIVEN FOR PRODUCT AS A WHOLE
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MAY BE MILDLY IRRITATING TO THE EYES.
+    PROLONGED OR REPEATED CONTACT MAY CAUSE MILD IRRITATION AND
+    INFLAMMATION. ASPIRATION HAZARD.
+Explanation of Carcinogenicity:THIS COMPOUND CONTAINS NO INGREDIENTS AT
+    CONCENTRATIONS OF 0.1% OR GREATER THAT ARE CARCINOGENS OR SUSPECT
+    CARCINOGENS.
+Effects of Overexposure:EYE IRRITATION, SKIN IRRITATION, SKIN
+    INFLAMMATION, CHEMICAL PNEUMONIA.
+Medical Cond Aggravated by Exposure:PERSONNEL WITH PRE-EXISTING SKIN
+    DISORDERS SHOULD AVOID CONTACT WITH THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH WATER FOR 15 MINUTES WHILE HOLDING EYELIDS
+    OPEN. GET MEDICAL ATTENTION. SKIN: REMOVE CONTAMINATED CLOTHING.
+    WASH WITH SOAP AND WATER. IF IRRITATION PERSISTS, GET MEDICAL
+    ATTENTION. IN HALATION: REMOVE TO FRESH AIR. RESTORE BREATHING. GET
+    MEDICAL ATTENTION. INGESTION: DO NOT INDUCE VOMITING. GET MEDICAL
+    ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:>354F,>179C
+Autoignition Temp:Autoignition Temp Text:>500F
+Lower Limits:0.9 %
+Upper Limits:7 %
+Extinguishing Media:WATER FOG, DRY CHEMICAL, CARBON DIOXIDE, FOAM
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:WATER MAY CAUSE FROTHING. TOXIC GASES ARE
+    RELEASED DURING COMBUSTION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE INERT ABSORBENT MATERIAL TO CONFINE SPILLS
+    AND TO ABSORB MATERIAL. SCOOP INTO A DISPOSABLE CONTAINER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY PLACE WITH
+    ADEQUATE VENTILATION. KEEP AWAY FROM OPEN FLAMES AND HIGH
+    TEMPERATURES.
+Other Precautions:AVOID SKIN CONTACT. LAUNDER CONTAMINATED CLOTHING
+    BEFORE REUSE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF VENTILATION DOES NOT MAINTAIN INHALATION
+    EXOSURES BELOW PEL (TLV), USE NIOSH/MSHA APPROVED RESPIRATOR AS PER
+    CURRENT 29 CFR 1910.134, INSTRUCTIONS/WARNINGS AND NIOSH RESPIRATOR
+    SELECTION.
+Ventilation:LOCAL EXHAUST AND MECHANICAL (GENERAL) VENTILATION TO
+    MAINTAIN EXPOSURE LEVELS.
+Protective Gloves:IMPERVIOUS
+Eye Protection:SAFETY GLASSES OR GOGGLES
+Other Protective Equipment:PROTECTIVE CLOTHING AS REQUIRED TO AVOID
+    SKIN CONTACT. AN EMERGENCY EYE WASH STATION AND SHOWER SHOULD BE
+    AVAILABLE.
+Work Hygienic Practices:WASH WITH SOAP AND WATER AFTER HANDLING PRODUCT
+    AND BEFORE EATING DRINKING OR SMOKING.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:>559F,>293C
+Melt/Freeze Pt:M.P/F.P Text:NOT GIVEN
+Vapor Pres:NOT GIVEN
+Vapor Density:> 5
+Spec Gravity:0.9
+Viscosity:SAE 15
+Evaporation Rate & Reference:NOT GIVEN
+Solubility in Water:INSOLUBLE
+Appearance and Odor:RED COLORED LIQUID,, LUBE OIL ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HEAT, OPEN FLAME
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE,
+    UNIDENTIFIED ORGANIC COMPOUNDS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PREVENT WASTE FROM CONTAMINATING SURROUNDING
+    ENVIRONMENT. DISCARD ANY PRODUCT, RESIDUE, DISPOSAL CONTAINER OR
+    LINER IN ACCORDANCE WITH ALL FEDERAL, STATE AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

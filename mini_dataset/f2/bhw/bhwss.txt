@@ -1,0 +1,141 @@
+=====================  Product Identification  =====================
+
+Product ID:WHITE ALKYD ENAMEL ID X-4609
+MSDS Date:07/11/1988
+FSC:8010
+NIIN:00-298-2288
+MSDS Number: BHWSS
+=== Responsible Party ===
+Company Name:UNION CARBIDE CORPORATION
+Address:39 OLD RIDGEBURY ROAD
+City:DANBURY
+State:CT
+ZIP:06817-0001
+Country:US
+Info Phone Num:ROUTINE INFO CONTACT LOCAL SUPPLIER
+Emergency Phone Num:1-800-822-4357 CANADA 514-640-6400
+CAGE:36346
+=== Contractor Identification ===
+Company Name:HAMPTON ROADS SUPPLY UNION CARBIDE LINDE DIVISION
+Address:3450 VIRGINIA BEACH BLVD
+Box:12567
+City:NORFOLK
+State:VA
+ZIP:23502-3123
+Country:US
+CAGE:7D711
+Company Name:UNION CARBIDE CORP   LINDE DIV
+Address:39 OLD RIDGEBURY RD
+Box:City:DANBURY
+State:CT
+ZIP:06817-0001
+Country:US
+Phone:800-822-4357; 304-744-3487
+CAGE:36346
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MINERAL SPIRITS (VAPOR PRESSURE 1 MM HG @ 20 C)
+CAS:64475-85-0
+RTECS #:PY8240000
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:LEAD  (SARA III)
+CAS:7439-92-1
+RTECS #:OF7525000
+OSHA PEL:0.05 MG/M3;1910.1025
+ACGIH TLV:0.15 MG/M3;DUST 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:YES
+Health Hazards Acute and Chronic:ACUTE:  LEAD INTOXICATION AND
+    INHALATION					      CHRONIC: 
+    INGESTION
+Explanation of Carcinogenicity:LISTED AS SUSPECTED CARCINOGENIC
+    POTENTIAL TO MAN.
+Effects of Overexposure:EYES: IRRITATION, REDNESS, TEARING, BLURRED
+    VISION SKIN: IRRITATION, DERMATITIS 			       
+						    INHALATION: NASAL
+    AND RESPIRATORY IRRITA TION, DIZZINESS, WEAKNESS, NAUSEA,HEADACHE,
+    INGESTION: NAUSEA, VOMITING, DIARRHEA, ASPIR INTO LUNGS CAN CHEM
+    PNEUM
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH W/LARGE QTYS OF WTR, LIFTING UPPER/LOWER LIDS FOR
+    15 MINUTES SKIN:   THOROUGHLY WASH EXPOSED SKIN W/SOAP AND WATER.
+    REMOVE CONTAMINATED CLOTHING.    INHALATION: REMOVE TO FRESH AIR
+    IMMEDIAT ELY IF BREATHING HAS STOPPED GIVE CPR .INNGESTION: DO NOT
+    INDUCE VOMITING KEEP PERSON WARM, QUIET AND GET MEDICAL	
+    ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:107F/41.67C
+Lower Limits:1.00
+Extinguishing Media:CARBON DIOXIDE OR DRY CHEMICALS FOR SMALL FIRES,
+    FOAM FOR   LARGE FIRES
+Fire Fighting Procedures:CLOSED CONTAINERS MAY BUILD EXPLOSIVE PRESSURE
+    FROM HEAT, VAPORS ARE MORE THAN  AIR AND MAY TRVL AT GROUND OR MAY
+    MOVE BY VENT AND IGNITE BY PILOT LIGHTS OR
+Unusual Fire/Explosion Hazard:OTHER FLAMES, SPARKS HEATERS, SMOKING,
+    ELECTRIC MOTORS, STATIC DISCHARGE OR IGNITION SOURCES AT LOCATIONS
+    DISTANT FROM MATERIAL HANDLING POINT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:KEEP SPECTATORS AWAY. ELIMINATE ALL IGNITION
+    SOURCES DIKE AND CONTAIN SPILL W/INERT MATERIAL SUCH ASSAND OR
+    EARTH. TRANSFER LIQS TO COVERED METAL CONTAINERS FOR RECOVERY OR
+    DISPOSAL, OR REMOVE W ITH	INERT ABSORBENT USE ONLY NON-SPARKING
+    TOOLS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE SELF-CONTAINED BREATHING APPARATAUS WHERE
+    CONCENTRATIONS MAY BE ABOVE TLV   LIMTS.  BELOW TLV LIMITS, USE A
+    NIOSH APPROVED  VAPOR RESPIRATOR.
+Ventilation:LOCAL EXHAUST
+Protective Gloves:CHEMICAL GLOVES
+Eye Protection:SAFETY GLASSES WITH SIDE SHIELDS
+Other Protective Equipment:EYE BATH AND SAFETY SHOWERS, TO PREVENT
+    REPEATED OR PROLONG ED SKIN CONTACT, WEAR IMPERVIOUS CLOTHING AND
+    BOOTS.
+Supplemental Safety and Health
+NK
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:323-390F
+Vapor Density:>THAN AIR
+Solubility in Water:<THAN ETHER
+Appearance and Odor:17875 W
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTACT W/STRONG OXIDING AGENTS
+Stability Condition to Avoid:EXCESS HEAT, SPARKS, AND OPEN FLAME
+Hazardous Decomposition Products:FUMES MAY CONTAIN THE HAZARDOUS
+    MATERIALS LISTED ABOVE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH FEDERAL, STATE AND
+     LOCAL LAWS. INCINERATE ONLY IN EPA PERMITTED FAC- ILITY. DO NOT
+    INCINERATE CLOSED CONTAINERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

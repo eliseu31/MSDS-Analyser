@@ -1,0 +1,154 @@
+=====================  Product Identification  =====================
+
+Product ID:142 4654 KODAK FLEXICOLOR BLEACH III, PROCESS C-41, PART B
+MSDS Date:10/15/1994
+FSC:6750
+NIIN:01-022-8140
+Kit Part:Y
+MSDS Number: BWRKS
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-477-3194 MSDS :800- 242-2424
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 75-80%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:AMMONIUM FERRIC PROPYLENEDIAMINETETRAACETIC ACID
+CAS:111687-36-6
+Fraction by Wt: 10-15%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:AMMONIUM NITRATE (SOLUTION)  (SARA III)
+CAS:6484-52-2
+RTECS #:BR9050000
+Fraction by Wt: 7%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:ACETIC ACID  (SARA III)
+CAS:64-19-7
+RTECS #:AF1225000
+Fraction by Wt: 1-5%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:10 PPM
+ACGIH TLV:10 PPM/15 STEL; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:AMMONIUM ACETATE  (SARA III)
+CAS:631-61-8
+RTECS #:AF3675000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION, SKIN AND INGESTION-
+    EXPECTED TO BE A LOW HAZARD FOR RECOMMENDED HANDLING.  EYES- NO
+    SPECIFIC HAZARD KNOWN. MAY CAUSE TRANSIENT IRRITATION.
+Effects of Overexposure:NONE SPECIFIED BY MANUFACTURER.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION- IF SYMPTOMATIC, MOVE TO FRESH AIR. EYES- WASH OUT
+    IMMEDIATELY WITH WATER. GET MEDICAL ATTENTION.  SKIN- WASH WITH
+    PLENTY OF SOAP AND WATER. GET MEDICAL ATTENTION IF SYMPTOMS OCCUR.
+    REMOVE  CONTAMINATED CLOTHING.  INGESTION- DRINK1-2 GLASSES OF
+    WATER. SEEK MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:WATER SPRAY, CARBON DIOXIDE, DRY CHEMICAL, ALCOHOL
+    FOAM.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS. FIRE
+    OR EXCESSIVE HEAT MAY PRODUCE HAZARDOUS DECOMPOSITION PRODUCTS.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH TO SEWER WITH LARGE AMOUNTS OF WATER.
+    OTHERWISE, ABSORB SPILL WITH VERMICULITE OR OTHER INERT MATERIAL,
+    THEN PLACE IN A CONTAINER FOR CHEMICAL WASTE. CLEAN SURFACE
+    THOROUGHLY TO REMOVE CONTAMINA TION.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER TIGHTLY CLOSED. KEEP
+    FROM INCOMPATIBLE SUBSTANCES.
+Other Precautions:KEEP FROM INCOMPATIBLE MATERIALS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY REQUIRED.
+Ventilation:GOOD GENERAL VENTILATION SHOULD BE USED (TYPICALLY 10 AIR
+    CHANGES PER HOUR). MATCH RATE TO CONDITIONS.
+Protective Gloves:WEAR IMPERVIOUS GLOVES.
+Eye Protection:WEAR SAFETY GLASSES WITH SIDE SHIELDS.
+Other Protective Equipment:EYE BATH, WASHING FACILITIES, SAFETY SHOWER.
+Work Hygienic Practices:WASH HANDS THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C2
+Boiling Pt:B.P. Text:>212F,>100C
+Decomp Temp:Decomp Text:419F,215C
+Vapor Pres:18
+Vapor Density:0.6
+Spec Gravity:1.09
+pH:3.3
+Solubility in Water:COMPLETE
+Appearance and Odor:GREEN LIQUID WITH A VINEGAR ODOR.
+Percent Volatiles by Volume:75-80
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+BASES, SODIUM HYPOCHLORITE, STRONG OXIDIZING AGENTS, COMBUSTIBLE
+    MATERIAL, STRONG REDUCING AGENTS.
+Stability Condition to Avoid:AVOID TEMPERATURES ABOVE 115C.
+Hazardous Decomposition Products:CARBON DIOXIDE, CARBON MONOXIDE AND
+    OXIDES OF NITROGEN.  AMMONIA, CHLORAMINE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISCHARGE, TREATMENT, OR DISPOSAL MAY BE SUBJECT
+    TO NATIONAL, STATE, OR LOCAL LAWS. FLUSH TO SEWER WITH LARGE
+    AMOUNTS OF WATER. SINCE EMPTIED CONTAINERS RETAIN PRODUCT RESIDUE,
+    FOLLOW LABEL WARNINGS E VEN AFTER CONTAINER IS EMPTIED.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

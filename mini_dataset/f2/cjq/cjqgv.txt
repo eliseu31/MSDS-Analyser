@@ -1,0 +1,131 @@
+=====================  Product Identification  =====================
+
+Product ID:STAIN BLASTER G, 15380
+MSDS Date:02/14/1996
+FSC:7930
+NIIN:00N092084
+Status Code:A
+MSDS Number: CJQGV
+=== Responsible Party ===
+Company Name:ECOLAB INC
+Address:ECOLAB CENTER
+City:ST PAUL
+State:MN
+ZIP:55102
+Country:US
+Info Phone Num:800-352-5236
+Emergency Phone Num:800-328-0026
+CAGE:85884
+=== Contractor Identification ===
+Company Name:ECOLAB PROFESSIONAL PRODUCTS DIVISION OF ECOLAB INC.
+Address:ECOLAB CENTER
+Box:City:ST PAUL
+State:MN
+ZIP:55102
+Country:US
+Phone:800-352-5326
+CAGE:85884
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:2-BUTOXYETHANOL
+CAS:111-76-2
+RTECS #:KJ8575000
+= Wt:5.
+OSHA PEL:240 MG/M3;50 PPM
+ACGIH TLV:121 MG/M3;25 PPM
+
+Ingred Name:POTASSIUM HYDROXIDE (CAUSTIC POTASH)
+CAS:1310-58-3
+RTECS #:TT2100000
+= Wt:3.
+ACGIH STEL:C2 MG/M3
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: SKIN AND EYES: CAN CAUSE SEVERE
+    IRRITATION, POSSIBLE CHEMICAL BURNS. INGESTION: HARMFUL. CAN CAUSE
+    CHEMICAL BURNS OF MOUTH, THROAT AND STOMACH. CHRONIC: ANIMAL
+    STUDIES CLEARLY DEMONSTRATED DOSE -RELATED ADVERSE EFFECTS ON CNS,
+    HEMATOPOIETIC TISSUES, BLOOD, KIDNEYS, AND LIVER, ASSOCIATED WITH
+    THE ADMINISTRATION OF ETHYLENE GLYCOL MONOBUTYL ETHER (EGBE).
+    (EXTRACTED FROM DHHS (NIOSH) PUB NO 90- 118) .
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: IMMEDIATELY FLUSH W/PLENTY OF COOL RUNNING WATER.
+    REMOVE CONTACT LENSES. CONTINUE FLUSHING FOR AT LEAST 15 MINUTES,
+    HOLDING EYELIDS APART TO ENSURE RINSING OF THE ENTIRE EYE. CALL A
+    MD IMMED. SK IN: IMMED FLUSH W/PLENTY OF COOL RUNNING WATER FOR AT
+    LEAST 15 MINUTES WHILE REMOVING CONTAMINATED CLOTHING & SHOES. WASH
+    CLOTHING BEFORE REUSE. INGESTION: RINSE MOUTH AT ONCE, THEN DRINK
+    ONE OR TWO L ARGE GLASSES OF WATER OR MILK. DO NOT INDUCE VOMITING.
+    NEVER GIVE ANYTHING BY MOUTH TO AN UNCONSCIOUS PERSON. IMMEDIATELY
+    CALL A POISON CONTROL CENTER, A PHYSICIAN/ECOLAB 24-HR MEDICAL
+    EMERGENCY NUMBE R (1-800-328-0026).
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:MEDIA SUITABLE FOR SURROUNDING FIRE .
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:PRODUCT DOES NOT SUPPORT COMBUSTION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:RINSE SMALL AMOUNTS TO SANITARY SEWER WHERE
+    POSSIBLE, OR MOP UP AND RINSE AREA THOROUGHLY WITH WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP OUT OF THE REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN .
+Protective Gloves:RUBBER GLOVES.PROT CUFF/GAUNTLET TYPE PREFERRED.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES AND FULL LENGTH
+    FACESHIELD .
+Other Protective Equipment:ANSI APPROVED EYE WASH AND DELUGE SHOWER .
+Supplemental Safety and Health
+PHYSICAL DATA: PH: (100%) 13.3-13.9.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:>100.C, 212.F
+B.P. Text:212F INITIAL BP
+Spec Gravity:1.00-1.03
+pH:SUPDAT
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR TO SLIGHTLY YELLOWISH LIQUID.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+DO NOT MIX WITH ANYTHING BUT WATER. MAY ETCH ALUMINUM SURFACES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:UNUSED PRODUCT AS A WASTE IS CORROSIVE (D002) BY
+    RCRA CRITERIA. DISPOSAL MUST BE IN ACCORDANCE WITH FEDERAL, STATE
+    AND LOCAL REGULATIONS .
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:SARA 313 TOXIC CHEMICALS, IF PRESENT, ARE
+    PRECEDED BY BUTOXYETHANOL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

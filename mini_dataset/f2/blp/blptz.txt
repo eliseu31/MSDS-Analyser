@@ -1,0 +1,168 @@
+=====================  Product Identification  =====================
+
+Product ID:82L-5602 ACRYLIC ENAMEL, CHARCOAL POLY
+MSDS Date:04/25/1990
+FSC:8010
+NIIN:00F019277
+MSDS Number: BLPTZ
+=== Responsible Party ===
+Company Name:MARTIN-SENOUR CO THE DIV SHERWIN-WILLIAMS CO
+Address:5422 DANSHER RD
+City:COUNTRYSIDE
+State:IL
+ZIP:60525
+Info Phone Num:(216) 566-2902
+Emergency Phone Num:(216) 566-2917
+CAGE:16772
+=== Contractor Identification ===
+Company Name:MARTIN-SENOUR CO THE DIV SHERWIN-WILLIAMS CO
+Address:2500 S SENOUR AVE
+Box:City:CHICAGO
+State:IL
+ZIP:60608-5724
+Country:US
+CAGE:16772
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHYL BENZENE  (SARA III)
+CAS:100-41-4
+RTECS #:DA0700000
+Fraction by Wt: <5%
+Other REC Limits:100 PPM
+OSHA PEL:100 PPM/125 STEL
+ACGIH TLV:100 PPM/125STEL 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS)	(SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 35%
+Other REC Limits:100 PPM
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:SOLVENT NAPHTHA, PETROLEUM, LIGHT AROMATIC C8-C10 (AROMATIC
+    100)
+CAS:64742-95-6
+Fraction by Wt: <5%
+ACGIH TLV:100 PPM
+
+Ingred Name:ETHYLENEGLYCOL MONOBUTYL ETHER ACETATE, BUTYL CELLOSOLVE
+    ACETATE, 2-BUTOXYETHYL ACETATE
+CAS:112-07-2
+RTECS #:KJ8925000
+Fraction by Wt: <5%
+OSHA PEL:50 PPM
+ACGIH TLV:25 PPM
+
+Ingred Name:VOL ORGANIC CMPD: 4.42 LB (530 GM)
+RTECS #:9999999VO
+
+Ingred Name:HYDROTREATED LIGHT DISTILLATE, PETROLEUM; C12-C15
+    ISOPARAFFINIC HYDROCARBONS
+CAS:64742-47-8
+Fraction by Wt: <5%
+Other REC Limits:300 PPM (MFR)
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 5%
+Other REC Limits:100 PPM
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:EYES/SKIN:
+    IRRITATION/REDNESS/ITCHING/BURNING SENSATION. INHALATION:
+    RESPIRATORY SYSTEM IRRITATION/NERVOUS SYSTEM
+    DEPRESSION/UNCONSCIOUSNESS/DEATH/HEADACHE/DIZZINESS/NAUSEA/LOSS OF
+    COORDINATION. LIVER , URINARY, BLOOD FORMING, CARDIO-VASCULAR &
+    REPRODUCTIVE SYSTEM EFFECTS. PERMANENT BRAIN & NERVOUS SYSTEM
+    DAMAGE.
+Explanation of Carcinogenicity:LEAD IS A SUSPECTED HUMAN CARCINOGEN.
+Effects of Overexposure:EYES/SKIN: IRRITATION, REDNESS, ITCHING, &
+    BURNING SENSATION. INHALATION: EMBRYOTOXIC EFFECTS, ABDOMINAL
+    DISCOMFORT/PAIN, CONSTIPATION, APPETITE LOSS, METALLIC TASTE,
+    INSOMNIA, NERVOUS IRRITABILITY, W EAKNESS, MUSCLE/JOINT PAINS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR & RESTORE BREATHING. KEEP
+    WARM & QUIET. SKIN: WASH W/SOAP & WATER. EYES: FLUSH W/PLENTY OF
+    WATER FOR 15 MINS. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:50F
+Lower Limits:0.5%
+Upper Limits:3.7%
+Extinguishing Media:CO2, DRY CHEMICAL, OR FOAM
+Fire Fighting Procedures:WATER SPRAY MAY BE INEFFECTIVE. IF WATER IS
+    USED, FOG NOZZLES ARE PREFERABLE. WEAR FULL PROTECTIVE CLOTHING &
+    SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:WATER SPRAY MAY BE USED TO COOL CLOSED
+    CONTAINERS TO PREVENT PRESSURE BUILD-UP, POSSIBLE AUTOIGNITION &
+    EXPLOSION WHEN EXPOSED TO EXTREME HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. VENTILATE &
+    REMOVE W/INERT ABSORBENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER CLOSED WHEN NOT IN USE.
+    TRANSFER TO APPROVED CONTAINERS W/COMPLETE & APPROPRIATE LABELING.
+    DON'T TAKE INTERNALLY. DON'T SMOKE.
+Other Precautions:USE ONLY W/ADEQUATE VENTILATION. AVOID BREATHING
+    VAPOR/SPRAY MIST. DON'T GET IN EYES OR ON SKIN. INTENTIONAL MISUSE
+    BY DELIBERATELY CONCENTRATING/INHALING THE CONTENTS CAN BE HARMFUL
+    OR FATAL. KEEP OU T OF REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE PROPERLY FITTED NIOSH/MSHA APPROVED ORGANIC
+    VAPOR/PARTICULATE RESPIRATOR WHEN SANDING, WIRE BRUSHING, ABRADING,
+    OR WELDING THE DRIED FILM.
+Ventilation:LOCAL EXHAUST OR GENERAL EXHAUST TO KEEP AIR
+Spec Gravity:0.95
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:61%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:HEAT/ELECTRICAL EQUIPMENT &
+    TOOLS/SPARKS/OPEN FLAME/PILOT LIGHTS/HEATERS/STOVES/APPLIANCES &
+    ALL OTHER IGNITION SOURCES.
+Hazardous Decomposition Products:CO, CO2, OXIDES OF METALS, NITROGEN &
+    HYDROGEN CYANIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:MAY BE RCRA HAZARDOUS WASTE. TEST FOR
+    IGNITABILITY TO DETERMINE EPA HAZARDOUS WASTE NUMBERS. INCINERATE
+    IN APPROVED FACILITY ACCORDING TO FEDERAL, STATE, & LOCAL
+    REGULATIONS. DON'T INCINERATE CLOSED    CONTAINERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

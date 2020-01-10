@@ -1,0 +1,183 @@
+=====================  Product Identification  =====================
+
+Product ID:30208006; NICKEL (DENSE) PLATING SOLUTION 2
+MSDS Date:04/17/1990
+FSC:6810
+NIIN:01-197-7797
+MSDS Number: BJDMD
+=== Responsible Party ===
+Company Name:SIFCO SELECTIVE PLATING, DIV OF SIFCO INDUSTRIES
+Address:5708 SCHAFF ROAD
+City:CLEVELAND
+State:OH
+ZIP:44131-1394
+Country:US
+Info Phone Num:216-524-0099
+Emergency Phone Num:216-881-8600
+Preparer's Name:WERNER A.EHRENSCHNEIDER
+CAGE:DO645
+=== Contractor Identification ===
+Company Name:SIFCO SELECTIVE PLATING   DIV OF SIFCO INDUSTRIES INC.
+Address:5708 SCHAAF ROAD
+Box:City:CLEVELAND
+State:OH
+ZIP:44131-1394
+Country:US
+Phone:216-524-0099/ FAX:  -6331
+CAGE:11924
+Company Name:SIFCO SELECTIVE PLATING, DIV OF SIFCO INDUSTRIES INC
+Address:5708 SCHAAF ROAD
+City:CLEVELAND
+State:OH
+ZIP:44131-1394
+Country:US
+Phone:216-524-0099
+CAGE:DO645
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NICKEL  (SARA III)
+CAS:7440-02-0
+RTECS #:QR5950000
+Fraction by Wt: 12.0%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+
+Ingred Name:FORMIC ACID  (SARA III)
+CAS:64-18-6
+RTECS #:LQ4900000
+Fraction by Wt: <20%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:5 PPM
+ACGIH TLV:5 PPM/10 STEL; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:OTHER COMPONENTS (TYPE NOT SPECIFIED)
+Fraction by Wt: 68%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:SULFURIC ACID  (SARA III)
+CAS:7664-93-9
+RTECS #:WS5600000
+Fraction by Wt: <13%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9394
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:TRADE SECRET
+Fraction by Wt: 100%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:YES
+Health Hazards Acute and Chronic:ACUTE: INHALATION: MAY CAUSE TISSUE
+    DAMAGE AND SERIOUS RESPIRATORY TRACT INJURY. SKIN: MAY CAUSE BURNS.
+    EYES: MAY CAUSE PROFUSE LACRIMATION AND OCULAR DAMAGE. INGESTION:
+    MAY CAUSE BURNING IN THE MOUTH  AND ESOPHAGUS. MAY CAUSE LIVER AND
+    KIDNEY DAMAGE. MAY COUSE DEATH FROM CIRCULATORY FAILURE. CHRONIC:
+    AS THOSE OF ACUTE.
+Explanation of Carcinogenicity:DATA PER MSDS
+Effects of Overexposure:INHALATION: MAY CAUSE EYE, NOSE & THROAT
+    IRRITATION. MAY CAUSE DIFFICULTY IN BREATHING, BURNING OF THE NOSE
+    & THROAT; OR EVEN PULMONARY EDEMA AND PNEUMONITIS. SKIN & EYES:
+    IRRITATION, SENSITIZATION DE RMATITIS, LOSS OF VISION. INGESTION:
+    JAUNDICE, ALBUMINURIA, HEMATURIA, ANURIA AND ACIDOSIS. MAY CAUSE
+    LUNG CANCER
+Medical Cond Aggravated by Exposure:PERSONS WITH A HISTORY OF SKIN OR
+    EYE DISORDERS MAY BE AT INCREASED RISK FROM EXPOSURE. PERSONS WITH
+    LIVER, KIDNEY AND RESPIRATORY DISORDERS MAY ALSO BE AT INCREASED
+    RISK.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR IMMEDIATELY. IF BREATHING HAS
+    STOPPED, GIVE CPR. GET IMMEDIATE MEDICAL ATTENTION. SKIN: REMOVE
+    CONTAMINATED CLOTHING & SHOES. WASH AFFECTED AREA WITH SOAP &
+    WATER. GET	MEDICAL ATTENTION. EYE: WASH EYES IMMEDIATELY WITH
+    LARGE AMOUNTS OF WATER FOR AT LEAST 15 MINUTES. GET MEDICAL
+    ATTENTION. INGESTION: DO NOT INDUCE VOMITING. GET IMMEDIATE MEDICAL
+    ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:CONTAINERS MAY BURST DUE TO EXCESSIVE
+    HEAT AND TOXIC VAPORS OF FORMIC ACID.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:TAKE UP WITH SAND OR OTHER ABSORBENT MATERIAL.
+    APPLY UNIVERSAL GELLING AGENT TO IMMOBILIZE SPILL AS REQUIRED.
+    VENTILATE AND EVACUATE AREA. ELIMINATE ALL SOURCES OF IGNITION.
+    NEUTRALIZE & WASH RESIDUE  WITH WATER. PLACE INTO DISPOSAL
+    CONTAINER.
+Neutralizing Agent:SODA ASH
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL VENTILATED
+    AREA AWAY FROM IGNITION SOURCES. KEEP CONTAINER CLOSED WHEN NOT IN
+    USE. PROTECT AGAINST PHYSICAL DAMAGE.
+Other Precautions:AVOID CONTACT WITH EYES AND SKIN.DO NOT BREATHE
+    VAPORS AND MIST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:SELECT NIOSH/MSHA APPROVED RESPIRATOR BASED ON
+    CONTAMINATION LEVELS FOUND IN THE WORK PLACE USING NIOSH POCKET
+    GUIDE TO CHEMICAL HAZARDS. SELF-CONTAINED BREATHING APPARATUS IS
+    RECOMMENDED FOR MOST CAS ES.
+Ventilation:PROVIDE LOCAL EXHAUST OR PROCESS ENCLOSURE VENTILATION TO
+    MEET THE PUBLISHED EXPOSURE LIMITS. USE EXPLOSION-PROOF EQUIP.
+Protective Gloves:BUTYL OR NITRILE RUBBER.
+Eye Protection:SPLASH PROOF SAFETY GOGGLES/FACESHIELD.
+Other Protective Equipment:PROTECTIVE CLOTHING AND EQUIPMENT TO PREVENT
+    ANY POSSIBLITY OF SKIN CONTACT. EYE WASH STATION & SAFETY SHOWER.
+Work Hygienic Practices:WASH THOROUGHLY AFTER USE AND BEFORE EATING OR
+    SMOKING. LAUNDER CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+KEEP AWAY FROM HEAT AND OPEN FLAMES;KEEP AT 50-90F AND AWAY FROM
+    INCOMPATIBLE MATERIALS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C1
+Boiling Pt:B.P. Text:>212F,>100C
+Spec Gravity:1.277-1.297
+pH:2.2
+Evaporation Rate & Reference:<1.0(ETHYL ETHER=1)
+Solubility in Water:COMPLETE
+Appearance and Odor:DARK-GREEN LIQUID,PUNGENT ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS,METALS,STRONG ACIDS,BASES,NITRATES AND PEROXIDES.
+Stability Condition to Avoid:HIGH TEMPERATURES
+Hazardous Decomposition Products:THERMAL DECOMPOSITION PRODUCTS MAY
+    INCLUDE OXIDES OF SULFUR,CARBON AND NI,AL
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W ALL APPLICABLE FEDERAL, STATE &
+    LOCAL REGULATIONS. INCINERATION RECOMMENDED.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

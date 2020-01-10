@@ -1,0 +1,179 @@
+=====================  Product Identification  =====================
+
+Product ID:ROYCO 22D, 22C
+MSDS Date:02/23/1989
+FSC:9150
+NIIN:01-262-3358
+MSDS Number: BJDPZ
+=== Responsible Party ===
+Company Name:ROYAL LUBRICANTS COMPANY INC.
+Address:72 EAGLE ROCK AVE
+Box:518
+City:EAST HANOVER
+State:NJ
+ZIP:07936
+Country:US
+Info Phone Num:201-887-3100
+Emergency Phone Num:201-887-7411
+CAGE:07950
+=== Contractor Identification ===
+Company Name:CONVOY OIL CORP
+Address:1410 N FRONT STREET
+Box:29366
+City:PHILADELPHIA
+State:PA
+ZIP:19125
+Country:US
+Phone:215-739-5281
+CAGE:6A438
+Company Name:ROYAL LUBRICANTS COMPANY INC.
+Address:215 MERRY LN
+Box:518
+City:EAST HANOVER
+State:NJ
+ZIP:07936
+Country:US
+Phone:973-887-7411/7410
+CAGE:07950
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POLYALPHAOLEFINS
+CAS:68037-01-4
+Fraction by Wt: 70-80%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:ORGANOPHILIC CLAY
+CAS:71011-25-1
+Fraction by Wt: 5-10%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:SODIUM NITRITE  (SARA III)
+CAS:7632-00-0
+RTECS #:RA1225000
+Fraction by Wt: <2.0%
+Other REC Limits:NONE SPECIFIED
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:SODIUM CHROMATE  (SARA III)
+CAS:7775-11-3
+RTECS #:GB2955000
+Fraction by Wt: <1.0%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:0.1 PPM CRO3;CEILING
+ACGIH TLV:0.05 MG CR/M3; 9192
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+Ingred Name:MIXED SYNTHETIC ESTERS
+CAS:103-24-2
+Fraction by Wt: 1-2%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:OTHER COMPONENTS (TYPE NOT SPECIFIED)
+Fraction by Wt: 4.0%
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: EYE:MAY BE MILDLY IRRITATING.
+    SKIN:RELEASE DURING HIGH PRESSURE USAGE MAY RESULT IN INJECTION OF
+    OIL INTO THE SKIN CAUSING LOCAL NECROSIS. INHALATION:NOT EXPECTED
+    TO BE A RELEVANT ROUTE OF EXPO SURE; HIGH TEMPERATURE VAPORS
+    IRRITATE RESPIRATORY TRACT. INGESTION:LOW LEVEL OF TOXICITY.
+    CHRONIC: SKIN DISORDERS.
+Explanation of Carcinogenicity:NONE OF THE COMPOUNDS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP, OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:MAY CAUSE EYE, SKIN & RESPIRATORY TRACT
+    IRRITATION. LOCAL NECROSIS IS EVIDENCED BY DELAYED ONSET OF PAIN
+    AND TISSUE DAMAGE A FEW HOURS FOLLOWING INJECTION.
+Medical Cond Aggravated by Exposure:PRE-EXISTING SKIN DISORDERS MAY BE
+    AGGRAVATED BY EXPOSURE TO THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. GIVE OXYGEN IF BREATHING IS
+    DIFFICULT. GET MEDICAL ATTENTION. EYE: FLUSH WITH WATER FOR 15
+    MINUTES WHILE HOLDING EYELIDS OPEN. GET MEDICAL ATTENTION. SKIN:
+    WASH WITH S OAP & WATER/WATERLESS CLEANER. REMOVE CONTAMINATED
+    CLOTHING. IF IRRITATION PERSISTS, GET MEDICAL ATTENTION. INGESTION:
+    DO NOT INDUCE VOMITING. IN GENERAL, NO TREATMENT IS REQUIRED. GET
+    MEDICAL ADVICE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:450F,232C
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SCOOP UP EXCESS GREASE.  CLEAN AREA WITH
+    APPROPRIATE CLEANER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY PLACE WITH
+    ADEQUATE VENTILATION. KEEP CONTAINERS TIGHTLY CLOSED WHEN NOT IN
+    USE. KEEP AWAY FROM OPEN FLAMES & HIGH TEMPERATURES.
+Other Precautions:MINIMIZE SKIN CONTACT. WASH WITH SOAP & WATER BEFORE
+    EATING, DRINKING, SMOKING OR USING TOILET FACILITIES. LAUNDER
+    CONTAMINATED CLOTHING BEFORE REUSE. PROPERLY DISPOSE OF
+    CONTAMINATED LEATHER ARTICLES  (SHOES) THAT CAN NOT BE
+    DECONTAMINATED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF VENTILATION DOES NOT MAINTAIN INHALATION
+    EXPOSURES BELOW PEL(TLV), USE NIOSH/MSHA APPROVED RESPIRATORS AS
+    PER CURRENT 29 CFR 1910.134, INSTRUCTIONS/WARNINGS. RESPIRATORY
+    PROTECTION NOT ORDINARILY R EQUIRED.
+Ventilation:NONE REQUIRED
+Protective Gloves:NEOPRENE RUBBER AS REQUIRED.
+Eye Protection:SAFETY GLASSES RECOMMENDED.
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER.
+    INDUSTRIAL-TYPE WORK CLOTHING AND APRON AS REQUIRED.
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES. DO NOT WEAR CONTAMINATED CLOTHING OR
+    FOOTWEAR.
+Supplemental Safety and Health
+DO NOT GET IN EYES OR ON CLOTHING.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Solubility in Water:INSOLUBLE
+Appearance and Odor:BROWN,SMOOTH,SLIGHT ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HIGH TEMPERATURES, SPARKS, AND OPEN FLAMES
+Hazardous Decomposition Products:A MIXTURE OF AIRBORNE SOLID, LIQUID
+    PARTICULATES AND GASES (CO) WILL EVOLVE WHEN THIS MATERIAL
+    UNDERGOES COMBUSTION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN AN APPROPRIATE DISPOSAL FACILITY
+    IN COMPLIANCE WITH LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

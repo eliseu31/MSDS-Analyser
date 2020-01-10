@@ -1,0 +1,130 @@
+=====================  Product Identification  =====================
+
+Product ID:VV-G-671E GRADE #2
+MSDS Date:08/01/1990
+FSC:9150
+NIIN:00-190-0918
+MSDS Number: BDHVF
+=== Responsible Party ===
+Company Name:NONFLUID OIL CORP
+Address:298 DELANCY ST
+City:NEWARK
+State:NJ
+ZIP:07105-3009
+Country:US
+Info Phone Num:201-344-3451
+Emergency Phone Num:201-344-3451
+CAGE:76736
+=== Contractor Identification ===
+Company Name:NONFLUID OIL CORP/NFO TECHNOLOGIES, INC
+Address:298 DELANCY ST
+City:NEWARK
+State:NJ
+ZIP:07105-3009
+Country:US
+Phone:201-344-3451/800-424-9300(CHEMTREC)
+CAGE:76736
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MINERAL OIL (EXPOSURE REGULATED AS 'OIL MIST')
+CAS:8012-95-1
+RTECS #:PY8030000
+Other REC Limits:5MG/CUM.OIL,MIST
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3/10 STEL;9192
+
+Ingred Name:CALCIUM SOAP
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:PROLONGED OR REPEATED SKIN CONTACT
+    TENDS TO REMOVE SKIN OILS AND MAY CAUSE SKIN IRRITATION. EXPOSURE
+    TO FUMES OR MISTS MAY CAUSE MUCOUS MEMBRANE IRRITATION.
+Explanation of Carcinogenicity:NONE OF THE CHEMICALS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:MILD IRRITATION OF SKIN AND MUCOUS MEMBRANE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN-WIPE OFF EXCESS WITH SOAP AND WATER. EYE-FLUSH WITH
+    COPIOUS AMOUNTS OF WATER AND SEE A DOCTOR. INHALE-REMOVE FROM
+    EXPOSURE TO FRESH AIR. INGEST-ADMINISTER WATER AND SEEK MEDICAL
+    AID. DO NOT INDUC E VOMITING.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:420F,216C
+Lower Limits:1.0
+Upper Limits:6.0
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL (CAREFULLY TO PREVENT FROTHING).
+Fire Fighting Procedures:USE SELF CONTAINED BREATHING APPARATUS WITH
+    FACE SHIELD IN ENCLOSED AREAS.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:STOP FLOW. ELIMINATE IGNITION SOURCES. RECOVER
+    FREE PRODUCT. ADD ABSORBENT MATERIAL SUCH AS CLAY TO SPILL AREA.
+    SWEEP OR SCRAPE UP.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CNTNR CLOSED. DO NOT STORE OR MIX
+    WITH OXIDIZING MATERIALS. AVOID EXCESS HEAT OR FLAMES. HANDLE &
+    STORE USING METHODS USED FOR PETROLEUM PRODUCTS
+Other Precautions:AVOID REPEATED CONTACT WITH SKIN. AVOID CONTACT WITH
+    EYES AND INHALATION OF FUMES, VAPORS, OR MIST. DO NOT INGEST. WASH
+    THOROUGHLY AFTER HANDLING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NORMALLY NOT REQUIRED. RECOMMENDED IF FUMING OR
+    MISTING.
+Ventilation:LOCAL EXHAUST VENTILATION IS RECOMMENDED TO CAPTURE HOT
+    FUMES. MECHANICAL (GENERAL) VENTILATION IS RECOMMENDED IF MISTIN
+Protective Gloves:FOR PROLONGED OR REPEATED CONTACT.
+Eye Protection:RECOMMENDED IF SPLASHING OR MISTING.
+Other Protective Equipment:NORMALLT NOT REQUIRED.
+Work Hygienic Practices:WASH HANDS BEFORE EATING OR DRINKING. DO NOT
+    WEAR CONTAMINATED CLOTHING. REMOVE AND LAUNDER BEFORE RE-USE.
+Supplemental Safety and Health
+MSDS DATED DEC,1986;ITEM IS OF GRADE 2 OF SPEC VV-G-671.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:>600F,>316C
+Melt/Freeze Pt:M.P/F.P Text:210F,99C
+Vapor Pres:<0.01
+Vapor Density:>10
+Spec Gravity:0.91
+Evaporation Rate & Reference:<0.01 (BUTYL ACETATE=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:BLACK LUBRICATING GREASE. SLIGHT PETROLEUM ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:EXCESSIVE HEAT AND OPEN FLAMES.
+Hazardous Decomposition Products:OXIDES OF CARBON MAY FORM ON
+    INCOMPLETE COMBUSTION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF AS LOCAL LAWS PERMIT FOR PETROLEUM
+    HYDROCARBONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

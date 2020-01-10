@@ -1,0 +1,159 @@
+=====================  Product Identification  =====================
+
+Product ID:HEADLINER FIXER
+MSDS Date:02/23/1989
+FSC:6750
+NIIN:00-151-5624
+MSDS Number: BLPDT
+=== Responsible Party ===
+Company Name:VARITYPER INC
+Address:11 MOUNT PLEASANT AVE
+City:EAST HANOVER
+State:NJ
+ZIP:07936-2601
+Country:US
+Info Phone Num:201-884-6087  MICHAEL L. BROOKS
+Emergency Phone Num:201-887-8000 OR 800-424-9300 (MSDS)
+CAGE:KO313
+=== Contractor Identification ===
+Company Name:VARITYPER INC
+Address:11 MOUNT PLEASANT AVE
+City:EAST HANOVER
+State:NJ
+ZIP:07936-2601
+Country:US
+Phone:201-884-6087  MICHAEL L. BROOKS
+CAGE:KO313
+Company Name:VARITYPER INC., A TEGRA CO.
+Address:11 MOUNT PLEASANT AVE
+Box:City:EAST HANOVER
+State:NJ
+ZIP:07936-2601
+Country:US
+Phone:201-887-8000, 201-884-6378
+CAGE:62812
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM THIOSULFATE,5-HYDRATE
+CAS:10102-17-7
+RTECS #:WE6660000
+Fraction by Wt: 80 - 85%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:SODIUM BISULFITE  (SASA III)
+CAS:7631-90-5
+RTECS #:VZ2000000
+Fraction by Wt: 5 - 10%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:BORIC ACID
+CAS:10043-35-3
+RTECS #:ED4550000
+Fraction by Wt: 1 - 5%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:10 MG/M3 (MFR)
+ACGIH TLV:10 MG/M3 (MFR)
+
+Ingred Name:SODIUM ACETATE
+CAS:126-96-5
+RTECS #:AJ4375000
+Fraction by Wt: 1 - 5%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:POTASSIUM ALUMINUM
+Fraction by Wt: 1 - 5%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:10 MG/M3 AL (MFR)
+ACGIH TLV:10 MG/M3 AL (MFR)
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE-EYES:MAY CAUSE IRRITATION OR
+    DAMAGE TO TISSUE.SKIN:MAY CAUSE IRRITATION.INHALATION:MAY CAUSE
+    IRRITATION TO NASAL MUCOUS MEMBRANES & RESPIRATORY
+    TRACT.INGESTION:MAY CAUSE IRRITATION OR CORROSION  TO DIGESTIVE
+    TRACT.CHRONIC-UNKNOWN.
+Effects of Overexposure:MAY CAUSE IRRITATION OR DAMAGE TO EYE TISSUE.
+    MAY CAUSE SKIN IRRITATION. INHALATION MAY CAUSE IRRITATION TO NASAL
+    MUCOUS MEMBRANES & RESPIRATORY TRACT. INGESTION MAY CAUSE
+    IRRITATION OR CORROSION TO D IGESTIVE TRACT.
+Medical Cond Aggravated by Exposure:PRE-EXISTING SKIN DISORDERS
+
+=======================  First Aid Measures  =======================
+
+First Aid:GET MEDICAL ASSISTANCE IF SYMPTOMS PERSIST.EYE:IMMEDIATELY
+    FLUSH WITH WATER FOR 15 MINUTES,HOLDING EYELIDS OPEN.SKIN:WASH WITH
+    SOAP & WATER FOR 15 MINUTES.INHALATION:REMOVE TO FRESH AIR.GIVE CPR
+    IF NE EDED.INGESTION:IF CONSCIOUS, DRINK 2-4 GLASSES OF
+    MILK/WATER.CONTACT DOCTOR OR POISON CONTROL CENTER IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:ANY APPLICABLE TO PRIMARY CAUSE OF FIRE.
+Fire Fighting Procedures:WEAR FIRE FIGHTING PROTECTIVE EQUIPMENT AND A
+    FULL FACED SELF CONTAINED BREATHING APPARATUS. EVACUATE AREA. COOL
+    FIRE EXPOSED CONTAINERS WITH WATER SPRAY.
+Unusual Fire/Explosion Hazard:SO2
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VACUUM OR SWEEP UP DRY POWDER. AVOID RAISING
+    DUST. PLACE IN A CONTAINER FOR DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORAGE-STORE IN A COOL,DRY
+    WELL-VENTILATED PLACE.DO NOT STORE NEAR HEAT.
+Other Precautions:DO NOT STORE FOOD, DRINK OR TOBACCO IN AREA WHERE
+    THEY MAY BECOME CONTAMINATED WITH THIS MATERIAL. WASH THOROUGHLY
+    AFTER HANDLING. AVOID BREATHING DUST. MINIMIZE CONTACT WITH SKIN.
+    AVOID CONTACT WITH	EYES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NEEDED. USE MASK IF DUST IS PRESENT.
+Ventilation:MECHANICAL (GENERAL) VENTILATION
+Protective Gloves:RUBBER OR PLASTIC
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:EYE WASH STATION & SAFETY SHOWER.
+Work Hygienic Practices:WASH THOROUGHLY BEFORE EATING, DRINKING OR
+    SMOKING.
+Supplemental Safety and Health
+FORMULA CHANGED. FOR PREVIOUS FORMULATION, SEE P/N A SAME NSNS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Spec Gravity:2.0 - 2.5
+Solubility in Water:COMPLETE
+Appearance and Odor:WHITE POWDER
+Percent Volatiles by Volume:0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS OR OXIDIZERS
+Stability Condition to Avoid:HIGH HEAT, OPEN FLAMES
+Hazardous Decomposition Products:SULFUR DIOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN CONFORMITY WITH LOCAL, STATE AND
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

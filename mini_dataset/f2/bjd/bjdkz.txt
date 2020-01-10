@@ -1,0 +1,136 @@
+=====================  Product Identification  =====================
+
+Product ID:550-076 METHANE AMPOULES (TEST KIT)
+MSDS Date:03/15/1991
+FSC:6665
+NIIN:01-209-0904
+MSDS Number: BJDKZ
+=== Responsible Party ===
+Company Name:BACHARACH, INC.
+Address:625 ALPHA DRIVE
+City:PITTSBURG
+State:PA
+ZIP:15238
+Country:US
+Info Phone Num:412-963-2000
+Emergency Phone Num:412-963-2000/800-424-9300-CHEMTREC
+Preparer's Name:ROBERT NORVICK
+CAGE:EO179
+=== Contractor Identification ===
+Company Name:ALL-SAFE INC
+Address:4767 LANGTON RD
+Box:116
+City:HIILIARD
+State:OH
+ZIP:43026
+Country:US
+Phone:614-876-4041
+CAGE:2X264
+Company Name:BACHARACH INC
+Address:625 ALPHA DRIVE
+Box:City:PITTSBURGH
+State:PA
+ZIP:15238
+Country:US
+Phone:412-963-2130
+CAGE:05083
+Company Name:BACHARACH, INC.
+Address:625 ALPHA DR.
+City:PITTSBURGH
+State:PA
+ZIP:15238
+Country:US
+Phone:412-963-2000
+CAGE:EO179
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHANE
+CAS:74-82-8
+RTECS #:PA1490000
+Fraction by Wt: 97.0%
+Other REC Limits:NONE SPECIFIED
+ACGIH TLV:ASPHYXIANT; 9192
+
+=====================  Hazards Identification  =====================
+
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:EXPOSURE TO OXYGEN DEFICIENT
+    ATMOSPHERES MAY PRODUCE DIZZINESS,NAUSEA,VOMITING,LOSS OF
+    CONSCIOUSNESS OR DEATH.CHRONIC:NO DATA AVAILABLE
+Explanation of Carcinogenicity:DATA PER MGF MSDS.
+Effects of Overexposure:SEE HEALTH HAZARDS DATA.
+Medical Cond Aggravated by Exposure:PRE-EXISTING CONDITIONS MAY BE
+    WORSEN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:IF INHALED,REMOVE TO FRESH AIR/CPR AND CONSULT A PHYSICIAN
+    IMMEDIATELY.USE SCBA IN AN ENCLOSED AREA.
+
+=====================  Fire Fighting Measures  =====================
+
+Upper Limits:5.0
+Extinguishing Media:CARBON DIOXIDE, FOAM, OR DRY CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FLAMMABLE GAS.FORMS EXPLOSIVE MIXTURES
+    WITH AIR OR OXYGEN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPER PERSONAL PROTECTION(SCBA)ISOLATE
+    AREA VENTILATE COMPLETELY. ALLOW VAPORS TO DISPERSE INTO
+    ATMOSPHERE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DRY AND WELL VENTILATED
+    AREA.HANDLE WITH CARE TO AVOID BREAKING AMPOULES.KEEP AWAY FROM
+    HEAT AND OPEN FLAMES.
+Other Precautions:USE AS ADVISED.FOLLOW MFR LABEL INSTRUCTIONS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED SCBA IN AN ENCLOSED
+    AREA.
+Ventilation:LOCAL/GENERAL TO MAINTAIN AN ADEQUATE VENTILATION.
+Protective Gloves:AS REQUIRED.
+Eye Protection:SAFETY GLASSES/GOGGLES
+Other Protective Equipment:NONE NORMALLY REQUIRED.
+Work Hygienic Practices:DO NOT INHALE GAS.WORK IN WELL VENTILATED AREA.
+Supplemental Safety and Health
+HANDLE AMPOULES CAREFULLY.FLAMMABLE GAS.KEEP AWAY FROM HEAT AND OPEN
+    FLAMES.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:G2
+Boiling Pt:B.P. Text:-259F,-162C
+Vapor Pres:GAS
+Vapor Density:0.6
+Spec Gravity:0.0007
+Solubility in Water:SLIGHT
+Appearance and Odor:COLORLESS,ODORLESS,TASTELESS GAS
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+FLAMMABLE GAS.AVOID SPARKS OR FLAMES.
+Stability Condition to Avoid:HIGH TEMPERATURES, SPARKS, AND OPEN FLAMES
+Hazardous Decomposition Products:CO OR CO*2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT LOCAL AUTHORITIES;DISPOSAL MUST BE IN
+    ACCORDANCE WITH LOCAL,STATE AND FEDERAL REGULATIONS
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

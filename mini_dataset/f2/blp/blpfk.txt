@@ -1,0 +1,154 @@
+=====================  Product Identification  =====================
+
+Product ID:CARBON DIOXIDE, GAS
+MSDS Date:08/04/1989
+FSC:4220
+NIIN:00-324-1701
+MSDS Number: BLPFK
+=== Responsible Party ===
+Company Name:AERONAUTICAL COMPONENTS INC
+Address:16 REITH ST
+City:COPIAGUE
+State:NY
+ZIP:11726-1410
+Country:US
+Info Phone Num:516-842-3780
+Emergency Phone Num:516-842-3780
+CAGE:8U755
+=== Contractor Identification ===
+Company Name:AERONAUTICAL COMPONENTS INC
+Address:16 REITH ST
+Box:City:COPIAGUE
+State:NY
+ZIP:11726-1410
+Country:US
+Phone:516-842-3780
+CAGE:8U755
+Company Name:ATLANTIC RICHFIELD CO
+Address:515 S. FLOWER ST
+Box:2451
+City:LOS ANGELES
+State:CA
+ZIP:90071-2201
+Country:US
+Phone:213-486-2687
+CAGE:56242
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CARBON DIOXIDE
+CAS:124-38-9
+RTECS #:FF6400000
+Fraction by Wt: 100%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:5000 PPM
+ACGIH TLV:5000PPM/30000STEL;93
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:(CONC.= 2 - 3%) SIMPLE ASPHYXIA.
+    (CONC.= 3 - 5%) INCREASED IRRITATION AND HEADACHE. (CONC.UP TO 15%)
+    HEADACHE, NAUSEA, VOMITING AND UNCONSCIOUSNESS. HIGHER
+    CONCENTRATIONS CAUSE CIRCULATORY INSUFFICIEN CY LEADING TO COMA AND
+    DEATH.  CO2 IS THE MOST POWERFUL CEREBRAL VASODILATOR KNOWN. SOLID
+    CO2 CAN CAUSE FROSTBITE.
+Explanation of Carcinogenicity:NONE OF THE CHEMICALS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:RAPID BREATHING, IRRITATED NOSE AND THROAT, AND
+    WATERY EYES CAUSED BY THE FORMATION OF CARBONIC ACID, A VERY WEAK
+    ACID.
+Medical Cond Aggravated by Exposure:PERSONNEL WITH PRE-EXISTING CHRONIC
+    RESPIRATORY DISEASES OF HEART DISORDER SHOULD REFRAIN FROM
+    BREATHING EXCESSIVE CARBON DIOXIDE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:CONSCIOUS PERSONS OVER-EXPOSED TO CARBON DIOXIDE SHOULD BE
+    ASSISTED TO AN AREA OF FRESH AIR.  UNCONSCIOUS PERSONS SHOULD BE
+    MOVED TO AN AREA OF FRESH AIR.  GIVE APPROPRIATE BREATHING
+    ASSISTANCE SUCH A S OXYGEN OR ARTIFICIAL RESPIRATION.  SEEK MEDICAL
+    ASSISTANTCE.  FROSTBITE SHOULD BE TREATED AS A BURN WITH PROMPT
+    MEDICAL TREATMENT SOUGHT.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL AS SUITABLE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:WEAR FIRE FIGHTING PROTECTIVE EQUIPMENT AND A
+    FULL FACED SELF CONTAINED BREATHING APPARATUS. EVACUATE AREA. COOL
+    FIRE EXPOSED CONTAINERS WITH WATER SPRAY.
+Unusual Fire/Explosion Hazard:THE CONTENTS OF THIS PRODUCT ARE UNDER
+    PRESSURE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CLEAN UP PERSONNEL SHOULD WEAR SELF-CONTAINED
+    BREATHING APPARATUS WITH FULL PROTECTIVE CLOTHING AND FULL FACE
+    MASK.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL VENTILATED
+    AREA AWAY FROM SOURCES OF IGNITION. KEEP CONTAINER CLOSED WHEN NOT
+    IN USE. PROTECT FROM PHYSICAL DAMAGE.
+Other Precautions:BULK DELIVERY TRAILERS AND TANK CARS SHALL COMPLY
+    WITH APPLICABLE DOT AND CGA REGULATIONS AS TO CONSTRUCTION,
+    OPERATION, AND LABELLING.  STORE CYLINDERS UPRIGHT IN A COOL, DRY
+    LOCATION AWAY FROM CORRO SIVE CHEMICALS WITH SAFETY CAP INSTALLED
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF VENTILATION DOES NOT MAINTAIN INHALATION
+    EXPOSURES BELOW PEL (TLV), USE NIOSH/MSHA APPROVED RESPIRATOR AS
+    PER CURRENT 29 CFR 1910.134, INSTRUCTIONS/WARNINGS AND
+    NIOSH-RESPIRATOR SELECTION.
+Ventilation:MECHANICAL (GENERAL) VENTILATION IS USUALLY ADEQUATE.
+Protective Gloves:RUBBER GLOVES
+Eye Protection:SAFETY GLASSES/CHEMICAL SPLASH GOGGLES
+Other Protective Equipment:SAFETY SHOWER AND EYE BATH. INDUSTRIAL TYPE
+    WORK CLOTHING AND APRON AS REQUIRED TO AVOID PROLONGED OR REPEATED
+    CONTACT.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING AND BEFORE
+    EATING OR DRINKING. LAUNDER CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+CARBON DIOXED PORTABLE ANALYZER MAY BE NEEDED.	KEEP ALL EQUIPMENT IN
+    GOOD WORKING ORDER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:G3
+Boiling Pt:B.P. Text:-109F, SUBL
+Vapor Pres:856 PSIG
+Vapor Density:1.65
+Solubility in Water:VERY SOLUBLE
+Appearance and Odor:COLORLESS, SLIGHTLY ACID GAS AT ROOM TEMPERATURE
+    AND PRESSURE.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+REACTIVE METALS, HYDRIDES, MOIST CESIUM OXIDE OR LITHIUM ACETYL.
+Stability Condition to Avoid:HIGH HEAT, OPEN FLAMES AND OTHER SOURCES
+    OF IGNITION
+Hazardous Decomposition Products:CARBON MONOXIDE AND OXYGEN AT
+    TEMPERATURES ABOVE 3000F.
+Conditions to Avoid Polymerization:CARBON DIOXIDE CAN CAUSE VIOLENT
+    POLYMERIZATION OF ACRYLALDEHYDE OR ETHYLENEIMINE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:VENT SLOWLY TO ATMOSPHERE WITH ADEQUATE
+    VENTILATION. (MANUFACTURERS INSTRUCTIONS.)
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

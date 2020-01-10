@@ -1,0 +1,144 @@
+=====================  Product Identification  =====================
+
+Product ID:XEROX CLEANING SOLVENT
+MSDS Date:01/31/1991
+FSC:7930
+NIIN:00D002357
+MSDS Number: BJDLL
+=== Responsible Party ===
+Company Name:XEROX CORPORATION
+Address:100 CLINTON AVE SOUTH, XROX SQ
+City:ROCHESTER
+State:NY
+ZIP:14644-1877
+Country:US
+Info Phone Num:800-828-6571/FAX 716-422-6449
+Emergency Phone Num:716-422-2177/1230
+CAGE:26921
+=== Contractor Identification ===
+Company Name:XEROX CORPORATION
+Address:100 CLINTON AVE SOUTH
+Box:City:ROCHESTER
+State:NY
+ZIP:14644-1877
+Country:US
+Phone:800-828-6571/716-422-2177
+CAGE:26921
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL CHLOROFORM (1,1,1-TRICHLOROEHANE)  (SARA III)
+CAS:71-55-6
+RTECS #:KJ2975000
+Fraction by Wt: 85-90%
+OSHA PEL:350 PPM/450 STEL
+ACGIH TLV:350 PPM/450STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+Ozone Depleting Chemical:1
+
+Ingred Name:SEC-BUTYL ALCOHOL  (SARA III)
+CAS:78-92-2
+RTECS #:EO1750000
+Fraction by Wt: < 0.5%
+OSHA PEL:150 PPM
+ACGIH TLV:100 PPM; 9293
+
+Ingred Name:NAPHTHA, MEDIUM ALIPHATIC
+CAS:64742-88-7
+Fraction by Wt: 10-15%
+Other REC Limits:NONE ESTABLISHED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (RAT) = 11 G/KG
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE-SKIN:MAY CAUSE DEFATING.
+    EYE:IRRITATION. INHALATION:CNS DEPRESSION, INTOXICATION.
+    INGESTION:PRACTICALLY NON-TOXIC. ASPIRATION HAZARD. ASPIRATION INTO
+    LUNGS MAY CAUSE CHEMICAL PNEUMONITIS, WHICH  CAN BE FATAL. CHRONIC-
+    CNS TOXICITY.
+Effects of Overexposure:EYES:IRRITATION, REDNESS. SKIN:DRYNESS.
+    INHLATION:DIZZINESS, ABNORMAL HEART BEAT.
+Medical Cond Aggravated by Exposure:RESPIRATORY DISEASES, CNS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION:REMOVE TO FRESH AIR, PROVIDE CPR/OXYGEN IF NEEDED.
+    EYE CONTACT:FLUSH WITH WATER FOR 15 MINUTES. GET MEDICAL HELP. SKIN
+    CONTACT:WASH WITH SOAP AND WATER. INGESTION:DO NOT INDUCE VOMITING,
+    DR INK 1-2 GLASSES OF WATER. GET MEDICAL HELP IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:71.0F,21.7C
+Lower Limits:7%
+Upper Limits:15%
+Extinguishing Media:WATER FOG,CO*2,FOAM,DRY CHEMICALS
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA IN AN ENCLOSED
+    AREA.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPER PERSONAL CLOTHING;USE SUITABLE
+    ABSORBENT MATERIAL AND RECOVER FOR PROPER DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DRY AND WELL VENTILATED
+    AREA;KEEP AWAY FROM OPEN FLAMES,SPARKS AND EXTREME HEAT.
+Other Precautions:AVOID CONTACT WITH SKIN AND EYES;DO NOT BREATHE
+    VAPORS AND MIST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY REQUIRED. USE NIOSH APPROVED
+    SELF-CONTAINED BREATHING APPARATUS IF TLV IS EXCEEDED OR WHEN
+    SPRAYING OR USING IN CONFINED SPACES.
+Ventilation:GEENERAL
+Protective Gloves:NEOPRENE OR POLYETHYLENE TYPE
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:FULL WORK CLOTHING TO PREVENT REPEATED OR
+    PROLONGED CONTACT.
+Work Hygienic Practices:DO NOT EAT, DRINK OR SMOKE WHILE WORKING WITH
+    THIS PRODUCT.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F3
+Boiling Pt:B.P. Text:165F,74C
+Vapor Pres:104
+Vapor Density:4.5
+Spec Gravity:1.3
+pH:6-7.5
+Evaporation Rate & Reference:2.70(ETHYLETHER=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:CLEAR LIQUID, ETHER-LIKE ODOR.
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+WATER,AL,MG,STRONG OXIDIZING AGENT
+Stability Condition to Avoid:EXTREME HEAT,OPEN FLAME.
+Hazardous Decomposition Products:HYDROGEN CHLORIDE AND POSSIBLY TRACES
+    OF PHOSGENE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF COLLECTED MATERIAL IN ACCORDANCE WITH
+    LOCAL,STATE AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

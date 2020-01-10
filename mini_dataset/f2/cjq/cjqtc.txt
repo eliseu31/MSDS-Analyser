@@ -1,0 +1,178 @@
+=====================  Product Identification  =====================
+
+Product ID:TALC
+MSDS Date:01/01/1997
+FSC:6810
+NIIN:00-270-9988
+Status Code:A
+MSDS Number: CJQTC
+=== Responsible Party ===
+Company Name:WHITTAKER, CLARK & DANIELS INC
+Address:1000 COOLIDGE STREET
+City:SOUTH PLAINFIELD
+State:NJ
+ZIP:07080
+Country:US
+Info Phone Num:(908) 561-6100
+Emergency Phone Num:908-961-6100
+CAGE:GO100
+=== Contractor Identification ===
+Company Name:CHEMICAL MANAGEMENT SYSTEMS LLC DBA CHEMICAL MANAGEMENT
+    SYST
+Address:11029 NATURAL BRIDGE
+Box:City:BRIDGETON
+State:MO
+ZIP:63044
+Country:US
+Phone:314-731-7278
+Contract Num:SP0450-99-MNH54
+CAGE:1LFJ4
+Company Name:WHITTAKER, CLARK & DANIELS INC
+Address:1000 COOLIDGE STREET
+City:SOUTH PLAINFIELD
+State:NJ
+ZIP:07080
+Country:US
+Phone:(908) 561-6100
+CAGE:GO100
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TALC (NON-ASBESTOS FORM)
+CAS:14807-96-6
+RTECS #:WW2710000
+OSHA PEL:2 MG/M3
+ACGIH TLV:2 MG/M3
+
+Ingred Name:CRYSTALLINE SILICA
+CAS:14464-46-1
+RTECS #:VV7325000
+< Wt:1.
+OSHA PEL:0.10 MG/M3
+ACGIH TLV:0.05 MG/M3
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:TARGET ORGANS: EYES, SKIN, RESPIRATORY
+    TRACT. ACUTE - INHALATION: INHALATION OF DUST MAY CAUSE SNEEZING,
+    COUGHING, AND NOSE IRRITATION. SKIN CONTACT: THE ABRASIVENESS OF
+    TALC MAY CAUSE SKIN IRRITATION . EYE CONTACT: ABRASION MAY CAUSE
+    EYE IRRITATION. INGESTION: MAY CAUSE MILD IRRITATION OF
+    GASTROINTESTINAL TRACT. CHRONIC - INHALATION: LONG-TERM EXCESSIVE
+    EXPOSURES MAY CAUSE TALCOSIS, A PULMONARY FI BROSIS WHICH MAY LEAD
+    TO SEVERE AND PERMANENT DAMAGE TO THE LUNG - POSSIBLY RESULTING IN
+    DISABILITY OR DEATH.
+Explanation of Carcinogenicity:CONTAINS CRYSTALLINE SILICA.
+Effects of Overexposure:INHALATION: EXCESSIVE SNEEZING OR COUGHING.
+    SKIN CONTACT: DRYNESS AND/OR MILD IRRITATION. EYE CONTACT: MILD
+    IRRITATION. INGESTION: MILD IRRITATION.
+Medical Cond Aggravated by Exposure:PRE-EXISTING CHRONIC RESPIRATORY,
+    SKIN, OR EYE DISEASES.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE EXPOSED PERSON TO FRESH AIR. IF SYMPTOMS
+    SUCH AS EXCESSIVE SNEEZING/COUGHING DEVELOP, SEEK MEDICAL
+    ATTENTION. SKIN: WASH FROM SKIN WITH MILD SOAP AND WATER. EYE
+    CONTACT: FLUSH WITH  PLENTY OF WATER FOR AT LEAST 15 MINUTES.IF
+    IRRITATION PERSISTS, GET MEDICAL ATTENTION. INGESTION: SHOULD NOT
+    CAUSE SIGNIFICANT HEALTH PROBLEMS. IF INGESTED, AND IF PERSON IS
+    CONSCIOUS, GIVE LARGE QUAN TITIES OF WATER TO INDUCE VOMITING.  GET
+    MEDICAL ATTENTION. NOTE TO PHYSICIAN: ALL TREATMENTS SHOULD BE
+    BASED ON OBSERVED SIGNS AND SYMPTOMS OF DISTRESS IN THE PATIENT.
+    CONSIDER POSSIBILITY OF EXPOSUR E TO MATERIALS OTHER THAN TALC.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:MATERIAL IS NON-COMBUSTIBLE.FOLLOW FIRE
+    EXTINGUISHING PROCEDURES FOR SURROUNDING COMBUSTIBLES.
+Fire Fighting Procedures:MATERIAL IS NON-COMBUSTIBLE.FOLLOW FIRE
+    FIGHTING PROCEDURES FOR SURROUNDING MATERIALS.
+Unusual Fire/Explosion Hazard:MATERIAL IS NON-COMBUSTIBLE AND IS NOT AN
+    EXPLOSION HAZARD.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:PROVIDE ADEQUATE VENTILATION. CLEANUP
+    PERSONNEL SHOULD USE  PROTECTIVE EQUIPMENT TO REDUCE EYE CONTAT,
+    INHALATION OF DUST AND PROLONGED SKIN CONTACT. USE VACUUM SUCTION
+    WITH HEPA FILTERS TO CLEAN UP S PILLED MATERIAL. USE WET SWEEPING
+    OR DUST SUPPRESSANT WHERE SWEEPING IS NECESSARY. PERSONAL SAFETY,
+    HANDLING AND EXPOSURE DESCRIBED IN THIS MSDS APPLY TO EXPOSURE
+    DURING CLEAN UP AND MUST BE FOLLOWED.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE TO MINIMIZE OR AVOID DUST
+    GENERATION. STORE IN CLEAN, DRY LOCATIONS.
+Other Precautions:AVOID DAMGING CONTAINERS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WHEN ESTABLISHED AIRBORNE LIMITS ARE
+    SURPASSED,WEAR NIOSH/MSHA APPROVED RESPIRATORY EQUIPMENT FOR
+    DUST.DETERMINE APPROPRIATE TYPE EQUIPMENT FOR SPECIFIC APPLICATIONS
+    BY CONSULTING THE MANUFACTURER.OBS ERVE LIMITATIONS SPECIFIED BY
+    MANUFACTURER AND MUST COMPLY WITH 29CFR1910.134. ENGINEERING OR
+    ADMINISTRATIVE CONTROLS SHOULD BE IMPLEMENTED TO REDUCE EXPOSURE.
+Ventilation:PROVIDE ADEQUATE EXHAUST VENTILATION TO MEET EXPOSURE LIMIT
+    REQUIREMENTS.
+Protective Gloves:LEATHER OR OTHER IMPERVIOUS GLOVES
+Eye Protection:SAFETY GLASSES WITH SIDE SHIELDS OR DUST TIGHT GOGGLES
+Other Protective Equipment:WEAR LONG SLEEVED CLOTHING TO PREVENT SKIN
+    CONTACT.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Spec Gravity:~2.7
+Solubility in Water:INSOLUBLE
+Appearance and Odor:SOLID, WHITE POWDER;NO ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE IN DESIGNED USE
+Stability Condition to Avoid:WATER AND MOISTURE
+Hazardous Decomposition Products:NONE KNOWN
+
+===================  Toxicological Information	===================
+
+Toxicological Information:RAT INHALATION: TC(L0) = 11 MG/M3
+
+=====================  Ecological Information  =====================
+
+Ecological:NO INFORMATION
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:IF THIS MATERIAL BECOMES A WASTE, IT DOES NOT
+    MEET THE CRITERIA OF A HAZARDOUS WASTE AS DEFINED UNDER THE RCRA,
+    40 CFR261, SINCE IT DOES NOT HAVE THE CHARACTERISITCS OF SUBPART C,
+    NOR IS IT LISTED UND ER SUBPART D. STATE OR LOCAL HAZARDOUS WASTE
+    REGULATIONS MAY APPLY IF THEY ARE DIFFERENT FROM THE FE DERAL
+    REGULATIONS. MIXING ALTERS CLASSIFICATION.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:311/312: IMMEDIATE (ACUTE) HEALTH HAZARDS
+Federal Regulatory Information:ALL INGREDIENTS IN THIS PRODUCT ARE
+    EITHER NATURALLY OCCURING AND EXEMPT FROM REPORTING OR ARE INCLUDED
+    IN EPA'S TOXIC SUBSTANCE CONTROL ACT (TSCA) INVENTORY OF CHEMICAL
+    SUBSTANCES.
+State Regulatory Information:
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

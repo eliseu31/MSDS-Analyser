@@ -1,0 +1,148 @@
+=====================  Product Identification  =====================
+
+Product ID:PR-1436-G, B-2, PART B
+MSDS Date:01/02/1989
+FSC:8030
+NIIN:00-111-7569
+MSDS Number: BKYGV
+=== Responsible Party ===
+Company Name:PRODUCTS RESEARCH & CHEMICAL CORPORATION
+Address:5430 SAN FERNANDO ROAD
+Box:1800
+City:GLENDALE
+State:CA
+ZIP:91209
+Info Phone Num:(800) 228-5635
+Emergency Phone Num:(800) 228-5635
+Preparer's Name:JCS
+CAGE:DO563
+=== Contractor Identification ===
+Company Name:PRC-DESOTO INTERNATIONAL, INC. A PPG INDUSTRIES COMPANY
+Address:5430 SAN FERNANDO RD
+Box:1800
+City:GLENDALE
+State:CA
+ZIP:91209
+Country:US
+Phone:818-240-2060
+CAGE:83574
+Company Name:PRODUCTS RESEARCH & CHEMICAL
+Address:NOW DBA COURTAULDS AEROSPACE
+Box:1800
+City:GLENDALE
+State:CA
+ZIP:91209
+Phone:818-240-2060
+CAGE:DO563
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: <5%
+Other REC Limits:100 PPM
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:BISPHENOL A DIGLYCIDYL ETHER RESIN, EPOXY RESIN,	       
+    ARALDITE 6004, 4,4'-ISOPROPYLIDENEDIPHENOL-EPICHLOROHYDRIN
+CAS:25068-38-6
+RTECS #:KD4380000
+Fraction by Wt: <5%
+
+Ingred Name:PHENOLIC RESIN, PHENOL FORMALDEHYDE RESIN, PHENOL POLYMER
+    W/FORMALDEHYDE, PHENOL-FORMALDEHYDE COPOLYMER
+CAS:9003-35-4
+Fraction by Wt: <5%
+
+Ingred Name:STRONTIUM CHROMATE	(SARA III)
+CAS:7789-06-2
+RTECS #:GB3240000
+Fraction by Wt: 5%
+Other REC Limits:1 UG/CUM A1
+OSHA PEL:0.1 PPM CRO3;CEILING
+ACGIH TLV:0.0005MG CR/M3;A2;93
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+Ingred Name:VOL ORGANIC CMPD: 52 G/L
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION. SKIN: IRRITATION,
+    DRYING & ALLERGIC REACTION. INHALATION: RESPIRATORY IRRITATION,
+    FATIGUE, HEADACHE, CONFUSION, DIZZINESS, DROWSINESS, NUMBNESS &
+    UNCONSCIOUSNESS. INGESTION: NAUSEA &  VOMITING.
+Explanation of Carcinogenicity:HEXAVALENT CHROMIUM COMPOUND IS A
+    CONSIDERED TO BE A CARCINOGEN BY ACGIH.
+Effects of Overexposure:EYES: CORNEA BURNS. SKIN: PAINLESS PENETRATING
+    ULCERS. INHALATION: PENETRATING ULCERS OF THE MUCOUS MEMBRANE OF
+    THE NOSE & PERFORATION OF THE CARILAGINOUS NASAL SEPTUM. INGESTION:
+    LIVER & KIDNEY DAMAG E.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/LUKE WARM WATER FOR 15 MINS. SKIN: WASH W/SOAP
+    & WATER. INHALATION: REMOVE TO FRESH AIR. INGESTION: OBTAIN MEDICAL
+    ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:122F
+Extinguishing Media:CO2, DRY CHEMICAL, FOAM OR WATER FOG
+Fire Fighting Procedures:USE AIR SUPPLIED RESPIRATOR.
+Unusual Fire/Explosion Hazard:FLAMMABLE LIQUID.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SCOOP INTO CONTAINERS. CLEAN-UP RESIDUE
+    W/1,1,1-TRICHLOROETHANE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID INGESTION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:GENERAL VENTILATION TO KEEP <TLV.
+Protective Gloves:SOLVENT RESISTANT
+Eye Protection:SAFETY GLASSES
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING & BEFORE SMOKING
+    OR EATING.
+Supplemental Safety and Health
+THIS PRODUCT CONTAINS A TOXIC CHEMICAL OR CHEMICALS SUBJECT TO THE
+    REPORTING REQUIREMENTS OF SECTION 313 OF TITLE 111 OF THE SUPERFUND
+    AMENDMENTS AND REAUTHORIZATION ACT OF 1986.
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:1.4
+Solubility in Water:NEGLIGIBLE
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS & STRONG ACIDS
+Hazardous Decomposition Products:OXIDES OF CARBON, SULFUR DIOXIDE &
+    HYDROGEN SULFIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:EPA WASTE NO D-007. DISPOSE OF SPILLAGE IN
+    COMPLIANCE W/FEDERAL & STATE REGULATIONS. FLAMMABLE LIQUID.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

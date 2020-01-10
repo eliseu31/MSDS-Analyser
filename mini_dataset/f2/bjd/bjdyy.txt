@@ -1,0 +1,141 @@
+=====================  Product Identification  =====================
+
+Product ID:DTE OIL LIGHT
+MSDS Date:12/18/1985
+FSC:9150
+NIIN:00-066-8487
+MSDS Number: BJDYY
+=== Responsible Party ===
+Company Name:MOBIL OIL CORP
+Box:1031
+City:PRINCETON
+State:NJ
+ZIP:08540
+Country:US
+Info Phone Num:703-849-3265
+Emergency Phone Num:212-883-4411/800-424-9300(CHEMTREC)
+CAGE:1E969
+=== Contractor Identification ===
+Company Name:MOBIL OIL CORP
+Address:530 EAST SWEDESFORD ROAD
+Box:1031
+City:VALLEY FORGE
+State:PA
+ZIP:19482
+Country:US
+Phone:703-849-3265
+CAGE:1E969
+Company Name:MOBIL OIL CORP ENVIRONMENTAL AFFAIRS & TOXICOLOGY
+Address:PENNINGTON-ROCKY HILL RD
+Box:City:PENNINGTON
+State:NJ
+ZIP:08534
+Country:US
+CAGE:0AHK0
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:REFINED MINERAL OIL
+Fraction by Wt: >95%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:ADDITIVES AND OTHER INGREDIENTS
+Fraction by Wt: <5%
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL RAT) IS NOT AVAILABLE
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE-SKIN:SLIGHT IRRITATION.
+    CHRONIC-NONE SPECIFIED BY MANUFACTURER.
+Explanation of Carcinogenicity:NONE OF THE COMPOUNDS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP, OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:SKIN:SLIGHT IRRITATION
+Medical Cond Aggravated by Exposure:PRE-EXISTING SKIN DISORDERS MAY BE
+    AGGRAVATED BY EXPOSURE TO THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:FIRST AID-EYE:FLUSH WITH WATER.SKIN:WASH WITH SOAP AND
+    WATER.INHALATION:NOT EXPECTED TO BE A PROBLEM.INGESTION:NOT
+    EXPECTED TO BE A PROBLEM. IF UNCOMFORTABLE SEEK MEDICAL ASSISTANCE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:425F,218C
+Lower Limits:0.6
+Upper Limits:7.0
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB ON FIRE RETARDANT TREATED SAWDUST,
+    DIATOMACEOUS EARTH, ETC.SCRAPE UP AND REMOVE.DISPOSE OF AT AN
+    APPROPRIATE WASTE DISPOSAL FACILITY IN ACCORDANCE WITH CURRENT
+    APPLICABLE LAWS AND REGULATIONS,  AND PRODUCT CHARACTERISTICS AT
+    TIME OF DISPOSAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY PLACE WITH
+    ADEQUATE VENTILATION.
+Other Precautions:MINIMIZE SKIN CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE IF THERE IS ADEQUATE VENTILATION.
+Ventilation:NO SPECIAL REQUIREMENTS UNDER ORDINARY CONDITIONS OF USE
+    AND WITH ADEQUATE VENTILATION.
+Protective Gloves:RUBBER
+Eye Protection:NO SPECIAL EQUIPMENT REQUIRED.
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER.
+    INDUSTRIAL-TYPE WORK CLOTHING AND APRON AS REQUIRED.
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES. DO NOT WEAR CONTAMINATED CLOTHING OR
+    FOOTWEAR.
+Supplemental Safety and Health
+ENVIRONMENTAL IMPACT: REPORT SPILL AS REQUIRED TO APPROPRIATE
+    AUTHORITIES. U.S. COAST GUARD REGULATIONS REQUIRE IMMEDIATE
+    REPORTING OF SPILLS THAT COULD REACH ANY WATERWAY INCLUDING
+    INTERMITTENT DRY C REEKS. REPORT SPILL TO COAST GUARD
+    1-800-424-8802.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:600F,316C
+Vapor Pres:<0.1
+Spec Gravity:0.863
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:LIQUID WITH MILD ODOR
+Percent Volatiles by Volume:UNKNON
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:EXTREME HEAT
+Hazardous Decomposition Products:CARBON MONOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISSOLVE WASTE IN A SOLVENT AND DISPOSE BY
+    SUPERVISED INCINERATION IN COMPLIANCE WITH APPLICABLE LAWS AND
+    REGULATION.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

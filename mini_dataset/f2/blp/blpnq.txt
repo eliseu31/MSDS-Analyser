@@ -1,0 +1,114 @@
+=====================  Product Identification  =====================
+
+Product ID:DURSBAND 0.5% GRANULAR
+MSDS Date:10/03/1984
+FSC:6840
+NIIN:00F019165
+MSDS Number: BLPNQ
+=== Responsible Party ===
+Company Name:SECURITY CHEMICAL COMPANY
+Box:938
+City:FORT VALLEY
+State:GA
+ZIP:31030
+Info Phone Num:(912) 825-5511
+Emergency Phone Num:(912) 825-5511
+CAGE:SECUR
+=== Contractor Identification ===
+Company Name:SECURITY CHEMICAL COMPANY
+Box:938
+City:FORT VALLEY
+State:GA
+ZIP:31030
+Phone:(912) 825-5511
+CAGE:SECUR
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CHLORPYRIFOS  (SARA III)
+CAS:2921-88-2
+RTECS #:TF6300000
+Fraction by Wt: 0.5%
+OSHA PEL:S, 0.2 MG/M3
+ACGIH TLV:S, 0.2 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:INERT INGREDIENTS (TYPE NOT SPECIFIED)
+Fraction by Wt: 99.5%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE SUPP.
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN: IRRITATION. EYES: TRANSIENT
+    IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: CHOLINERGIC EFFECTS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: IRRIGATE W/FLOWING WATER & CONTINUOUSLY FOR 15 MINS.
+    SKIN: WASH OFF IN FLOWING WATER OR SHOWER. INHALATION: MOVE TO
+    FRESH AIR IF EFFECTS OCCUR. IF RESPIRATION STOPS, GIVE
+    MOUTH-TO-MOUTH RESUSCIT ATION. INGESTION: DON'T INDUCE VOMITING.
+    OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:DRY CHEMICAL EXTINGUISHER, CO2
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP INTO DISPOSABLE BAG. WASH SURFACE
+    W/WATER CONTAINING CAUSTIC SODA. FOLLOW W/DETERGENT WASH. KEEP OUT
+    OF STREAMS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP OUT OF REACH OF CHILDREN. AVOID
+    INGESTION. AVOID CONTACT W/SKIN & EYES. KEEP AWAY FROM HEAT & OPEN
+    FLAME. WASH THOROUGHLY AFTER HANDLING.
+Other Precautions:KEEP AWAY FROM FOOD, FEEDSTUFFS & DOMESTIC WATER
+    SUPPLIES. DON'T BREATHE DUST. USE CLOTHING & EQUIPMENT CONSISTENT
+    W/GOOD PESTICIDE HANDLING & APPLICATION PROCEDURES. CAUTION - CAN
+    BE VERY TOXIC TO FI SH AT 3 PPB LEVELS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:EQUIPMENT ISN'T REQUIRED FOR NORMAL HANDLING &
+    USE.
+Ventilation:WORK IN WELL VENTILATED AREA.
+Protective Gloves:RUBBER
+Eye Protection:GOGGLES
+Supplemental Safety and Health
+LD50 FEMALE RAT: 135 MG/KG; MALE RAT 470 MG/KG.
+
+==================  Physical/Chemical Properties  ==================
+
+Vapor Density:0.0000187
+Solubility in Water:COMPLETE
+Appearance and Odor:LIGHT BROWN GRANULE W/FAINT MERCAPTAN ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CONTAMINATION W/WATER, ACIDS, ALKALIES
+Stability Condition to Avoid:HIGH TEMPERATURES, MOISTURE, HEAT & OPEN
+    FLAME
+Hazardous Decomposition Products:FORM VOLATILE ODOROUS ORGANIC SULFIDES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:BURY CLEAN-UP MATERIAL IN LOCATION AWAY FROM
+    DOMESTIC WATER SUPPLIES.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

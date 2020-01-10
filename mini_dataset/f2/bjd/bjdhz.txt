@@ -1,0 +1,140 @@
+=====================  Product Identification  =====================
+
+Product ID:ANAEROBIC RETAINING COMPOUND
+MSDS Date:09/11/1989
+FSC:8030
+NIIN:00-111-6404
+MSDS Number: BJDHZ
+=== Responsible Party ===
+Company Name:ACCRABOND, INC.
+Address:8848 HACKS CROSS ROAD
+City:OLIVE BRANCH
+State:MS
+ZIP:38654
+Country:US
+Info Phone Num:601-895-4480
+Emergency Phone Num:601-895-4480
+CAGE:5V071
+=== Contractor Identification ===
+Company Name:ACCRABOND INC
+Address:8848 HACKS CROSS RD
+Box:City:OLIVE BRANCH
+State:MS
+ZIP:38654-3884
+Country:US
+Phone:601-895-4480
+CAGE:5V071
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DICYCLOPENTENYL OXYETHYL METHACRYLATE
+CAS:75662-22-5
+RTECS #:UD3425800
+Fraction by Wt: >.75%
+OSHA PEL:NE
+ACGIH TLV:NE
+
+Ingred Name:TRIMETHYLOLPROPANE TRIMETHACRYLATE
+CAS:3290-92-4
+RTECS #:TY6675000
+Fraction by Wt: <20%.
+OSHA PEL:NE
+ACGIH TLV:NE
+
+Ingred Name:1-METHYL-1-PHENYLETHYL HYDROPEROXIDE (CUMENE HYDROPEROXIDE)
+     (SARA III)
+CAS:80-15-9
+RTECS #:MX2450000
+Fraction by Wt: 2%.
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD-50 (RAT) 5G/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:UNKNOWN:  ACUTE SKIN OR EYE
+    IRRITATION, CHRONIC MAY CAUSE SENSITIZATION IN	SOME
+    INDIVIDUALS
+Effects of Overexposure:EYES: IRRITATION, MAY CAUSE SLIGHT TO MODERATE
+    TISSUE DAMAGE SKIN: IRRITATION   MAY CAUSE SENSITIZATION IN SOME
+    INDIVIDUALS. INHALATION UNLIKELY TO CAUSE HEALTHPROBLEM. INGESTION:
+    ACUTE ORAL, CALL PHY SICIAN.
+Medical Cond Aggravated by Exposure:UNKNOWN; MAY CAUSE SENSITIZATION IN
+    SOME PEOPLE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH WATER AND CALL A PHYSICIAN. SKIN: WASH
+    THOROUGHLY WITH SOAP ANDWATER. INHALATION: REMOVE TO FRESH AIR,
+    UNLIKELY TO CAUSE HEALTH PROBLEM.	    INGESTION: ACUTE ORAL
+    LD-50, CALL PHYSIC IAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:>200F/>93C
+Lower Limits:NA
+Upper Limits:NA
+Extinguishing Media:CO2, DRY CHEMICAL, WATER FOG
+Fire Fighting Procedures:SELF CONTAINED BREATHING APPARATUS SHOULD BE
+    WORN
+Unusual Fire/Explosion Hazard:EXCESSIVE HEAT MAY CAUSE RAPID
+    POLYMERIZATION CAUSING CONTAINERS TO RUPTURE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB WITH INERT MATERIAL, PLACE IN OPEN     
+       CONTAINER AND POLYMERIZE WITH COPPER NAPHTHENATE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL SHADED AREA AT MAXIMUM
+    OF 80F.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NA
+Ventilation:LOCAL EXHAUST, MECHANICAL EXHAUST, NA
+Protective Gloves:RUBBER
+Eye Protection:GOGGLES
+Other Protective Equipment:EYE WASH STAND
+Work Hygienic Practices:WASH HANDS THOROUGHLY AFTER USE
+Supplemental Safety and Health
+NA
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:115-120C
+Melt/Freeze Pt:M.P/F.P Text:NA
+Vapor Pres:<0.1
+Vapor Density:(AIR=1)>1
+Spec Gravity:<1
+Evaporation Rate & Reference:NA
+Solubility in Water:MAY/POLYMERIZE
+Appearance and Odor:GREEN LIQUID, ACRYLIC ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:EXCESSIVE HEAT ( >50C)		       
+		     PEROXIDES, METALS
+Hazardous Decomposition Products:CO, CO2, OTHERS POSSIBLE
+Conditions to Avoid Polymerization:EXCESSIVE HEAT, POLYMERIZATION,
+    CATALYSTS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:EPA GUIDELINE. SHOWS SLIGHT TOXICITY TO FISH.   
+     DISPOSE POLYMERIZED MATERIAL IN APPROVED LANDFILL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,140 @@
+=====================  Product Identification  =====================
+
+Product ID:786702 LACQUER C/N GLOSS BLACK 17038
+MSDS Date:01/01/1985
+FSC:8010
+NIIN:00-171-1509
+MSDS Number: BDFJK
+=== Responsible Party ===
+Company Name:PRATT AND LAMBERT INC
+Address:16116 E 13TH ST
+Box:2153
+City:WICHITA
+State:KS
+ZIP:67201
+Country:US
+Info Phone Num:316-733-1361
+Emergency Phone Num:716-873-6000 DOT EMER 8002553924
+CAGE:61196
+=== Contractor Identification ===
+Company Name:PRATT AND LAMBERT INC
+Box:6027
+City:CLEVELAND
+State:OH
+ZIP:44101-1027
+Country:US
+Phone:216-566-2902
+CAGE:61196
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOBUTYL ACETATE
+RTECS #:NP9100000
+Fraction by Wt: 25%
+ACGIH TLV:150 PPM
+
+Ingred Name:ISOBUTYL ALCOHOL  (SARA III)
+CAS:78-83-1
+RTECS #:NP9625000
+Fraction by Wt: 8%
+OSHA PEL:100 PPM
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 8%
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:NAPHTHA ALIPHATIC
+Fraction by Wt: 8%
+ACGIH TLV:200 PPM
+
+Ingred Name:NAPHTHA (PETROLEUM SPIRITS OR BENZIN)
+CAS:8030-30-6
+RTECS #:SE7555000
+Fraction by Wt: 8%
+OSHA PEL:100 PPM
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:INHAL:ANEST,IRRIT OF RESPIR TRACT OR ACUT NERV
+    SYS DEPRESN,HDACH,DIZZ,CONFUS,UNCONSCIOUS, COMA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:IN CASE OF CONTACT,FLUSH SKIN & EYES W/PLENTY OF WATER
+    WHILEREMOVING CONTAMINATED CLOTHING.IF INHALATED,REMOVE TO FRESH
+    AIR. CALL A PHYSCIAN IF SYMPTOMS PERSIST.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:13 F TCC -11 C
+Extinguishing Media:USE FIRE EXTING(CO*2,DRY CHEM OR ALCOH FOAM)LO
+    FIRE-POLYMER
+Fire Fighting Procedures:SELF-CONTAINED BREATH APPARATUS SHLD BE AVAIL
+    F/FIREMEN.
+Unusual Fire/Explosion Hazard:KEEP CONTNRS TIGHTLY CLOS:ISOLAT FR
+    HEAT,ELECTR EQPMT,SPARKS & OPEN FLAME.CLOS CONTNRS MAY EXPLO(SUP
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION (FLAMES,HOT
+    SURFACES,&ELECTRICAL, STARIC, OR FRICTIONAL SPARKS) AVOID BREATHING
+    VAPORS.VENTILATE AREA.REMOVE W/INERT ABSORBENT & NON-SPARKING
+    TOOLS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT STORE ABOVE 120 F STORE LG
+    QUANTITIES IN BLDG DESIGNED TO COMPLY W/OSHA 1910.106.
+Other Precautions:CONTNRS GROUNDED WHEN POURNG.AVD FRE FALL OF LIQD IN
+    EXCES OF FEW INCHES.DON'T FLAM CUT,BRAZE OR WELD COATED MATRL W/O
+    BUR OF MINES APPRVD RESPIRATOR OR APPROP VENT,ADD LABL WARN"DO NOT
+    TAKE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:OUTDOOR/OPEN AREAS,USE BUR.OF MINES APPRVD MECH
+    FILTR RESPIRATOR.
+Ventilation:PROVD GEN DILUT OR LOC EXHAUST VENT IN VOL TO KP VELOW TLV.
+Protective Gloves:REQD F/REPEATED
+Eye Protection:SAFETY EYEWEAR.
+Other Protective Equipment:PRVNT PROLNG SKIN CONTACT TO CONTAMINATED
+    CLOTHING.
+Supplemental Safety and Health
+UNUS FIRE & EXPLOS HAZ:WHEN EXPOSED TO EXTREME HEAT. DO NOT APPLY TO
+    VERY HOT SURFACES.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:B.P. Text:174-290 F
+Vapor Density:HEAV
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:77
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:AVOID FIRES,HEAT, & HOT SURFACES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN ACCORDANCE W/LOC, STATE & FEDERAL
+    REGULATIONS.INCINERATE IN APPRVD FACILITY.DO NOT INCINERATE CLOSED
+    CONTAINERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,140 @@
+=====================  Product Identification  =====================
+
+Product ID:LIQUID HI-CHLOR, 79087
+MSDS Date:08/27/1992
+FSC:7930
+NIIN:00N057451
+MSDS Number: BWRQX
+=== Responsible Party ===
+Company Name:ECOLAB INC
+Address:ECOLAB CENTER
+City:ST PAUL
+State:MN
+ZIP:55102
+Country:US
+Info Phone Num:800-553-8683
+Emergency Phone Num:800-328-0026
+CAGE:0DAC4
+=== Contractor Identification ===
+Company Name:ECOLAB INC
+Address:8811 E HAMPDEN AVE BLDG 4 B
+City:DENVER
+State:CO
+ZIP:80231
+Country:US
+Phone:612-293-2233
+CAGE:0DAC4
+Company Name:ECOLAB PROFESSIONAL PRODUCTS DIVISION OF ECOLAB INC.
+Address:ECOLAB CENTER
+Box:City:ST PAUL
+State:MN
+ZIP:55102
+Country:US
+Phone:800-352-5326
+CAGE:85884
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HYPOCHLOROUS ACID, SODIUM SALT; (SODIUM HYPOCHLORITE) 
+    (CERCLA). %: 8.4-10.5.
+CAS:7681-52-9
+RTECS #:NH3486300
+Fraction by Wt: <10.5%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN & EYES:CAUSES CHEMICAL BURNS. EYE
+    CONTACT MAY CAUSE BLINDNESS. INGEST:HARMFUL. CAUSES CHEMICAL BURNS
+    OF MOUTH, THROAT & STOMACH. INHAL:VAPORS OR MIST CAUSE IRRITATION,
+    INCLUDING A BURNING TASTE,	SNEEZING, COUGHING & DIFFICULTY
+    BREATHING.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:PEOPLE W/ASTHMA OR OTHER LUNG
+    PROBLEMS MAY BE MORE AFFECTED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:IMMED FLUSH W/PLENTY OF COOL RUNNING WATER. REMOVE CONT
+    LENSES. CONTINUE FLUSHING FOR AT LST 15 MINS, HOLDING EYELIDS APART
+    TO ENSURE RINSING OF ENTIRE EYE. CALL MD IMMED. SKIN:IMMED FLUSH
+    W/PLEN TY OF COOL RUNNING WATER FOR AT LST 15 MINS WHILE REMOVING
+    CONTAM CLTHG & SHOES. WASH CLTHG BEFORE REUSE. INGEST:RINSE MOUTH
+    AT ONCE; THEN DRINK 1-2 LG GLASSES OF WATER/MILK. DO NOT INDUCE
+    (SUPDAT)
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:MEDIA SUITABLE FOR SURROUNDING FIRE . PRODUCT DOES
+    NOT SUPPORT COMBUSTION.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPER PROTECTIVE EQUIPMENT. DIKE OR DAM
+    SPILLS. PUMP TO CONTAINERS OR SOAK UP ON INERT ABSORBENT. FLUSH
+    RESIDUE TO SANITARY SEWER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID BREATHING DUSTS OR MISTS OF THIS
+    PRODUCT.
+Other Precautions:KEEP OUT OF REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN .
+Ventilation:NONE SPECIFIED BY MANUFACTURER.
+Protective Gloves:RUBBER GLOVES - PROT CUFF/ (SUPP DATA)
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGGS(SUPDAT)
+Other Protective Equipment:EYE WASH FOUNTAIN & DELUGE SHOWER WHICH MEET
+    ANSI DESIGN CRITERIA .
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+PH (1%):10.5. FIRST AID PROC:VOMIT. NEVER GIVE ANYTHING BY MOUTH TO
+    UNCON PERS. INHAL:IMMED MOVE TO FRESH AIR. CALL POIS CTL CTR/MD
+    IMMED. PROT GLOVE:GAUNTLET TYPE PREFERRED. EYE PROT:& FULL LENGTH
+    FA CESHIELD .
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>212F,>100C
+Spec Gravity:1.16-1.17
+pH:SUPDAT
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR LIGHT YELLOW LIQUID W/CHLORINE ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+MIX ONLY W/WATER. DO NOT MIX W/ACIDS OR AMMONIA - WILL CAUSE HAZARDOUS
+    VAPORS.
+Stability Condition to Avoid:HIGH TEMPERATURES.
+Hazardous Decomposition Products:HIGH TEMPERATURES MAY GENERATE
+    HAZARDOUS DECOMPOSITION PRODUCTS INCLUDING CHLORINE GAS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE I/A/W FEDERAL, STATE & LOCAL
+    REGULATIONS . UNUSED PRODUCT AS A WASTE IS CORROSIVE (D002) BY RCRA
+    CRITERIA.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

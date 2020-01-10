@@ -1,0 +1,91 @@
+=====================  Product Identification  =====================
+
+Product ID:TABCO GP-STRIP-NG
+MSDS Date:01/01/1987
+FSC:6850
+NIIN:00F019130
+MSDS Number: BLPLX
+=== Responsible Party ===
+Company Name:TABCO PRODUCTS INCORPORATED
+Address:940 WEST 100 SOUTH
+City:SALT LAKE CITY
+State:UT
+ZIP:84014
+Info Phone Num:(801) 595-0119
+Emergency Phone Num:(801) 595-0119
+CAGE:FO152
+=== Contractor Identification ===
+Company Name:TABCO C D PRODUCTS INC
+Address:940 W 100 S
+Box:City:SALT LAKE CITY
+State:UT
+ZIP:84104
+Country:US
+Phone:801-595-0119
+CAGE:67281
+Company Name:TABCO PRODUCTS INC/SALT LAKE CITY, UT 84104
+CAGE:FO152
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ALKALINE BUILDERS
+
+Ingred Name:2-BUTOXYETHANOL
+CAS:111-76-2
+RTECS #:KJ8575000
+Other REC Limits:25 PPM (SKIN)
+OSHA PEL:S, 50 PPM
+ACGIH TLV:S, 25 PPM; 9293
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION & DAMAGE. SKIN:
+    IRRITATION. INHALATION: IRRITATION TO THE MUCOUS MEMBRANES.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: IRRITATION & DAMAGE. SKIN: IRRITATION.
+    INHALATION: IRRITATION TO THE MUCOUS MEMBRANES.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES/SKIN: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINS.
+    INHALATION: REMOVE TO FRESH AIR. OBTAIN MEDICAL ATTENTION IN ALL
+    CASES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONTAIN SPILL & TRANSFER TO CONTAINER OR
+    ABSORB W/DRY MATERIAL SUCH AS SAWDUST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RECOMMENDED
+Ventilation:USE LOCAL EXHAUST WHEN USED IN CLOSED AREAS.
+Protective Gloves:RECOMMENDED
+Eye Protection:RECOMMENDED
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Solubility in Water:COMPLETE
+Appearance and Odor:FLUORESCENT YELLOW/GREEN W/GLYCOL ETHER ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:SMALL QUANTITIES MAY BE SEWERED IF IN ACCORDANCE
+    W/LOCAL, STATE & FEDERAL REGULATIONS. OTHERWISE REMOVE TO APPROVED
+    DUMPSITE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

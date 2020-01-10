@@ -1,0 +1,202 @@
+=====================  Product Identification  =====================
+
+Product ID:GREEN EMULSION BATHROOM CLEANER
+MSDS Date:09/18/1991
+FSC:7930
+NIIN:00N092151
+Status Code:A
+MSDS Number: CJQQJ
+=== Responsible Party ===
+Company Name:WEPAK CORP
+Box:36803
+City:CHARLOTTE
+State:NC
+ZIP:28236
+Country:US
+Info Phone Num:704-334-5781
+Emergency Phone Num:704-334-5781
+CAGE:0DMF7
+=== Contractor Identification ===
+Company Name:WEPAK CORP
+Box:36803
+City:CHARLOTTE
+State:NC
+ZIP:28236
+Country:US
+Phone:704-334-5781
+CAGE:0DMF7
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HYDROCHLORIC ACID
+CAS:7647-01-0
+RTECS #:MW4025000
+Other REC Limits:N/K 
+OSHA PEL:C7 MG/M3;C5 PPM
+OSHA STEL:N/K 
+ACGIH TLV:5 PPM
+ACGIH STEL:C7.5 MG/M3;C5 PPM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:PHOSPHORIC ACID
+CAS:7664-38-2
+RTECS #:TB6300000
+Other REC Limits:N/K 
+OSHA PEL:1 MG/M3
+OSHA STEL:N/K 
+ACGIH TLV:1 MG/M3
+ACGIH STEL:3 MG/M3
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:DODECYLBENZENE SULFONIC ACID
+CAS:27176-87-0
+RTECS #:DB6600000
+Other REC Limits:N/K 
+OSHA PEL:N/K 
+OSHA STEL:N/K 
+ACGIH TLV:N/K 
+ACGIH STEL:N/K 
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ISOPROPANOL
+CAS:67-63-0
+RTECS #:NT8050000
+Other REC Limits:N/K 
+OSHA PEL:980 MG/M3;400 PPM
+OSHA STEL:N/K 
+ACGIH TLV:983 MG/M3;400 PPM
+ACGIH STEL:1230 MG/M3;500 PPM
+
+Ingred Name:SODIUM XYLENE SULFONATE
+CAS:1300-72-7
+RTECS #:ZE5100000
+Other REC Limits:N/K 
+OSHA PEL:N/K 
+OSHA STEL:N/K 
+ACGIH TLV:N/K 
+ACGIH STEL:N/K 
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MAY BE FATAL IF SWALLOWED. DO NOT
+    BREATHE VAPOR OR FUMES. SIGNS AND SYMPTOMS OF EXPOSURE: CORROSIVE
+    TO EYES AND SKIN, CAUSING CHEMICAL BURNS. RESPIRATORY IRRITATION
+    AND POSSIBLE INJURY FROM BREATHING	MIST.
+Explanation of Carcinogenicity:NOT APPLICABLE.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE DETERMINED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION: CALL A PHYSICIAN IMMEDIATELY. DRINK A TEASPOONFUL
+    OR MORE OF MAGNESIA, CHALK, OR SMALL PIECES OF SOAP, SOFTENED WITH
+    WATER IN MILK OR RAW EGG WHITES. EYES: WASH WITH WATER FOR AT LEAST
+    15 M INUTES. GET PROMPT MEDICAL ATTENTION. SKIN: WIPE OFF THE ACID
+    GENTLY. IMMEDIATELY FLOOD THE SURFACE WITH WATER, USING SOAP
+    FREELY, THEN COVER WITH MOIST MAGNESIA OR BAKING SODA. INHALATION:
+    IF BOTHERS OME, REMOVE FROM AREA.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:NON-FLAMMABLE. USE MEDIA SUITABLE FOR SURROUNDING
+    FIRE .
+Fire Fighting Procedures:WEAR NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT . COOL MATERIAL WITH WATER SPRAY.
+Unusual Fire/Explosion Hazard:NONE KNOWN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH WITH PLENTY OF WATER. NEUTRALIZE WITH
+    SODA ASH AND SLATED LIME.
+Neutralizing Agent:SODA ASH AND SLATED LIME.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTACT WITH SKIN AND EYES. WHEN
+    STORING MAKE SURE CONTAINERS ARE NOT TOO FULL. UNDER EXTREMELY LOW
+    TEMPERATURES ALLOW ROOM FOR EXPANSION.
+Other Precautions:NONE KNOWN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR NIOSH APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN .
+Ventilation:LOCAL EXHAUST ADEQUATE. MECHANICAL (GENERAL) ADEQUATE.
+Protective Gloves:PROTECTIVE GLOVES RECOMMENDED. WEAR IMPERVIOUS GLOVES
+    .
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES AND FULL LENGTH
+    FACESHIELD .
+Other Protective Equipment:ANSI APPROVED EMERGENCY EYEWASH AND DELUGE
+    SHOWER . IMPERVIOUS APRON.
+Work Hygienic Practices:NORMAL GOOD HOUSEKEEPING AND MANUFACTURING
+    PROCEDURES.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:1.163 (H*2O=1)
+Solubility in Water:COMPLETE
+Appearance and Odor:MILKY GREEN, WITH MINT FRAGRANCE.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CAN REACT WITH METALS TO LIBERATE FLAMMABLE HYDROGEN.
+Stability Condition to Avoid:NOT APPLICABLE.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:SILICOSIS: MAJOR CONCERN ASSOC W/EXPOS TO
+    RESPIRABLE CRYSTALLINE SILICA IS SILICOSIS, CAUSED BY INHAL &
+    RETENTION OF RESPIRBLE CRYSTALLINE SILICA DUST. SILICOSIS CAN EXIST
+    IN SEVERAL FORMS, CHRONIC/OR INARY, ACCELERATED/ACUTE.
+    CHRONIC/ORDINARY SILICOSIS IS MOST COMMON FORM OF SILICOSIS, & CAN
+    OCCUR AFTER MANY YEARS OF EXPOSURE TO RELATIVELY LOW LEVELS OF
+    AIRBORNE RESPIRABLE CRYSTALLINE SILICA DUST.  IT IS FURTHER DEFINED
+    AS EITHER SIMPLE/COMPLICATED SILICOSIS. FOR MORE INFO ON
+    TOXICOLOGICAL INFORMATION CONTACT NEHC .
+
+=====================  Ecological Information  =====================
+
+Ecological:CRYSTALLINE SILICA (QUARTZ) IS NOT ECOTOXIC, I.E., THERE IS
+    NO DATA WHICH SUGGESTS THAT CRYSTALLINE SILICA (QUARTZ) IS TOXIC TO
+    BIRDS, FISH, INVERTEBRATES, MICROORGANISMS OR PLANTS. FOR
+    ADDITIONAL INF ORMATION ON CRYSTALLINE SILICA (QUARTZ) SEE SECTION
+    9 (PHYSICIAL AND CHEMICAL PROPERTIES) AND 10 (STABILITY AND
+    REACTIVITY) OF THIS MSDS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH GOVERNMENT
+    REGULATIONS. DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE, AND
+    FEDERAL REGULATIONS .
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:CRYSTALLINE SILICA (QUARTZ) IS NOT A HAZARDOUS
+    MATERIAL FOR THE PURPOSE OF TRANSPORTATION UNDER THE U.S.
+    DEPARTMENT OF TRANSPORTATION TABLE OF HAZARDOUS MATERIALS, 49 CFR
+    172.101.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:HYDROCHLORIC ACID, PHOSPHORIC ACID: CONTENTS
+    ARE REPORTABLE UNDER SARA TITLE III.
+State Regulatory Information:
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

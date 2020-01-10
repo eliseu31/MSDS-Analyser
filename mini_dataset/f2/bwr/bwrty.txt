@@ -1,0 +1,138 @@
+=====================  Product Identification  =====================
+
+Product ID:ACETANILIDE, 0240-2047
+MSDS Date:11/27/1990
+FSC:6810
+NIIN:00N057750
+MSDS Number: BWRTY
+=== Responsible Party ===
+Company Name:PERKINS-ELMER CORP
+Address:761 MAIN AVE
+City:NORWALK
+State:CT
+ZIP:06859
+Country:US
+Info Phone Num:203-762-1000
+Emergency Phone Num:203-762-4464
+CAGE:IO704
+=== Contractor Identification ===
+Company Name:PERKIN ELMER CORP
+Address:761 MAIN AVE
+Box:City:NORWALK
+State:CT
+ZIP:06859
+Country:US
+Phone:203-762-1000
+CAGE:46555
+Company Name:PERKINS-ELMER CORP
+Address:761 MAIN AVE
+Box:City:NORWALK
+State:CT
+ZIP:06859
+Country:US
+Phone:203-762-1000
+CAGE:IO704
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ACETANILIDE
+CAS:103-84-4
+RTECS #:AD7350000
+Fraction by Wt: 100%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50:(ORAL,RAT) 800 MG/KG.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:INHAL:IRRITATING TO RESPIRATORY
+    TRACT & MUCOUS MEMBRANES. INGEST:HIGHLY TOXIC. CAN PRODUCE
+    CYANOSIS. SKIN CONTACT:IRRITATING. MAY CAUSE ERUPTIONS. EYE
+    CONTACT:IRRITATING. CHRONIC:PROLONGED OR RE PEATED OVEREXPOSURE MAY
+    PRODUCE METHEMOGLOBINEMIA, WHICH IS A REDUCTION OF ABILITY OF BLOOD
+    TO CARRY (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:HLTH HAZ:OXYGEN. CYANOSIS & DAMAGE TO THE BLOOD
+    PRODUCING ORGANS MAY RESULT.
+Medical Cond Aggravated by Exposure:CONSULT MD PRIOR TO ASSIGNING
+    WORKERS W/RESPIRATORY, SKIN OR BLOOD DISORDERS TO TASKS REQUIRING
+    THE USE OF ACETANILIDE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:MOVE PERS TO FRESH AIR. ADMIN OXYGEN IF PERSON
+    EXPERIENCES DFCLTY IN BRTHG. INGEST:IMMED CONT LOCAL POISON CONTROL
+    CENTER. SKIN:REMOVE CONTAM CLTHG, THEN FLUSH SKIN W/WATER FOR AT
+    LST 15 MINS. W ASH CLTHG THORO & SEPARATELY BEFORE RE-USE.
+    EYE:FLUSH W/WATER FOR AT LST 15 MINS, OCCAS LIFTING UPPER & LOWER
+    EYELIDS. IF IRRIT CONTINUES, GET MED ATTN IMMED.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:345F,174C
+Extinguishing Media:WATER SPRAY, DRY CHEMICAL, FOAM OR CARBON DIOXIDE
+    (CO*2).
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:SLIGHT FIRE HAZARD WHEN EXPOSED TO HEAT
+    OR FLAME. EXPLOSIVE MIXTURES MAY BE FORMED W/AIR AT TEMPERATURES
+    ABOVE FLASH POINT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SPILLS MAY BE SWEPT UP, AVOIDING GENERATION OF
+    DUST. PLACE MATERIAL IN A SEALED CONTAINER FOR PROPER DISPOSAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL & DRY PLACE, AWAY FROM
+    INCOMPATIBLE MATERIALS. KEEP CONTAINER TIGHTLY SEALED WHEN NOT IN
+    USE. AVOID GENERATION OF DUST.
+Other Precautions:AVOID INHALATION, INGESTION & CONTACT W/EYES & SKIN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR NIOSH/MSHA APPROVED RESPIRATOR.
+Ventilation:USE IN A LABORATORY HOOD OR W/LOCAL EXHAUST.
+Protective Gloves:CHEMICAL RESISTANT GLOVES.
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGGS 
+Other Protective Equipment:EYE WASH FOUNTAIN & DELUGE SHOWER WHICH MEET
+    ANSI DESIGN CRITERIA . WEAR CHEMICAL RESISTANT CLOTHING.
+Work Hygienic Practices:WASH THOROUGHLY AFTER USE.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:580F,304C
+Melt/Freeze Pt:M.P/F.P Text:238F,114C
+Vapor Pres:1 @ 114C
+Vapor Density:4.65
+Spec Gravity:1.219 (H*2O=1)
+Solubility in Water:SLIGHTLY SOLUBLE
+Appearance and Odor:WHITE CRYSTALLINE POWDER; ODORLESS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS.
+Stability Condition to Avoid:VOLATILITY BECOMES SIGNIFICANT AT 95C
+    (203F).
+Hazardous Decomposition Products:WHEN HEATED TO DECOMPOSITION, TOXIC
+    OXIDES OF NITROGEN & CARBON MAY BE LIBERATED.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:COMPLY W/ALL FEDERAL, STATE & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

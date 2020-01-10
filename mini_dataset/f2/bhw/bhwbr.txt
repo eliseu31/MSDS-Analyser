@@ -1,0 +1,146 @@
+=====================  Product Identification  =====================
+
+Product ID:ISOPROPYL RUBBING ALCOHOL
+MSDS Date:01/01/1987
+FSC:6505
+NIIN:00-655-8366
+MSDS Number: BHWBR
+=== Responsible Party ===
+Company Name:BECO CHEMICAL CO INC
+Address:11865 S ALAMEDA ST
+City:LYNWOOD
+State:CA
+ZIP:90262-4022
+Country:US
+Info Phone Num:213-567-2481
+Emergency Phone Num:213-567-2481
+CAGE:3R190
+=== Contractor Identification ===
+Company Name:BECO CHEMICAL CO INC
+Address:11865 S ALAMEDA ST
+Box:City:LYNWOOD
+State:CA
+ZIP:90262-4022
+Country:US
+Phone:213-567-2481
+CAGE:3R190
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+= Wt:70.
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+= Wt:30.
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT) = 5840 MG/KG
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:PRODUCT IS MILDLY IRRITATING.	IT IS
+    TOXIC BY INGESTION, EFFECTING THE CENTRAL NERVOUS SYSTEM.  INHALED
+    IN LARGE QUANTITY IT PRODUCES AN ANESTHETIC EFFECT.
+Explanation of Carcinogenicity:THIS CHEMICAL IS NOT LISTED AS HAVING
+    ANY EVIDENCE OF BEING CARCINOGENIC.
+Effects of Overexposure:EYE:IRRITATION.  SKIN:MILD
+    IRRITATION,DRYING,POSSIBLE DERMATITIS. 
+    INHALED:DIZZINESS,HEADACHE,CENTRAL NERVOUS SYSTEM
+    DEPRESSION,ANESTHESIA.  INGESTED:CENTRAL NERVOUS SYSTEM
+    DEPRESSION,NAUSEA,VOMITING.
+Medical Cond Aggravated by Exposure:PERSONS WITH SKIN, HEART,
+    RESPIRATORY, OR ANY OTHER MEDICAL CONDITION SHOULD USE CAUTION WHEN
+    HANDLING OR USING THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH W/WATER 15 MIN, HOLD LIDS OPEN.  SKIN:REMOVE
+    CONTAMINATED CLOTHING AND LAUNDER BEFORE REUSE. WASH WITH SOAP &
+    WATER.  INHALED:REMOVE TO FRESH AIR. RESTORE BREATHING AS NEEDED. 
+    INGESTED:GIVE  2 LARGE GLASSES OF MILK OR WATER AND IMMEDIATELY
+    INDUCE VOMITING.  GIVE NOTHING BY MOUTH IF UNCONSCIOUS.  GET
+    IMMEDIATE MEDICAL CARE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:=11.7C, 53.F
+Extinguishing Media:USE CARBON DIOXIDE, FOAM, DRY CHEMICAL, OR WATER
+    FOG.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB MATERIAL WITH CLAY, VERMICULITE, OR
+    SIMILAR ABSORBENT MATERIAL. PLACE IN DISPOSAL CONTAINERS.  FLUSH
+    RESIDUE WITH WATER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, WELL VENTILATED
+    FLAMMABLE LIQUID STORAGE AREA. KEEP CONTAINERS CLOSED WHEN NOT IN
+    USE. AVOID OPEN ELECTRICAL ITEMS IN HIGH VAPOR AREA
+Other Precautions:'EMPTY' CONTAINERS MAY CONTAIN RESIDUE OR VAPOR.
+    TREAT THEM WITH THE RESPECT DUE FULL ONES. DO NOT CUT,WELD,ETC. ON
+    THEM.DO NOT USE PRESSURE TO DISPENSE LIQUID.  GROUND CONTAINERS
+    WHEN TRANSFERRING LI QUID.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESPIRATOR WILL NOT NORMALLY BE NECESSARY.  USE
+    NIOSH/MSHA APPROVED AIR SUPPLIED RESPIRATOR OR RESPIRATOR FOR
+    ORGANIC VAPORS IF EXPOSURE IS ABOVE THE TLV/PEL. SEE 29 CFR
+    1910.134 FOR REGULATIONS PERTA INING TO RESPIRATOR USE.
+Ventilation:NORMAL ROOM VENTILATION IS OFTEN SUFFICIENT.  SUPPLEMENT
+    WITH LOCAL EXHAUST IF PEL/TLV IS EXCEEDED.
+Protective Gloves:NEOPRENE, NITRILE, OR POLYVINYL ALCOHOL
+Eye Protection:USE CHEMICAL SAFETY GOGGLES & FACESHIELD
+Other Protective Equipment:EYE WASH STATION & SAFETY SHOWER. WORK
+    CLOTHING AS NECESSARY TO PREVENT PROLONGED/REPEATED CONTACT.
+Work Hygienic Practices:USE GOOD CHEMICAL HYGIENE PRACTICE. AVOID
+    UNNECESSARY CONTACT.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Vapor Pres:33.0 MM
+Vapor Density:2.1
+Spec Gravity:<1
+pH:UNKNON
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR COLORLESS LIQUID, ALCOHOL ODOR
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HIGH TEMPERATURES, SPARKS, AND OPEN FLAMES
+Hazardous Decomposition Products:CARBON DIOXIDE, CARBON MONOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W LOCAL, STATE AND FEDERAL
+    REGULATIONS. INCINERATION IS RECOMMENDED.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

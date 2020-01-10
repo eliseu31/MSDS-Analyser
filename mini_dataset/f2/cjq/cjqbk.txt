@@ -1,0 +1,141 @@
+=====================  Product Identification  =====================
+
+Product ID:HYDROGEN PEROXIDE 3 %
+MSDS Date:01/01/1998
+FSC:6810
+NIIN:00N092125
+Status Code:A
+MSDS Number: CJQBK
+=== Responsible Party ===
+Company Name:CHESTER LABS INC
+Address:1900 SECTION RD, SUITE A
+City:CINCINNATI
+State:OH
+ZIP:45237
+Country:US
+Info Phone Num:800-354-9709
+Emergency Phone Num:800-354-9709
+CAGE:1DWU0
+=== Contractor Identification ===
+Company Name:CHESTER LABS INC
+Address:1900 SECTION RD, SUITE A
+Box:City:CINCINNATI
+State:OH
+ZIP:45237
+Country:US
+Phone:800-354-9709
+CAGE:1DWU0
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HYDROGEN PEROXIDE
+CAS:7722-84-1
+RTECS #:MX0899000
+= Wt:3.
+OSHA PEL:1.4 MG/M3;1 PPM
+ACGIH TLV:1.4 MG/M3;1 PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:AT CONCENTRATIONS USED IN THIS
+    PREPARATION, HYDROGEN PEROXIDE OFFERS LITTLE ACUTE AND NO CHRONIC
+    HEALTH HAZARDS. AT HIGHER CONCENTRATIONS, IT IS AN IRRITANT AND A
+    CORROSIVE.
+Effects of Overexposure:AT CONCENTRATIONS USED, NO SYMPTOMS ARE
+    ANTICIPATED. ON PROLONGED STANDING, A REDDENING OF THE SKIN MAY
+    OCCUR.
+Medical Cond Aggravated by Exposure:NONE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: FLUSH AREA WITH WATER FOR 15 MINUTES. EYES: FLUSH AREA
+    WITH WATER FOR AT LEAST 15 MINUTES. INGESTION: CALL MD IMMEDIATELY
+    . INHALATION: REMOVE TO FRESH AIR. SUPPORT BREATHING (GIVE O*2/ART
+    F RESP) .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NOT COMBUSTIBLE
+Lower Limits:NONE
+Upper Limits:NONE
+Extinguishing Media:MEDIA SUITABLE FOR SURROUNDING FIRE . NOT
+    APPLICABLE.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT . NOT APPLICABLE. IF PRESENT IN A FIRE, IT WILL
+    CONTRIBUTE TO BURNING.
+Unusual Fire/Explosion Hazard:OXIDIZING AGENT. HAZARD RATING SCALE:
+    HEALTH - 1; FIRE - 0; REACTIVITY - 1. ADDITIONAL - OXIDIZER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH INTO SEWER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY PLACE.
+Other Precautions:AVOID UNNECESSARY CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN . NONE REQUIRED AT DILUTION LEVEL OF THIS
+    PRODUCT.
+Ventilation:NONE.
+Protective Gloves:NITRILE OR LATEX (SURGICAL WEIGHT) GLOVES.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES & FULL LENGTH
+    FACESHIELD .
+Other Protective Equipment:ANSI APPROVED EYE WASH & DELUGE SHOWER .
+    APRON.
+Work Hygienic Practices:AVOID CONTACT; DO NOT BREATHE FUMES.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:=101.7C, 215.F
+Melt/Freeze Pt:=-17.8C, 0.F
+Vapor Pres:32 MM HG @ 30C
+Vapor Density:1 (AIR=1)
+Spec Gravity:1.01 (H*2O=1)
+Solubility in Water:SOLUBLE
+Appearance and Odor:WATER CLEAR, COLORLESS WITH PUNGENT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ORGANICS, VINEGAR, STRONG REDUCING AGENTS.
+Stability Condition to Avoid:AVOID EXCESSIVE LIGHT, HEAT; KEEP FROM
+    FREEZING.
+Hazardous Decomposition Products:DIRT AND METALS CATALYZE A RELEASE OF
+    OXYGEN.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:HYDROGEN PEROXIDE - EXPOSURE LIMITS (OSHA
+    PEL'S AND ACGIH TLV'S) ARE FOR HIGH STRENGTH SOLUTIONS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W ALL APPLICABLE LOCAL, STATE AND
+    FEDERAL REGULATIONS.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:THIS PRODUCT CONTAINS NO SARA 313 REPORTABLE
+    SUBSTANCES.
+Federal Regulatory Information:MAY BE USED TO COMPLY WITH OSHA'S HAZARD
+    COMMUNICATION STANDARD 29 CFR 1910.1200. STANDARD MUST BE CONSULTED
+    FOR SPECIFIC REQUIREMENTS.
+State Regulatory Information:
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

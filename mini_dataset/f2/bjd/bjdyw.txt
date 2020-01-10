@@ -1,0 +1,163 @@
+=====================  Product Identification  =====================
+
+Product ID:340 VOC HS TOPCOAT YELL 13538
+MSDS Date:03/27/1990
+FSC:8010
+NIIN:01-293-1365
+Kit Part:Y
+MSDS Number: BJDYW
+=== Responsible Party ===
+Company Name:MIDLAND DIVISION DEXTER CORP
+Address:31500 HAYMAN ST
+City:HAYWARD
+State:CA
+ZIP:94544-7120
+Country:US
+Info Phone Num:415-471-7171
+Emergency Phone Num:415-791-1961
+Preparer's Name:CAP
+CAGE:98795
+=== Contractor Identification ===
+Company Name:DEXTER CORP THE DEXTER CROWN METRO AEROSPACE DIV
+Address:31500 HAYMAN ST
+Box:City:HAYWARD
+State:CA
+ZIP:94544-7120
+Country:US
+Phone:510-471-7171
+CAGE:98795
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:N-BUTYL ACETATE  (SARA III)
+CAS:123-86-4
+RTECS #:AF7350000
+Fraction by Wt: < 10%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:150 PPM/200 STEL
+ACGIH TLV:150 PPM/200STEL;9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: < 10%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:METHYL AMYL KETONE (VP 2.14 MM HG @ 20C)
+CAS:110-43-0
+RTECS #:EC6475000
+Fraction by Wt: 10-20%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:100 PPM
+ACGIH TLV:50 PPM
+
+Ingred Name:1-METHOXY 2-PROPANOL ACETATE (VP 3.8 MM HG @ 20C)
+CAS:108-65-6
+RTECS #:AI8295000
+Fraction by Wt: < 10%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:NONE ESTABLISHED
+ACGIH TLV:NONE ESTABLISHED
+
+Ingred Name:ETHYL 3-ETHOXYPROPIONATE (VP 1.11 MM HG @ 20C)
+CAS:763-69-9
+RTECS #:UF3325000
+Fraction by Wt: < 10%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:BENZENE  (SARA III)
+CAS:71-43-2
+RTECS #:CY1400000
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:1PPM/5STEL;1910.1028
+ACGIH TLV:10 PPM; A2; 9192
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:IRRITATION TO RESPIRATORY TRACT
+    CAUSING HEADACHE, DIZZINESS, DROWSINESS FROM INHALATION. POSSIBLE
+    DAMAGE TO LIVER & TO CENTRAL NERVOUS SYSTEM.  IRRITANT TO EYES AND
+    SKIN.
+Effects of Overexposure:IRRITATION OF RESPIRATORY TRACT, HEADACHE,
+    DIZZINESS OR DROWSINESS.
+Medical Cond Aggravated by Exposure:POSSIBLE DAMAGE TO RESPIRATORY
+    TRACT, LIVER, AND CENTRAL NERVOUS SYSTEM.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE FROM EXPOSURE. EYE CONTACT: FLUSH
+    IMMEDIATELY WITH LARGE AMOUNTS OF WATER FOR 15 MINUTES.  SKIN
+    CONTACT: REMOVE CONTAMINATED CLOTHING & WASH SKIN WITH SOAP &
+    WATER.  INGESTION: DRIN K WATER. GET MEDICAL ATTENTION IMMEDIATELY
+    FOR ANY OF THESE CONDITIONS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:34F/93C
+Lower Limits:1.05
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION, AVOID
+    BREATHING VAPORS, VENTILATE AREA, AND REMOVE WITH INERT ABSORBANT
+    AND NON-SPARKING TOOLS.  DISPOSE OF IN ACCORDANCE WITH LOCAL,
+    STATE, AND FEDERAL REGULATIONS.
+
+======================	Handling and Storage  ======================
+
+Other Precautions:CONTAINERS SHOULD BE GROUNDED WHEN POURING. AVOID
+    FREE FALL OF LIQUID IN EXCESS OF FEW INCHES.  MAKE SURE DRUM IS
+    EMPTY BEFORE WELDING OR BRAZING. DRUM SHOULD BE INDUSTRIALLY
+    CLEANED BEFORE REUSE. DO  NOT WELD/BRAZE W/OUT VENTL PROTECTION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED AIR LINE TYPE
+    RESPIRATORS OR HOODS FOR ENCLOSED & CONFINED AREAS. USE AIR
+    PURIFYING RESPIRATORS FOR OTHER AREAS.
+Ventilation:DILUTION OR LOCAL EXHAUST VENTILATION RECOMMENDED TO KEEP
+    TWA AND LEL BELOW ACCEPTABLE LIMITS & REMOVE DECOMP PRODUCTS.
+Protective Gloves:USE CHEMICAL RESISTANT GLOVES.
+Eye Protection:SAFETY EYEWARE PROTECTION FR SPLASH LIQ.
+Work Hygienic Practices:DO NOT TAKE INTERNALLY.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:172 TO 337F
+Vapor Density:> THAN AIR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Hazardous Decomposition Products:FUMES MAY CONTAIN CARBON MONOXIDE &
+    OXIDES OF NITROGEN. MAY PRODUCE HAZ FUMES WHEN HEATED TO
+    DECOMPOSTION AS IN WELDING.
+Conditions to Avoid Polymerization:AVOID SOURCES OF IGNITION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF I/A/W LOCAL, STATE, AND FEDERAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,117 @@
+=====================  Product Identification  =====================
+
+Product ID:P-NITROBENZONITRILE, 207402
+MSDS Date:10/01/1990
+FSC:6810
+NIIN:00N020912
+MSDS Number: BLMFJ
+=== Responsible Party ===
+Company Name:ICN BIOMEDICALS INC
+Box:28050
+City:CLEVELAND
+State:OH
+ZIP:44128-0250
+Country:US
+Info Phone Num:216-831-3000 800-321-6842
+Emergency Phone Num:216-831-3000 800-321-6842
+CAGE:IO030
+=== Contractor Identification ===
+Company Name:ICN BIOCHEMICALS
+Address:4911 COMMERCE PARKWAY
+City:CLEVELAND
+State:OH
+ZIP:44128
+Country:US
+Phone:216-831-3000/800-424-9300(CHEMTREC)
+CAGE:30060
+Company Name:ICN BIOMEDICALS INC
+Box:28050
+City:CLEVELAND
+State:OH
+ZIP:44128-0250
+Country:US
+Phone:216-831-3000
+CAGE:IO030
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BENZOIC ACID, P-NITRO-; (P-NITROBENZONITRILE)
+CAS:62-23-7
+RTECS #:DH5075000
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:HIGH TOXICITY INTRAPERITONEAL.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:NONE SPECIFIED BY MANUFACTURER.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: REMOVE CONTAMINATED CLOTHING. RINSE LIBERALLY WITH SOAP
+    AND WATER FOR A CONSIDERABLE PERIOD. INGEST: RINSE THE MOUTH
+    SEVERAL TIMES WITH WATER, PATIENT MAY NOT SWALLOW THE WATER. ALWAYS
+    CALL A DO CTOR. EYES: RINSE LIBERALLY WITH WATER FOR AT LEAST 15
+    MIN. SEND OR BRING THE PATIENT TO A DOCTOR OR HOSPITAL. INHAL: TAKE
+    THE PATIENT INTO THE FRESH AIR & ALLLOW TO REST. ALWAYS CALL A
+    DOCTOR.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:CO2, DRY CHEMICAL OR FOAM.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP INTO SUITABLE CONTAINER FOR DISPOSAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:ALWAYS WEAR GLOVES, MASK, GOGGLES AND
+    USE A HOOD. ROOM TEMPERATURE.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED VAPOR MASK.
+Ventilation:LOCAL EXHAUST SYSTEM DURING NORMAL USE.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Melt/Freeze Pt:M.P/F.P Text:468F,242C
+Spec Gravity:1.58
+Solubility in Water:SOLUBLE
+Appearance and Odor:SOLID
+
+=================  Stability and Reactivity Data  =================
+
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:TOXIC FUMES OF NOX.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE OR LANDFILL AS COMPLIES WITH FEDERAL,
+    STATE AND LOCAL LAWS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

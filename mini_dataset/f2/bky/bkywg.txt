@@ -1,0 +1,102 @@
+=====================  Product Identification  =====================
+
+Product ID:TIN OXIDE
+MSDS Date:05/14/1990
+FSC:6520
+NIIN:01-234-8958
+MSDS Number: BKYWG
+=== Responsible Party ===
+Company Name:MOYCO INDUSTRIES
+Address:SE COR NOR 21ST & CLEARFIELD ST
+City:PHILADELPHIA
+State:PA
+ZIP:19132
+Info Phone Num:(215) 229-0470
+Emergency Phone Num:(215) 229-0470
+CAGE:41946
+=== Contractor Identification ===
+Company Name:MOYCO INDUSTRIES INC
+Address:2054 W CLEARFIELD ST
+Box:City:PHILADELPHIA
+State:PA
+ZIP:19132-1517
+Country:US
+Phone:215-229-0470; 800-523-3676
+CAGE:41946
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TIN
+CAS:7440-31-5
+RTECS #:XP7320000
+Fraction by Wt: 100%
+OSHA PEL:2 MG/M3
+ACGIH TLV:2 MG/M3; 9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES/SKIN/INGESTION: IRRITATION.
+    INHALATION: STANNOSIS A FORM OF PNEUMOCONIOSIS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES/SKIN/INGESTION: IRRITATION. INHALATION;
+    STANNOSES A FORM OF PNEUMOCONIOSIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER FOR AT LEAST 15 MIN. SKIN: FLUSH W/SOAP &
+    WATER. INHALATION: REMOVE TO FRESH AIR. INGESTION: OBTAIN MEDICAL
+    ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON-FLAMMABLE
+Extinguishing Media:DOES NOT BURN
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:COLLECT BY SWEEPING WET OR W/THE AID OF
+    SWEEPING COMPOUND. RESPIRATORY PROTECTION SHOULD BE WORN.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:MINIMIZE SKIN CONTACT WHEN WORKING.
+    AVOID PROCEDURES THAT WOULD GENERATE EXCESS DUST. USE
+    POLYETHYLENE-LINED FIBERBOARD DRUMS W/PLASTIC LIDS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH APPROVED DUST MASK
+Ventilation:GENERAL
+Protective Gloves:RECOMMENDED
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:WORK CLOTHES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:SUBLIMES
+Spec Gravity:6.9
+Solubility in Water:INSOLUBLE
+Appearance and Odor:SOLID, WHITE POWDER W/NO ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+SUBSTANCES THAT MIGHT LEAD TO THE FORMATION OF VOLATILE HYDRIDES OR
+    HALIDES OF ORGANIC TIN COMPOUNDS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

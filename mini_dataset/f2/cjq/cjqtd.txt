@@ -1,0 +1,138 @@
+=====================  Product Identification  =====================
+
+Product ID:KEEPER II/LITHIUM/THIONYL CHLORIDE BATTERY
+MSDS Date:10/01/1992
+FSC:6135
+NIIN:01-438-4320
+Status Code:A
+MSDS Number: CJQTD
+=== Responsible Party ===
+Company Name:EAGLE-PICHER INDUSTRIES INC
+Address:N BETHEL RD
+Box:130
+City:SENECA
+State:MO
+ZIP:64865
+Country:US
+Info Phone Num:417-776-2256
+Emergency Phone Num:417-776-2256
+Preparer's Name:U/K
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:0B3X4
+=== Contractor Identification ===
+Company Name:EAGLE-PICHER INDUSTRIES INC
+Address:14212 BETHEL ROAD
+Box:130
+City:SENECA
+State:MO
+ZIP:64865
+Country:US
+Phone:417-776-2256
+CAGE:0B3X4
+Company Name:LITTON SYSTEMS INC,GUIDANCE AND CONTROL SYSTEMS DIV
+Address:19601 NORDHOFF ST
+Box:City:NORTHRIDGE
+State:CA
+ZIP:91324-2422
+Country:US
+Phone:818-886-2211
+CAGE:17863
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LITHIUM  (3.67 GRAMS)
+CAS:7439-93-2
+RTECS #:OJ5540000
+
+Ingred Name:THIONYL CHLORIDE (SOCL2)
+CAS:7719-09-7
+RTECS #:XM5150000
+ACGIH STEL:C4.9 MG/M3;C1 PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Health Hazards Acute and Chronic:BATTERY IS SEALED AND THERE IS NO
+    DANGER OF OVEREXPOSURE UNDER NORMAL USE. IF BATTERY IS BROKEN, THE
+    CONTENTS ARE CORROSIVE: THIONYL CHLORIDE (SOCL2) WILL CAUSE
+    IRRITATION OF EYES, SKIN AND RESPIRATOR Y SYSTEM. PROLONGED
+    INHALATION OF FUMES MAY CUASE LUNG DAMAGE.
+Effects of Overexposure:BURNS AND IRRITATION OF EYES & SKIN. UPPER
+    RESPIRATORY IRRITANTION, COUGHING, DIFFICULTY IN BREATHING.
+Medical Cond Aggravated by Exposure:LUNG DISEASES.
+
+=======================  First Aid Measures  =======================
+
+First Aid:IF THIONYL CHLORIDE IS RELEASED (FROM RUPTURED BATTERIES),
+    EVACUATE AREA AND PROVIDE VENTILATION, WASH EYES AND SKIN WITH WATR
+    FOR 15 MINUTES. SEEK MEDICAL HELP.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:DO NOT USE WATER. USE DRY CHEMICAL, SODA ASH, SAND.
+Fire Fighting Procedures:USE SELF CONTAINED BREATHING APPARATUS AND
+    FULL PROTECTIVE EQUIPMENT.
+Unusual Fire/Explosion Hazard:SHORT CIRCUITING OF BATTERIES GENERATES
+    ELEVATED TEMPERATURES, WHICH MAY RESLUT IN FIRES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:AVOID CONTACT IF VENT RUPTURE OR EXPLOSION HAS
+    OCCURED. OTHERWISE PROTECT FROM HEAT, SHORT CIRUIT OF TERMINALS.
+    ACCUMULATION OF SHORTED BATTERIES MAY CAUSE DANGEROUS ELEVATED
+    TEMPERATURES. WEAR GLOVES  AND SAVE RUPTURED BATTEIES IN PLASTIC
+    BAGS FOR DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A DRY AREA. DO NOT SHORT
+    CIRCUIT, HEAT ABOVE 125C(257F), RECHARGE, DISASSEMBLE, INCINERATE
+    OR EXPOSE TO WATER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WHEN HANDLING RUPTURED BATTERIES IS ENCLOSED
+    AREAS WEAR SELF-CONTAINED BREATHING APPARATUS.
+Ventilation:GENERAL
+Protective Gloves:NEOPRENE FOR HANDLING RUPTURED BATTERIES.
+Eye Protection:RECOMMENDED.
+Supplemental Safety and Health
+THERE IS NO DANGER OF OVEREXPOSURE WHEN HANDLING OR USING BATTERIES
+    UNDER NORMAL CONDITIONS OF USE. TAKE PRECAUTIONS IF BATTERIES ARE
+    BORKEN/RUPTURED. DO NOT RECHARGE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:Z6
+Appearance and Odor:SEALED SINGLE CELL BATTERIES, 3.6 VOLT OPEN CIRCUIT
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+WATER, HUMID AIR, ALKALIES,AND TEMPERATURE ABOVE 140C(284F).
+Stability Condition to Avoid:VENT, RUPTURE OR EXPLOSION WILL
+    RELEASE-THIONYL CHLORIDE(SOCL2).
+Hazardous Decomposition Products:SOCL2, IN PRESENCE OF WATER OR HUMID
+    AIR HYDROCHLORIC ACID & SULFUR OXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF WASTE ACCORDING TO FEDERAL EPA, STATE
+    AND LOCAL REGUALTIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:PER MSDS PSN: LITHIUM BATTERIES,9,UN3090,II.
+    THESE ARE SINGLE CELL BATTERIES CONTAINING 3.65 GRAMS OF LITHIUM
+    PER CELL/BATTERY.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

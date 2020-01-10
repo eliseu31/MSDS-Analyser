@@ -1,0 +1,143 @@
+=====================  Product Identification  =====================
+
+Product ID:N-ACETYL-L-CYSTEINE SIGMA GRADE, A7250
+MSDS Date:01/01/1999
+FSC:6810
+NIIN:01-373-3540
+Status Code:A
+MSDS Number: CJQPM
+=== Responsible Party ===
+Company Name:SIGMA CHEMICAL CO
+Box:14508
+City:ST LOUIS
+State:MO
+ZIP:63178
+Country:US
+Info Phone Num:314-771-5765
+Emergency Phone Num:314-771-5765
+CAGE:21076
+=== Contractor Identification ===
+Company Name:SIGMA CHEMICAL COMPANY
+Address:3050 SPRUCE ST
+Box:14508
+City:ST LOUIS
+State:MO
+ZIP:63178
+Country:US
+Phone:314-771-5765
+CAGE:21076
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:N-ACETYL-L-CYSTEINE. LD50:(ORAL,RAT) 5050 MG/KG.
+CAS:616-91-1
+RTECS #:HA1660000
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE INGREDIENTS & TOX INFORMATION.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: MAY BE HARMFUL BY INHALATION,
+    INGESTION OR SKIN ABSORPTION. EXPOSURE CAN CAUSE BRONCHOSPASM,
+    NAUSEA, VOMITING, STOMATITIS, AND NASAL DISCHARGE. TARGET ORGAN
+    DATA: GASTROINTESTINAL (OTHER CHANGE S).
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION: WASH OUT MOUTH WITH WATER PROVIDED PERSON IS
+    CONSCIOUS. CALL MD. SKIN: FLUSH WITH COPIOUS AMOUNTS OF WATER FOR
+    AT LEAST 15 MINUTES. REMOVE CONTAMINATED CLOTHING AND SHOES. CALL
+    MD. INHALATI ON: REMOVE TO FRESH AIR. IF BREATHING BECOMES
+    DIFFICULT, CALL MD. EYES: FLUSH WITH COPIOUS AMOUNTS OF WATER FOR
+    AT LEAST 15 MINUTES. ASSURE ADEQUATE FLUSHING BY SEPARATING EYELIDS
+    WITH FINGERS. CALL M D.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER SPRAY, CARBON DIOXIDE, DRY CHEMICAL POWDER OR
+    APPROPRIATE FOAM.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:EMITS TOXIC FUMES UNDER FIRE CONDITIONS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE EQUIPMENT. SWEEP UP, PLACE IN
+    A BAG AND HOLD FOR WASTE DISPOSAL. AVOID RAISING DUST. VENTILATE
+    AREA AND WASH SPILL SITE AFTER MATERIAL PICKUP IS COMPLETE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:CAUTION: AVOID CONTACT AND INHALATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR APPROPRIATE NIOSH APPROVED RESPIRATOR.
+Ventilation:MECHANICAL EXHAUST REQUIRED.
+Protective Gloves:CHEMICAL-RESISTANT GLOVES.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:ANSI APPROVED EYE WASH & DELUGE SHOWER .
+    WEAR OTHER PROTECTIVE CLOTHING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:>109.C, 228.2F
+M.P/F.P Text:109-111C
+Appearance and Odor:WHITE CRYSTALS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+HEAVY METALS, HEAVY METAL SALTS, RUBBER, OXYGEN, OXIDIZING AGENTS.
+Hazardous Decomposition Products:TOXIC FUMES OF: CARBON MONOXIDE,
+    CARBON DIOXIDE, NITROGEN OXIDES, SULFUR OXIDES.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:TOX DATA: LD50:(ORAL,RAT) 5050 MG/KG - TXAPA9
+    18,185,1971. LD50:(IVN,RAT) 1140 MG/KG - EJRDD2 61 (SUPPL
+    111),45,1980. LD50:(ORAL,MUS) 4400 MG/KG - EPXXDW #0192191.
+    LD50:(IPR,MUS) 400 MG/KG - NTIS** AD 691-490. LD50:(IVN,MUS) 3800
+    MG/KG - JMCMAR 10,1172,1967. LD50:(ORAL,DOG) >1 GM/KG - PBPSDY
+    2,479,1979. LD50:(IPR,DOG) 700 MG/KG - PBPSDY 2,479,1979.
+    LD50:(IVN,DOG) 700 MG/KG - PBPSDY 2,479,1979. ONLY	SELECTED
+    REGISTRY OF TOXIC EFFECTS OF CHEMICAL SUBSTANCES (RTECS) DATA IS
+    PRESENTED HERE. SEE ACTUAL ENTRY IN RTECS FOR COMPLETE INFORMATION.
+
+=====================  Ecological Information  =====================
+
+Ecological:DATA NOT YET AVAILABLE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISSOLVE OR MIX THE MATERIAL WITH A COMBUSTIBLE
+    SOLVENT AND BURN IN A CHEMICAL INCINERATOR EQUIPPED WITH AN
+    AFTERBURNER AND SCRUBBER. OBSERVE ALL FEDERAL, STATE AND LOCAL
+    ENVIRONMENTAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:CONTACT SIGMA CHEMICAL COMPANY FOR TRANSPORTATION
+    INFORMATION.
+
+=====================  Regulatory Information  =====================
+
+Federal Regulatory Information:REVIEWS, STANDARDS AND REGULATIONS:
+    OEL=MAK. NOHS 1974: HZD 81688; NIS 1; TNF 616; NOS 6; TNE 4525.
+    NOES 1983: HZD 81688; NIS 1; TNF 1677; NOS 14; TNE 31203; TFE
+    21201. EPA TSCA SECTION 8(B) CHEMICAL  INVENTORY.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

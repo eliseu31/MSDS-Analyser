@@ -1,0 +1,154 @@
+=====================  Product Identification  =====================
+
+Product ID:FEEDOL 9
+MSDS Date:11/27/1990
+FSC:3680
+NIIN:00N022245
+MSDS Number: BLMPW
+=== Responsible Party ===
+Company Name:FOSECO INC
+Address:20200 SHELDON RD
+City:BROOK PARK
+State:OH
+ZIP:44142
+Country:US
+Info Phone Num:216-826-4548
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+Preparer's Name:TREVOR HARDY
+CAGE:2W462
+=== Contractor Identification ===
+Company Name:FOSECO, INC.
+Address:20200 SHELDON ROAD
+Box:City:CLEVELAND
+State:OH
+ZIP:44142
+Country:US
+Phone:440-826-4548
+CAGE:2W462
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM (I) NITRATE (1:1)
+CAS:7631-99-4
+RTECS #:WC5600000
+Fraction by Wt: <15%
+
+Ingred Name:SODIUM FLUOALUMINATE; (SODIUM ALUMINUM FLUORIDE). LD50:
+    (ORAL,RAT) 200 MG/KG.
+CAS:15096-52-3
+RTECS #:WA9625000
+Fraction by Wt: <5%
+OSHA PEL:2.5 MG/M3 (F)
+ACGIH TLV:2.5 MG/M3 (F)
+
+Ingred Name:SILICA, CRYSTALLINE - QUARTZ
+CAS:14808-60-7
+RTECS #:VV7330000
+Fraction by Wt: <40%
+OSHA PEL:SEE TABLE Z3
+ACGIH TLV:0.1 MG/M3 RDUST;9293
+
+Ingred Name:SILICATE (2-), HEXAFLURO-, DISODIUM; (SODIUM
+    SILICOFLUORIDE). LD50: (ORAL,RAT) 125 MG/KG.
+CAS:16893-85-9
+RTECS #:VV8410000
+Fraction by Wt: <5%
+
+Ingred Name:ALUMINUM  (SARA III)
+CAS:7429-90-5
+RTECS #:BD0330000
+Fraction by Wt: <30%
+OSHA PEL:15MG/M3 DUST/5 FUME
+ACGIH TLV:10MG/M3 DUST; 9192
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE INGREDIENTS.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: FLUORIDES CAN CAUSE SKIN & EYE
+    BURNS & IRRITATION OF MUCOUS MEMBRANES. EXCESSIVE INHALATION MAY
+    CAUSE NOSE BLEEDS. CHRONIC: FLUORIDES CAN CAUSE LOSS OF APPETITE,
+    VOMITING, INCREASE IN BONE DENS ITY. NIOSH LISTS EYES, RESP SYS,
+    CNS, SKELETON, KIDNEYS AS TARGET ORGANS FOR FLUORIDES. INHAL OF
+    (SEE EFTS OF OVEREXP)
+Explanation of Carcinogenicity:SILICA CRYSTALLINE: GROUP 2A (IARC).
+Effects of Overexposure:HLTH HAZ: CRYSTALLINE SILICA CAN CAUSE
+    SILICOSIS. SIGNS AND SYMPTOMS OF OVEREXPOSURE MAY INCLUDE EYE,
+    SKIN, RESPIRATORY IRRITATION.
+Medical Cond Aggravated by Exposure:PRE-EXISTING SKIN AND RESPIRATORY
+    AILMENTS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: RMEOVE PERSON TO FRESH AIR; CALL PHYSICIAN. SKIN: WASH
+    WITH LARGE AMOUNTS OF WATER. EYES: FLUSH WITH WATER FOR AT LEAST 15
+    MINUTES; PERSISTENT PAIN REFER TO OPHTHALMOLOGIST. INGEST: DRINK
+    MILK.  DO NOT INDUCE VOMITING. REFER TO PHYSICIAN IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:DO NOT USE WATER. ISOLATE FIRE WITH SAND OR OTHER
+    INERT MATERIAL.
+Fire Fighting Procedures:H2O MAY BE USED TO CONT FIRE, BUT DIRECT
+    IMPINGEMENT OF STREAM ON MASS OF EXOTHERMIC SHD BE AVOIDED. REMOVE
+    BURNING MATL FROM BUILDING IF POS. USE (SUP DAT)
+Unusual Fire/Explosion Hazard:AVOID ATMOSPHERIC DUST CLOUDS WHEN
+    HANDLING, MIXING, ETC. ESPECIALLY IN PRESENCE OF SPARKS, OPEN
+    FLAMES, HEATED APPLIANCES, ETC.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF OPEN FLAMES. SWEEP INTO
+    CONTAINER USING NON SPARKING TOOLS. DO NOT USE VACUUM CLEANER OR
+    OTHER EQUIPMENT WHICH MAY SPARK.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:PRECAUTIONS SHOULD BE TAKEN TO STORE
+    PRODUCT BELOW 150 F. WHEN IGNITED GENERATES HIGH TEMPERATURES.
+Other Precautions:CONTACT WITH CAUSTIC, ACID OR ACID FUME WILL GENERATE
+    TOXIC AND/OR FLAMMABLE FUMES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF PEL/TLV IS EXCEEDED USE NIOSH/MSHA APPROVED
+    RESPIRATOR FOR INORGANIC DUST.
+Ventilation:RECOMMENDED SUFFICIENT TO MAINTAIN BELOW PEL/TLV.
+Protective Gloves:INSULATING GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+FIRE FIGHT PROC: NIOSH/MSHA APPROVED SCBA AND FULL PROTECTIVE EQUIPMENT
+    .
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T4
+Solubility in Water:MODERATE
+Appearance and Odor:GRAY POWDER, NO ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OPEN FLAMES, CAUSTIC, ACID OR ACID FUMES.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:FLUORIDES OXIDES OF NITROGEN AND
+    CARBON.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PRODUCT CONTAINS FLUORIDES. DISPOSE OF RESIDUE
+    IN ACCORDANCE WITH LOCAL AND OTHER APPLICABLE REGULATIONS. DISPOSE
+    OF IN ACCORDANCE WITH FEDERAL, STATE, AND LOCAL REGULATIONS .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

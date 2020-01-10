@@ -1,0 +1,188 @@
+=====================  Product Identification  =====================
+
+Product ID:03W040CAT POLYURETHANE CATALYST
+MSDS Date:06/28/1990
+FSC:8010
+NIIN:00-181-8281
+Kit Part:Y
+MSDS Number: BHWYW
+=== Responsible Party ===
+Company Name:DEFT INC CHEMICAL COATING DIV
+Address:17451 VON KARMAN AVE
+City:IRVINE
+State:CA
+ZIP:92714-6205
+Country:US
+Info Phone Num:714-474-0400
+Emergency Phone Num:714-474-0400
+CAGE:33461
+=== Contractor Identification ===
+Company Name:DEFT,  INC.
+Address:17451 VON KARMAN AVE
+City:IRVINE
+State:CA
+ZIP:92614
+Country:US
+Phone:949-474-0400
+CAGE:33461
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HOMOPOLYMER OF HEXAMETHYLENE DIISOCYANATE (HDI)
+CAS:28182-81-2
+RTECS #:NQ9170000
+Fraction by Wt: 30%
+
+Ingred Name:N-BUTYL ACETATE  (SARA III)
+CAS:123-86-4
+RTECS #:AF7350000
+Fraction by Wt: 5%
+OSHA PEL:150 PPM/200 STEL
+ACGIH TLV:150 PPM/200STEL;9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS)	(SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 5%
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ETHYL-3-ETHOXYPROPIONATE
+CAS:763-69-9
+RTECS #:UF3325000
+Fraction by Wt: 10%
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: 45%
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:1,6-DIISOCYANATOHEXANE  (HEXAMETHYLENE DIISOCYANATE)
+CAS:822-06-0
+RTECS #:MO1740000
+Fraction by Wt: 0.7-1.6%
+ACGIH TLV:0.005 PPM; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:LIQUID IS SEVERELY IRRITATING TO BODY
+    TISSUES.HEXAMETHYLENE DISOCYANATE MAY SENSITIZE SEVERE ALLERGIC
+    REACTIONS SUCH AS CHEMICAL ASTHMA. THERE IS NO PEL FOR HDI;USE TLV.
+    SOLVENTS ARE ABSORBED BY THE S KIN AND WITH CHRONIC OVEREXPOSURE
+    MAY CAUSE PERMANENT CENTRAL NERVOUS SYSTEM DAMAGE KNOWN AS PAINTERS
+    SYNDROME.
+Explanation of Carcinogenicity:THE PRODUCT CONTAINS NO INGREDIENT THAT
+    IS LISTED BY IARC, NTP OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:EYE: SEVERE IRRITATION. SKIN:IRRITATION,
+    DERMATITIS, SENSITIZED DERMATITIS. INHALED:RESPIRATORY IRRITATION,
+    FLU-LIKE SYMPTOMS, ASTHMA, SENSITIZING, NARCOSIS, LOSS OF APPETITE.
+    INGESTED:G/I IRRITATION, HEADACHE,NAUSEA,VOMITING,DIARRHEA.
+Medical Cond Aggravated by Exposure:SINCE HDI SENSITIZES DERMAL AND
+    RESPIRATORY ALLERGYS, PEOPLE WITH ISOCYANATE SENSITIZATION, OR
+    DERMATITIS, ASTHMA, AND OTHER SIMILAR DISORDERS SUCH AS EMPHYSEMA,
+    ECZEMA, ETC. MAY BE AT INCREASED RISK.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH W/WATER 15 MIN HOLD LIDS OPEN. SEE A DOCTOR.
+    SKIN:REMOVE CONTAMINATED CLOTHING AND LAUNDER BEFORE REUSE. WASH
+    WITH SOAP & WATER. INHALED:REMOVE TO FRESH AIR. RESTORE BREATHING
+    IF NECESSARY.  GET MEDICAL CARE AS ASTHMATIC SYMPTOMS MAY DEVELOP
+    EITHER IMMEDIATELY OR BE DELAYED SEVERAL HOURS. INGESTED:DO NOT
+    INDUCE VOMITING. GIVE MILK OR WATER TO DRINK IF CONSCIOUS. GET
+    IMMEDIATE MEDICAL CARE
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:23.0F,-5.0C
+Lower Limits:1%
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE IGNITION SOURCES.  VENTILATE AREA.
+    ALWAYS USE APPROPRIATE PERSONAL PROTECTIVE EQUIPMENT. COVER SPILL
+    WITH SAWDUST,VERMICULITE,ETC. COLLECT MATERIAL USING NON-SPARKING
+    TOOLS.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE TIGHTLY CLOSED IN A COOL DRY
+    AREA. KEEP AWAY FROM IGNITION SOURCES SUCH AS SPARKS,OPEN FLAME,
+    ETC.
+Other Precautions:'EMPTY' CONTAINERS MAY CONTAIN RESIDUE OR VAPOR.
+    TREAT THEM WITH THE RESPECT DUE FULL ONES. DO NOT CUT,WELD,ETC. ON
+    THEM.  DO NOT USE UNTIL MFR'S INSTRUCTIONS HAVE BEEN READ.	FOLLOW
+    THEM!
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE POSITIVE PRESSURE AIR SUPPLIED RESPIRATOR
+    ANY TIME THE EXPOSURE IS ABOVE THE TLV, AND AT ALL TIMES DURING
+    SPRAYING OPERATIONS. OTHER RESPIRATORS MAY BE USED FOR SHORT (1
+    HOUR) EXPOSURES ONLY!!
+Ventilation:GENERAL VENTILATION SUPPLEMENTED WITH LOCAL EXHAUST, AS
+    NEEDED TO MAINTAIN EXPOSURES BELOW PEL/TLV.
+Protective Gloves:RUBBER,VINYL OR OTHER IMPERVIOUS
+Eye Protection:GOGGLES OR FACE SHIELD  **NO CONTACTS!!*
+Other Protective Equipment:EYE WASH STATION & SAFETY SHOWER. COVER AS
+    MUCH SKIN AS POSSIBLE DURING SPRAYING OPERATIONS.
+Work Hygienic Practices:USE STRICT CHEMICAL HYGIENE PRACTICES.	AVOID
+    ALL CONTACT  POSSIBLE. WASH THOROUGHLY AFTER USING.
+Supplemental Safety and Health
+INHALATION AND SKIN CONTACT ARE MOST DAMAGING EXPOSURES.  PART B OF A
+    TWO PART KIT.  SEE P/N IND C THIS NSN FOR PART A.  NEW FORMULATION
+    EFFECTIVE JUNE90.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:=79.C, 174.2F
+Vapor Density:>1
+Spec Gravity:0.91
+Evaporation Rate & Reference:3.7 (BUTYL ACETATE = 1)
+Appearance and Odor:AMBER LIQUID, SOLVENT ODOR
+Percent Volatiles by Volume:62.7
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+WATER,AMINES,STRONG BASES,ALCOHOLS,METAL COMPOUNDS AND SURFACE ACTIVE
+    MATERIALS
+Stability Condition to Avoid:HIGH TEMPERATURES, MOISTURE
+Hazardous Decomposition Products:CARBON DIOXIDE, CARBON MONOXIDE,
+    TRACES ON HYDROGEN CYANIDE, OXIDES OF NITROGEN, HEXAMETHYLENE
+    DIISOCYANATE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W FEDERAL,STATE,LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

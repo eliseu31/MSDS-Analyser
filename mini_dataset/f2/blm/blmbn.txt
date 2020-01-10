@@ -1,0 +1,145 @@
+=====================  Product Identification  =====================
+
+Product ID:GUTTER AND LAP SEAL
+MSDS Date:02/01/1988
+FSC:8030
+NIIN:00N020151
+MSDS Number: BLMBN
+=== Responsible Party ===
+Company Name:GEOCEL CORPORATION
+Address:53280 MARINA DRIVE
+Box:398
+City:ELKHART
+State:IN
+ZIP:46515
+Country:US
+Info Phone Num:219-264-0645
+Emergency Phone Num:800-348-7615/219-264-2514
+CAGE:FO435
+=== Contractor Identification ===
+Company Name:GEOCEL BUILDING PRODUCTS
+Address:53280 MARINA DR
+Box:City:ELKHART
+State:IN
+ZIP:46515-5000
+Country:US
+Phone:219-264-0645/219-296-2861
+CAGE:66939
+Company Name:GEOCEL CORPORATION
+Address:53280 MARINA DR.
+Box:398
+City:ELKHART
+State:IN
+ZIP:46515
+Phone:(219) 264-0645
+CAGE:FO435
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:AROMATIC HYDROCARBONS
+CAS:70995-17-8
+Fraction by Wt: 20-25%
+ACGIH TLV:100 PPM (MFR)
+
+Ingred Name:PERCHLOROETHYLENE (TETRACHLOROETHYLENE)  (SARA III)
+CAS:127-18-4
+RTECS #:KX3850000
+Fraction by Wt: 20-25%
+OSHA PEL:100 PPM
+ACGIH TLV:25PPM/100,A3 STEL;94
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:ACETIC ACID, 2-METHOXY-1-METHYLETHYL ESTER; (PROPYLENE
+    GLYCOL METHYL ETHER ACETATE); (PMGE ACETATE)
+CAS:108-65-6
+RTECS #:AI8295000
+Fraction by Wt: 2.0%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: EYE AND SKIN IRRITATION.
+    CHRONIC: ADEQUATE VENTILATION SHOULD MAINTAIN EXPOSURE BELOW
+    ESTABLISHED TLV. WHEN MATERIAL IS UNCURED, OVEREXPOSURE MAY CAUSE
+    NAUSEA, HEADACHE AND FATIGUE. CURED MATER IAL IS NOT HEALTH HAZARD.
+Explanation of Carcinogenicity:TETRACHLOROETHYLENE: IARC GRP 2B, NTP
+    GRP 2.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE KNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:TREATMENT OF OVEREXPOSURE SHOULD BE DIRECTED AT THE CONTROL
+    OF SYMPTOMS AND THE CLINICAL CONDITION. NO SPECIFIC ANTIDOTE.
+    INHAL: REMOVE TO FRESH AIR, ADMINISTER OXYGEN IF NECESSARY. EYES:
+    IRRIGATE WIT H WATER FOR AT LEAST 15 MINUTES; CONTACT MD. SKIN:
+    WASH WITH SOAP AND WATER. INGEST: DO NOT INDUCE VOMITING; CONTACT
+    MD IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:110F,43C
+Extinguishing Media:DRY CHEMICAL, CARBON DIOXIDE OR WATER FOG.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT
+Unusual Fire/Explosion Hazard:DO NOT MIX WITH STRONG OXIDANTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ALLOW MATERIAL TO CURE; DISPOSE IN LANDFILL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID STORAGE AT EXTREMES IN
+    TEMPERATURES.
+Other Precautions:DO NOT INCINERATE. KEEP OUT OF REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT REQUIRED WITH ADEQUATE VENTILATION.
+    NIOSH/MSHA APPROVED RESPIRATOR FOR EXPOSURE OF CONCERN 
+Ventilation:GENERAL FAN/LOCAL RECOMMENDED.
+Protective Gloves:IMPERVIOUS GLOVES 
+Eye Protection:CHEMICAL WORKERS GOGGLES 
+Other Protective Equipment:NOT REQUIRED.
+Work Hygienic Practices:NORMAL HYGIENIC PRACTICES.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:250F,121C
+Vapor Pres:14 MM
+Vapor Density:HVR/AIR
+Spec Gravity:1.2
+Solubility in Water:INSOLUBLE
+Appearance and Odor:VISCOUS LIQUID-HYDROCARBON ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:NONE UNDER NORMAL CONDITIONS; CARBON
+    DIOXIDE, HCL UNDER THERMAL CONDITIONS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:LANDFILL AS PRESCRIBED BY STATE AND LOCAL
+    AUTHORITIES. DISPOSE OF I/A/W FEDERAL, STATE, AND LOCAL REGULATIONS
+    .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

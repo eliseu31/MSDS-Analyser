@@ -1,0 +1,129 @@
+=====================  Product Identification  =====================
+
+Product ID:BURKEPOXY PRIMER PART A
+MSDS Date:10/03/1989
+FSC:8040
+NIIN:00N021385
+Kit Part:Y
+MSDS Number: BLMKK
+=== Responsible Party ===
+Company Name:BURKE CO
+Address:2655 CAMPUS DR
+City:SAN MATEO
+State:CA
+ZIP:94403
+Country:US
+Info Phone Num:415-349-7600
+Emergency Phone Num:213-834-3401
+CAGE:0KM49
+=== Contractor Identification ===
+Company Name:BURKE CO
+Address:2655 CAMPUS DR
+Box:City:SAN MATEO
+State:CA
+ZIP:94403
+Country:US
+Phone:415-349-7600
+CAGE:0KM49
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:EPOXY RESIN
+CAS:25068-38-6
+RTECS #:KC2100000
+
+Ingred Name:EPICHLOROHYDRIN  (SARA III)
+CAS:106-89-8
+RTECS #:TX4900000
+OSHA PEL:S, 5 PPM
+ACGIH TLV:S, 2 PPM; 9293
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:N-BUTYL GLYCIDYL ETHER (BGE)
+CAS:2426-08-6
+RTECS #:TX4200000
+OSHA PEL:50 PPM
+ACGIH TLV:25 PPM; 9293
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:(ACUTE) SKIN IRRITATION. (CHRONIC)
+    SKIN IRRITATION.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:IRRITATION, SENSITIZATION AND DERMATITIS.
+Medical Cond Aggravated by Exposure:SKIN IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: REMOVE TO FRESH AIR AREA. EYES: FLUSH WITH PLENTY OF
+    WATER FOR AT LEAST 15 MINUTES. SKIN: WASH WITH SOAP AND WATER. DO
+    NOT USE SOLVENT. INGEST: GIVE A LOT OF WATER, CONSULT MD.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:>200F,>93C
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE KNOWN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:RECOVER FREE LIQUID OR PASTE, USING ABSORBENT
+    IF NECESSARY.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTACT WITH EYES, SKIN, OR
+    CLOTHING. DO NOT BREATHE VAPOR.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED CHEMICAL CARTRIDGE
+    RESPIRATOR.
+Ventilation:LOCAL EXHAUST: RECOMMENDED. MECHANICAL: RECOMMENDED.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE
+Work Hygienic Practices:WASH HANDS BEFORE HANDLING FOOD. WASH CLOTHES
+    BEFORE REUSE.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:400F,204C
+Vapor Pres:0.03 @ 77C
+Spec Gravity:1.12
+Solubility in Water:NIL
+Appearance and Odor:STRAW COLOR, EPOXY ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:CO, CO2, NITROGEN COMPOUNDS,
+    ALDEHYDES.
+Conditions to Avoid Polymerization:STRONG ACIDS OR BASES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH FEDERAL, STATE AND
+    LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

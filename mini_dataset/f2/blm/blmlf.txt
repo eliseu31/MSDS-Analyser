@@ -1,0 +1,119 @@
+=====================  Product Identification  =====================
+
+Product ID:DEVELOPER
+MSDS Date:05/19/1988
+FSC:6750
+NIIN:00N021471
+MSDS Number: BLMLF
+=== Responsible Party ===
+Company Name:IMTEC INFORMATION SYSTEMS
+Address:1829 UNDERWOOD BLVD SUITE 4
+City:DELRAN
+State:NJ
+ZIP:08075
+Country:US
+Info Phone Num:800-257-7460
+Emergency Phone Num:800-257-7460
+CAGE:62691
+=== Contractor Identification ===
+Company Name:IMTEC INFORMATION SYSTEMS
+Address:1829 UNDERWOOD BLVD SUITE 4
+Box:City:DELRAN
+State:NJ
+ZIP:08075
+Country:US
+Phone:800-257-7460
+CAGE:62691
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HYDROQUINONE  (SARA III)
+CAS:123-31-9
+RTECS #:MX3500000
+Fraction by Wt: 2-4%
+OSHA PEL:2 MG/M3
+ACGIH TLV:2 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:NONE.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:EYE AND SKIN CONTACT MAY CAUSE IRRITATION.
+    INGESTION MAY CAUSE STOMACH PAIN AND DISCOMFORT.
+Medical Cond Aggravated by Exposure:MAY AGGRAVATE SKIN OF DERMATITIS
+    SUFFERERS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH PLENTY OF WATER FOR AT LEAST 15 MIN. GET MED
+    HELP IF NECESSARY. SKIN: WASH WITH SOAP AND WATER. INGEST: DRINK
+    WATER AND MILK; INDUCE VOMITING, AND CALL PHYS IMMED. INHAL: REMOVE
+    TO FR ESH AIR. SUPPORT BRTHG. (GIVE O2/ARTF RESP) .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NOT COMBUSTIBLE
+Extinguishing Media:NONE REQUIRED. MEDIA SUITABLE FOR SURROUNDING FIRE
+    .
+Fire Fighting Procedures:NONE REQUIRED. WEAR NIOSH/MSHA APPROVED SCBA
+    AND FULL PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:MOP UP SMALL SPILL ON WASTE TOWELING AND
+    DISPOSE OF IN A PROPER CONTAINER; LOCAL, STATE AND FEDERAL
+    REGULATIONS TAKING PRECEDENCE.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL, DRY PLACE.
+Other Precautions:NONE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT REQUIRED. USE NIOSH/MSHA APPROVED RESPIRATOR
+    APPROPRIATE FOR EXPOSURE OF CONCERN .
+Ventilation:NOT REQUIRED.
+Protective Gloves:NOT REQUIRED.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NOT REQUIRED.
+Work Hygienic Practices:EYE-WASH FACILITY.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:B3
+Boiling Pt:B.P. Text:>212F,>100C
+Spec Gravity:1.1
+pH:10.6
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR, COLORLESS; NO ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS.
+Stability Condition to Avoid:NONE.
+Hazardous Decomposition Products:SULFUR DIOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:FLUSH TO SEWER WITH PLENTY OF WATER. DISPOSE OF
+    IN ACCORDANCE WITH FEDERAL, STATE AND LOCAL REGULATIONS .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

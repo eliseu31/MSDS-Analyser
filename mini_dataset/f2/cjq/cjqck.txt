@@ -1,0 +1,180 @@
+=====================  Product Identification  =====================
+
+Product ID:NITRIC ACID
+MSDS Date:06/01/1997
+FSC:6810
+NIIN:00-236-5670
+Status Code:A
+MSDS Number: CJQCK
+=== Responsible Party ===
+Company Name:PCS NITROGEN, INC
+Address:3175 LENOX PARK BLVD, SUITE 400
+City:MEMPHIS
+State:TN
+ZIP:38115-4256
+Country:US
+Info Phone Num:800-524-0132
+Emergency Phone Num:206-889-3712
+CAGE:TO272
+=== Contractor Identification ===
+Company Name:CHEMICAL MANAGEMENT SYSTEMS LLC DBA CHEMICAL MANAGEMENT
+    SYST
+Address:11029 NATURAL BRIDGE
+Box:City:BRIDGETON
+State:MO
+ZIP:63044
+Country:US
+Phone:314-731-7278
+Contract Num:SP0450-99-M-NE43
+CAGE:1LFJ4
+Company Name:PCS NITROGEN, INC
+Address:3175 LENOX PARK BLVD, SUITE 400
+Box:City:MEMPHIS
+State:TN
+ZIP:38115-4256
+Country:US
+Phone:800-524-0132
+CAGE:TO272
+Company Name:QUACKER CHEMICAL CO INC
+Address:1212 ELMORE ST
+Box:City:COLUMBIA
+State:SC
+ZIP:29202
+Country:US
+Phone:803-765-9520
+CAGE:0FCP2
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NITRIC ACID  (SARA III)
+CAS:7697-37-2
+RTECS #:QU5775000
+Minumum % Wt:50.
+Maxumum % Wt:70.
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:2 PPM/4 STEL
+ACGIH TLV:2 PPM/4 STEL; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: BALANCE
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: INHALATION MAY CAUSE
+    RESPIRATORY IRRITATION, PULMONARY EDEMA OR CHEMICAL PNEUMONITIS.
+    CONTACT WITH SKIN AND EYES MAY CAUSE SEVERE IRRITATION OR BURNS.
+    INGESTION MAY CAUSE SEVERE BRUNS OR IRRITA TION TO MUCOUS MEMBRANES
+    AND STOMACH, KIDNEY DAMAGE. CHRONIC: NONE SPECIFIED BY
+    MANUFACTURER.
+Explanation of Carcinogenicity:NO INGREDIENT OF A CONCENTRATION OF 0.1%
+    OR GREATER IS LISTED AS A CARCINOGEN OR SUSPECTED CARCINOGEN.
+Effects of Overexposure:INHALED: COUGHING, WHEEZING, CHEST PAIN,
+    SNEEZING, SHORTNESS OF BREATH, DIFFICULTY BREATHING. EYES: PAIN,
+    REDNESS, BURNS, BLURRED VISION. SKIN: REDNESS, PAIN, BLISTERS,
+    BURNS. INGESTED: NAUSEA, VOMITI NG, SEVERE STOMACH PAIN,
+    MOUTH-THROAT AND ESOPHAGUS BURNS.
+Medical Cond Aggravated by Exposure:SKIN DISORDERS, EYE,
+    CARDIO-PULMONARY AND LUNG DISEASE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALED: REMOVE TO FRESH AIR. KEEP VICTIM QUIET. GIVE
+    ARTIFICIAL RESPIRATION IF NECESSARY.  EYES: FLUSH WITH LOTS OF
+    WATER FOR 15 MINUTES. SKIN: REMOVE CONTAMINATED CLOTHES. FLUSH WITH
+    WATER. INGESTED : DO NOT INDUCE VOMITING!  DRINK LARGE AMOUNTS OF
+    WATER TO DILUTE ACID. DO NOT USE CHEMICAL ANTIDOTES OR
+    NEUTRALIZERS. SEEK PROMPT MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NOT FLAMMABLE
+Extinguishing Media:USE FLOODING QUANTITIES OF WATER SPRAY OR OTHER
+    SUITABLE AGENT FOR FIRES ADJACENT OT NON-LEAKING TANKS OR OTHER
+    CONTAINERS OF NITRIC ACID.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS AND
+    FULL PROTECTIVE CLOTHING. USE WATER SPRAY TO COOL NEARBY CONTAINERS
+    AND EXPOSED STRUCTURES.  NITROGEN OXIDES MAY BE PRESENT FROM VENTED
+    OR RUPTURED CONTAINE RS. IF A SOLID WATER STREAM IS ADDED, VIOLENT
+    SPLATTERING CAN OCCUR, AND CONSIDERABLE HEAT MAY BE GENERATED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROPER PROTECTIVE CLOTHING/EQUIPMENT. MOP
+    OR WIPE UP AND PLACE IN A DOT APPROVED CONTAINER FOR LATER
+    DISPOSAL. LARGE: DIKE AND NEUTRALIZE AND PLACE INTO CONTAINERS FOR
+    LATER DISPOSAL.
+Neutralizing Agent:SODA ASH OR LIME
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY WELL-VENTILATED
+    AREA AWAY FROM INCOMPATIBLE MATERIALS. PROTECT FROM PHYSICAL
+    DAMAGE.
+Other Precautions:DO NOT CUT, GRIND, OR WELD CONTAINER (EVEN EMPTY).
+    EMPTY CONTAINERS MAY RETAIN RESIDUES, TREAT AS IF FULL. ALWAYS POUR
+    NITRIC ACID INTO WATER, NOT VICE VERSA.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF ENGINEERING CONTROLS FAIL OR EMERGENCY
+    OCCURS; USE NIOSH/MSHA APPROVED RESPIRATOR OR SUPPLIED AIR
+    RESPIRATOR OR SCBA, AS REQUIRED. USE IN ACCORDANCE WITH 29 CFR
+    1910.134.
+Ventilation:LOCAL EXHAUST TO MAINTAIN EXPOSURE BELOW TLV.
+Protective Gloves:NEOPRENE WITH GAUNTLETS. WEAR ACID-RESISTANT APRON AT
+    A MINIMUM.
+Eye Protection:SAFETY GLASSES/CHEMICAL SPLASH GOGGLES
+Other Protective Equipment:NEOPRENE SUIT WITH NEOPRENE APRON AND BOOTS.
+    EYE WASH STATION & SAFETY SHOWER.
+Work Hygienic Practices:WASH HANDS AFTER USE AND BEFORE EATING,
+    DRINKING, OR SMOKING. LAUNDER CONTAMINATED CLOTHES BEFORE REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C1
+Boiling Pt:>83.C, 181.4F
+Melt/Freeze Pt:>-33.7C, -29.F
+Vapor Pres:9 MM HG
+Vapor Density:1.4(AIR=1)
+Spec Gravity:>1.3 (WATER=1)
+Evaporation Rate & Reference:1 (N-BUTYL ACETATE=1)
+Solubility in Water:COMPLETE
+Appearance and Odor:COLORLESS TO YELLOW TO LIGHT BROWN LIQUID; PUNGENT
+    ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZABLE MATERIALS, METALS, REDUCING AGENTS, ALKALIS, CARBIDES,
+    TURPENTINE, HYDROGEN SULFIDE, POLYETHYLENE.
+Stability Condition to Avoid:HEAT, WATER, STEAM. CONTACT WITH
+    INCOMPATIBLE MATERIALS.
+Hazardous Decomposition Products:HYDROGEN NITRATE, NITROGEN OXIDES,
+    HYDROGEN GAS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE AND
+    FEDERAL REGULATIONS. KEEP PRODUCT OUT OF SEWERS AND WATERWAYS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:DOT: NITRIC ACID, WITH NOT MORE THAN 70%, UN2031.
+    HAZARD CLASS 8.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

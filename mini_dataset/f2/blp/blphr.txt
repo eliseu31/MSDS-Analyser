@@ -1,0 +1,125 @@
+=====================  Product Identification  =====================
+
+Product ID:DEVELOPER SYSTEM CLEANER
+MSDS Date:01/01/1987
+FSC:6850
+NIIN:00F001019
+MSDS Number: BLPHR
+=== Responsible Party ===
+Company Name:PICKER INTERNATIONAL
+Address:4 ESTERBROOK LANE
+City:CHERRY HILL
+State:NJ
+ZIP:08003
+Info Phone Num:(609) 424-3620
+Emergency Phone Num:(609) 424-3620
+CAGE:PICKE
+=== Contractor Identification ===
+Company Name:PICKER INTERNATIONAL
+Address:4 ESTERBROOK LANE
+City:CHERRY HILL
+Phone:(609) 424-3620
+CAGE:PICKE
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SULFURIC ACID  (SARA III)
+CAS:7664-93-9
+RTECS #:WS5600000
+Fraction by Wt: 5-10%
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:SODIUM BICHROMATE  (SARA III)
+CAS:10588-01-9
+RTECS #:HX7700000
+Fraction by Wt: 5-10%
+OSHA PEL:0.1 PPM CRO3;CEILING
+ACGIH TLV:0.05 MG CR/M3; 9192
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+Ingred Name:WATER, H2O
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 80-90%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: PERMANENT DAMAGE, IRRITATION, &
+    CONJUNCTIVITIS. SKIN: SORES & TEARING.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: IRRITATION, PERMANENT DAMAGE, &
+    CONJUNCTIVITIS. SKIN: TEARING & SORES.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE FROM EXPOSURE. EYES: FLUSH IMMEDIATELY
+    WITH PLENTY OF WATER AND GET MEDICAL ATTENTION. SKIN: FLUSH WITH
+    PLENTY OF WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:NONE
+Lower Limits:NONE
+Upper Limits:NONE
+Extinguishing Media:WATER SPRAY, DRY CHEMICAL, ALCOHOL FOAM, CO2,
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS & FULL
+    PROTECTIVE CLOTHING.
+Unusual Fire/Explosion Hazard:FIRE/EXCESSIVE HEAT MAY CASUE PRODUCTION
+    OF HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NEUTRALIZE WITH SODIUM BICARBONATE. FLUSH TO
+    SEWER WITH COPIOUS AMOUNTS OF WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID SPLASHING. WASH THOROUGHLY AFTER
+    HANDLING.
+Other Precautions:OBSERVE PRECAUTIONARY INFORMATION ON CONTAINER. STORE
+    ABOVE 40F TO AVOID FREEZING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:APPROVED ORGANIC ACID VAPOR RESPIRATOR IF
+    VENTILATION IS INADEQUATE.
+Ventilation:LOCAL EXHAUST AND MECHANICAL
+Protective Gloves:NITILE RUBBER
+Eye Protection:GOGGLES
+Other Protective Equipment:AS NECESSARY
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:1.1
+pH:<2.0
+Solubility in Water:COMPLETE
+Appearance and Odor:DARK RED-ORANGE LIQUID W/SLIGHT ODOR.
+Percent Volatiles by Volume:90%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG REDUCERS, ALKALI
+Hazardous Decomposition Products:OXIDES OF SULFUR
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE, LANDFILL OR FOLLOW ABOVE STEPS.
+    STATE AND LOCAL EFFLUENT LAWS TAKE PRECEDENCE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

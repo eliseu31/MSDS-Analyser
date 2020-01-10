@@ -1,0 +1,149 @@
+=====================  Product Identification  =====================
+
+Product ID:GRAY S.G., ALKYD ENAMEL
+MSDS Date:10/07/1988
+FSC:8010
+NIIN:00-901-1061
+MSDS Number: BHWJM
+=== Responsible Party ===
+Company Name:EVERSEAL MANUFACTURING CO., INC.
+Address:475 BROAD AVENUE
+City:RIDGEFIELD
+State:NJ
+ZIP:07657
+Country:US
+Info Phone Num:201-943-4986
+Emergency Phone Num:201-943-4986
+CAGE:EO432
+=== Contractor Identification ===
+Company Name:EVERSEAL MANUFACTURING CO., INC.
+CAGE:EO432
+Company Name:EVERSEAL MFG CO INC
+Address:475 BROAD AVE
+Box:City:RIDGEFIELD
+State:NJ
+ZIP:07657-2329
+Country:US
+Phone:201-943-4986
+CAGE:72988
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:RESIN
+Fraction by Wt: 27%
+OSHA PEL:NE
+ACGIH TLV:NE
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 16%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:IRON OXIDE
+CAS:1309-37-1
+Fraction by Wt: 1%
+OSHA PEL:10 MG/M3 (FE)
+ACGIH TLV:5 MG/M3(FE),B2; 9293
+
+Ingred Name:TALC (CONTAINING NO ASBESTOS)
+CAS:14807-96-6
+RTECS #:WW2710000
+Fraction by Wt: 19%
+OSHA PEL:2 MG/M3 RDUST
+ACGIH TLV:2 MG/M3 RDUST; 9192
+
+Ingred Name:SILICA, AMORPHOUS, DIATOMACEOUS EARTH, CONTAINING LESS THAN
+    1% CRYSTALLINE SILICA
+CAS:61790-53-2
+RTECS #:HL8600000
+Fraction by Wt: 1%
+OSHA PEL:20 MPPCF
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:MINERAL SPIRITS
+CAS:64475-85-0
+RTECS #:PY8240000
+Fraction by Wt: 35%
+
+Ingred Name:ADDITIVES
+Fraction by Wt: 1%
+OSHA PEL:NE
+ACGIH TLV:NE
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Health Hazards Acute and Chronic:PROLONGED EXPOSURE TO DUST FROM
+    SANDING, GRINDING OR BLASTING MAY CAUSE LUNG    DISORDERS.
+Effects of Overexposure:EYE/SKIN: IRRITATING			       
+				    INHAL: DIZZINESS, NAUSEA,
+    UNCONSCIOUSNESS
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH WITH WATER, CONSULT A PHYSICIAN		       
+		      SKIN: WASH WITH SOAP AND WATER		       
+				  INHAL: REMOVE TO FRESH AIR, APPLY
+    ARTIFI CIAL RESPIRATION IF NECESSARY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:105F/40.56C
+Lower Limits:1.0
+Extinguishing Media:FOAM, CO2, DRY CHEMCIAL
+Fire Fighting Procedures:FIREFIGHTERS SHOULD WEAR SELF CONTAINED
+    BREATHING APPARATUS
+Unusual Fire/Explosion Hazard:WATER NOT A SUITABLE EXTINGUISHING
+    MEDIUM.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB SMALL SPILLS ON DRY ABSORPTION MEDIA.
+    USE  SPARK PROOF SCOOP FOR LARGER SPILLS. REMOVE OPEN  IGNITION
+    SOURCES. ENSURE ADEQUATE VENTILATION.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID EXCESSIVE HEAT OR OPEN IGNITION
+    SOURCES.
+Other Precautions:NPCA/HMIS RATING 3,2,0,H
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:VAPOR CARTRIDGE MASK OR AIR SUPPLIED HOOD.
+Ventilation:SUFFICIENT VENTILATION NEEDED
+Protective Gloves:IMPERVIOUS
+Eye Protection:SAFETY GOGGLES
+Other Protective Equipment:PROTECT SKIN WITH CLOTHING OR BARRIER CREAM
+Supplemental Safety and Health
+NK
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:323-390F
+Vapor Density:> AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:54
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS
+Stability Condition to Avoid:NA
+Hazardous Decomposition Products:CARBON DIOXIDE/MONOXIDE ON COMBUSTION
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:AS PER LOCAL AND FEDERAL REGULATIONS FOR
+    HAZARDOUSWASTE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

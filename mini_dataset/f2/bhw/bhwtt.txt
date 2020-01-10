@@ -1,0 +1,136 @@
+=====================  Product Identification  =====================
+
+Product ID:METHOHEXITAL
+MSDS Date:09/30/1988
+FSC:6505
+NIIN:01-153-3292
+MSDS Number: BHWTT
+=== Responsible Party ===
+Company Name:ELI LILLY AND COMPANY, PHARMACEUTICAL DIV.
+Address:LILLY CORPORATE CENTER
+City:INDIANAPOLIS
+State:IN
+ZIP:46285
+Country:US
+Info Phone Num:317-276-2000
+Emergency Phone Num:317-276-2000(CHEMTREC 800-424-9300)
+CAGE:75605
+=== Contractor Identification ===
+Company Name:ELI LILLY AND CO
+Address:LILLY CORPORATE CENTER
+Box:City:INDIANAPOLIS
+State:IN
+ZIP:46285
+Country:US
+Phone:317-276-2000
+CAGE:75605
+Company Name:LILLY ELI AND CO PHARMACEUTICAL DIV
+Address:LILLY CORPORATE CENTER
+Box:City:INDIANAPOLIS
+State:IN
+ZIP:46285
+Country:US
+Phone:317-276-2000
+CAGE:75602
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BREVITAL (METHOHEXITAL)
+CAS:151-83-7
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL RAT) IS NOT AVAILABLE
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:PLEASE REFER TO THE PRODUCT LITERATURE
+    FOR INFORMATION ON ADVERSE REACTIONS IN CLINICAL USE.
+Explanation of Carcinogenicity:NONE OF THE COMPOUNDS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP, OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:PLEASE REFER TO THE PRODUCT LILTERATURE FOR
+    INFORMATION ON ADVERSE REACTIONS IN CLINICAL USE.
+Medical Cond Aggravated by Exposure:PORPHYRIA; HYPERSENSITIVITY TO
+    BARBITURATES.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION:REMOVE TO FRESH AIR. RESUSCITATE IF NOT BREATHING.
+    GET MEDICAL ATTENTION. EYES:IMMEDIATELY FLUSH WITH PLENTY OF WATER
+    FOR 15 MINUTES HOLDING EYELIDS OPEN. GET MEDICAL ATTENTION.
+    SKIN:REMOVE  CONTAMINATED CLOTHING. WASH WITH SOAP AND WATER. IF
+    IRRITATION PERSISTS, GET MEDICAL ADVICE.  INGESTION: CONTACT
+    PHYSICIAN IMMEDIATELY. IF PHYSICIAN UNAVAILABLE, INDUCE VOMITING.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE CARBON DIOXIDE, FOAM, DRY CHEMICAL, WATER, OR
+    HALON EXTINGUISHER.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:AS A FINELY DIVIDED MATERIAL, MAY EXPLODE
+    IF SUSPENDED IN AIR IN HEAVY CONCENTRATION, AND SUBJECTED TO A
+    SOURCE OF IGNITION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:IF MATERIAL SPILLS OCCUR, USE EITHER WET
+    CLEAN-UP METHODS, ENSURING THAT NO AIRBORNE DUSTS OR AEROSOLS ARE
+    FORMED, OR APPROPRIATE VACUUM CLEANERS HAVING HIGH EFFICIENCY
+    PARTICULATE (HEPA) FILTERS.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY AREA. NO SPECIAL
+    PRECAUTIONS ARE NORMALLY NOT NEEDED.
+Other Precautions:NO SPECIAL EQUIPMENT IS NORMALLY NOT NEEDED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED DUST/MIST RESPIRATOR OR A
+    LABORATORY FUMEHOOD.
+Ventilation:GOOD GENERAL ROOM VENTILATION.
+Protective Gloves:IMPERMEABLE
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:OTHER SPECIAL EQUIPMENT IS NORMALLY NOT
+    NEEDED.
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES.
+Supplemental Safety and Health
+AVOID PROLONGED OR REPEATED EXPOSURE. DO NOT GET ON SKIN OR IN EYES. DO
+    NOT BREATHE VAPORS, MISTS OR DUSTS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Melt/Freeze Pt:M.P/F.P Text:200F,94C
+Solubility in Water:VERY SLIGHT
+Appearance and Odor:WHITE TO FAINTLY YELLOWISH-WHITE CRYSTALLINE
+    POWDER; ODORLESS
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS MAY PRODUCE VIOLENT REACTION WITH THIS
+    COMPOUND.
+Stability Condition to Avoid:EXCESSIVE LIGHT AND HEAT EXPOSURE CAN
+    CAUSE LOSS OF POTENCY.
+Hazardous Decomposition Products:MAY EMIT TOXIC FUMES WHEN HEATED TO
+    DECOMPOSITION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF ANY WASTE RESIDUES ACCORDING TO
+    PRESCRIBED FEDERAL, STATE AND LOCAL GUIDELINESS, E.G.  APPROVED AND
+    PERMITTED LANDFILL DISPOSAL, OR APPROVED (LOW-LEVEL) DISCHARGES TO
+    MUNICIPAL OR ON-SITE W ASTE-WATER TREATMENT FACILITIES.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

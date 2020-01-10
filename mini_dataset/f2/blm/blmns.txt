@@ -1,0 +1,156 @@
+=====================  Product Identification  =====================
+
+Product ID:CONTACT ADHESIVE, 77-198
+MSDS Date:11/09/1988
+FSC:8040
+NIIN:00N021885
+MSDS Number: BLMNS
+=== Responsible Party ===
+Company Name:HALSTEAD INDUSTRIAL PRODUCTS GROUP
+Address:100 SOUTH ELM ST SUITE 400
+City:GREENSBORO
+State:NC
+ZIP:27401
+Country:US
+Info Phone Num:919-272-1966
+Emergency Phone Num:919-272-1966
+CAGE:HALST
+=== Contractor Identification ===
+Company Name:HALSTEAD INDUSTRIAL PRODUCTS GROUP
+Address:300N GREENE STREET, SUITE 400
+City:GREENSBORO
+State:NC
+ZIP:27401
+Country:US
+Phone:(919) 272-1966
+CAGE:HALST
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ACETONE  (SARA III)
+CAS:67-64-1
+RTECS #:AL3150000
+OSHA PEL:1000PPM
+ACGIH TLV:750PPM/1000STEL;9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:HEXANE (N-HEXANE)
+CAS:110-54-3
+RTECS #:MN9275000
+OSHA PEL:500 PPM
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:HEXANE ISOMERS; (C6 ISOMERS OF HEXANE). TLV: 500PPM;
+    1000PPM STEL (MFR)
+ACGIH TLV:SEE INGREDIENT NAME
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:THIS PRODUCT IS A DEFATTING AGENT AND
+    CAN CAUSE DERMATITIS OR SKIN IRRITATION UPON PROLONGED OR REPEATED
+    CONTACT. IT MAY CAUSE IRRITATION OF EYES. SEVERE OVEREXPOSURE MAY
+    CAUSE UNCONSCIOUSNESS AND ASP HYXIATION.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:LIGHTHEADEDNESS, NAUSEA, DIZZINESS, GIDDINESS
+    OR BREATHING DIFFICULTIES.
+Medical Cond Aggravated by Exposure:CENTRAL AND PERIPHERAL NERVOUS
+    SYSTEM; PRE- EXISTING EYE AND SKIN DISORDER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: MOVE TO FRESH AIR AT ONCE. IF BREATHING CONTINUES TO
+    BE DIFFICULT, ADMINISTER OXYGEN UNTIL MEDICAL ASSISTANCE CAN BE
+    RENDERED. EYES: IMMED FLUSH W/POTABLE WATER FOR A MINIMUM OF 15
+    MIN, SEEK AS SISTANCE FROM MD . SKIN: FLUSH W/COPIOUS AMOUNTS OF
+    WATER. CALL MD . INGEST: CALL MD IMMEDIATELY .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Lower Limits:1.2%
+Upper Limits:13%
+Extinguishing Media:CO2, DRY CHEMICAL, FOAM, HALON.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:COOL DRUMS W/WATER SPRAY TO PREVENT
+    PRESSURE EXPLOSION. VAPORS MAY IGNITE EXPLOSIVELY.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE AND ELIMINATE ALL SOURCES OF IGNITION.
+    VENTILATE AREA OF SPILL OR LEAK. FOR SMALL QUANTITIES, ABSORB ON
+    PAPER TOWELS. LARGE QUANTITIES, USE AN ABSORBENT MATERIAL AFTER
+    RETAINING BY DIKING.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP PRODUCT CONTAINERS COOL, DRY AND
+    AWAY FROM SOURCES OF IGNITION. USE AND STORE THIS PRODUCT
+    W/ADEQUATE VENTILATION.
+Other Precautions:THIS PRODUCT SHLD NOT BE ALLOWED TO ENTER A CONFINED
+    SPACE, SUCH AS A SEWER BECAUSE OF THE POSSIBILITY OF VAPOR BUILD-UP
+    POSSIBLY ALLOWING AN EXPLOSION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED SELF-CONTAINED AIR SUPPLIED
+    OR ORGANIC VAPOR RESPIRATOR IN ACCORDANCE W/29CFR 1910.34 IF
+    EXPOSURE EXCEEDS LIMITS.
+Ventilation:LOCAL EXHAUST TO REDUCE EXPOSURE BELOW ALLOWABLE LIMITS.
+    MECHANICAL (GEN) NOT REQD IF LOC EXHST IS PROVIDED. (SUPP DATA)
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEM WORK GOG & FULL LENGTH FSHLD.
+Other Protective Equipment:IMPERVIOUS CLOTHING TO PREVENT REPEATED/
+    PROLONGED SKIN CONTACT.
+Work Hygienic Practices:WASH HANDS BEFORE EATING, DRINKING, OR USING
+    TOILET FACILITIES.
+Supplemental Safety and Health
+VENT: USE EXPLOSION PROOF MOTOR AND FIXTURES ONLY.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F3
+Boiling Pt:B.P. Text:131F,55C
+Vapor Pres:140 @ 20C
+Vapor Density:>1
+Spec Gravity:0.812
+Evaporation Rate & Reference:>1 (BUTYL ACETATE = 1)
+Solubility in Water:PARTIAL
+Appearance and Odor:AMBER IN COLOR. SOLVENT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS OR ACIDS.
+Stability Condition to Avoid:FLAME, SPARK OR EXTREME HEAT.
+Hazardous Decomposition Products:CO, CO2, AND HCL.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTAMINATED ABSORBENT MATERIALS OR WASTE
+    PRODUCT MUST BE DISPOSED OF I/A/W REGULATIONS IN THE RCRA OR
+    FEDERAL, STATE, AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

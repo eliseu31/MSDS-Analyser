@@ -1,0 +1,191 @@
+=====================  Product Identification  =====================
+
+Product ID:24 3405 STAIN KILLER
+MSDS Date:07/02/1989
+FSC:8010
+NIIN:00N020323
+MSDS Number: BLMBW
+=== Responsible Party ===
+Company Name:VALSPAR CORP
+Address:1101 THIRD ST SOUTH
+City:MINNEAPOLIS
+State:MN
+ZIP:55415
+Country:US
+Info Phone Num:612-332-7371
+Emergency Phone Num:800-228-5635
+CAGE:13374
+=== Contractor Identification ===
+Company Name:VALSPAR CORP
+Address:1101 THIRD ST S
+City:MINNEAPOLIS
+State:MN
+ZIP:55414
+Country:US
+Phone:800-228-5635
+CAGE:13374
+Company Name:VALSPAR CORPORATION
+Address:1101 THIRD ST. SOUTH
+Box:City:MINNEAPOLIS
+State:MN
+ZIP:55415
+Country:US
+Phone:612-332-7371/888-345-5732
+CAGE:23526
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TALC (CONTAINING NO ASBESTOS)
+CAS:14807-96-6
+RTECS #:WW2710000
+Fraction by Wt: 15%
+OSHA PEL:2 MG/M3 RDUST
+ACGIH TLV:2 MG/M3 RDUST; 9192
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 10%
+Other REC Limits:15 MG/M3 (MFR)
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:ALKYD RESIN
+CAS:68122-73-6
+Fraction by Wt: 20%
+
+Ingred Name:VM & P NAPHTHA
+CAS:64742-89-8
+Fraction by Wt: 25%
+Other REC Limits:420 PPM (MFR)
+OSHA PEL:300 PPM;400 STEL
+ACGIH TLV:300 PPM
+
+Ingred Name:KEROSENE (PETROLEUM), HYDROTREATED; (MINERAL SPIRITS)
+CAS:64742-47-8
+RTECS #:OA5504000
+Fraction by Wt: 10%
+
+Ingred Name:BARIUM SULFATE
+CAS:7727-43-7
+RTECS #:CR0600000
+Fraction by Wt: 1%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:CALCIUM CARBONATE (MARBLE) (LIMESTONE)
+CAS:1317-65-3
+RTECS #:EV9580000
+Fraction by Wt: 20%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9192
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: HARMFUL IF INHALED. MAY AFFECT
+    THE BRAIN, NERV SYS OR RESPIRATORY SYS, CAUSING DIZZINESS,
+    HEADACHE, NAUSEA OR RESP IRRIT. OVEREXPOSURE TO INGREDIENTS IN THIS
+    PRODUCT MAY CAUSE NOSE AND THROAT I RRIT, EYE IRRIT, SKIN IRRIT.
+    CHRONIC: NOTICE: REPORTS HAVE ASSOCIATED REAPEATED AND PROLONGED
+    (SEE EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ: OCCUPATIONAL OVEREXPOSURE TO SOLVENTS
+    WITH PERMANENT BRAIN AND NERVOUS SYSTEM DAMAGE. INTENTIONAL MISUSE
+    BY DELIBERATELY CONCENTRATING AND INHALING THE CONTENTS MAY BE
+    HARMFUL OR FATAL.
+Medical Cond Aggravated by Exposure:ANY RESPIRATORY OR SKIN CONDITION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: REMOVE PERSON FROM EXPOSURE AREA. IF BREATHING HAS
+    STOPPED, USE MOUTH-TO-MOUTH RESUSCITATION AND GET MEDICAL
+    ATTENTION. EYE: FLUSH WITH WATER FOR AT LEAST 15 MIN. SKIN: WASH
+    WITH SOAP AND WATER . INGEST: GET MD IMMEDIATELY .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:76.0F,24.4C
+Lower Limits:1 %
+Upper Limits:19 %
+Extinguishing Media:CARBON DIOXIDE, DRY CHEMICAL, FOAM, AND/OR WATER
+    FOG.
+Fire Fighting Procedures:FIRE FIGHTERS MUST WEAR NIOSH/MSHA APPRVD SCBA
+    OR AIR MASKS AND FULL PROTECTIVE EQUIPMENT . CONTAINERS EXPOSED TO
+    FIRE SHOULD BE KEPT COOL W/WATER SPRAY.
+Unusual Fire/Explosion Hazard:CNTNS OXIDIZING MATLS. CONTAM RAGS,
+    WIPES, SAWDUST, ETC, MAY CATCH FIRE SPONTANEOUSLY. STORE WASTE
+    UNDER H2O IN CLOSED METAL CNTNRS UNTIL DISPOSED (SUPP DATA)
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA. AVOID BREATHING OF VAPORS. USE
+    NIOSH/MSHA APPROVED SCBA OR AIRMASK FOR LARGE SPILLS IN A CONFINED
+    AREA. ELIMINATE IGNITION SOURCES. REMOVE WITH INERT ABSORBENT AND
+    NON- SPARKING TOOLS.  AVOID CONTACT WITH EYES.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:CNTNRS SHOULD BE GROUNDED/BONDED WHEN
+    POURING. AVOID FREE FALL OF LIQUID IN EXCESS OF A FEW INCHES. KEEP
+    AWAY FROM HEAT, SPARKS AND OPEN FLAMES.
+Other Precautions:KEEP CONTAINER CLOSED WHEN NOT IN USE. DO NOT STORE
+    ABOVE 120 F. BASED ON THE PRODUCT FLASH POINT AND VAPOR PRESSURE
+    SUITABLE STORAGE SHOULD BE PROVIDED IN ACCORDANCE WITH OSHA
+    REGULATION 1910.106. EM PTY CNTNRS MAY CNTNR PROD (SUPP DATA)
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR APPROPRIATE, PROPERLY FITTED RESPIRATOR
+    (NIOSH/MSHA APPROVED) DURING AND AFTER APPLICATION UNLESS AIR
+    MONITORING VAPOR/MIST LEVELS ARE BELOW APPLICABLE LIMITS. FOLLOW
+    RESPIRATOR MANUFACTURERS DIR ECTIONS FOR RESPIRATOR USE.
+Ventilation:REQUIRED FOR SPRAYING OR IN A CONFINED AREA. VENTILATION
+    EQUIPMENT SHOULD BE EXPLOSION PROOF. ELIM IGNITION SOURCES
+Protective Gloves:USUAL HAND PROT FOR PAINT APPLICATION.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:USUAL CLOTHING FOR PAINTING OPERATIONS.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+EXPLO HAZ: OF IN COMPLIANCE WITH ALL APPLICABLE REGULATIONS. OTHER
+    PREC: RESIDUE, INCLUDING FLAMMABLE OR EXPLOSIVE VAPORS. DO NOT CUT,
+    PUNCTURE OR WELD ON OR NEAR CONTAINER. ALL LABEL WARNINGS MUST BE 
+    OBSERVED UNTIL THE CONTAINER HAS BEEN CLEANED OR RECONDITIONED.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:240F,116C
+Vapor Pres:15 @ 100 F
+Vapor Density:5.1
+Spec Gravity:1.28
+Evaporation Rate & Reference:0.9 (BUTYL ACETATE=1)
+Solubility in Water:NO
+Appearance and Odor:NORMAL FOR A COATINGS PRODUCT.
+Percent Volatiles by Volume:57.18
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:SILICON DIOXIDE, CARBON
+    DIOXIDE/MONOXIDE AND METAL OXIDES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN CHEMICAL DISPOSAL AREA OR IN A MANNER
+    THAT COMPLIES WITH LOCAL STATE AND FEDERAL REGULATIONS. DO NOT
+    INCINERATE CLOSED CONTAINERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

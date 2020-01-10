@@ -1,0 +1,167 @@
+=====================  Product Identification  =====================
+
+Product ID:ENAMEL ALKYD GLOSS ORANGE 12197-2 ID 742200
+MSDS Date:03/23/1988
+FSC:8010
+NIIN:00-527-3202
+MSDS Number: BHWZD
+=== Responsible Party ===
+Company Name:PRATT & LAMBERT, INC.
+Box:2153
+City:WICHITA
+State:KS
+ZIP:67201
+Country:US
+Info Phone Num:316-733-1361
+Emergency Phone Num:316-733-1361
+Preparer's Name:W.A. ELLISON
+CAGE:FO127
+=== Contractor Identification ===
+Company Name:PRATT & LAMBERT, INC/BUFFALO, NY 14240
+Box:22
+CAGE:FO127
+Company Name:PRATT AND LAMBERT INC
+Address:Box:6027
+City:CLEVELAND
+State:OH
+ZIP:44101-1027
+Country:US
+Phone:216-566-2902
+CAGE:61196
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:VM&P NAPHTHA (LIGROINE)
+CAS:8032-32-4
+RTECS #:OI6180000
+OSHA PEL:300 PPM/400 STEL
+ACGIH TLV:300 PPM; 9192
+
+Ingred Name:MINERAL SPIRITS					       
+    (VP 2 MM HG @ 20 DEG.C)
+CAS:64475-85-0
+RTECS #:PY8240000
+OSHA PEL:500 PPM 2950 MG/CU.M
+ACGIH TLV:100 PPM 525 MG/CU.M.
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:VOC. ORGANIC CMPD 4.0 LB/GL LESS WATER & NPRS* 480 G/L LESS
+    WATER VOC 10.2 LB/GAL SOLIDS  1224 G/L SOLIDS CALCULATED
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SWALLOWING: CAN CAUSE GASTROINTESTINAL
+    IRR/NAUSEA/VOMIT. ASPIRATION OF MAT'L MAYCAUSE CHEM PNEUMONITIS.
+    INHALATION: NOSE/THROAT IRRITA. HIGH CONCENTRATION MAY  CAUSE
+    CENTRAL NERVOUS SYSTEM DEPRESSION  CHAR BY
+    HEADACHES/DIZZINESS/NAUSEA/CONFUSION. EYE: MAY CAUSE EYE IRRITA.
+    SKIN: MAY CAUSE DEFATTING AND IRRITATION.
+Explanation of Carcinogenicity:TITANIUM DIOXIDE IS NOT LISTED AS A
+    POTENTIAL CARCINOGEN BY THE NTP, IARC, OSHA OR ACGIH.
+Effects of Overexposure:REPORTS HAVE ASSOCIATED PROLONGED AND REPEATED
+    OCCUPATIONAL OVEREXPOSURE TO     SOLVENTS WITH PERMANENT BRAIN AND
+    NERVOUS SYSTEM DAMAGE. INTENTIONAL MISUSE BY  DELIBERATELY
+    CONCENTRATING AND INHALING	THE CONTENTS MAY BE HARMFUL OR FATAL.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SWALLOWING: DO NOT INDUCE VOMITING/GET MED ATTN. INHALATION:
+    REMOVE TO FRESH AIRIF BREATHING HAS STOPPED GIVE CPR. GET MED ATTN.
+    EYE: FLUSH W/WATER FOR 15 MIN  LIFTING UPPER/LOWER LIDS. GET MED
+    ATTN.  SKIN: REMOVE CONTAMINATED CLOTHING.WASH AFFECTED AREA.
+    OBTAIN MED ATTN IF IRR'N PERSISTS. TREATMENT REQ FOR OVER- 
+    EXPOSURE S/B DIRECTED AT THE CONTROL OF SYMPTOMS AND THE CLINICAL
+    CONDITIONS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:>102F 39C
+Extinguishing Media:USE NFPA CLASS B FIRE EXTINGUISHERS. POLYMER FOAM
+    IS	      PREFERRED FOR LARGE FIRES.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS. WATER
+    TO COOL CONT TO PREVENT POSSIBLE AUTO-IGNITION OR EXPLOSION. IF
+    WATER IS USED, FOG NOZZLES ARE PREFERABLE.
+Unusual Fire/Explosion Hazard:ISOLATE FROM HEAT/ELEC
+    EQUIP/SPARKS/FLAME. CONT MAY EXPLODE WHEN EXPOSED TO     HEAT.
+    OVEREXPOSURE TO DECOMP PRODUCTS MAY CAUSE HEALTH HAZ. OBTAIN MED
+    ATTN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIM ALL IGNITION SOURCES. DIKE/CONTAIN SPILL
+    WITHINERT MAT'L. TRANSFER LIQ'S/ABSORBENT DIKING MAT'LIN COVERED
+    METAL CONT'S FOR RECOVERY/DISPOSAL. USEONLY NON-SPARKING TOOLS.
+    PREVENT CONTAM OF SEWERS/ STREAMS/GROUNDWATER W/SPILLED MAT'L/USED
+    ABSORBENT
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT STORE ABOVE 95F. STORE LARGE
+    QUANTITIES IN COMPLIANCE WITH OSHA 29CFR1910.106.
+Other Precautions:DO NOT REUSE EMPTY CONT. DO NOT TAKE INTERNALLY.
+    CONTAINER SHOULD BE GROUNDED   AND BONDED TO THE RECEIVING
+    CONTAINER. DO NOT WELD, BRAZE OR CUT CONTAINER.	NEVER USE
+    PRESSURE TO EMPTY. DRUM IS NOT  A PRESSURE VESSEL. CLOSE AFTER EACH
+    USE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WELL VENTILATED AREA-RESP NOT REQ. RESTRICTED
+    VENT-NIOSH CHEMICAL CARTRIDGE MAY BE REQ. IF SPRAYING, MECH
+    PREFILTER MAY BE REQ. IF TLV ARE EXCEEDED, USE A PROP FITTED
+    NIOSH/MSHA RESP W/APPROP PROTECTI ON FACTOR. SEE OSHA 29 CFR
+    1910.134.
+Ventilation:PROVIDE DILUT/LOCAL EXH VENT TO KEEP CONCENT OF HAZ INGRID 
+    BELOW EXPOSURE LMT STD. REMOVE PROD GEN-WELD/CUT/BRAZ OBJECT
+Protective Gloves:SOLVENT IMPERMEABLE GLOVES.
+Eye Protection:WEAR SAFETY SPECTACLES.
+Other Protective Equipment:NOT LIKELY TO BE NEEDED.
+Work Hygienic Practices:WASH WITH SOAP AND WATER HANDS/FACE THOROUGHLY
+    BEFORE	 EATING OR DRINKING.
+Supplemental Safety and Health
+NK
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:280F 388F
+Vapor Density:>AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER.
+Percent Volatiles by Volume:61
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS OR ALKALINE MATERIALS.
+Stability Condition to Avoid:AVOID EXCESSIVE HEAT AND SOURCES OF
+    IGNITION.
+Hazardous Decomposition Products:BURNING, INCLUDING WHEN HEATED BY
+    WELDING OR CUTTING, WILL  PRODUCE SMOKE, CARBON MONOXIDE AND CARBON
+    DIOXIDE.
+Conditions to Avoid Polymerization:KEEP AWAY FROM HEAT, SPARKS AND
+    FLAME.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE ONLY IN EPA PERMITTED FACILITY.
+    DISPOSEONLY IAW FED/STATE/LOCAL REGS. DO NOT INCINERATE  CLOSED
+    CONTAINERS. OBSERVE PRECAUTIONS FOR DIS-   POSAL OF FLAMMABLE
+    MAT'S. CONTAMINATED ABSORBENT   MAY BE DISPOSED IN A HAZARDOUS
+    WASTE LANDFILL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

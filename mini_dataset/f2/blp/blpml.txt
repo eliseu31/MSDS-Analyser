@@ -1,0 +1,123 @@
+=====================  Product Identification  =====================
+
+Product ID:BIG M ORANGE
+MSDS Date:01/01/1987
+FSC:6840
+NIIN:00F019140
+MSDS Number: BLPML
+=== Responsible Party ===
+Company Name:MOMAR INC
+Address:1830 ELLSWORTH INDUSTRIAL DRIVE
+City:ATLANTA
+State:GA
+ZIP:30318-3746
+Info Phone Num:(404) 355-4580
+Emergency Phone Num:(404) 355-4580
+Preparer's Name:GERALD GROSSBLATT
+CAGE:16800
+=== Contractor Identification ===
+Company Name:MOMAR INC
+Address:1830 ELLSWORTH INDUSTRIAL DR
+Box:City:ATLANTA
+State:GA
+ZIP:30318-3746
+Country:US
+CAGE:16800
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PERFUME, TYPE UNSPECIFIED
+
+Ingred Name:MONOCYCLIC TERPENES
+CAS:5939-27-5
+Fraction by Wt: 50%
+OSHA PEL:2900 MG/CUM
+ACGIH TLV:2900 MG/CUM
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RATS): 5,000 MG/KG
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION. SKIN: DRYING OF
+    NATURAL OIL MAY CAUSE DERMATITIS. INGESTION: GASTROINTESTINAL
+    IRRITATION, NAUSEA, VOMITING, & DIARRHEA.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: IRRITATION. SKIN: DRYING OF NATURAL OIL
+    MAY CAUSE DERMATITIS. INGESTION: GASTROINTESTINAL IRRITATION,
+    NAUSEA, VOMITING, & DIARRHEA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/LARGE AMOUNTS OF WATER FOR 15 MINS. SKIN: WASH
+    W/SOAP & WARM WATER. INGESTION: ADMINISTER 2-4 OZ OF VEGETABLE OR
+    OLIVE OIL & 1-2 OZ ACTIVATED CHARCOAL. DON'T INDUCE VOMITING AS
+    GASTRIC A SPIRATION MAY OCCUR. OBTAIN MEDICAL ATTENTION IN ALL
+    CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:120F
+Lower Limits:1%
+Upper Limits:6%
+Extinguishing Media:WATER SPRAY OR ALCOHOL FOAM
+Fire Fighting Procedures:USE WATER SPRAY TO EXTINGUISH FIRE/KEEP
+    FIRE-EXPOSED CONTAINERS COOL. WEAR SCBA W/FULL FACE PIECE OPERATED
+    IN PRESSURE DEMAND OR OTHER POSITIVE PRESSURE MODE.
+Unusual Fire/Explosion Hazard:WON'T EXPLODE SPONTANEOUSLY. AT TEMPS
+    >120F, THERE IS SUFFICIENT VAPOR CONCENTRATION TO SUPPORT
+    COMBUSTION/CLOSED CONTAINERS RUPTURE DUE TO PRESSURE BUILD-UP.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB ON MINERAL CLAY ABSORBENT MATERIAL. USE
+    WATER SPRAY TO FLUSH SPILLS FROM EXPOSURE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTACT W/EYES & SKIN. DON'T
+    STORE NEAR HEAT, SPARKS, OR OPEN FLAME. AVOID WELDING AREAS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AS REQUIRED
+Ventilation:LOCAL EXHAUST: ADEQUATE. MECHANICAL: AS REQUIRED.
+Protective Gloves:AS REQUIRED
+Eye Protection:AS REQUIRED
+Other Protective Equipment:AS REQUIRED
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:345-405F
+Vapor Pres:2
+Vapor Density:4
+Spec Gravity:0.988
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:CLEAR AMBER LIQUID W/ORANGE ODOR.
+Percent Volatiles by Volume:100%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:TEMPERATURES >120F, SPARKS, OPEN FLAME,
+    HEAT, & WELDING AREAS.
+Hazardous Decomposition Products:CO
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

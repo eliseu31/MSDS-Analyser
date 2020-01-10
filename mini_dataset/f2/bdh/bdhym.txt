@@ -1,0 +1,162 @@
+=====================  Product Identification  =====================
+
+Product ID:1BRR ELECTRON TUBE
+MSDS Date:08/22/1996
+FSC:5960
+NIIN:00-193-5093
+MSDS Number: BDHYM
+=== Responsible Party ===
+Company Name:COMMUNICATION & PWR INDUSTRIES(FRMLY VARIAN ASSOC)
+Address:BEVERLY MICROWAVE DIV, 150 SOHIER RD
+City:BEVERLY
+State:MA
+ZIP:01915-5595
+Country:US
+Info Phone Num:508-922-6000   EXT.285
+Emergency Phone Num:508-922-6000  EXT.285
+Preparer's Name:FRANK E. TROJAN
+CAGE:KO568
+=== Contractor Identification ===
+Company Name:COMMUNICATION & PWR INDUSTRIES(FRMLY VARIAN ASSOC)
+Address:BEVERLY MICROWAVE DIV, 150 SOHIER RD
+City:BEVERLY
+State:MA
+ZIP:01915-5595
+Country:US
+Phone:508-922-6000   EXT.285
+CAGE:KO568
+Company Name:COMMUNICATIONS AND POWER INDUSTRIES INC
+Address:150 SOHIER RD
+City:BEVERLY
+State:MA
+ZIP:01915-5595
+Country:US
+Phone:978-922-6000  EXT.285
+CAGE:88236
+Company Name:M/A-COM INC
+Address:1011 PAWTUCKET BLVD
+Box:3295
+City:LOWELL
+State:MA
+ZIP:01853-3295
+Country:US
+Phone:617-272-3000 (DAYTIME ONLY)
+CAGE:96341
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:COBALT (SARA 313)
+CAS:7440-48-4
+RTECS #:GF8750000
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:0.1 MG/M3
+ACGIH TLV:0.02 MG/M3; A3; 9596
+
+Ingred Name:COBALT (60) RADIOISOTOPE
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:YES
+Health Hazards Acute and Chronic:COBALT 60 RADIOACTIVE:SIGNIFICANT SKIN
+    CONTACT MAY RESULT IN BURNS.RAPID ESTIMATION OF AMT OF INTERNAL
+    CONTAMIN DIFFICULT/IMPOSSIBLE WHEN ALHPA/PURE BETA EMITTERS
+    INVOLVED.COBALT 60 METAL:CONTACT DERM ,BREATH DIFFICULTIES.ALLERGIC
+    ASTHMA,RESTRICTED PULM FUNCTIONS,INTERNAL FIBROSIS FROM LONG-TERM
+    OCCUP EXPO TO CO/CMPDS.
+Explanation of Carcinogenicity:PER MSDS:COBALT 60 AS RADIACIVE-CANCER
+    CAUSING AGENT:BETA/GAMMA RAYS.
+Effects of Overexposure:COBALT 60 RADIOACTIVE:NAU,VOMIT,DIARR FOR HIGH
+    ACUTE DOSES.COBALT 60 METAL:COBALT DUST INHAL CAUSE PULM
+    SYMPT(WHEEZ,IRRIT OF UPPER RESP TRACT,HYPERSENSITIVITY
+    RXS(ASTHMA)).SKIN CONTACT MAY CAUSE ADENI TIDES,ESPECIALLY IN
+    CREASES OB ELBOWS/KNEES/ANKLES/NECK.CONTACT W/EYE CASUE CONJ.INGEST
+    PROD HOT SENS,VOMIT,DIARR,NAU.
+Medical Cond Aggravated by Exposure:HEALING OF DMG TISSUES MAY BE
+    PROLONGED.SKIN/UPPER RESP TRACT DISORDERS MAY BE WORSENED BY EPXO
+    TO COBALT.TARGORG:RESP SYS,SKIN,BLADDER,KINDEYS,EYES.
+
+=======================  First Aid Measures  =======================
+
+First Aid:DECONTAMIN EXPO INDIVIDUAL.TRANSPORT TO HOSPITAL IF NAU/VOMIT
+    OCCUR IN 1ST 24 HRS.EYE:IMMED FLUSH GENTLY BUT THOROUGHLY W/PLENTY
+    OF RUNING WATER @LEAST 15MINS,OPN EYELIDS.SKIN:IMMED WASH
+    W/SOAP/WAER.I NHAL:REMOVE TO FRESH AIR.RESTORE &/OR SUPPORT
+    BREATHING AS NEEDED.INGEST:NEVER GIVE ANYTHING BY MOUTH TO SOMEONE
+    WHO IS UNCONS/CONVULSING.IF COBALT SALTS INGEST GIVE 1-2 GLASSES OF
+    WATER.INDUCE VOMIT.
+
+=====================  Fire Fighting Measures  =====================
+
+Autoignition Temp:Autoignition Temp Text:NA
+Lower Limits:NA
+Upper Limits:NA
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:BROKEN/DISASSEM RECEIVER PROTECTOR TUBE MAY
+    EMIT IONIZING RADIATION.WHEN HNDLG BROKEN TUBES WEAR PROT RUBB
+    GLOVES/CLOTH.AVOID POSSIBLITY OF RUBBING RADIOACTIVE MATL ONTO
+    SKIN.WASH EXPO SKIN AFT HNDLG  BROKEN TUBES W/RADIOACTIVE
+    MATL.AVOID INHAL GASES.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:ADMIN PREPLACE/PERIODIC MED EXAMS
+    EMPHASIZING SKIN/UPPER RESP TRACT FUNCTIONS.ALL PERSONS WHO WORK
+    W/EXPO TO MICROWAVE TUBE/EPQMT WHICH UTILIZES(SUPP)
+Other Precautions:NRC LIC#:20-0223703E. DEVICE IS RECEIVER PROTECTOR
+    TUBE WHICH CONTAINS SMALL AMTS OF COBALT 60.TUBE CONSIDERED TO BE
+    SEALED SOURCE & NORMAL HNDLG WILL PRESENT NO RADIATION
+    PROBLEMS.DEVICE MFG ARTICLE  IAW
+    49CFR173.422/29CFR1910.1200.(SUPPLE)
+
+=============  Exposure Controls/Personal Protection  =============
+
+Work Hygienic Practices:WASH HANDS.
+Supplemental Safety and Health
+STORE/HNDLG:SUCH TUBES MUST TAKE PRECAUT TO PROTECT THEMSELVES AGAINST
+    POSSIBLE SER BODILY INJURY.DON'T BE CARELESS AROUND SUCH PRODUCTS.
+    OTHER PRECAUT:DEVICE AN ELECTRON TUBE MFG IN COMPLIANCE W/10CF
+    R30.15(A)(8).
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:A2
+NRC/State Lic Num:20-02237-04
+Boiling Pt:B.P. Text:5252F,2900C
+Melt/Freeze Pt:M.P/F.P Text:2723F,1495C
+Decomp Temp:Decomp Text:NA
+Vapor Pres:<10-9 TORR
+Vapor Density:NA
+Spec Gravity:8.9
+pH:NA
+Viscosity:NA
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:SILVER COLORED METAL, NO ODOR.
+Percent Volatiles by Volume:NA
+Corrosion Rate:NA
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE KNOWN.
+Hazardous Decomposition Products:NONE KNOWN.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPO METHODS:NOT APPLICABLE. DISPO OF BROKEN OR
+    SPENT TUBES AS SPECIFIED IN 10 CFR PART 20, & 10 CFR PART 30. AVOID
+    INHAL GASES FROM BROKEN TUBES CONTAINING TRITIUM.
+    FORM:NORMAL-SOLID, RADIOACTIVITY: 0.050MICROCURIES.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

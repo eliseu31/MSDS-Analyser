@@ -1,0 +1,192 @@
+=====================  Product Identification  =====================
+
+Product ID:146 4833 D-76R REPLENISHER CONCENTRATE
+MSDS Date:06/19/1996
+FSC:6750
+NIIN:00-498-2557
+Kit Part:Y
+MSDS Number: BWRKC
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-722-5151
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+Company Name:EASTMAN KODAK CO US CUSTOMER SERVICE/GOVERNMENT SALES
+Address:800 LEE RD
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-3129
+Country:US
+Phone:800-828-6203
+CAGE:5K871
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM SULFITE
+CAS:7757-83-7
+RTECS #:WE2150000
+Fraction by Wt: 75-80%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:SODIUM BORATE, PENTAHYDRATE
+CAS:12179-04-3
+RTECS #:VZ2540000
+Fraction by Wt: 10-15%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:10 MG/M3
+ACGIH TLV:1 MG/M3; 9394
+
+Ingred Name:HYDROQUINONE  (SARA III)
+CAS:123-31-9
+RTECS #:MX3500000
+Fraction by Wt: 6%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:2 MG/M3
+ACGIH TLV:2 MG/M3; 9394
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:P-METHYLAMINOPHENOL SULFATE (METOL)
+CAS:55-55-1
+RTECS #:SL8650000
+Fraction by Wt: 1-5%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:PENTETIC ACID, PENTA SODIUM SALT
+CAS:140-01-2
+Fraction by Wt: 1-5%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:BORON OXIDE
+CAS:1303-86-2
+RTECS #:ED7900000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3; 9394
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:TLV FOR SOD.TETRABORATE IS 1MG/M3 TWA
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MAY CAUSE BLOOD DISORDERS BASED ON
+    ANIMAL DATA. HARMFUL IF INHALED. MAY CAUSE IRRITATION TO MUCOUS
+    MEMBRANES AND UPPER RESPIRATORY TRACT. EYE CONTACT CAUSES
+    IRRITATION. REPEATED EXPOSURE TO DUST MAY C AUSE EYE INJURY. SKIN
+    CONTACT CAUSE IRRITATION. MAY CAUSE ALLERGIC REACTION. HARMFUL IF
+    SWALLOWED.
+Explanation of Carcinogenicity:HYDROQUINONE IS LISTED BY IARC AND NTP
+    AS NOT HAVING INSUFFICIENT EVIDENCE OF CARCINOGENICITY.
+Effects of Overexposure:BLOOD DISORDERS, MUCOUS MEMBRANE IRRITATION,
+    UPPER RESPIRATORY TRACT IRRITATION, EYE IRRITATION, EYE INJURY,
+    SKIN IRRITATION, ALLERGIC SKIN REACTION, GI TRACT IRRITATION.,
+    WHEEZING, CEST TIGHTNESS, ST OMACH UPSET, HIVES, FAINTNESS,
+    WEAKNESS, DIARRHEA.
+Medical Cond Aggravated by Exposure:SOME ASTHMATICS OR
+    SULFITE-SENSITIVE INDIVIDUALS MAY EXPERIENCE WHEEZING, CHEST
+    TIGHTNESS, STOMACH UPSET, HIVES, FAINTNESS, WEAKNESS, DIARRHEA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:REMOVE CONTAMINATED CLOTHING;WASH WITH A
+    NON-ALKALINE(ACIDIC) SKIN CLEANER AND WATER.IF IRRITATION
+    PERSISTS,GET MEDICAL ATTENTION.EYES:FLUSH WITH WATER FOR 15
+    MINUTES.GET MEDICAL ATTENTION.INHAL: REMOVE TO FRESH AIR.GIVE
+    OXYGEN OR ARTIFICIAL RESPIRATION IF NEEDED.INGEST:INDUCE VOMITING
+    AS DIRECTED BY MEDICAL PERSONNEL. NEVER GIVE ANYTHING BY MOUTH IF
+    UNCONSCIOUS. CALL PHYSICIAN OR POISON CONTL
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Lower Limits:NOT GIVEN
+Upper Limits:NOT GIVEN
+Extinguishing Media:USE MEDIA APPROPRIATE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:USE A SELF-CONTAINED BREATHING APPARATUS AND
+    FULL PROTECTIVE EQUIPMENT.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY PRODUCE
+    HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH TO SEWER WITH LARGE AMOUNTS OF WATER, IF
+    ALLOWABLE. OTHERWISE, ABSORB SPILL WITH VERMICULITE OR OTHER INERT
+    MATERIAL, THEN PLACE IN A CONTAINER FOR CHEMICAL WASTE. CLEAN
+    SURFACE THOROUGHLY TO RE MOVE RESIDUAL CONTAMINATION.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL,DRY,WELL-VENTILATED
+    PLACE. KEEP CONTAINER CLOSED WHEN NOT IN USE.KEEP AWAY FROM ACIDS.
+Other Precautions:FOLLOW LABEL DIRECTIONS.AVOID BREATHING DUST.AVOID
+    SKIN AND EYE CONTACT.ROUTINE USE OF A NON-ALKALINE(ACIDIC)SKIN
+    CLEANSER MAY CIRCUMVENT ALLERGIC SKIN REACTIONS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF ENGINEERING CONTROLS DO NOT MAINTAIN AIRBORNE
+    CONCENTRATIONS BELOW RECOMMENDED EXPOSURE LIMITS, AN APPROVED
+    RESPIRATOR MUST BE WORN. RESPIRATOR TYPE: DUST. IF RESPIRATORS ARE
+    USED, A PROGRAM SHOULD  BE INSTITUTED.
+Ventilation:USE GENERAL DILUTION VENTILATION.MFR RECOMMENDS 10 AIR
+    CHANGES/HOUR.
+Protective Gloves:IMPERVIOUS
+Eye Protection:CHEMICAL GOGGLES.
+Other Protective Equipment:PROTECTIVE CLOTHING,AS NEEDED.PROVIDE A
+    LOCAL EYE WASH STATION AND SAFETY SHOWER.
+Work Hygienic Practices:WASH HANDS.SEPERATE WORK CLOTHES FROM STREET
+    CLOTHES.LAUNDER WORK CLOTHES BEFORE REUSE.KEEP FOOD OUT OF THE WORK
+    AREA.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:B3
+Boiling Pt:B.P. Text:NOT GIVEN
+Melt/Freeze Pt:M.P/F.P Text:NOT GIVEN
+Decomp Temp:Decomp Text:NOT GIVEN
+Vapor Pres:NEGLIGIBLE
+Vapor Density:NOT GIVEN
+Spec Gravity:NOT GIVEN
+Evaporation Rate & Reference:NOT GIVEN
+Solubility in Water:COMPLETE
+Appearance and Odor:YELLOW POWDER, NO ODOR
+Percent Volatiles by Volume:NEGLIG
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:SULFUR DIOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH FEDERAL,STATE AND
+    LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

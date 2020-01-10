@@ -1,0 +1,187 @@
+=====================  Product Identification  =====================
+
+Product ID:PLCU2-2Y, PLASMA STANDARDS, 1,000 PPM OF COPPER IN 2% NITRIC
+MSDS Date:11/03/1997
+FSC:NIIN:Submitter:N EN
+Status Code:A
+MSDS Number: CJQKX
+=== Responsible Party ===
+Company Name:SPEX CERTIPREP INC
+Address:203 NORCROSS AVE
+City:METUCHEN
+State:NJ
+ZIP:08840
+Country:US
+Info Phone Num:732-549-7144
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+Resp. Party Other MSDS Num.:PLCU2
+Preparer's Name:VANAJA SWAKUMAN
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:04XT3
+=== Contractor Identification ===
+Company Name:SPEX CERTIPREP INC
+Address:203 NORCROSS AVE
+Box:City:METUCHEN
+State:NJ
+ZIP:08840
+Country:US
+Phone:732-549-7144
+CAGE:04XT3
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NITRIC ACID (SARA 302/313) (CERCLA); (HNO*3); EINECS
+    2311-714-2; TLV UNITS 5 MG/M3
+CAS:7697-37-2
+RTECS #:QU5775000
+Minumum % Wt:2.
+Maxumum % Wt:5.
+OSHA PEL:2 PPM
+ACGIH TLV:2 PPM/4 STEL
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:COPPER (SARA 313) (CERCLA) (CU)
+CAS:7440-50-8
+RTECS #:GL5325000
+Minumum % Wt:.1
+Maxumum % Wt:1.
+OSHA PEL:0.1MG/M3 FUME/1 DUST
+ACGIH TLV:0.2 MG/M3 FUME
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Minumum % Wt:94.
+Maxumum % Wt:97.
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:CORROSIVE. HARMFUL BY INGESTION.
+    IRRITATING TO THE EYES AND SKIN UPON CONTACT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH WATER FOR AT LEAST 15 MINUTES OCCASIONALLY
+    LIFTING UPPER AND LOWER EYELIDS. SKIN: REMOVE CONTAMINATED CLOTHING
+    AND FLUSH WITH WATER  THOROUGHLY. INHALATION: MOVE TO FRESH AIR.
+    CONSULT  DOCTOR IF SYMPTOMS PERSIST. INGESTION: GET IMMEDIATE
+    MEDICAL HELP. IF PATIENT IS CONSCIOUS, GIVE LARGE QUANTITIES OF
+    WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NOT APPLICABLE.
+Extinguishing Media:APPROPRIATE TO SURROUNDING FIRE CONDITIONS.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:OXIDES OF NITROGEN CAN BE RELEASED IN
+    CASE OF FIRE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA. WEAR PROTECTIVE EQUIPMENT. DO
+    NOT ALLOW TO ENTER DRAINAGE SYSTEMS OR WATER WAYS. DILUTE SPILL
+    WITH WATER AND NEUTRALIZE WITH SODA ASH, LIMESTONE, ETC. WIPE UP
+    AND PUT INTO SEALED CONTA INER FOR PROPER DISPOSAL. WASH SPILL SITE
+    OFF WITH WATER AFTER MATERIAL PICK UP IS COMPLETE. WEAR CHEMICAL
+    RESISTANT GLASSES, GLOVES AND CLOTHING.
+Neutralizing Agent:SODA ASH, LIMESTONE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:ENSURE GOOD VENTILATION/EXHAUSTION AT
+    WORK PLACE. HAVE AN IMMEDIATE AVAILABLITY OF AN EYE WASH IN CASE OF
+    EMERGENCY. STORE AT ROOM TEMPERATURE. KEEP THE CONTAINER TIGHTLY
+    CLOSED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IN CASE OF BRIEF EXPOSURE, USE NIOSH APPROVED
+    RESPIRATOR.
+Ventilation:USE UNDER FUME HOOD.
+Protective Gloves:ACID RESISTANT GLOVES.
+Eye Protection:ANSI APPRVD CHEM WORKERS GOGGLES AND FULL LENGTH
+    FACESHIELD .
+Other Protective Equipment:EYEWASH AND DELUGE SHOWER MEETING ANSI
+    DESIGN CRITERIA . PROTECTIVE APRON.
+Supplemental Safety and Health
+MFR TRADE NAME/PART NO: OF COPPER IN 5% NITRIC ACID.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:=100.C, 212.F
+Spec Gravity:APPROXIMATELY 1.0
+pH:1TO 2
+Solubility in Water:MISCIBLE
+Appearance and Odor:TRANSPARENT LIQUID WITH AN ACRID ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+REACTS WITH STRONG ALKALI, VARIOUS METALS, AND ORGANIC SUBSTANCES.
+Stability Condition to Avoid:STABLE UNDER NORMAL STORAGE AND USE.
+Hazardous Decomposition Products:TOXIC FUMES UNDER CONDITIONS OF FIRE.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:MAY PRODUCE CAUSTIC EFFECT ON SKIN, MUCOUS
+    MEMBRANES AND EYES. SWALLOWING WILL LEAD TO A STRONG CAUSTIC EFFECT
+    ON MOUTH AND THROAT AND TO THE DANGER OF PERFORATION OF ESOPHAGUS
+    AND STOMACH. OVER EXPOS URE TO COPPER COMPOUNDS (PURE) MAY BE
+    RELATED TO LIVER DISEASE, HEART DISEASE, RHEUMATOID ARTHITIS AND
+    LEUKEMIA. TOXICITY DATA: CONCENTRATED HNO*3-RTECS#-QU5775000:
+    ORL-HMN LDL0: 430 MG/KG; UNK-MAN LD L0: 110 MG/KG.
+    CU-RTECS#-CL5325000: ORL-HMN TDL0: 120 UG/KG.
+
+=====================  Ecological Information  =====================
+
+Ecological:DO NOT ALLOW PRODUCT TO REACH GROUND WATER, WATER BODIES OR
+    SEWAGE SYSTEM.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTACT LOCAL HAZARDOUS OR CHEMICAL WASTE
+    DISPOSAL AGENCY FOR REGULTIONS. DISPOSAL MUST BE I/A/W FEDERAL,
+    STATE & LOCAL REGULATIONS .
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:AIR: CLASS: 8, UN/ID # 3264, PACKING GROUP: III,
+    PROPER SHIPPING NAME: CORROSIVE LIQUID, ACIDIC, INORGANIC, N.O.S.
+    (NITRIC AIR SOLUTION). GROUND: CLASS 8, UN/ID NUMBER: 3264, PACKING
+    GROUP: III, PROPE R SHIPPING NAME: CORROSIVE LIQUID, ACIDIC,
+    INORGANIC, N.O.S. (NITRIC ACID SOLUTION).
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:USA: SARA: SUBJECT TO THE REPORTING
+    REQUIREMENTS OF SECTION 313 OF SARA TITLE III AND OF 40 CFR 372.
+    COMPONENTS OF THIS SOLUTION ARE REPORTED IN EPA TSCA INVENTORY
+    LIST.
+Federal Regulatory Information:WHMIS CLASSIFICATION (CANADA): CLASS E.
+    EC GUIDELINES: C: CORROSIVE. RISK PHRASES: 34-CAUSES BURNS. SAFETY
+    PHASES: 36/37/39-WEAR SUITABLE PROTECTIVE CLOTHING, GLOVES, AND
+    EYE/FACE PROTECTION. 26-IN CA SE OF CONTACT WITH EYES, RINSE
+    IMMEDIATELY WITH PLENTLY OF WATER AND SEEK MEDICAL ATTENTION. 45-IN
+    CASE OF ACCIDENT OR IF YOU FEEL UNWELL, SEEK MEDICAL ADVICE
+    IMMEDIATELY.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

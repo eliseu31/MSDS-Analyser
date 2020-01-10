@@ -1,0 +1,150 @@
+=====================  Product Identification  =====================
+
+Product ID:DISPERRSED PHASE ALLOY CAPSULES #2898
+MSDS Date:03/28/1988
+FSC:6520
+NIIN:01-113-9212
+MSDS Number: BHWLL
+=== Responsible Party ===
+Company Name:JOHNSON AND JOHNSON DENTAL CARE COMPANY
+Address:501 GEORGE STREET
+Box:4000
+City:NEW BRUNSWICK
+State:NJ
+ZIP:08903
+Country:US
+Info Phone Num:201-524-0400
+Emergency Phone Num:201-524-0400
+CAGE:DO393
+=== Contractor Identification ===
+Company Name:JOHNSON & JOHNSON HOSPITAL SERVICES INC.
+Address:501 GEORGE STREET
+Box:4000
+City:NEW BRUNSWICK
+State:NJ
+ZIP:08903
+Country:US
+Phone:800-255-2500
+CAGE:79717
+Company Name:JOHNSON AND JOHNSON DENTAL PRODUCTS CO
+Address:20 LAKE DR
+Box:130
+City:EAST WINDSOR
+State:NJ
+ZIP:08520
+Phone:(201) 524-6723
+CAGE:DO393
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SILVER  (SARA III)
+CAS:7440-22-4
+RTECS #:VW3500000
+Fraction by Wt: 69.6%
+OSHA PEL:0.01 MG/M3
+ACGIH TLV:0.1 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:TIN
+CAS:7440-31-5
+RTECS #:XP7320000
+Fraction by Wt: 17.9%
+OSHA PEL:2 MG/M3
+ACGIH TLV:2 MG/M3; 9192
+
+Ingred Name:COPPER  (SARA III)
+CAS:7440-50-8
+RTECS #:GL5325000
+Fraction by Wt: 11.8%
+OSHA PEL:0.1MG/M3 FUME/1 DUST
+ACGIH TLV:0.2MG/M3 FUME; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ZINC  (SARA III)
+CAS:7440-66-6
+RTECS #:ZG8600000
+Fraction by Wt: 1.0%
+OSHA PEL:10 MG ZNO/M3
+ACGIH TLV:10 MG ZNO/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:>5000 MG/KG
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:MAY CAUSE IRRITATION OF EYES
+    UPON CONTACT.
+Explanation of Carcinogenicity:DATA PER MGF MSDS.
+Effects of Overexposure:SEE HEALTH HAZARDS DATA.
+Medical Cond Aggravated by Exposure:PRE-EXISTING CONDITIONS MAY BE
+    WORSEN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES AND SKIN:FLUSH WITH LARGE AMOUNT OF WATER FOR ABOUT
+    15-20 MINUTES;SEEK MEDICAL ATTENTION IMMEDIATELY.INHALATION:REMOVE
+    TO FRESH AIR;CALL A PHYSICIAN.INGESTION:SEEK MEDICAL ATTENTION
+    IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:NOT FLAMMABLE;USE ANY MEDIA FOR SURROUNDING FIRE.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:NONE EXPECTED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPER PERSONAL PROTECTION;SWEEP UP OR
+    VACUUM AND COLLECT FOR PROPER DISPOSAL IN AN APPROVED CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DRY AND WELL VENTILATED
+    AREA.KEEP CONTAINER CLOSED WHEN NOT IN USE.
+Other Precautions:WASH THOROUGHLY AFTER EACH USE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NORMALLY NOT REQUIRED WITH ADEQUATE VENTILATION.
+Ventilation:NORMAL ROOM VENTILATION
+Protective Gloves:IMPERVIOUS
+Eye Protection:SAFETY GLASSES/GOGGLES
+Other Protective Equipment:PROTECTIVE CLOTHINGS.EYE-WASH
+    FACILITIES,SAFETY SHOWER.
+Work Hygienic Practices:AVOID CONTACT WITH EYES AND SKIN;DO NOT BREATHE
+    VAPORS/MIST/DUST.WASH THOROUGHLY AFTER EACH USE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Melt/Freeze Pt:M.P/F.P Text:>1832F
+Spec Gravity:8.0
+Appearance and Odor:A METALLIC GRAYISH TABLETS OR FREE FLOWING,METALLIC
+    GRAY POWDER
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE NOTED
+Hazardous Decomposition Products:NOT SPECIFIED
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT LOCAL AUTHORITIES;DISPOSAL MUST BE IN
+    ACCORDANCE WITH LOCAL,STATE AND FEDERAL REGULATIONS
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

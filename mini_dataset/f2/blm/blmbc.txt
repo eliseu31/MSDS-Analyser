@@ -1,0 +1,125 @@
+=====================  Product Identification  =====================
+
+Product ID:SILICONE FUSER OIL, FUSER LUBRICANT 8R2404
+MSDS Date:01/06/1989
+FSC:6850
+NIIN:00N019816
+MSDS Number: BLMBC
+=== Responsible Party ===
+Company Name:XEROX CORP
+Address:100 CLINTON AVE SOUTH
+City:ROCHESTER
+State:NY
+ZIP:14644-1877
+Country:US
+Info Phone Num:800-828-6571
+Emergency Phone Num:716-422-2177
+CAGE:0E6G9
+=== Contractor Identification ===
+Company Name:XEROX CORP
+Address:300 MAIN ST NO 27C
+City:EAST ROCHESTER
+State:NY
+ZIP:14645
+Country:US
+Phone:800-828-6571; 800-351-2024
+CAGE:0E6G9
+Company Name:XEROX CORPORATION
+Address:100 CLINTON AVE SOUTH
+Box:City:ROCHESTER
+State:NY
+ZIP:14644-1877
+Country:US
+Phone:800-828-6571/716-422-2177
+CAGE:26921
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POLYDIMETHYLSILOXANE
+CAS:63148-62-9
+Fraction by Wt: 100%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50:ORAL(RAT)35 G/KG
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MAY CAUSE MINIMAL IRRITATION OF
+    RESPIRATORY PASSAGES ON CONTINUOUS EXPOSURE TO HIGH CONCENTRATIONS.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE WHEN USED AS DESCRIBED BY
+    PRODUCT LITERATURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH THOROUGHLY WITH WATER FOR AT LEAST 15 MIN. SKIN:
+    WASH WITH SOAP AND WATER. INHAL: REMOVE FROM EXPOSURE. INGEST:
+    DILUTE STOMACH CONTENTS WITH SEVERAL GLASSES OF WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:>500F,>260C
+Extinguishing Media:FOAM, CARBON DIOXIDE, WATER SPRAY.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SOAK UP WITH AN ABSORBENT MATERIAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:USE REASONABLE CARE AND CAUTION. CLEAN
+    UP SPILLS COMPLETELY AS RESIDUE IS SLIPPERY.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED WHEN USED AS INTENDED IN XEROX
+    EQUIPMENT.
+Ventilation:NONE SPECIFIED BY MANUFACTURER.
+Protective Gloves:PVC OR PLASTIC GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE REQUIRED WHEN USED AS INTENDED IN XEROX
+    EQUIPMENT.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:300F,149C
+Vapor Pres:<5
+Spec Gravity:0.98
+Evaporation Rate & Reference:<1(ETHER=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:CLEAR LIQUID/SLIGHT ODOR.
+Percent Volatiles by Volume:<5
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING MATERIALS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:SILICONE DIOXIDE, CARBON DIOXIDE, AND
+    TRACES INCOMPLETELY BURNED CARBON PRODUCTS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ABSORB LIQUID ON VERMICULITE OR OTHER ABSORBENT
+    MATERIAL. DISPOSE ACCORDING TO LOCAL, STATE AND FEDERAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

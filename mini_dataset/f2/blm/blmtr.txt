@@ -1,0 +1,167 @@
+=====================  Product Identification  =====================
+
+Product ID:PRO-SEAL 899, PART A
+MSDS Date:07/11/1991
+FSC:8030
+NIIN:00-589-2673
+Kit Part:Y
+MSDS Number: BLMTR
+=== Responsible Party ===
+Company Name:PRODUCTS RESEARCH & CHEMICAL CORP
+Address:5430 SAN FERNANDO ROAD
+Box:1800
+City:GLENDALE
+State:CA
+ZIP:91209
+Country:US
+Info Phone Num:818-240-2060
+Emergency Phone Num:800-228-5635;800-424-9300(CHEMTREC)
+Preparer's Name:AFS
+CAGE:DO563
+=== Contractor Identification ===
+Company Name:PRC-DESOTO INTERNATIONAL, INC. A PPG INDUSTRIES COMPANY
+Address:5430 SAN FERNANDO RD
+Box:1800
+City:GLENDALE
+State:CA
+ZIP:91209
+Country:US
+Phone:818-240-2060
+CAGE:83574
+Company Name:PRODUCTS RESEARCH & CHEMICAL
+Address:NOW DBA COURTAULDS AEROSPACE
+Box:1800
+City:GLENDALE
+State:CA
+ZIP:91209
+Phone:818-240-2060
+CAGE:DO563
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MANGANESE DIOXIDE
+CAS:1313-13-9
+RTECS #:OP0350000
+Fraction by Wt: 60%
+Other REC Limits:1MG/M3;3STEL MN FUME
+OSHA PEL:5 MG/M3, C (MN CPDS)
+ACGIH TLV:5 MG/M3 TDUST (MN)
+
+Ingred Name:HYDROGENATED TERPHENYLS
+CAS:61788-32-7
+RTECS #:WZ6535000
+Fraction by Wt: 30%
+OSHA PEL:0.5 PPM
+ACGIH TLV:0.5 PPM; 9192
+
+Ingred Name:GUANIDINE, 1,3-DIPHENYL-; (1,3-DIPHENYL GUANIDINE) (DPG)
+CAS:102-06-7
+RTECS #:MF0875000
+Fraction by Wt: < 5%
+
+Ingred Name:TALC (CONTAINING NO ASBESTOS)
+CAS:14807-96-6
+RTECS #:WW2710000
+Fraction by Wt: < 5%
+OSHA PEL:2 MG/M3 RDUST
+ACGIH TLV:2 MG/M3 RDUST; 9192
+
+Ingred Name:CARBON BLACK
+CAS:1333-86-4
+RTECS #:FF5800000
+Fraction by Wt: < 5%
+OSHA PEL:3.5 MG/M3
+ACGIH TLV:3.5 MG/M3; 9192
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION. SKIN: LOCAL
+    IRRITATION. INHAL AND INGEST: ALTHOUGH THE MAIN HAZARD OF MANGANESE
+    COMPOUNDS IS BY BREATHING DUST, INGESTION SHOULD BE AVOIDED AS A
+    PRECAUTION AGAINST MANGANESE POISONIN G. SYMPTOMS OF MANGANESE
+    POISONING ARE WEAKNESS AND SLEEPINESS. THIS PRODUCT IS CONTAINED IN
+    FULLY (SEE EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ: ENCAPSULATED FORM & THEREFORE
+    AIRBORNE PARTICLES WILL NOT RESULT FROM NORMAL USE.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH LUKE WARM WATER FOR AT LEAST 15 MIN. IF
+    SYMPTOMS PERSIST, CONSULT PHYSICIAN. SKIN: WASH WITH SOAP AND
+    WATER. IF SYMPTOMS PERSIST, CONSULT A PHYSICIAN. INHAL: REMOVE TO
+    FRESH AIR. IF S YMPTOMS ARE PRESENT CONSULT A PHYSICIAN. INGEST:
+    CONSULT A PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NOT FLAMMABLE
+Extinguishing Media:CO*2, DRY CHEMICAL, FOAM OR WATER.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED AIR SUPPLIED
+    RESPIRATOR AND FULL PROTECTIVE EQUIPMENT . USE WATER TO COOL HEATED
+    EXPOSED CONTAINERS.
+Unusual Fire/Explosion Hazard:NONE KNOWN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SCOOP INTO CONTAINERS. CLEAN-UP RESIDUE WITH
+    1,1,1-TRICHLOROETHANE.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:WASH THOROUGHLY AFTER HANDLING AND
+    BEFORE SMOKING OR EATING. AVOID INGESTION.
+Other Precautions:THIS PRODUCT CONTAINS TOXIC CHEMICAL OR CHEMICALS
+    SUBJECT TO THE REPORTING REQUIREMENTS OF SECTION 313 OF TITLE III
+    OF THE SUPERFUND AMENDMENTS AND REAUTHORIZATION ACT OF 1986 AND 40
+    CFR PART 372.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF CURED PRODUCT IS SANDED OR GROUND SO AS TO
+    RELEASE RESPIRABLE PARTICLES, SUITABLE NIOSH/MSHA RESPIRATORY
+    PROTECTION SHOULD BE USED.
+Ventilation:GENERAL VENTILATION.
+Protective Gloves:SOLVENT RESISTANT GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING & BEFORE
+    SMOKING/EATING.
+Supplemental Safety and Health
+KEY1=N1.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Spec Gravity:2
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:BLACK LIQUID
+Percent Volatiles by Volume:0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+EASILY OXIDIZABLE MATERIALS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:OXIDES OF CARBON AND/OR MANGANESE
+    COMPOUNDS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:NOT A HAZARDOUS WASTE ACCORDING TO EPA
+    REGULATIONS. CONSULT FEDERAL, STATE AND LOCAL REGULATIONS PRIOR TO
+    DISPOSAL OF SPILLAGE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

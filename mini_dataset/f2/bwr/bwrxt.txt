@@ -1,0 +1,148 @@
+=====================  Product Identification  =====================
+
+Product ID:HYLOMAR PL 32
+MSDS Date:08/13/1992
+FSC:8030
+NIIN:01-152-0969
+MSDS Number: BWRXT
+=== Responsible Party ===
+Company Name:MARSTON BENTLEY, INC
+Address:223 NORTH BROCKMAN ST
+City:PASADENA
+State:TX
+ZIP:77506
+Country:US
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+Preparer's Name:OLIVER W BARR
+CAGE:MO541
+=== Contractor Identification ===
+Company Name:MARSTON BENTLEY, INC
+Address:223 NORTH BROCKMAN ST
+City:PASADENA
+State:TX
+ZIP:77506
+Country:US
+CAGE:MO541
+Company Name:PPG INDUSTRIES INC
+Address:ONE PPG PLACE
+Box:City:PITTSBURGH
+State:PA
+ZIP:15272
+Country:US
+Phone:1-800-245-2974 (CAL HYPO)
+CAGE:47695
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DICHLOROMETHANE (SARA 313) (CERCLA)
+CAS:75-09-2
+RTECS #:PA8050000
+Fraction by Wt: 49%
+Other REC Limits:NONE RECOMMENDED
+ACGIH TLV:147 MG/M3
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ACETONE (SARA 313) (CERCLA)
+CAS:67-64-1
+RTECS #:AL3150000
+Fraction by Wt: 6.0%
+Other REC Limits:NONE RECOMMENDED
+ACGIH TLV:250 PPM;STEL1000 PPM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:POLYESTER POLYOL
+Fraction by Wt: 45+/-5%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYE CONTACT: CAUSES SEVERE IRRITATION
+    (SOLVENT ONLY). SKIN: IRRITANT DEFATTER (SOLVENT ONLY). INHALATION:
+    NARCOTIC AND TOXIC. INGESTION: NARCOTIC AND TOXIC. RESIDUAL PUTTY
+    IS NOT BELIEVED TO BE TOXIC.
+Effects of Overexposure:SOLVENT VAPORS MAY CAUSE HEADACHE & DIZZINESS;
+    EXTENDED EXPOSURE MAY CAUSE NARCOSIS AND POSSIBLY COMA.
+Medical Cond Aggravated by Exposure:PERSONS WITH ANGINA OR HEART
+    DISEASE OR THOSE WHO ARE HEAVY DRINKERS OR SMOKERS SHOULD NOT BE
+    EXPOSED TO THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH WATER FOR 15 MINUTES. CALL A PHYSICIAN.
+    SKIN: FLUSH WITH WATER FOR 15 MINUTES. REMOVE CONTAMINATED CLOTHING
+    IF IRRITATION OCCURS, GET MEDICAL ATTENTION. INGESTION: DO NOT GIVE
+    LIQUID  IF VICTIM IS UNCONSCIOUS OR VERY DROWSY. DO NOT INDUCE
+    VOMITING. CALL A PHYSICIAN. INHALATION: REMOVE TO FRESH AIR. TREAT
+    SYMPTOMS. CALL A PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:165F,74C
+Lower Limits:13
+Upper Limits:22
+Extinguishing Media:FOAM, DRY CHEMICAL, CO2
+Fire Fighting Procedures:NONE
+Unusual Fire/Explosion Hazard:PHOSGENE AND CHLOROHYDROCARBONS WILL BE
+    PRODUCED AT HIGH TEMPERATURES AND IN PRESENCE OF OPEN FLAME.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ALLOW SOLVENT TO EVAPORATE IN FORCED
+    DRAUGHT.SCRAPE UP PUTTY & PLACE IN CONTAINER FOR DISPOSAL.AVOID
+    BREATHING FUMES/SPRAY/MIST.VENT CONFIND SPACE.KEEP FROM WATER
+    COURSES & SEWERS.DISPOSE OF LIQ & ABS ORBING MAT'L IN ACCORD
+    W/LAWS,FED,STATE,LOCAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM FOODSTUFFS. WASH
+    THOROUGHLY AFTER USE. DO NOT EAT, DRINK, OR SMOKE WHILE USING.
+Other Precautions:SAFETY SHOWER, EYE BATH AND WASHING FACILITIES SHOULD
+    BE AVAILABLE. STORE BETWEEN 5C AND 35C.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF IT IS POSSIBLE TO GENERATE SIGNIFICANT LEVELS
+    OF VAPORS OR MISTS, A NIOSH APPROVED OR EQUIVALENT RESPIRATOR IS
+    RECOMMENDED.
+Ventilation:GENERAL VENTILATION IS RECOMMENDED.
+Protective Gloves:USE IMPERMEABLE GLOVES *
+Eye Protection:CHEMICAL SPLASH GOGGLES *
+Work Hygienic Practices:IF CLOTHING IS CONTAMINATED, REMOVE CLOTHING &
+    THOROUGHLY WASH AFFECTED AREA. LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE
+Supplemental Safety and Health
+* WHEN ATTACHING FEEDING EQUIPMENT OR DOING MAINTENANCE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V4
+Boiling Pt:B.P. Text:104F,40C
+Vapor Pres:400 @ 25C
+Vapor Density:2.9
+Spec Gravity:1.3 @ 20C
+Evaporation Rate & Reference:25 (BU AC=1) (SOLVENT)
+Solubility in Water:<5%
+Appearance and Odor:BLUE GEL
+
+=================  Stability and Reactivity Data  =================
+
+STRONG OXIDIZERS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF LIQUID AND ABSORBING MATERIAL IN
+    ACCORDANCE WITH ALL LAWS, FEDERAL, STATE, AND LOCAL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

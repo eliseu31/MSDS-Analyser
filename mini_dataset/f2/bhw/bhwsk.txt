@@ -1,0 +1,184 @@
+=====================  Product Identification  =====================
+
+Product ID:SKD-S SPOTCHECK DEVELOPER
+MSDS Date:08/30/1989
+FSC:6850
+NIIN:00-160-8480
+MSDS Number: BHWSK
+=== Responsible Party ===
+Company Name:MAGNAFLUX	DIV OF ILLINOIS TOOL WKS INC
+Address:3624 WEST LAKE AVENUE
+City:GLENVIEW
+State:IL
+ZIP:60025
+Country:US
+Info Phone Num:847-657-5300 / 5338 (FAX)
+Emergency Phone Num:847-657-5300/800-424-9300(CHEMTREC)
+Preparer's Name:BRUCE C.GRAHAM
+CAGE:KO362
+=== Contractor Identification ===
+Company Name:ILLINOIS TOOL WORKS INC MAGNAFLUX DIV
+Address:3624 WEST LAKE AVENUE
+Box:City:GLENVIEW
+State:IL
+ZIP:60025
+Country:US
+Phone:847-657-5300/
+CAGE:37676
+Company Name:MAGNAFLUX	DIV OF ILLINOIS TOOL WKS INC
+Address:3624 WEST LAKE AVENUE
+City:GLENVIEW
+State:IL
+ZIP:60025
+Country:US
+Phone:847-657-5300 / 5338 (FAX)
+CAGE:KO362
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHYL ACETATE  (SARA III)
+CAS:141-78-6
+RTECS #:AH5425000
+Fraction by Wt: 40.0%
+OSHA PEL:400 PPM
+ACGIH TLV:400 PPM; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ACETONE  (SARA III)
+CAS:67-64-1
+RTECS #:AL3150000
+Fraction by Wt: 30.0%
+OSHA PEL:1000PPM
+ACGIH TLV:750PPM/1000STEL;9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:BUTANE
+CAS:106-97-8
+RTECS #:EJ4200000
+Fraction by Wt: 10.0%
+OSHA PEL:800 PPM
+ACGIH TLV:800 PPM; 9192
+
+Ingred Name:PROPANE
+CAS:74-98-6
+RTECS #:TX2275000
+Fraction by Wt: 10.0%
+OSHA PEL:1000 PPM
+ACGIH TLV:ASPHYXIANT; 9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: INGESTION: CAN CAUSE HEADACHE,
+    DROWSINESS & UNCONSCIOUSNESS.INHALATION: VAPORS ARE IRRITATING TO
+    NASAL PASSAGES AND THROAT. CAN CAUSE STUPOR & HEADACHES. SKIN: CAN
+    CAUSE DRYING OF SKIN. EYE: IR RITATION. CHRONIC: PROLONGED EXPOSURE
+    CAN CAUSE NARCOTIC EFFECTS.
+Explanation of Carcinogenicity:DATA PER MSDS
+Effects of Overexposure:HEADACHE, DROWSINESS, UNCONSCIOUSNESS,
+    IRRITATION TO NASAL PASSAGES, EYES, MUCOUS MEMBRANES, STUPOR,
+    DRYING OF SKIN
+Medical Cond Aggravated by Exposure:PERSONS WITH A HISTORY OF AILMENTS
+    OR WITH A PRE-EXISTING DISEASE INVOLVING THE EYES, SKIN, OR
+    RESPIRATORY TRACT MAY BE AT INCREASED RISK FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION:REMOVE TO FRESH AIR. RESUSCITATE IF NOT BREATHING.
+    GET MEDICAL ATTENTION. EYES:IMMEDIATELY FLUSH WITH PLENTY OF WATER
+    FOR 15 MINUTES HOLDING EYELIDS OPEN. GET MEDICAL ATTENTION.
+    SKIN:REMOVE  CONTAMINATED CLOTHING. WASH WITH SOAP AND WATER. IF
+    IRRITATION PERSISTS, GET MEDICAL ADVICE.  INGESTION: INDUCE
+    VOMITING. GIVE NOTHING BY MOUTH IF UNCONSCIOUS. GET IMMEDIATE
+    MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE,AEROSOL
+Lower Limits:2.0
+Upper Limits:15.0
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.AEROSOL CAN MAY
+    BURST IF HEATED ABOVE 130F.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SMALL SPILL: WIPE/SOAK UP WITH PAPER TOWEL OR
+    INERT ABSORBANT. PUT IN DISPOSAL CONTAINER. REMOVE RESIDUE WITH
+    WATER. LARGE SPILL: EVACUATE AND VENTILATE AREA. IF POSSIBLE, STOP
+    LEAK. DIKE TO RETAIN RU N OFF. VACUUM UP FREE LIQUID. ABSORB/WASH
+    RESIDUE.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL VENTILATED
+    AREA AWAY FROM SOURCES OF IGNITION. KEEP CONTAINERS TIGHTLY CLOSED
+    WHEN NOT IN USE. STORE BELOW 130 DEG. F.
+Other Precautions:DO NOT TAKE INTERNALLY. DO NOT BREATHE MIST. AVOID
+    PROLONGED OR REPEATED BREATHING OF VAPOR. AVOID CONTACT WITH EYES.
+    USE WITH ADEQUATE VENTILATION. WASH THOROUGHLY AFTER HANDLING. USE
+    SPARK-RESISTANT  TOOLS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF VENTILATION DOES NOT MAINTAIN INHALATION
+    EXPOSURES BELOW PEL(TLV), USE NIOSH/MSHA APPROVED FULL-FACE ORGANIC
+    VAPOR CARTRIDGE OR CANISTER RESPIRATORS AS PER CURRENT 29 CFR
+    1910.134, INSTRUCTIONS/WAR NINGS AND NIOSH-RESPIRATOR SELECTION.
+Ventilation:MECHANICAL (GENERAL) ROOM VENTILATION AND LOCAL EXHAUST
+    BOTH REQUIRED.
+Protective Gloves:NEOPRENE OR RUBBER
+Eye Protection:CHEMICAL SAFETY GOGGLES
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER.
+    INDUSTRIAL-TYPE WORK CLOTHING, APRON, AND BOOTS IF SPILLS OR
+    SPLASHING CAN OCCUR.
+Work Hygienic Practices:WASH THOROUGHLY WITH SOAP AND WATER AFTER
+    HANDLING. DO NOT WEAR CONTAMINATED CLOTHING OR FOOTWEAR.
+Supplemental Safety and Health
+AVOID PROLONGED OR REPEATED EXPOSURE. DO NOT GET ON SKIN OR IN EYES. DO
+    NOT BREATHE VAPORS OR MISTS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V3
+Boiling Pt:B.P. Text:167F,75C
+Vapor Pres:150 MM BUL
+Vapor Density:3.0
+Spec Gravity:O.90
+pH:NEUTRL
+Evaporation Rate & Reference:0.4(ETHER=1)
+Solubility in Water:PARTIAL
+Appearance and Odor:WHITE LIQUID
+Percent Volatiles by Volume:90.0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE NOTED
+Stability Condition to Avoid:HIGH TEMPERATURES, SPARKS, AND OPEN FLAMES
+Hazardous Decomposition Products:SMOKE,SOOT,OXIDES OF CARBON ON
+    COMBUSTION
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL SHOULD BE MADE BY INCINERATION IN
+    ACCORDANCE WITH ALL APPLICABLE FEDERAL, STATE AND LOCAL LAWS AND
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

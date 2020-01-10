@@ -1,0 +1,146 @@
+=====================  Product Identification  =====================
+
+Product ID:SC-100 BASE COMPONENT
+MSDS Date:05/21/1991
+FSC:8040
+NIIN:00N021485
+Kit Part:Y
+MSDS Number: BLMLS
+=== Responsible Party ===
+Company Name:AMERICAN SAFETY TECHNOLOGIES INC
+Address:565 EAGLE ROCK AVE
+City:ROSELAND
+State:NJ
+ZIP:07068
+Country:US
+Info Phone Num:201-403-2600
+Emergency Phone Num:201-403-2600;800-424-9300(CHEMTREC)
+Preparer's Name:F LOELOFF
+CAGE:AMSAT
+=== Contractor Identification ===
+Company Name:AMERICAN SAFETY TECHNOLOGIES INC.
+Address:565 EAGLE ROCK AVENUE
+City:ROSELAND
+State:NJ
+ZIP:07068
+Country:US
+Phone:800-424-9300
+CAGE:AMSAT
+Company Name:SAFETY COATINGS, INC
+Address:HIGHWAY 59 NORTH
+Box:399
+City:FOLEY
+State:AL
+ZIP:36536
+Country:US
+Phone:205-943-1638
+CAGE:SAFET
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DIGLYCIDYL ETHER OF BIS PHENOL A; (BISPHENOL-A DIGLYCIDYL
+    ETHER). LD50:ORAL(RAT)>5 G/KG.
+CAS:25068-38-6
+RTECS #:SL6475000
+
+Ingred Name:ALIPHATIC GLYCIDYL ETHER
+CAS:68609-97-2
+
+Ingred Name:ALKYL GLYCIDYL ETHER; (ALIPHATIC GLYCIDYL ETHER)
+CAS:68081-84-5
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE INGREDIENT 1.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES:MAY CAUSE TEMP INJURY. SKIN:MAY
+    CAUSE IRRIT & SENSIT. MAY CAUSE ALLERGIC RXN WHICH CAN BE SEV IN
+    CERTAIN INDIVIDUALS. INHAL:VAPS MAY CAUSE HDCHS, NAUS, DIZZ & RESP
+    TRACT IRRIT. INGEST:NO SPEC INF O AVAIL. CONTAINS MATL THAT MAY BE
+    SLIGHTLY TOX.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:IRRITATION, SENSITIZATION & DERMATITIS.
+Medical Cond Aggravated by Exposure:ALLERGY, ECZEMA & OTHER SKIN
+    CONDITIONS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH W/LG AMTS OF H2O FOR @ LST 15 MIN. GET MD.
+    SKIN:REMOVE CONTAM CLTHG. WASH CNTCT AREA W/MILD SOAP  H2O.
+    INHAL:REMOVE TO FRESH AIR. IF BRTHG HAS STOPPED, ADMIN ARTF RESP.
+    GET MD. INGEST:IF CO NSCIOUS, GIVE LG QTYS OF H2O & INDUCE VOMIT.
+    GET MD.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:>200F,>93C
+Extinguishing Media:CHEMICAL FOAM OR DRY CHEMICAL FOR SMALL FIRES;
+    AQUEOUS FOAM FOR LARGE FIRES.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:CLOSED CONTAINERS MAY RUPTURE (DUE TO
+    BUILD UP OF PRESSURE) WHEN EXPOSED TO EXTREME HEAT. DECOMPOSITION &
+    COMBUSTION PRODUCTS MAY BE TOXIC.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DIKE SPILL. ABSORB WITH INERT MATERIAL &
+    COLLECT FOR DISPOSAL. FLUSH AREA WITH WATER; PREVENT WASHINGS FROM
+    ENTERING WATERWAYS.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID ALL PERSONAL CONTACT. DO NOT
+    EXCEED 110F/43C IN STORAGE AREA.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR WITH ORGANIC
+    VAPOR CARTRIDGE IF REQUIRED.
+Ventilation:MECH VENT & LOC EXHST ARE RECOMMENDED. MECH EXHST IS NOT
+    RECOMMENDED AS SOLE MEANS OF CONTROLLING EMPLOYEE EXPOSURE.
+Protective Gloves:IMPERVIOUS GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:IN OPERATIONS WHERE CNTCT CAN OCCUR
+    COVERALLS, APRON & IMPERVIOUS FOOT COVERINGS ARE RECOMMENDED. SFTY
+    SHOWER & (SUPDAT)
+Work Hygienic Practices:IMMEDIATELY REMOVE & THOROUGHLY LAUNDER
+    CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+OTHER PROT EQUIP:EYE WASH FACILITY SHOULD BE AVAILABLE TO EMPLOYEES.
+    KEY1: N1.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C2
+Boiling Pt:B.P. Text:>300F,>149C
+Vapor Pres:<0.1 MMHG
+Spec Gravity:1.1
+Evaporation Rate & Reference:<1 (BUTYL ACETATE=1)
+Solubility in Water:INSOLUBLE
+Appearance and Odor:CLEAR LIQUID, MILD ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:EXCESSIVE HEAT.
+Hazardous Decomposition Products:CO, CO2 & ALDEHYDES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF I/A/W FEDERAL, STATE & LOCAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

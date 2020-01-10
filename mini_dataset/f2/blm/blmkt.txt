@@ -1,0 +1,119 @@
+=====================  Product Identification  =====================
+
+Product ID:PROTECT, DL1430
+MSDS Date:07/07/1988
+FSC:6850
+NIIN:00N021450
+MSDS Number: BLMKT
+=== Responsible Party ===
+Company Name:DRUMMOND AMERICAN CORP
+Address:1700 SHERWIN AVE
+City:DES PLAINES
+State:IL
+ZIP:60010
+Country:US
+Info Phone Num:312-297-1777
+Emergency Phone Num:312-297-1777;800-424-9300(CHEMTREC)
+CAGE:64557
+=== Contractor Identification ===
+Company Name:DRUMMOND AMERICAN CORPORATION
+Address:600 CORPORATE WOODS PKWY.
+Box:City:VERNON HILLS
+State:IL
+ZIP:60061
+Country:US
+Phone:708-913-9313
+CAGE:64557
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ACETIC ACID, (ETHYLENEDINITRILO)TETRA-, TETRASODIUM SALT;
+    (EDTA)
+CAS:64-02-8
+RTECS #:AH5075000
+Fraction by Wt: <5%
+
+Ingred Name:COMPONENT OF INGREDIENT 1 (EDTA)
+RTECS #:9999999ZZ
+Fraction by Wt: <0.001%
+ACGIH TLV:2 PPM (MFR)
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:PROLONGED CONTACT MAY CAUSE BURNS TO
+    EYES AND SKIN. INGESTION IS CORROSIVE TO SOFT TISSUES.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:NONE SPECIFIED BY MANUFACTURER.
+Medical Cond Aggravated by Exposure:NONE LISTED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:FLUSH W/PLENTY OF WATER. EYE:FLUSH W/ PLENTY OF WATER
+    FOR AT LEAST 15 MINUTES. GET MD. INGEST:DO NOT INDUCE VOMITING. IF
+    CONSCIOUS, GIVE LOTS OF WATER OR MILK, THEN DRINK DILUTED VINEGAR,
+    LEMON J UICE. GET MD. INHAL:REMOVE TO FRESH AIR. SUPPORT BREATHING
+    (GIVE O2/ARTF RESP), CALL MD .
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:CARBON DIOXIDE, DRY CHEMICAL, WATER, SAND.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE ABSORBENT MATERIAL TO COLLECT AND CONTAIN
+    FOR SALVAGE OR DISPOSAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STANDARD SAFETY PRECAUTIONS SHOULD BE
+    OBSERVED WHEN HANDLING MATERIAL OF THIS TYPE.
+Other Precautions:NONE LISTED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED.
+Ventilation:MAINTAIN ADEQUATE MECHANICAL (GENERAL) VENTILATION.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWERS SHOULD
+    BE AVAILABLE.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:212F,100C
+Vapor Pres:1
+Vapor Density:LTR/AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER.
+Solubility in Water:COMPLETE
+Appearance and Odor:REDDISH BROWN LIQUID WITH NO ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACID, STRONG OXIDIZERS.
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:NONE KNOWN.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF I/A/W FEDERAL, STATE AND LOCAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

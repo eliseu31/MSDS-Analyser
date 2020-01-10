@@ -1,0 +1,181 @@
+=====================  Product Identification  =====================
+
+Product ID:B&B 120NP
+MSDS Date:09/01/1989
+FSC:6850
+NIIN:01-138-7550
+MSDS Number: BJDKW
+=== Responsible Party ===
+Company Name:B AND B TRITECH CO INC.
+Address:875 W 20TH STREET
+City:HIALENA
+State:FL
+ZIP:33010-2310
+Country:US
+Info Phone Num:305-888-5247
+Emergency Phone Num:305-888-5247
+CAGE:LO016
+=== Contractor Identification ===
+Company Name:B & B TRITECH, INC.
+Address:875 WEST 20TH. STREET,
+Box:City:HIALEAH
+State:FL
+ZIP:33010-2310
+Country:US
+Phone:305-888-5247
+CAGE:21361
+Company Name:B AND B TRITECH CO INC.
+Address:875 W 20TH STREET
+Box:City:HIALENA
+State:FL
+ZIP:33010-2310
+Country:US
+Phone:305-888-5247
+CAGE:LO016
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYLENE CHLORIDE	(SARA III)
+CAS:75-09-2
+RTECS #:PA8050000
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:500 PPM/C,1000; Z2
+ACGIH TLV:50 PPM, A2; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:PERCHLOROETHYLENE (TETRACHLOROETHYLENE)  (SARA III)
+CAS:127-18-4
+RTECS #:KX3850000
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:100 PPM
+ACGIH TLV:25PPM/100,A3 STEL;94
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:SODIUM CHROMATE  (SARA III)
+CAS:7775-11-3
+RTECS #:GB2955000
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:0.1 PPM CRO3;CEILING
+ACGIH TLV:0.05 MG CR/M3; 9192
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+Ingred Name:PROPRIETARY COMPONENT "A"	MFR DID NOT SPECIFY COMPONENT
+    BUT DID LIST THE PEL & TLV GIVEN BELOW.
+Other REC Limits:SEE ABOVE
+OSHA PEL:10 PPM, SKIN
+ACGIH TLV:10 PPM, STEL 15 PPM
+
+Ingred Name:PROPRIETARY COMPONENT "B"  MFR DID NOT LIS COMPONENT BUT
+    GAVE PEL & TLV AS "NOT ESTABLISHED".
+Other REC Limits:SEE ABOVE
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:PRODUCT IS IRRITATING TO BODY TISSUES,
+    AND IS A CENTRAL NERVOUS SYSTEM DEPRESSANT, CAUSING NAUSEA AND
+    DIZZINESS.	CHRONIC OVER EXPOSURE MAY DEFAT SKIN AND/OR CAUSE
+    DERMATITIS, LIVER AND/OR KIDNEY DAMA GE.
+Explanation of Carcinogenicity:PRODUCT CONTAINS
+    CHROMATES,PERCHLOROETHYLENE,AND DICHLOROMETHANE, ALL LISTED BY IARC
+    AND NTP AS CARCINOGENS.
+Effects of Overexposure:EYE:IRRITATION,BURNING. 
+    SKIN:DRYING,DEFATTING,IRRITATION. 
+    INHALED:DIZZINESS,HEADACHE,NAUSEA. CENTRAL NERVOUS SYSTEM
+    DEPRESSION.  INGESTED:NO INFORMATION GIVEN BY MANUFACTURER. 
+    HMIS:CHRONIC OVEREXPO SURE MAY CAUSE LIVER AND/OR KIDNEY DAMAGE.
+Medical Cond Aggravated by Exposure:NONE GIVEN BY MANUMACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH W/WATER 15 MIN, HOLD LIDS OPEN.  SKIN:WASH WITH
+    SOAP & WATER. REMOVE CONTAMINATED CLOTHING AND LAUNDER BEFORE
+    REUSE.  INHALED:REMOVE TO FRESH AIR. RESTORE BREATHING IF
+    NECESSARY.	INGESTED:D O NOT INDUCE VOMITING. GIVE 2 LARGE GLASSES
+    OF MILK OR WATER AND GET IMMEDIATE MEDICAL CARE. GIVE NOTHING BY
+    MOUTH IF UNCONSCIOUS.   IF IRRITATION PERSISTS OR IS SEVERE,SEE A
+    DOCTOR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:NONE TO BOILING
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF TOXIC AND/OR ACID VAPORS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SMALL SPILL: VENTILATE AREA.  WIPE UP WITH
+    RAGS OR TOWELS. VENTILATE AREA.   LARGE SPILL:RECOVER WITH MOP,
+    SQUEEGE AND VACUUM.  AVOID CONTACT AND/OR BREATHING VAPORS.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL-VENTILATED
+    LOCATION, AWAY FROM ANY AREA WHERE THE FIRE HAZARD MAY BE ACUTE.
+    KEEP CONTAINERS CLOSED WHEN NOT IN USE.
+Other Precautions:VAPORS ARE HEAVIER THAN AIR AND WILL COLLECT IN LOW
+    AREAS. DO NOT ENTER WHERE VAPORS ARE SUSPECTED WITHOUT SELF
+    CONTAINED BREATHING APPARATUS AND AN OBSERVER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED AIR SUPPLIED RESPIRATOR
+    OR RESPIRATOR FOR ORGANIC VAPOR IF EXPOSURE IS ABOVE THE TLV/PEL.
+    IF EXPOSED ABOVE 1000 PPM USE ONLY A SUPPLIED AIR RESPIRATOR. SEE
+    29 CFR 1910.134 FOR  REGULATIONS PERTAINING TO RESPIRATOR USE
+Ventilation:NORMAL ROOM VENTILATION MAY BE SUFFICIENT.	SUPPLEMENT WITH
+    LOCAL EXHAUST IF PEL/TLV IS EXCEEDED.
+Protective Gloves:NEOPRENE, PVA GLOVES RECOMMENDED.
+Eye Protection:SAFETY GLASSES OR SPLASH GOGGLES
+Other Protective Equipment:APRON AND WORK CLOTHING TO MINIMIZE
+    EXPOSURE. EYE WASH STATION & SAFETY SHOWER RECOMMENDED.
+Work Hygienic Practices:USE GOOD CHEMICAL HYGIENE PRACTICE. AVOID
+    UNNECESSARY CONTACT. WASH THOROUGHLY BEFORE EATING OR DRINKING.
+Supplemental Safety and Health
+MANUFACTURER SUPPLIED  TWO MSDS'S: 120NP AND 122NP. THERE MAY BE SLIGHT
+    FORMULATION CHANGE IN ONE OF THESE ITEMS. B&B WOULD NOT DISCLOSE
+    THIS INFORMATION. THIS ENTRY DESCRIBES B&B 120NP; SEE PNI 'B' O F
+    THIS NSN FOR B&B 122NP.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T4
+Boiling Pt:B.P. Text:100F,38C
+Spec Gravity:1.2
+Evaporation Rate & Reference:SLOWER THAN ETHYL ETHER.
+Solubility in Water:PARTIAL
+Appearance and Odor:2 PHASE LIQUID, SOLVENT ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS,STRONG ALKALIS
+Stability Condition to Avoid:NO INFORMATION GIVEN BY MANUFACTURER
+Hazardous Decomposition Products:WHEN INVOLVED IN FIRE, PRODUCT EMITS
+    HIGHLY TOXIC AND IRRITATING FUMES OF HYDROGEN CHLORIDE AND
+    PHOSGENE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W ALL FEDERAL, STATE AND LOCAL
+    REGULATIONS.  NO INFORMATION GIVEN BY MANUFACTURER ON DISPOSAL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

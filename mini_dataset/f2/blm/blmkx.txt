@@ -1,0 +1,118 @@
+=====================  Product Identification  =====================
+
+Product ID:DEPICT, DR8390
+MSDS Date:07/07/1988
+FSC:6840
+NIIN:00N021453
+MSDS Number: BLMKX
+=== Responsible Party ===
+Company Name:DRUMMOND AMERICAN CORP
+Address:1700 SHERWIN AVE
+City:DES PLAINES
+State:IL
+ZIP:60010
+Country:US
+Info Phone Num:312-297-1777
+Emergency Phone Num:312-297-1777;800-424-9300(CHEMTREC)
+CAGE:64557
+=== Contractor Identification ===
+Company Name:DRUMMOND AMERICAN CORPORATION
+Address:600 CORPORATE WOODS PKWY.
+Box:City:VERNON HILLS
+State:IL
+ZIP:60061
+Country:US
+Phone:708-913-9313
+CAGE:64557
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:N-ALKYL DIMETHYL BENZYL AMMONIUM CHLORIDE. MFR CAS
+    #63891-01-5.
+CAS:68391-01-5
+Fraction by Wt: <0.1%
+
+Ingred Name:QUARTERNARY AMMONIUM CHLORIDE; (N-ALKYL DIMETHYL ETHYL
+    BENZYL AMMONIUM CHLORIDE)
+CAS:68956-79-6
+Fraction by Wt: <0.1%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:CAUSES SEVERE EYE IRRITATION.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:DERMATITIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:WASH W/SOAP & WATER. EYE:FLUSH W/WATER FOR AT LEAST 15
+    MINUTES AND CONTACT MD IF IRRITATION PERSISTS. INGEST:DO NOT INDUCE
+    VOMITING. CONTACT MD. INHAL:REMOVE TO FRESH AIR. SUPPORT BREATHING
+    (GIVE  O2/ARTF RESP), CALL MD .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TOC
+Extinguishing Media:NOT APPLICABLE. USE MEDIA SUITABLE FOR SURROUNDING
+    FIRE .
+Fire Fighting Procedures:NOT APPLICABLE. WEAR NIOSH/MSHA APPROVED SCBA
+    & FULL PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONTAIN SPILL AND COLLECT IN AN APPROVED
+    CONTAINER. NEUTRALIZE RESIDUE W/DILUTE BICARBONATE SOLUTION.
+Neutralizing Agent:DILUTE BICARBONATE SOLUTION.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:READ ENTIRE LABEL BEFORE USING.
+Other Precautions:KEEP OUT OF REACH OF CHILDREN. AVOID CONTACT WITH
+    SKIN. DO NOT GET IN EYES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED.
+Ventilation:NONE REQUIRED.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NOT REQUIRED.
+Work Hygienic Practices:WASH HANDS BEFORE EATING OR USING THE WASHROOM.
+    SMOKE IN SMOKING AREAS ONLY.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Vapor Density:HVR/AIR
+Spec Gravity:1.25
+Evaporation Rate & Reference:SLOWER THAN ETHER.
+Solubility in Water:INSOLUBLE
+Appearance and Odor:WHITE CREAM WITH A MINT FRAGRANCE.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:KEEP FROM FREEZING.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:WASTE MATERIAL MAY BE NEUTRALIZED W/DILUTE
+    ALKALINE SOLUTION. DISCHARGE INTO TREATMENT SYSTEM ACCORDING TO
+    LOCAL, STATE AND FEDERAL REGULATIONS. TRIPLE RINSE CONTAINER, WRAP
+    AND DISCARD.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

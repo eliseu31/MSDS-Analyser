@@ -1,0 +1,129 @@
+=====================  Product Identification  =====================
+
+Product ID:MMM-A-1058A ADHESIVE, PC-NAPCO
+MSDS Date:01/01/1987
+FSC:8040
+NIIN:00-938-6860
+MSDS Number: BJDTL
+=== Responsible Party ===
+Company Name:NATIONAL AEROSOL PRODUCTS CO SUB OF GROW GROUP INC
+Address:2193 E. 14TH STREET
+City:LOS ANGELES
+State:CA
+ZIP:90021
+Country:US
+Info Phone Num:213-627-2668
+Emergency Phone Num:213-627-2668
+CAGE:59986
+=== Contractor Identification ===
+Company Name:GROW GROUP INC DEVOE AND REYNOLDS CO DIV
+Address:4000 DUPONT CIRCLE
+Box:City:LOUISVILLE
+State:KY
+ZIP:40207-4802
+Country:US
+Phone:502-361-2536
+CAGE:97758
+Company Name:NATIONAL AEROSOL PRODUCTS CO SUB OF GROW GROUP INC
+Address:2193 E 14TH STREET
+Box:City:LOS ANGELES
+State:CA
+ZIP:90021-2843
+Country:US
+CAGE:59986
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SBR RUBBER, RESIN
+Fraction by Wt: 20%
+ACGIH TLV:1000 PPM
+
+Ingred Name:HEXANE (N-HEXANE)
+CAS:110-54-3
+RTECS #:MN9275000
+Fraction by Wt: 57%
+OSHA PEL:500 PPM
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:CHLORINATED SOLVENTS
+Fraction by Wt: 3%
+ACGIH TLV:200 PPM
+
+Ingred Name:ISOBUTANE-PROPANE
+Fraction by Wt: 20%
+ACGIH TLV:800 PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Health Hazards Acute and Chronic:INGESTION: NAUSEA. EYES: IRRITATION.
+    INHALATION: ANESTHETIC. AND SKIN: MINOR IRRITATION.
+Effects of Overexposure:INGESTION: NAUSEA. EYES: IRRITATION.
+    INHALATION: ANESTHETIC. AND SKIN: MINOR IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION: DO NOT INDUCE VOMITING, GET IMMEDIATE MEDICAL
+    ATTENTION. EYES: FLUSH WITH WATER FOR MINIMUM OF 5 MINUTES.
+    INHALATION: REMOVE TO FRESH AIR. CALL A PHYSICIAN. GIVE
+    MOUTH-TO-MOUTH RESUCITATION  IF BREATHING STOPS. SKIN: WASH WITH
+    WATER AND SEEK MEDICAL HELP.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NR
+Extinguishing Media:WATER FOG, STANDARD FOAM, CO2, DRY CHEMICAL AND
+    HALON.
+Fire Fighting Procedures:TEMPS >120F MAY CAUSE BURST/VENTING. KEEP
+    CONTAINER COOL. USE EQUIP/SHIELDING TO PROTECT PERSONNEL AGAINST
+    BURST/VENTING CONTAINERS. DO NOT PUNCTURE/INCINERATE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:MOP UP, SOAK UP OR WIPE UP IMMEDIATELY.
+    PROVIDE VENTILATION. DISPOSE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT STORE WHERE TEMPERATURE COULD
+    EXCEED 120F.
+Other Precautions:USE AND FOLLOW LABEL DIRECTIONS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:ADEQUATE VENTILATION IS REQUIRED.
+Ventilation:RECOMMENDED. LOCAL EXHAUST IS ADEQUATE.
+Protective Gloves:REQUIRED FOR PROLONGED CONTACT.
+Eye Protection:SOLVENT RESISTANT.
+Other Protective Equipment:NORMAL PROTECTIVE CLOTHING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Vapor Pres:40-50 @70F
+Vapor Density:> THAN AIR
+Spec Gravity:0.796 (H2O=1)
+Evaporation Rate & Reference:> (H2O=1)
+Solubility in Water:INSOLUBLE
+Appearance and Odor:SOLVENT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Condition to Avoid:DO NOT STORE ABOVE 120F(49C).
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DO NOT PUNCTURE OR INCINERATE "EMPTY" OR FULL
+    CANS. ONCE SPILLS OR LEAKS ARE CLEANED UP. DISPOSE OF WASTE IN
+    ACCORDANCE WITH GOVERNMENTAL ORDINANCES.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

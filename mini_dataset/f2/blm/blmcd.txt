@@ -1,0 +1,121 @@
+=====================  Product Identification  =====================
+
+Product ID:2 FUEL OIL
+MSDS Date:08/31/1989
+FSC:9130
+NIIN:00N020341
+MSDS Number: BLMCD
+=== Responsible Party ===
+Company Name:AMERADA HESS CORP
+Address:1 HESS PLAZA
+City:WOODBRIDGE
+State:NJ
+ZIP:07095
+Country:US
+Info Phone Num:201-750-6000
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+CAGE:4N717
+=== Contractor Identification ===
+Company Name:AMERADA HESS CORP
+Address:1 HESS PLAZA
+Box:City:WOODBRIDGE
+State:NJ
+ZIP:07095-1229
+Country:US
+Phone:908-750-6000, CHEMTREC 800-424-9300
+CAGE:4N717
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NON HAZARDOUS INGREDIENT
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION IN CONFINED SPACES MAY
+    RESULT IN DIZZINESS, DROWSINESS, HEADACHE. INGESTION:IRRITATION OF
+    STOMACH AND INTESTINES.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:IMMEDIATELY FLUSH WITH LOW-PRESSURE WATER FOR AT LEAST 15
+    MINUTES. SKIN:REMOVE SATURATED CLOTHING. WASH FOR 5 MINUTES.
+    INGEST:DO NOT INDUCE VOMITING. GIVE WATER OR MILK AND CALL MD OR
+    POISON CONTR OL. INHAL:REMOVE TO FRESH AIR. GIVE FIRST AID, CALL
+    MD.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:>100F,>38C
+Lower Limits:3.9%
+Upper Limits:20%
+Extinguishing Media:FOAM, DRY CHEMICAL, CO2, HALON, WATER SPRAY.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT . COOL ADJACENT STRUCTURES USING WATER SPRAY.
+Unusual Fire/Explosion Hazard:FLAMMABLE:VAPORS MAY FORM EXPLOSIVE
+    MIXTURES WITH AIR.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SHUT OFF LEAK. ELIMINATE IGNITION SOURCES.
+    CONTAIN AND COLLECT SPILLED PRODUCT. PREVENT PUBLIC ACCESS. IN CASE
+    OF A SPILL INTO WATERWAY, NOTIFY REGULATORY AGENCIES AS REQUIRED.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM OPEN FLAME, SPARKS,
+    EXCESSIVE TEMPERATURES AND OPEN FLAME. USE APPROVED VENTED
+    CONTAINERS. BOND AND GROUND CONTAINERS.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT REQUIRED IN WELL VENTILATED AREAS. IN
+    CONFINED SPACES, NIOSH/MSHA APPROVED SCBA IF REQUIRED.
+Ventilation:NORMALLY NOT REQUIRED WITH GOOD VENTILATION.
+Protective Gloves:NEOPRENE GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:340F,171C
+Vapor Pres:0.009@ 70F
+Vapor Density:1.0
+Spec Gravity:82 @ 60F
+Evaporation Rate & Reference:0
+Solubility in Water:NIL
+Appearance and Odor:CLEAR STRAW YELLOW COLOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS.
+Stability Condition to Avoid:IGNITION SOURCES AND HEAT.
+Hazardous Decomposition Products:CO, CO2.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:WASTE MAY BE INCINERATED, WITH APPROVAL OF EPA,
+    AT APPROVED DISPOSAL SITE. DISPOSAL MUST BE IN ACCORDANCE WITH ALL
+    LOCAL, STATE, AND FEDERAL REGULATIONS .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

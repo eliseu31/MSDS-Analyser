@@ -1,0 +1,161 @@
+=====================  Product Identification  =====================
+
+Product ID:CITRACONIC ANHYDRIDE, 27430
+MSDS Date:07/01/1999
+FSC:6810
+NIIN:00N092038
+Status Code:A
+MSDS Number: CJQFG
+=== Responsible Party ===
+Company Name:FLUKA CHEMICAL CORP
+Address:1001 W ST PAUL
+City:MILWAUKEE
+State:WI
+ZIP:53233
+Country:US
+Info Phone Num:414-273-3850
+Emergency Phone Num:414-273-3850
+CAGE:63181
+=== Contractor Identification ===
+Company Name:FLUKA CHEMICAL CORP
+Address:1001 WEST ST PAUL
+Box:City:MILWAUKEE
+State:WI
+ZIP:53233
+Country:US
+Phone:414-273-3850
+CAGE:63181
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CITRACONIC ANHYDRIDE
+CAS:616-02-4
+Other REC Limits:N/K 
+OSHA PEL:N/K 
+OSHA STEL:N/K 
+ACGIH TLV:N/K 
+ACGIH STEL:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE TOXICOLOGICAL INFORMATION.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:TOXIC. ACUTE: HARMFUL IF SWALLOWED,
+    INHALED, OR ABSORBED THROUGH SKIN. VAPOR OR MIST IS IRRITATING TO
+    THE EYES, MUCOUS MEMBRANES AND UPPER RESPIRATORY TRACT. IRRITATING
+    TO SKIN. SYMPTOMS OF EXPOSURE M AY INCLUDE BURNING SENSATION,
+    COUGHING, WHEEZING, LARYNGITIS, SHORTNESS OF BREATH, HEADACHE,
+    NAUSEA AND VOMITING.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: RINSE IMMEDIATELY WITH PLENTY OF WATER FOR AT LEAST 15
+    MINUTES. SEEK MEDICAL ADVICE. ASSURE ADEQUATE FLUSHING OF THE EYES
+    BY SEPARATING THE EYELIDS WITH FINGERS. SKIN: IMMEDIATELY WASH SKIN
+    WITH  SOAP AND COPIOUS AMOUNTS OF WATER. INHALATION: REMOVE TO
+    FRESH AIR. IF NOT BREATHING, GIVE ARTIFICIAL RESPIRATION. IF
+    BREATHING IS DIFFICULT, GIVE OXYGEN. INGESTION: IF SWALLOWED, WASH
+    OUT MOUTH WITH  WATER PROVIDED PERSON IS CONSCIOUS. CALL A
+    PHYSICIAN. WASH CONTAMINATED CLOTHING BEFORE REUSE. IN CASE OF
+    ACCIDENT OR IF YOU FEEL UNWELL, SEEK MEDICAL ADVICE IMMEDIATELY
+    (SHOW THE LABEL WHERE POSSIBL E).
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:=101.C, 213.8F
+Extinguishing Media:CARBON DIOXIDE, DRY CHEMICAL POWDER OR APPROPRIATE
+    FOAM. WATER SPRAY.
+Fire Fighting Procedures:WEAR NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT .
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR NIOSH APPROVED RESPIRATOR, CHEMICAL
+    SAFETY GOGGLES, RUBBER BOOTS AND HEAVY RUBBER GLOVES. COVER WITH
+    DRY LIME OR SODA ASH, PICK UP, KEEP IN A CLOSED CONTAINER AND HOLD
+    FOR WASTE DISPOSAL. VENTILA TE AREA AND WASH SPILL SITE AFTER
+    MATERIAL PICKUP IS COMPLETE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID INHALATION. DO NOT GET IN EYES,
+    ON SKIN, ON CLOTHING. AVOID PROLONGED OR REPEATED EXPOSURE. READILY
+    ABSORBED THROUGH SKIN. IRRITANT. TOXIC. KEEP TIGHTLY CLOSED.
+    MOISTURE-SENSITIVE. STORE IN A CO OL DRY PLACE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED RESPIRATOR.
+Ventilation:USE ONLY IN A CHEMICAL FUME HOOD.
+Protective Gloves:RUBBER GLOVES.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:EYEWASH AND DELUGE SHOWER MEETING ANSI
+    DESIGN CRITERIA . WEAR SUITABLE PROTECTIVE CLOTHING.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:>6.C, 42.8F
+M.P/F.P Text:6C - 9C
+Vapor Density:4
+Spec Gravity:1.245
+Appearance and Odor:COLORLESS TO FAINT YELLOW LIQUID.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+BASES, OXIDIZING AGENTS, REDUCING AGENTS.
+Hazardous Decomposition Products:TOXIC FUMES OF CARBON MONOXIDE, CARBON
+    DIOXIDE.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:RTECS #: GE6825000, CITRACONIC ANHYDRIDE.
+    IRRITATION DATA: SKIN-RABBIT 10 MG/24H OPEN - JIHTAB 26, 269, 1944.
+    TOXICITY DATA: ORAL-RAT LD50: 2600 MG/KG - JIHTAB 26, 269, 1944.
+    SKIN-RABBIT LD50: 218 MG/ KG - SHELL. SKIN-GUINEA PIG LD50: 1 ML/KG
+    - JIHTAB 26, 269, 1944. ONLY SELECTED REGISTRY OF TOXIC EFFECTS OF
+    CHEMICAL SUBSTANCES (RTECS) DATA IS PRESENTED HERE. SEE ACTUAL
+    ENTRY IN RTECS FOR COMPLETE  INFORMATION.
+
+=====================  Ecological Information  =====================
+
+Ecological:DATA NOT YET AVAILABLE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISSOLVE OR MIX THE MATERIAL WITH A COMBUSTIBLE
+    SOLVENT AND BURN IN A CHEMICAL INCINERATOR EQUIPPED WITH AN
+    AFTERBURNER AND SCRUBBER. OBSERVE ALL FEDERAL, STATE AND LOCAL
+    ENVIRONMENTAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:CONTACT FLUKE CHEMICAL COMPANY FOR TRANSPORTATION
+    INFORMATION.
+
+=====================  Regulatory Information  =====================
+
+Federal Regulatory Information:EUROPEAN INFORMATION: TOXIC. R 36/37/38
+    - IRRITATING TO EYES, RESPIRATORY SYSTEM AND SKIN. R 23/24/25 -
+    TOXIC BY INHALATION, IN CONTACT WITH SKIN AND IF SWALLOWED. S 26 -
+    IN CASE OF CONTACT WITH EYES,  RINSE IMMEDIATELY WITH PLENTY OF
+    WATER AND SEEK MEDICAL ADVICE. S 36/37/39 - WEAR SUITABLE
+    PROTECTIVE CLOTHING, GLOVES AND EYE/FACE PROTECTION. S 45 - IN CASE
+    OF ACCIDENT OR IF YOU FEEL UNWELL, SEEK  MEDICAL ADVICE IMMEDIATELY
+    (SHOW THE LABEL WHERE POSSIBLE).
+State Regulatory Information:
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

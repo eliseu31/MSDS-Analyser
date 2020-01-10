@@ -1,0 +1,161 @@
+=====================  Product Identification  =====================
+
+Product ID:ZINC SULFATE HEPTAHYDRATE, ZINSUM
+MSDS Date:01/11/1998
+FSC:NIIN:Submitter:N EN
+Status Code:A
+MSDS Number: CJQRB
+=== Responsible Party ===
+Company Name:AMERICAN INTERNATIONAL CHEMICAL INC
+Address:17 STRATHMORE RD
+City:NATICK
+State:MA
+ZIP:01760
+Country:US
+Info Phone Num:800-238-0001
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:6N767
+=== Contractor Identification ===
+Company Name:AMERICAN INTERNATIONAL CHEMICAL INC
+Address:17 STRATHMORE RD
+Box:City:NATICK
+State:MA
+ZIP:01760
+Country:US
+Phone:800-238-0001
+CAGE:6N767
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SULFURIC ACID, ZINC SALT (1:1), HEPTAHYDRATE
+CAS:7446-20-0
+RTECS #:ZH5300000
+> Wt:97.
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL, RAT): 2150 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EMERGENCY OVERVIEW: ODORLESS WHITE
+    POWDER OR GRANULES THAT WILL CAUSE IRRITATION ON CONTACT. MAY BE
+    HARMFUL IF SWALLOWED. EYES & SKIN: MAY CAUSE IRRITATION AND
+    REDNESS. INHALATION: MAY CAUSE IRRITATIO N OF THE UPPER RESPIRATORY
+    TRACT. INGESTION: MAY CAUSE GASTROINTESTINAL PAIN.
+Explanation of Carcinogenicity:NOT LISTED UNDER OSHA, IARC, OR NTP.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: IMMEDIATELY FLUSH WITH WATER FOR AT LEAST 15 MINUTES.
+    SKIN: WASH OFF WITH SOAP AND WATER. INHALATION: REMOVE TO THE FRESH
+    AIR. INGESTION: GIVE TEASPOON OF DIBASIC SODIUM PHOSPHATE IN WATER,
+    THEN  A TEASPOON OF SALT IN A GLASS OF WARM WATER AND REPEAT UNTIL
+    VOMIT IS CLEAR. SEEK MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NOT FLAMMABLE
+Autoignition Temp:Autoignition Temp Text:NA
+Lower Limits:NA
+Upper Limits:NA
+Extinguishing Media:USE MEDIA THAT IS APPROPRIATE TO TREAT SURROUNDING
+    FIRE.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT . WATER SPRAY MAY BE USED TO KEEP FIRE-EXPOSED CONTAINERS
+    COOL. FORMS ACIDIC SOLUTION IN WATER.
+Unusual Fire/Explosion Hazard:POISONOUS GASES ARE PRODUCED IN FIRE,
+    INCLUDING ZINC OXIDE AND OXIDES OF SULFUR.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ISOLATE HAZARD AREA AND DENY ENTRY TO
+    UNNECESSARY OR UNPROTECTED PERSONNEL. CONTAIN SPILL, SWEEP UP,
+    COLLECT AND PLACE IN A DISPOSAL CONTAINER. AVOID RUNOFF INTO STORM
+    SEWERS AND DITCHES WHICH LEAD TO  WATERWAYS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTACT WITH SKIN, EYES AND
+    CLOTHING. AVOID BREATHING DUST. USE NORMAL PERSONAL HYGIENE AND
+    HOUSEKEEPING. STORE IN COOL DRY AREA AWAY FROM OTHER INCOMPATIBLE
+    MATERIALS. PRODUCT IS SLIGHTLY HYDRO SCOPIC AND SHOULD BE STORED N
+    A DRY AREA TO PREVENT MOISTURE PICK UP AND CAKING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH APPROVED RESPIRATORS.
+Ventilation:VENTILATE AS NECESSARY TO ELIMINATE DUST FROM THE WORK
+    AREA.
+Protective Gloves:RUBBER OR NEOPRENE GLOVES.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:ANSI APPROVED EYE WASH AND DELUGE SHOWER .
+    CLOTHING SUFFICIENT TO PROTECT SKIN FROM DUST.
+Work Hygienic Practices:AS REQUIRED TO PROTECT SKIN & EYES FROM DUST,
+    SAFETY SHOWERS AND/OR EYE WASH SHOULD BE AVAILABLE. DO NOT LEAVE
+    FOOD OR SMOKE IN WORK AREA. WASH THOROUGHLY AND REMOVE OR CLEAN ANY
+    CONTAMINATED CLOTHING.
+Supplemental Safety and Health
+PHYSICAL DATA: PH: 4.4-6.0 IN A 50 G/L AQUEOUS SOLUTION.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:=500.C, 932.F
+B.P. Text:DECOMPOSES
+Melt/Freeze Pt:=100.C, 212.F
+Vapor Pres:NA
+Vapor Density:NA
+Spec Gravity:1.97 (H*2O=1)
+Evaporation Rate & Reference:NA
+Solubility in Water:117G/100CC
+Appearance and Odor:WHITE POWDER OR GRANULES; ODORLESS.
+Percent Volatiles by Volume:NA
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+HEAT AND MOISTURE.
+Stability Condition to Avoid:STABLE UNDER NORMAL TEMPERATURES AND
+    PRESSURES.
+Hazardous Decomposition Products:SULFUR DIOXIDE AND ZINC FUMES.
+Conditions to Avoid Polymerization:WILL NOT OCCUR UNDER NORMAL
+    CONDITIONS.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:INTRAPERITONEAL RAT LD 50: 200 MG/LG. ORAL
+    MOUSE LD 50: 2200 MG/KG.
+
+=====================  Ecological Information  =====================
+
+Ecological:NOT AVAILABLE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH ALL FEDERAL, STATE
+    AND LOCAL REGULATIONS. RCRA WASTE #: NOT LISTED.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:DOT SHIPPING NAME: ZINC SULFATE HEPTAHYDRATE NOT
+    REGULATED. DOT HAZARD CLASS: NOT REGULATED.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:SECTION 302 EXTREMELY HAZARDOUS SUBSTANCE:
+    UNLISTED. SECTION 313 TOXIC CHEMICALS: LISTED AS ZINC COMPOUDS.
+    SECTON 311/312 HAZARD CATEGORY: IMMEDIATE (ACUTE) HEALTH HAZARD,
+    DELAYED (CHRONIC).
+Federal Regulatory Information:TSCA (TOXIC SUBSTANCE CONTROL ACT: THIS
+    PRODUCT IS LISTED ON THE TSCA INVENTORY. CERCLA REPORTABLE
+    REQUIREMENTS: (RQ) 1000 LBS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

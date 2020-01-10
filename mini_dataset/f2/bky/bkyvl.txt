@@ -1,0 +1,199 @@
+=====================  Product Identification  =====================
+
+Product ID:V68-554
+MSDS Date:12/01/1989
+FSC:6520
+NIIN:01-217-4348
+MSDS Number: BKYVL
+=== Responsible Party ===
+Company Name:VIDENT
+Address:5130 COMMERCE DRIVE
+City:BALDWIN PARK
+State:CA
+ZIP:91706
+Info Phone Num:(818) 960-7531
+Emergency Phone Num:(818) 960-7531
+CAGE:67251
+=== Contractor Identification ===
+Company Name:VIDENT
+Address:5130 COMMERCE DR
+City:BALDWIN PARK
+State:CA
+ZIP:91706
+Country:US
+Phone:818-960-7531/FAX: 818-962-4220
+CAGE:67251
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ALPHA-ALUMINA (ALUMINUM OXIDE)  (EPA LISTS ONLY FIBROUS
+    FORMS)  (SARA III)
+CAS:1344-28-1
+RTECS #:BD1200000
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:BARIUM  (SARA III)
+CAS:7440-39-3
+RTECS #:CQ8370000
+OSHA PEL:0.5 MG/M3
+ACGIH TLV:0.5 MG/M3; 9192
+
+Ingred Name:BORON OXIDE
+CAS:1303-86-2
+RTECS #:ED7900000
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3; 9293
+
+Ingred Name:CALCIUM OXIDE
+CAS:1305-78-8
+RTECS #:EW3100000
+OSHA PEL:5 MG/M3
+ACGIH TLV:2 MG/M3; 9192
+
+Ingred Name:MAGNESIUM OXIDE
+CAS:1309-48-4
+RTECS #:OM3850000
+OSHA PEL:15 MG/M3 PARTICULATE
+ACGIH TLV:10 MG/M3;TDUST; 9293
+
+Ingred Name:SILICA, CRYSTALLINE - FUSED
+CAS:60676-86-0
+RTECS #:VV7328000
+Other REC Limits:30 MG/CUM TOTAL DUST
+OSHA PEL:SEE TABLE Z3
+ACGIH TLV:0.1 MG/M3 RDUST;9293
+
+Ingred Name:TIN
+CAS:7440-31-5
+RTECS #:XP7320000
+OSHA PEL:2 MG/M3
+ACGIH TLV:2 MG/M3; 9192
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:ZIRCONIUM
+CAS:7440-67-7
+RTECS #:ZH7070000
+OSHA PEL:5 MG/M3/10 STEL
+ACGIH TLV:5 MG/M3/10 STEL;9192
+
+Ingred Name:CHROMIUM  (SARA III)
+CAS:7440-47-3
+RTECS #:GB4200000
+Fraction by Wt: <5%
+OSHA PEL:1 MG/M3
+ACGIH TLV:0.5 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:COBALT  (SARA III)
+CAS:7440-48-4
+RTECS #:GF8750000
+Fraction by Wt: <5%
+Other REC Limits:0.05 PPM
+OSHA PEL:0.1 MG/M3;AS CO
+ACGIH TLV:0.05 MG/M3;DUST 9293
+
+Ingred Name:IRON OXIDE
+CAS:1309-37-1
+RTECS #:NO7400000
+Fraction by Wt: <5%
+OSHA PEL:10 MG/M3 (FE)
+ACGIH TLV:5 MG/M3(FE),B2; 9293
+
+Ingred Name:MANGANESE  (SARA III)
+CAS:7439-96-5
+RTECS #:OO9275000
+Fraction by Wt: <5%
+OSHA PEL:(C) 5 MG/M3 DUST
+ACGIH TLV:5 MG/M3 DUST 9293
+
+Ingred Name:NICKEL  (SARA III)
+CAS:7440-02-0
+RTECS #:QR5950000
+Fraction by Wt: <5%
+Other REC Limits:1 MG/CUM
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+
+Ingred Name:VANADIUM  (SARA III)
+CAS:7440-62-2
+RTECS #:YW1355000
+Fraction by Wt: <5%
+OSHA PEL:C,0.5 MG V2O5/M3 RD
+ACGIH TLV:0.05 MG V205/M3;9293
+
+Ingred Name:ZINC OXIDE
+CAS:1314-13-2
+RTECS #:ZH4810000
+Fraction by Wt: <5%
+OSHA PEL:15MG/M3 TDUST/5 FUME
+ACGIH TLV:10MG/M3 TDUST; 9293
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: IRRITATION.
+Explanation of Carcinogenicity:SILICA, CHROMIC OXIDE, & NICKEL OXIDE
+    ARE SUSPECTED A1 CARCINOGENS.
+Effects of Overexposure:INHALATION: IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. OBTAIN MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON-FLAMMABLE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP SPILLED MATERIAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID INHALATION OF CERAMIC DUST.
+    AVOID LICKING CERAMIC APPLICATION BRUSH.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NUISANCE DUST MASK IS RECOMMENDED WHILE GRINDING
+    FIRED PORCELAIN.
+Ventilation:MECHANICAL EXHAUST VENTILATION IS RECOMMENDED WHILE
+    GRINDING FIRED PORCELAIN.
+Protective Gloves:AS REQUIRED.
+Eye Protection:SAFETY GLASSES OR GOGGLES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>2192F
+Melt/Freeze Pt:M.P/F.P Text:1760F
+Solubility in Water:INSOLUBLE
+Appearance and Odor:WHITE OR LIGHT PASTEL COLORED PORCELAIN POWDER W/NO
+    ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CONCENTRATED HYDROFLUORIC ACID
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE AS SOLID WASTE IN ACCORDANCE W/LOCAL,
+    STATE, & FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

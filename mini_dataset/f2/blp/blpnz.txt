@@ -1,0 +1,129 @@
+=====================  Product Identification  =====================
+
+Product ID:2181 DRAIN JANE
+MSDS Date:06/16/1988
+FSC:7930
+NIIN:00F019173
+MSDS Number: BLPNZ
+=== Responsible Party ===
+Company Name:SELIG CHEMICAL INDUSTRIES
+Address:840 SELIG DRIVE SW
+City:ATLANTA
+State:GA
+ZIP:30378
+Info Phone Num:(404) 691-9220
+Emergency Phone Num:(404) 691-9220
+CAGE:86938
+=== Contractor Identification ===
+Company Name:SELIG CHEMICAL INDUS, DIV OF NATIONAL SERVICE INDUS
+Address:840 SELIG DR SW
+Box:City:ATLANTA
+State:GA
+ZIP:30378
+Country:US
+Phone:404-691-9220
+CAGE:86938
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SULFURIC ACID  (SARA III)
+CAS:7664-93-9
+RTECS #:WS5600000
+Fraction by Wt: 80-90%
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:O-DICHLOROBENZENE  (SARA III)
+CAS:95-50-1
+RTECS #:CZ4500000
+Fraction by Wt: 10-20%
+Other REC Limits:50 PPM
+OSHA PEL:C 50 PPM
+ACGIH TLV:S, 25PPM/50 STEL9394
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN/EYES: CORROSIVE. INHALATION:
+    IRRITATION TO THROAT, NASAL PASSAGEES/MUCOUS MEMBRANES. INGESTION:
+    CORROSIVE TO DIGESTIVE TRACT & FATAL.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN: EYES: CORROSIVE. INHALATION: IRRITATION
+    TO THROAT, NASAL PASSAGES & MUCOUS MEMBRANES. INGESTION: CORROSIVE
+    TO DIGESTIVE TRACT & FATAL.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN/EYES: FLUSH W/PLENTY OF WATER FOR 15 MINS. INHALATION:
+    MOVE TO FRESH AIR. INGESTION: RINSE MOUTH & GIVE PLENTY OF WATER,
+    FOLLOWED BY MILK, EGG WHITE OR GRUEL. DON'T INDUCE VOMITING. OBTAIN
+    MEDICA L ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:DRY CHEMICAL. DON'T USE WATER.
+Fire Fighting Procedures:GAS MASK.
+Unusual Fire/Explosion Hazard:MAY REACT W/METAL TO PRODUCE HYDROGEN
+    GAS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB SPILL W/AN ABSORBENT MATERIAL, PICK UP
+    & DEPOSIT IN A SEALABLE CONTAINER FOR DISPOSAL AS A HAZARDOUS
+    WASTE. THOROUGHLY CLEAN AREA W/A DETERGENT SOLUTION. RINSE AREA
+    THOROUGHLY W/CLEAN WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTACT W/SKIN & EYES. AVOID
+    INHALATION OF VAPORS. KEEP OUT OF REACH OF CHILDREN. CAN SEVERE
+    BURN WILL ATTACK ORGANIC MATERIAL.
+Other Precautions:DON'T SPILL ON FLOOR, WOOD, PAINTED SURFACES. DON'T
+    USE W/OTHER DRAIN OPENERS. NEVER USE A PLUNGER W/THIS PRODUCT.
+    DON'T USE HOT WATER BEFORE OR AFTER USING THIS PRODUCT/COLD WATER
+    ONLY. DON'T STORE W /OXIDIZABLE MATERIAL.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:CHEMICAL CARTRIDGE RESPIRATOR IF IN CONFINED
+    AREA.
+Ventilation:MECHANICAL
+Protective Gloves:RUBBER OR NEOPRENE
+Eye Protection:FULL FACE SHIELD
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:290F
+Spec Gravity:1.71
+pH:<1
+Solubility in Water:MISCIBLE
+Appearance and Odor:CLEAR LIQUID, GREEN COLOR, TWO PHASES
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+METALS, & OXIDIZING MATERIAL			  L.
+Hazardous Decomposition Products:HYDROGEN GAS & SULFUR DIOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:UNUSED PRODUCT MAY BE HAVE TO ABSORBED ON AN
+    INERT MATERIAL & DISPOSED OF AS HAZARDOUS WASTE. CONSULT LOCAL,
+    STATE & FEDERAL AGENCIES FOR PROPER DISPOSAL PROCEDURES IN YOUR
+    AREA. HAZARDOUS WASTE: D002 , F002.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

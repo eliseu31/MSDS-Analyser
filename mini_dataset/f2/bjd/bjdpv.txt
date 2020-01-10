@@ -1,0 +1,179 @@
+=====================  Product Identification  =====================
+
+Product ID:COATING,EPOXY-POLYAMIDE CLR,COMPII C86-0063
+MSDS Date:08/29/1990
+FSC:8010
+NIIN:01-248-2988
+MSDS Number: BJDPV
+=== Responsible Party ===
+Company Name:STRATHMOR PRODUCTS, INC.
+Address:1970 W. FAYETTE STREET
+Box:151
+City:SYRACUSE
+State:NY
+ZIP:13201
+Country:US
+Info Phone Num:315-488-5401
+Emergency Phone Num:315-488-5401
+CAGE:29477
+=== Contractor Identification ===
+Company Name:STRATHMOR PRODUCTS, INC.
+Address:1970 W. FAYETTE STREET
+Box:City:SYRACUSE
+State:NY
+ZIP:13201
+Country:US
+Phone:315-488-5401
+CAGE:29477
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 15%
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:N-BUTYL ALCOHOL  (SARA III)
+CAS:71-36-3
+RTECS #:EO1400000
+Fraction by Wt: 15%
+OSHA PEL:100 PPM
+ACGIH TLV:S, C 50 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ETHYL ACETATE  (SARA III)
+CAS:141-78-6
+RTECS #:AH5425000
+Fraction by Wt: 29%
+OSHA PEL:400 PPM
+ACGIH TLV:400 PPM; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:N-BUTYL ACETATE  (SARA III)
+CAS:123-86-4
+RTECS #:AF7350000
+Fraction by Wt: 19%
+OSHA PEL:150 PPM/200 STEL
+ACGIH TLV:150 PPM/200STEL;9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:2-BUTOXYETHANOL
+CAS:111-76-2
+RTECS #:KJ8575000
+Fraction by Wt: 2%
+OSHA PEL:S, 50 PPM
+ACGIH TLV:S, 25 PPM; 9293
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:INHAL:ANESTHETIC IRRIT OF RESP
+    TRACT OR ACUTE NERVOUS SYS DEPRESSION (HEADACHE, DIZZINESS,
+    STAGGERING GAIT, CONFUSION, UNCONSCIOUSNESS OR COMA. EYE &
+    SKIN:IRRITATION. INGEST:GASTROINTESTINAL IRR IT, NAUSEA, DIARRHEA,
+    VOMITING, POSSIBLE FATAL PNEUMONITIS. CHRONIC:AFFECT CNS, RESP
+    IRRIT, LIVER AND KIDNEY DAMAGE.
+Explanation of Carcinogenicity:DOES NOT CONTAIN 0.1% OR MORE OF ANY
+    SUBSTANCE LISTED AS A CARCINOGEN BY NTP, IARC, OR OSHA
+Effects of Overexposure:PERMANENT BRAIN AND NERVOUS SYSTEM DAMAGE.
+    INTENTIONAL MISUSE BY DELIBERATELY CONCENTRATING AND INHALING MAY
+    BE HARMFUL OR FATAL. DRYING AND DEFATTING OF THE SKIN, WHICH MAY
+    LEAD TO DERMATITIS.
+Medical Cond Aggravated by Exposure:PREEXISTING SKIN, EYE, AND
+    RESPIRATORY DISORDERS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:REMOVE FROM EXPOSURE. RESTORE BREATHING, KEEP WARM AND
+    QUIET. GET MD. EYES:FLUSH IMMED W/COPIOUS AMTS OF WATER. GET MD.
+    SKIN:WASH AFFECTED AREA W/WATER. REMOVE CONTAMINATED CLOTHING, GET
+    MD.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:34.0F,1.1C
+Lower Limits:1.1
+Extinguishing Media:USE NAT'L FIRE PROTECTION ASSOC (NFPA) CLASSB
+    EXTING. (CO*2,DRYCHEM OR ALCOHOL FOAM) FOR NFPA CLASS 1B LIQUID
+    FIRES.
+Fire Fighting Procedures:WEAR SCBA. (H*20) MAY BE USED TO COOL CLOSED
+    CONTAINERS TO PREVENT PRESSURE BUILDUP & POSSIBLE AUTO IGNTN OR
+    EXPLSN WHEN EXPOSED TO EXTREME HEAT. USE FOG NOZZLE
+Unusual Fire/Explosion Hazard:KEEP CONT. TIGHTLY CLOSED. ISOLATE FROM
+    HEAT, ELCTRCL EQUIP, SPARKS AND OPEN FLAME. CLOSED CONTNRS MAY
+    EXPLODE WHEN EXPOSED TO EXTREME HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. AVOID
+    BREATHING VAPORS. VENTILATE AREA. REMOVE W/INERT ABSORBENT
+    ANDNON-SPARKING TOOLS.TRANSFER TO APPROPRIATE CONTAINER FOR
+    DISPOSAL. KEEP OUT OF SEWERS, STORM DRAINS,  SURFACE WATER & SOIL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT STORE ABOVE 120F. STORE LARGE
+    QUANTITIES INBLDGS DESIGNED AND PROTECTED FOR STORAGE OF NFPA CLASS
+    1B FLAMMABLE LIQUIDS.
+Other Precautions:CONTAINERS SHOULD BE GROUNDED WHEN POURING. AVOID
+    FREE FALL OF LIQUID IN EXCESS OF A FEW INCHES. DO NOT FLAME-CUT,
+    BRAZE OR WELD W/O NIOSH/MSHA APPROVED RESP OR APPROPRIATE VENT.
+    FLAMMABLE, VAPOR HARM FUL. KEEP AWAY FROM HEAT, SPARKS, FLAME.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:OPEN AREA:MSHA/NIOSH APPROVED MECH FILTER RESP.
+    RESTRICTED VENT AREA:MSHA/NIOSH APPROVED CHEM-MECH FILTERS TO
+    REMOVE PARTICULATE & VAPOR. CONFINED AREA:MSHA/NIOSH AIR LINE TYPE
+    RESP OR HOODS.
+Ventilation:GEN. DILUTION OR LOCAL EXHST VENT IN VOL&PATTERN TO KEEP
+    TLV BELOW LIMIT, LEL BELOW STATED LIMIT, AND RMV DECOMP PRODUCT
+Protective Gloves:SOLVENT RESISTANT
+Eye Protection:SAFETY EYEWEAR TO PROTECT AGAINST SPLASH
+Other Protective Equipment:PREVENT PROLONGED SKIN CONTACT TO
+    CONTAMINATED CLOTHING.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:175F,79C
+Vapor Pres:0.6 MM/HG
+Vapor Density:HEAVR/AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:80.7
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:EXCESSIVE HEAT, SPARKS, OPEN FLAME.
+Hazardous Decomposition Products:ACRID FUMES, SMOKE AND CARBON MONOXIDE
+    AND/OR CARBON DIOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W FED, STATE & LOCAL REGS.
+    INCINERATE IN AN APPROVED FACILITY. DO NOT INCINERATE CLOSED
+    CONTAINERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

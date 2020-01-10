@@ -1,0 +1,138 @@
+=====================  Product Identification  =====================
+
+Product ID:FIBERGLASS RESIN, 5311
+MSDS Date:09/01/1989
+FSC:8030
+NIIN:00N021132
+MSDS Number: BLMGJ
+=== Responsible Party ===
+Company Name:HUNTING SPECIALTY PRODUCTS
+Address:265 S WEST STREET
+City:LEBANON
+State:OH
+ZIP:45036
+Country:US
+Info Phone Num:513-241-9202
+Emergency Phone Num:513-241-9202
+CAGE:HUNTI
+=== Contractor Identification ===
+Company Name:HUNTING SPECIALTY PRODUCTS, INC.
+Address:265 S. WEST STREET
+City:LEBANON
+State:OH
+ZIP:45036
+Country:US
+Phone:800-733-4413
+CAGE:HUNTI
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:STYRENE, MONOMER  (SARA III)
+CAS:100-42-5
+RTECS #:WL3675000
+Fraction by Wt: 35%
+OSHA PEL:100 PPM
+ACGIH TLV:S,50PPM/100STEL;9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:UNSATURATED POLYESTER RESIN
+Fraction by Wt: 65%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:NONE SPECIFIED BY MANUFACTURER.
+Explanation of Carcinogenicity:STYRENE - CLASS 2B (IARC)
+Effects of Overexposure:IRRITATING TO SKIN, EYE AND ALL PARTS OF
+    RESPIRATORY TRACT. MAY CAUSE DEPRESSION OF THE NERVOUS SYSTEM AND
+    SOMEWHAT ANESTHETIC.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH PROMPTLY WITH COPIOUS AMOUNTS OF WATER FOR AT
+    LEAST 15 MINUTES, SEEK MD IMMEDIATELY. SKIN: WASH THOROUGHLY WITH
+    SOAP AND WATER. REMOVE CONTAMINATED CLOTHING AND SEEK MD. INHAL:
+    REMOVE VICTI M TO A WELL VENTILATED AREA. USE OXYGENOR ARTIFICIAL
+    RESPIRATION AS REQUIRED. SEEK MD IMMEDIATELY. INGEST: DO NOT INDUCE
+    VOMITING. SEEK MD IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TOC
+Flash Point:89.0F,31.7C
+Lower Limits:1.1%
+Upper Limits:6.1%
+Extinguishing Media:WATER FOG, DRY CHEMICAL, FOAM AND CO2 OR ANY CLASS
+    B EXTINGUISHING AGENT.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:IF EXPOSED TO ELEVATED TEMPERATURE FOR
+    EXTENDED LENGTH OF TIME SPONTANEOUS EXOTHERMIC POLYMERIZATION MAY
+    OCCUR RESULTING IN VIOLENT RUPTURE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EXTING ALL SOURCES OF FLAME & IGNIT. ABSORB
+    WITH INERT MATERIAL SUCH AS VERMICULITE OR SAND. SWEEP UP AND
+    COLLECT IN CONTAINERS TO DISPOSE AS SOLID WASTE. WASH THE AREA WITH
+    TRI-SODIUM PHOSPHATE AND W ATER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE BELOW 90F IN COOL DRY PLACE,
+    KEEP AWAY FROM SOURCES OF HEAT AND IGNITION. USE EXPLOSION PROOF
+    EQUIPMENTS.
+Other Precautions:OPEN CONTAINERS SLOWLY TO RELIEVE ANY INTERNAL
+    PRESSURE. USE WITH ADEQUATE VENTILATION. KEEP OUT OF REACH OF
+    CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED CHEMICAL RESPIRATOR WITH
+    SELF- CONTAINED AIR SUPPLY IS REQUIRED.
+Ventilation:ANY COMBINATION OF LOCAL AND GENERAL VENTILATION, TO DRAW
+    FUMES AWAY FROM WORKERS.
+Protective Gloves:PLASTIC/RUBBER CHEMICAL RESIST GLOVES.
+Eye Protection:CHEM WORK GOGG&FULL LENGTH FACESHLD
+Other Protective Equipment:PROTECTIVE CLOTHING, SHOES, EYEWASH STATION
+    AND SAFETY SHOWERS SHOULD BE AVAILABLE.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:295F,146C
+Vapor Pres:4.5 @ 20C
+Vapor Density:HVR/AIR
+Spec Gravity:1.8 GM/CC
+Evaporation Rate & Reference:SLOWER THAN BUTYL ACETATE
+Appearance and Odor:AMBER OPAQUE LIQUID, PUNGENT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS, PEROXIDE, OTHER OXIDIZING AGENTS.
+Stability Condition to Avoid:STORAGE IN OPEN CNTNR, PRLNGD STORAGE
+    ABOVE 100F, EXPOS TO EXCESSIVE HEAT OR OPEN FLAME.
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE AND
+    FEDERAL LAWS AND REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

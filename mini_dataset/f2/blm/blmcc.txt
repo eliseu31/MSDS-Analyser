@@ -1,0 +1,144 @@
+=====================  Product Identification  =====================
+
+Product ID:PERLITE-ALL GRADES
+MSDS Date:03/03/1989
+FSC:5640
+NIIN:00N020338
+MSDS Number: BLMCC
+=== Responsible Party ===
+Company Name:W R GRACE & CO
+Address:62 WHITTEMORE AVE
+City:CAMBRIDGE
+State:MA
+ZIP:02140
+Country:US
+Info Phone Num:617-876-1400
+Emergency Phone Num:617-876-1400
+CAGE:1BX64
+=== Contractor Identification ===
+Company Name:GRACE W R AND CO DEWEY AND ALMY CHEMICAL DIV
+Address:62 WHITTEMORE AVE
+Box:City:CAMBRIDGE
+State:MA
+ZIP:02140-1623
+Country:US
+Phone:617-876-1400
+CAGE:17486
+Company Name:W R GRACE & CO
+Address:55 HAYDEN AVE
+City:LEXINGTON
+State:MA
+ZIP:02173
+Country:US
+Phone:713-479-7348
+CAGE:1BX64
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PERLITE
+CAS:93763-70-3
+RTECS #:SD5254000
+Fraction by Wt: 100%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9192
+
+Ingred Name:SILICA, CRYSTALLINE - QUARTZ
+CAS:14808-60-7
+RTECS #:VV7330000
+Fraction by Wt: <1%
+OSHA PEL:SEE TABLE Z3
+ACGIH TLV:0.1 MG/M3 RDUST;9293
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:INHAL:MAY BE MODERATELY IRRITATING TO
+    UPPER RESPIRATORY SYSTEM RESULTING IN COUGHING AND SNEEZING. LONG
+    TERM EXPOSURE TO QUARTZ DUST PRESENT IN SOME PERLITE MAY CAUSE RISK
+    OF SILICOSIS, PNEUMOCONIOSIS  AND OTHER LUNG DISEASE. SKIN:MAY
+    RESULT IN DRYING. EYE:MAY CAUSE PHYSICAL IRRITATION. INGEST:ADVERSE
+    (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:CRYSTALLINE SILICA:GROUP 2A (IARC).
+Effects of Overexposure:HLTH HAZ:HEALTH EFFECTS ARE NOT EXPECTED AS A
+    RESULT OF INGESTION.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:DO NOT RUB. FLUSH WITH PLENTY OF WATER FOR AT LEAST 15
+    MINUTES WHILE HOLDING EYELIDS APART. IF IRRITATION, BLINKING OR
+    TEARING OCCUR AND PERSIST, CALL MD. INGEST:CALL MD IF SYMPTOMS
+    DEVELOP. ADVER SE HEALTH EFFECTS ARE NOT EXPECTED. INHAL:GET TO
+    FRESH AIR. IF SYMPTOMS PERSIST, CALL MD. SKIN:WASH WITH WATER.
+    APPLY CREAMS OR LOTIONS TO PREVENT DRYING.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Lower Limits:NONE
+Upper Limits:NONE
+Extinguishing Media:MEDIA SUITABLE FOR SURROUNDING FIRE CONDITIONS .
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE KNOWN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE METHODS TO CLEAN SPILLED MATERIAL WHICH
+    AVOID CREATING AIRBORNE DUST. REMOVE FOR DISPOSAL OR RECYCLING.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CREATING DUST. PROVIDE ADEQUATE
+    VENTILATION AND RESPIRATORY PROTECTION. AVOID CONTACT WITH EYES AND
+    SKIN.
+Other Precautions:APPLY SKIN CREAMS OR LOTIONS TO PREVENT DRYING. WEAR
+    GOGGLES TO PREVENT EYE CONTACT WITH DUST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR A NIOSH/MSHA APPROVED DUST MASK (TYPE
+    TC-21C- XXX) TO PREVENT EXPOSURE ABOVE THE LIMITS SPECIFIED.
+Ventilation:MAY BE NECESSARY WHEN PRODUCT IS USED IN ENCLOSED AREAS.
+    MEHCANICAL VENTILATION.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:WORK CLOTHING TO PREVENT SKIN CONTACT.
+Work Hygienic Practices:USE BAG CLEANING AND DISPOSAL PROCEDURES WHICH
+    MINIMIZE THE RELEASE OF DUST.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Solubility in Water:NONE
+Appearance and Odor:WHITISH FREE FLOWING AGGREGATE
+Percent Volatiles by Volume:NONE
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NOT APPLICABLE.
+Stability Condition to Avoid:NOT APPLICABLE.
+Hazardous Decomposition Products:NOT APPLICABLE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ACCORDING TO EPA WASTE OF THIS PRODUCT IS NOT
+    DEFINED AS HAZARDOUS. CONSULT LOCAL AND STATE DEFINITIONS OF
+    HAZARDOUS WASTE TO DETERMINE IF THEY DIFFER FROM THE EPA. DISPOSE
+    OF WASTE IN ACCORDANCE WITH  ALL LOCAL, STATE, AND FEDERAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

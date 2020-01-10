@@ -1,0 +1,58 @@
+=====================  Product Identification  =====================
+
+Product ID:6FM9
+MSDS Date:01/01/1985
+FSC:6140
+NIIN:00-190-6298
+MSDS Number: BDHVV
+=== Responsible Party ===
+Company Name:MULE BATTERY CO
+Address:325 VALLEY ST
+City:PROVIDENCE
+State:RI
+ZIP:02908
+Country:US
+CAGE:KO554
+=== Contractor Identification ===
+Company Name:MULE BATTERY CO
+Address:325 VALLEY ST
+Box:City:PROVIDENCE
+State:RI
+ZIP:02908
+Country:US
+CAGE:KO554
+Company Name:MULE EMERGENCY LIGHTING INC
+Address:325 VALLEY ST
+Box:City:PROVIDENCE
+State:RI
+ZIP:02908
+Country:US
+Phone:401-521-6853
+CAGE:26947
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SULFURIC ACID  (SARA III)
+CAS:7664-93-9
+RTECS #:WS5600000
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=============  Exposure Controls/Personal Protection  =============
+
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C1
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

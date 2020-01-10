@@ -1,0 +1,144 @@
+=====================  Product Identification  =====================
+
+Product ID:BRAYCO 881
+MSDS Date:05/01/1994
+FSC:9150
+NIIN:01-386-6687
+MSDS Number: BWRHZ
+=== Responsible Party ===
+Company Name:CASTROL NORTH AMERICA/SPECIALTY PRODUCTS DIV
+Address:16715 VON KARMAN AVE.,SUITE 230
+City:IRVINE
+State:CA
+ZIP:92714
+Country:US
+Info Phone Num:714-660-9414
+Emergency Phone Num:714-660-9414/800-424-9300(CHEMTREC)
+Preparer's Name:RICHARD D. VICARTIS
+CAGE:2R128
+=== Contractor Identification ===
+Company Name:CASTROL INDUSTRIAL NORTH AMERICA INC SPECIALTY PRODUCTS
+    DIV
+Address:1001 WEST 31ST STREET
+Box:City:DOWNERS GROVE
+State:IL
+ZIP:60515-1280
+Country:US
+Phone:800-621-2661/ FAX: 630-241-4140
+CAGE:2R128
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TRIPHENYL PHOSPHATE
+CAS:115-86-6
+RTECS #:TC8400000
+Fraction by Wt: 1-5%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:3 MG/M3
+ACGIH TLV:3 MG/M3; 9495
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MAY CAUSE MILD EYE IRRITATION.
+    PROLONGED &/OR REPEATED SKIN CONTACT MAY CAUSE SKIN IRRITATION,
+    DEFATTING. EXCESSIVE INHALATION OF VAPORS MAY CAUSE
+    NASAL/RESPIRATORY IRRITATION, DIZZINESS. INGESTION CA N CAUSE G/I
+    IRRITATION, NAUSEA, VOMITING, DIARRHEA.
+Explanation of Carcinogenicity:PRODUCT CONTAINS NO MATERIALS CURRENTLY
+    CLASSIFIED AS CARCINOGENIC BY NTP, IARC, OR OSHA.
+Effects of Overexposure:EYE:IRRITATION, REDNESS, TEARING, BLURRED
+    VISION. SKIN:IRRITATION, DEFATTING, DERMATITIS.
+    INHALED:RESPIRATORY/NASAL IRRITATION, DIZZINESS, HEADACHE, POSSIBLE
+    UNCONSCIOUSNESS, ASPHYXIATION.
+Medical Cond Aggravated by Exposure:NONE KNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:REMOVE CONTAMINATED CLOTHING. WIPE MATERIAL FROM SKIN.
+    WASH THOROUGHLY W/SOAP & WATER. EYES:FLUSH W/LARGE AMOUNTS OF CLEAN
+    WATER FOR AT LEAST 15 MIN. CONTACT PHYSICIAN IF IRRITATION
+    PERSISTS. ING ESTION:DO NOT INDUCE VOMITING. ASPIRATION HAZARD. GET
+    MEDICAL ATTENTION.	INHALATION:REMOVE FROM AREA OF EXPOSURE.
+    ADMINISTER OXYGEN IF DEEMED NECESSARY OR CPR IF BREATHING HAS
+    STOPPED. CONSULT DOCTOR
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:360F,182C
+Extinguishing Media:DRY CHEMICAL, FOAM, WATER
+Fire Fighting Procedures:WATER OR FOAM MAY CAUSE FROATHING. USE WATER
+    TO COOL FIRE EXPOSED CONTAINERS. COMBUSTIBLE AT HIGH TEMPERATURES,
+    SLIGHT FIRE/EXPLOSION HAZARD IF EXPOSED TO FLAME
+Unusual Fire/Explosion Hazard:"EMPTY" CONTAINERS RETAIN RESIDUE & CAN
+    IGNITE EXPLOSIVELY. DO NOT CUT, DRILL, OR WELD ON OR NEAR FULL OR
+    EMPTY CONTAINERS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DO NOT PERMIT TO ENTER SEWERS, STREAMS, WATER
+    WAYS. REMOVE ALL SOURCES OF IGNITION. DIKE SPILL & ELIMINATE LEAK.
+    ABSORB W/DRY INERT MATERIAL & STORE IN CLOSED CONTAINERS UNTIL
+    DISPOSAL.
+Neutralizing Agent:MFR GAVE NO INFORMATION ON MSDS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:MAINTAIN AMBIENT TEMPERATURES. AVOID
+    PROLONGED &/OR REPEATED BREATHING OF VAPORS, MISTS, FUMES. KEEP
+    CONTAINER TIGHTLLY CLOSED.
+Other Precautions:DO NOT STORE NEAR HEAT, FLAME, STRONG OXIDANTS.
+    MAINTAIN ADEQUATE VENTILATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED ORGANIC VAPOR RESPIRATOR OR
+    SUPPLIED AIR RESPIRATORY EQUIPMENT AS REQUIRED.
+Ventilation:PROVIDE SUFFICIENT MECHANICAL, GENERAL AND/OR LOCAL EXHAUST
+    TO MAINTAIN EXPOSURE BELOW TLV.
+Protective Gloves:RESISTANT TYPE (SUCH AS NEOPRENE).
+Eye Protection:SPLASH GOGGLES AND/OR SAFETY GLASSES
+Other Protective Equipment:IMPERVIOUS GARMENTS AS REQUIRED.
+Work Hygienic Practices:DO NOT WEAR CONTAMINATED CLOTHING. LAUNDER
+    BEFORE REUSE. WASH THOROUGHLY AFTER USE.
+Supplemental Safety and Health
+DO NOT TAKE ANY FOOD, DRINK OR HANDLE TOBACCO PRODUCTS WHILE IN CONTACT
+    W/THIS PRODUCT.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+NRC/State Lic Num:NONE
+Boiling Pt:B.P. Text:>500F,>260C
+Vapor Pres:N/D
+Spec Gravity:0.84
+Evaporation Rate & Reference:N/D
+Solubility in Water:SLIGHT
+Appearance and Odor:PALE STRAW COLORED FLUID, MILD PETROLEUM ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HEAT, OPEN FLAME
+Hazardous Decomposition Products:IRRITATING OR TOXIC FUMES, CARBON
+    DIOXIDE & CARBON MONOXIDE
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ALL RECOVERED MATERIAL SHOULD BE PACKAGED,
+    LABELLED, TRANSPORTED & DISPOSED OF OR RECLAIMED IN CONFORMANCE
+    W/GOOD ENGINEERING PRACTICE. DISPOSE OF BY METHOD I/A/W FEDERAL,
+    STATE & LOCAL REGULATIONS RE GARDING HEALTH, AIR & WATER POLLUTION.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

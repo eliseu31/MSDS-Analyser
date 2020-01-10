@@ -1,0 +1,141 @@
+=====================  Product Identification  =====================
+
+Product ID:ION EXCHANGE RESIN, IONAC C-264
+MSDS Date:10/30/1990
+FSC:6810
+NIIN:00N023122
+MSDS Number: BLPDC
+=== Responsible Party ===
+Company Name:SYBRON CHEMICALS INC
+Address:BIRMINGHAM ROAD
+City:BIRMINGHAM
+State:NJ
+ZIP:08011
+Country:US
+Info Phone Num:609-893-1100
+Emergency Phone Num:609-893-1100
+Preparer's Name:REGULATORY AFFAIRS
+CAGE:76465
+=== Contractor Identification ===
+Company Name:SYBRON CHEMICALS INC,SUB OF SYBRON CORP
+Address:BIRMINGHAM RD
+Box:66
+City:BIRMINGHAM
+State:NJ
+ZIP:08011
+Country:US
+Phone:609-893-1100
+CAGE:76465
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BENZENE DIETHENYL-, POLYMER WITH ETHENYLBENZENE AND
+    ETHENYLETHYLBENZENE, SULFONATED, SODIUM SALTS.
+CAS:69011-22-9
+Fraction by Wt: 40-60%
+
+Ingred Name:WATER. VP: 17 @ 20C. VAP DENS: 0.62.
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 40-60%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE/CHRONIC: CAN PRODUCE MECHANICAL
+    IRRITATION TO THE EYE. MAY CAUSE SKIN IRRITATION OF HYPERSENSITIVE
+    PERSONNEL.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:RED, IRRITATED EYES, ITCHING AND FEELING THAT A
+    PARTICLE EXISTS BETWEEN THE EYELID AND EYE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES/SKIN: FLUSH WITH COPIOUS QUANTITIES OF WATER FOR AT
+    LEAST 15 MINUTES. IF IRRITATION PERSISTS, SEE MD, AMERICAN RED
+    CROSS. INGEST: CALL MD IMMEDIATELY . INHAL: REMOVE TO FRESH AIR.
+    SUPPORT B REATHING (GIVE O*2/ARTIFICIAL RESPIRATION) .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:>200F,>93C
+Extinguishing Media:DRY CHEMICAL, CARBON DIOXIDE OR WATER FOG.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT . GUARD AGAINST CONTACT OF PRODUCT WITH EYE
+    DURING SALVAGE OPERATION.
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP AREA OF PRODUCT, COLLECTING IN A
+    CONTAINER FOR DISPOSAL. AREAS OF SPILL CAN BECOME EXTREMELY
+    SLIPPERY. ALL NORMAL SAFETY PRECAUTIONS SHOULD BE OBSERVED.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID FREEZING/PRLNGD STORAGE >50C
+    BECAUSE PROD CONTAINS WATER WHICH WILL FREEZE & DAM PROD/DRY-OUT
+    ALSO DAMAGING PROD. AVOID CONT (SEE SUPP DATA)
+Other Precautions:AVOID PACKING PROD IN AN UNPROTECTED GLASS COLUMN.
+    EXPANSION OF THE PROD CAN CAUSE GLASS COLUMN TO SHATTER. WHEN
+    TRANSFERRING PROD TO OTHER CNTNRS VIA HYDRAULIC (WATER) SLURRY ALL
+    SAFETY PRACTICES EST ABLISHED FOR USE OF WATER (SUPP DATA)
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN .
+Ventilation:NONE SPECIFIED BY MANUFACTURER.
+Protective Gloves:IMPERVIOUS GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:LONG SLEEVE SHIRT AND LONG TROUSERS ARE
+    RECOMMENDED TO PREVENT SKIN CONTACT.
+Work Hygienic Practices:FLUSH PROD FROM HANDS W/SOAPY WATER. CARE
+    SHOULD BE TAKEN TO AVOID CONTACT W/EYES UNTIL HANDS HAVE BEEN (SEE
+    SUPP DATA)
+Supplemental Safety and Health
+PH: 6-9 IN AQUEOUS SLURRY. HNDLG/STOR PREC: WITH STRONG OXIDIZING
+    AGENTS SUCH AS NITRIC ACID. OTHER PREC: IN THE WORK SPACE MUST BE
+    OBSERVED. HYGIENE PRACT: COMPLETELY CLEANED. PROD HAS A TENDENCY TO
+     CLING TO SKIN DUE TO STATIC CHARGE. CARE MUST BE EXERCISED TO
+    REMOVE ALL PRODUCT FROM SKIN.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Vapor Pres:SEE ING 2
+Vapor Density:SEE ING 2
+Spec Gravity:1.3
+pH:SUPDAT
+Evaporation Rate & Reference:1 (H*2O=1)
+Solubility in Water:INSOLUBLE
+Appearance and Odor:SOLID SPHERICAL BEADS; ODORLESS
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS SUCH AS NITRIC ACID.
+Stability Condition to Avoid:AT TEMPS ABOVE 204C DECOMPOSITION OCCURS.
+    EXPLOSIVE REACTIONS CAN OCCUR IN THE PRESENCE OF STRONG OXIDIZING
+    AGENTS.
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE,
+    STYRENE, DIVINYLBENZENE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:NEW, UNUSED PRODUCT CAN BE DISPOSED OF AS
+    ORDINARY TRASH I/A/W ALL FEDERAL, STATE, AND LOCAL REGULATIONS.
+    USED PRODUCT MUST BE TESTED FOR CONTAMINATION BY HAZARDOUS MATERIAL
+    AND DISPOSED OF ACCORDINGL Y.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

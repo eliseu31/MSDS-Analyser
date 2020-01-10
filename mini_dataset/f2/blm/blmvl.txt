@@ -1,0 +1,146 @@
+=====================  Product Identification  =====================
+
+Product ID:THERMOIL-GRANODINE 112
+MSDS Date:08/10/1989
+FSC:6850
+NIIN:01-043-2190
+MSDS Number: BLMVL
+=== Responsible Party ===
+Company Name:HENKEL CORP
+Address:32100 STEPHENSON HIGHWAY
+City:MADISON HEIGHTS
+State:MI
+ZIP:48071
+Country:US
+Info Phone Num:313-583-9300
+Emergency Phone Num:517-263-9430;800-424-9300(CHEMTREC)
+Preparer's Name:PRODUCT ACCEPTANCE OFFICE
+CAGE:HA022
+=== Contractor Identification ===
+Company Name:HENKEL CORP
+CAGE:HA022
+Company Name:OXY METAL INDUSTRIES CORP, PARKER CO
+Address:32100 STEPHENSON HWY
+Box:City:MADISON HEIGHTS
+State:MI
+ZIP:48071-1003
+Country:US
+CAGE:45738
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PHOSPHORIC ACID  (SARA III)
+CAS:7664-38-2
+RTECS #:TB6300000
+Fraction by Wt: 1-10%
+OSHA PEL:1 MG/M3/3 STEL
+ACGIH TLV:1 MG/M3/3 STEL; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:NITRIC ACID  (SARA III)
+CAS:7697-37-2
+RTECS #:QU5775000
+Fraction by Wt: 1-10%
+OSHA PEL:2 PPM/4 STEL
+ACGIH TLV:2 PPM/4 STEL; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:MANGANESE DIHYDROGEN PHOSPHATE
+CAS:18718-07-5
+Fraction by Wt: 10-30%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES:CONTACT CAN CAUSE BURN & EYE
+    DAMAGE. SKIN:CONTACT CAN CAUSE IRRITATION. INHAL:INHAL OF MIST CAN
+    CAUSE INJURY (BURNS) TO RESPIRATORY TRACT. INGEST:CAN RESULT IN
+    GASTROINTESTINAL DAMAGE; BURNS OF	DIGESTIVE TRACT.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:PRE-EXISTING SKIN DISORDERS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:IMMED FLUSH IN DIRECTED STREAM OF H*2O FOR @ LST 15 MIN
+    WHILE FORCIBLY HOLDING EYELIDS APART TO ENSURE COMPLETE IRRIGATION
+    OF ALL EYE & LID TISS. GET MD. SKIN:IMMED REMOVE CONTAM CLTHG &
+    SHOES. F LUSH THORO W/H*2O FOR @ LST 15 MIN. RINSE CLTHG. IF IRRIT
+    PERSISTS, GET MD. INGEST:DRINK LG QTYS OF H*2O. CORR. DO NOT INDUCE
+    VOMIT. IF VOMIT OCCURS, DRINK MORE H*2O. GET MD. NEVER GIVE (SUPP
+    DATA)
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:AS REQUIRED TO EXTINGUISH SURROUNDING FIRE.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED POSITIVE PRESSURE
+    SCBA & FULL PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROT CLTHG. DIKE TO CONTAIN SPILL. ABSORB
+    OR OTHERWISE COLLECT SPILL & STORE IN POLYETHYLENE OR
+    POLYETHYLENE-LINED STEEL CONTAINER. FLUSH CONTAMINATED AREA
+    W/WATER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT GET IN EYES, ON SKIN OR ON
+    CLOTHING. DO NOT TAKE INTERNALLY. FOR INDUSTRIAL USE ONLY.
+Other Precautions:PRODUCT CONTAINS CHEMICAL SUBJECT TO REPORTING
+    REQUIREMENTS OF SECTION 313, TITLE III OF SARA, PART 372.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATORY PROTECTION
+    IF MISTING OCCURS.
+Ventilation:LOC EXHST REQD. PROVIDE SUFFICIENT MECH (GEN &/OR LOC
+    EXHST)VENT TO MAINTAIN EXPOSURE BELOW TLV.
+Protective Gloves:NEOPRENE OR POLYVINYL GLOVES.
+Eye Protection:CHEM WORK GOGG/FULL LENGTH FCSHLD.
+Other Protective Equipment:APPROPRIATE PROTECTIVE CLOTHING. EYE WASH
+    FACILITY & EMERGENCY SHOWER SHOULD BE IN CLOSE PROXIMITY.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+FIRST AID PROC:ANYTHING BY MOUTH TO UNCON PERSON. INHAL:REMOVE TO FRESH
+    AIR & REMOVE CONTAM CLTHG. IF BRTHG IS DFCLT, ADMIN O*2. IF RESP
+    STOPS, GIVE MOUTH TO MOUTH RESUSCITATION. GET MD. WASTE DISP ME
+    TH:IN COMPLIANCE W/ALL APPLIC FEDERAL, STATE & LOCAL REGULATIONS.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>212F,>100C
+Spec Gravity:1.3-1.4
+pH:<1
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR GREEN LIQUID; FAINT ACIDIC ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+KEEP SEPARATE FROM ALKALIES.
+Hazardous Decomposition Products:NITROGEN OXIDES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CHEM IS HAZ WASTE AS DEFINED BY EPA HAZ WASTE &
+    CONSOLIDATED PERMIT REGS (OR CONSULT EQUIVALENT STATE REGS). CHEM
+    CONTAINS PHOSPHATES & HVY METALS. WASTE TREATMENT & NEUT MAY BE
+    REQD TO DISCHARGE TO S EWER. CNTCT LICENSED DISP AGENT. DISP OF
+    (SUPDAT)
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

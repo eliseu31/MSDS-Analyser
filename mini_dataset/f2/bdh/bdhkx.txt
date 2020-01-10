@@ -1,0 +1,146 @@
+=====================  Product Identification  =====================
+
+Product ID:SILVALOY 15
+MSDS Date:10/17/1991
+FSC:3439
+NIIN:00-188-6982
+MSDS Number: BDHKX
+=== Responsible Party ===
+Company Name:ENGLEHARD CORP. SPECIALTY METALS DIV.
+Address:ROUTE 152
+City:PLAINVILLE
+State:MA
+ZIP:02762
+Country:US
+Info Phone Num:508-695-7811
+Emergency Phone Num:508-695-7811
+CAGE:86337
+=== Contractor Identification ===
+Company Name:ENGELHARD CORP
+Address:235 KILVERT ST
+Box:City:WARWICK
+State:RI
+ZIP:02886
+Country:US
+Phone:401-739-9550
+CAGE:86337
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SILVER  (SARA III)
+CAS:7440-22-4
+RTECS #:VW3500000
+Fraction by Wt: 15%.
+OSHA PEL:0.01 MG/M3
+ACGIH TLV:0.1 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:COPPER  (SARA III)
+CAS:7440-50-8
+RTECS #:GL5325000
+Fraction by Wt: 80%.
+OSHA PEL:0.1MG/M3 FUME/1 DUST
+ACGIH TLV:0.2MG/M3 FUME; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:PHOSPHOROUS (YELLOW)  (SARA III)
+CAS:7723-14-0
+RTECS #:TH3500000
+Fraction by Wt: 5%.
+OSHA PEL:0.1 MG/M3
+ACGIH TLV:0.1 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYE AND SKIN CONTACT- MAY CAUSE
+    IRRITATION.  INHALATION- CAUSES IRRITATION AND MAY CAUSE SYSTEMIC
+    TOXICITY.  INGESTION- MAY CAUSE COPPER POISONING. CHRONIC:
+    PROLONGED OVEREXPOSURE TO PHOSPHORUS CAN CA USE GASTROINTESTINAL
+    DISTRESS, NECROSISAND DEFORMITY OF THE JAW. SYSTEMIC: CARDIAC,
+    LIVER AND KIDNEY DYSFUNCTION.
+Effects of Overexposure:INHALATION OF FUMES MAY CAUSE METAL FUME FEVER.
+    MAY TAKE 4 TO 12 HOURS AFTER SUFFICIENT EXPOSURE TO DEVELOP
+    SYMPTOMS. THE FIRST SYMPTOMS ARE A METALLIC TASTE, DRYNESS AND
+    IRRITATION OF THE THROAT. COU GH AND SHORTNESS OF BREATH MAY OCCUR
+    ALONG WITH FATIGUE, MUSCLE AND JOINT PAIN, FEVER AND CHILLS.
+Medical Cond Aggravated by Exposure:MAY AGGRAVATE EXISTING RESPIRATORY
+    AND/OR SKIN AILMENTS. INDIVIDUALS WITH WILSON'S DISEASE ARE AT
+    INCREASED RISK OF COPPER POISONING.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN AND EYES- FLUSH WITH PLENTY OF WATER. IF IRRITATION
+    DEVELOPS, CALL A PHYSICIAN.  INHALATION- REMOVE TO FRESH AIR AND
+    SEEK MEDICAL ATTENTION.  INGESTION- PROCEDURES NORMALLY NOT NEEDED.
+    IF LARGE Q UANTITIES ARE INGESTED, SEEK MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:EXTINGUISH WITH AGENT SUITABLE FOR SURROUNDING FIRE
+Fire Fighting Procedures:WEAR POSITIVE-PRESSURE SELF-CONTAINED
+    BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:FINELY DIVIDED DUST MAY IGNITE AND BURN
+    RAPIDLY WHEN MIXED WITH AIR IN THE PROPER PROPORTIONS. TOXIC METAL
+    FUMES MAY BE RELEASED IN A FIRE SITUATION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CLEAN UP ANY GRINDING DUST OR WASTE RESIDUE
+    AND PLACE IN SUITABLE DOT APPVD CONT FOR REPROCESSING OR DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORAGE DOES NOT INVOLVE HAZ.PROTECT
+    SILVALOY FROM EXPOSURE TO TARNISHING (OXIDIZING OR SULPHUR
+    CONTAINING ATMOSPHERE).
+Other Precautions:BRAZING ALLOYS ARE FREQ.USED W/FLUORIDE TYPE FLUX.IF
+    APPLICABLE FLUX FUME SHOULD BE CONSIDERED IN EVAL.OF HAZ.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:FUME RESP.OR AIR SUPPL.RESP.IN CONFINED SPACES.
+Ventilation:LOCAL EXHAUST.
+Protective Gloves:WELDER'S GLOVES
+Eye Protection:FACE SHIELD W/FILTR LENS.
+Other Protective Equipment:SUBST.DK.CLOTH.,ARM
+    PROTECTOR,APRON,HAT,SHOULDER PROTECTION.
+Work Hygienic Practices:AVOID CONTACT WITH ANY DUSTS, MISTS OR FUMES
+    RESULTING FROM THE USE OF THIS PRODUCT. DO NOT EAT, DRINK, OR SMOKE
+    IN AREA
+Supplemental Safety and Health
+MSDS DATED 10-19/84.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Melt/Freeze Pt:M.P/F.P Text:1179F,637C
+Solubility in Water:INSOLUBLE
+Appearance and Odor:METALLIC WIRE, ROD OR STRIP; ODORLESS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS AND BASES, OXIDIZING AGENTS, ACTYLENE, AMMONIA, HYDROGEN
+    PEROXIDE, MAGNESIUM METAL, AMMONIUM NITRATE, H2S.
+Stability Condition to Avoid:NONE SPECIFIED.
+Hazardous Decomposition Products:TOXIC METAL OXIDES ARE EMITTED WHEN
+    HEATED ABOVE THE MELTING POINT.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IAW LOCAL,STATE & FED REGS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

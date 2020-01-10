@@ -1,0 +1,121 @@
+=====================  Product Identification  =====================
+
+Product ID:MIL-G-18694,GLYCERINE-WATER MIXTURE,TYPE B
+MSDS Date:01/01/1985
+FSC:6810
+NIIN:00-172-9098
+MSDS Number: BDFKP
+=== Responsible Party ===
+Company Name:CHEMICAL COMMODITIES AGENCY, INC
+Emergency Phone Num:714-864-2310
+CAGE:60777
+=== Contractor Identification ===
+Company Name:CHEMICAL COMMODITIES AGENCY, INC.
+Address:27447 PACIFIC STREET
+Box:City:HIGHLAND
+State:CA
+ZIP:92346-2640
+Country:US
+Phone:909-864-2310
+CAGE:60777
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:GLYCERIN
+CAS:56-81-5
+RTECS #:MA8050000
+Fraction by Wt: 59.6%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 (MIST) 9293
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 39.6%
+
+Ingred Name:ADDITIVES(PROPRIETARY COMPOSITION); NOTE:COMPOSITIONS ARE %
+    VOLUME FOR THIS HMIS ONLY.
+Fraction by Wt: 0.8%
+
+=====================  Hazards Identification  =====================
+
+Effects of
+    Overexposure:SKIN:REDNESS;EYES:REDNESS/PAIN;INGEST:NAUSEA,HEADACE,D
+    IARRHEA,VOMIT;INSOMNIA,CONVULSION,PARALYSIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH W LG AMTS H*2O FOR 15 MIN, GET MEDICAL ATTN. IF
+    NEEDED; SKIN: FLUSH W LG AMTS SOAP & H*2O;INGEST:RINSE MOUTH,DRINK
+    WATER,GASTRIC LAUAGE(STOMACH WASH),FOLLOWED BY SALINE CATHARSIS, &
+    IMMEDIA TE MED ATTN:KIDNEY INJURY RISK.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:H*2O,DRY CHEM,FOAM,CO*2(GLYCERINE IS COMBUSTBLE).
+Fire Fighting Procedures:WEAR SELF-CNTND BRTHG APP.
+Unusual Fire/Explosion Hazard:GLYCERIN COMPONENT DECOMPOSES UPON
+    HEATING ABOVE 290 TO FORM CORROSIVE GAS(ACROLEIN).
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE UNPROTECTED PERSONS. ELIM IGNITION
+    SOURCES. STOP LEAK. H*2O SPRAY COOL CONT/DIVERT SPILL FROM
+    FIRE/HEAT. PROVIDE VENTILATION. ABSORB W COMMERCIAL
+    ABSORBENT,SHOVEL IN TO METAL DRUMS;LG SPILL:D IKE W COMMERCIAL
+    ABSORBENT,PUMP INTO COVERED DRUMS
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DRY,WELL VENTILATED,LOW
+    FIRE RISK AREA. PROTECT FROM PHYSICAL DAMAGE. AVOID ANY PHYSICAL
+    CONTACT. KEEP CONTAINERS TIGHTLY CLOSED.
+Other Precautions:AVOID PROLONGED OR REPEATED CONTACT W CHEMICAL.
+    REMOVE & WASH CONTAMINATED CLOTHING. DO NOT EAT OR DRINK OR SMOKE
+    WHILE WITH THIS PRODUCT UNTIL AFTER APPROPRIATE PERSONAL HYGIENE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NO SPECIAL REQUIREMENTS.
+Ventilation:NO SPECIAL REQUIREMENTS.
+Protective Gloves:IMPERVIOUS
+Eye Protection:SAFETY GLASSES/GOGGLES
+Other Protective Equipment:NO SPECIAL REQUIREMENTS.
+Supplemental Safety and Health
+FULL SPEC: MIL-G-18694A/OS/TYPE B.(USED IN HYDRAULIC BUFFERS &
+    HYDRAULIC RECOIL MECHANISMS). DUE TO MINIMAL DATA FROM MFG.
+    STANDARD REFERENCE TEXTS WERE USED TO PROVIDE HMIS INPUTS
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:>212F,>100C
+Vapor Pres:LOW
+Solubility in Water:COMPLETE
+Appearance and Odor:LIQUID; ODORLESS
+Percent Volatiles by Volume:NIL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS SUCH AS BICHROMATE, POT.CHLORATE/PERMANG.
+Stability Condition to Avoid:TEMPERATURES ABOVE 290C, OPEN
+    FLAME/IGNITION SOURCES
+Hazardous Decomposition Products:DECOMP LEADS TO FORMATION OF
+    ACROLEIN(CORROSIVE GAS)
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:KEEP IN COVERED DRUMS,PENDING DISPOSAL. HANDLE &
+    DISPOSE IN FULL COMPLIANCE WITH APPLICABLE
+    INTERNATIONAL,FEDERAL,STATE,LOCAL REGULATIONS.(MAY BE MIXED WITH
+    MORE FLAMMABLE SOLVENT & INCINERATED).
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

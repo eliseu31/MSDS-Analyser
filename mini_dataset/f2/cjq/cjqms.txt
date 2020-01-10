@@ -1,0 +1,144 @@
+=====================  Product Identification  =====================
+
+Product ID:FLOOR SILVER FLOOR FINISH
+MSDS Date:05/12/1999
+FSC:7930
+NIIN:00N092261
+Status Code:A
+MSDS Number: CJQMS
+=== Responsible Party ===
+Company Name:RELIANCE COMPANY
+Address:796 AQUIDNECK AVENUE
+City:MIDDLETOWN
+State:RI
+ZIP:02842
+Country:US
+Info Phone Num:401-349-3535
+Emergency Phone Num:401-349-3535
+CAGE:TO256
+=== Contractor Identification ===
+Company Name:RELIANCE COMPANY
+Address:796 AQUIDNECK AVENUE
+Box:City:MIDDLETOWN
+State:RI
+ZIP:02842
+Country:US
+Phone:401-349-3535
+CAGE:TO256
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:AMMONIA (MANUFACTURER CAS # 7664-41-6)
+CAS:7664-41-7
+RTECS #:BO0875000
+< Wt:2.
+Other REC Limits:N/K 
+OSHA PEL:35 MG/M3;50 PPM
+OSHA STEL:N/K 
+ACGIH TLV:17 MG/M3;25 PPM
+ACGIH STEL:24 MG/M3;35 PPM
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:DIETHYLENE GLYCOL MONOMETHYL ETHER
+CAS:111-77-3
+RTECS #:KL6125000
+< Wt:7.
+Other REC Limits:N/K 
+OSHA PEL:N/K 
+OSHA STEL:N/K 
+ACGIH TLV:N/K 
+ACGIH STEL:N/K 
+
+Ingred Name:ACRYLATE COPOLYMER
+Other REC Limits:N/K 
+OSHA PEL:N/K 
+OSHA STEL:N/K 
+ACGIH TLV:N/K 
+ACGIH STEL:N/K 
+
+Ingred Name:SURFACTANTS
+Other REC Limits:N/K 
+OSHA PEL:N/K 
+OSHA STEL:N/K 
+ACGIH TLV:N/K 
+ACGIH STEL:N/K 
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: INHALATION OF MIST MAY BE
+    IRRITATING TO THROAT. EYES: STRONG IRRITANT. SKIN: PROLONGED
+    EXPOSURE MAY IRRITATE SKIN. INGESTION: CONSULT A PHYSICIAN.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: AVOID INHALATION OF MIST OR VAPOR. REMOVE TO
+    FRESH AIR. SUPPORT BREATHING (GIVE OXYGEN OR ARTIFICIAL
+    RESPIRATION) . EYES: FLUSH WITH POTABLE WATER FOR AT LEAST 15
+    MINUTES. SEE MD (FP  N). SKIN: WASH AREA OF SKIN WITH SOAP AND
+    WATER. IF IRRITATION PERSISTS, CONTACT PHYSICIAN. INGESTION: DILUTE
+    WITH WATER OR MILK AND GET MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:WATER, DRY CHEMICAL, CARBON DIOXIDE, FOAM.
+Fire Fighting Procedures:NONE. WEAR NIOSH APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE KNOWN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SMALL SPILLS MAY BE FLUSHED DOWN THE DRAIN.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID INHALATION OF MIST OR VAPORS.
+    STORE BETWEEN 40F AND 120F. KEEP CONTAINER COVERED OR CLOSED. KEEP
+    OUT OF REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:GENERALLY NOT REQUIRED. WEAR NIOSH APPROVED
+    RESPIRATOR APPROPRIATE FOR EXPOSURE OF CONCERN .
+Ventilation:LOCAL EXHAUST.
+Protective Gloves:PROTECTIVE GLOVES. WEAR IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:EYEWASH AND DELUGE SHOWER MEETING ANSI
+    DESIGN CRITERIA .
+Supplemental Safety and Health
+PHYSICAL/CHEMICAL PROPERTIES: REACTIVITY IN WATER: NONE.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:=100.C, 212.F
+Spec Gravity:APPROX 1.0
+pH:8 - 9
+Solubility in Water:100%
+Appearance and Odor:WHITE MILKY LIQUID.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING PRODUCTS.
+Stability Condition to Avoid:NONE KNOWN.
+Hazardous Decomposition Products:NONE KNOWN.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE AND
+    FEDERAL REQUIREMENTS.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

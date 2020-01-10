@@ -1,0 +1,138 @@
+=====================  Product Identification  =====================
+
+Product ID:044199, CRONEX NDT STARTER, XIAS
+MSDS Date:08/01/1989
+FSC:6750
+NIIN:01-098-6482
+MSDS Number: BJDKV
+=== Responsible Party ===
+Company Name:E.I. DU PONT DE NEMOURS & CO.,INC.
+Address:CHESTNUT RUN PALZA-708
+Box:80708
+City:WILMINGTON
+State:DE
+ZIP:19880-0708
+Country:US
+Info Phone Num:302-999-2161
+Emergency Phone Num:800-441-3637 OR 800-424-9300
+CAGE:18773
+=== Contractor Identification ===
+Company Name:E.I. DU PONT DE NEMOURS & CO., INC.
+CAGE:18773
+Company Name:E.I. DUPONT DE NEMOURS & CO
+Address:1007 MARKET STREET
+Box:City:WILMINGTON
+State:DE
+ZIP:19898
+Country:US
+Phone:800-441-7515;800-441-9442
+CAGE:18873
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ACETIC ACID  (SARA III)
+CAS:64-19-7
+RTECS #:AF1225000
+Fraction by Wt: 3-7%
+OSHA PEL:10 PPM
+ACGIH TLV:10 PPM/15 STEL; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:SODIUM BROMIDE
+CAS:7647-15-6
+RTECS #:VZ3150000
+Fraction by Wt: 15-40%
+Other REC Limits:NONE ESTABLISHED
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 40-70%
+Other REC Limits:NONE ESTABLISHED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:CAUSES EYE BURNS AND SKIN IRRITATION.
+    INHALATION CAUSES RESPIRATORY IRRITATION. INGESTION CAUSES
+    GASTROINTESTINAL IRRITATION. INGESTION OF SODIUM BROMIDE CAN CAUSE
+    CNETRAL NERVOUS SYSTEM DEPRESSION AN D MENTAL CONFUSION. CHRONIC
+    EXPOSURE TOBROMIDES CAN CAUSE ACNE-LIKE SKIN DISEASE.
+Effects of Overexposure:EYES/SKIN:CAUSES BURNS/IRRIT;INHAL:CAUSES RESP
+    IRRITN;INGESTION:CAUSES GI IRRIT,CNS DEPRESSION,CONFU
+Medical Cond Aggravated by Exposure:NONE STATED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:WASH WITH SOAP & WATER; EYES:FLUSH WITH WATER;
+    INGESTED:DON'T INDUCE VOMITING, GIVE LALRGE AMOUNTS OF WATER;
+    INHALED:REMOVE TO FRESH AIR. GIVE CPR/OXYGEN IF NEEDED.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:WATER SPRAY/FOG,"ALCOHOL" FOAM, DRY CHEM, CO*2
+Fire Fighting Procedures:EVACUATE PERSONS TO SAFE AREA&KEEP UPWIND.WEAR
+    SCBA.COOL CON
+Unusual Fire/Explosion Hazard:HEATING CAN RELEASE VAPORS WHICH CAN BE
+    IGNITED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE APPROPRIATE PERSONA PROTECTIVE EQUIP
+    DURING CLEAN UP.DIKE SPILL.PREVENT LIQUID FROM ENTERING
+    SEWERS,WATER WAYS OR LOW AREAS.SOAK UP WITH SAWDUST,SAND,OIL DRY OR
+    OTHER ABSORBENT MATERIAL.SPILL MAY	BE NEUTRALIZE W SODIUM
+    BICARBONATE BEFORE DISPOSL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN WELL VENTILATED AREA. STORE
+    IN COOL PLACE. KEEP CONTAINER TIGHTLY CLOSED. DO NOT STORE OR
+    CONSUME FOOD, DRINK OR TABACCO IN AREA.
+Other Precautions:NONE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF NEEDED(POORLY VENTILATED AREAS), USE CHEMICAL
+    CARTRIDGE RESPIRATOR W/ORGANIC VAP CARTRIDGE
+Ventilation:USE ONLY WITH ADEQUATE VENTILATION.
+Protective Gloves:LATEX/NEOPRENE
+Eye Protection:CHEMICAL SPLASH GOGGLES
+Other Protective Equipment:FULL WORK CLOTHING TO PREVENT REPEATED OR
+    PROLONGED CONTACT.
+Supplemental Safety and Health
+MSDS NO.H-16828 FROM DUPONT CO. THIS IS A "POPS" ITEM, DUPONT WON THE
+    AWARD ON THIS CONTRACT.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C3
+Boiling Pt:B.P. Text:>212F/100C
+Spec Gravity:1.1-1.3
+pH:2.8
+Solubility in Water:COMPLETE
+Appearance and Odor:VINEGAR ODOR,COLORLESS,CLEAR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG BASES
+Stability Condition to Avoid:EXCESSIVE HEAT
+Hazardous Decomposition Products:NONE STATED.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CLEANED UP MATERIAL IS A RCRA HAZARDOUS WASTE.
+    TO COMPLY WITH LOCAL, STATE AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

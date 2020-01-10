@@ -1,0 +1,171 @@
+=====================  Product Identification  =====================
+
+Product ID:HYSOL PC-18M
+MSDS Date:03/20/1990
+FSC:5970
+NIIN:01-217-8835
+MSDS Number: BLMWX
+=== Responsible Party ===
+Company Name:DEXTER ELECTRONIC MTLS DIV.,THE DEXTER CORP.
+Address:211 FRANKLIN ST.
+City:OLEAN
+State:NY
+ZIP:14760-1297
+Country:US
+Info Phone Num:716-372-6300
+Emergency Phone Num:716-372-6309
+Preparer's Name:JAMES HORNBURG
+CAGE:04347
+=== Contractor Identification ===
+Company Name:DEXTER CORP THE DEXTER ELECTRONIC MATERIAL DIV
+Address:211 FRANKLIN ST.
+Box:City:OLEAN
+State:NY
+ZIP:14760-1297
+Country:US
+Phone:716-372-6300/6309
+CAGE:04347
+Company Name:MCKEOWN ROBERT CO. INC.
+Address:111 CHAMBERS BROOK RD.
+Box:City:SOMERVILLE
+State:NJ
+ZIP:08876
+Country:US
+Phone:908-218-9000
+CAGE:7B953
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS)	(SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 15-20%
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:PROPYLENE GLYCOL METHYL ETHER ACETATE
+CAS:108-65-6
+RTECS #:AI8295000
+Fraction by Wt: 10-30%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:ETHYL BENZENE  (SARA III)
+CAS:100-41-4
+RTECS #:DA0700000
+Fraction by Wt: 5-10%
+OSHA PEL:100 PPM/125 STEL
+ACGIH TLV:100 PPM/125STEL 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:URETHANE PREPOLYMER
+Fraction by Wt: 30-60%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:0.01 PPM
+ACGIH TLV:0.01 PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:FLAMMABLE LIQUID AND VAPORS. KEEP AWAY
+    FROM HEAT AND SPARKS.ACUTE-CAUSES IRRITATION OF EYES, SKIN AND
+    RESPIRATORY TRACT. MAY CAUSE CNS DEPRESSION, HEADACHE, NAUSEA AND
+    UNCONSCIOUSNESS. AVOID PROLONGED  INHALATION OF VAPORS.
+    CHRONIC-CAUSES  SENSITIZATION OF SKIN AND LUNGS, ASTHMA.
+Effects of Overexposure:EYE: SEVERE IRRITATION. SKIN:IRRITATION,
+    DERMATITIS. INHALATION:RESPIRATORY IRRITATION, FLU-LIKE SYMPTOMS,
+    ASTHMA, LOSS OF APPETITE. INGESTION:G/I IRRITATION, HEADACHE,
+    NAUSEA, VOMITING, DIARRHEA. HEA DACHE AND DIZZINESS.
+Medical Cond Aggravated by Exposure:PEOPLE WITH DERMATITIS, ASTHMA, AND
+    OTHER SIMILAR DISORDERS SUCH AS EMPHYSEMA, ECZEMA, MAY BE AT
+    INCREASED RISK.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH WITH WATER FOR 15 MIN HOLDING EYELIDS OPEN. SEE A
+    DOCTOR. SKIN:REMOVE CONTAMINATED CLOTHING AND LAUNDER BEFORE REUSE,
+    WASH WITH SOAP & WATER. INHALATION:REMOVE TO FRESH AIR. GIVE OXYGEN
+    OR C PR AS NEEDED. GET MEDICAL ATTENTION, SYMPTOMS MAY DEVELOP
+    IMMEDIATELY OR MAY BE DELAYED SEVERAL HOURS. INGESTION:DO NOT
+    INDUCE VOMITING. GIVE WATER TO DRINK IF CONSCIOUS. GET MEDICAL HELP
+    IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:81.0F,27.2C
+Lower Limits:1.0 XYLENE
+Upper Limits:7.0 XYLENE
+Extinguishing Media:USE CARBON DIOXIDE, FOAM, DRY CHEMICAL, OR WATER
+    FOG. (WATER SPRAY MAY BE INEFFECTIVE.)
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE APPROPRIATE PERSONAL PROTECTIVE EQUIPMENT.
+    VENTILATE AREA AND REMOVE IGNITION SOURCES. COLLECT MATERIAL IN
+    CONTAINERS AND COVER.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE TIGHTLY CLOSED IN A DRY AREA,
+    FOR FLAMMABLE MATERIALS. APPLY ALL SAFETY PRECAUTIONS TO EMPTY AS
+    WELL AS FULL CONTAINERS.
+Other Precautions:PROTECT FROM MOISTURE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR WHEN SPRAYING
+    OR WHENEVER EXPOSED TO VAPORS/FUMES NEAR OR ABOVE PEL/TLV. SELF
+    CONTAINED RESPIRATOR WITH ORGANIC VAPORS FILTER IS RECOMMENDED.
+Ventilation:GENERAL VENTILATION SUPPLEMENTED WITH LOCAL EXHAUST, AS
+    NEEDED TO MAINTAIN EXPOSURES BELOW PEL/TLV.
+Protective Gloves:RUBBER,VINYL OR OTHER IMPERVIOUS
+Eye Protection:GOGGLES OR FACE SHIELD  **NO CONTACTS!!*
+Other Protective Equipment:EYE WASH STATION & SAFETY SHOWER
+Work Hygienic Practices:USE GOOD INDUSTRIAL HYGIENE PRACTICES. AVOID
+    CONTACT IF POSSIBLE. WASH THOROUGHLY AFTER USING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:281F,138C
+Vapor Pres:9.5 MM
+Vapor Density:3.7
+Spec Gravity:1.02
+Evaporation Rate & Reference:0.54(BUTYL ACETATE = 1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:LIGHT AMBER MEDIUM VISCOSITY LIQUID, AROMATIC ESTER
+    SOLVENT ODOR
+Percent Volatiles by Volume:58
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS
+Stability Condition to Avoid:HIGH TEMPERATURES, SPARKS, AND OPEN FLAMES
+Hazardous Decomposition Products:CARBON DIOXIDE, CARBON MONOXIDE,
+    OXIDES OF NITROGEN.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W FEDERAL, STATE, AND LOCAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,201 @@
+=====================  Product Identification  =====================
+
+Product ID:310 AC-DC
+MSDS Date:10/01/1985
+FSC:3439
+NIIN:00-878-2146
+MSDS Number: BWRXB
+=== Responsible Party ===
+Company Name:WELDWIRE CO. INC.
+Address:103 QUEENS DRIVE
+City:KING OF PRUSSIA
+State:PA
+ZIP:19403
+Country:US
+Info Phone Num:215-242-1100
+Emergency Phone Num:215-242-1100
+CAGE:WELDW
+=== Contractor Identification ===
+Company Name:WELDWIRE CO. INC.
+Address:103 QUEENS DRIVE
+Box:City:KING OF PRUSSIA
+State:PA
+ZIP:19403
+Country:US
+Phone:215-242-1100
+CAGE:WELDW
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:IRON
+CAS:7439-89-6
+RTECS #:NO4565500
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:NICKEL  (SARA III)
+CAS:7440-02-0
+RTECS #:QR5950000
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+
+Ingred Name:MOLYBDENUM
+CAS:7439-98-7
+RTECS #:QA4680000
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:10 MG/M3 TDUST
+ACGIH TLV:10 MG/M3; 9192
+
+Ingred Name:CALCIUM CARBONATE (MARBLE) (LIMESTONE)
+CAS:1317-65-3
+RTECS #:EV9580000
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9192
+
+Ingred Name:SODIUM METASILICATE
+CAS:6834-92-0
+RTECS #:VV9275000
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:NIOBIUM (ALSO CALLED COLUMBIUM)
+CAS:7440-03-1
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:CHROMIUM  (SARA III)
+CAS:7440-47-3
+RTECS #:GB4200000
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:1 MG/M3
+ACGIH TLV:0.5 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:MANGANESE  (SARA III)
+CAS:7439-96-5
+RTECS #:OO9275000
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:5 MG/M3 DUST
+ACGIH TLV:5 MG/M3 DUST 9192
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:10 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9192
+
+Ingred Name:CALCIUM FLUORIDE (AS F)
+CAS:7789-75-5
+RTECS #:EW1760000
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:KAOLIN
+CAS:1332-58-7
+RTECS #:GF1670500
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:10 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9192
+
+Ingred Name:COPPER  (SARA III)
+CAS:7440-50-8
+RTECS #:GL5325000
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:0.1MG/M3 FUME/1 DUST
+ACGIH TLV:0.2MG/M3 FUME; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:WELDING FUMES & GASES CAN BE DANGEROUS
+    TO YOUR HEALTH. SHORT-TERM OVEREXPOSURE MAY RESULT IN DISCOMFORT;
+    DIZZINESS, NAUSEA, DRYMESS OR IRRITATION OF NOSE, THROAT OR EYES.
+    LONG TERM OVEREXPOSURE MAY CA USE SIDEROSIS & IS BELIEVED TO AFFECT
+    PULMONARY FUNCTION. ARC RAYS CAN INJURE EYES & BURN SKIN. ELECTRIC
+    SHOCK CAN KILL.
+Explanation of Carcinogenicity:MFR GAVE NO INFORMATION ON MSDS.
+    HMIS:CONTAINS NICKEL & CHROMIUM. SEE IARC & NTP REPORTS FOR DETAILS
+    OF CARCINOGENICITY.
+Effects of Overexposure:DISCOMFORT, DIZZINESS, NAUSEA OR DRYMESS OR
+    IRRITATION OF NOSE, THROAT OR EYES. ARC RAYS CAN INJURE EYES &
+    SKIN. ELECTRIC SHOCK CAN KILL.
+Medical Cond Aggravated by Exposure:MFR GAVE NO INFORMATION ON MSDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:CALL FOR MEDICAL AID. EMPLOY FIRST AID TECHNIQUIS RECOMMENDED
+    BY THE AMERICAL RED CROSS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON-FLAMMABLE
+Extinguishing Media:NON-FLAMMABLE. USE MEDIA APPROPRIATE FOR
+    SURROUNDING FIRE.
+Fire Fighting Procedures:MFR GAVE NO INFORMATION ON MSDS.
+Unusual Fire/Explosion Hazard:WELDING ARC & SPARKS CAN IGNITE
+    COMBUSTIBLES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:MFR LISTED ONLY "NOT APPLICABLE" ON THE MSDS.
+Neutralizing Agent:MFR GAVE NO INFORMATION ON MSDS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:MFR GAVE NO INFORMATION ON MSDS.
+Other Precautions:MFR GAVE NO INFORMATION ON MSDS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE RESPIRABLE FUME RESPIRATOR OR AIR SUPPLIED
+    RESPIRATOR WHEN WELDING IN CONFINED SPACE OR WHERELOCAL EXHAUST OR
+    VENTILATION DOES NOT KEEP EXPOSURE BELOW TLV.
+Ventilation:USE VENTILATION, LOCAL EXHAUST OR BOTH TO KEEP FUMES &
+    GASES BELOW THE TLV. TRAIN WELDER TO KEEP HIS HEAD OUT OF FUMES.
+Protective Gloves:WELDER'S GLOVES
+Eye Protection:HELMET OR FACE SHIELD W/FILTER LENS
+Other Protective Equipment:SEE ANSI Z-49.1. WEAR PROTECTION NECESSARY
+    TO PEVENT INJURY FROM RADIATION. TRAIN WELDER NOT TO TOUCH LIVE
+    ELECTRIC PART
+Work Hygienic Practices:MFR:?  HMIS:USE GOOD INDUSTRIAL HYGIENE
+    PRACTICES. MINIMIZE CONTACT & WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+READ & UNDERSTAND MFR'S INSTRUCTIONS & PRECAUTIONARY LABLE ON THE
+    PRODUCT. SEE ANSI Z-49.1. & OSHA 2206 (29CFR1910) FO MORE DETAIL ON
+    CONTROL MEASURES.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+NRC/State Lic Num:NONE
+Appearance and Odor:MFR SAID ONLY "NOT APPLICABLE" IN THE PHYSICAL DATA
+    SECTION. SEE ADD DATA.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:WELDING FUMES DEPEND ON THE THE METAL
+    IN THE ROD, THE METAL BEING WELDED & THE CONDITIONS OF THE WELDING
+    PROCESS.
+Conditions to Avoid Polymerization:MFR GAVE NO INFORMATION ON MSDS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PREVENT WASTE FROM CONTAMINATING SURROUNDING
+    ENVIRONMENT. DISCARD ANY PRODUCT, RESIDUE, DISPOSABLE CONTAINER OR
+    LINER IN AN ENVIRONMENTALLY ACCEPTABLE MANNER I/A/W FEDERAL, STATE
+    & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,144 @@
+=====================  Product Identification  =====================
+
+Product ID:CAREFREE RECHARGEABLE BATTERY
+MSDS Date:01/01/1995
+FSC:6140
+NIIN:00-111-0508
+MSDS Number: BKYGS
+=== Responsible Party ===
+Company Name:EAGLE-PINCHER INDUSTRIES
+Address:BETHEL RD
+Box:130
+City:SENECA
+State:MO
+ZIP:64865
+Country:US
+Info Phone Num:417-776-2256
+Emergency Phone Num:417-776-2256/800-424-9300(CHEMTREC)
+CAGE:81855
+=== Contractor Identification ===
+Company Name:EAGLE-PICHER INDUSTRIES, INC.
+Address:C AND PORTER STS
+Box:47
+City:JOPLIN
+State:MO
+ZIP:64801
+Country:US
+Phone:417-623-8000
+CAGE:81855
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LEAD  (SARA III)
+CAS:7439-92-1
+RTECS #:OF7525000
+Fraction by Wt: 50%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:SEE 1910.1025
+ACGIH TLV:0.15 MG/M3,DUST;9394
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:LEAD OXIDE (LITHARGE) ALSO INCLUDE CAS#:1314-41-6.
+CAS:1317-36-8
+RTECS #:OG1750000
+Fraction by Wt: 25%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:SULFURIC ACID  (SARA III), 38% (SG:1.28)
+CAS:7664-93-9
+RTECS #:WS5600000
+Fraction by Wt: 18%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9394
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SEVERE BURNS & EYE DAMAGE FROM
+    SULFURIC ACID ELECTROLYTE. ILLNESS FROM SULFUR OXIDE FUMES.
+    CONTAINS LEAD WHICH IS KNOWN TO CAUSE BIRTH DEFECTS OR OTHER
+    REPRODUCTIVE HARM.
+Explanation of Carcinogenicity:PER
+    MSDS:CARCINOGENICITY:NTP/IARC/OSHA:NO.
+Effects of Overexposure:IRRITATION & ACID BURNS. PUNGENT ODOR &
+    RESPIRATORY IRRITATION.
+Medical Cond Aggravated by Exposure:NOT APPLICABLE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:FOR SULFUR OXIDE FUMES DISCONNECT BATTERIES, EVACUATE &
+    VENTILATE. EXTERNAL:FLUSH AREAS CONTAMINATED BY SULFURIC ACID
+    ELECTROLYTE W/WATER. INTERNAL:DRNK LARGE QUANTITIES OF WATER OR
+    MILK, FOLLOWED BY  MILK OR MAGNESIA, BEATEN EGGS OR VEGETABLE OIL.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:SEE EXT MEDIA
+Extinguishing Media:WATER, FOAM, DRY. DIRECT FLAME TO BATTERY CASE.
+Fire Fighting Procedures:PER MSDS NOT APPLICABLE; HOWEVER USE
+    APPROPRIATE PROTECTIVE CLOTHING/EQPMT AS CONDITIONS WARRANT.
+Unusual Fire/Explosion Hazard:KEEP LIGHTED CIGARETTES/SPARKS/FLAMES
+    AWAY.EXPLO CAN RESULT FRM IMPROPER CHARGING/IGNITION OF CHARGING
+    GASES.EXPLO CAN RESULT IF CHARGED IN GAS TIGHT ENCLOSURES
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:AVOID CONTACT W/SULFURIC ACID ELECTROLYTE FROM
+    BATTERY. FLUSH W/WATER. NEUTRALIZE WITH SOLUTION OF BAKING SODA &
+    WATER.
+Neutralizing Agent:SOLUTION OF BAKING SODA & WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:BATTERIES W/RELEASED ELECTROLYTE SHALL
+    BE SEALED IN POLYEHTYLENE BAGS. KEEP BATTERIES AWAY FROM CHILDREN.
+Other Precautions:DO NOT CRACK BATTERY CASES. DO NOT OVERCHARGE. DO NOT
+    SHORT CIRCUIT BATTERY TERMINALS. KEEP LIGHTED CIGARETTES, SPARKS,
+    FLAMES AWASY FROM CHARGING BATTERIES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:NATURAL CONVECTION.
+Protective Gloves:RUBBER GLOVES IF CASE IS CRACKED.
+Eye Protection:RECOMMENDED.
+Other Protective Equipment:NOT APPLICABLE.
+Work Hygienic Practices:WASH HANDS AFTER HANDLING.
+Supplemental Safety and Health
+PER SUBMITTED PAPERWORK FROM B.C. MIZAK, DDSP-XP:EACH CELL OF BATTERY
+    CONTAINS 55ML OF SULFURIC ACID & BATTERY HAS 12 CELLS. PER MFG:NOT
+    REG FOR TRANSP BY DOT PER 49CFR173.159(D);HOWEVER BATTERY REG F OR
+    MILITARY AIR,IMDG,IATA AS BATTERIES,WET,NON-SPILLABLE, CLS 8,
+    UN2800,PG III.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C1
+Appearance and Odor:THIS PRODUCT IS AN ARTICLE UNDER OSHA.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+SOLVENTS MAY DISSOLVE BATTERY CASE MATERIAL.
+Stability Condition to Avoid:NONE SPECIFIED BY MFG.
+Hazardous Decomposition Products:SEVERE OVERCHARGE & OVERHEATING MAY
+    CAUSE SULFUR OXIDE FUMES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:UNLAWFUL TO DISPOSE IN LANDFILL. DO NOT
+    INCINERATE, PUNCTURE, DISASSEMBLE OR MUTILATE. DISPOSE WITH
+    AUTOMOTIVE BATTERY SCRAP IN ACCORDANCE WITH LOCAL & FEDERAL REGS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

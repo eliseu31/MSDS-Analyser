@@ -1,0 +1,99 @@
+=====================  Product Identification  =====================
+
+Product ID:611590 OMC 2+4 FUEL CONDITIONER 12 OZ
+MSDS Date:05/24/1989
+FSC:9150
+NIIN:00F019185
+MSDS Number: BLPPQ
+=== Responsible Party ===
+Company Name:GOLD EAGLE CO
+Address:4400 S KILDARE
+Box:97267
+City:CHICAGO
+State:IL
+ZIP:60690
+Info Phone Num:(312) 376-4400
+Emergency Phone Num:(312) 376-4400
+CAGE:2M612
+=== Contractor Identification ===
+Company Name:GOLD EAGLE COMPANY
+Address:4400 S KILDARE BLVD.
+Box:97267
+City:CHICAGO
+State:IL
+ZIP:60632-4372
+Country:US
+Phone:773-376-4400
+CAGE:2M612
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: 97%
+Other REC Limits:400 PPM
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+Ingred Name:ADDITIVES
+Fraction by Wt: 3%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES/SKIN: IRRITATION. INHALATION:
+    DIZZINESS & NAUSEA. INGESTION: GASTROINTESTINAL IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES/SKIN: IRRITATION. INHALATION: DIZZINESS &
+    NAUSEA. INGESTION: GASTROINTESTINAL IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES/SKIN: FLUSH W/WATER. INGESTION: GIVE TWO GLASSES OF
+    WATER & INDUCE VOMITING. INHALATION: REMOVE TO FRESH AIR. OBTAIN
+    MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:53F
+Lower Limits:2%
+Upper Limits:12%
+Extinguishing Media:CO2, DRY CHEMICAL, WATER SPRAY, OR FOG
+Fire Fighting Procedures:FIGHT FIRE FROM SAFE DISTANCE WEARING APPROVED
+    RESPIRATOR.
+Unusual Fire/Explosion Hazard:HEAT MAY CAUSE CONTAINERS TO RUPTURE &
+    SPREAD FIRE. VAPORS >AIR MAY TRAVEL ALONG GROUND & IGNITE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE SOURCES OF IGNITION. ABSORB LIQUID
+    ON SUITABLE INERT SOLIDS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T STORE >120F.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE CHEMICAL RESPIRATOR
+Ventilation:MECHANICAL TO KEEP 120F, SPARKS, OPEN
+    FLAME OR OTHER SOURCES OF IGNITION
+Hazardous Decomposition Products:TOXIC GAS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:BURN IN PROPERLY DESIGNED COMBUSTION SYSTEMS.
+    BURY CONTAMINATED SOLID IN APPROVED LANDFILL ACCORDING TO FEDERAL,
+    STATE, & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

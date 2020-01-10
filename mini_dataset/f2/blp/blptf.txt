@@ -1,0 +1,124 @@
+=====================  Product Identification  =====================
+
+Product ID:725-1297 TAPE DRIVE CLEANING KIT
+MSDS Date:06/21/1988
+FSC:6850
+NIIN:00F019260
+MSDS Number: BLPTF
+=== Responsible Party ===
+Company Name:CELESTE INDUSTRIES CORPORATION
+Address:CLIFTON INDUSTRIAL PARK
+Box:775
+City:EASTON
+State:MD
+ZIP:21601
+Info Phone Num:(301) 822-5775
+Emergency Phone Num:(301) 822-5775
+CAGE:18195
+=== Contractor Identification ===
+Company Name:CELESTE INDUSTRIES CORP
+Address:7978 INDUSTRIAL PARK ROAD
+Box:City:EASTON
+State:MD
+ZIP:21601
+Country:US
+Phone:410-822-5775
+CAGE:18195
+Company Name:WANG LABORATORIES INC.
+Address:1005 PAWTUCKET BLVD
+Box:City:LOWELL
+State:MA
+ZIP:01854
+Country:US
+Phone:800-835-9264
+CAGE:06763
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL CHLOROFORM (1,1,1-TRICHLOROEHANE)  (SARA III)
+CAS:71-55-6
+RTECS #:KJ2975000
+Fraction by Wt: 97%
+Other REC Limits:450 PPM STEL
+OSHA PEL:350 PPM/450 STEL
+ACGIH TLV:350 PPM/450STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+Ozone Depleting Chemical:1
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: 3%
+Other REC Limits:400 PPM
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: LIGHT HEADEDNESS,
+    GIDDINESS, & SHORTNESS OF BREATH.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: LIGHT HEADEDNESS, GIDDINESS, &
+    SHORTNESS OF BREATH.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. SKIN/EYES: FLUSH W/WATER.
+    OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:CO2, WATER SPRAY
+Unusual Fire/Explosion Hazard:ADDITION OF EXCESS WATER WILL EXTRACT
+    ALCOHOL & MAY FORM A FLAMMABLE SUPERNATANT LIQUID LAYER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WIPE UP.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY PLACE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:MECHANICAL: ROOM VENTILATION.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:124F
+Vapor Pres:300
+Vapor Density:>1
+Spec Gravity:1.52
+Evaporation Rate & Reference:(BU AC = 1): >1
+Solubility in Water:SLIGHT
+Appearance and Odor:COLORLESS LIQUID W/SLIGHT ETHEREAL ODOR.
+Percent Volatiles by Volume:100%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ALKALI, ALKALINE EARTH METALS SUCH AS POWDERED ALUMINUM, ZINC &
+    BERYLLIUM
+Stability Condition to Avoid:OPEN FLAMES, OR HIGH TEMPERATURES
+Hazardous Decomposition Products:HYDROCHLORIC & HYDROFLUORIC ACIDS,
+    POSSIBLE CARBONYLHALIDES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN GARBAGE ACCORDING TO FEDERAL,
+    STATE, & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

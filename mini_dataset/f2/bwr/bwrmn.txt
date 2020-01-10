@@ -1,0 +1,143 @@
+=====================  Product Identification  =====================
+
+Product ID:VARFLO & VARFIL SLEEVINGS
+MSDS Date:06/25/1993
+FSC:5970
+NIIN:01-339-5620
+MSDS Number: BWRMN
+=== Responsible Party ===
+Company Name:VARFLEX CORPORATION
+Address:512 WEST COURT STREET
+City:ROME
+State:NY
+ZIP:13440
+Country:US
+Info Phone Num:315-336-4400
+Emergency Phone Num:315-336-4400
+Preparer's Name:DIANE TERRY
+CAGE:79074
+=== Contractor Identification ===
+Company Name:VARFLEX CORPORATION
+Address:512 WEST COURT STREET
+Box:City:ROME
+State:NY
+ZIP:13440
+Country:US
+Phone:315-336-4400
+CAGE:79074
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:FIBROUS GLASS
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:5 MG/M3 (RESP. DUST)
+ACGIH TLV:10 MG/M3 (RESP DUST)
+
+Ingred Name:POLYVINYL CHLORIDE RESIN
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:10,10-OXYBISPHENOXARSINE (PHENOXARSINE, 10,10'-OXYDI- 
+    (SARA III))
+CAS:58-36-6
+RTECS #:SP6800000
+Fraction by Wt: <0.1%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:ANTIMONY OXIDE
+CAS:1309-64-4
+RTECS #:CC5650000
+Fraction by Wt: <2.5%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:0.5 MG/M3 (SB)
+ACGIH TLV:0.5 MG/M3 (SB)
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:TRIBASIC LEAD SULPHATE
+Fraction by Wt: <1.5%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:0.05 MG/M3 (PB)
+ACGIH TLV:0.05 MG/M3 (PB)
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: CONTACT MAY CAUSE MECHANICAL
+    IRRITATION OF SKIN & EYES. INGESTION IS UNLIKELY TO OCCUR. NO DATA
+    FOUND FOR INHALATION. CHRONIC: NONE.
+Explanation of Carcinogenicity:ANTIMONY OXIDE IS LISTED AS AN IARC 2B
+    SUSPECTED (INSUFFICIENT HUMAN DATA) CARCINOGEN.
+Effects of Overexposure:YEES: REDNESS, ITCHING, TEARING, DISCOMFORT OR
+    PAIN. SKIN: REDNESS, ITCHING, DISCOMFORT.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN-REMOVE CONTAMINATED CLOTHES. WASH WITH SOAP & WATER. IF
+    IRRITATION PERSISTS, SEE A DOCTOR. EYES-FLUSH WITH LOTS OF WATER
+    FOR 15 MINUTES; LIFTING LIDS. GET MEDICAL ATTENTION IF SYMPTOMS
+    PERSISTS.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER FOG, CARBON DIOXIDE, DRY CHEMICAL, FOAM.
+Fire Fighting Procedures:NONE SPECIFIED BY MANUFACTURER. DLA-HMIS: WEAR
+    SELF-CONTAINED BREATHING APPARATUS AND FULL PROTECTIVE GEAR.
+Unusual Fire/Explosion Hazard:HYDROGEN CHLORIDE GAS LIBRATED DURING
+    COMBUSTION AND AT 550F 0R GREATER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NONE SPECIFIED BY MANUFACTURER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:FOR PROLONGED PERIODS, STORE IN
+    ABSENCE OF DIRECT SUNLIGHT. IF IN CONTACT WITH SENSITIVE SKIN, USE
+    GLOVES.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY REQUIRED.
+Ventilation:USE ADEQUATE MECHANICAL VENTILATION OR LOCAL EXHAUST TO
+    MAINTAIN EXPOSURE BELOW TLV(S).
+Protective Gloves:USE WITH SENSITIVE SKIN-WORK/LEATHER.
+Eye Protection:NONE NORMALLY REQUIRED.
+Other Protective Equipment:NONE NORMALLY REQUIRED.
+Work Hygienic Practices:WASH & SHOWER AT THE END OF WORKDAY.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Spec Gravity:1.3
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:CYLINDRICAL FIBERGLASS BRAID, PVC COATED WITH A
+    SLIGHT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+SILVER, COPPER.
+Stability Condition to Avoid:HIGH TEMPERATURES 500F OR GREATER PRODUCES
+    HYDROGEN CHLORIDE VAPORS.
+Hazardous Decomposition Products:HYDROGEN CHLORIDE
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PRIMARY METHOD IS IN A MUNICIPAL OR SANITARY
+    LANDFILL. DISOSE OF IN ACCORDANCE WITH LOCAL, STATE AND FEDERAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

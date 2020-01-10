@@ -1,0 +1,124 @@
+=====================  Product Identification  =====================
+
+Product ID:HD MOTOR OIL
+MSDS Date:01/01/1987
+FSC:9150
+NIIN:00-189-6729
+MSDS Number: BKYHZ
+=== Responsible Party ===
+Company Name:PHILLIPS 66 CO
+Address:699 ADAMS BLDG
+City:BARTLESVILLE
+State:OK
+ZIP:74004
+Country:US
+Info Phone Num:918-661-3865
+Emergency Phone Num:918-661-3865AM/918-661-8118PM
+CAGE:GO225
+=== Contractor Identification ===
+Company Name:PHILLIPS 66 CO
+Address:699 ADAMS BLDG
+City:BARTLESVILLE
+State:OK
+ZIP:74004
+Country:US
+Phone:918-661-8327
+CAGE:GO225
+Company Name:PHILLIPS 66 COMPANY(DIVISION OF PHILLIPS PETROLEUM CO)
+Address:699 ADAMS BLDG 411 KEELER ST
+Box:City:BARTLESVILLE
+State:OK
+ZIP:74004
+Country:US
+Phone:918-661-8327
+CAGE:6Y142
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PETROLEUM BASE OIL
+Fraction by Wt: 100%
+OSHA PEL:5 MG/CUM (OIL MIST)
+ACGIH TLV:5 MG/CUM (OIL MIST)
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES/SKIN: MILD IRRITATION. INGESTION:
+    PRACTICALLY NON-TOXIC. PRESURIZED INJECTION OF PRODUCT UNDER THE
+    SKIN CAN LEAD TO SEROUSLY INFLAMMED TISSUE. IF LEFT, INJURY CAN BE
+    GANGRENOUS.
+Explanation of Carcinogenicity:NONE
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER FOR 15 MINUTES. SKIN: WASH W/SOAP &
+    WATER. INHALATION: REMOVE TO FRESH AIR. INGESTION: GIVE 2 GLASSES
+    OF WATER & INDUCE VOMITING. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:>280F
+Extinguishing Media:DRY CHEMICAL, FOAM, CO2.
+Fire Fighting Procedures:EVACUATE AREA. SHUT OFF SOURCE. USE NIOSH/MSHA
+    SCBA & PROTECTIVE EQUIP/CLOTHING. USE WATER FOG/SPRAY TO COOL
+    EXPOSED CONTAINERS & EQUIPMENT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE EQUIPMENT. SHUT OF SOURCE.
+    PROTECT FROM IGNITION. KEEP OUT OF WATER SOURCES. ABSORB IN DRY,
+    INERT MATERIAL. TRANSFER TO DISPOSAL DRUMS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID INHALATION OF MIST & EYE
+    CONTACT. AVOID REPEATED CONTACT W/SKIN. WEAR PROTECTIVE EQUIPMENT.
+    STORE AWAY FROM IGNITION SOURCES.
+Other Precautions:PROVIDE MEANS OF CONTROLLING LEAKS & SPILLS. KEEP
+    CONTAINERS CLOSED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED AIR PURIFYING RESPIRATOR
+    FOR CONCENTRATION EXCEEDING EXPOSURE LIMITS
+Ventilation:ADEQUATE
+Protective Gloves:REQUIRED
+Eye Protection:SAFETY GLASSES W/SIDE SHIELDS (SEE SUPP)
+Other Protective Equipment:CHEMICAL GOGGLES/FACE SHIELD
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE. WASH HANDS AFTER HANDLING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Vapor Pres:<1
+Vapor Density:>5
+Spec Gravity:0.86-0.94
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:COLORLESS TO DARK LIQUID W/MILD ODOR
+Percent Volatiles by Volume:NEGL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXYGEN & STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:IGNITION SOURCES
+Hazardous Decomposition Products:CARBON OXIDES, VARIOUS HYDROCARBONS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE OR OTHERWISE MANAGE AT A PERMITTED
+    WASTE MANAGEMENT FACILITY IN ACCORDANCE W/LOCAL, STATE, & FEDERAL
+    REGULATIONS. KEEP OUT OF WATER SOURCES & SEWERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

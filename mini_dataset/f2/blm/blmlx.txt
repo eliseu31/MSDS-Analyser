@@ -1,0 +1,125 @@
+=====================  Product Identification  =====================
+
+Product ID:LUBRIMATIC, 11546
+MSDS Date:07/16/1990
+FSC:9150
+NIIN:00N021489
+MSDS Number: BLMLX
+=== Responsible Party ===
+Company Name:WITCO CORP
+Address:1400 S HARRISON
+City:OLATHE
+State:KS
+ZIP:66061
+Country:US
+Info Phone Num:913-782-5800
+Emergency Phone Num:913-782-5800 800-424-9300(CHEMTREC)
+Preparer's Name:RAY D LAWSON
+CAGE:WITCO
+=== Contractor Identification ===
+Company Name:WITCO
+Address:1400 S HARRISON
+Box:City:OLATHE
+State:KS
+ZIP:66061
+Country:US
+Phone:913-782-5800
+CAGE:62992
+Company Name:WITCO CORP
+Address:2701 LAKE STREET
+Box:5446
+City:DALLAS
+State:TX
+ZIP:75284-0075
+Country:US
+Phone:504-738-1623
+CAGE:WITCO
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PETROLEUM HYDROCARBON PLUS ADDITIVES
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:NONE WHEN USED WITH GOOD PERSONAL
+    HYGIENE PRACTICES. MAY OTHERWISE CAUSE SKIN AND EYE IRRITATION UPON
+    PROLONGED OR REPEATED CONTACT.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: IMMEDIATELY FLUSH WITH LARGE QUANTITIES OF WATER FOR AT
+    LEAST 15 MIN AND CALL A PHYSICIAN. SKIN: REMOVE EXCESS WITH CLOTH
+    OR PAPER. WASH THOROUGHLY WITH SOAP AND WATER. INHAL: REMOVE VICTIM
+    TO F RESH AIR. INGEST: CONTACT A PHYSICIAN IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:180F,82C
+Extinguishing Media:DRY CHEMICAL OR WATER FOG OR CO2 OR FOAM OR SAND/
+    EARTH. CLOSED CONTAINERS EXPOSED TO FIRE MAY BE COOLED WITH WATER.
+Fire Fighting Procedures:DENSE SMOKE. FIRE FIGHTERS SHOULD WEAR
+    NIOSH/MSHA APPROVED SCBA AND FULL PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:DENSE SMOKE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:TRNASFER BULK OF MIXTURE INTO ANOTHER
+    CONTAINER. ABSORB RESIDUE WITH AN INERT MATERIAL SUCH AS EARTH,
+    SAND, OR VERMICULITE. SWEEP UP AND DISPOSE AS SOLID WASTE IN
+    ACCORDANCE WITH LOCAL, STATE, AND FED ERAL REGULATIONS.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER CLOSED UNTIL READY FOR
+    USE.
+Other Precautions:KEEP OUT OF REACH OF CHILDREN!!! OBSERVE A TWA/PEL OF
+    5 MG/M3 FOR MINERAL OIL MIST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE. NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Ventilation:NONE.
+Protective Gloves:NONE
+Eye Protection:CHEM WORK GOG/FULL LENGTH FSHLD .
+Other Protective Equipment:NONE
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V4
+Spec Gravity:0.897
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:AMBER OIL, MINERAL OIL ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:CO AND CO2 DURING BURNING, POX FROM
+    BURNING. SOX, NOX, ALDEHYDES, KETONES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH ALL APPLICABLE
+    FEDERAL, STATE AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

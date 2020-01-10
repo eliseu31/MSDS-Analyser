@@ -1,0 +1,173 @@
+=====================  Product Identification  =====================
+
+Product ID:U-1201-D, EPOXY PRIMER COMP A
+MSDS Date:02/20/1990
+FSC:8010
+NIIN:00-142-9279
+MSDS Number: BKYHF
+=== Responsible Party ===
+Company Name:STERLING LACQUER MFG CO INC
+Address:3150 BRANNON AVENUE
+City:ST LOUIS
+State:MO
+ZIP:63139
+Info Phone Num:(314) 776-4450
+Emergency Phone Num:(314) 776-4450
+Preparer's Name:P.D. MOORE
+CAGE:5G238
+=== Contractor Identification ===
+Company Name:STERLING LACQUER MFG CO INC
+Address:3150 BRANNON AVE
+Box:City:ST LOUIS
+State:MO
+ZIP:63139-1422
+Country:US
+CAGE:5G238
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 8%
+Other REC Limits:100 PPM
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: <5%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:SILICON DIOXIDE
+CAS:7631-86-9
+RTECS #:VV3100000
+Fraction by Wt: <5%
+OSHA PEL:80 MG/CUM
+
+Ingred Name:CHROMIC ACID (SOLID OR SOLUTION), CRO3, CHROMIUM (VI)
+    OXIDE, CR-O3
+CAS:1333-82-0
+RTECS #:GB6650000
+Fraction by Wt: 9.34%
+OSHA PEL:0.1 MG/CUM (CRO3)
+ACGIH TLV:0.05 MG/CUM (CR)
+
+Ingred Name:SILICA, CRYSTALLINE - QUARTZ
+CAS:14808-60-7
+RTECS #:VV7330000
+Fraction by Wt: 0.14%
+Other REC Limits:0.05 MG/CUM NIOSH
+OSHA PEL:SEE TABLE Z3
+ACGIH TLV:0.1 MG/M3 RDUST;9293
+
+Ingred Name:N-PROPYL ACETATE
+CAS:109-60-4
+RTECS #:AJ3675000
+Fraction by Wt: 20%
+Other REC Limits:200 PPM
+OSHA PEL:200 PPM/250 STEL
+ACGIH TLV:200 PPM/250STEL;9192
+
+Ingred Name:DIACETONE ALCOHOL (4-HYDROXY-4-METHYL-2-PENTANONE)
+CAS:123-42-2
+RTECS #:SA9100000
+Fraction by Wt: 10%
+Other REC Limits:50 PPM
+OSHA PEL:50 PPM
+ACGIH TLV:50 PPM; 9192
+
+Ingred Name:VOL ORGANIC CMPD: 4.45 LBS/GAL (533 G/L)
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:YES
+Health Hazards Acute and Chronic:INHALATION: IRRITATION TO THE
+    RESPIRATORY TRACT, NOSE, THROAT, LUNGS & NARCOSIS. SKIN/EYES:
+    IRRITATION & INJURY TO TISSUE. INGESTION: MODERATELY TOXIC, NAUSEA,
+    VOMITING, & DIARRHEA.
+Explanation of Carcinogenicity:CRYSTALLINE SILICA IS A SUSPECTED HUMAN
+    CARCINOGEN BY ACGIH.
+Effects of Overexposure:INHALATION: LIVER ABNORMALITIES, SILICOSIS (NON
+    CANCEROUS-LUNG DISEASE CAUSED BY EXCESSIVE EXPOSURE), IRRITATION TO
+    THE RESPIRATORY TRACT, NOSE, THROAT, LUNGS, & NARCOSIS. SKIN/EYES:
+    IRRITATION & INJU RY TO TISSUE. INGESTION: MODERATELY TOXIC,
+    NAUSEA, VOMITING, & DIARRHEA.
+Medical Cond Aggravated by Exposure:RESPIRATORY PROBLEMS
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER FOR 15 MINUTES. SKIN: WASH W/SOAP &
+    WATER. INHALATION: REMOVE TO FRESH AIR. INGESTION: DON'T INDUCE
+    VOMITING. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:45F
+Lower Limits:1.2%
+Upper Limits:8%
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL
+Fire Fighting Procedures:WEAR SCBA W/FULL FACEPIECE OPERATED IN
+    PRESSURE-DEMAND. USE WATER FOG NOZZLES TO COOL CLOSED CONTAINERS.
+Unusual Fire/Explosion Hazard:DON'T USE WATER. FLAMMABLE LIQUID. CAN
+    RELEASE VAPORS THAT FORM FLAMMABLE MIXTURES AT TEMPERATURE AT/ABOVE
+    FLASHPOINT. ELIMINATE IGNITION SOURCES. COMBUSTIBLE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR RESPIRATOR. ABSORB WITH VERMICULITE OR
+    OTHER ABSORBENT MATERIAL. ELIMINATE ALL IGNITION SOURCES. STOP
+    SPILL AT SOURCE & PREVENT SPREADING.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN DRY AREA. KEEP CONTAINERS
+    TIGHTLY CLOSED. PROTECT FROM PHYSICAL DAMAGE. STORE <120F. DON'T
+    STORE NEAR HEAT, SPARKS OR FLAME.
+Other Precautions:DON'T GET IN EYES. KEEP AWAY FROM CHILDREN. AVOID
+    SKIN CONTACT. DON'T TAKE INTERNALLY. FOR INDUSTRIAL USE. EMPTY
+    CONTAINERS RETAIN PRODUCT RESIDUES (VAPOR, LIQUID OR SOLID). STORE
+    LARGE QUANTITIES IN  BUILDINGS DESIGNED TO COMPLY W/OSHA.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF >TLV, A NIOSH/MSHA JOINTLY APPROVED AIR
+    SUPPLY RESPIRATOR IS ADVISED IN ABSENCE OF PROPER ENVIRONMENTAL
+    CONTROL. OSHA REGS PERMIT OTHER NIOSH/MSHA RESPIRATORS UNDER
+    SPECIFIED CONDITIONS. IMPLEMENT  ENGINEERING OR ADMINISTRATIVE
+    CONTROLS.
+Ventilation:PROVIDE GENERAL/LOCAL EXHAUST TO KEEP AIR
+Spec Gravity:1.3
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:YELLOW LIQUID W/SOLVEN ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:EXCESSIVE HEAT, SPARKS, FLAME, TEMPS
+    >120F, & OTHER SOURCES OF IGNITION
+Hazardous Decomposition Products:CO2, CO & TOXIC GASES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DESTROY BY LIQUID INCINERATION. CONTAMINATED
+    ABSORBENT MAY BE DEPOSITED IN A LANDFILL IN ACCORDANCE WITH LOCAL,
+    STATE & FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

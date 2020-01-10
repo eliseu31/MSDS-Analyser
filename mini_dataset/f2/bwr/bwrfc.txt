@@ -1,0 +1,161 @@
+=====================  Product Identification  =====================
+
+Product ID:FORMAZIN TURBIDITY STANDARD 4000 NTU
+MSDS Date:01/01/1995
+FSC:6810
+NIIN:01-215-6564
+MSDS Number: BWRFC
+=== Responsible Party ===
+Company Name:HACH CO.
+Address:5600 LINDBERGH DR
+Box:608
+City:LOVELAND
+State:CO
+ZIP:80539-0389
+Country:US
+Info Phone Num:800-227-4224
+Emergency Phone Num:303-962-6721
+CAGE:91224
+=== Contractor Identification ===
+Company Name:HACH CO
+Address:5600 LINDBERGH DR
+Box:389
+City:LOVELAND
+State:CO
+ZIP:80539
+Country:US
+Phone:970-669-3050/ 303-623-5716
+CAGE:91224
+Company Name:HACH COMPANY
+Address:100 DAYTON RD.
+Box:907
+City:AMES
+State:IA
+ZIP:50010
+Country:US
+Phone:800-227-4224
+CAGE:4T252
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HEXAMINE (HEXAMETHYLENETETRAMINE)
+CAS:100-97-0
+RTECS #:MN4725000
+Fraction by Wt: <10%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:FORMAZIN POLYMER
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:FORMALDEHYDE  (SARA III)
+CAS:50-00-0
+RTECS #:LP8925000
+Fraction by Wt: <0.1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:1 PPM/2 PPM STEL
+ACGIH TLV:1 PPM/2STEL,A2; 9192
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: TO 100%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:SODIUM CHLORIDE
+CAS:7647-14-5
+RTECS #:VZ4725000
+Fraction by Wt: 1-5%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:YES
+Health Hazards Acute and Chronic:ACUTE-EYE/SKIN:IRRITATION. MAY CAUSE
+    ALLERGIC SKIN REACTION. ORAL:MODERATELY TOXIC. MAY CAUSE G/I
+    IRRITATION, KIDNEY DAMAGE. CHRONIC-UNKNOWN.
+Explanation of Carcinogenicity:CONTAINS F	     [50-00-0] WHICH IS
+    LISTED BY NTP AND IARC AND REGULATED BY OSHA AS A CARCINOGEN.
+Effects of Overexposure:MAY CAUSE IRRITATION OF EYES & SKIN, ALLERGIC
+    SKIN REACTION. IF SWALLOWED, MAY CAUSE G/I IRRITATION, KIDNEY
+    DAMAGE.
+Medical Cond Aggravated by Exposure:ALLERGIES OR SENSITIVITY TO
+    HEXAMETHYLENETETRAMINE OR FORMALDEHYDE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE & SKIN CONTACT:IMMEDIATELY FLUSH EYES W/WATER FOR 15 MIN.
+    CALL PHYSICIAN. FLUSH SKIN W/PLENTY OF WATER.  INGESTED:INDUCE
+    VOMITING BY STICKING FINGER DOWN THROAT. NEVER GIVE ANYTHING BY
+    MOUTH TO AN  INCONSCIOUS PERSON. CALL PHYSICIAN. INHALED:REMOVE TO
+    FRESH AIR.
+
+=====================  Fire Fighting Measures  =====================
+
+Fire Fighting Procedures:NONE REPORTED.
+Unusual Fire/Explosion Hazard:MAY EMIT TOXIC FUMES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DILUTE WITH WATER. POUR DOWN THE DRAIN WITH
+    EXCESS WATER, IF PERMITTED.
+Neutralizing Agent:MFR GAVE NO INFORMATION ON MSDS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN TIGHTLY CLOSED CONTAINER, IN
+    COOL PLACE.
+Other Precautions:AVOID CONTACT W/EYES OR SKIN. DO NOT BREATHE MIST OR
+    VAPOR.  WASH THOROUGHLY AFTER HANDLING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:MFR GAVE NO INFORMATION ON MSDS.
+Ventilation:ADEQUATE VENTILATION
+Protective Gloves:DISPOSABLE LATEX GLOVES
+Eye Protection:LAB GRADE GOGGLES
+Other Protective Equipment:HMIS:EYE WASH STATION & SAFETY SHOWER.
+Work Hygienic Practices:MFR:?.	HMIS:USE GOOD CHEMICAL HYGIENE
+    PRACTICES. AVOID CONTACT IF POSSIBLE. WASH THOROUGHLY AFTER
+    HANDLING.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+NRC/State Lic Num:NONE
+Boiling Pt:B.P. Text:212F,100C
+Spec Gravity:1.002
+pH:6.4
+Evaporation Rate & Reference:0.63 (NO REFERENCE GIVEN)
+Solubility in Water:MISCIBLE
+Appearance and Odor:TURBID, MILKY SUSPENSION, ODORLESS
+Corrosion Rate:NONE
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OSIDIZERS
+Stability Condition to Avoid:EXTREME HEAT, LIGHT, CONTACT W/OXIDIZERS
+Hazardous Decomposition Products:MAY EMIT TOXIC GASES OF FORMALDEHYDE,
+    AMMONIA, CARBON MONOXIDE, NITROGEN OXIDES.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF I/A/W FEDERAL, STATE & LOCAL
+    REGULATIONS.
+
+ ======================================================================
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

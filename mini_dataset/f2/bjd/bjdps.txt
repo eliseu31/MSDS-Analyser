@@ -1,0 +1,159 @@
+=====================  Product Identification  =====================
+
+Product ID:3PD64 LITHIUM OXYHALIDE PRIMARY BATTERY,BCX-C
+MSDS Date:12/13/1990
+FSC:6135
+NIIN:01-243-5276
+MSDS Number: BJDPS
+=== Responsible Party ===
+Company Name:ELECTROCHEM INDUSTRIES, DIV. OF WILSON GREATBATCH
+Address:10000 WEHRLE DR.
+City:CLARENCE
+State:NY
+ZIP:14031-2033
+Country:US
+Info Phone Num:716-759-6901
+Emergency Phone Num:716-759-6901
+CAGE:62713
+=== Contractor Identification ===
+Company Name:BATTERY ASSEMBLERS INC
+Address:211-4 KNICKERBOCKER AVE
+Box:City:BOHEMIA
+State:NY
+ZIP:11716
+Country:US
+Phone:407-323-3390/EM:516-567-8855/8278
+CAGE:0B0Y5
+Company Name:CONTROL DISTRIBUTORS INC
+Address:3524 BRAMBLETON AVE SW
+Box:20167
+City:ROANOKE
+State:VA
+ZIP:24018
+Country:US
+Phone:703-774-4586
+CAGE:0AMG8
+Company Name:ELECTROCHEM INDUSTRIES, DIV. OF WILSON GREATBATCH
+Address:10000 WEHRLE DR.
+City:CLARENCE
+State:NY
+ZIP:14031-2033
+Country:US
+Phone:716-759-5384
+CAGE:62713
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LITHIUM METAL
+CAS:7439-93-2
+RTECS #:OJ5540000
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:THIONYL CHLORIDE
+CAS:7719-09-7
+RTECS #:XM5150000
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:C 1 PPM
+ACGIH TLV:C 1 PPM; 9293
+
+Ingred Name:BROMINE (SARA III)
+CAS:7726-95-6
+RTECS #:EF9100000
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:0.1PPM/0.3 STEL
+ACGIH TLV:O.1PPM/0.3 STEL;9293
+
+Ingred Name:CHLORINE (SARA III)
+CAS:7782-50-5
+RTECS #:FO2100000
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:(C) 1 PPM
+ACGIH TLV:0.5 PPM/1 STEL; 9293
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:NONE SPECIFIED BY MANUFACTURER.
+Explanation of Carcinogenicity:NONE OF THE CHEMICALS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:NONE SPECIFIED BY MANUFACTURER.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:IN CASE OF ACCIDENTAL INGESTION OF A CELL OR ITS CONTENTS,
+    OBTAIN PROMPT MEDICAL ADVICE.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE LITH-X MATERIAL FOR FIRES INVOLVING LITHIUM
+    METALS OR CELLS. DO NOT USE WATER,CO2,DRY CHEMICAL,HALOGEN
+    EXTINGUISHERS
+Fire Fighting Procedures:IF FIRE IN ADJACENT AREA, AND CELLS PACKED IN
+    ORIGINAL CONTAINERS, FIRE CAN BE FOUGHT USING MEDIA APPROPRIATE FOR
+    THE FUELING MATERIALS. AVOID FUME INHALATION.
+Unusual Fire/Explosion Hazard:ENCAPSULATION WILL NOT ALLOW FOR CELL
+    EXPANSION.THIS CAN RESULT IN HIGH PRESSURE EXPLOSION FROM HEATING
+    DUE TO CHARGING OR HIGH TEMPERATURE ENVIRONMENT (>212F).
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NONE SPECIFIED BY MANUFACTURER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL PLACE BUT PREVENT
+    CONDENSATION ON CELLS OR BATTERIES. ELEVATED TEMPERATURES CAN
+    RESULT IN SHORTENED BATTERY LIFE.
+Other Precautions:BATTERIES SHOULD ALWAYS BE PACKAGED AND TRANSPORTED
+    IN SUCH A MANNER AS TO PREVENT DIRECT CONTACT WITH EACH OTHER.
+    SHORT- CIRCUITING WILL CAUSE HEAT AND REDUCE CELL CAPACITY. REMOVE
+    JEWELRY BEFORE HAN DLING BATTERIES DUE TO POSSIBLE SHORTING
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SPECIFIED BY MANUFACTURER.
+Ventilation:NONE SPECIFIED BY MANUFACTURER.
+Protective Gloves:NONE SPECIFIED BY MANUFACTURER.
+Eye Protection:NONE SPECIFIED BY MANUFACTURER.
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+THIS PRIMARY CELL NOT DESIGNED TO BE CHARGED WHICH MAY CAUSE CELL TO
+    LEAK OR EXPLODE. IF SOLDERING TO TERMINALS OR CASE USE PRECAUTIONS
+    TO PREVENT DAMAGE WHICH MAY RESULT IN LOSS OF CAPACITY, SEAL, LE
+    AKAGE, CELL EXPLOSION. DO NOT SOLDER TOCASE.CELLS SHOULD NOT BE
+    SUBJECTED TO EXCESSIVE MECHANICAL SHOCK AND VIBRATION.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V1
+Appearance and Odor:SIZE A LITHIUM BATTERY WITH TWO WIRES.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DO NOT INCINERATE OR SUBJECT CELLS TO
+    TEMPERATURES IN EXCESS OF 212F (100C). SUCH ABUSE CAN RESULT IN
+    LOSS OF SEAL, LEAKAGE, AND/OR CELL EXPLOSION. DISPOSE OF IN
+    ACCORDANCE WITH ALL APPLICABLE FEDERAL , STATE AND LOCAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

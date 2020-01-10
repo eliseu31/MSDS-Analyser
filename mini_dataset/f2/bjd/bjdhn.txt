@@ -1,0 +1,129 @@
+=====================  Product Identification  =====================
+
+Product ID:CYPREX 65-W FRUIT FUNGICIDE
+MSDS Date:12/14/1983
+FSC:6840
+NIIN:00D000932
+MSDS Number: BJDHN
+=== Responsible Party ===
+Company Name:AMERICAN CYANAMID CO
+Address:ONE CYANAMID PLAZA
+City:WAYNE
+State:NJ
+ZIP:07470
+Country:US
+Info Phone Num:201-635-3100
+Emergency Phone Num:201-835-3100
+CAGE:70361
+=== Contractor Identification ===
+Company Name:AMERICAN CYANAMID CO
+Address:697 RT 46
+Box:City:CLIFTON
+State:NJ
+ZIP:07015
+Country:US
+Phone:973-683-2000
+CAGE:70361
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DODINE,N-DODECYLGUANIDINE ACETATE
+CAS:2439-10-3
+RTECS #:MF1750000
+Fraction by Wt: 65.0%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:KAOLIN
+CAS:1332-58-7
+RTECS #:GF1670500
+Fraction by Wt: 18.0%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:2 MG/M3 TDUST; 9293
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD 50 2.33 G/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:IRRITATION OF
+    EYES,SKIN,RESPIRATORY OR G,I.TRACT;REDNESS OR BURNS OF EYES ARE
+    POSSIBLE.
+Explanation of Carcinogenicity:DATA PER MGF MSDS.
+Effects of Overexposure:MAY CAUSE IRRITATION OF EYES,SKIN,RESPIRATORY
+    OR G.I.TRACTS.MAY CAUSE DIFFICULTY IN BREATHING OR COUGHING.
+Medical Cond Aggravated by Exposure:PRE-EXISTING CONDITIONS MAY BE
+    WORSEN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES AND SKIN:FLUSH WITH LARGE AMOUNT OF WATER FOR ABOUT
+    15-20 MINUTES;SEEK MEDICAL ATTENTION IMMEDIATELY.INHALATION:REMOVE
+    TO FRESH AIR;CALL A PHYSICIAN.INGESTION:SEEK MEDICAL ATTENTION
+    IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE WATER,FOAM,DRY CHEMICAL,OR CO*2 IF APPLICABLE.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:DUST MAY CREATE EXPLOSION. AVOID EXTREME
+    HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPER PERSONAL PROTECTION;SWEEP UP OR
+    VACUUM AND COLLECT FOR PROPER DISPOSAL IN AN APPROVED CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DRY AND WELL VENTILATED
+    AREA.KEEP CONTAINER CLOSED WHEN NOT IN USE. KEEP AWAY FROM HEAT AND
+    OPEN FLAMES.KEEP AWAY FROM FOOD PRODUCTS.
+Other Precautions:WASH THOROUGHLY AFTER EACH USE.DO NOT CREATE
+    DUST.GOOD HOUSE KEEPING IS REQUIRED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR FOR DUST/MIST
+    IF ABOVE PEL/TLV OR SCBA IN AN ENCLOSED AREA.
+Ventilation:LOCAL/GENERAL TO MAINTAIN PEL/TLV.
+Protective Gloves:IMPERVIOUS
+Eye Protection:SAFETY GLASSES/GOGGLES
+Other Protective Equipment:PROTECTIVE CLOTHINGS.EYE-WASH
+    FACILITIES,SAFETY SHOWER.
+Work Hygienic Practices:AVOID CONTACT WITH EYES AND SKIN;DO NOT BREATHE
+    VAPORS/MIST/DUST.WASH THOROUGHLY AFTER EACH USE;DO NOT
+    EAT,DRINK,SMOKE.
+Supplemental Safety and Health
+USE AS DIRECTED.FOLLOW MFR INSTRUCTION AND WARNING LABEL.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T5
+Solubility in Water:DISPERSIBLE
+Appearance and Odor:GRAY POWDER,SLIGHT VINEGARY ODOR
+Percent Volatiles by Volume:NEGLIG
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED
+Stability Condition to Avoid:AQUEOUS ALKALINE CONDITIONS;PH >9
+Hazardous Decomposition Products:OXIDES OF CARBON AND NITROGEN
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT LOCAL AUTHORITIES;DISPOSAL MUST BE IN
+    ACCORDANCE WITH LOCAL,STATE AND FEDERAL REGULATIONS
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

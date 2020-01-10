@@ -1,0 +1,187 @@
+=====================  Product Identification  =====================
+
+Product ID:LEAD/ACID STORAGE BATTERY - HYBRID
+MSDS Date:06/01/1990
+FSC:6140
+NIIN:01-203-4912
+MSDS Number: BJDPJ
+=== Responsible Party ===
+Company Name:EXIDE CORP
+Address:645 PENN ST
+City:READING
+State:PA
+ZIP:19612-4205
+Country:US
+Info Phone Num:215-378-0798
+Emergency Phone Num:215-378-0798
+CAGE:20038
+=== Contractor Identification ===
+Company Name:EXIDE CORP
+Address:645 PENN STREET
+Box:14205
+City:READING
+State:PA
+ZIP:19612-4205
+Country:US
+Phone:610-378-0500/0798
+CAGE:20038
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SULFURIC ACID  (SARA III)
+CAS:7664-93-9
+RTECS #:WS5600000
+Fraction by Wt: 10-30%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 70-90%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:PROPENE POLYMERS  (POLYPROPYLENE)
+CAS:9003-07-4
+RTECS #:UD1842000
+Fraction by Wt: 5%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:LEAD  (SARA III)
+CAS:7439-92-1
+RTECS #:OF7525000
+Fraction by Wt: >60%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:0.05 MG/M3;1910.1025
+ACGIH TLV:0.15 MG/M3;DUST 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:ANTIMONY  (SARA III)
+CAS:7440-36-0
+RTECS #:CC4025000
+Fraction by Wt: >2%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:0.5 MG/M3
+ACGIH TLV:0.5 MG SB/M3; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ARSENIC  (SARA III)
+CAS:7440-38-2
+RTECS #:CG0525000
+Fraction by Wt: <0.2%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:0.5 MG/M3 (AS)
+ACGIH TLV:0.01,A1 MG/M3; 9394
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:CALCIUM, METAL
+CAS:7440-70-2
+RTECS #:EV8040000
+Fraction by Wt: <0.2%
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:YES
+Health Hazards Acute and Chronic:ACUTE EFFECTS:BURNS,SEVERE IRRITATION
+    OF SKIN,EYES,MOUTH,THROAT,ESOPHAGUS AND STOMACH;INFLAMMATION OF
+    BRONCHIAL MEMBRANES. CHRONIC:EROSION OF TEETH,INFLAMMATION OF
+    NOSE,THROAT AND BRONCHIAL TUBES. CHR ONIC EFFECTS:PERMANENT TISSUE
+    DAMAGE.
+Explanation of Carcinogenicity:THIS BATTERY CONTAINS SMALL AMOUNTS OF
+    ARSENIC, A CARCINOGEN ACCORDING TO OSHA.
+Effects of Overexposure:COUGH,INCREASED RESPIRATORY
+    RATE,STINGING,BURNING SENSATION ON SKIN,EYE
+    IRRITATION,DISCOLORATION OF TEETH.
+Medical Cond Aggravated by Exposure:EXPOSURE TO MISTS MAY CAUSE LUNG
+    DAMAGE AND AGGRAVATE PULMONARY CONDITIONS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES/SKIN:FLUSH WITH PLENTY OF WATER.SEE DOCTOR
+    IMMEDIATELY.REMOVE CONTAMINATED CLOTHING AND SHOES.
+    INHALATION:REMOVE TO FRESH AIR.GIVE OXYGEN/CPR IF NEEDED.SEE
+    DOCTOR. INGESTION:DO NOT INDUCE VOMIT.  GIVE MILK OR WATER,FOLLOWED
+    BY 2 OUNCESOF MILK OF MAGNESIA (NO CARBONATES).SEE DOCTOR
+    IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:AS APPROPIATE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:RELEASES FLAMMABLE HYDROGEN GAS.
+    EXTREMELY HAZARDOUS IN CONTACT WITH MANY MATERIALS, PARTICULARLY
+    EXPLOSIVES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR APPROPIATE PROTECTIVE EQUIPMENT.DILUTE
+    CAUTIOUSLY WITH WATER.COVER WITH SODA ASH OR QUICKLIME.SCOOP UP AND
+    PLACE IN APPROPIATE DISPOSAL CONTAINER.
+Neutralizing Agent:SODA ASH (SODIUM CARBONATE) OR QUICKLIME (CALCIUM
+    OXIDE).
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM IGNITION SOURCES AND
+    COMBUSTIBLE MATERIALS.AVOID CONTACT WITH ORGANIC MATERIALS.
+Other Precautions:KEEP TERMINALS COVERED IN PLASTIC CASE.AVOID SHORTING
+    BATTERIES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY REQUIRED. NIOSH/MSHA-APPROVED
+    CARTRIDGE RESPIRATOR FOR ACIDS OR FULL FACE MASK AS APPROPIATE FOR
+    EXPOSURE OF CONCERN WHEN TLV IS EXCEEDED.
+Ventilation:GENERAL (MECHANICAL) VENTILATION. LOCAL EXHAUST IN CONFINED
+    AREAS.
+Protective Gloves:RUBBER
+Eye Protection:GOGGLES
+Other Protective Equipment:RUBBER APRON AND BOOTS.EYES WASH STATION AND
+    SAFETY SHOWER.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+THIS MSDS IS FOR ACID IN BATTERY.ADDITIONAL HAZARDS ASSOCIATED WITH THE
+    LEAD CONTAINED IN THE BATTERY PLATES MAY BE PRESENT AT TIME OF
+    DISPOSAL.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C1
+Vapor Pres:11.8
+Spec Gravity:1.2
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR TO SLIGHTLY CLOUDY, ODORLESS.
+Percent Volatiles by Volume:65
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+METALS, ORGANIC MATERIAL.
+Stability Condition to Avoid:SPARKS AND OPEN FLAMES
+Hazardous Decomposition Products:SULFURIC ACID FUMES,SULFUR
+    DIOXIDE,SULFUR TRIOXIDE,CARBON MONOXIDE,HYDROGEN GAS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT YOUR LOCAL ENVIRONMENTAL OFFICER.
+    DISPOSE OF IN ACCORDANCE WITH FEDERAL,STATE AND LOCAL ENVIRONMENTAL
+    REGUALTIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

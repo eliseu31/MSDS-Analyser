@@ -1,0 +1,156 @@
+=====================  Product Identification  =====================
+
+Product ID:FLOOR ENAMEL TTP-00-91B/16187, 6378
+MSDS Date:11/01/1993
+FSC:8010
+NIIN:00-664-9077
+MSDS Number: BWRWW
+=== Responsible Party ===
+Company Name:UCP/SOLIGNUM, INC
+Address:1785 FORTIN BVD
+City:LAVAL
+Country:CA
+Info Phone Num:514-381-9217
+Emergency Phone Num:514-334-4970
+Preparer's Name:L KRIVANEK
+CAGE:UCPSO
+=== Contractor Identification ===
+Company Name:AMTECO INC
+Address:815 CASS AVE
+City:ST LOUIS
+State:MO
+ZIP:63106-5000
+Country:US
+Phone:800-969-4811
+CAGE:AMTEC
+Company Name:UCP/SOLIGNUM, INC
+Address:1785 FORTIN BVD
+City:LAVAL
+Country:CA
+Phone:514-381-9217
+CAGE:UCPSO
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:AROMATIC HYDROCARBONS (LD50 ORAL, RAT: 4 ML/KG; LC50 INHAL,
+    RAT: >10.2 MG/1/4 HR)
+CAS:64742-95-6
+Fraction by Wt: 30%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:MINERAL SPIRITS REG (VARSOL) (LD50 ORAL, RAT >8.0 ML/KG;
+    LC50 INHAL, RAT: >1400 PPM)
+CAS:64475-85-0
+RTECS #:PY8240000
+Fraction by Wt: 30%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:COATING VOC: 4.52 LB/GL (451 G/L)
+RTECS #:9999999VO
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYE: MAY CAUSE MILD IRRITATION.
+    EFFECTS USUSALLY REVERSIBLE. SKIN: MAY CAUSE DEFATTING & IRRITATION
+    (DERMATITIS) UPON PROLONGED/REPEATED CONTACT. ABSORPTION: PROLONGED
+    CONTACT MAY CAUSE DEFATTING. ING ESTION: SWALLOWING PAINT CAN CAUSE
+    NAUSEA, VOMITING, DIARRHEA, DRUNKENESS, UNCONSCIOUSNESS,
+    ASPIRATION-CHEM PNEUMONITIS.
+Explanation of Carcinogenicity:NONE KNOWN
+Effects of Overexposure:IRRITATION OF EYES, NOSE, THROAT AND LUNGS CAN
+    ALSO OCCUR WHEN EXPOSED TO HIGH VAPOR CONCENTRATION. NO CHRONIC
+    HEALTH EFFECTS KNOWN.
+Medical Cond Aggravated by Exposure:NONE KNOWN
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:REMOVE TO FRESH AIR. IF BREATHING STOPPED,TRAINED
+    PERSONNEL SHOULD BEGIN ARTIF RESP/CPR IMMED. CALL DR. EYE: FLUSH
+    W/LUKEWARM,GENTLY FLOWING WATER FOR 15 MIN,HOLDING EYELID OPEN. GET
+    MED AID. SK IN:FLUSH CONTAM AREA W/LUKEWARM,GENTLY RUNNING WATER
+    WITH MILD DETERGENT. INGEST:NEVER GIVE ANYTHING BY MOUTH IF VICTIM
+    RAPIDLY LOSING CONSCIOUSNESS OR IS UNCONSCIOUS. DON'T INDUCE VOMIT.
+    GET MED AID.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:115F,46C
+Lower Limits:0.6
+Upper Limits:7.0
+Extinguishing Media:FOAM, ALCOHOL FOAM, CO2, DRY CHEMICAL, WATER FOG
+Fire Fighting Procedures:FIREFIGHTER & OTHERS EXPOSED TO
+    VAPORS/PRODUCTS OF COMBUSTION SHOULD WEAR SCBA. VAPORS MAY FORM
+    EXPLOSIVE MIX IN AIR. CLSD CONTAINERS MAY RUPTURE W/EXTREME HEAT
+Unusual Fire/Explosion Hazard:AVOID ACCUMULATION OF WATER BECAUSE THIS
+    PRODUCT WILL FLOAT IN WATER AND REIGNITE ON THE SURFACE OF THE
+    WATER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGINTION. VENTILATE
+    AREA. ABSORB SPILL WITH AN ABSORBENT MATERIAL SUCH AS VERMICULITE
+    OR SAND AND PLACE MATERIAL IN A CLOSED CONTAINER. DISPOSE IN
+    ACCORDANCE WITH FEDERAL, PROVIN CIAL AND MUNICIPAL REGULATION.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID HOT METAL SURFACES. USE IN WELL
+    VENTILATED AREA. KEEP CONTAINER CLOSED WHEN NOT IN USE. KEEP AWAY
+    FROM EXCESSIVE HEAT AND OPEN FLAME.
+Other Precautions:CONTAINERS EVEN THOSE THAT HAVE BEEN EMPTIED WILL
+    RETAIN PRODUCRT RESIDUE AND VAPORS. ALWAYS OBEY HAZARD WARNINGS AND
+    HANDLE EMPTY CONTAINERS AS IF THEY WERE FULL.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE IN WELL VENTILATED AREA. IN ABSENCE OF
+    ADEQUATE ENVIRONMENTAL CONTROLS AT THE POINT OF USE, USE NIOSH
+    APPROVED CANNISTER RESPIRATORS.
+Ventilation:LOCAL MECHANICAL EXHAUST VENTILATION CAPABLE OF MAINTAINING
+    EMISSION AT THE POINT OF USE BELOW THE PEL.
+Protective Gloves:CHEM RESISTNT GLOVES (NITRILE/NEOPRENE)
+Eye Protection:CHEMICAL SAFETY GOGGLES, FACESHIELD
+Other Protective Equipment:LONG SLEEVED SHIRT, TROUSERS, RUBBER APRON.
+Work Hygienic Practices:HAVE ACCESS TO EYE WASH STAND AND A SAFETY
+    SHOWER.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:383F,195C
+Vapor Density:> AIR
+Spec Gravity:1.0 (WATER=1)
+Evaporation Rate & Reference:SLOWER THAN N-BUTYL AC
+Solubility in Water:INSOLUBLE
+Appearance and Odor:GRAY OPAQUE LIQUID / MILD ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING AGENTS
+Stability Condition to Avoid:IGNITION SOURCES
+Hazardous Decomposition Products:NONE KNOWN
+Conditions to Avoid Polymerization:IGNITION SOURCES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ABSORB SPILL WITH AN ABSORBENT MATERIAL SUCH AS
+    VERMICULITE OR SAND AND PLACE MATERIAL INTO A CLOSED CONTAINER.
+    DISPOSE IN ACCORDANCE WITH FEDERAL, PROVINCIAL AND MUNICIPAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

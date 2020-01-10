@@ -1,0 +1,96 @@
+=====================  Product Identification  =====================
+
+Product ID:INSTAPAK-100F COMPONENT B
+MSDS Date:01/01/1987
+FSC:8135
+NIIN:00F009645
+MSDS Number: BLPHX
+=== Responsible Party ===
+Company Name:INSTAPAK DIV SEALED AIR CORP
+Address:OLD SHERMAN TURNPIKE
+City:DANBURY
+State:CT
+ZIP:06810
+Info Phone Num:(203) 792-2360
+Emergency Phone Num:(203) 792-2360
+CAGE:FO437
+=== Contractor Identification ===
+Company Name:INSTAPAK CORPORATION
+CAGE:3F197
+Company Name:INSTAPAK DIV SEALED AIR CORP
+Address:OLD SHERMAN TURNPIKE
+City:DANBURY
+State:CT
+ZIP:06810
+Phone:(203) 792-2360
+CAGE:FO437
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:URETHANE RESIN
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES/SKIN: IRRITATION. INHALATION:
+    MUCOUS MEMBRANES IRRITATION. INGESTION: PRACTICALLY NON-TOXIC.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES/SKIN: IRRITATION. INHALATION: MUCOUS
+    MEMBRANES IRRITATION. INGESTION: PRACTICALLY NON-TOXIC.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH THOROUGHLY W/PLENTY OF WATER. SKIN: WASH W/SOAP &
+    WATER. INHALATION: REMOVE TO FRESH AIR. GIVE OXYGEN IF NECESSARY.
+    OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Extinguishing Media:WATER, CO2, DRY CHEMICAL OR CHEMICAL FOAM.
+Fire Fighting Procedures:NON-FLAMMABLE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WASH AWAY W/WATER OR ABSORB ON SWEEPING
+    COMPOUND.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE BETWEEN 20-110F. USE BETWEEN
+    60-90F.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Protective Gloves:CHEMICAL RESISTANT
+Eye Protection:SAFETY GOGGLES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text: 230F
+Vapor Pres:30
+Vapor Density:0.7
+Spec Gravity:1.13
+Solubility in Water:MISCIBLE
+Appearance and Odor:CLEAR VISCOUS LIQUID
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:TEMPERATURES <20 OR >110F
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:BURY OR INCINERATE IN ACCORDANCE W/ENVIRONMENTAL
+    CONSIDERATIONS, FEDERAL, STATE, & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

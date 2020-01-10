@@ -1,0 +1,147 @@
+=====================  Product Identification  =====================
+
+Product ID:2-PROPANOL
+MSDS Date:09/01/1986
+FSC:6810
+NIIN:00-192-7508
+MSDS Number: BDHXL
+=== Responsible Party ===
+Company Name:GENERAL CHEMICAL CORPORATION
+Address:CN 1829
+City:MORRISTOWN
+State:NJ
+ZIP:07960-1829
+Info Phone Num:201-455-5630
+Emergency Phone Num:201-455-3700
+CAGE:GENCH
+=== Contractor Identification ===
+Company Name:ALLIED-SIGNAL INC
+Box:2332R
+City:MORRISTOWN
+State:NJ
+ZIP:07962-2332
+Country:US
+Phone:201-455-4414
+CAGE:1L164
+Company Name:GENERAL CHEMICAL CORP
+Address:5568 SCHAEFER AVE
+City:CHINO
+State:CA
+Country:US
+Phone:714-591-8451
+CAGE:GENCH
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: 99.5%
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:INHALATION-IRRITATION OF MUCOUS
+    MEMBRANE. INGESTION-NAUSEA,VOMITING,ABDOMINAL PAIN,CENTRAL NERVOUS
+    SYSTEM DEPRESSION. SKIN:REPEATED EXPOSURE MAY CAUSE DERMATITIS.
+    EYES:STINGING AND BURNING SENSA TION. CHRONIC:NONE KNOWN.
+Effects of Overexposure:CAN PRODUCE SEVERE CENTRAL NERVOUS SYSTEM
+    DEPRESSION, COMA AND POSSIBLY FATAL RESPIRATORY FAILURE,TEMPORARY
+    DAMAGE TO THE MEMBRANOUS TISSUE COVERING THE CORNEA HAS BEEN
+    OBSERVED AFTER PROLONGED CONTAC T WITH LIQUID.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALE:REMOVE TO FRESH AIR. IF BREATHING DIFFICULT,GET
+    QUALIFIED PERSON TO ADMINISTER OXYGEN. CALL DR. INGEST:IF CONSCIOUS
+    AND ALERT GIVE LARGE AMOUNTS OF WATER AND INDUCE VOMITING. CALL
+    DR.EYES:FLUSH  WITH WATER FOR 15 MIN.SEE DR.IF IRRITATION PERSISTS.
+    SKIN:WASH THOROUGHLY W/WATER AND REMOVE CONTAMINATED CLOTHING.WASH
+    CLOTHING BEFORE REUSING.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:=11.7C, 53.F
+Lower Limits:2.0
+Upper Limits:12.0
+Extinguishing Media:DRY CHEMICAL, "ALCOHOL" FOAM, OR CO2.WATER MAY BE
+    INEFFECTIVE.
+Fire Fighting Procedures:SCBA,NIOSH-APPROVED,(E.G. CHEMICAL CARTRIDGE
+    RESPIRATORY W/ ORGANIC VAPOR CARTRIDGE AND FULL FACEPIECE)KEEP
+    FIRE-EXPOSED CONTAINER COOL,REDUE VAPORS W/H2O SPRAY
+Unusual Fire/Explosion Hazard:FIRE MAY PRODUCE IRRITATING OR TOXIC
+    GASES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIM IGNIT SOURCE. RMV UNPROTECT PERSONNEL.
+    STOP LEAK W/O RISK. SM SPILL: ABSORB OR FLUSH.LG SPILL:DIKE,USE
+    VACUUM/PUMP PICK UP OR ABSORB ON NON-REACTIVE ABSORBANT. PLACE
+    MATERIAL IN CLOSED CONTAINERS  FOR DISPOSAL. FLUSH RESIDUE WITH
+    WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM HEAT,OPEN FLAME OR
+    OTHER HIGH TEMP SOURCES.AVOID CONTACT WITH SKIN, EYES AND
+    CLOTHING;AVOID BREATHING VAPOR OR MIST.
+Other Precautions:PROTECT FROM PHYSICAL DAMAGE. STORE IN A
+    COOL,DRY,WELL VENTILATED AREA AWAY FROM IGNITION SOURCES AND OTHER
+    FIRE HAZARDS 2-PROPANOL CORRODES MANY TYPES OF RUBBER; USE NEOPRENE
+    EQUIPMENT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE USUALLY IF HANDLING IS IN CLOSED
+    VENTILATION. OTHERWISE, USE NIOSH-APPROVED ORGANIC VAPOR CARTRIDGE
+    RESPIRATOR.IN EMERGENCY OR SPILL USE NIOSH-APPROVED SCBA.
+Ventilation:COMPLETE VENTILATED ENCLOSURE OF MATERIAL,EG, AN EXHAUSTED
+    HOOD OF EXPLOSION-PROOF CONSTRUCTION.
+Protective Gloves:RUBBER/NEOPRENE
+Eye Protection:CHEMICAL GOGGLES,NO CONTACT LENSES.
+Other Protective Equipment:PROTECTV CLOTHNG(FULL WORK CLOTHING)
+Work Hygienic Practices:USE GOOD PERSONAL HYGIENE AND HOUSEKEEPING
+    PRACTICES.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+NRC/State Lic Num:NOT RELEVANT
+Boiling Pt:=82.2C, 180.F
+Melt/Freeze Pt:=-88.3C, -127.F
+Vapor Pres:33
+Vapor Density:2.1
+Spec Gravity:0.785
+pH:7.0
+Evaporation Rate & Reference:7.7(ETHER=1)
+Solubility in Water:COMPLETE
+Appearance and Odor:COLORLESS LIQUID; SLIGHT ODOR, RESEMBLING A MIXTURE
+    OF ACETONE AND ETHANOL.
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDANTS IN GENERAL
+Hazardous Decomposition Products:NO STUDIES AVAILABLE,BUT CARBON
+    MONOXIDE, CARBON DIOXIDE,AND POSSIBLY ALDEHYDES WOULD BE EXPECTED.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL SUBJECT TO FEDERAL,STATE,LOCAL
+    REGS.USERS SHOUDL REVIEW OPERATIONS FOR COMPLIANCE,THEN CONSULT
+    APPROPRIATE REGULATORY AGENCIES BEFORE DISPOSING OF WASTE MATERIAL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,165 @@
+=====================  Product Identification  =====================
+
+Product ID:CLOROX BLEACH - FOR INSTITUTIONAL USE
+MSDS Date:11/01/1992
+FSC:6810
+NIIN:01-457-0255
+Status Code:A
+MSDS Number: CJQNN
+=== Responsible Party ===
+Company Name:CLOROX CO
+Address:1221 BROADWAY
+Box:24305
+City:OAKLAND
+State:CA
+ZIP:94612
+Country:US
+Info Phone Num:510-271-7000
+Emergency Phone Num:800-446-1014; 800-424-9300
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:93098
+=== Contractor Identification ===
+Company Name:CLOROX CO THE  HEADQUARTERS
+Address:1221 BROADWAY
+Box:24305
+City:OAKLAND
+State:CA
+ZIP:94612-1305
+Country:US
+Phone:510-271-7000
+CAGE:93098
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM HYPOCHLORITE
+CAS:7681-52-9
+RTECS #:NH3486300
+= Wt:5.25
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:CAUSES SUBSTANTIAL BUT TEMPORARY EYE
+    INJURY. MAY IRRITATE SKIN. MAY CAUSE NAUSEA AND VOMITING IF
+    INGESTED. EXPOSURE TO VAPOR OR MIST MAY IRRITATE NOSE, THROAT AND
+    LUNGS. UNDER NORMAL CONSUMER USE COND ITIONS THE LIKELIHOOD OF ANY
+    ADVERSE HEALTH EFFECTS ARE LOW. NONE OF THE INGREDIENTS IN THIS
+    PRODUCT ARE ON THE IARC, NTP OR OSHA CARCINOGEN LIST. OCCASIONAL
+    CLINICAL REPORTS SUGGEST A LOW POTENTIAL F OR SENSITIZATION UPON
+    EXAGGERATED EXPOSURE TO SODIUM HYPOCHLORITE IF SKIN DAMAGE(EG
+    IRRITATION) OCCURS DURING EXPOSURE. ROUTINE CLINICAL TESTS
+    CONDUCTED ON INTACT SKIN WITH CHLOROX LIQUID BLEACH FOUND  NO
+    SENSITIZATION IN THE TEST SUBJECTS.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:FOLLOWING MED CNDTNS MAY BE
+    AGGRAVATED BY EXPOS TO HIGH CONCS OF VAPOR OR MIST: HEART CNDTNS OR
+    CHRONIC RESP PROBS SUCH AS ASTHMA, CHRONIC BRONCHITIS OR
+    OBSTRUCTIVE LUNG DISEASE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE CONTACT: IMMEDIATELY FLUSH EYES WITH PLENTY OF WATER. IF
+    IRRITATION PERSISTS, SEE A DOCTOR. SKIN CONTACT: REMOVE
+    CONTAMINATED CLOTHING. WASH AREA WITH WATER. INGESTION: DRINK A
+    GLASSFUL OF WATER A ND CALL A PHYSICIAN. INHALATION: IF BREATHING
+    PROBLEMS DEVELOP REMOVE TO FRESH AIR.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:MEDIA SUITABLE FOR SURROUNDING FIRE .
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT . IN A FIRE, COOL CONTAINERS TO PREVENT RUPTURE AND
+    RELEASE OF SODIUM CHLORATE.
+Unusual Fire/Explosion Hazard:NOT FLAMMABLE OR EXPLOSIVE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SMALL SPILLS (<5 GALLONS): 1)ABSORB,
+    CONTAINERIZE, AND LANDFILL I/A/W LOCAL REGULATIONS. 2)WASH DOWN
+    RESIDUAL TO SANITARY SEWER. LARGE SPILLS (>5 GALLONS): 1)ABSORB,
+    CONTAINERIZE AND LANDFILL I/A/W LO CAL REGULATIONS; WASH DOWN
+    RESIDUAL TO SANITARY SEWER - OR (2) PUMP MATERIAL TO WASTE DRUM(S)
+    AND DISPOSE OF I/A/W LOCAL REGULATIONS; WASH DOWN RESIDUAL TO
+    SANITARY SEWER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP OUT OF THE REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN .
+Ventilation:USE GENERAL VENTILATION TO MINIMIZE EXPOSURE TO VAPOR OR
+    MIST.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:ANSI APPROVED EYE WASH AND DELUGE SHOWER .
+Work Hygienic Practices:AVOID EYE AND SKIN CONTACT AND INHALATION OF
+    VAPOR OR MIST.
+Supplemental Safety and Health
+MATLS TO AVOID: WITH METAL MAY CAUSE PITTING OR DISCOLORATION.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:=100.C, 212.F
+B.P. Text:DECOMPOSES
+Decomp Temp:=100.C, 212.F
+Spec Gravity:1.085 (H*2O=1)
+pH:11.4
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR, LIGHT YELLOW LIQUID WITH CHLORINE ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENT. REACTS W/OTHER HOUSEHOLD CHEMICALS SUCH AS
+    TOILET BOWL CLEANERS, RUST REMOVERS, VINEGAR, ACIDS OR AMMONIA
+    CONTAINING PRODUCS TO PRODUCE HAZARDOUS GASES SUCH AS CHLORINE AND
+    OTHER CHLORINATED SPECIES.
+Stability Condition to Avoid:STABLE UNDER NORMAL USE AND STORAGE
+    CONDITIONS.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:ORAL (HUMAN): LDLO: 3570 MG/KG. ORAL (RAT):
+    LD50: 5045 MG/KG. INHALATION (RAT): LC50: 16000PPM/8HOUR. TEST ON
+    LABORATORY ANIMALS INDICATE ISOPROPYL ALCOHOL MAY PRODUCE ADVERSE
+    MUTAGENIC AND REPRODUCTI VE EFFECTS IN ANIMALS.
+
+=====================  Ecological Information  =====================
+
+Ecological:DO NOT ALLOW PRODUCT TO CONTAMINATE PONDS, WATERCOURSES,
+    SOIL OR DRAINS. DO NOT DISPOSE OF PRODUCT DOWN THE DRAIN.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE IN ACCORDANCE WITH FEDERAL,
+    STATE AND LOCAL REGULATIONS .
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:US DOT HAZARD CLASS: NOT RESTRICTED. US DOT
+    PROPER SHIPPING NAME: HYPOCHLORITE SOLUTION WITH NOT MORE THAN 7%
+    AVAILABLE CHLORINE. NOT RESTRICTED PER 49 CFR 172.101(C)(12)(IV).
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:EPA CERCLA/SARA TITLE III SUPERFUND
+    AMENDMENT AND REAUTHORIZATION ACT: CERCLA/304 - SODIUM HYPOCHLORITE
+    RQ: 100 LBS. SODIUIM HYDROXIDE: RQ 1000 LBS, 311/312: YES.
+State Regulatory Information:
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

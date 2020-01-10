@@ -1,0 +1,112 @@
+=====================  Product Identification  =====================
+
+Product ID:NEYORO 36
+MSDS Date:01/01/1987
+FSC:6520
+NIIN:00F012079
+MSDS Number: BJDFB
+=== Responsible Party ===
+Company Name:J.M. NEY COMPANY
+Address:NEY INDUSTRIAL PARK
+City:BLOOMFIELD
+State:CT
+ZIP:06002
+Info Phone Num:(203) 242-2281
+Emergency Phone Num:(203) 242-2281
+CAGE:FO552
+=== Contractor Identification ===
+Company Name:J.M. NEY COMPANY
+Address:NEY INDUSTRIAL PARK
+City:BLOOMFIELD
+State:CT
+ZIP:06002
+Phone:(203) 242-2281
+CAGE:FO552
+Company Name:NEY DENTAL INCORPORATED
+Address:65 WEST DUDLEY TOWN ROAD
+Box:City:BLOOMFIELD
+State:CT
+ZIP:06002-5000
+Country:US
+Phone:800-243-1942/203-242-2281
+CAGE:43710
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SILVER  (SARA III)
+CAS:7440-22-4
+RTECS #:VW3500000
+Fraction by Wt: 3%
+Other REC Limits:10 UG/CUM
+OSHA PEL:0.01 MG/M3
+ACGIH TLV:0.1 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN: GRAY PIGMENTATION, CUTS, &
+    BURNS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN: GRAY PIGMENTATION, CUTS, & BURNS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE FROM EXPOSURE & OBTAIN PROMPT MEDICAL
+    ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Unusual Fire/Explosion Hazard:SILVER DUST IS A MODERATE EXPLOSION
+    HAZARD.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:IF LARGE QUANTITIES OF DUST ARE GENERATED, USE
+    INDUSTRIAL VACUUM TO CLEAN UP. MOLTEN METAL SHOULD BE ALLOWED TO
+    SOLIDIFY BEFORE CLEAN UP.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:PROVIDE PROTECTIVE EQUIPMENT WHEN
+    CUTTING, GRINDING, SOLDERING, WELDING, MELTING, MACHINING, &
+    HANDLING OF NON-FERROUS METALS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR WHEN CUTTING, GRINDING, SOLDERING OR
+    WELDING.
+Ventilation:LOCAL EXHAUST VENTILATION TO KEEP DUST, MIST OR FUMES <TLV.
+Protective Gloves:RECOMMENDED WHEN GRINDING OR MELTING
+Eye Protection:RECOMMENDED
+Supplemental Safety and Health
+ALLOY PRODCUTS ARE SOLID METALS SHAPED AS WIRE, PLATE, STRIP OR IN
+    FINISHED FORMS AS INGOTS, NUGGETS, ELECTRICAL CONTACT ASSEMBLIES,
+    SWITCHES OR AS OTHER FORMS FOR ELECTRONIC & DENTAL USE.
+
+==================  Physical/Chemical Properties  ==================
+
+Appearance and Odor:SOLID METAL-WIRE, PLATE, STRIP, INGOTS, NUGGETS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Hazardous Decomposition Products:WELDING FUMES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL OF DUST USING APPROVED METHODS
+    CONSISTANT W/APPLICABLE LOCAL, STATE, & FEDERAL REGULATIONS. MOLTEN
+    METAL SHOULD BE RECLAIMED USING STANDARD INDUSTRIAL PRACTICES SUCH
+    AS REMELTING & REFINING.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

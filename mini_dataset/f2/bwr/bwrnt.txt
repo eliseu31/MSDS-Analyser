@@ -1,0 +1,177 @@
+=====================  Product Identification  =====================
+
+Product ID:146 4718 DEKTOL DEVELOPER,WORKING SOLUTION
+MSDS Date:06/19/1996
+FSC:6750
+NIIN:00K000892
+MSDS Number: BWRNT
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-477-3194 MSDS :800- 242-2424
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+Company Name:EASTMAN KODAK CO US CUSTOMER SERVICE/GOVERNMENT SALES
+Address:800 LEE RD
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-3129
+Country:US
+Phone:800-828-6203
+CAGE:5K871
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 90 - 95%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:NOT RELEVANT
+ACGIH TLV:NOT RELEVANT
+
+Ingred Name:SODIUM CARBONATE
+CAS:497-19-8
+RTECS #:VZ4050000
+Fraction by Wt: 1 - 5%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:SODIUM SULFITE
+CAS:7757-83-7
+RTECS #:WE2150000
+Fraction by Wt: 1 - 5%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:HYDROQUINONE (SARA 302/313) (CERCLA)
+CAS:123-31-9
+RTECS #:MX3500000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:2 MG/M3
+ACGIH TLV:2 MG/M3; 9596
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:P-METHYLAMINOPHENOL SULFATE (METOL)
+CAS:55-55-1
+RTECS #:SL8650000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL, RAT) IS UNKNOWN.
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:TARGET ORGANS:EYES AND SKIN. ACUTE-
+    INHALATION:EXPECTED TO BE A LOW HAZARD FOR RECOMMENDED HANDLING.
+    EYES:CAUSES IRRITATION. SKIN:CAUSES IRRITATION. MAY CAUSE ALLERGIC
+    SKIN REACTION. INGESTION:EXPECTE D TO BE A LOW INGESTION HAZARD.
+    CHRONIC- UNKNOWN.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:IRRITATION, ALLERGIC SKIN REACTION
+Medical Cond Aggravated by Exposure:INDIVIDUALS WITH PRE-EXISTING SKIN
+    DISORDERS MAY BE MORE SUCCEPTIBLE TO THE EFFECTS FROM EXPOSURE TO
+    THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:GET MEDICAL ATTENTION IF SYMPTOMS PERSIST. EYES:FLUSH WITH
+    WATER FOR 15 MINUTES. HOLD EYELIDS OPEN. SKIN:REMOVE CONTAMINATED
+    CLOTHING. IMMEDIATELY FLUSH WITH PLENTY OF WATER AND WASH WITH A
+    NON-ALKALI NE (ACID) TYPE OF SKIN CLEANER. INHALATION:REMOVE TO
+    FRESH AIR. INGESTION:DRINK 1-2 GLASSES OF WATER. SEEK MEDICAL
+    ATTENTION. NEVER GIVE ANYTHING BY MOUTH TO AN UNCONSCIOUS PERSON.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:WATER SPRAY, CARBON DIOXIDE, FOAM OR DRY CHEMICAL
+    FOR SURROUNDING FIRE. USE WATER SPRAY TO COOL FIRE EXPOSED
+    CONTAINERS.
+Fire Fighting Procedures:WEAR PROTECTIVE CLOTHING AND NIOSH-APPROVED
+    SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH TO SEWER WITH LARGE AMOUNT OF WATER IF
+    PERMITTED OR ABSORB SPILL WITH VERMICULITE, THEN PLACE IN A
+    CONTAINER FOR CHEMICAL WASTE. CLEAN SURFACE THOROUGHLY TO REMOVE
+    RESIDUAL CONTAMINATION.
+Neutralizing Agent:NOT RELEVENT
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER CLOSED.
+Other Precautions:WASH THOROUGHLY AFTER HANDLING. AVOID CONTACT WITH
+    EYES AND SKIN. KEEP OUT OF REACH OF CHILDREN. USE WITH ADEQUATE
+    VENTILATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SHOULD BE NEEDED.
+Ventilation:GOOD GENERAL VENTILATION (TYPICALLY 10 AIR CHANGES/HR)
+    SHOULD BE USED. VENTILATION RATES SHOULD BE MATCHED TO CONDITIONS
+Protective Gloves:RUBBER/LATEX
+Eye Protection:SAFETY GLASSES WITH SIDE SHIELD/GOGGLES
+Other Protective Equipment:EYE BATH, WASHING FACILITIES, SAFETY SHOWER
+    AND IMPERVIOUS CLOTHING
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES.
+Supplemental Safety and Health
+THIS IS WORKING SOLUTION. FOR CONCENTRATE, SEE PNI C, SAME NSN.
+    ECOLOGICAL INFORMATION: A MODERATE BIOCHEMICAL OXYGEN DEMAND, A
+    HIGH POTENTIAL TO AFFECT AQUATIC ORGANISMS. AFTER DILUTION WITH
+    LARGE AM OUNT OF WATER, FOLLOWED BY WASTE TREATMENT, IT IS NOT
+    EXPECTED TO CAUSE ADVERSE ENVIRONMENTAL EFFECTS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:B3
+NRC/State Lic Num:NOT RELEVANT
+Boiling Pt:B.P. Text:>212F,>100C
+Vapor Pres:18 @ 68F
+Vapor Density:O.6
+Spec Gravity:1.04 - 1.06
+pH:10.4
+Evaporation Rate & Reference:0.4 (N-BUTYL ACETATE=1)
+Solubility in Water:COMPLETE
+Appearance and Odor:LIGHT YELLOW LIQUID, ODORLESS
+Percent Volatiles by Volume:90- 95
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE WITH COMMON MATERIALS AND CONTAMINANTS WITH WHICH THE MATERIAL MAY
+    REASONABLY COME INTO CONTACT.
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISCHARGE, TREATMENT OR DISPOSAL MAY BE SUBJECT
+    TO FEDERAL, STATE OR LOCAL LAWS. FLUSH TO SEWER WITH LARGE AMOUNT
+    OF WATER IF PERMITTED.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

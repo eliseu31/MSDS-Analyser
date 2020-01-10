@@ -1,0 +1,155 @@
+=====================  Product Identification  =====================
+
+Product ID:MAGNATAC E645 PART 2, BCGAE645P2
+MSDS Date:04/22/1993
+FSC:8040
+NIIN:00N057679
+Kit Part:Y
+MSDS Number: BWRTJ
+=== Responsible Party ===
+Company Name:BEACON CHEMICAL CO
+Address:125 S MAEQUESTEN PKWY
+City:MOUNT VERNON
+State:NY
+ZIP:10550
+Country:US
+Info Phone Num:914-699-3400
+Emergency Phone Num:914-699-3400
+Preparer's Name:DAVID MESHIRER
+CAGE:5B981
+=== Contractor Identification ===
+Company Name:BEACON CHEMICAL COMPANY,  INC.
+Address:125 MACQUESTEN PARKWAY
+Box:City:MOUNT VERNON
+State:NY
+ZIP:10550
+Country:US
+Phone:914-699-3400
+CAGE:5B981
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHANOL, 2-METHOXY-; (ETHYLENE GLYCOL MONOMETHYL
+    ETHER)(EGME)(SARA 313)
+CAS:109-86-4
+RTECS #:KL5775000
+Fraction by Wt: 23%
+OSHA PEL:25 PPM, S
+ACGIH TLV:5 PPM, S
+
+Ingred Name:VOLATILE ORGANIC CONTENT: 7.27 LB/GAL (872 G/L).
+RTECS #:9999999VO
+
+Ingred Name:SUPP DATA: SEEK CONSULTATION FROM APPROPRIATE HEALTH
+    PROFESSIOANALS CONCERNING LATEST HAZARD LIST INFORMATION & (ING 4)
+RTECS #:9999999ZZ
+
+Ingred Name:ING 3: SAFE HANDLING AND EXPOSURE INFORMATION .
+RTECS #:9999999ZZ
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE INGREDIENTS
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: EYE:WILL INJURE EYE IF NOT
+    REMOVED PROMPTLY. SKIN:FREQ/PLNGD CONTACT MAY IRRIT & CAUSE DERM.
+    INHAL:BASED ON LOW VOLAT, PROD IS NOT CONSIDERED TO BE RESP HAZ
+    UNDER NORM CNDTNS OF USE. IRRIT &/TO X VAPS MAY BE RELEASED AT ELEV
+    TEMPS. INGEST: IRRIT MOUTH, THROAT, STOMACH. MAY CAUSE GI
+    DISORDER/DMG. (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ: ING 1: INGEST: SLIGHTLY TOX. SKIN:
+    MAY BE ABSORBED THROUGH SKIN IN HARMFUL AMTS. INHAL: PLNGD EXPOS TO
+    HIGH LEVELS CAN CAUSE HDCH, DIZZ, DROW & OTHER CNS EFTS. EYE: CAN
+    CAUSE SEV IRRIT W/POS S CORNEAL DMG. CAN CAUSE CNS, KIDNEY, LIVER
+    EFTS AS WELL AS DMG TO BLOOD-FORMING & REPRO ORGANS. HAS BEEN
+    (SUPDAT)
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:IMMED FLUSH EYES W/LGE AMTS OF WATER FOR AT LEAST 15
+    MINS, LIFTING UPPER & LOWER LIDS. GET PROMPT MED ATTN. SKIN: FLUSH
+    EXPOSED AREAS THORO W/SOAP & WATER UNTIL ALL CEM IS REMOVED. REMOVE
+    CONTAMD  CLTHG & LAUNDER BEFORE REUSE. IF IRRIT PERSISTS, GET MED
+    ATTN. INHAL: REMOVE TO FRESH AIR. GET MED ATTN IF IRRIT PERSISTS.
+    INGEST: INDUCE VOMITING ONLY IF VICTIM IS ALERT. GET PROMPT MED
+    ATTN.(SUPDAT)
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:107F,42C
+Lower Limits:2.5%
+Upper Limits:19.8%
+Extinguishing Media:WATER FOG, FOAM; CO*2; DRY CHEMICAL. COOL EXPOSED
+    EQUIPMENT W/WATER SPRAY.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT. COOL EXPOSED EQUIPMENT WITH WATER SPRAY.
+Unusual Fire/Explosion Hazard:POLYMERIZATION MAY TAKE PLACE AT ELEVATED
+    TEMPERATURES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:TAKE UP W/SAND OR OTHER ABSORBENT MATL & PLACE
+    IN CONTAINER FOR LATER DISPOSAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:ROOM TEMP. AVOID EXCESSIVE HEAT. STORE
+    OUT OF DIRECT SUNLIGHT IN DRY AREA. MAXIMUM STORAGE TEMP IS 100F.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED UNDER NORMAL HANDLING CONDITIONS.
+    USE NIOSH/MSHA APPROVED RESPIRATOR IF VAPOR OR MIST LEVELS ARE
+    IRRITATING.
+Ventilation:GENERAL.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPRVD CHEM GOGGS & FACESHLD.
+Other Protective Equipment:PROTECTIVE CLOTHING IS NORMALLY NOT
+    NECESSARY FOR FORESEEABLE CONDITIONS OF USE. ANSI APP EYEWASH
+    FNTN/DELUGE SHWR
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+FIRST AID PROC: DO NOT ATTEMPT TO GIVE ANYTHING BY MOUTH TO A DROWSY OR
+    UNCONSCIOUS PERSON. EFTS OF OVEREXP: SHOWN TO CAUSE BIRTH DEFECTS
+    IN ANIMALS. CHRONIC: EYE CONT MAY CAUSE CONJUNCT; RPTD/PRLNGD  SKIN
+    CONT MAY CAUSE SENSITIZATION DERMATITIS. EGME IS ON THE NAVY LIST
+    OF OCCUPATIONAL REPRODUCTIVE HAZARDS. (ING 3)
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:257F,125C
+Vapor Pres:6.2
+Vapor Density:2.62
+Spec Gravity:1.000(H*2O=1)
+Evaporation Rate & Reference:0.5 (BUAC=1)
+Solubility in Water:SLIGHTLY SOLUBLE
+Appearance and Odor:AMBER LIQUID W/SWEET ETHER-LIKE ODOR.
+Percent Volatiles by Volume:85(WT)
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACIDS, EPOXY RESINS IN UNCONTROLLED CONDITIONS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE,
+    AMMONIA, AMINES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:WASTE DISPOSAL SHOULD BE IN ACCORDANCE WITH
+    EXISTING FEDERAL, STATE & LOCAL ENVIRONMENTAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

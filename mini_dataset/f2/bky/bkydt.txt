@@ -1,0 +1,127 @@
+=====================  Product Identification  =====================
+
+Product ID:K210 DRUM DUSTING POUCH
+MSDS Date:07/18/1986
+FSC:6850
+NIIN:00F018542
+MSDS Number: BKYDT
+=== Responsible Party ===
+Company Name:A B DICK COMPANY
+Address:5700 WEST TOUHY AVENUE
+City:CHICAGO
+State:IL
+ZIP:60648
+Info Phone Num:(312) 647-8800
+Emergency Phone Num:(312) 647-8800
+Preparer's Name:KENNETH W PINTER
+CAGE:HO951
+=== Contractor Identification ===
+Company Name:DICK A B CO
+Address:7400 CALDWELL AVE
+Box:City:NILES
+State:IL
+ZIP:60714-4628
+Country:US
+Phone:847-779-1900
+CAGE:17638
+Company Name:DICK A B CO
+Address:5700 WEST TOUHY AVENUE
+Box:City:CHICAGO
+State:IL
+ZIP:60648
+Country:US
+Phone:312-647-8800
+CAGE:HO951
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POLYVINYLIDENE FLOURIDE POWDER
+CAS:24957-79-9
+Fraction by Wt: >95%
+OSHA PEL:15 MG/CUM (DUST)
+ACGIH TLV:10 MG/CUM (DUST)
+
+Ingred Name:ZINC STEARATE
+CAS:557-05-1
+RTECS #:ZH5200000
+Fraction by Wt: <5%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): >5 G/KG
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: RESPIRATORY DISTRESS.
+    EYES: IRRITATION. INGESTION: GASTROINTESTINAL TRACT IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: RESPIRATORY DISTRESS. EYES:
+    IRRITATION. INGESTION: GASTROINTESTINAL TRACT IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION: DILUTE STOMACH CONTENTS W/PLENTY OF WATER. EYES:
+    FLUSH W/WATER. SKIN: WASH W/SOAP & WATER. INHALATION: REMOVE TO
+    FRESH AIR. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TOC
+Flash Point:NONE
+Extinguishing Media:WATER FOG, FOAM OR DRY CHEMICAL
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS & FULL
+    PROTECTIVE CLOTHING.
+Unusual Fire/Explosion Hazard:HIGH CONCENTRATIONS OF DUST MAY PRESENT
+    DUST EXPLOSION HAZARD.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE IGNITION SOURCES. CLEAN UP SPILLS W/OUT
+    DISPERSING DUST INTO AIR (VACUUM OR SWEEP).
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP MATERIAL AWAY FROM HEAT, SPARKS,
+    & OPEN FLAME. AVOID BREATHING DUST & VAPORS. PROVIDE ADEQUATE
+    VENTILATION.
+Other Precautions:AVOID EXPOSURE TO HYDROGEN FLUORIDE VAPORS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED WHEN USED AS INTENDED.
+Ventilation:GENERAL
+Protective Gloves:NONE REQUIRED WHEN USED AS INTENDED
+Eye Protection:AS NECESSARY
+Other Protective Equipment:PROTECTIVE CLOTHING
+Work Hygienic Practices:WASH HANDS THOROUGHLY AFTER USING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:1.74
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:WHITE POWDER, ODORLESS
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING MATERIAL
+Stability Condition to Avoid:HEAT, SPARKS, OPEN FLAMES & TEMPERATURES
+    >600F
+Hazardous Decomposition Products:HYDROGEN FLUORIDE, CO, CO2 & OXIDES OF
+    ZINC
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:LANDFILL IN ACCORDANCE W/LOCAL, STATE, & FEDERAL
+    REGULATIONS. DON'T INCINERATE OR DISPOSE IN SEWERS OR WATERWAYS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

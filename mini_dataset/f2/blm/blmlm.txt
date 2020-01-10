@@ -1,0 +1,143 @@
+=====================  Product Identification  =====================
+
+Product ID:ABS PLASTIC PIPE CEMENT
+MSDS Date:03/27/1989
+FSC:8040
+NIIN:00N021479
+MSDS Number: BLMLM
+=== Responsible Party ===
+Company Name:HERCULES CHEMICAL CO INC
+Address:29 WEST 38 STREET
+City:NEW YORK
+State:NY
+ZIP:10018-5595
+Country:US
+Info Phone Num:212-869-4330
+Emergency Phone Num:212-869-4330
+CAGE:84794
+=== Contractor Identification ===
+Company Name:HERCULES CHEMICAL CO INC
+Address:111 SOUTH STREET(OLD IS 29 W 38 ST)
+Box:City:PASSAIC
+State:NJ
+ZIP:07055-7398
+Country:US
+Phone:973-778-5000
+CAGE:84794
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:CORROSIVE TO EYES & SKIN IRRITANT. SEV
+    OVEREXP CAN CAUSE HEADACHE/DIZZ/NARCOSIS. MAY CAUSE DERMTOSIS &
+    DERM W/ PRLNGD RPTD CONTACT. INGEST:NO EFTS OF EXPOS EXPECTED.
+    INHAL:WILL CAUSE IRRIT OF MUCOUS M EMBRANES/NOSE/EYE/THROAT
+    COUGHING, DIFFOF BRTHG. EXPOS TO HIGH VAP CONC MAY CAUSE HEADACHE,
+    DIZZ, NAUS,(EFTS OF OVEREXP
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:HLTH HAZ:NARCOSIS. SKIN:PRLNG CONTACT CAUSES
+    COMMON SOLVENT DEFAT EFFECT. EYE:VAP SLIGHTLY UNCOMFORTABLE,
+    SPLASHES IRRITATING. WILL CAUSE PAINFUL BURNING OR STINGING OF EYES
+    AND LIDS, WATERING OF EYES	AND INFLAMMATION OF CONJUNCTIVA.
+Medical Cond Aggravated by Exposure:NO DATA FOUND.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGEST:DO NOT INDUCE VOMITING. IF CONSCIOUS, DILUTE BY GIVING
+    TWO GLASSES OF WATER. CALL A PHYSICIAN IMMED. INHAL:REMOVE TO FRESH
+    AIR, IF NOT BRTHG; GIVE ARTF RESP PREFERABLY MOUTH TO MOUTH. IF
+    BRTHG  IS DIFF GIVE OXYGEN. CALL A PHYSICIAN. SKIN:WASH AFFECTED
+    SKIN AREA WITH SOAPY WATER. REMOVE CONTAMINATED CLOTHING. EYE:IMMED
+    FLUSH EYE WITH PLENTY OF WATER FOR AT LEAST 15 MIN CONSULT A
+    PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:6F,-14C
+Lower Limits:2%
+Upper Limits:11.8%
+Extinguishing Media:FOAM/DRY CHEMICAL/CARBON DIOXIDE
+Fire Fighting Procedures:HANDLE AS FLAMM LIQ, WEAR NIOSH/MSHA APPRVD
+    SCBA & FULL PROT EQUIP . WATER MAY BE EFFECTIVE BUT SHOULD BE USED
+    TO KEEP FIRE EXPOS CONTAINERS COOL.
+Unusual Fire/Explosion Hazard:VAPOR IS HEAVIER THAN AIR AND TRAVELS
+    CONSIDERABLE DISTANCE TO SOURCE OF IGNITION AND FLASHBACK.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE SOURCES OF IGNITION. ABSORB WITH
+    SAND OR INERT ABSORBING MATERIAL AND DISPOSE OF WITH SOLID WASTE
+    ACCORDING TO FEDERAL, STATE, AND LOCAL REGULATIONS. FLUSH SPILL
+    AREA WITH WATER, AVOID FLUSH ING INTO CONFINED AREAS.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL PLACE, WELL-VENTILATED
+    AREA. KEEP AWAY FROM OPEN FLAME AND SOURCES OF IGNITION.
+Other Precautions:USE NORMAL GOOD PERSONAL HYGIENE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR, POSITIVE
+    PRESSURE AIR-LINE MASK, OR SELF-CONTAINED BREATHING APPARATUS IN
+    CONFINED SPACES OR OTHER CIRCUMSTANCES WHERE ADEQUATE VENTILATION
+    CANNOT BE ASSURED.
+Ventilation:LOCAL EXHAUST AS REQUIRED.
+Protective Gloves:PVA GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:APRON, BOOTS, EYE BATH, SAFETY SHOWER
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F3
+Boiling Pt:B.P. Text:175F,79C
+Vapor Pres:71
+Vapor Density:2.5
+Spec Gravity:.840
+Evaporation Rate & Reference:5.7 (BUTYL ACETATE=1)
+Solubility in Water:19%
+Appearance and Odor:BLACK VISCOUS LIQUID, ACETONE LIKE ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING MATERIALS, LITHIUM ALUMINUM HYDRIDE, SODIUM ALUMINUM
+    HYDROXIDE & SODIUM & POTASSIUM HYDROXIDES.
+Stability Condition to Avoid:KEEP IN CLOSED CONTAINERS AWAY FROM SPARKS
+    & OPEN FLAME.
+Hazardous Decomposition Products:CARBON DIOXIDE & CARBON MONOXIDE ARE
+    FORMED. IRRITATING PEROXIDE FUMES FORMED WHEN HEATED TO
+    DECOMPOSITION.
+Conditions to Avoid Polymerization:AVOID EXCESSIVE EXPOSURE TO AIR &
+    CATONIC INITIATORS LIKE LEWIS ACID.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE IN ACCORDANCE WITH THE FEDERAL,
+    STATE, AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

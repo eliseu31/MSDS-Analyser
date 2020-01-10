@@ -1,0 +1,171 @@
+=====================  Product Identification  =====================
+
+Product ID:CATALYST 9,2850 FT CAT 9,PART B
+MSDS Date:07/10/1990
+FSC:5970
+NIIN:01-071-8878
+Kit Part:Y
+MSDS Number: BWRLM
+=== Responsible Party ===
+Company Name:EMERSON CUMING INC. SUB OF W R GRACE AND CO.
+Address:77 DRAGON COURT
+City:WOBURN
+State:MA
+ZIP:01888
+Country:US
+Info Phone Num:617-828-3300
+Emergency Phone Num:617-935-4850/617-938-8630
+Preparer's Name:DAVID HAAS
+CAGE:0B562
+=== Contractor Identification ===
+Company Name:EMERSON & CUMING
+Address:55 HAYDEN AVE
+Box:City:LEXINGTON
+State:MA
+ZIP:02173
+Country:US
+Phone:617-861-6600
+CAGE:0B562
+Company Name:GRACE W R & CO EMERSON & CUMING DEWEY & ALMY CHEM
+Address:869 WASHINGTON ST
+City:CANTON
+State:MA
+ZIP:02021-2513
+Country:US
+Phone:617-935-4850
+CAGE:04552
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TETRAETHYLENEPENTAMINE
+CAS:112-57-2
+RTECS #:KH8585000
+Fraction by Wt: 60 - 70%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:TRIETHYLENE TETRAMINE
+CAS:112-24-3
+RTECS #:YE6650000
+Fraction by Wt: 20 - 30%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:PENTAETHYLENE HEXAMINE
+CAS:4067-16-7
+RTECS #:RZ2680000
+Fraction by Wt: 10%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:VOLITILE ORGANIC CONTENT AS LISTED ON MSDS: 441.5 G/L.
+RTECS #:9999999VC
+Other REC Limits:NOT RELEVANT
+OSHA PEL:NOT RELEVANT
+ACGIH TLV:NOT RELEVANT
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL, RAT) IS NOT KNOWN.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:TARGET ORGANS:EYES, SKIN, RESPIRATORY
+    & GI TRACTS. ACUTE- CORROSIVE. EYES:MAY CAUSE BURNS, BLINDNESS.
+    SKIN:MAY CAUSE SEVERE BURNS, SENSITIZATION/ALLERGIC REACTIONS.
+    HARMFUL IF ABSORBED. INHALE:MAY CAU SE IRRITATION, NAUSEA,
+    HEADACHES. ORAL:HARMFUL IF SWALLOWED. CHRONIC- MAY CAUSE LIVER &
+    KIDNEY INJURY.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:IRRITATION, BLURRED VISION, TEARING, NAUSEA,
+    HEADACHE, BURNS, CORNEAL INJURY, BLINDNESS, BLISTERING, TIGHTNESS
+    OF THE CHEST, ASTHMA-LIKE SYMPTOMS, RESPIRATORY DISTRESS
+Medical Cond Aggravated by Exposure:PERSONS WITH PRE-EXISTING SKIN
+    DISORDERS, EYE PROBLEMS OR IMPAIRED RESPIRATORY FUNCTION MAY BE
+    MORE SUSCEPTIBLE TO THE EFFECTS OF THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:GET MEDICAL HELP IF SYMPTOMS PERSIST. INHALED:REMOVE TO FRESH
+    AIR. PROVIDE CPR/OXYGEN IF NEEDED. EYES:FLUSH WITH WATER FOR 15
+    MINUTES, HOLDING EYELIDS OPEN. GET MEDICAL ATTENTION. SKIN:FLUSH
+    WITH WATE R FOLLOWED BY WASHING WITH SOAP & WATER.ORAL:IF
+    CONSCIOUS, DRINK LARGE AMOUNT OF WATER. GET MEDICAL ATTENTION.
+    NEVER GIVE ANYTIHING BY MOUTH TO AN UNCONSCIOUS PERSON.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:280F,138C
+Extinguishing Media:WATER FOG, CARBON DIOXIDE, FOAM OR DRY CHEMICAL.
+    USE WATER SPRAY TO COOL FIRE EXPOSED CONTAINERS.
+Fire Fighting Procedures:WEAR FULL PROTECTIVE CLOTHING AND
+    NIOSH-APPROVED SELF-CONTAINED BREATHING APPARATUS OPERATED IN
+    POSITIVE PRESSURE MODE. COOL FIRE-EXPOSED CONTAINERS WITH WATER.
+Unusual Fire/Explosion Hazard:DECOMPOSITION PRODUCTS MAY BE TOXIC.
+    CLOSED CONTAINERS MAY RUPTURE VIOLENTLY.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE EQUIPMENT. WIPE UP OR ABSORB
+    SPILLS WITH INERT MATERIAL SUCH AS SAND/VERMICULITE. SCRAPE SPILL
+    UP INTO CONTAINERS. WASH AREA WITH SOAPY WATER TO REMOVE RESIDUE.
+    COLLECT ABSORBED MATERI AL AND WATER RINSES IN APPROPRIATE
+    CONTAINERS.
+Neutralizing Agent:NOT RELEVANT
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL, DRY, VENTILATED AREA
+    AWAY FROM INCOMPATIBLE MATERIALS, OPEN FLAMES & HEAT SOURCES.
+Other Precautions:WASH THOROUGHLY WITH SOAP AND WATER AFTER HANDLING
+    AND BEFORE EATING, DRINKING, SMOKING. KEEP OUT OF REACH OF
+    CHILDREN. DO NOT TAKE INTERNALLY. AVOID EYES AND SKIN CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF TLV IS EXCEEDED OR FOR SYMPTOMS OF OVER
+    EXPOSURE, WEAR NIOSH-APPROVED ORGANIC VAPOR RESPIRATOR OR
+    AIR-PURIFYING RESPIRATOR. IN EMERGENCY, WEAR A NIOSH-APPROVED
+    POSITIVE-PRESSURE SELF-CONTAINED BREA THING APPARATUS.
+Ventilation:MECHANICAL (GENERAL AND/OR LOCAL EXHAUST, EXPLOSION-PROOF)
+    VENTILATION TO MAINTAIN EXPOSURE BELOW TLV(S).
+Protective Gloves:RUBBER OR LATEX
+Eye Protection:CHEMICAL SPLASH GOGGLES/FACE SHIELD
+Other Protective Equipment:EYE WASH STATION, SAFETY SHOWER, PROTECTIVE
+    CLOTHING
+Work Hygienic Practices:OBSERVE GOOD INDUSTRIAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES.
+Supplemental Safety and Health
+KEY1:C2. THIS PRODUCT IS A KIT CONSISTING OF TWO PARTS. THIS IS PART B.
+    SEE PNI A, SAME NSN, FOR PART A.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:B2
+NRC/State Lic Num:NOT RELEVANT
+Boiling Pt:B.P. Text:604F,318C
+Vapor Pres:<0.001@77F
+Vapor Density:>1
+Spec Gravity:0.99
+Solubility in Water:SOLUBLE
+Appearance and Odor:AMBER LIQUID, AMINE ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, ACIDS, BASES, EPOXIDES
+Stability Condition to Avoid:UNCONTROLLED MIXING WITH EPOXIDES, OPEN
+    FLAME, UNCONTROLLED EXPOSURE TO HEAT
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE,
+    OXIDES OF NITROGEN, AMINES AND OTHER ORGANIC SUBSTANCES MAY BE
+    FORMED.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH ALL LOCAL, STATE
+    AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

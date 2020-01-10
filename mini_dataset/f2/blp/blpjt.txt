@@ -1,0 +1,112 @@
+=====================  Product Identification  =====================
+
+Product ID:6-84 SPEEDHITE FLAT OFF WHITE LATEX
+MSDS Date:10/30/1981
+FSC:8010
+NIIN:00F019089
+MSDS Number: BLPJT
+=== Responsible Party ===
+Company Name:PPG INDUSTRIES INC
+Address:ONE GATEWAY CENTER
+City:PITTSBURGH
+State:PA
+ZIP:15222
+Info Phone Num:(304) 843-1300
+Emergency Phone Num:(304) 843-1300
+CAGE:93915
+=== Contractor Identification ===
+Company Name:PPG INDUSTRIES INC CHEMICAL DIVISION
+Address:ONE GATEWAY CENTER
+City:PITTSBURGH
+State:PA
+ZIP:15222-1416
+Country:US
+Phone:304-843-1300
+CAGE:93915
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:2,2,4 TRIMETHYLPENTANEDIOL 1,3 MONOISOBUTYRATE
+Fraction by Wt: <5%
+
+Ingred Name:ALIPHATIC HYDROCARBON MIXTURE
+CAS:68514-35-2
+Fraction by Wt: <5%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: HEADACHE & NAUSEA.
+    SKIN/EYES: IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: HEADACHES & NAUSEA. SKIN/EYES:
+    IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. EYES: FLUSH W/COPIOUS
+    QUANTITIES OF RUNNING WATER FOR AT LEAST 15 MINS. SKIN: REMOVE
+    W/SOAP & WATER. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:>200F
+Fire Fighting Procedures:IF WATER IS USED, FOG NOZZLES ARE PREFERABLE.
+Unusual Fire/Explosion Hazard:WATER SPRAY MAY BE USED TO COOL CLOSED
+    CONTAINERS TO PREVENT PRESSURE BUILD-UP, POSSIBLE EXPLOSION OR
+    BURSTING WHEN EXPOSED TO EXTREME HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:RETURN MATERIAL TO CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:PROTECT FROM FREEZING.
+Other Precautions:DON'T TAKE INTERNALLY. DON'T FLAME CUT, BRAZE, OR
+    WELD W/O NIOSH APPROVED RESPIRATOR OR APPROPRIATE VENTILATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:OUTDOOR/OPEN AREAS: USE FILTER RESPIRATOR TC21C
+    TO REMOVE SOLID AIRBORNE PARTICULATES FROM OVERSPRAY. USE
+    COMBINATION ORGANIC VAPOR-FILTER RESPIRATORS TC23C DESIGNED TO
+    PURIFY THE AIR BY REMOVING SOLI D AIRBORNE PARTICULATES/ORGANIC
+    VAPORS.
+Ventilation:GENERAL DILUTION OR LOCAL EXHAUST IN VOLUME & PATTERN TO
+    KEEP <LEL.
+Protective Gloves:AS REQUIRED
+Eye Protection:SAFETY GOGGLES
+Other Protective Equipment:AS NEEDED
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE.
+Supplemental Safety and Health
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:112-495F
+Vapor Density:<AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Appearance and Odor:WHITE LIQUID
+Percent Volatiles by Volume:68.98%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:PROTECT FROM FREEZING.
+Hazardous Decomposition Products:CO
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. DON'T INCINERATE CLOSED CONTAINERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

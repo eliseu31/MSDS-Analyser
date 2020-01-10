@@ -1,0 +1,145 @@
+=====================  Product Identification  =====================
+
+Product ID:WASP & HORNET KILLER II 140-9044
+MSDS Date:01/17/1989
+FSC:6840
+NIIN:00-459-2443
+MSDS Number: BKYKX
+=== Responsible Party ===
+Company Name:SHERWIN-WILLIAMS COMPANY
+Address:101 PROSPECT AVENUE N.W.
+City:CLEVELAND
+State:OH
+ZIP:44115
+Info Phone Num:(216) 566-2902
+Emergency Phone Num:(216) 566-2917
+CAGE:54636
+=== Contractor Identification ===
+Company Name:SHERWIN-WILLIAMS CO THE
+Address:101 PROSPECT AVE NW
+Box:City:CLEVELAND
+State:OH
+ZIP:44115-1042
+Country:US
+Phone:800-251-2486/216-566-2242
+CAGE:54636
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HYDROTREATED LIGHT DISTILLATE, PETROLEUM; C12-C15
+    ISOPARAFFINIC HYDROCARBONS
+CAS:64742-47-8
+Fraction by Wt: 80%
+Other REC Limits:300 PPM (MFR)
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: 15%
+Other REC Limits:400 PPM
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+Ingred Name:PYRETHRUM  (SARA III)
+CAS:8003-34-7
+RTECS #:UR4200000
+Fraction by Wt: <0.1%
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:PIPERONYL BUTOXIDE
+CAS:51-03-6
+RTECS #:XS8050000
+Fraction by Wt: <0.5%
+
+Ingred Name:PROPOXUR (BAYGON)  (SARA III)
+CAS:114-26-1
+RTECS #:FC3150000
+Fraction by Wt: 0.5%
+OSHA PEL:0.5 MG/M3
+ACGIH TLV:0.5 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: IRRITATION OF RESPIRATORY
+    SYSTEM, NERVOUS SYSTEM DEPRESSION, HEADACHE, DIZZINESS, NAUSEA,
+    LOSS OF COORDINATION, UNCONSCIOUSNESS & POSSIBLY DEATH. SKIN/EYES:
+    REDNESS, ITCHING, OR BURNING SE NSATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: REPEATED/PROLONGED OVEREXPOSURE TO
+    SOLVENT CAUSES PERMANENT BRAIN & NERVOUS SYSTEM DAMAGE. PROLONGED
+    OVEREXPOSURE TO SOLVENT MAY CAUSE ADVERSE EFFECTS TO THE LIVER, &
+    URINARY SYSTEMS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: IF AFFECTED, REMOVE FROM EXPOSURES. RESTORE
+    BREATHING. KEEP WARM/QUIET. SKIN: WASH AFFECTED AREA THOROUGHLY
+    W/SOAP & WATER. EYES: FLUSH W/LARGE AMOUNTS OF WATER FOR 15 MINS.
+    INGESTION: NEV ER GIVE ANYTHING BY MOUTH TO AN UNCONSCIOUS PERSON.
+    DON'T INDUCE VOMITING. GIVE SEVERAL GLASSES OF WATER. OBTAIN
+    MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:53F
+Lower Limits:1%
+Extinguishing Media:CO2, DRY CHEMICAL, FOAM
+Fire Fighting Procedures:WATER SPRAY MAY BE INEFFECTIVE. IF WATER IS
+    USED, FOG NOZZLES ARE PREFERABLE. FULL PROTECTIVE CLOTHING & SCBA.
+Unusual Fire/Explosion Hazard:WATER SPRAY MAY BE USED TO COOL CLOSED
+    CONTAINERS TO PREVENT PRESSURE BUILD-UP, POSSIBLE AUTOIGNITION &
+    EXPLOSION WHEN EXPOSED TO EXTREME HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. VENTILATE &
+    REMOVE W/INERT ABSORBENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:CONTENTS ARE FLAMMABLE. USE APPROVED
+    BONDING/GROUNDING PROCEDURES. CONTENTS UNDER PRESSURE.
+Other Precautions:DON'T PUNCTURE, INCINERATE, OR EXPOSE TO TEMPERATURES
+    >120F. DON'T TAKE INTERNALLY. KEEP OUT OF THE REACH OF CHILDREN.
+    AVOID BREATHING VAPOR, SPRAY MISTS, & CONTACT W/SKIN & EYES. AVOID
+    CONTAMINATION  OF FEED/FOODSTUFFS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF EXPOSURE CAN'T BE CONTROLLED AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:>75%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:HEAT, ELECTRICAL EQUIPMENT, SPARKS, OPEN
+    FLAME, HOT SURFACES, SOURCES OF IGNITION, SUNLIGHT, TEMPERATURES
+    >120F.
+Hazardous Decomposition Products:CO, CO2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:WASTE MAY BE A RCRA HAZARDOUS WASTE. TEST FOR
+    IGNITABILITY TO DETERMINE EPA HAZARDOUS WASTE NUMBER. DON'T
+    INCINERATE. DEPRESSURIZE CONTAINER. DISPOSE OF IN ACCORDANCE
+    W/FEDERAL, STATE, & LOCAL REGULAT IONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

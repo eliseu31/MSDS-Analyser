@@ -1,0 +1,149 @@
+=====================  Product Identification  =====================
+
+Product ID:0266 CHOKE & CARBURETOR CLEANER AEROSOL
+MSDS Date:09/05/1989
+FSC:6850
+NIIN:00F019172
+MSDS Number: BLPNY
+=== Responsible Party ===
+Company Name:SELIG CHEMICAL INDUSTRIES
+Address:840 SELIG DRIVE, SW
+City:ATLANTA
+State:GA
+ZIP:30378
+Info Phone Num:(404) 691-9220
+Emergency Phone Num:(404) 691-9220
+CAGE:86938
+=== Contractor Identification ===
+Company Name:SELIG CHEMICAL INDUS, DIV OF NATIONAL SERVICE INDUS
+Address:840 SELIG DR SW
+Box:City:ATLANTA
+State:GA
+ZIP:30378
+Country:US
+Phone:404-691-9220
+CAGE:86938
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS)	(SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 35-45%
+Other REC Limits:100 PPM
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:METHYLENE CHLORIDE	(SARA III)
+CAS:75-09-2
+RTECS #:PA8050000
+Fraction by Wt: 35-45%
+OSHA PEL:500 PPM/C,1000; Z2
+ACGIH TLV:50 PPM, A2; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:METHYL ALCOHOL (METHANOL)  (SARA III)
+CAS:67-56-1
+RTECS #:PC1400000
+Fraction by Wt: 5-15%
+Other REC Limits:200 PPM
+OSHA PEL:S,200PPM/250STEL
+ACGIH TLV:S,200PPM/250STEL; 93
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:MORPHOLINE
+CAS:110-91-8
+RTECS #:QD6475000
+Fraction by Wt: 5%
+Other REC Limits:20 PPM
+OSHA PEL:S,20 PPM/30 STEL
+ACGIH TLV:S, 20 PPM; 9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:NO	 OSHA:NO
+Health Hazards Acute and Chronic:SKIN: DEFAT. EYES: IRRITATION.
+    INHALATION: DIZZINESS, NAUSEA & HEADACHE. INGESTION: NAUSEA,
+    VOMITING, HARMFUL.
+Explanation of Carcinogenicity:METHYLENE CHLORIDE IS SUSPECTED HUMAN A2
+    CARCINOGENS BY ACGIH.
+Effects of Overexposure:SKIN: DEFAT. EYES: IRRITATION. INHALATION:
+    DIZZINESS, NAUSEA & HEADACHE. INGESTION: NAUSEA, VOMITING, &
+    HARMFUL.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: WASH W/SOAP & WATER. USE SKIN CREAM W/LANOLIN. EYES:
+    FLUSH W/PLENTY OF WATER FOR 15 MINS. INHALATION: MOVE TO FRESH AIR.
+    IF NEEDED, ADMINISTER OXYGEN. INGESTION: GIVE W/PLENTY OF WATER.
+    DON'T IN DUCE VOMITING. OBTAIN MEDICAL ATTENTIONIN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:FLAMMABLE
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL, WATER FOG
+Fire Fighting Procedures:WATER SPRAY ON CANS MAY PREVENT BURSTING.
+Unusual Fire/Explosion Hazard:CONTAINER MAY BURST IF HEATED >120F.
+    FLAMMABLE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:LARGE SPILLS ARE UNLIKELY DUE TO AEROSOL
+    PACKAGING. IF SPILLED, ABSORB W/AN ABSORBENT MATERIAL, PICK UP &
+    DEPOSIT IN SEALABLE CONTAINER FOR DISPOSAL AS HAZARDOUS WASTE.
+    THOROUGHLY CLEAN SPILL AREA W/D ETERGENT SOLUTION. RINSE THROUGHLY
+    W/CLEAN WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP OUT OF REACH OF CHILDREN.
+    CONTAINER MAY BURST IF HEATED >120F. FLAMMABLE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:CHEMICAL CARTRIDGE RESPIRATOR IF IN CONFINED
+    AREA.
+Ventilation:LOCAL
+Eye Protection:AS REQUIRED
+Other Protective Equipment:PROTECTIVE CLOTHING
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:107-284F
+Vapor Pres:163
+Vapor Density:2.5
+Spec Gravity:1.01
+Evaporation Rate & Reference:(CARBON TETRACHL: 1): 2.5
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:CLEAR, COLORLESS LIQUID W/A SOLVENT ODOR.
+Percent Volatiles by Volume:100%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+MAY CAUSE CRAZING OF CERTAIN PLASTICS
+Stability Condition to Avoid:STORE >120F.
+Hazardous Decomposition Products:CHLORINATED HYDROCARBONS MAY DECOMPOSE
+    TO FORM TOXIC &/OR CORROSIVE VAPORS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:WHEN DISPOSING OF SPENT CONTAINERS, DON'T CRUSH,
+    PUNCTURE OR INCINERATE. CONSULT LOCAL, STATE & FEDERAL AGENCIES FOR
+    PROPER DISPOSAL METHOD IN YOUR AREA. FLAMMABLE. HAZARDOUS WASTE:
+    D001, F003, F001,  F005.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

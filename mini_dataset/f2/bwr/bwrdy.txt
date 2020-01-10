@@ -1,0 +1,179 @@
+=====================  Product Identification  =====================
+
+Product ID:920'S;FIRE EXTINGUISHER CARTRIDGE (2-100920)
+MSDS Date:03/16/1994
+FSC:4210
+NIIN:01-206-9527
+MSDS Number: BWRDY
+=== Responsible Party ===
+Company Name:PACIFIC SCIENTIFIC CO.,ENERGY DYNAMICS DIV.
+Address:7073 WEST WILLIS DRIVE
+Box:5002
+City:CHANDLER
+State:AZ
+ZIP:85226-5002
+Country:US
+Info Phone Num:520-796-1100 602-796-0754-FAX
+Emergency Phone Num:520-796-1100 800-535-5053(INFOTRAC)
+Preparer's Name:JOEL GEVING
+CAGE:54181
+=== Contractor Identification ===
+Company Name:PACIFIC SCIENTIFIC CO HTL/KIN-TECH DIVISION
+Address:1800 HIGHLAND AVE
+Box:City:DUARTE
+State:CA
+ZIP:91010
+Country:US
+Phone:818-359-9317/602-796-1100
+CAGE:05167
+Company Name:PACIFIC SCIENTIFIC CO.,HTL ENERGY SYSTEMS DIV.
+Address:7073 WEST WILLIS DRIVE
+Box:5002
+City:CHANDLER
+State:AZ
+ZIP:85226
+Country:US
+Phone:602-796-1100
+CAGE:54181
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LEAD AZIDE
+CAS:13424-46-9
+RTECS #:OF8650000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:RULE IN PROCESS
+ACGIH TLV:0.15 MG PB/M3
+
+Ingred Name:ZIRCONIUM
+CAS:7440-67-7
+RTECS #:ZH7070000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3/10 STEL;9394
+
+Ingred Name:POTASSIUM PERCHLORATE
+CAS:7778-74-7
+RTECS #:SC9700000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:GRAPHITE, NATURAL
+CAS:7782-42-5
+RTECS #:MD9659600
+Fraction by Wt: <0.1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:15 MPPCF; Z-3
+ACGIH TLV:2 MG/M3 RDUST; 9394
+
+Ingred Name:VINYLIDENE FLUORIDE-HEXAFLUOROPROPENE-TETRAFLUOROETHANE
+    POLYMER
+CAS:25190-89-0
+Fraction by Wt: <0.1%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:TLV FOR LEAD AZIDE IS 0.05MG/M3 (TWA)
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:THE PYROTECHNIC DEVICE IS SEALED.LEAD
+    AZIDE IS TOXIC BY INHALATION, INGESTION AND SKIN ABSORPTION.LEAD
+    AZIDE INTERFERES WITH CELLULAR OXIDATIVE METABOLISM, PRODUCING
+    SEVERE HYPOTENSION.CHRONIC: MAY DA MAGE BLOOD FORMING
+    ORGANS(HEMATOPOESIS),NERVOUS,URINARY AND REPRODUCTIVE SYSTEMS.
+Explanation of Carcinogenicity:LEAD COMPOUNDS ARE CLASSIFIED AS
+    CARCINOGENS.THIS ITEM IS TOXIC TO THE FETUS.
+Effects of Overexposure:SYSTEMIC POISONING:HYPOTENSION,WEIGHT LOSS,
+    IRRITATION,ANEMIA,LOSS OF APPETITE,SLEEP DISTURBANCES,FATIGUE.
+Medical Cond Aggravated by Exposure:PREGNANT WOMEN MAY BE AT INCREASED
+    RISK FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:REMOVE CONTAMINATED CLOTHING;WASH WITH WATER.EYES:FLUSH
+    WITH WATER FOR 15 MINUTES.INHAL:REMOVE TO FRESH AIR.GIVE OXYGEN OR
+    ARTIFICIAL RESPIRATION IF NEEDED.INGEST:DO NOT INDUCE VOMITING. GET
+    PROM PT QUALIFIED MEDICAL ATTENTION.USE SUPPORTIVE CARE.
+
+=====================  Fire Fighting Measures  =====================
+
+Autoignition Temp:Autoignition Temp Text:500F
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL.
+Fire Fighting Procedures:DO NOT FIGHT FIRE MANUALLY.WEAR FIRE FIGHTING
+    PROTECTIVE EQUIPMENT AND A FULL FACED SELF CONTAINED BREATHING
+    APPARATUS. COOL FIRE EXPOSED CONTAINERS W/WATER FOG
+Unusual Fire/Explosion Hazard:EXPLOSIVE PRODUCT COMBUSTION OR HEAT OF
+    FIRE MAY PRODUCE HAZARDOUS DECOMPOSITION PRODUCTS AND VAPORS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:BROKEN UNITS ELIMINATE SOURCES OF
+    IGNITION;EVACUATE AREA;SWEEP UP WITH A SOFT BRISTLE BRUSH INTO A
+    CONDUCTIVE RUBBER PAN;PLACE IN CONDUCTIVE CONTAINER(USING PROPER
+    GROUNDING); DESENSITIZE(SEE NEUTRALI ZER).CLEAN SPILL AREA.
+Neutralizing Agent:5% FERRIC AMMOIUM NITRATE OR 10% SODIUM
+    HYDOXIDE(BOTH AQUEOUS SOLNS - W/W).
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN APPROVED MAGAZINES;HANDLING
+    MUST BE PERFORMED BY QUALIFIED PERSONNEL(IAW DOD4145.26M).KEEP
+    PRODUCT COOL AND DRY.
+Other Precautions:UNITS WILL ACTIVATE WHEN IMMERSED IN WATER OR MINERAL
+    OIL. NO CHANGE IN EXTERNAL APPEARANCE AFTER ACTIVATION. UNITS
+    CONTAIN ALKALINE BATTERIES. DO NOT ATTEMPT TO RECHARGE. DISPOSE OF
+    PROPERLY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WHERE ENVIRONMENTAL CONTROLS ARE LACKING OR IN
+    ENCLOSED SPACES USE A NIOSH/MSHA APPROVED RESPIRATOR FOR ORGANIC
+    VAPORS AND PARTICULATE MATTER.
+Ventilation:USE GENERAL DILUTION VENTILATION.USE EXPLOSION-PROOF
+    EQUIPMENT.
+Protective Gloves:IMPERVIOUS,STATIC DISSIPATINGNONE
+Eye Protection:SAFETY GLASSES OR GOGGLES.
+Other Protective Equipment:100%COTTON,FLAME RESISTANT CLOTHING,NON-
+    CONDUCTIVE SHOES.
+Work Hygienic Practices:WASH HANDS.SEPERATE WORK CLOTHES FROM STREET
+    CLOTHES.LAUNDER WORK CLOTHES BEFORE REUSE.KEEP FOOD OUT OF THE WORK
+    AREA.
+Supplemental Safety and Health
+ORDNANCE MATERIAL
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:E2
+Net Prop Wt for Ammo:412MG
+Decomp Temp:Decomp Text:400F,204C
+Spec Gravity:>1
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:METALLIC ORDNANCE HARDWARE.SOLID;ODORLESS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+THIS PRODUCT IS SEALED. IF SEAL BREAKS,REMOVE ALL OTHER HAZARDOUS
+    MATERIALS.
+Stability Condition to Avoid:AVOID FLAMES, HIGH TEMPERATURES, STATIC
+    ENERGY, ELECTRICAL ENERGY, FRICTION, HIGH PRESSURE AND SHOCK. DO
+    NOT DISASSEMBLE
+Hazardous Decomposition Products:LEAD,ZIRCONIUM,FLUORINE,HF,KCL(DUST).
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH FEDERAL,STATE AND
+    LOCAL REGULATIONS.RCRA CODES:D003(REACTIVE);D008(LEAD).
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

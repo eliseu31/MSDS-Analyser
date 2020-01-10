@@ -1,0 +1,153 @@
+=====================  Product Identification  =====================
+
+Product ID:BISMUTH OXIDE
+MSDS Date:09/17/1998
+FSC:6140
+NIIN:00N091862
+Status Code:A
+MSDS Number: CJQBC
+=== Responsible Party ===
+Company Name:YARDNEY TECHNICAL PRODUCTS INC (WHITTAKER)
+Address:82 MECHANIC ST
+City:PAWCATUCK
+State:CT
+ZIP:06379
+Country:US
+Info Phone Num:860-599-1100
+Emergency Phone Num:800-255-3924
+CAGE:87362
+=== Contractor Identification ===
+Company Name:YARDNEY TECHNICAL PRODUCTS INC
+Address:82 MECHANIC ST
+Box:City:PAWCATUCK
+State:CT
+ZIP:06379
+Country:US
+Phone:(860)599-1100
+CAGE:87362
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SILVER COMPOUNDS (DUST OR FUME)
+OSHA PEL:0.01 MG/M3
+
+Ingred Name:CADMIUM OXIDE (DUST OR FUME)
+CAS:1306-19-0
+RTECS #:EV1925000
+OSHA PEL:5 UG/M3
+
+Ingred Name:LEAD OXIDE (DUST OR FUME)
+CAS:1309-60-0
+RTECS #:OG0700000
+OSHA PEL:50 UG/M3
+
+Ingred Name:BISMUTH OXIDE (DUST OR FUME)
+CAS:1304-76-3
+RTECS #:EB2984460
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:POTASSIUM HYDROXIDE IS CORROSIVE TO
+    SKIN AND EYES. LEAD, CADMIUM AND SILVER BIOACCUMULATE IN HUMAN
+    TISSUES. CADMIUM OXIDE IS A SUSPECTED HUMAN CARCINOGEN. LEAD AND
+    CADMIUM APPEAR ON THE NAVY LIST OF O CCUPATIONAL CHEMICAL
+    REPRODUCTIVE HAZARDS. SEEK CONSULTATION FROM APPROPRIATE HEALTH
+    PROFESSIONALS CONCERNING LATEST HAZARD LIST INFO AND SAFE HANDLING
+    AND EXPOSURE INFO .
+Effects of Overexposure:TO POTASSIUM HYDROXIDE: SKIN AND EYE
+    IRRITATION. TO SILVER: AGRYIA. TO CADMIUM OXIDE: DRYNESS OF THROAT,
+    HEADACHE, COUGH, SHORTNESS OF BREATH, VOMITING. TO LEAD OXIDE:
+    ABDOMINAL PAIN, NAUSEA, VOMITING , METALLIC TASTE IN MOUTH.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGEST: CALL MD IMMEDIATELY . EYES: IMMEDIATELY FLUSH EYES
+    WITH POTABLE WATER FOR AT LEAST 15 MINUTES. SEEK ASSISTANCE FROM MD
+    . SKIN: IN RESPONSE TO KOH - FLUSH AFFECTED AREA WITH COPIOUS 
+    AMOUNTS OF WATER. SEEK MEDICAL ATTENTION IMMEDIATELY. INHALATION:
+    IN RESPONSE TO METAL FUMES, DUSTS - REMOVE VICTOM FROM AREA. SEEK
+    MEDICAL ATTENTION IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:DRY CHEMICAL EXTINGUISHER.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT . AVOID BREATHING FUMES.
+Unusual Fire/Explosion Hazard:ACRID SMOKE FROM BURNING PLASTIC
+    COMPONENTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONTAINS POTASSIUM HYDROXIDE; NEUTRALIZE WITH
+    BORIC ACID. DO NOT FLUSH TO SANITARY SEWER. COLLECT ALL SPILLAGE
+    AND DEBRIS FOR PROPER DISPOSAL. USE NIOSH APPROVED FULL FACE
+    RESPIRATOR WITH HEPA FILTERS  OR A PAPR WITH HEPA FILTERS. DO NOT
+    CREATE ANY DUST. DO NOT SWEEP UP THE DEBRIS.
+Neutralizing Agent:NEUTRALIZE WITH BORIC ACID.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID SHORT CIRCUITING THE TERMINALS.
+    AVOID EXPOSURE TO INTENSE HEAT OR FIRE.
+Other Precautions:DO NOT OPEN THESE CELLS AND EXPOSE THE INTERNAL
+    COMPONENTS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:N/A. USE NIOSH APPROVED RESPIRATOR APPROPRIATE
+    FOR EXPOSURE OF CONCERN .
+Ventilation:LOCAL EXHAUST: YES.
+Protective Gloves:CHEMICAL RESISTANT (FILL OPERATION).
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES & FULL LENGTH
+    FACESHIELD .
+Other Protective Equipment:ANSI APPROVED EYE WASH AND DELUGE SHOWER .
+    OTHER PROTECTIVE CLOTHING OR EQUIPMENT: N/A.
+Work Hygienic Practices:WASH THOROUGHLY AFTER WORKING WITH ANY BATTERY.
+Supplemental Safety and Health
+UNDER NORMAL CONDITIONS OF USE OR SERVICE, THIS PRODUCT DOES NOT EXPOSE
+    THE USER TO TOXIC FUMES. PRIOR TO USE, CARE MUST BE TAKEN WHIN
+    FILLING A DRY CELL WITH ELECTROLYTE IN ORDER TO AVOID A SEVERE CH
+    EMICAL BURN TO EXPOSED TISSUES. SKIN AND EYE PROTECTION IS STRONGLY
+    RECOMMENDED FOR THE CELL FILL OPERATION.
+
+==================  Physical/Chemical Properties  ==================
+
+Appearance and Odor:NO ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACIDS, SOLVENTS.
+Stability Condition to Avoid:DO NOT SHORT CIRCUIT POSITIVE AND NEGATIVE
+    TERMINALS.
+Hazardous Decomposition Products:TOXIC FUMES OF CADMIUM, TOXIC FUMES OF
+    LEAD.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:SILVER-ZINC BATTERIES CONTAIN RCRA REGULATED
+    METALS AND A CORROSIVE LIQUID. THEY SHOULD BE RECYCLED TO RECOVER
+    THE SILVER. FOLLOW ALL LOCAL, STATE AND FEDERAL HAZARD WASTE
+    REGULATIONS.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:THIS PRODUCT CONTAINS THE FOLLOWING EPCRA
+    SECTION 313 CHEMICALS: SILVER COMPOUNDS, LEAD COMPOUNDS, CADMIUM
+    COMPOUNDS AND ZINC COMPOUNDS.
+Federal Regulatory Information:CADMIUM OXIDE AND LEAD OXIDE ARE BOTH
+    THE SUBJECT OF SPECIFIC OSHA REGULATIONS. REFER TO 29 CFR 1910.1025
+    LEAD AND 29 CFR 1910.1027 FOR CADMIUM.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

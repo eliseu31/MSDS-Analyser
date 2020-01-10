@@ -1,0 +1,146 @@
+=====================  Product Identification  =====================
+
+Product ID:K250 62-3025 COPIER DRUM
+MSDS Date:07/24/1986
+FSC:6850
+NIIN:00F018540
+MSDS Number: BKYDR
+=== Responsible Party ===
+Company Name:A B DICK COMPANY
+Address:5700 WEST TOUHY AVENUE
+City:CHICAGO
+State:IL
+ZIP:60648
+Info Phone Num:(312) 647-8800
+Emergency Phone Num:(312) 647-8800
+Preparer's Name:KENNETH W PINTER
+CAGE:HO951
+=== Contractor Identification ===
+Company Name:DICK A B CO
+Address:7400 CALDWELL AVE
+Box:City:NILES
+State:IL
+ZIP:60714-4628
+Country:US
+Phone:847-779-1900
+CAGE:17638
+Company Name:DICK A B CO
+Address:5700 WEST TOUHY AVENUE
+Box:City:CHICAGO
+State:IL
+ZIP:60648
+Country:US
+Phone:312-647-8800
+CAGE:HO951
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NICKEL  (SARA III)
+CAS:7440-02-0
+RTECS #:QR5950000
+Fraction by Wt: 80-85%
+Other REC Limits:1 MG/CUM
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+
+Ingred Name:SELENIUM
+CAS:7782-49-2
+RTECS #:VS8310000
+Fraction by Wt: 17.35%
+OSHA PEL:0.2 MG/CUM
+ACGIH TLV:0.2 MG/CUM
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:TELLURIUM  (SARA III)
+CAS:13494-80-9
+RTECS #:WY2625000
+Fraction by Wt: 0.0175%
+OSHA PEL:0.1 MG/M3
+ACGIH TLV:0.1 MG/M3; 9192
+
+Ingred Name:ARSENIC  (SARA III)
+CAS:7440-38-2
+RTECS #:CG0525000
+Fraction by Wt: 0.0175%
+OSHA PEL:0.5 MG/M3 (AS)
+ACGIH TLV:0.01,A1 MG/M3; 9394
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): >5 G/KG
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: ASPIRATION MAY CAUSE
+    RESPIRATORY DISTRESS/SYMPTOMS. EYES: IRRITATION. INGESTION:
+    GASTROINTESTINAL TRACT IRRITATION.
+Explanation of Carcinogenicity:ARSENIC IS A SUSPECTED 2B HUMAN
+    CARCINOGEN. NICKEL IS A SUSPECTED A1 HUMAN CARCINOGEN.
+Effects of Overexposure:INHALATION: ASPIRATION MAY CAUSE RESPIRATORY
+    DISTRESS/SYMPTOMS. EYES: IRRITATION. INGESTION: GASTROINTESTINAL
+    TRACT IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION: DILUTE STOMACH CONTENTS W/PLENTY OF WATER. EYES:
+    FLUSH W/WATER. SKIN: WASH W/SOAP & WATER. INHALATION: REMOVE TO
+    FRESH AIR. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER FOG, FOAM, OR CO2.
+Fire Fighting Procedures:WHEN IN A MACHINE, TREAT AS AN ELECTRICAL
+    FIRE.
+Unusual Fire/Explosion Hazard:EXPOSURE TO HIGH TEMPERATURES CAN RESULT
+    IN MELTING & PYROLYSIS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE IGNITION SOURCES. CLEAN UP SPILLS W/OUT
+    DISPERSING DUST INTO AIR (VACUUM OR SWEEP).
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP MATERIAL AWAY FROM HEAT, SPARKS,
+    & OPEN FLAME. AVOID BREATHING DUST & VAPORS. PROVIDE ADEQUATE
+    VENTILATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED WHEN USED AS INTENDED.
+Ventilation:MECHANICAL/GENERAL: NORMAL OFFICE CONDITIONS
+Protective Gloves:NONE REQUIRED WHEN USED AS INTENDED
+Eye Protection:AS NECESSARY
+Other Protective Equipment:PROTECTIVE CLOTHING
+Work Hygienic Practices:WASH HANDS THOROUGHLY AFTER USING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Solubility in Water:INSOLUBLE
+Appearance and Odor:SOLID, ODORLESS
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACID, AMMONIA GAS & MERCURY VAPOR.
+Stability Condition to Avoid:HIGH TEMPERATURES, HEAT, SPARKS, OPEN
+    FLAMES, OR OTHER SOURCES OF IGNITION.
+Hazardous Decomposition Products:OXIDES OF SELENIUM ARSENIC &
+    TELLURIUM, HYDROGEN FLUORIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:LANDFILL IN ACCORDANCE W/LOCAL, STATE, & FEDERAL
+    REGULATIONS. DON'T INCINERATE OR DISPOSE IN SEWERS OR WATERWAYS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,148 @@
+=====================  Product Identification  =====================
+
+Product ID:FREON 502
+MSDS Date:06/01/1988
+FSC:6830
+NIIN:00-137-7970
+MSDS Number: BKYVT
+=== Responsible Party ===
+Company Name:E.I. DUPONT DE NEMOURS & COMPANY
+Address:C&P DEPT., CHESTNUT RUN-709
+City:WILMINGTON
+State:DE
+ZIP:19898
+Info Phone Num:(800) 441-9450
+Emergency Phone Num:(800) 441-3637
+Preparer's Name:K.P. BROWN
+CAGE:19898
+=== Contractor Identification ===
+Company Name:DU PONT E I  DE NEMOURS AND CO INC   PETROCHEMICALS DEPT
+Address:1251 BRANDYWINE BLDG
+Box:City:WILMINGTON
+State:DE
+ZIP:19898
+Phone:302-773-5676
+CAGE:73925
+Company Name:E.I. DUPONT DE NEMOURS & CO., INC.
+Box:1635
+CAGE:19898
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CHLOROPENTAFLUOROETHANE  (SARA III)
+CAS:76-15-3
+RTECS #:KH7877500
+Fraction by Wt: 51.2%
+Other REC Limits:1000 PPM
+OSHA PEL:1000 PPM
+ACGIH TLV:1000 PPM; 9192
+Ozone Depleting Chemical:1
+
+Ingred Name:CHLORODIFLUOROMETHANE
+CAS:75-45-6
+RTECS #:PA6390000
+Fraction by Wt: 48.8%
+Other REC Limits:1000 PPM
+OSHA PEL:1000 PPM
+ACGIH TLV:1000PPM; 9192
+Ozone Depleting Chemical:2
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN: FROSTBITE. INHALATION: HARMFUL,
+    HEART IRREGULARITIES, UNCONSCIOUSNESS, DEATH, FATAL, NAUSEA,
+    HEADACHE, WEKNESS, TEMPORARY NERVOUS SYSTEM DEPRESSION, ANAESTHETIC
+    EFFECTS, DIZZINESS/CONFUSION/INCO ORDINATION/LOSS OF
+    CONSCIOUSNESS/ALTERATION OF HEARTS ELECTRICAL ACTIVITY W/IRREGULAR
+    PULSE & CIRCULATION/PALPITATIONS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN: FROSTBITE. INHALATION: HARMFUL, HEART
+    IRREGULARITIES, UNCONSCIOUSNESS, DEATH, FATAL, NAUSEA, HEADACHE,
+    WEAKNESS, TEMPORARY NERVOUS SYSTEM DEPRESSION, ANAESTHETIC EFFECTS,
+    DIZZINESS/CONFUSION/INC OORDINATION/LOSS OF
+    CONSCIOUSNESS/ALTERNATION OF HEARTS ELECTRICAL ACTIVITY W/IRREGULAR
+    PULSE/CIRCULATION/PALPITATIONS.
+Medical Cond Aggravated by Exposure:DISEASES OF THE CARDIOVASCULAR
+    SYSTEM
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINS. SKIN:
+    CLEANS THOROUGHLY. INHALATION: REMOVE TO FRESH AIR. GIVE CPR OR
+    OXYGEN IF NEEDED. INGESTION: OBTAIN MEDICAL ATTENTION IN ALL CASES.
+    NOTE TO PH YSICIAN: BECAUSE OF POSSIBLE DISTURBANCES OF CARDIAC
+    RHYTHM, CATECHOLAMINE DRUGS, SUCH AS EPINEPHRINE, SHOULD BE USED
+    W/SPEICAL CAUTION ONLY IN SITUATIONS OF EMERGENCY LIFE SUPPORT.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:AS APPROPRIATE FOR COMBUSTIBLES IN AREA.
+Fire Fighting Procedures:SELF-CONTAINED BREATHING APPARATUS IS REQUIRED
+    IF CYLINDERS RUPTURE OR RELEASE UNDER FIRE CONDITIONS.
+Unusual Fire/Explosion Hazard:CYLINDERS ARE EQUIPPED W/TEMPERATURE &
+    PRESSURE RELIEF DEVICES BUT STILL MAY RUPTURE UNDER FIRE
+    CONDITIONS. AUTODECOMPOSITION TEMPERATURE: 1299F.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA--ESPECIALLY LOW PLACES WHERE
+    HEAVY VAPORS MIGHT COLLECT. REMOVE OPEN FLAMES. USE SELF-CONTAINED
+    BREATHING APPARATUS FOR LARGE SPILL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN CLEAN, DRY AREA. DON'T HEAT
+    >125F. AVOID BREATHING VAPORS & LIQUID CONTACT W/SKIN. USE IN
+    WELL-VENTILATED AREAS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:UNDER NORMAL MANUFACTURING CONDITIONS, NO
+    RESPIRATORY PROTECTION IS REQUIRED WHEN USING THIS PRODUCT.
+    SELF-CONTAINED BREATHING APPARATUS IS REQUIRED IF A SPILL OR
+    RELEASE OCCURS.
+Ventilation:LOCAL EXHAUST: WHEN LARGE AMOUNTS ARE RELEASED. MECHANICAL:
+    IN LOW PLACES.
+Protective Gloves:NEOPRENE RUBBER
+Eye Protection:CHEMICAL SPLASH GOGGLES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:-49.8F
+Vapor Pres:169
+Vapor Density:3.92
+Spec Gravity:1.22
+pH:7
+Evaporation Rate & Reference:(CCL4 = 1): >1
+Solubility in Water:0.15% BY WT.
+Appearance and Odor:COLORLESS, CLEAR LIQUEFIED GAS W/SLIGHT ETHEREAL
+    ODOR
+Percent Volatiles by Volume:100%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ALKALI, ALKALINE EARTH METALS, POWDERED ALUMINUM, ZINC, BERYLLIUM ,
+    ETC.
+Stability Condition to Avoid:OPEN FLAMES, HIGH TEMPERATURES
+Hazardous Decomposition Products:HYDROCHLORIC & HYDROFLUORIC ACIDS, &
+    CARBONYL HALIDES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. REMOVE TO A PERMITTED WASTE DISPOSAL FACILITY
+    OR RECLAIM BY DISTILLATION.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

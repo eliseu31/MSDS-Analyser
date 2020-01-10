@@ -1,0 +1,174 @@
+=====================  Product Identification  =====================
+
+Product ID:STAY SILV 15
+MSDS Date:04/01/1990
+FSC:3439
+NIIN:00-188-6982
+MSDS Number: BDHKW
+=== Responsible Party ===
+Company Name:HARRIS J W CO INC
+Address:10930 DEERFIELD RD
+City:CINCINNATI
+State:OH
+ZIP:45242-4110
+Country:US
+Info Phone Num:513-891-2000
+Emergency Phone Num:800-543-4536
+Preparer's Name:KURT CATHERMAN
+CAGE:JO820
+=== Contractor Identification ===
+Company Name:J. W. HARRIS CO., INC
+Address:10930 DEERFIELD RD
+Box:City:CINCINNATI
+State:OH
+ZIP:45242-4110
+Country:US
+Phone:513-891-2000
+CAGE:JO820
+Company Name:J. W. HARRIS CO., INC.
+Address:10930 DEERFIELD ROAD
+Box:City:CINCINNATI
+State:OH
+ZIP:45242-4110
+Country:US
+Phone:513-891-2000
+CAGE:27911
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SILVER  (SARA III)
+CAS:7440-22-4
+RTECS #:VW3500000
+Fraction by Wt: 15%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:0.01 MG/M3
+ACGIH TLV:0.1 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:COPPER  (SARA III)
+CAS:7440-50-8
+RTECS #:GL5325000
+Fraction by Wt: 80.0%
+OSHA PEL:0.1MG/M3 FUME/1 DUST
+ACGIH TLV:0.2MG/M3 FUME; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:PHOSPHOROUS (YELLOW)  (SARA III)
+CAS:7723-14-0
+RTECS #:TH3500000
+Fraction by Wt: 5.0%
+OSHA PEL:0.1 MG/M3
+ACGIH TLV:0.1 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:UNCLASSIFIED BRAZING FUMES=5MG/M3 PEL
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EXPOSURE TO BRAZING FUMES OR GASES MAY
+    CAUSE METAL FUME FEVER. SYMPTOMS INCLUDE NAUSEA, FEVER, DRYNESS OR
+    IRRITATION OF THE THROAT, COUGHING, BODY ACHE AND CHILLS. LONG TERM
+    EXPOSURE TO BRAZING FUMES,	GASES OR DUST MAY CONTRIBUTE TO
+    PULMONARY IRRITATION OR PNEUMOCONIOSIS. USE OF FLUORIDE FLUX FUMES
+    ARE ALSO HAZARDOUS.
+Explanation of Carcinogenicity:NONE OF THE INGREDIENTS IN THIS ALLOY
+    ARE CONSIDERED CARCINOGINIC BY NTP, IARC OR OSHA.
+Effects of Overexposure:COPPER AND ZINC FUME MAY CAUSE METAL FUME
+    FEVER. SHORT TERM SYMPTOMS MAY INCLUDE A METALLIC TASTE IN THE
+    MOUTH, DRYNESS OR IRRITATIONS OF THE THROAT FOLLOWED BY COUGHING,
+    SHORTNESS OF BREATH, NAUSEA,  FEVER, BODY ACHE, AND CHILLS. LONG
+    TERMEXPOSURE TO WELDING FUME, GASES OR DUST MAY CONTRIBUTE TO
+    PULMONARY IRRITATION.
+Medical Cond Aggravated by Exposure:INDIVIDUALS WITH IMPAIRED PULMONARY
+    FUNCTIONS OR ILLNESS MAY HAVE SYMPTOMS EXACERBATED BY FUME
+    IRRITATIONS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:REMOVE FROM DUST OR FUME EXPOSURE. IF BREATHING HAS STOPPED,
+    PERFORM ARTIFICIAL RESPIRATION. GET MEDICAL ATTENTION IMMEDIATELY.
+    BRAZING ALLOYS ARE FREQUENTLY USED WITH A FLUORIDE TYPE FLUX. IF
+    APPLICA BLE, FLUX FUME SHOULD BE CONSIDERED IN TREATMENT.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Autoignition Temp:Autoignition Temp Text:NONE
+Fire Fighting Procedures:NONE SPECIFIED BY MANUFACTURER.
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CLEAN UP ANY GRINDING DUST OR WASTE RESIDUES
+    AND PLACE IN SUITABLE DOT APPROVED CONTAINERS AND DISPOSE OF IN
+    FULL COMPLIANCE WITH FEDERAL, STATE AND LOCAL REGULATIONS. AVOID
+    INHALATION AND SKIN EXPOSU RE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:WEAR GLOVES AND FLAME RETARDANT
+    CLOTHING WHEN CUTTING, GRINDING OR BRAZING.
+Other Precautions:PROVIDE PROTECTIVE SCREENS TO SHIELD OTHERS. WHEN
+    ELECTRODES AND FLUXES ARE CONSUMED, THE FUME AND GAS DECOMPOSITION
+    PRODUCTS GENERATED ARE DIFFERENT IN FORM FROM THE INGREDIENTS
+    LISTED. NEW COMPOUNDS  NOT IN THE ELECTRODES MAY FORM.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE WELD FUME RESPIRATOR OR AIR SUPPLIED
+    RESPIRATOR WHEN CUTTING, GRINDING OR BRAZING IN A CONFINED SPACE OR
+    WHERE LOCAL EXHAUST OR GENERAL VENTILATION DOES NOT KEEP EXPOSURE
+    BELOW RECOMMENDED LIMITS.  USE ONLY NIOSH APPROVED RESPIRATORS.
+Ventilation:USE ENOUGH VENTILATION WHEN CUTTING, GRINDING OR BRAZING TO
+    KEEP THE DUST, FUMES & GASES FROM THE WORKERS BREATHING ZONE
+Protective Gloves:WELDERS LEATHER GLOVES
+Eye Protection:OSHA APPROVED GOGGLES/FACE SHIELD W/LENS
+Other Protective Equipment:DARK FLAME RETARDANT CLOTHING WHEN CUTTING,
+    GRINDING OR BRAZING INCLUDING ARM & SHOULDER PROTECTORS, APRON, AND
+    HAT.
+Work Hygienic Practices:WASH THOROUGHLY BEFORE EATING, DRINKING OR
+    SMOKING. LAUNDER CONTAMINATIED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+BRAZING FUMES & GASES CANNOT BE CLASSIFIED SIMPLY. THEIR COMPOSITION
+    AND QUANTITY ARE DEPENDENT ON THE METAL BEING WELDED, THE
+    PROCEDURES, PROCESSES AND THE TYPE OF WIRE OR ELECTRODES USED.
+    OTHER INFL UENCING FACTORS ARE THE PRESENCE OF CONTAMINANTS.
+    CHLORINATED SOLVENTS AND FLUORIDE FLUXES MAY DECOMPOSE TO TOXIC
+    GASES.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Vapor Pres:0
+Vapor Density:0
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:RECTANGULAR COPPER BRAZING ROD 0.05 X 0.125 X 18
+    INCHES LONG. NO ODOR
+Percent Volatiles by Volume:0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:BRAZING FUMES AND GASES CANNOT BE
+    CLASSIFIED SIMPLY. THE DECOMPOSITON PRODUCTS ARE DIFFERENT FROM THE
+    ROD INGREDIENTS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH FEDERAL, STATE &
+    LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

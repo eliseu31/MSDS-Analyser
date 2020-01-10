@@ -1,0 +1,101 @@
+=====================  Product Identification  =====================
+
+Product ID:724B
+MSDS Date:01/01/1985
+FSC:5960
+NIIN:00-193-5125
+MSDS Number: BDHYZ
+=== Responsible Party ===
+Company Name:VARIAN ASSOCIATES,BEVERLY DIV
+Address:8 SALEM ROAD
+City:BEVERLY
+State:MA
+ZIP:01915-1018
+Country:US
+Info Phone Num:506-922-6000   EXT.285
+Emergency Phone Num:508-922-6000  EXT.285
+CAGE:88236
+=== Contractor Identification ===
+Company Name:COMMUNICATIONS AND POWER INDUSTRIES INC
+Address:150 SOHIER RD
+City:BEVERLY
+State:MA
+ZIP:01915-5595
+Country:US
+Phone:978-922-6000  EXT.285
+CAGE:88236
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:COBALT  (SARA III)
+CAS:7440-48-4
+RTECS #:GF8750000
+OSHA PEL:0.1 MG/M3;AS CO
+ACGIH TLV:0.05 MG/M3;DUST 9293
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:HAZ DEGREE DEPENDS ON TYPE/QUANT  OF RADIATION.
+    LATENT EFFECTS:SOMATIC/GENETIC DAMAGE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:USE FIRST AID. CALL MEDICAL EMERGENCY CARE. REMOVE/ISOLATE
+    COMTAMINATED CLOTHING.SHOWER VICTIM(S) W. SOAP & H*2O. DETAIN
+    PERSONNEL/EQUIPMENT EXPOSED. ADVISE MEDICAL PERSONNEL THAT
+    VICTIM(S) MAY BE CON TAMINATED.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:EXTINQUISH W. AGENT SUITABLE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:WEAR CHEMICAL PROTECTIVE SUIT WITH SELF CONTD
+    BRTHG APP.
+Unusual Fire/Explosion Hazard:SOME OF MATL MAY BURN. CONT MAY EXPLODE
+    IN HEAT OF FIRE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:HANDLE BROKEN DEVICE WITH GLOVES AND FORCEPS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:SHIELD ACCORDING TO EMITTED RADIATION.
+    PROTECT FROM FILM/FILM PLATES. KEEP CONTAINERS CLOSED. STORE IN
+    AREA FOR RADIOACTIVE MATERIALS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:SCBA IF INVOLVED IN FIRE, OTHERWISE GAS MASK.
+Ventilation:PROVIDE MECHAN(GEN/LOCAL EXHAUST)VENT TO MAINTN <TLV
+Protective Gloves:IMPERVIOUS
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:EYE WASH STATION. APRONS. SPECIAL IMPERVIOUS
+    CLOTHING.
+Supplemental Safety and Health
+SOURCE OF DATA-MIL HANDBOOK 600-1 SEP 76.SAFETY & HEALTH DATA DEVELOPED
+    BY DGSC-STF.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:A3
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ISOLATE,SEGREGATE FROM MOST OTHER TYPE MATERIAL
+Hazardous Decomposition Products:DEPENDS ON CHEMICAL COMPOSITION;
+    FISSION PRODUCTS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTROLLED DISPOSAL REQUIRED-IN ACCORDANCE WITH
+    DOD REGULATIONS AND FEDERAL,STATE & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,114 @@
+=====================  Product Identification  =====================
+
+Product ID:STAMPEDE - TRADE NO. 8908
+MSDS Date:12/13/1990
+FSC:7930
+NIIN:01-183-9562
+MSDS Number: BJDVK
+=== Responsible Party ===
+Company Name:INTEX CHEMICAL INC
+Address:122 EDINBURG CT
+Box:6648
+City:GREENVILLE
+State:SC
+ZIP:29606-6648
+Country:US
+Info Phone Num:803-242-6152
+Emergency Phone Num:800-424-9300
+CAGE:78304
+=== Contractor Identification ===
+Company Name:INTEX CHEMICAL INC
+Address:122 EDINBURG CT
+Box:6648
+City:GREENVILLE
+State:SC
+ZIP:29606-6648
+Country:US
+Phone:803-879-7100 OR 803-297-4246
+CAGE:78304
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:FORMALDEHYDE  (SARA III)
+CAS:50-00-0
+RTECS #:LP8925000
+Fraction by Wt: <0.5%
+OSHA PEL:SEE 1910.1048
+ACGIH TLV:C 0.3 PPM; A2; 9293
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MAY BE IRRITATING TO THE EYES.
+Explanation of Carcinogenicity:PER MANUFACTURER.
+Effects of Overexposure:MAY BE IRRITATING TO THE EYES.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE & SKIN: FLUSH W/WATER 15 MIN. WASH SKIN W/SOAP AND WATER.
+    GET MD IMMEDIATELY. INHAL: REMOVE TO FRESH AIR.INGEST: DO NOT
+    INDUCE VOMITING. GIVE LARGE AMOUNTS OF WATER OR MILK. IF VOMITING
+    SHOULD OCC UR, KEEP AIRWAYS CLEAR. GET MD IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:COLLECT SPILL W/ABSORBENT MATERIAL, DRUM FOR
+    LANDFILL. FLUSH RESIDUE W/WATER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:MOVE W/BUNGS IN PLACE. WEAR EYE
+    PROTECTION AND GLOVES.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED
+Ventilation:LOCAL
+Protective Gloves:RUBBER, OPTIONAL
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:USE SAFE HANDLING PROCEDURES
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:220F,104C
+Spec Gravity:1.01
+Evaporation Rate & Reference:1 (WATER = 1)
+Solubility in Water:COMPLETE
+Appearance and Odor:OPAQUE WHITE LIQUID.
+Percent Volatiles by Volume:82
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:NONE KNOWN
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN APPROVED CHEMICAL WASTE LANDFILL
+    OR INCINERATE I/A/W PROPER AUTHORITIES.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,115 @@
+=====================  Product Identification  =====================
+
+Product ID:ALT REAGENT (IFCC)
+MSDS Date:06/19/1989
+FSC:6550
+NIIN:01-249-9777
+MSDS Number: BKYWN
+=== Responsible Party ===
+Company Name:CIBA CORNING DIAGNOSTIC CORP.
+Address:132 ARTINO STREET
+City:OBERLINE
+State:OH
+ZIP:44074
+Info Phone Num:(216) 774-1041
+Emergency Phone Num:(216) 774-1041
+CAGE:24143
+=== Contractor Identification ===
+Company Name:CIBA CORNING DIAGNOSTICS CORP GILFORD SYSTEMS
+Address:132 ARTINO ST
+Box:City:OBERLIN
+State:OH
+ZIP:44074-1206
+Country:US
+Phone:216-774--1041
+CAGE:24143
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM AZIDE  (SARA III)
+CAS:26628-22-8
+RTECS #:VY8050000
+Fraction by Wt: 1.5%
+Other REC Limits:0.1 PPM
+OSHA PEL:S, C 0.1 PPM(HN3)
+ACGIH TLV:C 0.11 PPM; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL RATS LD50: 27 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION. INHALATION:
+    RESPIRATORY PASSAGES. INGESTION: HARMFUL. SKIN: IRRITATION,
+    ABSORPTION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: IRRITATION. INHALATION: RESPIRATORY
+    PASSAGES. INGESTION: HARMFUL. SKIN: IRRITATION, ABSORPTION. SODIUM
+    AZIDE MAY ALTER GENETIC MATERIAL.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH AREA W/WATER FOR 15 MINS. INHALATION: REMOVE TO
+    FRESH AIR. INGESTION: INDUCE VOMITING, ONLY IF CONSCIOUS. OBTAIN
+    MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:FOR DRY, UNRECONSTITUTED POWDER, USE FIRE
+    EXTINGUISHER FOR DRY CHEMICAL.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS & FULL
+    PROTECTIVE CLOTHING.
+Unusual Fire/Explosion Hazard:PURE SODIUM AZIDE IS EXPLOSIVE WHEN
+    HEATED. SODIUM AZIDE MAY REACT W/LEAD OR COPPER PLUMBING TO FORM
+    HIGHLY EXPLOSIVE METAL AZIDES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR DUST MASK, PROTECTIVE CLOTHING & GLOVES.
+    CAREFULLY SWEEP UP DRY & HOLD FOR WASTE DISPOSAL. THEN FLUSH
+    AFFECTED AREA W/WATER. VENTILATED AFFECTED AREA.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AT TEMPERATURE LISTED IN PACKAGE
+    INSERT (2-8C). AVOID CONTACT W/SKIN, EYES, INHALATION, & INGESTION.
+Other Precautions:FOLLOW GOOD LABORATORY PRACTICES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:DUST MASK REQUIRED WHEN WORKING W/BULK
+    QUANTITIES OF THIS DRY, UNRECONSTITUTED POWDER.
+Ventilation:MECHANICAL/LOCAL EXHAUST: RECOMMENDED
+Protective Gloves:LATEX
+Eye Protection:GOGGLES W/EYE SHIELDS
+Other Protective Equipment:EYEBATH, PROTECTIVE CLOTHING
+Work Hygienic Practices:FOLLOW GOOD LABORATORY PRACTICES.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Solubility in Water:COMPLETE
+Appearance and Odor:WHITE POWDER
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, STRONG ACIDS, HEAVY METALS.
+Stability Condition to Avoid:HEAT
+Hazardous Decomposition Products:NITROGEN OXIDES, SODIUM AZIDE CAN EMIT
+    TOXIC FUMES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:FOLLOW FEDERAL, STATE, & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

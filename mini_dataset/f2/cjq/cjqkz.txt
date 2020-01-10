@@ -1,0 +1,169 @@
+=====================  Product Identification  =====================
+
+Product ID:SEAPLAQUE, 39346-81-1
+MSDS Date:05/01/1994
+FSC:6810
+NIIN:00N092130
+Status Code:A
+MSDS Number: CJQKZ
+=== Responsible Party ===
+Company Name:FMC CORP
+Address:191 THOMASTON ST
+City:ROCKLAND
+State:ME
+ZIP:04862
+Country:US
+Info Phone Num:207-594-3400; 800-521-0390
+Emergency Phone Num:303-595-9048
+CAGE:61382
+=== Contractor Identification ===
+Company Name:FMC CORPORATION
+Address:191 THOMASTON STREET
+Box:City:ROCKLAND
+State:ME
+ZIP:04841
+Country:US
+Phone:800-521-0390; 207-594-3400
+CAGE:61382
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HYDROXYETHYL (DERIVATIZED) AGAROSE
+CAS:39346-81-1
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50: (ORAL, RAT) >5000 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MAY IRRITATE EYES. ALSO, SEE
+    TOXICOLOGICAL INFORMATION.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER. GET MEDICAL ATTENTION IF
+    IRRITATION OCCURS AND PERSISTS. SKIN: WASH WITH PLENTY OF SOAP AND
+    WATER. GET MEDICAL ATTENTION IF IRRITATION OCCURS AND PERSISTS.
+    INHAL: REMOVE  TO FRESH AIR. IF BREATHING DIFFICULTY OR DISCOMFORT
+    OCCURS AND PERSISTS, OBTAIN MEDICAL ATTENTION. INGESTION: DRINK
+    PLENTY OF WATER. NEVER GIVE ANYTHING BY MOUTH TO AN UNCONSCIOUS
+    PERSON. IF ANY DISC OMFORT PERSISTS, OBTAIN MEDICAL ATTENTION. NOTE
+    TO MD: HYDROXYETHYL AGAROSE HAS LOW ORAL TOXICITY AND MAY BE
+    MINIMALLY IRRITATING TO EYES. TREATMENT IS CONTROLLED REMOVAL OF
+    EXPOSURE FOLLOWED BY SYMPT OMATIC AND SUPPORTIVE CARE.
+
+=====================  Fire Fighting Measures  =====================
+
+Lower Limits:SUPDAT
+Upper Limits:SUPDAT
+Extinguishing Media:WATER, CARBON DIOXIDE OR DRY CHEMICAL.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:FINE, AIRBORNE ORGANIC DUSTS AT OR ABOVE
+    LEL VALUE (0.40 OZ/CU FT) HAVE EXPLOSIVE POTENTIAL IN PRESENCE OF
+    IGNITION SOURCE. BURNING MAY PRODUCE CARBON MONOXIDE AND/OR CARBON
+    DIOXIDE. EXPLOSIVE PROPERT IES: NOT APPLICABLE. OXIDIZING
+    PROPERTIES: NOT OXIDIZING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP POWDER. COLLECT AND PLACE IN SOLID
+    TRASH. DISPOSE OF IN SOLID TRASH IN ACCORDANCE WITH APPROPRIATE
+    LOCAL STATE/PROVINCIAL AND FEDERAL/NATIONAL REGULATIONS FOR INERT,
+    NUISANCE WASTE MATERIAL.  AVOID CONTACT WITH SKIN AND EYES.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL-VENTILATED
+    PLACE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED. USE NIOSH APPROVED RESPIRATOR
+    APPROPRIATE FOR EXPOSURE OF CONCERN .
+Ventilation:N/P. EXPOSURE LIMITS: NONE.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:ANSI APPROVED EYE WASH AND DELUGE SHOWER .
+    SPECIAL CLOTHING AND EQUIPMENT: NOT REQUIRED.
+Work Hygienic Practices:NOTE: AGAROSE IS GENERALLY USED AFTER
+    DISSOLUTION BY BOILING. SAFETY PRECAUTIONS FOR THIS STEP ARE
+    AVAILABLE FROM FMC UPON REQUEST.
+Supplemental Safety and Health
+FLAMMABLE LIMITS IN AIR: DUST LAYER 205C, LEL: 0.40 OZ/CU FT/0.36KG/M3;
+    DUST CLOUD 440C, LEL: 0.40 OZ/CU FT. PHYSICAL DATA: FAT SOLUBILITY:
+    NO DATA AVAILABLE. MOLECULAR WEIGHT: >50,000. PARTITION COEF
+    FICIENT: NO DATA AVAILABLE.
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:1.49
+Solubility in Water:10% W/DFCLTY ON HEATING
+Appearance and Odor:WHITE, AMORPHOUS POWDER; NO ODOR.
+Percent Volatiles by Volume:<10 H*2O
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CONTACT WITH STRONG OXIDANTS AND ACIDS.
+Hazardous Decomposition Products:WILL NOT OCCUR.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:SKIN CONTACT: NO DATA AVAILABLE. SKIN
+    ABSORPTION: NO DATA AVAILABLE. INHALATION: NO DATA AVAILABLE.
+    INGESTION: LD50 >5000 MG/KG (RAT), FMC STUDY, 1986. EYE CONTACT:
+    MINIMALLY IRRITATING (RABBIT); FMC	STUDY, 1986. ACUTE EFFECTS FROM
+    OVEREXPOSURE: THIS MATERIAL IS EXPECTED TO HAVE LOW ORAL TOXICITY
+    AND MAY BE IRRITATING TO THE EYES. A RELATED MATERIAL, AGAR, IS
+    GENERALLY RECOGNIZED AS SAFE (GRAS) BY  THE US FOOD AND DRUG
+    ADMINISTRATION. CHRONIC EFFECTS FROM OVEREXPOSURE: NO DATA
+    AVAILABLE FOR THE FORMULATION. AGAR, A RELATED MATERIAL, WAS
+    NEGATIVE IN A NTP CARCINOGENISIS RODENT BIOASSAY.
+
+=====================  Ecological Information  =====================
+
+Ecological:ENVIRONMENTAL FATE: NO DATA AVAILABLE. ENVIRONMENTAL
+    EFFECTS: NO DATA AVAILABLE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF POWDER OR GEL IN SOLID TRASH. DISPOSE
+    OF SOLID TRASH IN ACCORDANCE WITH APPROPRIATE LOCAL,
+    STATE/PROVINCIAL AND FEDERAL/NATIONAL REGULATIONS FOR INERT,
+    NUISANCE WASTE MATERIAL.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:US DOT: NOT LISTED IN TITLE 49 OF THE US CODE OF
+    FEDERAL REGULATIONS AS A HAZARDOUS MATERIAL. UN: NOT APPLICABLE.
+    MARPOL DESIGNATION: NONE. CANADA (TDG): NOT APPLICABLE.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:US SARA TITLE III: NOT LISTED. SECTION
+    311/312: NOT LISTED. SECTION 313 (40 CFR 372): NOT LISTED.
+Federal Regulatory Information:THIS DOCUMENT HAS BEEN PREPARED TO MEET
+    THE REQUIREMENTS OF THE US OSHA HAZARD COMMUNICATION STANDARD, 29
+    CFR 1910.1200; THE EEC DIRECTIVE, 91/155/33C AND OTHER REGULATORY
+    REQUIREMENTS. US TSCA INVENT ORY: LISTED. CANADA WHMIS: NOT A
+    CONTROLLED PRODUCT UNDER THE CANADIAN WORKPLACE HAZARDOUS MATERIALS
+    INFORMATION SYSTEM (WHMIS). EEC FINECS NO: NONE. EEC RISK PHRASES:
+    NOT CLASSIFIED AS DANGEROUS. EEC  SYMBOLS: NOT CLASSIFIED AS
+    DANGEROUS. EEC SAFETY ADVISE PHRASES: NOT CLASSIFIED AS DANGEROUS.
+    ADDIT IONAL REGULATORY INFORMATION: NONE.
+State Regulatory Information:CALIFORNIA PROPOSITION 65: THIS PRODUCT
+    DOES NOT CONTAIN ANY CHEMICALS CURRENTLY ON THE CALIFORNIA LIST OF
+    KNOWN CARCINOGENS AND REPRODUCTIVE TOXINS.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

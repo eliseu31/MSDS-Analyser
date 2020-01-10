@@ -1,0 +1,149 @@
+=====================  Product Identification  =====================
+
+Product ID:190 0463,EA-5 FIRST DEVELOPER, PART A
+MSDS Date:02/21/1990
+FSC:6750
+NIIN:00D002607
+Kit Part:Y
+MSDS Number: BHWYP
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-722-5151
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM SULFITE
+CAS:7757-83-7
+RTECS #:WE2150000
+Fraction by Wt: 50-60%
+
+Ingred Name:SODIUM CARBONATE
+CAS:497-19-8
+RTECS #:VZ4050000
+Fraction by Wt: 30-35%
+
+Ingred Name:HYDROQUINONE  (SARA III)
+CAS:123-31-9
+RTECS #:MX3500000
+Fraction by Wt: 07.0%
+OSHA PEL:2 MG/M3
+ACGIH TLV:2 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:SODIUM BICARBONATE
+CAS:144-55-8
+RTECS #:VZ0950000
+Fraction by Wt: 1-5%
+
+Ingred Name:SODIUM PHOSPHATE, TRIBASIC	(SARA III)
+CAS:10124-56-8
+RTECS #:OY3675000
+Fraction by Wt: 1-5%
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MAY CAUSE SKIN AND EYES IRRITATION.
+Effects of Overexposure:INHALATION:HIGH DUST CONCENTRATION IN THE AIR
+    MAY CAUSE UPPER RESPIRATORY TRACT IRRITATION; EYES:CONTACT WITH
+    DUST OR POWDER MAY CAUSE IRRITATION. SKIN:PROLONGED OR REPEATED
+    SKIN CONTACT MAY CAUSE SKI N IRRITATION. MAY CAUSE ALLERGIC SKIN
+    REACTION; INGESTION: HARMFUL IF SWALLOWED.
+Medical Cond Aggravated by Exposure:NOT LISTED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION:REMOVE FROM EXPOSURE, TREAT SYMPTOMATICALLY;
+    EYES/SKIN:FLUSH WITH LARGE AMOUNTS OF WATER FOR AT LEAST 15
+    MINUTES. GET MEDICAL ASSISTANCE IF EYE IRRITATION PERSISTS OR
+    ALLERGIC SKIN REACTION  DEVELOPS; INGESTION:IF SWALLOWED, INDUCE
+    VOMITING IMMEDIATELY AS DIRECTED BY MEDICAL PERSONNEL. CALL A
+    PHYSICIAN OR POISON CONTROL CENTER IMMEDIATELY. NEVER GIVE ANYTHING
+    BY MOUTH TO A UNCONSCIOUS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE APPROPRIATE AGENT FOR SURROUNDING FIRE.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS AND
+    PROTECTIVE CLOTHING.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP POWDER WITHOUT CREATING DUST OR
+    VACUUM UP. FLUSH RESIDUAL MATERIAL TO AN ACID-FREE SEWER WITH LARGE
+    AMOUNTS OF WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DRY,WELL VENTILATED
+    AREA. PROTECT FROM PHYSICAL DAMAGE.AVOID ANY PHYSICAL CONTACT. KEEP
+    CONTAINERS TIGHTLY CLOSED
+Other Precautions:KEEP CONTAINERS AWAY FROM STRONG ACIDS.AVOID CONTACT
+    W/SKIN & EYES.AVOID BREATHING DUST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AN APPROPRIATE NIOSH-APPROVED RESPIRATOR FOR
+    DUST SHOULD BE WORN IF NEEDED.
+Ventilation:GOOD GENERAL VENTILATION IS SUFFICIENT.
+Protective Gloves:IMPERVIOUS
+Eye Protection:SAFETY GLASSES WITH SIDESHIELD OR GOGGLS
+Other Protective Equipment:NORMAL WORK CLOTHING COVERING ARMS & LEGS.
+Work Hygienic Practices:THE ROUTINE USE OF A NON-ALKALINE (ACID)TYPE OF
+    SKIN CLEANSER & REGULAR CLEANING OF WORKING SURFACE WILL REDUCE
+    REACTION
+Supplemental Safety and Health
+THIS IS PART-A OF THREE PART KIT. MIXTURE NUMBER:4457; KEY1:N1
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Spec Gravity:>1.0
+Solubility in Water:APPRECIABLE
+Appearance and Odor:WHITE TO CREAM COLORED POWDER;ODORLESS
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG MINERAL ACIDS
+Stability Condition to Avoid:NO INFORMATION FOUND
+Hazardous Decomposition Products:OXIDES OF CARBON & SULFUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:FOLLOW FEDERAL,STATE & LOCAL LAWS. THIS CHEMICAL
+    FORMULATION HAS A MODERATE BIOLOGICAL OXYGEN DEMAND, & IT IS
+    EXPECTED TO CAUSE SOME OXYGEN DEPLETION IN AQUATIC SYSTEMS. IT IS
+    EXPECTED TO HAVE A HIGH  POTENTIAL TO AFFECT AQUATIC SYSTEMS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

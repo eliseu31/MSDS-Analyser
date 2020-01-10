@@ -1,0 +1,125 @@
+=====================  Product Identification  =====================
+
+Product ID:ISOBUTYLENE SPAN GAS, SEE SUPP DATA
+MSDS Date:12/08/1987
+FSC:6665
+NIIN:01-214-8247
+MSDS Number: BJDVR
+=== Responsible Party ===
+Company Name:HNU SYSTEMS INC
+Address:160 CHARLEMONT ST
+City:NEWTON HIGHLANDS
+State:MA
+ZIP:02161
+Country:US
+Info Phone Num:617/964-6690
+Emergency Phone Num:800/841-4357
+CAGE:57631
+=== Contractor Identification ===
+Company Name:HNU SYSTEMS INC
+Address:160 CHARLEMONT ST
+Box:City:NEWTON HIGHLANDS
+State:MA
+ZIP:02161
+Country:US
+Phone:617/964-6690
+CAGE:57631
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOBUTYLENE
+CAS:115-11-7
+RTECS #:UD0890000
+Fraction by Wt: 0.01%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ISOBUTYLENE IS A SIMPLE ASPHYXIANT;
+    MODERATE CONCENTRATION IN AIR CAUSE UNCONSCIOUSNESS. CONTACT
+    W/LIQUID CAUSES FROSTBITE.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:IF BREATHED, REMOVE INDIVIDUAL TO FRESH AIR. IF BREATHING IS
+    DIFFICULT, ADMINISTER OXYGEN. IF BREATHING HAS STOPPED, GIVE
+    ARTIFICIAL RESPIRATION. KEEP PERSON WARM, QUIET; GET MEDICAL
+    ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:-76 C OR -105 F
+Lower Limits:1.8%
+Upper Limits:9.6%
+Extinguishing Media:CO2 OR DRY CHEMICAL
+Fire Fighting Procedures:STOP FLOW OF ISOBUTYLENE IF POSSIBLE. USE
+    WATER SPRAY TO COOL SURROUNDING CONTAINERS.
+Unusual Fire/Explosion Hazard:ISOBUTYLENE IS HEAVIER THAN AIR MAY
+    TRAVEL CONSIDERABLE DISTANCE TO SOURCE OF IGNITION. SHOULD FLAME BE
+    EXTINGUISHED AND FLOW OF GAS CONTINUE SEE SUPP DATA.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NONE SPECIFIED BY MANUFACTURER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM HEAT AND PROTECT
+    CYLINDERS FROM PHYSICAL DAMAGE.
+Other Precautions:DO NOT PUNCTURE CYLINDER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:POSITIVE PRESSURE AIR LINE OR SCBA FOR EMERGENCY
+    USE.
+Ventilation:HOOD W/FORCED VENTILATION TO PREVENT ACCUMULATION ABOVE
+    LEL.
+Protective Gloves:PLASTIC OR RUBBER.
+Eye Protection:SAFETY GOGGLES OR GLASSES.
+Other Protective Equipment:SAFETY SHOES, SAFETY SHOWER, EYEWASH
+    FOUNTAIN.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+MFR PART NO, TRADE NAME:CALIBRATION GAS 101- 350-N, DC102573.EXPLO
+    HAZ:INCREASE VENTILATION TO PREVENT FORMATION OF FLAMMABLE MIXTURE
+    IN LOW AREAS/POCKETS. NOTE:DATA GIVEN FOR PURE ISOBUTLENE. CYLINDE
+    R OF HNU SPAN GAS/ISOBUTYLENE CALIBRATION GAS CONTAINS 100 PPM IN
+    ZERO AIR OR 0.01% ISOBUTYLENE IN AIR.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:19.6F,-6.9C
+Melt/Freeze Pt:M.P/F.P Text:-221F,-140C
+Vapor Pres:@20C 24SIG
+Vapor Density:1.95
+Spec Gravity:0.59
+Solubility in Water:UNAVAILABLE
+Appearance and Odor:CLEAR UNPLEASANT ODOR SIMILAR TO COAL GAS
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZERS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE I/A/W FED, STATE AND LOCAL
+    REGULATIONS. 
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

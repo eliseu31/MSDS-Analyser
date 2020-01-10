@@ -1,0 +1,131 @@
+=====================  Product Identification  =====================
+
+Product ID:MIL-L-46152 MOTOR OIL (15/40)
+MSDS Date:05/22/1987
+FSC:9150
+NIIN:00-186-6706
+MSDS Number: BDHDY
+=== Responsible Party ===
+Company Name:BATTENFELD GREASE & OIL CORP OF NEW YORK,INC.
+Address:1174 ERIE AVE
+Box:728
+City:NORTH TONAWANDA
+State:NY
+ZIP:14120-3036
+Emergency Phone Num:(716)695-2100
+CAGE:EO110
+=== Contractor Identification ===
+Company Name:BATTENFELD GREASE AND OIL CORP OF NEW YORK INC
+Address:1174 ERIE AVE
+Box:728
+City:NORTH TONAWANDA
+State:NY
+ZIP:14120-3036
+Country:US
+Phone:716-695-2100
+CAGE:60226
+Company Name:BATTENFELD GREASE AND OIL CORP OF NEW YORK INC
+Address:1174 ERIE AVE
+Box:728
+City:NORTH TONAWANDA
+State:NY
+ZIP:14120-3036
+Country:US
+Phone:716-695-2100
+CAGE:EO110
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MINERAL OIL
+CAS:64742-65-0
+RTECS #:PY8038500
+Fraction by Wt: 50%
+OSHA PEL:5 MG/CUM
+ACGIH TLV:5 MG/CUM
+
+Ingred Name:MINERAL OIL
+CAS:72623-83-7
+Fraction by Wt: 43.4%
+OSHA PEL:5 MG/CUM
+ACGIH TLV:5 MG/CUM
+
+Ingred Name:LUBRIZOL 7574
+Fraction by Wt: 6.6%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Health Hazards Acute and Chronic:THIS PRODUCT HAS BEEN USED FOR YEARS
+    WITH NO ILL EFFECTS STATED BY MFG.
+Effects of Overexposure:EYES/SKIN:MILD (TRANSIENT) IRRITANT
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:WASH W.SOAP & H*2O. EYES:FLUSH W. H*2O. INGESTED:DON'T
+    INDUCE VOMITING. INHALED:REMOVE TO FRESH AIR. GIVE CPR/OXYGEN IF
+    NEED. KEEP WARM & QUIET. REMOVE CONTAMINATED CLOTHING. NEVER GIVE
+    ANYTHING  BY MOUTH TO UNCONSCIOUS PERSON.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:400F/205C (COC)
+Extinguishing Media:CO*2, FOAM, DRY CHEM & H*2O FOG.
+Fire Fighting Procedures:WEAR SELF-CNTD BRTHG,APP H*20 SPRAY TO COOL
+    CONTR.
+Unusual Fire/Explosion Hazard:NONE NOTED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE IGNITION SOURCES. STOP LEAK.
+    EVACUATE AREA.DO NOT TOUCH SPILLAGE. SM SPILL:ABSORB W. INERT
+    ABSORBENT. PLACE IN CLOSED CONTAINER. FLUSH AREA W. WATER. LG
+    SPILL: DIKE AHEAD FOR LATER DISPOSAL.  NOTIFY AUTHORITIES.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DRY,WELL VENTILATED
+    AREA. PROTECT FROM PHYSICAL DAMAGE.AVOID ANY PHYSICAL CONTACT. KEEP
+    CONTAINERS TIGHTLY CLOSED
+Other Precautions:AVOID SKIN CONTACT.DO NOT BREATHE MIST.PREVENT FROM
+    CONTAMINATING CLOTHES.WASH THOROUGHLY AFTER HANDLING.KEEP AWAY FM
+    SPARKS & OPEN FLAME.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SHOULD BE NEEDED
+Ventilation:NO SPECIAL REQUIREMENTS W ADEQUATE VENT.
+Protective Gloves:POLYETHYLENE
+Eye Protection:GOGGLES/FACE SHIELD
+Other Protective Equipment:NORMAL WORK CLOTHING COVERING ARMS & LEGS.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:700F/371C
+Spec Gravity:0.88
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:FLUID OIL-BLAND
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:HEAT, IGNITION SOURCES
+Hazardous Decomposition Products:INCOMPLETELY BURNED CARBON PRODUCTS,
+    CO*2, CO.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE IN APPROVED INCINERATOR OR DISPOSE OF
+    IN APPROVED CHEMICAL DUMP IN ACCORDANCE WITH LOCAL,STATE & FEDERAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

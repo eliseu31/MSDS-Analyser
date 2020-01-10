@@ -1,0 +1,130 @@
+=====================  Product Identification  =====================
+
+Product ID:HALON 1011 A800500-10
+MSDS Date:05/13/1986
+FSC:4920
+NIIN:00-870-0582
+MSDS Number: BJDTG
+=== Responsible Party ===
+Company Name:KIDDE INC WALTER KIDDE DIV AEROSPACE OPNS
+Address:2500 AIRPORT DRIVE
+City:WILSON
+State:NC
+ZIP:27893-9604
+Country:US
+Info Phone Num:517-636-4400
+Emergency Phone Num:919-237-7004
+CAGE:61423
+=== Contractor Identification ===
+Company Name:KIDDE INC WALTER KIDDE DIV AEROSPACE OPNS
+Address:2500 AIRPORT DRIVE
+Box:City:WILSON
+State:NC
+ZIP:27893-9604
+Country:US
+Phone:252-237-7004
+CAGE:61423
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CHLOROBROMOMETHANE
+CAS:74-97-5
+RTECS #:PA5250000
+Fraction by Wt: 98.5%
+OSHA PEL:200 PPM
+ACGIH TLV:200PPM; 9192
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50(RATS):1-3 G/KG;LC50:2273 PPM,7HRS
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: LOW-SLIGHT TOXICITY. CHRONIC:
+    BROMOCHLOROMETHANE IS CHEMICALLY RELATED TO SUBSTANCES WHICH
+    PROMOTE SENSITIZATION OFTHE MYCARDIUM TO ADRENERGIC SUBSTANCES, AND
+    COULD THEORETICALLY PRECIPITATE A  FATAL CARDIAC ARRHYTHMIA. 
+    ADMINISTRATION OFEPINEPHRINE OR ITS CONGENERS SHOULD BE AS DIRECTED
+    BY A PHYSICIAN.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:LIGHT HEADEDNESS, GIDDINESS, DIZZINESS,
+    SHORTNESS OF BREATH, DROWSINESS, LOSS OF COORDINATION, MODERATE EYE
+    IRRITATION, SKIN IRRITATION, EVEN BURN IF PROLONGED EXPOSURE
+Medical Cond Aggravated by Exposure:LIVER, KIDNEY, AND TESTICULAR
+    INJURY. MAY INCREASE BLOOD AND TISSUE LEVEL OF BROMINE. MAY CAUSE
+    CARBOXY HEMOGLOBINEMIA
+
+=======================  First Aid Measures  =======================
+
+First Aid:REMOVE TO FRESH AIR. IF NECESSARY, GIVE ARTIFICIAL
+    RESPIRATION OR OXYGEN, GET MD. IRRIGATE EYES W/WATER AT LEAST 5
+    MINUTES. DO NO INDUCE VOMITING. FLUSH SKIN W/WATER AT LEAST 15
+    MINUTES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:NONE
+Extinguishing Media:NON-FLAMMABLE
+Fire Fighting Procedures:USE POSITIVE PRESSURE SCBA
+Unusual Fire/Explosion Hazard:AVOID HEAVY CONCENTRATIONS OF HALON,1011
+    & ITS DECOMP PRODUCTS(BROMINE,CHLORINE,HALOGEN ACIDS & CARBONYL
+    HALIDES)
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA, ESPECIALLY LOW PLACES WHERE
+    HEAVY VAPORS MAY COLLECT, REMOVE OPEN FLAMES.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE CONTAINERS IN A CLEAN,DRY AREA,
+    OUT OF DIRECT SUNLIGHT. DO NOT HEAT CONTAINERS OVER 125F.
+Other Precautions:AVOID CONTAINER DAMAGE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:FULL FACE PIECE, SUPPLIED AIR RESP. OR SCBA FOR
+    CONCENTRATION GREATER THAN TLV
+Ventilation:IF TLV IS EXCEEDED, VENTILATE SUMPS AND PITS WHERE VAPORS
+    MAY COLLECT
+Protective Gloves:PVA OR PVC GLOVES
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:SAFETY SHOWER AND EYE WASH STATION NEAR WORK
+    AREA
+Work Hygienic Practices:GOOD HYGIENIC PRACTICE AS WITH ANY INDUSTRIAL
+    CHEMICAL
+Supplemental Safety and Health
+THIS IS PART "A" OF A TWO PART PRODUCT, WHICH IS NOT A KIT.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:154F, 68C
+Vapor Pres:115 @ 20C
+Vapor Density:4.6
+Spec Gravity:1.92 @ 25C
+Solubility in Water:0.6G/100G
+Appearance and Odor:SLIGHT ETHERAL ODOR, COLORLESS LIQUID
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CORROSIVE-SLIGHT CORROSION ON STEEL.  AVOID CONTACT
+    W/ALUMINUM,MAGNESIUM AND ZINC
+Stability Condition to Avoid:OPEN FLAMES OR TEMP ABOVE 1000F (STABLE
+    UNDER NORMAL CONDITIONS
+Hazardous Decomposition Products:HYDROGEN CHLORIDE, HYDROGEN BROMIDE,
+    FREE BROMINE, CHLORINE AND CARBONYL HALIDES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:EVAPORATE OUT DOORS
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,140 @@
+=====================  Product Identification  =====================
+
+Product ID:ANTIFREEZE/AIR BRAKE DE-ICER
+MSDS Date:01/31/1989
+FSC:6850
+NIIN:00N020962
+MSDS Number: BLMFP
+=== Responsible Party ===
+Company Name:HOUGHTON CHEMICAL CORPORATION
+Address:52 CAMBRIDGE ST
+Box:307
+City:ALLSTON
+State:MA
+ZIP:02134
+Country:US
+Info Phone Num:617-254-1010
+Emergency Phone Num:800-424-9300(CHEMTREC)
+CAGE:HOUGH
+=== Contractor Identification ===
+Company Name:HOUGHTON CHEMICAL CORP
+Address:52 CAMBRIDGE ST
+Box:307
+City:ALLSTON
+State:MA
+ZIP:02134
+Country:US
+Phone:617-254-1010
+CAGE:HOUGH
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL ALCOHOL (METHANOL)  (SARA III)
+CAS:67-56-1
+RTECS #:PC1400000
+Fraction by Wt: 100%
+OSHA PEL:S,200PPM/250STEL
+ACGIH TLV:S,200PPM/250STEL; 93
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SWALLOWING LIQUID CAUSES INEBRIATION,
+    HEADACHE, NAUSEA & VOMITING, LEADING TO SEVERE ILLNESS, BLINDNESS &
+    PERHAPS DEATH. LIQUID CAUSES EYE IRRITATION. BREATHING VAPORS MAY
+    CAUSE DROWSINESS, NAUSEA, VO MITING AND PERHAPS DEATH.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SKIN: PROLONGED OR REPEATED CONTACT CAUSES
+    DRYNESS AND DERMATITIS. EYE IRRITATION ON CONTACT.
+Medical Cond Aggravated by Exposure:INHALATION OF METHANOL VAPOR MAY
+    WORSEN CONDITIONS SUCH AS EMPHYSEMA AND BRONCHITIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: FLUSH WITH WATER. SKIN: FLUSH WITH WATER FOR AT LEAST
+    15 MIN. SEEK MED ATTN. INHAL: REMOVE TO FRESH AIR AND GIVE ARTF
+    RESP IF BREATHING HAS STOPPED. CALL PHYS. INGEST: IF SWALLOWED GIVE
+    LARGE AM OUNTS OF WATER OR MILK IF CONSCIOUS, THEN INDUCE VOMITING
+    AND SEEK IMMED MED ATTN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:60.0F,15.6C
+Lower Limits:6%
+Upper Limits:37%
+Extinguishing Media:ALCOHOL OR POLYMER FOAM FOR LARGE FIRES, CO2, DRY
+    CHEMICAL FOR SMALL FIRES.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT . ADDITION OF WATER TO BURNING FUEL MAY REDUCE
+    INTENSITY OF FLAME.
+Unusual Fire/Explosion Hazard:BURNS WITH AN INVISIBLE FLAME IN
+    DAYLIGHT. CAN FORM EXPLOSIVE VAPOR/AIR MIXTURES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE ALL SOURCES OF IGNIT. FLUSH SPILLED
+    MATERIAL WITH LARGE AMOUNTS OF WATER. DIKE LARGE SPILLS AND DUMP TO
+    SALVAGE TANKS. NOTIFY AUTHORITIES FOR MAJOR SPILLS.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:MAY BE FATAL/CAUSE BLINDNESS IF
+    SWALLOWED. PRLNG/RPTD BREATHING OF VAPOR HARMFUL. KEEP AWAY FROM
+    HEAT, SPARKS, OR FIRE. DO NOT LEAVE CONTAINER OPEN.
+Other Precautions:USE WITH ADEQUATE VENTILATION. AVOID PROLONGED OR
+    REPEATED CONTACT WITH SKIN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED AIR SUPPLIED MASK.
+Ventilation:LOCAL EXHAUST: PREFERABLE. MECHANICAL(GEN): ACCEPTABLE.
+Protective Gloves:CHEMICAL RESISTANT GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:WEAR CHEMICAL RESISTANT PANTS AND JACKET,
+    PREFERABLY NEOPRENE.
+Work Hygienic Practices:SAFETY SHOWER AND EYEWASH. NO SMOKING OR OPEN
+    FLAME.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F5
+Boiling Pt:B.P. Text:148F,65C
+Melt/Freeze Pt:M.P/F.P Text:-144F,-98C
+Vapor Pres:96.@20C
+Vapor Density:1.11
+Spec Gravity:0.7925
+Evaporation Rate & Reference:2(BUTYL ACETATE=1)
+Solubility in Water:COMPLETE
+Appearance and Odor:WATER-WHITE LIQUID; CHARACTERISTIC ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID STRONG OXIDIZING AGENTS, SPARKS, HEAT AND FIRES.
+Stability Condition to Avoid:STRONG OXIDIZING AGENTS, SPARKS, HEAT AND
+    FIRES.
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE,
+    FORMALDEHYDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT WITH LOCAL SEWER, MUNICIPAL, STATE
+    AND/OR FEDERAL AGENCIES TO DETERMINE APPROPRIATE CURRENT DISPOSAL
+    OPTIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

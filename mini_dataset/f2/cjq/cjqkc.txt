@@ -1,0 +1,183 @@
+=====================  Product Identification  =====================
+
+Product ID:PLASMA STD, 1,000 PPM OF MOLYBDENUM IN WATER PLMO9-2X
+MSDS Date:11/03/1997
+FSC:NIIN:Submitter:N EN
+Status Code:A
+MSDS Number: CJQKC
+=== Responsible Party ===
+Company Name:SPEX CERTIPREP INC
+Address:203 NORCROSS AVE
+City:METUCHEN
+State:NJ
+ZIP:08840
+Country:US
+Info Phone Num:732-549-7144
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+Resp. Party Other MSDS Num.:PLMO9
+Preparer's Name:VANAJA SWAKUMAN
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:04XT3
+=== Contractor Identification ===
+Company Name:SPEX CERTIPREP INC
+Address:203 NORCROSS AVE
+Box:City:METUCHEN
+State:NJ
+ZIP:08840
+Country:US
+Phone:732-549-7144
+CAGE:04XT3
+Company Name:SPEX CERTIPREP INC
+Address:203 NORCROSS AVE
+Box:City:METUCHEN
+State:NJ
+ZIP:08840
+Country:US
+Phone:732-549-7144
+CAGE:07977
+Company Name:SPEX CHEMICAL
+Address:203 NORCROSS AVE
+Box:City:METUCHEN
+State:NJ
+ZIP:08840
+Country:US
+Phone:908-549-7144
+CAGE:IO043
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:AMMONIUM MOLYBDATE; ((NH*4)*2MOO*4)
+CAS:13106-76-8
+RTECS #:QA4960000
+Minumum % Wt:.3
+Maxumum % Wt:3.
+Other REC Limits:N/K 
+OSHA PEL:N/K 
+OSHA STEL:N/K 
+ACGIH TLV:5 MG/M3 (AS MO)
+ACGIH STEL:N/K 
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Minumum % Wt:95.
+Maxumum % Wt:99.
+Other REC Limits:N/K 
+OSHA PEL:N/K 
+OSHA STEL:N/K 
+ACGIH TLV:N/K 
+ACGIH STEL:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE TOXICOLOGICAL INFORMATION.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MAY BE IRRITATING TO THE EYES UPON
+    CONTACT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:GENERAL: REMOVE CONTAMINATED CLOTHING, WASH THOROUGHLY BEFORE
+    REUSE. EYES: FLUSH WITH WATER FOR AT LEAST 15 MINUTES OCCASIONALLY
+    LIFTING UPPER AND LOWER EYELIDS. SKIN: REMOVE CONTAMINATED CLOTHING
+    AND  FLUSH WITH WATER THOROUGHLY. INHALATION: MOVE TO FRESH AIR.
+    CONSULT DOCTOR IF SYMPTOMS PERSIST. INGESTION: GET IMMEDIATE
+    MEDICAL HELP. IF THE PATIENT IS CONSCIOUS, GIVE LARGE QUANTITIES OF
+    WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:APPROPRIATE TO SURROUNDING FIRE CONDITIONS.
+Fire Fighting Procedures:WEAR NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE. NOT EXPLOSIVE. NOT SELF-IGNITING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA. WEAR APPROPRIATE PROTECTIVE
+    EQUIPMENT. CONTAIN AND RECOVER WHEN POSSIBLE. COLLECT OR ABSORB
+    WITH AN INERT MATERIAL (VERMICULITE, DRY SAND, EARTH, ETC). WIPE UP
+    AND PUT INTO A SEALED CO NTAINER FOR PROPER DISPOSAL. WASH SPILL
+    SITE WITH WATER AFTER MATERIAL PICK UP IS COMPLETE. WEAR CHEMICAL
+    RESISTANT GLASSES, GLOVES AND CLOTHING.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:ENSURE GOOD VENTILATION/EXHAUSTION AT
+    WORK PLACE. HAVE AN IMMEDIATE AVAILABILITY OF AN EYE WASH IN CASE
+    OF EMERGENCY. STORE AT ROOM TEMPERATURE. KEEP THE CONTAINER TIGHTLY
+    CLOSED. KEEP THE CONTAINER T IGHTLY CLOSED.
+Other Precautions:USE GOOD LABORATORY PRACTICE WHEN WORKING WITH ANY
+    CHEMICAL WHETHER IT IS CONSIDERED HAZARDOUS OR NOT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT EXPECTED TO REQUIRE PERSONAL RESPIRATOR
+    USAGE. WEAR NIOSH APPROVED RESPIRATOR APPROPRIATE FOR EXPOSURE OF
+    CONCERN .
+Ventilation:NOT EXPECTED TO REQUIRE SPECIAL VENTILATION.
+Protective Gloves:CHEMICAL RESISTANT GLOVES.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:EYEWASH AND DELUGE SHOWER MEETING ANSI
+    DESIGN CRITERIA . WEAR PROTECTIVE APRON.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:=100.C, 212.F
+Spec Gravity:APPROXIMATELY 1.0
+pH:4 - 9
+Solubility in Water:MISCIBLE
+Appearance and Odor:TRANSPARENT LIQUID WITH NO ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NO INFORMATION.
+Stability Condition to Avoid:STABLE UNDER NORMAL STORAGE AND USE.
+Hazardous Decomposition Products:NO INFORMATION FOUND.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:THIS SOLUTION MAY BE IRRITATING TO THE EYES
+    UPON CONTACT. OVEREXPOSURE TO MOLYBDENUM (CONCENTRATED) MAY RESULT
+    IN GOUT AND INCREASE IN SERUM URIC ACID LEVELS. TOXICITY DATA:
+    (NH*4)*2 MOO*4 - RTECS #-Q A490000. ORAL-RAT LD50: 333 MG/KG.
+    IPR-RAT LDLO: 203 MG/KG.
+
+=====================  Ecological Information  =====================
+
+Ecological:NO INFORMATION IS FOUND ON ENVIRONMENTAL TOXICITY FOR THIS
+    SOLUTION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTACT LOCAL HAZARDOUS OR CHEMICAL WASTE
+    DISPOSAL AGENCY FOR REGULATIONS. DISPOSE OF IN ACCORDANCE WITH
+    LOCAL, STATE, AND FEDERAL REGULATIONS .
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:AIR AND GROUND: NOT REGULATED.
+
+=====================  Regulatory Information  =====================
+
+Federal Regulatory Information:USA: NOT REGULATED. COMPONENTS OF THIS
+    SOLUTION ARE LISTED IN EPA TSCA INVENTORY LIST. WHMIS
+    CLASSIFICATION (CANADA): NOT REGULATED. EC GUIDELINES: NOT
+    REGULATED. SAFETY PHRASES: 36/37/39 - WEAR SUITA BLE PROTECTIVE
+    CLOTHING, GLOVES, AND EYE/FACE PROTECTION; 26 - IN CASE OF CONTACT
+    WITH EYES, RINSE IMMEDIATELY WITH PLENTY OF WATER AND SEEK MEDICAL
+    ATTENTION; 45 - IN CASE OF ACCIDENT OR IF YOU FEEL	UNWELL, SEEK
+    MEDICAL ADVICE IMMEDIATELY.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

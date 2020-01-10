@@ -1,0 +1,118 @@
+=====================  Product Identification  =====================
+
+Product ID:BUILD 50 PART B
+MSDS Date:05/06/1987
+FSC:8030
+NIIN:00F019356
+MSDS Number: BLPYV
+=== Responsible Party ===
+Company Name:BEHR PROCESS CORPORATION
+Address:3400 W SEGERSTROM AVE
+City:SANTA ANA
+State:CA
+ZIP:92704
+Info Phone Num:(714) 545-7101
+Emergency Phone Num:(800 854-0133 OR (714) 545-7101
+CAGE:0J2D7
+=== Contractor Identification ===
+Company Name:BEHR PROCESS CORPORATION
+Address:3400 GERRY AVE
+Box:City:SANTA ANA
+State:CA
+ZIP:92704
+Country:US
+Phone:714-545-7101
+CAGE:0J2D7
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POLYOXYALKYLENEAMINE
+Fraction by Wt: 45-55%
+
+Ingred Name:NONYL PHENOL
+CAS:25154-52-3
+RTECS #:SM5600000
+Fraction by Wt: 30-40%
+
+Ingred Name:AMINO ETHYL PIPERAZINE
+CAS:10171-78-5
+RTECS #:TX8050000
+Fraction by Wt: 10-20%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): 0.58 G/KG
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: TISSUE IRRITATION & PERMANENT
+    INJURY. SKIN: CORROSIVE.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: TISSUE IRRITATION & PERMANENT INJURY.
+    SKIN: CORROSIVE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER. SKIN: WASH W/MILD SOAP &
+    WATER. DON'T COVER. TREAT AS 1ST DEGREE BURN. INHALATION: REMOVE TO
+    FRESH AIR. INGESTION: DRINK LIQUIDS. NEVER GIVE ANYTHING BY MOUTH
+    TO AN UNCO NSCIOUS PERSON. DON'T INDUCE VOMITING. OBTAIN MEDICAL
+    ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:205F
+Lower Limits:1%
+Extinguishing Media:WATER SPRAY, DRY CHEMICAL, FOAM & CO2.
+Fire Fighting Procedures:IF A LEAK OR SPILL HASN'T IGNITED, USE WATER
+    TO DISPERSE VAPOR.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:AVOID ALL PERSONAL CONTACT. CONTAIN SPILL.
+    WIPE UP OR ABSORB ON SUITABLE MATERIAL FOR PROPER DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP FROM HIGH TEMPS. AVOID
+    CONTAMINATION OF WATER. AVOID ALL PERSONAL CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AS REQUIRED.
+Ventilation:POSITIVE VENTILATION SHOULD BE PROVIDED.
+Protective Gloves:IMPERVIOUS
+Eye Protection:GOGGLES
+Supplemental Safety and Health
+LD50 DATA IS FOR NONYLPHENOL.
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:1.1
+pH:10-12
+Appearance and Odor:CLEAR VISCOUS LIQUID W/MILD AMMONIACAL ODOR.
+Percent Volatiles by Volume:0%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS & ACIDS
+Stability Condition to Avoid:HIGH TEMPERATURES
+Hazardous Decomposition Products:CO & CO2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PRODUCT HAS BEEN EVALUATED FOR RCRA
+    CHARACTERISTICS & DOESN'T MEET CRITERIA OF HAZARDOUS WASTE IF
+    DISCARDED IN ITS PURCHASED FORM. UNDER RCRA IT IS THE
+    RESPONSIBILITY OF USER OF PRODUCTS TO DETERMINE  PROPER DISPOSAL
+    METHOD. UN 1760/2815/1719.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

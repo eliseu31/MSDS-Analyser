@@ -1,0 +1,145 @@
+=====================  Product Identification  =====================
+
+Product ID:25-5S GREASE
+MSDS Date:02/12/1997
+FSC:9150
+NIIN:00-398-4156
+Status Code:A
+MSDS Number: CJQNT
+=== Responsible Party ===
+Company Name:HALOCARBON PRODUCTS CORPORATION
+Box:661
+City:RIVER EDGE
+State:NJ
+ZIP:07661
+Country:US
+Info Phone Num:201-262-8899
+Emergency Phone Num:803-278-3504
+Preparer's Name:LEE G SPRAGUE
+CAGE:07644
+=== Contractor Identification ===
+Company Name:HALOCARBON PRODUCTS CORPORATION
+Address:887 KINDERKAMACK RD
+Box:City:RIVER EDGE
+State:NJ
+ZIP:07661
+Country:US
+Phone:201-262-8899
+CAGE:07644
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POLY(CHLOROTRIFLUOROETHYLENE)
+CAS:9002-83-9
+RTECS #:KM6555000
+= Wt:95.
+
+Ingred Name:SILICA; (AMORPHOUS SILICA)
+CAS:7631-86-9
+RTECS #:VV7565000
+= Wt:5.
+ACGIH TLV:10 MG/M3
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EXTENSIVE STUDIES HAVE BEEN CONDUCTED
+    ON HALOCARBON OILS SIMILAR TO THE ONES FOUND IN THIS PRODUCT. BASED
+    ON ALL THE AVAILABLE DATA IN THREE SPECIES OF ANIMALS, LIMITED
+    EXPOSURE TO THIS PRODUCT SHOULD  NOT BE HARMFUL TO ANY PORTION OF
+    THE HUMAN ANATOMY. STUDIES CONDUCTED BY THE AIR FORCE HAVE
+    DEMONSTRATED LIVER TOXICITY IN RODENTS BUT NOT IN PRIMATES. THE
+    OBSERVED LIVER TOXICITY IS BELIEVED TO BE S PECIFIC FOR RODENTS AND
+    NOT RELEVENT TO HUMANS. HALOCARBON OILS ARE NOT IRRITATING TO THE
+    SKIN BUT SIMPLE SKIN PROTECTION SHOULD BE USED TO PREVENT REPEATED
+    EXPOSURE AND THE POSSIBILITY OF SENSITIZATI ON.  (EFTS OF OVEREXP)
+Effects of Overexposure:HLTH HAZ: ALL MUTAGANIC STUDIES WERE NEGATIVE.
+    AMORPHOUS SILICA, UNLIKE CRYSTALLINE SILICA, IS CONSIDERED
+    BIOLOGICALLY BENIGN. SINCE THE POTENTIAL FOR HUMAN TOXICITY CANNOT
+    BE RULED OUT PROPER WORK PR ACTICES SHOULD BE EMPLOYED. ACUTE:
+    FROMTHE ANIMAL STUDIES, SIGNS OF FLUORIDE POISONING MAY BE
+    EXPECTED. THESE INCLUDE NAUSEA, SHORTNESS OF BREATH AND LOSS OF
+    APPETITE. CHRONIC: UNKNOWN.
+Medical Cond Aggravated by Exposure:NONE KNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. SUPPORT BREATHING (GIVE
+    OXYGEN OR ARTIFICIAL RESPIRATION . SKIN: WASH WITH SOAP AND WATER.
+    NO SKIN EFFECTS EXPECTED. EYE: FLUSH WITH WATER FOR AT LEAST 15
+    MINUTE S. INGESTION: DILUTE BY DRINKING LARGE QUANTITIES OF WATER.
+    IF VOMITING OCCURS ADMINISTER MORE WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:NON-FLAMMABLE. USE AGENT SUITABLE FOR SURROUNDING
+    FIRE.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:THERMAL DECOMPOSITION PRODUCTS ARE ACIDIC
+    AND TOXIC.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SPILLS MAY BE WIPED UP WITH ABSORBENT
+    MATERIAL.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN .
+Ventilation:N/A.
+Protective Gloves:IMPERVIOUS GLOVES.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:ANSI APPROVED EYE WASH AND DELUGE SHOWER .
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:>260.C, 500.F
+B.P. Text:DECOMPOSES
+Vapor Pres:>0.1 MM HG
+Spec Gravity:2 (H*2O=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:COLORLESS, OPAQUE GREASE.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ALUMINUM THREADED CONNECTIONS WHERE GALLING AND SEIZURE MAY INITIATE
+    REACTION. REACTS WITH METALS LIKE SODIUM AND POTASSIUM, AMINES,
+    LIQUID FLUORINE AND LIQUID CHLORINE TRIFLUORIDE.
+Hazardous Decomposition Products:OR BY-PRODUCTS: DECOMPOSES ABOVE 250 C
+    TO TOXIC COMPONENTS.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:MAY BE INCINERATED BY LICENSED WASTE DISPOSAL
+    COMPANY. OBSERVE ALL FEDERAL, STATE AND LOCAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:1. HAZARDOUS MATERIALS/DANGEROUS GOODS SHIPPING
+    REGULATIONS: U.S. (49 CFR): PROPER SHIPPING NAME. NON-HAZARDOUS
+    MATERIAL. IATA: PROPER SHIPPING NAME: NON-DANGEROUS GOODS. IMDG:
+    PROPER SHIPPING NAME: N ON-DANGEROUS GOODS. 2. OTHER INFORMATION:
+    HMIS LABELING: H 1; F 0; R 0; P B.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:THIS PRODUCT CONTAINS THE FOLLOWING TOXIC
+    CHEMICAL(S) SUBJECT TO SECTION 313 TITLE III REPORTING REQUIREMENTS
+    (40 CFR PART 372): NONE.
+
+ ======================================================================
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

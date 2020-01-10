@@ -1,0 +1,139 @@
+=====================  Product Identification  =====================
+
+Product ID:RP 70S
+MSDS Date:01/30/1989
+FSC:8520
+NIIN:01-075-1238
+MSDS Number: BKYRT
+=== Responsible Party ===
+Company Name:CIBA-GEIGY CORPORATION
+Address:4917 DAWN AVE
+City:EAST LANSING
+State:MI
+ZIP:48823
+Info Phone Num:(517) 351-5900
+Emergency Phone Num:(800) 888-8372
+Preparer's Name:M. MUNSELL
+CAGE:CIBAG
+=== Contractor Identification ===
+Company Name:CIBA SPECIALTY CHEMICALS CORPORATION
+Address:4917 DAWN AVE
+Box:City:EAST LANSING
+State:MI
+ZIP:48823-5691
+Country:US
+Phone:517-351-5900
+CAGE:02684
+Company Name:CIBA-GEIGY CORPORATION, FURANE PRODUCTS
+Address:5121 SAN FERNANDO ROAD WEST
+City:LOS ANGELES
+State:CA
+ZIP:90039
+Country:US
+Phone:818-247-6210
+CAGE:CIBAG
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CHLORINATED PHENOL
+
+Ingred Name:TRIETHANOLAMINE (SUSPECTED HUMAN CARCINOGEN BY ACGIH)      
+    INTENDED CHANGE (IC)
+CAS:102-71-6
+RTECS #:KL9275000
+Other REC Limits:A2 CARCINOGEN
+ACGIH TLV:3.1 MG/CUM IC
+
+Ingred Name:9-OCTADECENOIC ACID (OLEIC ACID) (EMERSOL 210)
+CAS:112-80-1
+RTECS #:RG2275000
+
+Ingred Name:1,2-PROPANEDIOL (PROPYLENE GLYCOL)
+CAS:57-55-6
+RTECS #:TY2000000
+
+Ingred Name:NAPHTHA PETROLEUM, HEAVY ALKYLATE C9-C12 BOILING PT
+    302-428F
+CAS:64741-65-7
+
+Ingred Name:WATER, H2O
+CAS:7732-18-5
+RTECS #:ZC0110000
+
+Ingred Name:LANOLIN
+CAS:8006-54-0
+
+Ingred Name:WHITE MINERAL OIL
+CAS:8042-47-5
+RTECS #:PY8047000
+Other REC Limits:STEL 10 MG/CUM
+OSHA PEL:5 MG/CUM MIST
+ACGIH TLV:5 MG/CUM MIST
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Explanation of Carcinogenicity:TRIETHANOLAMINE IS A SUSPECTED HUMAN
+    CARCINOGEN BY ACGIH.
+Medical Cond Aggravated by Exposure:SKIN & EYE CONDITIONS
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER FOR AT LEAST 15 MIN. SKIN: USE
+    HANDCLEANER. INHALATION: REMOVE TO FRESH AIR. GIVE OXYGEN OR
+    ARTIFICIAL RESPIRATION IF NEEDED. INGESTION: IF CONSCIOUS, GIVE
+    PLENTY OF WATER TO DRINK . DON'T INDUCE VOMITING. OBTAIN
+    MEDICALATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:CO2, FOAM, DRY CHEMICAL, OR WATER SPRAY
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS & FULL
+    PROTECTIVE CLOTHING.
+Unusual Fire/Explosion Hazard:NO FLASH AT BOILING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE SPILLAGE BY ABSORBING IN ABSORBENT
+    MATERIAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:USE W/GOOD INDUSTRIAL PRACTICE. HANDLE
+    W/DUE CARE. AVOID CONTACT W/EYES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:GENERAL MECHANICAL & LOCAL EXHAUST TO MAINTAIN <TLV.
+Eye Protection:SAFETY GLASSES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:190-220F
+Vapor Pres:20
+Vapor Density:4.9
+Evaporation Rate &amp; Reference:(BU AC = 1): <0.1
+Solubility in Water:DISPERSIBLE
+Appearance and Odor:WHITE CREAMY EMULSION W/NEUTRAL ODOR
+Percent Volatiles by Volume:80%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDANTS SUCH AS CHLORINE & OXYGEN NITRIC ACID
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,163 @@
+=====================  Product Identification  =====================
+
+Product ID:9001 SPRAY ADHESIVE 1330 AEROSOL
+MSDS Date:05/11/1990
+FSC:8040
+NIIN:00F019313
+MSDS Number: BLPWS
+=== Responsible Party ===
+Company Name:MIRACLE ADHESIVE CORP
+Address:250 PETIT AVE
+Box:D
+City:BELLMORE
+State:NY
+ZIP:11710-3629
+Country:US
+Info Phone Num:800-647-2253
+Emergency Phone Num:800-647-2253
+Preparer's Name:TIMOTHY J. VUOLO
+CAGE:80991
+=== Contractor Identification ===
+Company Name:MIRACLE ADHESIVE CORP
+Address:250 PETTIT AVE
+City:BELLMORE
+State:NY
+ZIP:11710-3629
+Country:US
+CAGE:80991
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HEXANE, N-HEXANE
+CAS:110-54-3
+RTECS #:MN9275000
+Other REC Limits:50 PPM
+OSHA PEL:1800 MG/CUM
+ACGIH TLV:176 MG/CUM
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:DICHLOROMETHANE (METHYLENE CHLORIDE) (SUSPECTED HUMAN
+    CARCINOGEN BY ACGIH, NTP.) *94-3*
+CAS:75-09-2
+RTECS #:PA8050000
+Fraction by Wt: 35%
+ACGIH TLV:174 MG/CUM (A2)
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ISOBUTANE, 2-METHYLPROPANE
+CAS:75-28-5
+RTECS #:TZ4300000
+Other REC Limits:1000 PPM
+OSHA PEL:1800 MG/CUM
+ACGIH TLV:1000 PPM
+
+Ingred Name:PROPANE
+CAS:74-98-6
+RTECS #:TX2275000
+Other REC Limits:1800 MG/CUM
+OSHA PEL:1000 PPM
+ACGIH TLV:SIMPLE ASPHYXIANT
+
+Ingred Name:VOL ORGANIC CMPD: 492 G/L LESS WATER
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:NO	 OSHA:NO
+Health Hazards Acute and Chronic:INGESTION: GI IRRITATION, ASPIRATION
+    MAY CAUSE CHEMICAL PNEUMONITIS WHICH CAN BE FATAL. EYES:
+    IRRITATION. SKIN: SEVERE IRRITATION. REPEATED/PROLONGED
+    OVEREXPOSURE TO SOLVENTS MAY CAUSE PERMANENT BRAIN	& NERVOUS
+    SYSTEM DAMAGE. METHYLENE CHLORIDE: CNS DEPRESSION, NOSE/THROAT
+    IRRITATION.
+Explanation of Carcinogenicity:SEE INGREDIENTS
+Effects of Overexposure:NAUSEA, VOMITING, HEADACHES, DIZZINESS,
+    CONFUSION, IRRITATION
+Medical Cond Aggravated by Exposure:HEART CONDITIONS
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION: DON'T INDUCE VOMITING. INHALATION: REMOVE TO FRESH
+    AIR. GIVE CPR IF NECESSARY. KEEP WARM/QUIET. EYES: FLUSH W/PLENTY
+    OF WATER FOR 15 MINUTES. SKIN: WASH AFFECTED AREA W/SOAP & WATER.
+    NOTE T O PHYSICIAN: DON'T GIVE STIMULANTS. EPINEPHRINE/EPHEDRINE
+    MAY ADVERSELY AFFECT THE HEART W/FATAL RESULTS. OBTAIN MEDICAL
+    ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point: -156F
+Extinguishing Media:ALCOHOL FOAM, CO2, DRY CHEMICAL, POLYMER FOAM
+Fire Fighting Procedures:WEAR SCBA. WATER MAY BE INEFFECTIVE, BUT MAY
+    BE USED TO COOL EXPOSED CONTAINERS. IF WATER IS USED, FOG NOZZLES
+    ARE PREFERRED.
+Unusual Fire/Explosion Hazard:EXTREMELY FLAMMABLE. VAPORS MAY CAUSE
+    FLASH FIRE. CONTAINERS MAY EXPLODE WHEN EXPOSED TO EXTREME HEAT.
+    HALOGENATED HYRDOCARBONS EXPLODE IN CONTACT W/ALUMINUM.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:KEEP PEOPLE AWAY. ELIMINATE IGNITION SOURCES.
+    DIKE/CONTAIN W/INERT MATERIAL. TRANSFER LIQUIDS TO COVERED METAL
+    CONTAINERS FOR RECOVERY/DISPOSAL. USE NON-SPARKING TOOLS. PLACE
+    ABSORBENT DIKING MATERIAL S IN COVERED CONTAINER. PREVENT RUNOFF TO
+    WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T STORE >95F. STORE LARGE
+    QUANTITIES IN COMPLIANCE W/OSHA. DON'T PUNCTURE/INCINERATE. DON'T
+    SPRAY NEAR FLAME/HOT SURFACES.
+Other Precautions:AVOID BREATHING VAPOR/SPRAY MIST. KEEP OUT OF REACH
+    OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESTRICTED VENTILATION: NIOSH APPROVED ORGANIC
+    VAPOR RESPIRATOR. SPRAYING: MECHANICAL PREFILTER. CONFINED AREA:
+    NIOSH/MSHA APPROVED AIR SUPPLIED. IF TLVS/PELS ARE EXCEEDED:
+    NIOSH/MSHA RESPIRATOR W/APP ROPRIATE FACTORS.
+Ventilation:GENERAL DILUTION & LOCAL EXHAUST
+Protective Gloves:SOLVENT IMPERMEABLE
+Eye Protection:SAFETY GLASSES/CHEMICAL SAFETY GLASSES
+Other Protective Equipment:SAFETY SHOWER, EYEWASH FACILITY
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE.WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:-44F - 156F
+Vapor Density:>1
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS, ALKALINE MATERIALS, OXIDIZING MATERIALS, ALUMINUM
+Stability Condition to Avoid:EXCESSIVE HEAT, HOT SURFACES, IGNITION
+    SOURCES, DIRECT SUNLIGHT, ELEVATED PRESSURES.
+Hazardous Decomposition Products:SMOKE, CO, CO2, PHOSGENE,
+    FORMALDEHYDE, HYDROGEN CHLORIDE, CHLORINE.
+Conditions to Avoid Polymerization:HOT SURFACES, OPEN FLAME, UV
+    RADIATION, HEAT
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE ONLY IN EPA PERMITTED FACILITY. DON'T
+    INCINERATE CLOSED CONTAINERS. OBSERVE PRECAUTIONS FOR DISPOSAL OF
+    FLAMMABLE MATERIALS. CONTAMINATED ABSORBENT MAY BE DISPOSED IN A
+    HAZARDOUS WASTE LAND FILL IAW/FEDERAL, STATE & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

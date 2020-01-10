@@ -1,0 +1,157 @@
+=====================  Product Identification  =====================
+
+Product ID:S-T DRAIN OPENER
+MSDS Date:05/25/1989
+FSC:6850
+NIIN:01-100-9946
+MSDS Number: BLMWC
+=== Responsible Party ===
+Company Name:SANTEEN PRODUCTS CO
+Address:1321 - 7TH STREET S.
+City:HOPKINS
+State:MN
+ZIP:55343
+Country:US
+Info Phone Num:612-935-4500
+Emergency Phone Num:612-935-4500/612-435-7530
+CAGE:0PZ33
+=== Contractor Identification ===
+Company Name:BRIGGS INC
+Address:113 S 10TH ST
+Box:3604
+City:OMAHA
+State:NE
+ZIP:68103-0604
+Country:US
+Phone:402-344-0963/800-424-9300(CHEMTREC)
+CAGE:6J861
+Company Name:SANTEEN PRODUCTS CO INC
+Address:1321 SOUTH 7TH STREET
+Box:City:HOPKINS
+State:MN
+ZIP:55343
+Country:US
+Phone:612-935-4500
+CAGE:0PZ33
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SULFURIC ACID  (SARA III)
+CAS:7664-93-9
+RTECS #:WS5600000
+Fraction by Wt: 86.0%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50(RATS) =2140 MG/KG BODY WEIGHT
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE-CORROSIVE.SWALLOWED:CAUSES
+    MOUTH,THROAT,ESOPHAGUS,STOMACH BURNS,GASTRIC PERFORATION &
+    DEATH.INHALATION:SEVERE IRRITATION OF THE RESPIRATORY
+    TRACT,SNEEZING,COUGHING & LUNG DAMAGE.SKIN:BURNING & C
+    HARRING.EYES:IRREVERSIBLE DAMAGE & POSSIBLY
+    BLINDNESS.CHRONIC-DERMATITIS,BRONCHITIS,CHRONIC RUNNY NOSE &
+    BLEEDING.
+Effects of Overexposure:SPRAY OR MISTS ARE SEVERELY IRRITATING TO THE
+    EYES & RESPIRATORY TRACT. CAUSING TICKLING OF THE NOSE AND THROAT.
+    CAUSES CHARRING OF THE SKIN AS A RESULT OF THE GREAT AFFINITY FOR,
+    AND STRONG EXOTHERMI C REACTION WITH WATER. SWALLOWING CAN CAUSE
+    SEVERE DAMAGE OF MUCOUS MEMBRANES.
+Medical Cond Aggravated by Exposure:SKIN IRRITATION MAY BE AGGRAVATED
+    IN PERSONS WITH EXISTING SKIN LESION. BREATHING OF SPRAYS (SULFURIC
+    ACID MISTS) MAY AGGRAVATE ACUTE OR CHRONIC ASTHMA AND OTHER CHRONIC
+    PULMONARY DISEASE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SPEED IS ESSENTIAL.START FIRST AID & GET MEDICAL CARE AT
+    ONCE.EYES:HOLD EYELID OPEN & FLUSH WITH WATER FOR 15
+    MINUTES.SKIN:WIPE EXCESS WITH A DRY CLOTH.THEN WASH WITH PLENTY OF
+    WATER & SOAP.INHALATION :REMOVE TO FRESH AIR.GIVE CPR/OXYGEN
+    IFNEEDED.INGESTION:GET MEDICAL ATTENTION AT ONCE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:EXPECT VIOLENT REACTION WITH WATER. USE DRY
+    CHEMICAL OR CARBON DIOXIDE.
+Fire Fighting Procedures:WEAR FIRE FIGHTING PROTECTIVE EQUIPMENT AND A
+    FULL FACED SELF CONTAINED BREATHING APPARATUS.FIGHT FIRE FROM A
+    SAFE DISTANCE.USE ACID RESISTANT EQUIPMENTS.
+Unusual Fire/Explosion Hazard:SULFUR OXIDES.USE CARE.WATER APPLIED
+    DIRECTLY TO THIS ACID RESULTS IN EVOLUTION OF HEAT,SPATTERING & A
+    VIOLENT REACTION CAUSING NEARBY COMBUSTIBLES TO IGNITE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE EQUIPMENT.STOP LEAK IF
+    POSSIBLE.SMALL SPILLS SHOULD BE COVERED WITH NA BICARBONATE,SODA
+    ASH,OR LIME.AVOID FOAMING/SPATTERING.PICK UP WITH ABSORBING
+    MATERIAL & TRANSFER TO A SUITABLE CH EMICAL WASTE CONTAINER.DON'T
+    WASH IT DOWN TO SEWER
+Neutralizing Agent:LIME OR SODA
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORAGE-STORE IN COOL,DRY PLACE.AVOID
+    EXCESSIVE HEAT & BELOW FREEZING TEMPERATURES.
+Other Precautions:KEEP IN AN AREA WITH AN ACID RESISTANT CEMENT FLOOR.
+    DO NOT BREATHE SPRAYS OR MISTS. DO NOT INGEST. DO NOT GET IN EYES,
+    ON SKIN OR ON CLOTHING. KEEP OUT OR THE REACH OF CHILDREN. DO NOT
+    COMBINE WITH A LKALINE DRAIN CLEANERS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED MIST FILTER, ACID GAS
+    CARTRIDGE RESPIRATOR. USE POSITIVE PRESSURE SELF-CONTAINED
+    BREATHING APPARATUS FOR EMERGENCY CONDITIONS WHERE EXPOSURE LIMITS
+    ARE EXCEEDED.
+Ventilation:LOCAL EXHAUST
+Protective Gloves:RUBBER OR PVC
+Eye Protection:SPLASH-PROOF SAFETY GOGGLES/FACE SHIELD
+Other Protective Equipment:MAINTAIN A SINK,SAFETY SHOWER,EYEWASH
+    FOUNTAIN IN WORK AREA.HAVE OXYGEN READILY AVAILABLE.FULL-BODY
+    PROTECTIVE CLOTHING.
+Work Hygienic Practices:WASH HANDS BEFORE EATING OR DRINKING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C1
+Boiling Pt:B.P. Text:440F,227C
+Spec Gravity:1.775
+pH:< 1
+Solubility in Water:COMPLETE
+Appearance and Odor:DARK AMBER LIQUID WITH VERY SLIGHT ACID ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ORGANICS,CHLORATES,CARBIDES,FULMINATES,PICRATES,METALS,WATER.REACTION
+    WITH METALS->HIGHLY FLAMMABLE HYDROGEN GAS.
+Stability Condition to Avoid:WHEN DILUTING, ACID SHOULD BE ADDED TO
+    DILUENT, DO NOT ADD DILUENT TO SULFURIC ACID.
+Hazardous Decomposition Products:TOXIC GAS AND VAPORS SUCH AS SULFURIC
+    ACID FUMES AND OXIDES OF SULFUR MAY BE RELEASED ON DECOMPOSITION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH ALL APPLICABLE
+    LOCAL, STATE AND FEDERAL REGULATIONS.THIS MATERIAL IS RCRA
+    HAZARDOUS WASTE D002,CORROSIVE & D003,REACTIVE.SPILLS ARE SUBJECT
+    TO CERLCA REPORTING REQUIREMEN TS:RQ=1000 LBS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

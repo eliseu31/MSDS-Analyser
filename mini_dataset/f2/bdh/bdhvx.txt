@@ -1,0 +1,70 @@
+=====================  Product Identification  =====================
+
+Product ID:DEVELOPER,D-660.
+MSDS Date:01/01/1985
+FSC:6850
+NIIN:00-190-7894
+MSDS Number: BDHVX
+=== Responsible Party ===
+Company Name:AUNYX MANUFACTURING
+Emergency Phone Num:800-225-5266.
+CAGE:JO775
+=== Contractor Identification ===
+Company Name:AUNYX MANUFACTURING
+CAGE:JO775
+Company Name:AUNYX MFG CORP
+Address:65 INDUSTRIAL PARK RD
+Box:City:HINGHAM
+State:MA
+ZIP:02043-4306
+Country:US
+Phone:617-749-7050
+CAGE:57886
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NON HAZARDOUS INGREDIENTS
+Fraction by Wt: 100%.
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:NONE KNOWN
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NORMAL CLEAN UP OF SPILLED POWDER BY SWEEP UP
+    INTO AN APPROVED STORAGE CONTAINER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT REQUIRED
+Ventilation:LOCAL EXHAUST IS RECOMMENDED
+Protective Gloves:NOT REQUIRED
+Eye Protection:NOT REQUIRED
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Spec Gravity:----
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:ESSENTIALLY ODORLESS,POWDER
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH APPLICABLE
+    GOVERNMENTAL REGULATIONS
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

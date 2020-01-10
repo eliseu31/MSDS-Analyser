@@ -1,0 +1,153 @@
+=====================  Product Identification  =====================
+
+Product ID:NICKEL CHLORIDE HEXAHYDRATE,(CODE T1360001)
+MSDS Date:09/01/1989
+FSC:6810
+NIIN:00-174-1815
+MSDS Number: BHWSL
+=== Responsible Party ===
+Company Name:VAN WATERS AND ROGERS INC
+Address:2600 CAMPUS DRIVE
+Box:5932
+City:SAN MATEO
+State:CA
+ZIP:94403-2522
+Country:US
+Info Phone Num:LOCAL VAN WATERS & ROGERS BRANCH
+Emergency Phone Num:408-424-9300
+CAGE:0AN91
+=== Contractor Identification ===
+Company Name:CHEMICAL COMMODITIES AGENCY, INC.
+Address:27447 PACIFIC STREET
+Box:City:HIGHLAND
+State:CA
+ZIP:92346-2640
+Country:US
+Phone:909-864-2310
+CAGE:60777
+Company Name:INLAND PACKAGING INC
+Address:209 PETERSON DR
+Box:644
+City:ELIZABETHTOWN
+State:KY
+ZIP:42701-9804
+Country:US
+Phone:502-737-6757
+CAGE:66172
+Company Name:VAN WATERS AND ROGERS
+Address:2256 JUNCTION AVE
+City:SAN JOSE
+State:CA
+ZIP:95131
+Country:US
+Phone:408-435-8700/800-424-9300(CHEMTREC)
+CAGE:0AN91
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NICKEL CHLORIDE HEXAHYDRATE
+CAS:7791-20-0
+RTECS #:QR6480000
+Fraction by Wt: >99.1%
+Other REC Limits:NIOSH 0.015 MG NI/M3
+OSHA PEL:0.1 MG NI/M3
+ACGIH TLV:0.1 MG NI/M3
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL RAT LD50 IS 105 MG/KG
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:NICKEL CHLORIDE IS VERY IRRITATING TO
+    BODY TISSUES.  IT MAY SENSITIZE AN ACUTE ALLERGIC REACTION.
+Explanation of Carcinogenicity:NICKEL AND SOME NICKEL COMPOUNDS ARE
+    LISTED AS CARCINOGENS. NICKEL CHLORIDE IS NOT LISTED.  SEE
+    SUPP.DATA
+Effects of Overexposure:EYE:SEVERE IRRITATION  SKIN:IRRITATION,POSSIBLE
+    SENSITIZATION.  INHALED:RESPIRATORY IRRITATION,POSSIBLE LUNG
+    DAMAGE.  INGESTION:NAUSEA,VOMITING,GIDDINESS.
+Medical Cond Aggravated by Exposure:PEOPLE WHO HAVE DEVELOPED NICKLE
+    SENSITIVITY MAY EXPERIENCE ASTHMA,BROCNHITIS,WHEEZING, DIFFICULTY
+    BREATHING.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH W/WATER 15 MIN, HOLD LIDS OPEN.  SKIN:REMOVE
+    CONTAMINATED CLOTHING AND LAUNDER BEFORE REUSE. WASH WITH SOAP &
+    WATER.  INHALED:REMOVE TO FRESH AIR. RESTORE BREATHING AS NEEDED. 
+    INGESTED:GIVE  2 LARGE GLASSES OF MILK OR WATER AND IMMEDIATELY
+    INDUCE VOMITING.  GIVE NOTHING BY MOUTH IF UNCONSCIOUS.  GET
+    IMMEDIATE MEDICAL CARE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON-FLAMMABLE
+Extinguishing Media:PRODUCT IS NON FLAMMABLE.  EXTINGUISH FIRE WITH
+    MEDIA APPROPRIATE FOR SOURCE OF FIRE.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WIPE OR SWEEP UP AND PLACEIN A CLOSED DISPOSAL
+    CONTAINER.	WEAR PROTECTIVE EQUIPMENT BEFITTING THE SIZE OF SPILL. 
+    USE CARE NOT TO CAUSE OR BREATHE DUST.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL,DRY,WELL VENTILATED
+    AREA.  KEEP TIGHTLY CLOSED AND PROTECT FROM MOISTURE.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESPIRATOR WILL NOT NORMALLY BE NECESSARY.  USE
+    NIOSH/MSHA APPROVED AIR SUPPLIED RESPIRATOR OR RESPIRATOR FOR ACID 
+     DUST/MIST IF EXPOSURE IS ABOVE THE TLV/PEL. SEE 29 CFR 1910.134
+    FOR REGULATIONS PER TAINING TO RESPIRATOR USE.
+Ventilation:NORMAL ROOM VENTILATION IS SUFFICIENT.  SUPPLEMENT WITH
+    LOCAL EXHAUST IF PEL/TLV IS EXCEEDED.
+Protective Gloves:RUBBER, VINYL OR OTHER IMPERVIOUS
+Eye Protection:GOGGLES UNLESS FULL FACE PROT. IS WORN
+Other Protective Equipment:FULL WORK CLOTHING, SAFETY SHOES,APRON.
+    SAFETY SHOWER AND EYE WASH STATION.
+Work Hygienic Practices:USE GOOD CHEMICAL HYGIENE PRACTICE. AVOID ALL
+    CONTACT IF POSSIBLE.
+Supplemental Safety and Health
+VW&R CODE:T1360001.  NICKEL REFINING AND SOME NICKEL COMPOUNDS ARE
+    LISTED AS CARCINOGENS.  THUS FAR NICKEL CHLORIDE HAS NOT BEEN FOUND
+    TO CAUSE CANCER, BUT ALL DIRECT CONTACT SHOULD BE AVOIDED IF POSS
+    IBLE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T4
+NRC/State Lic Num:NOT RELEVANT
+Spec Gravity:POWDER
+Solubility in Water:COMPLETE
+Appearance and Odor:GREEN DELEQUESCENT CRYSTALS,NO ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+POTASSIUM (VIOLENT REACTION)
+Stability Condition to Avoid:NONE GIVEN BY MANUMACTURER.
+Hazardous Decomposition Products:NONE GIVEN BY FANUFACTURER -
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W ALL FEDERAL, STATE AND LOCAL
+    REGULATIONS.  MANUFACTURER MAKES NO SUGGESTIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

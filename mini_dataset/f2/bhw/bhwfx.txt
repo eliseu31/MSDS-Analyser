@@ -1,0 +1,139 @@
+=====================  Product Identification  =====================
+
+Product ID:MOLE.SIEVES TYPE 13-X BEADS(10A) SEE SUPP
+MSDS Date:04/28/1980
+FSC:6850
+NIIN:01-051-8569
+MSDS Number: BHWFX
+=== Responsible Party ===
+Company Name:WR GRACE & CO,DAVISON CHEMICAL DIVISION
+Box:2117
+City:BALTIMORE
+State:MD
+ZIP:21203
+Country:US
+Info Phone Num:301-659-9058
+Emergency Phone Num:301-659-9058
+CAGE:74659
+=== Contractor Identification ===
+Company Name:WR GRACE & CO,DAVISON CHEMICAL DIVISION
+Box:City:BALTIMORE
+State:MD
+ZIP:21203
+Country:US
+Phone:301-659-9058
+CAGE:74659
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM ALUMINOSILICATE (SYNTHETIC ZEOLITE),DOES NOT CONTAIN
+    MEASURABLE QUANTITIES OF QUARTZ,CRISTOBALITE,TRIDYMITE.
+CAS:1344-00-9
+Other REC Limits:N/K 
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE SUPP DATA
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:NO KNOWN HAZARDS IN RANGE NORMALLY
+    ENCOUNTERED IN INDUSTRY.
+Explanation of Carcinogenicity:NONE
+Effects of
+    Overexposure:EYES:IRRITATION.SKIN:IRRITATION.INGESTION:CHOKING.DRYI
+    NG OF MUCOUS MEMBRANES.INHALATION:DRYING OF MUCOUS MEMBRANES.
+Medical Cond Aggravated by Exposure:N/K 
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH WITH COPIOUS AMOUNTS OF WATER FOR AT LEAST 15
+    MINUTES.SKIN:N/K .INGESTION:SMALL AMOUNTS WILL PASS THROUGH BODY
+    NORMALLY.IF A SIGNIFICANT QUANTITY IS SWALLOWED,CONSULT A
+    PHYSICIAN.IN C ASE OF CHOKING CAUSED BY INGESTED MATERIAL,DRINK
+    WATER UNTIL BLOCKAGE IS REMOVED.CONSULT A PHYSICIAN.INHALATION:N/K
+    .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONFLAMMABLE
+Lower Limits:N/A 
+Upper Limits:N/A 
+Extinguishing Media:NONFLAMMABLE
+Fire Fighting Procedures:NONFLAMMABLE
+Unusual Fire/Explosion Hazard:NONFLAMMABLE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VACUUM OR SWEEP UP.NOT KNOWN TO HAVE ANY
+    ADVERSE EFFECT ON THE AQUATIC ENVIRONMENT WHEN PROPERLY
+    DISPOSED.INSOLUBLE AND NON-TOXIC.
+Neutralizing Agent:N/K 
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINERS TIGHTLY SEALED.IF
+    TRANSFERRING WITH HIGH PRESSURE AIR,WEAR GOGGLES.GROUND TRANSFER
+    SYSTEM & RECEPTACLES.FOLLOW OPERATING INSTRUCTIONS.
+Other Precautions:PROPER GROUNDING SHOULD BE OBSERVED WHEN POURING FROM
+    A BAG OR DRUM IN THE PRESENCE OF FLAMMABLE VAPORS.BEADS CAN BUILD
+    UP STATIC ELECTRIC CHARGE.USE WITH ADEQUATE
+    VENTILATION.DESICCANT:HANDLE TO AVOI D DUST BUILDUP.WASH GLOVES
+    FREQUENTLY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF DUSTY CONDITIONS DEVELOP,USE A NIOSH-APPROVED
+    RESPIRATOR TO AVOID DRYING OF THE MUCOUS MEMBRANES OF THE NOSE AND
+    THROAT.
+Ventilation:CONSULT LOCAL SAFETY/HEALTH AUTHORITIES IF ADDITIONAL
+    GUIDANCE IS NEEDED .USE WITH ADEQUATE VENTILATION.
+Protective Gloves:CLOSE-WEAVE WITH TIGHT-FITTING WRISTLET.
+Eye Protection:CHEMICAL WORKERS GOGGLES.
+Other Protective Equipment:N/K 
+Work Hygienic Practices:N/K 
+Supplemental Safety and Health
+PART NO:GRADES 542 & 544.DESICCANT ACTIVATED.PH:10.3 IN 5% SLURRY.BULK
+    DENSITY:43 LBS/FT3.LD50-LC50:SIMILAR SIEVES:RAT 48-HOUR EST >31,600
+    MG/KG,RABBIT DERMAL EST >2MG/KG;RAT 1-HOUR >2.8 MG/L.ROUTES O F
+    ENTRY:INHAL/SKIN/INGEST .
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:N/K 
+Melt/Freeze Pt:M.P/F.P Text:N/K 
+Decomp Temp:Decomp Text:N/K 
+Vapor Pres:N/K 
+Vapor Density:N/K 
+Spec Gravity:2.1 (WATER=1)
+pH:SUP DA
+Evaporation Rate & Reference:N/K 
+Solubility in Water:INSOLUBLE
+Appearance and Odor:WHITE OR GRAY OR TAN BEADS.ODORLESS.GRADE 542:4-8
+    MESH.GRADE 544:8-12 MESH.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+REACTS WITH HYDROGEN FLUORIDE AND STRONG ACIDS OR ALKALI.
+Stability Condition to Avoid:N/K 
+Hazardous Decomposition Products:N/K 
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE IN ACCORDANCE WITH
+    FEDERAL,STATE AND LOCAL REGULATIONS.COORDINATION WITH SUPPORTING
+    INSTALLATION AND/OR MACOM ENVIRONMENTAL COORDINATION PRIOR TO
+    DISPOSAL IS RECOMMENDED TO DETERMINE  APPROPRIATE DISPOSAL METHODS
+    .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

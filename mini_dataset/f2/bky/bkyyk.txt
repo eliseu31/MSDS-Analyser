@@ -1,0 +1,101 @@
+=====================  Product Identification  =====================
+
+Product ID:MESNEX, 200 MG AMPULE
+MSDS Date:03/01/1990
+FSC:6505
+NIIN:01-310-7327
+MSDS Number: BKYYK
+=== Responsible Party ===
+Company Name:BRISTOL-MYERS U S PHARM/NUTRITION GROUP
+Address:2400 W LLOYD EXPRESSWAY
+City:EVANSVILLE
+State:IN
+ZIP:47721-6739
+Info Phone Num:(812) 429-6739
+Emergency Phone Num:(812) 429-6739
+CAGE:FO918
+=== Contractor Identification ===
+Company Name:BRISTOL-MYERS U S PHARM/NUTRITIONAL GP
+Address:2400 W LLOYD EXPRESSWAY
+City:EVANSVILLE
+State:IN
+ZIP:47721
+Phone:(812) 429-5678	429-5000
+CAGE:FO918
+Company Name:BRISTOL-MYERS US PHARMACEUTICAL & NUTRITIONAL GP.
+Address:2400 W LLOYD EXPY
+Box:City:EVANSVILLE
+State:IN
+ZIP:47721-0001
+Country:US
+Phone:812-429-5644
+CAGE:29398
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:2-MERCAPTOETHANE SULFONIC ACID MONOSODIUM SALT
+CAS:19767-45-4
+RTECS #:KI7968000
+Fraction by Wt: 10%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): >4400 MG/KG
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES/SKIN: IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES/SKIN: IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES/SKIN: WASH W/WATER. OBTAIN MEDICAL ATTENTION IN ALL
+    CASES. NO SPECIFIC ANTIDOTE.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:CO2, DRY CHEMICAL, WATER, OR FOAM FOR SOURCE OF
+    FIRE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NORMAL METHODS USING ABSORBENT PADS, TOWELS.
+    USE CARE TO PREVENT CUTS FROM BROKEN GLASS AMPULES.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:PROTECT FROM EXCESSIVE HEAT. USE CARE
+    TO PREVENT CUTS FROM BROKEN GLASS AMPULES.
+Other Precautions:FEDERAL LAW PROHIBITS DISPENSING W/OUT PRESCRIPTION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AS NEEDED
+Ventilation:AS NEEDED
+Protective Gloves:AS REQUIRED
+Eye Protection:SAFETY GLASSES, GOGGLES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Appearance and Odor:COLORLESS LIQUID
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:EXCESSIVE HEAT
+Hazardous Decomposition Products:SULFUR DIOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

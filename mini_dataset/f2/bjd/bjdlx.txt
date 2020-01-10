@@ -1,0 +1,157 @@
+=====================  Product Identification  =====================
+
+Product ID:MOBIL AVREX S TURBO 260
+MSDS Date:08/18/1990
+FSC:9150
+NIIN:00-985-7099
+MSDS Number: BJDLX
+=== Responsible Party ===
+Company Name:MOBIL OIL CORP
+Address:3225 GALLONS ROAD
+City:FAIRFAX
+State:VA
+ZIP:22037-0001
+Country:US
+Info Phone Num:800-662-4525
+Emergency Phone Num:609-737-4411(HEALTH), 800-424-9300
+Preparer's Name:ENVIRONMENTAL HEALTH
+CAGE:3U728
+=== Contractor Identification ===
+Company Name:MOBIL OIL CORP, NORTH AMERICAS MARKETING AND REFINING
+Address:3225 GALLOWS ROAD
+Box:City:FAIRFAX
+State:VA
+ZIP:22037
+Country:US
+Phone:800-662-4525/ 856-224-4644
+CAGE:3U728
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TRICRESYLPHOSPHATE
+CAS:1330-78-5
+RTECS #:TD0175000
+Fraction by Wt: 3.0%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:SYNTHETIC OILS
+Fraction by Wt: >90.0%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:5 MG/M3 AS OIL MIST
+ACGIH TLV:5 MG/M3 AS OIL MIST
+
+Ingred Name:TRIORTHOCRESYL PHOSPHATE
+CAS:78-30-8
+RTECS #:TD0350000
+Fraction by Wt: <0.02%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:S, 0.1 MG/M3
+ACGIH TLV:S, 0.1 MG/M3; 9192
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL RAT LD 50:>15 GM/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:IRRITATION OF
+    EYES,SKIN,RESPIRATORY OR G.I.TRACTS;CNS EFFECTS LIKE
+    HEADACHE,DIZZINESS,NAUSEA AND VOMITING. REDNESS OR BURNS OF
+    EYES/SKIN POSSIBLE.CHRONIC:DRYING OF SKIN,DEFATTING OR DERMATITIS.C
+    ONTAINS TRICRESYL PHOSPHATE.MAY PRODUCENERVOUS SYSTEM
+    DISORDERS,G.I. DISTURBANCES,NUMBNESS,MUSCULAR CRAMPS AND WEAKNESS
+Explanation of Carcinogenicity:DATA PER MSDS
+Effects of Overexposure:MAY CAUSE IRRITATION OF EYES,SKIN,RESPIRATORY
+    OR G.I.TRACTS;MAY CAUSE HEADACHE,DIZZINESS,NAUSEA,VOMITING OR GI
+    TRACT DISTURBANCES POSSIBLE.BURNS OR REDNESS OF EYES/CRACKING OR
+    DRYNESS OF SKIN.CONTAINS  TRICRESYL PHOSPHATE. INGESTION MAY
+    PRODUCE NERVOUS SYSTEM DISORDERS,NUMBNESS,MUSCULAR CRAMPS AND
+    WEAKNESS.
+Medical Cond Aggravated by Exposure:PERSONS WITH A HISTORY OF AILMENTS
+    OR WITH A PRE-EXISTING DISEASE INVOLVING THE EYES, SKIN, OR
+    RESPIRATORY TRACT MAY BE AT INCREASED RISK FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION:REMOVE TO FRESH AIR. RESUSCITATE IF NOT BREATHING.
+    GET MEDICAL ATTENTION. EYES:IMMEDIATELY FLUSH WITH PLENTY OF WATER
+    FOR 15 MINUTES HOLDING EYELIDS OPEN. GET MEDICAL ATTENTION.
+    SKIN:REMOVE  CONTAMINATED CLOTHING. WASH WITH SOAP AND WATER. IF
+    IRRITATION PERSISTS, GET MEDICAL ADVICE.  INGESTION:DO NOT INDUCE
+    VOMITING. GIVE NOTHING BY MOUTH IF UNCONSCIOUS. GET IMMEDIATE
+    MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:455F,235C
+Lower Limits:0.6
+Upper Limits:7.0
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:NONE NOTED
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPER PERSONAL PROTECTION;CONTAIN FREE
+    MATERIAL IF POSSIBLE;USE SUITABLE INERT ABSORBENT MATERIAL AND
+    RECOVER FOR PROPER DISPOSAL IN AN APPROVED CONTAINER.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL VENTILATED
+    AREA. KEEP CONTAINERS TIGHTLY CLOSED WHEN NOT IN USE. PROTECT
+    CONTAINERS FROM PHYSICAL DAMAGE.
+Other Precautions:DO NOT TAKE INTERNALLY. DO NOT BREATHE MIST. AVOID
+    PROLONGED OR REPEATED BREATHING OF VAPOR. AVOID CONTACT WITH EYES.
+    USE WITH ADEQUATE VENTILATION. WASH THOROUGHLY AFTER HANDLING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR AS REQUIRED
+    IF ABOVE PEL/TLV OR SCBA IN AN ENCLOSED AREA.
+Ventilation:LOCAL/GENERAL TO MAINTAIN PEL/TLV.
+Protective Gloves:NEOPRENE, NITRILE, OR NATURAL RUBBER
+Eye Protection:SAFETY GOGGLES WITH OPTIONAL FACE SHIELD
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER,WORK
+    CLOTHING AND APRON AS REQUIRED.
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES. DO NOT WEAR CONTAMINATED CLOTHING OR
+    FOOTWEAR.
+Supplemental Safety and Health
+AVOID PROLONGED OR REPEATED EXPOSURE. DO NOT GET ON SKIN OR IN EYES. DO
+    NOT BREATHE VAPORS OR MISTS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:>600F,>316C
+Vapor Pres:<0.1
+Spec Gravity:1.0
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:AMBER LIQUID,MILD ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HIGH TEMPERATURES, SPARKS, AND OPEN FLAMES
+Hazardous Decomposition Products:CARBON MONOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT LOCAL AUTHORITIES.DISPOSAL MUST BE MADE
+    IN ACCORDANCE WITH ALL APPLICABLE FEDERAL, STATE AND LOCAL LAWS AND
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

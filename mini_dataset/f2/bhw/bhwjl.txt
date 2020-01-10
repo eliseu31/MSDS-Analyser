@@ -1,0 +1,175 @@
+=====================  Product Identification  =====================
+
+Product ID:ENAMEL ALKYD SEMIGLOSS GRAY	26307 ID745636
+MSDS Date:06/05/1989
+FSC:8010
+NIIN:00-901-1061
+MSDS Number: BHWJL
+=== Responsible Party ===
+Company Name:PRATT & LAMBERT, INC.
+Box:2153
+City:WICHITA
+State:KS
+ZIP:67201
+Country:US
+Info Phone Num:316-733-1361
+Emergency Phone Num:316-733-1361
+Preparer's Name:W.A. ELLISON
+CAGE:FO127
+=== Contractor Identification ===
+Company Name:PRATT & LAMBERT, INC/BUFFALO, NY 14240
+Box:22
+CAGE:FO127
+Company Name:PRATT AND LAMBERT INC
+Address:Box:6027
+City:CLEVELAND
+State:OH
+ZIP:44101-1027
+Country:US
+Phone:216-566-2902
+CAGE:61196
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 15%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:TALC (CONTAINING NO ASBESTOS)
+CAS:14807-96-6
+RTECS #:WW2710000
+Fraction by Wt: 20%
+OSHA PEL:2 MG/M3 RDUST
+ACGIH TLV:2 MG/M3 RDUST; 9192
+
+Ingred Name:SILICA, CRYSTALLINE - QUARTZ
+CAS:14808-60-7
+RTECS #:VV7330000
+Fraction by Wt: 1%
+OSHA PEL:SEE TABLE Z3
+ACGIH TLV:0.1 MG/M3 RDUST;9293
+
+Ingred Name:MINERAL SPIRITS					       
+    (VP 2 MM HG @ 20 DEG.C)
+CAS:64475-85-0
+RTECS #:PY8240000
+Fraction by Wt: 35%
+OSHA PEL:500 PPM 2950 MG/CU.M
+ACGIH TLV:100 PPM 525 MG/CU.M.
+
+Ingred Name:LEAD  (SARA III)
+CAS:7439-92-1
+RTECS #:OF7525000
+Fraction by Wt: 1%
+OSHA PEL:0.05 MG/M3;1910.1025
+ACGIH TLV:0.15 MG/M3;DUST 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:VOC. ORGANIC CMPD 3.66 LB/GL LESS WATER & NPRS* 439 G/L
+    LESSWATER VOC  8.31 LB/GAL SOLIDS  997 G/L SOLIDS CALCULATED.
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES
+Health Hazards Acute and Chronic:REPEATED EXPOSURE TO CRYSTALLINE
+    SILICA MAY CAUSE PNEUMOCONIOSIS.  OVEREXPOSURE TO XYLENE MAY CAUSE
+    INJURY TO LIVER, KIDNEYS, AND BLOOD.  OVEREXPOSURE TO SOLVENTS MAY
+    CAUSE BRAIN AND NERVOUS SYSTEM DA MAGE.
+Explanation of Carcinogenicity:CHROMIUM AND CERTAIN CHROMIUM COMPOUNDS
+    ARE LISTED AS POTENTIAL CARCINOGENS BY NTP AND IARC.  LEAD CHROMATE
+    LISTED/IARC
+Effects of Overexposure:CHRONIC OVEREXPOSURE MAY CAUSE LOSS OF
+    APPETITE, METALLIC TASTE IN THE MOUTH, CONSTIPATION, NAUSEA,
+    WEAKNESS, INSOMNIA, HEADACHE, MUSCLE AND JOINT PAIN, FINE  
+    TREMORS, NUMBNESS, DIZZINESS, HYPERACTIV ITY, AND COLIC.
+
+=======================  First Aid Measures  =======================
+
+First Aid:IF SWALLOWED, INDUCE VOMITING IMMEDIATELY  BY GIVING 2
+    GLASSES OF WATER. INHAL-REMOVE TO FRESH AIR, KEEP WARM AND QUIET. 
+    GET MEDICAL ATTENTION IMMEDIATELY.	EYE-FLUSH WITH LARGE AMOUNTS OF
+    WATER FOR  15 MINUTES.  SKIN-WASH AFFECTED AREA WITH SOAP AND
+    WATER.  GET MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:102F- 38.89C
+Extinguishing Media:CLASS B FIRE EXTINGUISHERS DESIGNED TO EXTINGUISH
+    FLAMMABLE LIQUID FIRES.  POLYMER FOAM IS PREFERRED FOR LARGE FIRES.
+Fire Fighting Procedures:FIREFIGHTERS SHOULD WEAR SELF-CONTAINED
+    BREATHING APPARATUS.  WATER MAY BE USED TO COOL EXPOSED CONTAINERS
+    TO PREVENT PRESSURE BUILD-UP.
+Unusual Fire/Explosion Hazard:KEEP CONTAINERS TIGHTLY CLOSED.  ISOLATE
+    FROM HEAT, ELECTRICAL EQUIPMENT, SPARKSAND FLAME.  CLOSED
+    CONTAINERS MAY EXPLODE WHEN EXPOSED TO EXTREME HEAT
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:KEEP SPECTATORS AWAY.	ELIMINATE ALL IGNITION
+    SOU RCES.  DIKE AND CONTAIN SPILL W/INERT MATERIAL.  TRANSFER
+    LIQUIDS TO COVERED METAL CONTAINERS FOR RECOVERY OR DISPOSAL.  USE
+    NON-SPARKING TOOLS.  PREV ENT CONTAMINATION OF SEWERS, STREAMS &
+    GROUND WTR.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT STORE ABOVE 120 DEGREES F.     
+	       STORE LARGE QUANTITIES IN COMPLIANCE WITH OSHA	 29CFR
+    1910.106.
+Other Precautions:DO NOT TAKE INTERNALLY.CLOSE CONTAINER AFTER EACH
+    USE.DONOT BREATHE SANDING DUSTEMPTY CONTAINERS MUST NOT BE WASHED
+    AND RE-USED. DONOT WELD, BRAZE OR CUT ON	EMPTY CONTAINER.NEVER
+    USE PRESSURE TO EM PTY.CONTAINERS MUST BE GROUNDED & BONDED
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH APPRVED MECHANICAL FILTER RESPIRATOR
+    WHEN SPRAYING IN WELL-VENTILATED AREAS. TO REMOVE OVERSPRAY. IN
+    RESTRICTED VENTILATION AREAS USE NIOSH CHEMICAL/MECHANICAL CARTRGE
+    FILTER.CONFINED AREAS  USE NIOSH APPRVD AIR SUPPLIED RESPIRATOR
+Ventilation:PROVIDE GENERAL DILUTION AND LOCAL EXHAUST VENTILATION. 
+    REFER TO 29CFR1910.1025 FOR VENTILATION REQUIREMENTS FOR LEAD
+Protective Gloves:RPTD CONTACT SOLVENT IMPERMEABLE GLOVES
+Eye Protection:SAFETY GLASSES W/SIDE SHIELDS. *
+Other Protective Equipment:AS REQUIRED TO PREVENT SKIN CONTACT.  SEE
+    OSHA STANDARD FOR LEAD.
+Supplemental Safety and Health
+*WEAR FACE SHIELD AS NECESSARY WHEN SPRAYING.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:280F - 388F
+Vapor Density:>AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:55
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS OR ALKALINE MATERIALS
+Stability Condition to Avoid:NONE KNOWN
+Hazardous Decomposition Products:BURNING WILL PRODUCE SMOKE, CARBON
+    MONOXIDE & CARBON DIOXIDEOXIDES OF LEAD MAY BE GENERATED.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN ACCORDANCE WITH FEDERAL,STATE AND
+    LOCALLAWS.	INCINERATE ONLY IN EPA PERMITTED FACILITY. DO NOT
+    INCINERATE CLOSED CONTAINERS. OBSERVE PRE- CAUTIONS FOR DISPOSAL OF
+    FLAMMABLE MATERIALS.      RCRA CLASSIFICATION D001.EPA TOXIC WASTE
+    LEAD/D008
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

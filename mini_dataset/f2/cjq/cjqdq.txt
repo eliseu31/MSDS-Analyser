@@ -1,0 +1,145 @@
+=====================  Product Identification  =====================
+
+Product ID:G-113, YTTRIUM IRON OXIDE
+MSDS Date:09/06/1994
+FSC:5350
+NIIN:00N092018
+Status Code:A
+MSDS Number: CJQDQ
+=== Responsible Party ===
+Company Name:TRANS-TECH INC
+Address:5520 ADAMSTOWN ROAD
+City:ADAMSTOWN
+State:MD
+ZIP:21710
+Country:US
+Info Phone Num:301-695-9400
+Emergency Phone Num:301-695-9400
+CAGE:14591
+=== Contractor Identification ===
+Company Name:TRANS-TECH INC
+Address:5520 ADAMSTOWN ROAD
+Box:City:ADAMSTOWN
+State:MD
+ZIP:21710
+Country:US
+Phone:301-695-9400
+CAGE:14591
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:YTTRIUM IRON GARNET (MAJOR CONSTITUENT)
+CAS:12063-56-8
+< Wt:99.
+
+Ingred Name:YTTRIUM OXIDE (Y2O3)  (INITIAL CONSTITUENTS)
+CAS:1314-36-9
+RTECS #:ZG3850000
+= Wt:46.
+
+Ingred Name:IRON OXIDE RED (FE2O3) (INITIAL CONSTITUENTS)
+CAS:1309-37-1
+RTECS #:NO7400000
+= Wt:54.
+OSHA PEL:10 MG/M3
+ACGIH TLV:5 MG/M3;2 PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: IRRITATION OF EYES, SKIN AND/OR
+    RESPIRATORY SYSTEM (DRY THROAT, COUGH). CHRONIC: LIVER DAMAGE;
+    PNEUNONITIS; PNEUMONCONIOSIS; PARKINSON'S; ASTHENIA, METAL FUME
+    FEVER.
+Explanation of Carcinogenicity:NOT APPLICABLE.
+Effects of Overexposure:SEE HEALTH HAZARD.
+Medical Cond Aggravated by Exposure:NOT KNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. IF NOT BREATHING, ADMINISTER
+    ARTIFICIAL RESPIRATION. EYES: FLUSH THOROUGHLY WITH WATER FOR AT
+    LEAST 15 MINUTES. SKIN: WASH THOROUGHLY WITH SOAP AND WATER.
+    INGESTION: S EEK MEDICAL ATTENTION IMMEDIATELY. SEEK MEDICAL
+    ATTENTION FOR ALL CASES OF OVEREXPOSURE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NOT FLAMMABLE
+Extinguishing Media:USE APPROPRIATE EXTINGUISHING AGENT.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:FINELY DIVIDED POWDER IN PRESENT AN
+    UNUSUAL FIRE HAZARD PARTICULARLY IN THE PRESENCE OF COMBUSTIBLE
+    MATERIAL.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONSOLIDATE MATERIALS INTO DRY CONTAINERS AND
+    COVER. VACUUM COLLECTION IS PREFERABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:HANDLING: AVOID AGITATION TO PREVENT
+    DUSTING. USE ONLY WITH ADEQUATE VENTILATION. USE PERSONAL
+    PROTECTIVE EQUIPMENT WHEN DUSTING CONDITIONS PREVAIL. STORE: KEEP
+    TIGHTLY CLOSED CONTAINER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:APPROPRIATE NIOSH RESPIRATOR IF TLV IS EXCEEDED.
+Ventilation:MATERIAL SHOULD BE HANDLED OR TRANSFERRED IN AN APPROVED
+    FUME HOOD OR WITH ADEQUATE VENTILATION.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:EYE WASH AND DELUGE SHOWER MEETING ANSI
+    DESIGN CRITERIA . APRON.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING. WORK CLOTHES
+    SHOULD BE CHANGED AND LAUNDERED DAILY. DO NOT TAKE INTERNALLY.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:5.17 (H*2O=1)
+Solubility in Water:INSOLUBLE
+Appearance and Odor:SINTERED MATERIAL IS BLACK; POWER VARIES FROM LIGHT
+    GREEN TO BLACK; NONE ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS OR FLUXES.
+Stability Condition to Avoid:NOT APPLICABLE.
+Hazardous Decomposition Products:NOT APPLICABLE.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:TOXICITY DATA: NO CONCLUSIVE INFORMATION
+    AVAILABLE FOR TOXICITY OF MAJOR CONSTITUENT.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN ACCORDANCE WITH CURRENT LOCAL, STATE
+    AND FEDERAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:TRANSPORT IN ACCORDANCE WITH ALL APPLICABLE
+    FEDERAL, STATE AND LOCAL REGULATIONS.
+
+=====================  Regulatory Information  =====================
+
+State Regulatory Information:
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

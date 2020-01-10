@@ -1,0 +1,136 @@
+=====================  Product Identification  =====================
+
+Product ID:AMMONIUM CARBONATE,ACS REAGENT
+MSDS Date:01/07/1987
+FSC:6810
+NIIN:00-234-8358
+MSDS Number: BLPDZ
+=== Responsible Party ===
+Company Name:ALDRICH CHEMICAL CO INC.
+Address:1001 W. ST. PAUL AVE
+Box:2060
+City:MILWAUKEE
+State:WI
+ZIP:53201
+Country:US
+Info Phone Num:414-273-3850
+Emergency Phone Num:414-273-3850
+CAGE:60928
+=== Contractor Identification ===
+Company Name:ALDRICH CHEMICAL CO INC
+Address:1001 WEST ST PAUL AVE
+Box:355
+City:MILWAUKEE
+State:WI
+ZIP:53233
+Country:US
+Phone:414-273-3850
+CAGE:60928
+Company Name:SHAPE PRODUCTS
+Address:1127 57TH AVE.
+Box:City:OAKLAND
+State:CA
+ZIP:94621-4427
+Country:US
+Phone:510-534-1186 OR 800-444-0015
+CAGE:3D869
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:AMMONIUM CARBONATE	(SARA III)
+CAS:506-87-6
+RTECS #:BP1925000
+Fraction by Wt: 100%
+Other REC Limits:NONE SPECIFIED
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE- MAY BE HARMFUL BY INHALATION,
+    INGESTION OR SKIN ABSORPTION. CAUSES EYE AND SKIN IRRITATION.
+    MATERIAL IS IRRITATING TO MUCOUS MEMBRANES AND UPPER RESPIRATORY
+    TRACT.
+Effects of Overexposure:MATERIAL IS IRRITATING TO EYES, SKIN, MUCOUS
+    MEMBRANES AND UPPER RESPIRATORY TRACT.
+Medical Cond Aggravated by Exposure:PRE-EXISTING SKIN DISORDERS
+
+=======================  First Aid Measures  =======================
+
+First Aid:CALL A PHYSICIAN IF SYMPTOMS PERSIST. INHALATION: REMOVE TO
+    FRESH AIR. GIVE CPR/OXYGEN IF NEEDED. EYES: FLUSH WITH WATER FOR AT
+    LEAST 15 MINUTES, HOLDING EYELIDS OPEN. SKIN: WASH WITH SOAP &
+    WATER. IN GESTION: CALL A PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL FOR SURROUNDING FIRE.
+Fire Fighting Procedures:WEAR FIRE FIGHTING PROTECTIVE EQUIPMENT AND A
+    FULL FACED SELF CONTAINED BREATHING APPARATUS. EVACUATE AREA. COOL
+    FIRE EXPOSED CONTAINERS WITH WATER SPRAY.
+Unusual Fire/Explosion Hazard:TOXIC FUMES
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR RESPIRATOR, CHEMICAL SAFETY GOGGLES,
+    RUBBER BOOTS AND HEAVY RUBBER GLOVES. VENTILATE AREA. AVOID RAISING
+    DUST. CAREFULLY SWEEP UP AND PUT IN A BAG FOR WASTE DISPOSAL. WASH
+    SPILL SITE AFTER MATERI AL PICKUP IS COMPLETE.
+Neutralizing Agent:WEAK ACID
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORAGE-STORE IN A COOL DRY PLACE.
+    KEEP TIGHTLY CLOSED.
+Other Precautions:INCOMPATIBLE WITH ACID SALTS, SALTS OF ZINC AND IRON,
+    ALKALOIDS, ALUM, TARTAR EMETIC AND CALOMEL. AVOID BREATHING DUST.
+    AVOID CONTACT WITH EYES, SKIN AND CLOTHING. AIR-SENSITIVE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED WHERE ADEQUATE VENTILATION
+    CONDITION EXISTS.IF AIRBORNE CONCENTRATION IS HIGH, USE A
+    NIOSH/MSHA APPROVED RESPIRATOR OR DUST MASK.
+Ventilation:MECHANICAL (GENERAL) EXHAUST
+Protective Gloves:NATURAL RUBBER.
+Eye Protection:SAFETY GOGGLES
+Other Protective Equipment:PROTECTIVE CLOTHING AND EQUIPMENT TO PREVENT
+    ANY POSSIBILITY OF SKIN CONTACT. EYE WASH STATION & SAFETY SHOWER.
+Work Hygienic Practices:WASH THOROUGHLY AFTER USE AND BEFORE EATING OR
+    DRINKING. LAUNDER CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Decomp Temp:Decomp Text:136F,58C
+Appearance and Odor:WHITE POWDER - AMMONIA ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:NO
+STRONG ACIDS AND AIR
+Stability Condition to Avoid:MAY DECOMPOSE ON EXPOSURE TO AIR.
+Hazardous Decomposition Products:AMMONIA, CARBON MONOXIDE AND CARBON
+    DIOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:FOR SMALL QUANTITIES,CAUTIOUSLY ADD TO A LARGE
+    STIRRED EXCESS OF WATER.ADJUST THE PH TO NEUTRAL.SEPARATE ANY
+    INSOLUBLES FOR HAZARDOUS-WASTE DISPOSAL.FLUSH THE AQUEOUS SOLUTION
+    DOWN THE DRAIN WITH PLEN TY OF WATER.OBSERVE ALL FEDERAL,STATE
+    &LOCAL LAWS
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

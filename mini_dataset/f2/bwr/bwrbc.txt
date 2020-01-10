@@ -1,0 +1,147 @@
+=====================  Product Identification  =====================
+
+Product ID:340,340BIL
+MSDS Date:01/03/1991
+FSC:5330
+NIIN:00-565-5879
+MSDS Number: BWRBC
+=== Responsible Party ===
+Company Name:AMERICAN BRAIDING AND MFG CORP
+Address:247 OLD TAVERN ROAD
+City:HOWELL
+State:NJ
+ZIP:07731
+Country:US
+Info Phone Num:908-938-6333   FAX-6377
+Emergency Phone Num:908-938-6333
+CAGE:4R345
+=== Contractor Identification ===
+Company Name:AMERICAN BRAIDING AND MFG CORP
+Address:247 OLD TAVERN ROAD
+Box:City:HOWELL
+State:NJ
+ZIP:07731
+Country:US
+Phone:732-938-6333   ...FAX 6377
+CAGE:4R345
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ASBESTOS, CHRYSOTILE
+CAS:12001-29-5
+RTECS #:CI6478500
+Fraction by Wt: >30%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:0.2 FIBERS/CC
+ACGIH TLV:2 FIBERS/CC; A1;9394
+
+Ingred Name:POLYTETRAFLUOROETHYLENE
+CAS:116-14-3
+RTECS #:KX4025000
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:TLV FOR ASBESTOS IS 0.2 FIBERS/CC
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:YES
+Health Hazards Acute and Chronic:NON HAZARDOUS UNLESS SUBJECTED TO
+    MECHANICAL ACTION THAT WOULD RELEASE FIBERS.ACUTE HAZARD:EYE AND
+    SKIN IRRITATION. PTFE FUMES(ABOVE 500F) MAY CAUSE RESPIRATORY
+    IRRITATION. CHRONIC HAZARD:INHALATION O F AIRBORNE FIBERS CAN CAUSE
+    ASBESTOSIS,LUNG CANCER AND MESOTHELIOMA.INGESTION CAN CAUSE CANCER
+    OF GI TRACT AND LARYNX.
+Explanation of Carcinogenicity:ASBESTOS IS LISTED UNDER NTP,IARC AND
+    OSHA. ETHYLENE THIOUREA IS LISTED UNDER NTP AND IARC.
+Effects of Overexposure:EYE/SKIN:IRRITATION. INHALATION:LABORED
+    BREATHING,RESTRICTED PULMONARY FUNCTION.PTFE FUME MAY CAUSE
+    FLU-LIKE SYMPTOMS.
+Medical Cond Aggravated by Exposure:INDIVIDUALS WITH A HISTORY OF SKIN
+    AND RESPIRATORY DISORDERS MAY BE AT INCREASED RISK FROM EXPOSURE.
+    HIGHER RISK WITH SMOKERS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH WITH PLENTY OF WATER FOR AT LEAST 15 MINUTES.IF
+    IRRITATION PERSISTS,SEE DOCTOR. SKIN:WASH WITH SOAP AND WATER WHILE
+    REMOVING CONTAMINATED CLOTHING AND SHOES.IF IRRITATION PERSISTS,SEE
+    DOCTO R. INHALATION:REMOVE VICTIM TO FRESH AIR.SEE DOCTOR.
+    INGESTION:NO SPECIFIC ACTION.SEE DOCTOR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL.
+Fire Fighting Procedures:WEAR FIRE FIGHTING PROTECTIVE EQUIPMENT AND A
+    FULL FACED SELF CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:SOME OIL MAY WEEP FROM THE FINISHED
+    PRODUCT.COMBUSTION OR HEAT OF FIRE MAY PRODUCE HAZARDOUS
+    DECOMPOSITION PRODUCTS AND VAPORS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WET WASTE.VACUUM UP ANY WASTE WITH HEPA
+    FILTERED VACUUM CLEANER. WEAR PROTECTIVE EQUIPMENT AND HALF FACE
+    RESPIRATOR WITH HEPA FILTERS. PLACE WASTE IN A PROPER CONTIANER FOR
+    DISPOSAL.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN CLEAN,DRY PLACE,AWAY FROM
+    STRONG ACIDS AND ALKALIES. NORMAL WASH UP AFTER HANDLING IS
+    RECOMMENDED.
+Other Precautions:ASBESTOS IS BONDED BY AN ELASTOMETER COMPOUND,
+    HOWEVER, DO NOT MISUSE BY IMPROPER CUTTING OR HANDLING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY REQUIRED. IF FIBERS MAY BE
+    RELEASED, USE NIOSH APPROVED HALF FACE RESPIRATOR WITH HEPA
+    FILTERS. FOR PTFE FUMES USE A NIOSH/MSHA RESPIRATOR FOR ORGANIC
+    VAPORS.
+Ventilation:NO SPECIAL REQUIREMENT UNDER NORMAL CONDITIONS. IF FIBERS
+    MAY BE RELEASED, USE LOCAL EXHAUST VENTILATION.
+Protective Gloves:NOT NORMALLY REQUIRED.
+Eye Protection:SAFETY GLASSES.
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING AND BEFORE
+    EATING. LAUNDER CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+AS MANUFACTURED, LOCKED-IN ASBESTOS DOES NOT PRESENT A HAZARD. ONLY
+    WHEN THE ITEM IS SUBJECTED TO ABRASIVE ACTIONS AND DUST IS
+    GENERATED, THEN ASBESTOS FIBERS MAY BE RELEASED AND BECOME
+    AIRBORNE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T6
+Spec Gravity:1.5
+Solubility in Water:INSOLUBLE
+Appearance and Odor:ROPE;WHITE TO GRAY,SHINY.ODOR NOT REPORTED.
+Percent Volatiles by Volume:NIL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS AND ALKALIES.
+Stability Condition to Avoid:TEMPERATURES ABOVE 600F.
+Hazardous Decomposition
+    Products:TETRAFLUOROETHYLENE,HEXAFLUOROPROPYLENE,CARBONYL FLUORIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTACT YOUR LOCAL ENVIRONMENTAL OFFICER.
+    ASBESTOS DUST SHOULD BE WETTED AND VACUUMED UP WITH HEPA FILTERED
+    VACUUM CLEANER,SEALED IN A PLASTIC BAG,AND TURNED IN TO DISPOSAL
+    COMPANY.DISPOSE OF IN ACCOR DANCE WITH ALL LAWS AND REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

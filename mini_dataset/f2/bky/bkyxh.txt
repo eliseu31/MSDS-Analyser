@@ -1,0 +1,82 @@
+=====================  Product Identification  =====================
+
+Product ID:721423 GLUCOSE HEXOKINASE
+MSDS Date:10/14/1987
+FSC:6550
+NIIN:01-262-2295
+MSDS Number: BKYXH
+=== Responsible Party ===
+Company Name:CIBA CORNING DIAGNOSTICS CORP
+Address:132 ARTINO STREET
+City:OBERLIN
+State:OH
+ZIP:44074
+Info Phone Num:(216) 774-1041
+Emergency Phone Num:(216) 774-1041
+CAGE:24143
+=== Contractor Identification ===
+Company Name:CIBA CORNING DIAGNOSTICS CORP GILFORD SYSTEMS
+Address:132 ARTINO ST
+Box:City:OBERLIN
+State:OH
+ZIP:44074-1206
+Country:US
+Phone:216-774--1041
+CAGE:24143
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NON-HAZARDOUS FOR INGREDIENTS
+Fraction by Wt: 100%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN/EYES: IRRITATION. INHALATION:
+    RESPIRATORY IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN/EYES: IRRITATION. INHALATION: RESPIRATORY
+    IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN/EYES: FLUSH AREA W/WATER FOR 15 MINS. OBTAIN MEDICAL
+    ATTENTION IN ALL CASES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP DRY. THEN FLUSH AFFECTED AREA
+    W/WATER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:DUST MASK RECOMMENDED
+Ventilation:GENERAL
+Protective Gloves:RECOMMENDED
+Eye Protection:RECOMMENDED
+Other Protective Equipment:AS REQUIRED
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Solubility in Water:COMPLETE
+Appearance and Odor:WHITE POWDER, NO ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

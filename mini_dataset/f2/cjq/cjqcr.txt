@@ -1,0 +1,149 @@
+=====================  Product Identification  =====================
+
+Product ID:DEGREASOL FORMULA 99-R
+MSDS Date:01/05/1998
+FSC:6850
+NIIN:00-606-1221
+Status Code:A
+MSDS Number: CJQCR
+=== Responsible Party ===
+Company Name:KLEER-FLO CO.
+Address:15151 TECHNOLOGY DRIVE
+City:EDEN PRAIRIE
+State:MN
+ZIP:55344-3403
+Country:US
+Info Phone Num:612-934-2555
+Emergency Phone Num:612-934-2555
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:16649
+=== Contractor Identification ===
+Company Name:KLEER-FLO CO.
+Address:15151 TECHNOLOGY DRIVE
+Box:City:EDEN PRAIRIE
+State:MN
+ZIP:55344-3403
+Country:US
+Phone:612-934-2555
+Contract Num:SP0450-99-MNC71
+CAGE:16649
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PETROLEUM ALIPHATIC HYDROCARBON MIXTURE
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50(RAT): UNKNOWN.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: MILD EYE IRRITATION UPON
+    CONTACT WITH LIQUID OR VAPOR. INHALATION MAY RESULT IN RESPIRATORY
+    IRRITATION AND CNS DEPRESSION. CHRONIC: PROLONGED OR REPEATED SKIN
+    CONTACT MAY LEAD TO DRYING, IRRITA TION AND DERMATITIS.
+Effects of Overexposure:SYMPTOMS INCLUDE: HEADACHE, DIZZINESS, NAUSEA,
+    FATIGUE, LOSS OF COORDINATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES-IMMEDIATELY FLUSH EYES WITH LARGE AMOUNTS OF WATER WHILE
+    HOLDING THE EYELIDS OPEN. GET MEDICAL ATTENTION IF IRRITATION
+    PERSISTS. SKIN-REMOVE CONTAMINATED CLOTHING. FLUSH SKIN WITH LARGE
+    AMOUNTS O F WATER, THEN WASH WITH SOAP AND WATER. SEEK MEDICAL
+    ATTENTION IF IRRITATION PERSISTS. INHALATION-MOVE VICTIM TO FRESH
+    AIR AND RESTORE BREATHING IF NECESSARY. STAY WITH VICTIM UNTIL
+    ARRIVAL OF EMERGEN CY MEDICAL PERSONNEL. INGESTION-CONTACT LOCAL
+    POSION CONTROL CENTER OR PHYSICIAN IMMEDIATELY. ASPIRATION HAZARD.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:=60.6C, 141.F
+Lower Limits:1
+Upper Limits:6
+Extinguishing Media:DRY CHEMICAL,CARBON DIOXIDE,HALON,FOAM,OR WATER
+    SPRAY.
+Fire Fighting Procedures:FIREFIGHTERS SHOULD WEAR SELF-CONTAINED
+    BREATHING APPARATUS.USE WATER SPRAY TO COOL FIRE-EXPOSED
+    CONTAINERS. PRODUCT IS SENSITIVE TO STATIC DISCHARGE.
+Unusual Fire/Explosion Hazard:AS WITH ANY CLOSED CONTAINER,EXTREME HEAT
+    MAY CAUSE IT TO EXPLODE.USE WATER SPRAY OR FOG TO COOL FIRE-EXPOSED
+    CONTAINERS
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PERSONAL PROTECTIVE EQUIPMENT. REMOVE
+    HEAT AND IGNITION SOURCES AND STOP LEAK IF YOU CAN DO SO WITHOUT
+    RISK, VENTILATE THE AREA; CLEAN UP WITH INERT ABSORBENT SUCH AS
+    VERMICULITE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN CLOSED CONTAINER IN COOL,
+    WELL VENTILATED AREA.
+Other Precautions:DO NOT USE THIS PRODUCT BEFORE READING THE MATERIAL
+    SAFETY DATA SHEET. KEEP AWAY FROM HEAT, SPARKS AND FLAMES. CONTAINS
+    PETROLEUM DISTILLATES. KEEO CONTAINERS CLOSED WHEN NOT IN USE. OPEN
+    CONTAINER SL OWLY TO RELIEVE PRESSURE. DO NOT TANSFER TO UNMARKED
+    CONTAINER. GROUND CONTAINER BEFORE TRANSFERRING .
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF TLV IS EXCEEDED, OR FOR SYMPTOMS OF
+    OVEREXPOSURE,WEAR A NIOSH-APPROVED RESPIRATOR FOR ORGANIC VAPORS.
+Ventilation:PROVIDE ADEQUATE GENERAL DILUTION VENTILATION.LOCAL EXHAUST
+    MAY BE NECESSARY UNDER SOME HANDLING/USE CONDITIONS.
+Protective Gloves:NEOPRENE OR OTHER CHEMICAL RESISTANT GLOVES
+Eye Protection:IF SPLASH POTENTIAL EXISTS, WEAR CHEMICAL SPLASH GOGGLES
+    OR FACESHIELD.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:=179.4C, 355.F
+Vapor Pres:0.5
+Vapor Density:5.48
+Spec Gravity:0.772
+Evaporation Rate & Reference:.006(ETHER=1)
+Solubility in Water:SLIGHT
+Appearance and Odor:CHERRY RED LIQUID; MILD SOLVENT ODOR
+Percent Volatiles by Volume:.99
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS AND BASES,STRONG OXIDIZING AGENTS,AND SELECTED AMINES.
+Stability Condition to Avoid:AVOID HEAT,OPEN FLAME AND SOURCES OF
+    IGNITION
+Hazardous Decomposition Products:CARBON MONOXIDE AND CARBON DIOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE IN ACCORDANCE WITH LOCAL, STATE
+    AND FEDERAL REGULATIONS. RECYCLING THIS PRODUCT OR ITS RESIDUES
+    SHOULD BE CONSIDERED.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:DOT INFORMATION: HM, COMBUSTIBLE LIQUID, N.O.S.,
+    (ALIPHATIC HYDROCARBON), COMBUSTIBLE LIQUID, NA 1993, PG II.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:NONE.
+Federal Regulatory Information:EPA REPORTABLE QUANTITY: NONE. ALL
+    INGREDIENTS ARE LISTED IN THE TSCA INVENTORY.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

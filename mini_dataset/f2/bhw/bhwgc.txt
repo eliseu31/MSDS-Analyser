@@ -1,0 +1,165 @@
+=====================  Product Identification  =====================
+
+Product ID:SPADNS REAGENT FOR FLUORIDE
+MSDS Date:07/10/1987
+FSC:6810
+NIIN:01-105-1428
+MSDS Number: BHWGC
+=== Responsible Party ===
+Company Name:HACH CO
+Box:907
+City:AMES
+State:IA
+ZIP:50010
+Country:US
+Info Phone Num:515-232-2533
+Emergency Phone Num:515-232-2533
+CAGE:4T252
+=== Contractor Identification ===
+Company Name:HACH CO
+Address:5600 LINDBERGH DR
+Box:389
+City:LOVELAND
+State:CO
+ZIP:80539
+Country:US
+Phone:970-669-3050/ 303-623-5716
+CAGE:91224
+Company Name:HACH COMPANY
+Address:100 DAYTON RD.
+Box:907
+City:AMES
+State:IA
+ZIP:50010
+Country:US
+Phone:800-227-4224
+CAGE:4T252
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM ARSENITE  (SARA III)
+CAS:7784-46-5
+RTECS #:CG3675000
+Fraction by Wt: <0.5%
+Other REC Limits:N/K 
+OSHA PEL:SEE 1910.1018
+ACGIH TLV:0.2 MG AS/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:HYDROGEN CHLORIDE  (HYDROCHLORIC ACID)  (SARA III)
+CAS:7647-01-0
+RTECS #:MW4025000
+Fraction by Wt: <40%
+Other REC Limits:N/K 
+OSHA PEL:C 5 PPM
+ACGIH TLV:C 5 PPM; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:OTHER COMPONENTS,EACH <0.1%
+Other REC Limits:N/K 
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:DEMINERALIZED WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: TO 100%
+Other REC Limits:N/K 
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 RAT ORAL 540 MG/KG.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:YES
+Health Hazards Acute and Chronic:CORROSIVE TO EYES,SKIN AND RESPIRATORY
+    TRACT.
+Explanation of Carcinogenicity:ARSENIC ACID ARSENIC COMPOUND:SUFFICIENT
+    HUMAN/LIMITED ANIMAL (IARC 1987).KNOWN HUMAN CARCINOGEN (NTP 1985).
+Effects of Overexposure:EYES:CORROSIVE.CAUSES
+    BURNS.SKIN:CORROSIVE,CAUSES BURNS.INGESTION:CAUSES
+    BURNS,CORROSIVE.SEDATION,TWITCHING.INHALATION:CORROSIVE.CAUSES
+    BURNS.
+Medical Cond Aggravated by Exposure:PERSONS WITH IMPAIRED PULMONARY
+    FUNCTION MAY BE AT INCREASED RISK FROM FUMES.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:IMMEDIATELY FLUSH EYES WITH WATER FOR 15 MINUTES.CALL
+    PHYSICIAN.SKIN:IMMEDIATELY FLUSH WITH WATER FOR 15 MINUTES.REMOVE
+    CONTAMINATED CLOTHING.CALL PHYSICIAN.INGESTION:DO NOT INDUCE
+    VOMITING.IF CO NSCIOUS GIVE WATER.GIVE 1 OUNCE OF MILKOF MAGNESIA
+    IN 1 OUNCE OF WATER OR THREE EGG WHITES.CALL
+    PHYSICIAN.INHALATION:REMOVE TO FRESH AIR.GIVE ARTIFICIAL
+    RESPIRATION IF NECESSARY.CALL PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:DRY CHEMICAL.
+Fire Fighting Procedures:N/K 
+Unusual Fire/Explosion Hazard:MAY EMIT TOXIC FUMES.HAZARDOUS
+    DECOMPOSITION PRODUCTS ARE:TOXIC FUMES OF ARSENIC AND CHLORIDES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:COVER CONTAMINATED SURFACE WITH SODIUM
+    BICARBONATE OR SODA ASH-SLAKED LIME MIXTURE (50-50).MIX AND ADD
+    WATER IF NECESSARY TO FORM SLURRY.SCOOP UP SLURRY AND WASH DOWN THE
+    DRAIN WITH EXCESS WATER.WASH  THE SITE WITH SODA ASH SOLUTION.
+Neutralizing Agent:N/K 
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:WASH THOROUGHLY AFTER HANDLING.AVOID
+    CONTACT WITH EYES,SKIN AND CLOTHING.STORE TIGHTLY CLOSED.
+Other Precautions:N/K 
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:N/K 
+Ventilation:ADEQUATE VENTILATION.
+Protective Gloves:DISPOSABLE
+Eye Protection:CHEMICAL WORKERS GOGGLES.
+Other Protective Equipment:LAB COAT
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+CORROSIVITY:CORROSIVE TO ALUMINUM,STEEL 0.207 IN/YR.SOLUBILITY IN
+    ACID:MISCIBLE.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:221F,105C
+Decomp Temp:Decomp Text:N/K 
+Spec Gravity:1.015 (WATER=1)
+pH:<0.5
+Evaporation Rate & Reference:0.64
+Solubility in Water:MISCIBLE
+Appearance and Odor:DARK RED SOLUTION,ODORLESS.
+Corrosion Rate:SEE SUPP
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+N/K 
+Stability Condition to Avoid:STRONG OXIDIZERS.
+Hazardous Decomposition Products:TOXIC FUMES OF ARESENIC AND CHLORIDES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE IN ACCORDANCE WITH
+    FEDERAL,STATE AND LOCAL REGULATIONS.COORDINATION WITH SUPPORTING
+    INSTALLATION AND/OR MACOM ENVIRONMENTAL COORDINATION PRIOR TO
+    DISPOSAL IS RECOMMENDED TO DETERMINE  APPROPRIATE DISPOSAL METHODS
+    .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

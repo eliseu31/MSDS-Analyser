@@ -1,0 +1,135 @@
+=====================  Product Identification  =====================
+
+Product ID:NITROGEN 897893
+MSDS Date:05/20/1986
+FSC:1680
+NIIN:01-212-2917
+MSDS Number: BJDVP
+=== Responsible Party ===
+Company Name:KIDDE INC
+Address:2500 AIRPORT DRIVE
+City:WILSON
+State:NC
+ZIP:27893-9604
+Country:US
+Info Phone Num:307-744-65487
+Emergency Phone Num:919-237-7004
+CAGE:MO903
+=== Contractor Identification ===
+Company Name:KIDDE INC
+Address:1394 S. THIRD STREET
+Box:City:MEBANE
+State:NC
+ZIP:27302
+Country:US
+Phone:919-556-6811
+CAGE:MO903
+Company Name:KIDDE INC WALTER KIDDE DIV AEROSPACE OPNS
+Address:2500 AIRPORT DRIVE
+Box:City:WILSON
+State:NC
+ZIP:27893-9604
+Country:US
+Phone:252-237-7004
+CAGE:61423
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NITROGEN
+CAS:7727-37-9
+RTECS #:QW9700000
+Fraction by Wt: 100%
+ACGIH TLV:ASPHYXIANT; 9192
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:NONE
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:INHAL: MODERATE CONC. MAY CAUSE HEADACHE,
+    DROWSINESS, DIZZINESS, EXCITATION, EXCESS SALIVATION, VOMITING &
+    UNCONSCIOUSNESS. LIQUID CONTACT MAY CAUSE FROSTBITE.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:REMOVE TO FRESH AIR & CALL MD. NOTE TO MD: THERE IS NO
+    SPECIFIC ANTIDOTE. INHALE: GIVE ART. RESP. IF NOT BREATHING. GIVE
+    O2. EYES: FLUSH W/ H2O FOR 15 MIN. SKIN: WARM FROSTBITE AREA W/
+    WATER (<105F).  MASSIVE EXPOSURE: REMOVE CLOTHES & SHOWER W/ WARM
+    WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Fire Fighting Procedures:USE MEDIA APPROPRIATE FOR SURROUNDING FIRE.
+    EVACUATE PERSONNEL FROM DANGER. DELUG CONTAINER W/ WATER SPRAY FROM
+    MAX DISTANCE TO COOL CONTAINERS/MOVE CONTAINERS
+Unusual Fire/Explosion Hazard:GAS CANNOT BURN. CONTAINER MAY RUPTURE
+    DUE TO HEAT OF FIRE. KEEP CONTAINER TO TEMP <52C. MOST CONTAINERS
+    WILL VENT WHEN EXPOSED TO ELEVATED TEMPS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE PERSONNEL FROM DANGER AREA. USE SCBA
+    IN O2 DEPLETED ATMOSPHERES. VENTILATE AREA. TEST AREA FOR
+    SUFFICIENT 02 PRIOR TO RE-ENTRY OF PERSONNEL
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:USE ADEQUATE VENTILATION. MIXING 2 OR
+    MORE GASES OR LIQUIFIED GASES MAY COMBINE TO CREATE UNEXPECTED
+    HAZARDS. OBTAIN SAFETY INFO BEFORE MIXING
+Other Precautions:NEVER WORK ON A PRESSURIZED SYS. IF THERE IS A LEAK,
+    CLOSE THE CYLINDER VALVE, BLOW DOWN THE SYS BY VENTING TO A SAFE
+    PLACE, REPAIR THE LEAK
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:PER OSHA 29 CFR 1910.134-ACCEPTABLE TO MSHA &
+    NIOSH
+Ventilation:LOCAL EXHAUST PREFERRED, MECHANICAL ACCEPTABLE
+Protective Gloves:PREFERRED FOR HANDLING CYLINDERS
+Eye Protection:IAW OSHA CFR 1910.133 & 1910 .132
+Other Protective Equipment:METATARSAL SHOES FOR CYLINDER HANDLING IAW
+    OSHA 29 CFR 1910.133 & 1910.132
+Work Hygienic Practices:GOOD HYGIENE PRACTICES AS W/INDUSTRIAL CHEMICAL
+Supplemental Safety and Health
+THIS IS PART A OF A TWO PART PRODUCT, BUT NOT A KIT.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:G3
+Boiling Pt:B.P. Text:-319F,-195C
+Melt/Freeze Pt:M.P/F.P Text:-346F,-210C
+Vapor Pres:@ 20C GAS
+Vapor Density:0.967
+Spec Gravity:1.2506G/L @ OC
+Solubility in Water:SLIGHTLY
+Appearance and Odor:COLORLESS, ODORLESS, GAS AT AMBIENT TEMP & PRESSURE
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+UNDER CERTAIN CONDITIONS NITROGEN CAN REACT VIOLENTLY W/ LITHIUM,
+    NEODYMIUM, TITANIUM, OR OZONE.
+Stability Condition to Avoid:CAUTION HIGH PRESSURE GAS
+Hazardous Decomposition Products:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:SLOWLY RELEASE INTO ATMOSPHERE. DISCARD ANY
+    PRODUCT, RESIDUE DISPOSABLE CONTAINERS OR LINER IN AN
+    ENVIRONMENTALLY ACCEPTABLE MANNER IN FULL COMPLIANCE W/ FED, STATE,
+    & LOCAL REGS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

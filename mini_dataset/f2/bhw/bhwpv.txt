@@ -1,0 +1,153 @@
+=====================  Product Identification  =====================
+
+Product ID:TYPE 7869 DRY SILVER FILM
+MSDS Date:10/23/1992
+FSC:6750
+NIIN:01-221-1384
+MSDS Number: BHWPV
+=== Responsible Party ===
+Company Name:MINNESOTA MINING AND MANUFACTURING CO
+Address:3M CENTER
+City:ST. PAUL
+State:MN
+ZIP:55144-1000
+Country:US
+Info Phone Num:612-733-1110
+Emergency Phone Num:612-733-1110
+CAGE:4V902
+=== Contractor Identification ===
+Company Name:MINNESOTA MINING AND MFG CO DIAGNOSTIC IMAGING PRODUCTS
+    DIV
+Address:223-2SW-03 3M CTR
+Box:City:SAINT PAUL
+State:MN
+ZIP:55144-1000
+Country:US
+Phone:612-733-6785
+CAGE:4V902
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POLYETHYLENE TEREPHTHALATE FILM
+CAS:25038-59-9
+Fraction by Wt: 80-90%
+
+Ingred Name:POLYVINYL BUTYRAL RESIN
+CAS:63148-65-2
+Fraction by Wt: 4-8%
+
+Ingred Name:SILVER BEHENATE
+CAS:2489-05-6
+Fraction by Wt: 1-5%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:0.01 MG/M3 (AG)
+ACGIH TLV:0.01 MG/M3 (AG)
+
+Ingred Name:CELLULOSE ACETATE
+CAS:9004-35-7
+Fraction by Wt: <5.0%
+
+Ingred Name:VINYL CHLORIDE -VINYL ACETATE-VINYL ALCOHOL TERPOLYMER
+CAS:25086-48-0
+Fraction by Wt: <5.0%
+
+Ingred Name:MERCURIC BROMIDE
+CAS:7789-47-1
+RTECS #:OV7415000
+Fraction by Wt: <0.1%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:S, C, 0.1 MG/M3 (HG)
+ACGIH TLV:S, 0.1 MG/M3 (HG)
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:PRODUCT HAS A VERY LOW PROBABILITY OF
+    HAZARDOUS EXPOSURE DURING NORMAL HANDLING OR PROCESSING. MOST
+    PROBABLE EXPOSURE IS TO DUST GENERATED DURING PROCESSING OR
+    CLEANING OF EQUIPMENT.  THE DUST MAY BE  IRRITATING TO BODY TISSUES
+    AND MAY RESULT IN MERCURY EXPOSURE.  EFFECTS OF MERCURY EXPOSURE
+    ARE GIVEN UNDER "SYMPTOMS".
+Explanation of Carcinogenicity:NONE OF THE CHEMICALS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:MAY PRODUCE IRRITATION AND THE FOLLOWING
+    SYMPTOMS OF MERCURY EXPOSURE: HEADACHE,TREMOR,IMPAIRED MEMORY,
+    PSYCHOLOGICAL DISORDERS,LOSS OF APPETITE,INSOMNIA,EXCESSIVE
+    SALIVATION, SWOLLEN GUMS,INCREASED E
+    XCITABILITY,CHILLS,NAUSEA,SHORTNESS OF BREATH,
+    WEAKNESS,FATIGUE,MENSTRUAL DISORDERS AND DECREASED SPERM COUNT.
+Medical Cond Aggravated by Exposure:NO INFORMATION GIVEN ON MSDS BY
+    MFR.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: IMMEDIATELY FLUSH WITH PLENTY OF WATER FOR 15 MINUTES.
+    GET MEDICAL ATTENTION. SKIN: WASH WITH SOAP AND WATER. INHALATION:
+    REMOVE TO FRESH AIR. INGESTION: NONE NORMALLY REQUIRED.
+
+=====================  Fire Fighting Measures  =====================
+
+Lower Limits:N/D
+Upper Limits:N/D
+Extinguishing Media:WATER, CARBON DIOXIDE, DRY CHEMICAL
+Fire Fighting Procedures:FOR FIRE INVOLVING SIGNIFICANT AMOUNTS OF THIS
+    FILM: WEAR SELF-CONTAINED BREATHING APPARATUS (SCBA) AND FULL
+    PROTECTIVE GEAR.
+Unusual Fire/Explosion Hazard:NO UNUSUAL FIRE HAZARDS ARE EXPECTED.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL AREA. HMIS:PROTECT
+    FROM EXPOSURE TO LIGHT, HEAT, MOISTURE.
+Other Precautions:MAINTAIN REGULAR CLEANING OF IMAGING EQUIPMENT BY AN
+    AUTHORIZED SERVICE TECHNICIAN.  PROCESS FILM IN A VENTILATED AREA.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT REQUIRED UNDER NORMAL USE.
+Ventilation:USE IN A WELL VENTILATED AREA
+Protective Gloves:NITRILE RUBBER GLOVES (FOR CLEANING)
+Eye Protection:SAFETY GLASSES OR CHEM SPLASH GOGGLES
+Other Protective Equipment:FOR EQUIPMENT CLEANING & SERVICING, USE
+    NITRILE GLOVES AND OTHER EQUIPMENT AS REQUIRED TO AVOID SKIN
+    CONTACT W/RESIDUES.
+Work Hygienic Practices:MFR: ?	HMIS:USE GOOD INDUSTRIAL HYGIENE
+    PRACTICE. AVOID UNNECESSARY CONTACT. WASH THOROUGHLY BEFORE EATING
+    OR DRINKING.
+Supplemental Safety and Health
+KEEP AWAY FROM HEAT, SPARKS, OPEN FLAME, AND OTHER SOURCES OF IGNITION.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+NRC/State Lic Num:NONE
+Solubility in Water:SLIGHT
+Appearance and Odor:TRANSPARENT FILM, BLUE TINT, ESSENTIALLLY ODORLESS
+Percent Volatiles by Volume:UNKNON
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NO INFORMATION GIVEN ON MSDS BY MFR.
+Stability Condition to Avoid:EXPOSURE TO LIGHT, ELEVATED TEMPERATURES,
+    HIGH HUMIDITY
+Hazardous Decomposition Products:CARBON DIOXIDE AND CARBON
+    MONOXIDE,HYDROCARBONS, SILVER OXIDE AND TRACE LEVELS OF MERCURY
+    OXIDES & HYDROGEN BROMIDE.
+Conditions to Avoid Polymerization:WILL NOT OCCUR
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:RECLAMATION OF SILVER AND MERCURY BY A PERMITTED
+    RECOVERY FACILITY IS PREFERRED.  DISPOSE OF IN ACCORDANCE WITH ALL
+    APPLICABLE FEDERAL, STATE AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

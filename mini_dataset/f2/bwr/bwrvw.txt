@@ -1,0 +1,184 @@
+=====================  Product Identification  =====================
+
+Product ID:LAPPING COMPOUNDS
+MSDS Date:03/08/1994
+FSC:5350
+NIIN:00N057842
+MSDS Number: BWRVW
+=== Responsible Party ===
+Company Name:PRES-ON PRODUCTS INC
+Address:39 FACTORY RD
+City:ADDISON
+State:IL
+ZIP:60101
+Country:US
+Info Phone Num:312-543-9466
+Emergency Phone Num:312-543-9466
+CAGE:62513
+=== Contractor Identification ===
+Company Name:PRES-ON PRODUCTS INC
+Address:39 FACTORY RD
+Box:City:ADDISON
+State:IL
+ZIP:60101-5101
+Country:US
+Phone:312-543-9466/800-323-2844
+CAGE:62513
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:STEARIC ACID, CALCIUM SALT; (CALCIUM STEARATE). %(WT):
+    1.8-11.9.
+CAS:1592-23-0
+RTECS #:WI3000000
+Fraction by Wt: <11.9%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:MINERAL OIL, PETROLEUM DISTILLATES, HYDROTREATED (SEVERE),
+    HEAVY NAPHTHENIC. %(WT): 36.3-81.0.
+CAS:64742-52-5
+RTECS #:PY8035000
+Fraction by Wt: <81%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:SORBITAN, MONOOLEATE POLYOXYETHYLENE DERIV;
+    (POLYOXYETHYLENESORBITOL OLEATE). %(WT): 3.6-7.1.
+CAS:9005-65-6
+RTECS #:WG2932500
+Fraction by Wt: <7.1%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:SULFURIZED ISOBUTYLENE. %(WT): 0.06-0.9.
+CAS:68511-50-2
+Fraction by Wt: <0.9%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:CORUNDUN; (ALUMINUM OXIDE). (CONTAINING ING 7 & 8). %(WT):
+    10-54.
+CAS:1302-74-5
+RTECS #:GN0231000
+Fraction by Wt: <54%
+OSHA PEL:5 MG/M3 RESP. DUST
+ACGIH TLV:10 MG AL*2O*3/M3
+
+Ingred Name:SILICON CARBIDE. (CONTAINING ING 9 & 10). %(WT): 10-54.
+CAS:409-21-2
+RTECS #:VW0450000
+Fraction by Wt: <54%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST
+
+Ingred Name:ALUMINUM OXIDE(2:3); (ALPHA-ALUMINA) (SARA 313). %(WT):
+    9.6-51.8.
+CAS:1344-28-1
+RTECS #:BD1200000
+Fraction by Wt: <51.8%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST
+
+Ingred Name:TITANIUM OXIDE;(TITANIUM DIOXIDE). %(WT): 0.3-1.6.
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: <1.6%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST
+
+Ingred Name:SILICON CARBIDE. %(WT): 9.6-51.8.
+CAS:409-21-2
+RTECS #:VW0450000
+Fraction by Wt: <51.8%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST
+
+Ingred Name:CARBON BLACK. %(WT): 0.3-1.6.
+CAS:1333-86-4
+RTECS #:FF5800000
+Fraction by Wt: <1.6%
+OSHA PEL:3.5 MG/M3
+ACGIH TLV:3.5 MG/M3
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:THIS PRODUCT HAS BEEN USED FOR YEARS
+    WITH NO KNOWN ILL EFFECTS. IT CONTAINS NO KNOWN CARCINOGENS OR
+    MUTAGENS AS DEFINED BY OSHA OR IARC. EYE/SKIN: MILD (TRANSIENT)
+    IRRIT.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGEST: DO NOT INDUCE VOMITING. SKIN: FLUSH WITH SOAP &
+    WATER. REMOVE & LAUNDER CONTAMD CLTHG. EYE: FLUSH W/PLENTY OF WATER
+    FOR AT LEAST 15 MINS. GET MED ATTN. INHAL: REMOVE TO FRESH AIR.
+    SUPPORT BREA THING(GIVE O*2/ARTF RESP).
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:360F,182C
+Extinguishing Media:WATER FOG, CO*2, DRY CHEMICAL, FOAM, EARTH/SAND.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT. WATER MAY CAUSE FROTHING.
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NONE SPECIFIED BY MANUFACTURER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NONE.
+Other Precautions:DO NOT GET IN EYES OR ON CLOTHING. KEEP AWAY FROM
+    SPARKS & OPEN FLAMES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE
+    FOR EXPOSURE OF CONCERN .
+Ventilation:USE W/ADEQUATE VENTILATION.
+Protective Gloves:NEOPRENE GLOVES.
+Eye Protection:ANSI APPRVD CHEM WORKERS GOGGLES.
+Other Protective Equipment:NONE.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:650F,343C
+Melt/Freeze Pt:M.P/F.P Text:200F,93C
+Spec Gravity:0.9-1.4(H*2O=1)
+Solubility in Water:46-90%
+Appearance and Odor:FLUID GREASE-SEMI SOLID GREASE W/BLAND ODOR.
+Percent Volatiles by Volume:0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS.
+Stability Condition to Avoid:OPEN FLAMES.
+Hazardous Decomposition Products:CO & CO*2 IF INCOMPLETE COMBUSTION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE &
+    FEDERAL REGULATIONS .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

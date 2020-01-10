@@ -1,0 +1,196 @@
+=====================  Product Identification  =====================
+
+Product ID:03W77CAT E/S WHITE 17925
+MSDS Date:03/05/1987
+FSC:8010
+NIIN:00-181-8281
+MSDS Number: BKYHV
+=== Responsible Party ===
+Company Name:DEFT INC
+Address:17451 VON KARMAN AVENUE
+City:IRVINE
+State:CA
+ZIP:92714
+Info Phone Num:(714) 474-0400
+Emergency Phone Num:(714) 474-0400
+Preparer's Name:N. GAUL
+CAGE:33458
+=== Contractor Identification ===
+Company Name:DEFT INC
+Address:17451 VON KARMAN AVE
+City:IRVINE
+State:CA
+ZIP:92714-6205
+Country:US
+Phone:800 424-9300
+CAGE:33458
+Company Name:DEFT,  INC.
+Address:17451 VON KARMAN AVE
+City:IRVINE
+State:CA
+ZIP:92614
+Country:US
+Phone:949-474-0400
+CAGE:33461
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:VOL ORGANIC CMPD: 5.34 LB/GAL (640 GR/LT)
+RTECS #:9999999VO
+
+Ingred Name:2-ETHOXYETHYL ACETATE (CELLOSOLVE ACETATE) (EGEEA)
+CAS:111-15-9
+RTECS #:KK8225000
+Fraction by Wt: 15%
+OSHA PEL:S,100 PPM
+ACGIH TLV:S, 5 PPM; 9192
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 15%
+Other REC Limits:100 PPM
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ALIPHATIC POLYISOCYANATE, HEXAMETHYLENE DIISOCYANATE
+    POLYMER (HDI POLYMER)
+CAS:28182-81-2
+RTECS #:NQ9170000
+Fraction by Wt: 35%
+Other REC Limits:1 MG/CUM
+
+Ingred Name:N-BUTYL ACETATE  (SARA III)
+CAS:123-86-4
+RTECS #:AF7350000
+Fraction by Wt: 5%
+Other REC Limits:150 PPM
+OSHA PEL:150 PPM/200 STEL
+ACGIH TLV:150 PPM/200STEL;9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS)	(SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 5%
+Other REC Limits:100 PPM
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: 15%
+Other REC Limits:590 MG/CUM
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ETHYL ACETATE  (SARA III)
+CAS:141-78-6
+RTECS #:AH5425000
+Fraction by Wt: 15%
+Other REC Limits:400 PPM
+OSHA PEL:400 PPM
+ACGIH TLV:400 PPM; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: IRRITATION OF THE
+    RESPIRATORY TRACT/HEADACHE/DIZZINESS/STAGGERING
+    GAIT/CONFUSION/UNCONSCIOUSNESS/COMA. SKIN:
+    SENSITIZATION/IRRITATION/SWELLING/REDNESS/RASH. EYES:
+    IRRITATION/TEARING/REDNES S/SWELLING/STINGING SENSATION. INGESTION:
+    IRRITATION/CORROSIVE ACTION IN THE MOUTH/DIGESTIVE TRACT.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: MUCOUS MEMBRANE IRRITATION, NOSE,
+    THROAT, COUGHING, CHEST DISCOMFORT, REDUCED LUNG FUNCTION,
+    ASTHMATIC-TYPE SYMPTOMS. INGESTION: VOMITING MAY CAUSE ASPIRATION
+    OF THE SOLVENT RESULTING IN C HEMICAL PNEUMONITIS, CORROSIVE ACTION
+    TO STOMACH TISSUE. SKIN: DRYING/DEFATTING/CRACKING/DERMATITIS &
+    ALLERGIC REACTION.
+Medical Cond Aggravated by Exposure:SENSITIZATION, ASTHMA, & DERMATITIS
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. RESTORE BREATHING. SKIN:
+    WASH THOROUGHLY W/SOAP & WATER. EYES: FLUSH W/CLEAN, LUKEWARM WATER
+    FOR AT LEAST 15 MINS. INGESTION: DON'T INDUCE VOMITING. DON'T GIVE
+    ANYTHIN G BY MOUTH TO AN UNCONSCIOUS PERSON. VOMITING MAY CAUSE
+    ASPIRATION OF SOLVENT RESULTING IN CHEMICAL PNEUMONITIS. OBTAIN
+    MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:23F
+Lower Limits:1%
+Upper Limits:11.5%
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL, OR WATER FOG
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS & FULL
+    PROTECTIVE CLOTHING.
+Unusual Fire/Explosion Hazard:CLOSED CONTAINERS MAY EXPLODE WHEN
+    EXPOSED TO EXTREME HEAT. IF MOISTURE ENTERS CONTAINERS, PRESSURE
+    CAN BUILDUP CAUSING SEALED CONTAINER TO BURST.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE AREA. VENTILATE AREA. CONTAIN &
+    REMOVE W/INERT ABSORBENT & NON-SPARKING TOOLS. REMOVE SOURCES OF
+    IGNITION.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:EMPTY CONTAINERS MUST BE HANDLED
+    W/CARE DUE TO PRODUCT RESIDUE/FLAMMABLE VAPOR. READ/UNDERSTAND
+    PRECAUTIONS. SMOKE IN SMOKING AREAS ONLY.
+Other Precautions:STORE IN TIGHTLY CLOSED CONTAINERS TO PREVENT
+    MOISTURE CONTAMINATION. DON'T RESEAL IF CONTAMINATION IS SUSPECTED.
+    KEEP CONTAINERS TIGHT/UPRIGHT TO PREVENT LEAKAGE. AVOID BREATHING
+    OF VAPORS/SPRAY MIST . STORE IN VENTILATED AREA.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESPIRATOR THAT IS RECOMMENDED OR APPROVED FOR
+    USE IN ISOCYANATE CONTAINING ENVIRONMENTS (AIR PURIFYING OR FRESH
+    AIR) IS NECESSARY.
+Ventilation:PROVIDE SUFFICIENT LOCAL EXHAUST VENTILATION TO KEEP AIR
+Spec Gravity:1
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:INSOLUBLE
+Appearance and Odor:CLEAR, LIGHT AMBER COLOR W/SOLVENT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+WATER, AMINES, STRONG BASES, ALCOHOLS, METAL COMPOUNDS,  SURFACE ACTIVE
+    MATERIALS, & ISOCYANATES
+Stability Condition to Avoid:SOURCES OF IGNITION SUCH AS
+    HEAT/SPARKS/ELECTRICAL EQUIPMENT/OPEN FLAME/HOT SURFACES/HIGH
+    TEMPERATURES, FIRE & MOISTURE
+Hazardous Decomposition Products:CO2, CO, OXIDES OF NITROGEN, TRACES OF
+    HEXAMETHYLENE DIISOCYANIDE, & HYDROGEN CYANIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. DON'T INCINERATE CLOSED CONTAINERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

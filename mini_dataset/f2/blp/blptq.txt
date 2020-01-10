@@ -1,0 +1,129 @@
+=====================  Product Identification  =====================
+
+Product ID:87821 CADMIUM TELLURIDE
+MSDS Date:12/01/1988
+FSC:6810
+NIIN:00F019269
+MSDS Number: BLPTQ
+=== Responsible Party ===
+Company Name:ALFA PRODUCTS
+Address:152 ANDOVER STREET
+City:DANVERS
+State:MA
+ZIP:01923
+Info Phone Num:(508) 777-1970
+Emergency Phone Num:(508) 777-1970
+CAGE:0HCZ6
+=== Contractor Identification ===
+Company Name:ALFA KLEEN CHEMICAL LABORATORIES INC
+Address:840 CAPITOLIO WAY
+Box:City:SAN LUIS OBISPO
+State:CA
+ZIP:93401
+Country:US
+Phone:805-541-3465
+CAGE:62639
+Company Name:ALFA PRODUCTS
+Address:30 BOND ST
+City:WARD HILL
+State:MA
+ZIP:01835
+Country:US
+Phone:508-521-6300
+CAGE:0HCZ6
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CADMIUM TELLURIDE
+CAS:1306-25-8
+RTECS #:EV3330000
+Fraction by Wt: 100%
+OSHA PEL:0.2 MG/CUM
+ACGIH TLV:0.05 MG/CUM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION. SKIN: IRRITATION &
+    BURNS. INHALATION: RESPIRATORY TOXICITY, MUCOUS MEMBRANE IRRITATION
+    & CANCER. INGESTION: TOXIC.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: IRRITATION. SKIN: IRRITATION & BURNS.
+    INHALATION: RESPIRATORY TOXICITY, MUCOUS MEMBRANE IRRITATION &
+    CANCER. INGESTION: TOXIC.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES/SKIN: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINS.
+    INHALATION: REMOVE TO FRESH AIR. INGESTION: OBTAIN MEDICAL
+    ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:DON'T USE WATER. DRY CHEMICAL, DRY SAND & DRY
+    GROUND DOLOMITE
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SELF-CONTAINED
+    BREATHING APPARATUS & FULL PROTECTIVE FLAME/CHEMICAL RESISTANT
+    CLOTHING. IF W/O RISK MOVE MATERIAL OUT OF FIRE AREA.
+Unusual Fire/Explosion Hazard:EXPOSURE TO WATER EVOLVES HYDROGEN
+    TELLURIDE WHICH IS A TOXIC & FLAMMABLE MATERIAL.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR RESPIRATOR & PROTECTIVE CLOTHING. COVER
+    SPILL W/DRY SAND OR DOLOMITE, TRANSFER TO A PROPERLY MARKED METAL
+    CONTAINER. CLOSE CONTAINER & SUBMIT OR RETAIN FOR DISPOSAL. WASH
+    SPILL AREA W/SOAP & WATE R.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER TIGHTLY CLOSED. STORE
+    IN A COOL DRY PLACE AWAY FROM ACIDS. DON'T INHALE OR INGEST.
+Other Precautions:AVOID CONTACT W/SKIN & EYES. USE ONLY W/ADEQUATE
+    VENTILATION. PROLONGED EXPOSURE TO MOIST AIR CAUSES OXIDATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED HIGH EFFICIENCY
+    PARTICULATE RESPIRATOR & SELF-CONTAINED BREATHING APPARATUS.
+Ventilation:FUME HOOD OR GLOVE BAG OR BOX W/DRY INERT ATMOSPHERE.
+Protective Gloves:RUBBER
+Eye Protection:CHEMICAL SAFETY GOGGLES
+Other Protective Equipment:FLAME/CHEMICAL RESISTANT OVERALLS,
+    LABORATORY COAT, APRON, EYE WASH FOUTAIN & SAFETY DRENCH SHOWER,
+    HAT & BOOTS
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING. WASH
+    THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:M.P/F.P Text:1905.8F
+Vapor Density:>1
+Spec Gravity:6.2
+Solubility in Water:INSOLUBLE
+Appearance and Odor:BLACK CUBIC CRYSTALS W/NO ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACIDS, ACID FUMES & MOISTURE
+Stability Condition to Avoid:HEAT, SPARKS & OPEN FLAME
+Hazardous Decomposition Products:HYDROGEN TELLURIDE & TELLURIUM
+    COMPOUNDS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS FOR PROPER DISPOSAL OF CADMIUM TELLURIDE.
+    FLAMMABLE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

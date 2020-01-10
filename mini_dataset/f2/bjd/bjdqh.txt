@@ -1,0 +1,124 @@
+=====================  Product Identification  =====================
+
+Product ID:SODIUM METABISULFITE
+MSDS Date:05/01/1988
+FSC:6810
+NIIN:00-782-2678
+MSDS Number: BJDQH
+=== Responsible Party ===
+Company Name:GENERAL CHEMICAL CORP
+Address:90 E HALSEY RD
+Box:395
+City:PARSIPPANY
+State:NJ
+ZIP:07054-0389
+Country:US
+Info Phone Num:800-631-8050
+Emergency Phone Num:800-631-8050
+Preparer's Name:MANAGER,PRODUCT SAFETY
+CAGE:0AU44
+=== Contractor Identification ===
+Company Name:GENERAL CHEMICAL CORPORATION
+Address:90 EAST HALSEY ROAD
+Box:City:PARSIPPANY
+State:NJ
+ZIP:07054
+Country:US
+Phone:973-515-1840
+CAGE:0AU44
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM METABISULFITE
+CAS:7681-57-4
+RTECS #:UX8225000
+Fraction by Wt: <100.0%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3; 9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:IRRITATION OF
+    EYES,SKIN,RESPIRATORY OR G,I.TRACT;REDNESS OR BURNS OF EYES ARE
+    POSSIBLE.
+Explanation of Carcinogenicity:DATA PER MGF MSDS.
+Effects of Overexposure:SEE HEALTH HAZARDS DATA.
+Medical Cond Aggravated by Exposure:PRE-EXISTING CONDITIONS MAY BE
+    WORSEN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES AND SKIN:FLUSH WITH LARGE AMOUNT OF WATER FOR ABOUT
+    15-20 MINUTES;SEEK MEDICAL ATTENTION IMMEDIATELY.INHALATION:REMOVE
+    TO FRESH AIR;CALL A PHYSICIAN.INGESTION:SEEK MEDICAL ATTENTION
+    IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE SUITABLE MEDIA FOR SURROUNDING FIRE.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPER PERSONAL PROTECTION;SWEEP UP OR
+    VACUUM AND COLLECT FOR PROPER DISPOSAL IN AN APPROVED CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DRY AND WELL VENTILATED
+    AREA.KEEP CONTAINER CLOSED WHEN NOT IN USE. KEEP AWAY FROM ACIDS
+    AND OXIDIZERS.
+Other Precautions:WASH THOROUGHLY AFTER EACH USE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR FOR DUST/MIST
+    IF ABOVE PEL/TLV OR SCBA IN AN ENCLOSED AREA.
+Ventilation:LOCAL/GENERAL TO MAINTAIN PEL/TLV.
+Protective Gloves:IMPERVIOUS
+Eye Protection:SAFETY GLASSES/GOGGLES
+Other Protective Equipment:PROTECTIVE CLOTHINGS.EYE-WASH
+    FACILITIES,SAFETY SHOWER.
+Work Hygienic Practices:AVOID CONTACT WITH EYES AND SKIN;DO NOT BREATHE
+    VAPORS/MIST/DUST.WASH THOROUGHLY AFTER EACH USE.
+Supplemental Safety and Health
+AVOID CONTACT WITH EYES AND ACIDS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C3
+Decomp Temp:Decomp Text:302F,150C
+Spec Gravity:1.48
+pH:4.3
+Solubility in Water:39 % APPRECIABLE
+Appearance and Odor:FINE,WHITE GRANULAR PRODUCT,PUNGENT SULFUR DIOXIDE
+    GAS ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HIGH TEMPERATURE ABOVE 150 C.
+Hazardous Decomposition Products:OXIDES OF SULFUR
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT LOCAL AUTHORITIES;DISPOSAL MUST BE IN
+    ACCORDANCE WITH LOCAL,STATE AND FEDERAL REGULATIONS
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

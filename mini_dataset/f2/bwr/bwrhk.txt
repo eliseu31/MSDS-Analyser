@@ -1,0 +1,178 @@
+=====================  Product Identification  =====================
+
+Product ID:PHOTOLUMINESCENT PAINT PSI-2 PART 2
+MSDS Date:06/21/1994
+FSC:8010
+NIIN:01-367-2378
+Kit Part:Y
+MSDS Number: BWRHK
+=== Responsible Party ===
+Company Name:SMILAND PAINT CO
+Address:620 LAMAR ST
+City:LOS ANGELES
+State:CA
+ZIP:90031
+Country:US
+Info Phone Num:213-222-7000
+Emergency Phone Num:213-222-7000
+Preparer's Name:RAYMOND RUSSELL
+CAGE:SMILA
+=== Contractor Identification ===
+Company Name:SMILAND PAINT CO
+Address:620 LAMAR ST
+Box:City:LOS ANGELES
+State:CA
+ZIP:90031
+Country:US
+Phone:213-222-7000
+CAGE:SMILA
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHYLENE GLYCOL (SARA 313) (CERCLA)
+CAS:107-21-1
+RTECS #:KW2975000
+Fraction by Wt: 2%
+OSHA PEL:N/K 
+ACGIH TLV:50 PPM,VAPOR
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:PROPIONIC ACID,2-METHYL-, MONOESTER W/2,2,4-TRIMETHYL-1-3-
+    PENTANEDIOL; (ESTER ALCOHOL). MFR'S INVALID CAS#: 25285-77-4
+CAS:25265-77-4
+RTECS #:UF6000000
+Fraction by Wt: 1%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:ZINC OXIDE;(LUMINESCENT PIGMENT CONSISTS OF ING 4 & 5)
+    (SARA 313) (CERCLA)
+CAS:1314-13-2
+RTECS #:ZH4810000
+Fraction by Wt: 1.5%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST
+
+Ingred Name:ZINC OXIDE (SARA 313) (CERCLA)
+CAS:1314-13-2
+RTECS #:ZH4810000
+Fraction by Wt: 1.5%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST
+
+Ingred Name:ZINC SULFIDE
+CAS:1314-98-3
+Fraction by Wt: 98%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:VOLATILE ORGANIC CONTENT: 0.72 LBS/GAL. 87 GRAMS/LITER.
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: MAY CAUSE IRRIT TO SKIN, EYES &
+    INTESTINAL SYSTEM. INHAL: ADVERSE HLTH EFFECTS FROM VAPS, SPRAY
+    MISTS IN POORLY VENT AREAS MAY INCL IRRIT OF MUC MEMBS OF NOSE,
+    THROAT & RESP TRACT & SYMPS OF HD CH & NAUSEA. EYE: DIRECT CONTACT
+    MAY CUASE IRRIT. SKIN: PLNGD/RPTD CONTACT W/PRODUCT MAY CAUSE SKIN
+    (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ: IRRIT. SKIN(ABSORP): REDNESS, DRYING
+    OF SKIN OR OTHER SIGNS OF IRRIT OR CONTACT DERMATITIS. INGEST: CAN
+    CAUSE GI IRRIT, NAUSEA, VOMITING & DIARRHEA. CHRONIC: PLNGD/RPTD
+    EXPOSURE ABOVE TLV MA Y RESULT IN PERM BRAIN & CNS DMG.
+Medical Cond Aggravated by Exposure:NONE KNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/LGE AMOUNTS OF WATER FOR AT LEAST 15 MINUTES.
+    TAKE TO MD. SKIN: WASH AFFECTED AREAS W/SOAP & WATER. REMOVE
+    CONTAMD CLTHG. IF IRRIT PERSISTS, CONSULT MD. INHAL: REMOVE TO
+    FRESH AIR. TREAT  SYMPTOMATICALLY. CONSULT MD. INGEST: DRINK 1 OR 2
+    GLASSES OF WATER TO DILUTE. DO NOT INDUCE VOMITING. CONSULT MD OR
+    POISON CONTROL CENTER IMMEDIATELY. TREAT SYMPTOMATICALLY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Lower Limits:0.6%
+Upper Limits:4.2%
+Extinguishing Media:FOAM, CO*2, DRY CHEMICAL, WATER FOG.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT. COOL CONTAINERS WITH WATER SPRAY.
+Unusual Fire/Explosion Hazard:CLOSED CONTAINER EXPOSED TO HIGH
+    TEMPERATURE MAY EXPLODE OR BURST DUE TO BUILD UP OF STEAM PRESSURE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DIKE, CONTAIN OR ABSORB WITH INERT MATERIALS.
+    TRANSFER TO CONTAINER FOR RECOVERY OR DISPOSAL. PREVENT RUNOFF INTO
+    SEWERS, STREAMS OR OTHER BODIES OR WATER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT EXPOSE TO EXTREMES IN
+    TEMPERATURE. AVOID EXPOSURE TO HIGH TEMPERATURES. DO NOT ALLOW TO
+    FREEZE.
+Other Precautions:DO NOT TAKE INTERNALLY. AVOID PROLONGED OR REPEATED
+    EXPOSURE TO LEVELS ABOVE TLV, USE LOCAL OR GENERAL EXHAUST TO
+    MAINTAIN AIRBORNE CONCENTRATIONS BELOW EXPOSURE LIMITS. KEEP OUT OF
+    REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NORMALLY REQUIRED. IF TLV IS EXCEEDED USE
+    NIOSH/MSHA APPROVED ORGANIC VAPOR & MIST SUPPLIED AIR OR
+    SELF-CONTAINED BREATHING APPARATUS.
+Ventilation:USE ADEQUATE MECHANICAL(GENL &/LOCAL) VENTILATION TO
+    MAINTAIN EXPOSURE BELOW TLV.
+Protective Gloves:POLYETHYLENE GLOVES.
+Eye Protection:ANSI APPRVD CHEM GOGGLES.
+Other Protective Equipment:WEAR IMPERVIOUS CLOTHING. ANSI APPRVD
+    EYEWASH STATION .
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+PH: 7.5 - 8.5.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:212F,100C
+Melt/Freeze Pt:M.P/F.P Text:32.0F,0.0C
+Vapor Pres:1
+Vapor Density:<1
+Spec Gravity:1.3 (H*2O=1)
+pH:SUPDAT
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:COMPLETE
+Appearance and Odor:TYPICAL WATER BASE, YELLOW IN COLOR W/CLEAN ODOR
+Percent Volatiles by Volume:73
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTACT WITH STRONG OXIDIZING AGENTS & STRONG ACIDS.
+Stability Condition to Avoid:AVOID CONTACT WITH STRONG ACIDS. WILL
+    CAUSE GENERATION OF HIGHLY TOXIC HYDROGEN SULFIDE GAS.
+Hazardous Decomposition Products:MAY FORM TOXIC MATERIALS, CARBON
+    DIOXIDE, CARBON MONOXIDE, VARIOUS HYDROCARBONS, SULFUR & ZINC ON
+    THERMAL DECOMP.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

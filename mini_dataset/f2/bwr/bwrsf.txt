@@ -1,0 +1,120 @@
+=====================  Product Identification  =====================
+
+Product ID:ELEMENTAL BORON, STD. 90-92%
+MSDS Date:05/18/1994
+FSC:1377
+NIIN:00N057643
+MSDS Number: BWRSF
+=== Responsible Party ===
+Company Name:KERR-MCGEE CHEMICAL CORP
+Box:55
+City:HENDERSON
+State:NV
+ZIP:89015
+Country:US
+Info Phone Num:702-565-8901
+Emergency Phone Num:702-565-8901
+CAGE:94158
+=== Contractor Identification ===
+Company Name:KERR-MCGEE CHEMICAL CORP
+Address:HENDERSON PLANT
+Box:55
+City:HENDERSON
+State:NV
+ZIP:89015-0055
+Country:US
+CAGE:94158
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BORON
+CAS:7440-42-8
+RTECS #:ED7350000
+Fraction by Wt: 90%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:NOT GENERALLY CONSIDERED HIGHLY TOXIC.
+    IT IS A CUMULATIVE WEAK POISON. DEPRESSION OF THE CIRCULATION.
+    PERSISTENT VOMITING, DIARRHEA, FOLLOWED BY PROFOUND SHOCK & COMA.
+    TEMPERATURE IS SUBNORMAL & A SCA RLETINA-FORM RASH MAY APPEAR WHERE
+    MUCHIS INGESTED(SAX).
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGEST: TAKE TO DOCTOR, IF ACCIDENTLY SWALLOWED, INDUCE
+    VOMITING. SKIN: WASH OFF CONTACTED AREAS. EYES: FLUSH W/POTABLE
+    WATER FOR AT LEAST 15 MINUTES. CALL MD. INHAL: REMOVE TO FRESH AIR.
+    SUPPOR T BREATHING(GIVE O*2/ARTF RESP).
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER, CO*2.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL PROT
+    EQUIP. KEEP DRUM COOL, DO NOT HIT W/DIRECT WATER STREAM, USE SPRAY.
+    DUST MAY BE FIRE & EXPLOSIVE HAZARD.
+Unusual Fire/Explosion Hazard:IF MIXED W/OXIDIZING MATERIALS IT MAY BE
+    SENSITIVE TO HEAT & IMPACT. CAN BE IGNITED BY FLAME.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:PUT ON DUST MASK, SWEEP UP MATERIAL & PUT INTO
+    CLOSED CONTAINER. WASH DOWN AREA WITH WATER TO SEWER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM FLAME, HEAT & MOISTURE.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED DUST MASK.
+Ventilation:LOCAL EXHAUST: A MILD FLOW OF AIR IS ALL THAT IS REQUIRED.
+Protective Gloves:RUBBER GLOVES, NO COTTON/FABRIC.
+Eye Protection:ANSI APPRVD CHEM WORKERS GOGGLES.
+Other Protective Equipment:APRON IS HELPFUL.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:7592F,4200C
+Vapor Pres:NIL
+Vapor Density:NIL
+Spec Gravity:2.31(H*2O=1)
+Evaporation Rate & Reference:0
+Solubility in Water:NIL
+Appearance and Odor:BROWN TO BLACK POWDER.
+Percent Volatiles by Volume:0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:MOISTURE, HEAT, AIR.
+Hazardous Decomposition Products:BORIC ACID, BORIC OXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:MATERIAL CAN BE BURNED OR BURIED IN CLASS 1
+    DUMP. DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE & FEDERAL
+    REGULATIONS .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,142 @@
+=====================  Product Identification  =====================
+
+Product ID:ZINC OXIDE, USP-1
+MSDS Date:04/13/1988
+FSC:8010
+NIIN:00N022938
+MSDS Number: BLMSB
+=== Responsible Party ===
+Company Name:ZINC CORP OF AMERICA
+Address:300 FRANKFORT RD
+City:MONACA
+State:PA
+ZIP:15061
+Country:US
+Info Phone Num:215-826-8604
+Emergency Phone Num:215-826-8604;800-424-9300(CHEMTREC)
+CAGE:0GMG6
+=== Contractor Identification ===
+Company Name:ZINC CORPORATION OF AMERICA
+Address:300 FRANKFORT ROAD
+Box:City:MONACA
+State:PA
+ZIP:15061-2295
+Country:US
+Phone:724-774-1020
+CAGE:0GMG6
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LEAD  (SARA III)
+CAS:7439-92-1
+RTECS #:OF7525000
+Fraction by Wt: 0.001%
+OSHA PEL:0.05 MG/M3;1910.1025
+ACGIH TLV:0.15 MG/M3;DUST 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:CADMIUM  (SARA III)
+CAS:7440-43-9
+RTECS #:EU9800000
+Fraction by Wt: 0.001%
+OSHA PEL:SEE 1910.1027
+ACGIH TLV:0.01 MG/M3 DUST;9394
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+Ingred Name:ZINC OXIDE
+CAS:1314-13-2
+RTECS #:ZH4810000
+Fraction by Wt: 99.6%
+OSHA PEL:15MG/M3 TDUST/5 FUME
+ACGIH TLV:10MG/M3 TDUST; 9293
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:PROLONGED INHALATION OF HIGH LEVELS OF
+    FINE DUST MAY RESULT IN TIGHTNESS OF CHEST, METALLIC TASTE, COUGH,
+    DIZZINESS, FEVER, CHILLS, HEADACHE, NAUSEA, AND DRY THROAT.
+    EXPOSURE TO SUBLIMED ZINC OXIDE FU ME MAY PRODUCE SYMPTOMS KNOWN AS
+    "OXIDECHILLS" WHICH HAVE NO RECOGNIZED COMPLICATIONS. LIKE (SEE
+    EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ: ANY FINELY DIVIDED PARTICULATE
+    MATTER, THIS MATERIAL MAY CAUSE MECHANICAL IRRITATION TO SKIN AND
+    EYES.
+Medical Cond Aggravated by Exposure:ZINC OXIDE MAY BE AN IRRITANT TO
+    PRE-EXISTING RESPIRATORY CONDITIONS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: SYMPTOMS RESULTING FROM INHALATION OVEREXPOSURE
+    USUALLY DISAPPEAR WITHIN 24 HOURS. SYMPTOMATIC TREATMENT, SUCH AS
+    BED REST, POSSIBLY ASPRIN, TO AFFORD RELIEF FROM FEVER AND CHILLS.
+    EYE: FL USH EYES WITH COPIOUS AMOUNTS OF WATER FOR AT LEAST 15
+    MINUTES. SKIN: FLUSH WITH COPIOUS AMOUNTS OF WATER . INGEST: CALL
+    MD IMMEDIATELY . IN ALL CASES, CONSULT PHYS FOR MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:NONE.
+Fire Fighting Procedures:NON-FLAMMABLE.
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:AS WITH ANY NUISANCE DUST, AVOID EXCESSIVE
+    DUSTING.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NONE.
+Other Precautions:PRACTICE GOOD PERSONAL HYGIENE WHEN WORKING IN AREAS
+    WHERE THIS MATERIAL IS USED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED TYPE RESPIRATOR FOR
+    DUSTING CONDITIONS.
+Ventilation:LOCAL EXHAUST OR OTHER VENTILATION THAT WILL REDUCE DUST
+    CONCENTRATIONS TO LESS THAN PERMISSIBLE EXPOSURE LIMITS.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:BARRIER CREAMS MAY HELP PREVENT SKIN
+    IRRITATION IN HYPERSENSITIVE INDIVIDUALS.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Melt/Freeze Pt:M.P/F.P Text:358F,181C
+Spec Gravity:5.61
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:WHITE POWDER WITH NO ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NIF
+Stability Condition to Avoid:NIF
+Hazardous Decomposition Products:NONE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN A CLOSED CONTAINER OR HEAVY BAG.
+    MATERIAL MAY BE RECYCLED OR DISPOSED OF IN ACCORDANCE WITH FEDERAL,
+    STATE, AND LOCAL ENVIRONMENTAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

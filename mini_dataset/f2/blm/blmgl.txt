@@ -1,0 +1,158 @@
+=====================  Product Identification  =====================
+
+Product ID:STEPANFOAM BX-402-R, 188160
+MSDS Date:01/19/1990
+FSC:6850
+NIIN:00N021184
+MSDS Number: BLMGL
+=== Responsible Party ===
+Company Name:STEPAN CO
+Address:22 W FRONTAGE RD
+City:NORTHFIELD
+State:IL
+ZIP:60093
+Country:US
+Info Phone Num:708-446-7500
+Emergency Phone Num:800-228-5635;800-424-9300(CHEMTREC)
+CAGE:87558
+=== Contractor Identification ===
+Company Name:STEPAN CO
+Address:22 W FRONTAGE ROAD
+City:NORTHFIELD
+State:IL
+ZIP:60093-3407
+Country:US
+Phone:708-446-7500
+CAGE:87558
+Company Name:STEPAN COMPANY
+Address:EDENS EXPY WINNETKA RD
+Box:City:WINNETKA
+State:IL
+ZIP:60093
+Country:US
+Phone:800-228-5635, CHEMTREC 800-424-9300
+CAGE:87570
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TRICHLOROFLUOROMETHANE  (CFC-11)  (SARA III)
+CAS:75-69-4
+RTECS #:PB6125000
+Fraction by Wt: 23%
+OSHA PEL:1000 PPM
+ACGIH TLV:C, 1000 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+Ozone Depleting Chemical:1
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: CONT IS PAINFUL/IRRIT. SKIN:
+    PRLNG/ RPTD CONT CAUSES IRRIT. INHAL: VAPOR/MIST CAUSED BY MFG
+    OPERATIONS IRRIT NASAL PASSAGES. BRTHG HIGH CONCS OF FLUOROCARBONS
+    CAN CAUSE NARCOSIS, ANESTHESIA, & S UFFOCATION. CHRONIC: EFTS BY
+    OVEREXPOS TO THIS PROD HAVE NOT BEEN ESTABLISHED. UNNECESSARY EXPOS
+    TO (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:HLTH HAZ: THIS PROD/ANY CHEM SHLD BE AVOIDED.
+    CHLOROFLUOROCARBON (CFC) MATLS HAVE PRDCED SENSIT OF THE MYOCARDIUM
+    TO EPINEPHRINE IN LAB ANIMALS & MAY HAVE A SIMILAR EFT IN HUMANS.
+    ADRENOMIMETICS (I.E. , EPINEPHRINE) MAY BE CONTRA-INDICATED EXCEPT
+    FOR LIFE-SUSTAINING USES IN HUMANS ACUTELY/CHRONICALLY(SUPP DATA)
+Medical Cond Aggravated by Exposure:HAVE NOT BEEN ESTABLISHED.
+    UNNECESSARY EXPOSURE TO THIS PRODUCT OR ANY CHEMICAL SHOULD BE
+    AVOIDED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH IMMED W/PLENTY OF WATER FOR A MINIMUM OF 15 MIN.
+    SKIN: WASH OFF SKIN W/WATER. REMOVE CONTAMINATED CLOTHING & CLEAN
+    BEFORE REUSE. INHAL: REMOVE TO FRESH AIR. GIVE OXYGEN OR APPLY ARTF
+    RESP,  IF NEEDED. INGEST: CONSULT AN MD IMMEDIATELY. IF ANY
+    SYMPTOMS PERSIST, CONSULT AN MD.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:>200F,>93C
+Extinguishing Media:DRY CHEMICAL, CO2, FOAM, OR WATER FOG. CLASS BC,
+    ABC FIRE EXTINGUISHER.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED PRESSUE DEMAND SCBA
+    AND FULL PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE KNOWN. THERMAL DECOMPOSITION
+    PRODUCTS MAY INCLUDE FLUORIDES, CHLORIDES, AND PHOSGENE .
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONTAIN ALL SPILLS & LEAKS TO PREVENT
+    DISCHARGE INTO THE ENVIRONMENT. VENTILATE AREA. SMALL SPILLS: SOAK
+    UP W/ ABSORBANT, SHOVEL INTO WASTE CONTR, FLUSH AREA W/WATER. LARGE
+    SPILLS: RECOVER LIQUID FOR	REPROCESSING OR DISPOSAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A DRY, WELL VENTILATED AREA
+    AT ABOUT 65-75F(18-25C). RELEASE PRESSURE CAREFULLY BEFORE OPENING
+    CONTAINERS.
+Other Precautions:SPILLED MATL IS SLIPPERY. WASH THORO AFTER HNDLG. NO
+    SMKNG IN AREA OF USE. DO NOT USE IN THE GEN VICIN OF ARC WELDING,
+    OPEN FLAMES OR HOT SURFACES. HEAT &/OR UV RADIATION MAY CAUSE THE
+    FORMATION OF CH LORIDES, FLUORIDES OR PHOSGENE .
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF VAPORS ARE PRESENT, USE NIOSH/MSHA APPRVD
+    RESPIRATOR FOR ORGANIC VAPORS, AIR-LINE RESPIRATOR, OR A
+    SELF-CONTAINED BREATHING APPARATUS.
+Ventilation:USE VENTILATION ADEQUATE TO KEEP HAZARDOUS INGREDIENTS
+    BELOW THEIR TLV.
+Protective Gloves:USE IMPERVIOUS GLOVES.
+Eye Protection:CHEM WORK GOG & FULL LENGTH FSHLD.
+Other Protective Equipment:WEAR PROTECTIVE CLTHG TO PREVENT REPEATED OR
+    PROLONGED CONTACT. EYE WASH STATION & SAFETY SHOWER SHLD BE NEAR
+    WORK AREA.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING. CLEAN
+    CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+EFTS OF OVEREXP: EXPOSED TO CHLOROCARBONS OR CFC'S . WASTE DISP METH:
+    OBSERVE ALL LABELED SAFEGUARDS UNTIL CONTAINER IS CLEANED,
+    RECONDITIONED, OR DESTROYED.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:75F,24C
+Vapor Pres:760 @ 75F
+Vapor Density:HVR/AIR
+Evaporation Rate & Reference:SLOWER THAN ETHYL ETHER
+Appearance and Odor:NONE SPECIFIED BY MANUFACTURER.
+Percent Volatiles by Volume:23(WT)
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:TOXIC FLUORIDES AND CHLORIDES.
+    PHOSGENE .
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:RECOVER MATL OR DISPOSE (INCINERATION IS
+    PREFERRED) I/A/W ALL APPLIC FEDERAL, STATE, & LOCAL REGS. MATL
+    COLLECTED W/ ABSORBANT MAY BE DISPOSED IN A PERMITTED LANDFILL
+    I/A/W FED, STATE, & LOC REGS. EMP TY CONTR MAY RETAIN VAP/PROD
+    RESIDUE. (SUPP DATA)
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

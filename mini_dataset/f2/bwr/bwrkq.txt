@@ -1,0 +1,160 @@
+=====================  Product Identification  =====================
+
+Product ID:GLYCOL ETHER EM
+MSDS Date:12/22/1988
+FSC:6850
+NIIN:01-016-1914
+MSDS Number: BWRKQ
+=== Responsible Party ===
+Company Name:ASHLAND CHEMICAL CO DIV OF ASHLAND OIL INC
+Address:3849 FISHER RD
+Box:2219
+City:COLUMBUS
+State:OH
+ZIP:43228
+Country:US
+Info Phone Num:614-790-3333
+Emergency Phone Num:800-274-5263
+CAGE:7L600
+=== Contractor Identification ===
+Company Name:ASHLAND CHEMICAL CO DIV OF ASHLAND OIL INC
+Address:3849 FISHER RD
+Box:2219
+City:COLUMBUS
+State:OH
+ZIP:43216
+Country:US
+Phone:614-790-3333 / 800-325-3751
+CAGE:7L600
+Company Name:UNI-KEM INTERNATIONAL
+Address:1001 HARIMAW COURT EAST
+Box:City:METAIRIE
+State:LA
+ZIP:70001
+Country:US
+Phone:504-835-7600/FAX:504-835-7608
+CAGE:4S446
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:EHTYLENE GLYCOL MONOETHYL ETHER (2-METHOXYETHANOL (EGME) 
+    (SARA III))
+CAS:109-86-4
+RTECS #:KL5775000
+Fraction by Wt: 100%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:S, 25 PPM
+ACGIH TLV:S, 5 PPM; 9192
+
+Ingred Name:PROPELLANT
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:MAY CAUSE SKIN & EYE IRRITATION
+    ON CONTACT.INHALATION OR SKIN ABSORPTION MAY BE HARMFUL;MAY CAUSE
+    CNS EFFECTS,INHALATION ALSO RESPIRATORY IRRITATION.INGESTION MAY
+    CAUSE GI TRACT IRRITATION.CHRON IC:PROLONGED OR REPEATED EXPOSURE
+    MAY CAUSE KIDNEY/LUNG DAMAGE,BLOOD CHANGES,BIRTH DEFECTS/OTHER
+    REPORDUCTIVE HARM.
+Explanation of Carcinogenicity:NO INGREDIENT OF A CONCENTRATION OF 0.1%
+    OR GREATER IS LISTED AS A CARCINOGEN OR SUSPECTED CARCINOGEN.
+Effects of Overexposure:SKIN-IRRITATION,DEFATTING,DERMATITIS.
+    EYES-IRRITATION,REDNESS,TEARING. INHALED-DIZZINESS, WEAKNESS,
+    FATIGUE, NAUSEA, HEADACHE, POSSIBLE UNCONSCIOUSNESS, POSSIBLE
+    DEATH. INGESTED-GI TRACT IRRITATION, N AUSEA, VOMITING, DIARRHEA.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES-FLUSH WITH WATER FOR 15 MINUTES. GET MEDICAL ATTENTION.
+    SKIN-FLUSH WITH WATER. INHALATION-REMOVE VICTIM TO FRESH AIR &
+    PROVIDE OXYGEN OR ARTIFICIAL RESPIRATION AS REQUIRED. GET MEDICAL
+    ATTENTION.	INGESTION-IF CONSCIOUS, GIVE WATER TO DRINK & INDUCE
+    VOMITING, KEEPING VICTIM'S HEAD BELOW HIPS. GET MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:105F,41C
+Autoignition Temp:Autoignition Temp Text:545F
+Lower Limits:1.8
+Upper Limits:19.8
+Extinguishing Media:WATER FOG, CARBON DIOXIDE, DRY CHEMICAL, ALCOHOL
+    FOAM.
+Fire Fighting Procedures:WEAR POSITIVE-PRESSURE DEMAND SELF-CONTAINED
+    BREATHING APPARATUS AND FULL PROTECTIVE GEAR. COOL FIRE EXPOSED
+    CONTAINERS WITH WATER.
+Unusual Fire/Explosion Hazard:VAPORS ARE HEAVIER TAHN AIR AND MAY
+    TRAVEL ALONG OR BE MOVED BY VENTILATION GROUND TO DISTANT SOURCES
+    OF IGNITION; MAY COLLECT IN LOW AREAS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE ALL SOURCES OF IGNITION. ABSORB ON
+    PAPER, VERMICULITE, FLOOR ABSORBENT OR OTHER ABSORBENT MATERIAL AND
+    PLACE IN A CONTAINER FOR LATER DISPOSAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DLA-HMIS: STORE IN A COOL, DRY,
+    WELL-VENTILATED PLACE OUT OF DIRECT SUNLIGHT AND AWAY FROM SOURCES
+    OF IGNITION AND STRONG OXIDIZING AGENTS.
+Other Precautions:NEVER USE WELDING OR CUTTING TORCH ON OR NEAR
+    CONTAINER (EVEN EMPTY) BECAUSE PRODUCT (EVEN RESIDUE) CAN IGNITE
+    EXPLOSIVELY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF ENGINEERING CONTROLS FAIL OR NON-ROUTINE USE
+    OR AN EMERGENCY OCCURS; WEAR AN MSHA/NIOSH APPROVED RESPIRATOR OR
+    AN AIR-SUPPLIED RESPIRATOR OR SCBA, AS REQUIRED. USE IN ACCORDANCE
+    WITH 29 CFR 1910.13 4 AND MANUFACTURER'S RECOMMENDATIONS.
+Ventilation:USE SUFFICIENT MECHANICAL VENTILATION OR LOCAL EXHAUST TO
+    MAINTAIN EXPOSURE BELOW TLV(S).
+Protective Gloves:BUTYL RUBBER
+Eye Protection:SAFETY GLASSES/CHEMICAL SPLASH GOGGLES
+Other Protective Equipment:WEAR IMPERVIOUS CLOTHING & BOOTS TO PREVENT
+    PROLONGED OR REPEATED SKIN CONTACT.
+Work Hygienic Practices:WASH HANDS AFTER HANDLING AND BEFORE EATING,
+    DRINKING, OR SMOKING. LAUNDER CONTAMINATED CLOTHES BEFORE REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V3
+Boiling Pt:B.P. Text:>254F,>123C
+Melt/Freeze Pt:M.P/F.P Text:-124F,-87C
+Vapor Pres:9.5
+Vapor Density:2.6
+Spec Gravity:0.965-0.967
+Evaporation Rate & Reference:0.62 (N-BUTYL ACETATE=1)
+Appearance and Odor:COLORLESS LIQUID; MILD, AGREEABLE ODOR.
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE, ETC.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE AND
+    FEDERAL ENVIRONMENTAL REGULATIONS. DLA-HMIS: EPA/RCRA HAZWASTE
+    NUMBER D001 MAY APPLY TO UNUSED OR UNCONTAMINATED PRODUCT. DO NOT
+    INCINERATE AEROSOL CANS!
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

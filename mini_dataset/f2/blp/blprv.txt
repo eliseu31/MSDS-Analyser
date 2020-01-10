@@ -1,0 +1,121 @@
+=====================  Product Identification  =====================
+
+Product ID:ESNALUBE 382
+MSDS Date:08/18/1989
+FSC:9150
+NIIN:01-328-2552
+MSDS Number: BLPRV
+=== Responsible Party ===
+Company Name:E/M CORPORATION
+Address:6940 FARMDALE AVE
+City:NORTH HOLLYWOOD
+State:CA
+ZIP:91605-6210
+Info Phone Num:(213) 875-0101
+Emergency Phone Num:(213) 875-0101
+CAGE:EMCOR
+=== Contractor Identification ===
+Company Name:E/M CORP
+Address:6940 FARMDALE AVE
+City:NORTH HOLLYWOOD
+State:CA
+ZIP:91605-6210
+Country:US
+Phone:317-497-6100
+CAGE:11770
+Company Name:E/M CORPORATION
+Address:2601 KENT AVE
+Box:2400
+City:WEST LAFAYETTE
+State:IN
+ZIP:47906
+Phone:(317) 497-6100
+CAGE:EMCOR
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MOLYBDENUM DISULFIDE
+CAS:1317-33-5
+RTECS #:QA4697000
+OSHA PEL:15 MG/CUM AS (MO)
+ACGIH TLV:10 MG/CUM AS (MO)
+
+Ingred Name:WETTING AGENT
+
+Ingred Name:INORGANIC SILICATE BINDER
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL (RAT) LD50: 1,280 MG/KG.  SEE SUPP.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION, REDNESS, BLURRED
+    VISION. SKIN: IRRITATION, DERMATITIS. INHALATION: IRRITATION,
+    DIZZINESS, NAUSEA, FATIGUE, HEADACHE, UNCONSCIOUSNESS OR
+    ASPHYXIATION. INGESTION: GASTROINTESTINAL IRRI TATION, NAUSEA,
+    VOMITING, & DIARRHEA.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: IRRITATION, REDNESS, BLURRED VISION.
+    SKIN: IRRITATION, DERMATITIS. INHALATION: IRRITATION, DIZZINESS,
+    NAUSEA, FATIGUE, HEADACHE, UNCONSCIOUSNESS OR ASPHYXIATION.
+    INGESTION: GASTROINTESTINAL IRRI TATION, NAUSEA, VOMITING, &
+    DIARRHEA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: WASH W/SOAP & WATER. EYES: FLUSH W/COPIOUS AMOUNTS OF
+    WATER. INHALATION: REMOVE TO FRESH AIR. INGESTION: DON'T INDUCE
+    VOMITING. KEEP WARM. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:CO2, FOAM, DRY CHEMICAL, OR HALON
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CLEAN SPILL W/ABSORBENT MATERIAL. FLUSH
+    W/LARGE QUANTITIES OF WATER INTO INDUSTRIAL SEWER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:PROTECT FROM PHYSICAL DAMAGE. STORE IN
+    A COOL, DRY, VENTILATED AREA AWAY FROM ACIDS, ALKALIS & OPEN
+    FLAMES.
+Other Precautions:AVOID CONTACT W/SKIN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH APPROVED ORGANIC RESPIRATOR IF >TLV.
+Ventilation:LOCAL EXHAUST: TO KEEP <TLV. MECHANICAL: USE NON-SPARKING
+    EQUIPMENT.
+Protective Gloves:CHEMICAL RESISTANT
+Eye Protection:SAFETY GLASSES OR GOGGLES
+Supplemental Safety and Health
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Solubility in Water:COMPLETE
+Appearance and Odor:GRAY/BLACK LIQUID W/ORGANIC SOLVENT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACIDS, ALKALIS, STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:OPEN FLAMES & PHYSICAL DAMAGE
+Hazardous Decomposition Products:TOXIC FUMES INCLUDING SODIUM, BORON,
+    PHOSPHORUS, SILICON, & SULFUR COMPOUNDS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CHEMICAL LANDFILL IN ACCORDANCE W/LOCAL, STATE,
+    & FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

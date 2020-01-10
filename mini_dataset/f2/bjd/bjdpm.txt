@@ -1,0 +1,125 @@
+=====================  Product Identification  =====================
+
+Product ID:SILICA GEL B06
+MSDS Date:01/01/1990
+FSC:6850
+NIIN:01-225-8015
+MSDS Number: BJDPM
+=== Responsible Party ===
+Company Name:W R GRACE & CO
+Address:10 E BALTIMORE STREET
+Box:2117
+City:BALTIMORE
+State:MD
+ZIP:21202-1630
+Country:US
+Info Phone Num:301-659-9000
+Emergency Phone Num:301-659-9058, 301-874-2009
+CAGE:1BX64
+=== Contractor Identification ===
+Company Name:W R GRACE & CO
+Address:55 HAYDEN AVE
+City:LEXINGTON
+State:MA
+ZIP:02173
+Country:US
+Phone:713-479-7348
+CAGE:1BX64
+Company Name:W R GRACE & CO. DAVISON CHEMICAL DIVISION
+Address:10 E BALTIMORE STREET
+Box:2117
+City:BALTIMORE
+State:MD
+ZIP:21202-1630
+Country:US
+Phone:410-659-9000
+CAGE:16210
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SILICA GEL
+CAS:63231-67-4
+RTECS #:VV7322000
+OSHA PEL:6 MG/M3
+ACGIH TLV:10 MG/M3
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50(ORL)>31600MG/KG(RAT);DRML>2000(RBT)
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:AVOID PROLONGED BREATHING OF THE DUST
+    OR CONTACT OF DUST WITH THE SKIN.THE DRYING ACTION CAN CAUSE
+    IRRITATION OF THE MUCOUS MEMBRANES OF THE NOSE AND THROAT AND
+    IRRITATION OF THE SKIN.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:IMMEDIATELY WASH FROM EYES WITH LARGE AMOUNTS OF WATER,
+    OCCASIONALLY LIFTING UPPER & LOWER EYE LIDS.IF IRRITATION OCCURS
+    AND PERSISTS, SEEK MEDICAL ATTENTION.SKIN:WASH WITH SOAP &
+    WATER.INGEST:MA TERIAL WILL PASS THROUGH BODY NORMALLY.INHAL:REMOVE
+    TO FRESH AIR.
+
+=====================  Fire Fighting Measures  =====================
+
+Fire Fighting Procedures:NON-FLAMMABLE
+Unusual Fire/Explosion Hazard:NON-FLAMMABLE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP OR VACUUM UP OR FLUSH TO SEWER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP TIGHTLY SEALED TO PROTECT
+    QUALITY.WHEN POURING INTO A CONTR OF FLAMMABLE LIQ,GROUND BOTH
+    CONTRS ELECTRICALLY TO PREVENT A STATIC ELECTRIC SPARK.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF DUSTY CONDITIONS PREVAIL, USE OF AN APPROVED
+    NIOSH/MSHA DUST MASK IS RECOMMENDED.
+Ventilation:NONE SPECIFIED BY MANUFACTURER.
+Protective Gloves:CLOSE-WEAVE COTTON GLOVES
+Eye Protection:CHEMICAL WORKERS GOGGLES 
+Other Protective Equipment:WEAR LONG SLEEVES W/TIGHT-FITTING WRISTLETS
+    IF ITS USE REQUIRES MANUAL HANDLING.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Spec Gravity:2.1
+pH:3.5-8
+Solubility in Water:INSOLUBLE
+Appearance and Odor:DRY WHITE GRANULES, BEADS OR POWDER
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN AN APPROVED LANDFILL ACCORDANCE TO
+    FEDERAL, STATE AND LOCAL REGULATIONS. COVER PROMPTLY TO AVOID
+    BLOWING OF DUST.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

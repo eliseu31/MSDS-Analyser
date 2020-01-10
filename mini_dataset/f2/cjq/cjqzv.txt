@@ -1,0 +1,163 @@
+=====================  Product Identification  =====================
+
+Product ID:HELIUM
+MSDS Date:10/14/1997
+FSC:6830
+NIIN:00N087635
+Status Code:A
+MSDS Number: CJQZV
+=== Responsible Party ===
+Company Name:SCOTT SPECIALTY GASES
+Address:500 WEAVER PARK RD
+City:LONGMONT
+State:CO
+ZIP:80501
+Country:US
+Info Phone Num:303-651-3910
+Emergency Phone Num:888-253-1635
+CAGE:0SHS3
+=== Contractor Identification ===
+Company Name:SCOTT SPECIALTY GASES
+Address:500 WEAVER PARK RD
+Box:City:LONGMONT
+State:CO
+ZIP:80501
+Country:US
+Phone:888-253-1635
+CAGE:0SHS3
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HELIUM
+CAS:7440-59-7
+RTECS #:MH6520000
+> Wt:99.
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE EFFECTS: MATERIAL ACTS AS A
+    SIMPLE ASPHYXIANT BY DISPLACING AIR NECESSARY FOR LIFE. SYMPTOMS
+    INCLUDE RAPID RESPIRATION, MUSCULAR INCOORDINATION, FATIGUE,
+    DIZZINESS, NAUSEA, VOMITING, UNCONSCIOUS NESS, AND DEATH.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE KNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE CONT: IMMEDIATELY FLUSH EYES W/POTABLE WATER FOR AT LEAST
+    15 MINUTES, SEEK ASSISTANCE FROM MD . SKIN CONT: FLUSH W/COPIOUS
+    AMOUNTS OF WATER. CALL MD. . INGESTION: CALL MD IMMEDIATELY ( ).
+    INHALATION: IMMEDIATELY REMOVE VICTIM TO FRESH AIR. IF BREATHING
+    HAS STOPPED, GIVE ARTIFICIAL RESPIRATION. IF BREATHING IS
+    DIFFICULT, GIVE OXYGEN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONFLAMMABLE
+Lower Limits:NONFLAMM
+Upper Limits:NONFLAMM
+Extinguishing Media:USE WHAT IS APPROPRIATE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:WEAR NIOSH APPROVED SELF-CONTAINED BREATHING
+    APPARATUS AND FULL PROTECTIVE CLOTHING. KEEP FIRE EXPOSED CYLINDERS
+    COOL WITH WATER SPRAY. IF POSSIBLE, STOP THE PRODUCT FLOW.
+Unusual Fire/Explosion Hazard:CYLINDER RUPTURE MAY OCCUR UNDER FIRE
+    CONDITIONS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE AND VENTILATE AREA. SHUT OFF SOURCE
+    IF POSSIBLE AND REMOVE SOURCE OF HEAT. REMOVE LEAKING CYLINDER TO
+    EXHAUST HOOD OR SAFE OUTDOOR AREA.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:SECURE CYLINDER WHEN USING TO PROTECT
+    FROM FALLING. USE SUITABLE HAND TRUCK TO MOVE CYLINDERS. STORE IN
+    WELL VENTILATED AREAS. KEEP VALVE PROT CAP ON CYLINDERS WHEN NOT IN
+    USE. PROTECT CONTAINERS FROM  PHYSICAL DAMAGE. DO NOT DEFACE
+    CYLINDERS OR LABELS.
+Other Precautions:CYLINDERS SHOULD BE REFILLED BY QUALIFIED PRODUCERS
+    OF COMPRESSED GAS. SHIPMENT OF COMPRESSED GAS CYLINDER WHICH HAS
+    NOT BEEN FILLED BY THE OWNER OR WITH HIS WRITTEN CONSENT IS A
+    VIOLATION OF FEDERAL  LAW (49 CFR).
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IN CASE OF LEAKAGE, USE NIOSH APPROVED
+    SELF-CONTAINED BREATHING APPARATUS.
+Ventilation:PROVIDE ADEQUATE GENERAL AND LOCAL EXHAUST VENTILATION TO
+    AVOID ASPHYXIATION.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:ANSI APPROVED EYE WASH & DELUGE SHOWER .
+    SAFETY SHOES WHEN HANDLING CYLINDERS.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:=-268.8C, -452.F
+Vapor Density:0.138
+Spec Gravity:GAS (H*2O =1)
+Evaporation Rate & Reference:GAS
+Solubility in Water:V/V @ 20C: 0.0068
+Appearance and Odor:COLORLESS GAS. ODORLESS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE.
+Stability Condition to Avoid:STABLE UNDER NORMAL STORAGE CONDITIONS.
+    AVOID STORAGE IN POORLY VENTILATED AREAS. AVOID STORAGE NEAR A HEAT
+    SOURCE.
+Hazardous Decomposition Products:NONE.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:LETHAL CONCENTRATION (LC50): NONE
+    ESTABLISHED. LETHAL DOSE 50 (LD50): N/AP. TERATOGENICITY: N/AP.
+    REPRODUCTIVE EFFECTS: N/AP. MUTAGENICITY: N/AP.
+
+=====================  Ecological Information  =====================
+
+Ecological:NO ADVERSE ECOLOGICAL EFFECTS ARE EXPECTED.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF NON-REFILLABLE CYLINDERS I/A/W
+    FEDERAL, STATE & LOCAL REGS. ALLOW GAS TO VENT SLOWLY TO ATMOSPHERE
+    IN AN UNCONFINED AREA OR EXHAUST HOOD. IF THE CYLINDERS ARE THE
+    REFILLABLE TYPE, RETURN CY LINDERS TO SUPPLIER WITH ANY VALVE
+    OUTLET PLUGS OR CAPS SECURED AND VALVE PROTECTION CAPS IN PLACE.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:CONCENTRATION: 99+%. DOT DESCRIPTION (US ONLY):
+    PROPER SHIPPING NAME: HELIUM, COMPRESSED. HAZARD CLASS: 2.2
+    (NONFLAMMABLE). IDENTIFICATION NUMBER: UN1046. REPORTABLE
+    QUANTITIES: NONE. LABELING: NONFLA MMABLE GAS. ADR/RID (EU ONLY):
+    CLASS 2, 1A. SPECIAL PRECAUTIONS: CYLINDERS SHOULD BE TRANSPORTED
+    IN A SECURE UPRIGHT POSITION IN A WELL VENTILATED TRUCK.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:SARA: THE THRESHOLD PLANNING QUANTITY FOR
+    MATERIAL IS 10,000 LBS.
+Federal Regulatory Information:OSHA: PROCESS SAFETY MANAGEMENT:
+    MATERIALS ARE NOT LISTED IN APPENDIX A OF 29 CFR 1910.119 AS HIGHLY
+    HAZARDOUS CHEMICALS. TSCA: MATERIAL IS LISTED IN TSCA INVENTORY.
+    SARA: THE THRESHOLD PLANNING QTY F OR MATL IS 10,000 LBS. EU
+    NUMBER: 231-168-5. NUMBER ANNEX 1 OF DIR 67/548: NOT LISTED IN
+    ANNEX 1. EU CLASSIFICATION: N/AV. R: AS. S: 9,23.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

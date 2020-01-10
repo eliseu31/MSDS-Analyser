@@ -1,0 +1,138 @@
+=====================  Product Identification  =====================
+
+Product ID:BIO-PEN P6F5
+MSDS Date:05/15/1986
+FSC:6850
+NIIN:01-263-2264
+MSDS Number: BJDWJ
+=== Responsible Party ===
+Company Name:ARDROX INC
+Address:16961 KNOTT AVE
+City:LA MIRADA
+State:CA
+ZIP:90638-6015
+Country:US
+Info Phone Num:714-739-2821
+Emergency Phone Num:714-739-2821/800-424-9300(CHEMTREC)
+CAGE:23373
+=== Contractor Identification ===
+Company Name:BRENT AMERICA,  INC.
+Address:16961 KNOTT AVE.
+Box:City:LA MIRADA
+State:CA
+ZIP:90638-6015
+Country:US
+Phone:714-739-2821
+CAGE:23373
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POLYETHYLENE GLYCOL ETHER
+CAS:68131-40-8
+RTECS #:WZ5200000
+Fraction by Wt: 90%
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE-EYES:MODERATE IRRITATION, SKIN:
+    IRRITATION, INHALATION:CENTRAL NERVOUS SYSTEM DISORDERS, INGESTION:
+    IRRITATION. CHRONIC-EYES:UNKNOWN, SKIN:IRRITATION,
+    INHALATION:UNKNOWN, INGESTION:UNKNOWN.
+Explanation of Carcinogenicity:NONE OF THE COMPOUNDS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP, OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:EYES:MODERATE IRRITATION, SKIN:SLIGHT
+    REDDENING, INHALATION:DIZZINESS, NAUSEA. INGESTION:NAUSEA AND
+    VOMITING.
+Medical Cond Aggravated by Exposure:NOT GIVEN BY THE MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH W/WATER 15 MIN, HOLD LIDS OPEN. SKIN:WASH WITH SOAP
+    & WATER. REMOVE CONTAMINATED CLOTHING AND LAUNDER BEFORE REUSE.
+    INHALED:REMOVE TO FRESH AIR. RESTORE BREATHING IF NECESSARY.
+    INGESTED:GIVE  2 LARGE GLASSES OF MILK OR WATER AND INDUCE
+    VOMITING. GET IMMEDIATE MEDICAL CARE. GIVE NOTHING BY MOUTH IF
+    UNCONSCIOUS. IF IRRITATION PERSISTS OR IS SEVERE,SEE A DOCTOR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:410F,210C
+Extinguishing Media:USE CARBON DIOXIDE, FOAM, OR DRY CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WIPE/SOAK UP WITH CLOTH OR PAPER TOWEL OR
+    INERT ABSORBENT. PUT IN DISPOSAL CONTAINER. REMOVE RESIDUE WITH
+    WATER.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A DRY AREA ABOVE 32F AND
+    BELOW 90F.
+Other Precautions:NEVER EAT, DRINK, OR SMOKE WHEN WORKING WITH
+    CHEMICALS. WASH THOROUGHLY AFTER USE. AVOID SKIN AND EYE CONTACT
+    AND ENSURE ADEQUATE VENTILATION DURING MAINTENANCE OF CONTAMINATED
+    EQUIPMENT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESPIRATOR WILL NOT NORMALLY BE NECESSARY. USE
+    NIOSH/MSHA APPROVED AIR SUPPLIED RESPIRATOR OR RESPIRATOR FOR MIST
+    IF EXPOSURE IS ABOVE THE TLV/PEL. SEE 29 CFR 1910.134 FOR
+    REGULATIONS PERTAINING TO RE SPIRATOR USE.
+Ventilation:GENERAL ROOM VENTILATION IS NORMALLY ADEQUATE. USE LOCAL
+    EXHAUST IF NECESSARY TO CONTROL EXPOSURE BELOW PEL/TLV.
+Protective Gloves:RUBBER OR P.V.C.
+Eye Protection:SAFETY GLASSES OR GOGGLES
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER.
+    INDUSTRIAL-TYPE WORK CLOTHING AND APRON AS REQUIRED.
+Work Hygienic Practices:USE GOOD CHEMICAL HYGIENE PRACTICE. AVOID
+    UNNECESSARY CONTACT.
+Supplemental Safety and Health
+TWO MSDS'S WERE SUPPLIED BY THE MANUFACTURER, EACH WITH A DIFFERENT
+    FORMULATION. THE MANUFACTURER WAS CONTACTED AND THEY INSTRUCTED US
+    TO USE THE MSDS DATED 01MAY90.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:>482F,>250C
+Vapor Pres:<1
+Vapor Density:>1
+Spec Gravity:0.975
+Evaporation Rate & Reference:<0.1(BUTYL ACETATE = 1)
+Solubility in Water:MISCIBLE
+Appearance and Odor:FLUORESCENT YELLOW LIQUID, MILD ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:HIGH TEMPERATURES AND OPEN FLAMES
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W ALL FEDERAL, STATE AND LOCAL
+    REGULATIONS. MANUFACTURER SUGGESTS THAT DISPOSAL MAY BE DONE BY
+    SOLIDIFYING WASTE IN CONTAINER WITH ABSORBENT MATERIAL. CONTACT
+    SPECIAL WASTE DISPOSAL COMPAN Y.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

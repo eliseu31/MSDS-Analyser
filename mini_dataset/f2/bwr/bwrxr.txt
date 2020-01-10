@@ -1,0 +1,119 @@
+=====================  Product Identification  =====================
+
+Product ID:477634, 1N POTASSIUM HYDROXIDE
+MSDS Date:05/16/1991
+FSC:6550
+NIIN:01-070-1513
+MSDS Number: BWRXR
+=== Responsible Party ===
+Company Name:CIBA CORNING DIAGNOSTICS CORP A JOINT VENTURE
+Address:63 NORTH ST
+City:MEDFIELD
+State:MA
+ZIP:02052-2308
+Country:US
+Info Phone Num:508-359-7711 / FAX  508-359-2879
+Emergency Phone Num:508-359-7711/ 800-255-8769
+CAGE:51404
+=== Contractor Identification ===
+Company Name:CIBA CORNING DIAGNOSTICS CORP A JOINT VENTURE
+Address:63 NORTH ST
+Box:City:MEDFIELD
+State:MA
+ZIP:02052-2308
+Country:US
+Phone:508-359-7711/ 800-255-8769
+CAGE:51404
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POTASSIUM HYDROXIDE  (SARA III)
+CAS:1310-58-3
+RTECS #:TT2100000
+Fraction by Wt: 5-10%
+Other REC Limits:2 MG/CUM (CEILING)
+OSHA PEL:C, 2 MG/M3
+ACGIH TLV:C 2 MG/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL RAT) IS
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:VAPORS MAY BE IRRITATING TO SKIN, EYES
+    & MUCOUS MEMBRANES. CONTACT W/SKIN OR EYES MAY CAUSE IRRITATION OR
+    BURNS. INGESTION IS HARMFUL - MAY BE FATAL.
+Explanation of Carcinogenicity:MANUFACTURER GAVE NO INFORMATION ABOUT
+    CARCINOGENICITY. HMIS DOES NOT EXPECT IT TO BE CARCINOGENIC.
+Effects of Overexposure:SKIN:IRRITATION, BURNS. EYES:IRRITATION, BURNS.
+    INHALED:MUCOUS MEMBRANE IRRITATION. INGESTION:HARMFUL OR FATAL.
+Medical Cond Aggravated by Exposure:MFR GAVE NO INFORMATION ON MSDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION:DO NOT INDUCE VOMITING. IF CONSCIOUS, GIVE WATER OR
+    MILK OF MAGNESIA. SKIN OR EYES:FLUSH W/PLENTY OF WATER FOR 15
+    MINUTES. REMOVE CONTAMINATED CLOTHING. HMIS:OBTAIN MEDICAL
+    ATTENTION IN ALL  CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE EXTINGUISHING MEDIA APPROPRIATE FOR SURROUNDING
+    FIRE.
+Unusual Fire/Explosion Hazard:MFR GAVE NO INFORMATION ON MSDS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:STOP LEAK IF W/O RISK. VENTILATE AREA.
+    CAREFULLY NEUTRALIZE SPILL W/APPLICABLE NEUTRALIZING KEI. FLUSH
+    W/COPIOUS AMOUNTS OF WATER.
+Neutralizing Agent:MFR GAVE NO INFORMATION ON MSDS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER TIGHTLY CLOSED. STORE
+    IN CORROSION PROOF AREA. ISOLATE FROM INCOMPATIBLE MATERIALS.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Protective Gloves:PROPER GLOVES RECOMMENDED
+Eye Protection:SAFETY GLASSES RECOMMENDED
+Work Hygienic Practices:MFR:?.	HMIS:USE GOOD CHEMICAL HYGIENE
+    PRACTICES. AVOID CONTACT IF POSSIBLE. WASH THOROUGHLY AFTER
+    HANDLING.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:B1
+NRC/State Lic Num:NONE
+Spec Gravity:1.01
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR, ODORLESS LIQUID
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS
+Stability Condition to Avoid:NONE DOCUMENTED
+Hazardous Decomposition Products:NONE
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/FEDERAL, STATE &
+    LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

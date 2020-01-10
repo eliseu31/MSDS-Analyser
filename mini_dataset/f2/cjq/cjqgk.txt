@@ -1,0 +1,166 @@
+=====================  Product Identification  =====================
+
+Product ID:61-860062-000,SANI-SPRAY SANITIZER
+MSDS Date:04/25/1997
+FSC:6840
+NIIN:01-195-6674
+Status Code:A
+MSDS Number: CJQGK
+=== Responsible Party ===
+Company Name:BRUNSWICK
+Address:525 W. LAKETON AVE
+City:MUSKEGON
+State:MI
+ZIP:49443
+Country:US
+Info Phone Num:616-725-3376
+Emergency Phone Num:800-255-3924 CHEM-TEL
+CAGE:EO165
+=== Contractor Identification ===
+Company Name:BRUNSWICK
+Address:525 W. LAKETON AVE
+Box:City:MUSKEGON
+State:MI
+ZIP:49441
+Country:US
+Phone:616-725-4972
+CAGE:EO165
+Company Name:BRUNSWICK BOWLING & BILLIARDS INC
+Address:525 W LAKETON AVE
+Box:329
+City:MUSKEGON
+State:MI
+ZIP:49443-0329
+Country:US
+Phone:616-725-3300
+Contract Num:SPP0450-99-MC750
+CAGE:3X004
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHANOL
+CAS:64-17-5
+RTECS #:KQ6300000
+= Wt:58.4
+OSHA PEL:1900 MG/M3;1000 PPM
+ACGIH TLV:1880 MG/M3;1000 PPM
+
+Ingred Name:LIQUEFIED PETROLEUM GAS
+CAS:68476-85-7
+RTECS #:SE7545000
+= Wt:39.
+OSHA PEL:1800 MG/M3;1000 PPM
+ACGIH TLV:1800 MG/M3;1000 PPM
+
+Ingred Name:METHYL ALCOHOL
+CAS:67-56-1
+RTECS #:PC1400000
+= Wt:2.
+OSHA PEL:260 MG/M3;200 PPM
+ACGIH TLV:262 MG/M3;200 PPM
+ACGIH STEL:328 MG/M3;250 PPM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:O-PHENYLPHENOL
+CAS:90-43-7
+RTECS #:DV5775000
+= Wt:.5
+
+Ingred Name:P-TERT-AMYLPHENOL
+CAS:80-46-6
+RTECS #:SM6825000
+= Wt:.1
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:HIGH CONCENTRATIONMAY LEAD TO DRYING,
+    IRRITATION AND DERMATITIS. POSSIBLE SKIN ABSORPTION. EYE CONTACT
+    MAY CAUSE BURNING AND IRRITATION. NO CHRONIC EFFECT REPORTED.
+Explanation of Carcinogenicity:NONE LISTED.
+Effects of Overexposure:SKIN IRRITATION, DRYING.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH WITH LUKEWARM WATER FOR 15 MINUTES. CONTACT A
+    PHYSICIAN. SKIN: DO NOT REMOVE WITH SOLVENT. USE WATERLESS	HAND
+    CLEANER FOLLOWED BY SOAP AND WATER. REMOVE AND CLEAN CONTAMINATED
+    CLOTHING. IN HALE: REMOVE TO FRESH AIR. RESTORE BREATHING IF
+    NECESSARY. GET MEDICAL ATTENTION. INGEST: RINSE MOUTH. CALL A
+    PHYSICIAN OR POISON CONTROL CENTER IMMEDIATELY. DO NOT INDUCE
+    VOMITING UNLESS ADVISED BY A  PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:=10.C, 50.F
+AEROSOL
+Lower Limits:1.8
+Upper Limits:9.2
+Extinguishing Media:CO2,DRY CHEMICAL,FOAM
+Fire Fighting Procedures:KEEP CONTAINERS TIGHTLY CLOSED.ISOLATE FROM
+    HEAT,ELECTRICAL EQUIPMENT,SPARKS AND OPEN FLAMES.NEVER USE WELDING
+    OR CUTTING TORCH ON OR NEAR CONTAINER(EVEN EMPTY)BECAUSEPRODUCT MAY
+    IGNITE EXPLOSIVELY.HE AVIER-THAN-AIR VAPORS CAN TRAVEL LONG
+    DISTANCES TO IGNITION SOURCES AND FLASH BACK.FIREFIGHTER SHOULD USE
+    SELF-CONTAINED
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SPILLS MUST BE SAFELY CONTAINED AND CLEANED UP
+    IMMEDIATELY. VENTILATION MUST BE NECESSARY. KEEP OUT OF DRAIN,
+    SEWERS, AND WATERWAYS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:PREVENT ANY PERSON FROM BREATHING
+    VAPORS OR SPRAY MISTS. AVOID PROLONGED OR REPEATED BREATHING OF
+    VAPORS. KEEP CONTAINERS COOL, DRY AND AWAY FROM SOURCES OF
+    IGNITION. DO NOT SMOKE IN STORAGE AREAS OR	WHILE HANDLING THIS
+    PRODUCT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:PREVENT ANY PERSON FROM BREATHING VAPORS OR
+    SPRAY MISTS.UNLESS AIR MMONITORING ESTABLISHES EXPOSURE LIMITS
+    BELOW TLV, NIOSH/MSHA APPROVED RESPIRATORY EQUIPMENT MUST BE
+    USED.ADEQUATE VENTILATION ACHIEV ED BY FRESH AIR MOVEMENT IS
+    NECESSARY DURING APPLICATION OF THIS MATERIAL.
+Ventilation:AS REQUIRED TO CONTROL VAPOR CONCENTRATIONS.AVOID PROLONGED
+    OR REPEATED BREATHING OF VAPORS.IF EXPOSURE EXCEEDS TLV,USE A
+    NIOSH-APPROVED RESPITAOR
+Protective Gloves:CHEMICAL RESISTANT GLOVES AND SKIN CREAM
+Work Hygienic Practices:AVOID INHILATION OF VAPORS.REMOVE SATURATED
+    CLOTHING AND FLUSH AFFECTED AREA WITH WATER.DO NOT TAKE
+    INTERNALLY.DO NOT SMOKE IN STORAGE AREAS OR WHILE HANDLING PRODUCT.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V3
+Vapor Pres:125@130F
+Vapor Density:.1
+Evaporation Rate & Reference:<1(ETHER=1)
+Appearance and Odor:WET MISTY SPRAY WITH LEMON ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS,STRONG MINERAL ACIDS,ALKALI AND HALOGENS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CLOSE CONTAINER AFTER EACH USE. FOR DISPOSAL
+    GUIDANCE OF UNUSED AMOUNT, CONTACT A HOUSEHOLD HAZARDOUS WASTE
+    PROGRAM, OR YOUR LOCAL GOVERNMENT ENVIRONMENTAL CONTROL AGENCY.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

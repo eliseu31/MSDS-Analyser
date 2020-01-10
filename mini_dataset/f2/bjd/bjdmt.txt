@@ -1,0 +1,144 @@
+=====================  Product Identification  =====================
+
+Product ID:FLEXFRAM 605 PART B
+MSDS Date:04/11/1991
+FSC:8030
+NIIN:00-097-9088
+Kit Part:Y
+MSDS Number: BJDMT
+=== Responsible Party ===
+Company Name:FIBER MATERIALS, INC.
+Address:5 MORIN STREET
+City:BIDDEFORD
+State:ME
+ZIP:04005
+Country:US
+Info Phone Num:207-282-5911
+Emergency Phone Num:207-282-5911; 207-283-5160
+CAGE:KO060
+=== Contractor Identification ===
+Company Name:FIBER MATERIALS INC
+Address:BIDDEFORD INDUSTRIAL PARK
+Box:City:BIDDEFORD
+State:ME
+ZIP:04005
+Country:US
+Phone:207-282-5911
+CAGE:62500
+Company Name:FIBER MATERIALS, INC.
+Address:5 MORIN ST
+Box:City:BIDDEFORD
+State:ME
+ZIP:04005
+Country:US
+Phone:207-282-5911
+CAGE:KO060
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SILICON DIOXIDE, AMORPHOUS; (SILICA, AMORPHOUS)
+CAS:7631-86-9
+Fraction by Wt: 2.3%
+Other REC Limits:20 MPPCF (MFR)
+OSHA PEL:80 MG/M3 (MFR)
+ACGIH TLV:5 MPPCF (RESP) (MFR)
+
+Ingred Name:EPOXY RESIN (DIGLYCIDYL ETHER OF BIS PHENOL A)
+CAS:25085-99-8
+Fraction by Wt: 53.4%
+Other REC Limits:NONE KNOWN
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:REMOVAL OF CURED MATERIAL BY GRINDING
+    MAY RESULT IN SUSPENDING SILICA DUST, CARBON FIBERS, AND NUISANCE
+    DUSTS IN THE AIR. INHALATION OF EPOXY RESINS MAY BE IRRITATING AND
+    SENSITIZERS. HOWEVER, RESIN I S NOT VOLATILE AND GENERALLY DOES NOT
+    PRESENT SERIOUS HAZARD BY INHALATION.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:PRIMARY IRRITATION OF SKIN ON PROLONGED
+    CONTACT. IRRITATING TO THE EYES.
+Medical Cond Aggravated by Exposure:ALLERGIES AND/OR OTHER RESPIRATORY
+    CONDITIONS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: REMOVE TO FRESH AIR, GET MD. EYE: FLUSH THOROUGHLY
+    W/WATER 15 MIN. SKIN: WASH W/SOAP AND WATER. INGEST: INDUCE
+    VOMITING AND GET MD IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:315F,157C
+Extinguishing Media:WATER SPRAY, CO*2, DRY CHEMICAL
+Fire Fighting Procedures:FOR LARGE FIRES, USE WATER SPRAY, FOG, OR
+    FOAM. DIKE WATER RUN-OFF. PREVENT ENTRY INTO SEWERS OR NATURAL
+    WATERS. WEAR FULL PROTECTIVE EQUIPMENT.
+Unusual Fire/Explosion Hazard:TOXIC FUMES WILL BE EVOLVED IF UNMIXED
+    MATERIAL IS INVOLVED IN A FIRE. WEAR SCBA.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DIKE. NIOSH APPROVED RESP PROT AND OTHER PROT
+    EQUIP AS NECESSARY TO PREVENT SKIN & EYE CONTACT. IF WARM, PUMP
+    INTO SALVAGE DRUM. SOAK UP RESIDUE & SML SPILLS W/ABSORBENT MAT
+    SUCH AS CLAY & PUT IN TIGH T CONTAINER. IF USE SOLVNT, WATCH FIRE
+    HAZARDS.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN TIGHT, STURDY CONTAINERS.
+    HANDLE I/A/W HAZARD POTENTIAL.
+Other Precautions:REMOVE CONTAMINATED CLOTHING & PROTECTIVE GEAR.
+    DECONTAMINATE. DESTROY LEATHER ARTICLES, INCLUDING SHOES THAT
+    CANNOT BE DECON. ANSI CLASSIFICATION 2. REMOVAL OF CURED MATERIAL
+    SHOULD BE ACCOMPLISHED W /NIOSH APPROVED RESPIRATORS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED RESP W/ORGANIC VAPOR CARTRIDGE.
+    N/A WITH LOCAL EXHAUST.
+Ventilation:LOCAL: IN MIXING & APPL. AREA. MECH: RECOMMENDED. SPECIAL:
+    REMOVAL OF CURED W/NIOSH APPROVED DUST RESP.
+Protective Gloves:RUBBER GLOVES TO PREVENT SKIN CONTACT.
+Eye Protection:CHEM WORK GOGG/FULL LGTH FCSHLD.
+Other Protective Equipment:AS NECESSARY TO PREVENT BODY CONTACT.
+Work Hygienic Practices:AVOID SMOKING, EATING, AND DRINKING IN THE WORK
+    AREA.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:600F,316C
+Vapor Pres:.01 @ 70F
+Vapor Density:9
+Spec Gravity:1.503 (H*2O=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:GRAY VISCOUS LIQUID, MILD AROMATIC ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, STRONG ACIDS, CHLORINATED ORGANIC COMPOUNDS.
+Stability Condition to Avoid:REACTS WITH CONSIDERABLE HEAT WITH HOT
+    RESINS.
+Hazardous Decomposition Products:CO*2, ALDEHYDES, ACIDS, N0*2, SO*2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF I/A/W FED, STATE AND LOCAL REGS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

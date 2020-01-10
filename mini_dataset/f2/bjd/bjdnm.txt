@@ -1,0 +1,138 @@
+=====================  Product Identification  =====================
+
+Product ID:FORMULA 40 HERBICIDE
+MSDS Date:06/27/1980
+FSC:6840
+NIIN:00-664-7060
+MSDS Number: BJDNM
+=== Responsible Party ===
+Company Name:DOW CHEMICAL U S A GOVERNMENT MARKETING
+Address:2020 DOW CENTER
+City:MIDLAND
+State:MI
+ZIP:48640-6030
+Country:US
+Info Phone Num:517-636-4400
+Emergency Phone Num:517-636-4400
+CAGE:71981
+=== Contractor Identification ===
+Company Name:DOW CHEMICAL CO
+Address:100 LARKIN CENTER
+Box:City:MIDLAND
+State:MI
+ZIP:48674
+Country:US
+Phone:800-258-2436
+CAGE:96717
+Company Name:DOW CHEMICAL U S A
+Address:BARSTOW BLDG
+City:MIDLAND
+State:MI
+ZIP:48640
+Country:US
+Phone:517-636-4400
+CAGE:71981
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:(2,4-DICHLOROPHENOXY)ACETIC ACID DIMETHYLAMINE
+CAS:2008-39-1
+RTECS #:AG8400000
+Fraction by Wt: 59.7%
+Other REC Limits:NONE ESTABLISHED
+OSHA PEL:NONE ESTABLISHED
+ACGIH TLV:NONE ESTABLISHED
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 40.3%
+Other REC Limits:NONE ESTABLISHED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL RAT) IS ABOUT 1675 MG/KG.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN: MAY CAUSE IRRITATION; INGESTED:
+    LOW SINGLE DOSE ORAL TOXICITY; EYE:CAUSES BURNS, MAY CAUSE CORNEAL
+    INJURY. STAIN FOR EVIDENCE OF CORNEAL INJURY.
+Effects of Overexposure:SYSTEMIC EFFECT: MAY CAUSE NEUROLOGIC SIGNS AND
+    SYMPTOMS. HUMAN EFFECTS NOT ESTABLISHED  AT THIS TIME. INFORMATION
+    BASED ON ANALOGY TO SIMILAR CHEMICAL. NO SPECIFIC ANTIDOTE.
+Medical Cond Aggravated by Exposure:N/R.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION:REMOVE TO FRESH AIR. GET MEDICAL ATTENTION.
+    EYES:IMMEDIATELY FLUSH WITH PLENTY OF WATER FOR 15 MINUTES. GET
+    MEDICAL ATTENTION. SKIN: WASH WITH SOAP ANSD WATER,REMOVE
+    CONTAMINATED CLOTHING.  LAUNDER BEFORE RESUE THE CLOTHING; INGEST:
+    TOXIC BY INGESTION. INDUCE VOMITING IMMEDIATELY AND CONSULT
+    MEDICAL.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:191F/88C
+Extinguishing Media:USE APPROPRIATE AGENT FOR SURROUNDING FIRE.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB SPILLS WITH DRY MATERIAL SUCH AS SAND
+    OR SAWDUST. DIKE AREA IN CASE OF LARGE SPILLS. DO NOT USE WATER FOR
+    CLEANUP.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL VENTILATED
+    AREA. KEEP CONTAINERS TIGHTLY CLOSED WHEN NOT IN USE. PROTECT
+    CONTAINERS FROM PHYSICAL DAMAGE.
+Other Precautions:DO NOT TAKE INTERNALLY. DO NOT BREATHE MIST. AVOID
+    PROLONGED OR REPEATED BREATHING OF VAPOR. AVOID CONTACT WITH EYES.
+    USE WITH ADEQUATE VENTILATION. WASH THOROUGHLY AFTER HANDLING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE LIKELY TO BE NEEDED.
+Ventilation:USE ADEQUATE VENTILATION TO KEEP BELOW TLV.
+Protective Gloves:RUBBER GLOVES.
+Eye Protection:SAFETY GOGGLES.
+Other Protective Equipment:NONE STATED.
+Work Hygienic Practices:NONE STATED.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V7
+Vapor Pres:17 MMHG
+Spec Gravity:1.244
+Solubility in Water:INFINITE
+Appearance and Odor:AMBER LIQUID.
+Percent Volatiles by Volume:40
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+BASES, OXIDIZING MATERIALS.
+Hazardous Decomposition Products:NOXIOUS FUMES UNDER FIRE CONDITIONS -
+    HYDROGEN CHLORIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:BURY IN A NON-CROP AREA AWAY FROM WATER
+    SUPPLIES. DISPOSAL SHOULD BE MADE IN ACCORDANCE WITH ALL APPLICABLE
+    FEDERAL, STATE AND LOCAL LAWS AND REGULATIONS.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

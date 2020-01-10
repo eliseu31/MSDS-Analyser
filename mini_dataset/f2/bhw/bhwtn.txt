@@ -1,0 +1,136 @@
+=====================  Product Identification  =====================
+
+Product ID:CARB-N-RID
+MSDS Date:01/01/1993
+FSC:6850
+NIIN:01-085-1423
+MSDS Number: BHWTN
+=== Responsible Party ===
+Company Name:QPL INC, FORMERLY OMNITECH INTL INC
+Address:800 N ARCADIA RD
+City:THIBODAUX
+State:LA
+ZIP:70301
+Country:US
+Info Phone Num:504-446-2003
+Emergency Phone Num:504-446-2003
+CAGE:MO867
+=== Contractor Identification ===
+Company Name:QPL INC, FORMERLY OMNITECH INTERNATIONAL, INC.
+Address:800 N. ACADIA ROAD
+Box:City:THIBODAUX
+State:LA
+ZIP:70301
+Country:US
+Phone:504-394-8440
+CAGE:0AD61
+Company Name:QPL INC, FORMERLY OMNITECH INTL INC
+Address:800 N ARCADIA RD
+Box:City:THIBODAUX
+State:LA
+ZIP:70301
+Country:US
+Phone:504-446-2003
+CAGE:MO867
+Company Name:UNI-KEM INTERNATIONAL
+Address:1001 HARIMAW COURT EAST
+Box:City:METAIRIE
+State:LA
+ZIP:70001
+Country:US
+Phone:504-835-7600/FAX:504-835-7608
+CAGE:4S446
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:AROMATIC HYDROCARBON
+Fraction by Wt: 27%
+
+Ingred Name:KETONE
+Fraction by Wt: 27%
+
+Ingred Name:CHLORINATED HYDROCARBON
+Fraction by Wt: 14%
+
+Ingred Name:CYCLIC AMIDE
+Fraction by Wt: 7.55%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN: IRRITATION, DEFATTING,
+    DERMATITIS.
+Explanation of Carcinogenicity:NOT CARCINOGENIC.
+Effects of Overexposure:BREATHING: DIZZINESS, WEAKNESS, NAUSEA,
+    HEADACHE.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN-THOROUGHLY WASH EXPOSED AREA WITH SOAP AND WATER.
+    EYES-RINSE WITH WATER FOR 15 MIN. LIFTING UPPER AND LOWER LIDS
+    OCCASIONALLY. GET MEDICAL ATTENTION. INGESTION-DO NOT INDUCE
+    VOMITING. KEEP PERSON  WARM, QUIET, AND GET MEDICAL ATTENTION.
+    INHALATION-REMOVE VICTIM TO FRESH AIR. GIVE ARTIFICIAL RESPIRATION
+    IF BREATHING HAS STOPPED.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:AEROSOL
+Extinguishing Media:WATER, CARBON DIOXIDE, DRY CHEMICAL.
+Fire Fighting Procedures:SELF-CONTAINED BREATHING APPARATUS WITH A FULL
+    FACE PIECE OPERATED IN PRESSURE DEMAND OR OTHER POSITIVE PRESSURE
+    MODE.
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB LIQUID AND TRANSFER UNDER VENTILATION
+    HOOD.
+Neutralizing Agent:NONE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT KEEP OR USE IN THE PRESENCE OF
+    HEAT, SPARKS, & OPEN FLAME. USE WITH ADEQUATE VENTILATION. HARMFUL
+    OR FATAL IS SWALLOWED. CONTAINS DISTILLATES.
+Other Precautions:DO NOT DROP CONTAINER. KEEP OUT OF SUN AND BELOW 110
+    DEGREES F. ALWAYS READ INSTRUCTIONS CAREFULLY BEFORE USING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SPECIFIED BY MANUFACTURER.
+Ventilation:LOCAL EXHAUST, YES. MECHANICAL (GENERAL), YES.
+Protective Gloves:NONE SPECIFIED BY MANUFACTURER.
+Eye Protection:NONE SPECIFIED BY MANUFACTURER.
+Other Protective Equipment:NONE.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V3
+Appearance and Odor:AEROSOL PRODUCT
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE.
+Stability Condition to Avoid:NONE.
+Hazardous Decomposition Products:NONE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DO NOT PUNCTURE OR INCINERATE CAN. WRAP AND
+    DISCARD IN TRASH COLLECTION.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

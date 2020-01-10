@@ -1,0 +1,125 @@
+=====================  Product Identification  =====================
+
+Product ID:WRIST COMPASS
+MSDS Date:10/22/1999
+FSC:6605
+NIIN:00-809-5252
+Status Code:A
+MSDS Number: CJQSQ
+=== Responsible Party ===
+Company Name:STOCKER AND YALE INC
+Address:32 HAMPSHIRE RD
+City:SALEM
+State:NH
+ZIP:03079
+Country:US
+Info Phone Num:603-893-5604
+Emergency Phone Num:603-893-8778
+Preparer's Name:DLA/ HMIS-VBA
+CAGE:90640
+=== Contractor Identification ===
+Company Name:CAMMENGA AND ASSOCIATES INC
+Address:100 ANILINE AVE N
+Box:City:HOLLAND
+State:MI
+ZIP:49424-6407
+Country:US
+Phone:616-392-7999
+CAGE:0UF75
+Company Name:STOCKER AND YALE INC
+Address:RTE 128 AND BRIMBAL AVE
+Box:City:BEVERLY
+State:MA
+ZIP:01915
+Country:US
+Phone:508-927-3940
+Contract Num:N00383-94-CP272
+CAGE:90640
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TRITIUM (25 MILLICURIES)
+CAS:10028-17-8
+Fraction by Wt: 25% MCI
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:TRITIUM IS ENCPSULATED IN A TINY VIAL
+    INSIDE THE COMPASS, AND AS SUCH UNDER NORMAL USE THERE ARE NO
+    HAZARDS OR DANGER OF OVEREXPOSURE. UNDER SITUATIONS WHEN COMPASS
+    AND VIAL IS BROKEN, TRITIUM CAN BE	INHALED IF CMPASS WAS HELD
+    CLOSE TO THE NOSE. IT IS UNLIKELY THAT SMALL AMOUNT OF
+    RADIOACTIVITY PRESENT IN THE COMPASS WILL CAUSE ANY CELLULAR
+    DAMAGE.
+Explanation of Carcinogenicity:NOT LISTED
+Effects of Overexposure:NONE IN THE QUANTITIES THAT IT WOULD BE
+    POSSIBLE TO INHALE OR INGEST.
+Medical Cond Aggravated by Exposure:NONE KNOWN
+
+=======================  First Aid Measures  =======================
+
+First Aid:VENTILATE AREA IF VIALS ARE BROKEN. WASH WITH RADIAC
+    SOLUTION, RINSE THOROUGHLY, DRINK LARGE QUANTITIES OF WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Unusual Fire/Explosion Hazard:SEALED SOURCES CONTAIN TRITIUM GAS UNDER
+    PRESSURE. MAY RUPTURE IF SUBJECTED TO EXTREME HIGH TEMPERATURE OVER
+    200F.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA. WASH THOROUGHLY WITH RADIAC
+    SOLUTION AND SOAP AND WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NORMAL HANDLING AND STORAGE ARE
+    SUFFICIENT.
+Other Precautions:AVOID BREAKING COMPASS/GLASS VIALS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED.
+Ventilation:LOCAL EXHAUST, HOODED AREA. NEGATIVE ROOM PRESSURE.
+Protective Gloves:UNNECESSARY-LOWER ENERGY WON'T PENETRATE
+Eye Protection:UNNECESSARY
+Other Protective Equipment:UNNECESSARY
+Work Hygienic Practices:CAREFUL HANDLING, WASH HANDS FREQUENTLY. USE
+    PVC GLOVES WHEN HANDLING BROKEN COMPASS
+Supplemental Safety and Health
+IF COMPASS IS BROKEN ACCIDENTALLY, KEEP IT AWAY FROM YOUR NOSE TO AVOID
+    INHALATION OF GAS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:A2
+Vapor Density:<1
+Spec Gravity:<1
+Solubility in Water:COMPLETE
+Appearance and Odor:TRITIUM GAS IS ODORLESS, COLORLESS, TASTELESS
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:RETURN TO MANUFACTURER FOR RECYCLING OR DISPOSE
+    AS RADIOACTIVE WASTE IN ACCORDANCE W/LOCAL, STATE & FEDERAL
+    REGULATIONS.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,133 @@
+=====================  Product Identification  =====================
+
+Product ID:SODIUM BISULFITE
+MSDS Date:08/18/1986
+FSC:6810
+NIIN:01-359-4918
+Status Code:A
+MSDS Number: CJQZF
+=== Responsible Party ===
+Company Name:E-BESAN
+Address:117 FOCIS, SUITE 214
+Box:9237
+City:METAIRIE
+State:LA
+ZIP:70005
+Country:US
+Info Phone Num:504-536-6282
+Emergency Phone Num:504-652-5198
+CAGE:1EAB6
+=== Contractor Identification ===
+Company Name:E-BESAN
+Address:117 FOCIS, SUITE 214
+Box:9237
+City:METAIRIE
+State:LA
+ZIP:70055
+Country:US
+Phone:504-908-1222
+Contract Num:SPO450-99-M-NF49
+CAGE:1EAB6
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM BISULFITE
+CAS:7631-90-5
+RTECS #:VZ2000000
+Minumum % Wt:90.
+Maxumum % Wt:100.
+ACGIH TLV:5 MG/M3
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL, RAT) 2000 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:TARGET ORGANS: BRAIN, GI TRACT,
+    RESPIRATORY SYSTEM, SKIN. EFFECTS OF OVEREXPOSURE: CONTACT WITH
+    SKIN OR EYES MAY CAUSE SEVERE IRRITATION OR BURNS. ALLERGIC
+    REACTION MAY DEVELOP. EXPOSURE TO SMALL AMOU NTS OF SULFITES HAVE
+    BEEN REPORTED TO CAUSE HYPERSENSITIVITY REACTION IN CERTAIN
+    INDIVIDUALS, ESPECIALLY ASTHMATICS. A SEVERE ALLERGIC REACTION MAY
+    BE FATAL.
+Effects of Overexposure:CONTACT WITH SKIN OR EYES MAY CAUSE SEVERE
+    IRRITATION OR BURNS. ALLERGIC REACTION MAY DEVELOP. EXPOSURE TO
+    SMALL AMOUNTS OF SULFITES HAVE BEEN REPORTED TO CAUSE
+    HYPERSENSITIVITY REACTION IN CERTAIN IN DIVIDUALS, ESPECIALLY
+    ASTHMATICS. A SEVERE ALLERGIC REACTION MAY BE FATAL.
+Medical Cond Aggravated by Exposure:ASTHMA
+
+=======================  First Aid Measures  =======================
+
+First Aid:CALL A PHYSICIAN. IF SWALLOWED AND CONSCIOUS, IMMEDIATELY
+    INDUCE VOMITING. IF INHALED, REMOVE TO FRESH AIR. IF NOT BREATHING,
+    GIVE ARTIFICIAL RESPIRATION. IF BREATHING IS DIFFICULT, GIVE
+    OXYGEN. IN CA SE OF CONTACT, IMMEDIATELY FLUSH EYES WITH PLENTY OF
+    WATER FOR AT LEAST 15 MINUTES. FLUSH SKIN WITH WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE WATER SPRAY.
+Fire Fighting Procedures:FIREFIGHTERS SHOULD WEAR PROPER PROTECTIVE
+    EQUIPMENT AND SELF-CONTAINED (POSITIVE PRESSURE IF AVAILABLE)
+    BREATHING APPARATUS WITH FULL FACEPIECE. MOVE EXPOSED CONTAINERS
+    FROM FIRE AREA IF IT CAN BE DO NE WITHOUT RISK.  USE WATER TO KEEP
+    FIRE-EXPOSED CONTAINERS COOL.
+Unusual Fire/Explosion Hazard:CLOSED CONTAINERS EXPOSED TO HEAT MAY
+    EXPLODE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS AND
+    FULL PROTECTIVE CLOTHING. WITH CLEAN SHOVEL, CAREFULLY PLACE
+    MATERIAL INTO CLEAN, DRY CONTAINER AND COVER, REMOVE FROM AREA.
+    FLUSH SPILL AREA WITH WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER TIGHTLY CLOSED.
+    SUITABLE FOR ANY GENERAL CHEMICAL  STORAGE AREA.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED WHERE ADEQUATE VENTILATION
+    CONDITIONS EXIST.  IF AIRBORNE CONCENTRATION IS HIGH, A DUST/MIST
+    RESPIRATOR IS RECOMMENDED.	IF CONCENTRATION EXCEEDS CAPACITY OF
+    RESPIRATOR, A SELF-CONTAINED  BREATHING APPARATUS IS ADVISED.
+Ventilation:USE GENERAL OR LOCAL EXHAUST VENTILATION TO MEET TLV
+    REQUIREMENTS.
+Protective Gloves:PROPER GLOVES  ARE RECOMMENDED.
+Eye Protection:SAFETY GLASSES WITH SIDESHIELDS.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Spec Gravity:1.48
+Solubility in Water:APPRECIABLE MORE THAN 10%
+Appearance and Odor:WHITE POWDER WITH SO2 ODOR.
+Percent Volatiles by Volume:0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS, STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:NONE DOCUMENTED.
+Hazardous Decomposition Products:OXIDES OF SULFUR
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN ACCORDANCE WITH ALL APPLICABLE
+    FEDERAL, STATE, AND LOCAL ENVIRONMENTAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

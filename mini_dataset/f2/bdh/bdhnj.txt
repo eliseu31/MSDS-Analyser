@@ -1,0 +1,94 @@
+=====================  Product Identification  =====================
+
+Product ID:ZEPHYR,MIL-L-2104C,LUBE OIL,GRADE 40
+MSDS Date:01/01/1985
+FSC:9150
+NIIN:00-188-9860
+MSDS Number: BDHNJ
+=== Responsible Party ===
+Company Name:J.D. STREETT & CO, INC
+Emergency Phone Num:(314) 432-6600
+CAGE:KO524
+=== Contractor Identification ===
+Company Name:J.D. STREETT & CO., INC
+CAGE:KO524
+Company Name:STREET J D AND CO INC
+Address:144 WELDON PKY
+Box:City:MARYLAND HEIGHTS
+State:MO
+ZIP:63043-3102
+Country:US
+Phone:314-432-6600
+CAGE:60098
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PETROLEUM LUBE OIL
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:AVOID SKIN & EYE CONTACT
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:WASH W/SOAP & WATER. EYES:IMMEDIATELY FLUSH W/WATER FOR
+    AT LEAST 15 MINUTES.CALL MD
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:CO*2,DRY CHEMICAL,FOAM
+Fire Fighting Procedures:ENCLOSED AREA-AIR SUPPLIED RESCUE EQUIPMENT
+Unusual Fire/Explosion Hazard:COOL FIRE EXPOSED CONTAINERS W/WATER. DO
+    NOT STORE OR MIX W/STRONG OXIDANTS
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:RECOVER FREE LIQUID.ADD ABSORBENT TO SPILL
+    AREA
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINERS CLOSED. KEEP AWAY FROM
+    HEAT AND OPEN FLAMES
+Other Precautions:AVOID PROLONGED OR REPEATED CONTACT W/SKIN
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF NEEDED,NIOSH/MSHA APPROVED RESPIRATORY
+    PROTECTION
+Ventilation:LOCAL EXHAUST-NEEDED ONLY TO CAPTURE HOT FUMES.
+Other Protective Equipment:RUBBER GLOVES,GLASSES,IMPERVIOUS APRON IF
+    NEEDED.
+Supplemental Safety and Health
+CONFORMS TO MIL-L-2104C, GRADE 40
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+NRC/State Lic Num:NA
+Boiling Pt:B.P. Text:400+F
+Spec Gravity:0.90
+Appearance and Odor:MILD PETROLEUM ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDANTS-LIKE LIQUID CHLORINE & CONCENTRATED OXYGEN
+Hazardous Decomposition Products:CARBON MONOXIDE IN THE CASE OF
+    INCOMPLETE COMBUSTION
+Conditions to Avoid Polymerization:MFG STATES NO POLYMERIZATION UNDER
+    NORMAL OPERATING CNDNS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATION UNDER CONTROLLED CONDITIONS.DISPOSE
+    IN ACCORDANCE W/LOCAL,STATE, & FEDERAL REGULATIONS
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,156 @@
+=====================  Product Identification  =====================
+
+Product ID:3452 CHEMICAL RESIST. VALVE LUB.
+MSDS Date:04/25/1990
+FSC:9150
+NIIN:00-190-0926
+MSDS Number: BDHVH
+=== Responsible Party ===
+Company Name:DOW CORNING CORP
+Address:3901 SOUTH SAGINAW ROAD
+Box:997
+City:MIDLAND
+State:MI
+ZIP:48640
+Country:US
+Info Phone Num:517-496-6000
+Emergency Phone Num:517-496-5900
+Preparer's Name:JACK L. SHENEBERGER
+CAGE:5D028
+=== Contractor Identification ===
+Company Name:DOW CORNING CORP
+Address:3901 S SAGINAW RD
+Box:997
+City:MIDLAND
+State:MI
+ZIP:48686-0997
+Country:US
+Phone:517-496-6000/517-496-6315
+CAGE:5D028
+Company Name:DOW CORNING CORP
+Address:2200 W SALZBURG RD
+Box:City:AUBURN
+State:MI
+ZIP:48611
+Country:US
+Phone:517-496-4388
+CAGE:71984
+Company Name:INLAND PACKAGING INC
+Address:209 PETERSON DR
+Box:644
+City:ELIZABETHTOWN
+State:KY
+ZIP:42701-9804
+Country:US
+Phone:502-737-6757
+CAGE:66172
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TEFLON (TETRAFLUORO ETHYLENE POLYMER)
+CAS:116-14-3
+RTECS #:KX4025000
+Fraction by Wt: 30%
+Other REC Limits:5 MG/M3 RDUST (PEL)
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYE:DIRECT CONTACT MAY CAUSE TEMPORARY
+    DISCOMFORT WITH MILD REDNESS & DRYNESS. SKIN:A SINGLE PROLONGED
+    EXPOSURE CAUSES NO KNOWN ADVERSE EFFECT. INHALATION:NO IRRITATION
+    TO EYES & RESPIRATORY PASSAGES.  NO INJURY IS LIKELY FROM
+    RELATIVELY SHORT EXPOSURE OF LESS THAN 8 HOURS. ORAL:SMALL AMOUNTS
+    SHOULD NOT CAUSE INJURY.
+Explanation of Carcinogenicity:NONE OF THE COMPOUNDS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP, OR OSHA AS A KNOWN OR SUSPECTED CARCINOGEN.
+Effects of Overexposure:EYE:DIRECT CONTACT MAY CAUSE TEMPORARY
+    DISCOMFORT WITH MILD REDNESS & DRYNESS. SKIN:A SINGLE PROLONGED
+    EXPOSURE CAUSES NO KNOWN ADVERSE EFFECT. INHALATION:NO IRRITATION
+    TO EYES & RESPIRATORY PASSAGES.  NO INJURY IS LIKELY FROM
+    RELATIVELY SHORT EXPOSURE OF LESS THAN 8 HOURS. ORAL:SMALL AMOUNTS
+    SHOULD NOT CAUSE INJURY.
+Medical Cond Aggravated by Exposure:THIS PRODUCT, AS WITH ANY CHEMICAL,
+    MAY ENHANCE ALLERGIC CONDITIONS ON CERTAIN PEOPLE. NO MEDICAL
+    CONDITIONS THAT MIGHT BE AGGRAVATED BY EXPOSURE TO THIS PRODUCT IS
+    KNOWN BY THE MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH IMMEDIATELY WITH WATER. SKIN: WIPE OFF AND FLUSH
+    WITH WATER. INHALATION: NO FIRST AID SHOULD BE NEEDED. ORAL: NO
+    FIRST AID SHOULD BE NEEDED.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:OC
+Flash Point:>230F,>110C
+Extinguishing Media:USE CARBON DIOXIDE, FOAM, DRY CHEMICAL, OR WATER
+    FOG.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:HAZARDOUS FLUORINE GASES AND COMPOUNDS
+    FORM. EVACUATE AREA IN CASE OF OVERHEATING OR FIRE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE PRODUCT AND USE ABSORBENT MATERIAL TO
+    TAKE CARE OF ANY OIL-LIKE RESIDUES.
+Neutralizing Agent:NONE APPLICABLE FOR THIS MATERIAL
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:USE REASONABLE CARE AND CAUTION.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NO RESPIRATORY PROTECTION SHOULD BE NEEDED.
+Ventilation:MECHANICAL (GENERAL) RECOMMENDED. LOCAL SHOULD NOT BE
+    NEEDED.
+Protective Gloves:NONE. WASH HANDS AFTER USE.
+Eye Protection:USE SAFETY GLASSES AS A MINIMUM.
+Other Protective Equipment:NONE
+Work Hygienic Practices:WASH AT MEALTIME AND END OF SHIFT. REMOVE GROSS
+    AMOUNTS OF MATERIAL FROM SKIN AS SOON AS PRACTICAL.
+Supplemental Safety and Health
+THIS MATERIAL MAY FORM HIGHLY TOXIC VAPORS OF TRIFLUOROPROPIONALDEHYDE
+    IF HEATED IN AIR ABOVE 300F/149C. PROVIDE VENTILATION TO CONTROL
+    VAPOR EXPOSURE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Vapor Pres:< 5
+Spec Gravity:1.5
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:VERY LITTLE ODOR, PASTE-LIKE APPEARANCE WITH SOME
+    COLOR
+Percent Volatiles by Volume:<5
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING MATERIALS CAN CAUSE A REACTION
+Hazardous Decomposition Products:FLUORINE COMPOUNDS, SILICON DIOXIDE,
+    CARBON DIOXIDE, AND TRACES OF INCOMPLETELY BURNED CARBON PRODUCTS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DOW CORNING SUGGESTS THAT ALL LOCAL, STATE AND
+    FEDERAL REGULATIONS CONCERNING HEALTH AND POLLUTION BE REVIEWED TO
+    DETERMINE APPROVED DISPOSAL PROCEDURES. CONTACT DOW CORNING IF
+    THERE ARE ANY DISPOSAL  QUESTONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

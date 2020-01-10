@@ -1,0 +1,140 @@
+=====================  Product Identification  =====================
+
+Product ID:5820, P/N 502S62500
+MSDS Date:02/08/1999
+FSC:NIIN:Submitter:D DG
+Status Code:A
+MSDS Number: CJQSN
+=== Responsible Party ===
+Company Name:XEROX CORPORATION
+Address:100 CLINTON AVE SOUTH
+City:ROCHESTER
+State:NY
+ZIP:14644
+Country:US
+Info Phone Num:800-828-6571
+Emergency Phone Num:800-828-6571
+Resp. Party Other MSDS Num.:MSDS# B-0285
+CAGE:26921
+=== Contractor Identification ===
+Company Name:XEROX CORPORATION
+Address:100 CLINTON AVE SOUTH
+Box:City:ROCHESTER
+State:NY
+ZIP:14644-1877
+Country:US
+Phone:800-828-6571/716-422-2177
+CAGE:26921
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:IRON, STEEL POWDER
+CAS:7439-89-6
+RTECS #:NO4565500
+Minumum % Wt:94.
+Maxumum % Wt:99.
+
+Ingred Name:STYRENE-BUTADIENE COPOLYMER
+CAS:9003-55-8
+RTECS #:WL6478000
+Minumum % Wt:1.
+Maxumum % Wt:4.
+
+Ingred Name:IRON OXIDE
+CAS:1309-37-1
+RTECS #:NO7400000
+Minumum % Wt:0.
+Maxumum % Wt:1.
+OSHA PEL:10 MG/M3
+ACGIH TLV:5 MG/M3;2 PPM
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50: >10 G/KG (RATS)
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Effects of Overexposure:MINIMAL RESPIRATORY TRACT IRRITATION MAY OCCUR
+    AS WITH EXPOSURE TO LARGE AMOUNTS OF ANY NON-TOXIC DUST.
+Medical Cond Aggravated by Exposure:NONE WHEN USED AS DESCRIBED BY
+    PRODUCT LITERATURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES-FLUSH WITH WATER. SKIN-WASH WITH SOAP AND WATER.
+    INHALATION-REMOVE FROM EXPOSURE. INGESTION-DILUTE STOMACH CONTENTS
+    WITH SEVERAL GLASSES OF MILK OR WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER, FOAM, DRY CHEMICAL.
+Fire Fighting Procedures:AVOID INHALATION OF SMOKE. WEAR PROTECTIVE
+    CLOTHING AND SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:IF SPILLED, SWEEP UP OR VACUUM.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NONE
+Other Precautions:AVOID PROLONGED INHALATION OF EXCESSIVE DUST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED WHEN USED AS INTENDED IN XEROX
+    EQUIPMENT.
+Protective Gloves:NONE REQUIRED WHEN USED AS INTENDED IN XEROX
+    EQUIPMENT.
+Eye Protection:NONE REQUIRED WHEN USED AS INTENDED IN XEROX EQUIPMENT.
+Other Protective Equipment:FOR USE OTHER THAN NORMAL CUSTOMER -
+    OPERATING PROCEDURES (SUCH AS IN BULK TONER PROCESSING FACILITIES),
+    GOGGLES AND RESPIRATORS MAY BE REQUIRED. FOR MORE INFORMATION,
+    CONTACT XEROX.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Spec Gravity:~5
+Appearance and Odor:BLACK GRANULAR/FAINT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE.
+Hazardous Decomposition Products:PRODUCTS OF COMBUSTION MAY BE TOXIC.
+    AVOID BREATHING SMOKE.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:DERMAL LD50: >5 G/KG 9RABBIT) PRACTICALLY
+    NON-TOXIC. INHALATION LC50: >5 MG/L (RATS, 4 HR EXPOSURE)
+    PRACTICALLY NON-TOXIC. >20 MG/L (CALCULATED 1 HR EXPOSURE)
+    NON-POISONOUS, DOT. EYE IRRITATION: NOT A N IRRITANT. SKIN
+    SENSITIZATION: NOT A SENSITIZER. SKIN IRRITATION: NOT AN IRRITANT.
+    HUMAN PATCH: NON-IRRITATING, NON-SENSITIZING. AQUATIC LC50: >1000
+    MG/L (FATHEAD MINNOWS) NON-TOXIC.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:WHEN DISPOSED, THIS MATERIAL IS NOT HAZARDOUS
+    WASTE ACCORDING TO FEDERAL REGULATION 40 CFR 261. HOWEVER, STATE
+    AND LOCAL REQUIREMENTS MAY BE MORE RESTRICTIVE. THEREFORE,
+    CONSULTATION WITH THE APPROPIA TE STATE AND LOCAL WASTE DISPOSAL
+    AUTHORITIES IS ADVISED.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:N.A.(NOT REGULATED)
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

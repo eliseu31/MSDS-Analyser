@@ -1,0 +1,185 @@
+=====================  Product Identification  =====================
+
+Product ID:FU CATALYST FOR NEW 600-18, X 468
+MSDS Date:01/26/1988
+FSC:4935
+NIIN:01-253-2227
+MSDS Number: BJDPX
+=== Responsible Party ===
+Company Name:AKZO COATINGS INC., AEROSPACE FINISHES DIV
+Address:434 W MEATS AVE
+City:ORANGE
+State:CA
+ZIP:92665
+Country:US
+Info Phone Num:213/855-7313
+Emergency Phone Num:213/589-3660
+Preparer's Name:FORMULA INFORMATION DEPT
+CAGE:98502
+=== Contractor Identification ===
+Company Name:AKZO COATINGS INC
+Address:434 W. MEATS STREET
+Box:City:ORANGE
+State:CA
+ZIP:92661
+Country:US
+Phone:714-637-1750; CHEMTREC 800-424-9300
+CAGE:98502
+
+=============  Composition/Information on Ingredients  =============
+CAS:28182-81-2
+RTECS #:NQ9170000
+Fraction by Wt: 35-50%
+ACGIH TLV:1.0
+
+Ingred Name:N-BUTYL ACETATE  (SARA III)
+CAS:123-86-4
+RTECS #:AF7350000
+Fraction by Wt: 15-30%
+OSHA PEL:150 PPM/200 STEL
+ACGIH TLV:150 PPM/200STEL;9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: 20-35%
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:HEXANOL ACETATE (ESTER SOLVENT) (VAPOR PRESSURE = 5)
+CAS:88230-35-7
+Fraction by Wt: 5-20%
+ACGIH TLV:50 PPM
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 5-20%
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:1,6-DIISOCYANATOHEXANE  (HEXAMETHYLENE DIISOCYANATE)
+CAS:822-06-0
+RTECS #:MO1740000
+Fraction by Wt: <5%
+ACGIH TLV:0.005 PPM; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS)	(SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 5-20%
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:HAZARDS ASSOC W/INDIVIDUAL COMPONENTS.
+    MAY NOT BE ASSOC W/FINISHED PROD. ACUTE:PROLONGED/REPEATED CONTACT
+    MAY CAUSE IRRIT EYES, SKIN, UPPER RESP TRACT, GI TRACT. POSS
+    LIVER/KIDNEY DMG FROM LGE QTY. EY E: SEE SUPP DATA.
+Explanation of Carcinogenicity:NONE SPECIFIED BY MANUFACTURER.
+Effects of Overexposure:EYES: REDNESS, TEARING, BLURRED VISION.
+    INHAL:VOMITING, DIARRHEA, HEADACHE, DIZZINESS, WEAKNESS, FATIGUE,
+    POSSIBLE UNCONSCIOUSNESS, ASPHYXIATION
+Medical Cond Aggravated by Exposure:NONE EXPECTED
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:MOVE TO FRESH AIR. GIVE CPR IF NECESSARY. SKIN:WASH
+    W/SOAP AND WATER. EYE:FLUSH W/WATER FOR >15 MIN. GET MD.
+    INGEST:DRINK ONE/TWO GLASSES OF WATER TO DILUTE. DO NOT INDUCE
+    VOMITING. GET MD/POISO N CONTROL CENTER. TREAT SYMPTOMATICALLY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:23.0F,-5.0C
+Lower Limits:1.2
+Extinguishing Media:FOAM, CARBON DIOXIDE, DRY CHEMICALS
+Fire Fighting Procedures:KEEP CONTR TIGHTLY CLSD.ISOLATE FROM HEAT,ELEC
+    EQUIP,SPARKS,OPEN.FLAME;CLSD.CONTR MAY EXPLODE IF EXPOSD TO EXTREME
+    HEAT.APPLICTN TO HOT SURF REQ SPEC PRECAUTION
+Unusual Fire/Explosion Hazard:WATER MAY BE INEFFECTIVE;WATER SHOULD BE
+    USED TO COOL CONTR EXPOSED TO FIRE. FIRE FIGHTING PERSONNEL SHOULD
+    WEAR SCBA.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE IGNITION SOURCES. AVOID BREATHING
+    VAPORS, VENT AREA. REMOVE W/INERT ABSORB. FLUSH AREA W/WATER INTO
+    DRUMS AND TREAT W/WATER CONTAINING 1% AMMONIA BEFORE DISPOSAL.
+Neutralizing Agent:SEE SPILL/RELEASE PROCEDURES.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM HEAT, SPARKS, AND OPEN
+    FLAMES. CLOSE CONTAINERS AFTER EACH USE.CONSULT NFPA CODE FOR
+    ADDITIONAL STORAGE REQUIREMENTS.
+Other Precautions:DO NOT TAKE INTERNALLY. USE APPROVED BONDING AND
+    GROUNDING PROCEDURES. OBSERVE LABEL PRECAUTIONS. CONTAINS
+    ISOCYANATE AND IS SENSITIVE TO MOISTURE AND SHOULD BE KEPT IN
+    TIGHTLY CLOSED CONTAINERS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR DEVICE.IN
+    CONFINED AREA USE NIOSH/MSHA APPROVED AIRLINE RESPIRATOR OR
+    HOOD.SEE SAFETY EQUIP.SUPPLIER FOR EVALUATION AND RECOMMENDATIONS.
+Ventilation:PROVIDE SUFFICIENT VENT TO KEEP VAPOR CONC BELOW
+    TLV&LEL.FOR BAKING FINISHES,EXHAUST VAPORS.REMOVE HAZ BY-PRODS.
+Protective Gloves:REQUIRED FOR PROLONGED/REPEATED CONTACT.
+Eye Protection:CHEMICAL WORKERS GOGGLES 
+Other Protective Equipment:EYE BATH AND SHOWER SHOULD BE AVAILABLE
+Work Hygienic Practices:WASH HANDS BEFORE EATING, SMOKING OR USING
+    WASHROOM.
+Supplemental Safety and Health
+HEALTH HAZ:IRRIT:CONTACT MAY CAUSE BURN,CORNEAL INJURY.
+    CHRONIC:PROLONGED EXPOSURE TO DUST-RESPIRATORY
+    PROBLEMS.LIQUID/VAPORS. CAUSE LIVER ABNORM. 2-ETHOXYETHYL ACETATE
+    CAUSE:TESTICULAR CHANGES,BLOOD  CHANGES,BIRTH DEFECTS,FETO/EMBRYO
+    TOX,KIDNEY AND LIVER DAMAGE.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:175F,79C
+Vapor Pres:SEE INGRED
+Vapor Density:>AIR
+Evaporation Rate & Reference:<ETHER
+Appearance and Odor:PAINT, FLAMMABLE LIQUID
+Percent Volatiles by Volume:69.2
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE REASONABLY FORESEEABLE
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE,
+    SMOKE, OXIDES OF NITROGEN
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE IN APPROVED FACILITY, DO NOT
+    INCINERATE IN CLOSED CONTAINERS. DISPOSE OF I/A/W FED, STATE AND
+    LOCAL POLLUTION CONTROL REQUIREMENTS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

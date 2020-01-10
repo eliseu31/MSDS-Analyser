@@ -1,0 +1,178 @@
+=====================  Product Identification  =====================
+
+Product ID:SHELL LCC GREASE 2
+MSDS Date:01/04/1999
+FSC:9150
+NIIN:00-531-6971
+Status Code:A
+MSDS Number: CJQXV
+=== Responsible Party ===
+Company Name:EQUILON ENTERPRISES LLC
+Address:PRODUCT STEWARDSHIP
+Box:674414
+City:HOUSTON
+State:TX
+ZIP:77267-4414
+Country:US
+Info Phone Num:877-276-7285
+Emergency Phone Num:713-473-9461/800-424-9300(CHEMTREC)
+Preparer's Name:KAREN G. HAYNES
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:3N254
+=== Contractor Identification ===
+Company Name:EQUILON ENTERPRISES LLC PRODUCT STEWARDSHIP
+Address:1111 BAGBY RD RM 4325D
+Box:674414
+City:HOUSTON
+State:TX
+ZIP:77267-4414
+Country:US
+Phone:877-276-7285
+CAGE:3N254
+Company Name:SALATHE OIL CO INC
+Address:2226 PETERS RD
+Box:City:HARVEY
+State:LA
+ZIP:70058
+Country:US
+Phone:504-366-4542
+Contract Num:SP0450-99-M-NF61
+CAGE:0T5C6
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MINERAL OIL,HYDROTREATED (SEVERE), HEAVY NAPHTHENIC
+    DISTILLATE
+CAS:64742-52-5
+RTECS #:PY8035001
+Fraction by Wt: 90%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:5 MG/M3 AS OIL MIST
+ACGIH TLV:5 MG/M3 AS OIL MIST
+
+Ingred Name:CALCIUM HYDROXYSTEARATE
+CAS:3159-62-4
+Fraction by Wt: 10%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:TARGET ORGANS:EYE, SKIN. ACUTE- MILDLY
+    IRRITATING TO EYES. PROLONGED/REPEATED SKIN CONTACT CAUSES
+    DERMATITIS, FOLLICULITIS/OIL ACNE. INJECTION UNDER SKIN CAUSES
+    LOCAL NECROSIS. INHALATION OF VAPORS (G ENERATED AT HIGH
+    TEMPERATURES ONLY) MAYCAUSE NOSE IRRITATION. LOW ORDER OF ACUTE
+    ORAL TOXICITY. CHRONIC- DERMATITIS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:IRRITATION, NAUSEA, VOMITING, TISSUE DAMAGE AND
+    PAIN A FEW HOURS AFTER HIGH PRESSURE INJECTION, TEARING, DERMATITIS
+Medical Cond Aggravated by Exposure:PERSONS WITH PRE-EXISTING SKIN
+    DISORDERS MAY BE MORE SUSCEPTIBLE TO THE EFFECTS OF THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:GET MEDICAL HELP IF SYMPTOMS PERSIST. INHALED: MOVE TO FRESH
+    AIR. PROVIDE OXYGEN IF BREATHING IS DIFFICULT. EYES: FLUSH WITH
+    WATER FOR 15 MINUTES. HOLD EYELIDS OPEN. SKIN: WIPE EXCESS OFF.
+    WASH WITH S OAP & WATER. IF INJECTED UNDER SKIN, GET MEDICAL
+    ATTENTION PROMPTLY TO PREVENT DAMAGE. ORAL: DO NOT INDUCE VOMITING.
+    IN GENERAL NO TREATMENT IS NEEDED UNLESS LARGE AMOUNTS INGESTED.
+    GET MEDICAL ADVICE . NOTE TO PHYSICIANS: IN GENERAL, EMESIS
+    INDUCTION IS UNNECESSARY IN HIGH VISCOSITY, LOW VOLATILITY
+    PRODUCTS, I.E. MOST OILS AND GREASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:=177.C, 350.6F
+Extinguishing Media:WATER FOG, FOAM, DRY CHEMICAL/CARBON DIOXIDE. DON'T
+    USE DIRECT STREAM OF WATER. PRODUCT WILL FLOAT AND CAN BE
+    REIGNITED.
+Fire Fighting Procedures:DO NOT ENTER ANY ENCLOSED OR CONFINED AREA
+    WITHOUT PROPER PROTECTIVE EQUIPMENT AND NIOSH-APPROVED
+    SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:CONTAINER MAY RUPTURE. COOL CONTAINERS
+    WITH WATER SPRAY.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SCOOP UP EXCESS GREASE, WIPE UP WITH RAGS,
+    PICK-UP RESIDUE WITH INERT ABSORBENT MATERIAL SUCH AS DIATOMACEOUS
+    EARTH, SAND OR VERMICULITE. SWEEP UP AND TRANSFER TO A CONTAINER
+    FOR PROPER DISPOSAL. CLEA N AREA WITH APPROPRIATE CLEANER.
+Neutralizing Agent:NOT RELEVANT
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A DRY PLACE AWAY FROM OPEN
+    FLAMES AND STRONG OXIDIZING AGENTS. KEEP CONTAINER CLOSED.
+Other Precautions:DO NOT GET IN EYES. MINIMIZE SKIN CONTACT. WASH
+    THOROUGHLY AFTER HANDLING. LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE. PROPERLY DISPOSE OF CONTAMINATED LEATHER ARTICLES INCLUDING
+    SHOES THAT CANNOT BE  DECONTAMINATED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SHOULD BE NEEDED.
+Ventilation:USE ADEQUATE VENTILATION TO KEEP OIL MISTS OF THIS MATERIAL
+    BELOW APPLICABLE STANDARD(S).
+Protective Gloves:NITRILE IF FREQUENT CONTACT EXPECTED
+Eye Protection:SAFETY GOGGLES/GLASSES RECOMMENDED
+Other Protective Equipment:EYE BATH, WASHING FACILITIES
+Work Hygienic Practices:OBSERVE GOOD INDUSTRIAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES. WASH BEFORE EATING OR DRINKING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+NRC/State Lic Num:NOT RELEVANT
+Melt/Freeze Pt:M.P/F.P Text:190F,88C
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:TAN SMOOTH GREASE - SLIGHT ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:EXTREME HEAT, OPEN FLAMES
+Hazardous Decomposition Products:A COMPLEX MIXTURE OF AIRBORNE SOLID,
+    LIQUID & GASES WILL EVOVLE. CARBON MONOXIDE & OTHER ORGANIC
+    COMPOUNDS MAY BE FORMED.
+
+=====================  Ecological Information  =====================
+
+Ecological:PUSUANT TO SEC 611 OF CLEAN AIR ACT, AMMEND 1990: PER 40 CFR
+    APRT 82, THIS PRODUCT COES NOT CONTAIN NOR WAS IT DIRECTLY
+    MANUFACTURED WITH ANY CLASS I  OR CLASS II OZONE DEPLETING
+    SUBSTANCES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL STATE AND
+    FEDERAL LAWS. REUSING OR RECYCLING IS RECOMMENDED.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:NOT REGULATED.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:PER SEC 313 OF SARA TITLE III, THE
+    ENVIRONMENTAL DATA SHEET SHOULD ALWAYS BE SESNT WITH THE MSDS.
+Federal Regulatory Information:THE  COMPONENTS OF THIS PRODUCT ARE
+    LISTED ON THE EPA/TSCA INVENTORY OF CHEMICAL SUBSTANCES.
+State Regulatory Information:NOT LISTED ON ANY STATE LISTS.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

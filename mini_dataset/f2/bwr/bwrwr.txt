@@ -1,0 +1,154 @@
+=====================  Product Identification  =====================
+
+Product ID:TT-E-489G, ENAMEL,ALKYD,12197-1, INT. ORANGE,GLOSS
+MSDS Date:07/07/1992
+FSC:8010
+NIIN:00-527-3200
+MSDS Number: BWRWR
+=== Responsible Party ===
+Company Name:CON-LUX COATINGS INC
+Address:226 TALMADGE RD
+Box:847
+City:EDISON
+State:NJ
+ZIP:08818-0847
+Country:US
+Info Phone Num:908-287-4000 / FAX 908-287-9288
+Emergency Phone Num:908-287-4000 OR 800-424-9300
+CAGE:60189
+=== Contractor Identification ===
+Company Name:CON-LUX COATINGS INC
+Address:226 TALMADGE RD
+Box:847
+City:EDISON
+State:NJ
+ZIP:08818-0847
+Country:US
+Phone:732-287-4000
+CAGE:60189
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LEAD CHROMATE
+CAS:7758-97-6
+RTECS #:GB2975000
+Fraction by Wt: 7%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:MOLYBDATE ORANGE,
+CAS:12656-85-8
+RTECS #:QA4660000
+Fraction by Wt: 15%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:STODDARD SOLVENT
+CAS:8052-41-3
+RTECS #:WJ8925000
+Fraction by Wt: >1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM; 9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:ACUTE-IRRITATION OF EYES & SKIN MAY
+    OCCUR W/OVEREXPOSURE. CONTINUED BREATHING OF VAPORS MAY IRRITATE
+    RESPIRATORY TRACT CAUSING HEADACHE, NAUSEA & DIZZINESS.
+    CHRONIC-REPORTS HAVE ASSOCIATED REPEATED &	PROLONGED OVEREXPOSURE
+    TO SOLVENTS W/PERMANENT BRAIN & NERVOUS SYSTEM DAMAGE.
+Explanation of Carcinogenicity:CONTAINS LEAD CHROMATE. SEE IARC & NTP
+    REPORTS FOR DETAILS OF CARCINOGENICITY.
+Effects of Overexposure:EYE:IRRITATION. SKIN:IRRITATION.
+    INHALED:RESPIRATORY IRRITATION, HEADACHE, NAUSEA & DIZZINESS.
+Medical Cond Aggravated by Exposure:MFR GAVE NO INFORMATION ON MSDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:IF IRRITATION PERSISTS OR IS SEVERE, GET MEDICAL ATTENTION.
+    EYE:FLUSH W/WATER TO 15 MIN. SKIN:WASH W/SOAP & WATER. REMOVE
+    CONTAMINATED CLOTHING & LAUNDER BEFORE REUSE. INHALED:REMOVE FROM
+    EXPOSURE. AI D OR RESTORE BREATHING AS NEEDED. INGESTED:DO NOT
+    INDUCE VOMITING. GIVE 1-2 GLASSES OF MILK OR WATER TO DRINK. GET
+    IMMEDIATE MEDICAL ATTENTION. NOTHING BY MOUTH IF UNCONSCIOUS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:105F,41C
+Extinguishing Media:FOAM, CARBON DIOXIDE, DRY CHEMICAL, WATER MIST
+Fire Fighting Procedures:SMOTHER FLAMES W/ONE OF THE ABOVE
+    EXTINGUISHING MEDIA. WATER MAY BE USED TO COOL DOWN UNOPENED
+    CONTAINERS IN VICINITY.
+Unusual Fire/Explosion Hazard:CONTAAINS FLAMMABLE SOLVENT. DO NOT USE
+    IN AREAS WHERE SPARKS OR OPEN FLAMES ARE PRESENT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE ALL IGNITION SOURCES. WEAR
+    APPROPRIATE PERSONAL PROTECTIVE EQUIPMENT INCLUDING APPROVED
+    RESPIRATOR. PREVENT MATERIAL VROM CONTACTING ANY WATER SOURCES OR
+    SEWERS LEADING TO WATER SOURCES.
+Neutralizing Agent:MFR GAVE NO INFORMATION ON MSDS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN AREAS DESIGNED TO COMPLY
+    W/ANSI-NFPA 30 FLAMMABLE & COMBUSTIBLE LIQUIDS CODE.
+Other Precautions:GROUND CONTAINERS WHEN POURING LIQUIDS & POWDERS TO
+    AVOID STATIC BUILDUP. DO NOT HANDLE UNTIL MFR'S SAFETY PRECAUTIONS
+    HAVE BEEN READ & UNDERSTOOD. PROVIDE ADEQUATE
+    VENTILATION/RESPIRATORY PROTECTION	TO REMOVE FUMES DURING WELDING
+    ETC.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESPIRATOR IS NOT NECESSARY IN AREAS
+    W/SUFFICIENT VENTILATION. USE A NIOSH/MSHA APPROVED ORGANIC VAPOR
+    RESPIRATOR IN RESTRICTED AREAS. USE RESPIRATOR W/ORGANIC VAPOR AND
+    MIST PROTECTION DURING SPRAY O PERATIONS.
+Ventilation:MECHANICAL (GENERAL) VENTILATION  IS REQUIRED IN CONFINED
+    AREAS TO KEEP CONTAMINANT CONCENTRATIONS BELOW OSHA PELS.
+Protective Gloves:IMPERVIOUS TYPE
+Eye Protection:SAFETY EYEWARE TO PROTECT AGAINST SPLASH
+Other Protective Equipment:PREVENT PROLONGED &/OR REPEATED SKIN CONTACT
+    WITH CONTAMINATED CLOTHING.
+Work Hygienic Practices:WASH HANDS BEFORE EATING, SMOKING OR USING WASH
+    ROOM FACILITIES.
+Supplemental Safety and Health
+MSDS RECEIVED FROM THE NAVY (FOCAL POINT N). NSN IDENTIFIED BY FOCAL
+    POINT N.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+NRC/State Lic Num:NONE
+Boiling Pt:B.P. Text:148F,64C
+Vapor Density:>1
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Appearance and Odor:MFR GAVE NO INFORMATION ON MSDS.  DENSITY 9.24
+    POUNDS/GALLON.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING AGENTS
+Stability Condition to Avoid:EXTREME HEAT, SPARKS OR OPEN FLAMES
+Hazardous Decomposition Products:MAY PRODUCE HAZARDOUS FUMES WHEN
+    HEATED.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF I/A/W FEDERAL, STATE & LOCAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

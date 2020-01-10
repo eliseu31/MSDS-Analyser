@@ -1,0 +1,154 @@
+=====================  Product Identification  =====================
+
+Product ID:LEAD/ACID BATTERY
+MSDS Date:11/15/1985
+FSC:6140
+NIIN:00-191-8506
+MSDS Number: BDHXC
+=== Responsible Party ===
+Company Name:JOHNSON CONTROLS,INC. BATTERY DIVISION
+Address:5757 N. GREEN BAY AVE
+Box:591
+City:MILWAUKEE
+State:WI
+ZIP:53201
+Info Phone Num:800-424-9300 (CHEMTREC)
+Emergency Phone Num:414-228-3139
+Preparer's Name:ALBERTA L. SCHUMACHER
+CAGE:25244
+=== Contractor Identification ===
+Company Name:JOHNSON CONTROLS INC GLOBE BATTERY DIV
+Address:5757 N GREEN BAY AVE
+Box:591
+City:MILWAUKEE
+State:WI
+ZIP:53201
+Country:US
+Phone:800-365-7777
+CAGE:25244
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SULFURIC ACID  (SARA III)
+CAS:7664-93-9
+RTECS #:WS5600000
+Fraction by Wt: 35%
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:LEAD  (SARA III)
+CAS:7439-92-1
+RTECS #:OF7525000
+OSHA PEL:0.05 MG/M3;1910.1025
+ACGIH TLV:0.15 MG/M3;DUST 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:LEAD PEROXIDE (LEAD DIOXIDE), (OSHA PEL FROM 29CFR
+    1910.1025)
+CAS:1309-60-0
+RTECS #:OG0700000
+OSHA PEL:0.05 MG/M3 (PB)
+ACGIH TLV:0.15 MG/M3(PB); 8990
+
+Ingred Name:LEAD SULFATE  (SARA III)
+CAS:7446-14-2
+RTECS #:OG4375000
+OSHA PEL:SEE 1910.1025
+ACGIH TLV:0.15 MG PB/M3; 9192
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:WATER (% BASED ON SULFURIC ACID SOLUTION)
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 65%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES:BURNS,PERMANENT
+    DAMAGE;SKIN:SEVERE BURNS,ULCERATION;INHALATION:DAMAGE TO
+    RESPIRATORY TRACT;INGESTION:CORROSION OF TEETH & DIGESTIVE SYSTEM.
+    CHRONIC:LEAD MAY CAUSE ANEMIA & KIDNEY & NERVOUS SYSTEI M
+    DAMAGE.CAN AFFECT FETUS;SULFURIC ACIDMAY CAUSE SCARRING OF
+    CORNEA,BRONCHITIS & EROSION OF TOOTH.
+Explanation of Carcinogenicity:IARC STATES LEAD & LEAD COMPOUNDS COULD
+    NOT BE CLASSIFIED AS TO ITS CARCINOGENICITY TO HUMANS.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:ECZEMA & DERMATITIS
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:IMMEDIATELY FLUSH WITH WATER FOR 15 MIN.SEE
+    DOCTOR;SKIN:WASH WITH SOAP & WATER.REMOVE CONTAMINATED CLOTHING &
+    SHOES.SEE DOCTOR;INHALATION:REMOVE TO FRESH AIR.IF DISCOMFORT
+    PERSISTS,SEE DOCTOR;ING ESTION:DRINK MILK OF MAGNESIA OR WATER
+    IMMEDIATELY.DO NOT INDUCE VOMIT.SEE DOCTOR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:DRY CHEMICAL,FOAM,CO*2
+Fire Fighting Procedures:WEAR SCBA,FACESHIELD,FULL PROTECTIVE CLOTHING.
+Unusual Fire/Explosion Hazard:H*2 & O*2 GASES ARE PRODUCED DURING
+    BATTERY OPN.H*2 IS FLAMMABLE & O*2 SUPPORTS COMBUSTION).KEEP SPARKS
+    & OTHER IGNITION SOURCES AWAY FROM THE BATTERY.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR GOGGLES & ACID RESISTANT CLOTH & BOOTS.
+    COVER WITH SAND & NEUTRALIZE WITH SODA ASH (SODIUM CARBONATE) OR
+    QUICKLIME (CALCIUM OXIDE). SCOOP UP & PLACE IN APPROPRIATE DISPOSAL
+    CONTAINER. DO NOT FLUS H LEAD CONTAMINATED ACID TO SEWER.
+Neutralizing Agent:SODA ASH (SODIUM CARBONATE) OR QUICKLIME (CALCIUM
+    OXIDE)
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM IGNITION
+    SOURCES,COMBUSTIBLE MATERIALS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY REQUIRED.
+Ventilation:MECHANICAL (GENERAL) VENTILATION.
+Protective Gloves:CHEMICAL RESISTANT.
+Eye Protection:CHEMICAL SPLASH GOGGLES.
+Other Protective Equipment:PROTECTIVE CLOTHING & SHOES IF CONTACT IS
+    POSSIBLE. EYEWASH & SAFETY SHOWER.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING. REMOVE &
+    LAUNDER CONTAMINATED CLOTHING. DISCARD SHOES.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C1
+Solubility in Water:COMPLETE
+Appearance and Odor:BATTERY CASE CONTAINING 35% SULFURIC ACID
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+COMBUSTIBLE MATERIALS,STRONG REDUCERS,METALS,CARBIDES,ORGANIC
+    MATERIALS,CHLORATES,NITRATES,PICRATES,FULMINATES.
+Stability Condition to Avoid:SPARKS,IGNITION SOURCES.
+Hazardous Decomposition Products:HYDROGEN,SO*2 & SO*3
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ACID:DISPOSE OF AS HAZARDOUS WASTE.
+    BATTERIES:SEND TO LEAD SMELTER FOR RECLAMATION. COMPLY WITH ALL
+    APPLICABLE FEDERAL,STATE & LOCAL REGULATIONS
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

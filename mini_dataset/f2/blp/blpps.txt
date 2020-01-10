@@ -1,0 +1,156 @@
+=====================  Product Identification  =====================
+
+Product ID:20760 MOLYBDOVANADATE REAGENT
+MSDS Date:03/16/1990
+FSC:6810
+NIIN:00F019187
+MSDS Number: BLPPS
+=== Responsible Party ===
+Company Name:HACH COMPANY
+Box:907
+City:AMES
+State:IA
+ZIP:50010
+Info Phone Num:(800) 227-4224
+Emergency Phone Num:(303) 623-5716
+CAGE:4T252
+=== Contractor Identification ===
+Company Name:HACH CO
+Address:5600 LINDBERGH DR
+Box:389
+City:LOVELAND
+State:CO
+ZIP:80539
+Country:US
+Phone:970-669-3050/ 303-623-5716
+CAGE:91224
+Company Name:HACH COMPANY
+Address:100 DAYTON RD.
+Box:907
+City:AMES
+State:IA
+ZIP:50010
+Country:US
+Phone:800-227-4224
+CAGE:4T252
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SULFURIC ACID  (SARA III)
+CAS:7664-93-9
+RTECS #:WS5600000
+Fraction by Wt: <40%
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:AMMONIUM MOLYBDATE
+CAS:12027-67-7
+RTECS #:QA5076000
+Fraction by Wt: <10%
+OSHA PEL:5 MG/CUM
+ACGIH TLV:5 MG/CUM
+
+Ingred Name:AMMONIUM VANADATE  (SARA III)
+CAS:7803-55-6
+RTECS #:YW0875000
+Fraction by Wt: <1%
+OSHA PEL:0.05 MG V2O5/M3
+ACGIH TLV:0.05 MG V2O5/M3 RESP
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:WATER, H2O
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: BALANCE
+
+Ingred Name:OTHER COMPONENTS (TYPE NOT SPECIFIED)
+Fraction by Wt: <1%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES/SKIN/INGESTION: CORROSIVE,
+    IRRITATION, INFLAMMATION, SEVERE BURNS TO ANY BODY TISSUE, & TOXIC:
+    INHALATION: CORROSIVE TO RESPIRATORY TRACT, MOUTH SORENESS,
+    DIFFICULTY BREATHING, TEETH EROSION, & T OXIC.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES/SKIN/INGESTION: CORROSIVE, IRRITATION,
+    INFLAMMATION, SEVERE BURNS TO ANY BODY TISSUE, & TOXIC. INHALATION:
+    CORROSIVE TO REPIRATORY TRACT, TEETH EROSION, MOUTH SORENESS,
+    DIFFICULTY BREATHING, & TO XIC.
+Medical Cond Aggravated by Exposure:BLOOD DISEASE, GOUT, & RESPIRATORY
+    CONDITIONS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES/SKIN: FLUSH W/WATER FOR 15 MINUTES. INGESTION: DON'T
+    INDUCE VOMITING. GIVE LARGE QUANTITIES OF WATER. GIVE AT LEAST 1 OZ
+    OF MILK OF MAGNESIA IN AN EQUAL AMOUNT OF WATER OR THE WHITES OF 3
+    EGGS. N EVER GIVE ANYTHING BY MOUTH TO AN UNCONSCIOUS PERSON.
+    INHALATION: REMOVE TO FRESH AIR. GIVE ARTIFICIAL RESPIRATION.
+    OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:DRY CHEMICAL. DON'T USE WATER.
+Unusual Fire/Explosion Hazard:CORROSIVE MATERIAL
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:COVER SPILL W/SODIUM BICARBONATE OR SODA
+    ASH-SLAKED LIME MIXTURE (50-50). MIX & ADD WATER IF NECESSARY TO
+    FORM A SLURRY. SCOOP UP SLURRY & WASH THE SITE W/SODA ASH SOLUTION.
+Neutralizing Agent:SODIUM BICARBONATE OR A SODA ASH-SLAKED LIME MIXTURE
+    (50-50).
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL AREA. AVOID CONTACT
+    W/EYES, SKIN, & CLOTHING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:FUME HOOD
+Protective Gloves:RUBBER
+Eye Protection:LAB GRADE GOGGLES
+Other Protective Equipment:LAB COAT
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE. WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+METAL CORROSIVITY (ALUMINUM): CORROSIVE. STEEL: 11.273 IN/YR.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text: 212F
+Spec Gravity:1.375
+pH:<0.5
+Solubility in Water:MISCIBLE
+Appearance and Odor:CLEAR, YELLOW LIQUID W/NO ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZABLE MATERIALS, REDUCERS, ACIDS, ORGANIC OR COMBUSTIBLE MATERIALS
+Stability Condition to Avoid:EXTREME TEMPERATURES
+Hazardous Decomposition Products:TOXIC FUMES OF SULFUR OXIDES, NITROGEN
+    OXIDES, & AMMONIA
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:THE NEUTRALIZED SLURRY MAY CONTAIN SUFFICIENT
+    HEAVY METAL CONCENTRATION TO REQUIRE LANDFILLING OR TREATMENT
+    ACCORDING TO EPA, FEDERAL, STATE, & LOCAL REGULATIONS. CORROSIVE
+    MATERIAL UN 1830.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

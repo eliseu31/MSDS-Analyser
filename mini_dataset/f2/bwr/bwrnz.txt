@@ -1,0 +1,145 @@
+=====================  Product Identification  =====================
+
+Product ID:COMPOUND 1013
+MSDS Date:02/28/1991
+FSC:8010
+NIIN:00N056844
+MSDS Number: BWRNZ
+=== Responsible Party ===
+Company Name:MAGNOLIA PLASTICS INC
+Address:5547 PEACHTREE IND BLVD
+City:CHAMBLEE
+State:GA
+ZIP:30341
+Country:US
+Info Phone Num:404-451-2777
+Emergency Phone Num:404-451-2777
+CAGE:22121
+=== Contractor Identification ===
+Company Name:MAGNOLIA PLASTICS INC
+Address:5547 PEACHTREE INDUSTRIAL BLVD
+Box:City:CHAMBLEE
+State:GA
+ZIP:30341-2234
+Country:US
+Phone:(770) 451-2777/(800) 457-4280
+CAGE:22121
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PROPANE, 1-BUTOXY-2,3-EPOXY-; (BUTYL GLYCIDYL ETHER) (BGE)
+CAS:2426-08-6
+RTECS #:TX4200000
+Fraction by Wt: 5-10%
+OSHA PEL:N/K 
+ACGIH TLV:25 PPM (MFR)
+
+Ingred Name:PHTHALIC ACID, DIBUTYL ESTER; (DIBUTYL PHTHALATE) (SARA
+    313) (CERCLA) (DBP)
+CAS:84-74-2
+RTECS #:TI0875000
+Fraction by Wt: 2-5%
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:MODERATELY IRRITATING TO SKIN &
+    EYES. POSSIBLE SKIN SENSITIZER. CHRONIC:PRE-EXISTING SKIN & EYE
+    DISORDERS MAY BE AGGRAVATED. RTES OF EXPOS:INHAL:NOT LIKELY TO
+    PRODUCE ADVERSE EFFECT DUE TO LOW V OLATILITY. INGEST:LOW ORDER OF
+    TOXICITY. SKIN ABSORPTION:NOT LIKELY TO BE ABSORBED IN TOXIC
+    AMOUNTS. (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:HLTH HAZS:EYE:MODERATELY IRRITATING.
+    SKIN:MODERATELY IRRITATING. MAY CAUSE SKIN SENSITIZATION.
+Medical Cond Aggravated by Exposure:PRE-EXISTING SKIN & EYE DISORDERS
+    MAY BE AGGRAVATED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:REMOVE CONTAMINATED CLOTHING. WASH FROM SKIN WITH SOAP
+    AND WATER. LAUNDER CLOTHING PRIOR TO RE-USE. EYES:FLUSH WITH WATER
+    FOR 15 MINUTES WHILE HOLDING EYELIDS OPEN. GET MEDICAL ATTENTION.
+    INHALAT ION:REMOVE VICTIM TO FRESH AIR. ADMINISTER OXYGEN IF
+    NECESSARY. INGESTION:DO NOT INDUCE VOMITING. GIVE LARGE DOSES OF
+    WATER. GET MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:>200F,>93C
+Extinguishing Media:WATER SPRAY, FOAM, DRY CHEMICAL, CO*2.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT . AVOID BREATHING SMOKE. COOL FIRE EXPOSED
+    CONTAINERS WITH WATER.
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:AVOID CONTACT WITH LIQUID AND VAPORS. WIPE
+    WITH A CLOTH OR COLLECT ON ABSORBENT MATERIAL. LARGE SPILLS:DIKE
+    AND CONTAIN. PUMP OR SHOVEL INTO SALVAGE VESSELS.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL, DRY AREA IN TIGHTLY
+    CLOSED CONTAINERS. AVOID CONTACT WITH SKIN AND EYES. USE WITH
+    ADEQUATE VENTILATION.
+Other Precautions:FOR INDUSTRIAL USE ONLY. MAY CAUSE SKIN IRRITATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:FOR EXCESSIVE VAPORS OR TO MAINTAIN BELOW TLV
+    LIMIT. NIOSH/MSHA (SPECIFY TYPE) APPROVED RESPIRATOR FOR ORGANIC
+    VAPORS IN COMPLIANCE WITH 29 CFR 1910.134.
+Ventilation:LOCAL EXHAUST:YES. MECHANICAL (GENERAL):YES.
+Protective Gloves:IMPERVIOUS RUBBER GLOVES.
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGGS .
+Other Protective Equipment:FOR PROLONGED EXPOSURE, IMPERVIOUS CLOTHING
+    AND BOOTS TO MINIMIZE PERSONAL CONTACT. EYE-WASH STATION, SAFETY
+    SHOWER.
+Work Hygienic Practices:USE GOOD HYGIENE PRACTICES.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>225F,>107C
+Vapor Pres:NIL
+Vapor Density:>1
+Spec Gravity:1.55 (H*2O=1)
+Evaporation Rate & Reference:<1 (BUTYL ACETATE=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:GRAY VISCOUS LIQUID
+Percent Volatiles by Volume:0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, STRONG LEWIS OR MINERAL ACIDS.
+Stability Condition to Avoid:ELEVATED TEMPERATURES. REACTION WITH SOME
+    CURING AGENTS IN BULK AMOUNTS IS EXOTHERMIC.
+Hazardous Decomposition Products:CO, ALDEHYDES, ACIDS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CURE, THEN BURY OR INCINERATE WHERE PERMITTED BY
+    FEDERAL, STATE AND LOCAL REGULATIONS. REMOVE SALVAGE VESSELS TO A
+    WASTE DISPOSAL SITE OPERATING IN COMPLIANCE WITH FEDERAL, STATE AND
+    LOCAL REGUALTIONS .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,116 @@
+=====================  Product Identification  =====================
+
+Product ID:NICKEL DIMETHYLGLYOXIME, 93-2815
+MSDS Date:03/24/1988
+FSC:6810
+NIIN:00N020765
+MSDS Number: BLMDJ
+=== Responsible Party ===
+Company Name:STREM CHEMICALS INC
+Address:7 MULLIKEN WAY
+City:NEWBURYPORT
+State:MA
+ZIP:01950
+Country:US
+Info Phone Num:508-462-3191
+Emergency Phone Num:508-462-3191
+CAGE:IO059
+=== Contractor Identification ===
+Company Name:STREM CHEMICAL INC
+Address:7 MULLIKEN WAY
+Box:City:NEWBURYPORT
+State:MA
+ZIP:01950-4098
+Country:US
+Phone:508-462-3191;800-562-8236
+CAGE:3H269
+Company Name:STREM CHEMICALS INC
+Address:7 MULLIKEN WAY
+Box:City:NEWBURYPORT
+State:MA
+ZIP:01950
+Country:US
+Phone:508-462-3191
+CAGE:IO059
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NICKEL DIMETHYLGLYOXIME
+CAS:13478-93-8
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INGESTION OF LARGE QUANTITIES OF
+    NICKEL SALTS CAN LEAD TO INTESTINAL DISORDERS AND CONVULSIONS.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: WASH AREA WITH SOAP AND WATER. INGEST: SEEK IMMED MED
+    ATTN. EYES: FLUSH WITH POTABLE WATER FOR A MINIMUM OF 15 MIN, SEEK
+    ASSISTANCE. INHAL: REMOVE TO FRESH AIR. SUPPORT BRTH. (GIVE O2/
+    ARTF RESP ) .
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:CO2, DRY POWDER.
+Fire Fighting Procedures:NO SPECIAL FIRE FIGHTING PROCEDURES. WEAR
+    NIOSH/MSHA APPROVED SCBA AND FULL PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:SLIGHT FIRE HAZARD WHEN EXPOSED TO HEAT
+    OR FLAME.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP SOLID. WASH AREA WITH SOAP AND WATER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN TIGHTLY SEALED CONTAINER.
+    KEEP AWAY FROM HEAT.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SPECIFIED BY MANUFACTURER. USE NIOSH/MSHA
+    APPROVED RESPIRATOR APPROPRIATE FOR EXPOSURE OF CONCERN .
+Ventilation:NONE SPECIFIED BY MANUFACTURER.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Melt/Freeze Pt:M.P/F.P Text:250
+Solubility in Water:INSOLUBLE
+Appearance and Odor:RED-PURPLE POWDER.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:MAY EMIT TOXIC ORGANIC FUMES IF HEATED
+    TO DECOMPOSITION IN AIR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT LOCAL, STATE OR FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

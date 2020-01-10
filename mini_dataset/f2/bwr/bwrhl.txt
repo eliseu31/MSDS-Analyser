@@ -1,0 +1,154 @@
+=====================  Product Identification  =====================
+
+Product ID:PROTECTIVE TOP COAT PSI-3, PART 3
+MSDS Date:04/30/1994
+FSC:8010
+NIIN:01-367-2378
+Kit Part:Y
+MSDS Number: BWRHL
+=== Responsible Party ===
+Company Name:SMILAND PAINT CO
+Address:620 LAMAR ST
+City:LOS ANGELES
+State:CA
+ZIP:90031
+Country:US
+Info Phone Num:213-222-7000
+Emergency Phone Num:213-222-7000
+Preparer's Name:RAYMOND RUSSELL
+CAGE:SMILA
+=== Contractor Identification ===
+Company Name:SMILAND PAINT CO
+Address:620 LAMAR ST
+Box:City:LOS ANGELES
+State:CA
+ZIP:90031
+Country:US
+Phone:213-222-7000
+CAGE:SMILA
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHYLENE GLYCOL (SARA 313) (CERCLA)
+CAS:107-21-1
+RTECS #:KW2975000
+Fraction by Wt: 2%
+OSHA PEL:N/K 
+ACGIH TLV:50 PPM,VAPOR,C
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:PROPIONIC ACID, 2-METHYL-,MONOESTER
+    W/2,2,4-TRIMETHYL-1,3-PENTANEDIOL; (ESTER ALCOHOL)
+CAS:25265-77-4
+RTECS #:UF6000000
+Fraction by Wt: 1%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:VOLATILE ORGANIC CONTENT: 0.72 LBS/GAL; 87 GRAMS/LITER.
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: MAY CAUSE IRRIT TO SKIN, EYES &
+    GI SYSTEM. INHAL: ADVERSE HEALTH EFFECTS FROM VAPORS OR SPRAY MISTS
+    IN POORLY VENTILATED AREAS THEY INCLUDE IRRITATION OF MUC MEMBS OF
+    NOSE, THROAT & RESP TRACT  & SYMPS OF HDCH & NAUS. EYE: DIRECT
+    CONTACT MAY CAUSE IRRIT. SKIN: PLNGD & PRTD CONTACT W/PROD MAY
+    (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ:CAUSE SKIN IRRIT. SKIN(ABSORP):
+    REDNESS, DRYING OF SKIN, OR OTHER SIGNS OF IRRITATION OR CONTACT
+    DERMATITIS. INGEST: CAN CAUSE GI IRRITATION, NAUSEA, VOMITING &
+    DIARRHEA. CHRONIC: PLNGD/RPTD  EXPOSURE ABOVE TLV MAY RESULT IN
+    PERMANENT BRAIN & CNS DMG.
+Medical Cond Aggravated by Exposure:NONE KNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/LGE AMTS OF WATER FOR AT LEAST 15 MINUTES. TAKE
+    TO MD. SKIN: WASH AFFECTED AREAS W/SOAP & WATER. REOMVE CONTAMD
+    CLTHG. IF IRRIT PERSISTS, CONSULT MD. INHAL: REMOVE TO FRESH AIR.
+    TREAT SY MPTOMATICALLY. CONSULT MD. INGEST: DRINK 1 OR 2 GLASSES OF
+    WATER TO DILUTE. DO NOT INDUCE VOMITING. CONSULT MD/POISON CONTROL
+    CENTER IMMED. TREAT SYMPTOMATICALLY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Lower Limits:0.6%
+Upper Limits:4.2%
+Extinguishing Media:FOAM, CO*2, DRY CHEMICAL, WATER FOG.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT. COOL CONTAINERS WITH WATER SPRAY.
+Unusual Fire/Explosion Hazard:CLOSED CONTAINER EXPOSED TO HIGH
+    TEMPERATURE MAY EXPLODE OR BURST DUE TO BUILD UP OF STEAM PRESSURE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DIKE, CONTAIN OR ABSORB W/INERT MATLS.
+    TRANSFER TO CONTAINER FOR RECOVERY OR DISPOSAL. PREVENT RUNOFF INTO
+    SEWERS, STERAMS OR OTHER BODIES OF WATER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT EXPOSE TO EXTREMES IN
+    TEMPERATURE. AVOID EXPOSURE TO HIGH TEMPERATURES. DO NOT ALLOW TO
+    FREEZE.
+Other Precautions:DO NOT TAKE INTERNALLY. AVOID PROLONGED OR REPEATED
+    EXPOSURE TO LEVELS ABOVE TLV. KEEP OUT OF REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NORMALLY REQUIRED. IF TLV IS EXCEEDED USE
+    NIOSH/MSHA APPROVED ORGANIC VAPOR & MIST SUPPLIED AIR OR SCBA.
+Ventilation:USE ADEQUATE MECHANICAL (GENL/LOCAL) VENTILATION TO
+    MAINTAIN EXPOSURE BELOW TLV.
+Protective Gloves:POLYETHYLENE GLOVES.
+Eye Protection:ANSI APPRVD CHEM WORKERS GOGGS.
+Other Protective Equipment:WEAR IMPERVIOUS CLOTHING. ANSI APPRVD
+    EYEWASH STATION .
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+PH: 7.5 - 8.5.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:212F,100C
+Melt/Freeze Pt:M.P/F.P Text:32.0F,0.0C
+Vapor Pres:1
+Vapor Density:<1
+Spec Gravity:1.3 (H*2O=1)
+pH:SUPDAT
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:COMPLETE
+Appearance and Odor:TYPICAL WATER BASE, YELLOW IN COLOR, CLEAN ODOR.
+Percent Volatiles by Volume:73
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTACT WITH STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:NONE.
+Hazardous Decomposition Products:MAY FORM TOXIC MATERALS, CARBON
+    DIOXIDE, CARBON MONOXIDE, VARIOUS HYDROCARBONS, ETC ON THERMAL
+    DECOMPOSITION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

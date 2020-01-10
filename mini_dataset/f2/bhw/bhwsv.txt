@@ -1,0 +1,53 @@
+=====================  Product Identification  =====================
+
+Product ID:39115 MERCURY VAPOR LAMP
+MSDS Date:07/03/1990
+FSC:6240
+NIIN:00-326-2957
+MSDS Number: BHWSV
+=== Responsible Party ===
+Company Name:WESTRON CORP
+Address:75 NINTH AVE
+City:NEW YORK
+State:NY
+ZIP:10011-7093
+Country:US
+Info Phone Num:212-989-1600
+Emergency Phone Num:800-221-4289
+Preparer's Name:DGSC-SSH-HRN
+CAGE:51454
+=== Contractor Identification ===
+Company Name:WESTRON CORP
+Address:75 NINTH AVE
+Box:City:NEW YORK
+State:NY
+ZIP:10011-7093
+Country:US
+Phone:800-221-4289
+CAGE:51454
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MERCURY  (SARA III)
+CAS:7439-97-6
+RTECS #:OV4550000
+Fraction by Wt: <90% MG
+OSHA PEL:S, C, 0.1 MG/M3
+ACGIH TLV:S, 0.05 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=============  Exposure Controls/Personal Protection  =============
+
+Supplemental Safety and Health
+PRODUCT IS CONSIDERED AN ARTICLE AND THUS NOT SUBJECT TO THE OSHA
+    HAZARD COMMUNICATION STANDARD.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

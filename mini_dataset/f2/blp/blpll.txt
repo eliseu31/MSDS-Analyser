@@ -1,0 +1,148 @@
+=====================  Product Identification  =====================
+
+Product ID:OIL-FLO SAFETY SOLVENT CLEANER & DEGREASER
+MSDS Date:12/09/1988
+FSC:6850
+NIIN:00F019124
+MSDS Number: BLPLL
+=== Responsible Party ===
+Company Name:TITAN LABORATORIES INC
+Address:1240-A MTN VIEW-ALVISO RD
+City:SUNNYVALE
+State:CA
+ZIP:94089
+Info Phone Num:(408) 734-2200
+Emergency Phone Num:(408) 734-2200
+CAGE:0AMV0
+=== Contractor Identification ===
+Company Name:TITAN LABORATORIES INC
+Address:1240-A MTN VIEW-ALVISO RD
+Box:City:SUNNYVALE
+State:CA
+ZIP:94089
+Country:US
+Phone:408-734-2200
+CAGE:0AMV0
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CORROSION INHIBITORS
+
+Ingred Name:PERFORMANCE ENHANCERS
+
+Ingred Name:VOL ORGANIC CMPD: 522 G/L
+RTECS #:9999999VO
+
+Ingred Name:SOLVENT NAPHTHA, PETROLEUM, LIGHT AROMATIC C8-C10 (AROMATIC
+    100)
+CAS:64742-95-6
+Fraction by Wt: 40-70%
+Other REC Limits:200 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:2-BUTOXYETHANOL
+CAS:111-76-2
+RTECS #:KJ8575000
+Fraction by Wt: 2-5%
+Other REC Limits:25 PPM (SKIN)
+OSHA PEL:S, 50 PPM
+ACGIH TLV:S, 25 PPM; 9293
+
+Ingred Name:EMULSIFIERS
+
+Ingred Name:DISPERSANTS
+
+Ingred Name:WETTING AGENTS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: NAUSEA & DROWSINESS. SKIN:
+    IRRITATION, DRYNESS, CHAPPING & DERMATITIS. INGESTION: DIARRHEA,
+    NAUSEA, CRAMPS, UNCONSCIOUSNESS, OR DEATH. EYES: IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: NAUSEA & DROWSINESS. SKIN:
+    IRRITATION, DRYNESS, CHAPPING, & DERMATITIS. INGESTION: DIARRHEA,
+    NAUSEA, CRAMPS, UNCONSCIOUSNESS, OR DEATH. EYES: IRRITATION.
+Medical Cond Aggravated by Exposure:SKIN OR RESPIRATORY DISORDERS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. SKIN/EYES: FLUSH W/WATER FOR
+    15 MINUTES. INGESTION: DON'T INDUCE VOMITING. IF VOMITING OCCURS
+    KEEP HEAD BELOW HIPS TO PREVENT ASPIRATION INTO LUNGS. OBTAIN
+    MEDICAL ATT ENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:140F
+Lower Limits:1.1%
+Upper Limits:8.6%
+Extinguishing Media:WATER, CO2, DRY POWDER, OR FOAM
+Unusual Fire/Explosion Hazard:AUTOIGNITION TEMPERATURE: >900F.
+    COMBUSTIBLE PRODUCT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB W/SAND, DIATOMACEOUS EARTH, SAWDUST OR
+    SHREDDED NEWSPAPERS. DILUTE W/WATER TO ACCEPTABLE WASTE WATER RATIO
+    OR CONTAIN W/TEMPORARY DAM & COLLECT SPILL FOR REUSE. TURNS MILKY
+    WHITE WHEN MIXED W/W ATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINERS CLOSED WHEN NOT IN
+    USE. STEEL DRUMS, EVEN EMPTIED, CAN CONTAIN EXPLOSIVE VAPORS. DON'T
+    CUT, DRILL, GRIND OR WELD ON OR NEAR DRUMS.
+Other Precautions:KEEP PRODUCT AWAY FROM VEGETATION UNLESS WELL
+    DILUTED. AVOID CONTACT W/SKIN. COMBUSTIBLE PRODUCT. MAY TURN CLOUDY
+    IF STORED AT TEMPS >100F.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE RESPIRATOR IF >TLV. USE W/ADEQUATE
+    VENTILATION.
+Ventilation:LOCAL EXHAUST: REQUIRED
+Protective Gloves:NITRILE OR NEOPRENE
+Eye Protection:CHEMICAL SAFETY GOGGLES
+Other Protective Equipment:HAND LOTION W/LANOLIN FOR DRY HANDS.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING, UNDER RINGS &
+    WATCHBANDS ALSO.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:290F
+Vapor Pres:0.078
+Vapor Density:3.4
+Spec Gravity:0.93
+pH:7.8
+Evaporation Rate & Reference:(BU AC - 1): <0.01
+Solubility in Water:COMPLETE
+Appearance and Odor:COLORLESS LIQUID W/SLIGHT SOLVENT ODOR
+    W/BITTER-ALMOND OR WINTERGREEN FRAGRANCE
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CAN AFFECT SOME PLASTICS, PAINTS, & FUGITIVE DYES.
+Stability Condition to Avoid:TEMPS >100F, SPARKS, OR OPEN FLAMES.
+Hazardous Decomposition Products:CO2, CO, & WATER VAPORS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PURE PRODUCT MAY BE RINSED INTO SANITARY DRAIN
+    AT A DILUTION RATIO OF 3ML PER LITER OF WATER. DISPOSE OF WASTE BY
+    RECYCLING, CONVERTING TO BURNER FUEL, INCINERATING OR BY APPROVED
+    DUMPING ACCORDING TO  FEDERAL, STATE, & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

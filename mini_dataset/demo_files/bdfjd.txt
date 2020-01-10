@@ -1,0 +1,139 @@
+=====================  Product Identification  =====================
+
+Product ID:OLIVE DRAB #14087 793-416
+MSDS Date:01/01/1985
+FSC:8010
+NIIN:00-171-1503
+MSDS Number: BDFJD
+=== Responsible Party ===
+Company Name:AMERON INDUSTRIAL COATINGS DIVISION
+Address:201 N BERRY ST
+City:BREA
+State:CA
+ZIP:92621-3904
+Country:US
+Info Phone Num:714-529-4597
+Emergency Phone Num:714-529-4597
+CAGE:09869
+=== Contractor Identification ===
+Company Name:AMERON INDUSTRIAL COATINGS DIVISION
+Address:201 N BERRY ST
+Box:City:BREA
+State:CA
+ZIP:92621-3904
+Country:US
+Phone:714-529-4597
+CAGE:09869
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOBUTYL ACETATE
+RTECS #:AL4025000
+Fraction by Wt: 6-16%
+ACGIH TLV:150 PPM
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: 17%
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:AMYL ALCOHOL
+CAS:71-41-0
+RTECS #:SB9800000
+Fraction by Wt: <5%
+ACGIH TLV:100 PPM
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 5-15%
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:NAPHTHA (PETROLEUM SPIRITS OR BENZIN)
+CAS:8030-30-6
+RTECS #:SE7555000
+Fraction by Wt: 2-12%
+OSHA PEL:100 PPM
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:INHALATION: ANESTHETIC, IRRITATION OF THE
+    RESPIRATORY TRACT OF ACURE NERVOUS SYSTEM DEPRESSION
+
+=======================  First Aid Measures  =======================
+
+First Aid:IN CASE OF CONTACT, FLUSH SKIN AND  EYES WITH PLENTY OF WATER
+    WHILE REMOVING CONTAMINATED CLOTHING. IF INHALED, REMOVE TO FRESH
+    AIR. CALL A PHYSICIAN IF SYMPTOMS PERSIST.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:20F TCC
+Lower Limits:.9
+Extinguishing Media:USE CARBON DIOXIDE OR DRY CHEMICAL FOR SMALL FIRES
+Fire Fighting Procedures:SELF-CONTAINED BREATHING SHOULD BE AVAILABLE
+    FOR FIREMEN.
+Unusual Fire/Explosion Hazard:CLOSED CONTAINERS EXPOSED TO HEAT MAY
+    EXPLODE DUE TO PRESSURE BUILD-UP.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION (FLAMES, HOT
+    SURFACES, & ELECTRICAL SPARKS). AVOID BRTHING VAPORS. VENTILATE
+    AREA. REMOVE WITH INERT ABSORBENT AND NON-SPARKI TOOLS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT STORE ABOVE 120F. STORE LARGE
+    QUANTITIES IN BLDGS DESIGNED AND PROTECTED FOR STORAGE OFFPA CLASS
+    ONE FLAMMABLE (OR COMBUSTIBLE) LIQUID.
+Other Precautions:DO NOT TAKE INTERNALLY. CONTAINERS SHOULD BE GROUNDED
+    WHEN POURING. AVOID FREE FALL OF LIQUID IN EXCESS OF FEW INCHES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IN CONFINED AREAS USE BUREAU OF MINES APPROVED
+    AIR LINE TYPE HOODS.
+Ventilation:PROVIDE GENERAL DILUTION VENTILATION IN VOLUME.
+Protective Gloves:PROLONGED
+Eye Protection:USE SAFETY EYEWEAR
+Other Protective Equipment:PREVENT PROLONGED SKIN CONTACT TO
+    CONTAMINATED CLOTHING.
+Supplemental Safety and Health
+ISOPROPHYL ALCOHOL 400 PPM
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:B.P. Text:174-329
+Vapor Density:YES
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:77%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+(MATERIALS TO AVOID)
+Stability Condition to Avoid:AVOID FIRES, HEAT, AND HOT SURFACES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN ACCORDANCE WITH LOCAL, STATE, AND
+    FEDERAL REGULATIONS. INCINERATE IN APPROVED FACILITY. DO NOT
+    INCINERATE CLOSED CONTAINERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

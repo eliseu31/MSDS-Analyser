@@ -1,0 +1,113 @@
+=====================  Product Identification  =====================
+
+Product ID:RED TOP DISPENSER (SUBSTRATE)
+MSDS Date:05/01/1990
+FSC:6665
+NIIN:00-903-4767
+MSDS Number: BKYPH
+=== Responsible Party ===
+Company Name:TRUETECH INC
+Address:680 ELTON AVENUE
+City:RIVERHEAD
+State:NY
+ZIP:11901
+Info Phone Num:(516) 727-8600
+Emergency Phone Num:(516) 727-8600
+CAGE:06421
+=== Contractor Identification ===
+Company Name:TRUETECH INC
+Address:680 ELTON AVE
+Box:City:RIVERHEAD
+State:NY
+ZIP:11901-2555
+Country:US
+Phone:516-727-8600
+CAGE:06421
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:VM&P NAPHTHA (LIGROINE)
+CAS:8032-32-4
+RTECS #:OI6180000
+Other REC Limits:STEL 400 PPM
+OSHA PEL:300 PPM/400 STEL
+ACGIH TLV:300 PPM; 9192
+
+Ingred Name:2,6 DICHLOROINDOPHENYL ACETATE
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES/SKIN: IRRITATION. INGESTION:
+    HARMFUL. INHALATION: UPPER RESPIRATORY PASSAGES IRRITATION,
+    NARCOSIS, HEADACHE, DIZZINESS, ANESTHESIA, & CONVULSIONS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES/SKIN: IRRITATION. INGESTION: HARMFUL.
+    INHALATION: UPPER RESPIRATORY PASSAGES IRRITATION, NARCOSIS,
+    HEADACHE, DIZZINESS, ANESTHESIA, & CONVULSIONS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER. SKIN: WASH W/SOAP & WATER.
+    INHALATION: REMOVE TO FRESH AIR. INGESTION: DON'T INDUCE VOMITING.
+    OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:23F
+Extinguishing Media:FOAM, CO2, OR DRY CHEMICAL.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. ABSORB SPILLED
+    MATERIAL W/VERMICULITE OR OTHER SUITABLE ABSORBENT & PLACE IN
+    IMPERVIOUS CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM HEAT, SPARKS, & OPEN
+    FLAME.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE A NIOSH APPROVED ORGANIC VAPOR RESPIRATOR.
+Ventilation:GENERAL: RECOMMENDED
+Protective Gloves:RUBBER
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:EYEBATH & SAFETY SHOWER.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:212-236F
+Vapor Pres:48
+Spec Gravity:0.749
+Evaporation Rate & Reference:(BU AC = 1): 3.9
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:RED LIQUID W/ETHER-LIKE ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS
+Stability Condition to Avoid:HEAT, SPARKS, & OPEN FLAME.
+Hazardous Decomposition Products:CO2, CO, HYDROGEN CHLORIDE, NITROGEN
+    OXIDES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE IN A FURNACE IN ACCORDANCE W/LOCAL,
+    STATE, & FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,144 @@
+=====================  Product Identification  =====================
+
+Product ID:LPGAS PROPANE W/ODORANT
+MSDS Date:04/10/1986
+FSC:6830
+NIIN:00-261-7447
+MSDS Number: BKYJZ
+=== Responsible Party ===
+Company Name:EXXON COMPANY USA
+Box:2180
+City:HOUSTON
+State:TX
+ZIP:77252-2180
+Info Phone Num:(713) 656-5949	 656-2443
+Emergency Phone Num:(713) 656-5949    656-2443
+CAGE:DO849
+=== Contractor Identification ===
+Company Name:EXXON COMPANY U.S.A.
+Box:2180
+City:HOUSTON
+State:TX
+ZIP:77252-2180
+Country:US
+Phone:713-656-5949 / 713-656-3424
+CAGE:29700
+Company Name:EXXON COMPANY USA
+Box:2180
+City:HOUSTON
+State:TX
+ZIP:77252-2180
+Country:US
+Phone:713-656-5949; 800-298-4007
+CAGE:DO849
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PROPANE
+CAS:74-98-6
+RTECS #:TX2275000
+Fraction by Wt: 100%
+Other REC Limits:1800 MG/CUM
+OSHA PEL:1000 PPM
+ACGIH TLV:ASPHYXIANT; 9192
+
+Ingred Name:ODORANT
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): >5 G/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: ASPHYXIATION. SKIN:
+    FROSTBITE, REMOVE OILS, IRRITATION, & DERMATITIS. EYES: IRRITATION.
+    INGESTION: HARMFUL.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: ASPHYXIATION. SKIN: FROSTBITE,
+    REMOVE OILS, IRRITATION, & DERMATITIS. EYES: IRRITATION. INGESTION:
+    HARMFUL.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: TREAT FOR FROSTBITE. INHALATION: REMOVE TO FRESH AIR.
+    GIVE CPR OR OXYGEN IF NEEDED. INGESTION: DON'T INDUCE VOMITING.
+    EYES: OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:<0F
+Lower Limits:2.1%
+Upper Limits:9.5%
+Extinguishing Media:FOLLOW THE NFPA, FIRE PROTECTION GUIDE ON HAZARDOUS
+    MATERIALS.
+Fire Fighting Procedures:STOP FLOW OF GAS. USE WATER TO KEEP
+    FIRE-EXPOSED CONTAINERS COOL/PROTECT PERSONNEL. USE WATER SPRAY TO
+    DISPERSE GAS/VAPOR. USE SCBA IN ENCLOSED/CONFINED AREAS.
+Unusual Fire/Explosion Hazard:AUTOIGNITION TEMP:  842F. FLAMMABLE
+    LIQUID.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SHUT OFF & ELIMINATE IGNITION SOURCES.
+    EVACUATE AREA. VENTILATE CONFINED SPACES. OPEN ALL WINDOWS & DOORS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM HEAT/SPARKS/PILOT
+    LIGHTS/STATIC ELECTRICITY/OPEN FLAME/KEEP CLOSED WHEN NOT IN USE.
+    AVOID BREATHING GASESVAPORS/FUMES & CONTACT W/SKIN.
+Other Precautions:EMPTY CONTAINERS RETAIN RESIDUE/BE DANGEROUS. DON'T
+    PRESSURIZE/CUT/WELD/BRAZE/SOLDER/DRILL/GRIND, MAY EXPLODE/CAUSE
+    INJURY/DEATH. WORK ON TANKS REFER TO OSHA/GOVT/INDUSTRIAL
+    REFERENCES FOR CLEANING/RE PAIRING/WELDING/CONTEMPLATED OPERATIONS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE SUPPLIED-AIR RESPIRATOR IN CONFINED OR
+    ENCLOSED AREAS.
+Ventilation:USE SUFFICIENT VENTILATION TO KEEP <TLV OR BUILDUP OF
+    EXPLOSIVE CONCENTRATIONS OF VAPOR IN AIR. EXPLOSION-PROOF EQUIP.
+Protective Gloves:CHEMICAL RESISTANT
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:CHEMICAL RESISTANT APRON OR OTHER CLOTHING.
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING/SHOES
+    BEFORE REUSE. WASH AFTER CONTACT/BEFORE BREAKS/MEALS/END OF DAY. NO
+    SMOKING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text: -49 TO 32F
+Vapor Pres: 208 PSIG
+Vapor Density:1.5
+Spec Gravity:0.50
+pH: 7
+Solubility in Water:NEGLIGIBLE
+Percent Volatiles by Volume:100%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDANTS SUCH AS LIQUID CHLORINE, CONCENTRATED OXYGEN, SODIUM OR
+    CALCIUM HYPOCHLORITE.
+Stability Condition to Avoid:HEAT, FLAME, SPARKS, PILOT LIGHTS, STATIC
+    ELECTRICITY, OR OTHER SOURCES OF IGNITION.
+Hazardous Decomposition Products:FUMES, SMOKE, CO, ALDEHYDES, & OTHER
+    PRODUCTS OF INCOMPLETE COMBUSTION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:HIGH VOLATILITY OF MATERIAL WILL CAUSE EXTREMELY
+    RAPID EVAPORATION, NO DISPOSAL METHOD IS NEEDED OR SHOULD BE
+    ATTEMPTED. CONTAINERS SHOULD BE DISPOSED OF IN AN ENVIRONMENTALLY
+    MANNER IN ACCORDANCE W/L OCAL/STATE/FED REGS. FLAMMABLE LIQUID.
+    UN1075.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

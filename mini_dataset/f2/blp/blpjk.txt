@@ -1,0 +1,139 @@
+=====================  Product Identification  =====================
+
+Product ID:VPI #150 CONDUCTIVE EPOXY PT A
+MSDS Date:10/24/1989
+FSC:8030
+NIIN:00F019082
+MSDS Number: BLPJK
+=== Responsible Party ===
+Company Name:VINYL PLASTICS, INC.
+Address:3123 S. 9TH STREET
+City:SHEBOYGAN
+State:WI
+ZIP:53081-6911
+Info Phone Num:(414) 458-4664
+Emergency Phone Num:(414) 458-4664
+CAGE:FO946
+=== Contractor Identification ===
+Company Name:VINYL PLASTICS INC
+Address:3123 S 9TH ST
+Box:City:SHEBOYGAN
+State:WI
+ZIP:53081-6911
+Country:US
+Phone:414-458-4664
+CAGE:25594
+Company Name:VINYL PLASTICS, INC.
+Address:3123 S. 9TH STREET
+City:SHEBOYGAN
+State:WI
+ZIP:53081-6911
+Phone:(414) 458-4664
+CAGE:FO946
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BISPHENOL A DIGLYCIDYL ETHER RESIN, EPOXY RESIN,	       
+    ARALDITE 6004, 4,4'-ISOPROPYLIDENEDIPHENOL-EPICHLOROHYDRIN
+CAS:25068-38-6
+RTECS #:KD4380000
+Fraction by Wt: >55%
+
+Ingred Name:ETHYLENE GLYCOL PROPYL ETHER, EKTASOLVE EP
+CAS:2807-30-9
+RTECS #:KM2800000
+Fraction by Wt: 18%
+
+Ingred Name:DENATURED ETHYL ALCOHOL
+CAS:67-17-5
+RTECS #:UD1150000
+Fraction by Wt: 10%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES/SKIN: IRRITATION. INHALATION:
+    DIZZINESS, HEADACHE, UNCONSCIOUSNESS, IRRITATION OF THE RESPIRATORY
+    TRACT, NOSE & THROAT.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES/SKIN: IRRITATION. INHALATION: DIZZINESS,
+    HEADACHE, UNCONSCIOUSNESS, IRRITATION OF THE RESPIRATORY TRACT,
+    NOSE & THROAT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINS. SKIN:
+    WASH W/SOAP & WATER. INHALATION: REMOVE TO FRESH AIR. GIVE CPR OR
+    OXYGEN IF NEEDED. KEEP INDIVIDUAL CALM. INGESTION: TREAT
+    SYMPTOMATICALLY. OB TAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:95F
+Lower Limits:3.84%
+Upper Limits:28.7%
+Extinguishing Media:CO2, CO, DRY CHEMICAL & FOAM
+Fire Fighting Procedures:WATER SPRAY MAY BE INEFFECTIVE. IF WATER IS
+    USED, FOG NOZZLES ARE PREFERABLE.
+Unusual Fire/Explosion Hazard:WATER SPRAY MAY BE USED TO COOL CLOSED
+    CONTAINERS TO PREVENT PRESSURE BUILD-UP, POSSIBLE AUTOIGNITION &
+    EXPLOSION WHEN EXPOSED TO EXTREME HEAT. FLAMMABLE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SCRAPE INTO CONTAINERS FOR DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T STORE >120F. PREVENT BUILDUP OF
+    VAPORS.KEEP AWAY FROM SPARKS, HEAT, OPEN FLAME. AVOID PROLONGED
+    BREATHING OF VAPORS & CONTACT W/SKIN.
+Other Precautions:KEEP OUT OF REACH OF CHILDREN. VAPORS MAY IGNITE
+    EXPLOSIVELY. KEEP CONTAINER CLOSED EXCEPT WHEN IN USE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AS REQUIRED.
+Ventilation:USE GENERAL/LOCAL EXHAUST TO PREVENT UP OF VAPORS.
+Protective Gloves:AS REQUIRED.
+Eye Protection:AS REQUIRED.
+Work Hygienic Practices:USE GOOD GENERAL CLEANINESS & HYGIENE.
+Supplemental Safety and Health
+THESE INGREDIENTS ARE LISTED UNDER SARA TITLE III, SECTION 313.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:172F
+Vapor Pres:42F
+Vapor Density:>1
+Spec Gravity:1.1
+Evaporation Rate & Reference:(BU AC = 1): >1
+Solubility in Water:INSOLUBLE
+Appearance and Odor:BLACK MEDIUM PASTE W/AN ALCOHOL ODOR
+Percent Volatiles by Volume:35%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING MATERIALS
+Stability Condition to Avoid:EXTREME HEAT, OPEN FLAME, SPARKS, PILOT
+    LIGHTS, SOURCES OF IGNITION & TEMPS >120F.
+Hazardous Decomposition Products:CO, CO2 & ORGANIC COMPOUNDS OF UNKNOWN
+    STRUCTURE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. REPORTABLE QUANTITY IS 32,000 LBS. RCRA NO:
+    F003
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

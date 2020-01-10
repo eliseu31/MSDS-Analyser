@@ -1,0 +1,119 @@
+=====================  Product Identification  =====================
+
+Product ID:BX0060 BARIUM CHLORIDE GR, CRYSTALS, 500G BOTTLE
+MSDS Date:09/01/1983
+FSC:6810
+NIIN:00-237-2922
+MSDS Number: BKYJL
+=== Responsible Party ===
+Company Name:EM SCIENCE DIV OF EM INDUSTRIES
+Address:111 WOODCREST ROAD
+Box:5018
+City:CHERRY HILL
+State:NJ
+ZIP:08034-0395
+Info Phone Num:(609) 354-9200
+Emergency Phone Num:(609) 423-6300
+CAGE:EO656
+=== Contractor Identification ===
+Company Name:EM INDUSTRIES INC CHEMICALS & PIGMENTS DIVISION
+Address:7 SKYLINE DRIVE
+Box:City:HAWTHORNE
+State:NY
+ZIP:10532
+Country:US
+Phone:914-592-4660
+CAGE:0AL61
+Company Name:EM SCIENCE DIV OF EM INDUSTRIES
+Address:111 WOODCREST
+City:CHERRY HILL
+State:NJ
+ZIP:08034-0395
+Phone:(513) 631-0445
+CAGE:EO656
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BARIUM CHLORIDE, DIHYDRATE
+CAS:10326-27-9
+RTECS #:CQ8751000
+Other REC Limits:0.5 MG/CUM
+OSHA PEL:0.5 MG/CUM
+ACGIH TLV:0.5 MG/CUM
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): 118 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: RESPIRATORY TRACT
+    IRRITATION. SKIN: BURNS. EYES: IRRITATION. INGESTION: TOXIC,
+    POISONOUS, & FATAL.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: RESPIRATORY TRACT IRRITATION &
+    HYPOKALEMIA. SKIN: BURNS. EYES: IRRITATION. INGESTION: TOXIC,
+    POISONOUS, & FATAL.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: WASH W/SOAP & WATER. EYES: FLUSH THOROUGHLY W/WATER.
+    INHALATION: REMOVE TO FRESH AIR. INGESTION: DRINK 1 OR 2 GLASSES OF
+    WATER. IF CONSCIOUS, INDUCE VOMITING. OBTAIN MEDICAL ATTENTION IN
+    ALL CAS ES. NOTE TO PHYSICIAN: IN ACUTE BARIUM POISONING, A
+    CONSTANT FINDING IS A RAPID DECREASE IN SERUM-POTASSIUM LEVEL
+    (HYPOKALEMIA). INFUSION OF POTASSIUM IS INDICATED.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONFLAMMABLE
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP & CONTAINERIZE FOR DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER TIGHTLY CLOSED. STORE
+    AT NORMAL AMBIENT TEMPERATURE. USE ONLY W/ADEQUATE VENTILATION.
+Other Precautions:AVOID DUSTING (DISPERSION OF FINE PARTICLES INTO THE
+    AIR).
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR DUST RESPIRATOR
+Ventilation:PROVIDE ADEQUATE MECHANICAL (GENERAL)/LOCAL EXHAUST
+    VENTILATION TO KEEP <TLV.
+Protective Gloves:RECOMMENDED
+Eye Protection:SAFETY GOGGLES
+Other Protective Equipment:LONG SLEEVES SHIRT
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:2840F
+Melt/Freeze Pt:M.P/F.P Text:1765.4F
+Spec Gravity:3.86
+Solubility in Water:COMPLETE
+Appearance and Odor:WHITE CRYSTALS, GRANULES, OR POWDER, ODORLESS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+BROMINE TRIFLUORIDE, 2-FURAN PERCARBOXYLIC ACID
+Hazardous Decomposition Products:BARIUM OXIDE, HYDROGEN CHLORIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

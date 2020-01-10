@@ -1,0 +1,175 @@
+=====================  Product Identification  =====================
+
+Product ID:190 HB PART A
+MSDS Date:12/21/1989
+FSC:8040
+NIIN:00N021200
+Kit Part:Y
+MSDS Number: BLMGW
+=== Responsible Party ===
+Company Name:CARBOLINE
+Address:350 HANLEY INDUSTRIAL CT
+City:ST LOUIS
+State:MO
+ZIP:63144-1599
+Country:US
+Info Phone Num:314-644-1000
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+CAGE:HO925
+=== Contractor Identification ===
+Company Name:CARBOLINE
+Address:350 HANLEY INDUSTRIAL CT
+Box:City:ST LOUIS
+State:MO
+ZIP:63144-1599
+Country:US
+Phone:314-644-1000
+CAGE:HO925
+Company Name:CARBOLINE CO
+Address:350 S HANLEY INDUSTRIAL CT
+Box:City:ST. LOUIS
+State:MO
+ZIP:63144-1599
+Country:US
+Phone:314-644-1000
+CAGE:06634
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TALC (CONTAINING NO ASBESTOS)
+CAS:14807-96-6
+RTECS #:WW2710000
+Fraction by Wt: 35%
+OSHA PEL:2 MG/M3 RDUST
+ACGIH TLV:2 MG/M3 RDUST; 9192
+
+Ingred Name:PIGMENTS; (COLOR PIGMENT).
+Fraction by Wt: 20%
+OSHA PEL:3.5 MG/M3 (MFR)
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS)	(SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 10%
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 10%
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:METHYL ISOBUTYL KETONE  (SARA III)
+CAS:108-10-1
+RTECS #:SA9275000
+Fraction by Wt: 5%
+OSHA PEL:100 PPM/75 STEL
+ACGIH TLV:50 PPM/75 STEL; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:HARMFUL IF INHALED. MAY AFFECT THE
+    BRAIN OR NERVOUS SYSTEM, CAUSING DIZZINESS, HEADACHE OR NAUSEA. MAY
+    CAUSE NOSE AND THROAT IRRITATION. CONTACT: MAY CAUSE EYE AND SKIN
+    IRRITATION. NOTE: REPORTS HAVE  ASSOCIATED REPEATED AND PROLONGED
+    OCCUPATIONAL OVEREXPOSURE TO SOLVENTS WITH PERMANENT BRAIN &
+    NERVOUS SYSTEM DAMAGE.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:IF YOU HAVE A CONDITION THAT COULD
+    BE AGGRAVATED BY EXPOSURE TO DUST OR ORGANIC VAPORS SEE A PHYSICIAN
+    PRIOR TO USE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:WHEN EXPOSED ALWAYS GET MEDICAL ATTENTION. EYES: FLUSH WITH
+    WATER FOR AT LEAST 15 MINUTES. SKIN: WASH WITH SOAP AND WATER.
+    REMOVE CONTAMINATED CLOTHING AND CLEAN BEFORE REUSE. INHAL: REMOVE
+    TO FRESH A IR. PROVIDE OXYGEN IF BREATHING IS DIFFICULT. USE
+    ARTIFICIAL RESPIRATION IF NOT BREATHING. GET MEDICAL ATTENTION.
+    INGEST: DO NOT INDUCE VOMITING. ALWAYS GET MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:58.0F,14.4C
+Lower Limits:1%
+Upper Limits:7.5%
+Extinguishing Media:DRY CHEMICAL, FOAM, CARBON DIOXIDE, WATER FOG.
+Fire Fighting Procedures:EVAC HAZARD AREA OF UNPROTECTED PERSONNEL. USE
+    NIOSH/MSHA APPRVD SCBA & FULL PROTECTIVE EQUIPMENT . COOL
+    SURROUNDING CNTRS W/WATER IN CASE OF FIRE.
+Unusual Fire/Explosion Hazard:VAPORS ARE HEAVIER THAN AIR AND WILL
+    ACCUMULATE. VAPORS WILL FORM EXPLOSIVE CONCENTRATIONS WITH AIR.
+    VAPORS TRAVEL LONG DISTANCES AND WILL FLASH BACK.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIM ALL IGNIT SOURCES. HANDLING EQUIP MUST BE
+    GROUNDED TO PREVENT SPARKING. EVAC AREA OF UNPROTECTED PERS.
+    CONTAIN & SOAK UP RESIDUAL WITH AN ABSORBENT (CLAY/SAND). TAKE UP
+    ABSORB MATL & SEAL TIGHTLY	FOR PROPER DISP.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:USE ONLY WITH VENTILATION TO KEEP
+    LEVELS BELOW EXPOSURE GUIDELINES.
+Other Precautions:DO NOT WELD, HEAT OR DRILL ON FULL OR EMPTY
+    CONTAINERS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE
+    FOR EXPOSURE OF CONCERN 
+Ventilation:USE EXPLOSION-PROOF VENTILATION AS REQUIRED.
+Protective Gloves:IMPERVIOUS GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:WASH WITH SOAP AND WATER BEFORE EATING,
+    DRINKING, OR USING TOILET FACILITIES. LAUNDER CONTAM CLOTHING
+    BEFORE REUSE.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F3
+Boiling Pt:B.P. Text:232F,111C
+Vapor Pres:SEE ING
+Vapor Density:HVR/AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Appearance and Odor:NONE SPECIFIED BY MANUFACTURER.
+Percent Volatiles by Volume:35
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTACT W/STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:HEAT, SPARKS, AND OPEN FLAMES.
+Hazardous Decomposition Products:CO AND UNIDENTIFIED ORGANIC COMPOUNDS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE AND
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

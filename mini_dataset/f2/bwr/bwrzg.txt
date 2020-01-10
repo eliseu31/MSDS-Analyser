@@ -1,0 +1,153 @@
+=====================  Product Identification  =====================
+
+Product ID:142 8366 KODAK EKTACOLOR RA BLEACH FIX & RPLENSHR NR, PART B
+MSDS Date:04/19/1996
+FSC:6750
+NIIN:01-376-5886
+MSDS Number: BWRZG
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-477-3194 MSDS :800- 242-2424
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+Company Name:EASTMAN KODAK CO US CUSTOMER SERVICE/GOVERNMENT SALES
+Address:800 LEE RD
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-3129
+Country:US
+Phone:800-828-6203
+CAGE:5K871
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 60-65%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:FERRIC AMMONIUM ETHYLENEDIAMINETETRAACETIC ACID
+CAS:21265-50-9
+Fraction by Wt: 35-40%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:DIAMMONIUM ETHYLENEDIAMINE TETRAACETIC ACID
+CAS:20824-56-0
+Fraction by Wt: 1-5%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EXPECTED TO BE A LOW INHALATION HAZARD
+    FOR RECOMMENDED HANDLING. MAY CAUSE TRANSIENT EYE IRRITATION. LOW
+    SKIN OCONTACT HAZARD FOR RECOMMENDED HANDLING. EXPECTED TO BE A LOW
+    INGESTION HAZARD FOR RECOMM ENDED HANDLING.
+Explanation of Carcinogenicity:THIS COMPOUND CONTAINS NO INGREDIENTS AT
+    CONCENTRATIONS OF 0.1% OR GREATER THAT ARE CARCINOGENS OR SUSPECT
+    CARCINOGENS.
+Effects of Overexposure:TRANSIENT EYE IRRITATION.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: IF SYMPTOMATIC MOVE TO FRESH AIR. GET MEDICAL
+    ATTENTION IF SYMPTONS PERSIST. EYES: ANY MATERIAL THAT CONTACTS EYE
+    SHOULD BE WASHED OUT IMMEDIATELY W/WATER. GET MEDICAL ATTENTION.
+    SKIN: WAS H W/SOAP & WATER. GET MEDICAL ATTENTIONIF SYMPTOMS OCCUR.
+    INGESTION: DRINK 1-2 GLASSES OF WATER. SEEK MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE,NON-COMBUST
+Lower Limits:NOT GIVEN
+Upper Limits:NOT GIVEN
+Extinguishing Media:WATER SPRAY, CARBON DIOXIDE (CO2), DRY CHEMICAL,
+    ALCOHOL FOAM.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS &
+    PROTECTIVE CLOTHING. FIRE OR EXCESSIVE HEAT MAY PRODUCE HAZARDOUS
+    DECOMPOSITION PRODUCTS.
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH TO SEWER WITH LARGE AMOUNTS OF WATER, IF
+    ALLOWABLE. OTHERWISE, ABSORB WITH VERMICULAITE OR OTHER INERT
+    MATERIAL, THEN PLACE IN CONTAINER FOR CHEMICAL WASTE.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:USE ONLY WITH ADEQUATE VENTILATION.
+    WASH THOROUGHLY AFTER HANDLING. KEEP FROM CONTACT WITH OXIDIZING
+    MATERIALS. KEEP CONTAINER TIGHTLY CLOSED.
+Other Precautions:KEEP AWAY FROM INCOMPATIBLE SUBSTANCES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SHOULD BE NEEDED.
+Ventilation:GOOD GENERAL VENTILATION (TYPICALLY 10 AIR CHANGES/HR)
+    SHOULD BE USED. VENTILATION RATES SHOULD BE MATCHED TO CONDITIONS
+Protective Gloves:IMPERVIOUS GLOVES.
+Eye Protection:SAFETY GLASSES W/SIDE SHIELDS, GOGGLES.
+Other Protective Equipment:EYEBATH, WASHING FACILITIES, SAFETY SHOWER.
+Work Hygienic Practices:WASH HANDS THOROUGHLY WITH SOAP AND WATER
+    BEFORE EATING, DRINKING, SMOKING OR USING TOILET FACILITIES.
+Supplemental Safety and Health
+KEY1:N1.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:>100.C, 212.F
+B.P. Text:>212F,>100C
+Melt/Freeze Pt:M.P/F.P Text:NOT GIVEN
+Decomp Temp:Decomp Text:NOT GIVEN
+Vapor Pres:18MM @20C
+Vapor Density:0.6
+Spec Gravity:1.22
+pH:7.0
+Evaporation Rate & Reference:NOT GIVEN
+Solubility in Water:COMPLETE.
+Appearance and Odor:DARK BROWN LIQUID, WITH SLIGHT AMMONIA ODOR.
+Percent Volatiles by Volume:60-65
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, BASES, SODIUM HYPOCHLORITE (BLEACH).
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:CARBON DIOXIDE, CARBON MONOXIDE,
+    OXIDES OF NITROGEN, AMMONIA, CHLORAMINE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISCHARGE/TREATMENT/DISPOSAL MAY BE SUBJECT TO
+    NATIONAL/STATE/LOCAL LAWS. FLUSH TO SEWER W/LG AMTS OF WATER. NO
+    CHEM SUBJECT TO REPORTING REQMTS OF SEC 313 OR TITLE III OF SARA &
+    40CFR PART 372.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

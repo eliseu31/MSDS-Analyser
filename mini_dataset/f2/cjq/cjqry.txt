@@ -1,0 +1,227 @@
+=====================  Product Identification  =====================
+
+Product ID:TASK FORCE
+MSDS Date:10/01/1998
+FSC:6850
+NIIN:01-376-1202
+MSDS Number: CJQRY
+=== Responsible Party ===
+Company Name:ALLIED ENTERPRISES, INC.
+Address:814 W. 45TH STREET
+Box:6159
+City:NORFOLK
+State:VA
+ZIP:23508-2008
+Country:US
+Info Phone Num:804-489-8282
+Emergency Phone Num:800-535-5053
+Preparer's Name:NOT PROVIDED
+CAGE:58396
+=== Contractor Identification ===
+Company Name:ALLIED ENTERPRISES, INC.
+Address:814 W. 45TH STREET
+Box:6159
+City:NORFOLK
+State:VA
+ZIP:23508-2008
+Country:US
+Phone:757-489-8282
+Contract Num:SP0450-00-M-SJ33
+CAGE:58396
+Company Name:ALLIED ENTERPRISES, INC.
+Address:814 W. 45TH STREET
+Box:6159
+City:NORFOLK
+State:VA
+ZIP:23508-2008
+Country:US
+Phone:757-489-8282
+Contract Num:SP0450-99-M-NC57
+CAGE:58396
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: TO 100%
+Other REC Limits:NOT PROVIDED
+Code:F
+Code:F
+
+Ingred Name:GLYCOL ETHER
+CAS:25498-49-1
+RTECS #:UB8070000
+Minumum % Wt:0.
+Maxumum % Wt:5.
+Other REC Limits:NOT PROVIDED
+OSHA PEL:25 PPM
+ACGIH TLV:25 PPM
+
+Ingred Name:POTASSIUM HYDROXIDE
+CAS:1310-58-3
+RTECS #:TT2100000
+Minumum % Wt:0.
+Maxumum % Wt:5.
+Other REC Limits:NOT PROVIDED
+OSHA PEL:NOT AVAILABLE
+ACGIH STEL:C2 MG/M3
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:NONIONIC SURFACTANT
+CAS:9016-45-9
+RTECS #:AX0247000
+Minumum % Wt:0.
+Maxumum % Wt:5.
+Other REC Limits:NOT PROVIDED
+OSHA PEL:NOT PROVIDED
+ACGIH TLV:NOT PROVIDED
+
+Ingred Name:SODIUM METASILICATE
+CAS:6834-92-0
+RTECS #:VV9275000
+Minumum % Wt:0.
+Maxumum % Wt:5.
+Other REC Limits:NOT PROVIDED
+OSHA PEL:NOT PROVIDED
+ACGIH TLV:NOT PROVIDED
+
+Ingred Name:TETRASODIUM EDTA
+CAS:64-02-8
+RTECS #:AH5075000
+Minumum % Wt:0.
+Maxumum % Wt:5.
+Other REC Limits:NOT PROVIDED
+OSHA PEL:NOT PROVIDED
+ACGIH TLV:NOT PROVIDED
+
+Ingred Name:DYE
+Minumum % Wt:0.
+Maxumum % Wt:5.
+Other REC Limits:NOT PROVIDED
+OSHA PEL:NOT PROVIDED
+ACGIH TLV:NOT PROVIDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NOT PROVIDED
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN: IRRITANT. MAY CAUSE MODERATE
+    REDDENING AND SWELLING. EYES: IRRITANT. LIQUID AND MISTS MAY DAMAGE
+    EYES CAUSING CORNEAL DAMAGE. INHALATION: VAPORS AND MISTS MAY BE
+    IRRITATING TO MUCOUS MEMBRANES I N THE NOSE, THROAT, AND LUNGS.
+    INGESTION: IRRITATING AND CORROSIVE TO THE MOUTH AND THROAT. MAY
+    CAUSE HEADACHE, NAUSEA, ABDOMINAL PAIN, VOMITING AND DIARRHEA.
+    EXCESSIVE AMOUNTS MAY CAUSE COLLAPSE
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN: IRRITANT. MAY CAUSE MODERATE REDDENING
+    AND SWELLING. EYES: IRRITANT. LIQUID AND MISTS MAY DAMAGE EYES
+    CAUSING CORNEAL DAMAGE. INHALATION: VAPORS AND MISTS MAY BE
+    IRRITATING TO MUCOUS MEMBRANES I N THE NOSE, THROAT, AND LUNGS.
+    INGESTION: IRRITATING AND CORROSIVE TO THE MOUTH AND THROAT. MAY
+    CAUSE HEADACHE, NAUSEA, ABDOMINAL PAIN, VOMITING AND DIARRHEA.
+    EXCESSIVE AMOUNTS MAY CAUSE COLLAPSE.
+Medical Cond Aggravated by Exposure:NOT PROVIDED
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: FLUSH WITH WATER. SEEK MEDICAL ATTENTION IF IRRITATION
+    PERSISTS. EYES: FLUSH WITH LARGE AMOUNT OF WATER, HOLDING EYELIDS
+    OPEN. SEEK MEDICAL ATTENTION IF IRRITATION PERSISTS.  INHALATION:
+    GET TO  FRESH AIR. SEEK MEDICAL ATTENTION IF IRRITATION PERSISTS.
+    INGESTION: DO NOT INDUCE VOMITING. DRINK LARGE AMOUNT OF WATER.
+    SEEK MEDICAL ATTENTION IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Fire Fighting Procedures:NON FLAMMABLE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:MOP UP OR OTHERWISE ABSORB AND HOLD FOR
+    DISPOSAL.
+Neutralizing Agent:NOT PROVIDED
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTACT WITH EYES, SKIN AND
+    CLOTHING. KEEP OUT OF REACH OF CHILDREN. KEEP CONTAINER CLOSED
+    DURING STORAGE. FOR USE BY TRAINED PERSONNEL ONLY. FOR
+    INSTITUTIONAL AND INDUSTRIAL USE ONLY.
+Other Precautions:NOT PROVIDED
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE IN WELL VENTILATED AREA.
+Ventilation:PROVIDE LOCAL EXHAUST TO KEEP TLV OF INGREDIENTS BELOW
+    ACCEPTABLE LIMIT.
+Protective Gloves:CHEMICAL RESISTANT RUBBER OR NEOPRENE.
+Eye Protection:SAFETY GLASSES.
+Other Protective Equipment:EYEWASH STATION; CHEMICAL RESISTANT APRON.
+Work Hygienic Practices:NOT PROVIDED
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:B1
+NRC/State Lic Num:NOT RELEVANT
+Boiling Pt:=98.9C, 210.F
+Melt/Freeze Pt:M.P/F.P Text:NOT PROVIDED
+Decomp Temp:Decomp Text:NOT PROVIDED
+Vapor Pres:20 @ 68F
+Vapor Density:>1
+Spec Gravity:1.032
+pH:13.0-13.5
+Viscosity:NOT PROVIDED
+Evaporation Rate & Reference:<1 (WATER=1)
+Solubility in Water:COMPLETE
+Appearance and Odor:THIN GREEN LIQUID, CHARACTERISTIC ODOR.
+Percent Volatiles by Volume:>85
+Corrosion Rate:NOT PROVIDED
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS.
+Stability Condition to Avoid:NOT PROVIDED
+Hazardous Decomposition Products:ALKALINE VAPORS IN A FIRE.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:NOT PROVIDED
+
+=====================  Ecological Information  =====================
+
+Ecological:NOT PROVIDED
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ANY METHOD IN ACCORDANCE WITH APPLICABLE LAWS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:DOT SHIPPING DESCRIPTION: COMPOUNDS, CLEANING
+    LIQUID. (POTASSIUM HYDROXIDE, SOLUTION), CLASS 8, NA 1760, PKG III.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:THIS PRODUCT CONTAINS THE FOLLOWING TOXIC
+    CHEMICALS SUBJECT TO THE REPORTING REQUIREMENTS OF SECTION 313 OF
+    THE EMERGENCY PLANNING AND COMMUNITY RIGHT TO KNOW ACT OF 1986 AND
+    OF 40 CFR 372: NONE.
+Federal Regulatory Information:NOT PROVIDED
+State Regulatory Information:NOT PROVIDED
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,163 @@
+=====================  Product Identification  =====================
+
+Product ID:10 5202 GLOSS OIL HOUSE TINT BASE
+MSDS Date:11/23/1987
+FSC:8010
+NIIN:00N020325
+MSDS Number: BLMBX
+=== Responsible Party ===
+Company Name:VALSPAR CORP
+Address:1101 THIRD ST SOUTH
+City:MINNEAPOLIS
+State:MN
+ZIP:55415
+Country:US
+Info Phone Num:612-332-7371
+Emergency Phone Num:800-228-5635
+CAGE:13374
+=== Contractor Identification ===
+Company Name:VALSPAR CORP
+Address:1101 THIRD ST S
+City:MINNEAPOLIS
+State:MN
+ZIP:55414
+Country:US
+Phone:800-228-5635
+CAGE:13374
+Company Name:VALSPAR CORPORATION
+Address:1101 THIRD ST. SOUTH
+Box:City:MINNEAPOLIS
+State:MN
+ZIP:55415
+Country:US
+Phone:612-332-7371/888-345-5732
+CAGE:23526
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:VM&P NAPHTHA (LIGROINE)
+CAS:8032-32-4
+RTECS #:OI6180000
+Fraction by Wt: 30%
+Other REC Limits:100 PPM (MFR)
+OSHA PEL:300 PPM/400 STEL
+ACGIH TLV:300 PPM; 9192
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 15%
+Other REC Limits:15 MG/M3 (MFR)
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: HARMFUL IF INHALED. MAY AFFECT
+    BRAIN/ NERV SYS/RESP SYS, CAUSING DIZZ/HDCH/NAUSEA/RESP IRRIT.
+    PROLONGED INHALATION OF DUSTS MAY RESULT IN SHORTNESS OF BREATH.
+    OVEREXPOSURE TO INGREDIENTS IN THI S PROD MAY CAUSE NOSE & THROAT
+    IRRIT/EYE IRRIT/SKIN IRRIT. CHRONIC: NOTICE: REPORTS HAVE ASSOC
+    (SEE EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ: REPEATED AND PROLONGED OCCUPATIONAL
+    OVEREXPOSURE TO SOLVENTS WITH PERMANENT BRAIN AND NERVOUS SYSTEM
+    DAMAGE. INTENTIONAL MISUSE BY DELIBERATELY CONCENTRATING AND
+    INHALING THE CONTENTS MAY BE  HARMFUL OR FATAL.
+Medical Cond Aggravated by Exposure:ANY RESPIRATORY OR SKIN CONDITION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: REMOVE PERSON FROM EXPOSURE AREA. IF BREATHING HAS
+    STOPPED, USE MOUTH-TO-MOUTH RESUSCITATION AND GET MEDICAL
+    ATTENTION. EYE: FLUSH WITH WATER FOR AT LEAST 15 MIN. SKIN: WASH
+    WITH SOAP AND WATER . INGEST: GET MD IMMEDIATELY .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:110F,43C
+Lower Limits:0.90 %
+Upper Limits:21.10 %
+Extinguishing Media:CARBON DIOXIDE, DRY CHEMICAL, FOAM, AND/OR WATER
+    FOG.
+Fire Fighting Procedures:FIRE FIGHTERS MUST WEAR NIOSH/MSHA APPRVD
+    SCBA/AIR MASK AND FULL PROTECTIVE EQUIPMENT . CONTAINERS EXPOSED TO
+    FIRE SHOULD BE KEPT COOL W/WATER SPRAY.
+Unusual Fire/Explosion Hazard:CNTNS OXIDIZING MATLS. CONTAM RAGS,
+    WIPES, SAWDUST/ETC MAY CATCH FIRE SPONTANEOUSLY. STORE WASTE UNDER
+    H2O IN CLSD METAL CTNR UNTIL DISPOSED OF IN (SUPP DATA)
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA. AVOID BREATHING OF VAPORS. USE
+    NIOSH/MSHA APPROVED SCBA OR AIRMASK FOR LARGE SPILLS IN A CONFINED
+    AREA. WIPE UP OR ABSORB ON SUITABLE MATERIAL AND SHOVEL UP. AVOID
+    CONTACT WITH EYES.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM HEAT/SPARKS/OPEN
+    FLAMES. KEEP CNTNR CLOSED WHEN NOT IN USE. DO NOT STORE >120F.
+    STORAGE SHOULD BE PROVIDED I/A/W OSHA REG 1910.106.
+Other Precautions:EMPTY CONTAINERS MAY CONTAIN PRODUCT RESIDUE,
+    INCLUDING FLAMMABLE OR EXPLOSIVE VAPORS. DO NOT CUT, PUNCTURE OR
+    WELD ON OR NEAR CONTAINER. ALL LABEL WARNINGS MUST BE OBSERVED
+    UNTIL THE CONTAINER HAS BE EN CLEANED OR RECONDITIONED. (SUPP DATA)
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR APPROPRIATE, PROPERLY FITTED RESPIRATOR
+    (NIOSH/MSHA APPROVED) DURING AND AFTER APPLICATION UNLESS AIR
+    MONITORING VAPOR/MIST LEVELS ARE BELOW APPLICABLE LIMITS. FOLLOW
+    RESPIRATOR MANUFACTURERS DIR ECTIONS FOR RESPIRATOR USE.
+Ventilation:REQUIRED FOR SPRAYING OR IN A CONFINED AREA. VENTILATION
+    EQUIPMENT SHOULD BE EXPLOSION PROOF.
+Protective Gloves:USUAL HAND PROT FOR PAINT APPLICATION.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:USUAL CLOTHING FOR PAINTING OPERATIONS.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+EXPLO HAZ: COMPLIANCE WITH ALL APPLICABLE REGS. OTHER PREC: NOTICE:
+    REPORTS HAVE ASSOCIATED REPEATED & PROLONGED OCCUPATIONAL
+    OVEREXPOSURE TO SOLVENTS WITH PERMANENT BRAIN & NERVOUS SYSTEM
+    DAMAGE. INT ENTIONAL MISUSE BY DELIBERATELY CONCENTRATING AND
+    INHALING THE CONTENTS MAY BE HARMFUL OR FATAL.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:315F,157C
+Vapor Pres:2.4 @ 68 F
+Vapor Density:5.05
+Spec Gravity:1.19
+Evaporation Rate & Reference:0.08 (BUTYL ACETATE=1)
+Solubility in Water:NO
+Appearance and Odor:NORMAL FOR A COATINGS PRODUCT.
+Percent Volatiles by Volume:45.07
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:CARBON DIOXIDE/MONOXIDE AND METAL
+    OXIDES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN CHEMICAL DISPOSAL AREA OR IN A MANNER
+    THAT COMPLIES WITH LOCAL, STATE AND FEDERAL REGULATIONS. DO NOT
+    INCINERATE CLOSED CONTAINERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

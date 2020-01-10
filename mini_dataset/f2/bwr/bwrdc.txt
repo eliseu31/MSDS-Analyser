@@ -1,0 +1,182 @@
+=====================  Product Identification  =====================
+
+Product ID:URALITE 3130 PART B
+MSDS Date:06/01/1991
+FSC:8030
+NIIN:01-152-0971
+Kit Part:Y
+MSDS Number: BWRDC
+=== Responsible Party ===
+Company Name:HEXCEL CORP
+Address:20701 NORDHOFF ST
+Box:2197
+City:CHATSWORTH
+State:CA
+ZIP:91311
+Country:US
+Info Phone Num:818-882-3022
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+Preparer's Name:DEIRDRE S CRUTCHFIELD
+CAGE:0RNW1
+=== Contractor Identification ===
+Company Name:HEXCEL CORP
+Address:11555 DUBLIN BLVD
+Box:2197
+City:DUBLIN
+State:CA
+ZIP:94568
+Country:US
+Phone:415-828-4200
+CAGE:0RNW1
+Company Name:HEXCEL CORPORATION;CHEMICAL PRODUCTS DIVISION
+Address:20701-NORDHOFF STREET
+Box:2197
+City:CHATSWORTH
+State:CA
+ZIP:91311-5924
+Country:US
+Phone:818-882-3022
+CAGE:01490
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ANILINE, 4,4'-METHYLENEDI-; (4,4'-METHYLENE DIANILINE)
+    (SARA 313)
+CAS:101-77-9
+RTECS #:BY5425000
+Fraction by Wt: 30-40%
+ACGIH TLV:S; 0.1 PPM; A2
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:FORMALDEHYDE, POLYMER WITH BENZENAMINE; (POLYMETHYLENE
+    POLYPHENYL AMINE)
+CAS:25214-70-4
+RTECS #:TQ0600000
+Fraction by Wt: 10-20%
+
+Ingred Name:POLYMETHYLENE POLYPHENYL POLYALKYLPHENYL AMINE
+CAS:69178-40-1
+
+Ingred Name:2-PYRROLIDINONE, 1-METHYL-; (CYCLIC AMIDE)
+CAS:872-50-4
+RTECS #:UY5790000
+Fraction by Wt: 35-50%
+
+Ingred Name:POLYPROPYLENE GLYCOL; (POLYOXYPROPYLENE GLYCOL)
+CAS:25322-69-4
+RTECS #:TR5250000
+Fraction by Wt: 5-20%
+
+Ingred Name:MERCURY, (NEODECANOATO-O)PHENYL; (PHENYL MERCURY
+    MONOCARBOXYLATE)
+CAS:26545-49-3
+Fraction by Wt: 0.5-2.0%
+
+Ingred Name:VOLATILE ORGANIC CONTENT:456.3 GRAMS/LITER
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:SUSPECTED CANCER HAZARD:CONTAINS
+    4,4'-METHYLENE-DIANILINE WHICH MAY CAUSE CANCER. RISK DEPENDS ON
+    LENGTH & LEV OF EXPOS. CHRONIC CONTACT OR INHAL MAY ALSO CAUSE
+    LIVER DMG & BRTHG PROBLEMS. DANGER:MAY  BE FATAL IF SWALLOWED!
+    VAPORS ARE EXCEEDINGLY IRRITATING TO MUCOUS MEMBRANES & EYES.
+    REPEATED EXPOS (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:4,4'-METHYLENE-DIANILINE:IARC MONO, SUPP
+    V7, P56, 1987:GROUP 2B. NTP 7TH ANNUAL RPT ON CARCINS, 1994:ANTIC
+    TO BE CARCIN.
+Effects of Overexposure:HLTH HAZ:MAY CAUSE SKIN IRRITATION, LEADING TO
+    SENSITIZATION & DERMATITIS. EYE CONTACT MAY CAUSE EXTREME
+    IRRITATION AND/OR BURNING. POSSIBLEY SEVERE IRRITATION AND/OR
+    SENSITIZATION CAN RESULT FROM OVE REXPOSURE TO THIS PRODUCT.
+    MERCURY COMPOUNDS APPEAR ON THE NAVY LIST OF OCCUP CHEM REPROD
+    HAZARDS. SEEK (SUPDAT)
+Medical Cond Aggravated by Exposure:PRE-EXISTING EYE, SKIN, AND
+    RESPIRATORY DISORDERS MAY BE AGGRAVATED BY EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:IMMED FLUSH W/PLENTY OF WATER FOR @ LEAST 15 MINS. GET
+    MED ATTN. SKIN:IMMED WASH SKIN W/SOAP & PLENTY OF WATER. WASH
+    CONTAMD CLTHG BEFORE RE-USE & DESTROY CONTAMD SHOES. INHAL:REMOVE
+    TO FRESH AIR . IF NOT BRTHG, GIVE ARTF RESP, PREFERABLY
+    MOUTH-TO-MOUTH. IF BRTHG IS DFCLT, GIVE OXYG. GET MED ATTN.
+    INGEST:GET MED ATTN IMMED. INDUCE VOMIT ONLY UPON ADVICE OF
+    PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:240F,116C
+Extinguishing Media:CO*2 OR DRY CHEMICAL FOR SMALL FIRES. USE WATER AND
+    FOAM FOR LARGE FIRES.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONTAIN W/SUITABLE DIKING MATL. VENTILATE AREA
+    THORO. KEEP ALL UNNEC PEOPLE AWAY. SPILLED MATL SHOULD BE ABSORBED
+    IN SAWDUST, SAND OR OTHER ABSORB. PLACE INTO OPEN-TOPPED CNTNRS &
+    COVER LOOSELY; STORE  FOR @ LEAST 12 HRS BEFORE SEALING CONTAINER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL DRY AREA IN TIGHTLY
+    CLOSED CONTAINERS. AVOID MOISTURE CONTAMINATION.
+Other Precautions:AVOID BREATHING VAPORS. KEEP AWAY FROM HEAT, SPARKS,
+    AND OPEN FLAMES. USE ADEQUATE VENTILATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN .
+Ventilation:IF HANDLED INDOORS, PROVIDE MECHANICAL EXHAUST VENTILATION.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPRVD CHEM SFTY GOGGLES .
+Other Protective Equipment:SYNTHETIC APRON. EYE WASH FOUNTAIN & DELUGE
+    SHOWER MEETING ANSI DESIGN CRITERIA .
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+EFTS OF OVEREXP:CONSULTATION FROM APPROP HEALTH PROFESSIONALS
+    CONCERNING LATEST HAZARD LIST INFORMATION AND SAFE HANLDING AND
+    EXPOSURE INFORMATION .
+
+==================  Physical/Chemical Properties  ==================
+
+Vapor Density:1.10
+Evaporation Rate & Reference:NOT KNOWN
+Solubility in Water:NOT KNOWN
+Appearance and Odor:DARK AMBER LIQUID WITH A FAINT AMINE ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CONTACT WITH STRONG OXIDIZERS.
+Stability Condition to Avoid:CONTACT WITH WATER, ALCOHOLS, STRONG
+    BASES, METAL COMPOUNDS OR SURFACE ACTIVE MATERIALS.
+Hazardous Decomposition Products:CARBON DIOXIDE, CARBON MONOXIDE, AND
+    NITROGEN OXIDES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTROLLED INCIN/BURIED LANDFILL DISPOSAL SHOULD
+    BE I/A/W ALL FEDERAL, STATE AND LOCAL ENVIRONMENTAL CONTROL
+    REGULATIONS.
+
+ ======================================================================
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

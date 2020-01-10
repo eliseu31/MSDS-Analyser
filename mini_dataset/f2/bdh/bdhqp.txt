@@ -1,0 +1,127 @@
+=====================  Product Identification  =====================
+
+Product ID:TYPE 304 HF ANL PKL, QQ-S-763D
+MSDS Date:01/01/1987
+FSC:9510
+NIIN:00-189-0598
+MSDS Number: BDHQP
+=== Responsible Party ===
+Company Name:CARPENTER TECHNOLOGY CORPORATION
+Emergency Phone Num:(215) 371-2000
+CAGE:71321
+=== Contractor Identification ===
+Company Name:CARPENTER TECHNOLOGY CORP
+Address:101 W BERN ST
+Box:14662
+City:READING
+State:PA
+ZIP:19612-4662
+Country:US
+Phone:610-208-2134 / 610-208-2457/2457
+CAGE:71321
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:IRON OXIDE
+CAS:1309-37-1
+RTECS #:NO7400000
+Fraction by Wt: 68.5%
+OSHA PEL:10 MG/M3 (FE)
+ACGIH TLV:5 MG/M3(FE),B2; 9293
+
+Ingred Name:NICKEL  (SARA III)
+CAS:7440-02-0
+RTECS #:QR5950000
+Fraction by Wt: 9.0%
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+
+Ingred Name:MANGANESE  (SARA III)
+CAS:7439-96-5
+RTECS #:OO9275000
+Fraction by Wt: 2.0%
+OSHA PEL:(C) 5 MG/M3 DUST
+ACGIH TLV:5 MG/M3 DUST 9293
+
+Ingred Name:COBALT  (SARA III)
+CAS:7440-48-4
+RTECS #:GF8750000
+Fraction by Wt: 0.75%
+OSHA PEL:0.1 MG/M3;AS CO
+ACGIH TLV:0.05 MG/M3;DUST 9293
+
+Ingred Name:CHROMIUM  (SARA III)
+CAS:7440-47-3
+RTECS #:GB4200000
+Fraction by Wt: 19.0%
+OSHA PEL:1 MG/M3
+ACGIH TLV:0.5 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:NONE CONSIDERED HAZ IN SOLID
+    STATE;HOWEVER,METALLIC FUMES/DUST MAY CAUSE RESP,EYES,LUNGS
+    PROBLEMS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:MOVE TO FRESH AIR.GET MED ATTN;SKIN:WASH W/WATER & MILD
+    DETERGENT.CONSULT A PHYSICIAN;EYES:FLUSH WITH PLENTY OF WATER.GET
+    MED HELP;INGESTION:WHILE INGESTION OF LG ENOUGH QTY TO CAUSE HEALTH
+    EFFE CTS IS UNLIKELY,CONSULT A DR IF IT OCCURS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:EXTINGUISH WITH AGENT SUITABLE FOR SURROUNDING FIRE
+Fire Fighting Procedures:WEAR SELF-CNTD BRTHG,APP H*20 SPRAY TO COOL
+    CONTR.
+Unusual Fire/Explosion Hazard:NONE NOTED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:PRODUCT IS SOLID METAL.NO POTENTIAL FOR SPILL
+    OR LEAK. HOWEVER,IF SMALL METALLIC PIECES ARE SPILLED,COLLECT THOSE
+    & REUSE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DRY,WELL VENTILATED
+    AREA. PROTECT FROM PHYSICAL DAMAGE.AVOID ANY PHYSICAL CONTACT. KEEP
+    CONTAINERS TIGHTLY CLOSED
+Other Precautions:FERROCHROME ALLOYS HAVE BEEN ASSOCIATED W/LUNG
+    CHGS.CHROMIUM,COBALT-CHROMIUM ALLOYS AND NICKEL HAVE BEEN
+    IDENTIFIED AS CARCINOGEN.AVOID BREAHING DUST/FUMES DURING
+    GRINDING/WELDING PROCESSES
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF FUMES OR DUST IS RELEASED,USE NIOSH APPRVD
+    RESP.
+Ventilation:FOR DUST/FUME,USE LOCAL & GENERAL VENTILATION TO KEEP 7.5
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:SOLID METAL,ODORLESS
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:NOT KNOWN
+Hazardous Decomposition Products:NONE EXPECTED
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:IN THE EVENT OF METAL OR METAL PIECES ARE TO BE
+    DISPOSED,CONSULT LOCAL AUTHORITIES FOR DISPOSAL OR SHIP TO
+    RECYCLING FACILITIES.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

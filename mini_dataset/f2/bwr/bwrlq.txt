@@ -1,0 +1,178 @@
+=====================  Product Identification  =====================
+
+Product ID:CONATHANE CE-1155-35 PART B CURATIVE
+MSDS Date:11/09/1994
+FSC:5970
+NIIN:01-106-7108
+MSDS Number: BWRLQ
+=== Responsible Party ===
+Company Name:CONAP INC. (SUBSIDIARY OF CYTEC INDUSTRIES INC)
+Address:1405 BUFFALO STREET
+City:OLEAN
+State:NY
+ZIP:14760-1139
+Country:US
+Info Phone Num:716-372-9650
+Emergency Phone Num:800-424-9300(CHEMTREC)/202-483-7616
+Preparer's Name:MARVIN A. FRIEDMAN,PH.D.
+CAGE:MO932
+=== Contractor Identification ===
+Company Name:CONAP INC. (SUBSIDIARY OF CYTEC INDUSTRIES INC)
+Address:1405 BUFFALO STREET
+Box:City:OLEAN
+State:NY
+ZIP:14760-1139
+Country:US
+Phone:716-372-9650
+CAGE:MO932
+Company Name:CONAP INC.,WHOLLY OWNED SUBSIDIARY OF CYTEC INDUSTRIES
+    INC.
+Address:1405 BUFFALO STREET
+Box:City:OLEAN
+State:NY
+ZIP:14760
+Country:US
+Phone:716-372-9650
+CAGE:16245
+Company Name:PIEDMONT POLYMERS INC
+Address:5025 S ROYAL ATLANTIC DR
+Box:188
+City:TUCKER
+State:GA
+ZIP:30084
+Country:US
+Phone:404-939-5660
+CAGE:0GGS8
+Company Name:THE SMITH GROUP INC.
+Address:811 E. CAYUGA STREET
+Box:City:PHILADELPHIA
+State:PA
+ZIP:19124-3893
+Country:US
+Phone:215-743-8200
+CAGE:2B613
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TOLUENE (SARA 313) (CERCLA)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: <35.00%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:200 PPM; Z-2
+ACGIH TLV:S, 50 PPM; 9596
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 ORAL, RAT= >5000MG/KG.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:DIRECT CONTACT W/MATL MAY CAUSE
+    MODERATE EYE & MILD SKIN IRRIT. INHAL OVEREXPO MAY CAUSE IRRIT OF
+    RESP TRACT. TOLUENE IS A SEVERE EYE & MODERATE SKIN IRRITANT. INHAL
+    OVEREXPO CAUSE HEADACHE, FATIGUE,  NAU, CNS DEPRESSION. DELIBERATE
+    INHAL OFHIGH CONC BY PREGNANT WOMEN ADVERSELY EFFECTS FETUS.
+Explanation of Carcinogenicity:PER MSDS:CONTAINS TOLUENE WHICH IS KNOWN
+    TO STATE OF CA TO CAUSE REPRODUCTIVE TOXICITY.
+Effects of Overexposure:MODERATE EYE & MILD SKIN IRRITATION.RESP TRACT
+    IRRIT. HEADACHE, FATIGUE, NAUSEA, CNS DEPRESSION. INTRAUTERINE
+    GROWTH RETARDATION & DELAYED POSTNATAL DEVELOPMENT OF FETUS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:IMMED WASH W/SOAP & PLENTY OF WATER. EYE:IMMED IRRIGATE
+    W/PLENTY OF WATER 15MINS. OBTAIN MED ATTN IF IRRIT PERSISTS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:55.0F,12.8C
+Lower Limits:N/AVAILABLE
+Upper Limits:N/AVAILABLE
+Extinguishing Media:USE CO2, DRY CHEM, WATERSPRAY, ALCOHOL FOAM.
+    WATERSTREAM MAY BE INEFFECTIVE.
+Fire Fighting Procedures:USE WATER TO KEEP CNTNRS COOL.WEAR SELF-
+    CONTAINED POSITIVE PRESSURE BREATHING APPARATUS & FULL FIREFIGHTING
+    PROTECTIVE CLOTHING.
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE IGN SOURCES.EXPO LEVELS UNK WEAR NIOSH
+    APPROVED +PRESS SELF-CONTAINED RESP.EXPO LEVELS KNOWN WEAR SUITABLE
+    RESP.EAR PROT CLOTH/EQPMT/IMPERVIOUS BOOTS.COVER SPILLS W/INERT
+    ABSORBENT MATL.SWEEP U P&PLACE IN WASTE DISPOSAL CNTNR.FLUSH AREA
+    W/WATER
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID SKIN CONTACT.KEEP AWAY FROM
+    HEAT/ SPARKS/FLAME.AVOID CONTACT W/EYES/SKIN/CLOTH.KEEP CNTNR
+    CLSD.USE W/ADEQ VENTI.AREAS CONTAINING MATL SHOULD(SUP
+Other Precautions:FOOD/BEV/TOBACCO PRODUCTS SHOULD NOT BE
+    CARRIED/STORED/ CONSUMED WHERE MATL IS IN USE.RECOMMEND SHOWER AFT
+    WORKSHIFT ESPECIALLY IF SIGNIFICANT CONTACT HAS OCCUR.STORE STREET
+    CLOTH SEPARATELY FROM WORK	CLOTH/PPE.LEAVE WORK CLOTH @WORK.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WHERE EXPOSURES ARE BELOW PERMISSIBLE EXPOUSRE
+    LIMIT (PEL) NO RESPIRATOR IS REQUIRED. WHERE EXPO EXCEED THE PEL
+    USE RESP APPROVED BY NIOSH FOR MATL & LEVEL OF EXPO. SEE "GUIDE TO
+    INDUSTRIAL RESPIRATOR Y PROTECTION" (NIOSH).
+Ventilation:WHERE MATL IS NOT USED IN CLOSED SYS GOOD ENCLOSURE/LOC
+    EXHA VENTILATION SHOULD BE PROVIDED.
+Protective Gloves:IMPERVIOUS GLOVES
+Eye Protection:CHEM SPLASH PROOF GOGG OR FACE SHIELD
+Other Protective Equipment:APRONS,WORKPANTS,LONG SLEEVE,WORKSHIRT,
+    DISPOSABLE COVERALLS TO PREVENT SKIN CONTACT.EYEWASH EQPMT,SAFETY
+    SHOWER.
+Work Hygienic Practices:BEF EAT/DRINK/SMOKE WASH FACE/HANDS
+    W/SOAP/WATER. (SEE OTH PRECAU)
+Supplemental Safety and Health
+KEY 1;F3.STORE/HANDLING:HAVE FIRE-SAFE PRACTICES & ELECTR EQPMT IAW
+    ELECTRICAL & FIRE PROT CODES(NFPA-30)GOVERNING CLASS I FLAMM LIQ.
+    PART B OF TWO PART KIT SEE PNIND:D.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:B.P. Text:N/AVAILABLE
+Melt/Freeze Pt:M.P/F.P Text:N/AVAILABLE
+Decomp Temp:Decomp Text:N/AVAILABLE
+Vapor Pres:N/AVAILABL
+Vapor Density:N/AVAILABL
+Spec Gravity:0.93
+pH:N/AVAI
+Evaporation Rate & Reference:<1. REF NOT GIVEN
+Solubility in Water:NOT AVAILABLE.
+Appearance and Odor:AMBER LIQUID, CHARACTERISTIC ODOR.
+Percent Volatiles by Volume:65
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS, BASES OR OXIDIZING AGENTS.
+Stability Condition to Avoid:NONE KNOWN PER MSDS. HOWEVER AVOID HIGH
+    TEMPS & SOURCES OF IGNITION.
+Hazardous Decomposition Products:THERM DECOMP/COMBUST MAY PRODUCE
+    CARBON MONOXIDE &/OR CARBON DIOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE MADE IN ACCORDANCE WITH
+    APPLICABLE GOVERNMENTAL REGULATIONS. CONTAINS COMPONENT DEFINED AS
+    TOXIC CHEM SUBJECT TO REPORTING REQUIREMENTS OF SEC 313 OF TITLE
+    III & OF 40 CFR 372 OR SUBJ ECT TO OTHER EPA REGS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

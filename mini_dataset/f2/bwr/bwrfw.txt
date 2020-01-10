@@ -1,0 +1,151 @@
+=====================  Product Identification  =====================
+
+Product ID:EPI-18164-3 BATTERY, EPI-3030-I CELL
+MSDS Date:07/14/1989
+FSC:6140
+NIIN:01-290-6553
+MSDS Number: BWRFW
+=== Responsible Party ===
+Company Name:EAGLE-PICHER INDUSTRIES INC
+Address:3820 S HANCCOCK EXPRESSWAY
+City:COLORADO SPRINGS
+State:CO
+ZIP:80911
+Country:US
+Info Phone Num:714-392-4266
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+CAGE:50120
+=== Contractor Identification ===
+Company Name:EAGLE-PICHER TECHNOLOGIES, LLC
+Address:3820-SOUTH HANCOCK EXPRESSWAY
+Box:5234
+City:COLORADO SPRINGS
+State:CO
+ZIP:80911-1231
+Country:US
+Phone:719-392-4266
+CAGE:50120
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POTASSIUM HYDROXIDE (ELECTROLYTE KOH31%))
+CAS:1310-58-3
+RTECS #:TT2100000
+Fraction by Wt: 9.5%
+OSHA PEL:C 2 MG/M3
+ACGIH TLV:C 2 MG/M3
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:CADMIUM (METAL)
+CAS:7440-43-9
+RTECS #:EU9800000
+Fraction by Wt: 12%
+OSHA PEL:0.02 MG/M3 DUST
+ACGIH TLV:0.01 MG/M3 DUST
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+Ingred Name:NICKEL (METAL)
+CAS:7440-02-0
+RTECS #:QR5950000
+Fraction by Wt: 17.5%
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3
+
+Ingred Name:COBALT (SARA 313)
+CAS:7440-48-4
+RTECS #:GF8750000
+Fraction by Wt: 11%
+OSHA PEL:0.1 MG/M3
+ACGIH TLV:0.02 MG/M3; A3
+
+Ingred Name:SUPDAT:HUMAN:LUNGS, NASAL CAVITIES.
+RTECS #:9999999ZZ
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:YES
+Health Hazards Acute and Chronic:ACUTE:ELECTROLYTE IS CAUSTIC. CONTACT
+    ON SKIN, BURNS, INGESTION CAUSES NAUSEA, VOMITING AND DIARRHEA.
+Explanation of Carcinogenicity:CADMIUM:IARC SUPP 7,P 139,1987:GRP 2A.
+    NTP 7TH ANN RPT,1994:ANTIC TO BE CARCIN. OSHA REG 29CFR1910.1027:
+    HUMAN:(SUPDAT)
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:REMOVE TO FRESH AIR. SUPPORT BREATHING (GIVE O*2/ARTF
+    RESP) . EYES:FLUSH WITH WATER FOR @ LEAT 15 MINUTES & CONTACT PHYS.
+    SKIN:FLUSH WITH WATER FOR @ LEAT 15 MINUTES. CONTACT PHYSICIAN. IN
+    GEST:CONTACT PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:(SAND) SMOTHER THE FIRE.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT . NICKEL AND CADMIUM FUME MAY BE RELEASED AT ELEVATED
+    TEMPERATURES (CADMIUM 500F)NICKEL 2500F).
+Unusual Fire/Explosion Hazard:IF THIS MATERIAL IS FINELY DISPERSED,
+    PARTICLES ARE EXPLOSIVE AND REACT WITH WATER, FOAM, CO*2, AND
+    HALONS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:IF LIQUID, SHAVINGS OR DUST ARE GENERATED,
+    THEY SHOULD BE CONSIDERED TOXIC AND DISPOSED OF.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT INCINERATE OR MUTILATE, MAY
+    BURST OR RELEASE TOXIC MATERIALS. DO NOT SHORT CIRCUIT, MAY CAUSE
+    BURNS.
+Other Precautions:WASH THOROUGHLY AFTER HANDLING THIS MATERIAL;
+    ELECTOLYTE IS CAUSTIC. DO NOT ALLOW EYE OR SKIN CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT APPLICABLE. NIOSH/MSHA APPROVED RESPIRATOR
+    APPROPRIATE FOR EXPOSURE OF CONCERN .
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPRVD CHEM WORKERS GOGGLES .
+Other Protective Equipment:ANSI APPRVD EMER EYEBATH AND DELUGE SHOWER .
+Work Hygienic Practices:WASH HANDS THOROUGHLY AFTER HANDLING THIS
+    MATERIAL.
+Supplemental Safety and Health
+EXPLAN OF CARCIN:LUNG, PROSTATE, RENAL SYS EFTS. COBALT:IARC MONO ON
+    EVAL OF CARCIN RISK OF CHEM TO MAN, VOL 52, PG 363, 1994:GROUP 2B.
+    ANIMAL:PULM FIBROSIS (BLOOD EFTS). NICKEL:IARC MONO ON EVAL OF C
+    ARCIN RISK OF CHEMS TO MAN, VOL 49, PG 257, 1990:GR 2B. NTP 7TH
+    ANNUAL RPT ON CARCIN, 1994:ANTIC TO BE CARCIN. (ING 5)
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:1409F,765C
+Spec Gravity:8.6 (H*2O=1)
+Appearance and Odor:BLACK METALIC, NO ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACIDS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF THIS MATERIAL ACCORDING TO LOCAL,
+    STATE AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

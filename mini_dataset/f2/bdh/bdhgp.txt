@@ -1,0 +1,52 @@
+=====================  Product Identification  =====================
+
+Product ID:3C23
+MSDS Date:01/01/1985
+FSC:5960
+NIIN:00-188-0846
+MSDS Number: BDHGP
+=== Responsible Party ===
+Company Name:CETRON ELECTRONICS CO
+Address:40W267 KESLINGER RD
+City:LAFOX
+State:IL
+ZIP:60147
+Country:US
+Emergency Phone Num:312-232-6400
+CAGE:72241
+=== Contractor Identification ===
+Company Name:CETRON ELECTRONICS DIV RICHARDSON ELECTRONICS LTD
+Address:40W267 KESLINGER RD
+Box:City:LAFOX
+State:IL
+ZIP:60147
+Country:US
+Phone:708-208-2300
+CAGE:72241
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MERCURY  (SARA III)
+CAS:7439-97-6
+RTECS #:OV4550000
+OSHA PEL:S, C, 0.1 MG/M3
+ACGIH TLV:S, 0.05 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=============  Exposure Controls/Personal Protection  =============
+
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:Z2
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

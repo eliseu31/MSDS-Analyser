@@ -1,0 +1,134 @@
+=====================  Product Identification  =====================
+
+Product ID:H SIMULANT TEST BOTTLE (SEE SUPP DATA)
+MSDS Date:01/01/1987
+FSC:6910
+NIIN:00-106-4800
+Kit Part:Y
+MSDS Number: BHWFC
+=== Responsible Party ===
+Company Name:CHEMTRONICS,INC/NOW,JET RESEARCH (NO LONGER MFR)
+Address:180 OLD BEE TREE RD
+City:SWANNANOA
+State:NC
+ZIP:28778
+Country:US
+Info Phone Num:704-298-7941
+Emergency Phone Num:704-298-7941
+CAGE:KO083
+=== Contractor Identification ===
+Company Name:CHEMTRONICS INC
+Address:180 OLD BEE TREE RD
+Box:City:SWANNANOA
+State:NC
+ZIP:28778-3409
+Country:US
+Phone:NOT LISTED IN PHONE DIRECTORY
+CAGE:60737
+Company Name:CHEMTRONICS,INC/NOW,JET RESEARCH (NO LONGER MFR)
+Address:180 OLD BEE TREE RD
+Box:City:SWANNANOA
+State:NC
+ZIP:28778
+Country:US
+Phone:704-298-7941
+CAGE:KO083
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISO-AMYL SALICYLATE
+CAS:87-20-7
+RTECS #:VO4375000
+Other REC Limits:N/K 
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:N/K 
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SEE SIGNS AND SYMPTOMS OF
+    OVEREXPOSURE.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:NO ADVERSE EFFECTS HAVE BEEN FOUND.APPROVED FOR
+    FOOD USE BY USFDA.A 10% SOLUTION PRODUCED NO SENSITIZATION IN
+    HUMANS.
+Medical Cond Aggravated by Exposure:N/K 
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH FOR 15 MINUTES WITH WATER.SKIN:WASH WITH SOAP AND
+    WATER.INGESTION:GIVE 2 GLASSES OF WATER.INDUCE VOMITING.CALL
+    MD.INHALATION:MOVE TO FRESH AIR.CALL MD.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:212C,414F
+Lower Limits:N/K 
+Upper Limits:N/K 
+Extinguishing Media:CARBON DIOXIDE,DRY CHEMICAL.
+Fire Fighting Procedures:WEAR SCBA AND PROTECTIVE CLOTHING EXPECIALLY
+    IN CONFINED AREAS.
+Unusual Fire/Explosion Hazard:NONE KNOWN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB WITH SAND OR VERMICULITE.PLACE IN
+    CLOSED CONTAINER FOR DISPOSAL.
+Neutralizing Agent:N/K 
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DRY PLACE AWAY FROM
+    SOURCES OF FLAME AND SPARK.
+Other Precautions:N/K 
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NEEDED IN WELL VENTILATED AREA.
+Ventilation:CONSULT LOCAL SAFETY/HEALTH AUTHORITIES IF ADDITIONAL
+    GUIDANCE IS NEEDED .
+Protective Gloves:RUBBER
+Eye Protection:SPLASH PROOF GOGGLES.
+Other Protective Equipment:N/K 
+Work Hygienic Practices:N/K 
+Supplemental Safety and Health
+PART NO:(M72-A1 TRNG SET CHEM AGENT).
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:277C,530F
+Melt/Freeze Pt:M.P/F.P Text:N/K 
+Decomp Temp:Decomp Text:N/K 
+Vapor Density:>1 (AIR=1)
+Spec Gravity:1.050 (WATER=1)
+Evaporation Rate & Reference:>1 (BUTYL ACETATE=1)
+Solubility in Water:INSOLUBLE
+Appearance and Odor:COLORLESS TO PALE YELLOW WITH ORCHARD SCENT.
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG MINERAL ACIDS.OXIDIZERS.IRON CAUSES DISCOLORATION.
+Stability Condition to Avoid:N/K 
+Hazardous Decomposition Products:CARBON DIOXIDE,CARBON MONOXIDE.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISP MUST BE IAW FEDERAL,STATE & LOCAL
+    REGS.COORDINATION W/ SUPPORTING INSTALLATION/MACOM ENVIRON
+    COORDINATION BEFORE DISP IS REC TO DETERMINE APPROP DISP METHODS
+    .INCIN USING AFTERBURNER OR BUR Y IN LANDFILL IAW LOCAL,STATE &
+    FEDERALREGS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

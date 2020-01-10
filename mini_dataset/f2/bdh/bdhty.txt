@@ -1,0 +1,113 @@
+=====================  Product Identification  =====================
+
+Product ID:SA 824 3332(GREASE AUTOMOTIVE)
+MSDS Date:01/01/1987
+FSC:9150
+NIIN:00-190-0907
+MSDS Number: BDHTY
+=== Responsible Party ===
+Company Name:WITCO CHEMICAL CORP;SOUTHWEST PETRO-CHEM DIV
+Emergency Phone Num:(913)782-5800
+CAGE:1F469
+=== Contractor Identification ===
+Company Name:EXXON CO USA-SOUTHWEST GREASE BUSINESS UNIT
+Address:1400 S HARRISON
+Box:1974
+City:OLATHE
+State:KS
+ZIP:66061
+Country:US
+Phone:913-656-3701/800-424-9300(CHEMTREC)
+CAGE:70878
+Company Name:WITCO CHEMICAL CORP GOLDEN BEAR OIL CO DIVISION
+Address:MANOR & NORRIS ROADS
+Box:5446
+City:OILDALE
+State:CA
+ZIP:93388-5446
+Country:US
+Phone:805-393-7110/800-424-9300(CHEMTREC)
+CAGE:1F469
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PETROLEUM HYDROCARBON (TAKE TLV AS OIL MIST =5MG/CUM)
+
+Ingred Name:ADDITIVES
+ACGIH TLV:NOT SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:MAY CAUSE SKIN AND EYES IRRITATION ON PROLONGED
+    OR REPEATED CONTACT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALE:REMOVE TO FRESH AIR, GIVE CPR/O*2 IF
+    NEED;EYES/SKIN:FLUSH W LG AMTS H*2O FOR 15 MIN;INGEST:RINSE MOUTH;
+    GET MEDICAL ATTENTION FOR EYES, BREATHING DIFFICULTY, OR OTHER
+    SYMPTOMS OF OVEREXPOSURE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:>320F/160C (COC)
+Extinguishing Media:CO*2,DRY CHEMICAL,WATERFOG;FOAM,SAND/EARTH
+Fire Fighting Procedures:DENSE SMOKE;USE NIOSH/MSHA APPROVED SCBA IN AN
+    ENCLOSED AREA
+Unusual Fire/Explosion Hazard:DENSE SMOKE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPER PERSONAL PROTECTION;DIKE AND
+    CONTAIN;USE SUITABLE INERT ABSORBENT MATERIAL AND RECOVER FOR
+    PROPER DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL DRY AND WELL VENTILATED
+    AREA;KEEP AWAY FROM HEAT,OPEN FLAMES:KEEP CONTAINER CLOSED WHEN NOT
+    IN USE.
+Other Precautions:AVOID CONTACT WITH SKIN AND EYES;DO NOT BREATHE
+    VAPORS/MIST:WASH THOROUGHLY AFTER EACH USE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR FOR
+    ORG.VAPORS/MIST IF ABOVE TLV.
+Ventilation:MECH(GEN)OR LOCAL EXHAUST THAT PROVIDES ADEQUATE
+    VENTILATION
+Protective Gloves:OIL RESISTANT
+Eye Protection:GOGGLES/FACE SHIELD
+Other Protective Equipment:FULL WORK CLOTHING TO PREVENT REPEATED OR
+    PROLONGED CONTACT.
+Supplemental Safety and Health
+MSDS REVISION DATE:03/09/87
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Spec Gravity:0.948
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:GREASE,SEMI-SOLID,MINERAL OIL ODOR,AMBER COLOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS SUCH AS H*20*2,CHROMIC ACID.
+Stability Condition to Avoid:EXTREME HEAT,OPEN FLAME
+Hazardous Decomposition Products:BURNING:-CO ,CO*2,OXIDES OF
+    BARIUM,OXIDE OF PHOSPHORUS,ZNO.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF COLLECTED MATERIAL IN ACCORDANCE WITH
+    LOCAL,STATE AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

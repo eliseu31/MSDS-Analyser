@@ -1,0 +1,166 @@
+=====================  Product Identification  =====================
+
+Product ID:TIN/LEAD SOLDER
+MSDS Date:11/01/1994
+FSC:3439
+NIIN:00-273-1637
+Status Code:A
+MSDS Number: CJQWC
+=== Responsible Party ===
+Company Name:AMERWAY INC
+Address:3701 BEALE AVE
+City:ALTOONA
+State:PA
+ZIP:16601
+Country:US
+Info Phone Num:814-944-0200
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+Preparer's Name:SEAN MCHUGH
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:0J598
+=== Contractor Identification ===
+Company Name:AMERWAY INC
+Address:3701 BEALE AVE
+Box:City:ALTOONA
+State:PA
+ZIP:16601
+Country:US
+Phone:800-829-6337; FX:814-9441463
+CAGE:0J598
+Company Name:DEAL PRODUCTS
+Address:6 CLINTON AVE
+Box:177
+City:WESTFIELD
+State:MA
+ZIP:01086
+Country:US
+Phone:413-562-1369
+Contract Num:SP0400-99-V-1724
+CAGE:0BP74
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LEAD (SARA 313) (CERCLA)
+CAS:7439-92-1
+RTECS #:OF7525000
+Minumum % Wt:0.
+Maxumum % Wt:100.
+OSHA PEL:SEE 1910.1025
+ACGIH TLV:0.15 MG/M3 DUST
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:TIN
+CAS:7440-31-5
+RTECS #:XP7320000
+Minumum % Wt:0.
+Maxumum % Wt:100.
+OSHA PEL:2 MG/M3
+ACGIH TLV:2 MG/M3
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: EYES: DUST/FUME WILL BE
+    IRRITANT. SKIN: NOT A ROUTE OF ENTRY INTO BODY. INGESTION: LEAD IS
+    TOXIC & CUMULATIVE, AFFECTING KIDNEYS, REPRODUCTION & NERVOUS
+    SYSTEM. ANTIMONY IS TOXIC & DUST/FUME CA N CAUSE NASAL SEPTAL
+    ULCERATION & STOMACH LINING IRRITATION. INHALATION: MAY CAUSE NOSE
+    & BRONCHIAL TRACT IRRITATION. CHRONIC:KIDNEYS, REPODUCTIVE AND
+    NERVOUS SYSTEM, BLOOD.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:INHAL: IRRITATION OF NOSE, THROAT, COUGHING. 
+    INGEST:  ANEMIA, INSOMNIA, WEAK, IRRITABILITY, CONSTIPATION &
+    STOMACH PAINS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH WATER FOR AT LEAST 15 MINUTES. SKIN: WASH
+    THOROUGHLY WITH SOAP AND WATER. REMOVE CONTAMINATED CLOTHING.
+    INGESTION: INDUCE VOMITING IF PERSON IS CONSCIOUS. GET MEDICAL
+    ATTENTION. INHAL ATION: REMOVE TO FRESH AIR. GET MEDICALATTENTION.
+    NOTES TO MD: NOT APPLICABLE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON FLAMMABLE
+Extinguishing Media:NOT APPLICABLE. USE MEDIA SUITABLE FOR SURROUNDING
+    FIRE
+Fire Fighting Procedures:WEAR NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ALLOW TO SOLIDIFY AND COLLECT IN SEALED
+    CONTAINERS FOR DISPOSAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID INGESTION OR INHALATION OF DUST
+    AND FUMES. STORE IN DRY CONDITIONS.
+Other Precautions:LEAD USE IS REGULATED UNDER OSHA 29 CFR 1910.1025. NO
+    FOOD OR DRINK SHOULD BE ALLOWED IN AREAS WHERE THESE PRODUCTS ARE
+    HANDLED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:ONLY REQUIRED IF TLV'S ARE EXCEEDED. USE A NIOSH
+    APPROVED RESPIRATOR FOR TOXIC DUST AND/OR FUME. NOTE: SEE 29 CFR
+    1910.1025, SUBPART (F) OF OSHA'S LEAD STANDARD.
+Ventilation:IF FUME OR DUST IS BEING GENERATED, MECHANICAL VENTILATION
+    MUST BE PROVIDED TO MAINTAIN EXPOSURE LEVELS BELOW TLV'S.
+Protective Gloves:IMPERVIOUS GLOVES
+Eye Protection:ANSI APPRVD CHEM WORKERS GOGGLES
+Other Protective Equipment:EMERGENCY EYEWASH AND DELUGE SHOWER MEETING
+    ANSI DESIGN CRITERIA
+Work Hygienic Practices:PERSONNEL MUST WASH THOROUGHLY AFTER HANDLING
+    THE METAL, BEFORE DRINKING, EATING, OR SMOKING.
+Supplemental Safety and Health
+AVOID EXPOSURE TO METAL DUST AND FUMES.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Melt/Freeze Pt:=326.7C, 620.F
+Vapor Pres:NOT VOLATILE
+Vapor Density:NOT VOLATI
+Solubility in Water:NIL
+Appearance and Odor:GRAY COLORED METAL WITH NO ODOR.
+Percent Volatiles by Volume:NIL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS & BASE.
+Stability Condition to Avoid:NOT APPLICABLE.
+Hazardous Decomposition Products:LEAD AND TIN FUMES AT HIGH
+    TEMPERATURES (ABOVE 800F).
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:RETURN TO SUPPLIER FOR REPROCESSING. OR DISPOSE
+    OF IN ACCORDANCE WITH LOCAL, STATE AND FEDERAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:NOT REGULATED.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:LEAD IS ON THE LIST OF HAZARDOUS SUBSTANCES
+    AND IS REPORTABLE.
+Federal Regulatory Information:LEAD IS ALSO REQULATED BY OSHA.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

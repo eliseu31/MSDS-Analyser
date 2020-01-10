@@ -1,0 +1,150 @@
+=====================  Product Identification  =====================
+
+Product ID:LIQUID CAUSTIC SODA,50%
+MSDS Date:01/24/1990
+FSC:6810
+NIIN:01-051-3050
+MSDS Number: BLMVP
+=== Responsible Party ===
+Company Name:PPG INDUSTRIES INC
+Address:1 PPG PL
+City:PITTSBURGH
+State:PA
+ZIP:15272
+Country:US
+Emergency Phone Num:304-843-1300
+Preparer's Name:R. KENNETH LEE
+CAGE:47695
+=== Contractor Identification ===
+Company Name:PPG INDUSTRIES INC
+Address:ONE PPG PLACE
+Box:City:PITTSBURGH
+State:PA
+ZIP:15272
+Country:US
+Phone:1-800-245-2974 (CAL HYPO)
+CAGE:47695
+Company Name:SAINT AUGUSTINE SUPPLY
+Address:2161 DOBBS ROAD
+Box:60309
+City:ST AUGUSTINE
+State:FL
+ZIP:32086
+Country:US
+Phone:904-824-6060
+CAGE:0SMH5
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM HYDROXIDE  (SARA III)
+CAS:1310-73-2
+RTECS #:WB4900000
+Fraction by Wt: 50%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:2 MG/M3
+ACGIH TLV:C 2 MG/M3; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE-CORROSIVE.CAUSES SEVERE BURNS TO
+    SKIN AND EYES.MAY CAUSE LOSS OF VISION &
+    DERMATITIS.INHALATION:MISTS CAN DAMAGE THE RESPIRATORY TRACT &
+    LUNGS,SEVERE PNEUMONITIS.INGESTION:VERY SERIOUS DAMAGE TO  THE
+    MOUTH,ESOPHAGUS & STOMACH.CHRONIC-UNKNOWN.
+Effects of Overexposure:CORROSIVE. CAUSES SEVERE BURNS TO SKIN AND
+    EYES. MAY CAUSE LOSS OF VISION & DERMATITIS. INHALATION OF MISTS
+    CAN DAMAGE THE RESPIRATORY TRACT & LUNGS, SEVERE PNEUMONITIS.
+    INGESTION CAN VERY SERIOUS DAM AGE THE MOUTH, ESOPHAGUS & STOMACH.
+Medical Cond Aggravated by Exposure:NONE KNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:GET MEDICAL ASSISTANCE FOR ALL CASES OF OVEREXPOSURE.SKIN:
+    FLUSH WITH PLENTY OF WATER UNTIL SKIN DOES NOT FEEL
+    SLIPPERY.EYES:FLUSH WITH WATER FOR AT LEAST 15 MINUTES.HOLD EYELIDS
+    OPEN. INHALATION:REMO VE TO FRESH AIR.GIVE CPR/OXYGEN IF
+    NEEDED.INGESTION:DO NOT INDUCE VOMITING.IF CONSCIOUS,DRINK LARGE
+    AMOUNT OF WATER OR ACIDIC BEVERAGE(TOMATO/ORANGE JUICE.NOTE TO
+    PHYSICIAN:TREAT SYMTOMATICALLY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL.
+Fire Fighting Procedures:WEAR FIRE FIGHTING PROTECTIVE EQUIPMENT AND A
+    FULL FACED SELF CONTAINED BREATHING APPARATUS. EVACUATE AREA. COOL
+    FIRE EXPOSED CONTAINERS WITH WATER SPRAY.
+Unusual Fire/Explosion Hazard:CONTACT WITH SOME METALS, PARTICULARLY
+    MAGNESIUM, ALUMINUM AND ZINC (GALVANIZED), CAN GENERATE HYDROGEN
+    RAPIDLY, WHICH IS EXPLOSIVE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE EQUIPMENTS.DIKE AREA TO
+    CONTAIN SPILL.RECLAIM IF POSSIBLE OR DILUTE WITH WATER & NEUTRALIZE
+    WITH DILUTE ACID.TRANSFER NEUTRALIZED MATERIAL TO CONTAINERS BY
+    VACUUM TRUCK. REMOVE FOR DIS POSAL.FLUSH AREA WITH LARGE AMOUNT OF
+    WATER.
+Neutralizing Agent:WEAK ACID
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORAGE-STORE AWAY FROM INCOMPATIBLE
+    MATERIALS.KEEP CONTAINER TIGHTLY CLOSED.
+Other Precautions:DO NOT GET IN EYES, ON SKIN OR ON CLOTHING. HAZARDOUS
+    CARBON MONOXIDE GAS CAN FORM UPON CONTACT WITH FOOD AND BEVERAGE
+    PRODUCT IN ENCLOSED VESSELS AND CAN CAUSE DEATH. LIQUID CAUSTIC
+    SODA IS SHIPPED H OT. AVOID SKIN CONTACT. MAY CAUSE BURNS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NORMALLY NOT REQUIRED. NIOSH/MSHA APPROVED
+    RESPIRATOR SHOULD BE WORN IN THE ABSENCE OF ADEQUATE VENTILATION.
+Ventilation:ADEQUATE
+Protective Gloves:CHEMICAL RESISTANT GLOVES/RUBBER
+Eye Protection:SAFETY GOGGLES WITH SIDE SHIELDS
+Other Protective Equipment:CHEMICAL BOOTS, APRON, EYE WASH AND SAFETY
+    EQUIPMENT
+Work Hygienic Practices:DO NOT TAKE INTERNALLY. WASH THOROUGHLY AFTER
+    HANDLING. KEEP OUT OF REACH OF CHILDREN.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:B1
+Boiling Pt:=142.2C, 288.F
+Melt/Freeze Pt:=-17.2C, 1.F
+Vapor Pres:1
+Spec Gravity:1.530
+pH:> 13
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR TO SLIGHTLY TURBID LIQUID. NO ODOR.
+Percent Volatiles by Volume:50
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ORGANIC MATERIALS AND CONCENTRATED ACIDS, MAGNESIUM, ALUMINUM,
+    ZINC(GALVANIZED),TIN,CHROMIUM,BRASS,BRONZE & FOOD SUGAR.
+Stability Condition to Avoid:HIGH HEAT, OPEN FLAMES
+Hazardous Decomposition Products:REACTION WITH VARIOUS FOOD SUGAR MAY
+    FORM CARBON MONOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:WASTE DISPOSAL TO BE PERFORMED IN COMPLIANCE
+    WITH ALL CURRENT LOCAL, STATE AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

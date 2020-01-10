@@ -1,0 +1,148 @@
+=====================  Product Identification  =====================
+
+Product ID:HOMSA05/L27865A; SMOKE DETECTOR TESTER
+MSDS Date:12/12/1989
+FSC:6350
+NIIN:01-169-2535
+MSDS Number: BJDKX
+=== Responsible Party ===
+Company Name:AEROSOL SERVICES CO INC
+Address:425 S NINTH AVE
+City:LA PUENTE (FORMALLY IN CITY OF INDUSTRY)
+State:CA
+ZIP:91746-3314
+Country:US
+Info Phone Num:818-968-8531/FAX 818-330-9464
+Emergency Phone Num:818-968-8531
+CAGE:7K472
+=== Contractor Identification ===
+Company Name:AEROSOL SERVICES CO INC
+Address:425 S NINTH AVE
+Box:2428
+City:CITY OF INDUSTRY(LA PUENTE)
+State:CA
+ZIP:91746
+Country:US
+Phone:(626) 968-8531
+CAGE:7K472
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PHTHALATE ESTERS, MIXTURE
+Fraction by Wt: 2% %
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:NON-HAZARDOUS INGREDIENTS; STATED BY MANUFACTURERS
+Fraction by Wt: 98%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:DI(C7-9 ALKYL) PHTHALATE CAS NO. 68515-41-3 (PERCENTAGE OF
+    INGREDIENTS 3, 4 AND 5 IS 2).
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:NOT ESTABLISHED.
+ACGIH TLV:NOT ESTABLISHED.
+
+Ingred Name:DI(C7-ALKLY) PHTHALATE CAS NO. 68515-44-6
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:NOT ESTABLISHED.
+ACGIH TLV:NOT ESTABLISHED.
+
+Ingred Name:DI(C9-ALKLY) PHTHALATE CAS NO. 68515-45-7
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:NOT ESTABLISHED.
+ACGIH TLV:NOT ESTABLISHED.
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:THERE ARE NO ACUTE OR CHRONIC HEALTH
+    HAZARDS WHEN USED AS DIRECTED.
+Explanation of Carcinogenicity:NONE OF THE COMPOUNDS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP, OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:OVEREXPOSURE BY INHALATION MY CAUSE DIZZINESS,
+    NAUSEA, AND RESPIRATORY TRACT IRRITATION.
+Medical Cond Aggravated by Exposure:NONE KNOWN
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. RESUSCITATE IF NOT
+    BREATHING. GET MEDICAL ATTENTION. EYES: IMMEDIATELY FLUSH WITH
+    PLENTY OF WATER FOR 15 MINUTES HOLDING EYELIDS OPEN. GET MEDICAL
+    ATTENTION. SKIN: REM OVE CONTAMINATED CLOTHING. WASH WITH SOAP AND
+    WATER. IF IRRITATION PERSISTS, GET MEDICAL ADVICE.	INGESTION: NOT
+    CONSIDERED A POTENTIAL ROUTE OF EXPOSURE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TOC
+Flash Point:FLAMMABLE AEROSO
+Lower Limits:1.8
+Upper Limits:9.5
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, OR DRY CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:CONTAINERS MAY RUPTURE AND RELEASE
+    FLAMMABLE GAS IF EXPOSED TO HEAT ABOVE 130 F.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:LEAKING CONTAINERS SHOULD BE PLACED OUTDOORS
+    AWAY FROM SOURCE OF IGNITION. ALLOW PRESSURE TO DISSIPATE.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL VENTILATED
+    AREA. KEEP CONTAINERS TIGHTLY CLOSED WHEN NOT IN USE. PROTECT
+    CONTAINERS FROM PHYSICAL DAMAGE.
+Other Precautions:AVOID EXCESSIVE INHALATION. DO NOT PUNCTURE OR
+    INCINERATE CONTAINERS, EVEN WHEN EMPTY. DO NOT STORE NEAR HEAT
+    SOURCES SUCH AS RADIATORS, OPEN FLAMES, STOVES, ETC.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED WHEN USED AS DIRECTED.
+Ventilation:NORMAL VENTILATION SUFFICIENT.
+Protective Gloves:NONE REQUIRED.
+Eye Protection:NONE REQUIRED.
+Other Protective Equipment:NONE REQUIRED.
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES.
+Supplemental Safety and Health
+AVOID PROLONGED OR REPEATED EXPOSURE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V3
+Boiling Pt:B.P. Text:-44F,-42C
+Vapor Pres:70
+Vapor Density:1.764
+Spec Gravity:.537
+Evaporation Rate & Reference:>1 (BUTYL ACETATE=1)
+Solubility in Water:.008% WT. @ 70 F
+Appearance and Odor:FINE MIST AEROSOL SPRAY, ESSENTIALLY ODORLESS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS SUCH AS OXYGEN, CHLORINE, AND FLUORINE.
+Stability Condition to Avoid:HIGH TEMPERATURES, SPARKS, AND OPEN FLAMES
+Hazardous Decomposition Products:CARBON MONOXIDE AND DEFICIENCY OF
+    OXYGEN.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL SHOULD BE MADE IN ACCORDANCE WITH ALL
+    APPLICABLE FEDERAL, STATE AND LOCAL LAWS AND REGULATIONS. EMPTY
+    CONTAINERS MAY BE DISPOSED OF IN REGULAR REFUSE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

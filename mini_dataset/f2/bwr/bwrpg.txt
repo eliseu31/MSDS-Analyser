@@ -1,0 +1,156 @@
+=====================  Product Identification  =====================
+
+Product ID:PELLETHANE 2103-70A POLYURETHANE ELASTOMER, 02723
+MSDS Date:02/03/1992
+FSC:6850
+NIIN:00N057040
+MSDS Number: BWRPG
+=== Responsible Party ===
+Company Name:DOW CHEMICAL CO
+Address:2030 DOW CTR
+City:MIDLAND
+State:MI
+ZIP:48674
+Country:US
+Info Phone Num:517-636-4410
+Emergency Phone Num:517-636-4400
+CAGE:0BG07
+=== Contractor Identification ===
+Company Name:DOW CHEMICAL CO THE
+Address:1801 DOW CTR
+City:MIDLAND
+State:MI
+ZIP:48674-1801
+Country:US
+Phone:517-636-4400 / 800-258-2436
+CAGE:0BG07
+Company Name:DOW CHEMICAL U.S.A.
+City:MIDLAND
+State:MI
+ZIP:48674
+Country:US
+Phone:517-636-4400
+CAGE:71983
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POLYURETHANE FROM 4,4'-METHYLENEDIPHENYL; (POLYURETHANE
+    FROM 4,4'-METHYLENEDIPHENYL DIISOCYANATE, 1,4-BUTANEDIOL,(ING 2)
+CAS:9018-04-6
+Fraction by Wt: >98%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:ING 1: AND POLYTETRAMETHYLENE GLYCOL).
+RTECS #:9999999ZZ
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:ADDITIVES
+Fraction by Wt: <2%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYE: SOLID/DUST MAY CAUSE
+    IRRIT/CORNEAL INJ DUE TO MECH ACTION. VAPS MAY IRRIT EYES. SKIN:
+    ESSENT NONIRRIT TO SKIN. MECH INJ ONLY. MOLTEN MATL MAY BURN SKIN.
+    SKIN ABSORP: SKIN ABSORP IS UNLIKELY DUE T O PHYS PROPERTIES.
+    INGEST:SINGLE DOSE ORAL TOX IS BELIEVED TO BE VERY LOW.NO HAZS
+    ANTIC FROM SWALLOWING(EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ: SML AMTS INCIDENTAL TO NORM HNDLG
+    OPERS. INHAL: DUST MAY CAUSE IRRIT TO UPPER RESP TRACT. AT ROOM
+    TEMP, EXPOS TO VAPS ARE UNLIKELY DUE TO PHYS PROPERTIES; NORM
+    PROCESSING TEMP MAY GEN VAPS W HICH MAY CAUSE IRRIT IF VENT IS
+    INADEQ.SYS & OTHER EFTS: NO SPECIFIC DATA; HOWEVER, RPTD EXPOS TO
+    UNHEATED MATL(SUPDAT)
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: IRRIGATE IMMEDIATELY WITH WATER FOR AT LEAST 15
+    MINUTES. MECHANICAL EFFECTS ONLY. SKIN: WASH OFF IN FLOWING WATER
+    OR SHOWER. INGESTION: NO ADVERSE EFFECTS ANTICIPATED BY THIS ROUTE
+    OF EXPOSURE I NCIDENTAL TO PROPER INDUSTRIAL HANDLING. INHALATION:
+    REMOVE TO FRESH AIR IF EFFECTS OCCUR. CONSULT PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER FOG, FOAM, CARBON DIOXIDE, DRY CHEMICAL.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:TOXIC VAPORS CAN BE EMITTED UNDER FIRE
+    CONDITIONS. QUANTITIES OF DUST IN AIR MAY BE COMBUSTIBLE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP AND REUSE OR DISPOSE. SPILLED PELLETS
+    MAY PRESENT SLIPPING HAZARD.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN SEALED CNTNRS. PROT FROM
+    ATMOSPHERIC MOISTURE. TYPICALLY PROCESSING TEMPS RANGE FROM
+    320F-470F(160C-245C). MOLTEN MATL CAN PRDCE THERM BURNS.
+Other Precautions:AVOID SKIN CONT.FUMES RELS DURING NORM PROCESSING MAY
+    CAUSE IRRIT. PROVIDE ADEQ VENT.HEATING RESIN ABOVE NORM PROCESSING
+    TEMPS MAY CAUSE HAZ DECOMP PRODS.DO NOT OVERHEAT.HNDLG &
+    FABRICATION OF PLASTIC  RESINS CAN RSLT IN GEN OF DUST.(SUPDAT)
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:FOR MOST CONDITIONS, NO RESPIRATORY PROTECTION
+    SHOULD BE NEEDED; HOWEVER, IF HANDLING AT ELEV TEMPS WITHOUT
+    SUFFICIENT VENTILATION, USE A NIOSH/MSHA APPROVED AIR-PURIFYING
+    RESP. IN DUSTY ATMOSPHERES,  USE A NIOSH/MSHA APPRVD DUST
+    RESPIRATOR.
+Ventilation:GOOD GENERAL VENTILATION SHOULD BE SUFFICIENT FOR MOST
+    CONDITIONS. LOCAL EXHAUST VENTILATION MAY BE NEC FOR SOME OPERS.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGG .
+Other Protective Equipment:CLEAN BODY-COVERING CLOTHING.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+EFTS OF OVEREXP: ARE NOT ANTIC TO CAUSE ANY SIGNIFICANT ADVERSE
+    EFFECTS. PROCESSING FUMES MAY CAUSE EYE AND RESPIRATORY IRRITATION
+    UPON REPEATED EXPOSURE. OTHER PRECAUTIONS: DUST RESULTS FROM
+    SAWING,  FILLING, AND SANDING OF PLASTIC PARTS IN POST-MOLDING
+    OPERS. QTYS OF DUST IN AIR MAY BE COMBUST & MAY CAUSE RESP IRRIT.
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:1.1-1.2
+Solubility in Water:INSOLUBLE
+Appearance and Odor:CLEAR COLORLESS TO PALE YELLOW OR PIGMENTED
+    PELLETS. ODORLESS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE KNOWN.
+Stability Condition to Avoid:EXCESSIVE HEAT. TEMPERATURES ABOVE 500F
+    (260C) MAY DEGRADE RESIN AND RELEASE DECOMPOSITION PRODUCTS.
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE,
+    ALIPHATIC CMPDS, & TRACES OF HYDROGEN CYANIDE AT HIGHLY ELEV
+    TEMPS,SUCH AS FIRE CNDTNS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE OR DISPOSE OF IN AN APPROVED LANDFILL
+    IN ACCORDANCE WITH ALL APPLICABLE FEDERAL, STATE AND LOCAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

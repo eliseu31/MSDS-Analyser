@@ -1,0 +1,140 @@
+=====================  Product Identification  =====================
+
+Product ID:ETERNACELL 9391573-1
+MSDS Date:09/05/1990
+FSC:6135
+NIIN:01-091-6021
+MSDS Number: BJDNW
+=== Responsible Party ===
+Company Name:POWER CONVERSION INC
+Address:495 BOULEVARD
+City:ELMWOOD PARK
+State:NJ
+ZIP:07407-2029
+Country:US
+Info Phone Num:201-796-4800
+Emergency Phone Num:201-796-1606
+CAGE:5G978
+=== Contractor Identification ===
+Company Name:HAWKER ETERNACELL, INC.
+Address:495 BOULEVARD
+Box:City:ELMWOOD PARK
+State:NJ
+ZIP:07407-2029
+Country:US
+Phone:201-796-4800 /FAX: 201-796-6243
+CAGE:5G978
+Company Name:HI-SHEAR TECHNOLOGY CORP
+Address:24225 GARNIER ST
+Box:City:TORRANCE
+State:CA
+ZIP:90505
+Country:US
+Phone:213-784-2100
+CAGE:7X664
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LITHIUM
+CAS:7439-93-2
+RTECS #:OJ5540000
+
+Ingred Name:SULFUR DIOXIDE  (SARA III)
+CAS:7446-09-5
+RTECS #:WS4550000
+OSHA PEL:5 PPM/5 STEL
+ACGIH TLV:2 PPM/5 STEL; 9293
+
+Ingred Name:ACETONITRILE  (SARA III)
+CAS:75-05-8
+RTECS #:AL7700000
+OSHA PEL:40PPM/60 STEL
+ACGIH TLV:40PPM/60STEL; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SULFUR DIOXIDE-5 PPM TWA 8
+    HOUR:ACETONITRILE-40 PPM TWA 8 HOUR. SEVERE IRRITATION OF EYES AND
+    RESPIRATORY TRACT. PULMONARY EDEMA POSSIBLE. EXTENDED EXPOSURE TO
+    HIGH CONCENTRATIONS IN CONFINED SPACE CA N LEAD TO ASPHYXIATION.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EMPLOYEE BREATHING VAPORS FROM VENTING CELL SHOULDBE REMOVED
+    TO FRESH AIR. SKIN, EYE OR MUCOUS MEMBRANE CONTACT W/ELECTROLYTE
+    SHOULD BE FOLLOWED BY FLUSHING W/LARGE QUANTITIES OF WATER. IN CASE
+    OF EYE  CONTACT, CONSULT PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:SAND, DRY CHEMICAL, FOAM, METAL-X
+Fire Fighting Procedures:REMOVE OTHER BATTERIES & POTNTL COMBUST MATL
+    FROM AREA OF BURNING BATTERY AND CONTAIN AND EXTINGUISH WITH AGENTS
+    LISTED ABOVE.
+Unusual Fire/Explosion Hazard:HEATING CELL >160F OR SHORT CIRCUITING
+    CELL CAN LEAD TO VENTING, RELEASING SULFUR DIOXIDE, ACETONITRILE.
+    HEATING >354F LEAD MELTING OF LITHIUM, SEVERE FIRE&EXP.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:IF CELL VENTS OR IS PUNCTURED,VENTILATE AREA
+    WELL. WASH AWAY ANY LIQUID RESIDUE WITH WATER. WEAR EYE AND HAND
+    PROTECTION. RESPIRATOR MAY BE NECESSARY IN CONFINED SPACES.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT PUNCTURE, INCINERATE, SHORT
+    CIRCUIT OR EXPOSE TO TEMP >160F. STORE IN ORIGINAL CONTAINERS.
+    NEVER STORE IN LOOSE BINS.
+Other Precautions:DO NOT USE CELLS IN HERMETICALLY SEALED CONTAINERS.
+    DO NOT EXPOSE CELLS TO CHARGING CURRENTS. NEVER CUT INTO CELL.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN .
+Ventilation:CONSULT LOCAL SAFETY/HEALTH AUTHORITIES IF ADDITIONAL
+    GUIDANCE IS NECESSARY .
+Protective Gloves:RUBBER GLOVES 
+Eye Protection:EYE PROTEC WHEN HANDLING BATTERIES.
+Other Protective Equipment:RUBBER APRON 
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:Z6
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+DO NOT EXPOSE VENTED CELLS TO WATER.
+Stability Condition to Avoid:AVOID EXPOSURE TO TEMPERATURES ABOVE 160F.
+Hazardous Decomposition Products:ACETONITRILE MAY DECOMPOSE ABOVE 245F,
+    RELEASING HIGHLY TOXIC CYANIDES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISCHARGED CELLS MAY CONTAIN SIGNIFICANT AMOUNTS
+    OF ENERGY AND SHOULD BE HANDLED W/CARE. ELECTRICALLY ISOLATE AND
+    PACK FOR DISPOSAL. DO NOT COMPACT. DISPOSE IN SAN. LANDFILLS I/A/W
+    ALL APPLICABLE FED,  STATE & LOCAL REGS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

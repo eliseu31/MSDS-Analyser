@@ -1,0 +1,202 @@
+=====================  Product Identification  =====================
+
+Product ID:MIL-L-111950 34087 OLIVE DRAB
+MSDS Date:12/01/1988
+FSC:8010
+NIIN:00-936-8367
+MSDS Number: BKYPX
+=== Responsible Party ===
+Company Name:KOPPERS COMPANY INC
+Address:436 SEVENTH AVENUE
+City:PITTSBURG
+State:PA
+ZIP:15219
+Info Phone Num:(412) 227-2000
+Emergency Phone Num:(412) 227-2000
+CAGE:EO454
+=== Contractor Identification ===
+Company Name:KOPPERS CO INC
+Address:3000 KOPPERS BLDG
+Box:City:PITTSBURGH
+State:PA
+ZIP:15219-1818
+Country:US
+CAGE:80592
+Company Name:KOPPERS COMPANY
+CAGE:EO454
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:VOL ORGANIC CMPD: 700 GRAMS/LITER
+RTECS #:9999999VO
+
+Ingred Name:TALC (CONTAINING NO ASBESTOS)
+CAS:14807-96-6
+RTECS #:WW2710000
+Fraction by Wt: 5-10%
+OSHA PEL:2 MG/M3 RDUST
+ACGIH TLV:2 MG/M3 RDUST; 9192
+
+Ingred Name:N-BUTYL ACETATE  (SARA III)
+CAS:123-86-4
+RTECS #:AF7350000
+Fraction by Wt: 30-35%
+Other REC Limits:150 PPM
+OSHA PEL:150 PPM/200 STEL
+ACGIH TLV:150 PPM/200STEL;9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: 1-5%
+Other REC Limits:400 PPM
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+Ingred Name:N-BUTYL ALCOHOL  (SARA III)
+CAS:71-36-3
+RTECS #:EO1400000
+Fraction by Wt: 1-5%
+Other REC Limits:300 MG/CUM
+OSHA PEL:100 PPM
+ACGIH TLV:S, C 50 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: 5-10%
+Other REC Limits:590 MG/CUM
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:IRON OXIDE
+CAS:1309-37-1
+RTECS #:NO7400000
+Fraction by Wt: 5-10%
+OSHA PEL:10 MG/M3 (FE)
+ACGIH TLV:5 MG/M3(FE),B2; 9293
+
+Ingred Name:SILICA, AMORPHOUS, DIATOMACEOUS EARTH, CONTAINING LESS THAN
+    1% CRYSTALLINE SILICA
+CAS:61790-53-2
+RTECS #:HL8600000
+Fraction by Wt: 1-5%
+Other REC Limits:20 MCCPF (MSHA)
+OSHA PEL:20 MPPCF
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:VM&P NAPHTHA (LIGROINE)
+CAS:8032-32-4
+RTECS #:OI6180000
+Fraction by Wt: 1-5%
+Other REC Limits:STEL 400 PPM
+OSHA PEL:300 PPM/400 STEL
+ACGIH TLV:300 PPM; 9192
+
+Ingred Name:ISOBUTYL ALCOHOL  (SARA III)
+CAS:78-83-1
+RTECS #:NP9625000
+Fraction by Wt: 1-5%
+Other REC Limits:50 PPM
+OSHA PEL:100 PPM
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION. SKIN: DEFATTING,
+    REDNESS, CRACKING, BLISTERING, IRRITATION, & SYSTEMIC EFFECTS.
+    INHALATION: RESPIRATORY TRACT IRRITATION, CNS DEPRESSION, HEADACHE,
+    WEAKNESS, DIZZINESS, INCOORDINATIO N, COLLAPSE, & LUNG CHANGES.
+    INGESTION:GASTROINTESTINAL DISTURBANCES SUCH AS NAUSEA, VOMITING, &
+    DIARRHEA.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INGESTION: ASPIRATION OF THIS PRODUCT INTO THE
+    LUNG MAY CAUSE CHEMICAL PNEUMONITIS WHICH CAN BE FATAL/HARMFUL.
+    SKIN: REDNESS, ITCHING, BURNING.
+Medical Cond Aggravated by Exposure:DISEASE IN OR A HISTORY OF AILMENTS
+    INVOLVING THE SKIN, EYE, RESPIRATORY TRACT, LIVER, KIDNEY, CENTRAL
+    NERVOUS SYSTEM ARE AT A GREATER THAN NORMAL RISK OF DEVELOPING
+    ADVERSE EFFECTS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/LARGE AMOUNTS OF WATER FOR 15 MINS. SKIN: WASH
+    THOROUGHLY W/SOAP & WATER. INHALATION: REMOVE TO FRESH AIR.
+    INGESTION: DON'T INDUCE VOMITING. GIVE 1 GLASS OF MILK OR 1 TO 2 OZ
+    (30 TO 60G)  OF ACTIVIATED CHARCOAL IN WATER TO VICTIM AS
+    TOLERATED. DON'T ATTEMPT TO GIVE ANYTHING BY MOUTH TO AN
+    UNCONSCIOUS PERSON. NOTE TO PHYS: THERE IS NO SPECIFIC ANTIDOTES
+    FOR EFFECTS FROM OVEREXPOSURE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:23F
+Extinguishing Media:USE CO2, DRY CHEMICAL, WATER SPRAY, ALCOHOL OR
+    UNIVERSAL TYPE FOAMS.
+Fire Fighting Procedures:WEAR SCBA & FULL PROTECTIVE CLOTHING. USE
+    WATER TO COOL FIRE-EXPOSED CONTAINER, STRUCTURE/PROTECT PERSONNEL.
+    CLOSED CONTAINERS MAY EXPLODE WHEN EXPOSED TO HEAT.
+Unusual Fire/Explosion Hazard:VAPORS FROM FLAMMABLE/EXPLOSIVE MIXTURES
+    IN AIR. VAPORS ARE >AIR, MAY TRAVEL THE (GROUND, PITS, SEWER) TO
+    IGNITION SOURCE-FLASH. FLAMMABLE LIQUID.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:STOP SPILL & LEAD IF NO RISK IS INVOLVED.
+    ELIMINATE ALL SOURVES OF IGNITION. VENTILATE AREA. AVOID CONTACT
+    W/HOT LIQUID & FUMES. USE AN INERT ABSORBENT TO COMPLETE A
+    CLEAN-UP. TAKE UP CAREFULLY TO AVO ID HEAT & SPARKS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTACT W/SKIN, EYES, &
+    BREATHING OF VAPORS, MISTS/FUMES. KEEP IN A CLOSED, LABELED
+    CONTAINER WITHIN A COOL (WELL SHADED), DRY-VENTILATED AREA.
+Other Precautions:PROTECT FROM PHYSICAL DAMAGE. KEEP CONTAINERS CLOSED
+    WHWHEN NOT IN USE. GROUND/BOND DRUMS. DON'T USE PRESSURE TO EMPTY
+    DRUMS. EMPTY CONTAINERS MAY RETAIN PRODUCT RESIDUE INCLUDING
+    FLAMMABLE/EXPLOSIVE  VAPORS. AVOID CONTACT W/HOT LIQUID/FUME.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF VENTILATION DOESN'T MAINTAIN TO KEEP
+    1
+Spec Gravity:9.00-9.30
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:OLIVER DRAB-COLORED VISCOUS LIQUID W/A TYPICAL
+    SOLVENT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING AGENTS
+Stability Condition to Avoid:HEAT, SPARKS, OPEN FLAMES, SOURCES OF
+    IGNITION
+Hazardous Decomposition Products:CO, CO2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:THE REPORTABLE QUANTITY IS 100 LBS. OR MORE.
+    THIS PRODUCT IS A US EPA DEFINED IGNITABLE HAZARDOUS WASTE. DISPOSE
+    OF AS AN IGNITABLE HAZARDOUS WASTE IN ACCORDANCE W/LOCAL, STATE &
+    FEDERAL REGULATIONS.  FLAMMABLE LIQUID UN 1263.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

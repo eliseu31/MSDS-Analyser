@@ -1,0 +1,123 @@
+=====================  Product Identification  =====================
+
+Product ID:02377 HI-IRON CLEANER L-4000
+MSDS Date:03/10/1987
+FSC:7930
+NIIN:00F019227
+MSDS Number: BLPRQ
+=== Responsible Party ===
+Company Name:DUBOIS CHEMICAL/DIV OF CHEMED CORP
+Address:3630 E KEMPER ROAD
+City:SHARONVILLE
+State:OH
+ZIP:45241
+Info Phone Num:(513) 769-4200
+Emergency Phone Num:(513) 769-4200
+Preparer's Name:STEVEN W MIEFERT
+CAGE:FO957
+=== Contractor Identification ===
+Company Name:DIVERSEY CORP
+Address:12025 TECH CENTER DRIVE
+Box:City:LIVONIA
+State:MI
+ZIP:48150-5000
+Country:US
+Phone:313-450-5000
+CAGE:73042
+Company Name:DUBOIS CHEMICAL/DIV OF CHEMED CORP
+Address:3630 E KEMPER ROAD
+City:SHARONVILLE
+State:OH
+ZIP:45241
+Phone:(513) 769-4200
+CAGE:FO957
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POTASSIUM HYDROXIDE  (SARA III)
+CAS:1310-58-3
+RTECS #:TT2100000
+Fraction by Wt: <5%
+Other REC Limits:2 MG/CUM (CEILING)
+OSHA PEL:C, 2 MG/M3
+ACGIH TLV:C 2 MG/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:PHOSPHATES (TYPE NOT SPECIFIED)
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN: DEFATS. EYES: IRRITATION.
+    INHALATION: RESPIRATORY IRRITATION BY MISTS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN: DEFAT. EYES: IRRITATION. INHALATION:
+    RESPIRATORY IRRITATION BY MISTS.
+Medical Cond Aggravated by Exposure:SENSITIVE SKIN & EYES
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH THOROUGHLY W/FRESH WATER. SKIN: FLUSH W/FRESH
+    WATER, WASH W/SOAP & WATER. INGESTION: GIVE MILK, WATER OR EGG
+    WHITES. INDUCE VOMITING. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:CO2, FOAM, DRY CHEMICAL
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH SMALL AMOUNTS TO DRAIN. COLLECT & RETURN
+    LARGE AMOUNTS TO CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T PRESSURE CONTAINER TO EMPTY.
+    KEEP FROM FREEZING. KEEP CONTAINER CLOSED. IF FROZEN, THAW & MIX TO
+    MAKE USABLE. READ CONTAINER LABEL.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:MECHANICAL : TO PRODUCE NORMAL AIR DILUTION
+Protective Gloves:ALKALI RESISTANT
+Eye Protection:FACE SHIELD
+Other Protective Equipment:NORMAL TO WETNESS OF CLEANING OPERATION
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:215F
+Vapor Pres:17.5
+Spec Gravity:1.4
+Evaporation Rate & Reference:(N-BU AC = 1): >1
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR LIQUID, W/MILD ODOR
+Percent Volatiles by Volume:50%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CONCENTRATED MINERAL ACIDS
+Stability Condition to Avoid:FREEZING
+Hazardous Decomposition Products:CO
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:USE UNTIL <1 INCH REMAINS IN CONTAINER, EMPTY
+    CONTAINER. TRIPLE RINSE W/WATER & ADD TO OPERATION. REMOVE OR
+    DEFACE LABEL BEFORE SELLING CONTAINER OR DISPOSAL. CONTAINS
+    PHOSPHATES.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

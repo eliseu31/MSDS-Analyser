@@ -1,0 +1,146 @@
+=====================  Product Identification  =====================
+
+Product ID:NITRIC ACID; 0.1N TO 1.00N
+MSDS Date:09/05/1986
+FSC:6810
+NIIN:00-270-9978
+MSDS Number: BHWSN
+=== Responsible Party ===
+Company Name:COLUMBUS CHEMICAL INDUSTRIES INC
+Address:N 4335 TEMKIN RD
+City:COLUMBUS
+State:WI
+ZIP:53925
+Country:US
+Info Phone Num:414-623-2140
+Emergency Phone Num:414-623-2140
+CAGE:5Y144
+=== Contractor Identification ===
+Company Name:COLUMBUS CHEMICAL INDUSTRIES INC
+Address:N 4335 TEMKIN RD
+Box:8
+City:COLUMBUS
+State:WI
+ZIP:53925-0008
+Country:US
+Phone:920-623-2140
+CAGE:5Y144
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NITRIC ACID  (SARA III)
+CAS:7697-37-2
+RTECS #:QU5775000
+Fraction by Wt: 0-7%
+OSHA PEL:2 PPM/4 STEL
+ACGIH TLV:2 PPM/4 STEL; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: BALANCE
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: CORROSIVE! INHALATION CAN CAUSE
+    IRRITATION OF THE RESPIRATORY TRACT. SWALLOWING CAN CAUSE BURNS TO
+    MOUTH & G.I. TRACT. EYE CONTACT CAN CAUSE SEVERE BURNS & DAMAGE.
+    SKIN CONTACT CAN CAUSE SEVERE  BURNS AND DEEP ULCERS & DISCOLOR
+    SKIN
+Explanation of Carcinogenicity:DATA PER MSDS
+Effects of Overexposure:SEE HEALTH HAZARDS DATA
+Medical Cond Aggravated by Exposure:PERSONS WITH A HISTORY OF AILMENTS
+    OR WITH A PRE-EXISTING DISEASE INVOLVING THE EYES, SKIN, OR
+    RESPIRATORY TRACT MAY BE AT INCREASED RISK FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION:REMOVE TO FRESH AIR. RESUSCITATE IF NOT BREATHING.
+    GET MEDICAL ATTENTION. EYES:IMMEDIATELY FLUSH WITH PLENTY OF WATER
+    FOR 15 MINUTES HOLDING EYELIDS OPEN. GET IMMEDIATE MEDICAL
+    ATTENTION. S KIN:REMOVE CONTAMINATED CLOTHING. WASH WITH SOAP AND
+    WATER. GET IMMEDIATE MEDICAL ATTENTION. INGESTION:DO NOT INDUCE
+    VOMITING. GIVE NOTHING BY MOUTH IF UNCONSCIOUS. GET IMMEDIATE
+    MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE ANY MEDIA FOR SURROUNDING FIRES
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.(OXIDES OF
+    NITROGEN.)
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SMALL SPILL: FLUSH WITH WATER AND NEUTRALIZE
+    WITH ALKALINE MATERIAL. SEWER NEUTRALIZED MATERIAL WITH EXCESS
+    WATER. LARGE SPILL: EVACUATE AND VENTILATE AREA. IF POSSIBLE, STOP
+    LEAK. DIKE TO RETAIN RUN  OFF. NEUTRALIZE & PICK UP WITH ABSORBENT
+    MATERIAL.
+Neutralizing Agent:SODA ASH OR LIME OR OTHER SUITABLE ALKALINE
+    MATERIAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL VENTILATED
+    AREA. KEEP CONTAINERS TIGHTLY CLOSED WHEN NOT IN USE. PROTECT
+    CONTAINERS FROM PHYSICAL DAMAGE & DIRECT SUNLIGHT.
+Other Precautions:DO NOT TAKE INTERNALLY. DO NOT BREATHE MIST. AVOID
+    PROLONGED OR REPEATED BREATHING OF VAPOR. AVOID CONTACT WITH EYES.
+    USE WITH ADEQUATE VENTILATION. WASH THOROUGHLY AFTER HANDLING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF VENTILATION DOES NOT MAINTAIN INHALATION
+    EXPOSURES BELOW PEL(TLV), USE NIOSH/MSHA APPROVED FULL FACEPIECE
+    CHEMICAL CARTRIDGE RESPIRATOR OR A SUPPLIED AIR FULL FACEPIECE
+    RESPIRATOR OR AIRLINED HOOD.
+Ventilation:LOCAL EXHAUST IS RECOMMENDED TO KEEP EMPLOYEE EXPOSURES
+    BELOW THE TLV OR NORMAL ROOM VENTILATION.
+Protective Gloves:NEOPRENE OR RUBBER GLOVES
+Eye Protection:CHEMICAL SAFETY GOGGLES WITH FACE SHIELD
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER.
+    IMPERVIOUS BOOTS, APRON, OR COVERALLS AS REQUIRED.
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES. DO NOT WEAR CONTAMINATED CLOTHING OR
+    FOOTWEAR.
+Supplemental Safety and Health
+AVOID PROLONGED OR REPEATED EXPOSURE. DO NOT GET ON SKIN OR IN EYES. DO
+    NOT BREATHE VAPORS OR MISTS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C1
+Spec Gravity:1.07
+Solubility in Water:COMPLETE
+Appearance and Odor:COLORLESS LIQUID
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG BASES AGENTS
+Stability Condition to Avoid:HIGH TEMPERATURES;LIGHT
+Hazardous Decomposition Products:WHEN HEATED TO DECOMPOSITON, EMITS
+    TOXIC OXIDES OF NITROGEN
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL SHOULD BE MADE IN ACCORDANCE WITH ALL
+    APPLICABLE FEDERAL, STATE AND LOCAL LAWS AND REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

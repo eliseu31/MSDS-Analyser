@@ -1,0 +1,147 @@
+=====================  Product Identification  =====================
+
+Product ID:VITON CURATIVE NO.30
+MSDS Date:01/04/1989
+FSC:6850
+NIIN:00K001462
+MSDS Number: BJDHQ
+=== Responsible Party ===
+Company Name:DU PONT E I DE NEMOURS AND CO INC
+Address:1007 MARKET STREET
+Box:1635
+City:WILMINGTON
+State:DE
+ZIP:19899
+Country:US
+Info Phone Num:800-441-7515/9450 OR 302-999-5072
+Emergency Phone Num:800-441-7515/3637
+Preparer's Name:W.H.MARTON
+CAGE:18873
+=== Contractor Identification ===
+Company Name:E.I. DUPONT DE NEMOURS & CO
+Address:1007 MARKET STREET
+Box:City:WILMINGTON
+State:DE
+ZIP:19898
+Country:US
+Phone:800-441-7515;800-441-9442
+CAGE:18873
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:FLUOROELASTOMER
+CAS:9011-17-0
+Fraction by Wt: 50.0%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:BISPHENOL AF
+CAS:1478-61-1
+Fraction by Wt: BALANCE
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL RAT) IS
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:IRRITATION OF EYES,SKIN AND
+    RESPIRATORY TRACT ;CNS EFFECTS LIKE HEADACHE,DIZZINESS,NAUSEA AND
+    VOMITING.DAMAGE TO LUNGS POSSIBLE.
+Explanation of Carcinogenicity:DATA PER MSDS
+Effects of Overexposure:MAY CAUSE IRRITATION OF
+    EYES,SKIN,RESPIRATORY,MAY  CAUSE HEADACHE,DIZZINESS,NAUSEA,VOMITING
+    OR GI TRACT DISTURBANCES POSSIBLE.LUNG EFFECTS MAY BE DELAYED FOR
+    SEVERAL HOURS.
+Medical Cond Aggravated by Exposure:PERSONS WITH A HISTORY OF AILMENTS
+    OR WITH A PRE-EXISTING DISEASE INVOLVING THE EYES, SKIN, OR
+    RESPIRATORY TRACT MAY BE AT INCREASED RISK FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION:REMOVE TO FRESH AIR. RESUSCITATE IF NOT BREATHING.
+    GET MEDICAL ATTENTION. EYES:IMMEDIATELY FLUSH WITH PLENTY OF WATER
+    FOR 15 MINUTES HOLDING EYELIDS OPEN. GET MEDICAL ATTENTION.
+    SKIN:REMOVE  CONTAMINATED CLOTHING. WASH WITH SOAP AND WATER. IF
+    IRRITATION PERSISTS, GET MEDICAL ADVICE.  INGESTION:DO NOT INDUCE
+    VOMITING. GIVE NOTHING BY MOUTH IF UNCONSCIOUS. GET IMMEDIATE
+    MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:OC
+Flash Point:>399F,>204C
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.HYDROGEN
+    FLUORIDE,CARBONYL FLUORIDE.CARBON MONOXIDE	AND LOW
+    MOL.WT.FLUOROCARBON
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPER PERSONAL PROTECTION;CONTAIN FREE
+    MATERIAL IF POSSIBLE;SWEEP UP  AND RECOVER FOR PROPER DISPOSAL IN
+    AN APPROVED CONTAINER.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL VENTILATED
+    AREA. KEEP CONTAINERS TIGHTLY CLOSED WHEN NOT IN USE. PROTECT
+    CONTAINERS FROM PHYSICAL DAMAGE AND AVOID MOISTURE
+Other Precautions:DO NOT TAKE INTERNALLY. DO NOT BREATHE MIST. AVOID
+    PROLONGED OR REPEATED BREATHING OF VAPOR. AVOID CONTACT WITH EYES.
+    USE WITH ADEQUATE VENTILATION. WASH THOROUGHLY AFTER HANDLING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED IF THERE IS ADEQUATE
+    VENTILATION.USE NIOSH/MSHA APPROVED RESPIRATOR AS REQUIRED IF ABOVE
+    PEL/TLV OR SCBA IN AN ENCLOSED AREA.
+Ventilation:LOCAL/GENERAL TO MAINTAIN PEL/TLV.
+Protective Gloves:NEOPRENE, NITRILE, OR NATURAL RUBBER
+Eye Protection:SAFETY GOGGLES WITH OPTIONAL FACE SHIELD
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER,WORK
+    CLOTHING AND APRON AS REQUIRED.
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES. DO NOT WEAR CONTAMINATED CLOTHING OR
+    FOOTWEAR.
+Supplemental Safety and Health
+AVOID PROLONGED OR REPEATED EXPOSURE. DO NOT GET ON SKIN OR IN EYES. DO
+    NOT BREATHE VAPORS OR MISTS.AVOID CONTAMINATION OF CIGARETTES OR
+    TOBACCO WITH POLYMER DUST.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Decomp Temp:Decomp Text:N/KNOWN
+Spec Gravity:1.64
+Solubility in Water:INSOLUBLE
+Appearance and Odor:PELLETS,CHIPS OR SHEET.SILVER GRAY TO AMBER
+    COLOR.SLIGHT ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+FINELY DIVIDED METALS SUCH AS ALUMINUM
+Stability Condition to Avoid:HIGH TEMPERATURES ABOVE 200 C.
+Hazardous Decomposition Products:HYDROGEN FLUORIDE AND
+    PERFLUOROOLEFINS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT LOCAL AUTHORITIES.DISPOSAL MUST BE MADE
+    IN ACCORDANCE WITH ALL APPLICABLE FEDERAL, STATE AND LOCAL LAWS AND
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

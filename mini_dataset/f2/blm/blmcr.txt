@@ -1,0 +1,156 @@
+=====================  Product Identification  =====================
+
+Product ID:CUSTOM PLASMA STANDARD, PLBI 2-3X
+MSDS Date:09/28/1987
+FSC:6850
+NIIN:00N020519
+MSDS Number: BLMCR
+=== Responsible Party ===
+Company Name:SPEX INDUSTRIES INC
+Address:3880 PARK AVENUE
+City:EDISON
+State:NJ
+ZIP:08820
+Country:US
+Info Phone Num:201-549-7144
+Emergency Phone Num:201-549-7144
+Preparer's Name:LINDA PINDILLI
+CAGE:07977
+=== Contractor Identification ===
+Company Name:SPEX CERTIPREP INC
+Address:203 NORCROSS AVE
+Box:City:METUCHEN
+State:NJ
+ZIP:08840
+Country:US
+Phone:732-549-7144
+CAGE:07977
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SUPP DATA:MAY BE FATAL CAUSES SPASM,INFLAM,EDEMA OF
+    LARYNX/BRONCHI,CHEM PNEUM & PULM EDEMA.SYMPS INCLUDE:BURNING (ING
+    4)
+RTECS #:9999999ZZ
+
+Ingred Name:ING 3: SENSATION, COUGHING, WHEEZING, LARYNGITIS, SHORTNESS
+    OF BREATH, HEADACHE, NAUSEA, AND VOMITING.
+RTECS #:9999999ZZ
+
+Ingred Name:NITRIC ACID  (SARA III)
+CAS:7697-37-2
+RTECS #:QU5775000
+Fraction by Wt: 1-50%
+OSHA PEL:2 PPM/4 STEL
+ACGIH TLV:2 PPM/4 STEL; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:BISMUTH NITRATE, HYDRATE (1:5); (BI(NO*3)*3-5H*2O)
+CAS:10035-06-0
+RTECS #:EB2984430
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:BISMUTH MAY BE HARMFUL IF SWALLOWED,
+    INHAL, INGEST, &/OR CONT W/SKIN/EYES. THERAPEUTIC USE OF BI HAVE
+    SHOWN TOXIC EFFECTS TO INCLUDE GINGIVITIS, DEPOSITS OF BIS IN
+    COLON, ULCERATIVE STOMATIS, MALAISE,  NAUSEA, LOSS OF APPET, WEIGHT
+    LOSS, HDCH, SLEEPINESS, DEPRESS, ASTHENIA, AND JOINT PAINS.
+    PRURITUS, (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ: HERPES ZOSTER, & EXFOLIATIVE DERM CAN
+    RESULT AS SKIN RXNS. KIDNEY POISON CAN LEAD TO DEATH, SOMETIMES
+    INVOLVING ACCUM OF BI IN LIVER.CONC NITRIC ACID MAY BE FATAL IF TOO
+    MUCH IS INHAL/ABSORB ED THRU SKIN. CONC NITRIC ACID VAPOR ORMIST IS
+    AN IRRIT OF EYES, MUC MEMB, & SKIN. EYES:PRDCES SEVERE BURNS(SUPP
+    DATA)
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH WATER FOR AT LEAST 15 MINUTES OCCASIONALLY
+    LIFTING UPPER AND LOWER EYELIDS. SKIN: REMOVE CONTAMINATED
+    CLOTHING, THEN FLUSH WITH WATER FOR AT LEAST 15 MINUTES. WASH
+    CLOTHING THORUOGHLY  BEFORE REUSE. INHAL: MOVE TO FRESH AIR.
+    INGEST: CALL MD IMMEDIATELY . FOR ALL EXPOSURES, IF IRRITATION
+    CONTINUES, GET MEDICAL ATTENTION IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:APPROPRIATE TO SURROUNDING FIRE CONDITIONS.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT. CONC HNO3 REACTS EXPLOS W/COMBUST ORGANIC/
+    READILY OXIDIZABLE MATLS.
+Unusual Fire/Explosion Hazard:CONC HNO3 IS NOT COMBUST. IS STRONG
+    OXIDIZER & HEAT OF RXN W/REDUCING AGENTS OR COMBUST MAY CAUSE
+    IGNIT. CAN REACT W/METALS TO RELEASE FLAMM HYDROGEN GAS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENT AREA. DILUTE SPILL W/WATER & NEUTRALIZE.
+    WIPE UP AND PUT INTO SEALED CNTR FOR PROPER DISPOSAL. WASH SPILL
+    SITE OFF W/WATER AFTER MATL PICK UP IS COMPLETE. WEAR CHEM
+    RESISTANT GLASSES, GLOVES AND  CLOTHING. WEAR OSHA/MSHA APPROVED
+    RESPIRATOR.
+Neutralizing Agent:SODA ASH, LIMESTONE, ETC.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:CONC NITRIC ACID WILL ATTACK SOME
+    FORMS OF PLASTICS, RUBBER, AND COATINGS. STORE AT ROOM TEMP. KEEP
+    TIGHTLY SEALED WHEN NOT IN USE.
+Other Precautions:AVOID INHALATION, INGESTION, CONTACT WITH SKIN AND
+    EYES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR NIOSH/MSHA APPROVED RESPIRATOR.
+Ventilation:CHEMICAL FUME HOOD.
+Protective Gloves:IMPERVIOUS GLOVES 
+Eye Protection:CHEM WORK GOG & FULL LENGTH FCSHLD
+Other Protective Equipment:HAVE IMMEDIATE AVAILABILITY OF EYEWASH IN
+    CASE OF EMERG. LABCOAT, CHEM RESISTANT CLOTHING. DELUGE SHOWER .
+Work Hygienic Practices:WASH CAREFULLY AFTER USE.
+Supplemental Safety and Health
+EFTS OF OVEREXP:WHICH MAY RESULT IN PERM DMG/VISUAL
+    IMPAIRMENT.SKIN:LIQ/CONC VAP PRDCES IMMED,SEVERE & PENETRATING
+    BURNS;CONC SOLN CAUSE DEEP ULCERS & STAIN SKIN BRIGHT
+    YELLOW/YELLOWISH BROWN.VAP/MIST  MAY ERODE EXPOS TEETH W/PRLNG
+    EXPOS. INGEST: LIQ WILL CAUSE IMMED PAIN & BURNS OF MOUTH,ESOPH/GI
+    TRACT.INHAL: (ING 3)
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T6
+Spec Gravity:APPROX 1
+Solubility in Water:SOLUBLE
+Appearance and Odor:TRANSPARENT WITH AN ACRID ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+REACTS EXPLOS W/ALCOHOL/WOOD/TURPENTINE/METAL POWDER/ HYDROGEN
+    SULFIDE/ETC.CONT W/STRONG BASES CAUSES VIOLENT SPLATTERIN
+Stability Condition to Avoid:ELEVATED TEMPERATURES MAY CAUSE CNTRS TO
+    BURST AND LIBERATE TOXIC OXIDES OF NITROGEN.
+Hazardous Decomposition Products:WILL RELEASE TOXIC NITROGEN OXIDE
+    FUMES AND VAPORS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTACT LOCAL HAZARDOUS OR CHEMICAL WASTE
+    DISPOSAL AGENCY FOR REGULATIONS. DISPOSE I/A/W FEDERAL, STATE, AND
+    LOCAL REGULATIONS .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

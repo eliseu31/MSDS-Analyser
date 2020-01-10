@@ -1,0 +1,132 @@
+=====================  Product Identification  =====================
+
+Product ID:CHLOROFORM ACS GRADE
+MSDS Date:02/20/1988
+FSC:6810
+NIIN:00-222-2639
+MSDS Number: BKYJH
+=== Responsible Party ===
+Company Name:SIGMA CHEMICAL COMPANY
+Box:14508
+City:ST LOUIS
+State:MO
+ZIP:63178-0593
+Info Phone Num:(314) 771-5765
+Emergency Phone Num:(314) 771-5765
+CAGE:21076
+=== Contractor Identification ===
+Company Name:SIGMA CHEMICAL COMPANY
+Address:3050 SPRUCE ST
+Box:14508
+City:ST LOUIS
+State:MO
+ZIP:63178
+Country:US
+Phone:314-771-5765
+CAGE:21076
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CHLOROFORM	(SARA III)
+CAS:67-66-3
+RTECS #:FS9100000
+Fraction by Wt: 100%
+OSHA PEL:(C) 50 PPM
+ACGIH TLV:10 PPM; A2; 9293
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (HUMAN): 140 MG/KG.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION. SKIN: IRRITATION,
+    ABSORPTION & FATAL. INHALATION: UPPER RESPIRATORY TRACT & MUCOUS
+    MEMBRANE IRRITATION, NAUSEA, DIZZINESS, HEADACHE, NERVOUS SYSTEM
+    DISTURBANCES, LIVER, KIDNEY & HEAR T DAMAGE, FATAL. INGESTION:
+    FATAL.
+Explanation of Carcinogenicity:CHLOROFORM IS SUSPECTED BY NTP AND IARC
+    TO BE CARCINOGENIC.
+Effects of Overexposure:EYES: IRRITATION. SKIN: IRRITATION, ABSORPTION
+    & FATAL. INHALATION: UPPER RESPIRTORY TRACT & MUCOUS MEMBRANE
+    IRRITATION, NAUSEA, DIZZINESS, HEADACHE, NERVOUS SYSTEM
+    DISTURBANCES, LIVER, KIDNEY & HEART  DAMAGE, FATAL. INGESTION:
+    FATAL.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES/SKIN: FLUSH W/PLENTY OF WATER FOR AT LEAST 15MIN.
+    INHALATION: REMOVE TO FRESH AIR. IF NOT BREATHING, GIVE ARTIFICIAL
+    RESPIRATION. IF BREATHING IS DIFFICULT, GIVE OXYGEN. INGESTION:
+    OBTAIN MEDICAL  ATTENTION IN ANY CASE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE EXTINGUISHING MEDIA APPROPRIATE TO SURROUNDING
+    FIRE CONDITIONS.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS & FULL
+    PROTECTIVE CLOTHING.
+Unusual Fire/Explosion Hazard:NON-COMBUSTIBLE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE AREA. WEAR SELF-CONTAINED BREATHING
+    APPARATUS & PROTECTIVE CLOTHING. ABSORB ON SAND OR VERMICULITE &
+    PLACE IN CLOSED CONTAINERS FOR DISPOSAL. VENTILATE AREA & WASH
+    SPILL SITE AFTER MATERIAL P ICKUP IS COMPLETE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL DRY PLACE. PROTECT FROM
+    LIGHT. KEEP TIGHTLY CLOSED. DON'T GET IN EYES, ON SKIN/CLOTHING.
+    DON'T BREATHE VAPORS. PRODUCT IS HIGHLY TOXIC.
+Other Precautions:KEEP TIGHTLY CLOSED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR APPROPRIATE NIOSH-MSHA APPROVED RESPIRATOR.
+Ventilation:USE ONLY IN A CHEMICAL FUME HOOD
+Protective Gloves:CHEMICAL RESISTANT, HEAVY RUBBER
+Eye Protection:SAFETY GOGGLES
+Other Protective Equipment:PROTECTIVE CLOTHING, RUBBER BOOTS, SAFETY
+    SHOWER & EYE BATH
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING/SHOES
+    BEFORE REUSE. WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+STABILIZED W/ 0.75% EHTANOL.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T3
+Boiling Pt:B.P. Text:141F,61C
+Melt/Freeze Pt:M.P/F.P Text:-81F,-63C
+Vapor Pres:160
+Vapor Density:4.1
+Spec Gravity:1.492
+Appearance and Odor:CLEAR LIQUID
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+BASES, ALUMINUM
+Stability Condition to Avoid:LIGHT
+Hazardous Decomposition Products:TOXIC FUMES OF HYDROGEN CHLORIDE GAS,
+    PHOSGENE GAS, CO & CO2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:THIS MATERIAL SHOULD BE IGNITED IN THE PRESENCE
+    OF SODIUM CARBONATE & SLAKED LIME (CALCIUM HYDROXIDE). THE
+    SUBSTANCE SHOULD BE MIXED BURNED IN A CHEMICAL INCINERATOR EQUIPPED
+    W/AFTERBURNER & SCRUBBER.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

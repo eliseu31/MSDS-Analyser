@@ -1,0 +1,147 @@
+=====================  Product Identification  =====================
+
+Product ID:ARGON, REFRIGERATED LIQUID (CRYOGENIC LIQUID)
+MSDS Date:09/11/1992
+FSC:6830
+NIIN:00-163-5138
+MSDS Number: BWRJN
+=== Responsible Party ===
+Company Name:MG INDUSTRIES
+Address:3 GREAT VALLEY PARKWAY
+City:MALVERN
+State:PA
+ZIP:19355
+Country:US
+Info Phone Num:215-630-5422
+Emergency Phone Num:800-424-9300(CHEMTREC)
+CAGE:MGIND
+=== Contractor Identification ===
+Company Name:MG INDUSTRIES
+Address:3 GREAT VALLEY PARKWAY
+Box:945
+City:MALVERN
+State:PA
+ZIP:19355
+Country:US
+Phone:215-630-5422
+CAGE:MGIND
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ARGON
+CAS:7440-37-1
+RTECS #:CF2300000
+Fraction by Wt: 100%
+Other REC Limits:NONE RECOMMENDED
+ACGIH TLV:ASPHYXIANT; 9394
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NO OCCUPATIONAL EXPO LIMITS ESTABLISHED
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:INHAL:SIMPLE ASPHYXIANT.SYMPTOMS
+    DEPEND ON RAPIDITY W/WHICH OXY DEFICIENCY DEVELOPS & HOW LONG IT
+    CONTINUES. EYES/SKIN:NO ADVERSE EFFECTS REPORTED FRM GAS. DUE TO
+    RAPID EVAPORATION LIQ MAY CAUSE  FROSTBITE.
+    INGEST:UNLIKELY.FROSTBITE DAMAGE TO LIQPS/MOUTH/MUC MEMBRANES.
+    CHRONIC:NO DATA AVAILABLE.
+Explanation of Carcinogenicity:PER MSDS:CARCINOGEN STATUS:NONE.
+Effects of Overexposure:INHAL:UNCONSC,RAPID RESP/PULSE,AIR
+    HUNGER,DIZZ,REDUCED AWARENESS,TIGHTNESS IN HEAD,TINGLING
+    SENSATIONS,INCOORD,FAULTY JUDGEMNET,EMOTIONAL INSTABILITY,RAPID
+    FTG,NAUS,VOMIT,COLLAPSE,CONVULSIONS,DEEP COM
+    A,DEATH.SKIN:REDNESS,TINGLING/PAIN/NUMBNESS,HARD/WHITE
+    SKIN,BLISTERS.EYE:REDNESS,PAIN,BLURRED VISION.
+Medical Cond Aggravated by Exposure:TARGET EFFECTS:SIMPLE ASPHYXIANT.
+    NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:REMOVE TO FRESH AIR IMMED.BREATH STOP GIVE ART
+    RESP,ADMINISTER OXY IF AVAILABLE BY QUAL PERSONNEL.GET MED ATTN
+    IMMED.SKIN:IF ADVERSE EFFECTS OCCUR GET MED ATTN.FROSTBITE:WARM
+    AREA IN WARM WATER	@TEMP OF 107F.IF NOT AVAILABLE/IMPRACTICAL
+    GENTLY WRAP IN BLANKETS.ENCOURAGE TO EXERCISE PART WHILE BEING
+    WARMED.GET MED ATTN IMMED.EYE:WASH W/LG MATS OF WARM WATER
+    15-20MINS.GET MED ATTN IMMED.(SUPP)
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:EXTINGUISHING USING AGENT SUITABLE FOR TYPE OF
+    SURROUNDING FIRE. DO NOT USE WATER ON MATERIAL.
+Fire Fighting Procedures:MOVE CNTNR FRM FIRE AREA W/O RISK.APPLY
+    COOLING WATER TO FIRE-EXPO SIDES TIL WELL AFT FIRE IS OUT.STAY AWAY
+    FRM ENDS OF TNKS.ISOLATE FOR 1/2MI FOR TK/RAIL/ECT.
+Unusual Fire/Explosion Hazard:NEGLIGIBLE FIRE HAZ WHEN EXPO TO
+    HEAT/FLAME.AVOID BREATHING TOXIC VAPS-KEEP UPWIND.CONTACT OF LIQ
+    GASES W/WATER MAY CAUSE VIO EXPLO DUE TO RAPID TEMP FLUCTUATIO
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DO NOT TOUCH SPILLED MATL. STOP LEAK IF CAN DO
+    SO W/O RISK. KEEP UNNECESSARY PEOPLE AWAY. ISOLATE HAZARD AREA &
+    DENY ENTRY. VENTILATE CLOSED SPACES BEFORE ENTERING.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:OBSERVE ALL FED/STATE/LOCAL REGS WHEN
+    STORING SUBSTANCE. FOR ASSISTANCE CONTACT DISTRICT DIR OF ENVIRON
+    PROTECTION AGENCY. STORE IAW 29 CFR 1910.101.
+Other Precautions:DO NOT PERMIT PHYSICAL DAMAGE/OVERHEATING OF
+    CONTRS.CONTENTS UNDER PRESSURE;MAY RUPTURE VIO/TRAVEL CONSIDERABLE
+    DISTANCE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:SPECIFIC RESP SELECTED MUST BE BASED ON CONTAMIN
+    LEVELS FOUND IN WORKPLACE,SPECIFIC OPERATION,MUST NOT EXCEED
+    WORKING LIMITS OF RESP & JOINTLY APPROVED BY
+    NISOH-MSHA.(EX:SUPPLIED AIR RESP IN PRESS DEM AND/OTHER;SCBA;SCBA
+    W/FACEPC/PRESS(SUP))
+Ventilation:PROVIDE LOCAL EXHAUST OR GENERAL DILUTION VENTILATION
+    SYSTEM.
+Protective Gloves:COLD INSULATING GLOVES
+Eye Protection:SPLASH-PROOF SAFETY GLOVES & FACESHIELDS
+Other Protective Equipment:CONTACT LENSES SHOULD NOT BE WORN.EYEWASH
+    FOUNTAIN,QUICK DRENCH SHOWER W/IN IMMED WORKAREA FOR EMERGENCY.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+1STAID:INGEST:TREAT SYMPTOMATICALLY/SUPPORTIVELY.GET MED ATTN.
+    IMMED.VOMIT OCCURS KEEP HEAD LOWER THAN HIPS.NO SPECIFIC ANTIDOTE.
+    RESP:MODE;SUPPLIED AIR RESP FACEPC/PRESS MODE & AUXILIARY SCBA IN
+    PRES S MODE).
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:G3
+Boiling Pt:B.P. Text:-303F,-186C
+Melt/Freeze Pt:M.P/F.P Text:-308F,-189C
+Vapor Pres:500 @-190C
+Vapor Density:1.380
+Spec Gravity:1.40 @-186C
+Viscosity:0.283CPS@189C
+Solubility in Water:MODERATE (3.36%@20C)
+Appearance and Odor:ODORLESS, TASTLESS, COLORLESS LIQUIFIED GAS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NO DATA AVAILABLE.
+Stability Condition to Avoid:CONTACT OF LIQ GAS W/WATER.
+Hazardous Decomposition Products:NONE HAZARDOUS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:OBSERVE ALL LOCAL, STATE AND FEDERAL REGULATIONS
+    WHEN DISPOSING OF SUBSTANCE. FOR ASSISTANCE CONTACT DISTRICT DIR OF
+    ENVIRONMENTAL PROTECTION AGENCY.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,166 @@
+=====================  Product Identification  =====================
+
+Product ID:PRIMER SURFACER SANDING LACQ/ENAM GRAY36231
+MSDS Date:09/13/1989
+FSC:8010
+NIIN:00-687-8191
+MSDS Number: BHWBW
+=== Responsible Party ===
+Company Name:CHEMRAY COATING CORP
+Address:209 N MICHIGAN AVE
+City:KENILWORTH
+State:NJ
+ZIP:07033
+Country:US
+Info Phone Num:201-245-1111
+Emergency Phone Num:201-245-1111
+Preparer's Name:FRED ARMSTRONG
+CAGE:33832
+=== Contractor Identification ===
+Company Name:CHEMRAY COATING CORP
+Address:209 N MICHIGAN AVE
+Box:City:KENILWORTH
+State:NJ
+ZIP:07033
+Country:US
+Phone:201-245-1111
+CAGE:33832
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:N-BUTYL ALCOHOL  (SARA III)
+CAS:71-36-3
+RTECS #:EO1400000
+Fraction by Wt: 14.75%
+OSHA PEL:100 PPM
+ACGIH TLV:S, C 50 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:N-BUTYL ACETATE  (SARA III)
+CAS:123-86-4
+RTECS #:AF7350000
+Fraction by Wt: 44.5%
+OSHA PEL:150 PPM/200 STEL
+ACGIH TLV:150 PPM/200STEL;9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ALIPHATIC NAPTHA
+CAS:6472-48-9
+Fraction by Wt: 28%
+OSHA PEL:300 PPM
+ACGIH TLV:300 PPM
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: 12.75%
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:VOC=4.76 LBS/GAL OR 571 GRAMS/LITER
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Health Hazards Acute and Chronic:OVEREXPOSURE-NAUSEA, HEADACHE,
+    DIZZINESS CAUSED BY OVER INHALATION. SKIN CONTACT MAY CAUSE
+    DERMATITIS. CAN ABSORB THROUGH SKIN AND CAUSE AUDITORY AND
+    VESTIBULAR NERVE DAMAGE. SEVERE EYE, SKIN AND RESP IRATORY
+    IRRITATION. NARCOTIC EFFECTS.
+Effects of Overexposure:OVEREXPOSURE-NAUSEA, HEADACHE, DIZZINESS CAUSED
+    BY OVER INHALATION. SKIN CONTACT MAY CAUSE DERMATITIS. CAN ABSORB
+    THROUGH SKIN AND CAUSE AUDITORY AND VESTIBULAR NERVE DAMAGE. SEVERE
+    EYE, SKIN AND RESP IRATORY IRRITATION. NARCOTIC EFFECTS.
+Medical Cond Aggravated by Exposure:NONE GENERALLY KNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE CONTACT: FLUSH WITH WATER 15 MINUTES OR UNTIL IRRITATION
+    SUBSIDES. IF IRRITATION PERSISTS, CALL PHYSICIAN. SKIN CONTACT:
+    REMOVE CONTAMINATED CLOTHING AND WASH THOROUGHLY WITH SOAP AND
+    WATER. INHAL ATION: IF OVERCOME BY VAPORS REMOVE TO FRESH AIR, CALL
+    PHYSICIAN. INGESTION: DO NOT INDUCE VOMITING, CALL PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:23 F/-5 C
+Autoignition Temp:Autoignition Temp Text:867 F
+Lower Limits:1.9
+Upper Limits:11.7
+Extinguishing Media:CARBON DIOXIDE, FOAM, WATER FOG OR DRY CHEMICAL.
+Fire Fighting Procedures:USE AIR SUPPLIED BREATHING EQUIPMENT. COOL
+    ENCLOSED CONTAINERS WITH WATER SPRAY. AVOID BREATHING VAPORS OR
+    FUMES.						.
+Unusual Fire/Explosion Hazard:IF LEAK OR SPILL HAS IGNITED, USE WATER
+    SPRAY TO DISPERSE THE VAPORS FROM FIRE FIGHTERS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL IGNITION SOURCES. KEEP FROM HEAT,
+    SPARKS AND OPEN FLAME. ADD ABSORBENT (SAND, EARTH, SAWDUST) TO
+    SPILL. VENTILATE AREA (OPEN WINDOWS, DOORS). LARGE SPILL: KEEP FROM
+    ENTERING SEWERS/WATERCOU RSES BY DIKING. ADVISE AUTHORITIES IF DOES
+    ENTER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM IGNITION SOURCES, KEEP
+    IN COOL, DRY, WELL VENTILATED AREAS. AVOID DIRECT SUNLIGHT AND
+    EXTREME TEMPERATURES, HOT OR COLD.
+Other Precautions:AVOID EYE, SKIN CONTACT, INHALATION &/OR INGESTION OF
+    MISTS, SPRAY OR VAPORS. AVOID BREATHING SANDING OR BLASTING DUST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE HYDROCARBON VAPOR CANISTER OR SUPPLIED AIR
+    RESPIRATOR IN CONFINED AREAS.
+Ventilation:LOCAL EXHAUST: FACE VELOCITY 60FPM. SPECIAL: USE ONLY
+    W/ADEQUATE VENTILATION. MECHANICAL: USE EXPLOSION PROOF EQUIPMENT.
+Protective Gloves:CHEMICAL RESISTANT.
+Eye Protection:SPLASH GOGGLES OR FACE SHIELD.
+Other Protective Equipment:USE CHEMICAL RESISTANT APRON OR CLOTHING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:B.P. Text:172 F,78 C
+Melt/Freeze Pt:M.P/F.P Text:O F(-17.8C)
+Decomp Temp:Decomp Text:600 F(316C)
+Vapor Pres:15 @ 68 F
+Vapor Density:> THAN AIR
+Spec Gravity:1.11 (H2O=1)
+Viscosity:*****
+Evaporation Rate & Reference:2 (BUTYL ACETATE=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:MEDIUM GRAY LIQUID WITH ALCOHOL ODOR.
+Percent Volatiles by Volume:70
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CAN REACT WITH OXIDIZING MATERIAL WHEN HEATED TO DECOMPOSITION.
+Stability Condition to Avoid:HIGH TEMPERATURES.
+Hazardous Decomposition Products:CARBON MONOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ASSURE CONFORMITY WITH APPLICABLE DISPOSAL
+    REGULATIONS. DISPOSE OF ABSORBED MATERIAL AT AN APPROVED DISPOSAL
+    SITE OR FACILITY. DISPOSE IN CONFORMITY WITH STATE AND FEDERAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

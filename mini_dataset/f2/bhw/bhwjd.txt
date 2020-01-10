@@ -1,0 +1,132 @@
+=====================  Product Identification  =====================
+
+Product ID:NITROGEN
+MSDS Date:06/01/1989
+FSC:6830
+NIIN:00-787-2643
+MSDS Number: BHWJD
+=== Responsible Party ===
+Company Name:AIR PRODUCTS & CHEMICALS,INDUSTRIAL GAS DIVISION
+Address:7201 HAMILTON BLVD
+City:ALLENTOWN
+State:PA
+ZIP:18197-1501
+Country:US
+Info Phone Num:215-481-4911
+Emergency Phone Num:800-523-9374/800-322-9092(PA)
+CAGE:00742
+=== Contractor Identification ===
+Company Name:AIR PRODUCTS AND CHEMICALS INC
+Address:7201 HAMILTON BLVD
+Box:City:ALLENTOWN
+State:PA
+ZIP:18195-1501
+Country:US
+Phone:800-345-3148/ 800-752-1597
+CAGE:00742
+Company Name:OXYGEN SALES AND SERVICE INC
+Address:2043 S 35TH ST
+Box:11393
+City:TACOMA
+State:WA
+ZIP:98411-0393
+Country:US
+CAGE:5H199
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NITROGEN
+CAS:7727-37-9
+RTECS #:QW9700000
+Fraction by Wt: 100%
+ACGIH TLV:ASPHYXIANT; 9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:NITROGEN IS A SIMPLE ASPHYXIANT.
+    NITROGEN UNDER HIGH PRESSURE CAN PRODUCE NARCOSIS.
+Explanation of Carcinogenicity:NONE OF THE CHEMICALS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:INHALATION:DIZZINESS, NAUSEA, VOMITING, LOSS OF
+    CONSCIOUSNESS, AND DEATH.
+Medical Cond Aggravated by Exposure:NONE NOTED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE SUBJECT TO FRESH AIR. RESCUE WORKERS, WEAR
+    SCBA. GIVE OXYGEN/CPR AS NEEDED.
+
+=====================  Fire Fighting Measures  =====================
+
+Autoignition Temp:Autoignition Temp Text:NONE
+Extinguishing Media:AS APPROPIATE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:CYLINDERS MAY EXPLODE IN HEAT OF FIRE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE ENCLOSED AREAS TO PREVENT FORMATION
+    OF OXYGEN-DEFICIENT ATMOSPHERES CAUSED BY THE RELEASE OF GASEOUS
+    NITROGEN.
+Neutralizing Agent:NONE APPLICABLE FOR THIS MATERIAL
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:USE ONLY IN WELL VENTILATED AREAS.
+    CONTAINS NITROGEN AT EXTREMELY HIGH PRESSURE.HANDLE WITH CARE.
+Other Precautions:AVOID DRAGGING,ROLLING OR SLIDING CYLINDERS.USE HAND
+    TRUCK.STORE OUTSIDE.KEEP AWAY FROM HEAT,FLAMES AND COMBUSTIBLE
+    MATERIALS.KEEP AWAY FROM HEAVY TRAFFIC AREAS.AVOID EXPOSURE TO SALT
+    OR OTHER CORROSI VE CHEMICALS.REPLACE CAP WHEN NOT IN USE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE SCBA IN OXYGEN-DEFICIENT ATMOSPHERES.
+    CAUTION! RESPIRATORS WILL NOT FUNCTION.USE MAY RESULT IN
+    ASPHYXIATION.
+Ventilation:MECHANICAL (GENERAL) VENTILATION AND/OR LOCAL EXHAUST AS
+    NECESSARY.
+Protective Gloves:LEATHER WORK GLOVES.
+Eye Protection:SAFETY GLASSES.
+Other Protective Equipment:OXYGEN MONITORING EQUIPMENT TO TEST FOR
+    OXYGEN DEFICIENT ATMOSPHERES.
+Work Hygienic Practices:STANDARD HYGENIC PRACTICES.
+Supplemental Safety and Health
+NONE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:G3
+Boiling Pt:B.P. Text:-320F,-196C
+Melt/Freeze Pt:M.P/F.P Text:-346F,-210C
+Vapor Density:0.07245
+Spec Gravity:0.967
+Solubility in Water:1.52%
+Appearance and Odor:COLORLESS, ODORLESS GAS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE.
+Stability Condition to Avoid:NONE.
+Hazardous Decomposition Products:NONE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:VENT NITROGEN GAS SLOWLY TO A WELL VENTILATED
+    OUTODOOR LOCATION REMOTE FROM WORK AREAS. DO NOT DISPOSE OF
+    RESIDUAL NITROGEN IN CYLINDERS. RETURN TO MANUFACTURER WITH
+    RESIDUAL PRESSURE, VALVE TIGHTLY C LOSED, AND VALVE CAPS IN PLACE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

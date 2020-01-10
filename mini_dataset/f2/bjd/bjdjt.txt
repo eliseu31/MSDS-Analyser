@@ -1,0 +1,109 @@
+=====================  Product Identification  =====================
+
+Product ID:PLASTIC COATING COMPOUND, MIL-P-23242B
+MSDS Date:08/09/1988
+FSC:8030
+NIIN:00-292-9634
+MSDS Number: BJDJT
+=== Responsible Party ===
+Company Name:EVANS MANUFACTURING INC.
+Address:1330 SOUTER
+City:TROY
+State:MI
+ZIP:48083
+Country:US
+Info Phone Num:313-583-9890
+Emergency Phone Num:313-583-9890
+CAGE:EVANS
+=== Contractor Identification ===
+Company Name:EVANS MANUFACTURING INC
+Address:1330 SOUTER
+City:TROY
+State:MI
+ZIP:48083
+Country:US
+Phone:313-583-9890
+CAGE:EVANS
+Company Name:EVANS MFG INC
+Address:1330 SOUTER
+Box:City:TROY
+State:MI
+ZIP:48083
+Country:US
+CAGE:56307
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NON - HAZARDOUS INGREDIENT
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:UNKNOWN	  IARC:UNKNOWN	  OSHA:NO
+Effects of Overexposure:BURN
+
+=======================  First Aid Measures  =======================
+
+First Aid:APPLIED AT 350F IF IT COMES IN CONTACT WITH SKIN TREAT AS AN
+    OIL BURN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:OC
+Flash Point:>400F/204.44C
+Lower Limits:NA
+Upper Limits:NA
+Extinguishing Media:CARBON DIOXIDE
+Fire Fighting Procedures:TREAT AS OIL FIRE
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NA
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NONE
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NEEDED
+Ventilation:LOCAL EXHAUST, MECHANICAL
+Protective Gloves:COTTON
+Eye Protection:IF DESIRED
+Other Protective Equipment:NONE
+Work Hygienic Practices:NONE
+Supplemental Safety and Health
+NK
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:OVER 700F
+Melt/Freeze Pt:M.P/F.P Text:200F/94C
+Vapor Pres:NA
+Vapor Density:NA
+Spec Gravity:1
+Evaporation Rate & Reference:NA
+Solubility in Water:INSOLUBLE
+Appearance and Odor:100% SOLID THERMOPLASTIC, WAX LIFE OIL ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:NONE ONLY CARBON
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:SAME AS WAX OR OIL INCINERATION OR LAND FILL
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

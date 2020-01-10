@@ -1,0 +1,139 @@
+=====================  Product Identification  =====================
+
+Product ID:CLASOL 50
+MSDS Date:07/01/1989
+FSC:9140
+NIIN:00N021887
+MSDS Number: BLMNV
+=== Responsible Party ===
+Company Name:CLAIBORNE GASOLINE CO
+Address:STE 4500 INTRFRST 1
+City:DALLAS
+State:TX
+ZIP:75202
+Country:US
+Info Phone Num:214-741-4128
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+CAGE:CLAIB
+=== Contractor Identification ===
+Company Name:CLAIBORNE GASOLINE CO
+Address:STE 4500 INTRFRST 1
+Box:City:DALLAS
+State:TX
+ZIP:75202
+Country:US
+Phone:214-741-4128
+CAGE:CLAIB
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SWEETENED MIDDLE DISTILLATES
+CAS:64741-86-2
+OSHA PEL:500 PPM, C (MFR)
+ACGIH TLV:5.0 MG/M3 (MFR)
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:SKIN:PRIMARY IRRITATION TO SKIN,
+    DEFATTING, DERMATITIS. EYE:PRIMARY IRRITATION TO EYES, REDNESS,
+    TEARING, BLURRED VISION. INGEST:HARMFUL/FATAL IF SWALLOWED.
+    SWALLOWING CAN CAUSE ABDOMINAL IRRITA TION, NAUSEA, VOMITING &
+    DIARRHEA. CHRONIC:LIQUID CAN CAUSE EYE IRRITATION.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:PERSONS WITH SEVERE SKIN, LIVER OR
+    KIDNEY PROBLEMS SHOULD AVOID USE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:FLUSH W/PLENTY OF WATER. EYES:FLUSH W/ PLENTY OF WATER
+    FOR @ LST 15 MIN & GET MD. INHAL:AFTER HIGH VAP EXPO, REMOVE TO
+    FRESH AIR. IF BRTHG IS DFCLT GIVE O2. IF BRTHG HAS STOPPED GIVE
+    ARTF RESP. I NGEST:CALL MD IMMEDIATELY. NEVER GIVE ANYTHING BY
+    MOUTH TO UNCON PERSON.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:144F,62C
+Lower Limits:0.9%
+Extinguishing Media:NFPA CLASS B EXTINGUISHERS (CO2 OR FOAM) FOR CLASS
+    III A LIQUID FIRES.
+Fire Fighting Procedures:WATER SPRAY MAY BE INEFT ON FIRE BUT CAN PROT
+    FIRE FIGHTERS & COOL CLSD CNTNRS. USE FOG NOZZ IF WATER IS USED. DO
+    NOT ENTER CONFINED FIRE-SPACE W/OUT (SUPDAT)
+Unusual Fire/Explosion Hazard:COMBUSTIBLE!KEEP CNTNR TIGHTLY CLSD.
+    ISOLATE FROM OXIDIZERS, HEAT & OPEN FLAME. CLSD CNTNRS MAY EXPLODE
+    IF EXPOSED TO EXTREME HEAT. APPLYING TO HOT SURF(SUPDAT)
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:STOP SPILL AT SOURCE. DIKE AREA & CONTAIN.
+    PUMP SPILLED LIQUID & PUT CONTAMINATED SOIL IN DOT APPROVED CNTNRS
+    FOR DISPOSAL. LABEL IMMED. CLEAN UP REMAINDER WITH ABSORBENT
+    MATERIALS. MOP UP & DISPOSE O F.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE LG AMTS IN STRUCTURES MADE FOR
+    OSHA CLASS III A LIQS. AVOID FREE FALL OF LIQ. GROUND CNTNRS WHEN
+    TRANSFERRING. DO NOT FLAME CUT, BRAZE OR WELD.
+Other Precautions:EMPTY CNTNR VERY HAZ! CONTINUE ALL LBL PRECS! USE
+    ONLY W/ADEQ VENT. AVOID PRLNG BRTHG OF VAP/SPRAY MIST. AVOID
+    PRLNG/RPTD CNTCT W/ SKIN. KEEP CNTNR TIGHTLY CLSD & UPRIGHT WHEN
+    NOT IN USE TO PVNT LEAKA GE. FOR INDUS USE ONLY. KEEP OUT (SUPDAT
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:VENTILATE TO KEEP AIR BELOW 5 MG/CU M. IF OVER
+    TLV, I/A/W 29 CFR 1910.134, USE NIOSH/MSHA APPROVED POSITIVE
+    PRESSURE SCBA. CONSULT SAFETY EQUIP SUPPLIER,USE EXPLOSION-PROOF
+    EQUIPMENT.
+Ventilation:LOCAL EXHAUST NECESSARY. MECHANICAL (GENERAL) ACCEPTABLE.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEM WORK GOGG/FULL LENGTH FCSHLD.
+Other Protective Equipment:IMPERVIOUS APRON & FOOTWEAR.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING. WASH CLOTHING
+    BEFORE REUSE.
+Supplemental Safety and Health
+FIRE FIGHT PROC:FULL BUNKER GEAR. (HELMET W/ FCSLD, BUNKER COATS,
+    GLOVES & RUB BOOTS). USE NIOSH/MSHA APPRVD SCBA & FULL PROT EQUIP .
+    EXPLO HAZ:REQS SPECIAL PRECS.EMPTY CNTNR VERY HAZ! CONTINUE  ALL
+    LABEL PRECS. OTHER PREC:OF REACH OFCHILDREN.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V4
+Boiling Pt:B.P. Text:369F,187C
+Vapor Pres:0.8 @ 20C
+Vapor Density:5.4
+Spec Gravity:0.770
+Evaporation Rate & Reference:NEGLIGIBLE
+Appearance and Odor:LIQUID, WATER-WHITE; MILD ODOR.
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ISOLATE FROM STRONG OXIDIZERS SUCH AS PERMANGANATES, CHROMATES &
+    PEROXIDES.
+Stability Condition to Avoid:ISOLATE FROM OXIDIZERS, HEAT & OPEN FLAME.
+Hazardous Decomposition Products:CO, CO2 FROM BURNING.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:RECYCLE OR DISPOSE OF WASTE BY LEGAL METHODS
+    COMPLYING WITH LOCAL, STATE & FEDERAL POLLUTION REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

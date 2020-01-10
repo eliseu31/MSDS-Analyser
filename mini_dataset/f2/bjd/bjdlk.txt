@@ -1,0 +1,106 @@
+=====================  Product Identification  =====================
+
+Product ID:RINSE AWAY
+MSDS Date:03/20/1987
+FSC:6850
+NIIN:00D001607
+MSDS Number: BJDLK
+=== Responsible Party ===
+Company Name:COBURN OPTICAL INDUSTRIES INC
+Address:1701 S CHEROKEE
+Box:627
+City:MUSKOGEE
+State:OK
+ZIP:74401-9020
+Country:US
+Info Phone Num:918-683-4521
+Emergency Phone Num:918-683-4521
+CAGE:31285
+=== Contractor Identification ===
+Company Name:COBURN OPTICAL INDUSTRIES INC
+Address:1701 S CHEROKEE
+Box:627
+City:MUSKOGEE
+State:OK
+ZIP:74401-9020
+Country:US
+Phone:918-683-4521
+CAGE:31285
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:INORGANIC PHOSPHATE SALT
+Fraction by Wt: MINOR
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:NONE SPECIFIED BY MANUFACTURER.
+Explanation of Carcinogenicity:NONE OF THE COMPOUNDS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP, OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:NONE SPECIFIED BY MANUFACTURER.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:NONE SPECIFIED BY MANUFACTURER.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:>200F,>93C
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NONE SPECIFIED BY MANUFACTURER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NONE SPECIFIED BY MANUFACTURER.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SPECIFIED BY MANUFACTURER.
+Ventilation:NONE SPECIFIED BY MANUFACTURER.
+Protective Gloves:NONE SPECIFIED BY MANUFACTURER.
+Eye Protection:NONE SPECIFIED BY MANUFACTURER.
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES.
+    LAUNDER CONTAMINATED CLOTHING BEFORE WEARING. KEEP WORK AREA CLEAN.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL SHOULD BE MADE IN ACCORDANCE WITH ALL
+    APPLICABLE FEDERAL, STATE AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

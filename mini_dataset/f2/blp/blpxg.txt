@@ -1,0 +1,167 @@
+=====================  Product Identification  =====================
+
+Product ID:F65B50 KEM LUSTRAL ENAMEL NON-LEAD, WROUGHT IRON FLAT BLACK
+MSDS Date:12/05/1986
+FSC:8010
+NIIN:00F019324
+MSDS Number: BLPXG
+=== Responsible Party ===
+Company Name:SHERWIN WILLIAMS COMPANY
+Address:101 PROSPECT AVENUE NW
+City:CLEVELAND
+State:OH
+ZIP:44115-1042
+Info Phone Num:(216) 566-2902
+Emergency Phone Num:(216) 566-2917 OR (216) 566-2902
+CAGE:54626
+=== Contractor Identification ===
+Company Name:SHERWIN WILLIAMS COMPANY
+Address:101 PROSPECT AVE NW
+City:CLEVELAND
+State:OH
+ZIP:44115
+Country:US
+Phone:216-566-2902
+CAGE:54626
+Company Name:SHERWIN-WILLIAMS CO THE
+Address:101 PROSPECT AVE NW
+Box:City:CLEVELAND
+State:OH
+ZIP:44115-1042
+Country:US
+Phone:800-251-2486/216-566-2242
+CAGE:54636
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MEDIUM ALIPHATIC NAPHTHA (AROMATIC 100), PARAFFIN-NAPTHANES
+    MINERAL SPIRITS
+CAS:64742-88-7
+Fraction by Wt: 0-5%
+Other REC Limits:100 PPM
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:DIPROPYLENE GLYCOL METHYL ETHER
+CAS:34590-94-8
+RTECS #:JM1575000
+Fraction by Wt: 0-5%
+Other REC Limits:100 PPM
+OSHA PEL:S,100PPM/150STEL
+ACGIH TLV:S,100PPM/150STEL9192
+
+Ingred Name:2-BUTOXYETHANOL
+CAS:111-76-2
+RTECS #:KJ8575000
+Fraction by Wt: 0-5%
+Other REC Limits:25 PPM (SKIN)
+OSHA PEL:S, 50 PPM
+ACGIH TLV:S, 25 PPM; 9293
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 0-30%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:HYDROTREATED LIGHT DISTILLATE, PETROLEUM; C12-C15
+    ISOPARAFFINIC HYDROCARBONS
+CAS:64742-47-8
+Fraction by Wt: 35-60%
+Other REC Limits:300 PPM (MFR)
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES/SKIN: IRRITATION. INHALATION:
+    RESPIRATORY TRACT IRRITATION, NERVOUS SYSTEM DEPRESSION, HEADACHE,
+    NAUSEA, CONFUSION, STAGGERING GAIT, UNCONSCIOUSNESS & DEATH.
+    EFFECTS TO LIVER, URINARY, BLOOD FORM ING SYSTEMS. PERMANENT BRAIN
+    & NERVOUS SYSTEM DAMAGE.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES/SKIN: IRRITATION. INHALATION: RESPIRATORY
+    TRACT IRRITATION, NERVOUS SYSTEM DEPRESSION, HEADACHE, NAUSEA,
+    CONFUSION, STAGGERING GAIT, UNCONSCIOUSNESS & DEATH. EFFECTS TO
+    LIVER, URINARY, BLOOD FORM ING SYSTEMS. PERMANENT BRAIN & NERVOUS
+    SYSTEM DAMAGE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINS. SKIN:
+    WASH THOROUGHLY W/SOAP & WATER. INHALATION: REMOVE TO FRESH AIR.
+    GIVE CPR OR OXYGEN IF NEEDED. KEEP WARM & QUIET. OBTAIN MEDICAL
+    ATTENTION IN  ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:202F
+Extinguishing Media:CO, DRY CHEMICAL & FOAM
+Fire Fighting Procedures:WATER SPRAY MAY BE INEFFECTIVE. IF WATER IS
+    USED, FOG NOZZLES ARE PREFERABLE. WEAR FULL PROTECTIVE CLOTHING &
+    SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:CLOSED CONTAINERS MAY EXPLODE WHEN
+    EXPOSED TO EXTREME HEAT. WATER MAY BE USED TO COOL CLOSED
+    CONTAINERS TO PREVENT PRESSURE BUILD-UP, AUTOIGNITION & EXPLOSION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELMINATE IGNITION SOURCES. VENTILATE AREA.
+    REMOVE W/INERT ABSORBENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID BREATHING VAPOR & SPRAY MIST.
+    AVOID CONTACT W/SKIN & EYES. CLOSED CONTAINERS MAY EXPLODE WHEN
+    EXPOSED TO EXTREME HEAT. COMBUSTIBLE.
+Other Precautions:USE APPROVED BONDING & GROUNDING PROCEDURES. KEEP
+    CONTAINER CLOSED WHEN NOT IN USE. TRANSFER ONLY TO APPROVED
+    CONTAINERS W/COMPLETE & APPROPRIATE LABELING. DON'T TAKE
+    INTERNALLY. KEEP OUT OF REACH OF  CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPRIATORY DEVICE.
+Ventilation:LOCAL EXHAUST & GENERAL TO KEEP BELOW TLV.
+Protective Gloves:RECOMMENDED
+Eye Protection:SAFETY GLASSES W/UNPERFERATED SIDESHIELD
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE.WASH HANDS AFTER USE.
+Supplemental Safety and Health
+INTENTIONAL CONCENTRATING & INHALING THE CONTENTS CAN BE HARMFUL OR
+    FATAL. SANDING OR ABRADING THE DRIED FILM MAY PRESENT A NUISANCE
+    PARTICULATE HAZARD.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:240-416F
+Vapor Density:>AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Appearance and Odor:WROUGHT IRON FLAT BLACK
+Percent Volatiles by Volume:58-66%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:HEAT, ELECTRICAL EQUIPMENT & OPEN FLAME
+Hazardous Decomposition Products:CO & CO2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PRODUCT WASTE MAY BE HAZARDOUS UNDER RCRA. TEST
+    FOR IGNITABILITY TO DETERMINE HAZARDOUS WASTE NUMBER. INCINERATE IN
+    APPROVED FACILITY. DON'T INCINERATE CLOSED CONTAINER. DISPOSE IN
+    ACCORDANCE W/LOCAL,  STATE & FEDERAL REGULATIONS. COMBUSTIBLE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

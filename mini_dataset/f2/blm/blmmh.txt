@@ -1,0 +1,177 @@
+=====================  Product Identification  =====================
+
+Product ID:MOORCRAFT VINYL LATEX FLAT, 275
+MSDS Date:06/25/1990
+FSC:8010
+NIIN:00N021555
+MSDS Number: BLMMH
+=== Responsible Party ===
+Company Name:BENJAMIN MOORE & CO
+Address:51 CHESTNUT RIDGE RD
+City:MONTVALE
+State:NJ
+ZIP:07645
+Country:US
+Info Phone Num:201-573-9600
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+CAGE:09585
+=== Contractor Identification ===
+Company Name:BENJAMIN MOORE & CO
+Address:51 CHESTNUT RIDGE RD
+City:MONTVALE
+State:NJ
+ZIP:07645
+Country:US
+Phone:201-573-9600
+CAGE:09585
+Company Name:BENJAMIN MOORE & CO
+Address:51 CHESTNUT RIDGE RD
+Box:City:MONTVALE
+State:NJ
+ZIP:07645
+Country:US
+Phone:201-573-9600
+CAGE:91950
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 15.8%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:SILICA GEL
+CAS:7631-86-9
+RTECS #:VV7340000
+Fraction by Wt: 2.1%
+OSHA PEL:6 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST
+
+Ingred Name:TALC (CONTAINING NO ASBESTOS)
+CAS:14807-96-6
+RTECS #:WW2710000
+Fraction by Wt: 13.9%
+OSHA PEL:2 MG/M3 RDUST
+ACGIH TLV:2 MG/M3 RDUST; 9192
+
+Ingred Name:SILICA, CRYSTALLINE - QUARTZ
+CAS:14808-60-7
+RTECS #:VV7330000
+Fraction by Wt: 3.0%
+OSHA PEL:SEE TABLE Z3
+ACGIH TLV:0.1 MG/M3 RDUST;9293
+
+Ingred Name:KAOLIN
+CAS:1332-58-7
+RTECS #:GF1670500
+Fraction by Wt: 9.9%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:2 MG/M3 TDUST; 9293
+
+Ingred Name:ETHYLENE GLYCOL  (SARA III)
+CAS:107-21-1
+RTECS #:KW2975000
+Fraction by Wt: 2.5%
+OSHA PEL:C 50 PPM
+ACGIH TLV:C 50 PPM,VAPOR; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:CARBONIC ACID, CALCIUM SALT (1:1); (CALCIUM CARBONATE)
+CAS:471-34-1
+RTECS #:FF9335000
+Fraction by Wt: 34.0%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:(ACUTE) INHAL: IRRITATION OF THE
+    RESPIRATORY TRACT. EYE: CAUSES EYE IRRITATION. INGEST: INGEST OF
+    LARGE AMOUNTS COULD CAUSE SERIOUS INJURY. (CHRONIC) INHAL: SANDING
+    DUST INHAL MAY CAUSE LUNG DAMAGE.
+Explanation of Carcinogenicity:CRYSTALLINE SILICA - GROUP 2A (IARC)
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE EXPECTED WHEN USED IN
+    ACCORDANCE WITH SAFE HANDLING AND USE INFORMATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: REMOVE TO FRESH AIR. GET MD FOR ANY BREATHING
+    DIFFICULTY. EYE: FLUSH THOROUGHLY WITH WATER FOR AT LEAST 15
+    MINUTES. CALL MD. SKIN: WASH WITH SOAP AND WATER. INGEST: DRINK 1
+    OR 2 GLASSES OF WATE R TO DILUTE. DO NOT INDUCE VOMITING. CALL MD.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:>250F,>121C
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL, WATER FOG.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT . COOL EXPOSED CONTAINERS WITH WATER.
+Unusual Fire/Explosion Hazard:CLOSED CONTAINERS MAY BURST IF EXPOSED TO
+    EXTREME HEAT OR FIRE. TOXIC GASES MAY FORM WHEN PRODUCT BURNS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH WITH WATER. ABSORB WITH SAWDUST OR RAGS.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT THROW OR DROP CONTAINERS.
+Other Precautions:AVOID CONTACT WITH EYES AND PROLONGED CONTACT WITH
+    SKIN OR BREATHING OF SPRAY MIST OR SANDING DUST. CLOSE CONTAINER
+    AFTER EACH USE. KEEP OUT OF REACH OF CHILDREN. DO NOT TAKE
+    INTERNALLY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR SPECIFIED FOR
+    PROTECTION AGAINST PAINT SPRAY MIST AND SANDING DUST IN RESTRICTED
+    OR CONFINED AREAS.
+Ventilation:ADEQUATE TO MAINTAIN WORKING ATMOSPHERE BELOW TLV AND LEL.
+    MECHANICAL EXHAUST MAY BE REQUIRED IN CONFINED AREAS.
+Protective Gloves:WATERPROOF DURING REPEATED CONTACT.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:CLOTHING ADEQUATE TO PROTECT SKIN.
+Work Hygienic Practices:REMOVE AND WASH CLOTHING BEFORE REUSE. WASH
+    HANDS BEFORE EATING, SMOKING OR USING WASHROOM.
+Supplemental Safety and Health
+% VOLAT: 59.2-68.5.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T6
+Vapor Pres:SEE INGRED
+Vapor Density:HVR/AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Appearance and Odor:NONE SPECIFIED BY MANUFACTURER.
+Percent Volatiles by Volume:SUPDAT
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE REASONABLY FORESEEABLE.
+Stability Condition to Avoid:ELEVATED TEMPERATURES.
+Hazardous Decomposition Products:BURNING MAY PRODUCE CO2 AND CO.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONVENTIONAL PROCEDURES IN COMPLIANCE WITH
+    LOCAL, STATE AND FEDERAL REGULATIONS. DO NOT INCINERATE SEALED
+    CONTAINERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

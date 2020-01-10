@@ -1,0 +1,140 @@
+=====================  Product Identification  =====================
+
+Product ID:SECONDARY BATTERY NICAD AV-2200BP
+MSDS Date:01/01/1987
+FSC:6140
+NIIN:01-227-4799
+MSDS Number: BJDPP
+=== Responsible Party ===
+Company Name:AVEX ELECTRONICS CORPORATION
+Address:1683 WINCHESTER RD
+Box:1026
+City:BENSALEM
+State:PA
+ZIP:19020
+Country:US
+Info Phone Num:215/744-3487
+Emergency Phone Num:800/345-1295
+CAGE:58414
+=== Contractor Identification ===
+Company Name:AVEX ELECTRONICS CORP
+Address:1683 WINCHESTER ROAD
+Box:1026
+City:BENSALEM
+State:PA
+ZIP:19020-4510
+Country:US
+Phone:215-638-1515
+CAGE:58414
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CADMIUM OXIDE  (SARA III)
+CAS:1306-19-0
+RTECS #:EV1925000
+Fraction by Wt: 8-15%
+OSHA PEL:SEE 1910.1027
+ACGIH TLV:0.05 MG(CD)/M3; 9293
+
+Ingred Name:NICKEL HYDROXIDE  (SARA III)
+CAS:12054-48-7
+RTECS #:QR7040000
+Fraction by Wt: 3-5%
+OSHA PEL:1 MG NI/M3
+ACGIH TLV:0.1 MG NI/M3; 9293
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+Ingred Name:POTASSIUM HYDROXIDE  (SARA III)
+CAS:1310-58-3
+RTECS #:TT2100000
+Fraction by Wt: 2-4%
+OSHA PEL:C, 2 MG/M3
+ACGIH TLV:C 2 MG/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:LIOH, LITHIUM HYDROXIDE
+CAS:1310-65-2
+RTECS #:OJ6307070
+
+Ingred Name:CALCIUM HYDROXIDE
+CAS:1305-62-0
+RTECS #:EW2800000
+Fraction by Wt: 8-15%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:5 MG/M3; 9293
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:KOH IS CAUSTIC
+Explanation of Carcinogenicity:NONE SPECIFIED BY MANUFACTURER.
+Effects of Overexposure:SEE HEALTH HAZARDS
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:IF CELL IS ACCIDENTLY INGESTED SEE PHYSICIAN PROMPTLY
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:NONE SPECIFIED BY MANUFACTURER.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE SCBA WHEN BATTERIES
+    ARE ON FIRE
+Unusual Fire/Explosion Hazard:CAN EXPLODE WHEN SUBJECTED TO EXCESSIVE
+    HEAT
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:AVOID SKIN AND EYE CONTACT
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID DIRECT CONTACT OF CELL W/METAL
+    OBJECTS TO PREVENT SHORT CIRCUITS. USE RECOMMENDED CHARGE RATES.
+    STORE AT ROOM TEMPERATURE
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN. 
+Ventilation:DO NOT SEAL AIR, WATER-TIGHT CONTR/COMPT. FULL
+    ENCAPSULATION(POTTING) BATT.PREVENT VENTING,POSSIBLE EXPLOSION.
+Protective Gloves:NONE SPECIFIED BY MANUFACTURER.
+Eye Protection:CHEMICAL WORKERS GOGGLES. 
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:(CD) 767 C
+Spec Gravity:CDO8.15,CD 8.64
+Appearance and Odor:NONE SPECIFIED BY MANUFACTURER.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:HEATING
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:BURY IN LANDFILL W/APPROPRIATE FEDERAL, STATE
+    AND LOCAL REGULATIONS
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

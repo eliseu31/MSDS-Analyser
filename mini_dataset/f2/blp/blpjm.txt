@@ -1,0 +1,99 @@
+=====================  Product Identification  =====================
+
+Product ID:U9934 POTASSIUM IODIDE SOLUTION
+MSDS Date:05/05/1986
+FSC:6810
+NIIN:00F019083
+MSDS Number: BLPJM
+=== Responsible Party ===
+Company Name:XERTEX-DELTA ANALYTICAL
+Address:250 MARCUS BLVD
+City:HAUPPAUGE
+State:NY
+ZIP:11787
+Info Phone Num:(516) 273-6190
+Emergency Phone Num:(516) 273-6190
+CAGE:XERTE
+=== Contractor Identification ===
+Company Name:XERTEX-DELTA ANALYTICAL
+Address:250 MARCUS BLVD
+City:HAUPPAUGE
+State:NY
+ZIP:11787
+Country:US
+Phone:516-273-6190
+CAGE:XERTE
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POTASSIUM IODIDE, POTIDE, HYDRIOCIC ACID, POTASSIUM SALT
+CAS:7681-11-0
+RTECS #:TT2975000
+
+Ingred Name:WATER, H2O
+CAS:7732-18-5
+RTECS #:ZC0110000
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: STING. SKIN: BURNS IF IN CONTACT
+    W/OPEN CUT OR WOUND.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: STING. SKIN: BURNS IF IN CONTACT W/OPEN
+    CUT OR WOUND.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER. INGESTION: INDUCE VOMITING. OBTAIN
+    MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Fire Fighting Procedures:ELEMENTAL IODINE MAY BE LIBERATED IN FIRE-WEAR
+    FULL-FACE SELF CONTAINED BREATHING APPARATUS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH W/WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTACT W/EYES, WILL STING.
+Other Precautions:AS W/MOST SALTS WILL BURN IF SPILLED ON, AN OPEN CUT
+    OR WOUND.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Work Hygienic Practices:WASH AFTER USE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>212F
+Vapor Pres:19.8
+Vapor Density:NONE
+Spec Gravity:>1
+Solubility in Water:MISCIBLE
+Appearance and Odor:COLORLESS, ODORLESS
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZERS, ACIDS
+Hazardous Decomposition Products:FREE IODINE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:FLUSH TO SEWER W/WATER.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

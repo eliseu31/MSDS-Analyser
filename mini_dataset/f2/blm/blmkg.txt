@@ -1,0 +1,205 @@
+=====================  Product Identification  =====================
+
+Product ID:TRANSITION METALS SPECPURE ICP (SEE SUPP DA
+MSDS Date:05/16/1989
+FSC:6850
+NIIN:00N021381
+MSDS Number: BLMKG
+=== Responsible Party ===
+Company Name:JOHNSON MATTHEY CATALOG CHEMICALS
+Address:152 ANDOVER ST
+City:DANVERS
+State:MA
+ZIP:01923
+Country:US
+Info Phone Num:508-777-1970
+Emergency Phone Num:508-777-1970
+CAGE:0JVJ1
+=== Contractor Identification ===
+Company Name:JOHNSON MATTHEY CATALOG CO INC ALFA AESAR
+Address:30 BOND ST
+Box:City:WARD HILL
+State:MA
+ZIP:01835-0747
+Country:US
+Phone:978-521-6300
+CAGE:0JVJ1
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CUPRIC NITRATE  (SARA III)
+CAS:3251-23-8
+RTECS #:QU7400000
+Fraction by Wt: 0.03%
+OSHA PEL:1 MG CU/M3
+ACGIH TLV:1 MG/M3
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:ZINC NITRATE  (SARA III)
+CAS:7779-88-6
+RTECS #:ZH4772000
+Fraction by Wt: 5%
+OSHA PEL:10 MG ZNO/M3
+ACGIH TLV:10 MG ZNO/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:NITRIC ACID  (SARA III)
+CAS:7697-37-2
+RTECS #:QU5775000
+Fraction by Wt: 5%
+OSHA PEL:2 PPM/4 STEL
+ACGIH TLV:2 PPM/4 STEL; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: BALANCE
+
+Ingred Name:VANADIUM PENTOXIDE	(SARA III)
+CAS:1314-62-1
+RTECS #:YW2460000
+Fraction by Wt: 0.02%
+OSHA PEL:C,0.5 MG/M3
+ACGIH TLV:0.05 MG/M3RDUST;9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:CHROMIUM (III) NITRATE
+CAS:13548-38-4
+RTECS #:GB9279900
+Fraction by Wt: 0.05%
+OSHA PEL:0.5 MG(CR)/M3
+ACGIH TLV:0.5 MG(CR)/M3
+
+Ingred Name:NITRIC ACID, MANGANESE (2+) SALT; (MANGANESE NITRATE)
+CAS:10377-66-9
+RTECS #:QU9780000
+Fraction by Wt: 0.03%
+OSHA PEL:5 MG(MN)/M3, C
+ACGIH TLV:5 MG(MN)/M3 DUST
+
+Ingred Name:FERRIC NITRATE  (SARA III)
+CAS:10421-48-4
+RTECS #:QU8915000
+Fraction by Wt: 0.04%
+OSHA PEL:1 MG FE/M3
+ACGIH TLV:1 MG FE/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:COBALT (II) NITRATE (1:2); (COBALT NITRATE)
+CAS:10141-05-6
+RTECS #:GG1109000
+Fraction by Wt: 0.03%
+OSHA PEL:0.05 MG(CO)/M3
+ACGIH TLV:0.05 MG(CO)/M3
+
+Ingred Name:NICKEL (II) NITRATE (1:2); (NICKEL NITRATE)
+CAS:13138-45-9
+RTECS #:QR7200000
+Fraction by Wt: 0.03%
+OSHA PEL:0.1 MG(NI)/M3
+ACGIH TLV:0.1 MG(NI)/M3
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:(ACUTE) INGEST: MAY CAUSE IMMED PAIN &
+    BURNS OF MOUTH, THROAT, ESOPHAGUS & GI TRACT. SKIN: MAY CAUSE
+    REDNESS, PAIN & SKIN BURNS, POSSIBLY SEVERE. MAY CAUSE DEEP ULCERS
+    & STAIN SKIN A YELLOW OR YELLOW- BROWN COLOR. EYE: VAPORS MAY CAUSE
+    IRRIT OR DMG TO EYES. SPLASHES MAY CAUSE SEVERE BURNS & PERM (SEE
+    EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:HLTH HAZ: EYE DMG. INHAL: MAY CAUSE BREATHING
+    DIFFICULTIES LEADING TO PNEUMONIA AND PULM EDEMA. SYMPTOMS INCLUDE
+    COUGHING, CHOKING AND IRRITATION OF THE NOSE, THROAT AND
+    RESPIRATORY TRACT. (CHRONIC) I NGEST: NONE KNOWN. SKIN: NONE KNOWN.
+    EYE: NONE KNOWN. INHAL: LONG-TERM EXPOSURE MAY CAUSE EROSION OF
+    TEETH.
+Medical Cond Aggravated by Exposure:NONE KNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGEST: DO NOT INDUCE VOMIT. GIVE LRG QTYS OF WATER OR MILK,
+    IF AVAILABLE. NEVER GIVE ANYTHING BY MOUTH TO UNCON PERSON. GET MD
+    IMMED. SKIN: REMOVE CONTAM CLTHG, FLOOD SKIN W/LRG AMTS OF WATER.
+    IF IRR IT PERSISTS SEEK MD. EYE: IMMED FLUSH EYES, INCLUDING UNDER
+    LIDS, WITH LRG AMTS OF WATER FOR AT LEAST 15 MIN. CALL MD. INHAL:
+    NO SPECIFIC INFORMATION AVAIL, ONE SHOULD OBTAIN MD.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON-COMBUSTIBLE
+Extinguishing Media:USE WATER, CO2, DRY CHEM EXTINGUISHING AGENTS, DRY
+    SAND, OR DRY GROUND DOLOMITE.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPRVD SCBA & FULL PROT EQUIP
+    . IF WITHOUT RISK, REMOVE MATERIAL FROM FIRE AREA. COOL CONTAINER
+    WITH WATER FROM MAXIMUM DISTANCE.
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEARING FULL PROTECTIVE EQUIPMENT, COVER SPILL
+    WITH DRY SAND OR VERMICULITE. MIX WELL AND CAREFULLY TRANSFER TO A
+    CONTAINER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER TIGHTLY CLOSED. STORE
+    IN A COOL, DRY, WELL-VENTILATED AREA. WASH THOROUGHLY AFTER USE.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE A NIOSH/MSHA APPROVED RESPIRATOR WITH AN
+    ACID/ GAS CARTRIDGE.
+Ventilation:LABORATORY FUME HOOD.
+Protective Gloves:RUBBER GLOVES RECOMMENDED.
+Eye Protection:CHEM WORK GOGG&FULL LENGTH FACESHLD
+Other Protective Equipment:LAB COAT/APRON/FLAME & CHEM RESIST
+    COVERALLS/ EYEWASH CAPABLE OF SUSTAINED FLUSHING/SAFETY DRENCH
+    SHOWER & HYGIENIC FAC.
+Work Hygienic Practices:WASH THOROUGHLY AFTER USE.
+Supplemental Safety and Health
+MFR PART NO: MULTIELEMENT SOLUTION, 14653. MATL TO AVOID: CARBIDES,
+    HYDROGEN SULFIDE & COMBUSTIBLE ORGANICS. WILL REACT WITH THOSE
+    MATERIALS INCOMPATIBLE WITH AQUEOUS SOLUTIONS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:212F,100C
+Melt/Freeze Pt:M.P/F.P Text:32.0F,0.0C
+Spec Gravity:APPROXIMATELY 1
+Solubility in Water:SOLUBLE
+Appearance and Odor:CLEAR LIQUID, ODOR OF NITRIC ACID.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NITRIC ACID IS POWERFUL OXIDIZING AGENT & IS INCOMPAT W/MOST SUBSTANCES
+    ESP STRONG BASES, METALLIC POWDERS, (SUPP DATA)
+Stability Condition to Avoid:INCOMPATIBLES.
+Hazardous Decomposition Products:NOX, HEAT.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT STATE, LOCAL OR FEDERAL EPA REGULATIONS
+    FOR PROPER DISPOSAL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

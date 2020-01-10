@@ -1,0 +1,145 @@
+=====================  Product Identification  =====================
+
+Product ID:CX & G AGENT SIMULANT VIAL,(SEE SUPP)
+MSDS Date:01/01/1987
+FSC:6910
+NIIN:00-106-4800
+Kit Part:Y
+MSDS Number: BHWFF
+=== Responsible Party ===
+Company Name:CHEMTRONICS,INC NOW,JET RESEARCH
+Address:180 OLD BEE TREE ROAD
+City:SWANNANOA
+State:NC
+ZIP:28778
+Country:US
+Info Phone Num:704-298-7941
+Emergency Phone Num:704-298-7941
+CAGE:KO082
+=== Contractor Identification ===
+Company Name:CHEMTRONICS INC
+Address:180 OLD BEE TREE RD
+Box:City:SWANNANOA
+State:NC
+ZIP:28778-3409
+Country:US
+Phone:NOT LISTED IN PHONE DIRECTORY
+CAGE:60737
+Company Name:CHEMTRONICS,INC NOW JET RESEARCH(NO LONGER MFR)
+Address:180 OLD BEE TREE ROAD
+Box:City:SWANNANOA
+State:NC
+ZIP:28778
+Country:US
+Phone:703-298-7941
+CAGE:KO082
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BENZENESULFONYL CHLORIDE  (SARA III)
+CAS:98-09-9
+RTECS #:DB8750000
+Other REC Limits:N/K 
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:BENZOYL CHLORIDE  (SARA III)
+CAS:98-88-4
+RTECS #:DM6600000
+Other REC Limits:N/K 
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 RAT ORAL 1140 MG/KG.LC50 32 PPM.
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:VAPORS HARMFUL.CORROSIVE TO SKIN.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES:HIGHLY
+    IRRITATING.SKIN:CORROSIVE.INGESTION:N/K .INHALATION:VAPORS HARMFUL.
+Medical Cond Aggravated by Exposure:N/K 
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH WITH WATER FOR 15 MINUTES.SKIN:FLUSH AFFECTED AREA
+    WITH WATER FOR 15 MINUTES.INGESTION:DO NOT INDUCE
+    VOMITING.INHALATION:ADMINISTER ARTIFICIAL RESPIRATION OR OXYGEN AS
+    NEEDED.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:160F,71.1C
+Lower Limits:N/K 
+Upper Limits:N/K 
+Extinguishing Media:DRY CHEMICAL,CARBON DIOXIDE.DO NOT USE WATER.
+Fire Fighting Procedures:WEAR SCBA,PROTECTIVE CLOTHING AND
+    GLOVES.PREVENT EYE AND SKIN CONTACT.
+Unusual Fire/Explosion Hazard:EMITS TOXIC FUMES OF HYDROGEN CHLORIDE
+    AND PHOSGENE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:PROVIDE ADEQUATE VENTILATION.CLEAN-UP
+    PERSONNEL NEED PROTECTIVE EQUIPMENT.ABSORB WITH VERMICULITE OR
+    NEUTRALIZE WITH SODA ASH OR LIME.VENT DISPOSAL CONTAINER.
+Neutralizing Agent:SODA ASH OR LIME.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:90 DAY SHELF LIFE IN ORIGINAL
+    CONTAINER.AFTERWARD TRANSFER TO GLASS.AVOID SKIN AND EYE CONTACT.DO
+    NOT INHALE VAPORS.
+Other Precautions:PROTECT CONTAINERS FROM PHYSICAL DAMAGE.CONTACT WITH
+    WATER PRODUCES EXOTHERMIC REACTION PRODUCING HCL GAS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR OSHA/MSHA ORGANIC RESPIRATOR OR SCBA.
+Ventilation:CONSULT LOCAL SAFETY/HEALTH AUTHORITIES IF ADDITIONAL
+    GUIDANCE IS NEEDED .
+Protective Gloves:CHEMICAL RESISTANT RUBBER.
+Eye Protection:SPLASH PROOF GOGGLES.
+Other Protective Equipment:N/K 
+Work Hygienic Practices:N/K 
+Supplemental Safety and Health
+WASTE DISPOSAL METHOD:DO NOT DISCHARGE TO SEWER.BURY IN APPROVED
+    LANDFILL OR INCINERATE IN EQUIPMENT WITH AFTER BURNER AND
+    SCRUBBER.PART NO:(M72-A1 TRNG SET,CHEM.).
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>200C,392F
+Melt/Freeze Pt:M.P/F.P Text:N/K 
+Decomp Temp:Decomp Text:N/K 
+Vapor Density:>1 (AIR=1)
+Spec Gravity:1.23 (WATER=1)
+Evaporation Rate & Reference:>1 (NO REFERENCE ON MSDS)
+Solubility in Water:DECOMPOSES
+Appearance and Odor:COLORLESS,FUMING LIQUID.
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+WATER,ALCOHOLS,OXIDIZERS,STRONG BASES.
+Stability Condition to Avoid:MOISTURE
+Hazardous Decomposition Products:HYDROGEN CHLORIDE AND PHOSGENE.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE IN ACCORDANCE WITH
+    FEDERAL,STATE AND LOCAL REGULATIONS.COORDINATION WITH SUPPORTING
+    INSTALLATION AND/OR MACOM ENVIRONMENTAL COORDINATION PRIOR TO
+    DISPOSAL IS RECOMMENDED TO DETERMINE  APPROPRIATE DISPOSAL METHODS
+    .(SEE SUPP)
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

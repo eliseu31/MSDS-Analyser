@@ -1,0 +1,142 @@
+=====================  Product Identification  =====================
+
+Product ID:SKIN PROTECTIVE COMPOUND
+MSDS Date:08/01/1990
+FSC:6850
+NIIN:00-244-4893
+MSDS Number: BHWWB
+=== Responsible Party ===
+Company Name:STARMARK
+Address:605 7TH AVE. NORTH
+City:SAFETY HARBOR
+State:FL
+ZIP:34695
+Country:US
+Info Phone Num:813-725-5055
+Emergency Phone Num:813-725-5055
+CAGE:0EC24
+=== Contractor Identification ===
+Company Name:STARMARK
+Address:605 7TH AVENUE NORTH
+Box:City:SAFETY HARBOR
+State:FL
+ZIP:34695
+Phone:800-437-3421
+CAGE:0EC24
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:STEARIC ACID
+CAS:57-11-4
+RTECS #:WI2800000
+Fraction by Wt: 18.18%
+
+Ingred Name:ARLACEL 165
+Fraction by Wt: 3.63%
+
+Ingred Name:PROPYLENE GLYCOL
+CAS:57-55-6
+RTECS #:TY2000000
+Fraction by Wt: 2.50%
+
+Ingred Name:PETROLATUM
+Fraction by Wt: 1.09%
+
+Ingred Name:MINERAL OIL (EXPOSURE REGULATED AS 'OIL MIST')
+CAS:8012-95-1
+RTECS #:PY8030000
+Fraction by Wt: 1.78%
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3/10 STEL;9192
+
+Ingred Name:DC 200 FLUID
+Fraction by Wt: 0.72%
+
+Ingred Name:METHYL PARABEN
+Fraction by Wt: 0.30%
+
+Ingred Name:HYDROXYETHYL CELLULOSE
+Fraction by Wt: 0.18%
+
+Ingred Name:PROPYLPARABEN
+Fraction by Wt: 0.17%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:NONE EXPECTED IF USED AS DIRECTED.NO
+    DATA PER MSDS.
+Explanation of Carcinogenicity:DATA PER MGF MSDS.
+Effects of Overexposure:SEE HEALTH HAZARDS DATA.
+Medical Cond Aggravated by Exposure:NONE EXPECTED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES AND SKIN:FLUSH WITH LARGE AMOUNT OF WATER FOR ABOUT
+    15-20 MINUTES;SEEK MEDICAL ATTENTION IMMEDIATELY.INHALATION:REMOVE
+    TO FRESH AIR;CALL A PHYSICIAN.INGESTION:SEEK MEDICAL ATTENTION
+    IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:NOT FLAMMABLE
+Fire Fighting Procedures:NONE
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPER PERSONAL PROTECTION;CLEAN UP WITH
+    DESSICANT AND COLLECT FOR PROPER DISPOSAL IN AN APPROVED CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DRY AND WELL VENTILATED
+    AREA.KEEP CONTAINER CLOSED WHEN NOT IN USE.
+Other Precautions:SE AS DIRECTED
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NORMALLY NOT REQUIRED.
+Ventilation:NORMAL ROOM VENTILATION
+Protective Gloves:NONE NEEDED
+Eye Protection:SAFETY GLASSES/GOGGLES
+Other Protective Equipment:NONE NEEDED
+Work Hygienic Practices:AS RECOMMENDED
+Supplemental Safety and Health
+NONE NOTED
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Spec Gravity:>1
+pH:6 TO 8
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:CREAMY EMULSION,NO ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:HIGH TEMPERATURES(ABOVE 180F )
+Hazardous Decomposition Products:NOT SPECIFIED
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT LOCAL AUTHORITIES;DISPOSAL MUST BE IN
+    ACCORDANCE WITH LOCAL,STATE AND FEDERAL REGULATIONS
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

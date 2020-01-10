@@ -1,0 +1,121 @@
+=====================  Product Identification  =====================
+
+Product ID:METEX 19008 PREDIP
+MSDS Date:05/06/1987
+FSC:3439
+NIIN:00F019120
+MSDS Number: BLPLG
+=== Responsible Party ===
+Company Name:MACDERMID INCORPORATED
+Address:526 HUNTINGDON AVENUE
+City:WATERBURY
+State:CT
+ZIP:06720
+Info Phone Num:(513) 489-3888
+Emergency Phone Num:(203) 575-5700
+CAGE:IFK56
+=== Contractor Identification ===
+Company Name:MACDERMID INC
+Address:526 HUNTINGTON AVENUE
+Box:City:WATERBURY
+State:CT
+ZIP:06702
+Country:US
+Phone:203-575-5700
+CAGE:1FK56
+Company Name:MACDERMID INCORPORATED
+Address:526 HUNTINGDON AVENUE
+City:WATERBURY
+State:CT
+ZIP:06708
+Phone:203-575-5700,313-644-5626
+CAGE:IFK56
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HYDROGEN CHLORIDE  (HYDROCHLORIC ACID)  (SARA III)
+CAS:7647-01-0
+RTECS #:MW4025000
+Fraction by Wt: 2%
+Other REC Limits:7 PPM
+OSHA PEL:C 5 PPM
+ACGIH TLV:C 5 PPM; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION, BURNS & CORROSIVE.
+    SKIN: IRRITATION & CORROSIVE. INHALATION: MUCOUS MEMBRANE
+    IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: IRRITATION, BURNS & CORROSIVE. SKIN:
+    IRRITATION & CORROSIVE. INHALATION: MUCOUS MEMBRANE IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES/SKIN: FLUSH THOROUGHLY W/WATER FOR AT LEAST 15 MINS.
+    INHALATION: REMOVE TO FRESH AIR. INGESTION: DRINK WATER/MILK OF
+    MAGNESIA. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON-FLAMMABLE
+Extinguishing Media:USE ANY MEDIA APPROPRIATE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS & FULL
+    PROTECTIVE CLOTHING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE CLOTHING NEVER DISCHARGE
+    DIRECTLY INTO SEWERS OR WATERWAYS. VENTILATE AREA. FLUSH W/WATER TO
+    CHEMICAL DRAIN. NEUTRALIZE TO PH 6 TO 8 W/DILUTE BASE & DISCARD.
+Neutralizing Agent:DILUTE BASE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP IN CLOSED CONTAINERS IN A COOL
+    STORAGE LOCATION.
+Other Precautions:AVOID EYE/SKIN CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AS REQUIRED.
+Ventilation:MECHANICAL/GENERAL TO KEEP <TLV.
+Protective Gloves:RUBBER
+Eye Protection:SPLASH-PROOF GOGGLES
+Other Protective Equipment:RUBBER APRON, BOOTS
+Work Hygienic Practices:ALWAYS WASH CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:221F
+Vapor Pres:AQUEOUS
+Spec Gravity:1.17
+pH:<1
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR, WATER WHITE LIQUID W/NO ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ALKALINE & CYANIDES MATERIALS
+Hazardous Decomposition Products:HYDROGEN GAS & HYDROGEN CHLORIDE
+    VAPORS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. CORROSIVE MATERIAL. NA: 1789.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

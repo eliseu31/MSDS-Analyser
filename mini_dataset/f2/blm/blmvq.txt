@@ -1,0 +1,151 @@
+=====================  Product Identification  =====================
+
+Product ID:FAST FLUSH
+MSDS Date:08/25/1992
+FSC:6850
+NIIN:01-053-2540
+MSDS Number: BLMVQ
+=== Responsible Party ===
+Company Name:VALVOLINE OIL CO SUBSIDIARY OF ASHLAND OIL INC.
+Address:200 E MAIN ST
+Box:14000
+City:LEXINGTON
+State:KY
+ZIP:40512
+Country:US
+Info Phone Num:606-264-7000/7616;FAX 601-429-0537
+Emergency Phone Num:800-ASHLAND/800-274-5263
+CAGE:72527
+=== Contractor Identification ===
+Company Name:AMCO CHEMICAL CORP
+Address:3RD - CYPRS
+Box:208
+City:OAKLAND
+State:CA
+ZIP:94607
+Country:US
+Phone:NOT IN BUSINESS! 911008P505A ???
+CAGE:97984
+Company Name:PHOENIX INDUSTRIES INC
+Address:1519 CHAMBERLAYNE PARKWAY
+Box:City:RICHMOND
+State:VA
+ZIP:23222
+Country:US
+Phone:804-264-5183/FAX: 264-5535
+CAGE:0YED2
+Company Name:VALVOLINE OIL CO
+Address:3499 BLAZER PKY
+Box:14000
+City:LEXINGTON
+State:KY
+ZIP:40512
+Country:US
+Phone:606-357-7206 / 800-274-5263
+CAGE:72527
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM PHOSPHATE, TRIBASIC (CERCLA)
+CAS:7601-54-9
+RTECS #:TC9490000
+Fraction by Wt: 1-10%
+Other REC Limits:NONE SPECIFIED
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:POLYOXYPROPYLENE GLYCOL
+CAS:9003-11-6
+RTECS #:MD0911050
+Fraction by Wt: 1-5%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:PRODUCT'S LD50 (ORAL RAT) WAS NOT STATED
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE-SKIN:MAY CAUSE IRRITATION.
+    EYES:MAY CAUSE IRRITATION. INHALATION:MAY CAUSE DISCOMFORT OR
+    IRRITATION TO NASAL AND RESPIRATORY PASSAGES. INGESTION:MAY CAUSE
+    G/I IRRITATION. CHRONIC-MFR GAVE NO INF ORMATION ON MSDS.
+Explanation of Carcinogenicity:MANUFACTURER GAVE NO INFORMATION ABOUT
+    CARCINOGENICITY. HMIS FOUND NO LISTING & DOES NOT EXPECT IT TO BE
+    CARCINOGENIC.
+Effects of Overexposure:EYES:IRRITATION. SKIN:IRRITATION.
+    INHALATION:RESPIRATORY IRRITATION. INGESTION:G/I IRRITATION.
+Medical Cond Aggravated by Exposure:MFR GAVE NO INFORMATION ON MSDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:IF ANY IRRITATION PERSISTS OR SEVERE, GET MEDICAL ATTENTION.
+    EYE:FLUSH W/WATER FOR 15 MIN. SKIN:WASH W/SOAP & WATER. REMOVE
+    CONTAMINATED CLOTHING & LAUNDER BEFORE REUSE. INHALED:REMOVE FROM
+    EXPOSURE.  AID OR RESTORE BREATHING AS NEEDED. INGESTED:IMMEDIATELY
+    DRINK 2 GLASSES OF WATER & INDUCE VOMITING BY IPECAC OR FINGER IN
+    BACK OF THROAT. (NOTHING BY MOUTH IF UNCONSCIOUS!) GET IMMEDIATE
+    MEDICAL ATT.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER FOG OR ALCOHOL FOAM.
+Unusual Fire/Explosion Hazard:MFR GAVE NO INFORMATION ON MSDS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB LIQUID WITH VERMICULITE FLOOR
+    SASORBENT, PERLITE OR OTHER ABSORBENT MATERIAL.
+Neutralizing Agent:MFR GAVE NO INFORMATION ON MSDS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:"EMPTY" CONTAINERS RETAIN RESIDUE &
+    CAN IGNITE EXPLOSIVELY. DO NOT CUT, DRILL, OR WELD ON OR NEAR FULL
+    OR EMPTY CONTAINERS.
+Other Precautions:MFR GAVE NO INFORMATION ON MSDS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT REQUIRED UNDER NORMAL CONDITIONS OF USE.
+Ventilation:NOT REQUIRED UNDER NORMAL CONDITIONS OF USE.
+Protective Gloves:RESISTANT GLOVES SUCH AS NEOPRENE
+Eye Protection:CHEMICAL SPLASH GOGGLES
+Other Protective Equipment:IMPERVIOUS CLOTHING & BOOTS TO PREVENT
+    PROLONGED &/OR REPEATED SKIN CONTACT.
+Work Hygienic Practices:MFR GAVE NO INFORMATION ON MSDS.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+NRC/State Lic Num:NONE
+Boiling Pt:B.P. Text:212F,100C
+Vapor Pres:17.50 MM
+Vapor Density:>1
+Spec Gravity:1.010 - 1.020
+pH:10-11
+Evaporation Rate & Reference:<1 (ETHER=1)
+Appearance and Odor:CLEAR, YELLOW LIQUID
+Percent Volatiles by Volume:85-100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG MINERAL ACIDS
+Stability Condition to Avoid:MFR GAVE NO INFORMATION ON MSDS.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF I/A/W FEDERAL, STATE & LOCAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

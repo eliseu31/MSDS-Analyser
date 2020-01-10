@@ -1,0 +1,144 @@
+=====================  Product Identification  =====================
+
+Product ID:CARUSORB
+MSDS Date:07/28/1989
+FSC:6850
+NIIN:01-303-1336
+MSDS Number: BJDLC
+=== Responsible Party ===
+Company Name:CARUS CHEMICAL CO INC
+Address:1375 8TH ST
+City:LA SALLE
+State:IL
+ZIP:61301-1964
+Country:US
+Info Phone Num:815-433-9070
+Emergency Phone Num:800-435-6856
+Preparer's Name:HORST R.ADOLF
+CAGE:9C265
+=== Contractor Identification ===
+Company Name:CARUS CHEMICAL CO INC
+Address:1375 8TH ST
+Box:City:LASALLE
+State:IL
+ZIP:61301-1964
+Country:US
+Phone:815-223-1500
+CAGE:9C265
+Company Name:ETHYLENE EATERS INC
+Address:18919 NE 5TH AVE
+Box:City:MIAMI
+State:FL
+ZIP:33179
+Country:US
+Phone:305-655-0704
+CAGE:0FJH7
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POTASSIUM PERMANGANATE  (SARA III)
+CAS:7722-64-7
+RTECS #:SD6475000
+Fraction by Wt: 3-6%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:5 MG MN/M3;CEILING
+ACGIH TLV:5 MG MN/M3; 9192
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:ALPHA-ALUMINA (ALUMINUM OXIDE)  (EPA LISTS ONLY FIBROUS
+    FORMS)  (SARA III)
+CAS:1344-28-1
+RTECS #:BD1200000
+Fraction by Wt: 75-80%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE EFFECTS:MAY BE IRRITATING TO
+    TISSUE WITH WHICH IT COMES IN CONTACT. CHRONIC EFFECTS:PROLONGED
+    INHALATION OF MANGANESE COMPOUNDS ABOVE THE THRESHOLD LIMIT VALUES
+    MAY CAUSE LUNG IRRITATION AND CEN TRAL NERVOUS SYSTEM DISORDERS.
+Effects of Overexposure:MAY BE IRRITATING OR CORROSIVE TO BODY TISSUE
+    WITH WHICH IT COMES IN CONTACT.
+Medical Cond Aggravated by Exposure:FURTHER IRRITATION TO TISSUE OR
+    OPENT WOUNDS, BURNS, AND MUCOUS MEMBRANES.
+
+=======================  First Aid Measures  =======================
+
+First Aid:FIRST AID-EYE CONTACT:IMMEDIATELY WASH WITH LARGE AMOUNTS OF
+    WATER FOR 15 MINUTES. SKIN CONTACT:IMMEDIATELY WASH WITH SOAP AND
+    WATER. INHALATION:MOVE PERSON OUT OF CONTAMINATED AREA.
+    INGESTION:GIVE SE VERAL GLASSES OF WATER OR MILK, IF AVAILABLE.
+    SEEK MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER.
+Fire Fighting Procedures:SOAK SPHERES WITH WATER. PRODUCT IS NOT
+    COMBUSTIBLE, BUT WILL SUPPORT COMBUSTION.
+Unusual Fire/Explosion Hazard:MODERATE FIRE HAZARD BY CHEMICAL
+    REACTION.CONTAINS STRONG OXIDIZER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP AS MUCH AS POSSIBLE. FLUSH WITH LARGE
+    AMOUNTS OF WATER, IF PERMITTED BY FEDERAL, STATE AND LOCAL
+    REGULATION.
+Neutralizing Agent:10% SODIUM THIOSULFATE SOLUTION (NA2S2O3).
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:PROTECT CONTAINERS AGAINST PHYSICAL
+    DAMAGE. STORE IN A COOL, DRY AREA IN CLOSED CONTAINERS. SEGREGATE
+    FROM ACIDS AND COMBUSTIBLE MATERIALS.
+Other Precautions:NONE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA-APPROVED RESPIRATOR WITH DUST
+    CARTRIDGE.
+Ventilation:MECHANICAL (GENERAL) VENTILATION.
+Protective Gloves:RUBBER OR PLASTIC GLOVES.
+Eye Protection:SAFETY GLASSES.
+Other Protective Equipment:REGULAR WORK CLOTHING. SAFETY SHOWER AND EYE
+    WASH STATION.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING AND BEFORE
+    EATING OR SMOKING. WASH CONTAMINATED CLOTHING BEFORE REUSE
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T6
+Melt/Freeze Pt:M.P/F.P Text:392F DECOMP
+Spec Gravity:3.3
+Solubility in Water:COMPLETE FOR KMNO4
+Appearance and Odor:PURPLE SPHERES. ODORLESS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS, OXIDIZABLE MATTER, OR REDUCING MATTER.
+Stability Condition to Avoid:INTENSE HEAT (392F OR MORE).
+Hazardous Decomposition Products:IN CONTACT WITH HYDROCHLORIC ACID,
+    TOXIC CHLORINE GAS WILL EVOLVE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:NOTIFY YOUR LOCAL ENVIRONMENTAL OFFICER. KEEP IN
+    COVERED CONTAINERS PENDING DISPOSAL. REDUCE WITH HYPO (SODIUM
+    THIOSULFATE, NA2S2O3) SOLUTION AND DEPOSIT IN PERMITTED LANDFILL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

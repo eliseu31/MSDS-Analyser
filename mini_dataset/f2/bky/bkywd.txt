@@ -1,0 +1,133 @@
+=====================  Product Identification  =====================
+
+Product ID:PR1436G-B-2 SEALING COMPOUND
+MSDS Date:02/01/1989
+FSC:8030
+NIIN:01-234-2186
+MSDS Number: BKYWD
+=== Responsible Party ===
+Company Name:PRODUCTS RESEARCH & CHEMICAL CORPORATION
+Address:5430 SAN FERNANDO ROAD
+Box:1800
+City:GLENDALE
+State:CA
+ZIP:91209
+Info Phone Num:(818) 240-2060
+Emergency Phone Num:(800) 228-5635
+Preparer's Name:JCS
+CAGE:DO563
+=== Contractor Identification ===
+Company Name:PRC-DESOTO INTERNATIONAL, INC. A PPG INDUSTRIES COMPANY
+Address:5430 SAN FERNANDO RD
+Box:1800
+City:GLENDALE
+State:CA
+ZIP:91209
+Country:US
+Phone:818-240-2060
+CAGE:83574
+Company Name:PRODUCTS RESEARCH & CHEMICAL
+Address:NOW DBA COURTAULDS AEROSPACE
+Box:1800
+City:GLENDALE
+State:CA
+ZIP:91209
+Phone:818-240-2060
+CAGE:DO563
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DIMETHYL ACETAMIDE
+CAS:127-19-5
+RTECS #:AB7700000
+Fraction by Wt: 35%
+Other REC Limits:10 PPM
+OSHA PEL:S, 10 PPM
+ACGIH TLV:S, 10 PPM; 9192
+
+Ingred Name:CALCIUM DICHROMATE, CHROMIUM (VI)
+CAS:14307-33-6
+RTECS #:HX7630000
+Fraction by Wt: 15%
+OSHA PEL:0.5 MG/CUM
+ACGIH TLV:0.5 MG/CUM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION, DAMAGE. SKIN:
+    IRRITATION, ALLERGIC RASH, ABSORPTION, PAINLESS PENETRATING ULCERS.
+    INHALATION: IRRITATION OF MUCOUS MEMBRANES, BRONCHO ASTHMA,
+    IRRITATION, NAUSEA, HEADACHE, WEAKNESS.  INGESTION: IRRITATION OF
+    STOMACH/INTESTINES, NAUSEA, VOMITING, DIARRHEA, POSSIBLE
+    LIVER/KIDNEY DAMAGE.
+Explanation of Carcinogenicity:HEXAVALENT CHROMIUM COMPOUND IS A
+    CONSIDERED TO BE A CARCINOGEN BY ACGIH.
+Effects of Overexposure:INHALATION: PROLONGED EXPOSOURE TO HEXAVALENT
+    CHROMIUM COMPOUNDS MAY CAUSE PENETRATING ULCERS OF THE MUCOUS
+    MEMBRANES OF THE NOSE/PERFORATION OF THE CARTILAGINOUS NASAL
+    SEPTUM. SKIN: PAINLESS PENETRAT ING ULCERS. EYES: IRRITATION &
+    DAMAGE. INGESTION: IRRITATION OF STOMACH/INTESTINES, LIVER & KIDNEY
+    DAMAGE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/LUKE WARM WATER FOR 15 MINS. SKIN: WASH W/SOAP
+    & WATER. INHALATION: REMOVE TO FRESH AIR. INGESTION: OBTAIN MEDICAL
+    ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NOT FLAMMABLE
+Extinguishing Media:CO2, DRY CHEMICAL, FOAM
+Fire Fighting Procedures:USE AIR SUPPLIED RESPIRATOR. USE COMPLETE
+    PERSONAL PROTECTION. USE WATER TO COOL HEAT EXPOSED CONTAINERS.
+Unusual Fire/Explosion Hazard:FLAMMABLE LIQUIDS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DIKE & COVER THE SPILL W/A NON-OXIDIZABLE
+    ABSORBANT. SCOOP INTO CONTAINER. SPRINKLE SODIUM THIOSULFATE ON
+    RESIDUE. WORK INTO RESIDUE. SCOOP INTO DISPOSAL CONTAINER. CLEAN
+    AREA W/WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID INGESTION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:PROVIDE GENERAL VENTILATION TO KEEP <TLV
+Protective Gloves:SOLVENT RESISTANT
+Eye Protection:CHEMICAL GOGGLES OR FULL-FACE SHIELD
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING & BEFORE SMOKING
+    OR EATING.
+Supplemental Safety and Health
+HEXAVALENT CHROMIUM COMPOUNDS OF THIS PRODUCT IS LISTED: "CHEMICALS
+    KNOW BY THE STATE OF CALIFORNIA TO CAUSE CANCER."
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:1.38
+Solubility in Water:APPRECIABLE
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Hazardous Decomposition Products:OXIDES OF CARBON & NITROGEN, CHROMIUM
+    COMPOUNDS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:EPA WASTE NO D-007. DISPOSE OF SPILLAGE IN
+    COMPLIANCE W/FEDERAL & STATE REGULATIONS. FLAMMABLE LIQUIDS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,147 @@
+=====================  Product Identification  =====================
+
+Product ID:793-416
+MSDS Date:01/01/1985
+FSC:8010
+NIIN:00-171-1503
+MSDS Number: BDFJG
+=== Responsible Party ===
+Company Name:PRATT AND LAMBERT INC
+Address:945 BURLINGTON
+Box:206
+City:KANSAS CITY
+State:MO
+ZIP:64141
+Country:US
+Emergency Phone Num:316-733-1361
+CAGE:92216
+=== Contractor Identification ===
+Company Name:PRATT AND LAMBERT INC
+Address:945 BURLINGTON
+Box:206
+City:KANSAS CITY
+State:MO
+ZIP:64141
+Country:US
+CAGE:92216
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOBUTYL ACETATE  (SARA III)
+CAS:110-19-0
+RTECS #:AI4025000
+Fraction by Wt: 25.0%
+OSHA PEL:150 PPM
+ACGIH TLV:150 PPM; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ISOBUTYL ALCOHOL  (SARA III)
+CAS:78-83-1
+RTECS #:NP9625000
+Fraction by Wt: 8.0%
+OSHA PEL:100 PPM
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ALIPHATIC NAPHTHA
+RTECS #:SE7525000
+Fraction by Wt: 15.0%
+ACGIH TLV:200 PPM
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: 15.0%
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 8.0%
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:INHALED: ANESTHETIC&IRRITATION TO AIRWAY.
+    IRRITATION TO SKIN AND EYES. HDACHE, DIZZY, COMA
+
+=======================  First Aid Measures  =======================
+
+First Aid:IN CASE OF CONTACT, REMOVE CONTAM CLTHNG AND FLUSH SKIN AND
+    EYES W/ PLENTY OF WATER. IF INHALED, REMOVE TO FRESHA IR. CALL MD
+    IF SYMPTOMS PERSIST
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:13F, -11C TCC
+Lower Limits:0.9
+Extinguishing Media:CARBON DIOXIDE/DRY CHEMICAL-SMALL. POLYMER
+    FOAM-LARGE FIRE
+Fire Fighting Procedures:SELF CONTAINED BRTHNG APPAR AVAIL FOR FIREMEN
+Unusual Fire/Explosion Hazard:CLOSED CONTAINERS EXPOSED TO HEAT MAY
+    EXPLODE DUE TO PRESS BUILD UP. USE WATER TO COOL CLOSED CANS
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION (FLAMES, HOT
+    SURFACES AND ELECTRICAL, STATIC OR FRICTIONAL SPARKS). AVOID BRTHNG
+    VAPORS. VENTILATE AREA. REMOVE WITH INERT ABSORBENT AND
+    NON-SPARKING TOOLS
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT STORE ABOVE 120F. STORE LARGE
+    QUANTITIES IN BUILDINGS DESIGNED AND PROTECTED FOR STORAGE OF NFPA
+    CLASS ONE FLAMMABLE (OR COMBUSTIBLE) LIQUID
+Other Precautions:DO NOT TAKE INTERNALLY, CONTAINERS SHOULD BE GROUNDED
+    WHEN POURING. AVOID FREE FALL IN EXCESS OF A FEW INCHES. DO NOT
+    FLAME CUT, BRAZE OF WELD COATED MATERIAL W/O VENTILATION
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:APPROVED BUREAU OF MINES RESPIRATORS W/ PROPER
+    HOOD OR FILTER
+Ventilation:GENERAL DILUTION/LOCAL EXHAUST FOR TLV& LEL SAFETY&WELDING
+Protective Gloves:ALOT OF CONTACT
+Eye Protection:USE EYEWEAR IF SPLASHING
+Other Protective Equipment:PREVENT PROLONGED SKIN CONTACT TO CONTAM
+    CLTHNG
+Supplemental Safety and Health
+BOILING RANGE 79-143C, ALSO CONTAINS ISOPROPYL ALCOHOL <5%, VM6P
+    NAPHTHA <5%, CELLOSOLVE ACETATE <0.5%
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:B.P. Text:174-290F
+Evaporation Rate & Reference:<ETHER
+Appearance and Odor:DARK GREEN PAINT
+Percent Volatiles by Volume:80.0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:FIRES, HEAT, HOT SURFACES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH STATE, LOCAL AND
+    FEDERAL REGS. DO NOT INCINERATE CLOSED CONTAINERS. INCINERATE IN
+    APPROVED FACILTY.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

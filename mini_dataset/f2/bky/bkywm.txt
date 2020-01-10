@@ -1,0 +1,124 @@
+=====================  Product Identification  =====================
+
+Product ID:DOBELL & O'CONNORS IODINE SOLUTION
+MSDS Date:03/05/1990
+FSC:6550
+NIIN:01-245-9042
+MSDS Number: BKYWM
+=== Responsible Party ===
+Company Name:BDMS - MARION BD MICROBIOLOGY SYS
+Box:243
+City:COCKEYVILLE
+State:MD
+ZIP:21030
+Info Phone Num:(816) 866-5000
+Emergency Phone Num:(816) 866-5000
+CAGE:BDMIC
+=== Contractor Identification ===
+Company Name:BDMS - MARION BD MICROBIOLOGY SYS
+Box:City:COCKEYVILLE
+State:MD
+ZIP:21030
+Phone:(816) 866-5000
+CAGE:BDMIC
+Company Name:CURTIN MATHESON SCIENTIFIC INC
+Address:7677 EQUITABLE DR
+Box:City:EDEN PRAIRIE
+State:MN
+ZIP:55344-3676
+Country:US
+Phone:612-934-1793
+CAGE:5K095
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POTASSIUM IODIDE, POTIDE, HYDRIOCIC ACID, POTASSIUM SALT
+CAS:7681-11-0
+RTECS #:TT2975000
+Fraction by Wt: 2%
+
+Ingred Name:IODINE
+CAS:7553-56-2
+RTECS #:NN1575000
+Fraction by Wt: 1%
+Other REC Limits:0.1 PPM
+OSHA PEL:C 0.1 PPM
+ACGIH TLV:C 0.1 PPM; 9192
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): 1300 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION. INHALATION: MUCOUS
+    MEMBRANES IRRITATION & INDUCE HYPERTHYROIDISM. INGESTION: NAUSEA,
+    VOMITING, & DIARRHEA. SKIN: IRRITATION & ABSORPTION THROUGH BROKEN
+    SKIN, BURNS OR DEEP WOUNDS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: IRRITATION. INHALATION: MUCOUS MEMBRANES
+    IRRITATION & INDUCE HYPERTHYROIDISM. INGESTION: NAUSEA, VOMITING, &
+    DIARRHEA. SKIN: IRRITATION & ABSORPTION THROUGH BROKEN SKIN, BURNS
+    OR DEEP WOUNDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER FOR 15 MINS. SKIN: WASH W/SOAP/WATER.
+    INGESTION: GIVE AQUEOUS STARCH/FLOUR SLURRY (1 TBSP TO 1 PINT).
+    INITIATE EMISIS UNLESS COMATOSE/CONVULSING/LOST GAG REFLEX. IF SO,
+    PROCEED W/E NDOTRACHEAL INTUBATION/GASTRIC LAVAGE. GIVE ACTIVATED
+    CHARCOAL, CATHARTIC MAGNESIUM SULFATE, OR MAGNESIUM CITRATE.
+    INHALATION: REMOVE TO FRESH AIR. OBTAIN MEDICAL ATTENTION IN ALL
+    CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER. PRODUCT IS NONCOMBUSTIBLE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE EQUIPMENT. COVER SPILLS W/WEAK
+    REDUCING AGENTS. NEUTRALIZE W/SODA ASH OR SLAKED LIME IN PLENTY OF
+    WATER. FLUSH RESIDUAL TO DRAIN.
+Neutralizing Agent:SODA ASH OR SLAKED LIME
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL-VENTILATED
+    AREA. KEEP CONTAINER CLOSED.
+Other Precautions:AVOID BREATHING MIST OR FUMES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AS REQUIRED
+Ventilation:NORMAL GOOD ROOM VENTILATION
+Protective Gloves:IMPERVIOUS
+Eye Protection:SPLASHPROOF GOGGLES, FACE SHIELD
+Other Protective Equipment:AS REQUIRED
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+pH:7
+Solubility in Water:COMPLETE
+Appearance and Odor:DARK BROWN LIQUID W/SHARP CHARACTERISTIC ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+REDUCING MATERIALS, AMMONIA, METALLIC POWDERS
+Stability Condition to Avoid:EXTREME HEAT
+Hazardous Decomposition Products:TOXIC FUMES OF IODINE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,137 @@
+=====================  Product Identification  =====================
+
+Product ID:FIVE STAR SAE 30(OE/HDO-30;O-238)
+MSDS Date:11/01/1985
+FSC:9150
+NIIN:00-189-6729
+MSDS Number: BDHSM
+=== Responsible Party ===
+Company Name:DELTA PETROLEUM CO, INC
+Address:3011 LAUSAT STREET
+City:METAIRIE
+State:LA
+ZIP:70001
+Country:US
+Info Phone Num:504-833-2861
+Emergency Phone Num:504-833-2861
+Preparer's Name:L.R.SWOAP
+CAGE:7A348
+=== Contractor Identification ===
+Company Name:DELTA PETROLEUM CO., INC
+Address:10352 RIVER ROAD,
+Box:10397
+City:ST. ROSE
+State:LA
+ZIP:70087
+Country:US
+Phone:504-832-2732
+CAGE:7A348
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PETROLEUM OIL; WT % RANGE:80-95%
+Fraction by Wt: 80.-95%.
+OSHA PEL:5 MG/CUM AS OIL MIST
+ACGIH TLV:5 MG/CUM AS OIL MIST
+
+Ingred Name:ADDITIVE PACKAGE CONTAINING: ZINC, SULFUR, PHOSPHORUS,
+    CALCIUM, NITROGEN,& MAGNESIUM
+Fraction by Wt: 5.-10%.
+
+Ingred Name:MFR. INDICATES THAT MATERIAL IS NOT HAZARDOUS PER OSHA
+    29CFR1910.1200(HAZ. COMMUN. STD.)
+RTECS #:9999999ZZ
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL(RAT)>10G/KG; DERMAL(RBT)>8G/KG.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Health Hazards Acute and Chronic:ACUTE: MAY CAUSE MINIMAL IRRITATIONS
+    TO EYES, SKIN, & RESPIRATORY SYSTEM. CHRONIC: IN TESTS W/NEW & USED
+    MOTOR OILS, ONLY USED MOTOR OILS WERE SHOWN TO CAUSE SKIN CANCER
+    WHEN REPEATEDLY APPLIED TO MIC E W/O ANY EFFORT TO REMOVE THE
+    MATERIALBETWEEN APPLICATIONS.
+Effects of Overexposure:EYES/SKIN: BELIEVED TO BE MINIMALLY IRRITATING;
+    INHAL: BELIEVED TO BE MINIMALLY IRRITATING IF NOT IN EXCESS OF
+    PERMISSABLE CONCENTRATIONS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES/SKIN: WASH W/LARGE AMTS OF WATER. GET MED ATTN FOR
+    MATERIAL IN EYES; INHAL: REMOVE TO FRESH AIR. GIVE CPR/O*2 AS
+    SITUATION DICTATES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:430F/221.1C
+Extinguishing Media:WATER SPRAY, DRY CHEMICAL, FOAM, OR CO*2; WATER OR
+    FOAM MAY CAUSE FROTHING.
+Fire Fighting Procedures:USE WATER TO COOL FIRE EXPOSED CONTAINERS. IF
+    A LEAK OR SPILL HAS NOT IGNITED,USE WATER SPRAY TO DISPERSE VAPORS
+    & PROVIDE PROTECTION FOR PERSON STOPPING LEAK.
+Unusual Fire/Explosion Hazard:NONE PER MFR.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONTAIN SPILL IF POSSIBLE. WIPE UP OR ABSORB
+    ON SUITABLE MATERIAL & SHOVEL UP.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:MINIMUM FEASIBLE HANDLING TEMPERATURES
+    SHOULD BE MAINTAINED. PERIODS OF EXPOSURE TO HIGH TEMPERATURES
+    SHOULD BE MINIMIZED. AVOID WATER CONTAMINATION.
+Other Precautions:AVOID SKIN CONTACT W/ USED MOTOR OILS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NO SPECIAL REQUIREMENTS IF EXPOSURES ARE WITHIN
+    PERMISSIBLE CONCENTRATIONS. IF TLV EXCEEDED,USE NIOSH APPRVD.
+    RESPIRATOR; UP TO 50 MG/CUM:ANY SUPPLIED-AIR RESPIRATOR;ANY
+    SELF-CONTAINED BRTHNG APPART;A NY AIR-PURIFYING RESP.
+    W/HI-EFF.PART.FLT
+Ventilation:NO SPECIAL REQUIREMENTS W ADEQUATE VENT.
+Protective Gloves:IMPERVIOUS
+Eye Protection:CHEM. GOGGLES/FACE SHIELD OPTIONAL
+Other Protective Equipment:AS REQUIRED TO PREVENT PROLONGED OR REPEATED
+    CONTACT FOR TASK AT HAND.
+Work Hygienic Practices:AVOID SKIN & EYE CONTACT. EXERCISE REASONABLE
+    PERSONAL CLEANLINESS. CLEANSE EXPOSED SKIN W/SOAP & WATER DAILY.
+Supplemental Safety and Health
+AVOID SKIN CONTACT W/USED MOTOR OILS. IN CASE OF SKIN CONTACT,PROMPTLY
+    WASH THOROUGHLY W/SOAP & WATER. OIL-SOAKED CLOTHING SHOULD BE
+    CLEANED BEFORE REUSE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Spec Gravity:0.8927
+Viscosity:85 CST @ 104F
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:LIQUID, BRIGHT & CLEAR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:AVOID HIGH TEMPERATURES, AND IGNITION
+    SOURCES.
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE,
+    ALDEHYDES & KETONES, COMBUSTION PRODUCTS OF NITROGEN & SULFUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:UNDER RCRA, USER OF PRODUCT MUST DETERMINE AT
+    DISPOSAL TIME WHETHER PRODUCT MEETS RCRA HAZ. WASTE DEFIN.;PRODUCT
+    END-USES(TRANSFORMATION, MIXTURES, PROCESSES) MAY RENDER MATERIAL
+    AS HAZ.WASTE; NOT A H AZ. WASTE WHEN DISCARDED IN PURCHASED FORM
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

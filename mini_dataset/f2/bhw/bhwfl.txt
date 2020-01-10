@@ -1,0 +1,150 @@
+=====================  Product Identification  =====================
+
+Product ID:G SIMULANT TEST BOTTLE,HEXYLENE (SEE SUPP)
+MSDS Date:01/01/1987
+FSC:6910
+NIIN:00-106-4800
+Kit Part:Y
+MSDS Number: BHWFL
+=== Responsible Party ===
+Company Name:CHEMTRONICS,INC/NOW,JET RESEARCH
+Address:180 OLD BEE TREE ROAD
+City:SWANNANOA
+State:NC
+ZIP:28778
+Country:US
+Info Phone Num:704-298-7941
+Emergency Phone Num:704-298-7941
+CAGE:KO083
+=== Contractor Identification ===
+Company Name:CHEMTRONICS INC
+Address:180 OLD BEE TREE RD
+Box:City:SWANNANOA
+State:NC
+ZIP:28778-3409
+Country:US
+Phone:NOT LISTED IN PHONE DIRECTORY
+CAGE:60737
+Company Name:CHEMTRONICS,INC/NOW,JET RESEARCH (NO LONGER MFR)
+Address:180 OLD BEE TREE RD
+Box:City:SWANNANOA
+State:NC
+ZIP:28778
+Country:US
+Phone:704-298-7941
+CAGE:KO083
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:2-METHOXYETHANOL (EGME)  (SARA III)
+CAS:109-86-4
+RTECS #:KL5775000
+Fraction by Wt: 32.5%
+Other REC Limits:N/K 
+OSHA PEL:S, 25 PPM
+ACGIH TLV:S, 5 PPM; 9192
+
+Ingred Name:HEXYLENE GLYCOL
+CAS:107-41-5
+RTECS #:SA0810000
+Fraction by Wt: 67.5%
+Other REC Limits:N/K 
+OSHA PEL:C 25 PPM
+ACGIH TLV:C 25 PPM; 9192
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:N/K 
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:METHOXY ETHANOL IS KNOWN TO CAUSE
+    REPRODUCTIVE DISORDERS AND MALE REPRODUCTIVE TOXICITY (CAL PROP
+    65,1989).POSSIBLE LIVER AND KIDNEY DAMAGE.
+Explanation of Carcinogenicity:NONE
+Effects of
+    Overexposure:EYES:IRRITATION.SKIN:IRRITATION.INGESTION/INHALATION:H
+    EADACHE,DIZZINESS,DROWSINESS,FATIGUE,NAUSEA.POSSIBLE LIVER AND
+    KIDNEY DAMAGE.
+Medical Cond Aggravated by Exposure:N/K 
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH FOR 15 MINUTES WITH WATER.SKIN:FLUSH AND WASH WITH
+    SOAP AND WATER.INGESTION:GIVE 2 GLASSES OF WATER AND INDUCE
+    VOMITING.CALL MD.INHALATION:MOVE TO FRESH AIR.GIVE ARTIFICIAL
+    RESPIRATION IF N ECESSARY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:N/K 
+Lower Limits:N/K 
+Upper Limits:N/K 
+Extinguishing Media:ALCOHOL FOAM,CARBON DIOXIDE,DRY CHEMICAL.
+Fire Fighting Procedures:WEAR SCBA AND PROTECTIVE CLOTHING.
+Unusual Fire/Explosion Hazard:NONE KNOWN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR SCBA DURING CLEAN-UP.ABSORB SPILLS ON
+    SAND OR VERMICULITE AND PLACE IN CLOSED CONTAINERS FOR
+    DISPOSAL.WASH SPILL AREA WITH WATER AFTER REMOVAL.
+Neutralizing Agent:N/K 
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DRY PLACE.KEEP CONTAINER
+    CLOSED.KEEP AWAY FROM SPARKS AND FLAME.
+Other Precautions:DO NOT BREATHE VAPORS.AVOID EYE AND SKIN CONTACT.WASH
+    THOROUGHLY AFTER HANDLING.LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IN HIGH CONCENTRATIONS USE SCBA.WELL
+    VENTILATED-USE RESPIRATOR WITH APPROVED ORGANIC CARTRIDGE.
+Ventilation:CONSULT LOCAL SAFETY/HEALTH AUTHORITIES IF ADDITIONAL
+    GUIDANCE IS NEEDED .
+Protective Gloves:BUTYL RUBBER.
+Eye Protection:SPLASH PROOF GOGGLES.
+Other Protective Equipment:N/K 
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.LAUNDER
+    CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+WASTE DISPOSAL METHOD:MIX WITH FLAMMABLE OR COMBUSTIBLE SOLVENT AND
+    BURN IN AN INCINERATOR EQUIPPED WITH AFTERBURNER AND SCRUBBER.PART
+    NO:GLYCOL (M72-A1 KIT).
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>100C,212F
+Melt/Freeze Pt:M.P/F.P Text:N/K 
+Decomp Temp:Decomp Text:N/K 
+Vapor Density:>1 (AIR=1)
+Spec Gravity:<1 (WATER=1)
+Solubility in Water:MISCIBLE
+Appearance and Odor:N/K 
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS,OXIDIZERS,ACID CHLORIDES.
+Stability Condition to Avoid:SOURCES OF IGNITION.
+Hazardous Decomposition Products:CARBON DIOXIDE,CARBON MONOXIDE.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE IN ACCORDANCE WITH
+    FEDERAL,STATE AND LOCAL REGULATIONS.COORDINATION WITH SUPPORTING
+    INSTALLATION AND/OR MACOM ENVIRONMENTAL COORDINATION PRIOR TO
+    DISPOSAL IS RECOMMENDED TO DETERMINE  APPROPRIATE DISPOSAL METHODS
+    .(SEE SUPP DAT)
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

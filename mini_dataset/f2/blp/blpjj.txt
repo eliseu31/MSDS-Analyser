@@ -1,0 +1,117 @@
+=====================  Product Identification  =====================
+
+Product ID:U 25213, PHENYLARSINE OXIDE 0.00564N
+MSDS Date:11/01/1989
+FSC:6810
+NIIN:00F019081
+MSDS Number: BLPJJ
+=== Responsible Party ===
+Company Name:INDUSTRIAL MUNICIPAL EQUIPMENT INC
+Address:132 WILBUR PLACE
+City:BOHEMIA
+State:NY
+ZIP:11716
+Info Phone Num:(516) 567-9000
+Emergency Phone Num:(516) 567-9000
+CAGE:53390
+=== Contractor Identification ===
+Company Name:INDUSTRIAL MUNICIPAL EQUIPMENT, INC.(FORMERLY BOHEMIA,NY)
+Address:1430 PROGRESS WAY SUITE 105
+Box:City:SYKESVILLE
+State:MD
+ZIP:21784
+Country:US
+Phone:410-795-0500; FAX:410-795-1373
+CAGE:53390
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER, H2O
+CAS:7732-18-5
+RTECS #:ZC0110000
+
+Ingred Name:PHENYLARSINE OXIDE
+CAS:637-03-6
+RTECS #:CH8100000
+Fraction by Wt: 0.048%
+OSHA PEL:0.5 MG(AS)/CUM
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE SUPP
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION/INGESTION: SLIGHTLY TOXIC.
+    SKIN: SLIGHTLY TOXIC, IRRITATION, SENSITIVITY, & RASH. EYES:
+    IRRITATION & SENSITIVITY.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION/INGESTION: SLIGHTLY TOXIC. SKIN:
+    SLIGHTLY TOXIC, IRRITATION, SENSITIVITY, & RASH. EYES: IRRITATION &
+    SENSITIVITY.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER FOR AT LEAST 15 MINS. SKIN: WASH W/SOAP &
+    WATER. INHALATION: REMOVE TO FRESH AIR & GIVE ARTIFICIAL
+    RESPIRATION IF BREATHING STOPS. INGESTION: OBTAIN MEDICAL ATTENTION
+    IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON-COMBUSTIBLE
+Extinguishing Media:USE MEDIA APPROPRIATE FOR SURROUNDING MATERIAL.
+Fire Fighting Procedures:WEAR FULL FACE SELF-CONTAINED BREATHING
+    APPARATUS & PROTECTIVE CLOTHING IN HIGH VAPOR AREAS.
+Unusual Fire/Explosion Hazard:ARSENICAL COMPOUND LIQUID
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB W/SAND OR VERMICULITE, SCOOP UP, &
+    CONTAINERIZE FOR PROPER DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTACT W/SKIN, EYES, &
+    CLOTHING. DON'T BREATHE VAPORS OR MISTS. KEEP CONTAINER TIGHTLY
+    CLOSED. STORE IN COOL, DRY, WELL-VENTILATED AREA.
+Other Precautions:KEEP AWAY FROM COMBUSTIBLE MATERIALS & IGNITION
+    SOURCES. EMPTY CONTAINERS MAY BE HAZARDOUS DUE TO RETAINED RESIDUE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:ADEQUATE GENERAL & LOCAL EXHAUST
+Protective Gloves:RECOMMENDED
+Eye Protection:SAFETY GOGGLES
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE. WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+ORAL ESTIMATED LD 50/HMN IS APPROXIMATELY ONE GALLON OF SOLUTION BASED
+    ON LD 50/RAT OF ARSENIC TRIOXIDE.
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:1
+Solubility in Water:MISCIBLE
+Appearance and Odor:COLORLESS AQUEOUS SOLUTION.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+COMBUSTIBLE MATERIALS
+Stability Condition to Avoid:HIGH TEMPERATURES & OTHER SOURCES OF
+    IGNITION
+Hazardous Decomposition Products:ARSENIC & ARSENIC COMPOUNDS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:COMPLY W/ALL LOCAL, STATE, & FEDERAL
+    REGULATIONS. UN 1556 ARSENICAL COMPOUND LIQUID.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

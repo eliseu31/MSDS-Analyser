@@ -1,0 +1,126 @@
+=====================  Product Identification  =====================
+
+Product ID:3204-3211 FRANKLIN SILICONE CAULK, CLEAR & ALL COLORS
+MSDS Date:01/01/1989
+FSC:8030
+NIIN:00F019196
+MSDS Number: BLPQD
+=== Responsible Party ===
+Company Name:FRANKLIN INTERNATIONAL
+Address:2020 BRUCK ST
+City:COLUMBUS
+State:OH
+ZIP:43207
+Info Phone Num:(614) 443-0241
+Emergency Phone Num:(614) 443-0241 OR 445-1411
+CAGE:FO059
+=== Contractor Identification ===
+Company Name:FRANKLIN INTERNATIONAL
+Address:2020 BRUCK STREET
+Box:City:COLUMBUS
+State:OH
+ZIP:43207
+Country:US
+Phone:800-877-4583/614-445-1493
+CAGE:25589
+Company Name:FRANKLIN INTERNATIONAL
+Address:2020 BRUCK ST
+City:COLUMBUS
+State:OH
+ZIP:43207
+Phone:800-877-4583
+CAGE:FO059
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ACETIC ACID  (SARA III)
+CAS:64-19-7
+RTECS #:AF1225000
+Fraction by Wt: <5%
+OSHA PEL:10 PPM
+ACGIH TLV:10 PPM/15 STEL; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:VOL ORGANIC CMPD: 51.5 G/L MAX
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INGESTION: GASTROINTESTINAL
+    IRRITATION. INHALATION: LUNG & NASAL PASSAGE IRRITATION. SKIN:
+    IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INGESTION: GASTROINTESTINAL IRRITATION.
+    INHALATION: LUNG & NASAL PASSAGE IRRITATION. SKIN: IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION: DON'T INDUCE VOMITING. INHALATION: REMOVE TO FRESH
+    AIR. EYES: RINSE W/WATER FOR 15 MIN. SKIN: WASH W/SOAP & WATER.
+    OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:>200F
+Extinguishing Media:WATER FOG, FOAM, CO2, & DRY CHEMICAL
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SELF-CONTAINED
+    BREATHING APPARATUS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP MATERIAL INTO AN APPROVED STEEL DRUM.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY PLACE IN TIGHTLY
+    CLOSED CONTAINERS. AVOID CONTACT W/MOIST AIR. AVOID BREATHING
+    VAPORS, DIRECT CONTACT W/SKIN & EYES.
+Other Precautions:DON'T EAT, SMOKE, OR DRINK IN THE WORK AREA. KEEP OUT
+    OF REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APRPROVED RESPIRATOR, ACID VAPOR
+    TYPE.
+Ventilation:LOCAL EXHAUST: STANDARD PLANT VENTILATION, AT POINT WHERE
+    PRODUCT IS DRIED. GENERAL TO KEEP <TLV.
+Protective Gloves:IMPERVIOUS
+Eye Protection:SAFETY GLASSES W/SIDE SHIELDS
+Other Protective Equipment:SAFETY GOGGLES
+Work Hygienic Practices:WASH HANDS THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:1.01-1.05
+Evaporation Rate &amp; Reference:(ETHER = 1): <1
+Solubility in Water:<0.1%
+Appearance and Odor:THIXOTROPIC PASTE W/ACETIC ACID ODOR
+Percent Volatiles by Volume:<5%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+WATER, DAMP AIR, PRODUCT CURES IN THE PRESENCE OF MOISTURE. AVOID
+    ALKALINE/BASIC MATERIALS
+Stability Condition to Avoid:HEAT & OPEN FLAME
+Hazardous Decomposition Products:ACETIC ACID & SILICA FUMES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:UNCURED MATERIAL MUST BE DISPOSED OF AS
+    HAZARDOUS WASTE ACCORDING TO RCRA, FEDERAL, STATE, & LOCAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

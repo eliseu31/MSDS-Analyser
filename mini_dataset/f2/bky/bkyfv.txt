@@ -1,0 +1,147 @@
+=====================  Product Identification  =====================
+
+Product ID:SHEILA SHINE LIQUID
+MSDS Date:02/15/1990
+FSC:7930
+NIIN:00F018565
+MSDS Number: BKYFV
+=== Responsible Party ===
+Company Name:SHEILA SHINE INC
+Address:1201 N W FIRST AVENUE
+City:MIAMI
+State:FL
+ZIP:33136
+Info Phone Num:(303) 379-1881
+Emergency Phone Num:(303) 893-7774 OR (800) 525-6115
+CAGE:SHEIL
+=== Contractor Identification ===
+Company Name:SHEILA SHINE INC
+Address:1201 N W FIRST AVENUE
+City:MIAMI
+State:FL
+ZIP:33136
+Phone:(303) 379-1881
+CAGE:SHEIL
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CARBON DIOXIDE
+CAS:124-38-9
+RTECS #:FF6400000
+Other REC Limits:10000 PPM
+OSHA PEL:5000 PPM
+ACGIH TLV:5000PPM/30000STEL;93
+
+Ingred Name:METHYL CHLOROFORM (1,1,1-TRICHLOROEHANE)  (SARA III)
+CAS:71-55-6
+RTECS #:KJ2975000
+Other REC Limits:450 PPM STEL
+OSHA PEL:350 PPM/450 STEL
+ACGIH TLV:350 PPM/450STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+Ozone Depleting Chemical:1
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS)	(SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Other REC Limits:100 PPM
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:HYDROTREATED LIGHT PARAFFINIC DISTILLATE, MINERAL OIL,
+    PETROLEUM DISTILLATES
+CAS:64742-55-8
+RTECS #:PY8036500
+OSHA PEL:10 MG/CUM
+ACGIH TLV:5 MG/CUM
+
+Ingred Name:METHYL SALICYLATE
+CAS:119-36-8
+RTECS #:VO4725000
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: NASAL/RESPIRATORY
+    IRRITATION, DIZZINESS, WEAKNESS, FATIGUE, & HEADACHE. INGESTION:
+    LOW TOXCITY GASTROINTESTINAL IRRITATION, NAUSEA, VOMITING,
+    DIARRHEA. EYES: IRRITATION, REDNESS, TEARING,  & BLURRED VISION.
+    SKIN: IRRITATION, DEFATTING, & REDNESS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: NASAL/RESPIRATORY IRRITATION,
+    DIZZINESS, WEAKNESS, FATIGUE, & HEADACHE. INGESTION: LOW TOXICITY
+    GASTROINTESTINAL IRRITATION, NAUSEA, VOMITING, DIARRHEA. EYES:
+    IRRITATION, REDNESS, TEARING,  & BLURRED VISION. SKIN: IRRITATION,
+    DEFATTING, & REDNESS.
+Medical Cond Aggravated by Exposure:DERMATITIS, OPEN CUTS, & EMPHYSEMA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: WASH W/SOAP & WATER. EYES: FLUSH W/PLENTY OF WATER.
+    INHALATION: REMOVE TO FRESH AIR. GIVE OXYGEN IF NEEDED. INGESTION:
+    DON'T INDUCE VOMITING. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:110F
+Extinguishing Media:CO2, DRY CHEMICAL OR FOAM.
+Fire Fighting Procedures:SAME AS PETROLEUM.
+Unusual Fire/Explosion Hazard:COMBUSTIBLE LIQUID.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SMALL SPILLS: ABSORB W/OIL DRY OR SAND. LARGE
+    SPILLS: CONTAIN & PUMP INTO STEEL DRUMS FOR SALVAGE OR DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM OPEN FLAME. USE
+    W/ADEQUATE VENTILATION. STORE IN A COOL, DRY PLACE. HANDLE
+    W/REASONABLE CARE.
+Other Precautions:KEEP AWAY FROM CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF <850 PPM, NONE NEEDED.
+Ventilation:LOCAL EXHAUST
+Protective Gloves:RECOMMENDED
+Eye Protection:AS REQUIRED
+Other Protective Equipment:AS REQUIRED
+Work Hygienic Practices:HANDLE W/REASONABLE CARE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:100F
+Vapor Density:1
+Spec Gravity:0.9260
+Evaporation Rate & Reference:(BU AC = 1): 100
+Solubility in Water:INSOLUBLE
+Appearance and Odor:CLEAR AMBER W/MINT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+SELECTED AMINES & STRONG ACIDS
+Stability Condition to Avoid:OPEN FLAME
+Hazardous Decomposition Products:CO, OXIDES OF NITROGEN OR SULFUR,
+    ALDEHYDES, PHOSGENE & HYDROGEN CHLORIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:LANDFILL IN ACCORDANCE W/LOCAL, STATE, & FEDERAL
+    REGULATIONS. COMBUSTIBLE LIQUID.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

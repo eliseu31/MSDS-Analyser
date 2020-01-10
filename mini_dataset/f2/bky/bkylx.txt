@@ -1,0 +1,105 @@
+=====================  Product Identification  =====================
+
+Product ID:20 DEGREES COLD TEST NEATSFOOT OIL
+MSDS Date:03/01/1987
+FSC:8030
+NIIN:00-597-6105
+MSDS Number: BKYLX
+=== Responsible Party ===
+Company Name:STEVEN INDUSTRIES
+Address:39 AVENUE C
+Box:8
+City:BAYONNE
+State:NJ
+ZIP:07002
+Info Phone Num:(201) 437-6500
+Emergency Phone Num:(201) 437-6500
+CAGE:DO669
+=== Contractor Identification ===
+Company Name:STEVEN INDUSTRIES, INC
+Address:39 AVENUE C / PO BOX 8
+Box:8
+City:BAYONNE
+State:NJ
+ZIP:07002
+Phone:201-437-6500
+CAGE:DO669
+Company Name:STEVENS INDUSTRIES
+Address:39 AVE C
+Box:8
+City:BAYONNE
+State:NJ
+ZIP:07002
+Country:US
+Phone:201-437-6500
+CAGE:70372
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ANIMAL FATTY OIL
+CAS:8016-28-2
+
+Ingred Name:GLYCEROL OLEATE (MONO, DI, TRI)
+CAS:25496-72-4
+RTECS #:RK1300000
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN/EYES: IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN/EYES: IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES/SKIN: FLUSH W/PLENTY OF WATER FOR 15 MINS. OBTAIN
+    MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:600F
+Extinguishing Media:CO2, FOAM, DRY CHEMICAL, & WATER SPRAY OR FOG.
+Unusual Fire/Explosion Hazard:AUTOIGNITION TEMP: 830F.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONFINE SPILL. ABSORB ON DRYING MATERIALS SUCH
+    AS SAND, SAWDUST & PLACE IN DRUMS FOR PROPER DISPOSAL. FLUSH
+    REMAINING TRACES W/WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STANDARD PRECAUTIONS FOR HANDLING
+    FATS, OILS & SOAPS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:MECHANICAL (GENERAL): RECOMMENDED
+Protective Gloves:RUBBER
+Eye Protection:GOGGLES
+Supplemental Safety and Health
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>600F
+Spec Gravity:0.912-0.919
+Solubility in Water:INSOLUBLE
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:LANDFILL IN ACCORDANCE W/LOCAL, STATE, & FEDERAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

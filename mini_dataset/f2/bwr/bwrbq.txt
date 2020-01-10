@@ -1,0 +1,149 @@
+=====================  Product Identification  =====================
+
+Product ID:190 0042 KODAK FILM & PAPER DYE/BUFFER (MAGENTA), DYE
+MSDS Date:08/17/1994
+FSC:6750
+NIIN:00-911-4843
+MSDS Number: BWRBQ
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-477-3194 MSDS :800- 242-2424
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 95-99%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:TRIETHANOLAMINE
+CAS:102-71-6
+RTECS #:KL9275000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+ACGIH TLV:5 MG/M3; 9394
+
+Ingred Name:ALIZARIN RED DYE
+CAS:72121-77-8
+Fraction by Wt: 1-5%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:FORMALDEHYDE  (SARA III)
+CAS:50-00-0
+RTECS #:LP8925000
+Fraction by Wt: <0.1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:SEE 1910.1048
+ACGIH TLV:C 0.3 PPM; A2; 9394
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:YES
+Health Hazards Acute and Chronic:INHAL:EXPECTED TO BE A LOW HAZARD FOR
+    RECOMMENDED HANDLING. EYES:NO SPECIFIC HAZ KNOWN. MAY CAUSE
+    TRANSIENT IRRITATION. SKIN:LOW HAZARD FOR RECOMMENDED HANDLING. MAY
+    STAIN SKIN MAGENTA. INGEST:EXPECTE D TO BE A LOW INGESTION HAZARD.
+Explanation of Carcinogenicity:CONTAINS F	     [50-00-0] WHICH IS
+    LISTED BY NTP AND IARC AND REGULATED BY OSHA AS A CARCINOGEN.
+Effects of Overexposure:EYE:TRANSIENT IRRITATION. STAINS SKIN MAGENTA.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:IF SYMPTOMATIC MOVE TO FRESH AIR. GET MED ATTN IF
+    SYMPTONS PERSIST. EYES:ANY MATL THAT CONTACTS EYE SHOULD BE WASHED
+    OUT IMMED W/WATER. GET MED ATTN IF SYMPTOMS OCCUR. SKIN:WASH W/SOAP
+    & WATER.  GET MED ATTN IF SYMPTOMS OCCUR. INGEST:DRINK 1-2 GLASSES
+    OF WATER. SEEK MED ATTN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON-COMBUSTIBLE
+Extinguishing Media:USE APPROPRIATE AGENT FOR ADJACENT FIRE.
+Fire Fighting Procedures:NONE (NONCOMBUSTIBLE).
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH TO SEWER W/LG AMTS OF WATER.OTHERWISE
+    ABSORB W/VERMICULITE OR OTHER INERT MATERIAL, THEN PLACE IN
+    CONTAINER FOR CHMICAL WASTE. CLEAN SURFACE THOROUGHLY TO REMOVE
+    RESIDUAL CONTAMINATION.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:USE W/ADEQUATE VENTILATION. KEEP
+    CONTAINER CLOSED.
+Other Precautions:IN SPILL SITUATION THESE MATERIALS MAY BE VISUALLY
+    UNPLEASANT; HOWEVER IT IS NOT EXPECTED TO CAUSE ADVERSE
+    ENVIRONMENTAL EFFECTS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SHOULD BE NEEDED.
+Ventilation:GOOD GENERAL VENTILATION (TYPICALLY 10 AIR CHANGES/HR)
+    SHOULD BE USED. VENTILATION RATES SHOULD BE MATCHED TO CONDITIONS
+Protective Gloves:IMPERVIOUS GLOVES.
+Eye Protection:SAFETY GLASSES W/SIDE SHIELDS, GOGGLES.
+Other Protective Equipment:RECOMMENDED DECONTAMIN FACILITIES:EYEBATH,
+    WASHING FACILITIES, SAFETY SHOWER.
+Work Hygienic Practices:WASH HANDS WELL AFT HANDLING.
+Supplemental Safety and Health
+SEE SAME NSN PNIND:G(BUFFER), H(WORKING SOLN) FOR MAGENTA. PER CTDF:3
+    BALANCED DYES(CYAN,MAGENTA,YELLOW) FOR THIS NSN. SEE SAME NSN OTHER
+    PNIND FOR OTHER 2 DYES/BUFFERS/WORKING SOLNS. TO MAKE 1 GALLON .
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:>212F,>100C
+Vapor Pres:18MM @20C
+Vapor Density:0.6
+Spec Gravity:1.101
+pH:7.7
+Solubility in Water:COMPLETE
+Appearance and Odor:LIQUID, MAGENTA COLOR, ODORLESS.
+Percent Volatiles by Volume:98
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE W/COMMON MATERIALS & CONTAMINANTS W/ WHICH THE MATERIAL MAY
+    REASONABLY COME INTO CONTACT.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:NONE (NONCOMBUSTIBLE).
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISCHARGE/TREATMENT/DISPOSAL MAY BE SUBJECT TO
+    NATIONAL/STATE/LOCAL LAWS. FLUSH TO SEWER W/LG AMTS OF WATER.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

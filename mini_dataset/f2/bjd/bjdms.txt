@@ -1,0 +1,141 @@
+=====================  Product Identification  =====================
+
+Product ID:FLEXFRAM 605 PT A
+MSDS Date:11/18/1992
+FSC:8030
+NIIN:00-097-9088
+Kit Part:Y
+MSDS Number: BJDMS
+=== Responsible Party ===
+Company Name:FIBER MATERIALS, INC.
+Address:5 MORIN ST
+City:BIDDEFORD
+State:ME
+ZIP:04005
+Country:US
+Info Phone Num:207-282-5911
+Emergency Phone Num:207-282-5911;207-828-6209
+CAGE:KO060
+=== Contractor Identification ===
+Company Name:FIBER MATERIALS INC
+Address:BIDDEFORD INDUSTRIAL PARK
+Box:City:BIDDEFORD
+State:ME
+ZIP:04005
+Country:US
+Phone:207-282-5911
+CAGE:62500
+Company Name:FIBER MATERIALS, INC.
+Address:5 MORIN ST
+Box:City:BIDDEFORD
+State:ME
+ZIP:04005
+Country:US
+Phone:207-282-5911
+CAGE:KO060
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TRIETHYLENETETRAMINE; (TETA (TRIETHYLENETETRAMINE 70%)).
+    LD50 (ORAL RAT):4350 MG/KG.
+CAS:112-24-3
+RTECS #:YE6650000
+Fraction by Wt: 7.0%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:INGREDIENT 1
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MAY CAUSE SKIN BURNS, ALLERGIC SKIN
+    REACTIONS. INGESTION MAY CAUSE BURNS OF MOUTH AND THROAT. MAY CAUSE
+    RESPIRATORY SENSITIZATION IN SUSCEPTIBLE INDIVIDUALS OR THROAT
+    IRRITATION.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:PRIMARY IRRITATION OF SKIN ON PROLONGED
+    CONTACT. IRRITATING TO THE EYES. MAY CAUSE SEVERE IRRITATION WITH
+    CORNEAL INJURY, EVEN BLINDNESS.
+Medical Cond Aggravated by Exposure:ALLERGIES AND/OR OTHER RESPIRATORY
+    CONDITIONS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: REMOVE TO FRESH AIR, GET MD. EYE: FLUSH THOROUGHLY
+    W/WATER 30 MIN. GET MD IMMEDIATELY. SKIN: WASH W/SOAP AND WATER.
+    INGEST: INDUCE VOMITING AND GET MD IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:315F,157C
+Extinguishing Media:CO*2, DRY CHEMICAL
+Fire Fighting Procedures:FOR LARGE FIRES, USE WATER SPRAY, FOG, OR
+    FOAM. DIKE WATER RUN-OFF. PREVENT ENTRY INTO SEWERS OR NATURAL
+    WATERS. WEAR FULL PROTECTIVE EQUIPMENT.
+Unusual Fire/Explosion Hazard:TOXIC FUMES WILL BE EVOLVED IF UNMIXED
+    MATERIAL IS INVOLVED IN A FIRE. WEAR SCBA.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DIKE. NIOSH APPROVED RESP PROT AND OTHER PROT
+    EQUIP AS NECESSARY TO PREVENT SKIN & EYE CONTACT. PUMP OR SHOVEL
+    INTO SALVAGE DRUM. SOAK UP RESIDUE & SML SPILLS W/ABSORBENT MAT
+    SUCH AS CLAY & PUT IN TIG HT CONTAINER. IF USE SOLVNT, WATCH
+    FIREHAZARDS.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN TIGHT, STURDY CONTAINERS.
+    HANDLE I/A/W HAZARD POTENTIAL.
+Other Precautions:REMOVE CONTAMINATED CLOTHING & PROTECTIVE GEAR.
+    DECONTAMINATE. DESTROY LEATHER ARTICLES, INCLUDING SHOES THAT
+    CANNOT BE DECON. ANSI CLASSIFICATION 2. REMOVAL OF CURED MATERIAL
+    SHOULD BE ACCOMPLISHED W /NIOSH APPROVED RESPIRATORS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED RESP W/ORGANIC VAPOR CARTRIDGE AS
+    REQUIRED TO PREVENT VAPOR OVEREXPOSURE.
+Ventilation:LOCAL: IN CONFINED MIXING & APPL. AREAS. MECH: REQUIRED TO
+    PREVENT OVEREXPOSURE.
+Protective Gloves:RUBBER GLOVES TO PREVENT SKIN CONTACT.
+Eye Protection:GOGGLES OR FACE SHIELD.
+Other Protective Equipment:AS NECESSARY TO PREVENT BODY CONTACT. EYE
+    WASH & DELUGE SHOWER .
+Work Hygienic Practices:AVOID SMOKING, EATING, AND DRINKING IN THE WORK
+    AREA.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:600F,316C
+Vapor Pres:.01
+Vapor Density:9
+Spec Gravity:1.201 (H*20=1)
+Solubility in Water:SLIGHT
+Appearance and Odor:BLACK VISCOUS LIQUID, MERCAPTAN ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, STRONG ACIDS, CHLORINATED ORGANIC COMPOUNDS.
+Stability Condition to Avoid:REACTS WITH CONSIDERABLE HEAT WITH HOT
+    RESINS.
+Hazardous Decomposition Products:CO*2, ALDEHYDES, ACIDS, NO*2, SO*2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF I/A/W FED, STATE AND LOCAL REGS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

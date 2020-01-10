@@ -1,0 +1,160 @@
+=====================  Product Identification  =====================
+
+Product ID:MOLYBDATE 3 REAGENT FOR SILICA, 1995 (REFORMULATION OF PT C)
+MSDS Date:11/29/1993
+FSC:6810
+NIIN:01-169-7802
+MSDS Number: BWRDM
+=== Responsible Party ===
+Company Name:HACH CO
+Box:907
+City:AMES
+State:IA
+ZIP:50010
+Country:US
+Info Phone Num:800-227-4224
+Emergency Phone Num:303-623-5716
+CAGE:4T252
+=== Contractor Identification ===
+Company Name:HACH CO
+Address:5600 LINDBERGH DR
+Box:389
+City:LOVELAND
+State:CO
+ZIP:80539
+Country:US
+Phone:970-669-3050/ 303-623-5716
+CAGE:91224
+Company Name:HACH COMPANY
+Address:100 DAYTON RD.
+Box:907
+City:AMES
+State:IA
+ZIP:50010
+Country:US
+Phone:800-227-4224
+CAGE:4T252
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM BISULFATE MONOHYDRATE
+CAS:10034-88-5
+RTECS #:VZ1870000
+Fraction by Wt: <20%
+
+Ingred Name:SULFURIC ACID (SARA 302/313) (CERCLA)
+CAS:7664-93-9
+RTECS #:WS5600000
+Fraction by Wt: <15%
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3/3 STEL
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:MOLYBDIC ACID
+CAS:7782-91-4
+Fraction by Wt: <15%
+OSHA PEL:10 MG/M3 (MFR)
+ACGIH TLV:10 MG/M3 (MFR)
+
+Ingred Name:WATER; (DEMINERALIZED WATER)
+CAS:7732-18-5
+RTECS #:ZC0110000
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:CORROSIVE TO EYES, SKIN AND
+    RESPIRATORY TRACT. MODERATELY TOXIC. ACUTE:BURNS ANY TISSUE
+    CONTACTED. BREATHING SULFURIC ACID MIST OR VAPOR MAY CAUSE EROSION
+    OF TEETH, MOUTH SORENESS, DIFFICULTY IN BREAT HING. MOLYBDENUM
+    COMPOUNDS MAY CAUSE LOSS OF COORDINATION, LOSS OF APPETITE, AMINES;
+    MAY INDUCE COPPER (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:SULFURIC ACID MIST:IARC MONO ON EVAL OF
+    CARCIN RISK OF CHEMS TO MAN, VOL 54, PG 41, 1994:GROUP 1.
+    ANIMAL:PULMONARY IRRIT
+Effects of Overexposure:HLTH HAZ:DEFICIENCY.
+Medical Cond Aggravated by Exposure:CHRONIC RESPIRATORY DISEASE, BLOOD
+    CONDITIONS, GOUT MAY BE AGGRAVATED BY EXPOSURE TO MOLYBDENUM
+    COMPOUNDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE & SKIN:IMMEDIATELY FLUSH EYS & SKIN WITH WATER FOR @
+    LEAST 15 MINUTES. REMOVE CONTAMD CLOTHING. CALL PHYSICIAN.
+    INGEST:DO NOT INDUCE VOMIT. GIVE 1-2 GLASSES OF WATER CALL PHYS
+    IMMED. NEVER GIVE AN YTHING BY MOUTH TO AN UNCON PERSON.
+    INHAL:REMOVE TO FRESH AIR. GIVE ARTF RESP IF NECESSARY. CALL PHYS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:>212F,>100C
+Extinguishing Media:WATER, CARBON DIOXIDE, OR DRY CHEMICAL.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:MAY EMIT TOXIC FUMES OR SULFUR OXIDES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:COVER CONTAMD SURF W/SODA ASH OR SODIUM
+    BICARBONATE. MIX & ADD WATER IF NEC. USE LITMUS PAPER TO MAKE SURE
+    PH OF SLURRY IS NEUT/ADD NEUTRALIZER UNTIL MIX STOPS BUBBLING.
+    SCOOP UP SLURRY & WASH NEUT WA STE DOWN DRAIN W/EXCESS WATER. WASH
+    SITE (SUPDAT)
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONT W/EYES, SKIN AND CLOTHING.
+    DO NOT BREATHE MIST/VAPOR.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN .
+Ventilation:ADEQUATE VENTILATION.
+Protective Gloves:DISPOSABLE LATEX GLOVES..
+Eye Protection:ANSI APPRVD CHEM WORK GOGG & (SUPDAT)
+Other Protective Equipment:LAB COAT. EMERGENCY EYEWASH & DELUGE SHOWER
+    WHICH MEET ANSI DESIGN STANDARDS .
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+KEY1:C1. SPILL RELEASE:WITH SODA ASH SOLUTION. EYE PROT:FULL LENGTH
+    FACESHIELD .
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F5
+Boiling Pt:B.P. Text:-148F,-100C
+Spec Gravity:1.2-1.5
+pH:<0.5
+Evaporation Rate & Reference:NOT KNOWN
+Solubility in Water:MISCIBLE
+Appearance and Odor:CLEAR, COLORLESS LIQUID
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:HEAT, FLAMES, CONTACT WITH OXIDIZERS OR
+    REDUCERS.
+Hazardous Decomposition Products:MAY EMIT TOXIC FUMES OF SULFUR OXIDES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH ALL FEDERAL,
+    STATE, AND LOCAL REGULATIONS.
+
+ ======================================================================
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

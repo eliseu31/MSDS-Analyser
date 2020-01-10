@@ -1,0 +1,113 @@
+=====================  Product Identification  =====================
+
+Product ID:DESICCANT,ACTIVATED
+MSDS Date:12/31/1991
+FSC:6850
+NIIN:00-351-8315
+MSDS Number: BLPFL
+=== Responsible Party ===
+Company Name:SHAPE PRODUCTS
+Address:1127 57TH AVE.
+City:OAKLAND
+State:CA
+ZIP:94621-4427
+Country:US
+Info Phone Num:415-534-1186
+Emergency Phone Num:415-534-1186
+Preparer's Name:DGSC-SSH
+CAGE:3D869
+=== Contractor Identification ===
+Company Name:SHAPE PRODUCTS
+Address:1127 57TH AVE.
+Box:City:OAKLAND
+State:CA
+ZIP:94621-4427
+Country:US
+Phone:510-534-1186 OR 800-444-0015
+CAGE:3D869
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM ALUMINOSILICATE
+CAS:1344-00-9
+Fraction by Wt: 100.0%
+OSHA PEL:15 MG/CUM,AS DUST
+ACGIH TLV:10 MG/CUM,AS DUST
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Health Hazards Acute and Chronic:ACUTE:MAY IRRITATE EYES AND
+    RESPIRATORY TRACT IN THE FORM OF DUST. CHRONIC:NO DATA AVAILABLE.
+Effects of Overexposure:EYE, SKN, AND INHALATION: IRRITATION, REDNESS
+    OF EYES.
+Medical Cond Aggravated by Exposure:EYE AND RESPIRATORY DISEASES.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH FOR 15 MIN WITH AMPLE WATER. SKIN: WASH WITH SOAP
+    AND WATER. CALL PHYSICIAN IF SYMPTOMS PERSIST. INGESTION:NO
+    TREATMENT REQUIRED. DRINK LOT OF WATER. IF STOMACH DISCOMFORT IS
+    FELT, CONSULT  A PHYSICION.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE SUITABLE MEDIA FOR SURROUNDING FIRES IF NEEDED.
+Fire Fighting Procedures:NONE
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP OR VACUUM INTO CLOSED CONTAINERS. DO NO
+    CREATE DUST WHILE SWEEPING. WEAR DUST MASK.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINERS CLOSED & DRY. AVOID
+    INHALATION OF DUST.
+Other Precautions:WASH HANDS AFTER USE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR FOR DUST IF
+    DUST IS GENERATED.
+Ventilation:GENERAL TO MAINTAIN AN ADEQUATE VENTILATION.
+Protective Gloves:AS REQUIRED
+Eye Protection:SAFETY GLASSES,GOGGLES
+Other Protective Equipment:APRON OR EYE-WASH FOR DUST PROBLEM
+Work Hygienic Practices:AVOID CONTACT WITH SKIN & EYES;DO NOT BREATHE
+    DUST IF IT IS AIRBORNE.
+Supplemental Safety and Health
+INFORMATION PRESENTED HEREIN IS ACCURATE AND RELIABLE TO THE BEST OF
+    OUR KNOWLEDGE AND BELIEF BUT IS NOT GUARANTEED TO BE SO. IT IS THE
+    USER'S RESPONSIBILITY TO TAKE ALL SAFETY PRECAUTIONS AS MAY BE N
+    ECESSARY. WE HEREBY DISCLAIM ALL LIABILITY WITH RESPECT TO IT'S
+    USE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Solubility in Water:INSOLUBLE
+Appearance and Odor:SMALL ROUND PALE TABLETS, ODORLESS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN ACCORDANCE WITH LOCAL, STATE AND
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

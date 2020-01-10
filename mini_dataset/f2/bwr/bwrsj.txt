@@ -1,0 +1,121 @@
+=====================  Product Identification  =====================
+
+Product ID:GACOFLEX, A-57 SERIES
+MSDS Date:01/01/1994
+FSC:8010
+NIIN:00N057646
+MSDS Number: BWRSJ
+=== Responsible Party ===
+Company Name:GACO WESTERN INC
+Address:18700 S CENTER PKWY
+City:TUKWILA
+State:WA
+ZIP:98188
+Country:US
+Info Phone Num:206-575-0450
+Emergency Phone Num:206-575-0450
+CAGE:09463
+=== Contractor Identification ===
+Company Name:GACO WESTERN INC
+Address:18700 S CENTER PKY
+Box:88698
+City:SEATTLE
+State:WA
+ZIP:98188-4636
+Country:US
+Phone:206-575-0450
+CAGE:09463
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DIPROPYLENE GLYCOL METHYL ETHER
+CAS:34590-94-8
+RTECS #:JM1575000
+Fraction by Wt: 1.9%
+OSHA PEL:100 PPM, S
+ACGIH TLV:100 PPM; 150 STEL
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:AVAILABLE DATA SHOWS THAT NONE OF THE
+    INGREDIENTS ARE CARCINOGENIC, TERATOGENIC OR MUTAGENIC BUT MATERIAL
+    MAY BE HARMFUL OR FATAL IF SWALLOWED. MAY CAUSE SKIN OR EYE
+    IRRITATION.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH WITH WATER FOR AT LEAST 15 MINUTES. SKIN: WASH
+    W/SOAP & WATER, REMOVE CONTAMD CLTHG. INGEST: CALL MD IMMEDIATELY.
+    INHAL: REMOVE TO FRESH AIR. SUPPORT BREATHING(GIVE O*2/ARTF RESP).
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:AQ SOLUTION
+Extinguishing Media:FOAM, ALCOHOL FOAM, CO*2, DRY CHEMICAL & WATER FOG.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT. COOL CNTNRS WITH WATER FOG TO PREVENT
+    RUPTURE.
+Unusual Fire/Explosion Hazard:CLOSED CONTAINERS MAY RUPTURE WHEN
+    EXPOSED TO EXTREME HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SPILLS SHOULD BE COLLECTED FOR DISPOSAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL DRY PLACE AWAY FROM
+    DIRECT SUNLIGHT.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR REQUIRED IN
+    CONFINED OR POORLY VENTILATED AREAS.
+Ventilation:GENERAL ROOM VENTILATION IS SATISFACTORY.
+Protective Gloves:PLASTIC OR RUBBER GLOVES.
+Eye Protection:ANSI APPRVD CHEM WORKERS GOGGLES.
+Other Protective Equipment:EYE BATH, FACE SHIELD & SAFETY SHOWER.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>200F,>93C
+Vapor Pres:0.55
+Vapor Density:LTR/AIR
+Spec Gravity:1.43
+Evaporation Rate & Reference:SLOWER (ETHER=1)
+Appearance and Odor:NONE SPECIFIED BY MANUFACTURER.
+Percent Volatiles by Volume:48.0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE.
+Stability Condition to Avoid:TEMPERATURE EXTREMES.
+Hazardous Decomposition Products:WHEN WATER EVAPORATES, SOLIDS CAN BURN
+    & PRODUCE CARBON MONOXIDE &/CARBON DIOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE &
+    FEDERAL REGULATIONS. INCINERATE IN APPROVED FACILITY. DO NOT
+    INCINERATE CLOSED CONTAINERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

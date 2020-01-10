@@ -1,0 +1,157 @@
+=====================  Product Identification  =====================
+
+Product ID:M-P-A 1078X, 32080
+MSDS Date:09/13/1993
+FSC:6850
+NIIN:00N057787
+MSDS Number: BWRVM
+=== Responsible Party ===
+Company Name:RHEOX INC
+Address:WYCKOFFS MILL RD
+Box:700
+City:HIGHTSTOWN
+State:NJ
+ZIP:08520
+Country:US
+Info Phone Num:800-866-6800
+Emergency Phone Num:800-424-9300(CHEMTREC)
+CAGE:RHEXX
+=== Contractor Identification ===
+Company Name:N L INDUSTRIES INC, N L CHEMICALS DIVISION
+Address:WYCOFF MILLS RD
+Box:700
+City:HIGHTSTOWN
+State:NJ
+ZIP:08520-9725
+Country:US
+Phone:609-443-2461
+CAGE:90194
+Company Name:RHEOX INC
+Address:WYCKOFFS MILL RD
+Box:700
+City:HIGHTSTOWN
+State:NJ
+ZIP:08520
+Country:US
+Phone:800-866-6800
+CAGE:RHEXX
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:XYLENE (SARA 313) (CERCLA). BP:>275F,>135C. VP:6.6 @ 68F.
+    LEL:6.6%. LD50:(ORAL,RAT) 4300 MG/KG.
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 60%
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM;150 STEL
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE INGREDIENT.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:XYLENE (VAPOR OR LIQUID) IS
+    IRRITATING TO EYES & RESPIRATORY TRACT (NOSE, THROAT, LUNGS). AT
+    HIGH CONCENTRATIONS IT MAY CAUSE HEADACHES, DIZZINESS, WEAKNESS,
+    NAUSEA & POSSIBLY NARCOSIS, ASPHYXIA TION & REVERSIBLE DAMAGE TO
+    KIDNEY & LIVER. CHRONIC:PROLONGED OR REPEATED CONTACT W/SKIN MAY
+    CAUSE (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:HLTH HAZ:DERMATITIS OR IN CASE OF EYE EXPOSURE
+    MAY CAUSE REVERSIBLE DAMAGE. NOTE:REPORTS HAVE ASSOCIATED REPEATED
+    & PROLONGED OCCUP OVEREXP TO SOLVENTS W/PERMANENT BRAIN & NERVOUS
+    SYSTEM DAMAGE. INTEN TIONAL MISUSE BY DELIBERATELY CONCENTRATING &
+    INHALING CONTENTS MAY BE HARMFUL OR FATAL.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH W/WATER FOR AT LEAST 15 MINUTES. CALL MD AS SOON
+    AS POSSIBLE. SKIN:REMOVE CONTAMINATED CLOTHING & WASH SKIN
+    THOROUGHLY W/SOAP & WATER. INHAL:REMOVE TO FRESH AIR. INGEST:CALL
+    MD AS SOON AS P OSSIBLE. DO NOT INDUCE VOMITING.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:74.0F,23.3C
+Lower Limits:SEE ING
+Extinguishing Media:WATER FOG, FOAM, CARBON DIOXIDE, DRY CHEMICAL.
+Fire Fighting Procedures:USE NIOSH/MSHA APPRVD SCBA & FULL PROT EQUIP .
+    WATER MAY BE INEFT, BUT WATER SHOULD BE USED TO KEEP FIRE-EXPOS
+    CNTNRS COOL. WATER MAY BE USED TO (SUPDAT)
+Unusual Fire/Explosion Hazard:KEEP CNTNR TIGHTLY CLSD. ISOLATE FROM
+    HEAT, ELEC EQUIP, SPKS & OPEN FLAME. SOLV MAY SEPARATE INTO LIQ
+    FORM AT HIGH TEMPS. CLSD CNTNRS MAY EXPLODE WHEN (SUPDAT)
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. AVOID
+    BREATHING VAPORS. VENTILATE AREA. DIKE MATL. SCOOP UP SPILLS
+    W/NON-SPARKING TOOLS. FLUSH W/DETERGENT & WATER. MIN BRTHG VAPORS &
+    SKIN CONTACT. SAND, EARTH/OTHER S UITABLE ABSORBENT MAY BE ADDED TO
+    SPILLAREA.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM SPARKS, HEAT & OPEN
+    FLAMES. DO NOT STORE >120F. AVOID PROLONGED SKIN/EYE CONTACT. KEEP
+    CONTAINERS CLOSED WHEN NOT IN USE.
+Other Precautions:TO PVNT FIRE/EXPLO RISK FROM STATIC ACCUM &
+    DISCHARGE, USE GROUND PROD TRANSFER SYS I/A/W NFPA STDS. EMPTY
+    CNTNRS MAY RETAIN HAZ PROPERTIES. DO NOT PRESSURIZE, CUT, WELD,
+    DRILL/EXPOSE SUCH CNTNRS TO H EAT, FLAME, SPKS/OTHER SOURCES OF
+    IGNIT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED SUPPLIED AIR RESPIRATORY
+    PROTECTION IN CONFINED SPACES. FOLLOW OSHA REGS 29 CFR 1910.134 FOR
+    RESPIRATOR USE APPLICABLE TO ORGANIC SOLVENT VAPORS, WHEN
+    CONCENTRATIONS EXCEED THE  TLV.
+Ventilation:PROVIDE GENERAL DILUTION OR LOCAL EXHAUST VENTILATION IN
+    VOLUME & PATTERN TO KEEP TLV ING BELOW ACCEPTABLE LIMIT.
+Protective Gloves:CHEMICAL RESISTANT GLOVES.
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGGS .
+Other Protective Equipment:EYE WASH FOUNTAIN & DELUGE SHOWER WHICH MEET
+    ANSI DESIGN CRITERIA . USE CHEM-RESIST APRON/OTHER IMPERVIOUS
+    CLTHG.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+FIRE FIGHT PROC:FLUSH SPILLS AWAY FROM EXPOSURES. EXPLO HAZ:EXPOSED TO
+    EXTREME TEMPERATURES.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:SEE ING
+Vapor Pres:SEE ING
+Vapor Density:HVR/AIR
+Spec Gravity:0.89 
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Appearance and Odor:TRANSLUCENT WHITE PASTE.
+Percent Volatiles by Volume:61.2
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTACT W/STRONG OXIDANTS.
+Stability Condition to Avoid:HEAT, SPARKS, OPEN FLAME & FIRE.
+Hazardous Decomposition Products:PRODUCTS OF COMBUSTION: CARBON
+    MONOXIDE, CARBON DIOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PLACE IN CLOSED CONTAINERS. DISPOSE OF I/A/W
+    LOCAL, STATE & FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

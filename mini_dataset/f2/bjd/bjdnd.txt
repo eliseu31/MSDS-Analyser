@@ -1,0 +1,162 @@
+=====================  Product Identification  =====================
+
+Product ID:MIL-C-8188C
+MSDS Date:05/17/1994
+FSC:6850
+NIIN:00-273-2395
+MSDS Number: BJDND
+=== Responsible Party ===
+Company Name:HULS AMERICA INC.
+Address:TURNER PLACE,
+Box:365
+City:PISCATAWAY
+State:NJ
+ZIP:08854
+Country:US
+Info Phone Num:201-763-7173
+Emergency Phone Num:201-763-7173
+Preparer's Name:P.A.PARKER
+CAGE:0DH22
+=== Contractor Identification ===
+Company Name:HUL AMERICA INC
+Address:TURNER PLACE
+Box:365
+City:PISCATAWAY
+State:NJ
+ZIP:08854-0365
+Country:US
+Phone:201-763-7173
+CAGE:0DHB8
+Company Name:HULS AMERICA INC
+Address:TURNER PLACE
+Box:365
+City:PISCATAWAY
+State:NJ
+ZIP:08854-0365
+Country:US
+Phone:908-981-5016
+CAGE:0DH22
+Company Name:HULS AMERICA INC
+Address:TURNER PLACE
+Box:365
+City:PISCATAWAY
+State:NJ
+ZIP:08855
+Country:US
+Phone:201-763-7173
+CAGE:63182
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TRICRESYL PHOSPHATE
+CAS:1330-78-5
+RTECS #:TD0175000
+Fraction by Wt: 5%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:ALIPHATIC DIESTER BASE
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: EYES: MAY CAUSE IRRITATION.
+    SKIN: MAY CAUSE IRRITATION. INHALATION: MAY CAUSE RESPIRATORY
+    IRRITATION. INGESTION: MAY BE HARMFUL IF SWALLOWED. CHRONIC:
+    REPEATED OR PROLONGED EXPOSURE TO TRICRESY L PHOSPHATE MAY CAUSE
+    NERVOUS SYSTEM EFFECTS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: IRRITATION. SKIN: IRRITATION. INHALATION:
+    RESPIRATORY TRACT IRRITATION, CNS EFFECTS. INGESTION: MAY BE
+    HARMFUL.
+Medical Cond Aggravated by Exposure:PERSONS WITH A HISTORY OF AILMENTS
+    OR WITH A PRE-EXISTING DISEASE INVOLVING THE EYES, SKIN, OR
+    RESPIRATORY TRACT MAY BE AT INCREASED RISK FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH LARGE AMOUNTS OF WATER. IF IRRITATION
+    DEVELOPS, GET MEDICAL ATTENTION. SKIN: REMOVE CONTAMINATED
+    CLOTHING. WASH SKIN AREA WITH SOAP AND WATER. IF IRRITATION
+    DEVELOPS, GET MEDICAL ATTE NTION. INHALATION: MOVE TO FRESH AIR.
+    GIVE CPR OR OXYGEN IF NEEDED. GET MEDICAL ATTENTION IF NEEDED.
+    INGESTION: INDUCE VOMITING AS DIRECTED BY MEDICAL PERSONNEL. GET
+    MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:400F,204C
+Extinguishing Media:USE WATER FOG, DRY CHEMICAL, FOAM, CARBON DIOXIDE.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA
+    AND FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE
+    WATER SPRAY TO COOL FIRE EXPOSED CONTAINERS.
+Unusual Fire/Explosion Hazard:AVOID SPREADING LIQUID AND FIRE BY WATER
+    FLOODING. EXPOSURE TO HEAT BUILDS UP PRESSURE IN CLOSED CONTAINERS
+    WHICH MAY BURST. COOL WITH WATER SPRAY.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONTAIN FREE MATERIAL. COVER WITH AN INERT,
+    ABSORBENT MATERIAL AND REMOVE TO DISPOSAL CONTAINER FOR PROPER
+    DISPOSAL. DO NO CONTAMINATE ANY LAKES, STREAMS, PONDS, OR
+    UNDERGROUND WATER SUPPLY.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL VENTILATED
+    AREA AWAY FROM IGNITION SOURCES. KEEP CONTAINERS CLOSED WHEN NOT IN
+    USE.PROTECT CONTAINERS FROM PHYSICAL DAMAGE.
+Other Precautions:DO NOT USE OIL ABOVE THE MAXIMUM RECOMMENDED
+    OPERATING TEMPERATURE OF 400F. MAY SOFTEN SOME PLASTIC AND PAINT
+    SURFACES. WIPE UP SPILLS IMMEDIATELY. AVOID EYE AND SKIN CONTACT.
+    DO NOT TAKE INTERNALLY.  DO NOT BREATHE MIST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF OVERHEATED, USE APPROPRIATE NIOSH-APPROVED
+    RESPIRATORY PROTECTION EQUIPMENT.
+Ventilation:RECOMMEND USING LOCAL/GENERAL TO MAINTAIN PEL/TLV.
+Protective Gloves:IMPERMEABLE GLOVES TO MINIMIZE CONTACT.
+Eye Protection:CHEMICAL SPLASH GOGGLES OR FACE SHIELD.
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER.
+Work Hygienic Practices:WASH AFTER HANDLING AND BEFORE EATING,
+    DRINKING, OR SMOKING. LAUNDER CONTAMINATED CLOTHING BEFORE REUSING.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:>450F,>232C
+Vapor Density:>1
+Spec Gravity:0.93
+Evaporation Rate & Reference:<1.0 (N-BUTYL ACETATE=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:LIGHT AMBER CLEAR LIQUID. MILD ODOR.
+Percent Volatiles by Volume:NEG
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDANTS.
+Stability Condition to Avoid:HIGH TEMPERATURES.
+Hazardous Decomposition Products:BURNNG WILL PRODUCE TOXIC FUMES.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF WASTE IN ACCORDANCE WITH LOCAL, STATE
+    AND FEDERAL REGULATIONS. DO NOT CONTAMINATE ANY LAKES, STREAMS,
+    PONDS, OR UNDERGROUND WATER SUPPLY.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

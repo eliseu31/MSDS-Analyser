@@ -1,0 +1,138 @@
+=====================  Product Identification  =====================
+
+Product ID:DOWN 'N' DIRTY
+MSDS Date:07/01/1992
+FSC:7930
+NIIN:00N057572
+MSDS Number: BWRRL
+=== Responsible Party ===
+Company Name:NEUTRON INDUSTRIES INC
+Address:7107 N BACK CANYON HWY
+City:PHOENIX
+State:AZ
+ZIP:85021-7619
+Country:US
+Info Phone Num:800-421-8481
+Emergency Phone Num:800-421-8481
+CAGE:GO248
+=== Contractor Identification ===
+Company Name:NETRON INDUSTRIES INC
+Address:7107 N BACK CANYON HWY
+Box:City:PHOENIX
+State:AZ
+ZIP:85021-7619
+Country:US
+Phone:800-421-8481
+CAGE:0FVJ0
+Company Name:NEUTRON INDUSTRIES INC
+Address:7107 N BACK CANYON HWY
+City:PHOENIX
+State:AZ
+ZIP:85021-7619
+Country:US
+Phone:800-421-8481
+CAGE:GO248
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DIPROPYLENE GLYCOL, MONOMETHYL ETHER; (DIPROPYLENE GLYCOL
+    METHYL ETHER);
+CAS:34590-94-8
+RTECS #:JM1575000
+Fraction by Wt: <2%
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:CAUTION:DIRECT CONTACT WITH EYES OR
+    SKIN WILL RESULT IN IRRITATION. DO NOT TAKE INTERNALLY.
+    CHRONIC:NONE EXPECTED.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION:REMOVE TO FRESH AIR. SUPPORT BREATHING (GIVE
+    O*2/ARTF RESP) . INGEST:DRINK LARGE QUANTITIES OF WATER. CONTACT A
+    PHYSICIAN IMMEDIATELY. EYES:FLUSH IMMEDIATELY WITH PLENTY OF COOL
+    WATER  FOR AT LEAST 15 MINUTES. IF IRRITATIONPERSISTS, CONTACT A
+    PHYSICIAN. SKIN:WASH PROMPTLY WITH PLENTY OF SOAP AND WATER. IF
+    IRRITATION PERSISTS, CONTACT A PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:>200F,>93C
+Extinguishing Media:MEDIA SUITABLE FOR SURROUNDING FIRE .
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE EXPECTED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB SPILL ON STATE OIL ABSORBENT, SAND OR
+    VERMICULITE. FLUSH ANY RESIDUES WITH PLENTY OF WATER TO DRAIN.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:CAUTN:CAUSES EYE IRRIT. AVOID DIRECT
+    CONT W/EYES/SKIN. DO NOT TAKE INTERNALLY. KEEP CNTNR TIGHTLY CLSD
+    WHEN NOT IN USE. STORE ONLY IN COOL, DRY PLACE.
+Other Precautions:NOTE:TEST FABRIC FOR COLOR FASTNESS. PLACE ALUMINUM
+    FOIL/PLASTIC COASTERS UNDER FURNITURE LEGS TO PREVENT STAINS.
+    OVER-WETTING MAY CAUSE SHRINKAGE. READ & FOLLOW ALL LBL DIRECTIONS
+    & PREC BEFORE USING  PROD. PRODS ARE INTENDED FOR (SUP DAT)
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE
+    FOR EXPOSURE OF CONCERN . AVOID BREATHING THE VAPORS OF ANY PRODUCT
+    NOT SPECIFICALLY DESIGNED TO BE INHALED.
+Ventilation:USE WITH NORMAL LOCAL VENTILATION.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGGS .
+Other Protective Equipment:HAVE A SOURCE OF COOL, CLEAN WATER NEARBY IN
+    CASE OF ACCIDENTAL EYE CONTACT.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+OTHER PREC:INDUSTRIAL AND INSTITUTIONAL USE ONLY.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>200F,>93C
+Spec Gravity:1.015 (H*2O=1)
+pH:10.2
+Solubility in Water:COMPLETE
+Appearance and Odor:A CLEAR SOLUTION WITH A MILD LEMON SCENT.
+Percent Volatiles by Volume:>90
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS AND STRONG ACIDS.
+Stability Condition to Avoid:KEEP FROM FREEZING.
+Hazardous Decomposition Products:BURNING OF THE RESIDUE OF THIS PRODUCT
+    MAY RESULT IN THE FORMATION OF CARBON MONOXIDE AND/OR CARBON
+    DIOXIDE GASES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DO NOT REUSE EMPTY CONTAINERS FOR ANY PURPOSE.
+    FLUSH THOROUGHLY WITH WATER, CRUSH OR PERFORATE AND DISCARD OR GIVE
+    RINSED DRUM TO A DRUM RECONDITIONER FOR RECYCLING. FOLLOW ALL
+    FEDERAL, STATE AND LOCA L REGULATIONS REGARDING WASTE DISPOSAL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

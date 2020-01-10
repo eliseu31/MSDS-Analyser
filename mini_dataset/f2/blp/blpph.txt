@@ -1,0 +1,130 @@
+=====================  Product Identification  =====================
+
+Product ID:CONCRESIVE 1011
+MSDS Date:09/25/1991
+FSC:8040
+NIIN:00F019179
+MSDS Number: BLPPH
+=== Responsible Party ===
+Company Name:MASTER BUILDERS INC
+Address:23700 CHAGRIN BLVD
+City:CLEVELAND
+State:OH
+ZIP:44122
+Info Phone Num:(216) 831-5500
+Emergency Phone Num:(216) 831-5500
+CAGE:FO873
+=== Contractor Identification ===
+Company Name:ADHESIVE ENGINEERING CO.
+Address:1411 INDUSTRIAL CO.
+Box:2449
+City:SAN CARLOS
+State:CA
+ZIP:94070
+Country:US
+CAGE:17433
+Company Name:MASTER BUILDERS DIV MARTIN MARIETTA CORP
+Address:23700 CHAGRIN BLVD
+City:CLEVELAND
+State:OH
+ZIP:44122-5506
+Phone:(216) 831-5500
+CAGE:FO873
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BISPHENOL A DIGLYCIDYL ETHER RESIN, EPOXY RESIN,	       
+    ARALDITE 6004, 4,4'-ISOPROPYLIDENEDIPHENOL-EPICHLOROHYDRIN
+CAS:25068-38-6
+RTECS #:KD4380000
+Fraction by Wt: 55-70%
+
+Ingred Name:PROPANE, 1,2-EPOXY-3-((2-ETHYLHEXYL)OXY), ALIPHATIC
+    GLYCIDYL ETHER, 2-ETHYLHEXYL GLYCIDYL ETHER
+CAS:2461-15-6
+RTECS #:TZ3300000
+Fraction by Wt: 5-15%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): 11.4 G/KG.	SEE SUPP.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN: IRRITATION, REDNESS,
+    SENSITIZATION OR ALLERGIC REACTION. INHALATION: NOSE & MUCOUS
+    MEMBRANE IRRITATION. EYES: IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN: IRRITATION, REDNESS, SENSITIZATION,&
+    ALLERGIC REACTION. INHALATION: NOSE & MUCOUS MEMBRANE IRRITATION.
+    EYES: IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: WASH W/SOAP & WATER. INHALATION: REMOVE TO FRESH AIR.
+    IF BREATHING DIFFICULTY, ADMINISTER OXYGEN. EYES: FLUSH W/WATER FOR
+    15 MIN. INGESTION: DON'T INDUCE VOMITING, GIVE LARGE AMOUNTS OF
+    WATER. I F VOMITING OCCURS SPONTANEOUSLY, KEEP HEAD BELOW HIPS TO
+    PREVENT ASPIRATION OF LIQUIDS INTO LUNGS. DON'T GIVE ANYTHING BY
+    MOUTH TO AN UNCONSCIOUS PERSON. OBTAIN MEDICAL ATTENTION IN ALL
+    CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:195F
+Extinguishing Media:WATER FOG, FOAM, CO2, OR DRY CHEMICAL
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS & FULL
+    PROTECTIVE CLOTHING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE EQUIPMENT. CONTAIN LEAK OR
+    SPILL, SALVAGE, CLEAN UP RESIDUE W/ABSORBENT MATERIAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A DRY, COOL PLACE IN TIGHTLY
+    SEALED CONTAINER. STORE AT ROOM TEMPERATURE.
+Other Precautions:EXCESSIVE HEAT & FUMES GENERATION CAN OCCUR IF
+    IMPROPERLY HANDLED. PRODUCT MUST BE MIXED & USED ACCORDING TO
+    DIRECTIONS FOR SAFETY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE A NIOSH APPROVED RESPIRATOR IF >TLV IN
+    CONFINED SPACES, ROOMS OR TANKS.
+Ventilation:RECOMMENDED
+Protective Gloves:RECOMMENDED
+Eye Protection:CHEMICAL GOGGLES
+Other Protective Equipment:BOOTS & APRON
+Supplemental Safety and Health
+LD50 INFORMATION IS FOR BISPHENOL A GLYCIDYL ETHER RESIN.
+
+==================  Physical/Chemical Properties  ==================
+
+Vapor Density:>AIR
+Solubility in Water:INSOLUBLE
+Appearance and Odor:AMBER LIQUID W/MILD ODOR
+Percent Volatiles by Volume:TRACE
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS, STRONG BASES, AMINES, & MERCAPTANS
+Hazardous Decomposition Products:SMOKE, FUMES, CO, CO2, ALDEHYDES, &
+    VARIOUS HYDROCARBONS
+Conditions to Avoid Polymerization:MERCAPTANS, STRONG ACIDS, STRONG
+    BASES, OR AMINES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:LANDFILL IF SOLIDIFIED OR INCINERATE ACCORDING
+    TO FEDERAL, STATE, & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

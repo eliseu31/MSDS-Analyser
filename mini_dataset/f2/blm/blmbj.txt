@@ -1,0 +1,138 @@
+=====================  Product Identification  =====================
+
+Product ID:STOVE AND LANTERN FUEL
+MSDS Date:04/26/1990
+FSC:9140
+NIIN:00N019831
+MSDS Number: BLMBJ
+=== Responsible Party ===
+Company Name:TRADCO CORP INC
+Address:1081 ROSEMARY BLVD
+City:AKRON
+State:OH
+ZIP:44306
+Country:US
+Info Phone Num:216-773-7669
+Emergency Phone Num:216-773-7669
+CAGE:IO008
+=== Contractor Identification ===
+Company Name:TRADCO CORP INC
+Address:1081 ROSEMARY BLVD
+Box:City:AKRON
+State:OH
+ZIP:44306
+Country:US
+Phone:216-773-7669
+CAGE:IO008
+Company Name:TRADECO CHEMICAL CORP
+Address:1081 ROSEMARY BLVD
+Box:City:AKRON
+State:OH
+ZIP:44306-3727
+Country:US
+CAGE:65248
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HEXANE (N-HEXANE)
+CAS:110-54-3
+RTECS #:MN9275000
+OSHA PEL:500 PPM
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:HEXANE MAY DAMAGE PERIPHERAL NERVE
+    TISSUE AND RESULT IN MUSCULAR WEAKNESS. OVEREXPOSURE HAS BEEN
+    SUGGESTED AS A CAUSE OF CENTRAL NERVOUS SYSTEM DAMAGE. EYE:SEVERE
+    IRRITATION, TEARING, BLURRED VISION.  SKIN:MODERATE IRRITATION,
+    DEFATTING, DERMATITIS. INHAL:EXCESSIVE INHALATION OF VAPORS CAN
+    CAUSE (EFTS OF OVEREXPOSURE)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ:NASAL AND RESPIRATORY IRRITATION,
+    DIZZINESS, AND WEAKNESS, UNCONSCIOUSNESS, AND EVEN ASPHYXIATION,
+    NAUSEA, VOMITING AND DIARRHEA.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:WASH THOROUGHLY WITH SOAP & WATER. EYE: FLUSH WITH LARGE
+    AMOUNTS OF WATER FOR AT LEAST 15 MINUTES. INGEST:DO NOT INDUCE
+    VOMITING, KEEP WARM & QUIET AND GET MD. INHAL:REMOVE TO FRESH AIR.
+    SUPPORT  BREATHING (GIVE O2/ARTF RESP) .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:-10.0F, -23.2 C
+Lower Limits:1%
+Extinguishing Media:REGULAR FOAM, CARBON DIOXIDE, OR DRY CHEMICAL.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:MATERIAL IS HIGHLY VOLATILE & READILY
+    GIVE OFF VAPORS WHICH MAY TRAVEL ALONG GROUND OR BE MOVED BY VENT &
+    IGNIT BY PILOT LIGHTS, OTHER FLAMES,SPARKS,(SUPP DATA)
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SMALL SPILL:ABSORB LIQUID ON PAPER, ON FLOOR
+    ABSORBENT & TRANSFER TO HOOD. LARGE SPILL:ELIMINATE ALL IGNIT
+    SOURCES. PERSONS NOT WEARING PROT EQUIP SHOULD BE EXCLUDED FROM ANY
+    AREA OF SPILL. DIKE AREA  TO PVNT SPREADING, PUMP INTO SALVAGE
+    TANK.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:CONTAINERS OF THIS MATERIAL MAY BE
+    HAZARDOUS WHEN EMPTIED SINCE CONTAINERS RETAIN PRODUCT RESIDUE, ALL
+    HAZARD PRECS GIVEN MUST BE OBSERVED.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED AIR SUPPLIED RESPIRATOR.
+Ventilation:LOCAL AND MECHANICAL (GENERAL) EXHAUST.
+Protective Gloves:NITRILE RUBBER GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:IMPERVIOUS CLOTHING AND BOOTS.
+Work Hygienic Practices:WELL VENTILATED AREA.
+Supplemental Safety and Health
+EXPLO HAZ:HEATERS, SMOKING, ELECTRIC MOTOR, STATIC DISCHARGE, OR OTHER
+    IGNITION SOURCES.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:B.P. Text:156F,69C
+Vapor Density:3
+Spec Gravity:0.68
+Evaporation Rate & Reference:9 (BUTYL ACETATE=1)
+Solubility in Water:100%
+Appearance and Odor:CLEAR WHITE WITH STRONG SMELL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:MAY FORM TOXIC MATERIALS:CARBON
+    DIOXIDE AND CARBON MONOXIDE AND VARIOUS HYDROCARBONS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF REMAINING MATERIAL IN ACCORDANCE WITH
+    LOCAL, STATE, AND FEDERAL REGULATIONS .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

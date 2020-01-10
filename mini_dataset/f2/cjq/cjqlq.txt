@@ -1,0 +1,152 @@
+=====================  Product Identification  =====================
+
+Product ID:EAGLE SILICA GEL
+MSDS Date:05/01/1999
+FSC:6850
+NIIN:00-823-8143
+Status Code:A
+MSDS Number: CJQLQ
+=== Responsible Party ===
+Company Name:EAGLE CHEMICAL CO INC
+Address:TELEGRAPH & EAGLE DR
+Box:107
+City:MOBILE
+State:AL
+ZIP:36601
+Country:US
+Info Phone Num:205-452-9624
+Emergency Phone Num:205-452-9624
+CAGE:18425
+=== Contractor Identification ===
+Company Name:EAGLE CHEMICAL CO INC
+Address:1500 TELEGRAPH RD
+Box:107
+City:MOBILE
+State:AL
+ZIP:36601
+Country:US
+Phone:334-452-9624
+Contract Num:SP0450-00-M-D049
+CAGE:18425
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SILICA, AMORPHOUS, PRECIPITATED AND GEL
+CAS:7699-41-4
+RTECS #:VV8850000
+Fraction by Wt: 95.6%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:20 MPPCF
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+= Wt:4.4
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: BREATHING EXCESS DUST MAY CAUSE
+    IRRITATION. IN RARE CASE MAY CAUSE SKIN IRRITATION.
+Effects of Overexposure:EYES/SKIN: MAY CAUSE IRRITATION. INHALATION:
+    IRRITATION OF NOSE, THROAT AND UPPER RESPIRATORY TRACT.
+Medical Cond Aggravated by Exposure:ASTHMA AND BRONCHITIS MAY BE
+    AGGARAVTED BY EXPOSURE TO DUST.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH PLENTY OF WATER. IF IRRITATION PERSISTS, SEE
+    DOCTOR. SKIN: REMOVE CONTAMINATED CLOTHING. WASH WITH SOAP AND
+    WATER. IF IRRITATION PERSISTS, SEE DOCTOR. INHALATION: REMOVE TO
+    FRESH AIR.	GIVE CPR/OXYGEN IF NEEDED. SEE DOCTOR. INGESTION:RINSE
+    MOUTH, DRINK 1-2 GLASSES OF WATER OR MILK, DO NOT INDUCE VOMITING.
+    SEEK MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:NON-FLAMMABLE. USE EXTINGUISHING MEDIA APPROPIATE
+    FOR SURROUNDING FIRE.
+Fire Fighting Procedures:NONE SPECIFIED BY MANUFACTURER.
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE. CLEAN UP USING METHODS THAT AVOID
+    DUST GENERATION SUCH AS VACUUM, WET DUST MOP OR WET CLEAN UP AND
+    PLACE IN APPROPIATE DISPOSAL CONTAINER AND COVER. IF DUST IS
+    GENERATED USE NIOSH/MSHA APPR OVED RESPIRATOR WITH DUST CARTRIDGE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL, DRY, WELL VENTILATED
+    AREA. PROTECT FROM PHYSICAL DAMAGE. KEEP CONTAINERS & BAGS TIGHTLY
+    CLOSED.
+Other Precautions:PERIODIC MEDICAL EXAMINATIONS ARE RECOMMENDED FOR
+    INDIVIDUALS REGULARLY EXPOSED TO DUST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA-APPROVED RESPIRATOR WITH DUST
+    CARTRIDGE IF TLV IS EXCEEDED.
+Ventilation:LOCAL EXHAUST TO MAINTAIN EXPOSURE LEVEL BELOW TLV.
+Protective Gloves:PROTECTIVE GLOVES.
+Eye Protection:SAFETY GLASSES W/SIDE SHIELD OR GOGGLES.
+Other Protective Equipment:NONE
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING. DO NOT SHAKE
+    CLOTHING. REMOVE DUST BY WASHING OR VACUUMING.
+Supplemental Safety and Health
+NONE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T6
+Spec Gravity:1.1
+Solubility in Water:INSOLUBLE.
+Appearance and Odor:CRYSTALLINE OR WHITE GRANULE, ODORLESS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:NONE
+
+===================  Toxicological Information	===================
+
+Toxicological Information:INGESTION:NOT HARMFUL BY INESTION, LETHAL
+    DOSE FOR HUMANS IS OVER 15,000 MG/KG. INHALATION:HAS LITTLE ADVERSE
+    EFFECT ON LUNGS AND DOES NOT PRODUCE SIGNIFICANT DISEASE OR TOXIC
+    EFFECT WHEN EXPOSURE IS  KEPT UNDER REASONABLE CONTROL. SKIN:
+    PROLONGED CONTACT MAY HAVE A DRYING EFFECT ON THE SKIN AND MUCUS
+    MEMBRANE. EYE: MAY CAUSE DISCOMFORT AND MILD IRRITATION.
+
+=====================  Ecological Information  =====================
+
+Ecological:SYNTHETIC AMRPHOUS SILICA IS VRTUALLY INERT AND HAS NO KNOWN
+    ADVERSE EFFECT ON THE ENVIRONMENT.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:NOTIFY YOUR LOCAL ENVIRONMENTAL OFFICER. KEEP IN
+    COVERED CONTAINERS PENDING DISPOSAL. DISPOSE OF IN ACCORDANCE WITH
+    FEDERAL, STATE AND LOCAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:NOT REGULATED AND DOES NOT REQUIRE ANY SPECIAL
+    PACKAGING.
+
+=====================  Regulatory Information  =====================
+
+Federal Regulatory Information:LISTED ON TSCA UNDER CAGE 7699-41-4.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

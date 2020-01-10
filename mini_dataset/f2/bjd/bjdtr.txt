@@ -1,0 +1,156 @@
+=====================  Product Identification  =====================
+
+Product ID:LUBRIPLATE 100 SERIES
+MSDS Date:06/01/1989
+FSC:9150
+NIIN:01-025-6028
+MSDS Number: BJDTR
+=== Responsible Party ===
+Company Name:FISKE BROS REFINING CO
+Address:129 LOCKWOOD ST
+Box:1
+City:NEWARK
+State:NJ
+ZIP:07105-4720
+Country:US
+Info Phone Num:201-589-9150
+Emergency Phone Num:201-589-9150
+Preparer's Name:ROBERT J. SIBILIA
+CAGE:73219
+=== Contractor Identification ===
+Company Name:AQUA-CHEM INC.; CLEAVER-BROOKS DIV.
+Address:1500 LEHMAN STREET
+Box:City:LEBANON
+State:PA
+ZIP:17024-3337
+Country:US
+Phone:717-274-7853
+CAGE:12793
+Company Name:FISKE BROS REFINING CO
+Address:129 LOCKWOOD ST
+Box:City:NEWARK
+State:NJ
+ZIP:07105-4720
+Country:US
+Phone:201-589-9150
+CAGE:73219
+Company Name:NYE LUBRICANTS INC
+Address:12 HOWLAND RD
+Box:City:FAIR HAVEN
+State:MA
+ZIP:02719
+Country:US
+Phone:508-996-6721
+CAGE:98354
+Company Name:STRATEGIC PROCUREMENT SERVICE INC, W AND W  LOGISTICS DIV
+Address:2 MADISON ROAD
+Box:City:FAIRFIELD
+State:NJ
+ZIP:07004
+Country:US
+Phone:973-575-6620
+CAGE:79343
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:OIL MIST IN AIR
+RTECS #:RI7400000
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:PROLONGED OR REPEATED SKIN CONTACT MAY
+    CAUSE SKIN IRRITATION.PRODUCT CONTACTING THE EYES MAY CAUSE EYE
+    IRRITATION. AS A PRECAUTION, EXPOSURE TO LIQUIDS, VAPORS, MISTS AND
+    FUMES SHOULD BE MINIMIZED. LO W ORDER OF ACUTE ORAL TOXICITY. HUMAN
+    HEALTH RISKS VARY FROM PERSON TO PERSON.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:FLUSH W/WATER 15 MIN OR UNTIL IRRITATION SUBSIDES. IF
+    IRRITATION PERSISTS, GET MD. SKIN: REMOVE CONTAM CLOTHING, WASH W/
+    SOAP & WATER. IF ANY INJECTED UNDER SKIN, GET MD IMMED. INHAL: AT
+    ROOM TEMP, NO T A PROBLEM. IF NECESSARY, REMOVE FROM EXPOSURE & GET
+    MD. INGEST: GET MD IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:360F,182C
+Lower Limits:1%
+Upper Limits:7%
+Extinguishing Media:FOAM, DRY CHEMICAL, CARBON DIOXIDE OR WATER SPRAY
+Fire Fighting Procedures:COOL EXPOSED CONTAINERS W/ WATER. USE AIR
+    SUPPLIED RESCUE EQUIPMENT FOR ENCLOSED AREAS.
+Unusual Fire/Explosion Hazard:DO NOT STORE OR MIX W/ STRONG OXIDANTS.
+    EMPTY CONTAINERS RETAIN RESIDUE. DO NOT CUT, DRILL, GRIND, OR WELD,
+    AS THEY MAY EXPLODE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SCRAPE UP GREASE, WASH REMAINER W/SUITABLE
+    PETROLEUM SOLVENT OR ADD ABSORBENT. KEEP PETROLEUM PRODUCTS OUT OF
+    SEWERS AND WATER COURSES. ADVISE AUTHORITIES IF PRODUCT HAS ENTERED
+    OR MAY ENTER SEWERS AN D WATER COURSES.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINERS CLOSED WHEN NOT IN
+    USE. DO NOT HANDLE OR STORE NEAR HEAT, SPARKS, FLAME, OR STRONG
+    OXIDANTS.
+Other Precautions:AVOID BREATHING OIL MIST. REMOVE OIL-SOAKED CLOTHING
+    AND LAUNDER BEFORE REUSE. CLEANSE SKIN THOROUGHLY AFTER CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NORMALLY NOT NEEDED
+Protective Gloves:OIL RESISTANT, IF NEEDED
+Eye Protection:GOGGLES
+Other Protective Equipment:OIL RESISTANT APRON, IF NEEDED.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:550F,288C
+Melt/Freeze Pt:M.P/F.P Text:SEMI-SOLID
+Vapor Pres:<0.01MM
+Vapor Density:>5
+Spec Gravity:0.89-0.93
+Evaporation Rate & Reference:<0.01(N-BUTYL ACETATE =1)
+Solubility in Water:INSOLUBLE
+Appearance and Odor:SMOOTH, WHITE GREASE W/ MINERAL OIL ODOR
+Percent Volatiles by Volume:NIL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTACT W/ STRONG OXIDANTS LIKE LIQUID CHLORINE, CONCENTRATED
+    OXYGEN
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:IF INCOMPLETE COMBUSTION, CARBON
+    MONOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ASSURE CONFORMITY W/ APPLICABLE DISPOSAL REGS.
+    DISPOSE OF ABSORBED MATERIAL AT AN APPROVED WASTE DISPOSAL FACILITY
+    OR SITE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

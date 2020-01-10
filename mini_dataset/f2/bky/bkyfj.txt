@@ -1,0 +1,127 @@
+=====================  Product Identification  =====================
+
+Product ID:M5020-200 REVERSAL 2ND DEVELOPER/REPLENISHER CONC 5 GAL
+MSDS Date:06/03/1989
+FSC:6750
+NIIN:00F018554
+MSDS Number: BKYFJ
+=== Responsible Party ===
+Company Name:CLAYTON CHEMICAL CO
+Address:13310 S FIGUEROA ST
+City:LOS ANGELES
+State:CA
+ZIP:90061
+Info Phone Num:(213) 538-9530
+Emergency Phone Num:(213) 538-9530
+Preparer's Name:JOHN B. TAYLOR
+CAGE:61803
+=== Contractor Identification ===
+Company Name:CLAYTON CHEMICAL CO.
+Address:13310 S. FIGUEROA STREET
+Box:City:LOS ANGELES
+State:CA
+ZIP:90061
+Country:US
+Phone:310-538-9530/800-424-9300(CHEMTREC)
+CAGE:61803
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HYDROQUINONE  (SARA III)
+CAS:123-31-9
+RTECS #:MX3500000
+OSHA PEL:2 MG/M3
+ACGIH TLV:2 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:POTASSIUM CARBONATE, POTASH, PEARL ASH
+CAS:584-08-7
+RTECS #:TS7750000
+
+Ingred Name:POTASSIUM HYDROXIDE  (SARA III)
+CAS:1310-58-3
+RTECS #:TT2100000
+Other REC Limits:2 MG/CUM (CEILING)
+OSHA PEL:C, 2 MG/M3
+ACGIH TLV:C 2 MG/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:SODIUM SULFITE
+CAS:7757-83-7
+RTECS #:WE2150000
+Other REC Limits:5 MG/CUM (DUST)
+
+Ingred Name:ETHYLENE GLYCOL  (SARA III)
+CAS:107-21-1
+RTECS #:KW2975000
+Other REC Limits:10 MG/CUM
+OSHA PEL:C 50 PPM
+ACGIH TLV:C 50 PPM,VAPOR; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES/SKIN: IRRITATION. INGESTION:
+    STOMACH PAIN.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES/SKIN: IRRITATION. INGESTION: STOMACH PAIN
+Medical Cond Aggravated by Exposure:DERMATITIS
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER. SKIN: WASH W/NEUTRAL SOAP &
+    WATER. INGESTION: TAKE MILK & WATER. OBTAIN MEDICAL ATTENTION IN
+    ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NOT COMBUSTIBLE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SMALL SPILLS-MOP ON WASTE TOWELING & DISPOSE
+    OF IN THE PROPER CONTAINER. LARGE SPILLS: FLUSH TO SEWER W/PLENTY
+    OF WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY PLACE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Protective Gloves:RECOMMENDED
+Eye Protection:GOGGLES
+Other Protective Equipment:EYE-WASH FACILITY.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:<212F
+Spec Gravity:1.24
+pH:12.6
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR, PALE STRAW COLOR; NO ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG MINERAL ACIDS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:FLUSH TO SEWER W/PLENTY OF WATER. DISPOSE OF IN
+    ACCORDANCE W/LOCAL, STATE, & FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

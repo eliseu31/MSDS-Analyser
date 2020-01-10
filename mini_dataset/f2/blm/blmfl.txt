@@ -1,0 +1,163 @@
+=====================  Product Identification  =====================
+
+Product ID:ALUMINUM OXIDE 5/10 (1/4") BEADS
+MSDS Date:09/01/1991
+FSC:6850
+NIIN:00N020939
+MSDS Number: BLMFL
+=== Responsible Party ===
+Company Name:ALCOA CONDUCTOR PRODUCTS CO
+Address:1 ALLEGHANY SQ
+City:PITTSBURGH
+State:PA
+ZIP:15212-5318
+Country:US
+Info Phone Num:412-553-4545
+Emergency Phone Num:412-553-4545
+CAGE:IO067
+=== Contractor Identification ===
+Company Name:ALCOA CONDUCTOR PRODUCTS CO
+Address:1 ALLEGHANY SQ
+Box:City:PITTSBURGH
+State:PA
+ZIP:15212-5318
+Country:US
+Phone:412-553-4545
+CAGE:IO067
+Company Name:ALUMINUM COMPANY OF AMERICA
+Address:181 THORN HILL ROAD
+Box:City:WARRENDALE
+State:PA
+ZIP:15086-7527
+Country:US
+Phone:412-553-2881
+CAGE:8B997
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ALPHA-ALUMINA (ALUMINUM OXIDE)  (EPA LISTS ONLY FIBROUS
+    FORMS)  (SARA III)
+CAS:1344-28-1
+RTECS #:BD1200000
+Fraction by Wt: 90-95%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:SODIUM MONOXIDE; (NA*2O)
+CAS:12401-86-4
+RTECS #:WC4800000
+Fraction by Wt: 0.3-0.6%
+
+Ingred Name:SILICA, CRYSTALLINE - FUSED
+CAS:60676-86-0
+RTECS #:VV7328000
+Fraction by Wt: .03-0.1%
+OSHA PEL:SEE TABLE Z3
+ACGIH TLV:0.1 MG/M3 RDUST;9293
+
+Ingred Name:IRON OXIDE
+CAS:1309-37-1
+RTECS #:NO7400000
+Fraction by Wt: .03-0.1%
+OSHA PEL:10 MG/M3 (FE)
+ACGIH TLV:5 MG/M3(FE),B2; 9293
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 4-7%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:THE DESICCANT PROPERTIES OF ACTIVATED
+    ALUMINA MAY CAUSE IRRITATION TO THE EYES AND UPPER RESPIRATORY
+    TRACT. ALUMINA IS A LOW HEALTH RISK BY INHAL. ALUMINA SHOULD BE
+    TREATED AS A NUISANCE DUST, AS SPEC IFIED BY THE AMERICAN
+    CONFERENCE OF GOVERNMENTAL INDUSTRIAL HYGIENIST (ACGIH). ALUMINA:
+    SKIN AND EYES:(EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ: NOT AN IRRITANT. INGEST: NO TOXICITY
+    EXPECTED.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: IMMEDIATELY FLUSH WITH POTABLE WATER FOR A MINIMUM OF
+    15 MIN. SEEK ASSISTANCE FROM MD . SKIN: FLUSH WITH COPIOUS AMOUNTS
+    OF WATER. CALL MD . INHAL: REMOVE TO FRESH AIR. SUPPORT BREAT HING.
+    (GIVE O2/ARTF RESP) . INGEST: GET MD IMMED	.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:EXTINGUISHING MEDIA SUITABLE FOR SURROUNDING FIRE .
+    NON FLAMMABLE.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CLEAN UP USING DRY PROCEDURES; AVOID DUSTING.
+    WASTE MAY BE CONSIDERED AS INERT MATERIAL, SUITABLE FOR LANDFILL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:CHEM SUBSTANCE COMPONENTS HAVE BEEN
+    REPORTED TO EPA OFFICE OF TOX SUBSTANCES I/A/W REQUIREMENTS OF TOX
+    SUBSTANCES CONTROL ACT (TITLE 40 CFR PART 710).
+Other Precautions:NONE OF THE MATLS IN THIS MIX ARE ON THE EPA LIST OF
+    EXTREMELY HAZ SUBSTANCES (SEC 302 OF SARA). ALUMINUM OXIDE IS ON
+    THE TOXIC CHEM LIST (SEC 313 OF SARA). THE REPORTABLE CHEM
+    SUBSTANCES IN THIS PROD  ARE REGULATED BY THE OSHA (SUPP DATA)
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WHERE THE EXPOSURE LIMIT IS OR MAY BE EXCEEDED,
+    USE NIOSH/MSHA APPROVED RESPIRATORY PROTECTION. SELECT THE
+    APPROPRIATE RESPIRATOR (DUST RESP, ETC.) BASED ON THE ACTUAL
+    POTENTIAL AIRBORNE CONTAMINANTS  AND THEIR CONCENTRATIONS PRESENT.
+Ventilation:USE WITH ADEQUATE VENTILATION TO MEET THE EXPOSURE LIMITS
+    AS LISTED IN INGREDIENT SECTION.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+OTHER PREC: HAZARD COMMUNICATION STANDARD (29 CFR 1910.1200) SOLEY
+    BECAUSE THEY ARE LISTED BY ACGIH. HOWEVER, THEY DO NOT FIT ANY OF
+    THE FIVE PROPOSED HAZARD CATEGORIES UNDER SECTIONS 311 OR 312 OF SA
+    RA.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Melt/Freeze Pt:M.P/F.P Text:3700F,2038C
+Spec Gravity:3.2
+pH:10
+Solubility in Water:INSOLUBLE
+Appearance and Odor:OFF-WHITE BALLS OR PELLETS, NO ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+GENERATES HEAT WITH WATER.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE IN ACCORDANCE WITH FEDERAL,
+    STATE AND LOCAL REGULATIONS .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

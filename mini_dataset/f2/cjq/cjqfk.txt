@@ -1,0 +1,181 @@
+=====================  Product Identification  =====================
+
+Product ID:ORGILL GRAY METAL PRIMER, 6-5697-1
+MSDS Date:07/10/1995
+FSC:8010
+NIIN:00N092042
+Status Code:A
+MSDS Number: CJQFK
+=== Responsible Party ===
+Company Name:CHASE PRODUCTS CO
+Box:70
+City:MAYWOOD
+State:IL
+ZIP:60153
+Country:US
+Info Phone Num:708-865-1000
+Emergency Phone Num:708-865-1000
+Resp. Party Other MSDS Num.:428-2519
+Preparer's Name:LAURA E RADEVSKI
+CAGE:8D764
+=== Contractor Identification ===
+Company Name:CHASE PRODUCTS CO
+Box:70
+City:MAYWOOD
+State:IL
+ZIP:60153
+Country:US
+Phone:708-865-1000
+CAGE:8D764
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LIGHT ALIPHATIC SOLVENT NAPHTHA (PETROLEUM); (VM & P
+    NAPHTHA)
+CAS:64742-89-8
+OSHA PEL:300 PPM
+ACGIH TLV:300 PPM
+
+Ingred Name:TOLUENE
+CAS:108-88-3
+RTECS #:XS5250000
+Minumum % Wt:20.
+Maxumum % Wt:25.
+OSHA PEL:see Table Z-2
+ACGIH TLV:188 MG/M3;50 PPM
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ZINC PHOSPHATE
+CAS:7779-90-0
+RTECS #:TD0590000
+Minumum % Wt:1.
+Maxumum % Wt:5.
+OSHA PEL:15 MG/M3
+ACGIH TLV:10 MG/M3
+
+Ingred Name:ACETONE. BP: 133F,56.1C
+CAS:67-64-1
+RTECS #:AL3150000
+Minumum % Wt:25.
+Maxumum % Wt:30.
+OSHA PEL:2400 MG/M3;1000 PPM
+ACGIH TLV:1780 MG/M3;750 PPM
+ACGIH STEL:2380 MG/M3;1000 PPM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:PROPANE OR ING 6
+CAS:74-98-6
+RTECS #:TX2275000
+OSHA PEL:1800 MG/M3;1000 PPM
+
+Ingred Name:BUTANE (PROPELLANT BLEND)
+CAS:106-97-8
+RTECS #:EJ4200000
+OSHA PEL:800 PPM
+ACGIH TLV:1900 MG/M3;800 PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: OVERINHALATION OF VAPOR OR MIST
+    MAY CAUSE HEADACHE, DIZZINESS AND NAUSEA. PROLONGED CONTACT WITH
+    SKIN MAY CAUSE IRRITATION. IRRITANT TO EYES ON CONTACT. TOLUENE
+    APPEARS ON THE NAVY LISTING OF O CCUPATIONAL CHEMICAL REPRODUCTIVE
+    HAZARDS. SEEK CONSULTATION FROM APPROPRIATE HEALTH PROFESSIONALS
+    CONCERNING LATEST HAZARD LIST INFORMATION AND SAFE HANDLING AND
+    EXPOSURE INFORMATION . CHRONIC:  NOT KNOWN.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NOT KNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION: CALL MD IMMEDIATELY . INHALATION: IF OVERCOME BY
+    VAPOR, MOVE VICTIM TO FRESH AIR. RESTORE RESPIRATION IF NECESSARY.
+    SKIN & EYES: FLUSH WITH PLENTY OF WATER FOR AT LEAST 15 MINUTES. CO
+    NSULT PHYSICIAN IF INJURY DEVELOPS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:SEE EXTING MEDIA
+Extinguishing Media:FLAME PROJECTION: OVER 18 IN WITH FLASHBACK. DRY
+    CHEMICAL, FOAM OR CARBON DIOXIDE.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT . WATER SPRAY MAY BE USED TO COOL CANS IN VICINITY OF
+    FIRE OR EXCESSIVE HEAT.
+Unusual Fire/Explosion Hazard:TEMPERATURES ABOVE 120F MAY CAUSE CANS TO
+    BURST. AEROSOL FIRE PROTECTION LEVEL III (NFPA 30B).
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:PROVIDE ADEQUATE VENTILATION TO AREA BEING
+    TREATED. SOAK UP SPILL WITH CHEMICALLY INERT, ABSORBENT MATERIAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CAN CLOSED AND IN A COOL, DRY
+    PLACE AWAY FROM HEAT AND OPEN FLAME.
+Other Precautions:KEEP OUT OF REACH OF CHILDREN. AVOID GETTING SPRAY
+    INTO EYES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED IF USED WITH ADEQUATE VENTILATION.
+    NIOSH APPROVED RESPIRATOR APPROPRIATE FOR EXPOSURE OF CONCERN .
+Ventilation:LOCAL EXHAUST: PREFERRED. MECHANICAL (GENERAL): OPTIONAL.
+Protective Gloves:RUBBER OR VINYL GLOVES.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:EYE WASH & DELUGE SHOWER MEETING ANSI DESIGN
+    CRITERIA . APRON, IF DESIRED.
+Work Hygienic Practices:WASH HANDS THOROUGHLY AFTER USING THIS PRODUCT.
+Supplemental Safety and Health
+VOC%: 84.14.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:=56.1C, 133.F
+B.P. Text:SEE INGRED 4
+Spec Gravity:0.93(H*2O=1)(CONCENTRATE)
+Evaporation Rate & Reference:FASTER THAN BUTYL ACETATE
+Solubility in Water:INSOLUBLE
+Appearance and Odor:RED, HEAVY LIQUID WITH ODOR OF PAINT.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID HEAT, OPEN FLAME AND CONTACT WITH STRONG OXIDIZERS.
+Stability Condition to Avoid:TEMPERATURES ABOVE 120F.
+Hazardous Decomposition Products:THERMAL DECOMPOSITION MAY YIELD GASES
+    LIKE CARBON MONOXIDE AND CARBON DIOXIDE.
+Conditions to Avoid Polymerization:TEMPERATURES ABOVE 120F.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:WRAP CONTAINER IN SEVERAL LAYERS OF NEWSPAPER
+    AND DISPOSE OF IT IN NON-INCINERATED TRASH ONLY. DISPOSAL MUST BE
+    IN ACCORDANCE WITH FEDERAL, STATE, AND LOCAL REGULATIONS .
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:ORM-D CONSUMER COMMODITY.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:TOLUENE, ZINC PHOSPHATE AND ACETATE ARE
+    LISTED UNDER SARA SECTION 313.
+State Regulatory Information:CALIFORNIA'S PROPOSTION 65: "WARNING: THIS
+    PRODUCT CONTAINS TOLUENE A CHEMICAL KNOWN TO THE STATE OF
+    CALIFORNIA TO CAUSE REPRODUCTIVE TOXICITY".
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

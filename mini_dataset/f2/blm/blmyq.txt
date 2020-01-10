@@ -1,0 +1,133 @@
+=====================  Product Identification  =====================
+
+Product ID:NATIONAL REFRIGERANT 500
+MSDS Date:06/01/1988
+FSC:6830
+NIIN:00-089-0697
+MSDS Number: BLMYQ
+=== Responsible Party ===
+Company Name:NATIONAL REFRIGERANTS INC
+Address:89 WATER ST
+City:BRIDGETON
+State:NJ
+ZIP:08302-2545
+Country:US
+Info Phone Num:609-455-4555
+Emergency Phone Num:MED 609-455-4555 CHEM 800-424-9300
+Preparer's Name:T NAPRAVE
+CAGE:4J994
+=== Contractor Identification ===
+Company Name:NATIONAL REFRIGERANTS INC
+Address:661 KENYON AVE
+Box:City:BRIDGETON
+State:NJ
+ZIP:08302
+Country:US
+Phone:800-262-0012/215-698-6620
+CAGE:4J994
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DICHLORODIFLUOROMETHANE  (SARA III)
+CAS:75-71-8
+RTECS #:PA8200000
+Fraction by Wt: 73.8%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:1000 PPM
+ACGIH TLV:1000 PPM; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+Ozone Depleting Chemical:1
+
+Ingred Name:ETHANE, 1,1-DIFLUORO
+CAS:75-37-6
+RTECS #:KI1410000
+Fraction by Wt: 23.2%
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: CENTRAL NERVOUS SYSTEM/
+    NONSPECIFIC EFFECTS/HEART IRREGULARITIES/UNCONSCIOUSNESS/DEATH.
+    SKIN: TEMPORARY NERVOUS SYSTEM DEPRESSION. ALTERATION OF THE
+    HEART'S ELECTRICAL ACTIVITY W/IRREGULAR 
+    PULSE/PALPITATIONS/INADEQUATE CIRCULATION.
+Explanation of Carcinogenicity:NONE OF THE CHEMICALS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP, OSHA OR ACGIH AS A CARCINOGEN.
+Effects of Overexposure:SKIN: NONSPECIFIC DISCOMFORT/NAUSEA/
+    HEADACHE/WEAKNESS.
+Medical Cond Aggravated by Exposure:DISEASES OF THE CENTRAL NERVOUS
+    SYSTEM OR CARDIOVASCULAR SYSTEM MAY HAVE INCREASED SUSCEPTIBILITY
+    TO THE TOXICITY OF EXCESSIVE EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. ARTIFICIAL RESPIRATION IF
+    NEEDED, PREFERABLY MOUTH-TO-MOUTH. IF BREATHING IS DIFFICULT GIVE
+    OXYGEN. MEDICAL ATTENTION. SKIN: TREAT FOR FROSTBITE IF NECESSARY.
+    EYES: FL USH WITH PLENTY OF WATER. MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:AS APPROPRIATE FOR COMBUSTABLES IN AREA.
+Fire Fighting Procedures:SELF-CONTAINED BREATHING APPARATUS, IS
+    REQUIRED IF CYLINDERS RUPTURE OR RELEASE UNDER FIRE CONDITIONS.
+Unusual Fire/Explosion Hazard:WATER FOG/COOL CONTAINRS. CYLINDERS ARE
+    EQUIPPED W/TEMPERATURE AND PRESSURE RELIEF DEVICES BUT MAY STILL
+    RUPTURE UNDER FIRE CONDITIONS. DECOMPOSITION MAY OCCUR.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA-ESPECIALLY LOW PLACES WHERE
+    HEAVY VAPORS MIGHT COLLECT. WEAR SELF-CONTAINED BREATHING APPARATUS
+    FOR LARGE SPILLS. REMOVE OPEN FLAME.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:UNDER NORMAL MANUFACTURING CONDITIONS, NO
+    RESPIRATORY PROTECTION IS REQUIRED WHEN USING THIS PRODUCT.
+    SELF-CONTAINED BREATHING APPARATUS IS REQUIRED IF A SPILL OCCURS.
+Ventilation:NORMAL VENT FOR STD MFR PROCEDURES IS ADEQUATE. LARGE AMTS:
+    LOCAL EXHAUST. MECHANICAL VENT USED IN LOW PLACES.
+Protective Gloves:LINED NEOPRENE
+Eye Protection:CHEMICAL SPLASH GOGGLES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:G3
+Boiling Pt:B.P. Text:-28F,-33C
+Decomp Temp:Decomp Text:>836F,>447C
+Vapor Pres:232 PSIA
+Vapor Density:3.7
+Evaporation Rate & Reference:>1 (CC14 = 1)
+Solubility in Water:@ 54 C (130F)
+Appearance and Odor:CLEAR, COLORLESS, SLIGHT ETHEREAL ODOR
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ALKALI, OR ALKALINE EARTH METALS-POWDERED AL, ZN, BE, ETC.
+Stability Condition to Avoid:OPEN FLAMES, HIGH TEMPERATURES.
+Hazardous Decomposition Products:HIGH TEMPERATURES:OPEN FLAMES/GLOWING
+    METAL SURFACES FORMING HYDROCLORIC/HYDROFLUORIC ACIDS. CARBONYL
+    HALIDES POSSIBLE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:COMPLY WITH LOCAL, STATE AND FEDERAL
+    REGULATIONS, OR REMOVE TO A PERMITTED WASTE DISPOSAL FACILITY.
+    RECLAIM BY DISTILLATION.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,95 @@
+=====================  Product Identification  =====================
+
+Product ID:SA 824 3262;(GREASE AUTOMOTIVE)
+MSDS Date:01/01/1987
+FSC:9150
+NIIN:00-190-0907
+MSDS Number: BDHTW
+=== Responsible Party ===
+Company Name:WITCO CHEMICAL CORP;SOUTHWEST PETRO-CHEM INC DIV.
+Emergency Phone Num:412-443-5971
+CAGE:34495
+=== Contractor Identification ===
+Company Name:WITCO CHEMICAL CORP SOUTHWEST PETRO-CHEM INC DIV
+Address:STATE RD
+Box:City:BAKERSTOWN
+State:PA
+ZIP:15007
+Country:US
+CAGE:34495
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PETROLEUM HYDROCARBONS
+Fraction by Wt: 100%
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:POSSIBLE SKIN IRRITATION WITH PROLONGED
+    CONTACT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH PLENTY OF WATER. CALL DOCTOR IMMEDIATELY.
+    SKIN CONTACT: WASH WITH SOAP & WATER. IF SWALLOWED, CALL DOCTOR
+    IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:315F COC
+Extinguishing Media:DRY CHEMICAL, CO*2, FOAM, SAND, EARTH, WATER FOG.
+Fire Fighting Procedures:USE A SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:DENSE SMOKE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:TRANSFER BULK OF MATERIAL TO ANOTHER
+    CONTAINER. ABSORB WITH PROPER ABSORBENTS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL DRY AREA. KEEP
+    CONTAINERS CLOSED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED WITH NORMAL USE OF PRODUCT
+Ventilation:NONE OTHER NORMAL VENTILATION
+Protective Gloves:RUBBER
+Eye Protection:SAFETY GOGGLES
+Other Protective Equipment:FACE SHIELD
+Supplemental Safety and Health
+ITEM IS TYPE II OF MILITARY SPECIFICATION.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:315F/157C
+Vapor Pres:UNK
+Vapor Density:UNK
+Spec Gravity:0.94
+Evaporation Rate & Reference:DETERMINED.
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:AMBER, SEMI-SOLID, MINERAL OIL ODOR.
+Percent Volatiles by Volume:NOT
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS:CHROMIC ACID, H*2O*2, BROMINE.
+Hazardous Decomposition Products:DENSE SMOKE, CO, CO*2, OTHER UNKNOWN
+    ORGANIC COMPOUNDS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:STORE IN APPROVED STORAGE CONTAINER & SHIP TO AN
+    APPROVED DISPOSAL AREA.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

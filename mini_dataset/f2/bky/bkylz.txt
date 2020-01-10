@@ -1,0 +1,166 @@
+=====================  Product Identification  =====================
+
+Product ID:37801 DE-VO-KO(R) INTERIOR VINYL LATEX FLAT- WHITE
+MSDS Date:08/29/1988
+FSC:8010
+NIIN:00-598-5730
+MSDS Number: BKYLZ
+=== Responsible Party ===
+Company Name:DEVOE & RAYNOLDS CO
+Address:4000 DUPONT CIRCLE
+City:LOUISVILLE
+State:KY
+ZIP:40207
+Info Phone Num:(502) 589-9340
+Emergency Phone Num:(502) 589-9340
+CAGE:EO559
+=== Contractor Identification ===
+Company Name:DEVOE & RAYNOLDS CO, INC.
+Box:7600
+CAGE:EO559
+Company Name:DEVOE AND RAYNOLDS CO DIV OF GROW GROUP INC
+Address:4000 DUPONT CIR
+Box:7600
+City:LOUISVILLE
+State:KY
+ZIP:40207
+Country:US
+Phone:502-361-2536/502-589-9340
+CAGE:6R552
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER, H2O
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 55%
+
+Ingred Name:SILICA, CRYSTALLINE - QUARTZ
+CAS:14808-60-7
+RTECS #:VV7330000
+Fraction by Wt: 15%
+Other REC Limits:0.05 MG/CUM NIOSH
+OSHA PEL:SEE TABLE Z3
+ACGIH TLV:0.1 MG/M3 RDUST;9293
+
+Ingred Name:ALUMINUM SILICATE ANHYDROUS
+CAS:22708-90-3
+Fraction by Wt: 5%
+OSHA PEL:15 MG/M3
+ACGIH TLV:10 MG/M3
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 5%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:CALCIUM CARBONATE (MARBLE) (LIMESTONE)
+CAS:1317-65-3
+RTECS #:EV9580000
+Fraction by Wt: 5%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9192
+
+Ingred Name:POLYVINYL ACETATE-ACRYLIC RESIN
+Fraction by Wt: <5%
+
+Ingred Name:CALCIUM SILICATE					       
+    INTENDED CHANGES = IC
+CAS:1344-95-2
+Fraction by Wt: <5%
+OSHA PEL:15 MG/CUM
+ACGIH TLV:10 MG/CUM
+
+Ingred Name:SILICA, CRYSTALLINE - CRISTOBALITE
+CAS:14464-46-1
+RTECS #:VV7325000
+Fraction by Wt: <1%
+Other REC Limits:0.05 MG/CUM NIOSH
+OSHA PEL:SEE TABLE Z3
+ACGIH TLV:0.05 MG/M3 RDUST9293
+
+Ingred Name:VOL ORGANIC CMPD: 0.17 LBS/GAL (WATER)
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: RESPIRATORY TRACT
+    IRRITATION, HEADACHE, NAUSEA, DIZZINESS, DUST DISEASE OF THE LUNGS
+    & SILICOSIS. EYES/SKIN/INGESTION: IRRITATION.
+Explanation of Carcinogenicity:CRYSTALLINE SILICA IS A SUSPECTED A2
+    HUMAN CARCINOGEN.
+Effects of Overexposure:INHALATION: RESPIRATORY TRACT IRRITATION,
+    HEADACHE, NAUSEA, DIZZINESS, DUST DISEASE OF THE LUNGS & SILICOSIS.
+    EYES/SKIN/INGESTION: IRRITATION.
+Medical Cond Aggravated by Exposure:NONE WHEN USED ACCORDINGLY.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. EYES: FLUSH W/PLENTY OF
+    WATER FOR AT LEAST 15 MINS. SKIN: WASH W/SOAP & WATER. INGESTION:
+    DRINK 1 OR 2 GLASSES OF WATER TO DILUTE. DON'T INDUCE VOMITING.
+    OBTAIN MEDICA L ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:CO2, DRY CHEMICAL, FOAM, OR OTHER NATIONAL FIRE
+    PROTECTION ASSOCIATION APPROVED METHOD FOR TREATING A CLASS B FIRE.
+Fire Fighting Procedures:USE FULL PROTECTIVE EQUIPMENT & SCBA. WATER
+    SPRAY MAY BE INEFFECTIVE. FOG NOZZLES PREFERABLE. USE WATER TO COOL
+    CLOSED CONTAINERS.
+Unusual Fire/Explosion Hazard:DUE TO PRESSURE BUILD-UP/AUTO-IGNITION
+    CLOSED CONTAINER EXPOSED TO HEAT/FIRE MAY EXPLODE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WASH W/WATER. CONTAIN SPILLED MATERIAL &
+    REMOVE W/INERT ABSORBENT. STORE IN CLOSED CONTAINER UNTIL PROPERLY
+    DISPOSED OF.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE <110F & KEEP FROM FREEZING. KEEP
+    CONTAINER CLOSED WHEN NOT IN USE. DON'T REUSE EMPTY CONTAINERS.
+    KEEP OUT OF REACH OF CHILDREN.
+Other Precautions:DON'T BREATH VAPORS, SPRAY MIST, OR SANDING DUST.
+    AVOID CONTACT W/EYES. USE ADEQUATE VENTILATION TO KEEP AIR
+    CONTAMINANT CONCENTRATION LOW IN THE MIXING/APPLYING/CURING AREAS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:UNRESTRICTED OUTDOOR/OPEN AREA: NIOSH/MSHA
+    MECHANICAL FILTER RESPIRATOR. RESTRICTED AREAS: NIOSH/MSHA
+    CHEMICAL/MECHANICAL FILTER. CONFINED AREA: NIOSH/MSHA AIR SUPPLY
+    RESPIRATOR/HOOD. WEAR NIOSH/MSHA  RESPIRATOR TO FLAME
+    CUT/SAND/WELD/BRAZE.
+Ventilation:PROVIDE ADEQUATE LOCAL EXHAUST/GENERAL DILUTION VENTILATION
+    IN VOLUME & PATTERN TO KEEP AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:75.1%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:HEAT, FREEZING, & TEMPERATURES >110F
+Hazardous Decomposition Products:CO, CO2, OXIDES OF NITROGEN & OXIDES
+    OF METALS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. INCINERATE ONLY IN APPROVED FACILITY. DON'T
+    INCINERATE CLOSED CONTAINERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

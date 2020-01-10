@@ -1,0 +1,142 @@
+=====================  Product Identification  =====================
+
+Product ID:BENZOIN COMPOUND TINCTURE
+MSDS Date:02/25/1999
+FSC:6505
+NIIN:01-287-0625
+Status Code:A
+MSDS Number: CJQXG
+=== Responsible Party ===
+Company Name:HUMCO HOLDING GROUP, INC
+Address:7400 ALUMAX DRIVE
+City:TEXARKANA
+State:TX
+ZIP:75501
+Country:US
+Info Phone Num:909-831-7808
+Emergency Phone Num:214-793-3174
+CAGE:TO364
+=== Contractor Identification ===
+Company Name:BERGEN BRUNSWIG DRUG CO
+Address:4000 METROPOLITAN DR
+Box:City:ORANGE
+State:CA
+ZIP:92668
+Country:US
+Phone:714-385-4200
+Contract Num:SP0200-99-A-1231
+CAGE:0TGJ2
+Company Name:HUMCO HOLDING GROUP, INC
+Address:7400 ALUMAX DRIVE
+Box:City:TEXARKANA
+State:TX
+ZIP:75501
+Country:US
+Phone:903-831-7808
+CAGE:TO364
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BENZOIN
+CAS:119-53-9
+RTECS #:DI1590000
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:ETHYL ALCOHOL
+CAS:64-17-5
+RTECS #:KQ6300000
+= Wt:77.
+OSHA PEL:1900 MG/M3;1000 PPM
+ACGIH TLV:1880 MG/M3;1000 PPM
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NOT ESTALBISHED
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:NO CHRONIC HEALTH INFORMATION IS
+    AVAILABLE PER MANUFACTURER.
+Explanation of Carcinogenicity:THIS COMPOUND CONTAINS NO INGREDIENTS AT
+    CONCENTRATIONS OF 0.1% OR GREATER THAT ARE CARCINOGENS OR SUSPECT
+    CARCINOGENS.
+Effects of Overexposure:NONE SPECIFIED BY MANUFACTURER.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. IF BREATHING IS DIFFICULT,
+    ADMINISTER OXYGEN. EYES: RINSE WITH LARGE AMOUNTS OF WATER. IF
+    NECESSARY SEEK MEDICAL ATTENTION. SKIN: WASH WITH MILD SOAP AND
+    WATER. IF IRR ITATION OCCURS, SEEK MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:OC
+Flash Point:=22.2C, 72.F
+Lower Limits:NOT GIVEN
+Upper Limits:NOT GIVEN
+Extinguishing Media:WATER/FOG, CARBON DIOXIDE, FOAM
+Fire Fighting Procedures:USE LIBERAL AMOUNTS OF WATER.
+Unusual Fire/Explosion Hazard:CONTAINS 74-80% ALCOHOL
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE GOOD VENTILATION. WEAR GLOVES AND GOGGLES.
+    REMOVE SOURCES OF IGNITION. WET MATERIAL IS SLIPPERY. MINIMZE
+    CONTAMINATION. SWEEP OR SCOOP UP AND PLACE IN A PROPER DISPOSAL
+    CONTAINER. IMMEDIATELY FLUS H AREA WITH ALCOHOL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN DRY, COOL AREA AWAY FROM
+    SOURCES OF HEAT AND FIRE AND DIRECT SUNLIGHT.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:MANUFACTURER RECOMMENDS WEARING PROTECTIVE MASK.
+Ventilation:GENERAL
+Protective Gloves:RECOMMENDED
+Eye Protection:GOGGLES RECOMMENDED
+Other Protective Equipment:FOLLOW GOOD MANUFACTURING PROCEDURES
+Work Hygienic Practices:WASH WITH SOAP AND WATER AFTER HANDLING PRODUCT
+    AND BEFORE EATING DRINKING OR SMOKING.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Vapor Pres:NOT GIVEN
+Vapor Density:NOT GIVEN
+Spec Gravity:0.94
+Evaporation Rate & Reference:NOT GIVEN
+Solubility in Water:INSOLUBLE
+Appearance and Odor:DARK BROWN LIQUID WITH A CHARACTERISTIC ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+SOURCES OF IGNITION, OXIDIZIG AGENTS.
+Stability Condition to Avoid:EXCESSIVE HEAT, FIRE, SOURCES OF IGNITION
+Hazardous Decomposition Products:OXIDES OF CARBON.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF PROPERLY IN ACCORDANCE WITH ALL
+    FEDERAL, STATE AND LOCAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:DOT HAZARD CLASS: TINCTURES, MEDICINAL UN1293,
+    PACKAING GROUP III.
+
+ ======================================================================
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

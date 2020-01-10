@@ -1,0 +1,147 @@
+=====================  Product Identification  =====================
+
+Product ID:LITHIUM CHLORIDE
+MSDS Date:03/08/1993
+FSC:6810
+NIIN:00N057664
+MSDS Number: BWRSX
+=== Responsible Party ===
+Company Name:ANACHEMIA
+Address:3 LINCOLN BLVD
+City:ROUSES PT
+State:NY
+ZIP:12979-9970
+Country:US
+Info Phone Num:518-297-4444
+Emergency Phone Num:800-424-9300(CHEMTREC)
+CAGE:HO801
+=== Contractor Identification ===
+Company Name:ANACHEMIA
+Address:3 LINCOLN BLVD
+Box:City:ROUSES POINT
+State:NY
+ZIP:12979
+Country:US
+Phone:518-297-4444
+CAGE:HO801
+Company Name:ANACHEMIA CHEMICALS INC
+Address:3 LINCOLN BLVD
+Box:City:ROUSES POINT
+State:NY
+ZIP:12979
+Country:US
+Phone:518-297-4444
+CAGE:4A444
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LITHIUM CHLORIDE
+CAS:7447-41-8
+RTECS #:OJ5950000
+Fraction by Wt: >99.0%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: HARMFUL BY INHAL, INGEST/SKIN
+    ABSORP. EYES: SEVERE IRRIT. SKIN: MODERATE IRRIT. INHAL: MAY CAUSE
+    RESP TRACT INFLAMM. IRRIT TO MUCOUS MEMBRANES. HARMFUL. INGEST:
+    CAUSES GI IRRIT. MAY CAUSE NAUS,  VOMIT, DIZZ, DIZZ, CNS DEPRESS,
+    ABDOM PAIN, DIARR, SOMNOLENCE, TREMORS, ATAXIA, CONVULSIONS & COMA
+    (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ: (LGE AMTS). CHRONIC: MAY CAUSE
+    ANOREXIA, NAUS, VOMIT, DIARR, TREMORS, DEHYDRATION, LOSS OF WEIGHT,
+    ATAXIA, MUSCLE WEAKENSS, HYPERREFLEX, ELOCUTION & VISION TROUBLES,
+    DIZZ, LOSS OF SENSATION,  CONVULSIONS, STUPOR, POLYURIA, OLIGURIA,
+    COMA, DERMATOSIS, LIVER, KIDNEY & THRYROID DMG. SUSPECTED
+    TERATOGEN.(SUPDAT)
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:WASH EYES & SKIN W/COPIOUS QTYS OF WATER FOR AT LEAST 15
+    MINS. CALL MD. SKIN:REMOVE CONTAMD CLTHG. WASH SKIN W/COPIOUS QTYS
+    OF WATER FOR AT LEAST 15 MINS. CALL MD. INHAL:REMOVE TO FRESH AIR.
+    ADMI N APPRVD O*2 SUPPLY IF BRTHG IS DFCLT. ADMIN ARTF RESP/CPR IF
+    BRTHG HAS CEASED. CALL MD. INGEST:GIVE LGE QTY OF WATER TO DILUTE.
+    INDUCE VOMIT. CALL MD. NEVER GIVE ANYTHING BY MOUTH TO AN
+    UNCON(SUPDAT)
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE EXTINGUISHING MEDIA APPROPRIATE TO SURROUNDING
+    FIRE CONDITIONS.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT. COOL CONTAINERS WITH WATER SPRAY.
+Unusual Fire/Explosion Hazard:EMITS TOXIC FUMES UNDER FIRE CONDITIONS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVAC. WEAR NIOSH/MSHA APPRVD SCBA, RUBBER
+    BOOTS & HEAVY RUBBER GLOVES. SWEEP UP & PLACE IN CNTNR FOR DISP.
+    AVOID RAISING DUST. VENT AREA & WASH SPILL SITE AFTER MATERIAL PICK
+    UP IS COMPLETE.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL, DRY AREA. STORE IN WELL
+    VENT AREA. STORE AWAY FROM INCOMP MATLS. PROD IS HIGHLY
+    HYGROSCOPIC. KEEP TIGHTLY CLSD.
+Other Precautions:DO NOT ADD ANY OTHER MATL TO CNTNR. DO NOT WASH DOWN
+    DRAIN. AVOID RAISING DUST. DO NOT GET IN EYES, ON SKIN/ON CLTHG.
+    WASH WELL AFTER USE IN ACCORD/GOOD STOR & HNDLG PRACS. DO NOT ALLOW
+    SMOKING & FOOD  COMSUMPTION WHILE HANDLING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:A NIOSH/MSHA JOINTLY APPROVED RESPIRATOR IS
+    ADVISED IN THE ABSENCE OR PROPER ENVIRONMENTAL CONTROLS.
+Ventilation:USE ONLY IN CHEMICAL FUME HOOD. USE ADEQUATE VENTILATION.
+Protective Gloves:RUBBER GLOVES.
+Eye Protection:ANSI APPRVD CHEM WORKERS GOGGLES.
+Other Protective Equipment:APRON OR CLOTHING TO PROTECT SKIN.
+    SUFFICIENT TO PROTECT SKIN. MAKE EYE BATH & EMERGENCY SHOWER
+    AVAILABLE.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+EFTS OF OVEREXP: IRRITANT. TARGET ORGANS: KIDNEYS, GASTROINTESTINAL
+    TRACT, CNS. CROSSES THE PLACENTAL BARRIER IN HUMANS. FIRST AID
+    PROC: PERSON.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:2471F,1355C
+Melt/Freeze Pt:M.P/F.P Text:1126F,608C
+Vapor Pres:1 @ 547C
+Spec Gravity:2.1 G/CC
+pH:6
+Solubility in Water:45.5% @ 25C
+Appearance and Odor:WHITE ODORLESS CRYSTALS.
+Percent Volatiles by Volume:0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACIDS, BROMINE TRIFLUORIDE, BROMINE TRICHLORIDE, OXIDIZING AGENTS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:HYDROGEN CHLORIDE. CHLORIDES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:AVOID RUN OFF. DISPOSE OF IN ACCORDANCE WITH
+    LOCAL, STATE & FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

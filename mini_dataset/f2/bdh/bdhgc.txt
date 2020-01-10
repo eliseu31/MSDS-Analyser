@@ -1,0 +1,47 @@
+=====================  Product Identification  =====================
+
+Product ID:402580
+MSDS Date:01/01/1985
+FSC:6140
+NIIN:00-187-4734
+MSDS Number: BDHGC
+=== Responsible Party ===
+Company Name:BURGESS INC
+Address:FOOT OF EXCHANGE STREET
+City:FREEPORT
+State:IL
+ZIP:61032
+Country:US
+Info Phone Num:815-235-8000
+Emergency Phone Num:815-235-8000
+CAGE:09823
+=== Contractor Identification ===
+Company Name:BURGESS INC
+CAGE:09823
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POTASSIUM HYDROXIDE  (SARA III)
+CAS:1310-58-3
+RTECS #:TT2100000
+OSHA PEL:C, 2 MG/M3
+ACGIH TLV:C 2 MG/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=============  Exposure Controls/Personal Protection  =============
+
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:B1
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

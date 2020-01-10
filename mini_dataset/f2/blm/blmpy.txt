@@ -1,0 +1,127 @@
+=====================  Product Identification  =====================
+
+Product ID:CUPRIT 49
+MSDS Date:08/27/1990
+FSC:6850
+NIIN:00N022247
+MSDS Number: BLMPY
+=== Responsible Party ===
+Company Name:FOSECO INC
+Address:20200 SHELDON RD
+City:BROOK PARK
+State:OH
+ZIP:44142
+Country:US
+Info Phone Num:216-826-4548
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+Preparer's Name:TREVOR HARDY
+CAGE:2W462
+=== Contractor Identification ===
+Company Name:FOSECO, INC.
+Address:20200 SHELDON ROAD
+Box:City:CLEVELAND
+State:OH
+ZIP:44142
+Country:US
+Phone:440-826-4548
+CAGE:2W462
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:FLUORSPAR (CALCIUM FLUORIDE)
+CAS:14542-23-5
+Fraction by Wt: <20%
+OSHA PEL:2.5 MG/M3 (F)
+ACGIH TLV:2.5 MG/M3 (F)
+
+Ingred Name:SODIUM TETRABORATE, DECAHYDRATE
+CAS:1303-96-4
+RTECS #:VZ2275000
+Fraction by Wt: <30%
+OSHA PEL:10 MG/M3
+ACGIH TLV:5 MG/M3; 9192
+
+Ingred Name:SODIUM CARBONATE (2:1); (SODA ASH)
+CAS:497-19-8
+RTECS #:VZ4050000
+Fraction by Wt: <70%
+OSHA PEL:15 MG/M3 (MFR)
+ACGIH TLV:10 MG/M3 (MFR)
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: MAY CAUSE SKIN AND EYE
+    IRRITATION. INHALATION OF DUST OR FUME MAY CAUSE IRRRITATION OF
+    MUCOUS MEMBRANES. CHRONIC: NONE KNOWN.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:EYE, SKIN AND RESPIRATORY IRRITATION.
+Medical Cond Aggravated by Exposure:PRE-EXISTING SKIN AND RESPIRATORY
+    IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE PERSON TO FRESH AIR. SKIN: IMMEDIATELY
+    WASH WITH COLD WATER. EYES: IMMEDIATELY FLUSH WITH WATER FOR AT
+    LEAST 15 MINUTES. INGESTION: DRINK LIME WATER (0.15% SOLUTION) OR
+    MILK. INDUCE  VOMITING. REFER TO PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE MEDIA SUITABLE FOR SURROUNDING FIRE CONDITIONS
+    .
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:RETURN POWDER TO CONTAINER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN DRY AREA BELOW 150 F.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF PEL/TLV IS EXCEEDED USE NIOSH/MSHA APPROVED
+    DUST MASK.
+Ventilation:RECOMMENDED SUFFICIENT TO MAINTAIN BELOW PEL/TLV.
+Protective Gloves:PVC.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Solubility in Water:APPRECIABLE
+Appearance and Odor:GREEN POWDER, NO ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACID AND/OR ACID FUME.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:OXIDES OF CARBON.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE AND
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

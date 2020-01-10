@@ -1,0 +1,79 @@
+=====================  Product Identification  =====================
+
+Product ID:ETHYL ACETATE
+MSDS Date:08/18/1986
+FSC:6810
+NIIN:01-153-6972
+MSDS Number: BJDMB
+=== Responsible Party ===
+Company Name:CURTIN MATHESON SCIENTIFIC INC
+Address:9999 VETERANS MEMORIAL DR
+Box:1546
+City:HOUSTON
+State:TX
+ZIP:77251-1546
+Country:US
+Info Phone Num:713-820-9898
+Emergency Phone Num:713-820-9898
+Preparer's Name:DGSC-SSH
+CAGE:15481
+=== Contractor Identification ===
+Company Name:CURTIN MATHESON SCIENTIFIC INC
+Address:9999 VETERANS MEMORIAL DR
+Box:1546
+City:HOUSTON
+State:TX
+ZIP:77038-2499
+Country:US
+Phone:713-820-9898
+CAGE:15481
+Company Name:PARK SURGICAL COMPANY, INC.
+CAGE:2G583
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NO INGREDIENT FOR THIS FORMULATION_INGREDIENT
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:24F/-4C
+Lower Limits:2.2
+Upper Limits:11.0
+Extinguishing Media:FOAM,DRY CHEMICAL,CO*2
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA IN AN ENCLOSED
+    AREA IN CASE OF FIRES.
+Unusual Fire/Explosion Hazard:VAPORS MAY FLOW ALONG SURFACES TO DISTANT
+    IGNITION SOURCES AND FLASH BACK.CLOSED CONTAINERS EXPOSED TO HEAT
+    MAY EXPLODE.CONTACT WITH STRONG OXIDIZERS MAY C.FIRE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:171F/77C
+Melt/Freeze Pt:M.P/F.P Text:-119F/-84C
+Vapor Pres:76MMHG
+Vapor Density:3.0
+Spec Gravity:0.90
+Evaporation Rate & Reference:6.0 (BUTYL-ACETATE=1)
+Solubility in Water:MODERATE
+Appearance and Odor:CLER,COLORLESS LIQUID WITH PLEASANT FRUITY ODOR.
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS,STRONG ACIDS,STRONG BASES
+Stability Condition to Avoid:SOURCES OF IGNITION,HEAT,FLAME,HEAT.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

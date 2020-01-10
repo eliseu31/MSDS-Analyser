@@ -1,0 +1,136 @@
+=====================  Product Identification  =====================
+
+Product ID:CONVOY SOLUBLE CUTTING OIL MIL-C-4339D(ASG)
+MSDS Date:06/27/1997
+FSC:6850
+NIIN:00-224-9582
+Status Code:A
+MSDS Number: CJQGJ
+=== Responsible Party ===
+Company Name:CONVOY OIL CORPORATION
+Address:1412 N. FRONT ST.
+City:PHILADELPHIA
+State:PA
+ZIP:19122
+Country:US
+Info Phone Num:215-739-5281/4041
+Emergency Phone Num:215-739-5281
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:TO271
+=== Contractor Identification ===
+Company Name:CONVOY OIL CORP
+Address:1410 N FRONT STREET
+Box:29366
+City:PHILADELPHIA
+State:PA
+ZIP:19125
+Country:US
+Phone:215-739-5281
+Contract Num:SP0450-99-M-NC83
+CAGE:6A438
+Company Name:CONVOY OIL CORPORATION
+Address:1412 N. FRONT ST.
+Box:City:PHILADELPHIA
+State:PA
+ZIP:19122
+Country:US
+Phone:215-739-5281/4041
+CAGE:TO271
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HYDROTREATED LIGHT NAPHTHENIC DISTILLATE (PETROLEUM)
+CAS:64742-53-6
+RTECS #:PY8036000
+
+Ingred Name:SULFONIC ACIDS, PETROLEUM, SODIUM SALTS
+CAS:68608-26-4
+RTECS #:WR7150000
+
+Ingred Name:BINDER
+CAS:9016-45-9
+Code:F
+RTECS #:AX0247000
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NOT KNOWN
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:NO ACUTE EFFECTS EXPECTED IF INHALED. 
+    SKIN: NONE TOXIC.  HARMFUL IF SWALLOWED. MAY HAVE PULMINARY
+    ASPIRATION HAZARD IS SWALLOWED AND VOMITING OCCURS.
+Explanation of Carcinogenicity:NONE LISTED.
+Effects of Overexposure:NONE STATED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: WASH WIT SOAP AND WATER TILL NO ODOR REMAINES. EYE:
+    FLUSH WITH WATER. IF IRRITATION PERSISTS, OBTAIN MEDICAL
+    ASSISTANCE. INGEST: DO NOT INDUCE VOMITING. DO NOT GIVE LIQUIDS.
+    OBTAIN MEDICAL ASSIS TANCE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:=160.C, 320.F
+Lower Limits:N/D
+Upper Limits:N/D
+Extinguishing Media:WATER FOG,CHEMICAL FOAM,DRY CHEMICAL POWDER, CARBON
+    DIOXIDE
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS WHEN
+    FIRE FIGHTING IN CONFINED SPACE.
+Unusual Fire/Explosion Hazard:CAN BE MADE TO BURN FLASH OVER 300F
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONTAIN SPILL. ADVISE EPA, STATE AGENCY IF
+    REQUIRED. ABSORB ON INERT MATERIAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NFPA CLASS II IB STORAGE.
+Other Precautions:DANGEROUS, HARMFUL OR FATAL IF SWALLOWED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:CONCENTRATION IN AIR DETERMINES PROTECTION
+    NEEDED.USE ONLY NIOSH CERTIFIED RESPIRATORY PROTECTION. THIS
+    EQUIPMENT IS NOT NEEDED UNLESS PRODUCT IS HEATED OR MISTED.
+Protective Gloves:IMPERVIOUS RECOMMENDED WHEN PROLONGED CONTACT
+Eye Protection:LOCAL SAFETY POLICY DECISION. PRODUCT MINIMALLY
+    IRRITATING TO EYES.
+Other Protective Equipment:LAUNDER SOILED CLOTHES
+Work Hygienic Practices:DANGER HARMFUL OR FATAL IF SWALLOWED.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:WIDE RANGE
+Vapor Density:6+
+Spec Gravity:0.92
+Evaporation Rate & Reference:1000 X SLOWER(EE=1)
+Solubility in Water:FORM EMULSION
+Appearance and Odor:AMBER OILY LIQUID, CHARACTERISTIC ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS
+Hazardous Decomposition Products:CARBON MONOXIDE AND ASPHYXIANTS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DO NOT FLUSH TO DRAIN OR STORM SEWER. INCINERATE
+    UNDER CONTROLLED CONDITIONS. CONTRACT TO AUTHORIZED DISPOSAL
+    SERVICE. FOLLOW FEDERAL, STATE, AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

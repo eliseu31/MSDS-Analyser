@@ -1,0 +1,124 @@
+=====================  Product Identification  =====================
+
+Product ID:BICNU
+MSDS Date:03/01/1990
+FSC:6505
+NIIN:01-156-2062
+MSDS Number: BKYSP
+=== Responsible Party ===
+Company Name:U S PHARM & NITRITIONAL GROUP
+Address:2400 W LLOYD EXPRESSWAY
+City:EVANSVILLE
+State:IN
+ZIP:47721
+Info Phone Num:(812) 429-5000	 (812) 429-5678
+Emergency Phone Num:(812) 429-5000    (812) 429-5678
+CAGE:NO081
+=== Contractor Identification ===
+Company Name:BRISTOL-MYERS US PHARMACEUTICAL & NUTRITIONAL GP.
+Address:2400 W LLOYD EXPY
+Box:City:EVANSVILLE
+State:IN
+ZIP:47721-0001
+Country:US
+Phone:812-429-5644
+CAGE:29398
+Company Name:U S PHARM & NITRITIONAL GROUP
+Address:2400 W LLOYD EXPRESSWAY
+City:EVANSVILLE
+State:IN
+ZIP:47721
+Phone:(812) 429-5000	(812) 429-5678
+CAGE:NO081
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BISCHLOROETHYNITROSOUREA
+CAS:154-93-8
+RTECS #:YS2625000
+Fraction by Wt: 100%
+ACGIH TLV:0.001 PPM
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL RAT LD50: 20 MG/KG
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INGESTION: CYTOTOXIC AGENT, INJECTION
+    INCLUDE BLOOD, HEPATIC, LIVER & KIDNEY CHANGES. SKIN: ABSORBED,
+    IRRITATION, DISCOLORATION & BURNING SENSATION, HYPERSENSITIVITY.
+    EYES: CONJUNCTIVITIS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INGESTION: CYTOTOXIC AGENT, INJECTION INCLUDE
+    BLOOD, HEPATIC, LIVER & KIDNEY CHANGES. SKIN: ABSORBED, IRRITATION,
+    DISCOLORATION & BURNING SENSATION, HYPERSENSITIVITY. EYES:
+    CONJUNCTIVITIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: WASH W/COPIOUS AMOUNTS OF WATER FOR 15 MINS. SKIN: WASH
+    AFFECTED AREA W/SOAP & WATER. INGESTION/INHALATION: OBTAIN MEDICAL
+    ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:CO2, DRY CHEMICAL, WATER
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS & FULL
+    PROTECTIVE CLOTHING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SMALL SPILLS - WIPE LIQUIDS W/GAUZE PADS. WIPE
+    SOLIDS W/WET ABSORBENT GAUZE. CLEAN USING DETERGENT & WATER. LARGE
+    SPILLS - COVER LIQUID W/ABSORBENT SHEETS, SPILL-CONTROL PADS OR
+    PILLOWS. COVER POWDER  W/DAMP CLOTHING OR TOWELS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:BIOLOGICAL SAFETY CABINET FOR
+    PREPARATION, OR AS DETERMINED APPROPRIATE BY INDUSTRIAL HYGIENIST.
+    SHIP & STORE UNDER REFRIGERATION.
+Other Precautions:EATING, DRINKING, SMOKING, CHEWING GUM, APPLYING
+    COSMETICS OR STORING FOOD NEAR PREPARATION AREA SHOULD BE
+    FORBIDDEN. IF HEATED TO 87F, THE DRUG WILL APPEAR AS AN OIL FILM IN
+    THE VIAL.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED DUST RESPIRATOR, W/HIGH
+    EFFICIENCY DUST FILTER, OR POWDERED AIR-PURIFYING RESPIRATOR IF
+    BIOLOGICAL SAFETY CABINET, OR SUITABLE VENTILATION ISN'T AVAILABLE.
+Protective Gloves:DISPOSABLE SURGICAL LATEX
+Eye Protection:SAFETY GLASSES, FACESHIELD, GOGGLES
+Other Protective Equipment:PROTECTIVE DISPOSABLE GOWN OF LOW
+    PERMEABILITY FABRIC W/CLOSE FRONT, LONG SLEEVES/ELASTIC CUFFS.
+Work Hygienic Practices:WASH THOROUGHLY BEFORE EATING OR SMOKING.
+Supplemental Safety and Health
+NOTE: ETHYL ALCOHOL IS USED AS A DILUENT FOR THIS DRUG & IS PACKAGED IN
+    A SEPARATE VIAL.
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:M.P/F.P Text:87F
+Solubility in Water:0.4%
+Appearance and Odor:LIGHT YELLOW TO WHITE POWDER, OR WAXY CONGEALED
+    APPEARING SUBSTANCE.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+POLYVINYL CHLORIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:TREAT PRODUCT & CONTAMINATED MATERIALS AS
+    HAZARDOUS WASTE. INCINERATION IS RECOMMENDED.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

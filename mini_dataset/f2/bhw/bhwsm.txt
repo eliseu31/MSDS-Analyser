@@ -1,0 +1,164 @@
+=====================  Product Identification  =====================
+
+Product ID:ISOPROPANOL, ANYDROUS (ISOPROPYL ALCOHOL)
+MSDS Date:08/30/1990
+FSC:6810
+NIIN:00-227-0410
+MSDS Number: BHWSM
+=== Responsible Party ===
+Company Name:UNION CARBIDE CORP INDUSTRIAL CHEMICALS DIV
+Address:39 OLD RIDGEBURY ROAD
+City:DANBURY
+State:CT
+ZIP:06817-0001
+Country:US
+Info Phone Num:800-822-4357
+Emergency Phone Num:800-822-4357
+Preparer's Name:UNION CARBIDE CHEM/PLSTC
+CAGE:61637
+=== Contractor Identification ===
+Company Name:SILVER SALES
+Address:5115 DOUGLAS FIR RD  SUITE C
+Box:City:CALABASES
+State:CA
+ZIP:91302
+Country:US
+Phone:818-591-0788	 WAS IN TX
+CAGE:0WG65
+Company Name:SOCO-LYNCH CORP (213-269-0191)
+Address:3270 E WASHINGTON
+Box:City:LOS ANGELES
+Phone:213-269-0191
+CAGE:0VNT4
+Company Name:UNION CARBIDE CORP
+Address:39 OLD RIDGEBURY ROAD
+Box:City:DANBURY
+State:CT
+ZIP:06817-0001
+Country:US
+Phone:800-822-4357/732-563-5522 (MSDS)
+CAGE:61637
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: 100%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:400 PPM
+ACGIH TLV:400 PPM/500STEL;9394
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INGEST:SLIGHTLY TOXIC.LG QUANT MAY
+    CAUSE DROWS,UNSCONSC.ALSO STOMACH CRAMPS,PAIN,NAU,VOMIT,DIARR.SKIN
+    ABSORB:WIDESPREAD/PROLONG EXPO MAY RESULT IN ABSORPTION OF HARMFUL
+    AMTS PARTICULARLY INFANTS.INHAL :LOC CONCEN MAY CAUSE MILD
+    NOSE/THROAT IRRIT,>TLV HEAD/DROWS.SKIN:LOC REDNESS
+    W/CRACK/DRY.EYE:MOD IRRIT, CORNEAL INJURY.
+Explanation of Carcinogenicity:DATA PER MSDS
+Effects of Overexposure:INHAL/INGEST:DROWSINESS, LOSS OF CONSCIOUSNESS,
+    STOMACH CRAMPS, PAIN, NAUSEA, VOMITING, DIARRHEA. INHAL:MILD
+    NOSE/THROAT IRRIT, HEADACHE, DROWSINESS. SKIN:REDNESS,
+    CRACKING/DRYING. EYE:CORNEAL INJURY,  IRRIT.
+Medical Cond Aggravated by Exposure:BECAUSE OF ITS IRRITATING &
+    DEFATTING PROPERTIES THIS MATERIAL MAY AGGRAVATE AN EXISTING
+    DERMATITIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGEST:IF CONSCIOUS & HAS GAG REFLEX GIVE 2 GLASSES OF WATER.
+    INDUCE VOMITING. OBTAIN MED ATTN W/O DELAY. SKIN:REMOVE CONTAMIN
+    CLOTH. WASH SKIN W/SOAP & WATER. INHAL:REMOVE TO FRESH AIR. GIVE
+    ART RESP  IF NOT BREATHING. OXY MAY BE GIVEN BY QUALIFIED PERSONNEL
+    IF BREATHING IS DIFFICULT. OBTAIN MED ATTN. THERE'S NO ANTIDOTE.
+    TREATMENT OF OVEREXPO SHOULD BE DIRECTED @CNTRL OF SYMP & CLINICAL
+    CONDTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:=11.7C, 53.F
+Lower Limits:2.0
+Upper Limits:12.7
+Extinguishing Media:APPLY ALCOHOL-TYP OR ALL-PURPOSE TYP FOAMS BY MFG'S
+    RECOMMENDED TECHNIQUES FOR LG FIRES.USE CO2 OR DRY CHEM FOR SM
+    FIRES
+Fire Fighting Procedures:USE WATERSPRAY TO COOL FIRE-EXPO
+    CNTNRS/STRUCTURES.USE WATERSPRAY TO DISPERSE VAPO;REIGN IS
+    POSSIBLE.USE SELF-CONTAINED BREATHING APPARATUS & PROTECTIVE CLOTH.
+Unusual Fire/Explosion Hazard:VAP MAY SETTLE IN LOW/CONFINE AREA OR
+    TRAVEL LONG DISTANCE TO ING SOURCE & FLASHBACK EXPLO.MATL MAY
+    PRODUCE FLOATING FIRE HAZ.MAY IGN W/IGN SOURCES FROM DISTANC
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EXTINGUISH & DO NOT TURN ON ANY IGN SOURCE TIL
+    AREA IS DETERMINED TO BE FREE FROM EXPLO/FIRE HAZ.COLLECT LG SPILLS
+    FOR DISPOSAL.FLUSH SM SPILLS W/WATER.WEAR SUITABLE PROTECTIVE EQPMT
+    ESPECIALLY EYE PR OTECTION.
+Neutralizing Agent:DILUTE WITH WATER
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:WARNING! FLAMMABLE. KEEP AWAY FROM
+    HEAT/SPARKS/FLAME. KEEP CONTAINER CLOSED. USE W/ADEQUATE
+    VENTILATION.
+Other Precautions:CAUSES EYE IRRITATION. AVOID CONTACT W/EYES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:SELF-CONTAINED BREATHING APPARATUS IN HIGH VAPOR
+    CONCENTRATIONS.
+Ventilation:GEN(MECHANICAL) RM VENTILATION SHOULD BE SAT.SPECIAL,LOC
+    VENTILATION IS NEEDED @PTS WHERE VAP ARE EXPECTED TO ESCAPE TO.
+Protective Gloves:RUBBER OR PLASTIC GLOVES.
+Eye Protection:MONOGOGGLES.
+Other Protective Equipment:EYE BATH, SAFETY SHOWER.
+Work Hygienic Practices:WASH CONTAMIN CLOTHING PRIOR TO REUSE. WASH
+    THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+NONE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:=82.2C, 180.F
+Melt/Freeze Pt:=-88.3C, -127.F
+Vapor Pres:33 MMHG
+Vapor Density:2.07,AIR=1
+Spec Gravity:0.7864
+Evaporation Rate & Reference:2.88(N-BUTYL ACETATE=1)
+Solubility in Water:COMPLETE
+Appearance and Odor:COLORLESS LIQUID;CHARACTERISTIC ODOR
+Percent Volatiles by Volume:100.0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CONCEN NITRIC & SULFURIC ACIDS, STRONG OXIDIZERS, ALDEHYDES, HALOGENS,
+    HALOGEN COMPOUNDS.
+Stability Condition to Avoid:NONE PER MSDS; HOWEVER AVOID ALL SOURCES
+    OF IGNITION (OPEN FLAMES/SPARKS/HEATERS/ELECTRICAL EQPMT/PILOT
+    LIGHTS/ETC).
+Hazardous Decomposition Products:BURNING:CARBON MONOXIDE (TOXIC) &/OR
+    CARBON DIOXIDE (ASPHYXIANT).
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE IN FURNACE WHERE PERMITTED UNDER
+    APPROPRIATE LOCAL, STATE AND FEDERAL REGULATIONS.@VERY LOW CONCEN
+    IN WATER (10PPM) PRODUCT CAN BE READILY BIODEGRADED IN A BIOLOGICAL
+    WASTEWATER TREATMENT P LANT.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

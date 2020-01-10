@@ -1,0 +1,145 @@
+=====================  Product Identification  =====================
+
+Product ID:DEMAND STANDARD LEVEL 1 OR 2
+MSDS Date:12/28/1998
+FSC:6810
+NIIN:01-456-3605
+Status Code:A
+MSDS Number: CJQCJ
+=== Responsible Party ===
+Company Name:ANALYTICAL PRODUCTS GROUP INC
+Address:2730 WASHINGTON BLVD
+City:BELPRE
+State:OH
+ZIP:45714
+Country:US
+Info Phone Num:740-423-4200/800-272-4442
+Emergency Phone Num:740-423-4200/800-272-4442
+Resp. Party Other MSDS Num.:CATALOG NUMBER: 100/1074-1075/4010
+CAGE:0HWA6
+=== Contractor Identification ===
+Company Name:ANALYTICAL PRODUCTS GROUP INC
+Address:2730 WASHINGTON BLVD
+Box:City:BELPRE
+State:OH
+ZIP:45714
+Country:US
+Phone:740-423-4200/800-272-4442
+CAGE:0HWA6
+Company Name:INDUSTRIAL CHEMICAL COMMODITIES INC
+Address:15944 DERWOOD RD
+Box:City:ROCKVILLE
+State:MD
+ZIP:20855
+Country:US
+Phone:800-284-5279
+Contract Num:SP0450-99-M-ND11
+CAGE:1ELU0
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HYDROCHLORIC ACID
+CAS:7647-01-0
+RTECS #:MW4025000
+< Wt:1.
+OSHA PEL:C7 MG/M3;C5 PPM
+ACGIH STEL:C7.5 MG/M3;C5 PPM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:WATER (NON-HAZARDOUS INGREDIENT)
+CAS:7732-18-5
+RTECS #:ZC0110000
+> Wt:97.
+
+Ingred Name:GLUCOSE (NON-HAZARDOUS INGREDIENT)
+CAS:492-62-6
+< Wt:1.
+
+Ingred Name:GLUTAMIC ACID (NON-HAZARDOUS INGREDIENT)
+CAS:56-86-0
+RTECS #:LZ9700000
+< Wt:1.
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: NOT APPLICABLE.  CHRONIC: NOT
+    APPLICABLE.
+Effects of Overexposure:NOT APPLICABLE.
+Medical Cond Aggravated by Exposure:NOT APPLICABLE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: FLUSH WITH WATER.  EYES: FLUSH WITH WATER.  INHALATION:
+    N/A.  INGESTION: TREAT SA INGESTION OF DILUTE ACID, DRINK EXCESS
+    WATER, MILK, INDUCE VOMITING. SUGGEST USE OF ANTACID AIDS.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:NON-FLAMMABLE, USE EXTINGUISHER MEDIA APPROPRIATE
+    FOR THE SURROUNDING FIRE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB AND DISPOSE OF MATERIAL. MAY BE FLUSHED
+    TO SEWER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:TREAT AS NON-HAZARDOUS SAMPLE.
+Other Precautions:NONE KNOWN, BUT ANALYTICAL STANDARDS SHOULD NEVER BE
+    HEATED OR EVAPORATED TO DRYNESS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED
+Ventilation:LOCAL EXHAUST
+Protective Gloves:NONE REQUIRED
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:MAINTAIN EYE WASH AND QUICK DRENCH SHOWERS
+    IN WORK AREA
+Work Hygienic Practices:NONE PROVIDED BY MFR.
+Supplemental Safety and Health
+NONE PROVIDED BY MFR.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C3
+Boiling Pt:=110.C, 230.F
+Vapor Pres:160 MMHG @ 20 DEG C
+Spec Gravity:1.19 (WATER=1)
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR COLORLESS LIQUID WITH PUNGENT ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+WATER REACTIVE MATERIALS
+Stability Condition to Avoid:INCOMPATIBLE MATERIALS
+Hazardous Decomposition Products:NONE KNOWN
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE AS NON-HAZARDOUS WASTE, FLUSH TO SEWER.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:SARA TITLE III, SECTION 313: COMPONENTS IN
+    THIS PRODUCT AT A LEVEL WHICH COULD REQUIRE REPORTING UNDER STATUTE
+    ARE: LEAD.
+State Regulatory Information:CALIFORNIA REGULATORY INFORMATION,
+    CALIFORNIA STATE PROPOSITION 65: WARNING THIS PRODUCT CONTIANS
+    LEAD, KNOWN TO THE STWTW OF CALIFORNIA TO CAUSE BIRTH DEFECTS OR
+    OTHER REPRODUCTIVE HARM. ALSO CALIFOR NIA SCAQMD RULE 443.1, VOC'S
+    NONE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

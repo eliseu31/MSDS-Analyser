@@ -1,0 +1,173 @@
+=====================  Product Identification  =====================
+
+Product ID:SANDVICK AWSA5-9-62T
+MSDS Date:10/01/1985
+FSC:3439
+NIIN:00-334-4878
+MSDS Number: BKYKL
+=== Responsible Party ===
+Company Name:SANDVIK STEEL COMPANY
+Box:1220
+City:SCRANTON
+State:PA
+ZIP:18501-1220
+Info Phone Num:(717) 587-5191
+Emergency Phone Num:(717) 587-5191
+CAGE:1BT93
+=== Contractor Identification ===
+Company Name:SANDVIK INC WELDING AND WIRING DIVISION
+Address:INTERSTATE 81 EXT 59
+Box:1220
+City:SCRANTON
+State:PA
+ZIP:18501
+Country:US
+Phone:717-587-5191
+CAGE:61005
+Company Name:SANDVIK STEEL CO.
+Box:1220
+City:SCRANTON
+State:PA
+ZIP:18501-1220
+Country:US
+Phone:717-587-5191
+CAGE:1BT93
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CHROMIUM  (SARA III)
+CAS:7440-47-3
+RTECS #:GB4200000
+Fraction by Wt: 18-20%
+OSHA PEL:1 MG/M3
+ACGIH TLV:0.5 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:COPPER  (SARA III)
+CAS:7440-50-8
+RTECS #:GL5325000
+Fraction by Wt: 0-4%
+Other REC Limits:1 MG(CU)/M3 (DUST)
+OSHA PEL:0.1MG/M3 FUME/1 DUST
+ACGIH TLV:0.2MG/M3 FUME; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:IRON
+CAS:7439-89-6
+RTECS #:NO4565500
+Fraction by Wt: BALANCE
+OSHA PEL:5 MG/CUM
+
+Ingred Name:MANGANESE  (SARA III)
+CAS:7439-96-5
+RTECS #:OO9275000
+Fraction by Wt: 1-2.5%
+OSHA PEL:(C) 5 MG/M3 DUST
+ACGIH TLV:5 MG/M3 DUST 9293
+
+Ingred Name:MOLYBDENUM
+CAS:7439-98-7
+RTECS #:QA4680000
+Fraction by Wt: 2-3%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3; 9293
+
+Ingred Name:NICKEL  (SARA III)
+CAS:7440-02-0
+RTECS #:QR5950000
+Fraction by Wt: 11-14%
+Other REC Limits:1 MG/CUM
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+
+Ingred Name:SILICON
+CAS:7440-21-3
+RTECS #:VW0400000
+Fraction by Wt: 0.2-0.6%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:YES
+Health Hazards Acute and Chronic:INHALATION: DISCOMFORT, DIZZINESS,
+    NAUSEA, DRYNESS OR IRRITATION OF NOSE, THROAT, SIDEROSIS, WHICH
+    AFFECT PULMONARY FUNCTION. EYES: IRRITATION & INJURY. SKIN: BURN.
+Explanation of Carcinogenicity:CHROMIOUM & NICKEL ARE SUSPECTED TO BE
+    CARCINOGENS.
+Effects of Overexposure:INHALATION: DISCOMFORT, DIZZINESS, NAUSEA,
+    DRYNESS OR IRRITATION OF NOSE, THROAT, SIDEROSIS, WHICH AFFECT
+    PULMONARY FUNCTION. EYE: IRRITATION & INJURY. SKIN: BURN.
+Medical Cond Aggravated by Exposure:RESPIRATORY OR ALLERGIC CONDITIONS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. EYES/SKIN: FLUSH W/WATER.
+    EMPLOY FIRST AID TECHNIQUE RECOMMENDED BY THE AMERICAN RED CROSS.
+    OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONFLAMMABLE
+Unusual Fire/Explosion Hazard:WELDING ARC & SPARKS CAN IGNITE
+    COMBUSTIBLES & FLAMMABLES. REFER TO AMERICAN NATIONAL Z49.1 FOR
+    FIRE PREVENTION DURING THE USE OF WELDING & ALLIED PROCEDURES.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:THE COMPOSITION & QUANTITY OF WELDING
+    FUMES & GASES ARE DEPENDENT UPON THE METAL BEING WELDED, THE
+    PROCESS, PROCEDURES, & ELECTRODES USED.
+Other Precautions:ELECTRIC SHOCK CAN KILL. TRAIN EACH WELDER NOT TO
+    TOUCH LIVE ELECTRICAL PARTS, TO INSULATE HIS/HER PERSON FROM
+    WORK/GROUND & TO KEEP HIS/HER HEAD OUT OF THE FUMES. FUMES & GASES
+    CAN BE DANGEROUS TO TH E HEALTH.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE A RESPIRABLE FUME RESPIRATOR OR AIR-SUPPLIED
+    RESPIRATOR WHEN WELDING IN CONFINED SPACE OR WHERE LOCAL EXHAUST
+    VENTILATION DOES NOT KEEP <TLV/PEL.
+Ventilation:PROVIDE LOCAL EXHAUST VENTILATION AT THE ARC, TO KEEP FUMES
+    & GASES <TLV/PEL.
+Protective Gloves:WELDER'S
+Eye Protection:FACE SHIELD W/DARK FILTER LENS
+Other Protective Equipment:HELMET, PROTECTIVE SCREENS, FLASH GOGGLES,
+    ARM PROTECTORS, APRONS, HATS, SHOULDER PROTECTION, DARK SUBSTANTIAL
+    CLOTHING
+Supplemental Safety and Health
+CONDITIONS INFLUENCE THE COMPOSITION & QUANTITY OF THE FUMES/GASES SUCH
+    AS COATINGS ON THE METAL BEING WELDED, THE NUMBER OF WELDERS & THE
+    VOLUME OF THE WORK AREA, THE QUALITY & AMOUNT OF VENTILATION,  THE
+    POSITION OF THE WELDER'S HEAD W/RESPECT TO THE FUME PLUME AS WELL
+    AS THE PRESENCE OF CONTAMINANTS IN THE ATMOSPHERE
+
+==================  Physical/Chemical Properties  ==================
+
+Appearance and Odor:SOLID WIRE OR STRIP.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CHLORINATED HYDROCARBON VAPORS & PHOSPHATE COATED STEELS.
+Hazardous Decomposition Products:TOXIC GASES, PHOSGENE, PHOSPHINE,
+    OZONE, NITROGEN DIOXIDE, NITRIC OXIDE, DINITROGEN TETROXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PREVENT WASTE FROM CONTAMINATING THE SURROUNDING
+    ENVIRONMENT. DISCARD ANY PRODUCT, RESIDUE, DISPOSABLE CONTAINER OR
+    LINER IN AN ENVIRONMENTALLY SAFE MANNER, IN ACCORDANCE W/FEDERAL,
+    STATE & LOCAL REGU LATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,143 @@
+=====================  Product Identification  =====================
+
+Product ID:ARDROX K410-A
+MSDS Date:01/03/1989
+FSC:6850
+NIIN:00F019303
+MSDS Number: BLPWG
+=== Responsible Party ===
+Company Name:ARDROX INC
+Address:16961 KNOTT AVENUE
+City:LA MIRADA
+State:CA
+ZIP:90638
+Info Phone Num:(714) 739-2821
+Emergency Phone Num:(714) 739-2821
+Preparer's Name:SHEREE L KINZEL
+CAGE:23373
+=== Contractor Identification ===
+Company Name:BRENT AMERICA,  INC.
+Address:16961 KNOTT AVE.
+Box:City:LA MIRADA
+State:CA
+ZIP:90638-6015
+Country:US
+Phone:714-739-2821
+CAGE:23373
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PERCHLOROETHYLENE (TETRACHLOROETHYLENE)  (SARA III)
+CAS:127-18-4
+RTECS #:KX3850000
+Fraction by Wt: 100%
+Other REC Limits:50 PPM
+OSHA PEL:100 PPM
+ACGIH TLV:25PPM/100,A3 STEL;94
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: NASAL IRRITATION,
+    INCOORDINATION, DRUNKENESS, FATAL, CENTRAL NERVOUS
+    SYSTEM/ANESTHETIC & NARCOTIC EFFECTS, LIVER & KIDNEY INJURY. SKIN:
+    BURNS, ABSORPTION IN HARMFUL AMOUNTS. EYES: IRRITATI ON & SLIGHT
+    CORNEAL INJURY. INGESTION: ABSORPTION THROUGH LUNGS CAUSING
+    INJURIES TO OTHER BODY SYSTEMS.
+Explanation of Carcinogenicity:PERCHLOROETHYLENE IS CONSIDERED TO BE AN
+    A2 CARCINOGEN BY ACGIH & A POSITIVE ANIMAL CARCINOGEN.
+Effects of Overexposure:INHALATION: NASAL IRRITATION, INCOORDINATION,
+    DRUNKENNESS, FATAL, CENTRAL NERVOUS/ANESTHETIC & NARCOTIC EFFECTS,
+    LIVER & KIDNEY INJURY. SKIN: BURNS, ABSORPTION IN HARMFUL AMOUNTS.
+    EYES: IRRITATION & S LIGHT CORNEAL INJURY. INGESTION: ABSORPTION
+    THROUGH LUNGS CAUSING INJURIES TO OTHER BODY SYSTEMS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. GIVE MOUTH-TO-MOUTH
+    RESUSCITATION OR OXYGEN IF NECESSARY. KEEP VICTIM WARM/REST. SKIN
+    WASH W/PLENTY OF SOAP & WATER. EYES: W/RUNNING WATER FOR AT LEAST
+    15 MINS. INGEST ION: DON'T INDUCE VOMITING. IF VICTIM IS CONSCIOUS,
+    GIVE LARGE AMOUNTS OF WATER. DON'T ATTEMPT TO GIVE FLUIDS TO
+    UNCONSCIOUS VICTIM. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:DRY CHEMICAL, CO2, WATER SPRAY
+Fire Fighting Procedures:USE WATER TO KEEP FIRE-EXPOSED
+    CONTAINERS/SURROUNDING EQUIPMENT & STRUCTURES COOL & TO FLUSH
+    SPILLS AWAY FROM FIRE. USE SCBA W/POSITIVE PRESSURE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:MOP UP/SOAK UP/CONTAIN BY DIKING
+    W/NON-COMBUSTIBLE ABSORBENT INORGANIC MATERIAL. PREVENT
+    RUNOFF/DUMPING INTO SEWERS/STORM DRAINS/SURFACE WATER/SOIL.
+    TRANSFER CONTAMINATED ABSORBENT TO A DOT-APPROVED C ONTAINER. USE
+    PROTECTIVE EQUIP & WATER TO FLUSH.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:USE/STORE W/ADEQUATE VENTILATION.
+    GROUND ALL EQUIPMENT. AVOID BREATHING VAPORS, MISTS, CONTACT W/SKIN
+    & EYES. KEEP CONTAINERS COOL/DRY.
+Other Precautions:DON'T CONSUME FOOD, DRINK, TOBACCO IN AREAS WHERE
+    THEY MAY BECOME CONTAMINATED W/MATERIAL. KEEP CONTAINER TIGHTLY
+    CLOSED WHEN NOT IN USE. DON'T WEAR CONTACT LENSES. DON'T
+    CUT/GRIND/WELD/DRILL ON/NEAR  CONTAINER. TRAIN ALL EMPLOYEES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IS REQUIRED FOR CERTAIN OPERATIONS, USE A
+    NIOSH-APPROVED CANNISTER-TYPE RESPIRATOR. IN CONFINED OR POORLY
+    VENTILATED AREAS OR IN AREAS >TLV, USE AN APPROVED
+    POSITIVE-PRESSURE, SELF-CONTAINED BREATHING  APPARATUS.
+Ventilation:MECHANICAL/LOCAL EXHAUST: EXPLOSION-PROOF IF NECESSARY.
+Protective Gloves:IMPERMEABLE
+Eye Protection:CHEMICAL GOGGLES/SAFETY GLASSES
+Other Protective Equipment:SAFETY SHOWER, EYEWASH, FACE SHIELDS,
+    PROTECTIVE CLOTHING SUCH AS BOOTS, APRON & FULL BODY SUIT.
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING/SHOES
+    BEFORE REUSE. WASH THOROUGHLY AFTER HANDLING CHEMICALS.
+Supplemental Safety and Health
+PHYSICIAN NOTE: SUPPORTIVE CARE: TREATMENT BASED ON JUDGEMENT OF
+    PHYSICIAN IN RESPONSE TO REACTIONS OF PATIENT.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:250F
+Vapor Pres:14.2
+Vapor Density:5.83
+Spec Gravity:1.6
+Evaporation Rate & Reference:(BU AC = 1): 2.1
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:CLEAR, COLORLESS LIQUID, W/ETHER-LIKE ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING REDUCING AGENTS, STRONG ACIDS, STRONG ALKALIES (SUCH
+    AS SODIUM HYDROXIDE), & ALKALI REACTIVE METALS.
+Stability Condition to Avoid:HEAT, SPARKS, FLAMES, DIRECT SUNLIGHT,
+    HIGH TEMPS, FREEZING, PHYSICAL DAMAGE & OTHER IGNITION SOURCES.
+Hazardous Decomposition Products:HYDROGEN CHLORIDE GAS, POSSIBLE TRACES
+    OF TOXIC PHNE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. EMPTY CONTAINERS CAN HAVE RESIDUES, GASES &
+    MISTS, & ARE SUBJECT TO PROPER WASTE DISPOSAL. UN 1987.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

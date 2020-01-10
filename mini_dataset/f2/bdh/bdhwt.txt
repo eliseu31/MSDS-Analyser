@@ -1,0 +1,153 @@
+=====================  Product Identification  =====================
+
+Product ID:ECCOBOND 26, PART A
+MSDS Date:02/01/1989
+FSC:8040
+NIIN:00-191-7454
+Kit Part:Y
+MSDS Number: BDHWT
+=== Responsible Party ===
+Company Name:EMERSON & CUMING;DEWEY & ALMY CHEMICAL/WR GRACE&CO
+Address:869 WASHINGTON ST
+City:CANTON
+State:MA
+ZIP:02021-2513
+Info Phone Num:617-938-8630
+Emergency Phone Num:617-935-4850
+CAGE:DO244
+=== Contractor Identification ===
+Company Name:EMERSON & CUMING INC DIV/W R GRACE CO
+Address:117 DRAGON COURT
+City:AUOBURN
+State:MA
+ZIP:01888
+Phone:(617) 935-4850 OR (617) 938-8630
+CAGE:DO244
+Company Name:GRACE W R & CO EMERSON & CUMING DEWEY & ALMY CHEM
+Address:869 WASHINGTON ST
+City:CANTON
+State:MA
+ZIP:02021-2513
+Country:US
+Phone:617-935-4850
+CAGE:04552
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TRIPHENYL PHOSPHATE
+CAS:115-86-6
+RTECS #:TC8400000
+Fraction by Wt: <15.0%
+OSHA PEL:3 MG/M3
+ACGIH TLV:3 MG/M3; 9192
+
+Ingred Name:BISPHENOL A/EPICHLOROHYDRIN BASED EPOXY RESIN (WITH INERT
+    PIGMENTS,MINERAL FILLERS AND NON-HAZARDOUS MODIFIERS)
+Fraction by Wt: >85%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL RAT) IS
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE IRRITATION TO SKIN, EYE AND
+    RESPIRATORY TRACT MAY BE A MILD SENSITIZER. HARMFUL IF SWALLOWED.
+Explanation of Carcinogenicity:NONE OF THE COMPOUNDS ABOVE 0.1% IN THIS
+    PRODUCT IS LISTED BY IARC, NTP, OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:IRRITATION OF EYES, SKIN & RESPIRATORY TRACT.
+Medical Cond Aggravated by Exposure:PERSONS WITH A HISTORY OF AILMENTS
+    OR WITH PRE-EXISTING DISEASE INVOLING THE EYES, SKIN, CENTRAL
+    NERVOUS SYSTEM, RESPIRATORY TRACT, LIVER AND KIDNEY MAY BE AT
+    INCREASED RISK FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. IF NOT BREATHING GIVE CPR.
+    CALL A PHYSICIAN. EYE: IMMEDIATELY FLUSH EYES WITH PLENTY OF WATER
+    FOR 15 MINUTES. CALL A PHYSICIAN. SKIN: WASH WITH PLENTY OF SOAP &
+    WATER.  REMOVE CONTAMINATED CLOTHING/SHOES. INGESTION: DO NOT
+    INDUCE VOMITING. IF CONSCIIOUS, GIVE 2 GLASSES OF WATER TO DRINK.
+    GIVE NOTHING BY MOUTH IF UNCONSCIOUS. CALL A PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:385F, 196C
+Extinguishing Media:USE WATER SPRAY, DRY CHEMICAL, FOAM, OR CARBON
+    DIOXIDE.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS. USE
+    WATER SPRAY TO COOL FIRE EXPOSED CONTAINERS AND TO DISPERSE THE
+    VAPORS.
+Unusual Fire/Explosion Hazard:TOXIC VAPORS MAY BE EVOLVED UPON EXPOSURE
+    HEAT OR OPEN FLAME.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SMALL SPILL: WIPE UP OR SOAK UP WITH AN INERT
+    ABSORBENT. PUT IN DISPOSAL CONTAINER. WASH RESIDUE WITH SOAP &
+    WATER LARGE SPILL: EVACUATE & VENTILATE AREA. ELIMINATE SOURCES OF
+    IGNITION. DIKE TO RETAIL  SPILL. VACCUUM/PUMP UP FREE LIQUID, WASH
+    RESIDUE.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL VENTILATED
+    AREA AWAY FROM SPARKS AND FLAME. KEEP CONTAINER TIGHTLY CLOSED WHEN
+    NOT IN USE. PROTECT FROM PHYSICIAN DAMAGE.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF VENTILATION DOES NOT MAINTAIN INHALATION
+    EXPOSURES BELOW PEL(TLV), USE NIOSH/MSHA APPROVED RESPIRATORS AS
+    PER CURRENT 29 CFR 1910.134, INSTRUCTIONS/WARNING AND
+    NIOSH-RESPIRATOR DECISION LOGIC-PUB.# 87.108
+Ventilation:PROVIDE SUFFICIENT GENERAL/LOCAL EXHSUST VENTILATION IN
+    PATTERN/VOLUME TO CONTROL INHALATION EXPOSURES BELOW OSHA'S PEL.
+Protective Gloves:HEAVY DUTY NEOPRENE RUBBER AS REQUIRED.
+Eye Protection:SAFETY GLASSES/GOGGLES AND/OR FACESHIELD
+Other Protective Equipment:EYE WASH STATION & SAFETY SHOWER.
+    INDUSTRIAL-TYPE WORK CLOTHING, COVERALLS, APRONS BOOTS & PROTECTIVE
+    GARMENTS AS REQD.
+Work Hygienic Practices:0BSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RESOMMENDED PROCEDURES, DO NOT WEAR CONTAMINATED CLOTHING OR
+    FOOTWEAR.
+Supplemental Safety and Health
+DO NOT GET SKIN, ON EYES OR ON CLOTHING. DO NOT BREATHE VAPORS OR
+    MISTS. PART A OF A 2 PART PRODUCT. SEE P/N IND B, THIS NSN, FOR
+    ADDITIONAL INFORMATION.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Vapor Pres:NEGLIGIBLE
+Vapor Density:>1
+Spec Gravity:1.34
+Evaporation Rate & Reference:N/R(BUTYL ACETATE=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:WHITE PASTE. ODOR NOT SPECIFIED.
+Percent Volatiles by Volume:0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS, AMINES, AMIDES STRONG LEWIS OR MINERAL ACIDS,
+    THIOSULFATES, CARBOXYLIC ACIDS, ALCOHOL & MERCAPTANS.
+Stability Condition to Avoid:HIGH TEMPERATURES, SPARKS OR OPEN FLAME.
+Hazardous Decomposition Products:CARNON MONOXIDE, CARBON DIOXIDE,
+    OXIDES OF NITOGEN.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL SHOULD BE MADE IN ACCORDANCE WITH ALL
+    APPLICABLE FEDERAL, STATE AND LOCAL LAWS AND REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

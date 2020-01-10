@@ -1,0 +1,65 @@
+=====================  Product Identification  =====================
+
+Product ID:200P3425TP1
+MSDS Date:01/01/1985
+FSC:5910
+NIIN:00-190-5055
+MSDS Number: BDHVR
+=== Responsible Party ===
+Company Name:SPRAGUE ELECTRIC CO
+Emergency Phone Num:207-324-4140
+CAGE:56289
+=== Contractor Identification ===
+Company Name:SPRAGUE ELECTRIC CO WORLD HEADQUARTERS
+Address:61 SPIT BROOK RD SUITE 305
+Box:City:NASHUA
+State:NH
+ZIP:03060
+Country:US
+Phone:603-883-5544/FAX 603-880-1910
+CAGE:56289
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POLYCHLORINATED BIPHENYLS (PCBS)  (SARA III)
+CAS:1336-36-3
+RTECS #:TQ1350000
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:CAN BE ABSORBED THRU LUNGS/INTESTINES/SKIN,
+    CAUSING CANCER, LIV/KID/STOMACH/EYE/HEARING DISORDERS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE ABSORBENT & DIKES TO PREVENT RUNOFF.
+    ISOLATE & NOTIFY PROPER AUTH.
+
+======================	Handling and Storage  ======================
+
+Other Precautions:LG CAPACITORS OF 3 LB OR MORE PCB REQ LABELS IN STG,
+    USE & TRANSP.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:Z3
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTROLLED DISPOSAL REQ. CAPACITORS W/MORE THAN
+    3 LBS PCB REQ AUTH LANDFILL OR INCINERATION.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

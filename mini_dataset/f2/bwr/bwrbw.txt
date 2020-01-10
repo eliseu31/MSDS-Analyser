@@ -1,0 +1,183 @@
+=====================  Product Identification  =====================
+
+Product ID:MERCURY BATTERY/CELL 2539219
+MSDS Date:03/01/1991
+FSC:6135
+NIIN:00-927-5848
+MSDS Number: BWRBW
+=== Responsible Party ===
+Company Name:BREN-TRONICS INC
+Address:10 BRAYTON CT
+City:COMMACK
+State:NY
+ZIP:11725
+Country:US
+Info Phone Num:516-499-5155
+Emergency Phone Num:516-499-5155
+CAGE:51828
+=== Contractor Identification ===
+Company Name:BREN-TRONICS INC
+Address:10 BRAYTON CT
+Box:City:COMMACK
+State:NY
+ZIP:11725-3104
+Country:US
+Phone:631-499-5155
+CAGE:51828
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POTASSIUM HYDROXIDE (KOH) (CERCLA) BP:2408F, 1320C, SPEC
+    GRAV:2.0 (H*2O=1), MP:680F, 360C, SOL IN H*20:50%, (ING 2)
+CAS:1310-58-3
+RTECS #:TT2100000
+Fraction by Wt: 9%
+OSHA PEL:C 2 MG/M3
+ACGIH TLV:C 2 MG/M3
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ING 1:APPEARANCE AND ODOR:CLEAR LIQUID.
+RTECS #:9999999ZZ
+
+Ingred Name:MANGANESE DIOXIDE (MNO*2) SPEC GRAV:5.0 (H*2O=1), MP:1002F,
+    539C, SOL IN H*2O:0%, APPEAR AND ODOR:BLACK POWDER.
+CAS:1313-13-9
+RTECS #:OP0350000
+Fraction by Wt: 5-6%
+OSHA PEL:5 MG MN/M3 CEILING
+ACGIH TLV:5 MG MN/M3
+
+Ingred Name:ZINC (ZN) (SARA 313) (CERCLA) BP:1665F, 907C, SPEC
+    GRAV:7.14 (H*2O=1), VAP PRESS:1 @ 487C, MP:788F, 420C, SOL IN (ING
+    5)
+CAS:7440-66-6
+RTECS #:ZG8600000
+Fraction by Wt: 12%
+OSHA PEL:15 MG/M3 (MFR)
+ACGIH TLV:10 MG/M3 (MFR)
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ING 4:H*2O:0%, APPEAR & ODOR:GREY POWDER.
+RTECS #:9999999ZZ
+
+Ingred Name:MERCURY; (MERCURY, QUICK SILVER (HG)) BP:675F, 357C, SPEC
+    GRAV:13.6 (H*2O=1), VAP PRESS:1 @ 126C, MP:-38F, -39C, (ING 7)
+CAS:7439-97-6
+RTECS #:OV4550000
+Fraction by Wt: <1%
+OSHA PEL:0.05 MG/M3 (MFR)
+ACGIH TLV:0.05 MG/M3 (MFR)
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:ING 6:SOL IN H*2O:0%, APPEAR AND ODOR:SILVERY LIQUID
+RTECS #:9999999ZZ
+
+Ingred Name:MERCURY (II) OXIDE; (MERCURIC OXIDE) (SARA 302/313)
+    (CERCLA) SPEC GRAV:11.1 (H*2O=1), MP:932F, 500C, (ING 9)
+CAS:21908-53-2
+RTECS #:OW8750000
+Fraction by Wt: 35-45%
+OSHA PEL:0.1 MG (HG)/M3
+ACGIH TLV:S,0.025 MG(HG)/M3
+
+Ingred Name:ING 8:SOL IN H*2O:5%, APPEAR & ODOR:ORANGE-RED POWDER.
+RTECS #:9999999ZZ
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MERCURY COMPOUNDS APPEAR ON NAVY
+    LISTING OF OCCUP CHEM REPRO HAZS. SEEK CONSULTATION FROM APPROP
+    HLTH PROFESSIONALS CONCERNING LATEST HAZ LIST INFO & SAFE HNDLG &
+    EXPOS INFO . ACUTE/CHRONIC:THES E CHEMS ARE CNTND IN SEALED CAN.
+    RISK OF EXPOS OCCURS ONLY IF BATTERY IS MECH/ELEC ABUSED. MOST
+    (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:HLTH HAZS:LIKELY, RISK IS WHEN CELL LEAKS. KOH
+    IS CAUSTIC & SKIN CONT CAN CAUSE IRRIT/BURNS. EYE CONT W/KOH MAY
+    CAUSE PERM INJURY. SYMPS OF EXPOS:SKIN & EYE CONT W/KOH MAY CAUSE
+    BURNS. AT ELEVATED TEM P HG VAP MAY BE PRESENT AND SHOULD NOT BE
+    INHALED.
+Medical Cond Aggravated by Exposure:AN ACUTE EXPOSURE WILL NOT
+    GENERALLY AGGRAVATE ANY MEDICAL CONDITION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGEST:CALL MD IMMEDIATELY . INHAL:REMOVE TO FRESH AIR.
+    SUPPORT BREATHING (GIVE O*2/ARTF RESP) . SKIN:FLUSH WITH WATER AND
+    WASH WITH SOAP AND WATER. EYES:FLUSH WITH COPIOUS AMOUNTS OF WATE R
+    FOR AT LEAST 15 MINUTES THEN SEE PHYSICIAN AT ONCE.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:MEDIA SUITABLE FOR SURROUNDING FIRE .
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:CELLS MAY RUPTURE WHEN HEATED
+    EXCESSIVELY; MAY RELEASE TOXIC MERCURY AND CORROSIVE MATERIALS WHEN
+    INTEGRITY OF CELL CAN IS BROKEN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:AVOID SKIN AND EYE CONTACT. DO NOT INHALE
+    VAPORS. COLLECT ALL RELEASED MATERIAL IN PLASTIC BAG FOR WASTE
+    DISPOSAL. DO NOT TOUCH ANY LIQUID MERCURY.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN DRY PLACE. DO NOT RECHARGE.
+    DO NOT SHORT CIRCUIT.
+Other Precautions:USE BATTERY ONLY IN PROPER EQUIPMENT. OBSERVE CORRECT
+    POLARITY WHEN INSTALLING INTO EQUIPMENT. DO NOT ATTEMPT TO
+    RECHARGE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AS IN ANY FIRE SITUATION, USE NIOSH/MSHA
+    APPROVED SELF-CONTAINED BREATHING APPARATUS (SCBA).
+Ventilation:NONE SPECIFIED BY MANUFACTURER.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPRVD CHEM WORKERS GOGGS (SUPDAT)
+Other Protective Equipment:ANSI APPRVD EMERGENCY EYE BATH & DELUGE
+    SHOWER .
+Work Hygienic Practices:NOT APPLICABLE.
+Supplemental Safety and Health
+EYE PROT:AND FULL LENGTH FACESHIELD .
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:SEE INGS
+Melt/Freeze Pt:M.P/F.P Text:SEE INGS
+Vapor Pres:SEE INGS
+Spec Gravity:SEE INGS
+Solubility in Water:SEE INGS
+Appearance and Odor:SEE INGS
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:DO NOT HEAT, DISASSEMBLE, OR RECHARGE. DO
+    NOT SHORT CIRCUIT.
+Hazardous Decomposition Products:WHEN HEATED, CELLS MAY EMIT HAZARDOUS
+    VAPORS OF HG OR CAUSTIC KOH, OR LIQUID HG.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:IN SMALL QUANTITIES, BATTERIES MAY BE DISPOSED
+    OF WITH HOUSEHOLD TRASH. DO NOT INCINERATE. DISPOSE OF LARGE
+    QUANTITIES IN ACCORDANCE WITH LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

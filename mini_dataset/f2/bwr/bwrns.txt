@@ -1,0 +1,134 @@
+=====================  Product Identification  =====================
+
+Product ID:ANDREZ 8000 AE;51501
+MSDS Date:07/11/1994
+FSC:5970
+NIIN:00D003458
+MSDS Number: BWRNS
+=== Responsible Party ===
+Company Name:ANDERSEN DEVELOPMENT COMPANY
+Address:1415 E. MICHIGAN ST.
+City:ADRIAN
+State:MI
+ZIP:49221-3499
+Country:US
+Info Phone Num:517-263-2121/1000(FAX)
+Emergency Phone Num:517-263-2121 800-424-9300(CHEMTREC)
+Preparer's Name:SAFETY & ENVIRONMNTL DEPT
+CAGE:EO221
+=== Contractor Identification ===
+Company Name:ANDERSEN DEVELOPMENT COMPANY
+Address:1415 E. MICHIGAN ST.
+Box:City:ADRIAN
+State:MI
+ZIP:49221-3499
+Country:US
+Phone:517-263-2121/1000(FAX)
+CAGE:EO221
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: <1.5%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:STYRENE-BUTADIENE RUBBER
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ACGIH TLV FOR NUISSANCE DUST IS 15MG/M3
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES:VAPOR FROM HEATED PRODUCT MAY
+    CAUSE IRRITATION.SKIN:MAY CAUSE IRRITATION.INGEST:THIS MATERIAL IS
+    EXPECTED TO BE NON-TOXIC(ALTHOUGH THIS HAS NOT BEEN
+    ESTABLISHED).INHAL:DUST MAY CAUSE RESPIRATORY  IRRITATION OR
+    SENSITIZATION.
+Explanation of Carcinogenicity:THERE ARE NO INGREDIENTS ABOVE 0.1%
+    WHICH ARE IDENTIFIED AS CARCINOGENS BY NTP,IARC OR OSHA.
+Effects of Overexposure:SKIN:DERMATITIS.
+Medical Cond Aggravated by Exposure:NOT REPORTED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:REMOVE CONTAMINATED CLOTHING;WASH WITH WATER.EYES:FLUSH
+    WITH WATER FOR 15 MINUTES.MOLTEN MATERIAL ENTERING THE EYES IS A
+    MEDICAL EMERGENCY.INHAL:REMOVE TO FRESH AIR.GIVE OXYGEN OR
+    ARTIFICIAL RESP IRATION(MOUTH-TO-MOUTH) IF NEEDED.INGEST:DO NOT
+    INDUCE VOMITING.GET PROMPT QUALIFIED MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:WATER,DRY CHEMICAL,CARBON DIOXIDE.
+Fire Fighting Procedures:USE A SELF-CONTAINED BREATHING APPARATUS AND
+    FULL PROTECTIVE EQUIPMENT.
+Unusual Fire/Explosion Hazard:FIRE CONDITIONS MAY EVOLVE TOXIC FUMES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPER RESPIRATORY AND PROTECTIVE
+    EQUIPMENT.VENTILATE AREA.SOAK UP WITH A NON-COMBUSTIBLE INERT
+    ABSORBANT(CLAY,SAND);PLACE IN PROPER CONTAINER FOR DISPOSAL.PREVENT
+    CONTAMINATION OF WATERWAYS.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL,DRY,WELL-VENTILATED
+    PLACE.KEEP CONTAINER CLOSED WHEN NOT IN USE.
+Other Precautions:EMPTY CONTAINERS MAY CONTAIN HAZARDOUS
+    RESIDUE;DISPOSE OF PROPERLY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WHERE ENVIRONMENTAL CONTROLS ARE LACKING OR IN
+    ENCLOSED SPACES USE A NIOSH/MSHA APPROVED RESPIRATOR FOR
+    DUST/ORGANIC VAPORS.
+Ventilation:LOCAL VENTILATION AT THE WORKSITE;MECHANICAL(GENERAL)
+    VENTILATION TO MAINTAIN TLV/PEL.
+Protective Gloves:IMPERVIOUS
+Eye Protection:CHEMICAL SPLASH GOGGLES
+Other Protective Equipment:LONG-SLEEVED WORK CLOTHES.PROVIDE A LOCAL
+    EYE WASH STATION AND SAFETY SHOWER.
+Work Hygienic Practices:USE REASONABLE CARE IN HANDLING THIS
+    PRODUCT.WASH HANDS AFTER USE AND BEFORE EATING.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Melt/Freeze Pt:M.P/F.P Text:248F,120C
+Decomp Temp:Decomp Text:392F,200C
+Vapor Pres:<1
+Spec Gravity:1.04
+Solubility in Water:INSOLUBLE
+Appearance and Odor:SOLID;WHITE;NO TO SLIGHT ODOR.
+Percent Volatiles by Volume:<1.5
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:HIGH HEAT.
+Hazardous Decomposition Products:CARBON DIOXIDE,CARBON
+    MONOXIDE,STYRENE,BUTADIENE,AROMATIC TARS,UNIDENTIFIED COMPOUNDS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH FEDERAL,STATE AND
+    LOCAL REGULATIONS.MFR STATES THAT THIS ITEM IS NOT RCRA HAZARDOUS
+    WASTE
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

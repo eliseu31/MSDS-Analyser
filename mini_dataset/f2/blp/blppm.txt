@@ -1,0 +1,142 @@
+=====================  Product Identification  =====================
+
+Product ID:OLIN SCALE-OUT
+MSDS Date:08/20/1982
+FSC:6850
+NIIN:00F019182
+MSDS Number: BLPPM
+=== Responsible Party ===
+Company Name:OLIN CORPORATION
+Address:51 CORPORATE WOODS, 9393 W. 100 ST
+City:OVERLAND PARK
+State:KS
+ZIP:66210
+Info Phone Num:(800) 432-6546
+Emergency Phone Num:(800) 432-6546
+Preparer's Name:G HOOPES
+CAGE:0G578
+=== Contractor Identification ===
+Company Name:OLIN CORP CHEMICALS GROUP
+Address:120 LONG RIDGE RD
+City:STAMFORD
+State:CT
+ZIP:06904
+Country:US
+Phone:203-356-3449,CHEMTREC 800-242-9300
+CAGE:53084
+Company Name:OLIN CORPORATION
+Address:120 LONG RIDGE ROAD
+City:STAMFORD
+State:CT
+ZIP:06904-1355
+Country:US
+Phone:203-356-3449
+CAGE:0G578
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HYDROGEN CHLORIDE  (HYDROCHLORIC ACID)  (SARA III)
+CAS:7647-01-0
+RTECS #:MW4025000
+Fraction by Wt: 25%
+Other REC Limits:7 PPM
+OSHA PEL:C 5 PPM
+ACGIH TLV:C 5 PPM; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:METHYL VIOLET
+CAS:8004-87-3
+RTECS #:GC8425000
+Fraction by Wt: 0.5%
+
+Ingred Name:INERT SOLVENT
+Fraction by Wt: 74.5%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL RATS LD50: 900 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN: SEVERE BURNS, IRRITATION.
+    INHALATION: MUCOUS MEMBRANES, COUGHING, CHOKING, BURNING OF THROAT,
+    LIPS/MOUTH TURN WHITE, PAIN IN THROAT/ABDOMEN, DIFFICULTY IN
+    SWALLOWING, INTENSE THIRST, NAUSEA.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN: SEVERE BURNS, IRRITATION, & DERMATITIS.
+    EYES: SEVERE BURNS, PERMANENT IMPAIRMENT OF VISION. INGESTION:
+    FATAL, NAUSEA. SKIN: SEVERE BURNS, IRRITATION & DERMATITIS.
+    INHALATION: MUCOUS MEMBRANES &  RESPIRATORY TRACT IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN/EYES: FLUSH W/FLOWING WATER FOR 15 MINS. INGESTION:
+    DRINK LARGE AMOUNTS OF WATER. DON'T USE SODIUM BICARBONATE OR
+    INDUCE VOMITING. INHALATION: REMOVE TO FRESH AIR. ADMINISTER OXYGEN
+    AFTER SEVERE  EXPOSURE. IF NOT BREATHING, GIVE MOUTH-TO-MOUTH
+    RESUSCITATION. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:WATER.
+Fire Fighting Procedures:WEAR FULL PROTECTIVE CLOTHING. USE FOG NOZZLE
+    TO DISPERSE FUMES.
+Unusual Fire/Explosion Hazard:REACTS W/METALS W/EVOLUTION OF HYDROGEN
+    WHICH CAN FORM EXPLOSIVE MIXTURE W/AIR.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DILUTE W/WATER & NEUTRALIZE BY SPRINKLING SODA
+    ASH, CAUSTIC SODA OR LIME OVER SURFACE, THEN FLUSHING TO DRAIN
+    W/WATER.		     R.
+Neutralizing Agent:ALKALI, CAUSTIC SODA, SODA ASH, LIME
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A DRY, WELL-VENTILATED
+    LOCATION AWAY FROM EXCESSIVE HEAT OR POSSIBLE CONTACT W/ALKALIES.
+    PROTECT FROM MECHANICAL DAMAGE.
+Other Precautions:KEEP CONTAINER CLOSED. AVOID BREATHING MIST OF FUMES.
+    LOOSEN CAP CAREFULLY TO VENT BEFORE REUSE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:LOCAL EXHAUST VENTILATION TO KEEP <TLV
+Protective Gloves:RUBBER OR PLASTIC
+Eye Protection:SPLASHPROOF GOGGLES, FACESHIELD
+Other Protective Equipment:RUBBER OR PLASTIC BOOTS, APRON, & LONG
+    SLEEVED SHIRT.
+Work Hygienic Practices:REMOVE/WASH CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:221F
+Melt/Freeze Pt:M.P/F.P Text:-112
+Spec Gravity:1.115
+pH: 1.5
+Solubility in Water:COMPLETE
+Appearance and Odor:GREEN LIQUID, SHARP ODOR.
+Percent Volatiles by Volume:100%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+METALS, ALKALIES, CYANIDES, OXIDIZING MATERIALS
+Stability Condition to Avoid:EXCESSIVE HEAT, MECHANICAL DAMAGE.
+Hazardous Decomposition Products:HYDROGEN, CHLORINE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF NEUTRAL SOLUTION BY FLUSHING TO DRAIN
+    IN ACCORDANCE W/RCRA & APPLICABLE STATE & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,159 @@
+=====================  Product Identification  =====================
+
+Product ID:910 CLEANER
+MSDS Date:10/01/1979
+FSC:7930
+NIIN:00N020815
+MSDS Number: BLMDX
+=== Responsible Party ===
+Company Name:HOTSPLICER CORP
+Address:1100 BROWN ST
+City:WAUCONDA
+State:IL
+ZIP:60084
+Country:US
+Info Phone Num:312-526-1900
+Emergency Phone Num:312-526-1900
+CAGE:IO062
+=== Contractor Identification ===
+Company Name:HOT SPLICER CORPORATION
+Address:1098 BROWN ST
+Box:City:WAUCONDA
+State:IL
+ZIP:60084
+Country:US
+Phone:708-526-1900
+CAGE:0BD16
+Company Name:HOTSPLICER CORP
+Address:1100 BROWN ST
+Box:398
+City:WAUCONDA
+State:IL
+ZIP:60084
+Country:US
+Phone:312-526-1900
+CAGE:IO062
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYLENE CHLORIDE	(SARA III)
+CAS:75-09-2
+RTECS #:PA8050000
+Fraction by Wt: <5-15%
+Other REC Limits:TLV: 200 (MFR)
+OSHA PEL:500 PPM/C,1000; Z2
+ACGIH TLV:50 PPM, A2; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:PERCHLOROETHYLENE (TETRACHLOROETHYLENE)  (SARA III)
+CAS:127-18-4
+RTECS #:KX3850000
+Fraction by Wt: >10-30%
+Other REC Limits:TLV: 100 (MFR)
+OSHA PEL:100 PPM
+ACGIH TLV:25PPM/100,A3 STEL;94
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:ALIPHATIC HYDROCARBONS(PETROLEUM NAPHTHA); (AIPHATIC
+    PETROLEUM HYDROCARBON)
+Fraction by Wt: >60-80%
+Other REC Limits:TLV: 200 (MFR)
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:YES
+Health Hazards Acute and Chronic:INHALATION OF HIGH VAPOR
+    CONCENTRATIONS MAY HAVE RESULTS RANGING FROM MILD DEPRESSION TO
+    CONVULSIONS AND LOSS OF CONSCIOUSNESS. WILL CAUSE SKIN AND EYE
+    IRRITATION. CHLOROCARBON MATERIALS HAVE PRODUCED  SENSITIZATION OF
+    MYOCARDIUM TO EPINEPHRINE IN LAB ANIMALS AND COULD HAVE SIMILAR
+    EFFECT IN HUMANS.(SEE EFTS OF OVEREXP)
+Explanation of Carcinogenicity:METHYLENE CHLORIDE: IARC GROUP 2B, NTP
+    GROUP 2; TETRACHLOROETHYLENE: IARC GROUP 2B, NTP GROUP 2.
+Effects of Overexposure:HLTH HAZ: ADRENOMIMETICS (E.G., EPINEPHRINE)
+    MAY BE CONTRAINDICATED EXCEPT FOR LIFE-SUSTAINING USES IN HUMANS
+    ACUTELY OR CHRONICALLY EXPOSED TO CHLOROCARBONS .
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: REMOVE TO FRESH AIR. SKIN: WASH AREA WITH WARM WATER
+    AND MILD SOAP. EYES: FLUSH WITH WATER FOR AT LEAST 15 MIN. INGEST:
+    IF SWALLOWED, DO NOT INDUCE VOMITING. SEE PHYS AS SOON AS POSSIBLE
+    AFTER  EXPOSURE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:NONE UP TO 235F
+Extinguishing Media:CO2 OR SUITABLE DRY CHEMICAL.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED PRESSURE DEMAND SCBA
+    AND FULL PROTECTIVE EQUIPMENT . FOLLOW PROCEDURE FOR HYDROCARBON
+    FIRE.
+Unusual Fire/Explosion Hazard:THERMAL DECOMPOSITION PRODUCTS MAY
+    INCLUDE HCL AND PHOSGENE .
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:IF OUTDOORS ALLOW TO EVAPORATE. INSIDE
+    SPILLAGE-MECHANICALLY REMOVE WITH PUMP OR ABSORBENT MATERIAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:VOLATILE SOLVENT. KEEP BUNG TIGHTLY
+    CLOSED. STORE IN COOL LOCATION.
+Other Precautions:SEE DIRECTION LABEL. NO SMOKING IN AREA OF USE. DO
+    NOT USE IN GENERAL VICINITY OF ARC WELDING, OPEN FLAMES OR HOT
+    SURFACES. HEAT AND/OR UV RADIATION MAY CAUSE FORMATION OF HCL
+    AND/OR PHOSGENE .
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED CARTRIDGE TYPE FOR
+    SOLVENTS.
+Ventilation:MECHANICAL(GENERAL).
+Protective Gloves:NEOPRENE GLOVES.
+Eye Protection:CHEM WORK GOG/FULL LENGTH FSHLD.
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T4
+Boiling Pt:B.P. Text:>106F,>41C
+Vapor Pres:18
+Vapor Density:5.0
+Spec Gravity:0.975@25C
+Evaporation Rate & Reference:6.5(CCL4=1)
+Solubility in Water:0
+Appearance and Odor:WATER WHITE-MILD PETROLEUM
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+COAL TAR INSULATION.
+Stability Condition to Avoid:OPEN SPARKS AND FLAMES.
+Hazardous Decomposition Products:CO2, CO AND COCL2. HCL, PHOSGENE .
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:MUST BE CARTED AWAY TO CHEMICAL DISPOSAL AREA.
+    DISPOSE OF IN ACCORDANCE WITH FEDERAL, STATE AND LOCAL REGULATIONS
+    .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

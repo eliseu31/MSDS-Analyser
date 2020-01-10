@@ -1,0 +1,145 @@
+=====================  Product Identification  =====================
+
+Product ID:IMPACT INDUSTRIAL DEGREASER
+MSDS Date:01/01/1993
+FSC:6850
+NIIN:01-384-0618
+MSDS Number: BWRHY
+=== Responsible Party ===
+Company Name:ALLIED ENTERPRISES, INC.
+Address:814 W. 45TH STREET
+Box:6159
+City:NORFOLK
+State:VA
+ZIP:23508-2008
+Country:US
+Info Phone Num:804-489-8282
+Emergency Phone Num:804-489-8282
+CAGE:58396
+=== Contractor Identification ===
+Company Name:ALLIED ENTERPRISES, INC.
+Address:814 W. 45TH STREET
+Box:6159
+City:NORFOLK
+State:VA
+ZIP:23508-2008
+Country:US
+Phone:757-489-8282
+CAGE:58396
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: BALANCE
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:CITRUS TERPENES
+CAS:5989-27-5
+RTECS #:GW6360000
+Fraction by Wt: 75-85%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:COCONUT DIETHANOLAMIDE
+CAS:8051-30-7
+Fraction by Wt: 5-10%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:NONIONIC SURFACTANT
+CAS:9016-45-9
+RTECS #:MD0900000
+Fraction by Wt: 5-10%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:DYE
+Fraction by Wt: 0-5%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN:DEFATTING W/PROLONGED/REPEATED
+    CONTACT. MAY LEAD TO DRYNESS & IRRIT. EYES:IRRITANT. MAY CAUSE
+    REDNESS, BURNING OR TEARING. INHAL:VAPO/MISTS MAY BE IRRITATING TO
+    MUCOUS MEMBRANES IN NOSE/THROAT/LU NGS. INGEST:MAY BE IRRIT TO
+    MOUTH/THROAT/GASTROINTESTINAL SYSTEM.
+Explanation of Carcinogenicity:PER MSDS:NO CARCINOGENS.
+Effects of Overexposure:SKIN:DRYNESS, IRRIT. EYES:IRRIT, REDNESS,
+    BURNING, TEARING. INHAL:IRRIT TO NOSE/THROAT/LUNGS. INGEST:IRRIT TO
+    MOUTH /THROAT/GASTROINTESTINGAL SYSTEM.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MFG.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:FLUSH W/WATER. SEEK MED ATTN IF IRRIT PERSISTS.
+    EYES:FLUSH W/LG QUANT OF WATER OPENING EYELIDS. SEEK MED ATTN IF
+    IRRIT PERSISTS. INHAL:GET TO FRESH AIR. SEEK MED ATTN IF IRRIT
+    PERSISTS. INGEST:DO  NOT INDUCE VOMITING. DRINK LG QUANT OFWATER.
+    SEEK MED ATTN IMMED.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:130F,54C
+Extinguishing Media:FOAM, CO2, OR DRY CHEMICAL.
+Fire Fighting Procedures:DO NOT USE WATER.
+Unusual Fire/Explosion Hazard:DRUMS HEATED BY FIRE CAN EXPLODE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:MOP UP OR OTHERWISE ABSORB AND HOLD FOR
+    DISPOSAL.
+Neutralizing Agent:NONE SPECIFIED BY MFG.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTACT W/EYES/SKIN/CLOTHING.
+    KEEP OUT OF REACH OF CHILDREN. FOR USE BY TRAINED PERSONNEL ONLY.
+    KEEP CONTAINER CLOSED DURING STORAGE.
+Other Precautions:FOR INSTITUTIONAL AND INDUSTRIAL USE ONLY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE IN WELL VENTILATED AREA.
+Ventilation:PROVIDE LOCAL EXHAUST TO KEEP TLV OF INGREDIENTS BELOW
+    ACCEPTABLE LIMIT.
+Protective Gloves:SOLVENT PROOF
+Eye Protection:SAFETY GLASSES
+Work Hygienic Practices:WASH HANDS AFTER HANDLING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:335F,168C
+Vapor Pres:<10 @68F
+Vapor Density:>1
+Spec Gravity:0.864
+pH:11-12
+Evaporation Rate & Reference:<1, WATER=1
+Solubility in Water:EMULSIFIES
+Appearance and Odor:THIN ORANGE LIQUID WITH PLEASANT ODOR.
+Percent Volatiles by Volume:90+
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE KNOWN.
+Stability Condition to Avoid:NONE SPECIFIED BY MFG. HOWEVER AVOID
+    IGNITION SOURCES.
+Hazardous Decomposition Products:CARBON MONOXIDE POSSIBLE IF BURNED.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ANY METHOD IN ACCORDANCE WITH APPLICABLE LAWS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

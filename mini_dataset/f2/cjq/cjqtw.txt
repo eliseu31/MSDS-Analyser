@@ -1,0 +1,191 @@
+=====================  Product Identification  =====================
+
+Product ID:PLSE2-3X, PLASMA STANDARD, 10,000 PPM OF (SUPDAT)
+MSDS Date:11/03/1997
+FSC:6810
+NIIN:00N028977
+Status Code:A
+MSDS Number: CJQTW
+=== Responsible Party ===
+Company Name:SPEX CERTIPREP INC
+Address:203 NORCROSS AVE
+City:METUCHEN
+State:NJ
+ZIP:08840
+Country:US
+Info Phone Num:732-549-7144
+Emergency Phone Num:(800)424-9300
+Preparer's Name:VANAJA SWAKUMA
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:07977
+=== Contractor Identification ===
+Company Name:SPEX CERTIPREP INC
+Address:203 NORCROSS AVE
+Box:City:METUCHEN
+State:NJ
+ZIP:08840
+Country:US
+Phone:732-549-7144
+CAGE:07977
+Company Name:SPEX INDSUTRIES INC
+Address:203 NORCROSS AVE
+Box:City:METUCHEN
+State:NJ
+ZIP:08840
+Country:US
+Phone:908-549-7144
+CAGE:IO257
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NITRIC ACID; (HNO*3)
+CAS:7697-37-2
+RTECS #:QU5775000
+Minumum % Wt:2.
+Maxumum % Wt:5.
+OSHA PEL:5 MG/M3;2 PPM
+ACGIH TLV:5.2 MG/M3;2 PPM
+ACGIH STEL:10 MG/M3;4 PPM
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:SELENIUM; (SE)  LD50: (ORAL, RAT) 6700 MG/KG
+CAS:7782-49-2
+RTECS #:VS7700000
+Minumum % Wt:.1
+Maxumum % Wt:1.
+ACGIH STEL:0.2 PPM
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Minumum % Wt:94.
+Maxumum % Wt:97.
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE INGREDIENT 2
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:CORROSIVE. HARMFUL BY INGESTION.
+    IRRITATING TO THE EYES AND SKIN UPON CONTACT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:GENERAL: REMOVE CONTAMINATED CLOTHING, WASH THORUGHLY BEFORE
+    REUSE. EYES: FLUSH WITH WATER FOR AT LEAST 15 MINUTES OCCASIONALLY
+    LIFTING UPPER AND LOWER EYELIDS. SKIN: REMOVE CONTAMINATED CLOTHING
+    AND  FLUSH WITH WATER THOROUGHLY. INHALATION: MOVE TO FRESH AIR.
+    CONSULT DOCTOR IF SYMPTOMS PERSIST. INGESTION: GET IMMEDIATE
+    MEDICAL HELP. IF THE PATIENT IS CONSCIOUS, GIVE LARGE QUANTITIES OF
+    WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:APPROPRIATE TO SURROUNDING FIRE CONDITIONS.
+Fire Fighting Procedures:WEAR NIOSH APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:OXIDES OF NITROGEN CAN BE RELEASED IN
+    CASE OF FIRE. NOT EXPLOSIVE. NOT SELF-IGNITING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA. WEAR PROTECTIVE EQUIPMENT. DO
+    NOT ALLOW TO ENTER DRAINAGE SYSTEMS OR WATER WAYS. DILUTE SPILL
+    WITH WATER AND NEUTRALIZE WITH SODA ASH, LIMESTONE, ETC. WIPE UP
+    AND PUT INTO A SEALED CON TAINER FOR PROPER DISPOSAL. WASH SPILL
+    SITE WITH WATER AFTER MATERIAL PICK UP IS COMPLETE. WEAR CHEMICAL
+    RESISTANT GLASSES, GLOVES AND CLOTHING.
+Neutralizing Agent:SODA ASH, LIMESTONE, ETC.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:ENSURE GOOD VENTILATION/EXHAUSTION AT
+    WORK PLACE. HAVE AN IMMEDIATE AVAILABILITY OF AN EYE WASH IN CASE
+    OF EMERGENCY. STORE AT ROOM TEMPERATURE. KEEP THE CONTAINER TIGHTLY
+    CLOSED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IN CASE OF BRIEF EXPOSURE, USE NIOSH APPROVED
+    RESPIRATOR.
+Ventilation:USE UNDER FUME HOOD.
+Protective Gloves:WEAR ACID RESISTANT GLOVES.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES & FULL LENGTH
+    FACESHIELD .
+Other Protective Equipment:EYE WASH AND DELUGE SHOWER MEETING ANSI
+    DESIGN CRITERIA . WEAR PROTECTIVE APRON.
+Supplemental Safety and Health
+MFR TRADE/PART #: SELENIUM IN 5% NITRIC ACID.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:=100.C, 212.F
+Spec Gravity:APPROXIMATELY 1
+pH:1 TO 2
+Solubility in Water:MISCIBLE
+Appearance and Odor:TRANSPARENT LIQUID WITH AN ACRID ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:STABLE UNDER NORMAL STORAGE AND USE.
+Hazardous Decomposition Products:TOXIC FUMES UNDER CONDITIONS OF FIRE.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:MAY PRODUCE CAUSTIC EFFECT ON SKIN, MUCOUS
+    MEMBRANES AND EYES. SWALLOWING WILL LEAD TO A STRONG CAUSTIC EFFECT
+    ON MOUTH AND THROAT AND TO THE DANGER OF PERFORATION OF ESOPHAGUS
+    AND STOMACH. EXPOSURE T O SELENIUM MAY CAUSE ABDOMINAL PAINS,
+    DIARRHEA, VOMITING, CHEST PAINS, COUGHING, DIFFICULTY IN BREATHING.
+    SKIN CONTACT MAY CAUSE DERMATITIS. "QUESTIONABLE CARCINOGEN WITH
+    EXPERIMENTAL TUMORIGENIC AND  TERATOGENIC DATA. TOXICITY DATA:
+    HNO*3 - RTECS #QU5775000 - ORL-HMN LDLO: 430 MG/KG; UNK-MAN LDLO:
+    110 MG/KG. SE - RTECS #VS7700000 - ORL-RAT LD50: 6700 MG/KG;
+    IHL-RAT LDLO: 33 MG/KG/8H.
+
+=====================  Ecological Information  =====================
+
+Ecological:DO NOT ALLOW PRODUCT TO REACH GROUND WATER, WATER BODIES OR
+    SEWAGE SYSTEM.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTACT LOCAL HAZARDOUS OR CHEMICAL WASTE
+    DISPOSAL AGENCY FOR FEDERAL, STATE AND LOCAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:AIR - CLASS 8; UN/ID # 3264; PACKING GROUP: III;
+    PROPER SHIPPING NAME: CORROSIVE LIQUID, ACIDIC, INORGANIC, N.O.S.
+    (NITRIC ACID SOLUTION). GROUND - CLASS 8; UN/ID NUMBER: 3264;
+    PACKING GROUP: III; PRO PER SHIPPING NAME: CORROSIVE LIQUID,
+    ACIDIC, INORGANIC, N.O.S. (NITRIC ACID SOLUTION).
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:SUBJECT TO THE REPORTING REQUIREMENTS OF
+    SECTION 313 OF SARA TITLE III AND OF 40 CFR 372.
+Federal Regulatory Information:COMPONENTS OF THIS SOLUTION ARE REPORTED
+    IN EPA TSCA INVENTORY LIST. WHMIS CLASSIFICATION (CANADA): CLASS E.
+    EC GUIDELINES: C: CORROSIVE. RISK PHRASES: 34 - CAUSES BURNS.
+    SAFETY PHRASES: 36/37/39 - WE AR SUITABLE PROTECTIVE CLOTHING,
+    GLOVES AND EYE/FACE PROTECTION. 26 - IN CASE OF CONTACT WITH EYES,
+    RINSE IMMEDIATELY WITH PLENTY OF WATER AND SEEK MEDICAL ATTENTION.
+    45 - IN CASE OF ACCIDENT OR IF YO U FEEL UNWELL, SEEK MEDICAL
+    ADVICE IMMEDIATELY.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,122 @@
+=====================  Product Identification  =====================
+
+Product ID:LAV 60Z OMNI PAK LAC ACRYLIC/VINYL
+MSDS Date:01/26/1988
+FSC:8010
+NIIN:00F018496
+MSDS Number: BKYBP
+=== Responsible Party ===
+Company Name:SPRAYON PRODUCTS/DIV SHERWIN-WILLIAMS CO
+Address:26300 FARGO AVE
+City:BEDFORD HEIGHTS
+State:OH
+ZIP:44146-1310
+Info Phone Num:(216) 292-7400
+Emergency Phone Num:(216) 292-7400
+CAGE:09800
+=== Contractor Identification ===
+Company Name:SHERWIN-WILLIAMS DIVERSIFIED BRANDS, INC.
+Address:26300 FARGO AVENUE
+Box:City:BEDFORD HEIGHTS
+State:OH
+ZIP:44146
+Country:US
+Phone:216-292-7400 OR 216-595-8634
+CAGE:09800
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ACETONE  (SARA III)
+CAS:67-64-1
+RTECS #:AL3150000
+Fraction by Wt: 70%
+Other REC Limits:590 MG/CUM
+OSHA PEL:1000PPM
+ACGIH TLV:750PPM/1000STEL;9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ETHYL 3-ETHOXYPROPIONATE
+CAS:763-69-9
+RTECS #:UF3325000
+Fraction by Wt: 10%
+ACGIH TLV:50 PPM
+
+Ingred Name:PROPANE
+CAS:74-98-6
+RTECS #:TX2275000
+Fraction by Wt: 20%
+Other REC Limits:1800 MG/CUM
+OSHA PEL:1000 PPM
+ACGIH TLV:ASPHYXIANT; 9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: ANESTHETIC EFFECTS, UPPER
+    RESPIRATORY SYSTEM IRRITATION, LIGHT-HEADEDNESS, STAGGERING GAIT,
+    GIDDINESS, NAUSEA, PERMANENT BRAIN/NERVOUS SYSTEM/KIDNEY/LIVER
+    DAMAGE. SKIN: IRRITATION. INGESTI ON: HARMFUL OR FATAL.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: ANESTHETIC EFFECTS, UPPER
+    RESPIRATORY SYSTEM IRRITATION, LIGHT-HEADEDNESS, STAGGERING GAIT,
+    GIDDINESS, NAUSEA, PERMANENT BRAIN/NERVOUS SYSTEM/KIDNEY/LIVER
+    DAMAGE. SKIN/EYES: IRRITATION. IN GESTION: HARMFUL OR FATAL.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. EYES: FLUSH W/WATER FOR AT
+    LEAST 15 MINS. SKIN: WASH W/SOAP & WATER. INGESTION: DON'T INDUCE
+    VOMITING. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TOC
+Flash Point:<20F
+Extinguishing Media:CO2, DRY CHEMICAL OR FOAM
+Fire Fighting Procedures:WATER MAY BE INEFFECTIVE. USE WATER TO KEEP
+    FIRE-EXPOSED CONTAINERS COOL.
+Unusual Fire/Explosion Hazard:EXPOSURE TO DIRECT SUNLIGHT OR OTHER HEAT
+    MAY CAUSE BURSTING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. VENTILATE
+    AREA. REMOVE W/INERT ABSORBENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T STORE >120F. KEEP AT ROOM
+    TEMPERATURE. DON'T INGEST.
+Other Precautions:DON'T SPRAY NEAR FIRE OR OPEN FLAME. KEEP AWAY FROM
+    CHILDREN. AVOID BREATHING VAPORS OR SPRAY MIST & CONTACT W/SKIN &
+    EYES. CONTENTS UNDER PRESSURE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:LOCAL EXHAUST IN VOLUME & PATTERN TO KEEP AIR
+Evaporation Rate & Reference:FASTER THAN ETHER
+Percent Volatiles by Volume:100/WT
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:TEMPERATURES >120F, DIRECT SUNLIGHT, HEAT,
+    FIRE, OR OTHER SOURCES OF IGNITION.
+Hazardous Decomposition Products:CO, CO2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DON'T INCINERATE OR PUNCTURE. DISPOSE OF IN
+    ACCORDANCE W/LOCAL, STATE, & FEDERAL REGULATIONS REGARDING
+    POLLUTION.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

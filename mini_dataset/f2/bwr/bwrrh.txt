@@ -1,0 +1,119 @@
+=====================  Product Identification  =====================
+
+Product ID:L-395 PROTECTOR
+MSDS Date:02/01/1989
+FSC:7930
+NIIN:00N057553
+MSDS Number: BWRRH
+=== Responsible Party ===
+Company Name:ABC COMPOUNDING CO
+Address:6970 JONESBORO RD
+Box:585
+City:MORROW
+State:GA
+ZIP:30260
+Country:US
+Info Phone Num:800-535-5053
+Emergency Phone Num:800-535-5053
+CAGE:HO510
+=== Contractor Identification ===
+Company Name:ABC COMPOUNDING INC
+Address:6970 JONESBORO RD
+Box:585
+City:MORROW
+State:GA
+ZIP:30260
+Country:US
+Phone:800-535-5053
+CAGE:HO510
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NON-HAZARDOUS INGREDIENTS
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE/CHRONIC:MODERATE TO SEVERE
+    IRRITATION AND POSSIBLE TISSUE DAMAGE TO EYES DEPENDING ON
+    EXPOSURE. NAUSEA, VOMITING AND DIARRHEA MAY OCCUR UPON INGESTION.
+    PROLONGED SKIN CONTACT MAY CAUSE MODERATE  IRRITATION, DEFATTING
+    AND DERMATITIS.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION:MOVE TO FRESH AIR. CONSULT PHYSICIAN IF SYMPTOMS
+    PERSIST. INGEST:GIVE LARGE QUANTITIES OF WATER THEN SEVERAL GLASSES
+    OF MILK. INDUCE VOMITING.GET MEDICAL ATTENTION IMMEDIATELY.
+    EYES:FLUSH I MMEDIATELY WITH LARGE QUANTITIES OF WATER FOR AT LEAST
+    15 MINUTES, LIFTING EYELIDS OCCASIONALLY. GET MEDICAL ATTENTION.
+    SKIN:REMOVE CONTAMINATED CLOTHING AND WASH WITH PLENTY OF SOAP AND
+    WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:AS REQUIRED BY SURROUNDING FIRE.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE KNOWN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONTAIN LARGE SPILLS AND PUMP TO RECOVER.
+    SMALL SPILLS CAN BE MOPPED UP. FLUSH CONTAMINATED AREA WITH WATER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY PLACE. KEEP
+    CONTAINER CLOSED WHEN NOT IN USE. KEEP OUT OF REACH OF CHILDREN.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE
+    FOR EXPOSURE OF CONCERN . ONLY WITH ADEQUATE VENTILATION.
+Ventilation:EQUIVALENT TO OUTDOORS.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGGS .
+Other Protective Equipment:ANSI APPROVED EMERGENCY EYE BATH AND DELUGE
+    SHOWER .
+Work Hygienic Practices:WASH HANDS THOROUGHLY AFTER USE.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>212F,>100C
+Spec Gravity:1.01 (H*2O=1)
+Solubility in Water:EMULSION
+Appearance and Odor:EMULSION, NEUTRAL ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS AND OXIDIZERS.
+Stability Condition to Avoid:EXTREME TEMPERATURES.
+Hazardous Decomposition Products:CO, CO*2.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH ALL FEDERAL, STATE
+    AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

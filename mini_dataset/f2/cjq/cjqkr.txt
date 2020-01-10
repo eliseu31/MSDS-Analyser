@@ -1,0 +1,137 @@
+=====================  Product Identification  =====================
+
+Product ID:POTASSIUM NITRATE
+MSDS Date:07/02/1999
+FSC:6810
+NIIN:00-664-0508
+Status Code:A
+MSDS Number: CJQKR
+=== Responsible Party ===
+Company Name:VICKSBURG CHEMICAL CO
+Address:4280 RIFLE RANGE ROAD
+Box:821003
+City:VICKSBURG
+State:MS
+ZIP:39182
+Country:US
+Info Phone Num:(601) 636-1232
+Emergency Phone Num:601-636-1232
+Preparer's Name:LYNN GUNNISON
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:1K447
+=== Contractor Identification ===
+Company Name:INDUSTRIAL CHEMICAL COMMODITIES INC
+Address:15944 DERWOOD RD
+Box:City:ROCKVILLE
+State:MD
+ZIP:20855
+Country:US
+Phone:800-284-5279
+Contract Num:SP0450-99-M-NG44
+CAGE:1ELU0
+Company Name:VICKSBURG CHEMICAL CO
+Address:4280 RIFLE RANGE ROAD
+Box:821003
+City:VICKSBURG
+State:MS
+ZIP:39182
+Country:US
+Phone:(601) 636-1232
+CAGE:1K447
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POTASSIUM NITRATE
+CAS:7757-79-1
+RTECS #:TT3700000
+= Wt:99.
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50(RAT): UNKNOWN.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:POTASSIUM NITRATE MAY CAUSE SKIN, EYE,
+    AND RESPIRATORY IRRITATION.
+Effects of Overexposure:INGESTION MAY CAUSE DIARRHEA, VOMITING OR
+    CONVULSIONS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:REMOVE FROM EXPOSURE. PERFORM ARTIFICIAL RESPIRATION IF
+    NECESSARY FOR INHALATION. REMOVE CONTAMINATED CLOTHING AND FLUSH
+    SKIN AND EYES WITH WATER AS NEEDED. FOR INGESTION SEEKM MEDICAL
+    ATTENTION IMMED IATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Autoignition Temp:Autoignition Temp Text:N/D
+Lower Limits:N/D
+Upper Limits:N/D
+Extinguishing Media:EXTINGUISH FIRES WITH WATER. DO NOT USE DRY
+    CHEMICALS, CARBON DIOXIDE OR HALOGENATED AGENTS.
+Unusual Fire/Explosion Hazard:REMOVE CONTAINERS FROM FIRE ARE IF
+    POSSIBLE. IF THIS IS NOT POSSIBLE THEN COOL SURROUNDING CONTAINERS
+    WITH WATER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PERSONAL PROTECTIVE EQUIPMENT. SWEEP UP
+    SPILLED MATERIAL INTO SUITABLE DISPOSAL CONTAINERS. AVOID CONTACT
+    WITH COMBUSTIBLE MATERIALS. ABSORB LIQUID SPILLS WITH SAND - DO NOT
+    USE COMBUSTIBLE ABSOR BANTS. DIKE LARGE LIQUID SPILLS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN TIGHTLY CLOSED CONTAINERS IN
+    A COOL, DRY, WELL-VENTILATED AREA. AVOID STORAGE WITH COMBUSTIBLE
+    MATERIALS. AVOID CONTACT WITH SKIN, EYES AND CLOTHING. BATHE AND
+    WASH CLOTHING AFTER HANDLING.
+Other Precautions:POTASSIUM NITRATE IS AN OXIDIZER. IT MAY SUPPORT
+    BURNING OR EXPLOSION WHEN MIXED WITH COMBUSTIBLE MATERIALS AND
+    IGNITED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE RESPIRATOR TO AVOID INHALATION.
+Ventilation:USE EXHAUST VENTILATION TO AVOID INHALATION.
+Protective Gloves:WEAR PROTECTIVE GLASSES TO PROTECT EYES.
+Eye Protection:WEAR GLOVES.
+Other Protective Equipment:WEAR GLOVES, BOOTS AND WORK CLOTHES TO
+    PROTECT SKIN.
+Work Hygienic Practices:HMIS: MAINTAIN EYE WASH FOUNTAIN AND QUICK
+    DRENCH FACILITIES IN WORK AREA.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:D1
+Melt/Freeze Pt:=333.9C, 633.F
+Decomp Temp:=400.C, 752.F
+Vapor Pres:NONE
+Solubility in Water:31G IN 100G H20
+Appearance and Odor:WHITE SOLID.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+POTASSIUM NITRATE IS STABLE UNDER NORMAL NORMAL STORAGE CONDITIONS BUT
+    IS AN OXIDIZER & MAY BURN VIGOROUSLY OR EXPLODE WHEN MIXED WITH
+    COMBUSTIBLES MATERIALS & IGNITED.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:HMIS: WHATEVER CANNOT  BE SAVED FOR RECOVERY OR
+    RECYCLING SHOULD BE HANDLED AS HAZARDOUS WASTE & SENT TO A RCRA
+    APPROVED WASTE FACILITY. PROCESSING, USE OR CONTAMINATION OF THIS
+    PRODUCT MAY CHANGE THE  WASTE MANAGEMENT OPTIONS. STATE & LOCAL
+    DISPOSAL REGULATIONS MAY DIFFER FROM FEDERAL DISPOSAL REGUL ATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

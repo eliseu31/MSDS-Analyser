@@ -1,0 +1,149 @@
+=====================  Product Identification  =====================
+
+Product ID:PAINT STENCIL SAND 101D6
+MSDS Date:03/19/1990
+FSC:8010
+NIIN:00-226-3906
+MSDS Number: BJDRY
+=== Responsible Party ===
+Company Name:CARBIT PAINT
+Address:927 W. BLACKHAWK
+City:CHICAGO
+State:IL
+ZIP:60622
+Country:US
+Info Phone Num:312-280-2300
+Emergency Phone Num:312-280-2300
+Preparer's Name:RICHARD E. TRISPEL
+CAGE:18537
+=== Contractor Identification ===
+Company Name:CARBIT PAINT
+Address:927 W. BLACKHAWK
+Box:City:CHICAGO
+State:IL
+ZIP:60622
+Country:US
+Phone:312-280-2300/FAX 312-280-7326
+CAGE:18537
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:IRON OXIDE
+CAS:1332-37-2
+RTECS #:NO7380000
+Fraction by Wt: <99.9%
+OSHA PEL:10 MG/M3
+ACGIH TLV:10 MG/M3
+
+Ingred Name:BLACK IRON OXIDE
+CAS:1309-38-2
+RTECS #:OM4800000
+Fraction by Wt: <99.9%
+OSHA PEL:10 MG/M3
+ACGIH TLV:10 MG/M3
+
+Ingred Name:ETHYLENE GLYCOL  (SARA III)
+CAS:107-21-1
+RTECS #:KW2975000
+Fraction by Wt: 2.08%
+OSHA PEL:C 50 PPM
+ACGIH TLV:C 50 PPM,VAPOR; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:TALC (NON-ASBESTOS)
+CAS:14807-96-6
+RTECS #:VV7720000
+Fraction by Wt: <99.9%
+ACGIH TLV:2.0 MG/M3
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:1000 MGKG ORAL, RAT, (IRON OXIDE)
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Health Hazards Acute and Chronic:ACUTE: INHALATION: MAY IRRITATE THE
+    UPPER RESPIRATORY TRACT. MAY CAUSE CENTRAL NERVOUS SYSTEM
+    DEPRESSION. INGESTION: MAY DAMAGE KIDNEYS, ALSO MAY CAUSE CENTRAL
+    NERVOUS SYSTEM DEPRESSION.
+Effects of Overexposure:MAY IRRITATE THE EYES. MAY IRRITATE THE
+    RESPIRATORY TRACT. PROLONGED EXPOSURE MAY CAUSE HEADACHE AND
+    NAUSEA. SKIN CONTACT MAY RESULT IN IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:MOVE TO FRESH AIR. FLUSH EYES WITH WATER FOR 15 MINUTES. WASH
+    SKIN WITH SOAP & WATER. REMOVE CONTAMINATED CLOTHING. CALL
+    PHYSICIAN IMMEDIATELY. INDUCE VOMITING. IF SWALLOWED, CALL POISON
+    CENTER AT 1-8 00-942-5969 RUSH TO HOSPITAL, APPLY ARTIFICIAL
+    RESPIRATION IF NECESSARY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Lower Limits:0.VOL IN AIR
+Upper Limits:0.VOL IN AIR
+Extinguishing Media:WATER BASED PAINT: DOES NOT APPLY.
+Fire Fighting Procedures:WATER BASED PAINT: DOES NOT APPLY.
+Unusual Fire/Explosion Hazard:WATER BASED PAINT: DOES NOT APPLY.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB WITH AN ABSORBANT MATERIAL & DISPOSE OF
+    IN AN APPROVED MANNER. DIKE AREAS WITH SAND TO CONTAIN SPILLED
+    LIQUID. SWEEP UP SPILLED MATERIAL WITH A BROOM & PLACE IN WASTE
+    CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:OVERHEATING MAY CAUSE CONTAINER TO
+    RUPTURE.
+Other Precautions:CHECK ALL CONTAINERS FOR LEAKS. AVOID PROLONGED
+    BREATHING OR CONTACT WITH SKIN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR MUST BE WORN IF
+    TLV LIMIT IS EXCEEDED CEILING (50 PPM-125 MG/M3) FOR ETHYLENE
+    GLYCOL.
+Ventilation:PROVIDE ADEQUATE CROSS AIR CIRCULATION. EXHAUST AT POINT OF
+    USE.
+Protective Gloves:GLOVES IMPERVIOUS TO SOLVENTS, NEOPRENE.
+Eye Protection:SAFETY GOGGLES.
+Other Protective Equipment:EYEWASH STATION. EMERGENCY SHOWER.
+Work Hygienic Practices:DO NOT INHALE OR SWALLOW DUST. DO NOT SMOKE,
+    EAT IN WORK AREA. WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:212F,100C
+Melt/Freeze Pt:M.P/F.P Text:32.0F,0.0C
+Vapor Pres:17.29 @20C
+Vapor Density:LIGHTER
+Spec Gravity:1.3
+Evaporation Rate & Reference:SLOWER (N-BUTYL ACETATE)
+Solubility in Water:APPRECIABLE/10.-99.9
+Appearance and Odor:SAND COLOR WITH A VERY MILD ODOR.
+Percent Volatiles by Volume:64.83
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS AND STRONG ACIDS.
+Hazardous Decomposition Products:OXIDES OF CARBON.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE AND
+    FEDERAL REGULATIONS. DISPOSE OF IN ACCORDANCE WITH LOCAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

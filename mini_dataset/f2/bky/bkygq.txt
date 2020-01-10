@@ -1,0 +1,115 @@
+=====================  Product Identification  =====================
+
+Product ID:INDUSTRON
+MSDS Date:10/01/1989
+FSC:8010
+NIIN:00-108-5912
+MSDS Number: BKYGQ
+=== Responsible Party ===
+Company Name:SPECTRA-TONE PAINT CORPORATION
+Address:9635-43 KLINGERMAN STREET
+City:S. EL MONTE
+State:CA
+ZIP:91733
+Info Phone Num:(818) 442-7269
+Emergency Phone Num:(213) 686-1246
+CAGE:52100
+=== Contractor Identification ===
+Company Name:SPECTRA-TONE PAINT CORP
+Address:1595 E SAN BERNADINO AVE
+Box:City:SAN BERNADINO
+State:CA
+ZIP:92408-2946
+Country:US
+Phone:800-272-4687/818-442-7269
+CAGE:52100
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MEDIUM ALIPHATIC NAPHTHA (AROMATIC 100), PARAFFIN-NAPTHANES
+    MINERAL SPIRITS
+CAS:64742-88-7
+Fraction by Wt: 28%
+Other REC Limits:100 PPM
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: HEADACHE, NAUSEA,
+    DIZZINESS, LASSITUDE, LOSS OF COORDINATION OR CONSCIOUSNESS.
+    INGESTION: ASPIRATION OF VOMITUS MAY RESULT IN CHEMICAL PNEUMONITIS
+    & PULMONARY EDEMA.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: HEADACHE, NAUSEA, DIZZINESS,
+    LASSITUDE, LOSS OF COORDINATION OR CONSCIOUSNESS. INGESTION:
+    ASPIRATION OF VOMITUS MAY RESULT IN CHEMICAL PNEUMONITIS &
+    PULMONARY EDEMA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR, GIVE ARTIFICIAL RESPIRATION
+    IF BREATHING HAS STOPPED. EYES: FLUSH W/COPIOUS AMOUNTS OF WATER.
+    SKIN: WASH W/SOAP & WATER. INGESTION: DON'T INUDCE VOMITING. OBTAIN
+    MEDIC AL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:120F
+Extinguishing Media:USE FOAM, DRY CHEMICAL, CO2, WATER FOG
+Fire Fighting Procedures:SCBA RECOMMENDED. WATER MAY BE UNSUITABLE AS
+    AN EXTINGUISHING MEDIUM. USE WATER TO COOL CINTAINERS/SURFACES.
+    NEVER USE A DIRECT STREAM OF WATER.
+Unusual Fire/Explosion Hazard:VAPORS ARE >AIR & TRAVEL ALONG GROUND TO
+    AN IGNITION SOURCE/MAY ACCUMULATE IN LOW AREAS OF POOR VENTILATION.
+    CLOSED CONTAINERS CAN BUILDUP WHEN EXPOSED TO HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE SOURCES OF IGNITION, INCLUDING HOT
+    METAL SURFACES. CLEAN UP SPILL IMMEDIATELY BY SOAKING UP
+    W/ABSORBANT SUCH AS CLAY, SAND, DIATOMACEOUS EARTH, ETC.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP COOL, DRY, & AWAY FROM IGNITION
+    SOURCES. STORE IN WELL VENTILATED AREA. AVOID CONTACT W/SKIN &
+    EYES. USE W/ADEQUATE VENTILATION.
+Other Precautions:DON'T INHALATION VAPORS. GROUND DRUMS WHEN POURING OR
+    OTHERWISE DISPENSING. DON'T WELD, DRILL, CUT OR HEAT FULL, PARTIAL,
+    OR EVEN EMPTY CONTAINERS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF TLV IS EXCEEDED, USE A NIOSH APPROVED
+    RESPIRATOR OR A SELF CONTAINED BREATHING APPARATUS. USE MECHANICAL
+    FILTER TO REMOVE SOLID AIRBORNE PARTICLES DURING SPRAY APPLICATION.
+Ventilation:PROVIDE SUFFICIENT MECHANICAL VENTILATION TO KEEP AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:45%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, STRONG ACIDS/BASES, SELECTED AMINES.
+Stability Condition to Avoid:SOURCES OF IGNITION, HOT METAL SURFACES,
+    HEAT, SPRARKS, OPEN FLAME.
+Hazardous Decomposition Products:CO, CO2, UNIDENTIFIED ORGANIC
+    COMPOUNDS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PLACE IN NON-LEAKING CONTAINERS & DISPOSE OF IN
+    ACCORDANCE W/APPLICABLE LOCAL, COUNTY, STATE & FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

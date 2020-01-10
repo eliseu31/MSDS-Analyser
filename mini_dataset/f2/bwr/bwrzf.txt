@@ -1,0 +1,174 @@
+=====================  Product Identification  =====================
+
+Product ID:158 2352;EKTACOLOR RA BLEACH FIXER/RA-4;W/S;KAN 966214
+MSDS Date:06/05/1997
+FSC:6750
+NIIN:01-376-5884
+Kit Part:Y
+MSDS Number: BWRZF
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-722-5151
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+Company Name:EASTMAN KODAK CO US CUSTOMER SERVICE/GOVERNMENT SALES
+Address:800 LEE RD
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-3129
+Country:US
+Phone:800-828-6203
+CAGE:5K871
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 85-90%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:AMMONIUM THIOSULFATE
+CAS:7783-18-8
+RTECS #:XN6465000
+Fraction by Wt: 5-10%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:SODIUM BISULFITE  (SASA III)
+CAS:7631-90-5
+RTECS #:VZ2000000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ACETIC ACID  (SARA III)
+CAS:64-19-7
+RTECS #:AF1225000
+Fraction by Wt: 1-5%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:10 PPM
+ACGIH TLV:10 PPM/15 STEL; 9394
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:FERRIC AMMONIUM ETHYLENEDIAMINETETRAACETIC ACID
+CAS:21265-50-9
+Fraction by Wt: 1-5%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:TLV FOR ACETIC ACID IS 10 PPM TWA
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES:MAY CAUSE
+    IRRITATION.SKIN:EXPECTED TO BE A LOW HAZARD.INGEST:EXPECTED TO BE A
+    LOW HAZARD.INHAL:EXPECTED TO BE A LOW HAZARD.
+Explanation of Carcinogenicity:THERE ARE NO INGREDIENTS ABOVE 0.1%
+    WHICH ARE IDENTIFIED AS CARCINOGENS BY NTP,IARC OR OSHA.
+Effects of Overexposure:EYES:TRANSCIENT IRRITATION.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:REMOVE CONTAMINATED CLOTHING;WASH WITH SOAP AND
+    WATER.GET MEDICAL ATTENTION.EYES:FLUSH WITH WATER FOR 15 MINUTES.
+    GET MEDICAL ATTENTION.INHAL:REMOVE TO FRESH AIR.GIVE OXYGEN OR
+    ARTIFICIAL RESPIRA TION IF NEEDED.INGEST:DO NOT INDUCE VOMITING.GET
+    PROMPT QUALIFIED MEDICAL ATTENTION.IF CONSCIOUS,GIVE 1-2 GLASSES OF
+    WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Lower Limits:NOT GIVEN
+Upper Limits:NOT GIVEN
+Extinguishing Media:USE MEDIA APPROPRIATE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:USE A SELF-CONTAINED BREATHING APPARATUS AND
+    FULL PROTECTIVE EQUIPMENT.
+Unusual Fire/Explosion Hazard:FIRE CONDITIONS MAY EVOLVE TOXIC FUMES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SOAK UP WITH NON-COMBUSTIBLE INERT
+    ADSORBANT(EG.CLAY);PLACE COLLECTED MATERIAL IN AN APPROPRIATE
+    CONTAINER FOR DISPOSAL;CLEAN SPILL AREA TO REMOVE
+    SLIPPERINESS.SMALL SPILLS CAN BE FLUSHED TO SEWER WIT H PLENTY OF
+    WATER.
+Neutralizing Agent:NOT REPORTED.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL,DRY,WELL-VENTILATED
+    PLACE. KEEP CONTAINER CLOSED WHEN NOT IN USE.USE WITH ADEQUATE
+    VENTILATION.KEEP AWAY FROM OXIDIZERS.
+Other Precautions:FOLLOW LABEL DIRECTIONS.AVOID BREATHING VAPORS.AVOID
+    SKIN AND EYE CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NEEDED IN NORMAL SERVICE.
+Ventilation:USE GENERAL DILUTION VENTILATION.MFR RECOMMENDS 10 AIR
+    CHANGES/HOUR.
+Protective Gloves:IMPERVIOUS
+Eye Protection:SAFETY GLASSES WITH SIDESHIELDS.
+Other Protective Equipment:PROTECTIVE CLOTHING,AS NEEDED.PROVIDE A
+    LOCAL EYE WASH STATION AND SAFETY SHOWER.
+Work Hygienic Practices:WASH HANDS.SEPERATE WORK CLOTHES FROM STREET
+    CLOTHES.LAUNDER WORK CLOTHES BEFORE REUSE.KEEP FOOD OUT OF THE WORK
+    AREA.
+Supplemental Safety and Health
+KEY1;C3.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C3
+Boiling Pt:B.P. Text:>212F,>100C
+Melt/Freeze Pt:M.P/F.P Text:NOT GIVEN
+Vapor Pres:18
+Vapor Density:0.6
+Spec Gravity:1.06
+pH:5.4
+Evaporation Rate & Reference:NOT GIVEN
+Solubility in Water:COMPLETE
+Appearance and Odor:LIQUID;DARK RED;SLIGHT AMMONIA.
+Percent Volatiles by Volume:85-90
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS,BASES AND OXIDIZERS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:AMMONIA,SULFUR
+    DIOXIDE,CHLORAMINE,OXIDES OF NITROGEN.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH FEDERAL,STATE AND
+    LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

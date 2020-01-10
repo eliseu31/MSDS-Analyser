@@ -1,0 +1,147 @@
+=====================  Product Identification  =====================
+
+Product ID:DISLON NS-30
+MSDS Date:11/04/1992
+FSC:8010
+NIIN:00N057348
+MSDS Number: BWRQJ
+=== Responsible Party ===
+Company Name:KING INDUSTRIES INC
+Address:SCIENCE RD
+Box:588
+City:NORWALK
+State:CT
+ZIP:06852
+Country:US
+Info Phone Num:203-866-5551
+Emergency Phone Num:800-424-9300(CHEMTREC)
+Preparer's Name:L J CALBO
+CAGE:KINGI
+=== Contractor Identification ===
+Company Name:KING INDUSTRIES INC
+Address:SCIENCE RD
+Box:588
+City:NORWALK
+State:CT
+ZIP:06852-0588
+Country:US
+Phone:203-866-5551
+CAGE:KINGI
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:XYLENE VP:5.1 @ 20C. LEL:1.0%. LD50(ORAL,RAT):4300 MG/KG
+    (NOTE:TECHNICAL GRADE XYLENE CONTAINS 50% ETHYL BENZENE)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 40-44%
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:BENZENE, ETHYL-; (ETHYLBENZENE) (SARA 313) VP:7.1 @ 20C.
+    LD50(ORAL,RAT):3500 MG/KG.
+CAS:100-41-4
+RTECS #:DA0700000
+Fraction by Wt: 40-44%
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE INGREDIENTS.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:LIQUID CAUSES EYE AND SKIN IRRITATION.
+    EXCESSIVE INHALATION OF VAPORS MAY CAUSE DIZZINESS.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NOT KNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGEST:CALL MD IMMEDIATELY . EYES:FLUSH WITH WATER FOR AT
+    LEAST 15 MINUTES. SKIN:WASH THOROUGHLY WITH SOAP AND WATER. REMOVE
+    CONTAMINATED CLOTHING. INHALATION:REMOVE TO FRESH AIR. IF NOT
+    BREATHI NG, GIVE ARTIFICIAL RESPIRATION, PREFERABLY MOUTH-TO-MOUTH.
+    IF BREATHING IS DIFFICULT, GIVE OXYGEN. CALL A PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:79.0F,26.1C
+Lower Limits:SEE INGS
+Extinguishing Media:FOAM, CO*2, DRY CHEMICAL.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT . USE WATER SPRAY TO KEEP CONTAINERS COOL.
+Unusual Fire/Explosion Hazard:WEHN EXPOSED TO EXTREME TEMPERATURES,
+    CLOSED CONTAINERS MAY EXPLODE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIM ALL SPKS & SOURCES OF IGNIT. VENT AREA.
+    USE NON-SPKG TOOLS. DIKE SPILL W/SAND, EARTH, CLAY GRANULES/OTHER
+    ABSORB SOLID MATL. WEAR FULL PROT CLTHG (GAS MASK, NEOPRENE/BUTYL
+    RUB GLOVES , BOOTS, TYV EK SUIT, EYE PROT) DURING CLEAN UP.
+    SHOVEL(SUPDAT)
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL LOCATION. KEEP CONTAINER
+    CLOSED. DO NOT STORE NEAR OPEN FLAME. MATERIAL SHOULD BE STORED IN
+    LINED OR GLASS CONTAINERS.
+Other Precautions:AVOID STATIC ELEC. USE PROPER BONDING & GROUNDING
+    PROC. AVOID SKIN CONT. AVOID BREATHING VAPS. DO NOT GET IN EYES.
+    SHOULD NOT BE STORED IN HIGH HEAT NOR FOR LONG TIME PERIODS. USE
+    ONLY WITH ADEQUATE V ENTILATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR OR FULL FACE GAS
+    MASK FOR ORGANIC VAPORS SHOULD BE WORN.
+Ventilation:USE WELL ENGINEERED FORCED VENTILATION SYSTEM.
+Protective Gloves:WEAR PROT GLOVES (NEOPRENE/BUTYL RUB).
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGGS(SUPDAT)
+Other Protective Equipment:RUBBER APRON AND BOOTS RECOMMENDED. EYE WASH
+    FOUNTAIN.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+SPILL PROC:UP SPILL AND PLACE IN DRUMS WITH APPROPRIATE INNER DRUM
+    SURFACE. EYE PROT:AND FULL LENGTH FACE SHIELD .
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>277F,>136C
+Vapor Pres:SEE INGS
+Vapor Density:HVR/AIR
+Spec Gravity:0.88 
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Appearance and Odor:STRAW YELLOW PASTE.
+Percent Volatiles by Volume:86
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+WILL SOFTEN POLYETHYLENE, POLYPROPYLENE AND POLYVINYL CHLORIDE
+    CONTAINERS.
+Stability Condition to Avoid:NONE KNOWN.
+Hazardous Decomposition Products:CARBON DIOXIDE, CARBON MONOXIDE,
+    NITROGEN OXIDES AND OTHER LOW MOLECULAR WEIGHT ORGANIC FRAGMENTS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE IN APPROVED FACILITY. DISPOSE OF IN
+    ACCORDANCE WITH LOCAL, STATE AND FEDERAL REGUALTIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

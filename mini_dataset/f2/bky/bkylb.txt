@@ -1,0 +1,179 @@
+=====================  Product Identification  =====================
+
+Product ID:19Y AMERPLATE
+MSDS Date:04/24/1987
+FSC:8040
+NIIN:00-466-5910
+MSDS Number: BKYLB
+=== Responsible Party ===
+Company Name:AMERON PROTECTIVE LININGS DIV
+Address:201 NORTH BERRY STREET
+City:BREA
+State:CA
+ZIP:92621
+Info Phone Num:(714) 529-1951
+Emergency Phone Num:(714) 529-1951
+CAGE:0Y2E4
+=== Contractor Identification ===
+Company Name:AMERON INTERNATIONAL PROTECTIVE COATINGS GROUP
+Address:201 NORTH BERRY ST.
+Box:City:BREA
+State:CA
+ZIP:92821
+Country:US
+Phone:714-529-1951
+CAGE:55849
+Company Name:AMERON PROTECTIVE COATINGS
+Address:201 NORTH BERRY STREET
+Box:1020
+City:BREA
+State:CA
+ZIP:92622-1020
+Country:US
+Phone:714-529-1951
+CAGE:0Y2E4
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHYL ACETATE  (SARA III)
+CAS:141-78-6
+RTECS #:AH5425000
+Fraction by Wt: <35%
+Other REC Limits:400 PPM
+OSHA PEL:400 PPM
+ACGIH TLV:400 PPM; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: <25%
+Other REC Limits:100 PPM
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: <15%
+Other REC Limits:590 MG/CUM
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:BENZIN, NAPHTHA, MINERAL SPIRITS, PETROLEUM NAPHTHA
+CAS:8030-30-6
+RTECS #:DE3030000
+Fraction by Wt: <10%
+Other REC Limits:STEL 400 PPM
+OSHA PEL:500 PPM
+ACGIH TLV:300 PPM
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS)	(SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: <5%
+Other REC Limits:100 PPM
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:CARBON TETRACHLORIDE  (SARA III)
+CAS:56-23-5
+RTECS #:FG4900000
+Fraction by Wt: 0.9%
+Other REC Limits:5 PPM
+OSHA PEL:10 PPM
+ACGIH TLV:S,5PPM/10 STEL,A3 93
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+Ozone Depleting Chemical:1
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): 6.1 G/KG ETHYL ACETATE
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:YES
+Health Hazards Acute and Chronic:INHALATION: HARMFUL, MUCOUS
+    MEMBRANE/RESPIRATORY SYSTEM IRRITATION, LABORED BREATHING,
+    HEADACHE, NAUSEA, DIZZINESS & ASPHYXIATION & PERMANENT
+    BRAIN/NERVOUS SYSTEM DAMAGE. SKIN/EYES: IRRITATION. INGEST ION:
+    HARMFUL, FATAL, KIDNEY & LIVER DAMAGE.
+Explanation of Carcinogenicity:CARBON TETRACHLORIDE IS SUSPECTED TO BE
+    AN A2 CARCINOGEN.
+Effects of Overexposure:INHALATION: HARMFUL, MUCOUS
+    MEMBRANE/RESPIRATORY SYSTEM IRRITATION, LABORED BREATHING,
+    HEADACHE, NAUSEA, DIZZINESS, ASPHYXIATION & PERMANENT BRAIN/NERVOUS
+    SYSTEM DAMAGE. SKIN/EYES: IRRITATION. INGESTI ON: HARMFUL, FATAL,
+    KIDNEY & LIVER DAMAGE.
+Medical Cond Aggravated by Exposure:RESPIRATORY OR URINARY CONDITIONS
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. GIVE OXYGEN OR CPR IF
+    NEEDED. SKIN: WASH THOROUGHLY W/SOAP & WATER. EYES: FLUSH W/PLENTY
+    OF WATER FOR AT LEAST 15 MINS. INGESTION: DON'T INDUCE VOMITING.
+    OBTAIN MEDICA L ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:20F
+Lower Limits:1.1%
+Extinguishing Media:FOAM, CO2, & DRY CHEMICAL.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:CLOSED CONTAINERS MAY EXPLODE WHEN
+    EXPOSED TO EXTREME HEAT. FLAMMABLE CLASS 1B.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE ALL SOURCES OF IGNITION. USE
+    ABSORBENT CLEANUP MATERIALS OR SWEEP UP. PLACE IN SEPARATE
+    CONTAINER. USE EXPLOSION AND SPARK-PROOF EQUIPMENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER CLOSED, UPRIGHT WHEN
+    NOT IN USE. STORE IN COOL, DRY, WELL-VENTILATED AREA. KEEP AWAY
+    FROM FEED & FOOD PRODUCTS. DON'T TAKE INTERNALLY.
+Other Precautions:AVOID BREATHING DUST, VAPORS, SPRAY MIST OR CONTACT
+    W/SKIN & EYES. REMOVE WELDING OR FLAME CUTTING DECOMPOSITION
+    PRODUCTS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE A NIOSH CERTIFIED RESPIRATOR. USE AIR-LINE
+    RESPIRATORS IN CONFINED, RESTRICTED VENTILATION AREAS OR
+    W/POLYURETHANE OR ISOCYANATES.
+Ventilation:PROVIDE SUFFICIENT VENTILATION IN VOLUME & PATTERN TO KEEP
+    AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:79%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS
+Stability Condition to Avoid:IGNITION SOURCES SUCH AS HEAT, OPEN FLAME,
+    ARC, SPARKS, & ELECTRICAL EQUIPMENT.
+Hazardous Decomposition Products:CO, CO2, & HYDROGEN CHLORIDE FUMES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN SEPARATE, CLOSED, METAL CONTAINER IN
+    ACCORDANCE W/LOCAL, STATE, & FEDERAL REGULATIONS. FLAMMABLE CLASS
+    1B. EPA WASTE NO: D001.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

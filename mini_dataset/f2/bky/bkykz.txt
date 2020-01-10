@@ -1,0 +1,165 @@
+=====================  Product Identification  =====================
+
+Product ID:19Y AMERPLATE
+MSDS Date:04/27/1987
+FSC:8040
+NIIN:00-466-5908
+MSDS Number: BKYKZ
+=== Responsible Party ===
+Company Name:AMERON PROTECTIVE LININGS DIV
+Address:201 NORTH BERRY STREET
+City:BREA
+State:CA
+ZIP:92621
+Info Phone Num:(714) 529-1951
+Emergency Phone Num:(714) 529-1951
+CAGE:0Y2E4
+=== Contractor Identification ===
+Company Name:AMERON INTERNATIONAL PROTECTIVE COATINGS GROUP
+Address:201 NORTH BERRY ST.
+Box:City:BREA
+State:CA
+ZIP:92821
+Country:US
+Phone:714-529-1951
+CAGE:55849
+Company Name:AMERON PROTECTIVE COATINGS
+Address:201 NORTH BERRY STREET
+Box:1020
+City:BREA
+State:CA
+ZIP:92622-1020
+Country:US
+Phone:714-529-1951
+CAGE:0Y2E4
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ACETONE  (SARA III)
+CAS:67-64-1
+RTECS #:AL3150000
+Fraction by Wt: <50%
+Other REC Limits:590 MG/CUM
+OSHA PEL:1000PPM
+ACGIH TLV:750PPM/1000STEL;9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: <30%
+Other REC Limits:100 PPM
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS)	(SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: <15%
+Other REC Limits:100 PPM
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:CYCLOPARAFFIN
+Fraction by Wt: <15%
+ACGIH TLV:225 PPM
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): 7.4 G/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: HARMFUL, MUCOUS
+    MEMBRANE/RESPIRATORY SYSTEM IRRITATION, LABORED BREATHING,
+    HEADACHE, NAUSEA, DIZZINESS, ASPHYXIATION & PERMANENT BRAIN/CENTRAL
+    NERVOUS SYSTEM DAMAGE. EYES: IRRITATION. INGE STION: HARMFUL,
+    FATAL, & KIDNEY & LIVERDAMAGE. SKIN; ABSORPTION & IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: HARMFUL, MUCOUS
+    MEMBRANE/RESPIRATORY SYSTEM IRRITATION, LABORED BREATHING,
+    HEADACHE, NAUSEA, DIZZINESS, ASPHYXIATION & PERMANENT BRAIN/CENTRAL
+    NERVOUS SYSTEM DAMAGE. EYES: IRRITATION. INGE STION: HARMFUL,
+    FATAL, & KIDNEY & LIVERDAMAGE. SKIN: ABSORPTION & IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. GIVE OXYGEN OR CPR IF
+    NEEDED. SKIN: WASH THOROUGHLY W/SOAP & WATER. EYES: FLUSH W/PLENTY
+    OF WATER FOR AT LEAST 15 MINS. INGESTION: OBTAIN MEDICAL ATTENTION
+    IN ALL CASE S.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:4F
+Lower Limits:1%
+Extinguishing Media:FOAM, CO2, OR DRY CHEMICAL.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:CLOSED CONTAINERS MAY EXPLODE WHEN
+    EXPOSED TO EXTREME HEAT. FLAMMABLE CLASS 1B.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE ALL SOURCES OF IGNITION. USE
+    ABSORBENT CLEANUP MATERIALS OR SWEEP UP. PLACE IN SEPARATE
+    CONTAINER. USE EXPLOSION & SPARK-PROOF EQUIPMENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER CLOSED, UPRIGHT WHEN
+    NOT IN USE. STORE IN COOL, DRY, WELL-VENTILATED AREA. KEEP AWAY
+    FROM FEED & FOOD PRODUCTS. DON'T TAKE INTERNALLY.
+Other Precautions:AVOID BREATHING DUST, VAPORS, SPRAY MIST OR CONTACT
+    W/SKIN & EYES. REMOVE WELDING OR FLAME CUTTING DECOMPOSITION
+    PRODUCTS. REFER TO 29 CFR, OSHA PARTS 1910, 1915 & 1916 FOR COATING
+    OPERATIONS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE A NIOSH CERTIFIED RESPIRATOR. USE AIR-LINE
+    RESPIRATORS IN CONFINED, RESTRICTED VENTILATION AREAS OR
+    W/POLYURETHANE OR ISOCYANATES.
+Ventilation:PROVIDE SUFFICIENT VENTILATION IN VOLUME & PATTERN TO KEEP
+    <TLV. USE EXPLOSION & SPARK PROOF EQUIPMENT.
+Protective Gloves:NEOPRENE
+Eye Protection:SPLASH-PROOF GOGGLES, FACE SHIELD
+Other Protective Equipment:FULL PROTECTIVE CLOTHING, PROTECTIVE SHOE
+    COVERINGS
+Work Hygienic Practices:WASH THOROUGHLY BEFORE EATING, SMOKING, OR
+    USING WASHROOM. REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:134-282F
+Vapor Pres:180
+Vapor Density:<AIR
+Evaporation Rate & Reference:FASTER THAN ETHER
+Percent Volatiles by Volume:100%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS, ALKALIES
+Stability Condition to Avoid:IGNITION SOURCES SUCH AS HEAT, OPEN FLAME,
+    ARC, SPARKS, & ELECTRICAL EQUIPMENT.
+Hazardous Decomposition Products:CO & CO2.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN SEPARATE, CLOSED, METAL CONTAINER IN
+    ACCORDANCE W/LOCAL, STATE, & FEDERAL REGULATIONS. FLAMMABLE CLASS
+    1B. EPA WASTE NO: D001.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

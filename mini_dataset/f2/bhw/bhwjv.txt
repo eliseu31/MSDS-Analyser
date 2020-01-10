@@ -1,0 +1,169 @@
+=====================  Product Identification  =====================
+
+Product ID:DEV-TAP
+MSDS Date:05/20/1990
+FSC:9150
+NIIN:01-020-2144
+MSDS Number: BHWJV
+=== Responsible Party ===
+Company Name:ITW DEVCON CORP, FLUID PRODUCTS GROUP
+Address:30 ENDICOTT ST
+City:DANVERS
+State:MA
+ZIP:01923-3753
+Country:US
+Info Phone Num:508-777-1100
+Emergency Phone Num:508-777-1100/CHEMTREC(800-424-9300)
+CAGE:16059
+=== Contractor Identification ===
+Company Name:DEVCON CORP
+Address:30 ENDICOTT ST
+Box:City:DANVERS
+State:MA
+ZIP:01923-3753
+Country:US
+Phone:1-508-777-1100
+CAGE:16059
+Company Name:DIXIE BEARING
+Box:City:RICHMOND
+State:VA
+CAGE:7A040
+Company Name:EMULTEC INDUSTRIAL PRODUCTS INC
+Address:1150 HAYDEN DR	SUITE 100
+Box:City:CHARROLLTON
+State:TX
+ZIP:75006
+Country:US
+Phone:972-417-1288
+CAGE:0WA27
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL CHLOROFORM (1,1,1-TRICHLOROEHANE) (SARA III)
+CAS:71-55-6
+RTECS #:KJ2975000
+Fraction by Wt: 80-100%
+OSHA PEL:350 PPM/450 STEL
+ACGIH TLV:350 PPM/450STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+Ozone Depleting Chemical:1
+
+Ingred Name:1,4-DIOXANE (DIETHYLENE DIOXIDE) (SARA III)
+CAS:123-91-1
+RTECS #:JG8225000
+Fraction by Wt: 1-5%
+OSHA PEL:S, 100 PPM
+ACGIH TLV:S, 25 PPM; 9293
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT) = 10,300 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:PRODUCT IS IRRITATING TO BODY TISSUES,
+    AND IS A CENTRAL NERVOUS SYSTEM DEPRESSANT. CHRONIC OVER EXPOSURE
+    MAY CAUSE DERMATITIS, LIVER AND/OR KIDNEY DAMAGE.
+Explanation of Carcinogenicity:1,4-DIOXANE IS LISTED AS A SUSPECTED
+    CARCINOGEN BY IARC (2B) AND NTP.
+Effects of Overexposure:HEADACHE, DIZZINESS, DROWSINESS, NAUSEA,
+    TINGLING OR NUMBNESS OF THE EXTREMITIES, SENSES OF FULLNESS IN THE
+    HEAD, SENSE OF WARMTH, STUPOR OR DULLNESS, LETHARGY AND
+    DRUNKENNESS. VERY HIGH CONCENTRATION S MAY LEAD TO UNCONSCIOUSNESS
+    OR EVEN DEATH IN CONFINED OR POORLY VENTILATED AREAS.
+Medical Cond Aggravated by Exposure:PERSONS WITH PRE-EXISTING
+    RESPIRATORY AILMENTS MAY BE AT INCREASED RISK FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH W/WATER 15 MIN, HOLD LIDS OPEN. SKIN:WASH WITH SOAP
+    & WATER. REMOVE CONTAMINATED CLOTHING AND LAUNDER BEFORE REUSE.
+    INHALED:REMOVE TO FRESH AIR. RESTORE BREATHING IF NECESSARY.
+    INGESTED:DO N OT INDUCE VOMITING. GIVE 2 LARGE GLASSES OF MILK OR
+    WATER AND GET IMMEDIATE MEDICAL CARE. GIVE NOTHING BY MOUTH IF
+    UNCONSCIOUS. IF IRRITATION PERSISTS OR IS SEVERE,SEE A DOCTOR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Lower Limits:6.5
+Upper Limits:16
+Extinguishing Media:USE CARBON DIOXIDE, FOAM, DRY CHEMICAL, OR WATER
+    FOG.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS. CLOSED CONTAINERS
+    MAY EXPLODE. CONC. VAPORS WILL EXPLODE IF PROPERLY IGNITED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SMALL SPILL: WIPE UP WITH RAGS OR TOWELS;PLACE
+    AN AN APPROPRIATE CONTAINER FOR DISPOSAL. VENTILATE AREA. RESIDUE
+    WILL EVAPORATE QUICKLY. DO NOT FLUSH TO SEWER OR WATERWAY.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL-VENTILATED
+    LOCATION, AWAY FROM ANY AREA WHERE THE FIRE HAZARD MAY BE ACUTE.
+    KEEP CONTAINERS CLOSED WHEN NOT IN USE.
+Other Precautions:VAPORS ARE HEAVIER THAN AIR AND WILL COLLECT IN LOW
+    AREAS. THIS MATERIAL OR ITS VAPORS WHEN IN CONTACT WITH FLAMES, HOT
+    GLOWING SURFACES OR ELECTRIC ARCS CAN DECOMPOSE TO FORM HYDROGEN
+    CHLORIDE GAS AN D TRACES OF PHOSGENE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED AIR SUPPLIED RESPIRATOR
+    OR RESPIRATOR FOR ORGANIC VAPOR IF EXPOSURE IS ABOVE THE TLV/PEL.
+    IF EXPOSED ABOVE 1000 PPM USE ONLY A SUPPLIED AIR RESPIRATOR. SEE
+    29 CFR 1910.134 FOR  REGULATIONS PERTAINING TO RESPIRATOR USE
+Ventilation:NORMAL ROOM VENTILATION IS SUFFICIENT. SUPPLEMENT WITH
+    LOCAL EXHAUST IF PEL/TLV IS EXCEEDED.
+Protective Gloves:NEOPRENE, PVA GLOVES RECOMMENDED.
+Eye Protection:CHEMICAL SAFETY GOGGLES & FACE SHIELD.
+Other Protective Equipment:APRON AND WORK CLOTHING TO MINIMIZE
+    EXPOSURE. EYE WASH STATION & SAFETY SHOWER RECOMMENDED.
+Work Hygienic Practices:USE GOOD CHEMICAL HYGIENE PRACTICE. AVOID
+    UNNECESSARY CONTACT.
+Supplemental Safety and Health
+TARGET ORGANS ARE SKIN, CNS, CVS, AND EYES.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T4
+Boiling Pt:B.P. Text:165F,74C
+Vapor Pres:100
+Vapor Density:4.6
+Spec Gravity:1.3
+pH:7@5%
+Evaporation Rate & Reference:>1 (BUTYL ACETATE = 1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:CLEAR COLORLESS LIQUID, ETHER-LIKE ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+WATER, ALKALIES, OXIDIZING AGENTS, POWDERED ALUMINUM AND ZINC.
+Stability Condition to Avoid:HIGH TEMPERATURES AND OPEN FLAMES.
+Hazardous Decomposition Products:WHEN INVOLVED IN FIRE, PRODUCT EMITS
+    HIGHLY TOXIC AND IRRITATING FUMES OF HYDROGEN CHLORIDE AND
+    PHOSGENE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH FEDERAL,STATE AND
+    LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

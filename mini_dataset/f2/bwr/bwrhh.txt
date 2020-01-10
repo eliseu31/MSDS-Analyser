@@ -1,0 +1,125 @@
+=====================  Product Identification  =====================
+
+Product ID:CANON FX1
+MSDS Date:02/12/1991
+FSC:6850
+NIIN:01-365-9568
+MSDS Number: BWRHH
+=== Responsible Party ===
+Company Name:CARTRIDGE TECHNOLOGY NETWORK
+Address:512 HERNDON PARKWAY
+City:HERNDON
+State:VA
+ZIP:22070-5225
+Country:US
+Info Phone Num:703-318-0500
+Emergency Phone Num:703-318-0500
+CAGE:0LUE9
+=== Contractor Identification ===
+Company Name:CARTRIDGE TECHNOLOGY NETWORK
+Address:512 HERNDON PARKWAY
+Box:City:HERNDON
+State:VA
+ZIP:22070-5225
+Country:US
+Phone:703-318-0500
+CAGE:0LUE9
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:STYRENE ACRYLATE COPOLYMER,
+CAS:25153-46-2
+Fraction by Wt: 40-50%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:IRON OXIDE
+CAS:1317-61-9
+Fraction by Wt: 25-45%
+OSHA PEL:10 MG/M3
+ACGIH TLV:5 MG/M3
+
+Ingred Name:CARBON BLACK
+CAS:1333-86-4
+RTECS #:FF5800000
+Fraction by Wt: <10%
+Other REC Limits:2.5 MG/M3 (MFR)
+OSHA PEL:3.5 MG/M3
+ACGIH TLV:3.5 MG/M3
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:RESPIRATORY IRRITATION IN PROLONGED
+    EXPOSURE TO EXCESSIVE DUST.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:RESPIRATORY AILMENTS CAN BE
+    AGGRAVATED BY EXCESSIVE EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH WITH WATER FOR AT LEAST 15 MINUTES.
+    INHALATION:REMOVE FROM EXPOSURE. INGESTION:DRINK SEVERAL GLASSES OF
+    WATER. SKIN:WASH WITH SOAP AND WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER, FOAM, DRY CHEMICAL, CO*2.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT . AVOID BREATHING SMOKE.
+Unusual Fire/Explosion Hazard:EXCESS DUST IN AIR CAN FORM EXPLOSIVE
+    MIXTURE. COMBUSTIBLE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:COLLECT SPILL WITH VACUUM OR BROOM. AVOID
+    CREATING EXCESS DUST. USE NIOSH/MSHA APPROVED DUST MASK.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL, DRY, VENTILATED AREA.
+    AVOID BREATHING EXCESS DUST.
+Other Precautions:NOT APPLICABLE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:OSHA NIOSH/MSHA APPROVED NUISANCE DUST MASK.
+Ventilation:LOCAL EXHAUST:VENTILATE WORK AREA.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGGS .
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:AVOID PROLONGED BREATHING OF DUST.
+Supplemental Safety and Health
+SPEC GRAV:1.5 TO 1.7 (H*2O=1).
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:M.P/F.P Text:>248F,>120C
+Spec Gravity:SUPP DATA
+Solubility in Water:NOT SOLUBLE
+Appearance and Odor:FINE BLACK POWDER, RESIN ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DO NOT INCINERATE. FOLLOW FEDERAL, STATE AND
+    LOCAL REGULATIONS CONCERNING FINE NUISANCE DUST CONTAINMENT.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

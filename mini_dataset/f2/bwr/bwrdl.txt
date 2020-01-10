@@ -1,0 +1,212 @@
+=====================  Product Identification  =====================
+
+Product ID:62-0847-8530-2, SCOTCH-GRIP 847 RUBBER & (SUPDAT)
+MSDS Date:11/20/1992
+FSC:8040
+NIIN:01-168-0440
+MSDS Number: BWRDL
+=== Responsible Party ===
+Company Name:MINNESOTA MINING AND MFG CO
+Address:3M CTR
+City:SAINT PAUL  (FORMALLY IN DETROITT, MI)
+State:MN
+ZIP:55144-1000
+Country:US
+Info Phone Num:612-733-1341/612-733-1110
+Emergency Phone Num:612-733-1341
+CAGE:76381
+=== Contractor Identification ===
+Company Name:MINNESOTA MINING AND  MFG CO, DBA 3M
+Address:3M CENTER BLDG 224-5S-04
+Box:City:SAINT PAUL
+State:MN
+ZIP:55144-1000
+Country:US
+Phone:866-556 5712 / 612-733-1110
+CAGE:76381
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ACETONE (SARA 313) (CERCLA)   BP: 132F, 56C.  FL PT: 0F,
+    -18C.
+CAS:67-64-1
+RTECS #:AL3150000
+Fraction by Wt: 60-70%
+OSHA PEL:1000 PPM
+ACGIH TLV:750 PPM; 1000 STEL
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ACRYLONITRILE BUTADIENE POLYMER
+CAS:9003-18-3
+Fraction by Wt: 10-20%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:PHENOL FORMALDEHYDE RESIN; (PHENOL-FORMALDEHYDE POLYMER)
+CAS:9003-35-4
+Fraction by Wt: 7-13%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:GLYCEROL ESTERS OF ROSIN ACIDS
+CAS:8050-31-5
+Fraction by Wt: 7-13%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:SALICYLIC ACID
+CAS:69-72-7
+RTECS #:VO0525000
+Fraction by Wt: 1-5%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:ZINC OXIDE (SARA 313) (CERCLA)
+CAS:1314-13-2
+RTECS #:ZH4810000
+Fraction by Wt: <2%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST
+
+Ingred Name:ANTIOXIDANT
+CAS:68411-46-1
+Fraction by Wt: <1%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:VOLATILE ORGANIC COMPOUND & VOC LESS H*2O & EXEMPT SOLVENT:
+    583 G/L SAQMD RULE 443.1, CALCULATED
+RTECS #:9999999VO
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:SPILL PROC: TOOLS. COVER W/ABSORB MATL. PLACE IN U.S.
+    DOT-APPROVED CONTAINER & SEAL.
+RTECS #:9999999ZZ
+
+Ingred Name:VENT: NOT ADEQUATE, USE APPROPRIATE NIOSH/MSHA APPROVED
+    RESPIRATORY PROTECTION.
+RTECS #:9999999ZZ
+
+Ingred Name:PROT GLOVES: ETHYLENE VINYL ALCOHOL,
+    POLYTETRAFLUOROETHYLENE (TEFLON).
+RTECS #:9999999ZZ
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: MOD IRRIT. SIGNS/SYMPS:REDNESS,
+    SWELL, PAIN, TEARING & HAZY VISION. SKIN: MILD IRRIT AFTER
+    PRLNG/RPTD CNTCT. SIGNS/SYMPS:REDNESS, SWELL & ITCH. INHAL: CNS
+    DEPRESS. SIGNS/SYMPS:HDCH, DIZZ, DROW,  INCOORDINATION, SLOWED RXN
+    TIME, SLURRED SPEECH, GIDD & UNCON. IRRIT (UPPER RESP).
+    SIGNS/SYMPS: (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:HLTH HAZ: SORENESS OF NOSE & THROAT, COUGH,
+    SNEEZING. INGEST: IRRIT OF GI TISS. SIGNS/SYMPS:PAIN, VOMIT, ABDOM
+    TENDERNESS, NAUS, BLOOD IN VOMITUS & IN FECES. WHILE FOLLOWING EFTS
+    ARE ASSOC W/ONE OR MO RE INGREDS IN PROD & ARE REQD TO BE INCLUDED
+    ON MSDS BY OSHA, THEY ARE NOT EXPECTED EFTS DURING FORESEEABLE USE
+    (SUPDAT)
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: IMMED FLUSH EYES W/LARGE AMOUNTS OF WATER FOR AT LEAST
+    15 MIN. GET IMMED MED ATTN. SKIN: FLUSH SKIN W/LARGE AMOUNTS OF
+    WATER. IF IRRIT PERSISTS, GET MED ATTN. INHAL: REMOVE TO FRESH AIR.
+    IF NOT  BREATHING, GIVE ARTF RESP. IF BREATHINGIS DIFFICULT, GET
+    IMMED MED ATTN. INGEST: CALL MD IMMED. ONLY INDUCE VOMITING AT
+    INSTRUCTION OF MD. NEVER GIVE ANYTHING BY MOUTH TO AN UNCONSCIOUS
+    PERSON.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:0F,-18C
+Lower Limits:2.6%
+Upper Limits:12.8%
+Extinguishing Media:CARBON DIOXIDE, DRY CHEMICAL, FOAM.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:CLSD CNTNRS EXPOSED TO HEAT FROM FIRE MAY
+    BUILD PRESS & EXPLODE. VAPS MAY TRAVEL LONG DISTANCES ALONG GROUND
+    OR FLOOR TO IGNITION SOURCE & FLASH BACK.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REFER TO OTHER SECTIONS OF MSDS FOR INFO
+    REGARDING PHYSICAL & HLTH HAZS, RESP PROT, VENT & PERSONAL PROT
+    EQUIP. CALL 612-733-1110 OR 612-733-6100 FOR 24-HR SPILL
+    ASSISTANCE. VENT AREA. EXTING ALL IGNI T SOURCES. COLLECT USING
+    NON-SPARKING (ING 9)
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER CLOSED WHEN NOT IN USE.
+    KEEP OUT OF THE REACH OF CHILDREN. DO NOT INGEST.
+Other Precautions:KEEP CNTNR TIGHTLY CLSD. FLAMM LIQ & VAP. KEEP AWAY
+    FROM HEAT, SPK, OPEN FLAME & OTHER SOURCES OF IGNIT. GROUND CNTNRS
+    SECURELY WHEN TRANSFERRING CONTENTS. WEAR LOW STATIC OR PROPERLY
+    GROUNDED SHOES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AVOID PROLONGED BREATHING OF VAPORS. SELECT ONE
+    OF FOLLOWING NIOSH/MSHA APPRVD RESPIRATORS BASED ON AIRBORNE
+    CONCENTRATION OF CONTAMINANTS & IN ACCORDANCE W/OSHA REGULATIONS:
+    HALF-MASK ORGANIC VAPOR R ESPIRATOR.
+Ventilation:USE IN WELL-VENT AREA. PROVIDE SUFFICIENT VENT TO MAINTIAN
+    EMISSIONS BELOW RECOM EXPOS LIMS. IF EXHST VENT IS (ING 10)
+Protective Gloves:BUTYL RUBBER, POLYETHYLENE/ (ING 11)
+Eye Protection:ANSI APPRVD CHEM WORKERS GOGGLES .
+Other Protective Equipment:EYE WASH FOUNTAIN & DELUGE SHOWER MEETING
+    ANSI DESIGN CRITERIA .
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+MFR'S TRADE NAME/PART #: GASKET ADHESIVE. EFTS OF OVEREXP: OF PROD.
+    INGEST: CNS DEPRESS. SIGNS/SYMPS:HDCH, DIZZ, DROW, MUSC WEAK,
+    INCOORDINATION, SLOWED RXN TIME, FATG, BLURRED VISION, SLURRED
+    SPEECH,  GIDD, TREMORS & CONVLS. ASPIR PNEUM. SIGNS/SYMPS:COUGH,
+    DFCLTY BRTHG, WHEEZ, COUGHING BLOOD & PNEUM WHICH CAN BE FATAL.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:B.P. Text:SEE ING 1
+Vapor Pres:180 @ 68F
+Vapor Density:2
+Spec Gravity:0.91
+Evaporation Rate & Reference:1.9
+Solubility in Water:SLIGHT
+Appearance and Odor:DARK BROWN LIQUID; SHARP SOLVENT ODOR.
+Percent Volatiles by Volume:64 WT
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:CARBON MONOXIDE & CARBON DIOXIDE,
+    OXIDES OF NITROGEN, HYDROGEN CYANIDE, ALDEHYDES, KETONES,
+    HYDROCARBS, OXIDES OF ZINC.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCIN IN PERMITTED HAZ WASTE INCIN IN PRESENCE
+    OF COMBUST MATL. DISPOSE OF WASTE PROD IN FACILITY PERMITTED TO
+    ACCEPT CHEM WASTE. SINCE REGS VARY, CONSULT APPLIC FED, STATE & LOC
+    REGS OR AUTHS BEFORE  DISP. EPA HAZ WASTE NUMBER: D001 (IGNITABLE).
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

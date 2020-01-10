@@ -1,0 +1,135 @@
+=====================  Product Identification  =====================
+
+Product ID:LUPERSOL 231, 952
+MSDS Date:06/22/1992
+FSC:6810
+NIIN:00N057782
+MSDS Number: BWRVL
+=== Responsible Party ===
+Company Name:PENNWALT CORP INORGANIC CHEMICALS DIV
+Address:THREE PARKWAY
+City:PHILADELPHIA
+State:PA
+ZIP:19102
+Country:US
+Info Phone Num:215-587-7695
+Emergency Phone Num:215-587-7695
+CAGE:IO992
+=== Contractor Identification ===
+Company Name:ELF ATOCHEM NORTH AMERICA INC
+Address:2000 MARKET STREET
+Box:City:PHILADELPHIA
+State:PA
+ZIP:19103-3222
+Country:US
+Phone:800-245-5858
+CAGE:86460
+Company Name:PENNWALT CORP INORGANIC CHEMICALS DIV
+Address:THREE PARKWAY
+Box:City:PHILADELPHIA
+State:PA
+ZIP:19102
+Country:US
+Phone:215-587-7695
+CAGE:IO992
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:1,1-DI-(TERT-BUTYLPEROXY)-3,3,5-TRIMETHYL CYCLOHEXANE;
+    (1,1-BIS (T-BUTYLPEROXY)-3, 3,5-TRIMETHYLCYCLOHEXANE)
+CAS:6731-36-8
+RTECS #:SD8600000
+Fraction by Wt: 92% MIN
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50:(ORAL,RAT) >12,918 MG/KG.
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYE:MILD (TRANSIENT) IRRITATION.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGEST:DO NOT INDUCE VOMITING. GET EMERGENCY MEDICAL
+    ATTENTION. SKIN:FLUSH W/SOAP & WATER. GET MEDICAL ATTENTION.
+    EYE:IMMEDIATELY FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINUTES.
+    GET MEDICAL ATTENTION . INHAL:REMOVE TO FRESH AIR. IF NOT
+    BREATHING, GIVE ARTIFICIAL RESPIRATION. GET MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:114F,46C
+Extinguishing Media:WATER FOG, DRY CHEMICAL, FOAM.
+Fire Fighting Procedures:USE NIOSH/MSHA APPRVD SCBA & FULL PROT EQUIP .
+    IF LARGE AMOUNT IS INVOLVED, EVACUATE AREA & FIGHT FIRE FROM SAFE
+    DISTANCE. COOL SURROUNDING MATL W/WATER.
+Unusual Fire/Explosion Hazard:CONTAMINATION, TEMPERATURE - CAN
+    DECOMPOSE W/FORCE IF CONFINED DURING EXPOSURE TO FIRE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE ABSORBENT MATERIAL, SWEEP OR SCOOP UP
+    USING NON-SPARKING TOOLS & DISPOSE OF IMMEDIATELY. PREVENT SPREAD
+    OF SPILL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT GET IN EYES, ON SKIN OR
+    CLOTHING. DO NOT STORE NEAR COMBUSTIBLES. EMPTY CONTAINER MAY
+    CONTAIN HAZARDOUS RESIDUES. KEEP CONTAINER CLOSED.
+Other Precautions:KEEP AWAY FROM HEAT, SPARKS & FLAMES. DO NOT REUSE
+    CONTAINER. STORE <90F (32C) TO MAINTAIN ACTIVE OXYGEN CONTENT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED CAN OR CARTRIDGE, GAS OR
+    VAPOR RESPIRATOR.
+Ventilation:USE W/ADEQUATE VENTILATION. LOCAL EXHAUST.
+Protective Gloves:POLYVINYL CHLORIDE, NEOPRENE, (SUPDAT)
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGGS .
+Other Protective Equipment:DELUGE SHOWER WHICH MEETS ANSI DESIGN
+    CRITERIA . EYEWASH STATION.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+DECOMP TEMP:151F,66C (5 GALLON CONTAINER). PROT GLOVES:BUTYL RUBBER,
+    NATURAL RUBBER GLOVES.
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:M.P/F.P Text:-40F,-40C
+Decomp Temp:Decomp Text:SUPP DATA
+Vapor Density:10.4
+Spec Gravity:0.904 (H*2O=1)
+Solubility in Water:INSOLUBLE
+Appearance and Odor:COLORLESS LIQUID; SLIGHT CAMPHOR ODOR.
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:NO
+STRONG ACIDS, STRONG OXIDIZERS, REDUCING AGENTS.
+Stability Condition to Avoid:EXPOSURE TO HEAT, CONTAMINATION, FLAMES,
+    SPARKS, IGNITION SOURCES.
+Hazardous Decomposition Products:METHANE, ACETONE, T-BUTYL ALCOHOL,
+    CARBON DIOXIDE & OTHER FLAMMABLE PRODUCTS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE I/A/W FEDERAL, STATE & LOCAL
+    REGULATIONS . CONSULT W/ELF ATOCHEM REPRESENTATIVE FOR TELEPHONE
+    NUMBER OF YOUR STATE'S HAZARDOUS WASTE AGENCY.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

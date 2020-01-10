@@ -1,0 +1,118 @@
+=====================  Product Identification  =====================
+
+Product ID:BOILER CASING COMPOUND
+MSDS Date:11/09/1989
+FSC:8030
+NIIN:00-264-3888
+MSDS Number: BJDJM
+=== Responsible Party ===
+Company Name:BAKER SEALANTS & COATINGS COMPANY
+Address:234 SUYDAM AVENUE
+Box:B
+City:JERSEY CITY
+State:NJ
+ZIP:07304
+Country:US
+Info Phone Num:201-333-6986 CHEMTREC 800-424-9300
+Emergency Phone Num:201-333-6986 CHEMTREC 800-424-9300
+CAGE:FO833
+=== Contractor Identification ===
+Company Name:BAKER SEALANTS & COATINGS CO., INC.
+Address:234 SUYDAM AVENUE
+Box:B
+City:JERSEY CITY
+State:NJ
+ZIP:07304-3306
+Phone:(201) 333-6986
+CAGE:FO833
+Company Name:BAKER SEALANTS AND COATINGS CO
+Address:234 SUYDAM AVE
+Box:City:JERSEY CITY
+State:NJ
+ZIP:07304-3306
+Country:US
+Phone:201-333-6986
+CAGE:34094
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NON-HAZARDOUS INGREDIENT
+RTECS #:9999999ZZ
+
+Ingred Name:VEHICLE
+Fraction by Wt: 36%
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Effects of Overexposure:SOME EYE AND SKIN IRRITATION
+Medical Cond Aggravated by Exposure:NIF
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH WATER.  SKIN: WASH WITH SOAP AND WATER. 
+    INHALATION: NK	  INGESTION: NK
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NA
+Extinguishing Media:EXTINGUISH WITH CARBON DIOXIDE, FOAM OR DRY
+    CHEMICAL, USING NORMAL FIRE FIGHTING PROCEDURES.
+Fire Fighting Procedures:NONE
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:LARGE SPILLS:	SCOOP INTO CONTAINERS.	       
+       SMALL SPILLS:  SCOOP INTO CONTAINERS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NORMAL PRECAUTIONS
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NO SPECIAL PRECAUTION REQUIRED.
+Ventilation:NO SPECIAL PRECAUTION REQUIRED
+Protective Gloves:NO SPECIAL PRECAUTION REQUIRED
+Eye Protection:NO SPECIAL PRECAUTION REQUIRED
+Other Protective Equipment:NO SPECIAL PRECAUTION REQUIRED
+Work Hygienic Practices:NORMAL PRECAUTIONS
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:NA
+Melt/Freeze Pt:M.P/F.P Text:NA
+Decomp Temp:Decomp Text:NIF
+Vapor Pres:NA
+Vapor Density:NA
+Spec Gravity:1.61
+pH:NA
+Viscosity:60-100
+Evaporation Rate & Reference:NA
+Solubility in Water:INSOLUBLE
+Appearance and Odor:GRAY COLOR VISCOUS COMPOUND/GREASE ODOR
+Percent Volatiles by Volume:0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NK
+Hazardous Decomposition Products:STRONG OXIDIZING AGENTS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:AS PER FEDERAL, STATE, AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

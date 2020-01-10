@@ -1,0 +1,179 @@
+=====================  Product Identification  =====================
+
+Product ID:ALUMINUM ALLOYS
+MSDS Date:11/21/1985
+FSC:3439
+NIIN:00F019214
+MSDS Number: BLPQZ
+=== Responsible Party ===
+Company Name:EARLE M JORGENSEN CO
+Address:10700 ALAMEDA ST
+City:LYNWOOD
+State:CA
+ZIP:90262
+Info Phone Num:(213) 567-1122
+Emergency Phone Num:(213) 567-1122
+CAGE:88120
+=== Contractor Identification ===
+Company Name:EARLE M JORGENSEN CO
+Address:10700 ALAMEDA ST
+Box:City:LYNWOOD
+State:CA
+ZIP:90262
+Phone:(213) 567-1122
+CAGE:88120
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ALUMINUM  (SARA III)
+CAS:7429-90-5
+RTECS #:BD0330000
+Fraction by Wt: 94.85%
+OSHA PEL:15MG/M3 DUST/5 FUME
+ACGIH TLV:10MG/M3 DUST; 9192
+
+Ingred Name:COBALT  (SARA III)
+CAS:7440-48-4
+RTECS #:GF8750000
+Fraction by Wt: <1-10%
+Other REC Limits:0.05 PPM
+OSHA PEL:0.1 MG/M3;AS CO
+ACGIH TLV:0.05 MG/M3;DUST 9293
+
+Ingred Name:IRON OXIDE
+CAS:1309-37-1
+RTECS #:NO7400000
+Fraction by Wt: 1-10%
+OSHA PEL:10 MG/M3 (FE)
+ACGIH TLV:5 MG/M3(FE),B2; 9293
+
+Ingred Name:LEAD  (SARA III)
+CAS:7439-92-1
+RTECS #:OF7525000
+Fraction by Wt: 0.2-0.7%
+OSHA PEL:0.05 MG/M3;1910.1025
+ACGIH TLV:0.15 MG/M3;DUST 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:MAGNESIUM OXIDE
+CAS:1309-48-4
+RTECS #:OM3850000
+Fraction by Wt: 1-10%
+OSHA PEL:15 MG/M3 PARTICULATE
+ACGIH TLV:10 MG/M3;TDUST; 9293
+
+Ingred Name:MANGANESE  (SARA III)
+CAS:7439-96-5
+RTECS #:OO9275000
+Fraction by Wt: 1-10%
+OSHA PEL:(C) 5 MG/M3 DUST
+ACGIH TLV:5 MG/M3 DUST 9293
+
+Ingred Name:SILICON
+CAS:7440-21-3
+RTECS #:VW0400000
+Fraction by Wt: 1-10%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:TIN
+CAS:7440-31-5
+RTECS #:XP7320000
+Fraction by Wt: 1-10%
+OSHA PEL:2 MG/M3
+ACGIH TLV:2 MG/M3; 9192
+
+Ingred Name:ZINC OXIDE
+CAS:1314-13-2
+RTECS #:ZH4810000
+Fraction by Wt: 1-10%
+OSHA PEL:15MG/M3 TDUST/5 FUME
+ACGIH TLV:10MG/M3 TDUST; 9293
+
+Ingred Name:ZINC OXIDE
+CAS:1314-13-2
+RTECS #:ZH4810000
+Fraction by Wt: 1-10%
+OSHA PEL:15MG/M3 TDUST/5 FUME
+ACGIH TLV:10MG/M3 TDUST; 9293
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: UPPER RESPIRATORY TRACT
+    IRRITATION, NAUSEA, & METAL FUME FEVER. EYES: IRRITATION.
+Explanation of Carcinogenicity:LEAD IS SUSPECTED HUMAN CARCINOGEN BY
+    ACGIH.
+Effects of Overexposure:INHALATION: TOXIC EFFECTS AS CENTRAL NERVOUS
+    SYSTEM DISTURBANCES, RENAL CHANGES, PERIPHERAL NEUROPATHY,
+    GASTROINTESTINAL DISTURBANCES, ANEMIA, & CHROMOSOMAL CHANGES.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: WASH W/SOAP & WATER. EYES: FLUSH W/WATER. OBTAIN
+    MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:DRY POWDER OR SAND
+Fire Fighting Procedures:DON'T USE WATER OR HALOGEN ON DUST FIRES.
+    FLAMMABLE.
+Unusual Fire/Explosion Hazard:SMALL CHIPS/FINE TURNINGS/DUST MAY
+    IGNITE. DAMP ALUMINUM DUST MAY SPONTANEOUSLY HEAT. MOLTEN ALUMINUM
+    MAY EXPLODE ON CONTACT W/WATER & CERTAIN METAL OXIDES.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T TOUCH CAST ALUMINUM METAL OR
+    HEATED ALUMINUM PRODUCT W/O KNOWING METAL TEMP. ALUMINUM
+    EXPERIENCES NO COLOR CHANGE DURING HEATING.
+Other Precautions:ALUMINUM POWDER MUST BE PACKAGED/SHIPPED AS A
+    FLAMMABLE SOLID. HARD ALLOY INGOTS IN THE 2000/7000 SERIES MUST BE
+    STRESS RELIEVED TO PREVENT EXPLOSION WHEN SAWED. DURING
+    MELTING/CUTTING/GRINDING ALUMIN UM ALLOYS ARE CONSIDERED NUISANCE
+    DUST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:APPROPRIATE RESPIRATOR DEPENDS UPON POTENTIAL
+    AIRBORNE CONTAMINANTS & THEIR CONCENTRATIONS. IF >TLV, USE NIOSH
+    APPROVED RESPIRATION EQUIPMENT.
+Protective Gloves:RECOMMENDED FOR SHEET/COIL
+Eye Protection:SAFETY GLASSES OR SHIELD
+Other Protective Equipment:AS NEEDED DEPENDING ON OPERATION & SAFETY
+    CODS.
+Supplemental Safety and Health
+ALUMINUM ALLOYS WILL BE COMPRISED OF VARIOUS COMBINATIONS OF THE
+    ELEMENTS.
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:M.P/F.P Text:900-1200F
+Spec Gravity:2.5-2.9
+Solubility in Water:INSOLUBLE
+Appearance and Odor:METALLIC APPEARANCE, W/NO ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+WATER/STRONG OXIDIZERS & ACIDS/BROMATES/IODATES/AMMONIUM
+    NITRATE/HALOGEN ACIDS/SODIUM HYDROXIDE/COPPER OXIDES/IRON/LEAD
+Hazardous Decomposition Products:HYDROGEN GAS, CO, CO2, OZONE, NITROGEN
+    OXIDES, INGRARED & ULTRAVIOLET RADIATION
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:USED OR UNUSED PRODUCT SHOULD BE TESTED TO
+    DETERMINE HAZARD STATUS & DISPOSAL REQUIREMENTS UNDER FEDERAL,
+    STATE, OR LOCAL LAWS & REGULATIONS. FLAMMABLE SOLID.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

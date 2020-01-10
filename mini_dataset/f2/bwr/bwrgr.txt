@@ -1,0 +1,136 @@
+=====================  Product Identification  =====================
+
+Product ID:SF-830NT1 BLACK TONER
+MSDS Date:04/05/1989
+FSC:6850
+NIIN:01-349-0255
+MSDS Number: BWRGR
+=== Responsible Party ===
+Company Name:SHARP ELECTRONICS CORP
+Address:SHARP PLAZA
+City:MAHWAH
+State:NJ
+ZIP:07430
+Country:US
+Info Phone Num:201-529-8200
+Emergency Phone Num:201-529-9223
+CAGE:18520
+=== Contractor Identification ===
+Company Name:SHARP ELECTRONICS CORP.
+Address:SHARP PLAZA
+Box:City:MAHWAH
+State:NJ
+ZIP:07430-2135
+Country:US
+Phone:201-529-9223
+CAGE:18520
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CARBON BLACK
+CAS:1333-86-4
+RTECS #:FF5800000
+Fraction by Wt: 5-7%
+OSHA PEL:3.5 MG/M3
+ACGIH TLV:3.5 MG/M3
+
+Ingred Name:STYRENE-ACRYLATE COPOLYMER
+Fraction by Wt: 84.0-92%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:POLYPROPYLENE
+Fraction by Wt: 1-3%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:POLYETHYLENE
+CAS:9002-88-4
+RTECS #:TQ3325000
+Fraction by Wt: 1.0-3.0%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:ORGANIC AMMONIUM SALT
+Fraction by Wt: 1-3%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MINIMUM IRRITATION TO RESPIRATORY
+    TRACT MAY OCCUR AS WITH EXPOSURE TO ANY NON-TOXIC DUST.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:ACCUMULATION OF DUST IN THE
+    RESPIRATORY SYSTEM.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGEST:CALL MD IMMEDIATELY . SKIN:FLUSH W/COPIOUS AMOUNTS OF
+    WATER. CALL MD . INHAL:REMOVE TO FRESH AIR IF EFFECTS OCCUR,
+    CONSULT LOCAL MEDICAL PERSONNEL. EYES:IMMEDIATELY FLUSH W/WATER FO
+    R AT LEAST 15 MINUTES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:CO*2, DRY CHEMICAL, FOAM OR WATER.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT . THIS MATERIAL WILL BURN IN THE CASE OF FIRE.
+Unusual Fire/Explosion Hazard:THIS MATERIAL HAS NO UNUSUAL FIRE OR
+    EXPLOSION HAZARDS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP OR CLEAN UP W/VACUUM CLEANER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NO SPECIAL STORAGE REQUIREMENTS FOR
+    SAFETY REASONS.
+Other Precautions:INHALATION SHOULD BE AVOIDED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN . NONE REQUIRED UNDER NORMAL USE.
+Ventilation:NO.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED SAFETY GLASSES .
+Other Protective Equipment:NONE REQUIRED UNDER NORMAL USE.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Spec Gravity:0.3 (H*2O=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:FINE, BLACK POWDER; ODORLESS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE.
+Stability Condition to Avoid:NONE.
+Hazardous Decomposition Products:CO, CO*2 & NO*X.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:WASTE MATERIAL MAY BE DUMPED OR INCINERATED
+    UNDER CONDITIONS WHICH MEET ALL FEDERAL, STATE & LOCAL
+    ENVIRONMENTAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,149 @@
+=====================  Product Identification  =====================
+
+Product ID:LUBRICATING OIL,AA-50493
+MSDS Date:10/15/1992
+FSC:9150
+NIIN:00D003456
+MSDS Number: BWRJG
+=== Responsible Party ===
+Company Name:UNI-KEM INTERNATIONAL INC
+Address:513 HICKORY AVENUE
+City:HARAHAN
+State:LA
+ZIP:70123
+Country:US
+Info Phone Num:504-738-1623
+Emergency Phone Num:504-738-1623
+CAGE:4S446
+=== Contractor Identification ===
+Company Name:UNI-KEM INTERNATIONAL
+Address:1001 HARIMAW COURT EAST
+Box:City:METAIRIE
+State:LA
+ZIP:70001
+Country:US
+Phone:504-835-7600/FAX:504-835-7608
+CAGE:4S446
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:OXYGENATED HYDROCARBON
+Fraction by Wt: 10%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:5 MG/M3 OIL MIST
+ACGIH TLV:5 MG/M3 OIL MIST
+
+Ingred Name:PETROLEUM HYDROCARBON MIXTURE
+RTECS #:SE7546500
+Fraction by Wt: 90%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:5 MG/M3 AS OIL MIST
+ACGIH TLV:5 MG/M3 AS OIL MIST
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:TLV FOR OIL MIST IS 5 MG/M3.
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:TARGET ORGANS:EYES, SKIN, RESPIRATORY
+    AND GASTROINTESTINAL TRACTS. ACUTE- MAY CAUSE EYE IRRITATION. MISTS
+    OR FUMES FROM EXCESSIVE HEATING MAY CAUSE IRRITATION, HEADACHE,
+    DROWSINESS.  ASPIRATION OF MAT ERIAL INTO LUNGS CAN CAUSE LUNG
+    INJURY AND DEATH. CHRONIC- DERMATITIS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:IRRITATION, NAUSEA, DERMATITIS, HEADACHE,
+    DROWSINESS
+Medical Cond Aggravated by Exposure:PERSONS WITH PRE-EXISTING SKIN
+    DISORDERS MAY BE MORE SUSCEPTIBLE TO THE EFFECTS OF THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:CALL A DOCTOR IF SYMPTOMS PERSIST. EYE:IMMEDIATELY FLUSH WITH
+    WATER FOR 15 MINUTES, HOLDING EYELIDS OPEN. SKIN:REMOVE
+    CONTAMINATED CLOTHING. WASH SKIN WITH SOAP & WATER. INHALED:REMOVE
+    TO FRESH AIR. P ROVIDE CPR/OXYGEN IF NEEDED. ORAL:DO NOT INDUCE
+    VOMITING. CALL A PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:258F,126C
+Lower Limits:0.7
+Upper Limits:5.0
+Extinguishing Media:DRY POWDER OR FOAM PREFERRED. DO NOT USE A DIRECT
+    STREAM OF WATER. PRODUCT MAY FLOAT & REIGNITE.
+Fire Fighting Procedures:WEAR FIRE FIGHTING PROTECTIVE EQUIPMENT AND
+    NIOSH-APPROVED SELF CONTAINED BREATHING APPARATUS. COOL FIRE
+    EXPOSED CONTAINERS WITH WATER. BLANKET SPILL WITH FOAM.
+Unusual Fire/Explosion Hazard:DENSE SMOKE MAY BE GENERATED. CONTAINER
+    MAY BURST.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DIKE AND CONTAIN SPILL. DO NOT ALLOW MATERIAL
+    TO ENTER DRAINS, SEWERS OR WATERWAYS. RECOVER MATERIAL IF POSSIBLE.
+    ABSORB SPILL WITH NON-FLAMMABLE ABSORBENT AND PLACE INTO PROPER
+    CONTAINERS FOR DISPOSA L. REMOVE LARGE SPILLS WITH VACUUM TRUCKS OR
+    PUMP.
+Neutralizing Agent:NOT RELEVANT
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL, DRY, VENTILATED PLACE
+    AWAY FROM SOURCES OF IGNITION & STRONG OXIDANTS. KEEP CONTAINERS
+    CLOSED WHEN NOT IN USE.
+Other Precautions:WASH THOROUGHLY AFTER HANDLING AND BEFORE EATING OR
+    DRINKING. DO NOT WELD, HEAT OR DRILL CONTAINER. RESIDUE MAY IGNITE.
+    KEEP OUT OF REACH OF CHILDREN. AVOID REPEATED OR PROLONGED SKIN
+    CONTACT OR INHAL ATION OF VAPORS OR FUMES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NO SPECIAL RESPIRATORY PROTECTION IS NORMALLY
+    REQUIRED. HOWEVER, IF OVERHEATED, USE A NIOSH-APPROVED RESPIRATOR
+    TO PREVENT OVEREXPOSURE.
+Ventilation:USE ADEQUATE VENTILATION TO KEEP OIL MISTS OF THIS MATERIAL
+    BELOW APPLICABLE STANDARD(S).
+Protective Gloves:NEOPRENE/BUTYL FOR REPEATED CONTACT
+Eye Protection:SAFETY GLASSES, FACE SHIELD/GOGGLES
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER.
+    INDUSTRIAL-TYPE WORK CLOTHING AND APRON AS REQUIRED.
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES. DO NOT WEAR CONTAMINATED CLOTHING OR
+    FOOTWEAR.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T6
+NRC/State Lic Num:NOT RELEVANT
+Boiling Pt:B.P. Text:258F - 302F
+Vapor Pres:1 @ 68F
+Vapor Density:4.5
+Spec Gravity:0.8121
+Solubility in Water:NIL
+Appearance and Odor:CLEAR, BROWN LIQUID
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS SUCH AS CHLORINE AND CONCENTRATED OXYGEN
+Stability Condition to Avoid:SOURCES OF IGNITION AND EXCESSIVE HEAT
+Hazardous Decomposition Products:MAY FORM CARBON MONOXIDE, CARBON
+    DIOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF WASTE IN COMPLIANCE WITH ALL
+    APPLICABLE LOCAL, STATE AND FEDERAL LAWS AND REGULATIONS. RCRA
+    EMERGENCY NUMBER: 800-424-9346. DO NOT CONTAMINATE ANY LAKES,
+    STREAMS, PONDS OR UNDERGROUND WATER  SUPPLY. INCINERATE UNDER
+    CONTROLLED CONDITIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

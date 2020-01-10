@@ -1,0 +1,129 @@
+=====================  Product Identification  =====================
+
+Product ID:J-CIL SAE 10W MOTOR OIL
+MSDS Date:01/01/1987
+FSC:9150
+NIIN:00-191-2772
+MSDS Number: BDHWD
+=== Responsible Party ===
+Company Name:E. C. MORRIS CORPORATION
+Address:1205 BOWMAN STREET
+City:WOOSTER
+State:OH
+ZIP:44691
+Country:US
+Info Phone Num:216-264-1126
+Emergency Phone Num:216-264-1126
+CAGE:KO558
+=== Contractor Identification ===
+Company Name:E. C. MORRIS CORPORATION
+Address:1205 BOWMAN STREET
+Box:City:WOOSTER
+State:OH
+ZIP:44691
+Country:US
+Phone:216-264-1126
+CAGE:KO558
+Company Name:MORRIS E C CORP
+Address:201 QUADRAL DR
+Box:City:WADSWORTH
+State:OH
+ZIP:44281
+Country:US
+Phone:216-264-1126
+CAGE:5X433
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:REFINED PETROLEUM OIL (LD50,ORAL RAT:>15G/KG),TAKE TLV AS
+    OIL MIST.
+Fraction by Wt: 91.0%
+ACGIH TLV:5MG/CUM(OILMIST
+
+Ingred Name:DETERGENT INHIBITOR (CONTAINS ZINC DIALKYLDITHIOPHOSPHATE)
+Fraction by Wt: 8.6%
+ACGIH TLV:NOT SPECIFIED
+
+Ingred Name:POUR DEPRESSANT (LD50,ORAL-RAT:60.3GM/KG)
+Fraction by Wt: 0.4%
+ACGIH TLV:NOT SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:EYES & SKIN:IRRITATION;
+    INGESTION/INHALATION:CHEMICAL
+    PNEUMONITIS;DROWSINESS,HEADACHE,NAUSEA
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALE:REMOVE TO FRESH AIR, GIVE CPR/O*2 IF
+    NEED;EYES/SKIN:FLUSH W LG AMTS H*2O FOR 15 MIN;INGEST:RINSE MOUTH;
+    GET MEDICAL ATTENTION FOR EYES, BREATHING DIFFICULTY, OR OTHER
+    SYMPTOMS OF OVEREXPOSURE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:410F/210C (C.O.C
+Extinguishing Media:CO*2,DRY CHEMICAL,FOAM OR WATER FOG.
+Fire Fighting Procedures:NONE NOTED,MAY USE NIOSH/MSHA APPROVED SCBA IN
+    ENCLOSED AREA
+Unusual Fire/Explosion Hazard:WATER MAY CAUSE FROTHING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPER PERSONAL PROTECTION;USE SUITABLE
+    DRY,INERT ABSORBENT MATERIALS AND RECOVER FOR PROPER DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN STEEL DRUM OR TANK BELOW
+    120F;KEEP AWAY FROM HEAT OR OPEN FLAMES.KEEP CONTAINER CLOSED WHEN
+    NOT IN USE.HANDLE EMPTY CONTAINER CAREFULLY.
+Other Precautions:AVOID CONTACT WITH SKIN AND EYES.DO NOT BREATHE
+    VAPORS OR MIST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/APPROVED RESPIRATOR FOR ORGANIC
+    VAPORS/MIST,IF ABOVE TLV
+Ventilation:MECH(GEN)OR LOCAL EXHAUST THAT PROVIDES ADEQUATE
+    VENTILATION
+Protective Gloves:IMPERVIOUS
+Eye Protection:SAFETY/CHEM GOGGLES
+Other Protective Equipment:FULL PROTECTIVE CLOTHING,SAFETY SHOWER,EYE
+    WASH STATION
+Supplemental Safety and Health
+MSDS UNDATED:ITEM IS GRADE 10 OF SPEC MIL-L-2104
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:700F/371C
+Vapor Pres:>.1
+Vapor Density:>1.0
+Spec Gravity:0.88
+Evaporation Rate & Reference:<1.0 (BUT.ACETAT=1
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:LIGHT AMBER COLORED LIQUID-FAINT PETROLEUM ODOR
+Percent Volatiles by Volume:NIL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDANTS
+Stability Condition to Avoid:HEAT,OPEN FLAMES
+Hazardous Decomposition Products:CO,CO*2,TRACE OXIDES OF S,ZN,P
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF COLLECTED MATERIAL IN ACCORDANCE WITH
+    LOCAL,STATE AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,141 @@
+=====================  Product Identification  =====================
+
+Product ID:721043  CHLORIDE REAGENT
+MSDS Date:10/14/1987
+FSC:6550
+NIIN:01-181-1397
+MSDS Number: BKYTT
+=== Responsible Party ===
+Company Name:CIBA CORNING DIAGNOSTICS CORPORATION
+Address:132 ARTINO STREET
+City:OBERLIN
+State:OH
+ZIP:44074
+Info Phone Num:(216) 774-1041
+Emergency Phone Num:(216) 774-1041
+CAGE:24143
+=== Contractor Identification ===
+Company Name:CIBA CORNING DIAGNOSTICS CORP GILFORD SYSTEMS
+Address:132 ARTINO ST
+Box:City:OBERLIN
+State:OH
+ZIP:44074-1206
+Country:US
+Phone:216-774--1041
+CAGE:24143
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MERCURIC THIOCYANATE  (SARA III)
+CAS:592-85-8
+RTECS #:XL1550000
+Fraction by Wt: 0.06%
+OSHA PEL:0.1 MG HG/M3;SKIN;C
+ACGIH TLV:0.1 MG HG/M3; 9192
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+Ingred Name:MERCURIC CHLORIDE  (SARA III)
+CAS:7487-94-7
+RTECS #:OV9100000
+Fraction by Wt: 0.02%
+Other REC Limits:0.05 MG/CUM HG MSHA
+OSHA PEL:0.1 MG HG/M3;SKIN;C
+ACGIH TLV:0.1 MG HG/M3; 9192
+
+Ingred Name:MERCURIC NITRATE  (SARA III)
+CAS:10045-94-0
+RTECS #:OW8225000
+Fraction by Wt: 0.003%
+Other REC Limits:0.05 MG/CUM
+OSHA PEL:0.1 MG HG/M3;SKIN;C
+ACGIH TLV:0.1 MG HG/M3; 9192
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+Ingred Name:METHYL ALCOHOL (METHANOL)  (SARA III)
+CAS:67-56-1
+RTECS #:PC1400000
+Fraction by Wt: 15%
+Other REC Limits:200 PPM
+OSHA PEL:S,200PPM/250STEL
+ACGIH TLV:S,200PPM/250STEL; 93
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN/EYES: IRRITATION. INHALATION:
+    NOSE/THROAT IRRITATION, HARMFUL OR FATAL. INGESTION: BLINDNESS OR
+    FATAL.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN/EYES: IRRITATION. INHALATION: NOSE/THROAT
+    IRRITATION, HARMFUL OR FATAL. INGESTION: BLINDNESS OR FATAL.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN/EYES: FLUSH W/WATER FOR 15 MINS. INGESTION: OBTAIN
+    MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Lower Limits:7.3%
+Upper Limits:36%
+Extinguishing Media:USE ALCOHOL FOAM, DRY CHEMICAL OR CO2.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS & FULL
+    PROTECTIVE CLOTHING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:TAKE UP W/SAND OR OTHER NON-COMBUSTIBLE
+    ABSORBANT, THEN FLUSH AREA W/WATER. FOR LARGE SPILLS (MORE THAN 2
+    BOTTLES). WEAR SELF-CONTAINED BREATHING APPARATUS & FULL PROTECTION
+    CLOTHING. EXTINGUISH SOURC ES OF IGNITION.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T STORE NEAR COMBUSTIBLE
+    MATERIALS. WHEN REAGENT BOTTLE ISN'T IN USE, STORE TIGHTLY CAPPED.
+Other Precautions:STORE BETWEEN 64.4 - 77F. AVOID INHALING VAPORS FROM
+    REAGENT (DON'T PIPETTE BY MOUTH). AVOID CONTACT W/EYES, MOUTH, SKIN
+    & CLOTHING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR SELF-CONTAINED BREATHING APPARATUS.
+Ventilation:GENERAL. LOCAL EXHAUST: ACCEPTABLE.
+Protective Gloves:RECOMMENDED
+Eye Protection:RECOMMENDED
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:149F
+Vapor Pres:96
+Evaporation Rate & Reference:(BU AC = 1): 4.6
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR, PALE YELLOW SOLUTION.
+Percent Volatiles by Volume:100%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HEAT OR FLAME
+Hazardous Decomposition Products:MERCURIC COMPOUNDS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

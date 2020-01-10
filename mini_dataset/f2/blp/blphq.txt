@@ -1,0 +1,134 @@
+=====================  Product Identification  =====================
+
+Product ID:CERTANIUM 34C 1/8 SOLDER
+MSDS Date:05/31/1988
+FSC:3439
+NIIN:01-164-0593
+MSDS Number: BLPHQ
+=== Responsible Party ===
+Company Name:CERTANIUM ALLOYS & RESEARCH CO
+Address:4500 EUCLID AVENUE
+City:CLEVELAND
+State:OH
+ZIP:44103-1395
+Country:US
+Info Phone Num:216-391-8300
+Emergency Phone Num:216-391-8300
+CAGE:61404
+=== Contractor Identification ===
+Company Name:CERTANIUM ALLOYS & RESEARCH CO
+Address:4500 EUCLID AVENUE
+Box:City:CLEVELAND
+State:OH
+ZIP:44103-1395
+Country:US
+Phone:216-391-8300
+CAGE:61404
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:AMMONIUM CHLORIDE  (SARA III)
+CAS:12125-02-9
+RTECS #:BP4550000
+Fraction by Wt: 1-5%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:10 MG/M3/20 STEL
+ACGIH TLV:10 MG/M3 FUME; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:SILVER  (SARA III)
+CAS:7440-22-4
+RTECS #:VW3500000
+Fraction by Wt: 1-5%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:0.01 MG/M3
+ACGIH TLV:0.1 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:TIN
+CAS:7440-31-5
+RTECS #:XP7320000
+Fraction by Wt: >60%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:2 MG/M3
+ACGIH TLV:2 MG/M3; 9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION.  INHALATION:
+    INHALATION OF FUMES MAY PRODUCE IRRITATION OF NOSE, THROAT, EYES OR
+    RESPIRATORY SYSTEM.  SKIN: MAY CAUSE IRRITATION.
+Effects of Overexposure:OVEREXPOSURE TO FUMES MAY RESULT IN DIZZINESS,
+    NAUSEA OR DRYNESS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: IMMEDIATELY FLUSH WITH PLENTY OF WATER FOR 15 MIN. AND
+    CALL A PHYSICIAN.  SKIN: WASH THOROUGHLY WITH PLENTY OF WATER AND
+    SOAP.  INHALATION: REMOVE TO FRESH AIR, ADMINISTER OXYGEN AND CALL
+    A PHYS ICIAN.  INGESTION: SEEK PHYSICIAN IMMEDIATELY, DO NOT INDUCE
+    VOMITING.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:WATER, FOAM, DRY CHEMICAL, CARBON DIOXIDE.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:CONTACT WITH FLAMES OR HOT SURFACES MAY
+    PRODUCE TOXIC GASES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONTAIN AND PICK UP WASTE MATERIAL.  PUT IN A
+    SEALED, APPROVED CONTAINER.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP IN A COOL PLACE.
+Other Precautions:KEEP OUT OF REACH OR CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE HOOD, RESPIRATOR OR SUPPLIED-AIR MASK.
+Ventilation:LOCAL AND MECHANICAL VENTILATION REQUIRED.
+Protective Gloves:WELDERS PROTECTIVE GLOVES
+Eye Protection:WEAR EYE AND FACE PROTECTION
+Other Protective Equipment:SUITABLE PROTECTIVE CLOTHING.
+Work Hygienic Practices:WASH HANDS AFTER HANDLING THIS PRODUCT.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Solubility in Water:NIL
+Appearance and Odor:FLUX-CORED SOLID WIRE
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:EXTREME TEMPERATURES, SPARKS, AND OPEN
+    FLAMES.
+Hazardous Decomposition Products:SILVER OXIDE, TIN OXIDE, NITROGEN
+    DIOXIDE, AND HYDROCHLORIC ACID.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF WASTES IN ACCORDANCE WITH FEDERAL,
+    STATE, AND LOCAL REGULATIONS.  THIS MATERIAL IS AN EP TOXIC WASTE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

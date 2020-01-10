@@ -1,0 +1,139 @@
+=====================  Product Identification  =====================
+
+Product ID:FOGPRUF LENS SOLUTION, MSA P/N 12649
+MSDS Date:07/01/1988
+FSC:6850
+NIIN:00N022944
+MSDS Number: BLPCL
+=== Responsible Party ===
+Company Name:MINE SAFETY APPLIANCES CO
+Box:426
+City:PITTSBURG
+State:PA
+ZIP:15230
+Country:US
+Info Phone Num:412-967-3000
+Emergency Phone Num:412-967-3000
+CAGE:55799
+=== Contractor Identification ===
+Company Name:MINE SAFETY APPLIANCES CO	DBA MSA
+Address:3880 MEADOWBROOK RD
+Box:City:MURRYSVILLE
+State:PA
+ZIP:15668-1753
+Country:US
+Phone:724-733-9272
+CAGE:55799
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+Ingred Name:SUCCINIC ACID, SULFO-1,4-BIS(2-ETHYLHEXYL)ESTER, SODIUM
+    SALT;(DIOCTYL SODIUM SULFOSUCCINATE). LD50 ORAL (RAT):1900 MG/KG
+CAS:577-11-7
+RTECS #:WN0525000
+Fraction by Wt: 2%
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: >80%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:(SEE INGRED)
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYE AND MUCOUS MEMBRANE IRRITATION.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:ISOPROPANOL: EYE:IRRITATION. INGEST:DIZZINESS,
+    INCOORDINATION, HEADACHE, CONFUSION, STUPOR, COMA, ABDOMINAL PAIN,
+    VOMITING, DIARRHEA. INHAL:IRRITATION OF EYES, NOSE, THROAT. DIOCTYL
+    SODIUM SULFOSUCCIN ATE: EYE:IRRITATION. INGEST:DIARRHEA. INHAL:NOT
+    APPLICABLE.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:HOLD EYELIDS OPEN & FLUSH EYES W/LG AMTS OF H*2O FOR AT
+    LEAST 15 MIN. OCCANSNLY LIFT UPPER & LOWER LIDS. GET IMMED
+    TREATMENT BY MD. INGEST:IF VICTIM IS CONSCIOUS & ALERT, GIVE TWO
+    GLASSES OF H*2O  & ENCOURAGE VOM. HOLD VICTIM'S HEAD LOWTO AVOID
+    ASPIRATION OF VOM. GET IMMED TREATMENT BY MD. INHAL:OVEREXPOS BY
+    THIS ROUTE IS UNLIKELY. IF OVEREXP SOMEHOW OCCURS, REMOVE FROM
+    EXPOS. GIVE (SUPP DATA)
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:110F, 43C
+Lower Limits:2.0%
+Upper Limits:12.7%
+Extinguishing Media:FOAM, CO*2, DRY CHEMICAL, WATER FOG
+Fire Fighting Procedures:WATER MAY BE INEFFECTIVE. WEAR NIOSH/MSHA
+    APPROVED SCBA AND FULL PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB ON SAND AND SCOOP TO CONTAINER FOR
+    PROPER DISPOSAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL VENTILATED
+    PLACE.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN .
+Ventilation:NONE SPECIFIED BY MANUFACTURER.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEMCIAL WORKERS .
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:FOR USE ONLY AS DIRECTED ON LABEL INSTRUCTIONS.
+Supplemental Safety and Health
+VAP PRESS:18 MM HG/20C. FIRST AID:ARTIFICIAL RESPIRATION IF NEEDED.
+    PROVIDE  OXYGEN IF BREATHING IS DIFFICULT. GET IMMEDIATE TREATMENT
+    BY A PHYSICIAN. SKIN:WASH WITH SOAP AND WATER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:190F, 88C
+Vapor Pres:SUPP DATA
+Vapor Density:>11
+Spec Gravity:<1
+Solubility in Water:COMPLETE
+Appearance and Odor:BLUE-GREEN PERFUMED LIQUID.
+Percent Volatiles by Volume:98%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF SURPLUS PRODUCT AS HAZARDOUS WASTE.
+    DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE, AND FEDERAL REGULATIONS
+    .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

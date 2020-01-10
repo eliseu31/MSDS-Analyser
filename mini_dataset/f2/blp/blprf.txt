@@ -1,0 +1,107 @@
+=====================  Product Identification  =====================
+
+Product ID:882 COMBO FOAMING DISINFECTANT AEROSOL
+MSDS Date:10/04/1988
+FSC:6840
+NIIN:00F019218
+MSDS Number: BLPRF
+=== Responsible Party ===
+Company Name:CARROLL COMPANY
+Address:2900 WEST KINGSLEY RD
+City:GARLAND
+State:TX
+ZIP:75041
+Info Phone Num:(214) 278-1304 OR (214) 278-1300
+Emergency Phone Num:(214) 278-1304 OR (214) 278-1300
+CAGE:OOO55
+=== Contractor Identification ===
+Company Name:CARROLL CO
+Address:2900 W KINGSLEY RD
+Box:City:GARLAND
+State:TX
+ZIP:75041
+Country:US
+Phone:972-278-1304
+CAGE:59972
+Company Name:CARROLL COMPANY
+Address:2900 WEST KINGSLEY RD.
+City:GARLAND
+Phone:(214)278-1304
+CAGE:OOO55
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ALKYL DIMETHYL BENZYL AMMONIUM CHLORIDE
+CAS:68424-85-1
+
+Ingred Name:ISOBUTANE, 2-METHYLPROPANE
+CAS:75-28-5
+RTECS #:TZ4300000
+Other REC Limits:1000 PPM
+OSHA PEL:1800 MG/CUM
+ACGIH TLV:1000 PPM
+
+Ingred Name:PROPANE
+CAS:74-98-6
+RTECS #:TX2275000
+Other REC Limits:1800 MG/CUM
+OSHA PEL:1000 PPM
+ACGIH TLV:ASPHYXIANT; 9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INGESTION: HARMFUL. SKIN/EYES:
+    IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INGESTION: HARMFUL. SKIN/EYES: IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: WASH W/SOAP & WATER. EYES: FLUSH W/WATER FOR 15 MINS.
+    INGESTION: DRINK LARGE QUANTITY OF FRUIT JUICE. DON'T INDUCE
+    VOMITING. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER, CO2, FOAM, DRY CHEMICAL
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE ABSORBENT MATERIAL & TRASH RECEPTICLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T EXPOSE CONTAINERS TO TEMPS
+    >120F. READ & FOLLOW ALL LABEL DIRECTIONS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:ADEQUATE
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:1.015
+Solubility in Water:COMPLETE
+Appearance and Odor:COLORLESS LIQUID W/SLIGHT PERFUME FRAGRANCE.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:TEMPS >120F
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,121 @@
+=====================  Product Identification  =====================
+
+Product ID:SPECIAL MANNITOL
+MSDS Date:02/01/1989
+FSC:6810
+NIIN:00-149-0577
+MSDS Number: BLMST
+=== Responsible Party ===
+Company Name:HAWK CREEK LABS INC
+Address:RD 1 SIMPSON RD
+Box:686
+City:GLEN ROCK
+State:PA
+ZIP:17327
+Country:US
+Info Phone Num:717-235-3849
+Emergency Phone Num:717-235-3849
+CAGE:61004
+=== Contractor Identification ===
+Company Name:HAWK CREEK LABORATORY, INC.
+Address:RT 1, SIMPSON ROAD
+Box:686
+City:GLEN ROCK
+State:PA
+ZIP:17327-9622
+Country:US
+Phone:717-235-3849
+CAGE:61084
+Company Name:HAWK CREEK LABS
+Address:RD 1 SIMPSON RD
+Box:686
+City:GLEN ROCK
+Phone:717-235-3849
+CAGE:61004
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MANNITOL, D-;(D-MANNITOL, A.C.S. REAGENT)
+CAS:69-65-8
+RTECS #:OP2060000
+Fraction by Wt: 100%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50:ORAL(RAT)17 GM/KG
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:TOXICITY CONSIDERED VERY LOW. EXPOSURE
+    TOXICITY DATA NOT AVAILABLE. INGESTION MAY CAUSE GI IRRITATION.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH WATER FOR AT LEAST 15 MIN; GET IMMED MED
+    ASSISTANCE. SKIN: REMOVE CONTAMINATED CLOTHING AND WASH WITH SOAP
+    AND WATER. INHAL: MOVE TO FRESH AIR & GIVE ARTF RESP IF BREATHING
+    HAS STOPPE D. INGEST: GET MED ATTN. GET MED ASSISTANCE FOR ALL
+    CASES OF OVEREXPOSURE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:COMBUSTIBLE
+Extinguishing Media:USE MEDIA COMPATIBLE WITH SURROUNDING MATERIAL.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT  IF NECESSARY.
+Unusual Fire/Explosion Hazard:MAY EMIT TOXIC FUMES UPON THERMAL
+    DECOMPOSITION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB WITH SAND OR VERMICULITE AND SCOOP UP
+    AND CONTAINERIZE FOR PROPER DISPOSAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTR TIGHTLY CLSD. STORE IN
+    COOL/DRY/ WELL VENTD AREA. KEEP AWAY FROM IGNIT SOURCE,
+    ACIDS/OXIDIZERS. WASH THORO AFTER HNDLG. EMPTY CONTR (SUPDAT
+Other Precautions:DO NOT GET IN EYES, ON SKIN OR CLOTHING. DO NOT
+    BREATHE VAPORS OR DUST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED SCBA.
+Ventilation:PROVIDE ADEQUATE GENERAL AND LOCAL EXHAUST VENTILATON.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+HNDLG/STOR PREC: MAY BE HAZARDOUS DUE TO RETAINED RESIDUE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Spec Gravity:1.52
+Solubility in Water:SOLUBLE
+Appearance and Odor:WHITE POWDER.
+
+=================  Stability and Reactivity Data  =================
+
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:OXIDIZERS.
+Hazardous Decomposition Products:COX.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:COMPLY WITH ALL LOCAL, STATE AND FEDERAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

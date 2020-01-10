@@ -1,0 +1,138 @@
+=====================  Product Identification  =====================
+
+Product ID:MIL-G-10924D GREASE #10,779
+MSDS Date:01/01/1987
+FSC:9150
+NIIN:00-190-0904
+MSDS Number: BDHTL
+=== Responsible Party ===
+Company Name:SULFLO INC.
+Address:1158 ERIE AVE
+Box:285
+City:NORTH TONAWANDA
+State:NY
+ZIP:14120-3507
+Country:US
+Info Phone Num:716-695-3585
+Emergency Phone Num:716-695-3585
+Preparer's Name:THOMAS G. MUSILLI
+CAGE:JO986
+=== Contractor Identification ===
+Company Name:SULFLO INC
+Address:1158 ERIE AVE
+Box:285
+City:NORTH TONAWANDA
+State:NY
+ZIP:14120-3507
+Country:US
+Phone:716-695-3585
+CAGE:1V074
+Company Name:SULFLO INC.
+Address:1158 ERIE AVE
+Box:285
+City:NORTH TONAWANDA
+State:NY
+ZIP:14120-3507
+Country:US
+Phone:716-695-3585
+CAGE:JO986
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CALCIUM 12 HYDROXYSTEARATE
+CAS:3159-62-4
+Fraction by Wt: 11.0%
+
+Ingred Name:MINERAL OIL
+CAS:64742-53-6
+RTECS #:PY8036000
+Fraction by Wt: 86.0%
+Other REC Limits:5MG/CUM(OIL MIST)
+
+Ingred Name:SULFURIZED ISOBUTYLENE
+CAS:68511-50-2
+Fraction by Wt: 1.0%
+
+Ingred Name:CALCIUM SULFONATE
+CAS:68783-96-0
+Fraction by Wt: 2.0%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Health Hazards Acute and Chronic:ACUTE:IRRITATION OF EYES,SKIN AND
+    RESPIRATORY TRACT. CHRONIC:NO DATA AVAILABLE.
+Medical Cond Aggravated by Exposure:PRE-EXISTING CONDITIONS MAY BE
+    WORSEN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALE:REMOVE TO FRESH AIR, GIVE CPR/O*2 IF
+    NEED;EYES/SKIN:FLUSH W LG AMTS H*2O FOR 15 MIN;INGEST:RINSE MOUTH;
+    GET MEDICAL ATTENTION FOR EYES, BREATHING DIFFICULTY, OR OTHER
+    SYMPTOMS OF OVEREXPOSURE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:325F/163C(D-92)
+Autoignition Temp:Autoignition Temp Text:350F
+Extinguishing Media:WATER FOG,CO*2,DRY CHEMICAL,FOAM,EARTH OR SAND
+Fire Fighting Procedures:WATER MAY CAUSE FROTHING;USE NIOSH APPROVED
+    SCBA IN CONF ARA
+Unusual Fire/Explosion Hazard:NONE NOTED
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPER PERSONAL PROTECTION;USE SUITABLE
+    ABSORBENT MATERIAL AND RECOVER FOR PROPER DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DRY AND WELL VENTILLATED
+    AREA;KEEP AWAY FROM HEAT,SPARKS AND OPEN FLAMES.
+Other Precautions:AVOID CONTACT WITH EYES AND SKIN;WASH THOROUGHLY
+    AFTER EACH USE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR FOR ORG
+    VAPORS/MIST IF ABOVE TLV.
+Ventilation:MECH(GEN)OR LOCAL EXHAUST THAT PROVIDES ADEQUATE
+    VENTILATION
+Protective Gloves:NEOPRENE
+Eye Protection:GOGGLES/FACE SHIELD
+Other Protective Equipment:FULL WORK CLOTHING TO PREVENT REPEATED OR
+    PROLONGED CONTACT.
+Supplemental Safety and Health
+MSDS DATED:NIL
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:650F/343C
+Spec Gravity:0.91
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:AMBER GREASE-BLAND
+Percent Volatiles by Volume:0.0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS
+Stability Condition to Avoid:EXTREME HEAT
+Hazardous Decomposition Products:CO AND CO*2 IF INCOMPLETE COMBUSTION
+Conditions to Avoid Polymerization:OPEN FLAMES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF COLLECTED MATERIAL IN ACCORDANCE WITH
+    LOCAL,STATE AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

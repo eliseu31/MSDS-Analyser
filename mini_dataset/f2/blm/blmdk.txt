@@ -1,0 +1,128 @@
+=====================  Product Identification  =====================
+
+Product ID:CATALYST
+MSDS Date:04/01/1989
+FSC:8030
+NIIN:00N020766
+MSDS Number: BLMDK
+=== Responsible Party ===
+Company Name:TACC INTERNATIONAL CORP
+Address:AIR STATION INDUSTRIAL PARK
+Box:390
+City:ROCKLAND
+State:MA
+ZIP:02370
+Country:US
+Info Phone Num:617-878-7015
+Emergency Phone Num:617-878-7015
+CAGE:OHZV1
+=== Contractor Identification ===
+Company Name:TACC INTERNATIONAL CORP.
+Address:AIR STATION INDUSTRIAL PARK
+Box:390
+City:ROCKLAND
+State:MA
+ZIP:02370
+Country:US
+Phone:617-878-7015
+CAGE:OHZV1
+Company Name:TRANSWORLD ADHESIVE AND CHEMICAL CORP
+Address:AIR STATION INDUSTRIAL PK
+Box:City:ROCKLAND
+State:MA
+ZIP:02370-1137
+Country:US
+CAGE:59888
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TRIETHYLENETETRAMINE
+CAS:112-24-3
+RTECS #:YE6650000
+Fraction by Wt: 80-89%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHAL: REPEATED EXPOSURE MAY CAUSE
+    IRRITATION TO UPPER RESPIRATORY TRACT AND LIVER OR KIDNEY EFFECTS.
+    EYES: STRONGLY IRRITATING TO EYES, CORROSIVE. SKIN: REDNESS,
+    BURNING. CAN LEAD TO SENSITIZATION WI TH REPEATED EXPOSURE.
+    CORROSIVE. INGEST: HARMFUL IF SWALLOWED, CORROSIVE LIQUID.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:PREEXISTING SKIN OR LUNG ALLERGIES
+    MAY INCREASE CHANCE OF DEVELOPING INCREASED ALLERGY SYMPTOMS FROM
+    EXPOSURE TO PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: GET FRESH AIR. EYES: FLUSH WITH WATER FOR AT LEAST 15
+    MIN. SKIN: WASH WITH SOAP AND WATER; CALL PHYS IF NECESSARY.
+    INGEST: CALL POISON CENTER IMMED.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:OC
+Flash Point:290F,143C
+Extinguishing Media:CO2, WATER SPRAY, DRY CHEMICAL.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT . AVOID BREATHING SMOKE. WATER TENDS TO SPREAD
+    BURNING LIQUID IF LARGE AMOUNTS USED.
+Unusual Fire/Explosion Hazard:USE COLD SPRAY TO COOL DOWN FIRE/HEAT
+    EXPOSED CONTAINERS TO KEEP THEM FROM RUPTURING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SMALL QUANTITIES MAY BE ABSORBED WITH
+    APPROPRIATE ABSORBANT.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER CLOSED WHEN NOT IN USE.
+    STORE BELOW 95F OUT OF SUN.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF VAPORS EXCEED TLV USE NIOSH/MSHA APPROVED
+    SELF CONTAINED ORGANIC MASK.
+Ventilation:LOCAL EXHAUST: SUFFICIENT TO KEEP WORKROOM CONCENTRATION
+    BELOW TLV.
+Protective Gloves:CHEMICAL RESISTANT GLOVES.
+Eye Protection:CHEM WOR GOG & FULL LENGTH FSHLD.
+Other Protective Equipment:BARRIER CREAM FOR SENSITIVE CREAM.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Spec Gravity:0.99
+Solubility in Water:SLIGHT
+Appearance and Odor:YELLOW AMMONIACAL ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID ALKALI METAL HYDROXIDES, STRONG ACIDS.
+Stability Condition to Avoid:EXCESSIVE HEAT.
+Hazardous Decomposition Products:CO, CO2, OXIDES OF NITROGEN.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH ALL STATE,
+    FEDERAL, AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,182 @@
+=====================  Product Identification  =====================
+
+Product ID:ANTIFREEZE ETHYLENE GLYCOL, INHIBITED COOLANT - 60%
+MSDS Date:10/05/1998
+FSC:6850
+NIIN:01-441-3234
+Status Code:A
+MSDS Number: CJQSY
+=== Responsible Party ===
+Company Name:SAN JUAN INTERNATIONAL,INC.
+Address:27 INDUSTRIAL DRIVE
+City:TRENTON
+State:NJ
+ZIP:08619-3244
+Country:US
+Emergency Phone Num:609-586-9500/609-631-0744
+Preparer's Name:ROBERTO FLORES
+CAGE:1EJ92
+=== Contractor Identification ===
+Company Name:SAN JUAN INTERNATIONAL,INC.
+Address:27 INDUSTRIAL DRIVE
+City:TRENTON
+State:NJ
+ZIP:08619-3244
+Country:US
+Phone:609-586-9500
+Contract Num:SP0450-99-M-C168
+CAGE:1EJ92
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:1,2-ETHYLENE GLYCOL
+CAS:107-21-1
+RTECS #:KW2975000
+= Wt:57.
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:C 50 PPM/125 MG/M3
+Code:F
+ACGIH TLV:50 PPM/125 MG/M3)
+ACGIH STEL:C127 MG/M3;C50 PPM
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:SODIUM TETRABORATE DECAHYDRATE
+CAS:1303-96-4
+RTECS #:VZ2275000
+= Wt:4.
+Other REC Limits:NONE RECOMMENDED
+ACGIH TLV:5 MG/M3
+
+Ingred Name:SODIUM 2-MERCAPTOBENZOTHIAZOLE
+CAS:2492-26-4
+= Wt:.4
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:SODIUM PHOSPHATE, TRIBASIC
+CAS:7601-54-9
+RTECS #:TC9490000
+= Wt:.3
+Other REC Limits:NONE RECOMMENDED
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:POLYOXALKALENE DERIVATIVE OF TRIMETHYLOL PROPANE
+CAS:52624-57-4
+Code:F
+Fraction by Wt: TRACE
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INGESTION: MAY CAUSE ABDOMINAL
+    DISCOMFORT & KIDNEY DAMAGE.  INHALATION: IRRITATE NOSE AND THROAT. 
+    EYES: TRANCIENT CONJUNCTIVITIS.  SKIN: NO EVIDENCE OF ADVERSE
+    HEALTH EFFECTS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INGESTION: PAIN, DIZZINESS, MALAISE, LUMBER
+    PAIN, OLIGURIA, UREMIA, & DEPRESSION.  INHALATION: NAUSEA,
+    VOMITING, HEADACHE & DIZZINESS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION: IF CONSCIOUS GIVE TWO GLASSES OF WATER & INDUCE
+    VOMITING, CALL A PHYSICIAN IMMMEDIATELY.  SKIN: REMOVE CONTAMINATED
+    CLOTHING & FLUSH SKIN WITH WATER.  INHALATION: REMOVE TO FRESH AIR,
+    CALL  A PHYSICIAN IF DISCIOMFORT PERSIST.  EYE: FLUSH WITH WATER
+    IMMEDIATELY & CONTINUE WASHING THE EYES FOR SEVERAL MINUTES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:=121.1C, 250.F
+Lower Limits:3.2 (ESTIMAT
+Upper Limits:15.3(ESTIMAT
+Extinguishing Media:ALCOHOL FOAM, WATER FOG, FOAM, C02 AND DRY
+    CHEMICALS
+Fire Fighting Procedures:WEAR PROTECTIVE CLOTHING AND SELF-CONTAINED
+    BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR NIOSH APPROVED RESPIRATOR & PROTECTIVE
+    EQUIPMENT. DIKE, REMOVE LIQUID WITH VACUUM TRACK OR BY PUMPING INTO
+    SALVAGE DRUMS.  SOAK UP RESIDUES & SMALL SPILLS WITH AN ABSORBENT
+    SUCH AS CLAY & PUT IN  TIGHT.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL & DRY PLACE.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR NIOSH-APPROVED BREATHING AIR EQUIPMENT OR
+    NIOSH APPROVED FACE MASK WITH ORGANIC VAPOR CARTRIDGE & DUST OR
+    MIST PRE-FILTER (NOT FOR USE IN FIRE FIGHTING).
+Ventilation:GENERAL MECHANICAL ROOM VENTILATION
+Protective Gloves:RUBBER OR POLYVINYL CHLORIDE COATED
+Eye Protection:MONOGOGGLES/FACE SHIELD
+Other Protective Equipment:EYE BATH, SAFETY SHOWER, UNIFORM
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V5
+Boiling Pt:=137.8C, 280.F
+Melt/Freeze Pt:=-20.6C, -5.F
+Vapor Pres:0.06 (MMHG)
+Vapor Density:2.1(AIR=1)
+Spec Gravity:1.13
+pH:7.8
+Viscosity:20 DEG C CSI/15: 1.88
+Evaporation Rate & Reference:<0.01 (BU ACETATE)
+Solubility in Water:COMPLETE
+Appearance and Odor:BLUE-GREEN COLORED LIQUID CHARACTERISTIC GLYCOL
+    ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:MAY FORM CARBON MONOXIDE AND OTHER
+    UNIDENTIFIED ORGANIC COMPOUNDS.
+
+=====================  Ecological Information  =====================
+
+Ecological:NONE SPECIFIED BY RESPONSIBLE PARTY.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE IN A FURNACE WHERE PERMITTED UNDER
+    FEDERAL, STATE, AND LOCAL REGULATIONS. AT VERY LOW CONCENTRATIONS
+    PRODUCT IS READILY BIODEGRADABLE IN A BIOLOGICAL WASTE WATER
+    TREATMENT PLANT.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:SHIPPING NAME: NOT APPLICABLE.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:SECTION 313: YES. 311/312 CATAGORIES:
+    IMMEDIATE/ACUTE-YES; DELAYED/CHRONIC-YES. EHS RQ/EHS TPQ=NONE.
+Federal Regulatory Information:THE REPORTABLE QUANTITY (RQ): 5,319 LBS
+    (BASED ON ETHYLENE GLYCOL).
+State Regulatory Information:ETHYLENE GLYCOL, CAS# 107-21-1 LISTED BY
+    THE FOLLOWING STATES: CA, CT, FL, IL, LA, MA, ME, MN, NJ, PA, RI.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

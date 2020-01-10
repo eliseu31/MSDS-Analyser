@@ -1,0 +1,104 @@
+=====================  Product Identification  =====================
+
+Product ID:180 2081 VNF-1/RVNP PERSULFATE BLEACH/REPLENISHER
+MSDS Date:09/26/1987
+FSC:6750
+NIIN:01-189-9472
+MSDS Number: BKYTX
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Info Phone Num:(716) 722-5151
+Emergency Phone Num:(716) 722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM PERSULFATE
+CAS:7775-27-1
+RTECS #:SE0525000
+Fraction by Wt: 100%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT):  900 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: LOW HAZARD. EYES:
+    IRRITATION. SKIN: ALLERGIC REACTION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: LOW HAZARD. EYES: IRRITATION. SKIN:
+    ALLERGIC REACTION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER. SKIN: FLUSH W/PLENTY OF WATER
+    & WASH W/A NON-ALKALINE (ACID) TYPE OF CLEANER. OBTAIN MEDICAL
+    ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE APPROPRIATE AGENT FOR THE SURROUNDING FIRE.
+Unusual Fire/Explosion Hazard:INCREASES THE BURNING RATE OF COMBUSTIBLE
+    MATERIALS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH MATERIAL TO SEWER W/PLENTY OF WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:MATERIAL IS AN OXIDIZER. KEEP FROM
+    CONTACT W/CLOTHING & OTHER COMBUSTIBLE MATERIALS. STORE IN TIGHTLY
+    CLOSED CONTAINER.
+Other Precautions:AVOID CONTACT W/SKIN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:PROVIDE SUFFICIENT GOOD MECHANICAL VENTILATION.
+Protective Gloves:IMPERVIOUS
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:IMPERVIOUS BOOTS & CLOTHING.
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE. WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Vapor Pres:NEGLIGIBLE
+Spec Gravity:>1
+Solubility in Water:APPRECIABLE
+Appearance and Odor:WHITE POWDER, ODORLESS.
+Percent Volatiles by Volume:NEG/WT
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+BASES, REDUCING AGENTS, OR COMBUSTIBLE MATERIALS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

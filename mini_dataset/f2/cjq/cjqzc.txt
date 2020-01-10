@@ -1,0 +1,183 @@
+=====================  Product Identification  =====================
+
+Product ID:POTASSIUM BICARBONATE, 2940
+MSDS Date:12/08/1996
+FSC:6810
+NIIN:00N092244
+Status Code:A
+MSDS Number: CJQZC
+=== Responsible Party ===
+Company Name:MALLINCKRODT BAKER INC
+Address:222 RED SCHOOL LANE
+City:PHILLIPSBURG
+State:NJ
+ZIP:08865
+Country:US
+Info Phone Num:800-582-2537
+Emergency Phone Num:908-859-2151
+Resp. Party Other MSDS Num.:P5491
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:70829
+=== Contractor Identification ===
+Company Name:MALLINCKRODT BAKER,  INC.
+Address:222 RED SCHOOL LANE
+Box:City:PHILLIPSBURG
+State:NJ
+ZIP:08865
+Country:US
+Phone:800-582-2537
+CAGE:70829
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POTASSIUM BICARBONATE
+CAS:298-14-6
+= Wt:100.
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NO INFORMATION FOUND.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: INHALATION: MILD ALKALINE
+    IRRITANT TO RESPIRATORY SYSTEM. COUGHING, SNEEZING, POSSIBLE
+    BREATHING DIFFICULTY IN ACUTE CASES. INGESTION: NO ADVERSE EFFECTS
+    EXPECTED. SKIN CONTACT: NO ADVERSE EFFE CTS EXPECTED. EYE CONTACT:
+    MILD IRRITANT, POSSIBLE REDDENING DUE TO ALKALINE EFFECT OR
+    ABRASION. CHRONIC: NO ADVERSE EFFECTS EXPECTED.
+Explanation of Carcinogenicity:POTASSIUM BICARBONATE - CAS #298-14-6
+    NOT LISTED AS NTP CARCINOGEN (KNOWN OR ANTICIPATED), NOR IS ON ANY
+    IARC CATEGORY.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NO ADVERSE HEALTH EFFECTS EXPECTED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. GET MEDICAL ATTENTION FOR
+    ANY BREATHING DIFFICULTY. INGESTION: IF LARGE AMOUNTS WERE
+    SWALLOWED, GIVE WATER TO DRINK AND GET MEDICAL ADVICE. SKIN: WASH
+    EXPOSED AREA WIT H SOAP AND WATER. GET MEDICAL ADVICE IF IRRITATION
+    DEVELOPS. EYES: WASH THOROUGHLY WITH RUNNING WATER FOR AT LEAST 15
+    MINUTES. GET MEDICAL ADVICE IF IRRITATION DEVELOPS.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE ANY MEANS SUITABLE FOR EXTINGUISHING
+    SURROUNDING FIRE.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:NOT CONSIDERED TO BE A FIRE OR EXPLOSION
+    HAZARD. NFPA RATINGS: HEALTH - 1; FLAMMABILITY - 0; REACTIVITY - 0;
+    J.T. BAKER SAF-T-DATA (UN) RATINGS: HEALTH - 1; FLAMMABILITY - 0;
+    REACTIVITY - 1.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA OF LEAK OR SPILL. WEAR
+    APPROPRIATE PERSONAL PROTECTIVE EQUIPMENT AS SPECIFIED IN THIS
+    MSDS. SPILLS: SWEEP UP AND CONTAINERIZE FOR RECLAMATION OR
+    DISPOSAL. VACUUMING OR WET SWEEPING MAY  BE USED TO AVOID DUST
+    DISPERSAL. SMALL AMOUNTS OF RESIDUE MAY BE FLUSHED TO SEWER WITH
+    PLENTY OF WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORAGE COLOR CODE: ORANGE (GENERAL
+    STORAGE). KEEP IN A TIGHTLY CLOSED CONTAINER, STORED IN A COOL,
+    DRY, VENTILATED AREA. PROTECT AGAINST PHYSICAL DAMAGE.
+Other Precautions:CONTAINERS OF THIS MATERIAL MAY BE HAZARDOUS WHEN
+    EMPTY SINCE THEY RETAIN PRODUCT RESIDUES (DUST, SOLIDS, VAPORS,
+    LIQUID); OBSERVE ALL WARNINGS AND PRECAUTIONS LISTED FOR THIS
+    PRODUCT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:FOR CONDITIONS OF USE WHERE EXPOSURE TO DUST OR
+    MIST IS APPARENT, A NIOSH APPROVED HALF-FACE DUST/MIST RESPIRATOR
+    MAY BE WORN.  FOR EMERGENCIES OR INSTANCES WHERE EXPOSURE LEVELS
+    ARE NOT KNOWN, USE A  NIOSH APPROVED FULL-FACE POSITIVE-PRESSURE,
+    AIR-SUPPLIED RESPIRATOR. WARNING: AIR-PURIFYING RESPIRATORS DO NOT
+    PROTECT WORKERS IN OXYGEN DEFICIENT ATMOSPHERES.
+Ventilation:IN GEN, DILUTION VENT IS SATIS HLTH HAZ CONTROL FOR THIS
+    SUBSTANCE. HOWEVER, IF CNDTNS OF USE CREATE DISCOMFORT TO WORKER, A
+    LOC EXHST SYS SHOULD BE CONSIDERED.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:ANSI APPROVED EYE WASH & DELUGE SHOWER .
+    WEAR CLEAN BODY-COVERING CLOTHING, INCLUDING LAB COAT.
+Work Hygienic Practices:AS PART OF GOOD INDUSTRIAL AND PERSONAL HYGIENE
+    AND SAFETY PROCEDURE, AVOID ALL UNNECESSARY EXPOSURE TO CHEMICAL
+    SUBSTANCE AND ENSURE PROMPT REMOVAL FROM SKIN, EYES AND CLOTHING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:>100.C, 212.F
+M.P/F.P Text:100-120C (212-248F)
+Vapor Pres:SEE OTHER INFO
+Vapor Density:NO INFO
+Spec Gravity:2.17
+pH:NO INFO FOUND
+Evaporation Rate & Reference:NO INFORMATION FOUND
+Solubility in Water:36G IN 100G OF WATER
+Appearance and Odor:WHITE CRYSTALS; ODORLESS.
+Percent Volatiles by Volume:0 @ 21C(70F)
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NO INCOMPATIBILITY DATA FOUND. POTASSIUM CARBONYL, MAGNESIUM, CHLORINE
+    TRIFLUORIDE LISTED FOR THE CARBONATE.
+Stability Condition to Avoid:HEAT, FLAME, OTHER SOURCES OF IGNITION.
+    STABLE UNDER ORDINARY CONDITIONS OF USE AND STORAGE.
+Hazardous Decomposition Products:MAY PRODUCE OXIDES OF CARBON AND THE
+    CONTAINED METAL.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:NO LD50/LC50 INFORMATION FOUND RELATING TO
+    NORMAL ROUTES OF OCCUPATIONAL EXPOSURE.
+
+=====================  Ecological Information  =====================
+
+Ecological:ENVIRONMENTAL FATE AND TOXICITY: NO INFORMATION FOUND.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:WHATEVER CANNOT BE SAVED FOR RECOVERY OR
+    RECYCLING SHOULD BE MANAGED IN APPROPRIATE & APPROVED WASTE
+    DISPOSAL FACILITY. PROCESSING, USE OR CONTAMINATION OF THIS PRODUCT
+    MAY CHANGE WASTE MANAGEMENT OPT IONS. STATE & LOCAL DISPOSAL
+    REGULATIONS MAY DIFFER FROM FED DISPOSAL REGS. DISPOSE OF CNTNR &
+    UNUSE D CONTENTS I/A/W FED, STATE & LOCAL REQUIREMENTS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:NOT REGULATED.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:POTASSIUM BICARBONATE - CAS #298-14-6: SARA
+    302: RQ & TPQ - NO; SARA 313: LIST & CHEMICAL CATEGORY - NO. 
+    CERCLA: NO. SARA 311/312: ACUTE - NO; CHRONIC - NO; FIRE - NO;
+    PRESSURE - NO. REACTIVITY - NO.  (PURE/SOLID).
+Federal Regulatory Information:POTASSIUM BICARBONATE - CAS # 298-14-6:
+    TSCA, EC, JAPAN & AUSTRALIA - YES; KOREA, DSL - YES; NDSL - NO;
+    PHIL - YES. RCRA 261.33 - NO. TSCA 8 (D) - NO. CHEMICAL WEAPONS
+    CONVENTION: NO; TSCA 12 (B): NO;  CDTA; NO. AUSTRALIAN HAZCHEM
+    CODE: NO INFORMATION FOUND. POISON SCHEDULE: NO INFORMATION FOUND.
+    WHMIS: THIS MSDS HAS BEEN PREPARED ACCORDING TO HAZARD CRITERIA OF
+    CONTROLLED PRODUCTS REGS (CPR) & MSD S CONTAINS ALL OF THE
+    INFORMATION REQUIRED BY CPR.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

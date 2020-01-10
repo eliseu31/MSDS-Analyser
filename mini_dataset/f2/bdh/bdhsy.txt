@@ -1,0 +1,120 @@
+=====================  Product Identification  =====================
+
+Product ID:N-HEPTANE
+MSDS Date:01/01/1985
+FSC:6850
+NIIN:00-189-6791
+MSDS Number: BDHSY
+=== Responsible Party ===
+Company Name:CHARTER CHEMICALS/CHARTER INTERNATIONAL OIL CO
+Address:8938 MANCHESTER
+Box:5008
+City:HOUSTON
+State:TX
+ZIP:77012-2149
+Country:US
+Emergency Phone Num:NONE
+CAGE:EO579
+=== Contractor Identification ===
+Company Name:CHARTER CHEMICALS/CHARTER INTERNATIONAL OIL CO.
+Box:5008
+CAGE:EO579
+Company Name:CHARTER INTERNATIONAL OIL CO
+Address:8938 MANCHESTER
+Box:5008
+City:HOUSTON
+State:TX
+ZIP:77012-2149
+Country:US
+CAGE:6G143
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:N-HEPTANE
+CAS:142-82-5
+RTECS #:MI7700000
+Fraction by Wt: 100%
+OSHA PEL:500 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9293
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:AFFECT CENTRAL NERVOUS SYSTEM & CAUSE
+    RESPIRATORY IRRITATION.PARALYSIS BY HIGH CONCENTRATIONS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN CONTACT:WASH WITH SOAP & WATER.AN EMOLIENT CREAM OR
+    LOTION IS BENEFICIAL.EYE CONTACT:WASH WITH PLENTY OF WATER FOR 5
+    MINUTES.INHALATION:PROVIDE FRESH AIR & REST.USE ARTIFICIAL
+    RESPIRATION IF NEED ED.INGESTION:DO NOT INDUCE VOMITING.CALLA
+    DOCTOR
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:25F/-3.9C TCC
+Lower Limits:1.0
+Upper Limits:6.8
+Extinguishing Media:MECHANICAL FOAM,DRY CHEMICAL,WATER FOG,CO*2
+Fire Fighting Procedures:A STRAIGHT WATER STREAM WOULD SPREAD OIL FIRES
+Unusual Fire/Explosion Hazard:A VAOR ACCUMULATION WOULD FLASH &/OR
+    EXPLODE IF IGNITED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:AVOID OPEN FLAME & OTHER POSSIBLE IGNITION
+    SOURCES.PROVIDE ADEQUATE VENTILATION.COLLECT IN APPROVED STORAGE
+    CONTAINERS & DISPOSE OF ALL SPILLED LIQUID.DO NOT FLUSH TO SEWERS
+    OR CLOSED DRAINS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINERS SUCH AS CAN OR BOTTLE
+    CLOSED.STORE IN COOL,DARK,WELL VENTILATED PLACE.AVOID EVERY SOURCE
+    OF IGNITION.PROTECT CONTAINERS AGAIST DAMAGE.
+Other Precautions:WEAR RUBBER GLOVES,FACE PROTECTING BOARD,ALL PURPOSE
+    GAS MASK OR SELF-CONTAINED BREATHING APPARATUS & OVERALLS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:SELF-CONTAINED BREATHING APPARATUS.
+Ventilation:LOCAL EXHAUST TO A FIRE-SAFE AREA
+Protective Gloves:RUBBER
+Eye Protection:SAFETY GOGGLES
+Other Protective Equipment:AS REQUIRED TO AVOID WETTING CLOTHES.
+Supplemental Safety and Health
+MATERIAL MEETS REQUIREMENTS FOR TYPE I OF MIL-C-7024
+    SPECIFICATION.MATERIAL DISTRIBUTED BY CHEM COMMODITIES AGENCY,INC.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:B.P. Text:211F/99.4C
+Vapor Pres:32
+Vapor Density:3.45
+Spec Gravity:0.6979
+Evaporation Rate & Reference:4.2,BUTYL ACETATE
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:WATER WHITE LIQUID;MILD ALIPATIC HYDROCARBON ODOR
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID STRONG OXIDIZING AGENTS
+Hazardous Decomposition Products:CARBON MONOXIDE IF BURNED WITH
+    INSUFFICIENT AIR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:USE SAME PRECAUTIONS FOR DISPOSAL AS YOU WOULD
+    FOR GASOLINE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,179 @@
+=====================  Product Identification  =====================
+
+Product ID:WASP AND HORNET KILLER
+MSDS Date:03/27/1991
+FSC:6840
+NIIN:00-459-2443
+MSDS Number: BLPFN
+=== Responsible Party ===
+Company Name:CLAIRE MANUFACTURING CO
+Address:500 VISTA AVE
+City:ADDISON
+State:IL
+ZIP:60101
+Country:US
+Info Phone Num:708-543-7600
+Emergency Phone Num:800-228-5635
+Preparer's Name:PHILLIP T MILLER
+CAGE:FO815
+=== Contractor Identification ===
+Company Name:CLAIR MFG CO
+Address:500 VISTA
+Box:City:ADDISON
+State:IL
+ZIP:60101
+Country:US
+Phone:630-543-7600
+CAGE:31834
+Company Name:CLAIRE MANUFACTURING COMPANY
+Address:500 VISTA AVENUE
+City:ADDISON
+State:IL
+ZIP:60101
+Phone:(708) 543-7600
+CAGE:FO815
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PARAFFIN-NAPHTAENES; (MEDIUM ALIPHATIC NAPHTHA)
+CAS:64742-88-7
+Fraction by Wt: 80-90%
+ACGIH TLV:100 PPM (MFR)
+
+Ingred Name:MALATHION  (SARA III)
+CAS:121-75-5
+RTECS #:WM8400000
+Fraction by Wt: <5%
+OSHA PEL:S, 15 MG/M3
+ACGIH TLV:S, 10 MG/M3; 9293
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:LPG (LIQUEFIED PETROLEUM GAS)
+CAS:68476-85-7
+RTECS #:SE7545000
+Fraction by Wt: 5-15%
+OSHA PEL:1000 PPM
+ACGIH TLV:1000 PPM; 9192
+
+Ingred Name:VP: 65 PSIG @ 130F.
+RTECS #:9999999ZZ
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHAL: MAY CAUSE DIZZINESS &
+    DROWSINESS. HIGH VAPOR CONCENTRATIONS MAY BE IRRITATING TO THE
+    NOSE, RESPIRATORY TRACT & MAY CAUSE CENTRAL NERVOUS SYSTEM
+    DEPRESSION. SKIN: SLIGHTLY IRRITATING, PROLONGED  OR REPEATED
+    EXPOSURE MAY CAUSE DEFATTING & DRYING OF SKIN. EYE: THIS PROD IS AN
+    EYE IRRITANT. (SEE EFTS OF OVEREXPOS)
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:HLTH HAZ: INGEST: MAY RESULT IN VOMITING.
+    ASPIRATION OF VOMITUS INTO THE LUNGS MUST BE AVOIDED, AS EVEN SMALL
+    QUANTITIES MAY RESULT IN ASPIRATION PNEUMONITIS, WHICH MAY BE
+    EVIDENCED BY COUGHING, LABOR ED BREATHING OR CYANOSIS (BODY
+    BECOMINGBLUE IN COLOR).
+Medical Cond Aggravated by Exposure:PREEXISTING SKIN OR EYE DISORDERS
+    MAY BE AGGRAVATED BY EXPOSURE TO THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINS WHILE
+    HOLDING LIDS OPEN. GET MD ATTN IF IRRIT PERSISTS. SKIN:REMOVE
+    CONTAMD CLTHG. FLUSH SKIN W/WATER, FOLLOW BY WASHING W/SOAP &
+    WATER. IF IRRIT OCCUR S, GET MD ATTN. DO NOT REUSE CLTHG UNTIL
+    CLEANED. INAHL:REMOVE TO FRESH AIR & PROVIDE O2 IF BRTHG IS DFCLT.
+    GIVE ARTF RESP IF NOT BRTHG. GET MD ATTN. INGEST: GET MD ATTN. NOTE
+    TO MD: IF (SUPP DATA)
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:FLAMMABLE
+Lower Limits:2.1%
+Upper Limits:9.5%
+Extinguishing Media:CARBON DIOXIDE, FOAM AND/OR DRY CHEMICAL MAY BE
+    USED.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPRVD SCBA & FULL PROT EQUIP
+    . CNTNRS SHOULD BE COOLED W/WATER TO PVNT VAP PRESS BUILD UP. USE
+    EQUIP/SHIELDING, AS REQUIRED, (SUPP DATA)
+Unusual Fire/Explosion Hazard:AT ELEVATED TEMPERATURES (>54C-130F)
+    CNTNRS EXPOSED TO DIRECT FLAME OR HEAT CONTACT SHOULD BE COOLED
+    WITH WATER TO PREVENT WEAKENING OF CONTAINER STRUCTURE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION AND VENTILATE
+    AREA. SOAK UP SPILL WITH AN INERT ABSORBENT & PLACE INTO A
+    DESIGNATED DISPOSAL CONTAINER. CONSULT LOCAL REGULATORY AGENCY FOR
+    PROPER DISPOSITION OF MATERIA L.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM HEAT & FLAME. DO NOT
+    PUNCTURE/INCINERATE CNTNRS. DO NOT EXPOSE TO DIRECT SUNLIGHT/STORE
+    AT TEMPS >130F(54C). STORE AT LEVEL (SUPP DATA)
+Other Precautions:AVOID BRTHG VAP. USE W/ADEQ VENT. PLEASE READ AND
+    FOLLOW DIRECTIONS ON PRODUCT LABEL; THEY ARE YOUR BEST GUIDE TO
+    USING THIS PRODUCT IN THE MOST EFFECTIVE WAY, AND GIVE THE
+    NECESSARY SAFETY PRECAUTION S TO PROTECT YOUR HEALTH.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED IF GOOD VENTILATION IS MAINTAINED.
+    IF EXPOSURE MAY EXCEED OCCUPATIONAL EXPOSURE LIMITS, USE NIOSH/MSHA
+    APPROVED RESPIRATOR TO PREVENT OVEREXPOSURE.
+Ventilation:LOCAL EXHAUST IS ADEQUATE UNDER NORMAL CONDITIONS,
+    MECHANICAL VENTILATION IS OPTIONAL.
+Protective Gloves:CHEMICAL RESISTANT GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:WEAR IMPERVIOUS CLOTHING TO PREVENT SKIN
+    CONTACT.
+Work Hygienic Practices:ENSURE STRICT SANITARY CONDITIONS ARE CONFORMED
+    TO WHEN WORKING AROUND CHEMS. PROT CLTHG & EQUIP SHOULD BE (SUPP
+    DATA)
+Supplemental Safety and Health
+FIRE FIGHT PROC:TO PROTECT PERS FROM BURSTING/ RUPTURING/VENTING
+    CNTNRS.CNDTNS (STAB):DROPPING OF CNTNRS MAY CAUSE BURSTING.FIRST
+    AID PROC:>2 ML/KG HAS BEEN INGESTED & VOMIT HAS NOT OCCURRED,
+    EMESIS S HOULD BE INDUCED W/SUPERVISION.HNDLG/STOR PREC:AEROSOL
+    (NFPA 30B). HYGIENE PRACT:I/A/W 29 CFR 1910.132 AND CFR 1910.133.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V3
+Vapor Pres:SEE ING 4
+Vapor Density:>1
+Spec Gravity:<1
+Evaporation Rate & Reference:<1 (ETHER=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:CLEAR TO LIGHT BROWN.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:DO NOT SPRAY INTO WIND. DO NOT STORE >54C-
+    130F. KEEP AWAY FROM HEAT/DIRECT SUNLIGHT/OPEN FLAMES/SPKS. (SEE
+    SUPP DATA)
+Hazardous Decomposition Products:CARBON MONOXIDE AND ADDITIONAL TOXIC
+    CHEMICALS MAY BE FORMED IN SMALL AMOUNTS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DO NOT PUNCTURE OR INCINERATE CONTAINERS. WHEN
+    CONTENTS ARE DEPLETED CONTINUE TO DEPRESS BUTTON UNTIL ALL GAS IS
+    EXPELLED. DISPOSE OF CONTAINER I/A/W LOCAL, STATE, AND FEDERAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

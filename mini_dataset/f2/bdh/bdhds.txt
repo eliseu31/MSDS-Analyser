@@ -1,0 +1,94 @@
+=====================  Product Identification  =====================
+
+Product ID:PETROLEUM HYDROCARBON
+MSDS Date:01/01/1987
+FSC:9150
+NIIN:00-186-6705
+MSDS Number: BDHDS
+=== Responsible Party ===
+Company Name:WITCO (SOUTHWEST PETRO-CHEM)
+Emergency Phone Num:913 782 5800
+CAGE:KO529
+=== Contractor Identification ===
+Company Name:WITCO (SOUTHWEST PETRO-CHEM)
+CAGE:KO529
+Company Name:WITCO CORP
+Address:520 MADISON AVE
+Box:City:NEW YORK
+State:NY
+ZIP:10022
+Country:US
+Phone:212-605-3800
+CAGE:82726
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LUBRICATING OIL
+Fraction by Wt: 100%.
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:MAY CAUSE SKIN & EYE IRRITATION W/PROLONGED
+    CONTACT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH W/LG.AMTS OF WTR FOR AT LEAST 15 MIN.-SKIN:WASH
+    W/SOAP & WTR.-INGESTION:CALL DOCTOR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:300F,149C,COC
+Extinguishing Media:CO*2,WTR FOG,FOAM,DRY CHEMICAL,SAND/EARTH.
+Fire Fighting Procedures:WEAR MESA/NIOSH APPVD SCBA (SCH.13)./COOL
+    CNTNRS W/WTR SPRAY
+Unusual Fire/Explosion Hazard:DENSE SMOKE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DIKE & CONTAIN SPILL WITH INERT
+    MATERIAL./TRANSFER LIQUID TO DRUMS FOR RECOVERY./ABSORB REMAINING
+    RESIDUE./SWEEP UP AND DISPOSE AS SOLID WASTE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINERS CLOSED.-
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE
+Ventilation:NONE
+Protective Gloves:RUBBER
+Eye Protection:SFTY GOGGLS & FACE SHLD.
+Other Protective Equipment:EYEWASH FACILITY.
+Supplemental Safety and Health
+MSDS DATED 1-8-85.-ALTERNATE EMERG.#800 424 9300
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Spec Gravity:0.884
+Viscosity:>100 SUS@100F
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:LIQUID,AMBER COLOR,MINERAL OIL ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRG OXIDIZING AGTS:HYDROGN PEROX.,CHROMIC AC.,BROMINE
+Hazardous Decomposition Products:OXIDES OF NITROGN,OXIDES OF
+    SULFUR,CO,CO*2-
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IAW LOCAL, STATE & FEDERAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,180 @@
+=====================  Product Identification  =====================
+
+Product ID:146 4452 BROWN TONER, CONCENTRATE
+MSDS Date:10/22/1997
+FSC:6750
+NIIN:01-248-7958
+MSDS Number: BJDPW
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-477-3194 MSDS :800- 242-2424
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+Company Name:EASTMAN KODAK CO US CUSTOMER SERVICE/GOVERNMENT SALES
+Address:800 LEE RD
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-3129
+Country:US
+Phone:800-828-6203
+CAGE:5K871
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 70 - 80%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:NOT RELEVANT
+ACGIH TLV:NOT RELEVANT
+
+Ingred Name:SODIUM CARBONATE
+CAS:497-19-8
+RTECS #:VZ4050000
+Fraction by Wt: 5 - 10%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:SODIUM HYDROXIDE (CERCLA)
+CAS:1310-73-2
+RTECS #:WB4900000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:2 MG/M3
+ACGIH TLV:C 2 MG/M3; 9495
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:POTASSIUM POLYSULFIDE/POTASSIUM SULFIDE
+CAS:37199-66-9
+RTECS #:TT5950000
+Fraction by Wt: 15 - 20%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): 0.5-5.0 G/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION OF VAPOR IRRITATING. MAY
+    CAUSE IRRITATION TO MUCOUS MEMBRANES, UPPER RESPIRATORY TRACT. EYE
+    CONTACT CAUSES BURNS, VAPOR IRRITATING TO EYES. SKIN CONTACT CAUSES
+    IRRITATION. HARMFUL IF SWALLO WED.
+Explanation of Carcinogenicity:THIS COMPOUND CONTAINS NO INGREDIENTS AT
+    CONCENTRATIONS OF 0.1% OR GREATER THAT ARE CARCINOGENS OR SUSPECT
+    CARCINOGENS.
+Effects of Overexposure:MUCOUS MEMBRANE IRRITATION, RESPIRATORY TRACT
+    IRRITATION, HEADACHE, NAUSEA, DIZZINESS, CONFUSION, WEAKNESS,
+    UNCONSCIOUSNESS, CONVULSIONS, DEATH, EYE BURNS, EYE IRRITATION,
+    SKIN IRRITATION. IF FREE GAS TRIC ACIDITY IS HIGH, HYDROGEN SULFIDE
+    IS LIBERATED IN STOMACH AND MAY CAUSE SYSTEMIC TOXIC EFFECTS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: IF SYMPTOMATIC, MOVE TO FRESH AIR. GET MEDICAL
+    ATTENTION IF SYMPTOMS PERSIST. EYES: WASH OUT IMMEDIATELY WITH
+    WATER. GET MEDICAL ATTENTION IF SYMPTOMS OCCUR. SKIN: WASH WITH
+    SOAP AND WATER . GET MEDICAL ATTENTION IF SYMPTOMS OCCUR.
+    INGESTION: INDUCE VOMITING AS DIRECTED BY MEDICAL PERSONNEL. NEVER
+    GIVE ANYTHING BY MOUTH TO AN UNCONSCIOUS PERSON. CALL PHYSICIAN OR
+    POISON CONTROL ASAP.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONFLAMMABLE
+Lower Limits:NOT GIVEN
+Upper Limits:NOT GIVEN
+Extinguishing Media:WATER SPRAY, CARBON DIOXIDE, DRY CHEMICAL, ALCOHOL
+    FOAM.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS AND
+    PROTECTIVE CLOTHING. FIRE OR EXCESSIVE HEAT MAY PRODUCE HAZARDOUS
+    DECOMPOSITION PRODUCTS.
+Unusual Fire/Explosion Hazard:MAY CAUSE SPONTANEOUS HEATING AND
+    IGNITION WHEN ABSORBED ON COMBUSTIBLE, POROUS MATERIAL (E.G. RAGS,
+    PAPER, SAWDUST, COTTON, CLOTHING).
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:COLLECT IN A NONCOMBUSTIBLE CONTAINER FOR
+    PROMPT DISPOSAL. CLEAN SURFACE TO REMOVE RESIDUAL CONTAMINATION.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT GET IN EYES AND AVOID CONTACT
+    WITH SKIN AND CLOTHING. AVOID BREATHING VAPOR. USE WITH ADEQUATE
+    VENTILATION. KEEP FROM CONTACT WITH OXIDIZERS.
+Other Precautions:KEEP CONTAINER TIGHTLY CLOSED. KEEP AWAY FROM
+    INCOMPATIBLE SUBSTANCES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SHOULD BE NEEDED. A FULL-FACE
+    POSITIVE-PRESSURE AIR-SUPPLIED RESPIRATOR MUST BE WORN IF HAZARDOUS
+    DECOMPOSITION PRODUCTS ARE LIKELY TO BE RELEASED OR HAVE BEEN
+    RELEASED.
+Ventilation:GOOD GENERAL VENTILATION, TYPICALLY 10 AIR CHANGES PER
+    HOUR, SHOULD BE USED. RATES SHOULD MATCH CONDITIONS.
+Protective Gloves:IMPERVIOUS
+Eye Protection:SAFETY GLASSES W/SIDE SHIELDS OR GOGGLES
+Other Protective Equipment:CHEMICAL RESISTANT CLOTHING AS NECESSARY TO
+    PREVENT SKIN CONTACT. AN EMERGENCY EYEWASH AND SHOWER SHOULD BE
+    AVAILABLE.
+Work Hygienic Practices:WASH HANDS THOROUGHLY WITH SOAP AND WATER
+    BEFORE EATING, DRINKING, SMOKING OR USING TOILET FACILITIES.
+Supplemental Safety and Health
+REMOVE AND WASH CONTAMINATED CLOTHING BEFORE REUSE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:B3
+NRC/State Lic Num:NOT RELEVANT
+Boiling Pt:B.P. Text:>212F,>100C
+Melt/Freeze Pt:M.P/F.P Text:NOT GIVEN
+Vapor Pres:18
+Vapor Density:0.6
+Spec Gravity:1.23
+pH:11.7
+Evaporation Rate & Reference:NOT GIVEN
+Solubility in Water:COMPLETE
+Appearance and Odor:AMBER LIQUID, SULFUR ODOR
+Percent Volatiles by Volume:70-80%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACIDS, STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:CARBON DIOXIDE, CARBON MONOXIDE,
+    OXIDES OF SULFUR, HYDROGEN SULFIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISCHARGE, TREATMENT OR DISPOSAL MAY BE SUBJECT
+    TO NATIONAL, STATE OR LOCAL LAWS.  MAY REQUIRE NEUTRALIZATION IF PH
+    < 2.0 OR PH > 12.5. DISPOSE OF IN ACCORDANCE WITH ALL APPLICABLE
+    FEDERAL, STATE AND	LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

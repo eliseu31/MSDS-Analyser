@@ -1,0 +1,155 @@
+=====================  Product Identification  =====================
+
+Product ID:INHIBISOL
+MSDS Date:02/07/1990
+FSC:6810
+NIIN:00-930-6311
+MSDS Number: BLPGC
+=== Responsible Party ===
+Company Name:PENETONE CORP
+Address:74 HUDSON AVENUE
+City:TENAFLY
+State:NJ
+ZIP:07670-1017
+Country:US
+Info Phone Num:201-567-3000
+Emergency Phone Num:201-567-3000  FAX: 201-569-5340
+CAGE:56881
+=== Contractor Identification ===
+Company Name:PENETONE CORP
+Address:74 HUDSON
+City:TENAFLY
+State:NJ
+ZIP:07670-1017
+Country:US
+Phone:201-567-3000
+CAGE:56881
+Company Name:PENETONE CORP
+Address:74 HUDSON AVE
+Box:City:TENAFLY
+State:NJ
+ZIP:07670
+Country:US
+Phone:201-567-3000
+CAGE:56883
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL CHLOROFORM (1,1,1-TRICHLOROEHANE)  (SARA III)
+CAS:71-55-6
+RTECS #:KJ2975000
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:350 PPM/450 STEL
+ACGIH TLV:350 PPM/450STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+Ozone Depleting Chemical:1
+
+Ingred Name:1,4-DIOXANE (DIETHYLENE DIOXIDE)  (SARA III)
+CAS:123-91-1
+RTECS #:JG8225000
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:S, 100 PPM
+ACGIH TLV:S, 25 PPM; 9293
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL-RAT LD50=10,300 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:IRRITATING TO SKIN AND EYES. EXCESSIVE
+    INHALATION OR INGESTION MAY PRODUCE CNS DEPRESSION. MAY CAUSE
+    VENTRICULAR FIBRILLATION. ASPIRATION INTO LUNGS MAY LEAD TO
+    CHEMICAL PNEUMONIA. HIGH DOSES HAVE PRO DUCED MILD LIVER EFFECTS IN
+    ANIMALS.
+Effects of Overexposure:IRRITATION AND REDNESS TO SKIN AND EYES.
+    COUGHING, HEADACHE, DIZZINESS, DROWSINESS AND NAUSEA. DEPRESSION,
+    FATIGUE, LOSS OF APPETITE, AND VOMITING.
+Medical Cond Aggravated by Exposure:CUTS, ABRASIONS, DERMATITIS,
+    RESPIRATORY OR HEART AILMENTS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH WATER FOR 15 MIN. SEE A PHYSICIAN
+    IMMEDIATELY. SKIN: REMOVE CONTAMINATED CLOTHING. WASH SKIN WITH
+    MILD SOAP AND WATER. CONSULT A PHYSICIAN IF IRRITATION DEVELOPS OR
+    PERSISTS. INHALATI ON: REMOVE TO FRESH AIR. ADMINISTER OXYGEN OR
+    ARTIFICIAL RESPIRATION IF NEEDED. CALL A PHYSICIAN IMMEDIATELY.
+    INGESTION: DO NOT INDUCE VOMITING. CALL A PHYSICIAN IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:CARBON DIOXIDE, WATER SPRAY (FOG), DRY CHEMICAL.
+    TREAT AS A TYPE B (OIL TYPE) FIRE.
+Fire Fighting Procedures:USE CANISTER TYPE GAS MASK. COOL EXPOSED
+    CONTAINERS WITH WATER. AVOID BREATHING VAPORS OR FUMES.
+Unusual Fire/Explosion Hazard:CONTAINERS CAN RUPTURE AND EXPLODE UNDER
+    FIRE CONDITION DUE TO VAPOR BUILDUP. COMBUSTION PRODUCTS CONTAIN
+    HYDROGEN CHLORIDE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE IGNITION SOURCES. DIKE SPILL. COVER
+    SPILL WITH DRY LIME OR SODA ASH, PICK UP, KEEP IN CLOSED CONTAINER
+    AND HOLD FOR WASTE DISPOSAL.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN ORIGINAL CONTAINER ONLY. USE
+    WITH ADEQUATE VENTILATION. KEEP AWAY FROM HEAT SOURCES, OPEN FLAMES
+    AND OTHER SOURCES OF IGNITION.
+Other Precautions:OPEN DRUM BUNG SLOWLY TO RELEASE ANY INTERNAL
+    PRESSURE. KEEP FACE AWAY WHEN OPENING DRUM.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NEEDED UNDER NORMAL USE CONDITIONS. USE
+    HALOGENATED VAPOR MASK WHEN TLV IS EXCEEDED.
+Ventilation:USE PEDESTAL FANS OR MECHANICAL EXHAUST.
+Protective Gloves:SOLVENT RESISTANT, PVA COATED.
+Eye Protection:SPLASH-PROOF GOGGLES.
+Other Protective Equipment:RUBBER BOOTS, APRON AND GAUNTLETS AS NEEDED.
+    EYE BATH AND SAFETY SHOWER.
+Work Hygienic Practices:WASH HANDS AFTER HANDLING THIS PRODUCT.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V2
+Boiling Pt:B.P. Text:165F,74C
+Vapor Pres:100 MM HG
+Vapor Density:4.55
+Spec Gravity:1.320
+Evaporation Rate & Reference:0.4 (ETHER=1)
+Solubility in Water:INSOLUBLE
+Appearance and Odor:CLEAR WATER-WHITE LIQUID, ETHER-LIKE ODOR.
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS, METALS SUCH AS SODIUM AND POTASSIUM.
+Stability Condition to Avoid:AVOID EXTREME TEMPERATURES.
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE,
+    HYDROCHLORIC ACID, AND PHOSGENE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:THIS PRODUCT MAY BE DISSOLVED OR MIXED WITH A
+    COMBUSTIBLE SOLVENT AND BURNED IN A CHEMICAL INCINERATOR EQUIPPED
+    WITH AN AFTERBURNER AND SCRUBBER. DISPOSE OF IN ACCORDANCE WITH
+    LOCAL, STATE, AND FEDERA L REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

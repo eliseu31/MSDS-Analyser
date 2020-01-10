@@ -1,0 +1,140 @@
+=====================  Product Identification  =====================
+
+Product ID:5601, VALUX LIGHT CURE SMALL PARTICLE RESTORATIVE
+MSDS Date:04/16/1992
+FSC:6520
+NIIN:01-257-4671
+MSDS Number: BJDGS
+=== Responsible Party ===
+Company Name:MINNESOTA MINING MFG CO DENTAL PROD DIV
+Address:3M CENTER
+City:ST PAUL
+State:MN
+ZIP:55144-1000
+Country:US
+Info Phone Num:612-737-1110
+Emergency Phone Num:612-737-1110
+CAGE:76381
+=== Contractor Identification ===
+Company Name:MINNESOTA MINING AND  MFG CO, DBA 3M
+Address:3M CENTER BLDG 224-5S-04
+Box:City:SAINT PAUL
+State:MN
+ZIP:55144-1000
+Country:US
+Phone:866-556 5712 / 612-733-1110
+CAGE:76381
+Company Name:MINNESOTA MINING AND MFG CO DENTAL PRODUCTS DIV
+Address:3M CENTER
+Box:City:SAINT	PAUL
+State:MN
+ZIP:55144-1000
+Country:US
+Phone:800-364-3577/651-737-6501
+CAGE:0K0U5
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SILICA, CRYSTALLINE - QUARTZ
+CAS:14808-60-7
+RTECS #:VV7330000
+Fraction by Wt: 65-75%
+Other REC Limits:0.05 MG/CUM NIOSH
+OSHA PEL:SEE TABLE Z3
+ACGIH TLV:0.1 MG/M3 RDUST;9293
+
+Ingred Name:BISPHENOL A DIGLYCIDYL METHACRYLATE
+CAS:30757-19-8
+Fraction by Wt: 10-15%
+
+Ingred Name:TRIETHYLENE GLYCOL DIMETHACRYLATE
+CAS:109-16-0
+RTECS #:OZ4100000
+Fraction by Wt: 5-10%
+
+Ingred Name:SILICA AMORPHOUS HYDRATED, SILICEOUS EARTH, FUMED
+    SILICA,COLLOIDAL SILICA, AMORPHOUS SILICA
+CAS:112945-52-5
+RTECS #:VV7310000
+Fraction by Wt: <5.0%
+Other REC Limits:20 MPPCF
+OSHA PEL:80 MG/CUM (%SIO2+2)
+
+Ingred Name:ACRYLIC ACID, 2-PROPENOIC ACID			       
+    IC = INTENDED CHANGE ACGIH
+CAS:79-10-7
+RTECS #:AS3475000
+Fraction by Wt: <5.0%
+Other REC Limits:2 PPM = IC
+OSHA PEL:10 PPM
+ACGIH TLV:29 MG/CUM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ALPHA-ALUMINA (ALUMINUM OXIDE)  (EPA LISTS ONLY FIBROUS
+    FORMS)  (SARA III)
+CAS:1344-28-1
+RTECS #:BD1200000
+Fraction by Wt: <1.0%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:EYES: MILD IRRITATION, PAIN. SKIN:
+    MODERATE IRRITATION. ABSORPTION HAZARD.
+Explanation of Carcinogenicity:SEE INGREDIENTS
+Effects of Overexposure:EYES: REDNESS, SWELLING, TEARING. SKIN:
+    REDNESS, SWELLING, ITCHING, DRYNESS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER FOR 15 MINS. SKIN: FLUSH W/WATER. OBTAIN
+    MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:CO2, WATER, DRY CHEMICAL
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONTAIN SPILL. COLLECT SPILLED MATERIAL. CLEAN
+    UP RESIDUE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTACT W/SKIN & EYES. DON'T
+    INGEST. STORE OUT OF DIRECT SUNLIGHT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Supplemental Safety and Health
+WASH CONTAMINATED CLOTHING BEFORE RE-USE.
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:1.8
+Solubility in Water:INSOLUBLE
+Appearance and Odor:THICK PASTE, SLIGHT METHACRYLATE ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ZINC OXIDE EUGENOL DENTAL PREPARATIONS
+Stability Condition to Avoid:DIRECT SUNLIGHT
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF WASTE & COMPLETELY CURED MATERIAL IN
+    SANITARY LANDFILL I/A/W LOCAL, STATE & FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,139 @@
+=====================  Product Identification  =====================
+
+Product ID:LACQUER SPRAYING OLIVE DRAB 14087
+MSDS Date:01/01/1987
+FSC:8010
+NIIN:00-171-1503
+MSDS Number: BDFJF
+=== Responsible Party ===
+Company Name:PRATT AND LAMBERT INC
+Address:16116 E 13TH ST
+Box:2153
+City:WICHITA
+State:KS
+ZIP:67201
+Country:US
+Info Phone Num:316-733-1361
+Emergency Phone Num:716-873-6000 DOT EMER 8002553924
+CAGE:61196
+=== Contractor Identification ===
+Company Name:PRATT AND LAMBERT INC
+Box:6027
+City:CLEVELAND
+State:OH
+ZIP:44101-1027
+Country:US
+Phone:216-566-2902
+CAGE:61196
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:*ISOBUTYL ACETATE
+RTECS #:NP9100000
+Fraction by Wt: 25%
+ACGIH TLV:150PPM
+
+Ingred Name:ISOBUTYL ALCOHOL  (SARA III)
+CAS:78-83-1
+RTECS #:NP9625000
+Fraction by Wt: 8%
+OSHA PEL:100 PPM
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:*METHYL ETHYL KETONE
+RTECS #:PM7780000
+Fraction by Wt: 15%
+ACGIH TLV:200PPM
+
+Ingred Name:*TOLUOL/TOLUENE (NIOSH SHOWN FOR TOLUOL)
+RTECS #:XV1400000
+Fraction by Wt: 8%
+ACGIH TLV:100PPM
+
+Ingred Name:*ALIPHATIC NAPHTHA
+Fraction by Wt: 15%
+ACGIH TLV:200PPM
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:INHAL:ANEST.IRRIT OF NOSE, THROAT, EYES &
+    POSS.DIZZ & NAUSEA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:REMOV FRM EXPOSR & PROVIDE FRESH AIR.SPLASH EYES:FLUSH
+    IMMED. W/LG AMTS OF WATER F/15 MIN.SPLASH SKIN:REMOV CONTAM
+    CLOTHING & WASH AFFECTED AREA W/WATER. INGESTION:DO NOT INDUCE
+    VOMITING.CONSULT  A PHYSICIAN IMMEDIATELY IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:13F TCC -11C T
+Extinguishing Media:NFPA CL B EXTINGRS (CO*2, DRY CHEM OR ALCOHOL FOAM)
+Fire Fighting Procedures:SELF-CONTND BREATHING APPAR F/FIREMEN
+Unusual Fire/Explosion Hazard:KEEP CONTNRS TIGHTLY CLOS & ISOLAT FRM
+    HEAT,ELECT EQPMT SPARKS,& OPN FLAME.CLOS CONTNRS MAY EXPLO(SU
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNIT(FLAMES,HOT SURFACE
+    & ELECTR, STATIC OR FRICTIONAL SPARKS).VENTILAT AREA & AVOID
+    BREATHING VAPORS.REMOV W/INERT ABSORBENT & USE NON-SPARKING
+    TOOLS.STEPS MUST BE TAKEN TO AVO ID CONTAM OF GROUND WATER OR
+    STREAMS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT STORE ABOV 120F.STORE LG QTYS
+    IN COMPLIANCE W/OSHA 1910.106.CONTNRS SHOULD BE BONDED TO EACH
+    OTHER & GROUNDED PROPERLY WHN TRANSFR/POURING INT
+Other Precautions:DO NOT CUT OR WELD ON EMPTY CONTNRS "DO NOT USE UNTIL
+    ALL SAFETY PRECAUTIONS & MIXING DIRECTIONS HAVE BEEN READ & FULLY
+    UNDERSTOOD BY THE USER."
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPRVD MECH RESPIRATOR TO REMOV OVERSPRAY
+    WHN SPRAY OUTDR/OPEN
+Ventilation:PROVID GEN. DILUT OR LOC EXHAUST VENT TO KP CONCENTR OF HAZ
+Protective Gloves:SOLVNT IMPERMEA
+Eye Protection:SAFETY EYEWEAR
+Other Protective Equipment:USE PROTECTIVE EQPMT TO PREVNT SKIN CONTACT.
+Supplemental Safety and Health
+*INDICATES SOLVENT. UNUS. FIRE & EXPLOS HAZ: WHEN EXPOSED TO EXTREME
+    HEAT.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:B.P. Text:174-700F
+Vapor Density:HEAV
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:82
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTACT W/STRONG ACIDS OR ALKALIS.
+Stability Condition to Avoid:FIRES,HEAT,SPARKS, & HOT SURFACES
+Hazardous Decomposition Products:SMOKE & OXIDES OF NITROGN & CARBON
+    WHEN BURNED.
+Conditions to Avoid Polymerization:DO NOT AD DRIERS OR REACTV CHEM W/O
+    TECH SUPVISON.SEE LABEL
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN ACCORD W/LOCAL, STATE & FEDERAL
+    REGULATIONS. INCINERATE IN EPA APPRVD FACILITY. DO NOT INCINERATE
+    CLOSED CONTAINERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

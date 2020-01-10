@@ -1,0 +1,147 @@
+=====================  Product Identification  =====================
+
+Product ID:ENAMEL, DECK, INTERIOR GRAY 36231
+MSDS Date:09/19/1988
+FSC:8010
+NIIN:00-285-4870
+MSDS Number: BHWSQ
+=== Responsible Party ===
+Company Name:CHEMRAY COATINGS, CORP.
+Address:209 N. MICHIGAN AVE.
+Box:NA
+City:KENILWORTH
+State:NJ
+ZIP:07033
+Country:US
+Info Phone Num:201-245-1111
+Emergency Phone Num:800-924-9300
+CAGE:OBRN9
+=== Contractor Identification ===
+Company Name:CHEMRAY COATING CORP
+Address:209 N MICHIGAN AVE
+Box:City:KENILWORTH
+State:NJ
+ZIP:07033
+Country:US
+Phone:201-245-1111
+CAGE:33832
+Company Name:CHEMRAY COATINGS CORP.
+Address:209 N. MICHIGAN AVE.
+Box:NA
+City:KENILWORTH
+State:NJ
+ZIP:07033
+Country:US
+Phone:800-924-9300
+CAGE:OBRN9
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PIGMENTS
+Fraction by Wt: 41%
+
+Ingred Name:VEHICLE
+Fraction by Wt: 26%
+
+Ingred Name:STODDARD SOLVENT
+CAS:8052-41-3
+RTECS #:WJ8925000
+Fraction by Wt: 33%
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM; 9293
+
+Ingred Name:LEAD DRIEER (AS PB)
+CAS:123-96-6
+RTECS #:RH0795000
+Fraction by Wt: .1%
+ACGIH TLV:.05 MG/M3
+
+Ingred Name:VOC. ORGANIC CMPD 3.44 LB/GL LESS WATER & NPRS* 413 G/L
+    LESSWATER
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Health Hazards Acute and Chronic:REPORTS HAVE ASSOCIATED
+    REPEATED/PROLONGED OCCUPATION OVEREXPOSURE TO SOLVENTS  WITH
+    PERMANENT BRAIN AND NERVOUS SYSTEM DAMAGE. INTENTIONAL MISUSE BY
+    DELIBERAT-ELY COCENTRATING & INHALING THE CONTENTS	MAY BE HARMFUL
+    OR FATAL.
+Effects of Overexposure:EYE: IRRITATING 			       
+				    INHAL: RESPIRATORY TRACT
+    IRRITATION, HEADACHES, DIZZINESS			   SKIN:
+    IRRITATION
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH WITH WATER 15 MINUTES, CALL A PHYSICIAN	       
+		      SKIN: REMOVE CONTAMINATED CLOTHING & WASH
+    THOROUGHLY W/SOAP & WATER.		  INHAL: REMOVE TO FRESH AIR,
+    CALL A PHYSI CIANINGST: DO NOT INDUCE VOMITING, CALL A PHYSICIAN
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:103F/39.44C
+Lower Limits:.9
+Upper Limits:7
+Extinguishing Media:CARBON DIOXIDE, FOAM, WATER FOG, DRY CHEMICAL
+Fire Fighting Procedures:USE AIR SUPPLIED BREATHING EQUIPMENT FOR
+    ENCLOSED CONTAINERS WITH WATER SPRAY,  AVOID BREATHING VAPOR OR
+    FUMES
+Unusual Fire/Explosion Hazard:IF LEAK OR SPILL HAS IGNITED, USE WATER
+    SPRAY TO DISPERSE THE VAPORS FROM FIRE  FIGHTERS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL IGNITION SOURCES. KEEP FROM HEAT,
+    SPARKAND OPEN FLAME. ADD ABSORBENT (SAND,EARTH,SAWDUST)TO SPILL. IF
+    LG SPILL KEEP PRODUCT FROM ENTERING  SEWERS/WATERCOURSES BY DIKING.
+    ADVISE AUTHORITIES	IF PRODUCT HAS ENTERED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:HYDROCARBON VAPOR CANISTER OR SUPPLIED AIR
+    RESPIRATORY
+Ventilation:LOCAL EXHAUST AND MECHANICAL
+Protective Gloves:CHEM RESISTANT GLOVES
+Eye Protection:SPLASH GOGGLES OF FACE SHIELD
+Other Protective Equipment:CHEMICAL RESISTANT APRON OR OTHER PROTECTIVE
+    CLOTHING
+Work Hygienic Practices:WASH HAND THOROUGHLY AFTER USE AND KEEP
+    CONTAINER CLOSED	WHEN NOT IN USE.
+Supplemental Safety and Health
+NK
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:308F
+Vapor Pres:<10
+Vapor Density:4.8
+Spec Gravity:1.21
+Evaporation Rate & Reference:.09
+Solubility in Water:NEG
+Appearance and Odor:GRAY LIQUID WITH KEROSENE ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING MATERIAL WHEN HEATED TO DECOMPOSITION
+Stability Condition to Avoid:HIGH TEMPERATURES
+Hazardous Decomposition Products:CARBON MONOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF ABSORBED MATERIAL AT AN APPROVED
+    DISPOSAL SITE OR FACILITY. ASSURE CONFORMITY W/APPLICABLDISPOSAL
+    REGULATION.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

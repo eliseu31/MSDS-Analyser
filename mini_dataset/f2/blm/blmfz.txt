@@ -1,0 +1,134 @@
+=====================  Product Identification  =====================
+
+Product ID:SCREEN CLEANER 420
+MSDS Date:06/09/1986
+FSC:6850
+NIIN:00N021100
+MSDS Number: BLMFZ
+=== Responsible Party ===
+Company Name:MACDERMID INC
+Address:9805 HAMILTON ROAD
+City:EDEN PRAIRIE
+State:MN
+ZIP:55344
+Country:US
+Info Phone Num:612-944-9141
+Emergency Phone Num:313-644-5626
+Preparer's Name:JOHN J KASPER
+CAGE:1FK56
+=== Contractor Identification ===
+Company Name:MACDERMID INC
+Address:526 HUNTINGTON AVENUE
+Box:City:WATERBURY
+State:CT
+ZIP:06702
+Country:US
+Phone:203-575-5700
+CAGE:1FK56
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HEXYLENE GLYCOL
+CAS:107-41-5
+RTECS #:SA0810000
+Fraction by Wt: 1-10%
+OSHA PEL:C 25 PPM
+ACGIH TLV:C 25 PPM; 9192
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50:ORAL(RAT)=4 G/KG.
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYE:CAN CAUSE MODERATE TO SEVERE
+    IRRITATION. SKIN:MAY CAUSE IRRITATION WITH PROLONGED CONTACT.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:NONE SPECIFIED BY MANUFACTURER.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:IMMED FLUSH FOR @ LST 15 MIN WHILE HOLDING EYELIDS OPEN.
+    CALL MD IMMED. SKIN:WASH THORO W/SOAP & RINSE W/H2O. CALL MD.
+    INHAL:REMOVE TO FRESH AIR. TREAT SYMPS. CALL MD. INGEST:IF
+    UNCONSCIOUS, HAVI NG TROUBLE BRTHG/IN CONVLS, DO NOT INDUCE
+    VOMIT/GIVE H2O. NOTE TO MD:NO SPEC ANTIDOTE IS KNOWN. BASED ON
+    INDIVIDUAL RXNS OF PATIENT, MD'S JUDGMENT SHOULD BE USED TO CONTROL
+    SYMPS & CLINICAL CNDTN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:>200F,>93C
+Extinguishing Media:BASED ON NFPA GUIDE, USE DRY CHEM/ALCOHOL FOAM/CO2/
+    OTHER EXTING AGENT SUITABLE FOR CLASS B FIRES. USE H2O TO (SUPDAT)
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SM LIQ SPILLS:CONTAIN W/ABSORB MATL, SUCH AS
+    SAW DUST/CLAY/SOIL/ANY COMMERCIALLY AVAIL ABSORB. SHOVEL RECLAIMED
+    LIQ & ABSORB INTO RECOVERY/SALVAGE DRUMS FOR DISP. LG LIQ
+    SPILLS:DIKE TO PVNT FURTHER MO VEMENT & RECLAIM INTO
+    RECOVERY/SALVAGE (SUPP DATA)
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:MAY CAUSE IRRITATION TO SKIN AND EYES.
+    AVOID CONTACT WITH SKIN, EYES & CLOTHING. DO NOT TAKE INTERNALLY.
+Other Precautions:EMPTY CONTAINERS MAY CONTAIN RESIDUAL PRODUCT. DO NOT
+    REUSE CONTAINER UNLESS PROPERLY RECONDITIONED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF IT IS POSS TO GENERATE SIGNIFICANT LEVELS OF
+    VAPS/MISTS, NIOSH/MSHA APPRVD/EQUIV RESP IS RECOMMENDED. FOR LG
+    SPILLS, ENTRY INTO LG TANKS/VESSELS/ENCLSD SM SPACES W/INADEQ VENT,
+    NIOSH/MSHA APPRVD PR ESS-DEMAND, SCBA IS RECOMMENDED.
+Ventilation:GENERAL VENTILATION IS RECOMMENDED.
+Protective Gloves:IMPERMEABLE GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:SHOES.
+Work Hygienic Practices:IF CLTHG IS CONTAM, REMOVE/THORO WASH AFFECTED
+    AREA. WASH CONTAM CLTHG BEFORE REUSE. DISCARD CONTAM SHOES/LEATHER
+    ITEMS.
+Supplemental Safety and Health
+EXTING MEDIA:COOL CNTNRS EXPOSED TO FIRE. FOR LG FIRES, USE H2O SPRAY
+    OR FOG, THORO DRENCHING BURNING MATL. MATLS TO AVOID:WHICH CAN
+    GENERATE HEAT, FIRES, EXPLOSIONS & REL OF TOX FUMES. SPILL PROC:DRU
+    MS OR TANK TRUCK FOR DISPOSAL.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:>200F,>93C
+Spec Gravity:0.9-1
+Solubility in Water:PARTIALLY
+Appearance and Odor:COLORLESS LIQUID; SWEET ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+AVOID CNTCT W/STRONG OXIDIZERS (EG,CHLORINE/PEROXIDES/ CHROMATES/NITRIC
+    ACID/PERCHLORATES/CONC O2/PERMANGANATES)(SUPDAT
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:IN EVENT OF COMBUSTION CO, CO2, MAY BE
+    FORMED. DO NOT BREATHE SMOKE OR FUMES. WEAR SUITABLE PROT EQUIP.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:IF PROD BECOMES WASTE, IT DOES NOT MEET CRITERIA
+    OF HAZ WASTE AS DEFINED UNDER RCRA 40 CFR 261. AS NON-HAZ LIQ
+    WASTE, IT SHOULD BE SOLIDIFIED BEFORE DISP TO SANITARY LANDFILL.
+    CAN BE INCIN I/A/W LOCAL , STATE & FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

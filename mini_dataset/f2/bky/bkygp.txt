@@ -1,0 +1,128 @@
+=====================  Product Identification  =====================
+
+Product ID:ETHYL ALCOHOL 200 PROOF USP
+MSDS Date:02/20/1988
+FSC:6505
+NIIN:00-104-9000
+MSDS Number: BKYGP
+=== Responsible Party ===
+Company Name:SIGMA CHEMICAL COMPANY
+Box:14508
+City:ST LOUIS
+State:MO
+ZIP:63178
+Info Phone Num:(314) 771-5765
+Emergency Phone Num:(314) 771-5765
+Preparer's Name:KELLY MCANAUL
+CAGE:21076
+=== Contractor Identification ===
+Company Name:SIGMA CHEMICAL COMPANY
+Address:3050 SPRUCE ST
+Box:14508
+City:ST LOUIS
+State:MO
+ZIP:63178
+Country:US
+Phone:314-771-5765
+CAGE:21076
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHYL ALCOHOL (ETHANOL)
+CAS:64-17-5
+RTECS #:KQ6300000
+Fraction by Wt: 100%
+Other REC Limits:1900 MG/CUM
+OSHA PEL:1000 PPM
+ACGIH TLV:1000 PPM; 9192
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): 7060 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:HARMFUL BY INHALATION, INGESTION/SKIN
+    ABSORPTION. INHALATION: VAPOR/MIST IS IRRITATING TO EYES, MUCOUS
+    MEMBRANES & UPPER RESPIRATORY TRACT. SKIN: IRRITATION. CAN CAUSE
+    CNS DEPRESSION, NARCOTIC EFFECT  & DAMAGE TO THE HEART, NERVES &
+    LIVER.
+Explanation of Carcinogenicity:ALCOHOL HAS BEEN LINKED TO CANCER IN
+    HUMANS.
+Effects of Overexposure:IRRITATION, NAUSEA, HEADACHE, VOMITING
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. EYES: FLUSH W/COPIOUS
+    AMOUNTS OF WATER FOR 15 MINS. INGESTION: WASH OUT MOUTH W/WATER IF
+    CONSCIOUS. SKIN: FLUSH W/COPIOUS AMOUNTS OF WATER FOR 15 MINS.
+    OBTAIN MEDICAL  ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:62F
+Extinguishing Media:CO2, DRY CHEMICAL POWDER/APPROPRIATE FOAM
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS &
+    PROTECTIVE CLOTHING. USE WATER SPRAY TO COOL FIRE EXPOSED
+    CONTAINERS.
+Unusual Fire/Explosion Hazard:FLAMMABLE LIQUID. VAPOR MAY TRAVEL
+    CONSIDERABLE DISTANCE TO SOURCE OF IGNITION & FLASH BACK.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE AREA. SHUT OFF ALL IGNITION SOURCES.
+    WEAR SCBA, RUBBER BOOTS & HEAVY RUBBER GLOVES. COVER
+    W/DRY-LIME/SAND/SODA ASH. PLACE IN COVERED CONTAINERS USING
+    NON-SPARKING TOOLS & TRANSPORT OUTDOORS.  VENTILATE AREA/WASH SITE
+    AFTER PICKUP IS COMPLETE.
+Neutralizing Agent:DRY-LIME, SODA ASH
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP TIGHTLY CLOSED & AWAY FROM HEAT,
+    SPARKS, OPEN FLAME & OTHER IGNITION SOURCES, MOISTURE. STORE IN A
+    COOL, DRY PLACE.
+Other Precautions:DON'T BREATHE VAPOR. DON'T GET IN EYES, ON SKIN & ON
+    CLOTHING. AVOID PROLONGED/REPEATED EXPOSURE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE A NIOSH/MSHA APPROVED RESPIRATOR.
+Ventilation:USE ONLY IN A CHEMICAL FUME HOOD.
+Protective Gloves:CHEMICAL RESISTANT, RUBBER
+Eye Protection:CHEMICAL SAFETY GOGGLES
+Other Protective Equipment:RUBBER BOOTS, SAFETY SHOWER & EYE BATH &
+    OTHER PROTECTIVE CLOTHING
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING/SHOES
+    BEFORE REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:172.4F
+Spec Gravity:0.794
+Appearance and Odor:CLEAR, COLORLESS LIQUID
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING AGENTS, PEROXIDES, ACIDS, ACID CHLORIDES, ACID ANHYDRIDES
+    ALKALI METALS, AMMONIA
+Stability Condition to Avoid:HEAT, SPARKS, OPEN FLAME/OTHER SOURCES OF
+    IGNITION, MOISTURE
+Hazardous Decomposition Products:CO & CO2.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:BURN IN A CHEMICAL INCINERATOR EQUIPPED W/AN
+    AFTER BURNER & SCRUBBER, USING EXTRA CARE IN IGNITING AS MATERIAL
+    IS HIGHLY FLAMMABLE. OBSERVE ALL FEDERAL, STATE, & LOCAL
+    REGULATIONS. UN 1170, UN 1986, U N1987.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

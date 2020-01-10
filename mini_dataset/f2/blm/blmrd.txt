@@ -1,0 +1,147 @@
+=====================  Product Identification  =====================
+
+Product ID:DURAGLIDE
+MSDS Date:04/10/1990
+FSC:8010
+NIIN:00N022679
+MSDS Number: BLMRD
+=== Responsible Party ===
+Company Name:VISTA PAINT CORP
+Address:2020 E ORANGETHORPE AVE
+City:FULLERTON
+State:CA
+ZIP:92631
+Country:US
+Info Phone Num:714-680-3800
+Emergency Phone Num:714-680-3800
+CAGE:0C474
+=== Contractor Identification ===
+Company Name:VISTA PAINT CORP
+Address:2020 E ORANGETHORPE AVE
+Box:City:FULLERTON
+State:CA
+ZIP:92631
+Country:US
+Phone:714-680-3800
+CAGE:0C474
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHYLENE GLYCOL  (SARA III)
+CAS:107-21-1
+RTECS #:KW2975000
+OSHA PEL:C 50 PPM
+ACGIH TLV:C 50 PPM,VAPOR; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:PHENYLMERCURIC ACETATE  (SARA III)
+CAS:62-38-4
+RTECS #:OV6475000
+OSHA PEL:0.1 MG HG/M3;CEIL;S
+ACGIH TLV:0.01 MG HG/M3; 9192
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:SILICA, CRYSTALLINE - CRISTOBALITE
+CAS:14464-46-1
+RTECS #:VV7325000
+OSHA PEL:SEE TABLE Z3
+ACGIH TLV:0.05 MG/M3 RDUST9293
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:INHAL: VAPOR ODORS MAY CAUSE
+    IRRITATION, NAUSEA, HEADACHES, AND DIZZINESS. EYE: CAN CAUSE MINOR
+    IRRITATION, REDNESS AND TEARING. ABSORB THROUGH SKIN: CAN CAUSE
+    MINOR IRRITATION. INGEST: CAN CAUSE NAUS EA, VOMITING, DIARRHEA,
+    AND GASTROINTESTINAL IRRITATION. ACUTE: EXCESSIVE INHALATION OF
+    VAPORS MAY (SEE EFTS OF OVEREXP)
+Explanation of Carcinogenicity:SILICA, CRYSTALLINE: GROUP 2A (IARC).
+Effects of Overexposure:HLTH HAZ: CAUSE HEADACHE AND NAUSEA. MATERIAL
+    IS SLIGHTLY ALKALINE AND MAY IRRITATE EYES AND SKIN. CHRONIC: NONE
+    RECOGNIZED.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: CLEAN EYES WITH PLENTY OF WATER FOR AT LEAST 15 MINUTES.
+    SKIN: CLEAN WITH SOAP AND WATER. INHALED: MOVE AFFECTED PERSON TO
+    FRESH AIR. APPLY ARTIFICIAL RESPIRATION IF NECESSARY. SEEK MEDICAL
+    ATTEN TION IMMEDIATELY. INGEST: DRINK WATER TO DILUTE. DO NOT
+    INDUCE VOMITING. CALL PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:248F,120C
+Lower Limits:0.62%
+Upper Limits:4.24%
+Extinguishing Media:WATER SPRAY, FOAM, CARBON DIOXIDE, DRY CHEMICAL.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT . AVOID CONFINED AREA UNLESS PROPERLY
+    PROTECTED AGAINST POTENTIAL IRRITATING AND TOXIC FUMES.
+Unusual Fire/Explosion Hazard:KEEP AWAY FROM HEAT. CONTAINERS MAY
+    EXPLODE WHEN EXPOSED TO EXTREME HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CLEAN SPILLS IMMEDIATELY WITH ABSORBANT SUCH
+    AS CLAY OR DIATOMACEOUS SILICA.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CNTNRS CLSD WHEN NOT IN USE. DO
+    NOT STORE/HNDL NEAR HEAT, FLAMES, & STRONG OXIDANTS. STORE IN COOL,
+    WELL VENT AREA.
+Other Precautions:ROTATE STOCK, USE OLDER MATERIALS FIRST. INSPECT FOR
+    LEAKS IN ALL CONTAINERS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR IF TLV IS
+    EXCEEDED. EXAMPLE: APPROVAL N. TC-23C-436.
+Ventilation:PROVIDE SUFFICIENT VENTILATION TO MAINTAIN EXPOSURE LEVEL
+    BELOW TLV/PEL.
+Protective Gloves:IMPERVIOUS RUBBER GLOVES.
+Eye Protection:CHEM WORK GOG & FULL LGTH FACESHLD
+Other Protective Equipment:USE EYE WASH AND SAFETY SHOWER. USE
+    IMPERVIOUS CLOTHING OR CHANGE CONTAMINATED CLOTHING IMMEDIATELY.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:212F,100C
+Vapor Pres:0.12
+Spec Gravity:1.4
+Solubility in Water:YES
+Appearance and Odor:LIQUID, MILD ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS.
+Stability Condition to Avoid:NONE.
+Hazardous Decomposition Products:CARBON DIOXIDE AND/OR MONOXIDE, AND
+    UNIDENTIFIED ORGANIC COMPOUNDS MAY BE FORMED DURING COMBUSTION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF ALL WASTE IN ACCORDANCE WITH FEDERAL,
+    STATE, AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

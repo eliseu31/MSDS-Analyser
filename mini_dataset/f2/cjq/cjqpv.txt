@@ -1,0 +1,157 @@
+=====================  Product Identification  =====================
+
+Product ID:5614/5113/5114 BLACK DRY INK/TONER (REPLENISHER), 502S63961
+MSDS Date:08/30/1995
+FSC:6850
+NIIN:00N078035
+Status Code:A
+MSDS Number: CJQPV
+=== Responsible Party ===
+Company Name:XEROX CORPORATION
+Address:100 N MUSTARD RD
+City:OKLAHOMA CITY
+State:OK
+ZIP:73126
+Country:US
+Info Phone Num:800-828-6571
+Emergency Phone Num:716-422-2177
+Resp. Party Other MSDS Num.:A-0124; 602E03130
+CAGE:TO144
+=== Contractor Identification ===
+Company Name:NAVY ENVIRONMENTAL HEALTH CENTER
+Address:2510 WALMER AVENUE
+Box:City:NORFOLK
+State:VA
+ZIP:23513-2617
+Country:US
+Phone:804-444-4657, DSN 564-4657 X 272
+CAGE:SO010
+Company Name:XEROX CORPORATION
+Address:100 N MUSTARD RD
+Box:City:OKLAHOMA CITY
+State:OK
+ZIP:73126
+Country:US
+Phone:800-828-6571
+CAGE:TO144
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TONER CONTAINING STYRENE/ACRYLATE POLYMER, CARBON BLACK,
+    POLYPROPYLENE WAX, STYRENE-ETHYLENE/BUTYLENE COPOLYMER.
+Minumum % Wt:75.
+Maxumum % Wt:90.
+
+Ingred Name:STYRENE-BUTYL ACRYLATE POLYMER; (STYRENE/ACRYLATE POLYMER)
+CAS:25767-47-9
+Minumum % Wt:80.
+Maxumum % Wt:90.
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50:(ORAL,RAT) >5 G/KG.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:MINIMAL RESPIRATORY TRACT
+    IRRITATION MAY OCCUR AS WITH EXPOSURE TO LARGE AMOUNTS OF ANY
+    NON-TOXIC DUST. CHRONIC:RESULTS OBTAINED FROM A XEROX SPONSORED,
+    CHRONIC TONER INHAL STUDY, DEMONSTRATED N O LUNG CHANGE IN RATS FOR
+    LOWEST (1 MG/M3) EXPOS LEVEL (I.E. LEVEL MOST RELEVANT TO POTNTL
+    HUMAN EXPOS). A VERY SLIGHT DEGREE OF FIBROSIS WAS NOTED IN 25% OF
+    ANIMALS AT MIDDLE (4 MG/M3) EXPOS LEVEL, W HILE A SLIGHT DEGREE OF
+    FIBROSIS WAS NOTED IN ALL ANIMALS AT HIGHEST (16 MG/M3) EXPOS
+    LEVEL. THESE FINDINGS ARE ATTRIBUTED TO "LUNG OVERLOADING", A
+    GENERIC RESPONSE TO EXCESSIVE AMTS OF ANY DUST RETAI NED IN LUNGS
+    FOR (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:CARBON BLACK:IARC MONOGRAPHS ON
+    EVALUATION OF CARCINOGENIC RISK OF CHEMICAL TO MAN:VOL 65, PG
+    24-27, 1995:GROUP 2B.
+Effects of Overexposure:HLTH HAZ:  PRLNG PERIOD.  THIS STUDY WAS
+    CONDUCTED USING A SPECIAL TEST TONER TO COMPLY W/EPA TESTING
+    PROTOCOL. THE TEST TONER WAS TEN TIMES MORE RESPIRABLE THAN
+    COMMERCIALLY AVAIL XEROX TONER & WOULD  NOT BE FUNCTIONALLY
+    SUITABLE FOR XEROX EQUIPMENT. MORE RESPIRABLE THAN COMMERCIALLY
+    AVAIL XEROX TONER & WOULD NOT BE FUNCTIONALLY SUITABLE FOR XEROX
+    EQUIPMENT.
+Medical Cond Aggravated by Exposure:NONE WHEN USED AS DESCRIBED BY
+    PRODUCT LITERATURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH W/WATER FOR AT LEAST 15 MINUTES. SKIN:WASH W/SOAP
+    & WATER. INHAL:REMOVE FROM EXPOSURE. INGEST:DILUTE STOMACH CONTENTS
+    W/SEVERAL GLASSES OF WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Lower Limits:N.A.
+Upper Limits:N.A.
+Extinguishing Media:WATER, FOAM, DRY CHEMICAL.
+Fire Fighting Procedures:WEAR NIOSH APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT . AVOID INHALATION OF SMOKE.
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP/VACUUM SPILLED TONER & CAREFULLY
+    TRANSFER INTO SEALABLE WASTE CNTNR. SWEEP SLOWLY TO MIN GENERATION
+    OF DUST DURING CLEAN-UP. IF VACUUM IS USED, MOTOR MUST BE RATED AS
+    DUST TIGHT. CONDUCTIVE H OSE BONDED TO MACHINE SHOULD BE USED TO
+    REDUCE STATIC BUILDUP (SEE FIRE & EXPLO DATA SECTION). RESIDUE CAN
+    BE REMOVED W/SOAP & COLD WATER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID PROLONGED INHALATION OF
+    EXCESSIVE DUST.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED WHEN USED AS INTENDED IN XEROX
+    EQUIPMENT. USE NIOSH APPROVED RESPIRATOR APPROPRIATE FOR EXPOSURE
+    OF CONCERN .
+Protective Gloves:IMPERVIOUS GLOVES .NONE REQUIRED WHEN USED AS
+    INTENDED IN XEROX EQUIP.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:EYEWASH & DELUGE SHOWER MTG ANSI DESIGN
+    CRITERIA . FOR USE OTHER THAN NORMAL CUSTOMER - OPERATING
+    PROCEDURES (SUCH AS IN BULK TONER PROCESSING FACILITIES), GOGGLES &
+    RESP MAY BE REQUIRED. (SUPDAT)
+Supplemental Safety and Health
+OTHER PROT EQUIP: FOR MORE INFO,CNTCT XEROX. TOX INFO:PEL:15 MG/M3
+    (TOTAL DUST). 5 MG/M3 (RESP DUST).STEL:NE. CEILING: NE. XEROX EXPOS
+    LIMIT:2.5 MG/M3 (TOTAL DUST) 0.4 MG/M3 (RESP DUST). TOX INFO: ADD N
+    INFO: RSLTS OBTAINED FROM XEROX SPONSORED, CHRONIC TONER INHAL
+    STUDY, DEMONSTRATED NO LUNG CHANGE IN RATS(OTHER INFO)
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:5 (H*2O=1)
+Appearance and Odor:BLACK GRANULAR; FAINT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:PRODUCTS OF COMBUSTION MAY BE TOXIC.
+    AVOID BREATHING SMOKE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISP MUST BE I/A/W FED, STATE & LOC REGS .
+    INCINERATE ONLY IN CLSD CNTNR. THIS MATL IS NOT HAZ WASTE ACCORDING
+    TO FED (40 CFR 261). STATE & LOC WASTE DISP REQUIREMENTS MAY
+    HOWEVER, BE MORE RESTR ICTIVE. CONSULT W/APPROP STATE & LOC AUTHS
+    FOR SPECIFIC INFO.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

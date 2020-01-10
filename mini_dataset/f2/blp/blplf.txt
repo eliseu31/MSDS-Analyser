@@ -1,0 +1,166 @@
+=====================  Product Identification  =====================
+
+Product ID:8037 SYNTHOL ENAMEL WRINKLE-STOP ADDITIVE
+MSDS Date:02/08/1988
+FSC:8010
+NIIN:00F019119
+MSDS Number: BLPLF
+=== Responsible Party ===
+Company Name:MARTIN-SENOUR AUTOMOTIVE SALES
+Address:5422 DANSHER ROAD
+City:COUNTRYSIDE
+State:IL
+ZIP:60525
+Info Phone Num:(216) 566-2902
+Emergency Phone Num:(216) 566-2917
+CAGE:MART3
+=== Contractor Identification ===
+Company Name:MARTIN-SENOUR AUTOMOTIVE SALES
+Address:5422 DANSHER RD
+City:COUNTRYSIDE
+State:IL
+ZIP:60525
+Country:US
+Phone:216-566-2902
+CAGE:MART3
+Company Name:MARTIN-SENOUR CO THE DIV SHERWIN-WILLIAMS CO
+Address:2500 S SENOUR AVE
+Box:City:CHICAGO
+State:IL
+ZIP:60608-5724
+Country:US
+CAGE:16772
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:FORMALDEHYDE  (SARA III)
+CAS:50-00-0
+RTECS #:LP8925000
+Fraction by Wt: <0.5%
+OSHA PEL:SEE 1910.1048
+ACGIH TLV:C 0.3 PPM; A2; 9293
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:AMINO POLYMER
+Fraction by Wt: 50%
+
+Ingred Name:VOL ORGANIC CMPD: 4.20 LB. OR 503 GM.
+RTECS #:9999999VO
+
+Ingred Name:ETHYL BENZENE  (SARA III)
+CAS:100-41-4
+RTECS #:DA0700000
+Fraction by Wt: <5%
+Other REC Limits:100 PPM
+OSHA PEL:100 PPM/125 STEL
+ACGIH TLV:100 PPM/125STEL 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS)	(SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 20%
+Other REC Limits:100 PPM
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:N-BUTYL ALCOHOL  (SARA III)
+CAS:71-36-3
+RTECS #:EO1400000
+Fraction by Wt: 30%
+Other REC Limits:300 MG/CUM
+OSHA PEL:100 PPM
+ACGIH TLV:S, C 50 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:EYES/SKIN: IRRITATION, REDNESS,
+    ITCHING, BURNING SENSATION & ABSORPTION. INHALATION: RESPIRATORY
+    SYSTEM IRRITATION, NERVOUS SYSTEM DEPRESSION, HEADACHE, DIZZINESS,
+    NAUSEA, LOSS OF COORDINATION, UNCONS CIOUSNESS, DEATH. PERMANENT
+    BRAIN & NERVOUS SYSTEM DAMAGE. LIVER, URINARY, & REPRODUCTIVE
+    SYSTEM EFFECTS.
+Explanation of Carcinogenicity:FORMALDYHYDE IS A SUSPECTED HUMAN
+    CARCINOGEN BY ACGIH.
+Effects of Overexposure:EYES/SKIN: IRRITATION, REDNESS, ITCHING,
+    BURNING SENSATION & ABSORPTION. INHALATION: RESPIRATORY SYSTEM
+    IRRITATION, NERVOUS SYSTEM DEPRESSION, HEADACHE, DIZZINESS, NAUSEA,
+    LOSS OF COORDINATION, UNCONS CIOUSNESS, DEATH. PERMANENT BRAIN &
+    NERVOUS SYSTEM DAMAGE. LIVER, URINARY & REPRODUCTIVE SYSTEM
+    EFFECTS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE FROM EXPOSURE. RESTORE BREATHING. KEEP
+    WARM & QUIET. SKIN: WASH W/SOAP & WATER. EYES: FLUSH W/PLENTY OF
+    WATER FOR 15 MIN. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:80F
+Lower Limits:1%
+Extinguishing Media:CO2, DRY CHEMICAL OR FOAM
+Fire Fighting Procedures:WATER SPRAY MAY BE INEFFECTIVE. IF WATER IS
+    USED, FOG NOZZLES ARE PREFERABLE. WEAR FULL PROTECTIVE CLOTHING &
+    SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:CLOSED CONTAINERS MAY EXPLODE WHEN
+    EXPOSED TO EXTREME HEAT DUE TO PRESSURE BUILD-UP, & POSSIBLE
+    AUTOIGNITION. FLAMMABLE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. VENTILATE &
+    REMOVE W/INERT ABSORBENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:USE ONLY W/ADEQUATE VENTILATION. AVOID
+    BREATHING VAPOR/SPRAY MIST, & CONTACT W/SKIN & EYES. DON'T SMOKE.
+    KEEP CONTAINER CLOSED WHEN NOT IN USE.
+Other Precautions:TRANSFER ONLY TO APPROVED CONTAINERS W/COMPLETE &
+    APPROPRIATE LABELING. DON'T TAKE INTERNALLY. KEEP OUT OF REACH OF
+    CHILDREN. INTENTIONAL MISUSE BY DELIBERATELY CONCENTRATING &
+    INHALING THE CONTENTS C AN BE HARMFUL OR FATAL.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR A PROPERLY FITTED ORGANIC VAPOR/PARTICULATE
+    RESPIRATOR APPROVED BY NIOSH/MSHA IF >TLV. WHEN SANDING OR ABRADING
+    THE DRIED FILM, WEAR A DUST MASK OR PARTICULATE RESPIRATOR.
+Ventilation:LOCAL EXHAUST PREFERABLE. GENERAL EXHAUST ACCEPTABLE IF
+    EXPOSURE KEPT AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:60.7%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:HEAT/ELECTRICAL EQUIPMENT/SPARKS/OPEN
+    FLAME/HOT SURFACES/PILOT LIGHTS/HEATERS/STOVES/ELECTRICAL
+    TOOLS/IGNITION SOURCES.
+Hazardous Decomposition Products:CO, CO2, & NITROGEN OXIDES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:WASTE MAY BE RCRA HAZARD TESTED FOR IGNITABILITY
+    TO DETERMINE EPA HAZARDOUS WASTE NUMBERS. INCINERATE IN APPROVED
+    FACILITY. DON'T INCINERATE CLOSED CONTAINER. DISPOSE OF IN
+    ACCORDANCE W/FEDERAL, STATE , & LOCAL REGULATIONS. FLAMMABLE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,99 @@
+=====================  Product Identification  =====================
+
+Product ID:22405 ENGINE STARTER, CARTRIDGE ASSEMBLY
+MSDS Date:09/25/1986
+FSC:1377
+NIIN:01-080-8252
+MSDS Number: BKYRV
+=== Responsible Party ===
+Company Name:TALLEY DEFENSE SYSTEMS
+Box:849
+City:MESA
+State:AZ
+ZIP:85201
+Info Phone Num:(602) 898-2200
+Emergency Phone Num:(602) 898-2200
+Preparer's Name:DONOVAN J JONES
+CAGE:12116
+=== Contractor Identification ===
+Company Name:TALLEY DEFENSE SYSTEMS
+Box:City:MESA
+State:AZ
+ZIP:85201
+Phone:(602) 898-2200
+CAGE:12116
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:AMMONIUM NITRATE (SOLUTION)  (SARA III)
+CAS:6484-52-2
+RTECS #:BR9050000
+
+Ingred Name:RUBBER
+
+Ingred Name:PROPELLENT (TAL 200 & 1505)
+Fraction by Wt: 65.4%G
+
+Ingred Name:BORON POTASSIUM NITRATE (BKNO3)
+Fraction by Wt: 1.8%G
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Explanation of Carcinogenicity:NONE
+
+=====================  Fire Fighting Measures  =====================
+
+Fire Fighting Procedures:DON'T FIGHT FIRE. EVACUATE AREA UNTIL UNIT
+    BURNS OR SELF-EXTINGUISHES.
+Unusual Fire/Explosion Hazard:PRODUCT IS A DOT CLASS C EXPLOSIVE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:PICK UP UNDAMAGED PRODUCT & RETURN IT TO THE
+    ORIGINAL CONTAINERS OR EQUIVALENT. VERIFY SHORTING CLIP IS IN
+    PLACE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:HANDLE & STORE AS A CLASS 1.3
+    COMPATIBILITY GROUP C EXPLOSIVE. DON'T EXPOSE TO HEAT, OPEN FLAME,
+    ELECTRICAL DISCHARGE (SHORTING CLIP IN PLACE).
+Other Precautions:DON'T DROP OR ROUGH HANDLE. AFTER SHORTING CLIP IS
+    REMOVED FROM IGNITER, AVOID EXPOSURE TO ELECTROSTATIC OR ELECTRICAL
+    ENERGY. AVOID BREATHING PRODUCTS OF COMBUSTION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Eye Protection:INDUSTRIAL SAFETY GLASSES
+Supplemental Safety and Health
+STARTER CARTRIDGE CONTAINS A SOLID COMPOSITE PROPELLANT (TAL 406S)
+    GRAIN (8.03 LBS), 38.9 GRAMS OF TAL-200 BOOSTER PROPELLANT, 26.5
+    GRAMS OF TAL 1505 BOOSTER PROPELLANT & A SHUNTED ELECTRIC IGNITER
+    W/ 1.8 GRAMS OF BKNO3. TAL 406S: DOT FLAMMABLE SOLID. TAL 200: DOT
+    CLASS B EXPLOSIVE & TAL 1505: DOT CLASS B EXPLOSIVE.
+
+==================  Physical/Chemical Properties  ==================
+
+Appearance and Odor:CARTRIDGE
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:HEAT, OPEN FLAME, OR ELECTRICAL DISCHARGE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:IF DAMAGED, QUALIFIED EXPLOSIVE PERSONNEL SHOULD
+    DISPOSE OF AT AN APPROVED SITE IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. DOT CLASS C EXPLOSIVE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

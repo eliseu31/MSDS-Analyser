@@ -1,0 +1,177 @@
+=====================  Product Identification  =====================
+
+Product ID:841 5580 EKTACOLOR RA DEVELOPER REPLENISHER RT, WORKING SOLN
+MSDS Date:05/23/1997
+FSC:6750
+NIIN:01-384-7889
+Kit Part:Y
+MSDS Number: BWRMV
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-477-3194 MSDS :800- 242-2424
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+Company Name:EASTMAN KODAK CO US CUSTOMER SERVICE/GOVERNMENT SALES
+Address:800 LEE RD
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-3129
+Country:US
+Phone:800-828-6203
+CAGE:5K871
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 95-100%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:POTASSIUM CARBONATE
+CAS:584-08-7
+RTECS #:TS7750000
+Fraction by Wt: 1-5%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:ETHANOL, 2,2',2"-NITRILOTRI-; (TRIETHANOLAMINE)
+CAS:102-71-6
+RTECS #:KL9275000
+Fraction by Wt: 1-5%
+Other REC Limits:NONE RECOMMENDED
+ACGIH TLV:5 MG/M3
+
+Ingred Name:DIETHYLHYDROXYLAMINE
+CAS:3710-84-7
+RTECS #:NC3500000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:4-(N-ETHYL-N-2-METHANESULFONYLAMINOETHYL)-2-
+    METHYLPHENYLENEDIAMINE SESQUISULFATE MONOHYDRATE
+CAS:25646-71-3
+RTECS #:PB0431000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): NOT GIVEN
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EXPECTED TO BE A LOW INHALATION HAZARD
+    FOR RECOMMENDED HANDLING. MAY CAUSE TRANSIENT EYE IRRITATION. SKIN
+    CONTACT MAY CAUSE IRRITATION. MAY CAUSE ALLERGIC SKIN REACTION. LOW
+    INGESTION HAZARD. MAY CAUS E IRRITATION OF GSTROINTESTINAL TRACT IF
+    SWALLOWED.
+Explanation of Carcinogenicity:THIS COMPOUND CONTAINS NO INGREDIENTS AT
+    CONCENTRATIONS OF 0.1% OR GREATER THAT ARE CARCINOGENS OR SUSPECT
+    CARCINOGENS.
+Effects of Overexposure:EYE IRRITATION, GI TRACT IRRITATION, SKIN
+    IRRITATION, ALLERGIC SKIN REACTION.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: IF SYMPTOMATIC, MOVE TO FRESH AIR. GET MEDICAL
+    ATTENTION IF SYMPTOMS PERSIST. EYES: WASH OUT IMMEDIATELY WITH
+    WATER. GET MEDICAL ATTENTION IF SYMPTOMS OCCUR. SKIN: WASH WITH
+    SOAP AND WATER . GET MEDICAL ATTENTION IF SYMPTOMS OCCUR.
+    INGESTION: DRINK 1-2 GLASSES OF WATER. SEEK MEDICAL ATTENTION.
+    NEVER GIVE ANYTHING BY MOUTH TO AN UNCONSCIOUS PERSON.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONFLAMMABLE
+Lower Limits:NOT GIVEN
+Upper Limits:NOT GIVEN
+Extinguishing Media:NONFLAMMABLE. USE EXTINGUISHING MEDIA SUITABLE FOR
+    SURROUNDING FIRE.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD WEAR SELF CONTAINED
+    BREATHING APPARATUS AND FULL PROTECTIVE GEAR.
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH TO SEWER IF ALLOWABLE WITH LARGE AMOUNTS
+    OF WATER. OTHERWISE, ABSORB SPILL WITH VERMICULITE OR OTHER INERT
+    MATERIAL, THEN PLACE IN A CONTAINER FOR CHEMICAL WASTE. CLEAN
+    SURFACE TO REMOVE RESIDUA L CONTAMINATION.
+Neutralizing Agent:NEUTRALIZATION AND SEWERING MAY NOT BE ALLOWED IN
+    SOME STATES AND MUNICIPALITIES
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTACT WITH EYES, SKIN AND
+    CLOTHING. USE WITH ADEQUATE VENTILATION. KEEP CONTAINER CLOSED.
+Other Precautions:THE ROUTINE USE OF A NONALKALINE (ACID) TYPE OF HAND
+    CLEANER AND REGULAR CLEANING OF WORKING SURFACES WILL HELP MINIMIZE
+    THE POSSIBILITY OF A SKIN REACTION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SHOULD BE NEEDED.
+Ventilation:GOOD GENERAL VENTILATION, TYPICALLY 10 AIR CHANGES PER
+    HOUR, SHOULD BE USED. RATES SHOULD MATCH CONDITIONS.
+Protective Gloves:IMPERVIOUS
+Eye Protection:SAFETY GLASSES W/SIDE SHIELDS OR GOGGLES
+Other Protective Equipment:CHEMICAL RESISTANT CLOTHING AS NECESSARY TO
+    PREVENT SKIN CONTACT. AN EMERGENCY EYEWASH AND SHOWER SHOULD BE
+    AVAILABLE.
+Work Hygienic Practices:WASH HANDS THOROUGHLY WITH SOAP AND WATER
+    BEFORE EATING, DRINKING, SMOKING OR USING TOILET FACILITIES.
+Supplemental Safety and Health
+REMOVE AND WASH CONTAMINATED CLOTHING BEFORE REUSE. THIS IS THE WORKING
+    SOLUTION FOR A THREE-PART KIT.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:B3
+Boiling Pt:B.P. Text:>212F,>100C
+Melt/Freeze Pt:M.P/F.P Text:NOT GIVEN
+Vapor Pres:18
+Vapor Density:0.6
+Spec Gravity:1.03
+pH:10.8
+Evaporation Rate & Reference:NOT GIVEN
+Solubility in Water:COMPLETE
+Appearance and Odor:YELLOW LIQUID, SLIGHT AMINE ODOR
+Percent Volatiles by Volume:90-95%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE WITH COMMON MATERIALS AND CONTAMINANTS WITH WHICH THE MATERIAL MAY
+    REASONABLY COME INTO CONTACT.
+Stability Condition to Avoid:STABLE.
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISCHARGE, TREATMENT OR DISPOSAL MAY BE SUBJECT
+    TO NATIONAL, STATE OR LOCAL LAWS.  MAY REQUIRE NEUTRALIZATION IF PH
+    < 2.0 OR PH > 12.5. DISPOSE OF IN ACCORDANCE WITH ALL APPLICABLE
+    FEDERAL, STATE AND	LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

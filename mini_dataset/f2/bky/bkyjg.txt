@@ -1,0 +1,144 @@
+=====================  Product Identification  =====================
+
+Product ID:HERBICIDE A4D
+MSDS Date:11/20/1985
+FSC:6840
+NIIN:00-209-3462
+MSDS Number: BKYJG
+=== Responsible Party ===
+Company Name:ALBAUGH CHEMICAL CORP
+Address:728 S E CREEKVIEW DRIVE
+City:ANKENY
+State:IA
+ZIP:50021
+Info Phone Num:(515) 964-9444
+Emergency Phone Num:(515) 964-9444
+CAGE:ALBAU
+=== Contractor Identification ===
+Company Name:ALBAUGH CHEMICAL CORP
+Address:728 S E CREEKVIEW DRIVE
+City:ANKENY
+State:IA
+ZIP:50021
+Phone:(515) 964-9444
+CAGE:ALBAU
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER, H2O
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: <53.2%
+
+Ingred Name:SEQUESTERING AGENT
+Fraction by Wt: <53.2%
+
+Ingred Name:DIMETHYLAMINE SALT OF 2,4-DICHLOROPHENOXYACETIC ACID
+CAS:2008-39-1
+RTECS #:AG8400000
+Fraction by Wt: 46.8%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE SUPP
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: IRRITATION & HARMFUL.
+    EYES: CORROSIVE/IRRITATION/CORNEAL INJURY/PERMANENT IMPAIRMENT OF
+    VISION. SKIN: IRRITATION/CORROSIVE/ABSORPTION IN HARMFUL AMOUNTS.
+    INGESTION: GASTROINTESTINAL IRRITA TION & ULCERATION,
+    LIVER/KIDNEY/GASTROINTESTINAL/MUSCULAR EFFECTS, NAUSEA,
+    VOMITING/ABDOMINAL CRAMPS/DIARRHEA.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: HARMFUL/IRRITATION. EYES:
+    IRRITATION/CORROSIVE/CORNEAL INJURY/PERMANENT IMPAIRMENT OF VISION.
+    SKIN: IRRITATION/CORROSIVE/ABSORPTION IN HARMFUL AMOUNTS.
+    INGESTION: GASTROINTESTINAL IRRITATI ON & ULCERATION,
+    LIVER/KIDNEY/GASTROINTESTINAL/MUSCULAR EFFECTS, NAUSEA, VOMITING,
+    ABDOMINAL CRAMPS, DIARRHEA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN/EYES: FLUSH W/WATER. INHALATION: REMOVE TO FRESH AIR.
+    GIVE ARTIFICIAL RESPIRATION/OXYGEN IF NECESSARY. INGESTION: DON'T
+    INDUCE VOMITING. GIVE PLENTY OF WATER & GLASSES OF MILK. NEVER GIVE
+    ANYTHIN G BY MOUTH TO UNCONSCIOUS PERSON. KEEP AIRWAY CLEAR. OBTAIN
+    MEDICAL ATTENTION IN ALL CASES. PHYSICIAN NOTE: NO SPECIFIC
+    ANTIDOTE. GIVE SUPPORTIVE CARE. BASE TREATMENT ON PATIENT RESPONSE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON-FLAMMABLE
+Extinguishing Media:DRY CHEMICAL, CO2. AVOID USING WATER OR FOAM TO
+    PREVENT SPREADING OF MATERIAL.
+Fire Fighting Procedures:USE WATER TO KEEP FIRE-EXPOSED CONTAINERS
+    COOL. WEAR SELF-CONTAINED BREATHING APPARATUS IN PRESSURE-DEMAND IN
+    CONFINED AREAS.
+Unusual Fire/Explosion Hazard:AUTOIGNITION TEMPERATURE: 850F.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:STOP LEAK/CONTAIN SPILL. REMOVE CONTAMINATED
+    SOIL. DON'T USE VACUUM TRUCK. SOAK UP REMAINING TRACE ON INERT
+    ABSORBENT MATERIAL (RAG/SAND/CLAY/SAWDUST) PLACE IN CLOSED,
+    LABELED, SOUND CONTAINER OUTDOOR S. WASH AREA W/WATER. WEAR
+    PROTECTIVE EQUIPMENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTACT W/SKIN, EYES, OR
+    CLOTHING. AVOID INGESTION & INHALATION OF SPRAY MIST. STAY OUT OF
+    SMOKE WHEN BURNING EMPTY CONTAINERS.
+Other Precautions:STORE IN DRY LOCATION AWAY FROM CHILDREN, ANIMALS,
+    FOODS, FEEDS, SEEDS, OR OTHER AGRICULTURAL CHEMICALS. DON'T USE,
+    POUR, SPILL, OR STORE NEAR HEAT OR OPEN FLAME. DON'T APPLY WHEN
+    WEATHER CONDITIONS F AVOR DRIFT FROM TARGET AREA.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE AN APPROVED AIR-PURIFYING RESPIRATOR FOR
+    CERTAIN OPERATIONS.
+Ventilation:LOCAL VENTILATION TO KEEP <TLV. GOOD GENERAL VENTILATION IS
+    SUFFICIENT FOR MOST CONDITIONS.
+Protective Gloves:RUBBER
+Eye Protection:CHEMICAL SPLASH GOGGLES/FACE SHIELD
+Other Protective Equipment:HARD HAT/CHEMICAL-RESISTANT SAFETY
+    SHOES/SAFETY SHOWERS/EYEWASH STATION/LONG-SLEEVED SHIRT/LONG-LEGGED
+    TROUSERS/COVERALL
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE. WASH AFTER HANDLING. USE GOOD INDUSTRIAL HYGIENE. DISCARD
+    FOOTWEAR.
+Supplemental Safety and Health
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:230F
+Melt/Freeze Pt:M.P/F.P Text:26.6F
+Spec Gravity:1.157
+pH:7-8
+Solubility in Water:MISCIBLE
+Appearance and Odor:BROWN LIQUID W/FISHY PHENOLIC ODOR.
+Percent Volatiles by Volume:47.1%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING MATERIALS
+Stability Condition to Avoid:HEAT OR FLAME
+Hazardous Decomposition Products:NOXIOUS FUMES OF HYDROGEN CHLORIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:REUSE SPILLED MATERIAL. DISPOSE BY LICENSED
+    CHEMICAL WASTE HAULER TO INCINERATOR/LANDFILL APPROVED FOR
+    PESTICIDES/BURNING/RECYCLING/RECONDITION/PUNCTURE CONTAINERS, AFTER
+    TRIPLE RINSE. PESTICIDE WASTE  ARE TOXIC. AVOID WATER
+    CONTAMINATION. NA9188.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

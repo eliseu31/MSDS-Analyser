@@ -1,0 +1,146 @@
+=====================  Product Identification  =====================
+
+Product ID:62647 CAPTAN 50-W FUNGICIDE
+MSDS Date:05/12/1989
+FSC:6840
+NIIN:00-099-1620
+MSDS Number: BKYGN
+=== Responsible Party ===
+Company Name:ROHM & HAAS COMPANY
+Address:INDEPENDENCE MALL WEST
+City:PHILADELPHIA
+State:PA
+ZIP:19105
+Info Phone Num:(215) 592-3000
+Emergency Phone Num:(215) 592-3000
+CAGE:FO048
+=== Contractor Identification ===
+Company Name:ROHM & HAAS COMPANY
+Address:INDEPENDENCE MALL WEST
+City:PHILADELPHIA
+State:PA
+ZIP:19105
+Country:US
+Phone:215-592-3000
+CAGE:FO048
+Company Name:ROHM AND HAAS CO
+Address:100 INDEPENDENCE MALL WEST
+Box:City:PHILADELPHIA
+State:PA
+ZIP:19106-2399
+Country:US
+Phone:215-592-2521/215-592-3000
+CAGE:77902
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CAPTAN  (SARA III)
+CAS:133-06-2
+RTECS #:GW5075000
+Fraction by Wt: 51%
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3; 9192
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+Ingred Name:CALCIUM LIGNOSULFONATE
+CAS:68131-32-8
+Fraction by Wt: <3%
+
+Ingred Name:WATER, H2O
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: <3%
+
+Ingred Name:CALCIUM CARBONATE (MARBLE) (LIMESTONE)
+CAS:1317-65-3
+RTECS #:EV9580000
+Fraction by Wt: 46%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9192
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): >9 G/KG.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES/SKIN: SLIGHT IRRITATION.
+    INHALATION: NOSE & THROAT IRRITATION. SUBSTANCE CAN CAUSE AN
+    ALLERGIC REACTION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES/SKIN: SLIGHT IRRITATION. INHALATION: NOSE
+    & THROAT IRRITATION. SUBSTANCE CAN CAUSE AN ALLERGIC REACTION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINS. SKIN:
+    WASH W/SOAP & WATER. INHALATION: REMOVE TO FRESH AIR. GIVE CPR OR
+    OXYGEN IF NEEDED. INGESTION: DRINK 1 OR 2 GLASSES OF WATER. DON'T
+    INDUCE VOM ITING. NEVER GIVE ANYTHING BY MOUTH TO AN UNCONSCIOUS
+    PERSON. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON-COMBUSTIBLE
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS IN
+    PRESSURE DEMAND, MSHA/NIOSH APPROVED OR EQUIVALENT & FULL
+    PROTECTIVE EQUIPMENT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE EQUIPMENT. SCOOP OR SHOVEL
+    SOLID MATERIAL INTO SUITABLE CONTAINER. KEEP DUST TO A MINIMUM.
+    KEEP SPILLS & CLEANING RUNOFFS OUT OF MUNICIPAL SEWERS & OPEN
+    BODIES OF WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL DRY PLACE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR SUITABLE RESPIRATOR MSHA/NIOSH APPROVED OR
+    EQUIVALENT IF >TLV.
+Ventilation:MECHANICAL/LOCAL EXHAUST TO MAINTAIN <TLV.
+Protective Gloves:IMPERVIOUS
+Eye Protection:CHEMICAL SPLASH GOGGLES
+Other Protective Equipment:PROTECTIVE CLOTHING, SAFETY SHOWER & EYEWASH
+    FACILITY
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:DECOMPOSES
+Melt/Freeze Pt:M.P/F.P Text:352F
+Vapor Pres:<0.01
+Spec Gravity:1.74
+pH:6-8
+Evaporation Rate & Reference:(BU AC = 1): 0
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:OFF-WHITE AMORPHOUS POWDER, ODORLESS
+Percent Volatiles by Volume:1%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+WATER, BASE, HYDROGEN CHLORIDE, THIOPHOSGENE & OXIDES OF SULFUR, CARBON
+    & NITROGEN
+Hazardous Decomposition Products:HYDROGEN CHLORIDE & THIOPHOSGENE,
+    OXIDES OF SULFUR, CARBON & NITROGEN.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL BY INCINERATION IN COMPLIANCE W/LOCAL,
+    STATE, & FEDERAL REGULATIONS. THIS PRODUCT IS CONSIDERED HAZARDOUS
+    IF MORE THAN 4.5 KG/10 LBS IS SPILLED IN NAVIGABLE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

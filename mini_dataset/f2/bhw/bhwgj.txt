@@ -1,0 +1,141 @@
+=====================  Product Identification  =====================
+
+Product ID:CATALYST 9,ADHESIVE
+MSDS Date:05/19/1986
+FSC:8040
+NIIN:01-161-1753
+Kit Part:Y
+MSDS Number: BHWGJ
+=== Responsible Party ===
+Company Name:EMERSON AND CUMING,INC
+Address:869 WASHINGTON ST
+City:CANTON
+State:MA
+ZIP:02021
+Country:US
+Info Phone Num:617-828-3300
+Emergency Phone Num:617-828-3300
+CAGE:3D421
+=== Contractor Identification ===
+Company Name:EMERSON AND CUMING,INC
+Address:869 WASHINGTON ST
+Box:City:CANTON
+State:MA
+ZIP:02021
+Country:US
+Phone:617-828-3300
+CAGE:3D421
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POLYETHYLENE AMINES,PRIMARILY TETRAETHYLENE PENTAMINE.
+CAS:112-57-2
+RTECS #:KH8585000
+Fraction by Wt: 100%
+Other REC Limits:N/K 
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:N/K 
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:CORROSIVE.CONTACT WITH EYES MAY RESULT
+    IN PERMANENT DAMAGE OR BLINDNESS.SKIN
+    SENSITIZATION/DERMATITIS.ASTHMA.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES:CORROSIVE.SEVERE IRRITATION ON
+    CONTACT.SKIN:IRRITATION AND BURNS ON CONTACT.INGESTION:HARMFUL IF
+    SWALLOWED.INHALATION:VAPORS MAY PRODUCE IRRITATION AND NAUSEA.
+Medical Cond Aggravated by Exposure:N/K 
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:IMMEDIATELY FLUSH WITH WATER FOR 15 MINUTES.GET MEDICAL
+    ATTENTION.SKIN:REMOVE CONTAMINATED CLOTHING.WASH AFFECTED AREA
+    THOROUGHLY WITH WATER.INGESTION:DILUTE WITH LARGE QUANTITIES OF
+    WATER.INDUCE  VOMITING ONLY IF VICTIM IS CONSCIOUS AND ALERT.GET
+    IMMEDIATE MEDICAL ATTENTION.INHALATION:REMOVE TO FRESH AIR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:280F,137.78C
+Lower Limits:9.2%
+Upper Limits:0.4%
+Extinguishing Media:CARBON DIOXIDE,DRY CHEMICAL,FOAM,WATER FOG.
+Fire Fighting Procedures:FIREFIGHTERS SHOULD WEAR SELF-CONTAINED
+    BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:TOXIC FUMES MAY BE EVOLVED UPON EXPOSURE
+    TO HEAT OR OPEN FLAME.HAZARDOUS DECOMPOSITION PRODUCTS
+    ARE:AMMONIA,OXIDES OF NITROGEN AND CARBON.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SMALL SPILL:WIPE UP OR ABSORB WITH VERMICULITE
+    OR OTHER ABSORBENT.IF SOLVENTS USED,USE WITH ADEQUATE VENTILATION
+    AND FIRE PRECAUTIONS.COLLECT WASTE IN SEALED CONTAINERS.WASH AREA
+    WITH SOAPY WATER.RINS E.LARGE SPILL:TURN ON VENTILATION.DIKE.(SEE
+    SUP)
+Neutralizing Agent:N/K 
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID SKIN AND EYE CONTACT.STORE IN
+    COOL,DRY PLACE AWAY FROM HEAT OR OPEN FLAME.KEEP CONTAINER CLOSED
+    WHEN NOT IN USE.  WARNING:CORROSIVE MATERIAL.
+Other Precautions:N/K 
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:N/K 
+Ventilation:GOOD GENERAL VENTILATION RECOMMENDED.FLEXIBLE DUCTWORK
+    SHOULD EXTEND TO AREAS OF HIGH CONCENTRATION TO PREVENT (SEE SUP)
+Protective Gloves:MUST BE WORN.
+Eye Protection:EYE GOGGLES WITH SIDE SHIELDS.
+Other Protective Equipment:PROTECTIVE CLOTHING.
+Work Hygienic Practices:N/K 
+Supplemental Safety and Health
+% VOLAT BY WT:NEGLIGIBLE.SPILL PROC:SHOVEL/PUMP TO DRUM/TANK.ABSORB
+    RESIDUE WITH ABSORBENT.SCRAPE OR SHOVEL INTO CONTAINERS.WASH AREA
+    WITH SOAPY WATER.RINSE.SPILLED MATERIAL AND WATER RINSES ARE CLASS
+    IFIED AS CHEMICAL WASTE.VENT:VAPOR BUILDUP.PROVIDE SPECIAL
+    VENTILATION AT HIGH TEMPERATURE.
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:M.P/F.P Text:N/K 
+Decomp Temp:Decomp Text:N/K 
+Vapor Pres:<1 MMHG
+Vapor Density:>1 (AIR=1)
+Spec Gravity:0.99 (WATER=1)
+Evaporation Rate & Reference:N/K 
+Solubility in Water:COMPLETELY MISCIBLE
+Appearance and Odor:AMBER LIQUID,STRONG AMINE ODOR.
+Percent Volatiles by Volume:SUP DA
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS,PEROXIDES,EPOXIDES,HALOGENATED ORGANIC COMPOUNDS.
+Stability Condition to Avoid:STORAGE IN OPEN CONTAINERS,EXPOSURE TO
+    HEAT AND/OR OPEN FLAME,EXPOSURE TO INCOMPATIBLE SUBSTANCES.
+Hazardous Decomposition Products:AMMONIA,OXIDES OF NITROGEN AND CARBON.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE IN ACCORDANCE WITH
+    FEDERAL,STATE AND LOCAL REGULATIONS.COORDINATION WITH SUPPORTING
+    INSTALLATION AND/OR MACOM ENVIRONMENTAL COORDINATION PRIOR TO
+    DISPOSAL IS RECOMMENDED TO DETERMINE  APPROPRIATE DISPOSAL METHODS
+    .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

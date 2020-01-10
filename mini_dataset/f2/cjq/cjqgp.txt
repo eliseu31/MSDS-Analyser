@@ -1,0 +1,160 @@
+=====================  Product Identification  =====================
+
+Product ID:HYDRAZINE COLOR STANDARDS, C-5010N
+MSDS Date:01/19/1998
+FSC:6810
+NIIN:00N092124
+Status Code:A
+MSDS Number: CJQGP
+=== Responsible Party ===
+Company Name:CHEMETRICS INC
+Address:ROUTE 88
+City:CALVERTON
+State:VA
+ZIP:20138
+Country:US
+Info Phone Num:800-355-3072
+Emergency Phone Num:703-590-9204
+CAGE:7K791
+=== Contractor Identification ===
+Company Name:CHEMETRICS INC
+Address:ROUTE 28
+Box:City:CALVERTON
+State:VA
+ZIP:22016
+Country:US
+Phone:800-356-3072; 540-788-9026
+CAGE:7K791
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HYDRAZINE DIHYDROCHLORIDE
+CAS:5341-61-7
+RTECS #:MV2298000
+< Wt:.3
+
+Ingred Name:P-(DIMETHYLAMINO)BENZALDEHYDE
+CAS:100-10-7
+RTECS #:CU5775000
+< Wt:.4
+
+Ingred Name:HYDROCHLORIC ACID
+CAS:7647-01-0
+RTECS #:MW4025000
+< Wt:2.5
+OSHA PEL:C7 MG/M3;C5 PPM
+ACGIH STEL:C7.5 MG/M3;C5 PPM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:METHANOL
+CAS:67-56-1
+RTECS #:PC1400000
+< Wt:3.
+OSHA PEL:260 MG/M3;200 PPM
+ACGIH TLV:262 MG/M3;200 PPM
+ACGIH STEL:328 MG/M3;250 PPM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ETHYLENE GLYCOL
+CAS:107-21-1
+RTECS #:KW2975000
+< Wt:15.
+ACGIH STEL:C127 MG/M3;C50 PPM
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:DEIONIZED WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+> Wt:78.
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: IRRITATION. CHRONIC:
+    IRRITATION.
+Explanation of Carcinogenicity:NTP CARCINOGENESIS STUDIES; TEST
+    COMPLETED (POST PEER REVIEW), OCTOBER 1992. NIOSH ANALYTICAL
+    METHODS: SEE ETHYLENE GLYCOL, 5500.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:MAY CAUSE IRRITATION TO EYES, SKIN
+    AND MUCOUS MEMBRANES.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE AND SKIN CONTACT: IMMEDIATELY FLUSH EYES AND SKIN WITH
+    WATER FOR AT LEAST 15 MINUTES. INGESTION: SEEK MEDICAL ATTENTION.
+    INHALATION: REMOVE INDIVIDUAL TO FRESH AIR.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:DRY CHEMICAL, CARBON DIOXIDE, WATER OR ALCOHOL
+    FOAM.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT .
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:TAKE UP WITH ABSORBENT MATERIAL. PLACE IN
+    SMALL CONTAINERS FOR DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:THIS PRODUCT HAS A LIMITED SHELF LIFE.
+    PRODUCT SHOULD NOT BE USED AFTER DATE SPECIFIED ON COMPARATOR.
+    PRODUCT SHOULD BE STORED IN THE DARK AND AT ROOM TEMPERATURE;
+    HOWEVER, TEMPERATURES UP TO 120F OR  EVEN BELOW FREEZING WILL NOT
+    NORMALLY EFFECT REAGENT PERFORMANCE.
+Other Precautions:IF THIS PRODUCT IS USED AS DIRECTED, THE USER WILL
+    NOT COME IN CONTACT WITH OR BE EXPOSED TO ANY OF ITS CHEMICAL
+    COMPONENT. AVOID CONTACT WITH EYES. FRAGILE: LIQUID IN GLASS.
+    HANDLE WITH CARE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN .
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:EYE WASH & DELUGE SHOWER MEETING ANSI DESIGN
+    CRITERIA .
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:=115.C, 239.F
+Melt/Freeze Pt:=-2.C, 28.4F
+Spec Gravity:1.02
+pH:4
+Solubility in Water:MISCIBLE
+Appearance and Odor:COLORLESS TO YELLOW LIQUID, NO ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Hazardous Decomposition Products:NONE.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:ACUTE TOXICITY: IRRITATION. CHRONIC TOXICITY:
+    IRRITATION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH ALL FEDERAL, STATE
+    AND LOCAL REGULATIONS.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

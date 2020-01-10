@@ -1,0 +1,172 @@
+=====================  Product Identification  =====================
+
+Product ID:113R153, DOCUMENT CENTRE 220/230/332/340CD/ST, (SUPDAT)
+MSDS Date:04/20/1999
+FSC:6850
+NIIN:00N092054
+Status Code:A
+MSDS Number: CJQDF
+=== Responsible Party ===
+Company Name:XEROX CORPORATION
+Address:100 CLINTON AVE SOUTH
+City:ROCHESTER
+State:NY
+ZIP:14644
+Country:US
+Info Phone Num:800-828-6571
+Emergency Phone Num:716-422-2177
+Resp. Party Other MSDS Num.:A-0600
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:26921
+=== Contractor Identification ===
+Company Name:XEROX CORPORATION
+Address:100 CLINTON AVE SOUTH
+Box:City:ROCHESTER
+State:NY
+ZIP:14644-1877
+Country:US
+Phone:800-828-6571/716-422-2177
+CAGE:26921
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:IRON ORES, MAGNETITE; (IRON OXIDE)
+CAS:1309-38-2
+RTECS #:OM4800000
+Minumum % Wt:45.
+Maxumum % Wt:50.
+
+Ingred Name:BUTYL ACRYLATE-STYRENE POLYMER; (STYRENE/ACRYLATE
+    COPOLYMER)
+CAS:25767-47-9
+Minumum % Wt:40.
+Maxumum % Wt:50.
+
+Ingred Name:1-PROPENE POLYMER; (POLYOLEFIN)
+CAS:9003-07-0
+RTECS #:UD1842000
+Minumum % Wt:1.
+Maxumum % Wt:10.
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50: (ORAL, RAT) >5 G/KG
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MINIMAL RESPIRATORY TRACT IRRITATION
+    MAY OCCUR AS WITH EXPOSURE TO LARGE AMOUNTS OF ANY NON-TOXIC DUST.
+    ADDITIONAL INFORMATION: NONE. ALSO, SEE TOXICOLOGICAL INFO.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE WHEN USED AS DESCRIBED BY
+    PRODUCT LITERATURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH WATER FOR AT LEAST 15 MINUTES. SKIN: WASH
+    WITH SOAP AND WATER. INHALATION: REMOVE FROM EXPOSURE. INGESTION:
+    DILUTE STOMACH CONTENTS WITH SEVERAL GLASSES OF MILK OR WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER, DRY CHEMICAL, CARBON DIOXIDE OR FOAM.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT . AVOID INHALATION OF SMOKE.
+Unusual Fire/Explosion Hazard:TONER IS COMBUSTIBLE POWDER. LIKE MOST
+    ORGANIC MATERIALS IN POWDER FORM, IT CAN FORM EXPLOSIVE MIXTURES
+    WHEN DISPERSED IN AIR. NFPA 704: HEALTH - 0; FIRE - 3; REACTIVITY -
+    0.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP OR VACUUM SPILLED TONER & CAREFULLY
+    TRANSFER INTO SEALABLE WASTE CNTNR. SWEEP SLOWLY TO MINIMIZE
+    GENERATION OF DUST DURING CLEAN UP. IF VACUUM IS USED, THE MOTOR
+    MUST BE RATED AS DUST TIGHT.  A CONDUCTIVE HOSE BONDED TO MACHINE
+    SHOULD BE USED TO REDUCE STATIC BUILDUP. RESIDUE CAN BE REMOVED
+    W/SOAP & WATER. GARMENTS MAY BE WASHED OR DRY-CLEANED AFTER REMOVAL
+    OF LOOSE TONER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NONE. AVOID PROLONGED INHALATION OF
+    EXCESSIVE DUST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN . NONE REQUIRED WHEN USED AS INTENDED.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:EYE WASH & DELUGE SHOWER MTG ANSI DESIGN
+    CRITERIA . FOR USE OTHER THAN NORMAL CUSTOMER - OPERATING
+    PROCEDURES (SUCH AS IN BULK TONER PROCESSING FACILITIES), GOGGLES
+    AND RESPIRATORS MAY (SUPDAT)
+Supplemental Safety and Health
+MFR'S TRADE NAME/PART NO: DOCUPRINT N24/N32/N40 TONER CARTRIDGE. OTHER
+    PROT EQUIP: BE REQUIRED. FOR MORE INFORMATION, CONTACT XEROX.
+    PHYSICAL DATA: SOFTENING RANGE: 43.3-60C(110-140F).
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:1 (H*2O=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:BLACK POWDER; FAINT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE KNOWN.
+Hazardous Decomposition Products:PRODUCTS OF COMBUSTION MAY BE TOXIC.
+    AVOID BREATHING SMOKE.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:THIS MATL HAS BEEN EVALUATED BY XEROX CORP.
+    THE TOXICITY DATA NOTED BELOW IS BASED ON TEST RSLTS OF SIMILAR
+    TONERS. ORAL LD50: (RATS) >5 G/KG (PRACTICALLY NON-TOXIC). DERMAL
+    LD50: >5 G/KG (RABBITS) PR ACTICALLY NON-TOXIC. INHAL LC50: >5 MG/L
+    (RATS, 4 HR EXPOS) PRACTICALLY NON-TOXIC. >20 MG/L (RATS,
+    CALUCLATED 1 HR EXPOS) NON-POISONOUS, DOT. EYE IRRIT:
+    NON-IRRITATING. SKIN SENSITIZER: NOT SENSITIZER . SKIN IRRIT: NOT
+    IRRITANT. HUMAN PATCH: NON-IRRIT, NON-SENSITIZING. MUTAGENICITY: NO
+    MUTAGENICITY DETECTED IN AMES ASSAY. CARCINS: NONE PRESENT. 
+    AQUATIC LC50: NOT TESTED. TLV: 10 MG/M3 (TDUST). PEL:  15 MG/M3
+    (TDUST); (OTHER INFO)
+
+=====================  Ecological Information  =====================
+
+Ecological:N/P. OTHER INFO: IN THE LUNGS FOR A PRLNGD PERIOD. THIS
+    STUDY WAS CONDUCTED USING A SPECIAL TEST TONER TO COMPLY W/EPA
+    TESTING PROTOCOL. TEST TONER WAS TEN TIMES MORE RESPIRABLE THAN
+    COMMERCIALLY AVAI L XEROX TONER & WOULD NOT BE FUNCTIONALLY
+    SUITABLE FOR XEROX EQUIP.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:THIS MATERIAL IS NOT A HAZARDOUS WASTE ACCORDING
+    TO FEDERAL REGULATION 40 CFR 261 WHEN DISPOSED. STATE AND LOCAL
+    REQUIREMENTS, HOWEVER MAY BE MORE RESTRICTIVE. CONSULT WITH THE
+    APPROPRIATE FEDERAL, ST ATE AND LOCAL WASTE DISPOSAL AUTHORITIES
+    FOR ADDITIONAL INFORMATION. INCINERATE ONLY IN A CLOSED CON TAINER.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:DOT PROPER SHIPPING NAME: NA (NOT REGULATED). ID
+    NUMBER: N/A. HAZARD CLASSIFICATION: N/A. PACKING GROUP: N/A.
+
+=====================  Regulatory Information  =====================
+
+Federal Regulatory Information:WHMIS STATUS: THIS IS NOT A WHMIS
+    CONTROLLED PRODUCT.
+State Regulatory Information:
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,161 @@
+=====================  Product Identification  =====================
+
+Product ID:41839 BAR-OX ALKYD ZINC CHROMATE METAL PRIMER
+MSDS Date:06/07/1988
+FSC:8010
+NIIN:00F019210
+MSDS Number: BLPQV
+=== Responsible Party ===
+Company Name:DEVOE & RAYNOLDS CO
+Address:4000 DUPONT CIRCLE
+City:LOUISVILLE
+State:KY
+ZIP:40207
+Info Phone Num:(502) 589-9340
+Emergency Phone Num:(502) 589-9340
+CAGE:EO559
+=== Contractor Identification ===
+Company Name:DEVOE & RAYNOLDS CO, INC.
+Box:7600
+CAGE:EO559
+Company Name:DEVOE AND RAYNOLDS CO DIV OF GROW GROUP INC
+Address:4000 DUPONT CIR
+Box:7600
+City:LOUISVILLE
+State:KY
+ZIP:40207
+Country:US
+Phone:502-361-2536/502-589-9340
+CAGE:6R552
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MEDIUM ALIPHATIC NAPHTHA (AROMATIC 100), PARAFFIN-NAPTHANES
+    MINERAL SPIRITS
+CAS:64742-88-7
+Fraction by Wt: 35%
+Other REC Limits:100 PPM
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:SOYA ALKYD RESIN
+Fraction by Wt: 20%
+
+Ingred Name:TALC (CONTAINING NO ASBESTOS)
+CAS:14807-96-6
+RTECS #:WW2710000
+Fraction by Wt: 20%
+OSHA PEL:2 MG/M3 RDUST
+ACGIH TLV:2 MG/M3 RDUST; 9192
+
+Ingred Name:KAOLIN
+CAS:1332-58-7
+RTECS #:GF1670500
+Fraction by Wt: 10%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:2 MG/M3 TDUST; 9293
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 10%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:ZINC POTASSIUM CHROMATE
+CAS:37224-57-0
+RTECS #:GB7000000
+Fraction by Wt: <5%
+OSHA PEL:0.1 MG/CUM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: RESPIRATORY TRACT
+    IRRITATION/HEADACHE/NAUSEA/DIZZINESS/WEAKNESS/FATIGUE/UNCONSCIOUSNE
+    SS/RESPIRATORY ARREST/PERMANENT BRAIN/NERVOUS SYSTEM DAMAGE/LUNG
+    DISEASE. INGESTION: STOMACH/INTESTINAL 
+    IRRITATION/NAUSEA/VOMITING/DIARRHEA/ASPIRATION MAY CAUSE CHEMICAL
+    PNEUMONITIS WHICH MAY BE FATAL. SKIN/EYE: IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: RESPIRATORY TRACT
+    IRRITATION/HEADACHE/NAUSEA/DIZZINESS/WEAKNESS/FATIGUE/UNCONSIOUSNES
+    S/RESPIRATORY ARREST/PERMANENT BRAIN/NERVOUS SYSTEM DAMAGE/LUNG
+    DISEASE. INGESTION: STOMACH/INTESTINAL 
+    IRRITATION/NAUSEA/VOMTING/DIARRHEA/ASPIRATION MAY CAUSE CHEMICAL
+    PNEUMONITIS WHICH MAY BE FATAL. SKIN/EYES: IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. IF BREATHING STOPS, GIVE
+    CPR. EYES: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MIN. SKIN: WASH
+    W/SOAP & WATER. INGESTION: DON'T INDUCE VOMITING. ASPIRATION OF
+    VOMITUS CAN  CAUSE CHEMICAL PNEUMONITIS WHICH CAN BE FATAL. OBTAIN
+    MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:102F
+Extinguishing Media:CO2, DRY CHEMICAL, FOAM OR OTHER CLASS B
+    EXTINGUISHER
+Fire Fighting Procedures:USE FULL PROTECTIVE EQUIPMENT INCLUDING A
+    SELF-CONTAINED BREATHING APPARATUS. WATER SPRAY MAY BE INEFFECTIVE.
+    IF WATER IS USED, FOG NOZZLES ARE PREFERRED.
+Unusual Fire/Explosion Hazard:WATER SPRAY MAY BE USED TO COOL CLOSED
+    CONTAINERS TO PREVENT PRESSURE BUILD-UP, POSSIBLE AUTOIGNITION &
+    EXPLOSION WHEN EXPOSED TO EXTREME HEAT. COMBUSTIBLE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. VENTILATE
+    AREA. CONTAIN SPILLED MATERIAL & REMOVE W/INERT ABSORBENT &
+    NON-SPARKING TOOLS. STORE IN CLOSED CONTAINER UNTIL PROPERLY
+    DISPOSED.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T STORE >120F. KEEP CONTAINER
+    TIGHTLY CLOSED WHEN NOT IN USE. STORE LARGE QUANTITIES IN BUILDING
+    DESIGNED TO COMPLY W/OSHA. DON'T SMOKE.
+Other Precautions:DON'T TRANSFER CONTENTS TO BOTTLES/UNLABELLED
+    CONTAINERS. DON'T REUSE EMPTY CONTAINERS. KEEP OUT OF REACH OF
+    CHILDREN. AVOID BREATHING OF VAPORS/SPARY MIST/SANDING DUST. AVOID
+    SKIN/EYE CONTACT. USE W/ ADEQUATE VENTILATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED MECHANICAL FILTER
+    RESPIRATOR FOR SOLID AIRBORNE PARTICLES/SANDING DUST. IN RESTRICTED
+    AREAS, USE NIOSH CHEMICAL/MECHANICAL FILTERS FOR
+    PARTICULATES/VAPOR. IN CONFINED AREAS, US E NIOSH AIR SUPPLY
+    RESPIRATOR OR HOOD.
+Ventilation:GENERAL DILUTION/LOCAL EXHAUST IN VOLUME & PATTERN TO KEEP
+    AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:58.3%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HEAT, FIRE, OPEN FLAME, TEMPS >120F, OR
+    OTHER SOURCES OF IGNITION
+Hazardous Decomposition Products:FUMES CONTAINING CO, CO2, & OXIDES OF
+    METALS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL BY INCINERATION IN COMPLIANCE W/LOCAL,
+    STATE, & FEDERAL REGULATIONS. DON'T INCINERATE CLOSED CONTAINERS.
+    COMBUSTIBLE LIQUID.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

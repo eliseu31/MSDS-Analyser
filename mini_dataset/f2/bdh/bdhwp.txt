@@ -1,0 +1,118 @@
+=====================  Product Identification  =====================
+
+Product ID:STAY-SILV 15
+MSDS Date:01/01/1987
+FSC:3439
+NIIN:00-191-3250
+MSDS Number: BDHWP
+=== Responsible Party ===
+Company Name:J.W. HARRIS CO.,INC. (UNIBRAZE CORP.)
+Emergency Phone Num:513-891-2000
+CAGE:27911
+=== Contractor Identification ===
+Company Name:J. W. HARRIS CO., INC.
+Address:10930 DEERFIELD ROAD
+Box:City:CINCINNATI
+State:OH
+ZIP:45242-4110
+Country:US
+Phone:513-891-2000
+CAGE:27911
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SILVER  (SARA III)
+CAS:7440-22-4
+RTECS #:VW3500000
+Fraction by Wt: 15%
+OSHA PEL:0.01 MG/M3
+ACGIH TLV:0.1 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:COPPER  (SARA III)
+CAS:7440-50-8
+RTECS #:GL5325000
+Fraction by Wt: 80.0%
+OSHA PEL:0.1MG/M3 FUME/1 DUST
+ACGIH TLV:0.2MG/M3 FUME; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:PHOSPHOROUS (YELLOW)  (SARA III)
+CAS:7723-14-0
+RTECS #:TH3500000
+Fraction by Wt: 5.0%
+OSHA PEL:0.1 MG/M3
+ACGIH TLV:0.1 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:COPPER FUME MAY CAUSE METAL FUME FEVER.SHORT
+    TERM SYMP-METAL TASTE IN MOUTH,DRY/IRRIT (SEE SUPP DATA
+
+=======================  First Aid Measures  =======================
+
+First Aid:REMOVE FROM DUST OR FUME EXPOSURE. IF BREATHING HAS
+    STOPPED,PERFORM ARTIFICIAL RESPIRATION. SUMMON MEDICAL AID
+    IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONFLAMMABLE
+Extinguishing Media:NONFLAMMABLE
+Fire Fighting Procedures:NONFLAMMABLE
+Unusual Fire/Explosion Hazard:(NONFLAMMABLE) OPEN FLAME & SPARKS CAN
+    IGNITE COMBUSTIBLES,SEE ANSI/ASC Z49.1-1983 SECTION 6.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:READ & UNDERSTAND MFR'S INSTRUCTNS &
+    PRECAUTIONARY LABEL ON PRODUCT.SEE AMERICAN NATIONAL STD Z49.1,SFTY
+    IN WELDING&CUTTING,&OSHA PUB 2206 (29CFR1910)
+Other Precautions:POSS USED W/FLUORIDE TYPE FLUX.IF APPLIC,CONSIDER
+    FLUX FUME IN HAZ EVAL. HAZ DECOMP:IF FLUX COATED ROD,INCLUDE BORIC
+    ACID (BORON
+    OXIDE,TLV=10MG/CUM,PEL=15MG/CUM);FLUORIDES,TLV&PEL=2.5MG(F)/CUM
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRABLE FUME
+    RESPIRATR/AIR SUPPLIED RESPIRATR
+Ventilation:ENOUGH VENT,LOC EXHAUST AT FLAME TO KEEP FUMES&GASES <
+    TLV'S
+Protective Gloves:WELDER'S GLOVES
+Eye Protection:FILTER LENS-PROPER SHADE#
+Other Protective Equipment:ARM PROTECTORS,APRONS,HATS,SHOULDER
+    PROT,DARK STURDY CLOTHES
+Supplemental Safety and Health
+THROAT W/COUGH,SHORT BREATH,NAUSEA,FEVER,ACHE,CHILL.PULMONARY
+    IRRIT/PNEUMOCONIOSIS POSS W/LONG TERM EXP TO WELD
+    FUME,GAS,DUST.FUME IRRIT MAY AGGRAVATE LUNG ILLNESSES.PRIM EXP
+    ROUTE-FUME INHAL.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Appearance and Odor:SOLID WIRE/ROD.ROD POSS COAT W/CHEM FLUX-BLUE/OTHR
+
+=================  Stability and Reactivity Data  =================
+
+Hazardous Decomposition Products:SILVER (METAL & SOLUBLE CMPDS),COPPER
+    (FUME),(SEE OTHR PREC)
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:WASTE DISPOSAL MUST BE IN ACCORDANCE
+    W/FEDERAL,STATE & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

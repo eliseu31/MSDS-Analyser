@@ -1,0 +1,148 @@
+=====================  Product Identification  =====================
+
+Product ID:I-C-10; OE-10, MIL-L-2104F, QUAL#:MC-3723
+MSDS Date:03/15/1996
+FSC:9150
+NIIN:00-191-2772
+MSDS Number: BDHWH
+=== Responsible Party ===
+Company Name:IMPERIAL OIL CO.,INC.
+Address:ORCHARD PLACE
+Box:279
+City:MORGANVILLE
+State:NJ
+ZIP:07751
+Country:US
+Info Phone Num:201-591-9400
+Emergency Phone Num:908-591-9400/
+Preparer's Name:PAUL LEWICKI
+CAGE:58563
+=== Contractor Identification ===
+Company Name:IMPERIAL OIL CO INC
+Address:FOOT OF ORCHARD PL
+Box:279
+City:MORGANVILLE
+State:NJ
+ZIP:07751
+Country:US
+Phone:732-591-9400/FAX: 732-591-8825
+CAGE:58563
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LUBE OIL BASE STOCK
+CAS:64741-88-4
+RTECS #:PY8040501
+Fraction by Wt: 90-92%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:PROPRIETARY ADDITIVES (FURTHER INFO CONTACT CHEVRON CHEM
+    CO.)
+Fraction by Wt: 8-10%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Health Hazards Acute and Chronic:ACUTE-EYES:DIRECT CONTACT MAY CAUSE
+    IRRITATION.SKIN:LOW ORDER OF TOXICITY.INHALATION:MIST MAY CAUSE
+    PULMONARY PROBLEMS.INGESTION:LOW ORDER OF TOXICITY.CHRONIC-SKIN:MAY
+    CAUSE IRRITATION.
+Explanation of Carcinogenicity:NO EVIDENCE OF BEING CARCINOGEN.
+Effects of Overexposure:EYE:IRRITATION. SKIN:POSSIBLE MILD IRRITATION.
+    INHALED:RESPIRATORY IRRITATION,POSSIBLE PULMONARY EDEMA IF MIST IS
+    INHALED.  INGESTED:LOW ORDER OF TOXICITY.
+Medical Cond Aggravated by Exposure:NONE REPORTED
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH W/WATER 15 MIN, HOLD LIDS OPEN.SKIN:CLEANSE WITH
+    WATERLESS SOAP FOLLOWED BY THOROUGH WASHING WITH SOAP &
+    WATER.INHALED:REMOVE TO FRESH AIR.RESTORE BREATHING IF
+    NECESSARY.INGESTED:DO NOT INDU CE VOMITING.GET IMMEDIATE MEDICAL
+    CARE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:428F,220C
+Autoignition Temp:Autoignition Temp Text:NA
+Lower Limits:NP
+Upper Limits:NP
+Extinguishing Media:CARBON DIOXIDE, WATER FOG, FOAM, DRY CHEMICAL.
+Fire Fighting Procedures:WEAR MESA/NIOSH APPROVED SELF-CONTAINED
+    BREATHING APPARATUS. (SCHEDULE 13) USE WATER SPRAY TO COOL FIRE
+    EXPO CONTAINERS.
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:RECOVER AS LIQUID IF POSSIBLE. ADSORB
+    REMAINDER ON EARTH,SAND,FULLERS EARTH ETC. KEEP OUT OF DRAINS,
+    SEWERS, AND WATERWAYS.  STORE IN CLOSED CONTAINERS PENDING DISPOSAL
+    OR RECOVERY. AREA MAY BE SLIPPE RY. CARE SHOULD BE TAKEN TO AVOID
+    FALLS.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:THESE LUBRICANTS BECOME VERY VISCOUS
+    WHEN STORED AT LOW TEMPERATURE. THEY CONGEAL AT TEMPERATURE FROM
+    -12C TO -32C.
+Other Precautions:USE PRODUCT WITH CAUTION AROUND OPEN FLAMES, HEAT,
+    SPARKS, PILOT LIGHTS & STATIC ELECTRICITY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE SUPPLIED-AIR RESPIRATORY PROTECTION IN
+    CONFINED OR ENCLOSED SPACES IF NEEDED.
+Protective Gloves:OIL RESISTANT-IMPERVIOUS
+Eye Protection:SPLASH GOGGLES
+Other Protective Equipment:EYEWASH FACILITY
+Work Hygienic Practices:MINIMIZE BREATHING VAPOR/MIST.REMOVE
+    CONTAMINATED CLOTHING & LAUNDER BEFORE USE. OIL SOAKED SHOES SHOULD
+    BE DISCARDED.
+Supplemental Safety and Health
+EMPTY CONTAINERS RETAIN RESIDUE AND CAN BE DANGEROUS.DO NOT
+    PRESSURIZE,CUT,WELD,BRAZE,SOLDER DRILL,GRIND OR EXPOSE SUCH
+    CONTAINERS TO HEAT,FLAME,SPARKS OR SOURCES OF IGNITION.THEY MAY
+    EXPLODE AND CAUS E INJURY. THIS IS ONE OF SEVERAL LUBRICATING OIL
+    MADE BY THIS COMPANY THAT MEETS THE MILITARY SPECIFICATIONS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:600F,316C
+Melt/Freeze Pt:M.P/F.P Text:0
+Decomp Temp:Decomp Text:NP
+Vapor Pres:A
+Vapor Density:A
+Spec Gravity:<1
+pH:NP
+Viscosity:NP
+Evaporation Rate & Reference:<1 (N-BUTYL ACETATE=1)
+Solubility in Water:0
+Appearance and Odor:DARK AMBER, NO ODOR.
+Percent Volatiles by Volume:NP
+Corrosion Rate:NP
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CONTACT W/STRONG OXIDIZERS.
+Hazardous Decomposition Products:ONLY WHEN BURNING-CARBON
+    DIOXIDE,CARBON MONOXIDE,SULFUR AND NITROGEN COMPOUNDS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W FEDERAL,STATE, LOCAL REGULATIONS. 
+    MFR SUGGESTS INCINERATE IF UNABLE TO RECYCLE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

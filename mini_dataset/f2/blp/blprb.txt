@@ -1,0 +1,225 @@
+=====================  Product Identification  =====================
+
+Product ID:CARBON, ALLOY, & TOOL STEELS
+MSDS Date:11/21/1985
+FSC:3439
+NIIN:00F019215
+MSDS Number: BLPRB
+=== Responsible Party ===
+Company Name:EARLE M JORGENSEN COMPANY
+Address:10700 ALAMEDA STREET
+City:LYNWOOD
+State:CA
+ZIP:90262
+Info Phone Num:(213) 567-1122
+Emergency Phone Num:(213) 567-1122
+CAGE:88120
+=== Contractor Identification ===
+Company Name:EARLE M JORGENSEN CO
+Address:10700 ALAMEDA ST
+Box:City:LYNWOOD
+State:CA
+ZIP:90262
+Phone:(213) 567-1122
+CAGE:88120
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:IRON
+CAS:7439-89-6
+RTECS #:NO4565500
+Fraction by Wt: BALANCE
+OSHA PEL:10 MG/CUM (FUME)
+ACGIH TLV:5 MG/CUM (FUME)
+
+Ingred Name:ALUMINUM  (SARA III)
+CAS:7429-90-5
+RTECS #:BD0330000
+Fraction by Wt: 0.1-1.8%
+OSHA PEL:15MG/M3 DUST/5 FUME
+ACGIH TLV:10MG/M3 DUST; 9192
+
+Ingred Name:GRAPHITE, SYNTHETIC
+CAS:7440-44-0
+RTECS #:FF5250100
+Fraction by Wt: <1.5%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:2 MG/M3 TDUST; 9293
+
+Ingred Name:CHROMIUM  (SARA III)
+CAS:7440-47-3
+RTECS #:GB4200000
+Fraction by Wt: 0.01-12%
+OSHA PEL:1 MG/M3
+ACGIH TLV:0.5 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:COBALT  (SARA III)
+CAS:7440-48-4
+RTECS #:GF8750000
+Fraction by Wt: <8%
+Other REC Limits:0.05 PPM
+OSHA PEL:0.1 MG/M3;AS CO
+ACGIH TLV:0.05 MG/M3;DUST 9293
+
+Ingred Name:COPPER  (SARA III)
+CAS:7440-50-8
+RTECS #:GL5325000
+Fraction by Wt: <0.7%
+Other REC Limits:1 MG(CU)/M3 (DUST)
+OSHA PEL:0.1MG/M3 FUME/1 DUST
+ACGIH TLV:0.2MG/M3 FUME; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:LEAD  (SARA III)
+CAS:7439-92-1
+RTECS #:OF7525000
+Fraction by Wt: <0.35%
+OSHA PEL:0.05 MG/M3;1910.1025
+ACGIH TLV:0.15 MG/M3;DUST 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:MANGANESE  (SARA III)
+CAS:7439-96-5
+RTECS #:OO9275000
+Fraction by Wt: 0.01-2%
+OSHA PEL:(C) 5 MG/M3 DUST
+ACGIH TLV:5 MG/M3 DUST 9293
+
+Ingred Name:MOLYBDENUM
+CAS:7439-98-7
+RTECS #:QA4680000
+Fraction by Wt: <1.1%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3; 9293
+
+Ingred Name:NICKEL  (SARA III)
+CAS:7440-02-0
+RTECS #:QR5950000
+Fraction by Wt: <10%
+Other REC Limits:1 MG/CUM
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+
+Ingred Name:PHOSPHOROUS (YELLOW)  (SARA III)
+CAS:7723-14-0
+RTECS #:TH3500000
+Fraction by Wt: <0.15%
+Other REC Limits:100 UG/CUM
+OSHA PEL:0.1 MG/M3
+ACGIH TLV:0.1 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:SILICON
+CAS:7440-21-3
+RTECS #:VW0400000
+Fraction by Wt: <2.2%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:SULFUR
+CAS:7704-34-9
+RTECS #:WS4250000
+Fraction by Wt: <0.35%
+OSHA PEL:13 MG/CUM
+ACGIH TLV:5 MG/CUM
+
+Ingred Name:TUNGSTEN
+CAS:7440-33-7
+RTECS #:YO7175000
+Fraction by Wt: <18%
+OSHA PEL:5 MG/M3/ 10 STEL
+ACGIH TLV:5 MG/M3/10 STEL;9192
+
+Ingred Name:VANADIUM  (SARA III)
+CAS:7440-62-2
+RTECS #:YW1355000
+Fraction by Wt: 0.01-1%
+Other REC Limits:0.1 MG/CUM
+OSHA PEL:C,0.5 MG V2O5/M3 RD
+ACGIH TLV:0.05 MG V205/M3;9293
+
+Ingred Name:ZINC OXIDE
+CAS:1314-13-2
+RTECS #:ZH4810000
+Fraction by Wt: <10%
+OSHA PEL:15MG/M3 TDUST/5 FUME
+ACGIH TLV:10MG/M3 TDUST; 9293
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:EYES: METALLIC FUMES & DUSTS CAUSE
+    IRRITATION. INHALATION: METALLIC FUMES & DUSTS MAY CAUSE IRRITATION
+    OF NOSE & THROAT, & METAL FUME FEVER. INGESTION: METALLIC TASTE IN
+    MOUTH, DRYNESS & IRRITATION OF  THE THROAT, CHILLS & FEVER, WHICH
+    LASTFROM 12 TO 48 HOURS.
+Explanation of Carcinogenicity:CHROMIUM, LEAD, & NICKEL ARE SUSPECTED
+    HUMAN CARCINOGENS.
+Effects of Overexposure:EYES: METALLIC FUMES & DUSTS MAY CAUSE
+    IRRITATION. INHALATION: METALLIC FUMES & DUSTS MAY CAUSE IRRITATION
+    OF NOSE & THROAT, & METAL FUME FEVER. INGESTION: METALLIC TASTE IN
+    THE MOUTH, DRYNESS & IRRIT ATION OF THE THROAT, CHILLS & FEVER,
+    WHICH LAST FROM 12 TO 48 HOURS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. EYES: FLUSH W/WATER TO
+    REMOVE PARTICULATE. SKIN: WASH W/SOAP & WATER. INGESTION: OBTAIN
+    MEDICAL ATTENTION IN ALL CASES.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AREA WELL VENTILATED. AVOID
+    GENERATION OF AIRBORNE DUSTS & FUMES.
+Other Precautions:OPERATIONS SUCH AS
+    WELDING/BURNING/SAWING/BRAZING/GRINDING/CUTTING/MACHINING, WHICH
+    RESULTS IN ELEVATING THE TEMPERATURE OF PRODUCT TO OR ABOVE ITS
+    MELTING POINT OR RESULTS IN THE GENERATION OF AIRBOR NE
+    PARTICULATES MAY PRESENT HAZARDS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR NIOSH APPROVED DUST/MIST/FUME RESPIRATOR
+    DURING WELDING OR BURNING IF >TLV.
+Protective Gloves:WELDERS
+Eye Protection:SAFETY GLASSES, FACESHIELDS
+Other Protective Equipment:APPROPRIATE PROTECTIVE CLOTHING SUCH AS
+    WELDERS APRONS
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE. USE GOOD HOUSEKEEPING PRACTICES.
+Supplemental Safety and Health
+VARIOUS GRADES OF STEEL WILL CONTAIN DIFFERENT COMBINATIONS OF
+    ELEMENTS.
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:M.P/F.P Text: 2750F
+Spec Gravity:7
+Appearance and Odor:GRAY-BLACK W/METALLIC LUSTRE
+    BAR/SHEET/PLATE/TUBING/STRUCTURALS/FORGING/ODORLES
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS
+Hazardous Decomposition Products:HYDROGEN GAS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

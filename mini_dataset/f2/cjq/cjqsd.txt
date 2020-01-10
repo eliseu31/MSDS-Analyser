@@ -1,0 +1,166 @@
+=====================  Product Identification  =====================
+
+Product ID:N-(1-NAPHTHYL)ETHYLENEDIAMINE DIHYDROCHLORIDE, 117 5017
+MSDS Date:01/29/1989
+FSC:6810
+NIIN:00N092096
+Status Code:A
+MSDS Number: CJQSD
+=== Responsible Party ===
+Company Name:ACROS ORGANICS
+Address:711 FORBES AVE
+City:PITTSBURGH
+State:PA
+ZIP:15219-4785
+Country:US
+Info Phone Num:800-227-6701
+Emergency Phone Num:800-424-9300
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:ACR0S
+=== Contractor Identification ===
+Company Name:ACROS ORGANICS
+Address:ONE REAGENT LANE
+Box:City:FAIRLAWN
+State:NJ
+ZIP:07410
+Country:US
+Phone:800-227-6701
+CAGE:ACR0S
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:N-(1-NAPHTHYL)ETHYLENEDIAMINE DIHYDROCHLORIDE
+CAS:1465-25-4
+RTECS #:KV5330000
+= Wt:100.
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50:(ORAL,RAT) 50-400 MG/KG & TOX INFO.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: LOW HAZARD FOR USUAL
+    INDUSTRIAL HANDLING. SKIN: HARMFUL IF ABSORBED THROUGH SKIN. CAUSES
+    IRRITATION. EYE: CAUSES IRRITATION. INGESTION: HARMFUL IF
+    SWALLOWED.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR FOLLOWING OVEREXPOSURE. SKIN:
+    IMMEDIATELY FLUSH WITH PLENTY OF WATER FOR AT LEAST 15 MINUTES
+    WHILE REMOVING CONTAMINATED CLOTHING AND SHOES. WASH CONTAMINATED
+    CLOTHING  BEFORE REUSE. IF SYMPTOMS ARE PRESENT AFTER WASHING, GET
+    MEDICAL ATTENTION. EYE: IMMEDIATELY FLUSH WITH PLENTY OF WATER FOR
+    AT LEAST 15 MINUTES AND GET MEDICAL ATTENTION. INGESTION: IF
+    SWALLOWED, INDU CE VOMITING IMMEDIATELY AS DIRECTED BY MEDICAL
+    PERSONNEL OR A POISON INFORMATION CENTER. NEVER GIVE ANYTHING BY
+    MOUTH TO AN UNCONSCIOUS PERSON. CALL MD OR POISON CONTROL CENTER
+    IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER SPRAY, DRY CHEMICAL, CARBON DIOXIDE.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT . USE WATER SPRAY TO KEEP FIRE EXPOSED CONTAINERS COOL.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY PRODUCE
+    HAZARDOUS DECOMPOSITION PRODUCTS. THIS MATERIAL IN SUFFICIENT
+    QUANTITY AND REDUCED PARTICLE SIZE IS CAPABLE OF CREATING A DUST
+    EXPLOSION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP MATERIAL AND PACKAGE FOR SAFE FEED TO
+    AN INCINERATOR.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP FROM CONTACT WITH OXIDIZING
+    MATERIAL. STORE IN A COOL PLACE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED RESPIRATORY PROTECTION MAY BE
+    NEEDED IN SPECIAL CIRCUMSTANCES.
+Ventilation:GOOD VENTILATION SHOULD BE SUFFICIENT. SUPPLEMENTAL
+    VENTILATION MAY BE NEEDED IN SPECIAL CIRCUMSTANCES.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:ANSI APPROVED EYE WASH & DELUGE SHOWER .
+    PROTECTIVE CLOTHING SHOULD BE WORN.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:=175.C, 347.F
+Vapor Pres:NEGLIGIBLE
+Spec Gravity:NOT AVAILABLE (WATER=1)
+Evaporation Rate & Reference:NEGLIGIBLE (N-BUAC=1)
+Solubility in Water:SOLUBLE
+Appearance and Odor:WHITE TO LIGHT TAN OR GRAY CRYSTALLINE SOLID.
+Percent Volatiles by Volume:NEGLIG (WT)
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS.
+Stability Condition to Avoid:STABLE, HOWEVER, MATERIAL CAN DECOMPOSE
+    ABOVE 185C. AVOID TEMPERATURES ABOVE 85C.
+Hazardous Decomposition Products:COMBUSTION WILL PRODUCE CARBON DIOXIDE
+    AND PROBABLY CARBON MONOXIDE. HYDROGEN CHLORIDE GAS AND OXIDES OF
+    NITROGEN AND SULFUR MAY ALSO BE PRESENT.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:LD50:(DERMAL,GUINEA PIG) COMPOUND APPEARS TO
+    BE ABSORBED THROUGH SKIN. SKIN IRRITATION TEST: GUINEA PIG -
+    MODERATE.
+
+=====================  Ecological Information  =====================
+
+Ecological:DATA NOT YET AVAIL. TOXICOLOGICAL INFO: OLFACTION EFTS;
+    LACRIMATION; OTHER EYE EFTS). BEHAVIORAL (EXCITEMENT). LUNGS,
+    THORAX OR RESPIRATION (CHANGE IN TRACHEA OR BRONCHI; CHANGES IN
+    PULMONARY VASCULAR	RESISTANCE; PLEURAL EFFUSION; COUGH; DYSPNAE;
+    SPUTUM; OTHER CHANGES). GASTROINTESTINAL (CHANGES IN STRUCTURE OR
+    FUNC OF SALIVARY GLANDS). ONLY SELECTED REGISTRY OF TOX EFTS OF
+    CHEM SUBSTANCES (RTECS)  DATA IS PRESENTED HERE. SEE ACTUAL ENTRY
+    IN RTECS FOR COMPLETE INFO. FED REG INFO: (0.14 MG/M3) CFRGBR
+    29,1915.1000, 1993. OSHA PEL (FED CONT): CL 0.02 PPM (0.14 MG/M3)
+    CFRGBR 41,50-204.50,1994. (TRA NSPORT INFO)
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE BY INCINERATION OR CONTRACT WITH
+    LICENSED CHEMICAL WASTE DISPOSAL AGENCY. DISCHARGE, TREATMENT, OR
+    DISPOSAL MAY BE SUBJECT TO FEDERAL, STATE OR LOCAL LAWS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:CNTCT ALDRICH CHEMICAL COMPANY FOR TRANSPORTATION
+    INFO. ECOLOGICAL INFO: OEL-ARAB REPUBLIC OF EGYPT: TWA 0.02 PPM
+    (0.14 MG/M3) JAN 1993. OEL-BELGIUM: TWA 0.005 PPM (0.036 MG/M3);
+    STEL 0.02 PPM JAN 199 3. OEL-DENMARK: TWA 0.005 PPM (0.035 MG/M3);
+    CARCIN JAN 1993. OEL-FRANCE: TWA 0.01 PPM (0.08 MG/M3); STEL 0.02
+    PPM (0.16 MG/M3) JAN 1993. OEL-GERMANY: TWA 0.01 PPM (0.07 MG/M3)
+    JAN 1993. OEL-HUNGARY:  STEL 0.04 MG/M3 JAN 1993. OEL-JAPAN: TWA
+    0.02 PPM (0.14 MG/M3) JAN 1993. OEL-THE NETHERLANDS: TWA 0.02 PPM
+    (0.14 MG/M3); SKIN JAN 1993. OEL-THE PHILIPPINES: TWA 0.02 PPM
+    (0.14 MG/M3) JAN 1993. OEL-RUS SIA: STEL 0.05 MG/M3 (SARA REG INFO)
+
+=====================  Regulatory Information  =====================
+
+Federal Regulatory Information:WHMIS STATUS: CONTROLLED PRODUCT.
+State Regulatory Information:
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

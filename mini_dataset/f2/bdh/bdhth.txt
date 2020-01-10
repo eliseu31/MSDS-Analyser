@@ -1,0 +1,122 @@
+=====================  Product Identification  =====================
+
+Product ID:E P GREASE 5114
+MSDS Date:01/01/1987
+FSC:9150
+NIIN:00-190-0885
+MSDS Number: BDHTH
+=== Responsible Party ===
+Company Name:EXXON CO USA
+Emergency Phone Num:713-656-3424
+CAGE:29667
+=== Contractor Identification ===
+Company Name:EXXON CO USA
+Address:800 BELL ST
+Box:2180
+City:HOUSTON
+State:TX
+ZIP:77252-2180
+Country:US
+Phone:713-656-6449
+CAGE:29667
+Company Name:EXXON COMPANY U.S.A.
+Address:Box:2180
+City:HOUSTON
+State:TX
+ZIP:77252-2180
+Country:US
+Phone:713-656-5949 / 713-656-3424
+CAGE:29700
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LITHIUM SOAP THICKENER CAS# 4485-12-5
+CAS:4485-12-5
+RTECS #:WI4370000
+Fraction by Wt: <98%
+Fraction by Wt: <98%
+
+Ingred Name:PROPRIETARY ADDITIVES
+Fraction by Wt: <2%
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:SKIN:IRRIT,REMOVE SKIN
+    OILS,DERMAT.EYE:IRRIT.INGEST:ASPIRATION OF SM AMTS MAY CAUSE PULMON
+    INJ,DEATH
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH W/ WATER 15 MINUTES,CALL MD IF IRRIT
+    PERSISTS.SKIN:REMOVE CONTAM CLOTHING,WASH W/ SOAP & WATER,INHAL:NOT
+    NORMALLY PROBLEM,BUT IF OVERCOME BY HOT VAPOR,REMOVE TO FRESH
+    AIR,CALL MD.INGEST:DO N OT INDUCE VOMIT,CALL MD.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:415M213C COC
+Autoignition Temp:Autoignition Temp Text:>500F
+Lower Limits:1
+Upper Limits:12
+Extinguishing Media:FOAM,WATER SPRAY(FOG),DRY CHEM,CO*2,VAPORIZING
+    LIQUID TYPE
+Fire Fighting Procedures:USE WATER TO COOL FIRE EXPOSED CONTRS.SCBA IN
+    CONF AREA.
+Unusual Fire/Explosion Hazard:EMPTY CONTAINER MAY CONTAIN EXPLO
+    RESIDUE,DO NOT WELD,CUT,BRAZE,KEEP FROM HEAT,FLAME,SPARKS
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:RECOVER FREE PRODUCT.ADD SAND,EARTH,OTHER
+    SUITABLE ABSORBENT.MINIMIZE SKIN CONTACT.DIKE OR IMPOUND TO KEEP
+    OUT OF SEWERS,WATERWAYS,EXTENSIVE LAND AREAS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NO SMOKING OR OPEN LIGHTS.CLEANSE SKIN
+    THOROUGHLY AFTER CONTACT BY USING WATERLESS HAND CLEANER,SOAP &
+    WATER.
+Other Precautions:MINIMIZE EXPOSURE TO LIQUID,VAPOR,MIST,FUMES.DISCARD
+    OIL-SOAKED SHOES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:OSHA/MSHA APPRVD SCBA FOR CONFINED SPACE AS
+    NEEDED
+Ventilation:LOCAL EXHAUST.KEEP 500F,260C.PH NEUTRAL.CONSISTENCY OF GREASE IS 28 MM AT 25C BY ASTM
+    D217 ACCORD TO CALLING MFR.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:560F,293C
+Vapor Pres:0
+Vapor Density:>5
+Spec Gravity:0.94
+Evaporation Rate & Reference:<0.01(N-BUAC)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:SMOOTH YELLOW GREASE,MILD BLAND ODOR
+Percent Volatiles by Volume:0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDNTS,LIQ CL*2,CONC O*2,NAOCL,CA(OCL)*2
+Hazardous Decomposition Products:FUMES,SMOKE,CO,METAL
+    OXIDES,ALDEHYDES,OTHERS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ASSURE CONFORMITY W/ APPLICABLE GOVT
+    REGS,LOCAL,STATE,AND FEDERAL.EMPTY DRUMS SHOULD BE COMPLETELY
+    DRAINED,PROPERLY BUNGED AND PROMPTLY RETURNED TO A DRUM
+    RECONDITIONER.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

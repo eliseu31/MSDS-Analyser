@@ -1,0 +1,159 @@
+=====================  Product Identification  =====================
+
+Product ID:0530-01 EYESTREAM, 30 ML
+MSDS Date:06/15/1989
+FSC:6505
+NIIN:01-156-2188
+MSDS Number: BKYSS
+=== Responsible Party ===
+Company Name:ALCON LABORATORIES INC
+Address:6201 S FREEWAY
+City:FORT WORTH
+State:TX
+ZIP:76134
+Info Phone Num:(817) 551-4444
+Emergency Phone Num:(817) 551-4444
+CAGE:18924
+=== Contractor Identification ===
+Company Name:ALCON LABORATORIES INC., WEBCON PRODUCTS DIV
+Address:]201 SOUTH FREEWAY
+Box:City:FORT WORTH
+State:TX
+ZIP:76134
+Country:US
+Phone:817-551-4444
+CAGE:18924
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM CHLORIDE
+CAS:7647-14-5
+RTECS #:VZ4725000
+Fraction by Wt: 0.64%
+
+Ingred Name:POTASSIUM CHLORIDE
+CAS:7447-40-7
+RTECS #:TS8050000
+Fraction by Wt: 0.075%
+
+Ingred Name:CALCIUM CHLORIDE
+CAS:10043-52-4
+RTECS #:EV9800000
+Fraction by Wt: 0.048%
+
+Ingred Name:MAGNESIUM CHLORIDE
+CAS:7786-30-3
+Fraction by Wt: 0.03%
+
+Ingred Name:SODIUM ACETATE
+CAS:126-96-5
+RTECS #:AJ4375000
+Fraction by Wt: 0.39%
+
+Ingred Name:SODIUM CITRATE
+CAS:144-33-2
+RTECS #:GE7580000
+Fraction by Wt: 0.17%
+
+Ingred Name:ALKYL DIMETHYLBENZYL AMMONIUM CHLORIDE, BENZALKONIUM
+    CHLORIDE, QUARTERNARY AMMONIUM CHLORIDES
+CAS:8001-54-5
+RTECS #:BO3325000
+Fraction by Wt: 0.013%
+
+Ingred Name:SODIUM HYDROXIDE  (SARA III)
+CAS:1310-73-2
+RTECS #:WB4900000
+Other REC Limits:2MG/M3 CEILING NIOSH
+OSHA PEL:2 MG/M3
+ACGIH TLV:C 2 MG/M3; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:HYDROGEN CHLORIDE  (HYDROCHLORIC ACID)  (SARA III)
+CAS:7647-01-0
+RTECS #:MW4025000
+Other REC Limits:7 PPM
+OSHA PEL:C 5 PPM
+ACGIH TLV:C 5 PPM; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:WATER, H2O
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: BALANCE
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: UPPER RESPIRATORY TRACT
+    IRRITATION. SKIN/EYES/INGESTION: IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: UPPER RESPIRATORY IRRITATION.
+    SKIN/EYES/INGESTION: IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. GIVE CPR OR OXYGEN IF
+    NEEDED. SKIN/EYES: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINS.
+    INGESTION: WASH OUT MOUTH W/WATER. OBTAIN MEDICAL ATTENTION IN ALL
+    CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE EXTINGUISHING MEDIA APPROPRIATE FOR THE
+    SURROUNDING FIRE.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS &
+    PROTECTIVE CLOTHING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VACUUM OR SWEEP SPILLAGE. PLACE SPILLAGE IN
+    APPROPRIATE CONTAINER FOR WASTE DISPOSAL. WASH SPILL SITE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN TIGHT CONTAINER AS DEFINED IN
+    THE UNITED STATES PHARMACOPEIA. USE W/ADEQUATE DUST CONTROL.
+Other Precautions:THIS MATERIAL SHOULD BE HANDLED & STORED PER LABEL &
+    OTHER INSTRUCTIONS TO ENSURE PRODUCT INTEGRITY. AVOID CONTACT
+    W/EYES, SKIN, CLOTHING, & BREATHING DUST OR MIST. DON'T PERMIT
+    EATING, DRINKING OR SM OKING NEAR MATERIAL.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE A NIOSH/OSHA APPROVED RESPIRATOR.
+Ventilation:LOCAL EXHAUST: ADEQUATE
+Protective Gloves:RUBBER
+Eye Protection:SAFETY GOGGLES
+Other Protective Equipment:APPROPRIATE LABORATORY CLOTHING
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING. DON'T PERMIT
+    EATING, DRINKING OR SMOKING NEAR MATERIAL.
+Supplemental Safety and Health
+PRECAUTIONS, PERSONAL PROTECTION & SUPPLEMENTAL DATA ASSUMES LARGE
+    QUANTITIES SUCH AS WAREHOUSE STORAGE OR INDUSTRIAL ACCIDENT.
+
+==================  Physical/Chemical Properties  ==================
+
+Appearance and Odor:AQUEOUS SOLUTION
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+METALS, ALKALI HYDRIDES, STRONG ACIDS, & BASES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

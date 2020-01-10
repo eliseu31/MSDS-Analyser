@@ -1,0 +1,112 @@
+=====================  Product Identification  =====================
+
+Product ID:FRL-3700 LAST-A-FOAM, 55 GAL DRUM
+MSDS Date:10/01/1989
+FSC:9330
+NIIN:00F018567
+MSDS Number: BKYFY
+=== Responsible Party ===
+Company Name:GENERAL PLASTICS MANUFACTURING CO
+Address:4910 BURLINGTON WAY
+Box:9097
+City:TACOMA
+State:WA
+ZIP:98409
+Info Phone Num:(206) 473-5000
+Emergency Phone Num:(206) 473-5000
+CAGE:28014
+=== Contractor Identification ===
+Company Name:GENERAL PLASTICS MFG CO
+Address:4910 BURLINGTON WAY
+Box:9097
+City:TACOMA
+State:WA
+ZIP:98409-2833
+Country:US
+Phone:206-473-5000
+CAGE:28014
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TRICHLOROFLUOROMETHANE  (CFC-11)  (SARA III)
+CAS:75-69-4
+RTECS #:PB6125000
+Fraction by Wt: <10%
+Other REC Limits:1000 PPM MSHA
+OSHA PEL:1000 PPM
+ACGIH TLV:C, 1000 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+Ozone Depleting Chemical:1
+
+Ingred Name:POLYOL
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: HEADACHE, NOSE & THROAT
+    IRRITATION. EYES/SKIN: IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: HEADACHE, NOSE & THROAT IRRITATION.
+    EYES/SKIN: IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: WASH W/SOAP & WATER OR TINCTURE OF GREEN SOAP. EYES:
+    FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINS. INGESTION: INDUCE
+    VOMITING. INHALATION: REMOVE TO FRESH AIR. GIVE OXYGEN IF NEEDED.
+    OBTAIN MEDI CAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:410F
+Extinguishing Media:WATER, CO2, CHEMICAL FOAM, OR DRY CHEMICAL.
+Fire Fighting Procedures:USE SELF-CONTAINED BREATHING APPARATUS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB W/ABBSORBENT SWEEPING & CLEANING
+    COMPOUND. WASH UP IMMEDIATELY W/WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE BETWEEN 60-75F.
+Other Precautions:AVOID CONTACT W/SKIN & EYES. MATERIAL SHELF LIFE IS 6
+    MONTHS, IF KEPT IN CLOSED ORIGINAL CONTAINER & STORED PROPERLY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:PROVIDE GOOD VENTILATION IN THE FOAMING AREA.
+Protective Gloves:CHEMICAL RESISTANT RUBBER, PLASTIC
+Eye Protection:CHEMICAL SAFETY GOGGLES
+Other Protective Equipment:SAFETY SHOWERS, EYE WASH STATIONS
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>500F
+Spec Gravity:1.15
+Solubility in Water:COMPLETE
+Appearance and Odor:AMBER LIQUID W/SLIGHT AMINE & FREON 11 ODOR.
+Percent Volatiles by Volume:<11%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:TEMPERATURES <75F
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,67 @@
+=====================  Product Identification  =====================
+
+Product ID:P-S-609L, SADDLE SOAP
+MSDS Date:01/01/1987
+FSC:7930
+NIIN:00-170-5467
+MSDS Number: BDFJB
+=== Responsible Party ===
+Company Name:NEW ENGLAND WAX PRODUCTS
+Emergency Phone Num:617-593-1451
+CAGE:KO415
+=== Contractor Identification ===
+Company Name:FEDERAL SPECIFICATIONS, PROMULGATED BY GSA
+Box:City:WASHINGTON
+State:DC
+Country:US
+CAGE:81348
+Company Name:NEW ENGLAND WAX PRODUCTS
+Box:711
+CAGE:KO415
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SOAP
+Fraction by Wt: UNK
+
+Ingred Name:WAX
+CAS:8002-74-2
+RTECS #:RV0350000
+Fraction by Wt: UNK
+
+Ingred Name:OILS
+Fraction by Wt: UNK
+
+=======================  First Aid Measures  =======================
+
+First Aid:RINSE WITH WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USUAL WATER.
+Fire Fighting Procedures:NO SPECIAL PROCEDURE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN UPRIGHT POSITION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Eye Protection:FLUSH WITH WATER.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:300 F 149 C
+Appearance and Odor:SMOOTH-NON-TOXIC ODOR
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

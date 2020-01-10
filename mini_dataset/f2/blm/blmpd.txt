@@ -1,0 +1,141 @@
+=====================  Product Identification  =====================
+
+Product ID:F-152 B-COMP, F-09P04
+MSDS Date:12/10/1990
+FSC:8010
+NIIN:00N021900
+Kit Part:Y
+MSDS Number: BLMPD
+=== Responsible Party ===
+Company Name:SEAGRAVE COATINGS CORP OF VA
+Address:4030 SEAGUARD AVE
+City:PORTSMOUTH
+State:VA
+ZIP:23701
+Country:US
+Info Phone Num:804-488-4411
+Emergency Phone Num:804-488-4411
+Preparer's Name:NSO
+CAGE:60163
+=== Contractor Identification ===
+Company Name:SHERWIN-WILLIAMS, SEAGUARD
+Address:3560 ELM AVE.
+Box:City:PORTSMOUTH
+State:VA
+ZIP:23704
+Country:US
+Phone:757-397-2223
+CAGE:60163
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TALC (CONTAINING NO ASBESTOS)
+CAS:14807-96-6
+RTECS #:WW2710000
+Fraction by Wt: 25%
+OSHA PEL:2 MG/M3 RDUST
+ACGIH TLV:2 MG/M3 RDUST; 9192
+
+Ingred Name:AROMATIC HYDROCARBON 100. VP:2.7 @ 20C.
+CAS:64742-95-6
+Fraction by Wt: 25%
+Other REC Limits:200 PPM (MFR)
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHAL:IRRITATION TO RESPIRATORY TRACT,
+    HEADACHE, DIZZINESS & NAUSEA. SKIN CONTACT:PRIMARY IRRITATION. EYE
+    CONTACT: PRIMARY IRRITATION.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:PRE-EXISTING SENSITIVITY TO
+    SOLVENTS CAN CAUSE HEIGHTENED REACTION TO EXPOSURE TO THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:REMOVE TO FRESH AIR, RESTORE BREATHING. CONSULT MD.
+    SKIN:FLUSH WITH WATER. EYES:FLUSH IMMEDIATELY WITH LARGE AMOUNTS OF
+    WATER FOR AT LEAST 15 MINUTES. CONSULT MD. INGEST:CALL MD
+    IMMEDIATELY (FP  N).
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:114F,46C
+Lower Limits:0.5%
+Upper Limits:6%
+Extinguishing Media:DRY CHEMICAL, CO2, FOAM.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPRVD SCBA & FULL PROT EQUIP
+    . H2O MAY BE USED TO COOL CLSD CNTNRS TO PVNT PRESS BUILD-UP & POSS
+    AUTO-IGNIT/EXPLO WHEN EXPOSED (SUPDAT)
+Unusual Fire/Explosion Hazard:KEEP CONTAINERS TIGHTLY CLOSED. ISOLATE
+    FROM HEAT, SPARKS & OPEN FLAME. CLOSED CONTAINERS MAY EXPLODE WHEN
+    EXPOSED TO EXTREME HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:AVOID BREATHING SOLVENT VAPOR. ENSURE ADEQUATE
+    VENTILATION. AVOID SPARKS, FLAMES & ANYTHING WHICH COULD CAUSE
+    FIRE.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL, DRY AREA WITH
+    VENTILATION SUITABLE FOR STORING MATERIALS.
+Other Precautions:PROVIDE RESPIRATORY PROTECTION AGAINST FUMES
+    GENERATED DURING BURNING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR TYPES SUITABLE
+    FOR MATLS RECOMMENDED. NIOSH/MSHA APPROVED CHEMICAL/MECHANICAL
+    FILTERS RECOMMENDED WHEN VENT IS RESTRICTED. NIOSH/MSHA APPROVED
+    AIRLINE TYPE RESPIRATORS/H OODS RECOMMENDED IN CONFINED AREAS.
+Ventilation:SUFFICIENT VENTILATION, IN VOL & PATTERN, SHOULD BE
+    PROVIDED TO KEEP AIR CONTAM BELOW CURRENT APPLIC PEL/TLV LIMIT.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEM WORK GOGG/FULL LENGTH FCSHLD.
+Other Protective Equipment:USE PROT CREAMS WHERE SKIN CNTCT IS LIKELY.
+Work Hygienic Practices:WASH HANDS BEFORE EATING/SMOKING. SMOKE IN
+    DESIGNATED AREAS ONLY. REMOVE & WASH CONTAM CLTHG BEFORE REUSE.
+Supplemental Safety and Health
+FIRE FIGHT PROC:TO EXTREME HEAT.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:313F,156C
+Vapor Pres:SEE INGRED
+Vapor Density:>AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:INSOLUBLE
+Appearance and Odor:MILKY BROWN LIQUID; AROMATIC SOLVENT ODOR.
+Percent Volatiles by Volume:35.8
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE KNOWN.
+Stability Condition to Avoid:OXIDIZING MATERIALS CAN CAUSE A VIGOROUS
+    REACTION.
+Hazardous Decomposition Products:AS WITH ANY ORGANIC MATERIAL,
+    COMBUSTION WILL PRODUCE CO2 AND PROBABLY CO.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:SOAK LIQUIDS W/SAWDUST OR RAGS & REMOVE. FLUSH
+    W/ WATER IF POSSIBLE. AVOID SKIN CONTACT. DISPOSAL SHOULD BE I/A/W
+    LOCAL, STATE & FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

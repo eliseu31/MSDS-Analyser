@@ -1,0 +1,130 @@
+=====================  Product Identification  =====================
+
+Product ID:IRGACURE 184
+MSDS Date:05/30/1986
+FSC:6850
+NIIN:00D001302
+MSDS Number: BJDMM
+=== Responsible Party ===
+Company Name:CIBA-GEIGY CORP ADDITIVES DIV.
+Address:SEVEN SKYLINE DRIVE
+City:HAWTHORNE
+State:NY
+ZIP:10532-2119
+Country:US
+Info Phone Num:914-347-4700
+Emergency Phone Num:800-888-8372
+Preparer's Name:BRUCE SCHWEMMER
+CAGE:07566
+=== Contractor Identification ===
+Company Name:CIBA-GEIGY CORP ADDITIVES DIV.
+Address:SEVEN SKYLINE DRIVE
+Box:City:HAWTHORNE
+State:NY
+ZIP:10532-2119
+Country:US
+Phone:800-888-8372
+CAGE:07566
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:1-HYDROXYCYCLOHEXYL PHENYL KETONE
+CAS:947-19-3
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL RAT) IS 2500 MG/KG
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: NO IDENTIFIED HEALTH EFFECTS.
+    CHRONIC: NO IDENTIFIED HEALTH EFFECTS.
+Explanation of Carcinogenicity:THIS PRODUCT IS NOT LISTED BY IARC, NTP,
+    OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:NONE SPECIFIED BY MANUFACTURER.
+Medical Cond Aggravated by Exposure:NONE KNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH RUNNING WATER FOR 15 MINUTES WHILE HOLDING
+    EYELID. GET MEDICAL ATTENTION IMMEDIATELY. SKIN: WASH WITH SOAP &
+    WATER. REMOVE CONTAMINATED CLOTHING. GET MEDICAL ADVICE.
+    INHALATION: REMOV E TO FRESH AIR. INGESTION: DO NOT INDUCE
+    VOMITING. GIVE NOTHING BY MOUTH IF UNCONSCIOUS. GIVE LARGE
+    QUANTITIES OF WATER TO DRINK. GET MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:302F,150C
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF TOXIC DECOMPOSITION AND COMBUSTION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP OR VACUUM AND PLACE INTO CLOSABLE
+    CONTAINER FOR DISPOSAL. WEAR PROTECTIVE EQUIPMENT SPECIFIED BELOW.
+    THOROUGHLY FLUSH RESIDUE WITH WATER.
+Neutralizing Agent:DILUTE WITH WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:HANDLE WITH CARE AND AVOID UNNECESSARY
+    PERSONAL CONTACT. AVOID CONTACT WITH EYES AND PROLONGED OR REPEATED
+    SKIN CONTACT. AVOID BREATHING DUST.
+Other Precautions:USE WITH ADEQUATE VENTILATION. WASH THOROUGHLY AFTER
+    HANDLING AND BEFORE EATING, DRINKING OR SMOKING. AVOID REPEATED OR
+    PROLONGED CONTACT WITH SKIN OR EYES. FOR INDUSTRIAL USE ONLY. KEEP
+    CONTAINER TIG HTLY CLOSED WHEN NOT IN USE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH APPROVED RESPIRATOR OR DUST MASK WHERE
+    DUST ARISES FROM USE.
+Ventilation:MECHANICAL (GENERAL) VENTILATION IS REQUIRED. USE LOCAL
+    EXHAUST FOR DUSTY USE CONDITIONS.
+Protective Gloves:IMPERVIOUS GLOVES
+Eye Protection:SAFETY GLASSES OR GOGGLES FOR DUST
+Other Protective Equipment:WEAR COVERALLS.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING. LAUNDER
+    CONTAMINATED CLOTHING BEFORE WEARING. KEEP WORK AREA CLEAN.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Melt/Freeze Pt:M.P/F.P Text:113F,45C
+Decomp Temp:Decomp Text:>437F,>225C
+Vapor Pres:0.00015
+Spec Gravity:1.2
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:WHITE CRYSTALLINE POWDER.
+Percent Volatiles by Volume:<0.5
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Hazardous Decomposition Products:CARBON MONOXIDE AND CARBON DIOXIDE
+Conditions to Avoid Polymerization:AS A PHOTO-INITIATOR IT CAN INITIATE
+    RAPID POLYMERIZATION OF ORGANIC MONOMERS AND OLIGOMERS UPON
+    EXPOSURE TO LIGHT/HEAT.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL SHOULD BE MADE IN ACCORDANCE WITH ALL
+    APPLICABLE FEDERAL, STATE AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

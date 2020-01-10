@@ -1,0 +1,136 @@
+=====================  Product Identification  =====================
+
+Product ID:BIO-PEN P6F3 FLUORESCENT DYE PENETRANT
+MSDS Date:05/15/1986
+FSC:6850
+NIIN:01-263-2263
+MSDS Number: BJDWH
+=== Responsible Party ===
+Company Name:ARDROX INC
+Address:16961 KNOTT AVE
+City:LA MIRADA
+State:CA
+ZIP:90638-6015
+Country:US
+Info Phone Num:714-739-2821
+Emergency Phone Num:714-739-2821/800-424-9300(CHEMTREC)
+CAGE:23373
+=== Contractor Identification ===
+Company Name:BRENT AMERICA,  INC.
+Address:16961 KNOTT AVE.
+Box:City:LA MIRADA
+State:CA
+ZIP:90638-6015
+Country:US
+Phone:714-739-2821
+CAGE:23373
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POLYETHYLENE GLYCOL ETHER
+CAS:68131-40-8
+Fraction by Wt: 90%
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE-EYES:MODERATE IRRITATION, SKIN:
+    IRRITATION, INHALATION:AFFECTS CENTRAL NERVOUS SYSTEM, INGESTION:
+    IRRITATION. CHRONIC-SKIN:REDDENING OF THE SKIN.
+Explanation of Carcinogenicity:NONE OF THE INGREDIENTS IN THIS PRODUCT
+    IS LISTED BY NTP, IARC OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:EYES:IRRITATION, SKIN:IRRITATION, INGESTION:
+    NAUSEA AND VOMITING, INHALATION:DIZZINESS AND NAUSEA.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH WITH PLENTY OF WATER FOR AT LEAST 15 MINUTES.IF
+    IRRITATION PERSISTS,SEE DOCTOR. SKIN:WASH WITH MILD SOAP AND WATER
+    WHILE REMOVING CONTAMINATED CLOTHING AND SHOES. INHALATION:REMOVE
+    VICTIM T O FRESH AIR.GIVE OXYGEN/CPR IF NEEDED.SEE DOCTOR.
+    INGESTION:DRINK 2 GLASSES OF WATER AND INDUCE VOMITING. SEE DOCTOR
+    IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:410F,210C
+Extinguishing Media:USE CARBON DIOXIDE, FOAM, OR DRY CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. DON'T SPRAY
+    POOLS DIRECTLY WITH WATER, COULD CAUSE FOAMING
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE PERSONNEL.ELIMINATE IGNITION SOURCES.
+    VENTILATE AREA.WEAR PROTECTIVE CLOTHING AND EQUIPMENT.ABSORB IN
+    INERT MATERIAL AND PLACE IN APPROPIATE DISPOSAL CONTAINER AND
+    COVER. RESIDUE SHOULD BE WASH ED DOWN WITH WATER TO A SEWER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A DRY AREA ABOVE 32F AND
+    BELOW 90F. SHORT TERM EXPOSURE OUTSIDE THIS TEMPERATURE RANGE
+    SHOULD NOT PERMANENTLY DAMAGE THE PRODUCT.
+Other Precautions:AVOID EYE AND SKIN CONTACT. DO NOT BREATHE VAPORS.
+    ENSURE ADEQUATE VENTILATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY REQUIRED. NIOSH/MSHA-APPROVED
+    RESPIRATOR OR SCBA AS APPROPIATE FOR EXPOSURE OF CONCERN.
+Ventilation:MECHANICAL (GENERAL) VENTILATION OR LOCAL EXHAUST
+    VENTILATION TO KEEP EXPOSURE LEVELS BELOW PEL.
+Protective Gloves:RUBBER GLOVES OR PVC.
+Eye Protection:CHEMICAL SAFETY GOGGLES.
+Other Protective Equipment:PRTOTECTIVE CLOTHING AS REQUIRED TO MINIMIZE
+    EXPOSURE FROM PROLONGED OR REPEATED CONTACT. EYE BATH AND SAFETY
+    SHOWER.
+Work Hygienic Practices:NEVER EAT, DRINK, OR SMOKE WHEN WORKING WITH
+    CHEMICALS. WASH THOROUGHLY AFTER USE.
+Supplemental Safety and Health
+NOTE TO PHYSICIAN:THE NONIONIC SURFACTANT BASE HAS A RELATIVELY LOW
+    ORDER OF TOXICITY. NO SPECIFIC ANTIDOTES ARE KNOWN. OTHER MSDS'S
+    SUPPLIED BY THIS MANUFACTURER APPEAR UNDER THIS SAME NSN AND CAN BE
+     USED INTERCHANGEABLY BECAUSE THEY ALL MEET MILITARY
+    SPECIFICATIONS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:>482F,250C
+Vapor Pres:<1
+Vapor Density:>1
+Spec Gravity:0.975
+Evaporation Rate & Reference:<0.1(N-BUTYL ACETATE=1)
+Solubility in Water:MISCIBLE
+Appearance and Odor:FLUORESCENT YELLOW LIQUID, MILD ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:HIGH TEMPERATURES AND OPEN FLAMES
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE,
+    INCOMPLETELY BURNED CARBON PRODUCTS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTACT YOUR LOCAL ENVIRONMENTAL OFFICER.
+    SOLIDIFY WASTE IN CONTAINERS WITH ABSORBENT MATERIAL. CONTACT
+    SPECIAL WASTE DISPOSAL COMPANY. DISPOSE OF IN ACCORDANCE WITH ALL
+    FEDERAL, STATE AND LOCAL REGUL ATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

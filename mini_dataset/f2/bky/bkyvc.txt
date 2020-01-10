@@ -1,0 +1,126 @@
+=====================  Product Identification  =====================
+
+Product ID:POWER STEERING FLUID
+MSDS Date:08/28/1987
+FSC:9150
+NIIN:01-200-8008
+MSDS Number: BKYVC
+=== Responsible Party ===
+Company Name:PYROIL COMPANY/DIV OF CHAMPION LABS INC
+Address:SECOND & MILL STREETS
+City:ALBION
+State:IL
+ZIP:67806
+Info Phone Num:(618) 445-6011
+Emergency Phone Num:(618) 445-6011
+CAGE:NO197
+=== Contractor Identification ===
+Company Name:CAM2 OIL PROD CO  PA 18901
+CAGE:CAM2O
+Company Name:MET-L-CHEK COMPANY
+Address:1639 EUCLID ST
+Box:00000
+City:SANTA MONICA
+State:CA
+ZIP:90404
+Country:US
+Phone:310-450-1111/FAX 310452-4046
+CAGE:98733
+Company Name:PYROIL COMPANY/DIV OF CHAMPION LABS INC
+Address:SECOND & MILL STREETS
+City:ALBION
+State:IL
+ZIP:67806
+Phone:(618) 445-6011
+CAGE:NO197
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PETROLEUM HYDROCARBONS, SOLVENT DEWAXED RESIDUAL OIL
+    (PETROLEUM)
+CAS:64742-62-7
+OSHA PEL:5 MG/CUM
+ACGIH TLV:5 MG/CUM (OIL MIST)
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: VAPORS OR MIST MAY CAUSE
+    PULMONARY IRRITATION, DIZZINESS, & NAUSEA.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: VAPORS OR MIST MAY CAUSE PULMONARY
+    IRRITATION, DIZZINESS, & NAUSEA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER FOR 15 MINS. INGESTION: DON'T INDUCE
+    VOMITING. INHALATION: REMOVE TO FRESH AIR. OBTAIN MEDICAL ATTENTION
+    IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:310F
+Extinguishing Media:ALCOHOL FOAM, WATER FOG, CO2, OR DRY CHEMICAL
+Fire Fighting Procedures:DON'T ENTER CONFINED FIRE SPACE W/OUT PROPER
+    PROTECTIVE EQUIPMENT INCLUDING NIOSH APPROVED SCBA. COOL
+    FIRE-EXPOSED CONTAINERS W/WATER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:PROTECT AREA FROM ALL IGNITION SOURCES.
+    RECOVER FREE LIQUID. ADD SOLID ABSORBENT TO SPILL AREA. PREVENT
+    SPILLAGE FROM ENTERING SEWERS & WATERWAYS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID INHALATION OF OIL MISTS. STORE
+    IN A COOL, DRY PLACE W/ADEQUATE VENTILATION. KEEP AWAY FROM OPEN
+    FLAMES & HIGH TEMPERATURES.
+Other Precautions:AVOID CONTACT W/SKIN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF >TLV, USE A NIOSH APPROVED RESPIRATOR.
+Ventilation:GENERAL: AS REQUIRED.
+Protective Gloves:CHEMICAL RESISTANT SUCH AS NITRILE
+Eye Protection:SPLASH GOGGLES
+Other Protective Equipment:AS REQUIRED
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE. USE USUAL GOOD HYGIENIC PRACTICES.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>550F
+Vapor Pres:<5
+Vapor Density:>1
+Spec Gravity:0.883
+Evaporation Rate & Reference:(BU AC = 1): NEGLIGIBLE
+Solubility in Water:INSOLUBLE
+Appearance and Odor:YELLOW TO LIGHT BROWN LIQUID W/FAINT HYDROCARBON
+    ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:IGNITION SOURCES SUCH AS OPEN FLAMES OR
+    HEAT
+Hazardous Decomposition Products:CO & UNIDENTIFIED ORGANIC COMPOUNDS
+    FROM INCOMPLETE COMBUSTION
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

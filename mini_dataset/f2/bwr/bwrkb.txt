@@ -1,0 +1,193 @@
+=====================  Product Identification  =====================
+
+Product ID:HUMISEAL 2A53 PART B
+MSDS Date:07/29/1994
+FSC:5970
+NIIN:00-418-1922
+Kit Part:Y
+MSDS Number: BWRKB
+=== Responsible Party ===
+Company Name:HUMISEAL DIV,COLUMBIA CHASE CORPORATION
+Address:26-60 BROOKLYN QUEENS EXPRESSWAY WEST
+Box:445
+City:WOODSIDE
+State:NY
+ZIP:11377-0445
+Country:US
+Info Phone Num:718-932-0800
+Emergency Phone Num:718-932-0800
+CAGE:99109
+=== Contractor Identification ===
+Company Name:ARGENT INDUSTRIES INC
+Address:477 E WENGER ROAD
+Box:City:ENGLEWOOD
+State:OH
+ZIP:45322
+Country:US
+Phone:937-836-8633
+CAGE:25579
+Company Name:HUMISEAL DIVISION/CHASE CORPORATION
+Address:26-60 BROOKLYN QUEENS EXPRESSWAY WEST
+Box:City:WOODSIDE
+State:NY
+ZIP:11377
+Country:US
+Phone:718-932-0800
+CAGE:99109
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS) (SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 40-43%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ETHYL BENZENE (SARA III)
+CAS:100-41-4
+RTECS #:DA0700000
+Fraction by Wt: 3-5%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:100 PPM/125 STEL
+ACGIH TLV:100 PPM/125STEL 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:TERT-BUTYL ALCOHOL (SARA III)
+CAS:75-65-0
+RTECS #:EO1925000
+Fraction by Wt: 8-11%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:100 PPM
+ACGIH TLV:100PPM  9394
+
+Ingred Name:ISOPROPYL ALCOHOL (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: 3-5%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+Ingred Name:ALIPHATIC POLYAMONOAMIDE
+Fraction by Wt: 40-44%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:VOLATILE ORGANIC CONTENT: 868 GRAMS/LITER.
+RTECS #:9999999VO
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: EXPOSURE MAY CAUSE EYE, SKIN &
+    RESPIRATORY TRACT IRRITATION. INHALATION OF HIGH VAPOR
+    CONCENTRATIONS MAY CAUSE CNS DEPRESSION. INGESTION MAY CAUSE GI
+    TRACT IRRITATION & CNS DEPRESSION. ASPIRATI ON MAY CAUSE LUNG
+    DAMAGE. CHRONIC: PROLONGED/REPEATED EXPOSURE MAY CAUSE DERMATITIS.
+Explanation of Carcinogenicity:NO INGREDIENT OF A CONCENTRATION OF 0.1%
+    OR GREATER IS LISTED AS A CARCINOGEN OR SUEPECTED CARCINOGEN.
+Effects of Overexposure:EYE: MINIMAL IRRITATION BY LIQUID OR VAPOR.
+    SKIN: MILDLY IRRITATING. DRYING, DEFATTING, DERMATITIS. INHALED:
+    RESPIRATORY IRRITATION, CNS DEPRESSION. INGESTED: MODERATE TOXIC,
+    HARMFUL IF SWALLOWED. CNS  DEPRESSION, VOMITING. LARGE DOSES EFFECT
+    KIDNYS,LIVER, LUNGS,SPLEEN, HEART, ADRENAL.
+Medical Cond Aggravated by Exposure:PRE-EXISTING EYE, SKIN, RESPIRATORY
+    CONDITIONS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION-REMOVE TO FRESH AIR. GIVE ARTIFICIAL RESPIRATION
+    IF NOT BREATHING. GET MEDICAL ATTENTION. EYE-FLUSH WITH WATER FOR
+    15 MINUTES. GET MEDICAL ATTENTION. SKIN-WASH WITH SOAP & WATER.
+    REMOVE CON TAMINATED CLOTHING. INGESTION-DO NOT INDUCE VOMITING.
+    NOTHING BY MOUTH IF UNCONSCIOUS. GET MEDICAL ATTENTION IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:59.0F,15.0C
+Lower Limits:1.0
+Upper Limits:12.7
+Extinguishing Media:FOAM, CARBON DIOXIDE, DRY CHEMICAL
+Fire Fighting Procedures:FIGHT AS FLAMMABLE LIQUID FIRE. WEAR
+    SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:FLAMMABLE VAPOR IS HEAVIER THAN AIR, MAY
+    TRAVEL TO IGNITION SOURCE AND FLASHBACK.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB WITH INERT MATERIAL (SAND,
+    VERMICULITE). LARGE SPILLS MAY BE SCOOPED UP WITH NON-SPARKING
+    TOOLS. REMOVE SOURCES OF IGNITION. PROVIDE VENTILATION OR
+    RESPIRATORY PROTECTION.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM HEAT ,SPARKS,AND OPEN
+    FLAME. STORE AT AMBIENT TEMP. GROUND CONTAINERS WHEN POURING TO
+    PREVENT STATIC. USE ADEQUATE VENTILATION.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF ENGINEERING CONTROLS FAIL OR NON-ROUTINE USE
+    OR AN EMERGENCY OCCURS; WEAR AN MSHA/NIOSH APPROVED RESPIRATOR OR
+    AN AIR-SUPPLIED RESPIRATOR OR SCBA, AS REQUIRED. USE IN ACCORDANCE
+    WITH 29 CFR 1910.13 4 AND MANUFACTURER'S RECOMMENDATIONS.
+Ventilation:USE ADEQUATE EXPLOSION-PROOF MECHANICAL VENTILATION OR
+    LOCAL EXHAUST TO MAINTAIN EXPOSURE BELOW TLV(S).
+Protective Gloves:NITRILE, BUTYL, PVA.
+Eye Protection:SAFETY GLASSES/CHEMICAL SPLASH GOGGLES
+Other Protective Equipment:CLOTHING AS NEEDED TO PREVENT SKIN CONTACT
+    TO WORKERS. DLA-HMIS: EYE WASH STATION & SAFETY SHOWER.
+Work Hygienic Practices:DLA-HMIS: WASH HANDS AFTER HANDLING AND BEFORE
+    EATING, DRINKING, OR SMOKING. LAUNDER CONTAMINATED CLOTHES BEFORE
+    REUSE.
+Supplemental Safety and Health
+KEY1=F3. ENVIRONMENTAL NOTES: EPA/RCRA WASTE NUMBERS-DOO1 9IGNITABLE),
+    U239 (XYLENE) MAY APPLY TO UNUSED/UNCONTAMINATED PRODUCT.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:=83.C, 181.4F
+Vapor Pres:19.4 MM
+Vapor Density:>1
+Spec Gravity:0.94
+Evaporation Rate & Reference:1.72 (N-BUTYL ACETATE=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:WATER CLEAR LIQUID, SOLVENT ODOR
+Percent Volatiles by Volume:57-61
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTACT WITH STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:MFR SAID "NOT APPLICIABLE" IN THIS FIELD.
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE
+Conditions to Avoid Polymerization:MFR SAID "NOT APPLICIABLE" IN THIS
+    FIELD.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL OF HUMISEAL PRODUCTS REQUIRES STRICT
+    COMPLIANCE WITH LOCAL, STATE, AND FEDERAL REGULATIONS PERTAINING TO
+    DISPOSAL OF HAZARDOUS WASTE MATERIALS. CONTACT THE APPROPRIATE
+    AUTHORITIES.
+
+ ======================================================================
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

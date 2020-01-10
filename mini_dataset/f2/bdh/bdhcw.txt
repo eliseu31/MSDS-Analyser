@@ -1,0 +1,109 @@
+=====================  Product Identification  =====================
+
+Product ID:SC 844 5017
+MSDS Date:01/01/1987
+FSC:9150
+NIIN:00-186-6699
+MSDS Number: BDHCW
+=== Responsible Party ===
+Company Name:WITCO, SOUTHWEST PETRO CHEM DIVISION
+Emergency Phone Num:(913)782-5800
+CAGE:KO525
+=== Contractor Identification ===
+Company Name:WITCO CHEMICAL CORP SOUTHWEST PETRO-CHEM INC DIV
+Address:STATE RD
+Box:City:BAKERSTOWN
+State:PA
+ZIP:15007
+Country:US
+CAGE:34495
+Company Name:WITCO, SOUTHWEST PETRO CHEM DIVISION
+CAGE:KO525
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PETROLEUM BASE OIL
+ACGIH TLV:5MG/CUM (MIST)
+
+Ingred Name:ADDITIVES(TYPE NOT SPECIFIED)
+
+Ingred Name:MINERAL OIL (EXPOSURE REGULATED AS 'OIL MIST')
+CAS:8012-95-1
+RTECS #:PY8030000
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3/10 STEL;9192
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:EYES/SKIN:MAY IRRIT ON REPEATED
+    CONTACT;INHAL/INGEST:CAUSES DIARR,STOMACH UPSET,DIZZINESS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALE:REMOVE TO FRESH AIR, GIVE CPR/O*2 IF
+    NEED;EYES/SKIN:FLUSH W LG AMTS H*2O FOR 15 MIN;INGEST:RINSE MOUTH;
+    GET MEDICAL ATTENTION FOR EYES, BREATHING DIFFICULTY, OR OTHER
+    SYMPTOMS OF OVEREXPOSURE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:>401F/>205C(COC)
+Extinguishing Media:CO*2, FOAM, DRY CHEM & H*2O FOG.
+Fire Fighting Procedures:WEAR SELF-CNTD BRTHG,APP H*20 SPRAY TO COOL
+    CONTR.
+Unusual Fire/Explosion Hazard:NONE NOTED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE IGNITION SOURCES,VENTILATE AREA
+    WELL.ABSORB WITH VERMICULITE OR OTHER MATERIALS, SUCH AS
+    SAWDUST,RAGS,PAPER & PLACE IN CLOSED CONTAINER. USE NON SPARKING
+    TOOLS. WEAR PROPER PROTECTIVE EQUIPMENT  DURING CLEAN UP.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DRY,WELL VENTILATED
+    AREA. PROTECT FROM PHYSICAL DAMAGE.AVOID ANY PHYSICAL CONTACT. KEEP
+    CONTAINERS TIGHTLY CLOSED
+Other Precautions:AVOID CONTACT WITH SKIN/EYES & CLOTHES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SHOULD BE NEEDED
+Ventilation:NORMAL ROOM VENTILATION.
+Protective Gloves:RUBBER/PLASTIC
+Eye Protection:SAFETY/CHEM GOGGLES
+Other Protective Equipment:NORMAL WORK CLOTHING COVERING ARMS & LEGS.
+Supplemental Safety and Health
+MSDS FROM WITCO EFFECTV:7/15/86;SPEC REFERENCE:MIL-L-46152B,GRADE
+    10W/30.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Spec Gravity:0.880
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:AMBER LIQUID(OIL),MINERAL OIL ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:HEAT, IGNITION SOURCES
+Hazardous Decomposition Products:INCOMPLETELY BURNED CARBON PRODUCTS,
+    CO*2, CO.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:KEEP IN COVERED DRUMS,PENDING DISPOSAL. HANDLE &
+    DISPOSE IN FULL COMPLIANCE WITH ALL APPLICABLE
+    INTERNATIONAL,FEDERAL,STATE, & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

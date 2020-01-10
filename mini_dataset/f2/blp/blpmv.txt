@@ -1,0 +1,250 @@
+=====================  Product Identification  =====================
+
+Product ID:K8-DR51 SUNNEN SUPERABRASIVE STONE
+MSDS Date:08/15/1987
+FSC:5345
+NIIN:00F019148
+MSDS Number: BLPMV
+=== Responsible Party ===
+Company Name:SUNNEN PRODUCTS COMPANY
+Address:7910 MANCHESTER AVE
+City:ST LOUIS
+State:MO
+ZIP:63143
+Info Phone Num:(314) 781-2105
+Emergency Phone Num:(314) 781-2105
+Preparer's Name:TERRY HELLER
+CAGE:58436
+=== Contractor Identification ===
+Company Name:SUNNEN PRODUCTS CO
+Address:7910 MANCHESTER AVE
+Box:City:SAINT LOUIS
+State:MO
+ZIP:63143-2712
+Country:US
+Phone:314-781-2100
+CAGE:58436
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MANGANESE  (SARA III)
+CAS:7439-96-5
+RTECS #:OO9275000
+OSHA PEL:(C) 5 MG/M3 DUST
+ACGIH TLV:5 MG/M3 DUST 9293
+
+Ingred Name:ALUMINUM  (SARA III)
+CAS:7429-90-5
+RTECS #:BD0330000
+OSHA PEL:15MG/M3 DUST/5 FUME
+ACGIH TLV:10MG/M3 DUST; 9192
+
+Ingred Name:MOLYBDENUM
+CAS:7439-98-7
+RTECS #:QA4680000
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3; 9293
+
+Ingred Name:MOLYBDENUM DISULFIDE
+CAS:1317-33-5
+RTECS #:QA4697000
+OSHA PEL:15 MG/CUM AS (MO)
+ACGIH TLV:10 MG/CUM AS (MO)
+
+Ingred Name:NICKEL  (SARA III)
+CAS:7440-02-0
+RTECS #:QR5950000
+Other REC Limits:1 MG/CUM
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+
+Ingred Name:PHOSPHOROUS (YELLOW)  (SARA III)
+CAS:7723-14-0
+RTECS #:TH3500000
+Other REC Limits:100 UG/CUM
+OSHA PEL:0.1 MG/M3
+ACGIH TLV:0.1 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:SILICON
+CAS:7440-21-3
+RTECS #:VW0400000
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:GRAPHITE, NATURAL
+CAS:7782-42-5
+RTECS #:MD9659600
+OSHA PEL:15 MPPCF RDUST
+ACGIH TLV:2 MG/M3 RDUST; 9293
+
+Ingred Name:IRON OXIDE
+CAS:1309-37-1
+RTECS #:NO7400000
+OSHA PEL:10 MG/M3 (FE)
+ACGIH TLV:5 MG/M3(FE),B2; 9293
+
+Ingred Name:ALPHA-ALUMINA (ALUMINUM OXIDE)  (EPA LISTS ONLY FIBROUS
+    FORMS)  (SARA III)
+CAS:1344-28-1
+RTECS #:BD1200000
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:SILICON CARBIDE
+CAS:409-21-2
+RTECS #:VW0450000
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:SILVER  (SARA III)
+CAS:7440-22-4
+RTECS #:VW3500000
+OSHA PEL:0.01 MG/M3
+ACGIH TLV:0.1 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:CRYOLITE, SODIUM ALUMINUM FLUORIDE, SODIUM FLUOALUMINATE
+CAS:15096-52-3
+RTECS #:WA9625000
+
+Ingred Name:COBALT  (SARA III)
+CAS:7440-48-4
+RTECS #:GF8750000
+Other REC Limits:0.05 PPM
+OSHA PEL:0.1 MG/M3;AS CO
+ACGIH TLV:0.05 MG/M3;DUST 9293
+
+Ingred Name:TUNGSTEN CARBIDE
+CAS:12070-12-1
+RTECS #:YO7250000
+Other REC Limits:5 MG(W)/M3
+ACGIH TLV:5 MG(W)/M3
+
+Ingred Name:FURFURAL  (SARA III)
+CAS:98-01-1
+RTECS #:LT7000000
+Other REC Limits:2 PPM
+OSHA PEL:S, 5 PPM
+ACGIH TLV:S, 2 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:SILICA, CRYSTALLINE - QUARTZ
+CAS:14808-60-7
+RTECS #:VV7330000
+Other REC Limits:0.05 MG/CUM NIOSH
+OSHA PEL:SEE TABLE Z3
+ACGIH TLV:0.1 MG/M3 RDUST;9293
+
+Ingred Name:CURED PHENOLIC OR POLYIMIDE
+OSHA PEL:10 MG/CUM
+ACGIH TLV:10 MG/CUM
+
+Ingred Name:GLASS, FIBROUS
+RTECS #:LK3651000
+Other REC Limits:3000000 FB/CUM
+OSHA PEL:15 MG/M3 (DUST)
+ACGIH TLV:10 MG/M3 (DUST);9192
+
+Ingred Name:EPOXY CURED RESIN
+
+Ingred Name:CALCIUM OXIDE
+CAS:1305-78-8
+RTECS #:EW3100000
+OSHA PEL:5 MG/M3
+ACGIH TLV:2 MG/M3; 9192
+
+Ingred Name:CHROMIUM (III) OXIDE (2:3), CR2-O3, CHROMIUM OXIDE
+CAS:1308-38-9
+RTECS #:GB6475000
+OSHA PEL:1 MG/CUM
+ACGIH TLV:0.5 MG/CUM
+
+Ingred Name:COPPER  (SARA III)
+CAS:7440-50-8
+RTECS #:GL5325000
+Other REC Limits:1 MG(CU)/M3 (DUST)
+OSHA PEL:0.1MG/M3 FUME/1 DUST
+ACGIH TLV:0.2MG/M3 FUME; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:TIN
+CAS:7440-31-5
+RTECS #:XP7320000
+OSHA PEL:2 MG/M3
+ACGIH TLV:2 MG/M3; 9192
+
+Ingred Name:GRAPHITE, SYNTHETIC
+CAS:7440-44-0
+RTECS #:FF5250100
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:2 MG/M3 TDUST; 9293
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION. INHALATION: NOSE &
+    THROAT IRRITATION, METALLIC TASTE IN MOUTH, & METAL FUME FEVER.
+Explanation of Carcinogenicity:CERTAIN COMPOUNDS OF NICKEL, COBALT,
+    CHROMIUM & CRYSTALLINE QUARTZ ARE SUSPECTED HUMAN CARCINOGENS.
+Effects of Overexposure:EYE: IRRITATION. INHALATION: NOSE & THROAT
+    IRRITATION, METALLIC TASTE IN MOUTH, & METAL FUME FEVER.
+Medical Cond Aggravated by Exposure:RESPIRATORY CONDITIONS SUCH AS
+    EMPHYSEMA. LIGHT SKIN, SENSITIVE SKIN, OR LARGE AMOUNTS OF BODY
+    HAIR MAY EXPERIENCE SKIN DISORDERS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: REMOVE CONTACT LENSES & FLUSH W/WATER. SKIN: BRUSH OFF
+    EXCESS DUST. WASH W/MILD NON-ABRASIVE SOAP & WATER. INHALATION:
+    REMOVE TO FRESH AIR. INGESTION: OBTAIN MEDICAL ATTENTION IN ALL
+    CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Unusual Fire/Explosion Hazard:DISPERSION OF DUST IN AIR & STRONG
+    IGNITION SOURCE MAY RESULT IN AN EXPLOSION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:TREAT CHIPS OR DUST AS METAL ALLOYS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:REMOVE TRACES OF MATERIAL DUST IF
+    SOLDERING, WELDING, BRAZING, CUTTING OR OTHER PROCESS INVOLVING
+    SOURCES TO PREVENT A FIRE HAZARD.
+Other Precautions:DON'T WEAR CONTACT LENSES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH APPROVED RESPIRATOR FOR METAL DUST IF
+    >TLV.
+Ventilation:REQUIRED TO KEEP 428F
+Spec Gravity: 7
+Appearance and Odor:SOLID OBJECT MOUNTED ON A STEEL HOLDER
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACIDS, BASES, & STRONG OXIDIZING AGENTS
+Hazardous Decomposition Products:METAL FUMES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

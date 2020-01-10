@@ -1,0 +1,160 @@
+=====================  Product Identification  =====================
+
+Product ID:186 2804 VERSAMAT FIXER & REPLENISHER,TYPE A,PART B
+MSDS Date:11/27/1996
+FSC:6750
+NIIN:01-354-3298
+MSDS Number: BWRGY
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-477-3194 MSDS :800- 242-2424
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+Company Name:EASTMAN KODAK CO US CUSTOMER SERVICE/GOVERNMENT SALES
+Address:800 LEE RD
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-3129
+Country:US
+Phone:800-828-6203
+CAGE:5K871
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 75 - 80%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:NOT RELEVANT
+ACGIH TLV:NOT RELEVANT
+
+Ingred Name:ALUMINUM SULFATE
+CAS:10043-01-3
+RTECS #:BD1700000
+Fraction by Wt: 20-25%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:2 MG/M3
+ACGIH TLV:2 MG/M3; 9596
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL, RAT) IS NOT KNOWN.
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:TARGET ORGANS:EYES. ACUTE- EYES:MAY
+    CAUSE TRANSIENT IRRITATION. SKIN:LOW HAZARD FOR RECOMMENDED
+    HANDLING. INHALATION: EXPECTED TO BE A LOW HAZARD FOR RECOMMENDED
+    HANDLING. ORAL:EXPECTED TO BE A LOW IN GESTION HAZARD. CHRONIC-
+    UNKNOWN.
+Explanation of Carcinogenicity:THIS COMPOUND CONTAINS NO INGREDIENTS AT
+    CONCENTRATIONS OF 0.1% OR GREATER THAT ARE CARCINOGENS OR SUSPECT
+    CARCINOGENS.
+Effects of Overexposure:TRANSIENT EYE IRRITATION
+Medical Cond Aggravated by Exposure:INDIVIDUALS WITH PRE-EXISTING EYE
+    DISORDERS MAY BE MORE SUCCEPTIBLE TO THE EFFECTS FROM EXPOSURE TO
+    THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:GET MEDICAL HELP IF SYMPTOMS PERSIST. INHALED:MOVE TO FRESH
+    AIR. EYES:ANY MATERIAL THAT CONTACTS THE EYE SHOULD BE WASHED OUT
+    IMMEDIATELY WITH WATER. SKIN:WASH WITH SOAP & WATER. ORAL: DRINK
+    1-2 GLASS ES OF WATER. SEEK MEDICAL ATTENTION. NEVER GIVE ANYTHING
+    BY MOUTH TO AN UNCONSCIOUS PERSON.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Lower Limits:NOT RELEVANT
+Upper Limits:NOT RELEVANT
+Extinguishing Media:WATER SPRAY, CARBON DIOXIDE, FOAM OR DRY CHEMICAL
+    FOR SURROUNDING FIRE. USE WATER SPRAY TO COOL FIRE EXPOSED
+    CONTAINERS.
+Fire Fighting Procedures:WEAR PROTECTIVE CLOTHING AND NIOSH-APPROVED
+    SELF-CONTAINED BREATHING APPARATUS. HAZARDOUS DECOMPOSITION
+    PRODUCTS MAY BE FORMED.
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH TO SEWER WITH LARGE AMOUNT OF WATER.
+    OTHERWISE, ABSORB SPILL WITH INERT MATERIAL SUCH AS VERMICULITE,
+    THEN PLACE IN A CONTAINER FOR CHEMICAL WASTE. CLEAN SURFACE
+    THOROUGHLY TO REMOVE RESIDUAL CO NTAMINATION.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER CLOSED.
+Other Precautions:KEEP OUT OF REACH OF CHILDREN. AVOID EYE CONTACT. USE
+    WITH ADEQUATE VENTILATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SHOULD BE NEEDED.
+Ventilation:GOOD GENERAL VENTILATION (TYPICALLY 10 AIR CHANGES/HR)
+    SHOULD BE USED. VENTILATION RATES SHOULD BE MATCHED TO CONDITIONS
+Protective Gloves:LATEX RECOMMENDED
+Eye Protection:SAFETY GLASSES WITH SIDE SHIELD/GOGGLES
+Other Protective Equipment:EYE BATH, WASHING FACILITIES, SAFETY SHOWER
+Work Hygienic Practices:OBSERVE GOOD INDUSTRIAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES. WASH THOROUGHLY BEFORE EATING,
+    DRINKING/SMOKING.
+Supplemental Safety and Health
+KEY1:C1.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C1
+NRC/State Lic Num:NOT RELEVANT
+Boiling Pt:B.P. Text:>212F,>100C
+Melt/Freeze Pt:M.P/F.P Text:NOT GIVEN
+Decomp Temp:Decomp Text:NOT GIVEN
+Vapor Pres:18 @ 68F
+Vapor Density:0.6
+Spec Gravity:1.298
+pH:2.3
+Evaporation Rate & Reference:NOT GIVEN
+Solubility in Water:COMPLETE
+Appearance and Odor:COLORLESS LIQUID - ODORLESS
+Percent Volatiles by Volume:75- 80
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE WITH COMMON MATERIALS AND CONTAMINANTS WITH WHICH THE MATERIAL MAY
+    REASONABLY COME INTO CONTACT.
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:SULFUR DIOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISCHARGE, TREATMENT OR DISPOSAL MAY BE SUBJECT
+    TO NATIONAL, STATE OR LOCAL REGULATIONS. FLUSH TO SEWER WITH LARGE
+    AMOUNT OF WATER, IF PERMITTED.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

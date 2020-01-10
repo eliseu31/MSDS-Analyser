@@ -1,0 +1,166 @@
+=====================  Product Identification  =====================
+
+Product ID:ELASTO-DECK BT 1000 COMPONENT-A
+MSDS Date:02/24/1993
+FSC:8010
+NIIN:00N057678
+Kit Part:Y
+MSDS Number: BWRTF
+=== Responsible Party ===
+Company Name:PACIFIC POLYMERS INC
+Address:12271 MONARCH ST
+City:GARDEN GROVE
+State:CA
+ZIP:92641
+Country:US
+Info Phone Num:715-898-0025
+Emergency Phone Num:714-898-0025
+CAGE:3U503
+=== Contractor Identification ===
+Company Name:PACIFIC POLYMERS INC
+Address:12271 MONARCH ST
+City:GARDEN GROVE
+State:CA
+ZIP:92641
+Country:US
+Phone:714-898-0025
+CAGE:3U503
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MIXTURE CONTAINING INGREDIENTS 2 AND 3
+Fraction by Wt: 5-15%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:HYDROTREATED HEAVY NAPHTHA. FLASH POINT: 120F,49C. LD50
+    (ORAL,RAT): 15.3 G/KG.
+CAS:64475-85-0
+RTECS #:PY8240000
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:HEAVY NAPHTHA, HEAVY STRAIGHT RUN
+CAS:64741-41-9
+OSHA PEL:300 PPM
+ACGIH TLV:300 PPM
+
+Ingred Name:MINERAL OIL, PETROLEUM EXTRACTS, LIGHT NAPHTHENIC
+    DISTILLATE SOLVENT; (PETROLEUM HYDROCARBON)
+CAS:64742-03-6
+RTECS #:PY8043000
+Fraction by Wt: 30-60%
+OSHA PEL:300 PPM
+ACGIH TLV:300 PPM
+
+Ingred Name:VOLATILE ORGANIC CONTENT: 98 GR/LITER
+RTECS #:9999999VO
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:SUPDAT:COVERALLS APRONS TO AVOID BODY CONTACT.
+RTECS #:9999999ZZ
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE INGREDIENT 2.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:INHALATION MAY CAUSE GIDDINESS,
+    HEADACHE, DIZZINESS AND NAUSEA. MAY CAUSE IRRITATION TO EYES, SKIN,
+    NOSE, THROAT AND RESPIRATORY TRACT. PROLONGED OR REPEATED CONTACT
+    MAY CAUSE SKIN AND/OR RESPIRATORY  SENSITIZATION.
+Explanation of Carcinogenicity:MINERAL OIL, CAS NO. 64742-03-6,
+    PETROLEUM EXTRACTS: IARC MONOGRAPHS, SUPPLEMENT, VOL 7, PG 252,
+    1987: GROUP 1.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:WASH AREA OF CONT W/SOAP & WATER. REMOVE CONTAMD CLTHG.
+    LAUNDER BEFORE REUSE.CALL PHYS IF IRRIT PERSISTS. WEAR PROT GLOVES
+    TO AVOID CONT.EYES: FLUSH W/RUNNING WATER FOR AT LST 15 MINS.
+    CONSULT PH YS IMMED. WEAR CHEM RESISTANT GOGG/SAFETY GLASSES.
+    INHAL: REMOVE PERSON TO FRESH AIR. IF BRTHG IS DFCLT/STOPPED, BEGIN
+    ARTF RESP. CALL PHYS IMMED. WEAR PROT RESPS APPRVD BY NIOSH/MSHA.
+    INGEST:(SUPDAT)
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:120F,49C
+Lower Limits:0.7%
+Upper Limits:6%
+Extinguishing Media:USE EXTING MEDIA SUCH AS FOAM, DRY CHEM, CARBON
+    DIOXIDE, FIRE EXTING.WATER SPRAY MAY BE INEFT ON FIRE BUT MAY
+    BE(SUPDAT)
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ESTABLISH WRITTEN EMERGENCY PLANS AND SPECIAL
+    TRAINING OF PERSONNEL. DIKE SPILLED AREA AND ABSORB PRODUCT AND
+    PLACE IN SUITABLE CONTAINER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:WEAR PROT CLTHG AND EQUIP. USE PROPER
+    TOOLS TO OPEN CONTAINER. AVOID MOISTURE CONTACT.AVOID EXTREME HEAT
+    CNDTNS SUCH AS FLAME, SPARKS,& IGNIT SOURCES.
+Other Precautions:KEEP CONTAINERS CLOSED AND STORE IN WELL VENTILATED
+    COOL, DRY LOCATION. DO NOT STORE BELOW 40F AND ABOVE 120F.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED HALF MASK DUAL ORGANIC VAPOR
+    CARTRIDGE OR AIR SUPPLIED RESPIRATOR.
+Ventilation:PROVIDE GENERAL AND LOCAL EXHAUST VENTILATION TO AVOID
+    VAPOR CONCENTRATION BELOW TLV LIMIT.
+Protective Gloves:RUBB NEOPRENE NITRILE, PVA GLOVES.
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGG .
+Other Protective Equipment:ANSI APPROVED EYE WASH STATION, SAFETY
+    SHOWER , PROPER CLOTHING. RUBBER, NITRILE, LEATHER, NON-SLIP
+    (SUPDAT)
+Work Hygienic Practices:WASH BEFORE EATING, DRINKING OR SMOKING TO
+    AVOID CONTACT.
+Supplemental Safety and Health
+EXTING MEDIA: USED TO CONTROL FIRE AND CLOSED CONTAINERS FOR COOLING.
+    MATERIALS TO AVOID: RESULTING TO EXPLOSION. FIRST AID PROCEDURES:
+    DO NOT INDUCE VOMITING. INDUCING VOMIT MAY RESULT IN STOMACH, GA
+    STRIC, RESPIRATORY DAMAGE. GET MEDICAL ATTENTION IMMEDIATELY. OTHER
+    PROT EQUIP: BOOTS/SHOES. COTTON, TYVEC (ING 6)
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:300F,149C
+Vapor Density:>1.0
+Spec Gravity:0.97 @ 77F
+Evaporation Rate & Reference:<1.0
+Appearance and Odor:AROMATIC ODOR, BLACK LIQUID.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZERS, AMINES, ALCOHOLS, & WATER. WATER CONT CAN RSLT INTO PRESS
+    BUILDUP OF CNTNR DUE TO CARBON DIOXIDE FORM(SUPDAT)
+Stability Condition to Avoid:WATER CONTACT WITHIN CONTAINER.
+Hazardous Decomposition Products:CARBON DIOXIDE, CARBON MONOXIDE,
+    OXIDES OF NITROGEN AND SULPHUR ON BURNING.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN ACCORDANCE WITH LOCAL, STATE, AND
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

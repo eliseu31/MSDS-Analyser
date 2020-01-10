@@ -1,0 +1,155 @@
+=====================  Product Identification  =====================
+
+Product ID:PS115 RESERVE POWER ENERGIZER, 11744728
+MSDS Date:10/25/1994
+FSC:1390
+NIIN:01-200-8338
+MSDS Number: BWRDX
+=== Responsible Party ===
+Company Name:ALLIANT TECHSYSTEMS INC
+Address:ACCUDYNE OPERATIONS
+Box:1429
+City:JANESVILLE
+State:WI
+ZIP:53547-1429
+Country:US
+Info Phone Num:608-752-9081
+Emergency Phone Num:608-752-9081
+Preparer's Name:DAVID PIERSON
+CAGE:99825
+=== Contractor Identification ===
+Company Name:ALLIANT TECHSYSTEMS INC
+Address:ACCUDYNE OPERATIONS
+Box:City:JANESVILLE
+State:WI
+ZIP:53547-1429
+Country:US
+Phone:608-752-9081
+CAGE:99825
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:FLUOBORIC ACID (MFR CAS NO: 14874-70-5).
+CAS:16872-11-0
+RTECS #:ED2685000
+Fraction by Wt: 4%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:LEAD (SARA 313) (CERCLA)
+CAS:7439-92-1
+RTECS #:OF7525000
+Fraction by Wt: 9%
+OSHA PEL:SEE 1910.1025
+ACGIH TLV:0.15MG/M3 DUST
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:METHANE, DIBROMO-; (METHYLENE BROMIDE) (SARA 313) (CERCLA)
+CAS:74-95-3
+RTECS #:PA7350000
+Fraction by Wt: 4%
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:BORATE(1-), TETRAFLUORO-, LEAD(2+);(LEAD FLUOBORATE) (SARA
+    313) (CERCLA)
+CAS:13814-96-5
+RTECS #:ED2700000
+Fraction by Wt: 10%
+OSHA PEL:SEE 1910.1025
+ACGIH TLV:0.15 MG(PB)/M3
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:THESE CHEMS ARE CNTND IN SEALED CAN.
+    RISK OF EXPOS OCCURS ONLY IF CELL IS MECH/ELEC ABUSED. MOST LIKELY
+    RISK IS ACUTE EXPOS WHEN CELL LEAKS(FLUOBORIC ACID IS CORR). SKIN
+    CONT CAN PRDCE BURNS. EYE CONT  CAN RSLT IN SEV, PERM INJURY. SKIN
+    & EYE CONT W/FLUOBORIC ACID MAY CAUSE CHEM BURNS. AT ELEV
+    TEMPS(EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ: LEAD OXIDE FUMES OR BROMINE MAY BE
+    GENERATED WHICH SHOULD NOT BE INHALED. LEAD APPEARS ON THE NAVY
+    LISTING OF OCCUPATIONAL CHEMICAL REPRODUCTIVE HAZARDS. SEEK
+    CONSUTATION FROM APPROPRIATE HE ALTH PROFESSIONALS CONCERNING
+    LATEST HAZARD LIST INFORMATION AND SAFE HANDLING AND EXPOSURE
+    INFORMATION .
+Medical Cond Aggravated by Exposure:AN ACUTE EXPOSURE WILL NOT
+    GENERALLY AGGRAVATE ANY MEDICAL CONDITION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: FLUSH IMMEDIATELY WITH WATER. EYE: FLUSH EYES
+    IMMEDIATELY WITH COPIOUS AMOUNTS OF WATER FOR AT LEAST 15 MINUTES &
+    SEE MD AT ONCE. INHAL: FOR INHAL OF LEAD OXIDE FUMES OR BROMINE AS
+    A RESULT OF C ELLS BEING INVOLVED IN A FIRE, REMOVE TO FRESH AIR &
+    GET MED ATTN.  INGEST: CALL MD IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE MEDIA SUITABLE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT.
+Unusual Fire/Explosion Hazard:CELLS MAY RELASE TOXIC LEAD VAPOR WHEN
+    THE INTEGRITY OF THE BATTERY IS BROKEN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:AVOID SKIN & EYE CONTACT. DO NOT INHALE
+    VAPORS.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:USE NEOPRENE, RUBBER OR LATEX NITRILE
+    GLOVES WHEN HANDLING LEAKERS. STORE AT ROOM TEMPERATURE.
+Other Precautions:AVOID MECHANICAL OR ELECTRICAL ABUSE. DO NOT ATTEMPT
+    TO RECHARGE (MAY CAUSE LEAKAGE, RUPTURE OR EXPLOSION). AVOID SHORT
+    CIRCUITS. DO NOT DISPOSE OF IN FIRE(MAY EXPLODE).
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED SCBA WHEN CELLS ARE INVOLED
+    IN A FIRE.
+Ventilation:SUBSEQUENT TO A FIRE, PROVIDE AS MUCH VENTILATION AS
+    POSSIBLE.
+Protective Gloves:NEOPRENE, RUBBER/LATEX-NITRILE GLOVES.
+Eye Protection:ANSI APPRVD CHEMICAL SPLASH (SUPP DAT)
+Other Protective Equipment:NONE.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+EYE PROT: GOGGLES WHEN HANDLING LEAKERS .
+
+==================  Physical/Chemical Properties  ==================
+
+Appearance and Odor:NONE SPECIFIED BY MANUFACTURER.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:DO NOT HEAT, DISASSEMBLE, CRUSH, PUNCTURE
+    OR RECHARGE.
+Hazardous Decomposition Products:WHEN HEATED, CELLS MAY EMIT HAZARDOUS
+    LEAD(PB) VAPORS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:BATTERIES CONTAIN REGULATED MATERIALS(LEAD &
+    FLUOBORIC ACID). REFER TO THE EPA & LOCAL, STATE & FEDERAL
+    REGULATIONS FOR DISPOSAL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

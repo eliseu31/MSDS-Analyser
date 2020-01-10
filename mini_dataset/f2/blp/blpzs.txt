@@ -1,0 +1,143 @@
+=====================  Product Identification  =====================
+
+Product ID:7356 UNI-WELD
+MSDS Date:02/15/1990
+FSC:8040
+NIIN:00F019373
+MSDS Number: BLPZS
+=== Responsible Party ===
+Company Name:UNITED ELCHEM INDUSTRIES INCORPORATED
+Address:11535 REEDER ROAD
+City:DALLAS
+State:TX
+ZIP:75229
+Info Phone Num:(214) 241-6601
+Emergency Phone Num:(800) 633-4579 OR (214) 241-6601
+Preparer's Name:RAYMOND L. OSWALT
+CAGE:UNIEL
+=== Contractor Identification ===
+Company Name:UNITED ELCHEM INDUSTRIES INC
+Address:11535 REEDER RD
+Box:City:DALLAS
+State:TX
+ZIP:75229
+Country:US
+Phone:972-241-6601
+CAGE:UNIEL
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: 80-90%
+Other REC Limits:590 MG/CUM
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ACETONE  (SARA III)
+CAS:67-64-1
+RTECS #:AL3150000
+Fraction by Wt: 10-20%
+OSHA PEL:1000PPM
+ACGIH TLV:750PPM/1000STEL;9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION. SKIN: IRRITATION,
+    DERMATITIS, & ABSORPTION. INHALATION: MUCOUS MEMBRANE IRRITATION,
+    NOSE, THROAT, HEADACHE, DIZZINESS, NAUSEA, NUMBNESS OF THE
+    EXTREMITIES, NARCOSIS; REPRODUCTIVE, LU NG, LIVER, KIDNEY & NERVOUS
+    SYSTEM TOXIN. INGESTION: ASPIRATION HAZARD & SYSTEMIC EFFECTS AS
+    INHALATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: IRRITATION. SKIN: IRRITATION, DERMATITIS
+    & ABSORPTION. INHALATION: MUCOUS MEMBRANE IRRITATION, NOSE, THROAT,
+    HEADACHE, DIZZINESS, NAUSEA, NUMBNESS OF THE EXTREMITIES, NARCOSIS;
+    RESPRODUCTIVE, LU NG, LIVER, KIDNEY & NERVOUS SYSTEM TOXIN.
+    INGESTION: ASPIRATION HAZARD & SYSTEMIC EFFECTS AS INHALATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINS. SKIN:
+    WASH W/SOAP & WATER. INHALATION: REMOVE TO FRESH AIR. GIVE CPR OR
+    OXYGEN IF NEEDED. KEEP QUIET & WARM. INGESTION: DRINK PLENTY OF
+    WATER. DON'T  INDUCE VOMITING. AVOID ASPIRATION OF MATERIAL INTO
+    LUNGS. NEVER GIVE ANYTHING BY MOUTH TO AN UNCONSCIOUS PERSON. AVOID
+    ALCOHOLIC BEVERAGES. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:0-6F
+Lower Limits:1.8%
+Upper Limits:11.8%
+Extinguishing Media:DRY CHEMICAL, CO2 & WATER OR FOAM EXTINGUISHER.
+Fire Fighting Procedures:EVACUATE AREA & CALL FIRE DEPRARTMENT
+    IMMEDIATELY.
+Unusual Fire/Explosion Hazard:COMBUSTIBLE LIQUID. FLAMMABLE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA. STOP LEAK, W/O RISK. ABSORB
+    W/SAND, EARTH OR OTHER ABSORBING MATERIAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:ELIMINATE IGNITION SOURCES. STORE IN
+    COOL DRY PLACE. EMPTY CONTAINERS WILL RETAIN RESIDUE & VAPORS.
+    COMBUSTIBLE LIQUID.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH APPROVED CANISTER RESPIRATOR IN
+    ABSENCE OF ADEQUATE VENTILATION.
+Ventilation:GENERAL MECHANICAL/LOCAL EXHAUST TO KEEP BELOW TLV. OPEN
+    DOORS & WINDOWS. ENCLOSED AREAS USE EXHAUST FAN.
+Protective Gloves:RUBBER
+Eye Protection:SAFETY GLASSES W/SIDE SHIELDS
+Other Protective Equipment:EYE WASH & SHOWER
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE.
+Supplemental Safety and Health
+CHEMICALS OF THIS PRODUCT ARE IDENTIFIED AS A SARA SECTION 313 TOXIC
+    CHEMICAL.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:151F
+Vapor Pres:145 PSI
+Vapor Density:2.5
+Spec Gravity:0.93-0.95
+Evaporation Rate & Reference:(BU AC= 1): 5.5-8
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:LIQUID W/ETHER LIKE ODOR
+Percent Volatiles by Volume: 88%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACIDS, OXIDIZING MATERIALS, ALKALIES, CHLORINATED INORGANICS SUCH AS
+    POTASSIUM, CALCIUM, ETC. COPPER & COPPER ALLOYS
+Stability Condition to Avoid:HEAT, SPARKS & OPEN FLAMES
+Hazardous Decomposition Products:CO2, CO, HYDROGEN CHLORIDE & SMOKE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. TOXIC & IGNITABLE WASTE. NA 1993.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

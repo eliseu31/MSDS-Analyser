@@ -1,0 +1,142 @@
+=====================  Product Identification  =====================
+
+Product ID:FLUORESCENT LAMPS-VOLTARO
+MSDS Date:06/21/1995
+FSC:NIIN:Submitter:F BT
+Status Code:A
+MSDS Number: CJQJM
+=== Responsible Party ===
+Company Name:VOLTARO TECHNOLOGIES
+Address:186 LINWOOD AVENUE
+City:FAIRFIELD
+State:CT
+ZIP:06430
+Country:US
+Info Phone Num:203-255-2633
+Emergency Phone Num:203-255-2633
+CAGE:TO335
+=== Contractor Identification ===
+Company Name:VOLTARO TECHNOLOGIES
+Address:186 LINWOOD AVENUE
+City:FAIRFIELD
+State:CT
+ZIP:06430
+Country:US
+Phone:203-255-2633
+CAGE:TO335
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BARIUM
+CAS:7440-39-3
+RTECS #:CQ8370000
+ACGIH TLV:0.5 MG/M3
+
+Ingred Name:TIN
+CAS:7440-31-5
+RTECS #:XP7320000
+Minumum % Wt:1.
+Maxumum % Wt:2.
+ACGIH TLV:2 MG/M3
+
+Ingred Name:LEAD
+CAS:7439-92-1
+RTECS #:OF7525000
+ACGIH TLV:0.15 MG/M3
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:MERCURY
+CAS:7439-97-6
+RTECS #:OV4550000
+= Wt:.02
+OSHA PEL:see Table Z-2
+ACGIH TLV:0.025 MG/M3
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO
+Health Hazards Acute and Chronic:MERCURY: HIGH CONCENTRATION COULD
+    RESULT IN PNEUMONITIS. POSSIBLE TREMORS & NEUROPSYCHIATRIC
+    PROBLEMS. PHOSPHOR DUST: POSSIBLE IRRITATION.
+Effects of Overexposure:CHEST PAIN, TREMORS, NEUROPSYCHIATRIC PROBLEMS,
+    SHORTNESS OF BREATH, COUGHING, IRRITATION, NAUSEA
+Medical Cond Aggravated by Exposure:PERSONS W/RESPIRATORY PROBLEMS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER FOR 15 MINS. SKIN: WASH W/SOAP & WATER.
+    INHALATION: REMOVE TO FRESH AIR/RESTORE/SUPPORT BREATHING. OBTAIN
+    MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE EXTINGUISHING AGENTS SUITABLE FOR SURROUNDING
+    FIRE.
+Fire Fighting Procedures:USE A SELF CONTAINED BREATHING APPARATUS TO
+    PREVENT INHALATION OF DUST & FUMES THAT MAY BE GENERATED DURING
+    FIRE FIGHTING.
+Unusual Fire/Explosion Hazard:WHEN EXPOSED TO HIGH TEMPERATURE MERCURY
+    VAPORIZES TO FORM TOXIC FUMES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA. CLEAN UP W/VACUUM/OTHER
+    NON-DUST GENERATING PROCEDURES. USE USUAL PRECAUTIONS FOR
+    COLLECTION OF BROKEN GLASS. DON'T DISCHARGE MERCURY DOWN THE DRAIN.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:HANDLE LAMPS CAREFULLY TO AVOID
+    BREAKAGE.
+Other Precautions:LAMPS MADE W/UPI COATINGS PRODUCES ULTRAVIOLET ENERGY
+    IN THE WAVELENGTHS 391-449 NANOMETERS WHEN LAMPS ARE LIT. USE
+    APPROPRIATE SAFETY PRECAUTIONS TO PREVENT EXPOSURE TO EYES & SKIN
+    FROM ULTRAVIOLET E NERGY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE APPROPRIATE NIOSH APPROVED RESPIRATOR IF
+    DUST CONCENTRATIONS EXCEED TLV.
+Ventilation:ADEQUATE LOCAL EXHAUST TO MAINTAIN PEL/TLV.
+Protective Gloves:CLOTH GLOVES FOR PROLONGED CONTACT.
+Eye Protection:SAFETY GOGGLES WHEN BREAKING LAMPS.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANLDING & BEFORE
+    EATING/SMOKING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:=356.6C, 673.9F
+Melt/Freeze Pt:=-38.9C, -38.F
+Vapor Pres:0.0012
+Spec Gravity:13.5
+Solubility in Water:INSOLUBLE
+Appearance and Odor:A WHITE POWDER W/NO ODOR. MERCURY-SILVERY DENSE
+    MOBILE LIQUID/NO ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+MERCURY-ACETYLENES, AMMONIA GASES
+Stability Condition to Avoid:BREAKING LAMPS W/OUT ADEQUATE VENTILATION.
+Hazardous Decomposition Products:NONE EXPECTED
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE &
+    FEDERAL REGULATIONS.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

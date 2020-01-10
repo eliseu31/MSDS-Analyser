@@ -1,0 +1,145 @@
+=====================  Product Identification  =====================
+
+Product ID:20195
+MSDS Date:09/25/1987
+FSC:8040
+NIIN:00N020152
+MSDS Number: BLMBP
+=== Responsible Party ===
+Company Name:DYMAX ENGINEERING ADHESIVES
+Address:51 GREENWOODS ROAD
+City:TORRINGTON
+State:CT
+ZIP:06790
+Country:US
+Info Phone Num:203-482-1010
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+CAGE:IO025
+=== Contractor Identification ===
+Company Name:DYMAX
+Address:51 GREENWOOD RD
+Box:City:TORRINGTON
+State:CT
+ZIP:06790
+Country:US
+Phone:203-482-1010
+CAGE:46733
+Company Name:DYMAX ENGINEERING ADHESIVES
+Address:51 GREENWOODS ROAD
+Box:City:TORRINGTON
+State:CT
+ZIP:06790
+Country:US
+Phone:203-482-1010
+CAGE:IO025
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ALIPHATIC ACID
+Fraction by Wt: <2%
+
+Ingred Name:ACRYLIC ACID  (SARA III)
+CAS:79-10-7
+RTECS #:AS4375000
+Fraction by Wt: <5%
+OSHA PEL:S, 10 PPM
+ACGIH TLV:S, 2 PPM; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ORGANIC PEROXYESTER
+Fraction by Wt: <3%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:POSSIBLE SKIN AND EYE IRRITATION ON
+    CONTACT. INHALATION OF VAPORS IN AN UNVENTILATED AREA MAY, OVER
+    TIME, INDUCE HEADACHES.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: WASH EYES WITH COPIUS QUANTITIES OF WATER FOR SEVERAL
+    MINUTES. GET MD ATTN. SKIN: WASH THOROUGHLY WITH SOAP AND WATER. DO
+    NOT USE ORGANIC SOLVENTS FOR CLEANUP AS THEY MAY DRY OR IRRITATE
+    THE SKI N AND ACT AS A CARRIER FOR CHEMICAL ABSORPTION.INHAL:
+    REMOVE TO FRESH AIR. INGEST: LOW TOXICITY; GET MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:>200F,>93C
+Extinguishing Media:CARBON DIOXIDE, DRY CHEMICAL, FOAM, WATER FOG.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT 
+Unusual Fire/Explosion Hazard:TOXIC FUMES (OXIDES OF CARBON AND
+    NITROGEN) MAY BE EVOLVED UPON EXPOSURE TO HEAT OR OPEN FLAME.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DIKE AREA TO PREVENT SPREADING. ABSORB
+    MATERIAL WITH VERMICULITE, SAND OR OTHER INERT ABSORBING MATERIAL.
+    PUT IN CLOSED CONTAINER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:SHOULD BE HANDLED AND STORED IN A COOL
+    (50F - 80F), DARK PLACE. TEMPS OVER 120F SHOULD BE AVOIDED FOR MAX
+    SHELF LIFE.
+Other Precautions:SLOW POLYMERIZATION, WITH POSSIBLE HEAT GENERATION,
+    WILL OCCUR IN DIRECT SUNLIGHT AND AT TEMPERATURES APPROXIMATELY
+    130F OR HIGHER. AVOID SKIN CONTACT. DO NOT WEAR CONTACT LENSES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESPIRATORY EQUIPMENT IS UNNECESSARY IN NORMAL
+    USE. NIOSH/MSHA APPROVED RESPIRATOR FOR EXPOSURE OF CONCERN .
+Ventilation:POSITIVE FRESH AIR EXHAUST SHOULD BE PROVIDED IN THE WORK
+    AREA.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEMICAL WORKERS GOGGLES.
+Other Protective Equipment:IMPERVIOUS PROTECTIVE CLOTHING IF FREQUENT
+    DIRECT CONTACT IS LIKELY.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+HAZ DECOMP PROD: WITH CURING AGENTS, SUCH AS PEROXIDES OR AMINES.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Vapor Pres:6 @ 30C
+Vapor Density:HVR/AIR
+Spec Gravity:1.1
+Solubility in Water:INSOLUBLE
+Appearance and Odor:RED LIQUID.
+Percent Volatiles by Volume:<0.1WT
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS, AMINES, STRONG LEWIS/MINERAL ACIDS, THIOSULFATES.
+Stability Condition to Avoid:STORAGE IN OPEN CONTAINERS, EXPOSURE TO
+    HEAT AND/OR OPEN FLAME, EXPOSURE TO INCOMPATIBLE SUBSTANCES.
+Hazardous Decomposition Products:CONSIDERABLE SMOKE & TOX FUMES MAY BE
+    EVOLVED AS RESULT OF UNCONTL EXOTHERMIC RXN OF LGE MASSES OF MATL
+    REACT(SUPP DATA)
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF AS A CHEMICAL WASTE IN ACCORDANCE
+    WITH FEDERAL, LOCAL AND STATE REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

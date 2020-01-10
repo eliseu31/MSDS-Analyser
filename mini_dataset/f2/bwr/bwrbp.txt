@@ -1,0 +1,152 @@
+=====================  Product Identification  =====================
+
+Product ID:190 0042 KODAK FILM & PAPER DYE/BUFFER (CYAN), WORKING SOLN
+MSDS Date:08/17/1994
+FSC:6750
+NIIN:00-911-4843
+Kit Part:Y
+MSDS Number: BWRBP
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-477-3194 MSDS :800- 242-2424
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 95-99%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:TRIETHANOLAMINE ACETATE
+CAS:5204-74-0
+Fraction by Wt: 1-5%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:ACETIC ACID  (SARA III)
+CAS:64-19-7
+RTECS #:AF1225000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:10 PPM
+ACGIH TLV:10 PPM/15 STEL; 9394
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ERIO FAST CYANINE
+CAS:128-86-9
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:ETHYLENEDIAMINE-TETRAACETIC ACID (EDTA)  (SARA III)
+CAS:60-00-4
+RTECS #:AH4025000
+Fraction by Wt: <0.1%
+Other REC Limits:NONE RECOMMENDED
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHAL:EXPECTED TO BE A LOW HAZARD FOR
+    RECOMMENDED HANDLING. EYES:NO SPECIFIC HAZ KNOWN. MAY CAUSE
+    TRANSIENT IRRITATION. SKIN:LOW HAZARD FOR RECOMMENDED HANDLING. MAY
+    STAIN SKIN CYAN. INGEST:EXPECTED T O BE A LOW INGESTION HAZARD.
+Effects of Overexposure:EYE:TRANSIENT IRRITATION. STAINS SKIN CYAN.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:IF SYMPTOMATIC MOVE TO FRESH AIR. GET MED ATTN IF
+    SYMPTONS PERSIST. EYES:ANY MATL THAT CONTACTS EYE SHOULD BE WASHED
+    OUT IMMED W/WATER. GET MED ATTN IF SYMPTOMS OCCUR. SKIN:WASH W/SOAP
+    & WATER.  GET MED ATTN IF SYMPTOMS OCCUR. INGEST:DRINK 1-2 GLASSES
+    OF WATER. SEEK MED ATTN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONCOMBUBSTIBLE
+Extinguishing Media:USE APPROPRIATE AGENT FOR ADJACENT FIRE.
+Fire Fighting Procedures:NONE (NONCOMBUSTIBLE).
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH TO SEWER W/LG AMTS OF WATER.OTHERWISE
+    ABSORB W/VERMICULITE OR OTHER INERT MATERIAL, THEN PLACE IN
+    CONTAINER FOR CHMICAL WASTE. CLEAN SURFACE THOROUGHLY TO REMOVE
+    RESIDUAL CONTAMINATION.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:USE W/ADEQUATE VENTILATION. KEEP
+    CONTAINER CLOSED.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SHOULD BE NEEDED.
+Ventilation:GOOD GENERAL VENTILATION (TYPICALLY 10 AIR CHANGES/HR)
+    SHOULD BE USED. VENTILATION RATES SHOULD BE MATCHED TO CONDITIONS
+Protective Gloves:IMPERVIOUS GLOVES.
+Eye Protection:SAFETY GLASSES W/SIDE SHIELDS, GOGGLES.
+Other Protective Equipment:RECOMMENDED DECONTAMIN FACILITIES:EYEBATH,
+    WASHING FACILITIES, SAFETY SHOWER.
+Work Hygienic Practices:WASH HANDS WELL AFT HANDLING.
+Supplemental Safety and Health
+PH=4.3-4.5. SEE SAME NSN PNIND:D(BUFFER), C(DYE) FOR CYAN. PER CTDF:3
+    BALANCED DYES(CYAN,MAGENTA,YELLOW) FOR THIS NSN. SEE SAME NSN OTHER
+    PNIND FOR OTHER 2 DYES/BUFFERS/WORKING SOLNS. TO MAKE 1 GALLON .
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:>212F,>100C
+Vapor Pres:18MM @20C
+Vapor Density:0.6
+Spec Gravity:>1.00
+pH:SUPPLE
+Solubility in Water:COMPLETE
+Appearance and Odor:LIQUID, CYAN COLOR, ODORLESS.
+Percent Volatiles by Volume:95-99
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE W/COMMON MATERIALS & CONTAMINANTS W/ WHICH THE MATERIAL MAY
+    REASONABLY COME INTO CONTACT.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:NONE (NONCOMBUSTIBLE).
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISCHARGE/TREATMENT/DISPOSAL MAY BE SUBJECT TO
+    NATIONAL/STATE/LOCAL LAWS. FLUSH TO SEWER W/LG AMTS OF WATER.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

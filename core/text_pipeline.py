@@ -97,8 +97,8 @@ class TextPipeline:
         # convert the y_train
         y_vector[y_vector > 1] = 1
         # print some information data
-        print('\ninput array, shape:', x_vector.shape, type(x_vector))
-        print('output array, shape:', y_vector.shape, type(y_vector))
+        print('\ninput array, shape:', x_vector.shape)
+        print('output array, shape:', y_vector.shape, '\n')
 
         # fit the model
         self.prediction_model.fit(x_vector, y_vector)
@@ -132,7 +132,7 @@ class TextPipeline:
         y_test[y_test > 1] = 1
         class_report = classification_report(y_test, predictions, target_names=class_labels, output_dict=True)
         print("Classification report: \n", classification_report(y_test, predictions, target_names=class_labels))
-        print("F1 micro averaging:", f1_score(y_test, predictions, average='micro', labels=np.unique(predictions)))
-        print("ROC: ", roc_auc_score(y_test, predictions))
+        # print("F1 micro averaging:", f1_score(y_test, predictions, average='micro', labels=np.unique(predictions)))
+        print("ROC: ", roc_auc_score(y_test, predictions), '\n')
         # return the classification results
         return class_report

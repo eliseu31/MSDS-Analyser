@@ -1,0 +1,182 @@
+=====================  Product Identification  =====================
+
+Product ID:CYCLOHEXIMIDE 98%, C104450
+MSDS Date:07/01/1999
+FSC:6810
+NIIN:00N092207
+Status Code:A
+MSDS Number: CJQQX
+=== Responsible Party ===
+Company Name:ALDRICH CHEMICAL CO INC
+Address:1001 WEST ST PAUL
+City:MILWAUKEE
+State:WI
+ZIP:53233
+Country:US
+Info Phone Num:414-273-3850
+Emergency Phone Num:414-273-3850
+CAGE:60928
+=== Contractor Identification ===
+Company Name:ALDRICH CHEMICAL CO INC
+Address:1001 WEST ST PAUL AVE
+Box:355
+City:MILWAUKEE
+State:WI
+ZIP:53233
+Country:US
+Phone:414-273-3850
+CAGE:60928
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CYCLOHEXIMIDE
+CAS:66-81-9
+RTECS #:MA4375000
+= Wt:98.
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50: (ORAL,RAT) 2 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: MAY BE FATAL IF INHALED,
+    SWALLOWED, OR ABSORBED THROUGH SKIN. CAUSES EYE & SKIN IRRITATION.
+    MATERIAL IS IRRITATING TO MUCOUS MEMBRANES & UPPER RESPIRATORY
+    TRACT. EXPOSURE CAN CAUSE: DERMATITIS,  NAUSEA, VOMITING, DIARRHEA,
+    TREMORS. TARGET ORGAN(S): NERVES, KIDNEYS, ADRENAL CORTEX,
+    CARDIOVASCULAR SYSTEM. CHRONIC: POSSIBLE RISK OF CONGENITAL
+    MALFORMATION IN THE FETUS.	LABORATORY EXPERIMENTS H AVE SHOWN
+    MUTAGENIC EFTS.  TO THE BEST OF OUR KNOWLEDGE THE CHEMICAL,
+    PHYSICAL, AND TOXICOLOGICAL PROPERTIES HAVE NOT BEEN THOROUGHLY
+    INVESTIGATED.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:IN CASE OF CONTACT, IMMEDIATELY FLUSH EYES OR SKIN WITH
+    COPIOUS AMOUNTS OF WATER FOR AT LST 15 MINUTES WHILE REMOVING
+    CONTAMINATED CLOTHING & SHOES. IF INHALED, REMOVE TO FRESH AIR. IF
+    NOT BREATHING G IVE ARTIFICIAL RESPIRATION. IF BREATHING IS
+    DIFFICULT, GIVE OXYGEN. IF SWALLOWED, WASH OUT MOUTH WITH WATER
+    PROVIDED PERSON IS CONSCIOUS. CALL A PHYSICIAN. WASH CONTAMINATED
+    CLOTHING BEFORE REUSE.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER SPRAY. CARBON DIOXIDE, DRY CHEMICAL POWDER OR
+    APPROPRIATE FOAM.
+Fire Fighting Procedures:WEAR NIOSH SELF-CONTAINED BREATHING APPARATUS
+    AND PROTECTIVE CLOTHING TO PREVENT CONTACT WITH SKIN AND EYES.
+Unusual Fire/Explosion Hazard:EMITS TOXIC FUMES UNDER FIRE CONDITIONS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE AREA. WEAR NIOSH APPRVD
+    SELF-CONTAINED BREATHING APPARATUS, RUBBER BOOTS & HEAVY RUBBER
+    GLOVES. SWEEP UP, PLACE IN A BAG & HOLD FOR WASTE DISPOSAL. AVOID
+    RAISING DUST. VENTILATE AREA & WASH S PILL SITE AFTER MATERIAL
+    PICKUP IS COMPLETE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:HIGH TOXIC. VERY TOXIC BY INHAL, IN
+    CONT W/SKIN & IF SWALLOWED. POSSIBLE RISK OF HARM TO UNBORN CHILD.
+    POSSIBLE RISK OF IRREVERSIBLE EFTS. IRRITATING TO EYES, RESP SYS &
+    SKIN. CALIF. PROP. 65 REPRODUC TIVE HAZARD. AVOID EXPOSURE-OBTAIN
+    SPECIAL INSTRUCTIONS BEFORE USE.
+Other Precautions:WEAR SUITABLE PROT CLTHG, GLOVES & EYE/FACE PROT. DO
+    NOT BREATHE DUST. DO NOT GET IN EYES, ON SKIN, ON CLOTHING. AVOID
+    PROLONGED OR REPEATED EXPOSURE. KEEP TIGHTLY CLOSED. STORE IN A
+    COOL DRY PLACE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR APPROPRIATE NIOSH-APPROVED RESPIRATOR.
+Ventilation:USE ONLY IN A CHEMICAL FUME HOOD.
+Protective Gloves:CHEMICAL-RESISTANT GLOVES.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:EYE WASH & DELUGE SHOWER MEETING ANSI DESIGN
+    CRITERIA . OTHER PROTECTIVE CLOTHING.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+TOX INFO: ORL-MKY LD50: 60 MG/KG. GUCHAZ 6,146,1973. IPR-CAT LD50: 4
+    MG/KG. JACSAT 70,1223,1948. IVN-RBT LD50: 17 MG/KG. JACSAT
+    70,1223,1948. ORL-GPG LD50: 65 MG/KG. PCOC** -,292,1966. IPR-GPG
+    LD50: 6 0 MD/KG. ANTCAO 10,682, 1960. SCU-PPG LD50: 60 MG/KG.
+    JACSAT 70,1223,1948. TARGET ORGAN DATA: BEHAVIORAL (OTHER INFO)
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:>110.C, 230.F
+M.P/F.P Text:110C TO 111C
+Appearance and Odor:OFF-WHITE POWDER.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+BASES.
+Hazardous Decomposition Products:TOXIC FUMES OF: CARBON MONOXIDE,
+    CARBON DIOXIDE, NITROGEN OXIDES.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:IRRIT DATA: SKN-RBT 5 MG/24H RINSE. TXCYAC
+    14,117,1979. SKN-RBT 1 PPH/24H MOD. NTIS** PB274-414. TOX DATA:
+    ORL-RAT LD50: 2 MG/KG. UPJOH* 2(6),-,1971. IPR-RAT LD50: 3700
+    UG/KG. JPETAB 136,400,1962. SCU -RAT LD50: 2500 UG/KG. ANTCAO
+    10,682,1960. IVN-RAT LD50: 2 MG/KG. ANTCAO 10,682,1960. UNR-RAT
+    LD50: 133 MG/KG. YKYUA6 30,397,1979. ORL-MUS LD50: 133 MG/KG.
+    UPJOH* 2(6),-,1971. IPR-MUS LD50: 100 MG/KG.  CNCRA6 30,9,1963.
+    SCU-MUS LD50: 160 MG/KG. UPJOH* 2(6),-,1971. IVN-MUS LD50: 150
+    MG/KG. JACSAT 69,474,1947. ORL-DOG LD50: 65 MG/KG. PCOC**
+    -,292,1966. IVN-DOG LD50: 1 MG/KG. ARZNAD 8,687,1958. (SUPDA T)
+
+=====================  Ecological Information  =====================
+
+Ecological:DATA NOT YET AVAILABLE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISSOLVE OR MIX MATERIAL WITH COMBUSTIBLE
+    SOLVENT & BURN IN CHEMICAL INCINERATOR EQUIPPED WITH AN AFTERBURNER
+    & SCRUBBER. OBSERVE ALL FEDERAL, STATE AND LOCAL ENVIRONMENTAL
+    REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:CONTACT LADRICH CHEMICAL COMPANY FOR
+    TRANSPORTATION INFORMATION.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:B.O
+Federal Regulatory Information:EUROPEAN INFO: VERY TOXIC. R 26/27/28.
+    VERY TOXIC BY INHAL, IN CONT W/SKIN & IF SWALLOWED. 4 63. POSSIBLE
+    RISK OF HARM TO UNBORN CHILD. 4 40. POSSIBLE RISK OF IRREVERSIBLE
+    EFTS. R 36/37/38. IRRITATING  TO EYES, RESP SYS & SKIN. S 45. IN
+    CASE OF ACCIDENT/IF YOU FEEL UNWELL, SEKK MED ADVICE IMMED (SHOW
+    LBL WHERE POSS). S 53. AVOID EXPOSUR-OBTAIN SPEC INSTRUCTIONS
+    BEFORE USE. S 36/37/39. WEAR SUITABLE  PROT CLTHG, GLOVES &
+    EYE/FACE PROT.
+State Regulatory Information:U.S. INFO. CALIFORNIA PROP 65: PROD
+    IS/CNTNS CHEM(S) KNOWN TO STATE OF CALIFORNIA TO CAUSE
+    SEVELOPMENTAL TOX. REVIEW, STDS, & REGS. OEL=MAK. EPA FIFRA 1988
+    PESTICIDE SUBJECT TO REGISTRATION/RE-REGISTR ATION FEREAC
+    54,7740,1989. NOHS 1974: HZD 84338; NIS 3; TNF 968; NOS 6; TNE
+    4439. NOES 1983: HAZD 84338; NIS 2; TNF 234; NOS 7; TNE 3059; TFE
+    2370. EPA GENETOX PROGRAM 1988, POS: E COLI POLA W/S9; SPE RM
+    MORPHOLOGY-MOUSE. EPA GENETOX 1988, NEG: N CRASSA-ANEUPLOIDY,
+    INCONCLUSIVE: CARCIN-MOUSE/RAT, INC ONSLUSIVE: D MELANOGASTER-WHOLE
+    SEX CHROM LOSS. INCONSLUSIVE: MAMMALIAN MICRONUCLEUS; E COLI POLA
+    W/OUT S9.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,150 @@
+=====================  Product Identification  =====================
+
+Product ID:CLOROX 2
+MSDS Date:05/01/1990
+FSC:6850
+NIIN:01-014-1324
+MSDS Number: BWRCG
+=== Responsible Party ===
+Company Name:THE CLOROX CO
+Address:7200 JOHNSON DR
+City:PLEASANTON
+State:CA
+ZIP:94566
+Country:US
+Info Phone Num:415-847-6100
+Emergency Phone Num:303-573-1014
+CAGE:CLORO
+=== Contractor Identification ===
+Company Name:CLOROX CO THE  HEADQUARTERS
+Address:1221 BROADWAY
+Box:24305
+City:OAKLAND
+State:CA
+ZIP:94612-1305
+Country:US
+Phone:510-271-7000
+CAGE:93098
+Company Name:THE CLOROX CO
+Address:7200 JOHNSON DR
+City:PLEASANTON
+State:CA
+ZIP:94588
+Country:US
+Phone:415-847-6100
+CAGE:CLORO
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PERBORIC ACID, SODIUM SALT, TETRAHYDRATE; (SODIUM PERBORATE
+CAS:10486-00-7
+RTECS #:SC7350000
+Fraction by Wt: 5-25%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:BACILLUS SUBTILIS BPN; (SUBTILISINS - PROTEOLYTIC)
+    CONTAINING INGS 3 & 4
+CAS:1395-21-7
+RTECS #:CO9450000
+Fraction by Wt: 0.5-2%
+OSHA PEL:C 0.00006 MG/M3
+ACGIH TLV:C 0.00006 MG/M3
+
+Ingred Name:ESPERASE (MFR INVALID CAS # 9072-77-2)
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:BACILLUS SUBTILIS CARLSBERG; (SAVINASE)
+CAS:9014-01-1
+RTECS #:CO9550000
+OSHA PEL:C,0.00006 MG/M3
+ACGIH TLV:C 0.00006 MG/M3
+
+Ingred Name:AMYLASE ENZYME; (AMYLASE)
+CAS:9000-90-2
+Fraction by Wt: <0.5%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MODERATE EYE IRRITANT. HARMFUL IF
+    SWALLOWED. INHALATION OF LARGE QUANTITIES OF DUST MAY CAUSE
+    SENSITIZATION. SENSITIZATION SYMPTOMS MAY RANGE FROM HAY FEVER TO
+    ASTHMA.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:FLUSH W/COPIOUS AMOUNTS OF WATER. CALL MD . EYE:FLUSH
+    WITH WATER FOR @ LEAST 15 MINUTES. INGEST:DRINK GLASSFUL OF WATER &
+    CALL PHYS. INHAL:REMOVE TO FRESH AIR IF BREATHING PROBLEMS DEVELOP.
+     IF BREATHING PROBLEMS PERSIST, SEEK PROMPT MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:MEDIA SUITABLE FOR SURROUNDING FIRE .
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:NOT FLAMMABLE OR EXPLOSIVE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:RINSE WITH WATER. FLUSH SM QTYS (LESS THAN 2
+    LBS) DOWN DRAIN W/PLENTY OF WATER. FOR LARGER QTYS DISPOSE OF I/A/W
+    LOCAL, STATE AND FEDERAL REGULATIONS.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP OUT OF REACH OF CHILDREN. AVOID
+    MAKING DUST. STORE IN COOL, DRY AREA. KEEP AWAY FROM HEAT & ACIDS
+    WHEN STORED IN LARGE QUANTITIES.
+Other Precautions:AVOID SKIN AND EYE CONTACT AND INHALATION OF DUST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN .
+Ventilation:USE GENERAL VENTILATION TO MINIMIZE EXPOSURE TO DUST.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPRVD SAFETY GLASSES .
+Other Protective Equipment:ANSI APPRVD EMER EYE BATH & DELUGE SHOWER .
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+PH:11.1 (1% SOLN).
+
+==================  Physical/Chemical Properties  ==================
+
+Vapor Density:1.00
+pH:SUPDAT
+Evaporation Rate & Reference:NOT KNOWN
+Solubility in Water:NOT KNOWN
+Appearance and Odor:NONE SPECIFIED BY MANUFACTURER.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+REACTS WITH ACIDS TO FORM HEAT AND GASES.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE I/A/W FEDERAL, STATE & LOCAL
+    REGULATIONS .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

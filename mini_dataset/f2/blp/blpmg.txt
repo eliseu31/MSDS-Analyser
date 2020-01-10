@@ -1,0 +1,138 @@
+=====================  Product Identification  =====================
+
+Product ID:33-087-00 POLYLITE
+MSDS Date:03/19/1990
+FSC:8040
+NIIN:00F019136
+MSDS Number: BLPMG
+=== Responsible Party ===
+Company Name:REICHHOLD CHEMICALS INC
+Address:800 CAPITOLA DR RESEARCH TRIANGLE PARK
+City:DURHAM
+State:NC
+ZIP:27713
+Info Phone Num:(919) 544-9225
+Emergency Phone Num:(800) 424-9300
+CAGE:86744
+=== Contractor Identification ===
+Company Name:REICHHOLD CHEMICALS INC
+Address:601 WOODWARD HEIGHTS
+Box:City:DETROIT
+State:MI
+ZIP:48220-1433
+Country:US
+CAGE:86744
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POLYESTER RESIN
+Fraction by Wt: 60%
+
+Ingred Name:STYRENE, MONOMER  (SARA III)
+CAS:100-42-5
+RTECS #:WL3675000
+Fraction by Wt: 50%
+Other REC Limits:50 PPM
+OSHA PEL:100 PPM
+ACGIH TLV:S,50PPM/100STEL;9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:SKIN: DEFATTING, DRYNESS, DERMATITIS,
+    & ABSORPTION. EYES: IRRITATION, LACHRYMATION OR LINING. INHALATION:
+    MUCOUS MEMBRANE IRRITATION, UPPER RESPIRATORY TRACT DISCOMFORT,
+    HEADACHE, NAUSEA, INSENSIBILIT Y, CENTRAL NERVOUS SYSTEM EFFECTS,
+    LIVER, & KIDNEY DAMAGE. INGESTION: GASTROINTESTINAL DISTURBANCES,
+    PAIN, & DISCOMFORT.
+Explanation of Carcinogenicity:STYRENE MONOMER IS A SUSPECTED HUMAN
+    CARCINOGEN BY ACGIH.
+Effects of Overexposure:SKIN: DEFATTING, DRYNESS, IRRITATION,
+    DERMATITIS, & ABSORPTION. EYES: IRRITATION, LACHRYMATION OR INJURY.
+    INHALATION: MUCOUS MEMBRANE IRRITATION, UPPER RESPIRATORY TRACT
+    DISCOMFORT, HEADACHE, NAUSEA,  INSENSIBLITIY, & OTHER CNS EFFECTS,
+    LIVER & KIDNEY DAMAGE. INGESTION: GASTROINTESTINAL DISTURBANCES,
+    PAIN, & DISCOMFORT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: WASH W/SOAP & WATER. EYES: FLUSH W/PLENTY OF WATER FOR
+    15 MINUTES. INHALATION: REMOVE TO FRESH AIR. IF UNCONSCIOUS,
+    ADMINISTER ARTIFICIAL RESPIRATION/OXYGEN AS NEEDED. INGESTION:
+    DON'T INDUCE VO MITING. ASPIRATION HAZARD. OBTAIN MEDICAL ATTENTION
+    IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:89F
+Lower Limits:1.1%
+Extinguishing Media:WATER SPRAY, FOAM, DRY CHEMICAL, CO2, OR ANY CLASS
+    B EXTINGUISHING AGENT
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:IF POLYMERIZATION TAKES PLACE IN A CLOSED
+    CONTAINER, VIOLENT RUPTURE OF CONTAINER IS POSSIBLE. PRODUCT VAPOR
+    MAY FORM EXPLOSIVE MIXTURES IN AIR. FLAMMABLE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. VENTILATE
+    AREA. ABSORB SPILL W/ABSORBENT MATERIAL SUCH AS SAWDUST,
+    VERMICULITE OR SAND & PLACE IN CONTAINER. DIKE THE AREA TO PREVENT
+    MATERIAL FROM ENTERING WATER SYSTE MS OR SEWERS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T STORE >100F. AVOID SKIN CONTACT
+    & INHALATION OF VAPORS OR SPRAY MISTS. FIREFIGHTING EQUIPMENT
+    SHOULD BE DECONTAMINATED AFTER USE.
+Other Precautions:AVOID IMPROPER ADDITION OF PROMOTER/CATALYST. A
+    PROMOTER/CATALYST USED W/PRODUCT SHOULD ALWAYS BE MIXED SEPARATELY
+    & NEVER MIXED TOGETHER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE A CANISTER-TYPE RESPIRATOR TO PREVENT
+    INHALATION OF VAPORS OR SPRAY MISTS IF >TLV.
+Ventilation:GENERAL, DURING NORMAL USE OR LOCAL IF REQUIRED
+Protective Gloves:IMPERVIOUS
+Eye Protection:FACE SHIELD OR CHEMICAL GOGGLES
+Other Protective Equipment:PROTECTIVE CLOTHING, EYE WASH STATION &
+    SAFETY SHOWER.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:295F
+Vapor Density:>AIR
+Spec Gravity:1.1
+Evaporation Rate & Reference:SLOWER THAN N-BU AC
+Appearance and Odor:AMBER OPAQUE LIQUID W/PUNGENT ODOR
+Percent Volatiles by Volume:40-50%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS & OXIDIZING AGENTS
+Stability Condition to Avoid:HEAT, DIRECT SUNLIGHT, SOURCES OF IGNITION
+Hazardous Decomposition Products:ACRID FUMES
+Conditions to Avoid Polymerization:ELEVATED TEMPERATURES SUCH AS IN A
+    FIRE, HEAT OR DIRECT SUNLIGHT.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:TREAT AS HAZARDOUS WASTE MATERIAL. DISPOSE OF
+    MATERIAL & CONTAINER IN COMPLIANCE W/APPLICABLE LABELING,
+    PACKAGING, & RECORD KEEPING STANDARDS. DISPOSE OF IN ACCORDANCE
+    W/FEDERAL, STATE, & LOCAL REGULA TIONS. FLAMMABLE LIQUID UN 1866.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

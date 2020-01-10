@@ -1,0 +1,140 @@
+=====================  Product Identification  =====================
+
+Product ID:OBLITERATING COATING FOR 12-010
+MSDS Date:01/01/1987
+FSC:8010
+NIIN:00-582-4743
+MSDS Number: BJDSM
+=== Responsible Party ===
+Company Name:NATIONAL AEROSOL PRODUCTS CO SUB OF GROW GROUP INC
+Address:2193 E. 14TH STREET
+City:LOS ANGELES
+State:CA
+ZIP:90021
+Country:US
+Info Phone Num:213-627-2668
+Emergency Phone Num:213-627-2668
+CAGE:59986
+=== Contractor Identification ===
+Company Name:GROW GROUP INC DEVOE AND REYNOLDS CO DIV
+Address:4000 DUPONT CIRCLE
+Box:City:LOUISVILLE
+State:KY
+ZIP:40207-4802
+Country:US
+Phone:502-361-2536
+CAGE:97758
+Company Name:NATIONAL AEROSOL PRODUCTS CO SUB OF GROW GROUP INC
+Address:2193 E 14TH STREET
+Box:City:LOS ANGELES
+State:CA
+ZIP:90021-2843
+Country:US
+CAGE:59986
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:V.T. ALKYD
+
+Ingred Name:ALIPHATIC HYDROCARBONS
+ACGIH TLV:400 PPM
+
+Ingred Name:N-BUTYL ALCOHOL  (SARA III)
+CAS:71-36-3
+RTECS #:EO1400000
+OSHA PEL:100 PPM
+ACGIH TLV:S, C 50 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:METHYLENE CHLORIDE	(SARA III)
+CAS:75-09-2
+RTECS #:PA8050000
+OSHA PEL:500 PPM/C,1000; Z2
+ACGIH TLV:50 PPM, A2; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:BUTANE-PROPANE PROPELLANT
+ACGIH TLV:1000 PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Health Hazards Acute and Chronic:INHALATION: HEADACHE, NAUSEA, AND
+    DIZZINESS. SKIN CONTACT: PROLONGED OR REPEATED CONTACT MAY CAUSE
+    IRRITATION.
+Effects of Overexposure:INHALATION: HEADACHE, NAUSEA AND DIZZINESS.
+    SKIN CONTACT: PROLONGED OR REPEATED CONTACT MAY CAUSE IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: MOVE TO FRESH AIR. SKIN CONTACT: FLUSH WITH LARGE
+    AMOUNTS OF WATER. REMOVE CONTAMINATED CLOTHING. EYE CONTACT: FLUSH
+    WITH CLEAN WATER FOR AT LEAST 15 MINUTES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NR
+Extinguishing Media:WATER FOG, DRY CHEMICALS OR CO2.
+Fire Fighting Procedures:USE AIR SUPPLIED EQUIPMENT FOR ENCLOSED AREAS.
+    COOL EXPOSED CONTAINERS WITH WATER.
+Unusual Fire/Explosion Hazard:KEEP AWAY FROM HEAT, SPARKS OR OPEN
+    FLAME.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:AVOID BREATHING VAPORS, EXTINGUISH IGNITION
+    SOURCES IN IMMEDIATE AREA. AVOID CONTACT WITH LIQUID.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT STORE AT ELEVATED TEMPERATURES.
+Other Precautions:CLOSE CONTAINERS AFTER USE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:ADEQUATE VENTILATION IS REQUIRED. IN CONFINED
+    AREAS USE U.S. BUREAU OF MINES APPROVED RESPIRATOR DEVICE.
+Ventilation:LOCAL EXHAUST:  PROVIDE SUFFICIENT VENTILATION TO KEEP
+    CONCENTRATION BELOW GIVEN TLV.
+Protective Gloves:REQUIRED FOR PROLONGED/REPEATED CONTACT
+Eye Protection:SOLVENT RESISTANT
+Other Protective Equipment:NORMAL PROTECTIVE CLOTHING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:176 TO 343F
+Vapor Density:> (AIR=1)
+Spec Gravity:1.120 (H2O=1)
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:SLIGHT
+Appearance and Odor:LIQUID WITH TYPICAL PAINT ODOR.
+Percent Volatiles by Volume:78.18
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING MATERIALS, RUBBER SOFTENS.
+Hazardous Decomposition Products:CARBON MONOXIDE AND CARBON DIOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN CLOSED CONTAINERS AWAY FROM
+    IGNITION SOURCES.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

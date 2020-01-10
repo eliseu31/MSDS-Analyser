@@ -1,0 +1,130 @@
+=====================  Product Identification  =====================
+
+Product ID:PC12 007M PART B
+MSDS Date:11/11/1986
+FSC:8030
+NIIN:00-626-9332
+Kit Part:Y
+MSDS Number: BHWFV
+=== Responsible Party ===
+Company Name:DEXTER ELECTRONIC MATERIALS,THE DEXTER CORP
+Address:211 FRANKLIN ST
+City:OLEAN
+State:NY
+ZIP:14706
+Country:US
+Info Phone Num:716-372-6309
+Emergency Phone Num:716-372-6309
+Preparer's Name:JAMES P HORNBERG
+CAGE:04347
+=== Contractor Identification ===
+Company Name:DEXTER CORP THE DEXTER ELECTRONIC MATERIAL DIV
+Address:211 FRANKLIN ST.
+Box:City:OLEAN
+State:NY
+ZIP:14760-1297
+Country:US
+Phone:716-372-6300/6309
+CAGE:04347
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:REACTIVE POLYAMIDE
+CAS:37189-83-6
+Fraction by Wt: 60-100%
+Other REC Limits:N/K 
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:N/K 
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:PROLONGED SKIN CONTACT MAY CAUSE
+    DERMATITIS.THIS MATERIAL IS A SENSITIZER.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES/SKIN:CONTACT MAY CAUSE BURNS.INGESTION:N/K
+    .INHALATION:VAPORS MAY BE SLIGHTLY IRRITATING.
+Medical Cond Aggravated by Exposure:N/K 
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH WITH CLEAN WATER FOR AT LEAST 15 MINUTES.GET
+    MEDICAL CARE.SKIN:FLUSH WITH CLEAN WATER.REMOVE CONTAMINATED
+    CLOTHING.INGESTION:N/K .INHALATION:REMOVE TO FRESH AIR.THIS
+    MATERIAL IS  A SENSITIZER.IF ALLERGIC MANIFESTATIONSOCCUR,CONSULT A
+    PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:338F,170C
+Lower Limits:2.5
+Upper Limits:0.6
+Extinguishing Media:CARBON DIOXIDE,DRY CHEMICAL,FOAM.
+Fire Fighting Procedures:NONE
+Unusual Fire/Explosion Hazard:HAZARDOUS DECOMPOSITION PRODUCTS:CARBON
+    MONOXIDE,CARBON DIOXIDE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SCOOP UP EXCESS.SCRUB AREA WITH 5% ACETIC ACID
+    SOLUTION TO EMULSIFY,RINSE WITH HOT WATER.
+Neutralizing Agent:N/K 
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINERS TIGHTLY CLOSED.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE
+Ventilation:LOCAL EXHAUST-PREFERABLE.MECHANICAL-ACCEPTABLE.
+Protective Gloves:PLASTIC OR RUBBER
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:N/K 
+Work Hygienic Practices:N/K 
+Supplemental Safety and Health
+DECOMPOSITION TEMPERATURE:MAY DECOMPOSE AT BOILING POINT
+    (634F,334C).WASTE DISPOSAL METHODS:INCINERATE IN FURNACE OR BURY IN
+    APPROVED LANDFILL.THIS IS NOT A HAZARDOUS WASTE UNDER THE RESOURCE
+    CONSERVA TION & RECOVERY ACT (RCRA).
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:634F,334C
+Melt/Freeze Pt:M.P/F.P Text:N/K 
+Decomp Temp:Decomp Text:SEE SUPP DA
+Vapor Pres:<0.01 MMHG
+Vapor Density:9.6,AIR=1
+Spec Gravity:0.9 (WATER=1)
+Evaporation Rate & Reference:NIL
+Solubility in Water:NIL
+Appearance and Odor:TRANSLUCENT AMBER,HIGH VISCOSITY
+    LIQUID,AMMONIA-LIKE ODOR.
+Percent Volatiles by Volume:NIL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ALKALIES,ACIDS.
+Stability Condition to Avoid:N/K 
+Hazardous Decomposition Products:CARBON MONOXIDE,CARBON DIOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE IN ACCORDANCE WITH
+    FEDERAL,STATE AND LOCAL REGULATIONS.COORDINATION WITH SUPPORTING
+    INSTALLATION AND/OR MACOM ENVIRONMENTAL COORDINATION PRIOR TO
+    DISPOSAL IS RECOMMENDED TO DETERMINE  APPROPRIATE DISPOSAL METHODS
+    .(SEE SUPP DA)
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,149 @@
+=====================  Product Identification  =====================
+
+Product ID:182 6932;C DEVELOPER,YELLOW;KAN 471131
+MSDS Date:03/30/1994
+FSC:6850
+NIIN:01-387-5228
+MSDS Number: BWRZS
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-722-5151
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:STRONTIUM FERRITE
+CAS:12023-91-5
+Fraction by Wt: 85-90%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:BUTYL ACRYLATE-P-DIVINYLBENZENE-STYRENE POLYMER
+CAS:57516-68-4
+Fraction by Wt: 5-10%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:ACRYLIC ACID BUTYL ESTER POLYMER WITH STYRENE
+CAS:25767-47-9
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:BENZIDINE YELLOW
+CAS:6358-85-6
+RTECS #:AK4580000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:POLYMETHYLMETHACRYLATE
+CAS:9011-14-7
+RTECS #:TR0400000
+Fraction by Wt: >1%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES:MAY CAUSE IRRITATION.SKIN:LOW
+    HAZARD EXPECTED FOR NORMAL HANDLING.INGEST:EXPECTED TO BE A LOW
+    HAZARD.INHAL:OVEREXPOSURE TO CARBON BLACK MAY CAUSE RESPIRATORY
+    IRRITATION.
+Explanation of Carcinogenicity:THERE ARE NO INGREDIENTS ABOVE 0.1%
+    WHICH ARE IDENTIFIED AS CARCINOGENS BY NTP,IARC OR OSHA.
+Effects of Overexposure:EYES:TRANSCIENT IRRITATION.
+Medical Cond Aggravated by Exposure:PERSONS WITH PRE-EXISTING
+    RESPIRATORY AILMENTS MAY BE AT INCREASED RISK FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:REMOVE CONTAMINATED CLOTHING;WASH WITH SOAP AND WATER.IF
+    SYMPTOMS OCCUR,GET MEDICAL ATTENTION.EYES:FLUSH WITH WATER FOR 15
+    MINUTES.GET MEDICAL ATTENTION.INHAL:REMOVE TO FRESH AIR.GIVE OXYGEN
+    OR A RTIFICIAL RESPIRATION IF NEEDED.INGEST:DO NOT INDUCE
+    VOMITING.GET PROMPT QUALIFIED MEDICAL ATTENTION.IF CONSCIOUS,GIVE
+    1-2 GLASSES OF WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:WATER SPRAY,DRY CHEMICAL,CARBON DIOXIDE.
+Fire Fighting Procedures:USE A SELF-CONTAINED BREATHING APPARATUS AND
+    FULL PROTECTIVE EQUIPMENT.
+Unusual Fire/Explosion Hazard:**COMBUSTIBLE SOLID** THE FINELY
+    DISPURSED DUST FROM THIS PRODUCT IS A FIRE OR EXPLOSION HAZARD IN
+    THE PRESENCE OF SOURCES OF IGNITION.DECOMP PRODS MAY BE TOXIC
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA.USE PROPER PROTECTIVE AND
+    RESPIRATORY EQUIPMENT.SWEEP;DO NOT CREATE DUST;PLACE IN A FIBER
+    CARTON FOR DISPOSAL.USING A VACUUM CLEANER MAY PRESENT A FIRE OR
+    EXPLOSION HAZARD.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL,DRY,WELL-VENTILATED
+    PLACE.KEEP CONTAINER CLOSED WHEN NOT IN USE.KEEP AWAY FROM
+    OXIDIZERS.
+Other Precautions:FOLLOW LABEL DIRECTIONS.AVOID BREATHING VAPORS.AVOID
+    SKIN AND EYE CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NEEDED IN NORMAL SERVICE.
+Ventilation:USE GENERAL DILUTION VENTILATION.MFR RECOMMENDS 4-6 AIR
+    CHANGES/HOUR.
+Protective Gloves:IMPERVIOUS
+Eye Protection:CHEMICAL GOGGLES.
+Other Protective Equipment:PROTECTIVE CLOTHING,AS NEEDED.PROVIDE A
+    LOCAL EYE WASH STATION AND SAFETY SHOWER.
+Work Hygienic Practices:WASH HANDS.SEPERATE WORK CLOTHES FROM STREET
+    CLOTHES.LAUNDER WORK CLOTHES BEFORE REUSE.KEEP FOOD OUT OF THE WORK
+    AREA.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Vapor Pres:NEGLIGIBLE
+Vapor Density:NEGLIGIBLE
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:POWDER;YELLOW;SLIGHT ODOR
+Percent Volatiles by Volume:NEGLIG
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS.
+Stability Condition to Avoid:DUSTY CONDITIONS WITH SOURCES OF IGNITION.
+Hazardous Decomposition Products:CARBON DIOXIDE,CARBON MONOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH FEDERAL,STATE AND
+    LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

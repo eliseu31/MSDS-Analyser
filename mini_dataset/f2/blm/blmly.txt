@@ -1,0 +1,118 @@
+=====================  Product Identification  =====================
+
+Product ID:LITHIUM NITRATE
+MSDS Date:12/07/1988
+FSC:6810
+NIIN:00N021521
+MSDS Number: BLMLY
+=== Responsible Party ===
+Company Name:FOOTE MINERAL CO
+Address:ROUTE 100
+City:EXTON
+State:PA
+ZIP:19341
+Country:US
+Info Phone Num:215-363-6500
+Emergency Phone Num:215-363-6500
+CAGE:07660
+=== Contractor Identification ===
+Company Name:CHEMETALL FOOTE CORPORATION
+Address:348 HOLIDAY INN DR
+Box:City:KINGS MOUNTAIN
+State:NC
+ZIP:28086
+Country:US
+Phone:704-739-2501
+CAGE:07660
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NITRIC ACID, LITHIUM SALT; (LITHIUM NITRATE)
+CAS:7790-69-4
+RTECS #:QU9200000
+Fraction by Wt: 89.5%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:LARGE DOSES OF LITHIUM COMPOUNDS HAVE
+    CAUSED DIZZINESS AND PROSTRATION. LARGE DOSES OF NITRATES MAY HAVE
+    SERIOUS OR EVEN FATAL RESULTS. SYMPTOMS ARE DIZZINESS, ABDOMINAL
+    CRAMPS, VOMITING, BLOODY DIARR HEA, WEAKNESS, CONVULSIONS, AND
+    COLLAPSE.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: WASH EXPOSED AREAS THOROUGHLY. EYES: FLUSH W/WATER FOR
+    A MINIMUM OF 15 MINUTES AND GET MEDICAL ATTENTION IMMEDIATELY.
+    INHAL: REMOVE TO FRESH AIR. SUPPORT BREATHING (GIVE O2/ARTF RESP) .
+    IN GEST: CALL MD IMMEDIATELY .
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:MEDIA SUITABLE FOR SURROUNDING FIRE .
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT , TO AVOID TOXIC NITROGEN OXIDES FUMES.
+Unusual Fire/Explosion Hazard:LINO3 IS AN OXIDIZING MATL SIMILAR TO
+    SODIUM & POTASSIUM NITRATE. CONTACT W/EASILY OXIDIZABLE SUBSTANCES
+    MAY CAUSE IGNITION, VIOLENT COMBUSTION OR EXPLOSION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP AND RETURN TO CONTAINER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL DRY PLACE. SEPARATE
+    FROM COMBUSTIBLE, ORGANIC, OR OTHER READILY OXIDIZING MATERIAL.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN .
+Ventilation:MECHANICAL (GENERAL) VENTILATION.
+Protective Gloves:RUBBER OR PLASTIC GLOVES.
+Eye Protection:NORMALLY NOT NECESSARY.
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C1
+Melt/Freeze Pt:M.P/F.P Text:507F,264C
+Spec Gravity:2.38
+Solubility in Water:APPRECIABLE
+Appearance and Odor:WHITE CRYSTALS, ODORLESS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING MATERIAL. AVOID EASILY OXIDIZABLE SUBSTANCES.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:EVOLVES TOXIC NITROGEN OXIDE FUMES
+    UNDER FIRE CONDITIONS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISSOLVE IN WATER AND RELEASE TO STREAMS BY
+    CONTROLLED FLOW. ALL POLLUTION REGULATIONS MUST BE OBSERVED.
+    DISPOSAL MUST BE IN ACCORDANCE WITH FEDERAL, STATE, AND LOCAL
+    REGULATIONS .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

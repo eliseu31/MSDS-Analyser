@@ -1,0 +1,142 @@
+=====================  Product Identification  =====================
+
+Product ID:SURGILUBE
+MSDS Date:12/21/1989
+FSC:6505
+NIIN:01-014-1026
+MSDS Number: BLMVG
+=== Responsible Party ===
+Company Name:FOUGERA E & CO DIV OF ATLANTA INC
+Address:60 BAYLIS RD
+City:MELVILLE
+State:NY
+ZIP:11747-3806
+Country:US
+Info Phone Num:516-454-6996
+Emergency Phone Num:516-454-7677;516-454-7692
+CAGE:MO528
+=== Contractor Identification ===
+Company Name:ALTANA INC BYK PHARMACEUTICAL GROUP
+Address:60 BAYLIS RD
+Box:City:MELVILLE
+State:NY
+ZIP:11747-3806
+Country:US
+Phone:631-454-7677
+CAGE:60910
+Company Name:FOUGERA E & CO DIV OF ATLANTA INC
+Address:60 BAYLIS RD
+Box:City:MELVILLE
+State:NY
+ZIP:11747-3806
+Country:US
+Phone:516-454-6996
+CAGE:MO528
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:1,2-PROPANEDIOL; (PROPYLENE GLYCOL)
+CAS:57-55-6
+RTECS #:TY2000000
+Fraction by Wt: 10%
+
+Ingred Name:PROPYLENE OXIDE  (SARA III)
+CAS:75-56-9
+RTECS #:TZ2975000
+Fraction by Wt: <0.025%
+Other REC Limits:100 PPM (MFR)
+OSHA PEL:100 PPM
+ACGIH TLV:20 PPM; 9293
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:CHRONIC: MAY PRODUCE ALLERGIC RESPONSE
+    IN SENSITIVE INDIVIDUALS. INHAL: NOT LIKELY DUE TO PHYSICAL STATE
+    OF PRODUCT. EYES: MAY CAUSE SLIGHT IRRITATION. SKIN: NONE EXPECTED
+    UNDER NORMAL CONDITIONS OF U SE. INGEST: MAY CAUSE MILD NAUSEA
+    AND/OR VOMITING.
+Explanation of Carcinogenicity:PROPYLENE OXIDE :IARC-2A, NTP-2.
+Effects of Overexposure:PRACTICALLY NON-TOXIC.
+Medical Cond Aggravated by Exposure:IRRITATION OF SKIN IN SENSITIVE
+    INDIVIDUALS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH COPIOUS AMOUNTS OF WATER FOR AT LEAST 15
+    MIN. SKIN: WASH WITH PLENTY OF WATER. INGEST: GIVE TWO GLASSES OF
+    WATER AND INDUCE VOMITING. NEVER GIVE ANYTHING BY MOUTH TO AN UNCON
+    PERSON.  INHAL: REMOVE TO FRESH AIR. IF BREATHING IS DIFFICULT,
+    GIVE O*2.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:ALCOHOL FOAM, DRY CHEMICAL, CARBON DIOXIDE.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:AVOID MIXING WITH STRONG OXIDIZERS AND
+    SOURCES OF HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ASSURE SLIPPERY CONDITIONS ARE NULLIFIED. ADD
+    SAND OR DIRT. SCOOP UP AND REMOVE. DISPOSE IN ACCORDANCE WITH
+    FEDERAL, STATE AND LOCAL REGULATIONS.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINERS CLOSED WHEN NOT IN
+    USE. DO NOT HANDLE OR STORE NEAR HEAT, FLAME OR OXIDIZERS.
+Other Precautions:STORE AT ROOM TEMPERATURE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE
+    FOR EXPOSURE OF CONCERN .
+Ventilation:GENERAL VENTILATION.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:AS NEEDED TO PREVENT REPEATED/PROLONGED
+    CONTACT.
+Work Hygienic Practices:NORMAL HYGIENE.
+Supplemental Safety and Health
+PH: 4.0-7.0.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:212F,100C
+Spec Gravity:1.0@20C
+pH:SUPDAT
+Evaporation Rate & Reference:0.02 (DIETHYL ETHER REF)
+Solubility in Water:DISPERSES
+Appearance and Odor:ESSENTIALLY ODORLESS, SMOOTH, TRANSLUCENT GEL THAT
+    HAS SLIGHT LAVENDER ODOR.
+Percent Volatiles by Volume:85
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+HEAT, FLAME AND OXIDIZERS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:MAY EMIT TOXIC FUMES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ASSURE CONFORMITY WITH APPLICABLE DISPOSAL
+    REGULATIONS. DISPOSE OF ABSORBED MATERIAL AT APPROVED INCINERATION
+    OR CHEMICAL LANDFILL WASTE DISPOSAL SITE. DISPOSE OF IN ACCORDANCE
+    WITH FEDERAL, STATE AND  LOCAL REGULATIONS .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,190 @@
+=====================  Product Identification  =====================
+
+Product ID:MIL-C-22750E #24052, F-09P351
+MSDS Date:02/11/1994
+FSC:8010
+NIIN:01-350-2678
+Kit Part:Y
+MSDS Number: BWRGV
+=== Responsible Party ===
+Company Name:SEAGRAVE COATINGS CORP OF VIRGINIA
+Address:4030 SEAGUARD AVE
+City:PORTSMOUTH
+State:VA
+ZIP:23701-2636
+Country:US
+Info Phone Num:804-488-4411
+Emergency Phone Num:804-488-4411
+CAGE:60163
+=== Contractor Identification ===
+Company Name:SHERWIN-WILLIAMS, SEAGUARD
+Address:3560 ELM AVE.
+Box:City:PORTSMOUTH
+State:VA
+ZIP:23704
+Country:US
+Phone:757-397-2223
+CAGE:60163
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CALCIUM CARBONATE (VAPOR PRESSURE 0 MM HG @ 20C)
+CAS:1317-65-3
+RTECS #:EV9580000
+Fraction by Wt: <40%
+Other REC Limits:NONE RECOMMENDED
+ACGIH TLV:10 MG/M3
+
+Ingred Name:SILICON DIOXIDE (VAPOR PRESSURE 0 MM HG @ 20C)
+CAS:14808-60-7
+RTECS #:VV7330000
+Fraction by Wt: <15%
+Other REC Limits:NONE RECOMMENDED
+ACGIH TLV:0.1 MG/M3
+
+Ingred Name:DIATOMACEOUS EARTH (VAPOR PRESSURE 0 MM HG @ 20C)
+CAS:68855-54-9
+Fraction by Wt: <5%
+Other REC Limits:NONE RECOMMENDED
+ACGIH TLV:10 MG/M3
+
+Ingred Name:AROMATIC 150 (VAPOR PRESSURE 1.0 MM HG @ 20C)
+CAS:64742-94-5
+RTECS #:SE7546500
+Fraction by Wt: <5%
+Other REC Limits:NONE RECOMMENDED
+ACGIH TLV:10 PPM; STEL 15 PPM
+
+Ingred Name:METHYL ETHYL KETONE (SARA 313) (CERCLA) (VAPOR PRESSURE
+    70.0 MM HG @ 20C)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: <15%
+Other REC Limits:NONE RECOMMENDED
+ACGIH TLV:200 PPM;STEL 300 PPM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:METHYL N-AMYL KETONE (2-HEPTANONE) (VAPOR PRESSURE 2.4 MM
+    HG)
+CAS:110-43-0
+RTECS #:MJ5075000
+Fraction by Wt: <5%
+Other REC Limits:NONE RECOMMENDED
+ACGIH TLV:50 PPM
+
+Ingred Name:EPOXY RESIN (VAPOR PRESSURE 0 MM HG @ 20C)
+CAS:25085-99-8
+Fraction by Wt: <20%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:VOC: 2.77 LG/GAL;  332 GR/LTR
+RTECS #:9999999VO
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Health Hazards Acute and Chronic:BREATHING OF HIGH VAPOR CONCENTRATIONS
+    MAY PRODUCE NARCOSIS. LIQ MAY CAUSE MINOR SKIN IRRITATN & DEFINITE
+    EYE IRRITATN. CAUSES NOSE & THROAT IRRITATN. CAUSES EYE & SKIN
+    IRRITATN. REPEATED & PROLONGED  OVEREXPOSURE TO SOLVENTS COULD
+    CAUSE PERM BRAIN & NERVOUS SYSTEM DAMAGE. CONCENTRATING & INHALING
+    CONTENTS HARMFUL/FATAL
+Explanation of Carcinogenicity:CANCER HAZARD. CONTAINS SILICA WHICH CAN
+    CAUSE CANCER (RISK OF CANCER DEPENDS ON DURATION & LEVEL OF
+    EXPOSURE).
+Medical Cond Aggravated by Exposure:PRE-EXISTING UPPER RESPIRATORY AND
+    LUNG DISEASE. UNPROTECTED EXPOSURE TO DUST LEVELS IN EXCESS OF THE
+    PEL MAY CAUSE LUNG DISEASE (SILICOSIS).
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR, RESTORE BREATHING. CONSULT 
+    PHYSICIAN. SKIN CONTACT: FLUSH WITH WATER. EYE CONTACT: FLUSH
+    IMMEDIATELY WITH LARGE AMOUNTS OF WATER. CONSULT PHYSICIAN. FIRST
+    AID: IN CAS E OF EYE CONTACT, FLUSH IMMEDIATELY WITH PLENTY OF
+    WATER FOR AT LEAST 15 MINUTES & GET IMMEDIATE MEDICAL ATTENTION.
+    FOR SKIN: WASH THOROUGHLY WITH SOAP & WATER. IF SWALLOWED: GET
+    MEDICAL AID IMMED.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:24.0F,-4.4C
+Lower Limits:1.0
+Upper Limits:17.8
+Extinguishing Media:WATER FOG, DRY CHEMICAL, FOAM, CARBON DIOXIDE,
+    ALCOHOL
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED GAS MASK FOR FIRE
+    FIGHTING PERSONNEL. WATER MAY BE USED TO COOL CONTAINERS. IF WATER
+    IS USED, FOG NOZZLES ARE PREFERRED.
+Unusual Fire/Explosion Hazard:KEEP CNTNR CLSD VAPOR MAY MIGRATE TO
+    IGNIT SOURCE & CAUSE FLASH FIRE.KEEP FROM HEAT,SPARK,ELEC
+    EQUIP,APPLIANCES,PILOT LIGHT ETC.FLAMMABLE LIQUID & VAPOR.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB WITH INERT MATERIAL & DISPOSE OF IN
+    ACCORDANCE WITH APPLICABLE REGULATIONS OF EPA AND OTHER LOCAL,
+    STATE, AND FEDERAL AUTHORITIES.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM HEAT, SPARKS, AND OPEN
+    FLAME. AVOID PROLONGED SKIN CONTACT. DO NOT BREATHE SPRAY MIST.
+    GROUND CONTAINERS WHILE POURING.
+Other Precautions:STORE IN A COOL,DRY AREA WITH VENTILATION SUITABLE
+    FOR STORING MATERIALS SHOWN IN INGREDIENTS. AVOID SPONTANEOUS
+    COMBUSTION OF CONTAMINATED RAGS OR OTHER ORGANIC MATERIALS. EMPTY
+    CONTAINERS MAY RETAIN  HAZARDOUS PROPERTIES & CAN BE DANGEROUS
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/OSHA RESPRTR FOR MAT'L IN INGREDS
+    RECOMMND.CHEM/MECHAN FILTER RECOMMND IF VENT RESTRICTD.DON'T
+    BREATH(DUST,VAPOR,SPRAY MIST).WEAR RESPRTR(NIOSH/MSHA)DURING/AFTER
+    APPLICATN UNLESS MONITORING BELO W PEL/TLV.FOLLOW RSPRTR MFR'S
+    DIRECTNS.
+Ventilation:SUFFICIENT VENTILATION IN VOLUME & PATTERN TO KEEP AIR
+    CONTAMINATION BELOW PEL/TLV. USE WITH ADEQUATE VENTILATION.
+Protective Gloves:CHEM RESISTANT PLASTIC OR RUBBER
+Eye Protection:CHEMICAL GOGGLES W/SIDE SHIELDS/FACESHLD
+Other Protective Equipment:AS REQ'D TO AVOID WETTING CLOTHING,USE
+    PROTECTIVE CREAMS IF SKIN CONTACT LIKELY. EYE BATH AND SAFETY
+    SHOWER.
+Work Hygienic Practices:AVOID CONTACT W/EYES, SKIN, & CLOTHING. WASH
+    THOROUGHLY AFTER HANDLING. REMOVE & WASH CONTAMINATED CLOTHING
+    BEFORE REUSE
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:175 TO 401F
+Vapor Density:> AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:INSOLUBLE
+Appearance and Odor:SOLVENT ODOR, LIQUID
+Percent Volatiles by Volume:41.6
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:EXCESSIVE HEAT, SPARKS, OR OPEN FLAME
+Conditions to Avoid Polymerization:EXCESSIVE HEAT, SPARKS, OR OPEN
+    FLAME
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PLACE IN CLOSED CONTAINERS. DISPOSE OF PRODUCT
+    IN ACCORDANCE WITH LOCAL, COUNTY, STATE, AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

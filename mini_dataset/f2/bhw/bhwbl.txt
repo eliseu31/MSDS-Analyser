@@ -1,0 +1,154 @@
+=====================  Product Identification  =====================
+
+Product ID:ENAM ALKYD GLOSS LOW VOC CONTENT BLACK17038
+MSDS Date:06/10/1990
+FSC:8010
+NIIN:00-527-2050
+MSDS Number: BHWBL
+=== Responsible Party ===
+Company Name:CHEMRAY COATING CORP
+Address:209 N MICHIGAN AVE
+City:KENILWORTH
+State:NJ
+ZIP:07033
+Country:US
+Info Phone Num:201-245-1111
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+Preparer's Name:FRED ARMSTRONG
+CAGE:33832
+=== Contractor Identification ===
+Company Name:CHEMRAY COATING CORP
+Address:209 N MICHIGAN AVE
+Box:City:KENILWORTH
+State:NJ
+ZIP:07033
+Country:US
+Phone:201-245-1111
+CAGE:33832
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:STODDARD SOLVENT
+CAS:8052-41-3
+RTECS #:WJ8925000
+Fraction by Wt: 15%
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM; 9293
+
+Ingred Name:SUPER HIFLASH NAPTHA, PETROLEUM SOLVENT
+CAS:64742-95-6
+Fraction by Wt: 7%
+OSHA PEL:200 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:PM ACETATE, (ESTER SOLVENT)
+CAS:108-65-6
+RTECS #:AI8925000
+Fraction by Wt: 9%
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:MAX VOC AFTER THINNING=419 GRAMS/LITER OR 3.49 LBS/GAL
+    VOC=374 GRAMS/LITER 3.11 LBS/GAL
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Health Hazards Acute and Chronic:OVEREXPOSURE-NAUSEA, HEADACHE,
+    DIZZINESS CAUSED BY OVER INHALATION. HIGH VAPOR CONCENTRATIONS (>
+    THAN APPROXIMATELY 1000 PPM) ARE IRRITATING TO THE EYES AND THE
+    RESPIRATORY TRACT MAY CAUSE HEADACHES A ND DIZZINESS, ARE
+    ANESTHETIC, AND MAY HAVE OTHER CENTRAL NERVOUS SYSTEM EFFECTS.
+Effects of Overexposure:OVEREXPOSURE-NAUSEA, HEADACHE, DIZZINESS CAUSED
+    BY OVER INHALATION. HIGH VAPOR CONCENTRATIONS (> THAN APPROXIMATELY
+    1000 PPM) ARE IRRITATING TO THE EYES AND THE RESPIRATORY TRACT MAY
+    CAUSE HEADACHES A ND DIZZINESS, ARE ANESTHETIC, AND MAY HAVE OTHER
+    CENTRAL NERVOUS SYSTEM EFFECTS.
+Medical Cond Aggravated by Exposure:NONE GENERALLY KNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE CONTACT: FLUSH WITH WATER 15 MINUTES OR UNTIL IRRITATION
+    SUBSIDES. IF IRRITATION PERSISTS, CALL PHYSICIAN. SKIN CONTACT:
+    REMOVE CONTAMINATED CLOTHING AND WASH THOROUGHLY WITH SOAP AND
+    WATER. INHAL ATION: IF OVERCOME BY VAPORS. REMOVE TOFRESH AIR, CALL
+    PHYSICIAN. INGESTION: DO NOT INDUCE VOMITING, CALL PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:103 F/40 C
+Autoignition Temp:Autoignition Temp Text:473 F
+Lower Limits:0.7
+Upper Limits:13.1
+Extinguishing Media:CARBON DIOXIDE, FOAM, WATER FOG OR DRY CHEMICAL.
+Fire Fighting Procedures:USE AIR SUPPLIED BREATHING EQUIPMENT. COOL
+    ENCLOSED CONTINERS WITH WATER SPRAY. AVOID BREATHING VAPORS OR
+    FUMES.						.
+Unusual Fire/Explosion Hazard:IF LEAK OR SPILL HAS IGNITED, USE WATER
+    SPRAY TO DISPERSE THE VAPORS FROM FIRE FIGHTERS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL IGNITION SOURCES. KEEP FROM HEAT,
+    SPARKS AND OPEN FLAME. ADD ABSORBENT (SAND, EARTH, SAWDUST) TO
+    SPILL. VENTILATE AREA (OPEN WINDOWS, DOORS). LARGE SPILL: KEEP FROM
+    ENTERING SEWERS/WATERCOU RSES BY DIKING. ADVISE AUTHORITIES IF DOES
+    ENTER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM IGNITION SOURCES, KEEP
+    IN COOL, DRY, WELL VENTILATED AREAS. AVOID DIRECT SUNLIGHT AND
+    EXTREME TEMPERATURES, HOT OR COLD.
+Other Precautions:AVOID EYE, SKIN CONTACT, INHALATION &/OR INGESTION OF
+    MISTS, SPRAY OR VAPORS. AVOID BREATHING SANDING OR BLASTING DUST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE HYDROCARBON VAPOR CANISTER OR SUPPLIED AIR
+    RESPIRATOR IN CONFINED AREAS.
+Ventilation:LOCAL EXHAUST: FACE VELOCITY 60FPM. SPECIAL: USE ONLY
+    W/ADEQUATE VENTILATION. MECHANICAL: USE EXPLOSION PROOF EQUIPMENT.
+Protective Gloves:CHEMICAL RESISTANT.
+Eye Protection:SPLASH GOGGLES OR FACE SHIELD.
+Other Protective Equipment:USE CHEMICAL RESISTANT APRON OR CLOTHING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:308F,153C
+Melt/Freeze Pt:M.P/F.P Text:O F(-17.8C)
+Decomp Temp:Decomp Text:600 F(316C)
+Vapor Pres:<10 @ 68 F
+Vapor Density:4.8 @ 77 F
+Spec Gravity:1.042 (H2O=1)
+Viscosity:70-85@77FKREB
+Evaporation Rate & Reference:0.09 (BUTYL ACETATE=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:BLACK COLOR LIQUID WITH KEROSENE ODOR.
+Percent Volatiles by Volume:41
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CAN REACT WITH OXIDIZING MATERIAL WHEN HEATED TO DECOMPOSITION.
+Stability Condition to Avoid:HIGH TEMPERATURES.
+Hazardous Decomposition Products:CARBON MONOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ASSURE CONFORMITY WITH APPLICABLE DISPOSAL
+    REGULATIONS. DISPOSE OF ABSORBED MATERIAL AT AN APPROVED DISPOSAL
+    SITE OR FACILITY. DISPOSE IN CONFORMITY WITH STATE AND FEDERAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

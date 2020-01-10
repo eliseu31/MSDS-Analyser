@@ -1,0 +1,202 @@
+=====================  Product Identification  =====================
+
+Product ID:DTE OIL EXTRA HEAVY, 600205-00
+MSDS Date:01/14/1992
+FSC:9150
+NIIN:01-012-8684
+MSDS Number: BWRCF
+=== Responsible Party ===
+Company Name:MOBILE OIL CORP
+Address:3225 GALLOWS RD
+City:FAIRFAX
+State:VA
+ZIP:22037
+Country:US
+Info Phone Num:800-662-4525
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+CAGE:LO172
+=== Contractor Identification ===
+Company Name:MOBIL OIL CORP ENVIRONMENTAL AFFAIRS & TOXICOLOGY
+Address:PENNINGTON-ROCKY HILL RD
+Box:City:PENNINGTON
+State:NJ
+ZIP:08534
+Country:US
+CAGE:0AHK0
+Company Name:MOBILE OIL CORP
+Address:3225 GALLOWS RD
+Box:City:FAIRFAX
+State:VA
+ZIP:22037
+Phone:703-849-3265
+CAGE:LO172
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BASE LUBRICATING OIL MIXTURE; )BASE OIL (CONTAINS 2 OR MORE
+    OF INGS 2-5))
+Fraction by Wt: >95%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:MINERAL OIL, PETROLEUM DISTILLATES, HYDROTREATED (SEVERE),
+    HEAVY PARAFFINIC
+CAS:64742-54-7
+RTECS #:PY8035501
+Fraction by Wt: >95%
+OSHA PEL:5 MG/M3 (OIL MIST)
+ACGIH TLV:5 MG/M3 (OIL MIST)
+
+Ingred Name:SOLVENT DEWAXED RESIDUAL OIL (PETROLEUM)
+CAS:64742-62-7
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:MINERAL OIL
+CAS:72623-83-7
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:MINERAL OIL, PETROLEUM DISTILLATE, SOLVENT DEWAXED
+    (SEVERE), HEAVY PARAFFINIC
+CAS:64742-65-0
+RTECS #:PY8038501
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:MINERAL OIL, HYDROTREATED (SEVERE), HEAVY NAPHTHENIC
+    DISTILLATE, PETROLEUM
+CAS:64742-52-5
+RTECS #:PY8035001
+Fraction by Wt: 0.01%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:MINERAL OIL, PETROLEUM DISTILLATES, HYDROTREATED (SEVERE),
+    LIGHT NAPHTHENIC
+CAS:64742-53-6
+RTECS #:PY8036001
+Fraction by Wt: 0.01%
+OSHA PEL:5 MG/M3 (OIL MIST)
+ACGIH TLV:5 MG/M3 (OIL MIST)
+
+Ingred Name:SUPDAT:TREATED SAWDUST, DIATOMACEOUS EARTH, ETC. SHOVEL UP
+    & DISPOSE OF @ APPROP WASTE DISP FACILITY I/A/W (ING 9)
+RTECS #:9999999ZZ
+
+Ingred Name:ING 8:CURRENT APPLIC LAWS & REGS, AND PROD CHARACTERISTICS
+    AT TIME OF DISPOSAL.
+RTECS #:9999999ZZ
+
+Ingred Name:WASTE DISP METH:IS SUITABLE FOR PROCESSING BY APPRVD
+    RECYCLING FACILITY OR CAN BE DISPOSED OF @ ANY GOVT APPRVD (ING 11)
+RTECS #:9999999ZZ
+
+Ingred Name:ING 10:WASTE DISP FACILITY. USE OF THESE METH IS SUBJECT TO
+    USER COMPLIANCE W/APPLIC LAWS & REGS & CONSIDERATION(ING 12)
+RTECS #:9999999ZZ
+
+Ingred Name:ING 11:OF PROD CHARACTERISTICS AT TIME OF DISPOSAL.
+RTECS #:9999999ZZ
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:SLIGHT SKIN IRRITATION. SEVERELY
+    SOLV REFINED & SEVERELY HYDROTREATED MINERAL BASE OILS HAVE BEEN
+    TESTED @ MOBIL ENVIRON & HLTH SCIENCES LAB BY DERMAL APPLIC TO RATS
+    5 DAYS/WEEK FOR 90 DAYS @ DO SES SIGNIFICANTLY HIGHER THAN THOSE
+    EXPECTED DURING NORMAL INDUS EXPOS. EXTENSIVE EVAL INCLDG (EFTS OF
+    OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ:MICOSCOPIC EXAMINATION OF INTERNAL
+    ORGAN & CLINICAL CHEMISTRY OF BODY FLUIDS, SHOWED NO ADVERSE EFTS.
+    BASE OILS IN PROD ARE SEVERELY SOLV REFINED AND/OR SEVERELY
+    HYDROTREATED.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:REMOVE TO FRESH AIR. SUPPORT BREATHING (GIVE O*2/ARTF
+    RESP) . EYES:FLUSH THORO W/WATER FOR @ LEAST 15 MINS. IF IRRIT
+    PERSISTS, CALL PHYS. SKIN:WASH CONT AREAS W/SOAP & WATER. INGEST:IF
+    UNC OMFORTABLE SEEK MEDICAL ASSISTANCE. SKIN:WASH WITH SOAP &
+    WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:>440F,>227C
+Lower Limits:0.6%
+Upper Limits:7.0%
+Extinguishing Media:CARBON DIOXIDE, FOAM, DRY CHEMICAL & WATER FOG.
+Fire Fighting Procedures:NIOSH/MSHA APPRVD SCBA & FULL PROT EQUIP .
+    WATER/FOAM MAY CAUSE FROTHING. USE WATER TO KEEP FIRE EXPOS CNTNRS
+    COOL. WATER SPRAY MAY BE USED TO (SUPDAT)
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ENVIRON IMPACT:RPT SPILLS AS REQD TO APPROP
+    AUTH. U.S. COAST GUARD REGS REQ IMMED RPTG OF SPILLS THAT COULD
+    REACH ANY WATERWAY INCLDG INTERMITTENT DRY CREEKS. RPT SPILL TO
+    COAST GUARD TOLL FREE NUMBER  (800)424-8802. IN CASE OF
+    ACCIDENT/ROAD (SUPDAT)
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NO SPECIAL PRECAUTIONS REQUIRED.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NO SPEC REQUIREMENTS UNDER ORDINARY CNDTNS OF
+    USE & W/ADEQ VENT. NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN .
+Ventilation:NO SPECIAL REQUIREMENTS UNDER ORDINARY CNDTNS OF USE AND
+    W/ADEQ VENTILATION.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEM SAFETY GOGGLES 
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:GOOD PERSONAL HYGIENE PRACTICES SHOULD ALWAYS
+    BE FOLLOWED.
+Supplemental Safety and Health
+FIRE FIGHT PROC:FLUSH SPILLS AWAY FROM EXPOS. PVNT RUNOFF FROM FIRE
+    CONTROL/DILUTION FROM ENTERING STREAMS, SEWERS, OR DRINKING WATER
+    SUPPLY. SPILL RELEASE:SPILL NOTIFY CHEMTREC (800)424-9300. MATL RE
+    LEASED/SPILLED:ABSORB ON FIRE RETARDANT(ING 8)
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>600F,>316C
+Vapor Pres:<0.1 @20C
+Vapor Density:0.885
+Evaporation Rate & Reference:NOT KNOWN
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:DARK AMBER LIQUID, MILD ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS.
+Stability Condition to Avoid:EXTREME HEAT.
+Hazardous Decomposition Products:CARBON MONOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISP MUST BE I/A/W FED, ST & LOCAL REGS . PROD
+    IS SUITABLE FOR BURNING IN AN ENCLOSED, CONTROLLED BURNER FOR FUEL
+    VALUE/DISP BY SUPERVISED INCIN. SUCH BURNING MAY BE LIM PURSUANT TO
+    RESOURCE CON SERVATION & RECOVERY ACT. IN ADDTN, PROD (ING 10)
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

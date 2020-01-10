@@ -1,0 +1,116 @@
+=====================  Product Identification  =====================
+
+Product ID:SULFUR HEXAFLUORIDE
+MSDS Date:01/01/1987
+FSC:6830
+NIIN:00-817-2342
+MSDS Number: BLPFX
+=== Responsible Party ===
+Company Name:SCOTT SPECIALTY GASES
+Address:ROUTE 611 NORTH
+Box:D-11
+City:PLUMSTEADVILLE
+State:PA
+ZIP:18949
+Country:US
+Info Phone Num:215-766-8861 OR REGIONAL PHONE #
+Emergency Phone Num:215-766-8861
+CAGE:51847
+=== Contractor Identification ===
+Company Name:SCOTT SPECIALTY GASES
+Address:6141 EASTON RD (6141 ROUTE 611)
+Box:310
+City:PLUMSTEADVILLE
+State:PA
+ZIP:18934
+Country:US
+Phone:215-766-8861/ FAX: 215-766-0416
+CAGE:51847
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SULFUR HEXAFLUORIDE
+CAS:2551-62-4
+RTECS #:WS4900000
+Fraction by Wt: 100%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:1000 PPM
+ACGIH TLV:1000 PPM; 9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:UNCONSCIOUSNESS DUE TO ASHPYXIA.
+Effects of Overexposure:UNCONSCIOUSNESS DUE TO ASPHYXIA PRECEDED BY
+    NAUSEA, ACCELERATED PULSE RATE, FATIGUE.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:REMOVE TO FRESH AIR. RESTORE AND/OR SUPPORT BREATHING AS
+    NECESSARY. PROVIDE OXYGEN IF AVAILABLE.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE WHAT IS APPROPRIATE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:USE WATER SPRAY TO KEEP CONTAINERS COOL.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA. REMOVE SOURCES OF HEAT. LEAK
+    CAN BE DETECTED BY STANDARD FLUOROCARBON DETECTING DEVICE.
+    DECOMPOSITION PRODUCTS OF SF6 MAY BE ABSORBED ON A 50-50 MIXTURE OF
+    SODA LIME AND ACTIVATED ALUM INA. REMOVE LEAKING CONTAINERS
+    OUTDOORS.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL DRY WELL-VENTILATED AREA
+    AWAY FROM FLAMMABLE OR EXPLOSIVE MATERIALS. AVOID MOISTURE CONTACT.
+    SUBJECT TO TEMPERATURES BETWEEN 130 TO -20F
+Other Precautions:DO NOT DEFACE CYLINDER OR LABELS. RETURN WITH
+    POSITIVE PRESSURE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:SELF-CONTAINED BREATHING APPARATUS.
+Ventilation:LOCAL AND MECHANICAL EXHAUST RECOMMENDED.
+Protective Gloves:RECOMMENDED FOR HANDLING LIQUID.
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:SAFETY SHOES FOR HANDLING CYLINDERS.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:G3
+Boiling Pt:B.P. Text:-82.7F,SUBL
+Vapor Pres:22.77
+Vapor Density:5.11
+Spec Gravity:1.91
+Solubility in Water:5.40 CC/KG
+Appearance and Odor:COLORLESS, ODORLESS
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+DISILANE
+Stability Condition to Avoid:HIGH TEMPERATURES.
+Hazardous Decomposition Products:TOXIC FUMES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ALLOW GAS TO DISCHARGE AT MODERATE RATE. RETURN
+    DEFECTIVE CYLINDERS TO SUPPLIER.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

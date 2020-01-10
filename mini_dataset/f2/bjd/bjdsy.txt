@@ -1,0 +1,161 @@
+=====================  Product Identification  =====================
+
+Product ID:WRIGHT-GIEMSA STAINING SOLUTION
+MSDS Date:11/25/1985
+FSC:6550
+NIIN:00-764-4729
+Kit Part:Y
+MSDS Number: BJDSY
+=== Responsible Party ===
+Company Name:J.T.BAKER CHEMICAL CO.
+Address:222 RED SCHOOL LANE
+City:PHILLIPSBURG
+State:NJ
+ZIP:08865-2219
+Country:US
+Info Phone Num:201-859-2151
+Emergency Phone Num:201-859-2151 800-424-9300(CHEMTREC)
+CAGE:DO870
+=== Contractor Identification ===
+Company Name:BAXTER HEALTHCARE CORP
+Box:1750 R
+City:STONE MOUNTAIN
+State:GA
+ZIP:30083-1112
+Country:US
+CAGE:13134
+Company Name:J & H BERGE INC
+Address:4111 SO. CLINTON AVE
+Box:City:SOUTH PLAINFIELD
+State:NJ
+ZIP:07080-1322
+Country:US
+Phone:908-561-1234
+CAGE:25518
+Company Name:J.T.BAKER CHEMICAL CO.
+Address:222 RED SCHOOL LANE
+City:PHILLIPSBURG
+State:NJ
+ZIP:08865-2219
+Country:US
+Phone:201-859-2151
+CAGE:DO870
+Company Name:MALLINCKRODT BAKER,  INC.
+Address:222 RED SCHOOL LANE
+Box:City:PHILLIPSBURG
+State:NJ
+ZIP:08865
+Country:US
+Phone:800-582-2537
+CAGE:70829
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WRIGHT'S STAIN
+CAS:68988-92-1
+Fraction by Wt: 0-1%
+
+Ingred Name:GIEMSA STAIN
+CAS:51811-82-6
+Fraction by Wt: 0-1%
+
+Ingred Name:METHYL ALCOHOL (METHANOL)  (SARA III)
+CAS:67-56-1
+RTECS #:PC1400000
+Fraction by Wt: 90-100%
+OSHA PEL:S,200PPM/250STEL
+ACGIH TLV:S,200PPM/250STEL; 93
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50(ORAL RAT) 5628 MG/KG
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:VAPORS MAY BE IRRITATING TO SKIN,
+    EYES, NOSE AND THROAT.  LIQUID MAY CAUSE DERMATITIS. INHALE:MAY BE
+    HARMFUL OR FATAL. INGEST:MAY CAUSE BLINDNESS.
+Explanation of Carcinogenicity:NONE SPECIFIED BY MANUFACTURER.
+Effects of Overexposure:NONE SPECIFIED BY MANUFACTURER.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGEST:IF CONSCIOUS,IMMED INDUCE VOMITING. INHALE:REMOVE TO
+    FRESH AIR. IF NOT BREATHING GIVE ART RESP. IF BREATHING IS
+    DIFFICULT GIVE OXYGEN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:11C 51F
+Lower Limits:36%
+Upper Limits:7.3%
+Extinguishing Media:USE ALCOHOL FOAM, DRY CHEMICAL OR CARBON DIOXIDE.
+    WATER MAY BE INEFFECTIVE.
+Fire Fighting Procedures:WEAR PROPER PROT EQUIP AND SCBA W/FULL
+    FACEPIECE OPERATED IN POS PRESS MODE.MOVE CONTR FROM FIRE AREA IF
+    CAN BE DONE W/O RISK.USE WATER TO KEEP CONTR COOL
+Unusual Fire/Explosion Hazard:VAPORS MAY FLOW ALONG SURFACES TO DISTANT
+    IGNIT SOURCES & FLASH BACK.CLOSED CONTR EXPOSED TO HEAT MAY
+    EXPLODE.CONTACT WITH STRONG OXIDIZERS MAY CAUSE FIRE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR SCBA & FULL PROT CLTHNG.SHUT OFF IGNIT
+    SOURCES;NO FLARES,SMOKING/FLAMES IN AREA.STOP LEAK IF CAN BE DONE
+    W/O RISK.USE WATER SPRAY TO REDUCE VAPS. FLUSH W/WATER.
+Neutralizing Agent:J.T.BAKER SOLUSORB*R SOLVENT ADSORBENT
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:BOND AND GROUND CONTRS WHEN
+    TRANSFERRING LIQUID. KEEP CONTR TIGHTLY CLOSED. STORE IN A
+    COOL,DRY,WELL-VENT,FLAMMABLE LIQUID STORAGE AREA.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:REQUIRED IF AIRBORNE CONCENTRATION EXCEEDS TLV.
+    AT CONC ABOVE 100 PPM, A SCBA IS ADVISED.
+Ventilation:USE GEN OR LOCAL EXHAUST VENT TO MEET TLV REQUIREMENTS
+Protective Gloves:RUBBER GLOVES
+Eye Protection:SAFETY GOGGLES AND FACE SHIELD
+Other Protective Equipment:UNIFORM,PROTECTIVE SUIT
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:65C 149F
+Melt/Freeze Pt:M.P/F.P Text:-144F,-98C
+Vapor Pres:96
+Vapor Density:1.1
+Spec Gravity:0.80
+Evaporation Rate & Reference:4.6
+Solubility in Water:COMPLETE
+Appearance and Odor:LIGHT GREEN-GRAY SOLUTION
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:HEAT, FLAME, OTHER SOURCES OF IGNITION.
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:TAKE UP W/SAND OR OTHER NON-COMBUSTIBLE
+    ABSORBENT MATL AND	PLACE INTO CONTAINER FOR DISPOSAL. DISPOSE IN
+    ACCORD W/FED, STATE, AND LOCAL ENVIRON REGS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

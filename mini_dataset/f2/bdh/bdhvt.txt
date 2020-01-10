@@ -1,0 +1,133 @@
+=====================  Product Identification  =====================
+
+Product ID:BATTERY ELECTRIC STORAGE
+MSDS Date:01/01/1987
+FSC:6140
+NIIN:00-190-6298
+MSDS Number: BDHVT
+=== Responsible Party ===
+Company Name:KEYSTONE BATTERY CORP.
+Address:35 HOLTON ST
+City:WINCHESTER
+State:MA
+ZIP:01890-1127
+Country:US
+CAGE:1L971
+=== Contractor Identification ===
+Company Name:KEYSTONE BATTERY CORP
+Address:35 HOLTON ST
+Box:City:WINCHESTER
+State:MA
+ZIP:01890-1127
+Country:US
+Phone:617-729-8333
+CAGE:1L971
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LEAD  (SARA III)
+CAS:7439-92-1
+RTECS #:OF7525000
+OSHA PEL:0.05 MG/M3;1910.1025
+ACGIH TLV:0.15 MG/M3;DUST 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:ANTIMONY  (SARA III)
+CAS:7440-36-0
+RTECS #:CC4025000
+Fraction by Wt: 0-4%.
+OSHA PEL:0.5 MG/M3
+ACGIH TLV:0.5 MG SB/M3; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:SULFURIC ACID  (SARA III)
+CAS:7664-93-9
+RTECS #:WS5600000
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:EYES/NOSE/THROAT: ACID CAN IRRITATE-BURN;
+    BREATHNG PRODUCES RESPIRATORY DIFFICULTY; SKIN:IRRIT/BURNS
+
+=======================  First Aid Measures  =======================
+
+First Aid:1)FLUSH CONTCTD AREA W/LARGE AMTS. OF WATER -@LEAST 15 MIN.
+    REMOVE CONTAMINATED CLOTHNG.-OBTAIN MEDICAL ATTN. 2) IF
+    SWALLOWED,GIVE LARGE VOLUMES OF WATER -DONOT INDUCE VOMITING,OBTAIN
+    MEDICAL TREATMEN T. EYEWASH & SHOWER STATIONS SHOULD BE AVAILABLE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:CLASS ABC EXTINGUISHER, CO*2 AND/OR HALON
+Fire Fighting Procedures:COOL EXTERIOR OF BATTERY TO PRVNT RUPTURE; USE
+    SCBA/PRO.CLTH
+Unusual Fire/Explosion Hazard:HYDROGEN GAS PRODUCED WHILE CHARGING -
+    ELIMINATE IGNITION SOURCES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR APPROPRIATE PROTECTIVE CLOTHNG/EQUIP.
+    CONTAIN,SPILL, DILUTE SPILL CAUTIOUSLY WITH 5 OR 6 VOLUMES OF WATER
+    & NEUTRALIZE W/ SODIUM BICARBONATE, SODA ASH, OR LIME. WHEN
+    EXPOSURE LEVEL IS NOT KNOWN,W EAR NIOSH APPRVD POSITIVE PRESSURE
+    SELF-CNTD RSP
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM REACTIVE MATERIAL.
+Other Precautions:SODIUM BICARBONATE,SODA ASH,SAND OR LIME SHOULD BE
+    KEPT IN SAME GENERAL AREA FOR EMERGENCY USE. IF BATTERY CASE IS
+    BROKEN,AVOID DIRECT CONTACT WITH INTERNAL COMPONENTS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WHEN TLV EXCEED OR RESPIR.IRRITATION NOTED, USE
+    ACID GAS RESPIRATOR
+Ventilation:ACCEPTABLE @ 1 TO 4 CHANGES/ HOUR
+Protective Gloves:RUBBER,CORR RES
+Eye Protection:GOGGLES/FACE SHIELD
+Other Protective Equipment:ACID-RESISTANT APRONS,BOOTS & PROTECTIVE
+    CLOTHING.
+Supplemental Safety and Health
+MSDS DATE:UNDATED; LEAD ACID,DRY CHARGED BATTERY W/CONTAINER OF
+    ELECTROLYTE ; BULK OF MSDS INFORM. PERTAINS TO SULFURIC ACID
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C1
+Boiling Pt:B.P. Text:235F/112.8C
+Vapor Pres:13.
+Spec Gravity:1.273
+Evaporation Rate & Reference:(H*2O=1), < 1.
+Solubility in Water:1.
+Appearance and Odor:CLEAR, COLORLESS, ODORLESS
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:HI-TEMPS(CASES DECOMPOSE @
+    (322-770F/160-410C).
+Hazardous Decomposition Products:CO*2, CO
+Conditions to Avoid Polymerization:WILL NOT POLYMERIZE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PLACE IN ACID-RESISTANT CONTAINERS. DISPOSE IAW
+    FEDERAL,STATE & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

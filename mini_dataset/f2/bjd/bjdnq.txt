@@ -1,0 +1,183 @@
+=====================  Product Identification  =====================
+
+Product ID:AQUA AMMONIA
+MSDS Date:03/01/1985
+FSC:6810
+NIIN:01-018-9769
+MSDS Number: BJDNQ
+=== Responsible Party ===
+Company Name:ARCADIAN CORPORATION
+Box:265
+City:PARSIPPANY
+State:NJ
+ZIP:07054
+Country:US
+Info Phone Num:504-642-2707
+Emergency Phone Num:504-642-2773
+CAGE:JO608
+=== Contractor Identification ===
+Company Name:ARCADIAN CORPORATION
+Address:6750 POPLAR SUITE 600
+Box:265
+City:MEMPHIS
+State:TN
+ZIP:38138-7419
+Country:US
+Phone:800-524-0132
+CAGE:JO608
+Company Name:POLY RESEARCH CORPORATION
+Address:125 CORPORATE DRIVE
+Box:City:HOLTSVILLE
+State:NY
+ZIP:11742-2007
+Country:US
+Phone:516-758-0460
+CAGE:64713
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:AMMONIA  (SARA III)
+CAS:7664-41-7
+RTECS #:BO0875000
+Fraction by Wt: 28-30%
+Other REC Limits:2500-6500 PPM
+OSHA PEL:50 PPM
+ACGIH TLV:25 PPM/35 STEL; 9293
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:AMMONIUM HYDROXIDE	(SARA III)
+CAS:1336-21-6
+RTECS #:BQ9625000
+Fraction by Wt: 25-30%
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:MATL AVOID:ACETALEHYDE, ACOLEIN, BORON, BROMINE, CHLORINE,
+    CHLORITES, CHROMIUM TRIOXIDE, ETHYLENE OXIDE, FLUORINE, GOLD,
+RTECS #:9999999ZZ
+
+Ingred Name:MATL AVOID:HYPOCHLOROUS ACID, IODINE, MERCURY, NITRIC ACID,
+    NITROGEN TETROXIDE, PHOSPHOROUS TRIOXIDE, PICRIC ACID,
+RTECS #:9999999ZZ
+
+Ingred Name:SUP DAT:POTASSIUM CHLORATE, POTASSIUM FERRICYANIDE, SILVER,
+    SILVER CHLORIDE. FOR AMMONIUM HYDROXIDE: ACROLEIN, ACRYLIC
+RTECS #:9999999ZZ
+
+Ingred Name:SUP DAT:ACID, DIMETHYL SULFATE, FLUORINE, HYDROCHLORIC
+    ACID, HYDROFLUORIC ACID, IODINE, NITRIC ACID, OLEUM, PROPYLENE
+RTECS #:9999999ZZ
+
+Ingred Name:SUP DAT:OXIDE, SILVER NITRATE, SULFURIC ACID
+RTECS #:9999999ZZ
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50(ORAL)350MG/KG(RAT)
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHAL:HIGHLY IRRIT TO THROAT.CAUSES
+    EDEMA,DYSPNEA,BRONCHOSPASM,CHEST PAIN,PINK FROTHY SPUTUM.INGEST:SEV
+    BURNING OF GULLET,STOMACH,MOUTH&THROAT.POSS DEATH FROM SHOCK OR
+    ASPHYXIA.SKIN:LIQ,CORR BURNS OR  BLISTER FORMATION.GAS IRRIT MOIST
+    SKIN.EYES:LIQ,INTENSELY IRRIT,CORNEAL ULCERATION OR BLINDNESS.GAS
+    IRRITATES.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLOOD W/LARGE AMTS OF WATER.GET MD.SKIN:REMOVE CONTAMD
+    CLTH AND WASH W/LGE AMTS OF WATER.WASH CLTH BEFORE
+    RE-USE.INHAL:RESP PROT AS NEC AND REMOVE TO FRESH AIR.IF BRTHG
+    STOPS,GIVE ARTF RESP.IF BR THG DFCLT,GIVE OXYGEN.KEEP PATIENT LYING
+    DOWN.INGEST:DO NOT INDUCE VOMIT.ENCOURAGE VICTIM TO DRINK LRG AMTS
+    OF WATER,OR DILUTED VINEGAR,LEMON JUICE,ORANCE JUICE.FOLLOW W/EGG
+    WHITE,OLIVE OIL OR MILK.
+
+=====================  Fire Fighting Measures  =====================
+
+Lower Limits:16%
+Upper Limits:25%
+Extinguishing Media:WATER.
+Fire Fighting Procedures:USE WATER TO KEEP FIRE-EXPOSED CONTAINERS
+    COOL. WEAR FULL PROTECTIVE CLOTHING.
+Unusual Fire/Explosion Hazard:AVOID CARBON DIOXIDE FIRE EXTINGUISHING
+    AGENTS: MAY REACT VIOLENTLY.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVAC UNPROTECTED PERSONNEL. PROTECTED
+    PERSONNEL SHUT OFF LEAK AND IGNIT SOURCES. PROTECT PERSONNEL FROM
+    FIRE AND NH*3 GAS RISK W/WATER. FLUSH SML SPILLS W/WATER. DIKE LGE
+    SPILLS WITH INERT SOLID (SAND ). PUMP TO DRUMS. CLOSE & LABEL
+    "CORROSIVE".
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:OUTSIDE STORAGE PREFERRED. OTHER
+    STORAGE IN COOL, DRY, VENT LOCATION AWAY FROM IGNIT SOURCES &
+    OXIDIZERS. PROTECT CNTNR FROM HEAT, CORROSION&PHY DMG.
+Other Precautions:LOCATE STORAGE AREAS W/CONSIDERATION TO HEALTH & FIRE
+    HAZARDS, POPULATION DENSITY, WATER SUPPLIES. CLOSED CNTNRS MUST
+    HAVE SAFETY RELIEF VALVES AS NECESSARY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WHERE REQUIRED USE A RESPIRATOR APPROVED BY
+    NIOSH FOR AMMONIA (I.E. HEAVY HANDLING, SPILL/LEAK). FOR
+    SPILL/LEAK, NITROGEN OXIDE GASES/MISTS RESP PROT MAY BE NEEDED.
+Ventilation:PACKAGING AND UNLOADING MAY REQ MECH EXHT SYSTEMS. HANDLING
+    SHOULD BE DONE IN A CLOSED VENTILATED SYSTEM.
+Protective Gloves:ALKALI-RESISTANT GLOVES.
+Eye Protection:CHEMICAL SAFETY GOGGLES. SEE SUPP DATA.
+Other Protective Equipment:RUBBER APRON,PROTECTIVE CLOTHING.EYEWASH AND
+    QUICK-DRENCH SHOWER FACILITIES. FULL PROT CLTH UNDER SPILL/LEAK
+    CNDTNS.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+EYE PROT:HEAVY HANDLING ALSO REQ. FULL-FACE PLASTIC SHIELD IF EYES NOT
+    COVERED BY RESP DEVICE. DO NOT WEAR CONTACTS. SPECIALIZED HANDLING
+    REQ SAFETY GOGGLES W/NON-PERFORATED SIDE-SHIELDS. ADD FACE SHI ELD
+    IF POURING.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C2
+Boiling Pt:B.P. Text:80.6F,27.0C
+Melt/Freeze Pt:M.P/F.P Text:-112F,-80C
+Vapor Pres:8.1 PSIG
+Vapor Density:0.596 @60F
+Spec Gravity:0.897 @ 60F
+pH:11.6
+Evaporation Rate & Reference:<1 (ETHER = 1)
+Solubility in Water:COMPLETE
+Appearance and Odor:WATER WHITE LIQUID, STRONG, PUNGENT AMMONIA AROMA
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS, INCLUDING HALOGENS. FOR AMMONIA GAS: SEE INGREDIENTS
+    3 THRU 7.
+Stability Condition to Avoid:HEAT DECOMPOSES WITHOUT VIOLENCE IN
+    ABSENCE OF INCOMPATIBLE MATERIALS.
+Hazardous Decomposition Products:GASEOUS NH*3 ON HEATING.NORMAL COMBUST
+    PRODS OF NH*3 VAPOR ARE NITROGEN (N*2)&H*2O.OXIDES OF NITROGEN MAY
+    BE PRODUCED.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W FEDERAL, STATE AND LOCAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

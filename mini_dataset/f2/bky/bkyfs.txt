@@ -1,0 +1,107 @@
+=====================  Product Identification  =====================
+
+Product ID:AIRLIFT - FRESH
+MSDS Date:03/16/1993
+FSC:7930
+NIIN:00F018563
+MSDS Number: BKYFS
+=== Responsible Party ===
+Company Name:SPARTAN CHEMICAL CO INC
+Address:110 N WESTWOOD AVENUE
+City:TOLEDO
+State:OH
+ZIP:43607
+Country:US
+Info Phone Num:419-531-5551
+Emergency Phone Num:419-531-5551
+Preparer's Name:THOMAS J. MITCHELL
+CAGE:23212
+=== Contractor Identification ===
+Company Name:SPARTAN CHEMICAL CO INC. IPG INDUSTRIAL PRODUCTS GROUP
+Address:110 N WESTWOOD AVE
+Box:City:TOLEDO
+State:OH
+ZIP:43607
+Country:US
+Phone:800-537-8990/419-531-5551
+CAGE:23212
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HEPTANE
+CAS:142-82-5
+RTECS #:MI7700000
+Fraction by Wt: 1-5%
+Other REC Limits:400 PPM
+OSHA PEL:2000 MG/CUM
+ACGIH TLV:1640 MG/CUM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION: DRINK LARGE QUANTITIES OF WATER. EYES/SKIN: FLUSH
+    W/PLENTY OF WATER FOR AT LEAST 15 MINS. OBTAIN MEDICAL ATTENTION IN
+    ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:<0F PROPELLANT
+Extinguishing Media:WATER FOG
+Fire Fighting Procedures:USE EQUIPMENT/SHIELDING TO PROTECT PERSONNEL
+    AGAINST BURSTING, RUPTURING, VENTING CONTAINERS.
+Unusual Fire/Explosion Hazard:TEMPERATURES >54C/130F CONTAINERS MAY
+    VENT, RUPTURE, BURST.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CLEAN UP SPILLS W/ABSORBENT MATERIAL. SURFACES
+    CAN BE CLEANED W/DETERGENT & WATER. LARGEST CONTAINER IS ONE POUND.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:CONTENTS UNDER PRESSURE. DON'T USE
+    NEAR FIRE, SPARKS/FLAME. DON'T STORE WHERE TEMPERATURES COULD
+    EXCEED 54C/130F.
+Other Precautions:AVOID EYE CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:GOOD GENERAL, LOCAL EXHAUST
+Supplemental Safety and Health
+PERCENT SOLID BY WT: 3-5
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:0.99
+pH:7-7.5
+Evaporation Rate & Reference:(BU AC = 1): <1
+Solubility in Water:APPRECIABLE
+Appearance and Odor:MIST, PERFUME FRAGRANCE W/NO RESIDUE
+Percent Volatiles by Volume:SUPP
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS
+Stability Condition to Avoid:TEMPERATURES >54C/130F, FIRE, SPARKS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DON'T INCINERATE/PUNCTURE AEROSOL CONTAINER.
+    DISPOSE OF IN ACCORDANCE W/FEDERAL, STATE & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

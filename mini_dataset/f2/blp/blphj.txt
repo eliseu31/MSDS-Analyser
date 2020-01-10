@@ -1,0 +1,140 @@
+=====================  Product Identification  =====================
+
+Product ID:MEASUR-WAX
+MSDS Date:11/07/1990
+FSC:9160
+NIIN:01-086-0140
+MSDS Number: BLPHJ
+=== Responsible Party ===
+Company Name:KINDT COLLINS CO
+Address:12651 ELMWOOD AVENUE
+City:CLEVELAND
+State:OH
+ZIP:44111-5911
+Country:US
+Info Phone Num:216-252-4122
+Emergency Phone Num:216-252-4122
+Preparer's Name:PAUL A. GUINN
+CAGE:33629
+=== Contractor Identification ===
+Company Name:KINDT COLLINS CO
+Address:12651 ELMWOOD AVENUE
+Box:City:CLEVELAND
+State:OH
+ZIP:44111-5911
+Country:US
+Phone:216-252-4122/CHEMTREC 800-424-9300
+CAGE:33629
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HYDROCARBON WAX - PRECISE COMPOSITION OF THE WAX IS
+    PROPRIETARY.
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:2 MG/M3 WAX FUME
+ACGIH TLV:2 MG/M3 WAX FUME
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL RAT) IS NOT AVAILABLE
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MOLTEN WAX FUMES MAY BE MILDLY
+    IRRITATING. PRODUCT HAS A LOW LEVEL OF TOXICITY(INGESTED). MOLTEN
+    WAX WILL CAUSE THERMAL BURNS.  MFR NOTES THAT PRODUCT MEETS FDA
+    REQUIREMENTS FOR DIRECT OR INDIRECT FOO D USE.
+Explanation of Carcinogenicity:NONE OF THE COMPOUNDS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP, OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:EYE:IRRITATION.  SKIN:POSSIBLE IRRITATION,
+    THERMAL BURNS.  INHALED:UNLIKELY EXPOSURE, RESPIRATORY IRRITATION
+    FROM FUMES.  INGESTED:LOW TOXICITY, POSSIBLE G/I IRRITATION.
+Medical Cond Aggravated by Exposure:NONE GIVEN BY MANUFACTURER
+    (SUPPLIER).
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH WITH WATER FOR 15 MINUTES WHILE HOLDING EYELIDS
+    OPEN. GET MEDICAL ATTENTION. SKIN: WASH WITH SOAP & WATER. USE
+    NORMAL FIRST AID FOR ANY THERMAL BURNS.  INHALED:REMOVE TO FRESH
+    AIR. INGESTIO N:IN GENERAL, NO TREATMENT  REQUIRED. SEE DOCTOR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:435F,224C
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL. NO NOT USE DIRECT STREAM WATER. PRODUCT WILL FLOAT AND
+    REIGNITE.
+Fire Fighting Procedures:WEAR FIRE FIGHTING PROTECTIVE EQUIPMENT AND A
+    FULL FACED SELF CONTAINED BREATHING APPARATUS. EVACUATE AREA. COOL
+    FIRE EXPOSED CONTAINERS WITH WATER SPRAY.
+Unusual Fire/Explosion Hazard:COMBUSTION MAY PRODUCE HAZARDOUS
+    DECOMPOSITION PRODUCTS AND VAPORS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:MOLTEN SPILLS:ALLOW TO COOL AND TREAT AS A
+    SOLID.  USE CAUTION TO PROTECT FROM CONTACT (THERMAL BURNS). 
+    PRODUCT IS NOT READILY IGNITABLE, BUT WILL BURN.  PROTECT MOLTEN
+    WAX FORM IGNITION.
+Neutralizing Agent:NONE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY PLACE WITH
+    ADEQUATE VENTILATION. KEEP CONTAINERS TIGHTLY CLOSED WHEN NOT IN
+    USE. KEEP AWAY FROM OPEN FLAMES & HIGH TEMPERATURES.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESPIRATORY PROTECTION WILL NOT NORMALLY BE
+    REQUIRED. IF VENTILATION DOES NOT MAINTAIN INHALATION EXPOSURES
+    BELOW PEL(TLV), USE NIOSH/MSHA APPROVED RESPIRATORS AS PER CURRENT
+    29 CFR 1910.134, INSTRUCT IONS/WARNINGS.
+Ventilation:NORMAL ROOM VENTILATION IS NORMALLY SUFFICIENT.
+Protective Gloves:NONE	(PROTECT FROM THERMAL BURNS)
+Eye Protection:SAFETY GLASSES RECOMMENDED.
+Other Protective Equipment:CLOTHING AS NEEDED TO PROTECT FROM THERMAL
+    BURNS.
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES.
+Supplemental Safety and Health
+MFR HAS USED A SHELL MSDS REPLACING THE SHELL NAME & ADDRESS WITH HIS
+    OWN.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:>650F,>343C
+Melt/Freeze Pt:M.P/F.P Text:168F,76C
+Vapor Pres:<0.1
+Spec Gravity:0.917
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:PINK SOLID WAX STRIP, 1.250 IN X 0.438 IN X 0.035
+    IN, NO ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HIGH HEAT, OPEN FLAMES AND OTHER SOURCES
+    OF IGNITION
+Hazardous Decomposition Products:COMBUSTION WILL PRODUCE A MIXTURE OF
+    AIRBORNE SOLID, LIQUID PARTICULATES AND GASES (CARBON MONOXIDE &
+    CARBON DIOXIDE).
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W ALL FEDERAL, STATE AND LOCAL
+    REGULATIONS.  MANUFACTURER MAKES NO SUGGESTIONS AS TO METHOD OF
+    DISPOSAL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

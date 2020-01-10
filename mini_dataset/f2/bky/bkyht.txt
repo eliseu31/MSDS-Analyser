@@ -1,0 +1,147 @@
+=====================  Product Identification  =====================
+
+Product ID:03W77 E/S WHITE, 17925
+MSDS Date:03/10/1987
+FSC:8010
+NIIN:00-181-8281
+Kit Part:Y
+MSDS Number: BKYHT
+=== Responsible Party ===
+Company Name:DEFT INC
+Address:17451 VON KARMAN AVENUE
+City:IRVINE
+State:CA
+ZIP:92714
+Info Phone Num:(714) 474-0400
+Emergency Phone Num:(714) 474-0400
+Preparer's Name:N. GAUL
+CAGE:33458
+=== Contractor Identification ===
+Company Name:DEFT INC
+Address:17451 VON KARMAN AVE
+City:IRVINE
+State:CA
+ZIP:92714-6205
+Country:US
+Phone:800 424-9300
+CAGE:33458
+Company Name:DEFT,  INC.
+Address:17451 VON KARMAN AVE
+City:IRVINE
+State:CA
+ZIP:92614
+Country:US
+Phone:949-474-0400
+CAGE:33461
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:2-ETHOXYETHYL ACETATE (CELLOSOLVE ACETATE) (EGEEA)
+CAS:111-15-9
+RTECS #:KK8225000
+Fraction by Wt: 20%
+OSHA PEL:S,100 PPM
+ACGIH TLV:S, 5 PPM; 9192
+
+Ingred Name:ETHYL ACETATE  (SARA III)
+CAS:141-78-6
+RTECS #:AH5425000
+Fraction by Wt: 15%
+Other REC Limits:400 PPM
+OSHA PEL:400 PPM
+ACGIH TLV:400 PPM; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:VOL ORGANIC CMPD: 3.94 LB/GL (473 GR/LT)
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: IRRITATION OF THE
+    RESPIRATORY TRACT/HEADACHE/DIZZINESS/STAGGERING
+    GAIT/CONFUSION/UNCONSCIOUSNESS/COMA. SKIN: IRRITATION/ALLERGIC
+    REACTION/DRYING/DEFATTING/CRACK/DERMATITIS. EYES: IRRITATIO
+    N/TEARING/REDNESS/SWELLING/STINGING SENSATION. INGESTION:
+    IRRITATION/CORROSIVE ACTION IN THE MOUTH/DIGESTIVE TRACT.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: IRRITATION TO THE NOSE/THROAT,
+    DIFFICULT BREATHING & ASTHMA, NERVOUS SYSTEM DEPRESSION. SKIN;
+    SWELLING, REDNESS, RASH & SENSITIZATION. INGESTION: CORROSIVE
+    ACTION TO STOMACH TISSUE, CHEMIC AL PNEUMONITIS.
+Medical Cond Aggravated by Exposure:ASTHMA, RESPIRATORY DISORDERS, SKIN
+    ALLERGIES, ECZEMA, DERMATITIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. RESTORE BREATHING. SKIN:
+    WASH THOROUGHLY W/SOAP & WATER. EYES: FLUSH W/CLEAN LUKEWARM WATER
+    FOR AT LEAST 15 MINS. INGESTION: DON'T INDUCE VOMITING. DON'T GIVE
+    ANYTHING  BY MOUTH TO AN UNCONSCIOUS PERSON. VOMITING MAY CAUSE
+    ASPIRATION RESULTING IN CHEMICAL PNEUMONITIS. OBTAIN MEDICAL
+    ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:30F
+Lower Limits:1.7%
+Upper Limits:11%
+Extinguishing Media:FOAM, ALCOHOL FOAM, CO2, DRY CHEMICAL, OR WATER FOG
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS & FULL
+    PROTECTIVE CLOTHING.
+Unusual Fire/Explosion Hazard:WATER SPRAY MAY BE USED TO COOL CLOSED
+    CONTAINERS TO PREVENT PRESSURE BUILD-UP, POSSIBLE AUTOIGNITION &
+    EXPLOSION WHEN EXPOSED TO EXTREME HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACULATE PERSONNEL. VENTILATE AREA. CONTAIN &
+    REMOVE W/INERT ABSORBENT & NON-SPARKING TOOLS
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:EMPTY CONTAINERS MUST BE HANDLED
+    W/CARE DUE TO PRODUCT RESIDUE/FLAMMABLE VAPOR. STORE IN WELL
+    VENTILATED AREAS. STORE IN TIGHTLY CLOSED CONTAINERS.
+Other Precautions:KEEP CONTAINERS TIGHT/UPRIGHT TO PREVENT LEAKAGE.
+    AVOID BREATHING OF VAPORS OR SPRAY MISTS, & CONTACT W/SKIN & EYES.
+    DON'T TAKE INTERNALLY. SMOKE IN SMOKING AREA ONLY. READ/UNDERSTAND
+    SAFETY PRECAUTIO NS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESPIRATOR THAT IS RECOMMENDED OR APPROVED FOR
+    USE IN AN ORGANIC VAPOR ENVIRONMENT (AIR PURIFYING OR FRESH AIR) IS
+    NECESSARY.
+Ventilation:PROVIDE SUFFICIENT LOCAL EXHAUST VENTILATION TO KEEP AIR
+Spec Gravity:1.4
+Viscosity:*
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:INSOLUBLE
+Appearance and Odor:WHITE VISCOUS LIQUID W/SOLVENT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:SOURCES OF IGNITION SUCH AS
+    HEAT/ELECTRICAL EQUIPMENT/OPEN FLAME/HOT SURFACES, FIRE , HIGH
+    TEMPERATURES & SPARK SOURCES
+Hazardous Decomposition Products:CO, CO2, OXIDES OF NITROGEN
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. DON'T INCINERATE CLOSED CONTAINERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

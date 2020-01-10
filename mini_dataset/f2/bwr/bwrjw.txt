@@ -1,0 +1,140 @@
+=====================  Product Identification  =====================
+
+Product ID:VARFLO & VARFIL SLEEVINGS
+MSDS Date:06/25/1993
+FSC:5970
+NIIN:00-266-2261
+MSDS Number: BWRJW
+=== Responsible Party ===
+Company Name:VARFLEX CORPORATION
+Address:512 WEST COURT STREET
+City:ROME
+State:NY
+ZIP:13440
+Country:US
+Info Phone Num:315-336-4400
+Emergency Phone Num:315-336-4400
+CAGE:79074
+=== Contractor Identification ===
+Company Name:VARFLEX CORPORATION
+Address:512 WEST COURT STREET
+Box:City:ROME
+State:NY
+ZIP:13440
+Country:US
+Phone:315-336-4400
+CAGE:79074
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:FIBROUS GLASS
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:POLYVINYL CHLORIDE RESIN
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:LEAD SULFATE, TRIBASIC
+Fraction by Wt: <1.5%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:ANTIMONY TRIOXIDE  (SARA III) (ALSO:ANTIMONY OXIDE)
+CAS:1309-64-4
+RTECS #:CC5650000
+Fraction by Wt: <2.5%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:0.5 MG (SB)/M3
+ACGIH TLV:0.5 MG (SB)/M3; 9394
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:PHENOXARSINE, 10,10'-OXYDI-  (SARA III)
+CAS:58-36-6
+RTECS #:SP6800000
+Fraction by Wt: <0.1%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES:MAY CAUSE MECHANICAL
+    IRRITATION.SKIN:MAY CAUSE MECHANICAL IRRITATION.INGEST:UNLIKELY
+    ROUTE OF EXPOSURE.INHAL:DUST MAY CAUSE RESPIRATORY
+    IRRITATION.CHRONIC:NONE.
+Explanation of Carcinogenicity:THERE ARE NO INGREDIENTS ABOVE 0.1%
+    WHICH ARE IDENTIFIED AS CARCINOGENS BY NTP,IARC OR OSHA.
+Effects of Overexposure:EYES/SKIN:IRRITATION.
+Medical Cond Aggravated by Exposure:PERSONS WITH PRE-EXISTING SKIN OR
+    EYE AILMENTS MAY BE AT INCREASED RISK FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:REMOVE CONTAMINATED CLOTHING;WASH WITH SOAP AND
+    WATER.GET MEDICAL ATTENTION IF SYMPTOMS DEVELOP.EYES:FLUSH WITH
+    WATER FOR 15 MINUTES.GET MEDICAL ATTENTION IF SYMPTOMS
+    DEVELOP.INHAL:REMOVE TO FRES H AIR.GIVE OXYGEN OR ARTIFICIAL
+    RESPIRATION IF NEEDED.INGEST:UNLIKELY TO BE NEEDED.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:WATER,DRY CHEMICAL,CARBON DIOXIDE,FOAM.
+Fire Fighting Procedures:USE A SELF-CONTAINED BREATHING APPARATUS AND
+    FULL PROTECTIVE EQUIPMENT.
+Unusual Fire/Explosion Hazard:FIRE CONDITIONS MAY EVOLVE TOXIC FUMES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP OR VACUUM;DO NOT CREATE DUST;PLACE IN AN
+    APPROPRIATE CONTAINER FOR DISPOSAL.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL,DRY,WELL-VENTILATED
+    PLACE.KEEP CONTAINER CLOSED WHEN NOT IN USE.KEEP OUT OF DIRECT
+    SUNLIGHT.
+Other Precautions:FOLLOW LABEL DIRECTIONS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NEEDED IN NORMAL SERVICE.
+Ventilation:USE LOCAL EXHAUST.
+Protective Gloves:COTTON GLOVES FOR SENSITIVE SKIN.
+Eye Protection:NOT NEEDED IN NORMAL SERVICE.
+Other Protective Equipment:PROVIDE A LOCAL EYE WASH STATION.
+Work Hygienic Practices:USE REASONABLE CARE IN HANDLING THIS
+    PRODUCT.WASH HANDS AFTER USE AND BEFORE EATING.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Decomp Temp:Decomp Text:550F,288C
+Spec Gravity:1.3
+Solubility in Water:NIL
+Appearance and Odor:CYLINDRICAL FIBERGLASS BRAID,PVC COATED WITH A
+    SLIGHT ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+DIRECT CONTACT WITH SILVER AND COPPER UNDER CERTAIN CONDITIONS MAY
+    CAUSE CORROSION.
+Stability Condition to Avoid:TEMPERATURES ABOVE 500F.
+Hazardous Decomposition Products:HYDROGEN CHLORIDE(GAS).
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH FEDERAL,STATE AND
+    LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,168 @@
+=====================  Product Identification  =====================
+
+Product ID:0870B121 PRO-SEAL 870 B-2 PART B
+MSDS Date:05/04/1994
+FSC:8030
+NIIN:01-124-7622
+Kit Part:Y
+MSDS Number: BKYSH
+=== Responsible Party ===
+Company Name:COURTAULDS
+Address:5430 SAN FERNANDO ROAD
+Box:1800
+City:GLENDALE
+State:CA
+ZIP:91209
+Country:US
+Info Phone Num:818-240-2060
+Emergency Phone Num:800-424-9300 CHEMTREC/800-228-5635
+Preparer's Name:AYMAN OMAR
+CAGE:83574
+=== Contractor Identification ===
+Company Name:PRC-DESOTO INTERNATIONAL, INC. A PPG INDUSTRIES COMPANY
+Address:5430 SAN FERNANDO RD
+Box:1800
+City:GLENDALE
+State:CA
+ZIP:91209
+Country:US
+Phone:818-240-2060
+CAGE:83574
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PHENOLIC RESIN    *96-1*
+CAS:9039-25-2
+Fraction by Wt: <5%
+
+Ingred Name:2-BUTANONE (METHYL ETHYL KETONE) (MEK)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: <5%
+Other REC Limits:590 MG/CUM
+OSHA PEL:200 PPM
+ACGIH TLV:590 MG/CUM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:TITANIUM DIOXIDE, TIO2 (SUSPECTED ANIMAL CARCINOGEN, IARC
+    GROUP 3) *96-1*
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 5%
+OSHA PEL:15 MG/CUM
+ACGIH TLV:10 MG/CUM (DUST)
+
+Ingred Name:STRONTIUM CHROMATE	(SARA III)
+CAS:7789-06-2
+RTECS #:GB3240000
+Fraction by Wt: 5%
+Other REC Limits:1 UG/CUM A1
+OSHA PEL:0.1 PPM CRO3;CEILING
+ACGIH TLV:0.0005MG CR/M3;A2;93
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+Ingred Name:VOL ORGANIC CMPD: 52 G/L
+RTECS #:9999999VO
+
+Ingred Name:THIOL TERMINATED POLYETHER, POLYDITHIOETER (OR LIQ.
+    POLYSULFIDE POLYMER)    *96-1*
+CAS:68611-50-7
+
+Ingred Name:CATALYST AMORPHOUS SILICA		*96-1*
+CAS:67762-90-7
+
+Ingred Name:VOLATILE ORGANIC CONTENT: 84 GR/L (COMBINED A,B)
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:METHYL ETHYL KETONE: EYES: MAY CAUSE
+    BURNING, POSSIBLE TRANSIENT CORNEAL CLOUDING. SKIN: PROLONGED
+    EXPOSURE MAY CAUSE BURNING. INHALATION: THROAT IRRITANT. MAY BE
+    ANESTHETIC & CAUSE OTHER CNS EFFECTS.  REVERSIBLE LIVER DAMAGE IS
+    POSSIBLE ATHIGH DOSES.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:METHYL ETHYL KETONE: BURNING, TEARING,
+    REDDENING, CLOUDING, REDNESS, DRYING/CRACKING OF SKIN, COUGHING,
+    CHEST PAINS, IRRITATION, HEADACHES, DIZZINESS, DROWSINESS, NAUSEA
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/LUKE WARM WATER FOR 15 MINS. SKIN: WASH W/SOAP
+    & WATER. INHALATION: REMOVE TO FRESH AIR. OBTAIN MEDICAL ATTENTION
+    IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:80F
+Lower Limits:1.3
+Extinguishing Media:CO2, DRY CHEMICAL, FOAM, WATER
+Fire Fighting Procedures:USE AIR SUPPLIED RESPIRATOR. USE WATER TO COOL
+    HEAT EXPOSED CONTAINERS.
+Unusual Fire/Explosion Hazard:HIGH TEMPERATURES MAY CAUSE PRESSURE
+    BUILDUP IN CLOSED CONTAINERS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL IGNITION SOURCES. SCOOP INTO
+    CONTAINERS. CLEAN-UP RESIDUE WITH A SUITABLE SOLVENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER TIGHTLY CLOSED. DON'T
+    STORE >120F. GROUNDING & BONDING PROCEDURE SHOULD BE FOLLOWED WHEN
+    TRANSPORTING THIS MATERIAL.
+Other Precautions:EMPTY DRUMS MAY CONTAIN EXPLOSIVE VAPORS. DON'T CUT,
+    PUNCTURE/WELD ON/NEAR DRUM. VAPORS OF THIS PRODUCT ARE >AIR & MAY
+    COLLECT IN LOW/CONFINED AREAS. AVOID INGESTION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WHEN APPLYING IN ANY CIRCUMSTANCES LIKELY TO
+    PRODUCE AIRBORNE LEVEL IN EXCESS OF TLV, USE AN ORGANIC VAPOR
+    CARTRIDGE/AIR-SUPPLIED RESPIRATOR.
+Ventilation:GENERAL VENTILATION TO MAINTAIN VAPOR BELOW TLV.
+Protective Gloves:SOLVENT RESISTANT
+Eye Protection:SAFETY GLASSES
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING & BEFORE SMOKING
+    OR EATING.
+Supplemental Safety and Health
+KEY1:F4. THIS PRODUCT CONTAINS A TOXIC CHEMICAL OR CHEMICALS SUBJECT TO
+    THE REPORTING REQUIREMENTS OF SECTION 313 OF TITLE 111 OF THE
+    SUPERFUND AMENDMENTS AND REAUTHORIZATION ACT OF 1986.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F3
+Vapor Density:>1
+Spec Gravity:1.439
+Evaporation Rate & Reference:SLOWER THAN N-BU ACETATE
+Appearance and Odor:BEIGE THIXOTROPIC PASTE
+Percent Volatiles by Volume:11.5
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:IGNITION SOURCES
+Hazardous Decomposition Products:OXIDES OF CARBON, SULFUR DIOXIDE,
+    TRACES OF HYDROGEN SULFIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE &
+    FEDERAL REGULATIONS. EPA HAZARDOUS WASTE NO: D001 & D035.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

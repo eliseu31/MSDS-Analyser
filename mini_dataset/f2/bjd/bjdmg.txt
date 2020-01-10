@@ -1,0 +1,156 @@
+=====================  Product Identification  =====================
+
+Product ID:AUTOPOS 2000 FILM FIXER FINISHING SOLUTION
+MSDS Date:01/01/1987
+FSC:6750
+NIIN:01-293-8110
+Kit Part:Y
+MSDS Number: BJDMG
+=== Responsible Party ===
+Company Name:ALTA CHEMICAL CORP.
+Address:11526 SORRENTO VALLEY ROAD, SUITE F
+City:SAN DIEGO
+State:CA
+ZIP:92121-1314
+Country:US
+Info Phone Num:619-453-5010
+Emergency Phone Num:619-453-5010
+CAGE:8L886
+=== Contractor Identification ===
+Company Name:ALTA CHEMICAL CORP.
+Address:11526 SORRENTO VALLEY ROAD, SUITE F
+Box:City:SAN DIEGO
+State:CA
+ZIP:92121-1314
+Country:US
+Phone:619-453-5010
+CAGE:8L886
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: >90%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:AMMONIUM THIOSULFATE
+CAS:7783-18-8
+RTECS #:XN6465000
+Fraction by Wt: <8%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:SODIUM SULFITE
+CAS:7757-83-7
+RTECS #:WE2150000
+Fraction by Wt: <2%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:ACETIC ACID  (SARA III)
+CAS:64-19-7
+RTECS #:AF1225000
+Fraction by Wt: <2%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:10 PPM
+ACGIH TLV:10 PPM/15 STEL; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:SODIUM ACETATE
+CAS:126-96-5
+RTECS #:AJ4375000
+Fraction by Wt: <1%
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL RAT) IS NOT ESTABLISHED.
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: INHALATION: LOW HAZARD. EYES:
+    CAUSES IRRITATION. SKIN: CAUSES IRRITATION.
+Explanation of Carcinogenicity:NONE OF THE COMPOUNDS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP, OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:EYE & SKIN IRRITATION.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:IMMEDIATELY FLUSH WITH PLENTY OF WATER FOR 15 MINUTES
+    HOLDING EYELIDS OPEN. GET IMMEDIATE MEDICAL ATTENTION. SKIN:REMOVE
+    CONTAMINATED CLOTHING AND SHOES. WASH SKIN WITH SOAP AND WATER. GET
+    MEDICA L ATTENTION.  INGESTION: GIVE NOTHING BY MOUTH IF
+    UNCONSCIOUS. IMMEDIATELY GIVE ONE GLASS OF MILK OR WATER. INDUCE
+    VOMITING. CALL A PHYSICIAN AT ONCE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Autoignition Temp:Autoignition Temp Text:NONE
+Extinguishing Media:USE AGENT APPROPRIATE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE TO PREVENT
+    CONTACT WITH SKIN AND EYES.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH TO SEWER WITH LARGE AMOUNT OF WATER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINERS TIGHTLY CLOSED WHEN
+    NOT IN USE AND AWAY FROM ACIDS. KEEP FROM CONTACT WITH OXIDIZING
+    MATERIALS. PROTECT CONTAINERS FROM DAMAGE.
+Other Precautions:WASH THOROUGHLY AFTER HANDLING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY REQUIRED.
+Ventilation:MECHANICAL (GENERAL) ROOM VENTILATION IS NORMALLY ADEQUATE.
+Protective Gloves:NEOPRENE OR NATURAL RUBBER
+Eye Protection:SAFETY GLASSES RECOMMENDED.
+Other Protective Equipment:NONE NORMALLY REQUIRED.
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES. DO NOT WEAR CONTAMINATED CLOTHING OR
+    FOOTWEAR.
+Supplemental Safety and Health
+THIS IS PART "A" OF A 4 PART PRODUCT. SEE OTHER P/N INDS, THIS NSN FOR
+    ADDITIONAL INFORMATION.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:>212F,>100C
+Vapor Pres:18
+Vapor Density:0.6
+Spec Gravity:1.22
+pH:5.5
+Evaporation Rate & Reference:1 (WATER = 1)
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR, COLORLESS LIQUID. NO ODOR
+Percent Volatiles by Volume:95
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:FUMES OF OXIDES OF SULFUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL SHOULD BE MADE TO SANITARY SEWER IN
+    ACCORDANCE WITH ALL APPLICABLE FEDERAL, STATE AND LOCAL LAWS AND
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

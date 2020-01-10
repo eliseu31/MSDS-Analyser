@@ -1,0 +1,67 @@
+=====================  Product Identification  =====================
+
+Product ID:P164F3/5UF660VA
+MSDS Date:01/01/1985
+FSC:5910
+NIIN:00-189-2562
+MSDS Number: BDHQY
+=== Responsible Party ===
+Company Name:AEROVOX INDUSTRIES INC
+Emergency Phone Num:NONE
+CAGE:JO905
+=== Contractor Identification ===
+Company Name:AEROVOX INC.
+Address:740 BELLEVILLE AVE
+Box:City:NEW BEDFORD
+State:MA
+ZIP:02745-6010
+Country:US
+Phone:508-994-9661 / 508-994-9635
+CAGE:00656
+Company Name:AEROVOX INDUSTRIES, INC
+CAGE:JO905
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POLYCHLORINATED BIPHENYLS (PCBS)  (SARA III)
+CAS:1336-36-3
+RTECS #:TQ1350000
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:CAN BE ABSORBED THRU LUNGS,INTESTINES,SKIN
+    CAUSING CANCER,LIVER,KIDNEY,STOMACH,EYE,HEARING DISORDER
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE ASORBENT & DIKES TO PREVENT RUNOFF.ISOLATE
+    & NOTIFY PROPER AUTHORITIES
+
+======================	Handling and Storage  ======================
+
+Other Precautions:LARGE CAPACITORS OF 3 LB OR MORE PCB REQUIRE LABELS
+    IN STORAGE USE & TRANSPORTATION
+
+=============  Exposure Controls/Personal Protection  =============
+
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:Z3
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTROLLED DISPOSAL REQUIRED.CAPACITORS WITH
+    MORE THAN 3 LBS PCB REQUIRE AUTHORIZED LANDFILL OR INCINERATION
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

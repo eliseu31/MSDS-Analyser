@@ -1,0 +1,121 @@
+=====================  Product Identification  =====================
+
+Product ID:AQUATENE GM330
+MSDS Date:08/08/1988
+FSC:6850
+NIIN:00N020661
+MSDS Number: BLMCZ
+=== Responsible Party ===
+Company Name:GRAYMILLS CORP
+Address:3705 N LINCOLN AVE
+City:CHICAGO
+State:IL
+ZIP:60613
+Country:US
+Info Phone Num:312-477-4100
+Emergency Phone Num:312-248-6825
+Preparer's Name:FRANK BARR
+CAGE:26023
+=== Contractor Identification ===
+Company Name:GRAYMILLS CORP
+Address:3705 N LINCOLN AVE
+Box:City:CHICAGO
+State:IL
+ZIP:60613-3594
+Country:US
+Phone:847-256-9975/FAX 847-256-9976
+CAGE:26023
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DIPROPYLENE GLYCOL METHYL ETHER
+CAS:34590-94-8
+RTECS #:JM1575000
+Fraction by Wt: 2%
+OSHA PEL:S,100PPM/150STEL
+ACGIH TLV:S,100PPM/150STEL9192
+
+Ingred Name:DETERGENT; (ALKALINE DETERGENT)
+Fraction by Wt: 10%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:NONE.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:NONE.
+Medical Cond Aggravated by Exposure:NONE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: FLUSH WITH WATER. EYES: FLUSH WITH WATER FOR AT LEAST
+    15 MIN. SEEK MED ATTN IF IRRITATED. INHAL: REMOVE TO FRESH AIR.
+    SUPPORT BRTHG. (GIVE O*2/ARTF RESP) . INGEST: CALL MD IMMED .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:NONFLAMMABLE. MEDIA SUITABLE FOR SURROUNDING FIRE .
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WASH WITH WATER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT STORE IN ALUMINUM, COPPER OR
+    THEIR ALLOYS.
+Other Precautions:SOLUTION MAY EFFECT PLATED PARTS, USE CAUTION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE. USE NIOSH/MSHA APPROVED RESPIRATOR
+    APPROPRIATE FOR EXPOSURE OF CONCERN .
+Ventilation:NONE.
+Protective Gloves:RUBBER GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE.
+Work Hygienic Practices:USE LANOLIN CREAM IF SKIN GETS DRY.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:>210F,99C
+Melt/Freeze Pt:M.P/F.P Text:90
+Vapor Pres:0.6@20C
+Vapor Density:<1
+Spec Gravity:1
+Evaporation Rate & Reference:<BUTYL ACETATE
+Solubility in Water:100
+Appearance and Odor:AQUA COLOR-PLEASANT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACIDS.
+Stability Condition to Avoid:ADDITION OF STRONG ACIDS.
+Hazardous Decomposition Products:NONE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DILUTE TO UNDER 9.0 PH. SKIM ALL OIL FROM
+    SURFACE AND REMOVE METAL CHIPS AND SLUDGE FROM SOLUTION BEFORE
+    DISCHARGING TO SEWER. DISPOSE OF IN ACCORDANCE WITH FEDERAL, STATE
+    AND LOCAL REGULATIONS  .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

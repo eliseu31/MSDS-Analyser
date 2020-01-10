@@ -1,0 +1,159 @@
+=====================  Product Identification  =====================
+
+Product ID:24012
+MSDS Date:01/19/1987
+FSC:6850
+NIIN:00D001297
+MSDS Number: BJDLJ
+=== Responsible Party ===
+Company Name:SUPELCO INC
+Address:SUPELCO PARK
+City:BELLEFONTE
+State:PA
+ZIP:16823-0048
+Country:US
+Info Phone Num:814-359-3441
+Emergency Phone Num:814-359-3441
+CAGE:54968
+=== Contractor Identification ===
+Company Name:SIGMA-ALDRICH INC.
+Address:3050 SPRUCE STREET
+Box:14508
+City:ST. LOUIS
+State:MO
+ZIP:63103
+Country:US
+Phone:314-771-5765/414-273-3850X5996
+CAGE:54968
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYLENE CHLORIDE	(SARA III)
+CAS:75-09-2
+RTECS #:PA8050000
+Fraction by Wt: 100%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:500 PPM/C,1000; Z2
+ACGIH TLV:50 PPM, A2; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT) = 167 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: MAY CAUSE EYE & SKIN
+    IRRITATION. INHALATION MAY CAUSE RESPIRATORY TRACT IRRITATION AND
+    NARCOSIS. CENTRAL NERVOUS SYSTEM DEPRESSANT. LOSS OF CONSCIOUSNESS
+    AND EVEN DEATH CAN OCCUR AT HIGH LEVELS  OF EXPOSURE. CHRONIC:
+    PROLONGED OR REPEATED CONTACT WITH LIQUID ON THE SKIN CAN CAUSE
+    IRRITATION AND DERMATITIS.
+Explanation of Carcinogenicity:LISTED AS A SUSPECTED CARCINOGEN BY
+    IARC. (2B)
+Effects of Overexposure:HEADACHE, DIZZINESS, DROWSINESS, NAUSEA,
+    TINGLING OR NUMBNESS OF THE EXTREMITIES, SENSES OF FULLNESS IN THE
+    HEAD, SENSE OF WARMTH, STUPOR OR DULLNESS, LETHARGY AND DRUNKENESS.
+    VERY HIGH CONCENTRATIONS  MAY LEAD TO UNCONSCIOUSNESS OR EVEN DEATH
+    IN CONFINED OR POORLY VENTILATED AREAS.
+Medical Cond Aggravated by Exposure:METHYLENE CHLORIDE IS METABOLIZED
+    BY THE BODY TO CARBON MONOXIDE. THIS CAN BE SUFFICIENT TO PRODUCE A
+    SUBSTANTIAL STRESS ON THE CARDIOVASCULAR SYSTEM BY ELEVATED LEVELS
+    OF CARBONYHEMOGLOBIN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. IF NOT BREATHING, GIVE CPR.
+    IF BREATHING IS DIFFICULT, GIVE OXYGEN. CALL A PHYSICIAN. EYE:
+    FLUSH IMMEDIATELY WITH LARGE AMOUNTS OF WATER FOR 15 MINUTES. GET
+    MEDICAL AT TENTION. SKIN: REMOVE CONTAMINATED CLOTHING. WASH WITH
+    SOAP AND WATER PROMPTLY. INGESTION: DO NOT INDUCE VOMITING. GIVE
+    MILK OR WATER TO DRINK ONLY IF CONSCIOUS. GET IMMEDIATE MEDICAL
+    ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Autoignition Temp:Autoignition Temp Text:NONE
+Lower Limits:12.0
+Upper Limits:19.0
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, OR DRY CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS HYDROGEN CHLORIDE AND PHOSGENE GAS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SMALL SPILL: WIPE UP WITH RAGS OR TOWELS.
+    LARGE SPILLS: EVACUATE AREA. WEAR NIOSH APPROVED RESPIRATOR.
+    VENTILATE AREA. DIKE TO RETAIN FLUID. PUMP UP FREE LIQUID. RESIDUE
+    WILL EVAPORATE QUICKLY. DO NOT  FLUSH TO SEWER OR WATERWAY.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL-VENTILATED
+    LOCATION, AWAY FROM ANY AREA WHERE THE FIRE HAZARD MAY BE ACUTE.
+    KEEP CONTAINERS CLOSED WHEN NOT IN USE.
+Other Precautions:METHYLENE CHLORIDE VAPORS ARE HEAVIER THAN AIR AND
+    WILL COLLECT IN LOW AREAS. THIS MATERIAL OR ITS VAPORS WHEN IN
+    CONTACT WITH FLAMES, HOT GLOWING SURFACES OR ELECTRIC ARCS CAN
+    DECOMPOSE TO FORM HYDRO GEN CHLORIDE GAS AND TRACES OF PHOSGENE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IN HIGH VAPOR AREA, USE NIOSH/MSHA APPROVED
+    RESPIRATOR WITH ORGANIC VAPOR CARTRIDGE. USE SELF-CONTAINED
+    BREATHING APPARATUS IF VAPOR LEVELS EXCEED 1000 PPM. LONG-TERM OVER
+    EXPOSURE MAY CAUSE LIVER/KID NEY DAMAGE.
+Ventilation:LOCAL EXHAUST RECOMMENDED TO CONTROL VAPORS BELOW 50% OF
+    TLV.
+Protective Gloves:NEOPRENE, PVA GLOVES RECOMMENDED.
+Eye Protection:CHEMICAL SAFETY GOGGLES & FACE SHIELD.
+Other Protective Equipment:APRON AND WORK CLOTHING TO MINIMIZE
+    EXPOSURE. EYE WASH STATION & SAFETY SHOWER RECOMMENDED.
+Work Hygienic Practices:WASH THOROUGHLY AFTER USE AND BEFORE EATING,
+    SMOKING OR USING TOILET FACILITIES. DO NOT BREATH VAPORS OR MIST.
+Supplemental Safety and Health
+TARGET ORGANS ARE SKIN, CNS, CVS, AND EYES.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T4
+Boiling Pt:B.P. Text:104F,40C
+Melt/Freeze Pt:M.P/F.P Text:-143F,-97C
+Vapor Pres:349
+Vapor Density:2.93
+Spec Gravity:1.32
+Evaporation Rate & Reference:0.71 (ETHER=1)
+Solubility in Water:MODERATE
+Appearance and Odor:CLEAR, COLORLESS LIQUID. CHLOROFORM LIKE ODOR.
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, STRONG ALKALI.
+Stability Condition to Avoid:LIQUID OXYGEN OR OTHER STRONG OXIDANTS MAY
+    FORM EXPLOSIVE MIXTURES WITH METHYLENE CHLORIDE.
+Hazardous Decomposition Products:WHEN INVOLVED IN FIRE, METHYLENE
+    CHLORIDE EMITS HIGHLY TOXIC AND IRRITATING HYDROGEN CHLORIDE AND
+    PHOSGENE FUMES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTAMINATED SAWDUST, VERMICULITE OR POROUS
+    SURFACE MUST BE DISPOSED OF IN A PERMITTED HAZARDOUS WASTE
+    MANAGEMENT FACILITY. RECOVERED LIQUIDS MAY BE REPROCESSED OR
+    INCINERATED OR MUST BE TREATED IN A  PERMITTED HAZARDOUS WASTE
+    MANAGEMENT FACILITY.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,147 @@
+=====================  Product Identification  =====================
+
+Product ID:4313 SEAM SEALER
+MSDS Date:06/15/1990
+FSC:8030
+NIIN:00F019280
+MSDS Number: BLPVD
+=== Responsible Party ===
+Company Name:MARTIN-SENOUR CO/DIV SHERWIN-WILLIAMS CO
+Address:2500 S SENOUR AVE
+City:CHICAGO
+State:IL
+ZIP:60608-5724
+Info Phone Num:(216) 566-2902
+Emergency Phone Num:(216) 566-2917
+CAGE:16772
+=== Contractor Identification ===
+Company Name:MARTIN-SENOUR CO THE DIV SHERWIN-WILLIAMS CO
+Address:2500 S SENOUR AVE
+Box:City:CHICAGO
+State:IL
+ZIP:60608-5724
+Country:US
+CAGE:16772
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HYDROTREATED LIGHT DISTILLATE, PETROLEUM; C12-C15
+    ISOPARAFFINIC HYDROCARBONS
+CAS:64742-47-8
+Fraction by Wt: 10%
+Other REC Limits:300 PPM (MFR)
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS)	(SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: <5%
+Other REC Limits:100 PPM
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:SILICA, CRYSTALLINE - QUARTZ
+CAS:14808-60-7
+RTECS #:VV7330000
+Fraction by Wt: <0.5%
+Other REC Limits:0.05 MG/CUM NIOSH
+OSHA PEL:SEE TABLE Z3
+ACGIH TLV:0.1 MG/M3 RDUST;9293
+
+Ingred Name:TALC (CONTAINING NO ASBESTOS)
+CAS:14807-96-6
+RTECS #:WW2710000
+Fraction by Wt: 10%
+OSHA PEL:2 MG/M3 RDUST
+ACGIH TLV:2 MG/M3 RDUST; 9192
+
+Ingred Name:CARBONIC ACID, CALCIUM SALT (1:1), CALCIUM CARBONATE,
+    DURAMITE
+CAS:471-34-1
+RTECS #:FF9335000
+Fraction by Wt: 55%
+Other REC Limits:10 MG/CUM (DUST)
+OSHA PEL:15 MG/CUM
+ACGIH TLV:10 MG/CUM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:EYES/SKIN: IRRITATION, REDNESS,
+    ITCHING, & BURNING SENSATION. INHALATION: RESPIRATORY SYSTEM
+    IRRITATION, HEADACHE, DIZZINESS, NAUSEA. ADVERSE EFFECTS TO LIVER,
+    URINARY, & REPRODUCTIVE SYSTEMS. LUNG DA MAGE (SILICOSIS) & CANCER.
+Explanation of Carcinogenicity:QUARTZ IS A SUSPECTED HUMAN CARCINOGEN
+    BY ACGIH.
+Effects of Overexposure:EYES/SKIN: IRRITATION, REDNESS, ITCHING, &
+    BURNING SENSATION. INHALATION: RESPIRATORY SYSTEM IRRITATION,
+    HEADACHE, DIZZINESS, NAUSEA. ADVERSE EFFECTS TO LIVER, URINARY, &
+    REPRODUCTIVE SYSTEMS, LUNG DA MAGE (SILICOSIS), & CANCER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR & RESTORE BREATHING. KEEP
+    WARM & QUIET. SKIN: WASH W/SOAP & WATER. EYES: FLUSH W/PLENTY OF
+    WATER FOR 15 MINS. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:>199F
+Extinguishing Media:FOAM, CO2, & DRY CHEMICAL
+Fire Fighting Procedures:WATER SPRAY MAY BE INEFFECTIVE. IF WATER IS
+    USED, FOG NOZZLES ARE PREFERABLE. WEAR FULL PROTECTIVE CLOTHING &
+    SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:WATER SPRAY MAY BE USED TO COOL CLOSED
+    CONTAINERS TO PREVENT PRESSURE BUILD-UP, POSSIBLE AUTOIGNITION &
+    EXPLOSION WHEN EXPOSED TO EXTREME HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. VENTILATE &
+    REMOVE W/INERT ABSORBENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER CLOSED WHEN NOT IN USE.
+    TRANSFER ONLY TO APPROVED CONTAINERS W/COMPLETE & APPROPRIATE
+    LABELING. DON'T TAKE INTERNALLY.
+Other Precautions:USE ONLY W/ADEQUATE VENTILATION. AVOID BREATHING
+    VAPOR/SPRAY MIST. DON'T GET IN EYES OR ON SKIN. KEEP OUT OF THE
+    REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE PROPERLY FITTED NIOSH/MSHA APPROVED ORGANIC
+    VAPOR/PARTICULATE RESPIRATOR. WHEN SANDING OR ABRADING THE DRIED
+    FILM, WEAR A DUST MASK OR PARTICULATE RESPIRATOR.
+Ventilation:LOCAL EXHAUST OR GENERAL EXHAUST TO KEEP AIR
+Spec Gravity:1.57
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:15%/WT
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:SOURCES OF IGNITION
+Hazardous Decomposition Products:CO, & CO2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:MAY BE RCRA HAZARDOUS WASTE. TEST FOR
+    IGNITABILITY TO DETERMINE EPA HAZARDOUS WASTE NUMBERS. INCINERATE
+    IN APPROVED FACILITY ACCORDING TO FEDERAL, STATE, & LOCAL
+    REGULATIONS. DON'T INCINERATE CLOSED    CONTAINERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

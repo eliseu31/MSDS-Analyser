@@ -1,0 +1,142 @@
+=====================  Product Identification  =====================
+
+Product ID:SWD 115 COMPONENT B
+MSDS Date:08/05/1991
+FSC:8010
+NIIN:00F019362
+MSDS Number: BLPZF
+=== Responsible Party ===
+Company Name:SWD URETHANE COMPANY
+Address:222 S DATE
+City:MESA
+State:AZ
+ZIP:85210
+Info Phone Num:(602) 969-8413
+Emergency Phone Num:(602) 969-8413
+CAGE:FO963
+=== Contractor Identification ===
+Company Name:SWD URETHANE COMPANY
+Address:222 S DATE ST
+City:MESA
+State:AZ
+ZIP:85202
+Phone:(602) 969-8413
+CAGE:FO963
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ALKANOL AMINES
+Fraction by Wt: <3%
+Other REC Limits:25 PPM
+ACGIH TLV:5 PPM
+
+Ingred Name:LEAD NAPHTHENATE
+CAS:61790-14-5
+RTECS #:QK9150000
+Fraction by Wt: 0.02%
+Other REC Limits:0.10 MG/CUM
+ACGIH TLV:0.15 MG/CUM INORG PB
+
+Ingred Name:TRICHLOROFLUOROMETHANE  (CFC-11)  (SARA III)
+CAS:75-69-4
+RTECS #:PB6125000
+Fraction by Wt: <30%
+Other REC Limits:1000 PPM MSHA
+OSHA PEL:1000 PPM
+ACGIH TLV:C, 1000 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+Ozone Depleting Chemical:1
+
+Ingred Name:VM&P NAPHTHA (LIGROINE)
+CAS:8032-32-4
+RTECS #:OI6180000
+Fraction by Wt: 0.076%
+Other REC Limits:STEL 400 PPM
+OSHA PEL:300 PPM/400 STEL
+ACGIH TLV:300 PPM; 9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:SKIN: IRRITATION, RASH, REDNESS, OR
+    DRYNESS. EYES/INHALATION: IRRITATION. INGESTION: IRRITATION OF
+    MOUTH & STOMACH.
+Explanation of Carcinogenicity:LEAD IS A SUSPECTED HUMAN CARCINOGEN BY
+    ACGIH.
+Effects of Overexposure:SKIN: IRRITATION, RASH, REDNESS, & DRYNESS.
+    EYES/INHALATION: IRRITATION. INGESTION: IRRITATION TO MOUTH &
+    STOMACH.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/LARGE AMOUNTS OF WATER. SKIN: WASH THOROUGHLY
+    W/SOAP & WATER. INHALATION: REMOVE TO FRESH AIR. GIVE OXYGEN IF
+    NEEDED. INGESTION: OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:250F
+Extinguishing Media:CO2, WATER SPRAY, DRY CHEMICAL, OR CHEMICAL FOAM
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:KEEP CONTAINERS COOL TO PREVENT PRESSURE
+    BUILD-UP & POSSIBLE RUPTURE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONTAIN SPILL. ABSORB ON LOOSE, ABSORBENT
+    MATERIAL. PLACE IN OPEN CONTAINER. WASH AREA W/DETERGENT & WATER.
+    WEAR PROTECTIVE EQUIPMENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AT TEMPERATURES BETWEEN 60F &
+    90F IN A DRY, COOL PLACE TO PROTECT QUALITY. KEEP CONTAINERS
+    TIGHTLY CLOSED TO AVOID MOISTURE CONTAMINATION.
+Other Precautions:SHELF LIFE IS 6 MONTHS FROM DATE OF MANUFACTURING IN
+    SEALED DRUMS. AVOID CONTACT W/SKIN & INHALATION OF VAPORS. AVOID
+    CONTACT W/ISOCYANATES UNLESS MIXED AT PROPER RATIO. ISOCYANATES
+    ADDED TO CONTAINER S MAY CAUSE FOAMING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE CARTRIDGE RESPIRATOR FOR ORGANIC VAPORS.
+Ventilation:LOCAL EXHAUST: AS REQUIRED. MECHANICAL (GENERAL): ADEQUATE.
+Protective Gloves:RUBBER LATEX/PLASTIC CHEMICAL RESISTANT
+Eye Protection:SAFETY GLASSES OR GOGGLES
+Other Protective Equipment:EYE WASH STATIONS
+Work Hygienic Practices:KEEP AREA CLEAN.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:74F
+Vapor Density:>1
+Spec Gravity:1.05
+Evaporation Rate & Reference:(BU AC = 1): 1
+Solubility in Water:SLIGHT
+Appearance and Odor:DARK BROWN LIQUID W/SLIGHT AMINE ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ISOCYANATES (UNLESS MIXED IN PROPER RATIO)
+Stability Condition to Avoid:HIGH TEMPERATURES
+Hazardous Decomposition Products:CO2, CO, & OXIDES OF NITROGEN
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF AS A SOLID WASTE (FOAM SCRAP) BY
+    INCINERATION IN ACCORDANCE W/FEDERAL, STATE, & LOCAL ENVIRONMENTAL
+    REGULATIONS. DON'T DISCHARGE INTO GROUND, STREAMS, OR SEWERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

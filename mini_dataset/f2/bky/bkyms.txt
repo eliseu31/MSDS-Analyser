@@ -1,0 +1,149 @@
+=====================  Product Identification  =====================
+
+Product ID:655-00457 PRENTOX DIAZINON 4E
+MSDS Date:07/17/1990
+FSC:6840
+NIIN:00-782-3925
+MSDS Number: BKYMS
+=== Responsible Party ===
+Company Name:PRENTISS DRUG AND CHEMICAL CO INC
+Address:C.B. 2000
+City:FLORAL PARK
+State:NY
+ZIP:11001
+Country:US
+Info Phone Num:516-326-1919
+Emergency Phone Num:516-326-1919
+CAGE:86586
+=== Contractor Identification ===
+Company Name:PRENTISS INC
+Address:CB 2000
+Box:City:FLORAL PARK
+State:NY
+ZIP:11001
+Country:US
+Phone:516-326-1919
+CAGE:86586
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DIAZINON
+CAS:333-41-5
+RTECS #:TF3325000
+Fraction by Wt: 47.5%
+OSHA PEL:0.1 MG/CUM
+ACGIH TLV:0.1 MG/CUM (SKIN)
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:XYLENE RANGE AROMATIC SOLVENTS
+Fraction by Wt: 19.5%
+
+Ingred Name:1,2,4-TRIMETHYLBENZENE
+CAS:95-63-6
+RTECS #:DC3325000
+Fraction by Wt: 8.1%
+ACGIH TLV:25 PPM
+
+Ingred Name:1,3,5,-TRIMETHYLBENZENE
+CAS:108-67-8
+RTECS #:OX6825000
+Fraction by Wt: 2.4%
+ACGIH TLV:25 PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INGESTION: CHOLINESTERASE
+    INHIBITOR/HEADACHE/GIDDINESS/DIARRHEA/DISCOMFORT IN THE
+    CHEST/NERVOUSNESS/SWEATING/SALIVATION/UNCONTROLLABLE MUSCLE
+    TWITCHES/CONVULSIONS/LOSS OF REFLEXES & SPHINCTER CONTROL,	MIOSIS.
+    SKIN: ABSORPTION W/EFFECTS OF INGESTION. EYES: IRRITATION/TEARING.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INGESTION/ABSORPTION: CHOLINESTERASE INHIBITOR.
+Medical Cond Aggravated by Exposure:PERSONS TREATED
+    W/MORPHINE/THEOPHYLLINE/AMINOPHYLLINE/PHENOTHIAZINE DRUGS/HEMOLYTIC
+    AMEMIAS. DEPRESSION OF CHLOLINESTERASE/ALLERGIC HISTORY/DERMATITIS
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER FOR AT LEAST 15 MINS. SKIN: WASH W/SOAP &
+    WATER. INHALATION: REMOVE TO FRESH AIR. ADMINISTER ARTIFICIAL
+    RESPIRATION IF NECESSARY. INGESTION: DON'T INDUCE VOMITING. OBTAIN
+    MEDICAL A TTENTION IN ALL CASES. NOTE TO PHYSICIAN: ADMINISTER
+    ATROPINE SULFATE. DON'T GIVE MORPHINE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:122F
+Extinguishing Media:DRY CHEMICAL, CO2, FOAM, OR WATER SPRAY
+Fire Fighting Procedures:USE SELF-CONTAINED AIR SUPPLY. PREVENT SPREAD
+    OF CONTAMINATED RUNOFF. FIGHT FIRE FROM UPWIND POSITION. USE WATER
+    SPRAY TO COOL FIRE-EXPOSED CONTAINERS.
+Unusual Fire/Explosion Hazard:COMBUSTIBLE LIQUID. KEEP CONTAINERS COOL
+    TO AVOID EXPLOSIVE IGNITION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE IGNITION SOURCE. WEAR PROTECTIVE
+    CLOTHING. SOAK UP W/ABSORBENT MATERIAL/PLACE IN RECOVERY DRUM. DIKE
+    AREA TO PREVENT RUNOFF INTO NEARBY WATERWAY. WASH CONTAMINATED AREA
+    W/DETERGENT/WATER. CO LLECT RINSE FOR DISPOSAL. DON'T DRIVE OVER
+    SPILL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:PERIODICALLY INSPECT STORED MATERIALS.
+    DON'T CONTAMINATE WATER SUPPLIES. KEEP OUT OF REACH OF CHILDREN.
+    DON'T APPLY DIRECTLY TO WATER.
+Other Precautions:DON'T STORE NEAR FOOD/FEED. TOXIC TO FISH, BIRD &
+    OTHER WILDLIFE. AVOID STORAGE AT HIGH TEMPERATURES. AVOID
+    CONTAMINATION W/WATER, ACIDS & ALKALIES. USE IN WELL VENTILATED
+    AREA. AVOID INHALATION OF VA PORS, CONTACT W/SKIN & EYES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE A RESPIRATOR, SUCH AS THE WILSON 6000
+    SERIES, W/AN ORGANIC VAPOR CARTRIDGE & PESTICIDE PREFILTER.
+Ventilation:GENERAL/LOCAL EXHAUST/MECHANICAL VENTILATION TO KEEP <TLV.
+Protective Gloves:RUBBER OR PLASTIC
+Eye Protection:FACE SHIELD OR GOGGLES
+Other Protective Equipment:PROTECTIVE CLOTHING
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE. WASH THOROUGHLY AFTER HANDLING & BEFORE EATING & SMOKING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:377.6-392F
+Vapor Pres:0.5
+Spec Gravity:1.0096
+Solubility in Water:EMULSIFIES
+Appearance and Odor:LIGHT BROWN LIQUID W/FAINT ESTER/LIKE ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+WATER, ACIDS, & ALKALIES
+Stability Condition to Avoid:IGNITION SOURCES SUCH AS HIGH TEMPERATURES
+Hazardous Decomposition Products:HYDROGEN CYANIDE GAS/SUBSTITUTED
+    PYRIMIDINES/VARIOUS ALIPHATIC ORGANOPHOSPHATES/SEC-TETRAETHYL
+    PYROPHOSPHATE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:BURY IN EPA APPROVED HAZARDOUS MATERIAL LANDFILL
+    OR BURN IN AN INCINERATOR APPROVED FOR PESTICIDE DESTRUCTION IN
+    ACCORDANCE W/LOCAL, STATE & FEDERAL REGULATIONS. COMBUSTIBLE
+    LIQUID.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

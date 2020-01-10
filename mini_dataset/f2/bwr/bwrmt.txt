@@ -1,0 +1,161 @@
+=====================  Product Identification  =====================
+
+Product ID:841 5580;EKTACOLOR RA DEVELOPER REPLENISHR RT;PT.C;KAN448408
+MSDS Date:11/02/1994
+FSC:6750
+NIIN:01-384-7889
+Kit Part:Y
+MSDS Number: BWRMT
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-722-5151
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+Company Name:EASTMAN KODAK CO US CUSTOMER SERVICE/GOVERNMENT SALES
+Address:800 LEE RD
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-3129
+Country:US
+Phone:800-828-6203
+CAGE:5K871
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 60-70%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:POTASSIUM CARBONATE
+CAS:584-08-7
+RTECS #:TS7750000
+Fraction by Wt: 25-35%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:POTASSIUM HYDROXIDE (CERCLA)
+CAS:1310-58-3
+RTECS #:TT2100000
+Fraction by Wt: 1-5%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:C 2 MG/M3
+ACGIH TLV:C 2 MG/M3; 9495
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:POTASSIUM BROMIDE
+CAS:7758-02-3
+RTECS #:TS7650000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:PHOSPHONIC ACID,(1-HYDROXYETHYLIDENE)DI-
+CAS:2809-21-4
+RTECS #:SZ8562100
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHAL:EXPECTED TO BE A LOW HAZARD FOR
+    RECOMMENDED HANDLING.EYES:MAY CAUSE BURNS.SKIN:MAY CAUSE
+    IRRITATION.INGEST:MAY CAUSE GI TRACT BURNS.
+Explanation of Carcinogenicity:THERE ARE NO INGREDIENTS ABOVE 0.1%
+    WHICH ARE IDENTIFIED AS CARCINOGENS BY NTP,IARC OR OSHA.
+Effects of Overexposure:EYES/SKIN/INGEST:IRRITATION AND BURNS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:REMOVE CONTAMINATED CLOTHING;WASH WITH SOAP AND
+    WATER.EYES:FLUSH WITH WATER FOR 15 MINUTES. GET MEDICAL
+    ATTENTION.INHAL:REMOVE TO FRESH AIR.GIVE OXYGEN OR ARTIFICIAL
+    RESPIRATION IF NEEDED.INGEST: DO NOT INDUCE VOMITING.GET PROMPT
+    QUALIFIED MEDICAL ATTENTION.IF CONSCIOUS,GIVE 1-2 GLASSES OF W
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE MEDIA APPROPRIATE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:USE A SELF-CONTAINED BREATHING APPARATUS AND
+    FULL PROTECTIVE EQUIPMENT.
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE ALL SOURCES OF IGNITION. FLUSH TO
+    SEWER WITH LARGE AMOUNTS OF WATER. OTHERWISE, ABSORB SPILL WITH
+    VERMICULITE OR OTHER INERT MATERIAL, THEN PLACE IN A CONTAINER FOR
+    CHEMICAL WASTE. CLEAN SUR FACE THOROUGHLY TO REMOVE CONTAMINATION.
+Neutralizing Agent:MAY REQUIRE NEUTRALIZATION IF PH <2.0 OR >12.5
+    BEFORE FLUSHING TO SEWER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER TIGHTLY CLOSED. KEEP
+    FROM INCOMPATIBLE SUBSTANCES.
+Other Precautions:KEEP FROM CONTACT WITH OXIDIZING MATERIALS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY REQUIRED.
+Ventilation:GOOD GENERAL VENTILATION SHOULD BE USED (TYPICALLY 10 AIR
+    CHANGES PER HOUR). MATCH RATE TO CONDITIONS.
+Protective Gloves:WEAR IMPERVIOUS GLOVES.
+Eye Protection:WEAR SAFETY GLASSES WITH SIDE SHIELDS.
+Other Protective Equipment:EYE BATH, WASHING FACILITIES, SAFETY SHOWER.
+Work Hygienic Practices:WASH HANDS THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:B1
+Boiling Pt:>100.C, 212.F
+B.P. Text:>212F,>100C
+Vapor Pres:18
+Vapor Density:0.6
+Spec Gravity:1.37
+pH:>13
+Solubility in Water:COMPLETE
+Appearance and Odor:LIQUID;COLORLESS;ODORLESS.
+Percent Volatiles by Volume:60-70
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACIDS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISCHARGE, TREATMENT, OR DISPOSAL MAY BE SUBJECT
+    TO NATIONAL, STATE, OR LOCAL LAWS. FLUSH TO SEWER WITH LARGE
+    AMOUNTS OF WATER.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

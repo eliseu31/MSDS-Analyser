@@ -1,0 +1,104 @@
+=====================  Product Identification  =====================
+
+Product ID:GARNET DISCS 1 X 1
+MSDS Date:01/01/1987
+FSC:6520
+NIIN:00F018530
+MSDS Number: BKYDF
+=== Responsible Party ===
+Company Name:E C MOORE COMPANY INC
+Address:13325 LEONARD STREET
+City:DEARBORN
+State:MI
+ZIP:48126
+Info Phone Num:(313) 581-7878
+Emergency Phone Num:(313) 581-7878
+CAGE:ECMOO
+=== Contractor Identification ===
+Company Name:E C MOORE COMPANY INC
+Address:13325 LEONARD STREET
+City:DEARBORN
+State:MI
+ZIP:48126
+Phone:(313) 581-7878
+CAGE:ECMOO
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PAPER BACKING
+Fraction by Wt: <30%
+
+Ingred Name:BINDER SYSTEM MIXTURE
+Fraction by Wt: 10%
+
+Ingred Name:GARNET
+CAS:12178-41-5
+Fraction by Wt: 60%
+OSHA PEL:15 MG/CUM
+ACGIH TLV:10 MG/CUM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: COUGHING, SHORTNESS OF
+    BREATH, & DUST MAY AFFECT BREATHING CAPACITY. SKIN: ABRASIONS.
+    EYES: IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: COUGHING, SHORTNESS OF BREATH, &
+    DUST MAY AFFECT BREATHING CAPACITY. SKIN: ABRASIONS. EYES:
+    IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. GIVE CPR IF NEEDED. SKIN:
+    WASH W/LARGE AMOUNTS OF WATER. OBTAIN MEDICAL ATTENTION IN ALL
+    CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:CO2, FOAM, OR WATER.
+Fire Fighting Procedures:BACKINGS & RESIN BINDER WILL BURN OR
+    DECOMPOSE, USE RESPIRATORY PROTECTION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NORMAL CLEAN UP PROCEDURES
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NORMAL USE-HANDLE W/ADEQUATE
+    VENTILATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AS NEEDED, AN APPROVED DUST RESPIRATOR.
+Ventilation:LOCAL EXHAUST/MECHANICAL (GENERAL): RECOMMENDED
+Protective Gloves:AS NEEDED
+Eye Protection:RECOMMENDED
+Other Protective Equipment:AS NEEDED, HEARING PROTECTION
+Supplemental Safety and Health
+ELEVATED SOUND LEVELS MAY BE CREATED, WHICH AFFECT HEARING.
+
+==================  Physical/Chemical Properties  ==================
+
+Appearance and Odor:COATED ABRASIVE
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Hazardous Decomposition Products:RESIN SYSTEM FUMES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:LANDFILL IN ACCORDANCE W/LOCAL, STATE, & FEDERAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

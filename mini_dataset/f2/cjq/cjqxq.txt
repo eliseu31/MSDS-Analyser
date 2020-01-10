@@ -1,0 +1,166 @@
+=====================  Product Identification  =====================
+
+Product ID:ISO POLAR GASLINE ANTIFREEZE, PO15OPD5
+MSDS Date:07/08/1996
+FSC:NIIN:Submitter:N EN
+Status Code:A
+MSDS Number: CJQXQ
+=== Responsible Party ===
+Company Name:WARREN DISTRIBUTION, INC
+Address:2850 RIVER RD
+City:COUNCIL BLUFFS
+State:IA
+ZIP:51501
+Country:US
+Info Phone Num:402-977-5882
+Emergency Phone Num:402-677-1331
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:1C8Y9
+=== Contractor Identification ===
+Company Name:WARREN DISTRIBUTION, INC
+Address:2849 RIVER RD
+Box:City:COUNCIL BLUFFS
+State:IA
+ZIP:51501
+Country:US
+Phone:402-341-9397
+CAGE:1C8Y9
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOPROPYL ALCOHOL
+CAS:67-63-0
+RTECS #:NT8050000
+= Wt:100.
+OSHA PEL:980 MG/M3;400 PPM
+ACGIH TLV:983 MG/M3;400 PPM
+ACGIH STEL:1230 MG/M3;500 PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYE CONTACT: MAY CAUSE MODERATE
+    IRRITATION; LIQUID MAY DAMAGE EYE TISSUE IF NOT REMOVED PROPERLY.
+    SKIN CONTACT: PROLONGED OR REPEATED CONTACT MAY CAUSE DRYNESS,
+    IRRITATION, AND/OR DERMATITIS. INGESTIO N: IF TAKEN INTERNALLY IT
+    MAY CAUSE BLINDNESS.
+Effects of Overexposure:INHALATION MAY CAUSE COUGHING, SHORTNESS OF
+    BREATH, DIZZINESS, INTOXICATION, AND COLLAPSE. SKIN ABSORPTION CAN
+    RESULT IN BLURRED VISION, PHOTOPHOBIA, AND MAY CAUSE ACIDOSIS. 
+    OTHER HEALTH INFORMATION:  METHANOLTOXICITY IS ANTAGONIZED WITH
+    ETHANOL.
+Medical Cond Aggravated by Exposure:DERMATITIS, ASTHMA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH WITH RUNNING WATER FOR AT LEAST 15 MINUTES. IF
+    IRRITATION DEVELOPS, SEEK MEDICAL ATTENTION. SKIN: WASH WITH SOAP
+    AND WATER. IF IRRITATION DEVELOPS, SEEK MEDICAL ATTENTION.
+    INHALATION: REMOV E FROM EXPOSURE, SEEK MEDICAL ATTENTION
+    IMMEDIATELY. INGESTION: INDUCE VOMITING USING SYRUP OF IPECAC OR
+    THE BACK OF A SPOON. CALL PHYSICIAN, HOSPITAL EMERGENCY ROOM, OR
+    POISON CONTROL FOR INSTRUCTION S.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:=12.8C, 55.F
+Lower Limits:2.5%
+Upper Limits:12.1%
+Extinguishing Media:DRY CHEMICAL, CARBON DIOXIDE, FOAM.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT . USE WATER SPRAY TO COOL EXPOSED CONTAINERS.
+Unusual Fire/Explosion Hazard:VAPOR ARE FLAMMABLE AT LESS THAN AMBIENT
+    TEMPERATURES, AND ARE HEAVIER THAN AIR, AND THUS MAY TRAVEL ALONG
+    GROUND TO DISTANT IGNITION SOURCE AND FLASH BACK. ALSO, CONTAINERS
+    MAY RUPTURE IN INTENSE HEA T.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE AREA OF ALL UNNECESSARY PERSONNEL.
+    WEAR FULL PROTECTIVE CLOTHING AND GEAR.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE ONLY IN TIGHTLY CLOSED &
+    PROPERLY VENTED CONTAINERS AWAY FROM HEAT, SPARKS, OPEN FLAMES, &
+    STRONG OXIDIZING AGENTS. USE ONLY NON-SPARKING TOOLS. BLANKET
+    STORAGE W/DRY INERT GAS. STORE DRUMS W/BU NG IN UP POSITION.
+    CAREFULLY VENT INTERNAL PRESSURE BEFORE REMOVING CLOSURE.
+Other Precautions:GROUND CONTAINERS BEFORE TRANSFER. WILL ABSORB
+    ATMOSPHERIC PRESSURE. ELECTRICAL EQUIPMENT SHOULD CONFORM TO
+    NATIONAL ELECTRIC CODE. CARBON STEEL IS SATISFACTORY FOR MATERIAL
+    OF CONSTRUCTION. DO NOT ST ORE IN ALUMINUM OR ZINC (GALVANIZED).
+    HANDLE EMPTY DRUMS WITH CARE - VAPOR/RESIDUE MAY BE FLAMMABLE 
+    AND/OR POISONOUS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH APPROVED SELF CONTAINED BREATHING
+    APPARATUS.
+Ventilation:LOCAL EXHAUST IS RECOMMENDED AND GENERAL ROOM VENTILATION
+    IS REQUIRED.
+Protective Gloves:RUBBER GLOVES.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:EYE WASH AND DELUGE SHOWER MEETING ANSI
+    DESIGN CRITERIA . USE APRON, BOOTS, AND FULL BODY COVERING IF SKIN
+    CONTACT IS POSSIBLE.
+Work Hygienic Practices:WASH HANDS BEFORE EATING, DRINKING, SMOKING, OR
+    USING TOILET FACILITIES. PROMPTLY REMOVE SOILED CLOTHING AND WASH
+    THOROUGHLY BEFORE RE-USE. SHOW AFTER CONTACT USING PLENTY OF SOAP
+    AND WATER.
+Supplemental Safety and Health
+WORK PRACTICES/ENGINEERING CONTROLS: KEEP CONTAINERS CLOSED WHEN NOT IN
+    USE.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:=82.2C, 180.F
+Melt/Freeze Pt:=-88.3C, -127.F
+Vapor Pres:(MM HG): 33
+Vapor Density:2.1(AIR=1)
+Spec Gravity:0.789 (H*2O=1)
+Evaporation Rate & Reference:2.4 (N-BUTYL ACETATE=1)
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR LIQUID, SLIGHT ALCOHOL ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, STRONG ACIDS, STRONG BASES.
+Stability Condition to Avoid:HIGH TEMPERATURES, SPARKS AND OPEN FLAMES.
+Hazardous Decomposition Products:OR BYPRODUCTS: INCOMPLETE COMBUSTION
+    MAY YIELD CARBON MONOXIDE AND OTHER TOXIC FUMES.
+Conditions to Avoid Polymerization:HIGH TEMPERATURES, SPARKS AND OPEN
+    FLAMES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE OR OTHERWISE MANAGE AT RCRA PERMITTED
+    WASTE MANAGEMENT FACILITY. DISPOSAL MUST BE IN ACCORDANCE WITH
+    FEDERAL, STATE AND LOCAL REGULATIONS .
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:NOT REGULATED.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:SECTION 313 SUPPLIER INFORMATION: THIS
+    PRODUCT CONTAINS THE FOLLOWING TOXIC CHEMICAL SUBJECT TO THE
+    REPORTING REQUIREMENTS OF SECTION 313 OF THE EMERGENCY PLANNING AND
+    COMMUNITY RIGHT-TO-KNOW ACT OF 1 986 (40 CFR 372): COMPONENT NAME:
+    ISOPROPYL ALCOHOL. %: 100. CAS NUMBER: 67-63-0. OSHA PEL: 400PPM.
+    ACGHI TLV: 400 PPM.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

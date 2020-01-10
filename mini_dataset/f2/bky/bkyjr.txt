@@ -1,0 +1,161 @@
+=====================  Product Identification  =====================
+
+Product ID:KEROSENE
+MSDS Date:07/12/1990
+FSC:9140
+NIIN:00-242-4750
+MSDS Number: BKYJR
+=== Responsible Party ===
+Company Name:FISHER SCIENTIFIC
+Address:1 REAGENT LANE
+City:FAIR LAWN
+State:NJ
+ZIP:07410-2802
+Info Phone Num:(201) 796-7100
+Emergency Phone Num:(201) 796-7100
+CAGE:18464
+=== Contractor Identification ===
+Company Name:FISHER SCIENTIFIC
+Address:1 REAGENT LANE
+Box:City:FAIRLAWN
+State:NJ
+ZIP:07410
+Country:US
+Phone:201-796-7100
+CAGE:18464
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:KEROSENE, KEROSINE
+CAS:8008-20-6
+RTECS #:OA5500000
+Fraction by Wt: >99%
+Other REC Limits:100 MG/CUM NIOSH
+
+Ingred Name:SULFUR
+CAS:7704-34-9
+RTECS #:WS4250000
+Fraction by Wt: <1%
+
+Ingred Name:BENZENE  (SARA III)
+CAS:71-43-2
+RTECS #:CY1400000
+Fraction by Wt: <1%
+Other REC Limits:16 MG/CUM
+OSHA PEL:1PPM/5STEL;1910.1028
+ACGIH TLV:10 PPM; A2; 9192
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT) 36 GM/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN:
+    IRRITATION/DEFATTING/DRYNESS/DERMATITIS/BURNING SENSATION.
+    INHALATION: MUCOUS MEMBRANE IRRITATION/BURNING SENSATION OF THE
+    CHEST/KEROSENE ODOR BREATH/CHEMICAL PNEUMONITIS/EUPHORIA/CNS
+    DEPRESSION /HEADACHE/NAUSEA/DIZZINESS/WEAKNESS. INGESTION:
+    IRRITATION/MOUTH/ESOPHAGUS/STOMACH BURNING
+    SENSATION/VOMTIING/BELCHING.
+Explanation of Carcinogenicity:BENZENE IS A CONSIDERED TO BE A2
+    CARCINOGEN BY ACGIH.
+Effects of Overexposure:SKIN: ABSORPTION/SENSITIZATION/APLASTIC
+    ANEMIA/DEATH. INHALATION:
+    ATAXIA/DROWSINESS/COMA/CONVULSIONS/RESPIRATORY
+    ARREST/TREMOR/BRONCHITIS/PAIN/POLYEMIA. INGESTION: DIARRHEA
+    W/BLOOD-TINGED FECES/ASPIRA TION INTO LUNGS MAY CHEMICAL
+    PNEUMONITIS W/PULMONARY EDEMA/HEMORRHAGE/CONVULSIONS/CNS
+    DEPRESSION/FATAL/CYANOSIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER OR NORMAL SALINE FOR 15-20 MIN. SKIN:
+    WASH W/SOAP & WATER OR DETERGENT W/PLENTY OF WATER FOR 15-20 MIN.
+    INHALATION: REMOVE TO FRESH AIR. GIVE ARTIFICIAL RESPIRATION IF
+    BREATHING ST OPS. MAINTAIN AIRWAY/BLOOD PRESSURE & ADMINISTER
+    OXYGEN. KEEP WARM & A REST. INGESTION: GASTRIC LAVAGE W/CUFFED
+    ENDOTRACHEAL TUBE IN PLACE TO PREVENT ASPIRATION, SHOULD BE DONE
+    WITHIN 15 MIN. SEE SUPP
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:>100F
+Lower Limits:0.7%
+Upper Limits:5%
+Extinguishing Media:DRY CHEMICAL, CO2, HALON, WATER SPRAY, FOG OR
+    STANDARD FOAM
+Fire Fighting Procedures:COOL FIRE-EXPOSED CONTAINERS W/WATER FROM SIDE
+    UNTIL WELL AFTER FIRE IS OUT. USE UNMANNED HOSE HOLDER OR MONITOR
+    NOZZLES. STAY AWAY FROM STORAGE TANK ENDS.
+Unusual Fire/Explosion Hazard:VAPOR-AIR MIXTURES ARE EXPLOSIVE
+    >100F/ARE >AIR MAY TRAVEL A GREAT DISTANCE TO SOURCE OF IGNITION &
+    FLASH BACK. KEEP UPWIND. AUTO IGNITION TEMPS: 410F.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE IGNITION SOURCES. STOP LEAK IF YOU
+    CAN. USE WATER SPRAY TO REDUCE VAPORS. TAKE UP W/SAND OR OTHER
+    ABSORBENT MATERIAL & PLACE FOR DISPOSAL. NO SMOKING, FLAMES OR
+    FLARES IN HAZARD AREA. KEEP U NNECESSARY PEOPLE AWAY.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID BREATHING VAPORS & KEEP UPWIND.
+    AVOID OVERHEATED CONTAINERS MAY VIOLENTLY RUPTURE IN HEAT OR FIRE.
+    AVOID CONTAMINATION OF WATER SOURCES.
+Other Precautions:AVOID CONTACT W/SUBSTANCE & WEARING OIL SOAKED
+    CLOTHING. STORE AWAY FROM INCOMPATIBLE SUBSTANCES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED TYPE C SUPPLIED-AIR
+    RESPIRATOR W/FULL FACEPIECE IN PRESSURE-DEMAND OR OTHER POSITIVE
+    PRESSURE MODE IN COMBINATION W/AUXILIARY SELF-CONTAINED BREATHING
+    APPARATUS.
+Ventilation:LOCAL EXHAUST OR GENERAL DILUTION VENTILATION TO KEEP <TLV.
+Protective Gloves:RECOMMENDED
+Eye Protection:SPLASH/DUST RESISTANT SAFETY GOGGLES
+Other Protective Equipment:EYE WASH, OIL IMPERVIOUS CLOTHING
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING & SHOES.
+Supplemental Safety and Health
+FIRST AID- INGESTION: EMESIS CAN BE INDUCED USING SYRUP OF IPECAC OR
+    IMPAIRED GAG REFLEX. TREAT SYMPTOMATICALLY & SUPPORTIVELY. USE OF
+    EPINEPHRINE OR SIMILAR STIMULANTS MAY INDUCE VENTRICULAR FIBRILLA
+    TION.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:304-574F
+Melt/Freeze Pt:M.P/F.P Text:0F
+Vapor Pres:5
+Vapor Density:4.5
+Spec Gravity:0.8
+Solubility in Water:INSOLUBLE
+Appearance and Odor:LIGHT-BROWN, MOBILE, OILY LIQUID W/MILD PETROLEUM
+    ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZERS, NITROGEN TETROXIDE, CHLORINE, FLUORINE & MAGNESIUM
+    PERCHLORATE
+Stability Condition to Avoid:HEAT, FLAME, SPARKS OR OTHER SOURCES OF
+    IGNITION
+Hazardous Decomposition Products:TOXIC OXIDES OF CARBON
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

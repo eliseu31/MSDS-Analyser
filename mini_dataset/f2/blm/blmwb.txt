@@ -1,0 +1,162 @@
+=====================  Product Identification  =====================
+
+Product ID:CONATHANE CE-1155 PART B
+MSDS Date:03/01/1991
+FSC:5970
+NIIN:01-087-9124
+MSDS Number: BLMWB
+=== Responsible Party ===
+Company Name:CONAP INC.
+Address:1405 BUFFALO STREET
+City:OLEAN
+State:NY
+ZIP:14760
+Country:US
+Info Phone Num:716-372-9650
+Emergency Phone Num:716-372-9650
+CAGE:16245
+=== Contractor Identification ===
+Company Name:CONAP INC.,WHOLLY OWNED SUBSIDIARY OF CYTEC INDUSTRIES
+    INC.
+Address:1405 BUFFALO STREET
+Box:City:OLEAN
+State:NY
+ZIP:14760
+Country:US
+Phone:716-372-9650
+CAGE:16245
+Company Name:SPECIALTY PRODUCTS INC
+Address:1712 1ST AVE W
+Box:City:BIRMINGHAM
+State:AL
+ZIP:35208-5219
+Country:US
+CAGE:1M628
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 10 - 30%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:PROPYLENE GLYCOL METHYL ETHER ACETATE
+CAS:108-65-6
+RTECS #:AI8295000
+Fraction by Wt: 10 - 30%
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT) IS 5000 MG/KG (TOLUENE)
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE-INHALATION:CAN CAUSE NOSE &
+    THROAT IRRITATION,HEADACHE,DIZZINESS,UNCONSCIOUSNESS,COMA &
+    RESPIRATORY FAILURE.INGESTION:MODERATELY TOXIC.PULMONARY ASPIRATION
+    HAZARD IF VOMITING OCCURS.EYES:HIGHLY  IRRITATING.SKIN:MODERATELY
+    IRRITATING.REPEATED/PROLONGED CONTACT CAN CAUSE
+    DERMATITIS.CHRONIC-DERMATITIS.
+Effects of Overexposure:INHALATION CAN CAUSE NOSE & THROAT IRRITATION,
+    HEADACHE, DIZZINESS, UNCONSCIOUSNESS, COMA & RESPIRATORY FAILURE.
+    INGESTION IS MODERATELY TOXIC. PULMONARY ASPIRATION HAZARD IF
+    VOMITING OCCURS AFTER ING ESTION. HIGHLY IRRITATING TO EYES.
+    MODERATELY IRRITATING TO SKIN. REPEATED/PROLONGED SKIN CONTACT CAN
+    CAUSE DERMATITIS.
+Medical Cond Aggravated by Exposure:DISEASE OF THE CENTRAL NERVOUS
+    SYSTEM, LIVER AND SKIN
+
+=======================  First Aid Measures  =======================
+
+First Aid:OBTAIN MEDICAL ATTENTION IN ALL CASES.INGESTION:DO NOT INDUCE
+    VOMITING.DO NOT GIVE LIQUID.INHALATION:REMOVE FROM EXPOSURE.GIVE
+    CPR/OXYGEN IF NEEDED.EYE:FLUSH WITH WATER FOR 15
+    MINUTES,OCCASIONALLY LIF TING THE EYELIDS.SKIN:WASH WITH SOAP &
+    PLENTY OF WATER.REMOVE CONTAMINATED CLOTHING AND SHOES. DO NOT
+    REUSE UNTIL CLEAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:45F,7C TOLUENE
+Lower Limits:1.3
+Upper Limits:6.7
+Extinguishing Media:CARBON DIOXIDE, FOAM, OR DRY CHEMICAL.
+Fire Fighting Procedures:WEAR FIRE FIGHTING PROTECTIVE EQUIPMENT AND A
+    FULL FACED SELF CONTAINED BREATHING APPARATUS. EVACUATE AREA. COOL
+    FIRE EXPOSED CONTAINERS WITH WATER SPRAY.
+Unusual Fire/Explosion Hazard:CLOSED CONTAINERS MAY EXPLODE WHEN
+    EXPOSED TO EXTREME HEAT. VAPORS TRAVEL TO IGNITION SOURCES & FLASH
+    BACK.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION.VENTILATE THE
+    AREA.WEAR PROTECTIVE EQUIPMENTS.SHUT OFF SOURCE OF LEAK.DIKE &
+    CONTAIN LARGE SPILLS & REMOVE WITH VACUUM TRUCKS OR PUMP.SOAK UP
+    RESIDUE WITH SAND/CLAY.PICK  UP SMALL SPILLS WITH SAND/CLAY & PUT
+    IN CONTAINER
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORAGE-STORE IN A COOL,DRY,VENTILATED
+    AREA AWAY FROM HEAT,SPARKS & STRONG OXIDIZERS.
+Other Precautions:DO NOT WELD,HEAT/DRILL ON OR NEAR CONTAINER;EVEN
+    EMPTY CONTAINERS CAN CONTAIN EXPLOSIVE VAPORS. GROUND EQUIPMENT TO
+    PREVENT ACCUMULATION OF STATIC CHARGE. DO NOT BREATHE MIST OR
+    VAPOR. DO NOT GET IN E YES, ON SKIN OR ON CLOTHING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF WORKING IN CONFINED AREA, IF MISTING OR HEAVY
+    VAPORS ARE EXPECTED, OR IF EXPOSURE MAY OR DOES EXCEED RECOMMENDED
+    PERMISSIBLE EXPOSURE LIMITS (PEL), USE NIOSH-APPROVED AIR-PURIFYING
+    RESPIRATOR FOR O RGANIC VAPORS.(REFER TO 29 CFR 1910.134)
+Ventilation:USE EXPLOSION PROOF VENTILATION SUFFICIENT TO CONTROL THE
+    VAPOR CONCENTRATION.
+Protective Gloves:NEOPRENE RUBBER GLOVES
+Eye Protection:CHEMICAL GOGGLES OR FULL FACE SHIELD
+Other Protective Equipment:EYE WASH STATION & SAFETY SHOWERS SHOULD BE
+    AVAILABLE IN THE IMMEDIATE VICINITY OF ANY POTENTIAL EXPOSURE.
+Work Hygienic Practices:DO NOT WEAR CONTACT LENSES. WASH CONTAMINATED
+    CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+FORMULATION CHANGED. FOR PREVIOUS FORMULATION, SEE P/N A SAME NSN.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F3
+Vapor Pres:36.7TOLUEN
+Vapor Density:3.2TOLUENE
+Spec Gravity:0.953
+Solubility in Water:PARTIAL
+Appearance and Odor:COLORLESS, MOBILE LIQUID, BENZENE ODOR
+Percent Volatiles by Volume:33
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HIGH HEAT, OPEN FLAMES, SPARKS, OTHER
+    SOURCES OF IGNITION
+Hazardous Decomposition Products:CARBON DIOXIDE, CARBON MONOXIDE AND
+    UNIDENTIFIED COMPOUNDS MAY BE FORMED DURING COMBUSTION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH ALL APPLICABLE
+    LOCAL, STATE AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

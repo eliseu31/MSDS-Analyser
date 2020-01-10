@@ -1,0 +1,146 @@
+=====================  Product Identification  =====================
+
+Product ID:ROYCO 756D
+MSDS Date:11/27/1989
+FSC:9150
+NIIN:00-252-6383
+MSDS Number: BHWWC
+=== Responsible Party ===
+Company Name:ROYAL LUBRICANTS CO., INC.
+Address:72 EAGLE ROCK AVENUE
+Box:518
+City:EAST HAVOVER
+State:NJ
+ZIP:07936
+Country:US
+Info Phone Num:201-887-7410
+Emergency Phone Num:201-887-7411(CHEMTREC-800-424-9300)
+CAGE:07950
+=== Contractor Identification ===
+Company Name:ROYAL LUBRICANTS COMPANY INC.
+Address:215 MERRY LN
+Box:518
+City:EAST HANOVER
+State:NJ
+ZIP:07936
+Country:US
+Phone:973-887-7411/7410
+CAGE:07950
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MINERAL OIL
+CAS:64742-53-6
+RTECS #:PY8036000
+Fraction by Wt: 75-85%
+
+Ingred Name:SOLVENT REFINED LIGHT NAPHTHENIC DISTILLATE
+CAS:64641-97-5
+Fraction by Wt: 5-10%
+
+Ingred Name:POLYMERIC ADDITIVE IN OIL
+Fraction by Wt: 10-15%
+
+Ingred Name:MINOR ADDITIVES
+Fraction by Wt: 0.8%
+
+Ingred Name:BUTYLATED TRIPHENYL PHOSPHATE
+CAS:56803-37-3
+Fraction by Wt: <0.5%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: MINIMALLY IRRITATING TO THE
+    EYES. PROLONGED OR REPEATED CONTACT MAY CAUSE DERMATITIS,
+    FOLLICULITIS OR OIL ACNE TO THE DKIN. INHALING VAPORS MILDLY
+    IRRITATE THE NOSE, THROAT AND RESPIRATORY TRAC T. VOMITING IF
+    INGESTED. CHRONIC: PNEUMONITIS IF ASPIRATED AND NECROSIS IF
+    INJECTED INTO THE SKIN.
+Explanation of Carcinogenicity:NONE OF THE CHEMICALS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:PERSONS WITH A HISTORY OF SKIN AND
+    RESPIRATORY DISORDERS MAY BE AT INCREASED RISK FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE SUBJECT TO FRESH AIR. EYE: FLUSH WITH
+    PLENTY OF WATER FOR 15 MINUTES. GET IMMEDIATE MEDICAL ATTENTION.
+    SKIN: WASH WITH SOAP AND WATER. REMOVE CONTAMINATED CLOTHING.
+    INGESTION: DO NO T INDUCE VOMITING. GET IMMEDIATE MEDICAL
+    ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:225F,107C
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL. DO NOT USE A DIRECT STREAM OF WATER.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:PRODUCT WILL FLOAT AND CAN BE REIGNITED
+    ON SURFACE OF WATER. MATERIAL WILL NOT BURN UNLESS PRE-HEATED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SOAK UP RESIDUE WITH AN ABSORBENT SUCH AS
+    CLAY, SAND OR OTHER SUITABLE MATERIAL. FLUSH AREA WITH WATER TO
+    REMOVE TRACE RESIDUE.
+Neutralizing Agent:NONE APPLICABLE FOR THIS MATERIAL
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL, DRY, WELL VENTILATED
+    AREA. PROTECT FROM PHYSICAL DAMAGE, HEAT AND IGNITION SOURCES. KEEP
+    CONTAINERS CLOSED.
+Other Precautions:SURFACES THAT ARE SUFFICIENTLY HOT MAY IGNITE EVEN
+    LIQUID PRODUCT IN THE ABSENCE OF SPARKS OR FLAME.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF VENTILATION DOES NOT MAINTAIN INHALATION
+    EXPOSURES BELOW PEL (TLV), USE NIOSH/MSHA APPROVED RESPIRATOR AS
+    PER CURRENT 29 CFR 1910.134, INSTRUCTIONS/WARNINGS AND
+    NIOSH-RESPIRATOR SELECTION.
+Ventilation:MECHANICAL (GENERAL) VENTILATION IS REQUIRED. LOCAL EXHAUST
+    MAY BE REQUIRED IF WORK AREA IS NOT VENTED.
+Protective Gloves:RUBBER
+Eye Protection:CHEMICAL SAFETY GOGGLES
+Other Protective Equipment:SAFETY SHOWER AND EYE BATH. OTHER EQUIPMENT
+    AS REQUIRED TO MINIMIZE EXPOSURE FROM PROLONGED OR REPEATED
+    CONTACT.
+Work Hygienic Practices:WASH THROUGHLY AFTER HANDLING AND BEFORE
+    EATING. LAUNDER CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Spec Gravity:0.85
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:RED OIL; SLIGHT HYDROCARBON ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HIGH TEMPERATURES, SPARKS, AND OPEN FLAMES
+Hazardous Decomposition Products:CARBON MONOXIDE AND OTHER UNIDENTIFIED
+    ORGANIC COMPOUNDS MAY BE FORMED UPON COMBUSTION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH ALL APPLICABLE
+    FEDERAL, STATE AND LOCAL LAWS AND REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

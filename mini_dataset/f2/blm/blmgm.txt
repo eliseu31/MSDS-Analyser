@@ -1,0 +1,140 @@
+=====================  Product Identification  =====================
+
+Product ID:ACTIVATOR, HS9303
+MSDS Date:05/05/1988
+FSC:8030
+NIIN:00N021185
+MSDS Number: BLMGM
+=== Responsible Party ===
+Company Name:RUST-OLEUM CORP
+Address:11 HAWTHORN PARKWAY
+City:VERNON HILLS
+State:IL
+ZIP:60061
+Country:US
+Info Phone Num:312-367-7700
+Emergency Phone Num:312-367-7700; 312-864-8200
+CAGE:08882
+=== Contractor Identification ===
+Company Name:RUST-OLEUM CORP
+Address:11 HAWTHORN PARKWAY
+Box:City:VERNON HILLS
+State:IL
+ZIP:60061-1583
+Country:US
+Phone:847-367-7700
+CAGE:08882
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS)	(SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 30%
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: INHAL: HARMFUL IF INHALED. MAY
+    AFFECT THE BRAIN OR NERVOUS SYSTEM CAUSING DIZZ, HDACH, OR NAUS.
+    RPTD OVEREXPOS MAY LEAD PROGRESSIVELY TO STAG GAIT, CONFUSION,
+    UNCON OR COMA. CAUSES NOSE/ THROAT	IRRIT. SKIN/EYE: CAUSES EYE &
+    SKIN IRRIT WHICH MAY LEAD TO DERMAT W/ RPTD OVEREXPOS. INGEST: GI
+    IRRIT, (EFTS OF OVEREXP
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:HLTH HAZ: NAUS, VOMIT & DIARR. CHRONIC: REPORTS
+    HAVE SHOWN RPTD/PRLNG OCCUP OVEREXPOS TO SOLVENTS W/PERM BRAIN &
+    NERVOUS SYSTEM DAMAGE. OVEREXPOS TO XYLOL IN LAB ANIMALS HAS SHOWN
+    LIVER ABNORMALITIES,  KIDNEY, LUNG, SPLEEN & EYE DAMAGE AS WELL AS
+    ANEMIA. AFFECTS IN HUMANS HAVE SHOWN LIVER & CARDIAC ABNORMALITIES.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: REMOVE FROM EXPOSURE, RESTORE BRTHG & NOTIFY MD. EYES:
+    FLUSH IMMED W/LARGE AMOUNTS OF WATER FOR A MINIMUM OF 15 MIN.
+    NOTIFY AN MD. SKIN: WASH AFFECTED AREA W/SOAP & WATER, REMOVE
+    CONTAMINATED C LOTHING & WASH BEFORE REUSE. INGEST: DONOT INDUCE
+    VOMITING. KEEP PERSON WARM/QUIET & GET MED ATTN. ASPIRATION OF THIS
+    MATL INTO THE LUNGS CAN CAUSE CHEMICAL PNEUMONITIS WHICH CAN BE
+    FATAL.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:99.0F,37.2C
+Lower Limits:1%
+Extinguishing Media:NFPA CLASS B EXTINGUISHERS (CO2, DRY CHEMICAL OR
+    FOAM)
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPRVD SCBA & FULL PROT EQUIP
+    . WATER SPRAY MAY BE INEFFECTIVE. WATER MAY BE USED TO COOL CLOSED
+    CONTRS TO PVNT PRESS BUILD-UP (SUPP DATA)
+Unusual Fire/Explosion Hazard:KEEP CONTRS TIGHTLY CLOSED. ISOLATE FROM
+    HEAT, ELEC EQUIP, SPARKS & OPEN FLAME. CLOSED CONTRS MAY EXPLODE
+    WHEN EXPOS TO EXTREME HEAT. DO NOT APPLY TO HOT SURFS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION, VENTILATE AREA
+    AND REMOVE WITH INERT ABSORBENT AND NON-SPARKING TOOLS.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT STORE ABOVE 120F. STORE LARGE
+    QTYS IN BLDGS DESIGNED/PROTECTED FOR STORAGE OF NFPA CLASS I FLAMM
+    LIQUIDS. CONTRS SHLD BE GROUNDED WHEN POURING.
+Other Precautions:DO NOT TAKE INTERNALLY. EMPTY CONTAINERS MAY BE
+    HAZARDOUS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED CHEMICAL CARTRIDGE
+    RESPIRATOR (TC23C) TO REMOVE SOLID AIRBORNE PARTICLES OF OVERSPRAY
+    & ORGANIC VAPORS DURING SPRAY APPLICATION. IN CONFINED AREAS: USE
+    NIOSH/MSHA APPROVED SUPP LIED-AIR RESPIRATORS OR HOODS (TC19C).
+Ventilation:PROVIDE GENERAL DILUTION OR LOCAL EXHAUST IN VOLUME &
+    PATTERN TO KEEP TLV OF HAZARDOUS INGREDS BELOW ACCEPTABLE LIMIT.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:WASH CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+FIRE FIGHT PROC: AND POSSIBLE AUTOIGNITION OR EXPLOSION. IF WATER IS
+    USED, FOG NOZZLES ARE PREFERRED.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:281F,138C
+Vapor Pres:9.5 @ 20C
+Vapor Density:HVR/AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Appearance and Odor:NONE SPECIFIED BY MANUFACTURER.
+Percent Volatiles by Volume:35
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:BY OPEN FLAME - CO AND CO2.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF ACCORDING TO LOCAL, STATE, AND
+    FEDERAL REGULATIONS. DO NOT INCINERATE CLOSED CONTAINERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

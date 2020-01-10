@@ -1,0 +1,111 @@
+=====================  Product Identification  =====================
+
+Product ID:65058 MULTITERGE
+MSDS Date:02/16/1990
+FSC:6850
+NIIN:00F019213
+MSDS Number: BLPQY
+=== Responsible Party ===
+Company Name:EM DIAGNOSTIC SYSTEMS INC
+Address:480 DEMOCRAT ROAD
+City:GIBBSTOWN
+State:NJ
+ZIP:08027
+Info Phone Num:(609) 423-6300
+Emergency Phone Num:(609) 423-6300
+CAGE:0GDF9
+=== Contractor Identification ===
+Company Name:EM SCIENCE, A DIVISION OF EM INDUSTRIES
+Address:480 DEMOCRAT RD
+Box:70
+City:GIBBSTOWN
+State:NJ
+ZIP:08027
+Country:US
+Phone:856-423-6300
+CAGE:0GDF9
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NITRILOTRIACETIC ACID  (SARA III)
+CAS:139-13-9
+RTECS #:AJ0175000
+Fraction by Wt: 18%
+
+Ingred Name:SODIUM HYDROXIDE  (SARA III)
+CAS:1310-73-2
+RTECS #:WB4900000
+Other REC Limits:2MG/M3 CEILING NIOSH
+OSHA PEL:2 MG/M3
+ACGIH TLV:C 2 MG/M3; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL (RAT) TDLO: 830 GM/KG.
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:INGESTION: NAUSEA, VOMITING, DIARRHEA,
+    BURNING SENSATION IN THE MOUTH, STOMACHE ACHE & POSSIBLE FEVER.
+    EYES: IRRITATION, CONJUNCTIVAL & CORNEAL LESIONS. SKIN: IRRITATION.
+	     N.
+Explanation of Carcinogenicity:TRILON A IS A SUSPECTED HUMAN
+    CARCINOGEN.
+Effects of Overexposure:SKIN: IRRITATION & CANCER. EYES: CONJUNCTIVAL,
+    CORNEAL LESIONS, IRRITATION. INGESTION: BURNING SENSATION IN THE
+    MOUTH, STOMACH ACHE, POSSIBLE FEVER, NAUSEA, VOMITING & DIARRHEA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES/SKIN: FLUSH W/COPIOUS AMOUNTS OF WATER FOR AT LEAST 15
+    MIN. INGESTION: OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Fire Fighting Procedures:NONE
+Unusual Fire/Explosion Hazard:THIS COMPOUND DOESN'T BURN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SCOOP UP EXCESS & FLUSH W/COPIOUS AMOUNTS OF
+    WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AT CONTROLLED ROOM TEMPERATURE
+    (59-86F).
+Other Precautions:AVOID CONTACT W/EYES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:LOCAL EXHAUST
+Protective Gloves:RECOMMENDED
+Eye Protection:SAFETY GOGGLES
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:1.063
+Solubility in Water:SOLUBLE
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACIDS
+Stability Condition to Avoid:STORE AT 59-86F
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:IN COMPLIANCE W/ALL CURRENT LOCAL, STATE &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

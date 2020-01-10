@@ -1,0 +1,200 @@
+=====================  Product Identification  =====================
+
+Product ID:07488 TITANIUM AMS4951 0.063 INCHES OD
+MSDS Date:11/25/1985
+FSC:3439
+NIIN:00-994-5368
+MSDS Number: BKYQS
+=== Responsible Party ===
+Company Name:ASTROLITE ALLOYS/DIV OF ASTRO METALLURGICAL
+Address:709 VIA ALONDRA
+City:CAMARILLO
+State:CA
+ZIP:93010-8714
+Country:US
+Info Phone Num:(805) 484-3621
+Emergency Phone Num:(805) 484-3621
+CAGE:2R602
+=== Contractor Identification ===
+Company Name:ASTROLITE ALLOYS DIV OF ASTRO METALLUGICAL
+Address:709 VIA ALONDRA
+Box:City:CAMARILLO
+State:CA
+ZIP:93010-8714
+Country:US
+Phone:805-484-3621
+CAGE:2R602
+Company Name:SUPRA ALLOYS INC	 CA   93010-8052
+CAGE:SUPRA
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TITANIUM (DRY POWDER) (TI)
+CAS:7440-32-6
+RTECS #:XR1700000
+Fraction by Wt: 46-99%
+ACGIH TLV:10 MG/CUM TOTAL DUST
+
+Ingred Name:ALUMINUM  (SARA III)
+CAS:7429-90-5
+RTECS #:BD0330000
+Fraction by Wt: 0-6%
+OSHA PEL:15MG/M3 DUST/5 FUME
+ACGIH TLV:10MG/M3 DUST; 9192
+
+Ingred Name:VANADIUM  (SARA III)
+CAS:7440-62-2
+RTECS #:YW1355000
+Fraction by Wt: 0-10%
+OSHA PEL:C,0.5 MG V2O5/M3 RD
+ACGIH TLV:0.05 MG V205/M3;9293
+
+Ingred Name:IRON
+CAS:7439-89-6
+RTECS #:NO4565500
+Fraction by Wt: 0-48%
+ACGIH TLV:5 MG/CUM
+
+Ingred Name:MOLYBDENUM
+CAS:7439-98-7
+RTECS #:QA4680000
+Fraction by Wt: 0-6%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3; 9293
+
+Ingred Name:TIN
+CAS:7440-31-5
+RTECS #:XP7320000
+Fraction by Wt: 0-5%
+OSHA PEL:2 MG/M3
+ACGIH TLV:2 MG/M3; 9192
+
+Ingred Name:ZIRCONIUM
+CAS:7440-67-7
+RTECS #:ZH7070000
+Fraction by Wt: 0-4%
+OSHA PEL:5 MG/M3/10 STEL
+ACGIH TLV:5 MG/M3/10 STEL;9192
+
+Ingred Name:MANGANESE  (SARA III)
+CAS:7439-96-5
+RTECS #:OO9275000
+Fraction by Wt: 0-5%
+OSHA PEL:(C) 5 MG/M3 DUST
+ACGIH TLV:5 MG/M3 DUST 9293
+
+Ingred Name:TANTALUM
+CAS:7440-25-7
+RTECS #:WW5505000
+Fraction by Wt: <1%
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3; DUST; 9192
+
+Ingred Name:CHROMIUM  (SARA III)
+CAS:7440-47-3
+RTECS #:GB4200000
+Fraction by Wt: 2-6%
+OSHA PEL:1 MG/M3
+ACGIH TLV:0.5 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:COPPER  (SARA III)
+CAS:7440-50-8
+RTECS #:GL5325000
+Fraction by Wt: 2-2.5%
+Other REC Limits:1 MG(CU)/M3 (DUST)
+OSHA PEL:0.1MG/M3 FUME/1 DUST
+ACGIH TLV:0.2MG/M3 FUME; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:NICKEL  (SARA III)
+CAS:7440-02-0
+RTECS #:QR5950000
+Fraction by Wt: 0.8%
+Other REC Limits:1 MG/CUM
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:NO	 OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION. INHALATION: METALLIC
+    TASTE IN MOUTH/DRYNESS/THROAT IRRITATION/INFLUENZA-LIKE
+    SYMPTOMS/METAL FUME FEVER. SKIN: HIGH CONCENTRATION OF DUST/FUMES
+    CAUSES SENSITIZATION DERMATITIS/TITANIU M DUST MAY CAUSE PHYSICAL
+    ABRASION.
+Explanation of Carcinogenicity:SEE INGREDIENTS.
+Effects of Overexposure:INHALATION: INFLAMMATION & ULCERATION OF UPPER
+    RESPIRATORY TRACT & POSSIBLE CANCER OF NASAL PASSAGES & LUNGS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: IF EXPOSED TO EXCESSIVE LEVELS OF METAL FUMES,
+    REMOVE TO FRESH AIR. TREAT AS A NUISANCE DUST. EYES/SKIN: FLUSH
+    W/WATER FOR AT LEAST 15 MINS. OBTAIN MEDICAL ATTENTION IN ALL
+    CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:DRY CHEMICAL POWDERS, SALTS OR INERT GAS. DON'T USE
+    WATER OR LIQUID; EXPLOSION HAZARD COULD RESULT.
+Fire Fighting Procedures:KEEP WORK AREAS FREE OF THE WASTE.
+Unusual Fire/Explosion Hazard:PRODUCT DOESN'T BURN. HOWEVER,
+    GRINDING/POLISHING PRODUCT IN ABSENCE OF OXYGEN, SUCH AS UNDER
+    WATER CAN CAUSE A FINELY DIVIDED WASTE WHICH IS IGNITABLE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE NON-SPARKING METAL EQUIPMENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP WORK AREAS FREE OF THE WASTE.
+    IGNITABLE WASTE: STORE WET, AWAY FROM HEAT/OPEN FLAME. MAINTAIN
+    HUMIDITY >50% TO PREVENT AN ELECTROSTATIC BUILD-UP.
+Other Precautions:NO SMOKING IN AREA. METALLIC DUST OR FUMES MAY BE
+    PRODUCED DURING WELDING, BURNING, GRINDING & POSSIBLY MACHINING.
+    AVOID INHALATION OF PARTICULATES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH-MSHA APPROVED DUST/FUME, RESPIRATOR SHOULD
+    BE USED TO AVOID EXCESSIVE INHALATION OF PARTICULTES WHEN EXPOSURE
+    EXCEEDS TLV.
+Ventilation:USE LOCAL EXHAUSE WHEN WELDING, BURNING, SAWING, BRAZING,
+    GRINDING OR MACHINING WHEN EXPOSURE EXCEEDS TLV.
+Eye Protection:SAFETY GLASSES, GOGGLES
+Other Protective Equipment:PROTECTIVE EQUIPMENT SHOULD BE UTILIZED AS
+    REQUIRED BY WELDING STANDARDS.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Melt/Freeze Pt:M.P/F.P Text:1560-1840C
+Appearance and Odor:GRAY METALLIC SOLID; ODORLESS
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:FOR IGNITABLE WASTE: HEAT, OPEN FLAME, &
+    HUMIDITY <50%
+Hazardous Decomposition Products:METALLIC DUST OR FUMES, OXIDES FUMES
+    OF IRON, MANGANESE & COPPER
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

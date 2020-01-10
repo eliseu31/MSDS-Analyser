@@ -1,0 +1,172 @@
+=====================  Product Identification  =====================
+
+Product ID:6200 GLID-THANE II ACRYLIC POLYURETHANE COATING 6200 SERIES
+MSDS Date:03/01/1990
+FSC:8010
+NIIN:00F019252
+MSDS Number: BLPSV
+=== Responsible Party ===
+Company Name:GLIDDEN COMPANY
+Address:925 EUCLID AVENUE
+City:CLEVELAND
+State:OH
+ZIP:44115
+Country:US
+Info Phone Num:216-344-8000
+Emergency Phone Num:800-545-2643
+CAGE:01PD6
+=== Contractor Identification ===
+Company Name:GLIDDEN PAINT, ICI PAINTS NORTH AMERICA
+Address:925 EUCLID AVE
+Box:City:CLEVELAND
+State:OH
+ZIP:44115
+Country:US
+Phone:800-545-2643/216-344-8207
+CAGE:01PD6
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BUTYL ACETATE (N-BUTYL ACETATE)
+CAS:123-86-4
+RTECS #:AF7350000
+Fraction by Wt: 5-10%
+Other REC Limits:150 PPM
+OSHA PEL:200 PPM
+ACGIH TLV:200 PPM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:OXO-HEPTYL ACETATE	   *93-1*
+CAS:90438-79-2
+Fraction by Wt: 5-10%
+ACGIH TLV:50 PPM
+
+Ingred Name:OXO-HEXYL ACETATE	   *93-1*
+CAS:88230-35-7
+Fraction by Wt: 1-5%
+ACGIH TLV:50 PPM
+
+Ingred Name:XYLENE, DIMETHYLBENZENE, XYLOL
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 10-20%
+Other REC Limits:100 PPM
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM, SKIN
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:TITANIUM DIOXIDE, TIO2
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 20-30%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:BUTYL ACRYLATE, HYDROXYETHYL METHACRYLATE, METHACRYLIC
+    ACID, METHYL METHACRYLATE, STYRENE POLYMER	     *93-1*
+CAS:36179-96-1
+Fraction by Wt: 30-40%
+
+Ingred Name:WEIGHT PER GALLON IN POUNDS: 10.4
+RTECS #:9999999WG
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: CNS DEPRESSION/ANESTHETIC
+    EFFECT/NARCOSIS/CARDIAC & BLOOD ABNORMALITY/KIDNEY & LIVER
+    DAMAGE/RESPIRATORY FAILURE/ASPHYXIA/ALLERGIC REACTION/PERMANENT
+    BRAIN & CNS DAMAGE. SKIN: DERMATITIS/DE
+    FAT/IRRITANT/SENSITIZATION/ALLERGIC REACTION. EYE: IRITANT.
+    INGESTION: LUNG INFLAMMATION/DAMAGE BY ASPIRATION INTO LUNG.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: MUCOUS MEMBRANE & RESPIRATORY TRACT
+    IRRITATION/FATIGUE/DROWSINESS/DIZZINESS/LIGHTHEADEDNESS/HEADACHE/UN
+    COORDINATION/NAUSEA/VOMITING/UNCONSCIOUSNESS/DEATH. SKIN:
+    IRRITATION. EYE: IRRITATION /BLURRED VISION/TEARING/REDNESS.
+Medical Cond Aggravated by Exposure:EYE, SKIN, RESPIRATORY, LUNG
+    DISORDERS & ASTHMA-LIKE CONDITIONS
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. RESTORE & SUPPORT CONTINUED
+    BREATHING. HAVE TRAINED PERSON GIVE OXYGEN IF NECESSARY. GET
+    MEDICAL HELP FOR ANY BREATHING DIFFICULTY. SKIN: WASH OFF QUICKLY
+    W/PLENTY OF  WATER, THEN SOAP & WATER. EYES: FLUSH IMMEDIATELY
+    W/LARGE AMOUNTS OF WATER FOR AT LEAST 15 MINS. INGESTION: OBTAIN
+    MEDICAL TREATMENT IMMEDIATELY. OBTAIN MEDICAL ATTENTION IN ALL
+    CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:76F
+Lower Limits:1.7%
+Extinguishing Media:DRY CHEMICAL OR FOAM
+Fire Fighting Procedures:WATER MAY BE USED TO COOL & PROTECT EXPOSED
+    CONTAINERS. FLAMABLE LIQUID.
+Unusual Fire/Explosion Hazard:CLOSED CONTAINERS EXPLODE WHEN EXPOSED TO
+    EXTREME HEAT OR FIRE. VAPORS CAN FORM EXPLOSIVE MIXTURES IN AIR AT
+    ELEVATED TEMPS. MAY DECOMPOSE EMITTING TOXIC GASES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:COMPLY W/ALL APPLICABLE HEALTH & ENVIRONMENTAL
+    REGULATIONS. ELIMINATE ALL SOURCES OF IGNITION. VENTILATE AREA
+    W/EXPLOSION PROOF EQUIPMENT. SPILLS MAY BE COLLECTED
+    W/NONCOMBUSTIBLE ABSORBENT MATERIALS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE <80F/VENTILATE AREA. DON'T TAKE
+    INTERNALLY. KEEP CONTAINERS TIGHTLY CLOSED/UPRIGHT WHEN NOT IN USE.
+    EMPTY CONTAINERS CONTAIN HAZARDOUS RESIDUES.
+Other Precautions:KEEP OUT OF REACH OF CHILDREN. AVOID CONTACT W/SKIN &
+    EYES & INHALATION OF VAPORS. GROUND EQUIPMENT WHEN TRANSFERRING TO
+    PREVENT ACCUMULATION OF STATIC CHARGE. INTENTIONAL MISUSE BY
+    DELIBERATELY CONCE NTRATING/INHALING CAN BY HARMFUL/FATAL.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF SANDING IS DONE, WEAR A DUST MASK TO AVOID
+    BREATHING OF SANDING DUST. (NIOSH/MSHA-APPROVED). CONTROL
+    ENVIRONMENTAL CONCENTRATIONS BELOW APPLICABLE STANDARDS.
+Ventilation:PROVIDE DILUTION VENTILATION OR LOCAL EXHAUST TO PREVENT
+    BUILD-UP OF VAPORS.
+Protective Gloves:IMPERVIOUS
+Eye Protection:SAFETY GLASSES, GOGGLES
+Other Protective Equipment:EYE WASH & SAFETY SHOWER
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE. WASH HANDS THOROUGHLY AFTER HANDLING, BEFORE EATING OR
+    SMOKING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:244-392F
+Percent Volatiles by Volume:51.7
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZERS, ACIDS, BASES, AMINES
+Stability Condition to Avoid:HIGH TEMPS, FIRE, SPARKS, OPEN FLAME, &
+    OTHER SOURCES OF IGNITION
+Hazardous Decomposition Products:CO, CO2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. AVOID DISCHARGING TO NATURAL WATERS. UN 1263.
+    FLAMMABLE LIQUID.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

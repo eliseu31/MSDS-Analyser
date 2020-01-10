@@ -1,0 +1,159 @@
+=====================  Product Identification  =====================
+
+Product ID:TURBO T OIL 32,65602
+MSDS Date:10/27/1992
+FSC:9150
+NIIN:01-095-6012
+MSDS Number: BWRLN
+=== Responsible Party ===
+Company Name:SHELL OIL COMPANY
+Address:HEALTH, SAFETY AND ENVIRONMENT
+Box:4320
+City:HOUSTON
+State:TX
+ZIP:77210
+Country:US
+Info Phone Num:713-241-4819
+Emergency Phone Num:713-473-9461/800-424-9300(CHEMTREC)
+Preparer's Name:J.C. WILLETT
+CAGE:54527
+=== Contractor Identification ===
+Company Name:SHELL OIL COMPANY
+Box:2463
+City:HOUSTON
+State:TX
+ZIP:77210
+Country:US
+Phone:800-231-6950
+CAGE:54527
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MINERAL OIL, PETROLEUM DISTILLATES,HYDROTREATED
+    (MILD),HEAVY PARAFFINIC
+CAS:64742-54-7
+RTECS #:PY8035500
+Fraction by Wt: 0 - 99%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:5 MG/M3 (OIL MIST)
+ACGIH TLV:5 MG/M3 (OIL MIST)
+
+Ingred Name:MINERAL OIL, PETROLEUM DISTILLATE, SOLVENT DDEWAXED
+    (SEVERE), HEAVY PARAFFINIC
+CAS:64742-65-0
+RTECS #:PY8038501
+Fraction by Wt: 0 - 99%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:5 MG/M3 AS OIL MIST
+ACGIH TLV:5 MG/M3 AS OIL MIST
+
+Ingred Name:MINOR ADDITIVES
+Fraction by Wt: <2%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:TLV FOR OIL MIST IS 5 MG/M3.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:TARGET ORGANS:EYE, SKIN, RESPIRATORY
+    TRACT. ACUTE- PRESUMED TO BE NON-IRRITATING TO EYES & SKIN.
+    PROLONGED/REPEATED SKIN CONTACT CAUSES DERMATITIS, FOLLICULITIS/OIL
+    ACNE. INJECTION UNDER SKIN CAUSES L OCAL NECROSIS. INHALATION OF
+    VAPORS/OILMIST MAY CAUSE MILD IRRITATION. SLIGHTLY TOXIC IF
+    INGESTED. CHRONIC- DERMATITIS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:IRRITATION
+Medical Cond Aggravated by Exposure:PERSONS WITH PRE-EXISTING SKIN AND
+    RESPIRATORY DISORDERS MAY BE MORE SUSCEPTIBLE TO THE EFFECTS OF
+    THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:CALL A DOCTOR IF SYMPTOMS OCCUR. EYE:FLUSH WITH WATER. HOLD
+    EYELIDS OPEN. SKIN:WIPE EXCESS OFF. WASH SKIN WITH SOAP & WATER OR
+    A WATERLESS HAND CLEANER FOLLOWED BY SOAP & WATER. IF MATERIAL IS
+    INJECTE D UNDER SKIN, GET MEDICAL ATTENTION PROMPTLY. DO NOT WAIT
+    FOR SYMPTOMS TO DEVELOP. INHALED:REMOVE TO FRESH AIR. PROVIDE
+    CPR/OXYGEN IF NEEDED. ORAL:DO NOT INDUCE VOMITING. GET MEDICAL
+    ADVICE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:430F,221C
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM/DRY CHEMICAL.
+    DO NOT USE A DIRECT STREAM OF WATER. PRODUCT MAY FLOAT & REIGNITE.
+Fire Fighting Procedures:WEAR FIRE FIGHTING PROTECTIVE EQUIPMENT AND
+    NIOSH-APPROVED SELF CONTAINED BREATHING APPARATUS. COOL FIRE
+    EXPOSED CONTAINERS WITH WATER SPRAY.
+Unusual Fire/Explosion Hazard:CONTAINER MAY BURST.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE EQUIPMENT. STOP LEAK. DIKE AND
+    CONTAIN. USE PUMP TO TRANSFER LARGE SPILLS TO CONTAINER. REMAINING
+    LIQUID/SMALL SPILLS CAN BE TAKEN UP ON SAND, CLAY, EARTH & SHOVELD
+    INTO CONTAINERS. PR EVENT RUN-OFF TO ENTER WATERWAYS, SEWERS.
+Neutralizing Agent:NOT RELEVANT
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL, DRY PLACE AWAY FROM
+    HEAT, FLAME & STRONG OXIDANTS. KEEP CONTAINERS CLOSED WHEN NOT IN
+    USE.
+Other Precautions:DO NOT GET IN EYES, ON SKIN OR ON CLOTHING. WASH
+    THOROUGHLY AFTER HANDLING. WATER CONTAMINATION SHOULD BE AVOIDED.
+    AVOID BREATHING OIL MIST. DISCARD LUBRICANT-SOAKED SHOES. REMOVE
+    LUBRICANT-SOAKED CLO THING AND LAUNDER BEFORE RE-USE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY REQUIRED. IF EXPOSURE MAY OR DOES
+    EXCEED OCCUPATIONAL EXPOSURE LIMITS, WEAR A NIOSH-APPROVED ORGANIC
+    VAPOR RESPIRATOR.
+Ventilation:USE ADEQUATE VENTILATION TO KEEP OIL MISTS OF THIS MATERIAL
+    BELOW APPLICABLE STANDARD(S).
+Protective Gloves:NITRILE FOR PROLONGED/REPEATED CONTACT
+Eye Protection:SAFETY GLASSES, FACE SHIELD RECOMMENDED
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER.
+    INDUSTRIAL-TYPE WORK CLOTHING AND APRON AS REQUIRED.
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES.
+Supplemental Safety and Health
+FORMULA CHANGED. FOR PREVIOUS FORMULATION, SEE PNI A, SAME NSN.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+NRC/State Lic Num:NOT RELEVANT
+Melt/Freeze Pt:M.P/F.P Text:POUR: -20F
+Spec Gravity:0.8735
+Viscosity:30-34CS @104F
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:PALE YELLOW OIL - SLIGHT HYDROCARBON ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING AGENTS
+Stability Condition to Avoid:EXCESSIVE HEAT, OPEN FLAME
+Hazardous Decomposition Products:A COMPLEX MIXTURE OF AIRBORNE SOLID,
+    LIQUID, PARTICULATES & GASES WILL EVOVLE. CARBON MONOXIDE & OTHER
+    COMPD. MAY FORM.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF WASTE IN COMPLIANCE WITH ALL
+    APPLICABLE LOCAL, STATE AND FEDERAL LAWS AND REGULATIONS. RCRA
+    EMERGENCY NUMBER: 800-424-9346. DO NOT CONTAMINATE ANY LAKES,
+    STREAMS, PONDS OR UNDERGROUND WATER  SUPPLY.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

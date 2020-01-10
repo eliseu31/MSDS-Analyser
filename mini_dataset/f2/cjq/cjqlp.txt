@@ -1,0 +1,154 @@
+=====================  Product Identification  =====================
+
+Product ID:TRITON X-114, 369349
+MSDS Date:07/01/1999
+FSC:6810
+NIIN:00N037251
+Status Code:A
+MSDS Number: CJQLP
+=== Responsible Party ===
+Company Name:ALDRICH CHEMICAL CO INC
+Address:1001 W ST PAUL
+City:MILWAUKEE
+State:WI
+ZIP:53233
+Country:US
+Info Phone Num:414-273-3850
+Emergency Phone Num:414-273-3850
+CAGE:60928
+=== Contractor Identification ===
+Company Name:ALDRICH CHEMICAL CO INC
+Address:1001 WEST ST PAUL AVE
+Box:355
+City:MILWAUKEE
+State:WI
+ZIP:53233
+Country:US
+Phone:414-273-3850
+CAGE:60928
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TRITON X-114  LD50: (ORAL, RAT) 1800 MG/KG PSTGAW
+    20,16,1953
+CAS:9002-93-1
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE INGREDIENT
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE EFFECTS: MAY BE HARMFUL BY
+    INHALATION, INGESTION OR SKIN ABSORPTION. VAPOR OR MIST IS
+    IRRITATING TO THE EYES, MUCOUS MEMBRANES AND UPPER RESPIRATORY
+    TRACT. CAUSES SKIN IRRITATION. ALSO, SEE TOXI COLOGICAL
+    INFORMATION.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: IN CASE OF CONTACT, IMMEDIATELY FLUSH EYES WITH COPIOUS
+    AMOUNTS OF WATER FOR AT LEAST 15 MINUTES. SKIN: IN CASE OF CONTACT,
+    IMMEDIATELY WASH SKIN WITH SOAP AND COPIOUS AMOUNTS OF WATER.
+    INHALATI ON: REMOVE TO FRESH AIR. IF NOT BREATHING GIVE ARTIFICIAL
+    RESPIRATION. IF BREATHING IS DIFFICULT, GIVE OXYGEN. INGESTION:
+    WASH OUT MOUTH WITH WATER PROVIDED PERSON IS CONSCIOUS. CALL A
+    PHYSICIAN. WASH  CONTAMINATED CLOTHING BEFORE REUSE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:>110.C, 230.F
+Extinguishing Media:WATER SPRAY. CARBON DIOXIDE, DRY CHEMICAL POWDER OR
+    APPROPRIATE FOAM.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:EMITS TOXIC FUMES UNDER FIRE CONDITIONS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR NIOSH APPROVED RESPIRATOR, CHEMICAL
+    SAFETY GOGGLES, RUBBER BOOTS AND HEAVY RUBBER GLOVES. COVER WITH
+    DRY LIME OR SODA ASH, PICK UP, KEEP IN A CLOSED CONTAINER AND HOLD
+    FOR WASTE DISPOSAL. VENTILA TE AREA AND WASH SPILL SITE AFTER
+    MATERIAL PICKUP IS COMPLETE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:IRRITANT. KEEP TIGHTLY CLOSED. STORE
+    IN A COOL, DRY PLACE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED RESPIRATOR.
+Ventilation:MECHANICAL EXHAUST REQUIRED.
+Protective Gloves:COMPATIBLE CHEMICAL-RESISTANT GLOVES.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:ANSI APPROVED EYE WASH AND DELUGE SHOWER .
+Work Hygienic Practices:DO NOT BREATHE VAPOR. AVOID CONTACT WITH EYES,
+    SKIN AND CLOTHING. WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:1.058
+Appearance and Odor:COLORLESS LIQUID.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Hazardous Decomposition Products:TOXIC FUMES OF: CARBON MONOXIDE,
+    CARBON DIOXIDE.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:TO THE BEST OF OUR KNOWLEDGE, THE CHEMICAL,
+    PHYSICAL AND TOXICOLOGICAL PROPERTIES HAVE NOT BEEN THOROUGHLY
+    INVESTIGATED. RTECS #: MD0907700 GLYCOLS, POLYETHYLENE,
+    MONO(P-(1,1,3,3-TETRAMETHYLBUTYL)PHEN YL) ETHER. IRRITATION DATA
+    EYE-RABBIT 1MG MOD PSTGAW 20,16,1953. TOX DATA: IVN-MOUSE LD50:
+    1200 MG/KG BCFAAI 101,173,1962. UNR-MOUSE LD50: 154 MG/KG BEBMAE
+    112(10,423,1991. TARGET OGRAN DATA: MATERNAL  EFFECTS (OVARIES,
+    FALLOPIAN TUBES). ONLY SELECTED REGISTRY OF TOXIC EFFECTS OF
+    CHEMICAL SUBSTANCES (TRECS) DATA IS PRESENTED HERE. SEE ACTUAL
+    ENTRY IN RTECS FOR COMPLETE INFO.
+
+=====================  Ecological Information  =====================
+
+Ecological:DATA NOT YET AVAILABLE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISSOLVE OR MIX THE MATERIAL WITH A COMBUSTIBLE
+    SOLVENT AND BURN IN A CHEMICAL INCINERATOR EQUIPPED WITH AN
+    AFTERBURNER AND SCRUBBER. OBSERVE ALL FEDERAL, STATE AND  LOCAL
+    ENVIRONMENTAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:CONTACT ALDRICH CHEMICAL COMPANY FOR
+    TRANSPORTATION INFORMATION.
+
+=====================  Regulatory Information  =====================
+
+Federal Regulatory Information:EUROPEAN INFO - CAUTION: SUBSTANCE NOT
+    YET FULLY TESTED. IRRITANT. R 36/37/38 IRRITATING TO EYES,
+    RESPIRATORY SYSTEM AND SKIN. S 26 IN CASE OF CONTACT WITH EYES,
+    RINSE IMMEDIATELY WITH PLENTY OF WATER  & SEEK MED ADVICE. S 36
+    WEAR SUITABLE PROTECTIVE CLOTHING. REVIEWS, STANDARDS AND
+    REGULATIONS - OEL=MAK. NOHS 1974: HZD A1896; NIS 33; TNF 4670; NOS
+    52; TNE 24863. NOES 1983: HZD X7316; NIS 95; TNF 1 5151; NOS 103;
+    TNE 232961; TFE 97685. EPA TSCA SECTION 8(B) CHEMICAL INVENTORY.
+    EPA TSCA SECTION 8(D ) UNPUBLISHED HEALTH/SAFETY STUDIES. EPA TSCA
+    TEST SUBMISSION (TSCATS) DATA BASE, DECEMBER 1998.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

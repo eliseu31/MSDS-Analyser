@@ -1,0 +1,197 @@
+=====================  Product Identification  =====================
+
+Product ID:13201 MIRROLAC GALVANIZED METAL PRIMER
+MSDS Date:08/29/1988
+FSC:8010
+NIIN:00F019211
+MSDS Number: BLPQW
+=== Responsible Party ===
+Company Name:DEVOE & RAYNOLDS CO
+Address:4000 DUPONT CIRCLE
+Box:7600
+City:LOUISVILLE
+State:KY
+ZIP:40207
+Info Phone Num:(502) 589-9340
+Emergency Phone Num:(502) 589-9340
+CAGE:EO559
+=== Contractor Identification ===
+Company Name:DEVOE & RAYNOLDS CO, INC.
+Box:7600
+CAGE:EO559
+Company Name:DEVOE AND RAYNOLDS CO DIV OF GROW GROUP INC
+Address:4000 DUPONT CIR
+Box:7600
+City:LOUISVILLE
+State:KY
+ZIP:40207
+Country:US
+Phone:502-361-2536/502-589-9340
+CAGE:6R552
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TALC (CONTAINING NO ASBESTOS)
+CAS:14807-96-6
+RTECS #:WW2710000
+Fraction by Wt: 10%
+OSHA PEL:2 MG/M3 RDUST
+ACGIH TLV:2 MG/M3 RDUST; 9192
+
+Ingred Name:PORTLAND CEMENT
+CAS:65997-15-1
+RTECS #:VV8770000
+Fraction by Wt: 10%
+Other REC Limits:50 MPPCF (MSHA)
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:ZINC OXIDE
+CAS:1314-13-2
+RTECS #:ZH4810000
+Fraction by Wt: <5%
+OSHA PEL:15MG/M3 TDUST/5 FUME
+ACGIH TLV:10MG/M3 TDUST; 9293
+
+Ingred Name:SILICA, CRYSTALLINE - CRISTOBALITE
+CAS:14464-46-1
+RTECS #:VV7325000
+Fraction by Wt: <5%
+Other REC Limits:0.05 MG/CUM NIOSH
+OSHA PEL:SEE TABLE Z3
+ACGIH TLV:0.05 MG/M3 RDUST9293
+
+Ingred Name:CALCIUM CARBONATE (MARBLE) (LIMESTONE)
+CAS:1317-65-3
+RTECS #:EV9580000
+Fraction by Wt: <5%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9192
+
+Ingred Name:DIATOMACEOUS EARTH FLUX-CALCINED, NATURAL, SILICA
+CAS:68855-54-9
+Fraction by Wt: <5%
+OSHA PEL:80 MG/CUM
+ACGIH TLV:10 MG/CUM
+
+Ingred Name:SILICA, CRYSTALLINE - QUARTZ
+CAS:14808-60-7
+RTECS #:VV7330000
+Fraction by Wt: <1%
+Other REC Limits:0.05 MG/CUM NIOSH
+OSHA PEL:SEE TABLE Z3
+ACGIH TLV:0.1 MG/M3 RDUST;9293
+
+Ingred Name:VOL ORGANIC CMPD: 3.27 LBS/GAL (LESS WATER)
+RTECS #:9999999VO
+
+Ingred Name:MEDIUM ALIPHATIC NAPHTHA (AROMATIC 100), PARAFFIN-NAPTHANES
+    MINERAL SPIRITS
+CAS:64742-88-7
+Fraction by Wt: 25%
+Other REC Limits:100 PPM
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 15%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:SOYA ALKYD RESIN
+Fraction by Wt: 15%
+
+Ingred Name:TALL OIL ALKYD RESIN
+Fraction by Wt: 10%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: IRRITATION OF THE
+    RESPIRATORY TRACT, HEADACHE, NAUSEA, DIZZINESS, WEAKNESS & FATIGUE,
+    UNCONSCIOUSNESS & RESPIRATORY ARREST. EYES: INJURY. SKIN:
+    IRRITATION. INGESTION: STOMACH & OR INTESTIN AL IRRITATION, NAUSEA,
+    VOMITING/DIARRHEA.
+Explanation of Carcinogenicity:CRYSTALLINE SILICA (CRITOBALITE) IS
+    CONSIDERED TO BE A 2A HUMAN CARCINOGEN.
+Effects of Overexposure:INHALATION: PERMANENT BRAIN & NERVOUS SYSTEM
+    DAMAGE & SILICOSIS. INGESTION: ASPIRATION OF VOMITUS CAN CAUSE
+    CHEMICAL PNEUMONITIS, WHICH CAN BE FATAL. SKIN: IRRITATION. EYES:
+    INJURY.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/LARGE AMOUNTS OF WATER FOR AT LEAST 15 MINS.
+    SKIN: REMOVE W/SOAP & WATER. INGESTION: DRINK 1 OR 2 GLASSES OF
+    WATER TO DILUTE. DON'T INDUCE VOMITING. TREAT SYMPTOMATICALLY.
+    INHALATION: RE MOVE TO FRESH AIR. IF BREATHING CEASES,RESTORE USING
+    APPROVED CPR TECHNIQUES. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:102F
+Extinguishing Media:CO2, DRY CHEMICAL, FOAM, OR OTHER NFPA APPROVED
+    METHOD FOR TREATING CLASS B FIRE.
+Fire Fighting Procedures:USE FULL PROTECTIVE EQUIPMENT & SCBA. WATER
+    SPRAY MAY BE INEFFECTIVE. IF WATER IS USED, FOG NOZZLES ARE
+    PREFERABLE.
+Unusual Fire/Explosion Hazard:WATER SPRAY MAY BE USED TO COOL CLOSED
+    CONTAINERS TO PREVENT PRESSURE BUILD-UP, POSSIBLE AUTOIGNITION, &
+    EXPLOSION DUE TO EXTREME HEAT. COMBUSTIBLE LIQUID.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONTAIN SPILLED MATERIAL & REMOVE W/INERT
+    ABSORBENT & NON-SPARKING TOOLS. STORE IN CLOSED CONTAINERS UNTIL
+    PROPERLY DISPOSED OF. REMOVE ALL SOURCES OF IGNITION. VENTILATE
+    AREA.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER TIGHTLY CLOSED WHEN NOT
+    IN USE. DON'T TRANSFER CONTENTS TO BOTTLES/UNLABELLED CONTAINERS.
+    USE ONLY W/ADEQUATE VENTILATION.
+Other Precautions:DON'T REUSE EMPTY CONTAINER. KEEP AWAY FROM CHILDREN.
+    DON'T BREATH VAPORS/SPARY MIST/SANDING DUST. DON'T GET ON
+    EYES/SKIN. DON'T SMOKE. NEVER USE WELDING/CUTTING TORCH ON OR NEAR
+    CONTAINER, EVEN WHEN  EMPTY, AS PRODUCT/RESIDUE MAY IGNITE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED MECHANICAL FILTER
+    RESPIRATOR FOR SOLID AIRBORNE PARTICLES/SANDING DUST. IN RESTRICTED
+    AREAS, USE NIOSH CHEMICAL/MECHANICAL FILTERS FOR
+    PARTICULATES/VAPOR. IN CONFINED AREAS, US E NIOSH AIR SUPPLY
+    RESPIRATOR OR HOOD.
+Ventilation:GENERAL DILUTION/LOCAL EXHAUST IN VOLUME & PATTERN TO KEEP
+    AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:50.1%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HEAT, FLAME, TEMPS >120F, FIRE, & OTHER
+    SOURCES OF IGNITION
+Hazardous Decomposition Products:FUMES OF CO, CO2, OXIDES OF NITROGEN &
+    METALS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. INCINERATE ONLY IN APPROVED FACILITY. DON'T
+    INCINERATE CLOSED CONTAINERS. COMBUSTIBLE LIQUID.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

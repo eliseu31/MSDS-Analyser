@@ -1,0 +1,198 @@
+=====================  Product Identification  =====================
+
+Product ID:LOW ALLOY LOW H COVERED ELEC 11018-M-XLM
+MSDS Date:03/01/1989
+FSC:3439
+NIIN:00-465-1908
+MSDS Number: BJDNL
+=== Responsible Party ===
+Company Name:TELEDYNE MCKAY
+Address:850 GRANTLEY RD
+Box:1509
+City:YORK
+State:PA
+ZIP:17405
+Country:US
+Emergency Phone Num:717-845-7581
+CAGE:76254
+=== Contractor Identification ===
+Company Name:HOBART BROS CO  MCKAY WELDING PRODUCTS DIV
+Address:400 TRADE SQ E
+Box:City:TROY
+State:OH
+ZIP:45373-2900
+Country:US
+Phone:513-332-5706
+CAGE:76254
+Company Name:POLY RESEARCH CORPORATION
+Address:125 CORPORATE DRIVE
+Box:City:HOLTSVILLE
+State:NY
+ZIP:11742-2007
+Country:US
+Phone:516-758-0460
+CAGE:64713
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MANGANESE  (SARA III)
+CAS:7439-96-5
+RTECS #:OO9275000
+Other REC Limits:STEL:3 MG/M3
+OSHA PEL:(C) 5 MG/M3 DUST
+ACGIH TLV:5 MG/M3 DUST 9293
+
+Ingred Name:NICKEL  (SARA III)
+CAS:7440-02-0
+RTECS #:QR5950000
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+
+Ingred Name:NICKEL OXIDE, NIO
+CAS:1313-99-1
+RTECS #:QR8400000
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3
+
+Ingred Name:CALCIUM FLUORIDE, CAF*2 (INSOLUBLE)
+CAS:14542-23-5
+OSHA PEL:2.5 MG/M3 (FLUORINE)
+ACGIH TLV:2.5 MG/M3 (FLUORINE)
+
+Ingred Name:SODIUM FLUORIDE  (SARA III)
+CAS:7681-49-4
+RTECS #:WB0350000
+OSHA PEL:2.5 PPM F
+ACGIH TLV:2.5 MG F/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:IRON, FE
+CAS:7439-89-6
+RTECS #:NO4565500
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3
+
+Ingred Name:COPPER  (SARA III)
+CAS:7440-50-8
+RTECS #:GL5325000
+OSHA PEL:0.1MG/M3 FUME/1 DUST
+ACGIH TLV:0.2MG/M3 FUME; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:CARBON BLACK
+CAS:1333-86-4
+RTECS #:FF5800000
+Fraction by Wt: .07%
+OSHA PEL:3.5 MG/M3
+ACGIH TLV:3.5 MG/M3; 9192
+
+Ingred Name:MOLYBDENUM
+CAS:7439-98-7
+RTECS #:QA4680000
+Fraction by Wt: .40%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3; 9293
+
+Ingred Name:SILICON
+CAS:7440-21-3
+RTECS #:VW0400000
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: PHYSICAL ACCIDENTS; STRAINS;
+    RADIA BURNS, I.E. EYE FLASH; HEAT BURNS, METAL FUME FEVER. CHRONIC:
+    RESP DISEASE, I.E. SIDEROSIS, LUNG MANGANISM. SIGNS & SYM (CONT):
+    OXYG DEPRIVATION (30-34); HEAD ACHE, RAPID BREATHING CONFUSION,
+    WEAKNESS (30).
+Explanation of Carcinogenicity:NICKEL AND NICKEL OXIDE POSS
+    CARCINOGENS.
+Effects of Overexposure:SYMPS KEYED TO INGREDS IN "()". NUISANCE DUST
+    (17-20); METAL FUME FEVER (10,11,21,22); ALLERGIC RXN (4-11); DRY
+    THROAT, TIGHT CHEST, NAUSEA/VOMITING (1-3,10,11); MUC MEM IRRIT
+    (1,4-6,12-16,25-29); PUL M EDEMA (28,29); DIZZ (1,30);
+    PULM/RESPIRRIT (21-24); DERMATITIS (23,24); SEE HEALTH HAZARD.
+Medical Cond Aggravated by Exposure:RESP OR ALLERGIC CONDITIONS.
+    STUDIES HAVE SHOWN A HIGHER LEVEL OR LUNG RELATED PROBLEMS AMONG
+    OLDER WELDERS WHO SMOKED THAN THOSE WHO DID NOT SMOKE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: REMOVE TO FRESH AIR. IF UNCON BUT BRTHING, GIVE OXYG;
+    IF NOT, ADMIN CPR. KEEP WARM/REST. GET MD. EYE: REMOVE CONT LENSES.
+    THOROUGHLY FLUSH EYES W/H*20 15 MIN. DRESS. DO NOT REMOVE DUST.
+    CALL MD . FLASH BURNS: APPLY COLD/ICE 5-10 MIN.REPEAT. DO NOT RUB
+    OR USE OINTMENT/DROPS W/O MD PRESCRIPT. GET MD. SEE SUPP DATA.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:PROD NONFLAMMABLE, NONEXPLOSIVE
+Fire Fighting Procedures:PROD NONFLAMMABLE, NONEXPLOSIVE
+Unusual Fire/Explosion Hazard:THE WELDING ARC AND SPARKS (SPATTER) CAN
+    IGNITE COMBUSTIBLE AND FLAMMABLE MATERIALS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NONE SPECIFIED BY MANUFACTURER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NONE SPECIFIED BY MANUFACTURER.
+Other Precautions:TRAIN WELDER TO AVOID ELECTRICAL SHOCK (I.E.
+    MAINTAINING A DRY WORK AREA, INSULATING HIMSELF FROM WORK AND
+    GROUND, NOT TOUCHING LIVE ELECTRICAL PARTS) AND TO AVOID FUME
+    PLAINE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESPIRABLE FUME RESPIRATOR OR AIR SUPPLIED RESP
+    WHEN WELDING IN CONFINED SPACE OR WHERE LOCAL EXHAUST OR
+    VENTILATION DOES NOT KEEP EXPOSURE BELOW THE PEL OR TLV.
+Ventilation:NATRL VENT IF >10,000FT3/WELDER; CEILING 16FT; NO CONFINED
+    SPACE, PARTITIONS, BARRIERS TO NATRL AIR FLOW. SEE SUPP DATA.
+Protective Gloves:WELDER'S GLOVES
+Eye Protection:HELMET OR FACE SHIELD.
+Other Protective Equipment:ARM PROTECTORS, APRONS, HATS, SHOULDER
+    PROTECTION, DARK SUBSTANTIAL CLOTHING.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+SKIN:FLUSH W/LGE AMTS OF H*20. WASH W/SOAP&H*20. REMOVE CONTAM CLTHG.
+    FLUSH MUC MEM W/H*20 IF IRRIT. DRESS. THERMAL/ELEC BURNS: H*20/ICE
+    COMPRESS. DRESS. CALL MD. VENT (CONT):IF NATRL VENT CANNOT MAIN
+    TAIN CONTAM BELOW PEL MECH VENT, RESPIRATORS &/OR LEV AT ARC
+    REQUIRED.
+
+==================  Physical/Chemical Properties  ==================
+
+Appearance and Odor:WELDING ELECTRODE
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:FUMES:COMPLEX OXIDE&FLUORIDE
+    COMBINATION.GASES:NORM.LOW,IF NEC,CHECK FOR GASEOUS FLUORIDES&/OR
+    OXIDES OF NITROGEN.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF FUME OR FLUX OR WELDING GRINDING
+    RESIDUES FROM THE WORK AREA OR FROM FILTERS I/A/W EPA OR LOCAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

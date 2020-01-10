@@ -1,0 +1,198 @@
+=====================  Product Identification  =====================
+
+Product ID:MOORCRAFT GLOSS HOUSE PAINT, 175
+MSDS Date:06/25/1990
+FSC:8010
+NIIN:00N021558
+MSDS Number: BLMML
+=== Responsible Party ===
+Company Name:BENJAMIN MOORE & CO
+Address:51 CHESTNUT RIDGE RD
+City:MONTVALE
+State:NJ
+ZIP:07645
+Country:US
+Info Phone Num:201-573-9600
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+CAGE:09585
+=== Contractor Identification ===
+Company Name:BENJAMIN MOORE & CO
+Address:51 CHESTNUT RIDGE RD
+City:MONTVALE
+State:NJ
+ZIP:07645
+Country:US
+Phone:201-573-9600
+CAGE:09585
+Company Name:BENJAMIN MOORE & CO
+Address:51 CHESTNUT RIDGE RD
+Box:City:MONTVALE
+State:NJ
+ZIP:07645
+Country:US
+Phone:201-573-9600
+CAGE:91950
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 18.3%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:STODDARD SOLVENT
+CAS:8052-41-3
+RTECS #:WJ8925000
+Fraction by Wt: 42.1%
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM; 9293
+
+Ingred Name:CARBONIC ACID, CALCIUM SALT (1:1); (CALCIUM CARBONATE)
+CAS:471-34-1
+RTECS #:FF9335000
+Fraction by Wt: 14.0%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST
+
+Ingred Name:KAOLIN
+CAS:1332-58-7
+RTECS #:GF1670500
+Fraction by Wt: 5.4%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:2 MG/M3 TDUST; 9293
+
+Ingred Name:MAGNESIUM ALUMINUM SILICATE
+CAS:8031-18-3
+Fraction by Wt: 4.5%
+ACGIH TLV:10 MG/M3 (MFR)
+
+Ingred Name:ETHYL BENZENE  (SARA III)
+CAS:100-41-4
+RTECS #:DA0700000
+Fraction by Wt: 1.8%
+OSHA PEL:100 PPM/125 STEL
+ACGIH TLV:100 PPM/125STEL 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:SILICA, CRYSTALLINE - QUARTZ
+CAS:14808-60-7
+RTECS #:VV7330000
+Fraction by Wt: 0.4%
+OSHA PEL:SEE TABLE Z3
+ACGIH TLV:0.1 MG/M3 RDUST;9293
+
+Ingred Name:ZINC OXIDE
+CAS:1314-13-2
+RTECS #:ZH4810000
+Fraction by Wt: 8.1%
+OSHA PEL:15MG/M3 TDUST/5 FUME
+ACGIH TLV:10MG/M3 TDUST; 9293
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:(ACUTE) INHAL:HARMFUL IF INHALED. MAY
+    AFFECT BRAIN/NERV SYS, CAUSING DIZZ, HDCH/NAUS. EYE:CAUSES EYE
+    IRRIT. SKIN:CAUSES SKIN IRRIT. INGEST:IRRIT OF DIGESTIVE TRACT &
+    NERV SYS DEPRESSION (DROWS, DIZZ,  LOSS OF COORDINATION & FATG.
+    ASPIR HAZ - THIS MATL CAN ENTER LUNGS DURING SWALLOWING/VOMIT &
+    CAUSE (SEE EFTS OF OVEREXP)
+Explanation of Carcinogenicity:CRYSTALLINE SILICA - GROUP 2A (IARC)
+Effects of Overexposure:HLTH HAZ:LUNG INFLAM & DMG. (CHRONIC)SKIN:
+    PRLNGD/RPTD EXPOS MAY CAUSE DERMAT. INHAL:SANDING DUST INHAL MAY
+    CAUSE LUNG DMG. NOTICE:RPTS HAVE ASSOC PERM BRAIN & NERV SYS DMG
+    W/RPTD PRLNGD OVEREXP TO SO LV AMONG PERSONS ENGAGED IN PAINTING
+    TRADE. INTENTIONAL MISUSE BY DELIB CONC & INHALING CONTENTS MAY BE
+    HARMFUL OR FATAL
+Medical Cond Aggravated by Exposure:NONE EXPECTED WHEN USED IN
+    ACCORDANCE WITH SAFE HANDLING AND USE INFORMATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: REMOVE FROM HAZARD AREA, MAINTAIN BREATHING, CALL MD.
+    SKIN: REMOVE WITH SOAP AND WATER. EYES: FLUSH IMMEDIATELY WITH
+    LARGE AMOUNTS OF WATER FOR AT LEAST 15 MINUTES. CALL MD. INGEST:
+    DRINK 1 OR	2 GLASSES OF WATER TO DILUTE. DO NOT INDUCE VOMITING.
+    CALL MD.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:125F,52C
+Lower Limits:1.0%
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL, WATER FOG.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT . DO NOT USE WATER STREAM ON BURNING LIQUID.
+    COOL EXPOSED CNTNRS WITH WATER.
+Unusual Fire/Explosion Hazard:CLOSED CONTAINERS MAY BURST IF EXPOSED TO
+    EXTREME HEAT OR FIRE. TOXIC GASES MAY FORM WHEN PRODUCT BURNS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. AVOID
+    BREATHING VAPORS. USE NON-SPARKING TOOLS TO RETURN MATERIALS TO
+    CONTAINER. ABSORB RESIDUE WITH FULLER'S EARTH.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:COMBUSTIBLE - KEEP AWAY FROM HEAT AND
+    FLAME.
+Other Precautions:USE ONLY WITH ADEQUATE VENTILATION. AVOID PROLONGED
+    CONTACT WITH SKIN AND BREATHING OF VAPOR SPRAY MIST OR SANDING
+    DUST. CLOSE CONTAINER AFTER EACH USE. KEEP OUT OF REACH OF
+    CHILDREN. DO NOT TAKE INTE RNALLY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR SPECIFIED FOR
+    PROTECTION AGAINST PAINT SPRAY MIST, SANDING DUST OR ORGANIC VAPORS
+    IN RESTRICTED OR CONFINED AREAS.
+Ventilation:ADEQ TO MAINTAIN WORKING ATMOSPHERE BELOW TLV & LEL. MECH
+    EXHAUST MAY BE REQUIRED IN CONFINED AREA. DISCHARGE(SUPP DATA
+Protective Gloves:SOLVENT IMPERMEABLE GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:CLOTHING ADEQUATE TO PROTECT SKIN.
+Work Hygienic Practices:REMOVE AND WASH CLOTHING BEFORE REUSE. WASH
+    HANDS BEFORE EATING, SMOKING OR USING WASHROOM.
+Supplemental Safety and Health
+% VOLAT: 43.2-55.9. VENT: EXHAUST ONLY IN AREA AWAY FROM IGNITION
+    SOURCES.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:361F,183C
+Vapor Pres:SEE INGRED
+Vapor Density:HVR/AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Appearance and Odor:NONE SPECIFIED BY MANUFACTURER.
+Percent Volatiles by Volume:SUPDAT
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE REASONABLY FORESEEABLE.
+Stability Condition to Avoid:ELEVATED TEMPERATURES AND BUILD UP OF
+    VAPORS.
+Hazardous Decomposition Products:BURNING MAY PRODUCE CO2 AND CO.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONVENTIONAL PROCEDURES IN COMPLIANCE WITH
+    LOCAL, STATE AND FEDERAL REGULATIONS. DO NOT INCINERATE SEALED
+    CONTAINERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

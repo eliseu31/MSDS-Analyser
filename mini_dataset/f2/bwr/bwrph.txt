@@ -1,0 +1,119 @@
+=====================  Product Identification  =====================
+
+Product ID:AIR CASSETTE, 600
+MSDS Date:09/11/1986
+FSC:6850
+NIIN:00N057043
+MSDS Number: BWRPH
+=== Responsible Party ===
+Company Name:ARMOR RESEARCH CO
+Address:1035 T L BUSCH MEMORIAL HWY
+City:PENNSAUKEN
+State:NJ
+ZIP:08110
+Country:US
+Info Phone Num:800-257-9031
+Emergency Phone Num:800-535-5053
+CAGE:0FZM9
+=== Contractor Identification ===
+Company Name:ARMOR RESEARCH CO
+Address:1035 T L BUSCH MEMORIAL HWY
+Box:City:PENNSAUKEN
+State:NJ
+ZIP:08110
+Country:US
+Phone:800-257-9031
+CAGE:0FZM9
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:1-NAPHTALENE METHANAMINIUM,
+    N-DODECYL-N,N-DIMETHYL-,CHLORIDE; (N-ALKYL (98% C12, 2% C14)
+    DIMETHYL 1-NAPTHYLMETHYL(ING 2)
+CAS:1733-96-6
+RTECS #:QJ8800000
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:ING 1: AMMONIUM CHLORIDE MONOHYDRATE)
+RTECS #:9999999ZZ
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL,RAT): 400 MG/KG.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN AND EYES-SEVERE IRRITATION.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:IRRITATION.
+Medical Cond Aggravated by Exposure:NONE KNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH PLENTY OF WATER FOR AT LEAST 15 MINUTES.
+    SKIN: FLUSH WITH PLENTY OF WATER, GET MEDICAL ATTENTION. INGESTION:
+    CALL MD IMMEDIATELY . INHALATION: REMOVE FROM EXPOSURE. SUPPORT
+    BREA THING (GIVE ARTIFICIAL RESPIRATION/OXYGEN) .
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER, CARBON DIOXIDE, FOAM, DRY CHEMICAL.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SHOULD PRODUCT INADVERTENTLY BE REMOVED FROM
+    ITS CASE AND PULVERIZED, PICK UP MATERIAL WITH SCOOP OR SHOVEL AND
+    PLACE IN CLOSED CONTAINER. FLUSH AREA WITH WATER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:TABLET SHOULD NEVER BE REMOVED FROM
+    ITS HOUSING, MUST NOT COME IN CONTACT WITH FOOD. AVOID CONTACT WITH
+    SKIN AND EYES. STORE IN COOL, DRY PLACE.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE
+    FOR EXPOSURE OF CONCERN .
+Ventilation:LOCAL EXHAUST.
+Protective Gloves:NON-ABSORBENT GLOVES.
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGG (SUPDAT)
+Other Protective Equipment:EMERGENCY EYEWASH AND DELUGE SHOWER WHICH
+    MEET ANSI DESIGN STANDARDS .
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+EYE PROTECTION: AND FULL LENGTH FACESHIELD .
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:1 (H*2O=1)
+Solubility in Water:SLIGHT (OR PARTIAL)
+Appearance and Odor:ODORLESS WHITE TABLET IN SEALED PLASTIC HOUSING.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:NONE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF CONTAINER ACCORDING TO FEDERAL, STATE
+    AND LOCAL PROVISIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

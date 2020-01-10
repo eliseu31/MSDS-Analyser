@@ -1,0 +1,141 @@
+=====================  Product Identification  =====================
+
+Product ID:105 ASPHALT PRIMER
+MSDS Date:03/12/1990
+FSC:8040
+NIIN:00N021478
+MSDS Number: BLMLL
+=== Responsible Party ===
+Company Name:HENRY CO
+Address:5731 BICKETT ST
+City:HUNTINGTON PARK
+State:CA
+ZIP:90255
+Country:US
+Info Phone Num:213-583-5000
+Emergency Phone Num:213-583-5000
+Preparer's Name:GEORGE MARCINA
+CAGE:IO091
+=== Contractor Identification ===
+Company Name:HENRY CO
+Address:5731 BICKETT ST
+Box:City:HUNTINGTON PARK
+State:CA
+ZIP:90255
+Country:US
+Phone:213-583-5000
+CAGE:IO091
+Company Name:HENRY W W CO
+Address:Box:3001
+City:LANCASTER
+State:PA
+ZIP:17604
+Country:US
+Phone:717-396-2328;717-396-2935
+CAGE:11761
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DECANE; (PETROLEUM DISTILLATES)
+CAS:124-18-5
+RTECS #:HD6550000
+Fraction by Wt: 48-52%
+OSHA PEL:500 PPM (MFR)
+ACGIH TLV:500 PPM (MFR)
+
+Ingred Name:MINERAL OIL (EXPOSURE REGULATED AS 'OIL MIST')
+CAS:8012-95-1
+RTECS #:PY8030000
+Fraction by Wt: 3-4%
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3/10 STEL;9192
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:HDCH, NAUSEA; EYE, NOSE, THROAT & LUNG
+    DISTRESS. NO LONG TERM LAB TESTS TO DETERMINE CHRONIC EFTS. CNTNS
+    AN INGREDIENT SIMILAR TO MINERAL OILS REPORTED TO INDUCE CANCER IN
+    LAB ANIMALS. THERE IS NO EVI DENCE OF ANY ADVERSE EFTS ON HUMANS IF
+    SIMPLE PRECAUTONS ARE TAKEN USING PROT EQUIP & GOOD PERSONAL
+    HYGIENE.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:CURRENT ANEMIA, RESPIRATORY OR
+    LIVER AILMENTS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: MOVE PERSON TO FRESH AIR. ARTIFICIAL RESPIRATION IF
+    NEEDED. SKIN: WASH SKIN WITH SOAP AND WATER OR WATERLESS CLEANER.
+    EYES: FLUSH EYES WITH WATER FOR AT LEAST 15 MIN. CALL PHYSICIAN!
+    INGEST: GE T MD IMMEDIATELY .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:117F,47C
+Lower Limits:NONE
+Extinguishing Media:FOAM, CO2 OR DRY CHEMICAL.
+Fire Fighting Procedures:NONE. WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:WATER CAUSES FIRE TO SPREAD.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EXTINGUISH ALL SOURCES OF IGNTION IN THE AREA.
+    CLEAN UP SPILLS AS SOON AS POSSIBLE.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM HEAT AND SOURCES OF
+    IGNTION.
+Other Precautions:NONE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY NEEDED. NIOSH/MSHA APPROVED
+    RESPIRATOR APPROPRIATE FOR EXPOSURE OF CONCERN .
+Ventilation:USE SUPPLIED AIR SYSTEM IF VAPOR CONCENTRATION EXCEEDS TLV.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE
+Work Hygienic Practices:CLEAN SKIN WITH SOAP AND WATER OR WATERLESS
+    CLEANER. FLUSH EYES WITH WATER. DO NOT USE SOLVENTS.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:310F,154C
+Vapor Pres:SEE INGRED
+Vapor Density:HVR/AIR
+Spec Gravity:0.90 
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Appearance and Odor:NONE SPECIFIED BY MANUFACTURER.
+Percent Volatiles by Volume:52-56
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:HEAT AND SOURCE OF IGNITION.
+Hazardous Decomposition Products:SMOKE AND OXIDES OF CARBON.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ABSORB SPILLED MATERIAL WITH CLAY, DIATOMACEOUS
+    EARTH OR OTHER NON-FLAMMABLE ABSORBENT MATERIAL. DISPOSE AS SOLID
+    PER GOVERNMENT, STATE AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,186 @@
+=====================  Product Identification  =====================
+
+Product ID:MERCURIC OXIDE CELL
+MSDS Date:02/25/1991
+FSC:6135
+NIIN:00-168-3721
+MSDS Number: BJDMY
+=== Responsible Party ===
+Company Name:DURACELL INC.
+Address:BERKSHIRE INDUSTRIAL PARK BLDG 9
+City:BETHEL
+State:CT
+ZIP:06801
+Country:US
+Info Phone Num:203/796-4292
+Emergency Phone Num:203/796-4654 OR 617/449-7600
+CAGE:KO405
+=== Contractor Identification ===
+Company Name:DURACELL INC  TECHNICAL SALES AND MARKETING GROUP
+Address:BERKSHIRE CORPORATE PARK
+Box:City:BETHEL
+State:CT
+ZIP:06801
+Country:US
+Phone:203-796-4000
+CAGE:90303
+Company Name:DURACELL INC.
+Address:305 NEW HIGHWAY 64E
+Box:City:LEXINGTON
+State:NC
+ZIP:27292-2037
+Country:US
+Phone:203-796-4292
+CAGE:KO405
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POTASSIUM HYDROXIDE  (SARA III). BP: 1320C. SOL IN H*2O:
+    50%. SPEC GRAV: 2 (H*2O=1). MP: 360C. APPEAR/ODOR: CLEAR LIQ.
+CAS:1310-58-3
+RTECS #:TT2100000
+Fraction by Wt: 9%
+OSHA PEL:C, 2 MG/M3
+ACGIH TLV:C 2 MG/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:MERCURIC OXIDE  (SARA III). MP: 500C. SOL IN H*2O: 5%. SPEC
+    GRAV: 11.1 (H*2O=1). APPEAR/ODOR: ORANGE RED POWDER.
+CAS:21908-53-2
+RTECS #:OW8750000
+Fraction by Wt: 35-45%
+OSHA PEL:0.1 MG HG/M3;SKIN;C
+ACGIH TLV:0.1 MG HG/M3; 9192
+
+Ingred Name:MERCURY  (SARA III). BP: 357C. VP: 1@126C. SOL IN H*2O: 0%.
+    SPEC GRAV: 13.6 (H*2O=1). MP: -39C. APPEAR/ODOR: SILVER LIQ.
+CAS:7439-97-6
+RTECS #:OV4550000
+Fraction by Wt: < 1%
+OSHA PEL:S, C, 0.1 MG/M3
+ACGIH TLV:S, 0.05 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:ZINC  (SARA III). BP: 907C. VP: 1 @ 487C. SOL IN H*2O: 0%.
+    SPEC GRAV: 7.14 (H*2O=1). MP: 420C. APPEAR/ODOR: GRAY POWDER.
+CAS:7440-66-6
+RTECS #:ZG8600000
+Fraction by Wt: 12%
+OSHA PEL:10 MG ZNO/M3
+ACGIH TLV:10 MG ZNO/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:MANGANESE DIOXIDE. SOL IN H*2O: 0%. SPEC GRAV: 5 (H*2O=1).
+    MP: 535C. APPEAR/ODOR: BLACK POWDER.
+CAS:1313-13-9
+RTECS #:OP0350000
+Fraction by Wt: 6%
+OSHA PEL:5 MG/M3 C
+ACGIH TLV:5 MG/M3 C
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:THESE CHEM ARE CNTND IN A SEALED CAN.
+    RISK OF EXPOS ONLY IF THE CELL IS MECH OR ELEC ABUSED. THE MOST
+    LIKELY RISK IS ACUTE EXPOS WHEN A CELL LEAKS. KOH IS CAUSTIC. SKIN
+    CNTCT CAN PRODUCE BURNS. EYE CN TCT CAN RSLT IN SEV, PERM INJURY.
+    AT ELEVATED TEMP MERCURY VAPS GENERATED CAN PRODUCE MERCURY INTOX.
+    (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:HLTH HAZ: SKIN & EYE CNTCT W/KOH MAY CAUSE CHEM
+    BURNS. AT ELEVATED TEMPS, MERCURY VAP MAY BE GENERATED WHICH SHOULD
+    NOT BE INHALED. MERCURY & MERCURY CMPNDS APPEAR ON NAVY LIST OF
+    OCCUP CHEM REPROD HA Z. SEEK CONSULTATION FROM APPROP HLTH
+    PROFESSIONALS CONCERNING LATEST HAZ LIST INFO & SAFE HNDLG & EXPOS
+    INFO .
+Medical Cond Aggravated by Exposure:AN ACUTE EXPOSURE WILL NOT
+    GENERALLY AGGRAVATE ANY MEDICAL CONDITION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:IF LEAKAGE FROM CELL COMES INTO CONT WITH THE SKIN, FLUSH
+    IMMED WITH WATER. FOR EYE CONT, FLUSH EYES IMMED WITH COPIOUS OF
+    WATER FOR FIFTEEN MIN AND SEE MD AT ONCE. FOR INHAL OF MERCURY
+    VAPORS, REMOVE  TO FRESH AIR. INGEST: CALL MD IMMED .
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:EXTINGUISHING MEDIA SUITABLE FOR SURROUNDING FIRE .
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH/MSHA APPROVED
+    SCBA & FULL PROT EQUIP WHEN CELLS ARE INVOLVED IN A FIRE.
+Unusual Fire/Explosion Hazard:CELLS MAY RELEASE TOXIC MERCURY VAPOR
+    WHEN THE INTEGRITY OF THE CAN IS BROKEN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:AVOID SKIN AND EYE CONTACT. DO NOT INHALE
+    VAPORS.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:USE NEOPRENE, RUBBER OR LATEX NITRILE
+    GLOVES WHEN HANDLING LEAKERS. STORE AT ROOM TEMPERATURE.
+Other Precautions:AVOID MECH AND ELEC ABUSE. DO NOT RECHARGE. AVOID
+    SHORT CIRCUITS. INSTALL CELLS IAW EQUIP INSTRUCTIONS. OBSERVE
+    CORRECT POLARITY WHEN INSTALLING. DO NOT DISPOSE OF IN FIRE.
+    REPLACE ALL BATTERIES IN EQ UIP AT SAME TIME. SEE SUPP DATA.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:SELF CONTAINED BREATHING APPARTUS WHEN CELLS ARE
+    INVOLVED IN FIRE.
+Ventilation:SUBSEQUENT TO A FIRE, PROVIDE AS MUCH VENTILATION AS
+    POSSIBLE.
+Protective Gloves:NEOPRENE, RUBBER OR LATEX NITRILE.
+Eye Protection:SAFETY GLASSES WHEN HANDLING LEAKERS.
+Other Protective Equipment:NONE
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+OTHER PRECAUTIONS: DO NOT MIX BATTERY SYSTEMS SUCH AS ALKALINE & ZINC
+    CARBON. DO NOT CARRY BATTERIES LOOSE IN POCKET, PURSE, OR BAG. KEEP
+    AWAY FROM CHILDREN. IF SWALLOWED SEE MD AT ONCE. FOR INFO ON T
+    REATMENT CALL NATIONAL CAPITOL POISON CENTER AT 202/625-3333.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:SEE INGRD.
+Melt/Freeze Pt:M.P/F.P Text:SEE INGRD.
+Decomp Temp:Decomp Text:NOT KNOWN
+Vapor Pres:SEE INGRD.
+Vapor Density:SEE INGRD.
+Spec Gravity:SEE INGRD.
+Evaporation Rate & Reference:SEE INGREDIENTS
+Solubility in Water:SEE INGREDIENTS
+Appearance and Odor:SEE INGREDIENTS
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:DO NOT HEAT, DISASSEMBLE, CRUSH, PUNCTURE
+    OR RECHARGE.
+Hazardous Decomposition Products:WHEN HEATED CELLS MAY EMIT HAZARDOUS
+    MERCURY VAPORS AND CAUSTIC POTASSIUM HYDROXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:NO SPECIAL PRECAUTIONS ARE REQUIRED FOR THE
+    DISPOSAL OF SMALL QUANTITIES OF SPENT MERCURY BATTERIES. LARGE
+    QUANTITIES OF OPEN CELLS SHOULD BE TREATED AS HAZARDOUS WASTE. DO
+    NOT INCINERATE. DISPOSE OF	IAW APPLICABLE REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

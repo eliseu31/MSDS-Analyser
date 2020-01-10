@@ -1,0 +1,139 @@
+=====================  Product Identification  =====================
+
+Product ID:ELASTO-DECK BT 1000 COMPONENT-B
+MSDS Date:02/08/1993
+FSC:8010
+NIIN:00N057678
+Kit Part:Y
+MSDS Number: BWRTG
+=== Responsible Party ===
+Company Name:PACIFIC POLYMERS INC
+Address:12271 MONARCH ST
+City:GARDEN GROVE
+State:CA
+ZIP:92641
+Country:US
+Info Phone Num:715-898-0025
+Emergency Phone Num:714-898-0025
+CAGE:3U503
+=== Contractor Identification ===
+Company Name:PACIFIC POLYMERS INC
+Address:12271 MONARCH ST
+City:GARDEN GROVE
+State:CA
+ZIP:92641
+Country:US
+Phone:714-898-0025
+CAGE:3U503
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DIPHENYLMETHANE DIISOCYANATE. LD50 (ORAL,RAT): >5000 MG/KG.
+CAS:26447-40-5
+Fraction by Wt: 0-100%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:VOLATILE ORGANIC CONTENT: 0.0 GR/LITER
+RTECS #:9999999VO
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE INGREDIENT 1.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: MAY CAUSE EYE IRRITATION. MAY
+    CAUSE ALLERGIC SKIN REACTION RESULTING TO REDNESS, AND DERMATITIS.
+    MAY CAUSE IRRITATION TO RESPIRATORY TRACT AND LUNGS. INGESTION CAN
+    CAUSE DAMAGE TO STOMACH AND D IGESTIVE TRACT. CHRONIC: MAY CAUSE
+    ALLERGIC SKIN REACTION RESULTING TO DERMATITIS. INHALATION MAY
+    RESULT TO RESP SENSIT.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: WASH AREA OF CONT WITH SOAP AND WATER. REMOVE CONTAMD
+    CLTHG. LAUNDER BEFORE REUSE. CALL PHYS IF IRRIT PERSISTS. EYES:
+    FLUSH W/PLENTY OF WATER FOR AT LST 15 MINS. CONSULT PHYS IMMED.
+    WEAR PROT GO GGLES/GLASSES TO AVOID CONTACT. INHAL: REMOVE TO FRESH
+    AIR. IF BRTHG IS DFCLT/STOPPED BEGIN ARTF RESP. CONSULT PHYS IMMED.
+    AVOID INHAL BY WEARING NIOSH/MSHA APPRVD RESP. INGEST: CALL MD
+    IMMED .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:>212F,>100C
+Extinguishing Media:USE EXTINGUISHING MEDIA SUCH AS FOAM, DRY CHEMICAL
+    CARBON DIOXIDE, WATER, FIRE EXTINGUISHERS.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ESTABLISH WRITTEN EMERGENCY PLANS AND SPECIAL
+    TRAINING OF PERSONNEL. DIKE SPILLED AREA AND ABSORB PRODUCT AND
+    PLACE IN SUITABLE CONTAINER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:WEAR PROTECTIVE CLTHG & EQUIP. USE
+    PROPER TOOLS TO OPEN CNTNR. AVOID MOISTURE CONT. AVOID EXTREME HEAT
+    CNDTNS SUCH AS FLAMES, SPARKS & IGNIT SOURCES.
+Other Precautions:KEEP CONTAINERS CLOSED AND STORE IN WELL-VENTILATED
+    COOL, DRY LOCATION. DO NOT STORE BELOW 40F AND ABOVE 120F.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED HALF MASK DUAL ORGANIC VAPOR
+    CARTRIDGE OR AIR SUPPLIED RESPIRATOR.
+Ventilation:PROVIDE GENERAL AND LOCAL EXHAUST VENTILATION TO AVOID
+    VAPOR CONCENTRATION BELOW TLV LIMIT.
+Protective Gloves:RUBBER, NEOPRENE, NITRILE, PVA GLOVES.
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGG .
+Other Protective Equipment:ANSI APPRVD EYE WASH STATION, SFTY SHOWER . 
+    RUBB, NITRILE, LEATHER, NON-SLIP BOOTS/SHOES. COTTON TYPE (SUPDAT)
+Work Hygienic Practices:WASH BEFORE EATING, DRINKING OR SMOKING TO
+    AVOID CONTACT.
+Supplemental Safety and Health
+MATERIALS TO AVOID: AND INSOLUBLE UREA. COMBINED EFFECT OF CARBON
+    DIOXIDE AND HEAT CAN PRODUCE EXCESSIVE PRESSURE TO RUPTURE CLOSED
+    CONTAINER. OTHER PROTECTIVE EQUIPMENT: COVERALLS, APRONS TO AVOID
+    BO DY CONTACT.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:597F,314C
+Vapor Pres:0.0003@25C
+Spec Gravity:1.20 @ 77F
+Appearance and Odor:LIGHT YELLOW LIQUID.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+WATER, ACID, BASE, ALCOHOLS, METAL CMPDS,SURF ACTIVE MATLS.AVOID WATER
+    AS IT REACTS TO FORM HEAT, CARBON DIOXIDE(SUPDAT)
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:ISOCYANATE VAPOR AND MISTS, CARBON
+    DIOXIDE, CARBON MONOXIDE, NITROGEN OXIDES AND TRACES OF HYDROGEN
+    CYANIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN ACCORDANCE WITH LOCAL, STATE, AND
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

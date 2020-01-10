@@ -1,0 +1,128 @@
+=====================  Product Identification  =====================
+
+Product ID:DIESEL FUEL OIL CONDITIONER, 995
+MSDS Date:03/01/1989
+FSC:9150
+NIIN:00N022654
+MSDS Number: BLPBR
+=== Responsible Party ===
+Company Name:KLEEN-FLO TUMBLER INDUSTRIES LTD
+Address:75 ADVANCE BLVD
+City:BRAMPTON ONTARIO
+Country:CN
+Info Phone Num:416-793-4311
+Emergency Phone Num:416-793-4311
+Preparer's Name:QUALITY CONTROL LAB
+CAGE:IO128
+=== Contractor Identification ===
+Company Name:KLEEN-FLO	TUMBLER INDUSTRIES LTD
+Address:75 ADVANCE BLVD
+Box:City:BRAMPTON ONTARIO
+Country:CN
+Phone:416-793-4311
+CAGE:16367
+Company Name:KLEEN-FLO TUMBLER INDUSTRIES LTD
+Address:75 ADVANCE BLVD
+Box:City:BRAMPTON ONTARIO
+Country:CA
+Phone:416-793-4311
+CAGE:IO128
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: 60-90%
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+Ingred Name:PETROLEUM DISTILLATES; (PETROLEUM DISTILLATE MIXTURE).
+    LD50: (ORAL, RAT) >8000 MG/KG.
+Fraction by Wt: 10-40%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE INGREDIENTS
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: SLIGHT IRRITATION OF EYES.
+    PROLONGED INHALATION MAY CAUSE HEADACHE, NAUSEA, DIZZINESS,
+    DROWSINESS AND CENTRAL NERVOUS SYSTEM DEPRESSION. CHRONIC: NOT
+    AVAILABLE.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: WASH CONTAMINATED SKIN WITH SOAP AND WATER. EYE: FLUSH
+    EYES WITH WATER FOR AT LEAST 15 MINUTES. INHAL: REMOVE VICTIM TO
+    FRESH AIR AND RESTORE BREATHING IF REQUIRED. INGEST: DO NOT INDUCE
+    VOMITIN G. GUARD AGAINST ASPIRATION INTO LUNGS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:55.4F,13.0C
+Lower Limits:2%
+Upper Limits:12%
+Extinguishing Media:USE MEDIA SUITABLE FOR SURROUNDING FIRE .
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DIKE AND CONTAIN LAND SPILL. SOAK RESIDUE WITH
+    NATURAL ABSORBENT.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP IN A COOL PLACE.
+Other Precautions:MAINTAIN TLV. ELECTRICAL MECHANICAL EQUIPMENT SHOULD
+    BE SPARK PROOF.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED ORGANIC CANISTER MASK.
+Ventilation:NONE SPECIFIED BY MANUFACTURER.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F3
+Boiling Pt:B.P. Text:180F,82C
+Vapor Pres:30
+Vapor Density:2.2
+Spec Gravity:0.79
+Solubility in Water:40%
+Appearance and Odor:COLORLESS, WATER WHITE LIQUID; ALCOHOL ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTACT WITH STRONG OXIDIZING MATERIALS, IT MAY REACT WITH
+    ALUMINIUM TEMPERATURES.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:CO, CO*2, PRODUCED ON COMBUSTION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATION OR DISPOSE AT AN APPROVED WASTE
+    DISPOSAL FACILITY. DISPOSE OF I/A/W FEDERAL, STATE, AND LOCAL
+    REGULATIONS .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

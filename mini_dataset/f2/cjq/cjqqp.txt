@@ -1,0 +1,181 @@
+=====================  Product Identification  =====================
+
+Product ID:BENZYL ALCOHOL 99+%, B16208
+MSDS Date:10/01/1998
+FSC:6810
+NIIN:00N092209
+Status Code:A
+MSDS Number: CJQQP
+=== Responsible Party ===
+Company Name:ALDRICH CHEMICAL CO INC
+Address:1001 WEST ST PAUL
+City:MILWAUKEE
+State:WI
+ZIP:53233
+Country:US
+Info Phone Num:414-273-3850
+Emergency Phone Num:414-273-3850
+CAGE:60928
+=== Contractor Identification ===
+Company Name:ALDRICH CHEMICAL CO INC
+Address:1001 WEST ST PAUL AVE
+Box:355
+City:MILWAUKEE
+State:WI
+ZIP:53233
+Country:US
+Phone:414-273-3850
+CAGE:60928
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BENZYL ALCOHOL
+CAS:100-51-6
+RTECS #:DN3150000
+> Wt:99.
+Other REC Limits:N/K 
+OSHA PEL:N/K 
+OSHA STEL:N/K 
+ACGIH TLV:N/K 
+ACGIH STEL:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE TOXICOLOGICAL INFORMATION.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: HARMFUL IF INHALED OR
+    SWALLOWED. MAY BE HARMFUL IF ABSORBED THROUGH THE SKIN. CAUSES
+    SEVERE EYE IRRITATION. RISK OF SERIOUS DAMAGE TO EYES. CAUSES SKIN
+    IRRITATION. MATERIAL IS IRRITATING TO MUC OUS MEMBRANES AND UPPER
+    RESPIRATORY TRACT. CAN CAUSE CENTRAL NERVOUS SYSTEM DEPRESSION.
+    TARGET ORGANS: CENTRAL NERVOUS SYSTEM.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: IMMEDIATELY FLUSH WITH COPIOUS AMOUNTS OF WATER FOR AT
+    LEAST 15 MINUTES. SKIN: IMMEDIATELY WASH WITH SOAP AND COPIOUS
+    AMOUNTS OF WATER. INHALATION: REMOVE TO FRESH AIR. IF NOT
+    BREATHING, GIVE AR TIFICIAL RESPIRATION. IF BREATHING IS DIFFICULT,
+    GIVE OXYGEN. INGESTION: WASH OUT MOUTH WITH WATER PROVIDED PERSON
+    IS CONSCIOUS. CALL A PHYSICIAN. WASH CONTAMINATED CLOTHING BEFORE
+    REUSE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:=93.9C, 201.F
+Autoignition Temp:=436.1C, 817.F
+Extinguishing Media:WATER SPRAY, CARBON DIOXIDE, DRY CHEMICAL POWDER OR
+    APPROPRIATE FOAM.
+Fire Fighting Procedures:WEAR NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:EMITS TOXIC FUMES UNDER FIRE CONDITIONS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR NIOSH APPROVED SELF-CONTAINED BREATHING
+    APPARATUS, RUBBER BOOTS AND HEAVY RUBBER GLOVES. COVER WITH DRY
+    LIME OR SODA ASH, PICK UP, KEEP IN A CLOSED CONTAINER AND HOLD FOR
+    WASTE DISPOSAL. VENTILAT E AREA AND WASH SPILL SITE AFTER MATERIAL
+    PICKUP IS COMPLETE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT BREATHE VAPOR. AVOID CONTACT
+    WITH EYES, SKIN AND CLOTHING. KEEP TIGHTLY CLOSED. STORE IN A COOL
+    DRY PLACE. HYGROSCOPIC.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED RESPIRATOR.
+Ventilation:MECHANICAL EXHAUST REQUIRED.
+Protective Gloves:RUBBER GLOVES.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:EYEWASH AND DELUGE SHOWER MEETING ANSI
+    DESIGN CRITERIA .
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+HMIS RATING: HEALTH = 2; FLAMMABILITY = 1; REACTIVITY = 0; PERSONAL
+    PROTECTION = X. PHYSICAL/CHEMICAL PROPERTIES: VAPOR PRESSURE: 3.75
+    MM @ 77C; 13.3 MM @ 100C.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:=205.C, 401.F
+Melt/Freeze Pt:=-15.C, 5.F
+Vapor Pres:SEE SUP DAT
+Vapor Density:3.7
+Spec Gravity:1.045
+Appearance and Odor:COLORLESS LIQUID.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS. A MIXT OF BENZYL ALCOHOL & 58% SULFURIC ACID
+    DECOMPOSED VIOLENTLY WHEN HEATED TO 180C. BENZYL ALCOHOL CONTAINING
+    1.4% HYDROGEN BROMIDE & 1.1% OF AN IRON(2) SALT POLYMERIZED
+    EXOTHERMICALLY WHEN HEATE
+Stability Condition to Avoid:MAY DECOMPOSE ON EXPOSURE TO MOIST AIR OR
+    WATER.
+Hazardous Decomposition Products:TOXIC FUMES OF CARBON MONOXIDE, CARBON
+    DIOXIDE.
+Conditions to Avoid Polymerization:TEMPERATURES ABOVE 100C.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:RTECS #: DN3150000, BENZYL ALCOHOL. IRRIT
+    DATA: SKN-MAN 16 MG/48H MLD, CTOIDG 94 (8), 41, 1979. SKN-RBT 10
+    MG/24H OPEN MLD, AMIHBC 4, 119, 1951. SKN-RBT 100 MG/24H MOD,
+    CTOIDG 94 (8), 41, 1979. EYE-RB T 750 UG OPEN SEV, AMIHBC 4, 119,
+    1951.SKN-PIG 100% MOD, FCTXAV 11, 1011, 1973. TOXICITY DATA:
+    ORL-RAT LD50: 1230 MG/KG, FCTXAV 2, 327, 1964. IPR-RAT LD50: 400
+    MG/KG, NPIRI 1, 6, 1974. IVN-RAT LD50: 5 3 MG/KG, TXAPA9, 18, 60,
+    1971. IAT-RAT LD50: 441 MG/KG, TXAPA9 18, 60, 1971. ORL-MUS LD50:
+    1360 MG/KG, GISAAA 50 (7), 81, 1985. IPR-MUS LD50: 650 MG/KG,
+    JPMSAE 75, 702, 1986. IVN-MUS LD50: 324 MG/KG,  AIPTAK 135, 330,
+    1962. (OTHER INFO)
+
+=====================  Ecological Information  =====================
+
+Ecological:DATA NOT YET AVAILABLE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISSOLVE OR MIX THE MATERIAL WITH A COMBUSTIBLE
+    SOLVENT AND BURN IN A CHEMICAL INCINERATOR EQUIPPED WITH AN
+    AFTERBURNER AND SCRUBBER. OBSERVE ALL FEDERAL, STATE AND LOCAL
+    ENVIRONMENTAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:CONTACT ALDRICH CHEMICAL COMPANY FOR
+    TRANSPORTATION INFORMATION.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:FED REGS: EPA TSCA TEST SUBMISSION (TSCATS)
+    DATA BASE, MARCH 1998. NTP CARCINOGENESIS STUDIES (GAVAGE); NO
+    EVIDENCE: MOUSE, RAT. NTPTR* NTP-TR-343, 89.
+Federal Regulatory Information:EUROPEAN INFO: EC INDEX #: 603-057-00-5.
+    HARMFUL. R 20/22: HARMFUL BY INHAL & IF SWALLOWED. S 26: IN CASE OF
+    CONT W/EYES, RINSE IMMED W/PLENTY OF WATER & SEEK MED ADVICE.
+    REVIEWS, STDS, & REGS: OEL=MA K. EPA FIFRA 1988 PESTICIDE SUBJECT
+    TO REGISTRATION/RE-REGISTRATION FEREAC 54, 7740, 1989. OEL-RUSSIA:
+    STEL 5 MG/M3; SKIN JAN 1993. NOS 1974: HZD 11360; NIS 85; TNF 7284;
+    NOS 68; TNE 138757. NOES 1983 : HZD 11360; NIS 128; TNF 19005; NOS
+    127; TNE 404916; TFE 236470. EPA GENETOX PROGRAM 1988, NEG: E C OLI
+    POLA W/OUT S9. EPA TSCA SECTION 8 (B) CHEM INVENTORY. EPA TSCA
+    SECTION 8 (D) UNPUBLISHED HLTH/SFTY STUDIES. (SARA REGS)
+State Regulatory Information:
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

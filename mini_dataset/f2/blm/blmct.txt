@@ -1,0 +1,148 @@
+=====================  Product Identification  =====================
+
+Product ID:CUSTOM PLASMA STANDARD SINGLE ELEMENT (SUPP
+MSDS Date:01/10/1988
+FSC:6850
+NIIN:00N020523
+MSDS Number: BLMCT
+=== Responsible Party ===
+Company Name:SPEX INDUSTRIES INC
+Address:3880 PARK AVENUE
+City:EDISON
+State:NJ
+ZIP:08820
+Country:US
+Info Phone Num:201-549-7144
+Emergency Phone Num:201-549-7144
+Preparer's Name:LINDA PINDILLI
+CAGE:07977
+=== Contractor Identification ===
+Company Name:SPEX CERTIPREP INC
+Address:203 NORCROSS AVE
+Box:City:METUCHEN
+State:NJ
+ZIP:08840
+Country:US
+Phone:732-549-7144
+CAGE:07977
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NITRIC ACID  (SARA III)
+CAS:7697-37-2
+RTECS #:QU5775000
+Fraction by Wt: 1-50%
+OSHA PEL:2 PPM/4 STEL
+ACGIH TLV:2 PPM/4 STEL; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:IRON(III)NITRATE, NONAHYDRATE (1:3:9); (FE(NO*3)*3-9H*2O).
+    LD50: ORAL(RAT) 3250 MG/KG.
+CAS:7782-61-8
+RTECS #:NO7175000
+Fraction by Wt: 0-1%
+OSHA PEL:1 MG/M3 (MFR)
+ACGIH TLV:1 MG/M3 (MFR)
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:IRON NITRATE MAY BE HARMFUL IF
+    INGEST,INHAL, CONT W/SKIN/EYES.CAN BE PARTICULARLY IRRIT TO MUC
+    MEMBS OF UPPER RESP TRACT.CONC NITRIC ACID MAY BE FATAL IF TOO MUCH
+    IS INHAL/ABSORB THRU SKIN. CONT W/EYE S MAY RESULT IN BURNS & PERM
+    DMG & VISUAL IMPAIRMENT.SKIN:LIQ/ CONC VAP PRDCES IMMED, SEVERE &
+    PENETRATING(EFTS OF OVERE
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ: BURNS;CONC SOLN CAUSE DEEP ULCERS &
+    STAIN SKIN BRIGHT YELLOW/YELLOWISH BROWN COLOR. VAP/MIST MAY ERODE
+    EXPOS TEETH W/PRLNGD EXPOS. INGEST: WILL CAUSE IMMED PAIN & BURNS
+    OF MOUTH, ESOPH & GI  TRACT. INHAL: MAY BE FATAL.CAUSES SPASM,
+    INFLAMM OF LARYNX, BRONCHI, CHEM PNEUM, PULM EDEMA. SYMPS INCLUDE:
+    (SUPP DATA)
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH WATER FOR AT LEAST 15 MINUTES OCCASIONALLY
+    LIFTING UPPER AND LOWER EYELIDS. SKIN: REMOVE CONTAMINATED
+    CLOTHING, THEN FLUSH WITH WATER FOR AT LEAST 15 MINUTES. WASH
+    CLOTHING THOROUGHLY  BEFORE REUSE. INHAL: MOVE TO FRESH AIR.
+    INGEST: CALL MD IMMEDIATELY . IN ALL CASES: IF IRRITATION CONTINUES
+    GET MD ATTENTION IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:APPROPRIATE TO SURROUNDING FIRE CONDITIONS.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT. CONC HNO3 REACTS EXPLOS W/COMBUSTIBLE ORGANIC
+    OR READILY OXIDIZABLE MATERIALS.
+Unusual Fire/Explosion Hazard:CONC HNO3 IS NOT COMBUST,BUT IS STRONG
+    OXIDIZER & ITS HEAT OF RXN W/REDUCING AGENTS/COMBUST MAY CAUSE
+    IGNIT. CAN REACT W/METALS TO RELEASE FLAMM HYDROGEN GAS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENT AREA. DILUTE SPILL W/WATER & NEUTRALIZE.
+    WIPE UP & PUT INTO A SEALED CNTR FOR PROPER DISPOSAL. WASH SPILL
+    SITE OFF W/WATER AFTER MATL PICK UP IS COMPLETE. WEAR CHEM RESIST
+    GLASSES, GLOVES AND CLO THING. WEAR NIOSH/MSHA APPRVD RESPIRATOR.
+Neutralizing Agent:SODA ASH, LIMESTONE, ETC.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:CONCENTRATED NITRIC ACID WILL ATTACK
+    SOME FORMS OF PLASTICS, RUBBER, AND COATING. STORE AT ROOM TEMP.
+    KEEP TIGHTLY SEALED WHEN NOT IN USE.
+Other Precautions:IRRITANT. OXIDIZER. CORROSIVE. AVOID INHALATION,
+    INGESTION, CONTACT W/EYES & SKIN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR NIOSH/MSHA APPROVED RESPIRATOR.
+Ventilation:USE IN CHEMICAL FUME HOOD.
+Protective Gloves:IMPERVIOUS GLOVES 
+Eye Protection:CHEM WORK GOG/FULL LENGTH FCSHLD 
+Other Protective Equipment:HAVE IMMEDIATE AVAILABILITY OF AN EYE WASH
+    IN CASE OF EMERGENCY. LAB COAT, CHEMICAL RESIST CLOTHING. DELUGE
+    SHOWER 
+Work Hygienic Practices:WASH CAREFULLY AFTER USE.
+Supplemental Safety and Health
+TRADE NAME/PART #: SOLUTION, PLFE2-2X. EFTS OF OVEREXP: BURNING
+    SENSATION, COUGHING, WHEEZING, LARYNGITIS, SHORTNESS OF BREATH,
+    HEADACHE, NAUSEA, AND VOMITING.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T6
+Spec Gravity:APPROX 1
+Solubility in Water:SOLUBLE
+Appearance and Odor:TRANSPARENT WITH AN ACRID ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+REACTS EXPLOS W/ALCOHOL/WOOD/TURPENTINE/METAL POWDER/ HYDROGEN
+    SULFIDE/ETC.CONT W/STRONG BASES CAUSES VIOLENT SPLATTERIN
+Stability Condition to Avoid:ELAVATED TEMPERATURES MAY CAUSE CONTAINERS
+    TO BURST AND LIBERATE TOXIC OXIDES OF NITROGEN.
+Hazardous Decomposition Products:WILL RELEASE TOXIC NITROGEN OXIDE
+    FUMES AND VAPORS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTACT LOCAL HAZARDOUS OR CHEMICAL WASTE
+    DISPOSAL AGENCY FOR REGULATIONS. DISPOSE I/A/W FEDERAL, STATE AND
+    LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

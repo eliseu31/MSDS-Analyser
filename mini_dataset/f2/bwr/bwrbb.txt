@@ -1,0 +1,182 @@
+=====================  Product Identification  =====================
+
+Product ID:190 0703 FLEXICOLOR STBLZER & RPLNSHR,PROCESS C- 41, PART A
+MSDS Date:04/19/1996
+FSC:6750
+NIIN:00-539-9540
+Kit Part:Y
+MSDS Number: BWRBB
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-477-3194 MSDS: 800-242-2424
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+Company Name:EASTMAN KODAK CO US CUSTOMER SERVICE/GOVERNMENT SALES
+Address:800 LEE RD
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-3129
+Country:US
+Phone:800-828-6203
+CAGE:5K871
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 80-90%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:FORMALDEHYDE (SARA III)
+CAS:50-00-0
+RTECS #:LP8925000
+Fraction by Wt: 12%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:SEE 1910.1048
+ACGIH TLV:C 0.3 PPM; A2; 9394
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:METHYL ALCOHOL (METHANOL) (SARA III)
+CAS:67-56-1
+RTECS #:PC1400000
+Fraction by Wt: 4%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:S,200PPM
+ACGIH TLV:S,200PPM/250STEL; 94
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NOT GIVEN FOR PRODUCT AS A WHOLE
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:YES
+Health Hazards Acute and Chronic:INHAL:FORMALDEHYDE DETECTABLE BY MOST
+    PEOPLE @LEVELS <1PPM.MILD SENSORY IRRIT OF EYE/NOSE/THROAT
+    @2-5PPM.HI CONC CAUSES SEVERE BURNING NOSE/THROAT SENSATIONS
+    W/COUGH.EYE:CAUSES SEVERE BURN.VAP CAUSES  EYE
+    IRRIT/TEARING.SKIN:CAUSES IRRIT.MAYU CAUSE ALLERGIC SKIN
+    REACTION.INGEST:FATAL/CAUSE BLINDNESS.BURNS MOUTH/(SUPPLEM)
+Explanation of Carcinogenicity:CONTAINS F	     [50-00-0] WHICH IS
+    LISTED BY NTP AND IARC AND REGULATED BY OSHA AS A CARCINOGEN.
+Effects of Overexposure:SENSORY IRRIT OF EYE/NOSE/THROAT. SEVERE
+    NOSE/THROAT BURNING SENSATIONS W/COUGHING. SEVERE EYE BURNS. EYE
+    IRRIT W/ TEARING.SKIN IRRIT, ALLERGIC SKIN REACTION. DEATH,
+    BLINDNESS, BURNS MOUTH/ ESOPHAGUS/ STOMACH. RETINAL & KIDNEY
+    DAMAGE. IMMEDSEVERE ABDOMINAL PAIN W/
+    VOMIT,NAU,DIA,DIZZ,UNCNSC,COMA,ANURIA,CONVULSIONS,DEATH
+Medical Cond Aggravated by Exposure:EXPOSURE TO FORMADEHYDE MAY CAUSE
+    RESP SENSITIZATION IN SOME INDIVIDUALS OR AGGRAVAATE PRE-EXISTING
+    ASTHMATIC CONDITIONS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:MOVE TO FRESH AIR. NOT BREATH GIVE ART RESP. BREATH
+    DIFFICULT GIVE OXYGEN. GET MED ATTN. EYES:IMMED FLUSH W/PLETNY OF
+    WATER FOR @LEAST 15MINS. GET MED ATTN. SKIN:IMMED FLUSH W/PLENTY OF
+    WATER FO R @LEAST 15MINS. SKIN IRRIT/ALLERGIC RXDEVELOPS GET MED
+    ATTN. INGEST:DO NOT INDUCE VOMITING. GIVE A GLASS OF WATER. CALL
+    PHYSICIAN OR POISON CONTROL CENTER IMMED.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:>150F,>66C
+Lower Limits:NOT GIVEN
+Upper Limits:NOT GIVEN
+Extinguishing Media:WATER SPRAY, CARBON DIOXIDE (CO2), DRY CHEMICAL,
+    ALCOHOL FOAM.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS &
+    PROTECTIVE CLOTHING. USE WATERSPRAY TO KEEP FIRE-EXPOSED CONTAINERS
+    COOL.
+Unusual Fire/Explosion Hazard:CLASSIFIED AS COMBUSTIBLE. MATERIAL
+    CONTAINS A COMBUSTIBLE SOLVENT THAT MAY ACCUMULATE IN THE CONTAINER
+    HEADSPACE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE ALL IGN SOURCES.ABSORB SPILL W/
+    VERMICULITE OR OTHER INERT MATERIAL THEN PLACE IN CONTAINER FOR
+    CHEMICAL WASTE. CLEAN SURFACE THOROUGHLY TO REMOVE RESIDUAL
+    CONTAMINATIONS. CONTAMINATED SURFA CES MAY BE SLIPPERY.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT BREATH VAPOR OR GET IN EYES/ON
+    SKIN/ CLOTHING. USE ONLY WITH ADEQUATE VENTILATION. KEEP AWAY FROM
+    HEAT/FLAMES & CONTACT W/OXIDIZING MATERIALS.
+Other Precautions:KEEP CONTAINER TIGHTLY CLOSED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF FORMALDEHYDE EMITTED @LEVELS REQ RESP PROT
+    WEAR:FUL FACEPIECE W/CARTRIDGES OR CANISTERS SPECIFICALLY APPROVED
+    BY NIOSH FOR PROT AGAINST FORMALDEHYDE OR TYP C AIRSUPLIED RESP
+    DEMAND TYPW/FULL FACEPI ECE,HOOD,HELMET.PER 29CFR1910.134/1048.
+Ventilation:USE GOOD GENERAL VENTILATION (TYPICALLY 10 AIR CHANGES/HR).
+    MATCH RATES W/CONDITIONS.
+Protective Gloves:NEOPRENE RUBBER, NITRILE RUBBER GLOVES
+Eye Protection:SAFETY GLASSES W/SIDE SHIELD OR GOGGLES
+Other Protective Equipment:PROTECTIVE CLOTHING AGAINST FORMALDEHYDE.
+    RECOMMENDED DECONTAMIN FACILITIES:EYEBATH, WASHING FACILITIES,
+    SAFETY SHOWER.
+Work Hygienic Practices:ROUTINE USE OF NONALKALINE(ACID)TYP
+    HANDCLEANER/ REG CLEANING WORK SURFACES/EQPMT MIN SKIN RX.WASH
+    HANDS AFTER USING.
+Supplemental Safety and Health
+HEALTH HAZ:ESOPHAGUS/STOMACH.RETINAL/KIDNEY DAMAGE MAY OCCUR.DEATH.
+    KEY1:C3. MATERIAL HAS FLASH POINT > 150F PER CONVERSATION WITH MFR.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C3
+Boiling Pt:B.P. Text:>212F,>100C
+Melt/Freeze Pt:M.P/F.P Text:NOT GIVEN
+Decomp Temp:Decomp Text:NOT GIVEN
+Vapor Pres:18MM @20C
+Vapor Density:0.6
+Spec Gravity:1.02
+pH:3.5
+Evaporation Rate & Reference:NOT GIVEN
+Solubility in Water:COMPLETE
+Appearance and Odor:LIQUID, COLORLESS, FORMALDEHYDE ODOR.
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, STRONG ACIDS, STRONG BASES.
+Stability Condition to Avoid:IGNITION SOURCES.
+Hazardous Decomposition Products:CARBON MONOXIDE AND CARBON DIOXIDE,
+    FORMALDEHYDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISCHARGE/TREATMENT/DISPOSAL MAY BE SUBJECT TO
+    NATIONAL/STATE/LOCAL LAWS. CONTRACT W/LICENSED CHEMICAL DISPOSAL
+    AGENCY.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,163 @@
+=====================  Product Identification  =====================
+
+Product ID:ACETIC ESTER,E-130
+MSDS Date:03/28/1989
+FSC:6505
+NIIN:01-162-1337
+MSDS Number: BLMWM
+=== Responsible Party ===
+Company Name:FISHER SCIENTIFIC, CHEMICAL DIV.
+Address:1 REAGENT LANE
+City:FAIR LAWN
+State:NJ
+ZIP:07410
+Country:US
+Info Phone Num:201-796-7100
+Emergency Phone Num:201-796-7100 OR 201-796-7523
+CAGE:1B464
+=== Contractor Identification ===
+Company Name:FISHER SCIENTIFIC CO.  CHEMICAL MFG DIV
+Address:1 REAGENT LANE
+Box:City:FAIRLAWN
+State:NJ
+ZIP:07410-2802
+Country:US
+Phone:201-796-7100
+CAGE:1B464
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHYL ACETATE  (SARA III)
+CAS:141-78-6
+RTECS #:AH5425000
+Fraction by Wt: 100%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:400 PPM
+ACGIH TLV:400 PPM; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL RAT) IS 11000 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE-INGESTION:MAY CAUSE SORE
+    THROAT,HEADACHE,DIZZINESS,CNS DEPRESSION &
+    UNCONSCIOUSNESS.INHALATION:MAY CAUSE
+    IRRITATION,HEADACHE,DIZZINESS,COUGHING,NARCOTIC
+    EFFECTS,ANESTHESIA,UNCONSCIOUSNESS,RENAL  & HEPATIC
+    DAMAGE.EYES:IRRITATION,REDNESS,PAIN.SKIN:IRRITATION,DERMATITIS.CHRO
+    NIC-CONJUNCTIVITIS,DEFATTING,DERMATITIS.
+Effects of Overexposure:INGESTION MAY CAUSE SORE
+    THROAT,HEADACHE,DIZZINESS,CNS DEPRESSION &
+    UNCONSCIOUSNESS.INHALATION MAY CAUSE
+    IRRITATION,HEADACHE,DIZZINESS,COUGHING,NARCOTIC
+    EFFECTS,ANESTHESIA,UNCONSCIOUSNESS,RENAL & HEPA TIC
+    DAMAGE.IRRITATION,REDNESS AND EYE PAIN.IRRITATION, SKIN DEFATTING
+    AND DERMATITIS.
+Medical Cond Aggravated by Exposure:PERSONS WITH A HISTORY OF CHRONIC
+    RESPIRATORY DISEASE, SKIN DISEASE OR ANEMIA MAY BE AT INCREASED
+    RISK FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:GET MEDICAL HELP IN ALL CASES.INHALATION:REMOVE TO FRESH
+    AIR.GIVE CPR IF NEEDED.EYES:IMMEDIATELY FLUSH WITH WATER FOR 15
+    MINUTES HOLDING EYELIDS OPEN.SKIN:WASH WITH SOAP AND
+    WATER.INGESTION:IF CONSCIO US,REMOVE BY GASTRIC
+    LAVAGE/EMESIS,USINGACTIVATED CHARCOAL.LAVAGE SHOULD BE PERFORMED BY
+    QUALIFIED MEDICAL PERSONNEL.ANTIDOTE:NO SPECIFIC ANTIDOTE.TREAT
+    SYMPTOMATICALLY & SUPPORTIVELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:24.0F,-4.4C
+Autoignition Temp:Autoignition Temp Text:800F
+Lower Limits:2.2
+Upper Limits:11.5
+Extinguishing Media:USE WATER SPRAY, CARBON DIOXIDE, ALCOHOL FOAM,
+    HALON OR DRY CHEMICAL. SOLID STREAM OF WATER MAY BE INEFFECTIVE.
+Fire Fighting Procedures:WEAR FIRE FIGHTING PROTECTIVE EQUIPMENT AND A
+    FULL FACED SELF CONTAINED BREATHING APPARATUS. EVACUATE AREA. COOL
+    FIRE EXPOSED CONTAINERS WITH WATER SPRAY.
+Unusual Fire/Explosion Hazard:VAPORS ARE HEAVIER THAN AIR AND MAY
+    TRAVEL A CONSIDERABLE DISTANCE TO A SOURCE OF IGNITION AND FLASH
+    BACK. VAPOR-AIR MIXTURES ARE EXPLOSIVE ABOVE FLASH POINT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SHUT OFF IGNITION SOURCES.STOP LEAK IF
+    POSSIBLE.REDUCE VAPORS WITH WATER SPRAY.TAKE UP SMALL SPILLS WITH
+    SAND & PLACE INTO CONTAINERS.LARGE SPILLS:DIKE FAR AHEAD OF SPILL
+    FOR LATER DISPOSAL.IF THE REL EASE >RQ=5000 LBS.,CALL NRC AT
+    800-424-8802.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORAGE-STORE IN COOL,DRY,WELL
+    VENTILATED AREA AWAY FROM SOURCES OF IGNITION.
+Other Precautions:STORE AWAY FROM INCOMPATIBLE SUBSTANCES. MAY BE
+    IGNITED BY SPARKS, STATIC ELECTRICITY OR FLAMES. CONTAINER MAY
+    EXPLODE IN HEAT OF FIRE. VAPOR EXPLOSION HAZARD INDOORS, OUTDOORS
+    OR IN SEWERS. RUN-OFF T O SEWER MAY CREATE FIRE/EXPLOSION HAZARD
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF VENTILATION DOES NOT MAINTAIN INHALATION
+    EXPOSURES BELOW PEL(TLV), USE NIOSH/MSHA APPROVED SELF-CONTAINED
+    BREATHING APPARATUS OR A SUPPLIED-AIR RESPIRATOR WITH FULL
+    FACEPIECE OPERATED IN POSITIVE P RESSURE MODE.
+Ventilation:MECHANICAL (GENERAL) ROOM VENTILATION AND LOCAL EXHAUST
+    BOTH REQUIRED.
+Protective Gloves:NEOPRENE OR RUBBER
+Eye Protection:SPLASH-PROOF CHEMICAL SAFETY GOGGLES
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER.
+    INDUSTRIAL-TYPE WORK CLOTHING, APRON, AND BOOTS IF SPILLS OR
+    SPLASHING CAN OCCUR.
+Work Hygienic Practices:WASH THOROUGHLY WITH SOAP AND WATER AFTER
+    HANDLING. DO NOT WEAR CONTAMINATED CLOTHING OR FOOTWEAR.
+Supplemental Safety and Health
+AVOID PROLONGED OR REPEATED EXPOSURE. DO NOT GET ON SKIN OR IN EYES. DO
+    NOT BREATHE VAPORS OR MISTS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:B.P. Text:171F,77C
+Melt/Freeze Pt:M.P/F.P Text:-119F,-84C
+Vapor Pres:100 @ 27C
+Vapor Density:3.04
+Spec Gravity:0.902
+Viscosity:0.45 CPS
+Evaporation Rate & Reference:6.0 (N-BUTYL ACETATE=1)
+Solubility in Water:8.7%
+Appearance and Odor:TRANSPARENT, COLORLESS, VOLATILE LIQUID - FRAGRANT,
+    REFRESHING, FRUITY ODOR
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, STRONG ACIDS, STRONG ALKALIES, CHLOROSULFONIC
+    ACID, OLEUM, K TERT-BUTOXIDE
+Stability Condition to Avoid:HIGH HEAT, OPEN FLAMES, SPARKS AND OTHER
+    SOURCES OF IGNITION
+Hazardous Decomposition Products:MAY INCLUDE TOXIC OXIDES OF CARBON.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL SHOULD BE MADE BY INCINERATION IN
+    ACCORDANCE WITH ALL APPLICABLE FEDERAL, STATE AND LOCAL LAWS AND
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

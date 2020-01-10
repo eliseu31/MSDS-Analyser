@@ -1,0 +1,98 @@
+=====================  Product Identification  =====================
+
+Product ID:E.D.L. MULTISERVICE 10, MIL-L-2104C
+MSDS Date:01/01/1985
+FSC:9150
+NIIN:00-186-6668
+MSDS Number: BDHBN
+=== Responsible Party ===
+Company Name:BENZ OIL INC
+Emergency Phone Num:414-442-9450, DAY
+CAGE:8F260
+=== Contractor Identification ===
+Company Name:BENZ OIL INC
+Address:2724 W HAMPTON AVE
+Box:City:MILWAUKEE
+State:WI
+ZIP:53209-5401
+Country:US
+Phone:414-442-2900
+CAGE:8F260
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PETROLEUM REFINED LUBE OIL STOCK
+
+Ingred Name:ADDITIVES, PETROLEUM
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:COULD CAUSE MILD SKIN IRRIT IN CERTAIN ALLERGIC
+    INDIVIDUALS
+
+=======================  First Aid Measures  =======================
+
+First Aid:WASH SKIN THOROUGHLY W/SOAP & WATER. IF SPLASHED IN EYES,
+    IMMED FLUSH W/WATER FOR AT LEAST 15 MIN. IF IRRIT PERSISTS, SEE MD.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:420F COC
+Lower Limits:1.
+Upper Limits:6.
+Extinguishing Media:FOAM, CO*2, DRY CHEMICAL
+Fire Fighting Procedures:AIR-SUPP RESCUE EQUIP IN ENCLOSED AREA. COOL
+    CNTNRS W/WATER
+Unusual Fire/Explosion Hazard:DO NOT STORE OR MIX W/STRONG OXIDANTS
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:RECOVER FREE LIQUID. ADD ABSORBENT TO SPILL
+    AREA.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER CLOSED. KEEP AWAY FROM
+    HEAT & OPEN FLAMES.
+Other Precautions:REMOVE OIL IMPREGNATED CLOTHING. WASH SKIN
+    THOROUGHLY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NEEDED
+Ventilation:LOCAL EXHAUST, ADEQUATE
+Protective Gloves:NOT NEEDED NOR
+Eye Protection:NOT NEEDED NORM
+Other Protective Equipment:NOT NEEDED
+Supplemental Safety and Health
+EMERGENCY NIGHT #: 414-464-5872. VAPOR DENSITY IS APPROX.SPEC GRAV:
+    0.85-0.89. VAPOR PRESS: <0.001.MFG SUGGESTS TLV OF 5 MG/CUM (OIL
+    MIST).
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:>700F
+Vapor Density:12.
+Evaporation Rate & Reference:<0.001 N-BUTYL AC
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:OILY MILD HYDROCARBON ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDANTS SUCH AS LIQUID CHLORINE & CONCENTRATED O*2
+Hazardous Decomposition Products:CO, INCOMPLETE COMBUSTION
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IAW LOCAL, STATE, FED, REGULATIONS
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

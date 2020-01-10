@@ -1,0 +1,136 @@
+=====================  Product Identification  =====================
+
+Product ID:TOUGH DUTY
+MSDS Date:12/07/1992
+FSC:7930
+NIIN:01-300-0812
+MSDS Number: BWRYB
+=== Responsible Party ===
+Company Name:SPARTAN CHEMICAL CO INC
+Address:110 N WESTWOOD AVE
+City:TOLEDO
+State:OH
+ZIP:43607
+Country:US
+Info Phone Num:419-531-5551
+Emergency Phone Num:419-531-5551
+Preparer's Name:THOMAS J. MITCHELL
+CAGE:23212
+=== Contractor Identification ===
+Company Name:SPARTAN CHEMICAL CO INC. IPG INDUSTRIAL PRODUCTS GROUP
+Address:110 N WESTWOOD AVE
+Box:City:TOLEDO
+State:OH
+ZIP:43607
+Country:US
+Phone:800-537-8990/419-531-5551
+CAGE:23212
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHANOL, 2-BUTOXY-; (2-BUTOXYETHANOL)
+CAS:111-76-2
+RTECS #:KJ8575000
+Fraction by Wt: 9%
+OSHA PEL:50 PPM, S
+ACGIH TLV:25 PPM, S
+
+Ingred Name:ISOPROPYL ALCOHOL; (ISOPROPANOL)  (SARA 313)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: 1-5%
+OSHA PEL:400 PPM
+ACGIH TLV:400 PPM;500 STEL
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MAY CAUSE SKIN & EYE IRRITATION. AVOID
+    PROLONGED SKIN CONTACT & INHALATION OF VAPORS OR MIST.
+    BUTOXYETHANOL IS ABSORBED THRU SKIN WHICH MAY AFFECT LIVER,
+    KIDNEYS, LYMPH & BLOOD SYSTEMS; INHALATION MAY  IRRITATE THROAT &
+    RESPIRATORY SYSTEM. ANIMAL STUDIES CLEARLY DEMONSTRATED
+    DOSE-RELATED ADVERSE EFFECTS(EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:HLTH HAZ:ON THE CNS, HEMATOPOIETIC TISSUES,
+    BLOOD, KIDNEYS & LIVER, ASSOCIATED W/ADMINSTRATION OF ETHYLENE
+    GLYCOL MONOBUTYL ETHER (EGBE). (EXTRACTED FROM DHHS (NIOSH)
+    PUBLICATION NO.90-118) .
+Medical Cond Aggravated by Exposure:UNKNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:REMOVE TO FRESH AIR. SUPPORT BREATHING (GIVE O*2/ARTF
+    RESP) . EYES:IMMEDIATELY FLUSH W/WATER FOR AT LEAST 15 MINUTES. IF
+    IRRITATION PERSISTS, SEEK MEDICAL ATTENTION. SKIN:IMMEDIATELY FLUSH
+     W/WATER FOR 15 MINUTES. IF IRRITATION PERSISTS, SEEK MEDICAL
+    ATTENTION. INGEST:DRINK LARGE QUANTITIES OF WATER. NEVER GIVE
+    ANYTHING BY MOUTH TO AN UNCONSCIOUS PERSON. CALL MD.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:NONE
+Extinguishing Media:MEDIA SUITABLE FOR SURROUNDING FIRE .
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE KNOWN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH W/COPIOUS AMOUNTS OF WATER INTO
+    SANTITARY SEWER SYSTEM.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NONE.
+Other Precautions:NONE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN . NONE REQUIRED.
+Ventilation:GOOD GENERAL VENT SHOULD BE SUFFICIENT FOR MOST CNDTNS.
+    LOCAL EXHAUST VENT MAY BE NECESSARY FOR SOME OPERATIONS.
+Protective Gloves:SOLVENT RESISTANT GLOVES.
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGGS .
+Other Protective Equipment:EYE WASH FOUNTAIN & DELUGE SHOWER WHICH MEET
+    ANSI DESIGN CRITERIA .
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+PH:11.5-12. % VOLAT:1-5 (WT).
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:203F,95C
+Spec Gravity:1.005 (H*2O=1)
+pH:SUPDAT
+Evaporation Rate & Reference:<1 (BUTYL ACETATE=1)
+Solubility in Water:COMPLETE
+Appearance and Odor:DARK PINK, NON-VISCOUS LIQUID; FLORAL ODOR.
+Percent Volatiles by Volume:SUPDAT
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:NONE KNOWN.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE I/A/W FEDERAL, STATE & LOCAL
+    REGULATIONS . FLUSH W/COPIOUS AMOUNTS OF WATER INTO SANITARY SEWER
+    SYSTEM.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

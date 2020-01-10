@@ -1,0 +1,168 @@
+=====================  Product Identification  =====================
+
+Product ID:FOAMING CLEANSER W/CHLORINE BLEACH
+MSDS Date:03/30/1998
+FSC:7930
+NIIN:00N092254
+Status Code:A
+MSDS Number: CJQNJ
+=== Responsible Party ===
+Company Name:WEBCO CHEMICAL CORP
+Address:420 W MAIN ST
+City:DUDLEY
+State:MA
+ZIP:01571
+Country:US
+Info Phone Num:508-943-2337
+Emergency Phone Num:800-424-9300
+CAGE:WEBCX
+=== Contractor Identification ===
+Company Name:WEBCO CHEMICAL CORP
+Address:420 W MAIN ST
+Box:City:DUDLEY
+State:MA
+ZIP:01571
+Country:US
+Phone:508-943-2337
+CAGE:WEBCX
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM DICHLOROISOCYANURATE; (SODIUM
+    DICHLORO-S-TRIAZINETRIONE)
+CAS:2893-78-9
+RTECS #:XZ1900000
+= Wt:.8
+ACGIH TLV:3 MG/M3
+
+Ingred Name:CALCIUM CARBONATE
+CAS:1317-65-3
+RTECS #:EV9580000
+= Wt:90.2
+OSHA PEL:15 MG/M3
+ACGIH TLV:10 MG/M3
+
+Ingred Name:SODIUM CARBONATE
+CAS:497-19-8
+RTECS #:VZ4050000
+= Wt:6.
+
+Ingred Name:SODIUM DODECYLBENZENESULFONATE
+CAS:25155-30-0
+RTECS #:DB6825000
+= Wt:3.
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:PIGMENT GREEN 7; (PIGMENT GREEN # 7 DYE)
+CAS:1328-53-6
+RTECS #:GE4300000
+= Wt:.1
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYE: MAY CAUSE EYE IRRITATION. SKIN:
+    REPEATED OR PROLONGED EXPOSURE MAY HAVE A DRYING EFFECT ON THE
+    SKIN. INHALATION: CAN BE IRRITATING TO THE RESPIRATORY TRACT.
+    SYMPTOMS INCLUDE SNEEZING AND SLIGHT N OSE IRRITATION. INGESTION:
+    INGESTION OF VERY LARGE QUANTITIES MAY RESULT IN INTESTINAL
+    OBSTRUCTION AND/OR CONSTIPATION.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH THOROUGHLY WITH WATER FOR AT LEAST 15 MINUTES. GET
+    PROMPT MEDICAL ATTENTION. SKIN: WASH WITH WATER. INGESTION: IF
+    SWALLOWED DRINK A GLASS OF WATER TO DILUTE. GET PROMPT MEDICAL
+    ATTENTION. I NHALATION: REMOVE TO FRESH AIR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON-FLAMMABLE
+Extinguishing Media:USE WATER SPRAY, CHEMICAL FOAM, CARBON DIOXIDE, OR
+    DRY CHEMICAL.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT . USE EXTINGUISHING MEDIA APPLICABLE TO PRIMARY SOURCE OF
+    FIRE.
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP EXCESS MATERIAL AND DISPOSE OF IN
+    ACCORDANCE WITH APPLICABLE REGULATIONS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP OUT OF REACH FROM CHILDREN. FOR
+    INSTUTIONAL AND INDSUTRIAL USE ONLY. KEEP IN A DRY PLACE.
+Other Precautions:SPECIAL PRECAUTIONS: LABEL SUMMARY: HMIS. HEALTH
+    HAZARD - 1, FLAMMABILITY- 0, REACTIVITY - 0, PERSONAL PROTECTION -
+    E.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT REQUIRED FOR NORMAL END PRODUCT USE. NIOSH
+    APPROVED RESPIRATOR APPROPRIATE FOR EXPOSURE OF CONCERN .
+Ventilation:NOT REQUIRED FOR NORMAL USE.
+Protective Gloves:RUBBER GLOVES.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:EYE WASH AND DELUGE SHOWER MEETING ANSI
+    DESIGN CRITERIA .
+Supplemental Safety and Health
+PHYSICIAL DATA: PH: 11.0 OF A 10% SOLUTION.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:=100.C, 212.F
+Melt/Freeze Pt:=0.C, 32.F
+Spec Gravity:2.65 (H*2O=1)
+pH:SUPDAT
+Appearance and Odor:WHITE CRYSTALLINE POWDER.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+DO NOT MIX WITH OTHER PRODUCTS, ESPECIALLY TOILET BOWL CLEANSERS OR
+    PRODUCTS THAT CONTAIN AMMONIA.
+Stability Condition to Avoid:KEEP FROM GETTING DAMP/OR WET.
+Hazardous Decomposition Products:PHOSPHOROUS OXIDES FROM TEMPERATURES
+    ABOVE 400 DEG F.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+=====================  Ecological Information  =====================
+
+Ecological:ENVIRONMENTAL HAZARDS. THIS PRODUCT IS TOXIC TO FISH, BIRDS,
+    AND OTHER WILDLIFE. DO NOT APPLY DIRECTLY TO WATER, OR TO AREAS
+    WHERE SURFACE WATER IS PRESENT OR TO INTERTIDAL AREAS BELOW THE
+    MEAN HIGH W ATER MARK. DO NOT CONTAMINATE WATER BY CLEANING OF
+    EQUIPMENT OR DISPOSAL OF WASTES. APPLY THIS PRODUCT ONLY AS
+    SPECIFIED ON THIS LABEL.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE AND
+    FEDERAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:DOT SHIPPING DESCRIPTION: COMPOUND CLEANING,
+    N.O.S.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:THIS PRODUCT DOES NOT HAVE ANY CHEMICALS
+REPORTABLE UNDER SECTION 313 OF TITLE III OF SARA.
+State Regulatory Information:
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

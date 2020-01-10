@@ -1,0 +1,140 @@
+=====================  Product Identification  =====================
+
+Product ID:ARDROX 970-P23
+MSDS Date:02/01/1990
+FSC:6850
+NIIN:01-263-7246
+MSDS Number: BJDQR
+=== Responsible Party ===
+Company Name:ARDROX INC
+Address:16961 KNOTT AVE
+City:LA MIRADA
+State:CA
+ZIP:90638-6015
+Country:US
+Info Phone Num:714-739-2821
+Emergency Phone Num:800-424-9300
+Preparer's Name:SHEREE L.KINZEL
+CAGE:23373
+=== Contractor Identification ===
+Company Name:BRENT AMERICA,  INC.
+Address:16961 KNOTT AVE.
+Box:City:LA MIRADA
+State:CA
+ZIP:90638-6015
+Country:US
+Phone:714-739-2821
+CAGE:23373
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WHITE MINERAL OIL
+CAS:8042-47-5
+RTECS #:PY8047000
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:ALKYLOXYPOLYETHYLENOZY ETHANOL
+CAS:68131-40-8
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:NONYLPHENOL POLYETHOXATE
+CAS:9016-45-9
+RTECS #:MD0900000
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:MAY CAUSE IRRITATION OF
+    EYES,SKIN,RESPIRATORY OR G.I.TRACT.CNS EFFECTS LIKE
+    HEADACHE,NAUSEA,VOMITING .CHROMIC:DRYING OF SKIN OR DERMATITIS.
+Explanation of Carcinogenicity:NONE OF THE CHEMICALS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:SEE HEALTH HAZARDS DATA.
+Medical Cond Aggravated by Exposure:PERSONS WITH A HISTORY OF SKIN AND
+    RESPIRATORY DISORDERS MAY BE AT INCREASED RISK FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: IMMEDIATELY FLUSH WITH PLENTY OF WATER FOR 15 MINUTES.
+    GET MEDICAL ATTENTION. SKIN: WASH WITH SOAP AND WATER. INHALATION:
+    REMOVE TO FRESH AIR. INGESTION: DO NOT INDUCE VOMITING. GET MEDICAL
+    ATTEN TION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:>200F,>93C
+Lower Limits:1.1
+Upper Limits:6.0
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.DENSE SMOKE MAY BE
+    GENERATED AS PRODUCTS OF COMBUSTION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE EQUIPMENT, ELIMINATE SOURCES
+    OF IGNITION, AND VENTILATE AREA AS REQUIRED. ABSORB SMALL SPILL
+    WITH INERT MATERIAL OR DIKE TO RETAIN LARGE SPILL. PLACE WASTE IN
+    DOT APPROVED CONTAINER FO R DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL VENTILATED
+    AREA AWAY FROM SOURCES OF IGNITION. KEEP CONTAINER CLOSED WHEN NOT
+    IN USE. PROTECT FROM PHYSICAL DAMAGE.
+Other Precautions:KEEP AWAY FROM SUNLIGHT;DO NOT EAT,SMOKE AND DRINK IN
+    WORK AREA.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF VENTILATION DOES NOT MAINTAIN INHALATION
+    EXPOSURES BELOW PEL (TLV), USE NIOSH/MSHA APPROVED RESPIRATOR AS
+    PER CURRENT 29 CFR 1910.134, INSTRUCTIONS/WARNINGS AND
+    NIOSH-RESPIRATOR SELECTION.
+Ventilation:MECHANICAL (GENERAL) VENTILATION IS USUALLY ADEQUATE.
+Protective Gloves:RUBBER GLOVES
+Eye Protection:SAFETY GLASSES/CHEMICAL SPLASH GOGGLES
+Other Protective Equipment:SAFETY SHOWER AND EYE BATH. INDUSTRIAL TYPE
+    WORK CLOTHING AND APRON AS REQUIRED TO AVOID PROLONGED OR REPEATED
+    CONTACT.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING AND BEFORE
+    EATING OR DRINKING. LAUNDER CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:>240F,>116C
+Spec Gravity:0.871
+Evaporation Rate & Reference:<1.0 (N-BUTYL ACETATE=1)
+Solubility in Water:MODERATE
+Appearance and Odor:FLUORESCENT YELLOW GREEN MOBILE LIQUID
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HIGH TEMPERATURES
+Hazardous Decomposition Products:CARBON DIOXIDE AND CARBON MONOXIDE AND
+    OTHER COMBUSTION PRODUCTS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH ALL APPLICABLE
+    FEDERAL, STATE AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

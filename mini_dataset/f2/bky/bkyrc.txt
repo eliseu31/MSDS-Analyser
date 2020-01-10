@@ -1,0 +1,136 @@
+=====================  Product Identification  =====================
+
+Product ID:AKI-16 INDICATOR 14.7 OZ (ACID TEST KIT)
+MSDS Date:05/28/1991
+FSC:6665
+NIIN:01-020-3508
+MSDS Number: BKYRC
+=== Responsible Party ===
+Company Name:SPORLAN VALVE CO
+Address:7525 SUSSEX AVE
+City:ST LOUIS
+State:MO
+ZIP:63143
+Country:US
+Info Phone Num:314-647-2775
+Emergency Phone Num:314-647-2775
+Preparer's Name:JOHN E. HOFFMAN
+CAGE:78462
+=== Contractor Identification ===
+Company Name:SPORLAN VALVE COMPANY
+Address:7525 SUSSEX AVE.
+Box:City:ST LOUIS
+State:MO
+ZIP:63143
+Phone:314-647-2775
+CAGE:78462
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:XYLENE, DIMETHYLBENZENE, XYLOL
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 62%
+Other REC Limits:100 PPM
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM, SKIN
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ETHANOL (ETHYL ALCOHOL), TECSOL, ALCOHOL
+CAS:64-17-5
+RTECS #:KQ6300000
+Fraction by Wt: 36%
+Other REC Limits:1900 MG/CUM
+OSHA PEL:1000 PPM
+ACGIH TLV:1000 PPM
+
+Ingred Name:TOLUENE
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 2%
+Other REC Limits:375 MG/CUM
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:PHENOL RED, PHENOLSULFONEPTHALEIN
+CAS:143-74-8
+RTECS #:SJ7490000
+Fraction by Wt: TRACE
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: RESPIRATORY TRACT
+    IRRITATION, HEADACHE, DIZZINESS, & UNCONSCIOUSNESS. SKIN:
+    ABSORPTION.
+Explanation of Carcinogenicity:NONE
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. INGESTION: DON'T INDUCE
+    VOMITING. EYES/SKIN: FLUSH W/WATER FOR 15 MINUTES. OBTAIN MEDICAL
+    ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:44F
+Extinguishing Media:CO2, DRY CHEMICAL, FOAM
+Unusual Fire/Explosion Hazard:FLAMMABLE LIQUIDS. VAPORS OF THE SOLUTION
+    HAS A MODERATE EXPLOSION HAZARD WHEN EXPOSED TO HEAT OR FLAME.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE IGNITION SOURCES. VENTILATE AREA. FLUSH
+    SMALL AMOUNTS W/WATER OR MOP UP. LARGE AMOUNTS MAY BE COLLECTED
+    W/ABSORBENT MATERIAL. AVOID INHALING VAPOR OR SKIN CONTACT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T STORE SOLUTIONS >120F. AVOID
+    INHALING VAPORS OR SKIN CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE APPROVED RESPIRATOR
+Ventilation:PROPERLY TO KEEP CONCENTRATION BELOW LOWEST TLV LIMIT
+Protective Gloves:RECOMMENDED
+Eye Protection:SAFETY GOGGLES
+Supplemental Safety and Health
+PRODUCT IS A ACID TEST KIT USED TO DETERMINE THE ACIDITY OF OIL FROM
+    AIR CONDITIONING & REFRIGERATION SYSTEMS.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:182F
+Melt/Freeze Pt:M.P/F.P Text:-75F
+Vapor Pres:40
+Vapor Density: 2
+Spec Gravity:0.833
+pH:7
+Solubility in Water:SLIGHT
+Appearance and Odor:YELLOW-ORANGE-RED
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING MATERIALS
+Stability Condition to Avoid:HEAT, FLAME
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:COLLECT FOR INCINERATION IN ACCORDANCE
+    W/FEDERAL, STATE, & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,169 @@
+=====================  Product Identification  =====================
+
+Product ID:BATTERY CLEANER AND LEAK DETECTOR;TM2050;BALKAMP # 765-1307
+MSDS Date:11/20/1990
+FSC:6850
+NIIN:01-332-7633
+MSDS Number: BWRMM
+=== Responsible Party ===
+Company Name:AEROSOL SYSTEMS INC
+Address:9150 VALLEY VIEW RD
+City:MACEDONIA
+State:OH
+ZIP:44056-2013
+Country:US
+Info Phone Num:216-467-4195 / 216-467-6641
+Emergency Phone Num:216-467-4195 / 216-467-6641
+CAGE:2F853
+=== Contractor Identification ===
+Company Name:AEROSOL SYSTEMS INC
+Address:9150 VALLEY VIEW RD
+Box:City:MACEDONIA
+State:OH
+ZIP:44056-2013
+Country:US
+Phone:330-467-4195 / 330-467-6641
+CAGE:2F853
+Company Name:ALL-SAFE INC
+Address:4767 LANGTON RD
+Box:116
+City:HIILIARD
+State:OH
+ZIP:43026
+Country:US
+Phone:614-876-4041
+CAGE:2X264
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOBUTANE
+CAS:75-28-5
+RTECS #:TZ4300000
+Fraction by Wt: 13%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:ETHANOL, 2,2',2"-NITRILOTRI-; (TRIETHANOLAMINE)
+CAS:102-71-6
+RTECS #:KL9275000
+Fraction by Wt: 2%
+Other REC Limits:NONE RECOMMENDED
+ACGIH TLV:5 MG/M3
+
+Ingred Name:2-BUTOXYETHANOL
+CAS:111-76-2
+RTECS #:KJ8575000
+Fraction by Wt: 1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:S, 50 PPM
+ACGIH TLV:S, 25 PPM; 9394
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 77%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:NON-HAZARDOUS INGREDIENTS
+Fraction by Wt: 7%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT) IS 470MG/KG(INGRED #3)
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES:MAY CAUSE IRRITATION AND CORNEAL
+    INJURY.SKIN:MAY CAUSE IRRITATION,DEFATTING.MAY BE DERMALLY ABSORBED
+    IN HARMFUL AMOUNTS.INGEST:MODERATELY TOXIC.MAY CAUSE LUNG DAMAGE IF
+    VOMITED AFTER INGESTING.IN HAL:MAY CAUSE RESPIRATORY IRRITATION AND
+    CNS EFFECTS.CHRONIC:MAY CAUSE BLOOD ABNORMALITIES,LIVER,LUNG AND
+    KIDNEY DAMAGE.
+Explanation of Carcinogenicity:THERE ARE NO INGREDIENTS ABOVE 0.1%
+    WHICH ARE IDENTIFIED AS CARCINOGENS BY NTP,IARC OR OSHA.
+Effects of
+    Overexposure:INHAL:DIZZINESS,NARCOSIS.SKIN:REDNESS.INGEST:VOMITING.
+Medical Cond Aggravated by Exposure:PERSONS WITH PRE-EXISTING HEART AND
+    RESPIRATORY AILMENTS MAY BE AT INCREASED RISK FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:REMOVE CONTAMINATED CLOTHING;WASH WITH WATER.EYES:FLUSH
+    WITH WATER FOR 15 MINUTES.INHAL:REMOVE TO FRESH AIR.GIVE OXYGEN OR
+    ARTIFICIAL RESPIRATION IF NEEDED.INGEST:DO NOT INDUCE VOMITING.GET
+    PROMP T QUALIFIED MEDICAL ATTENTION.GASTRIC LAVAGE IS RECOMMENDED.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:-160F,-107C
+Lower Limits:1.9
+Upper Limits:8.5
+Extinguishing Media:WATER FOG,DRY CHEMICAL,CARBON DIOXIDE,FOAM.
+Fire Fighting Procedures:USE A SELF-CONTAINED BREATHING APPARATUS AND
+    FULL PROTECTIVE EQUIPMENT.COOL FIRE EXPOSED CONTAINERS WITH WATER
+    FOG.
+Unusual Fire/Explosion Hazard:CONTAINERS MAY BURST AT ELEVATED
+    TEMPERATURES.DECOMPOSITION PRODUCTS MAY BE TOXIC.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE SOURCES OF IGNITION.USE PROPER
+    RESPIRATORY AND PROTECTIVE EQUIPMENT.VENTILATE AREA.SOAK UP WITH A
+    NON-COMBUSTIBLE INERT ABSORBANT(CLAY,SAND);PLACE IN PROPER
+    CONTAINER FOR DISPOSAL.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AT TEMPERATURES BELOW
+    120F.FOLLOW LABEL DIRECTIONS.KEEP AWAY FROM HEAT,SPARKS AND OPEN
+    FLAMES.
+Other Precautions:WHEN SPRAYING MORE THAN 1/2 OF A CAN USE A NIOSH
+    RESPIRATOR FOR ORGANIC VAPORS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WHERE ENVIRONMENTAL CONTROLS ARE LACKING OR IN
+    ENCLOSED SPACES USE A SELF-CONTAINED BREATHING APPARATUS.
+Ventilation:USE LOCAL EXHAUST.
+Protective Gloves:NOT REQUIRED IF SPRAYING.
+Eye Protection:CHEMICAL SPLASH GOGGLES
+Other Protective Equipment:PROTECTIVE CLOTHING,AS NEEDED.PROVIDE A
+    LOCAL EYE WASH STATION AND SAFETY SHOWER.
+Work Hygienic Practices:USE REASONABLE CARE IN HANDLING THIS
+    PRODUCT.WASH HANDS AFTER USE AND BEFORE EATING.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V3
+Boiling Pt:B.P. Text:-11F-212F
+Vapor Pres:2068
+Vapor Density:4
+Spec Gravity:0.9
+Evaporation Rate & Reference:<1 (N-BUTYL ACETATE=1)
+Solubility in Water:VERY SOLUBLE
+Appearance and Odor:AEROSOL.LIQUID IS YELLOW WITH SOLVENT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:HIGH HEAT,SOURCES OF IGNITION.
+Hazardous Decomposition Products:CARBON DIOXIDE,CARBON MONOXIDE AND
+    WATER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH FEDERAL,STATE AND
+    LOCAL REGULATIONS.CONSIDER RCRA CODE D001(IGNITABLE).
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

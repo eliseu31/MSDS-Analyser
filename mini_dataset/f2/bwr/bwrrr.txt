@@ -1,0 +1,124 @@
+=====================  Product Identification  =====================
+
+Product ID:ELASTOFLEX, 860-1
+MSDS Date:04/08/1992
+FSC:8010
+NIIN:00N057603
+MSDS Number: BWRRR
+=== Responsible Party ===
+Company Name:CORONADO PAINT CO INC
+Address:308 OLD COUNTRY RD
+City:EDGEWATER
+State:FL
+ZIP:32132
+Country:US
+Info Phone Num:904-428-6461
+Emergency Phone Num:904-428-6461
+Preparer's Name:THOMAS E MAREK
+CAGE:33200
+=== Contractor Identification ===
+Company Name:CORONADO PAINT COMPANY, INC.
+Address:308 OLD COUNTY ROAD
+Box:City:EDGEWATER
+State:FL
+ZIP:32132-1812
+Country:US
+Phone:904-428-6461
+CAGE:33200
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHYLENE GLYCOL (SARA 313) (CERCLA). VP: 0.30.
+CAS:107-21-1
+RTECS #:KW2975000
+Fraction by Wt: 1.5%
+OSHA PEL:N/K 
+ACGIH TLV:50 PPM,VAPOR, C
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: SKIN: CONTACT WITH SKIN MAY
+    CAUSE IRRITATION OR RASH. EYES: MAY CAUSE SLIGHT IRRITATION OR
+    REDNESS.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:EYES: REDNESS. INGEST: NAUSEA.
+Medical Cond Aggravated by Exposure:NONE KNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGEST: INDUCE VOMITING & CALL MD AT ONCE. EYES: FLUSH
+    W/WATER FOR AT LEAST 15 MINS & CALL MD. SKIN: WASH AFFECTED AREAS
+    WITH SOAP & WATER. INHAL: REMOVE TO FRESH AIR. SUPPORT
+    BREATHING(GIVE O*2/ARTF  RESP).
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE TO BOILING
+Extinguishing Media:USE MEDIA SUITABLE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT.
+Unusual Fire/Explosion Hazard:NONE KNOWN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CLEAN UP W/WATER BEFORE ALLOWING TO DRY.
+    SODIUM CHLORIDE OR CALCIUM CHLORIDE MAY BE SPRINKLED ON SPILL; THIS
+    MAY COAGULATE THE LATTER & FACILITATE CLEANING WITH WATER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID PROLONGED OR REPEATED INHALATION
+    OF SPRAY MISTS.USES WITH ADEQUATE VENTILATION.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:SHOULD PREVENT INHALATION OF SPRAY OR HEATED
+    VAPORS. USE NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE FOR EXPOSURE
+    OF CONCERN .
+Ventilation:LOCAL EXHAUST & GENERAL VENTILATION RECOMMENDED.
+Protective Gloves:CHEM RESIST PLASTIC/RUBBER GLOVES.
+Eye Protection:ANSI APPRVD CHEM WORKERS GOGGLES.
+Other Protective Equipment:AS REQUIRED TO PREVENT SKIN CONTACT.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:212F,100C
+Vapor Pres:SEE ING
+Vapor Density:HVR/AIR
+Spec Gravity:1.53(H*2O=1)
+Evaporation Rate & Reference:<0.01 (ETHER=1)
+Solubility in Water:INFINITE
+Appearance and Odor:WHITE OPAQUE LIQUID SLIGHTLY SWEET ODOR.
+Percent Volatiles by Volume:48
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE KNOWN.
+Stability Condition to Avoid:NONE KNOWN.
+Hazardous Decomposition Products:AFTER WATER HAS EVAPORATED, POLYMERIC
+    BINDER CAN BURN TO PRODUCE CARBON MONOXIDE AND CARBON DIOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE OR DISPOSE OF IN SANITARY LANDFILL IN
+    ACCORDANCE WITH LOCAL, STATE & FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

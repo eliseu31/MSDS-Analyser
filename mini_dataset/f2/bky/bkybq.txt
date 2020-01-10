@@ -1,0 +1,152 @@
+=====================  Product Identification  =====================
+
+Product ID:LA16 SPRAYON 16 OZ OMNI-PAK LA
+MSDS Date:11/19/1987
+FSC:8010
+NIIN:00F018497
+MSDS Number: BKYBQ
+=== Responsible Party ===
+Company Name:SPRAYON PRODUCTS/DIV SHERWIN-WILLIAMS CO
+Address:26300 FARGO AVE
+City:BEDFORD HEIGHTS
+State:OH
+ZIP:44146-1310
+Info Phone Num:(216) 292-7400
+Emergency Phone Num:(216) 292-7400
+CAGE:09800
+=== Contractor Identification ===
+Company Name:SHERWIN-WILLIAMS DIVERSIFIED BRANDS, INC.
+Address:26300 FARGO AVENUE
+Box:City:BEDFORD HEIGHTS
+State:OH
+ZIP:44146
+Country:US
+Phone:216-292-7400 OR 216-595-8634
+CAGE:09800
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PROPANE
+CAS:74-98-6
+RTECS #:TX2275000
+Fraction by Wt: <30%
+Other REC Limits:1800 MG/CUM
+OSHA PEL:1000 PPM
+ACGIH TLV:ASPHYXIANT; 9192
+
+Ingred Name:ISOBUTANE, 2-METHYLPROPANE
+CAS:75-28-5
+RTECS #:TZ4300000
+Fraction by Wt: <30%
+Other REC Limits:1000 PPM
+OSHA PEL:1800 MG/CUM
+ACGIH TLV:1000 PPM
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: 25%
+Other REC Limits:590 MG/CUM
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ACETONE  (SARA III)
+CAS:67-64-1
+RTECS #:AL3150000
+Fraction by Wt: 20%
+Other REC Limits:590 MG/CUM
+OSHA PEL:1000PPM
+ACGIH TLV:750PPM/1000STEL;9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ETHYL 3-ETHOXYPROPIONATE
+CAS:763-69-9
+RTECS #:UF3325000
+Fraction by Wt: 5%
+ACGIH TLV:50 PPM
+
+Ingred Name:METHYLENE CHLORIDE	(SARA III)
+CAS:75-09-2
+RTECS #:PA8050000
+Fraction by Wt: 20%
+OSHA PEL:500 PPM/C,1000; Z2
+ACGIH TLV:50 PPM, A2; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: ANESTHETIC EFFECTS,
+    IRRITATION TO UPPER RESPIRATORY SYSTEM, LIGHT-HEADEDNESS,
+    STAGGERING GAIT, GIDDINESS, & POSSIBLE NAUSEA. INGESTION: HARMFUL
+    OR FATAL. SKIN: IRRITATION.
+Explanation of Carcinogenicity:METHYLENE CHLORIDE IS CONSIDERED TO BE
+    AN A2 CARCINOGEN BY ACGIH.
+Effects of Overexposure:INHALATION: ANESTHETIC EFFECTS, PERMANENT BRAIN
+    & NERVOUS SYSTEM DAMAGE, IRRITATION OF RESPIRATORY SYSTEM,
+    LIGHT-HEADEDNESS, STAGGERING GAIT, GIDDINESS, & POSSIBLE NAUSEA.
+    INGESTION: HARMFUL OR FATAL.  SKIN: IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINS. SKIN:
+    WASH THOROUGHLY W/SOAP & WATER. INHALATION: REMOVE TO FRESH AIR.
+    GIVE CPR OR OXYGEN IF NEEDED. INGESTION: DON'T INDUCE VOMITING.
+    OBTAIN MEDICA L ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TOC
+Flash Point:<20F
+Extinguishing Media:CO, DRY CHEMICAL, FOAM
+Fire Fighting Procedures:WATER MAY BE INEFFECTIVE. WATER MAY BE USED TO
+    KEEP FIRE EXPOSED CONTAINERS COOL.
+Unusual Fire/Explosion Hazard:EXPOSURE TO DIRECT SUNLIGHT OR OTHER HEAT
+    MAY CAUSE BURSTING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. VENTILATE
+    AREA. REMOVE W/INERT ABSORBENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T STORE >120F. KEEP AT ROOM
+    TEMPERATURE. AEROSOL CONTENTS UNDER PRESSURE.
+Other Precautions:KEEP AWAY FROM CHILDREN. DON'T SPRAY NEAR FIRE OR
+    OPEN FLAME. AVOID BREATHING VAPOR OR SPRAY MIST. AVOID CONTACT
+    W/SKIN & EYES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AS NECESSARY
+Ventilation:LOCAL EXHAUST IN VOLUME & PATTERN TO MAINTAIN AIR
+Evaporation Rate & Reference:FASTER THAN ETHER
+Percent Volatiles by Volume:100/WT
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:TEMPS >120F, OPEN FLAME, DIRECT SUNLIGHT,
+    HEAT, FIRE & OTHER SOURCES OF IGNITION
+Hazardous Decomposition Products:CO, CO2, HYDROGEN CHLORIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS REGARDING POLLUTION. DON'T INCINERATE OR
+    PUNCTURE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

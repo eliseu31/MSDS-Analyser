@@ -1,0 +1,188 @@
+=====================  Product Identification  =====================
+
+Product ID:180 5332 RP X-OMAT FIXER & REPLENISHER, PART B
+MSDS Date:11/29/1995
+FSC:6525
+NIIN:01-075-8325
+Kit Part:Y
+MSDS Number: BWRCP
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-477-3194 MSDS :800- 242-2424
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+Company Name:EASTMAN KODAK CO US CUSTOMER SERVICE/GOVERNMENT SALES
+Address:800 LEE RD
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-3129
+Country:US
+Phone:800-828-6203
+CAGE:5K871
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 60-65%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:ACETIC ACID (CERCLA)
+CAS:64-19-7
+RTECS #:AF1225000
+Fraction by Wt: 15-20%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:10 PPM
+ACGIH TLV:10 PPM/15 STEL; 9596
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ALUMINUM SULFATE
+CAS:10043-01-3
+RTECS #:BD1700000
+Fraction by Wt: 15-20%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:2 MG/M3
+ACGIH TLV:2 MG/M3; 9596
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:D-GLUCONIC ACID
+CAS:526-95-4
+RTECS #:LZ5057100
+Fraction by Wt: 1-5%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:SODIUM ACETATE
+CAS:127-09-3
+RTECS #:AJ4300010
+Fraction by Wt: 1-5%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHAL:VAPOR IRRITATING. EYE:CAUSES
+    BURNS.VAPOR IRRITATING. SKIN:CAUSES IRRITATION. INGEST:HARMFUL IF
+    SWALLOWED.MAY CAUSE BURNS OF GASTROINTESTINAL TRACT IF SWALLOWED.
+Explanation of Carcinogenicity:PER MSDS:CARCINOGENICITY
+    CLASSIFICATION:IARC/ACGIH/NTP/OSHA:NONE.
+Effects of Overexposure:VAPOR IRRIT,BURNS/IRRIT EYES,SKIN IRRIT,
+    HARMFUL IF SWALLOWED,BURNS GASTROINTESTINAL TRACT.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:MOVE TO FRESH AIR.TREAT SYMPTOMATIC.GET MED ATTN IF
+    SYMPTONS PERSIST. EYES:IMMED FLUSH W/PLENTY OF WATER FOR @LEAST
+    15MINS.GET MED ATTN IMMED. SKIN:IMMED REMOVE CONTAMIN
+    CLOTH/SHOES.WASH W/SOAP/ PLENTY OF WATER.GET MED ATTN IF
+    SYMPTOMSOCCUR. INGEST:DO NOT INDUCE VOMIT.GIVE VICTIM A GLASS OF
+    WATER.NEVER GIVE ANYTHING BY MOUTH TO UNCONSC PERSON.CALL
+    PHYSICIAN/POISON CONTROL CENTER IMMED.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE,NON-COMBUST
+Autoignition Temp:Autoignition Temp Text:NP
+Extinguishing Media:USE APPROPRIATE AGENT FOR ADJACENT FIRE.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS &
+    PROTECTIVE CLOTHING. FIRE OR EXCESSIVE HEAT MAY PRODUCE HAZARDOUS
+    DECOMPOSITION PRODUCTS.
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH TO SEWER W/LG AMTS OF
+    WATER.OTHERWISE,ABSORB W/VERMI/OTHER INERT MATL,THEN PLACE IN CNTNR
+    FOR CHEM WASTE.CLEAN THOROUGHLY TO REMOVE RESIDUAL
+    CONTAMIN.LG:ABSORB W/VERMI/OTHER INERT MATL,THEN PLAC E IN CNTNR
+    FOR CHEM WASTE.PREVENT RUNOFF(SUPPLEM)
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T GET IN EYES.AVOID SKIN/CLOTH
+    CONTACT.AVOID BREATH VAP.USE W/ADEQU VENT.KEEP CNTNR CLSD.KEEP AWAY
+    FROM INCOMPATIBLE SUBSTANCES.
+Other Precautions:STRONGLY ACIDIC AQU SOLN.PROPERTIES:HI BIOCHEM OXY
+    DEMAND,MAY CAUSE OXY DEPLETION IN AQU SYS.LOW POT TO AFFECT AQU
+    ORGANISMS/2ND WASTE TREATMENT MICROBIAL METABOLISM;HI POT TO AFFECT
+    GERM &/OR EARLY G ROWTH OF SOME PLANTS;LOW POT TO (SUPPLE)
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF ENGINEERING CONTROLS DO NOT MAINTAIN AIRBORNE
+    CONCEN BELOW RECOMMENDED EXPO LIMITS APPROVED RESP MUST BE
+    WORN.RESP TYPE:ORGANIC VAP.IF RESP ARE USED PROGRAM SHOULD BE
+    INSTITUTED TO ASSURE COMPLIANC E WITH OSHA STD 29CFR1910.134.
+Ventilation:GOOD GENERAL VENTILATION (TYPICALLY 10 AIR CHANGES/HR)
+    SHOULD BE USED. VENTILATION RATES SHOULD BE MATCHED TO CONDITIONS
+Protective Gloves:IMPERVIOUS GLOVES.
+Eye Protection:SAF GLASS W/SIDESHIELD,GOGG,FACE SHIELD.
+Other Protective Equipment:PROTECTIVE CLOTHING APPROPRIATE FOR RISK OF
+    EXPOSURE. EYEBATH, WASHING FACILITIES, SAFETY SHOWER.
+Work Hygienic Practices:WASH THOROUGHLY AFT HNDLG.
+Supplemental Safety and Health
+SPILL:ENTERING DRAIN/SEWERS/STREAMS.FLUSH SPILL AREA W/WATERSPRAY.
+    OTHER PRECAUT:BIOCONCE.AFT DIL W/LG AMT OF WATER/2ND WASTE
+    TREAT,MATL NOT EXPECTED TO CAUSE ADVERSE ENVIRO EFFECTS. KEY1=C1,
+    PNIND:E( PART A),W(WORK SOLN), TO MAKE 10 GALLONS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C2
+Boiling Pt:B.P. Text:>212F,>100C
+Melt/Freeze Pt:M.P/F.P Text:NP
+Decomp Temp:Decomp Text:NP
+Vapor Pres:18 @20C
+Vapor Density:0.6
+Spec Gravity:1.16
+pH:2.0
+Viscosity:NP
+Evaporation Rate & Reference:NP
+Solubility in Water:COMPLETE.
+Appearance and Odor:LIQUID, COLORLESS, VINEGAR ODOR.
+Percent Volatiles by Volume:85
+Corrosion Rate:NP
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+BASES.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:CARBON DIOXIDE, CARBON MONOXIDE,
+    SULFUR DIOXIDE. HAZ COMBUST PROD:NONE (NON-COMBUSTIBLE).
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISCHARGE/TREATMENT/DISPOSAL MAY BE SUBJECT TO
+    NATIONAL/STATE/LOCAL LAWS. FLUSH TO SEWER W/LG AMTS OF WATER. FOR
+    LG AMTS CONTRACT W/LICESNED CHEM DISPO AGENCY. CHEM(S) SUBJ TO
+    REPORTING REQMTS OF SEC  313 TITLE III SARA/40CFR372:NONE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

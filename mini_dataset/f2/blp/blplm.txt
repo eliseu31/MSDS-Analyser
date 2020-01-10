@@ -1,0 +1,154 @@
+=====================  Product Identification  =====================
+
+Product ID:PLAST 72 WHITE GEL COAT
+MSDS Date:03/01/1991
+FSC:5985
+NIIN:00F019125
+MSDS Number: BLPLM
+=== Responsible Party ===
+Company Name:FIBRE GLAST DEVELOPMENTS CORPORATION
+Address:1944 NEVA DRIVE
+City:DAYTON
+State:OH
+ZIP:45414
+Info Phone Num:(513) 274-1159
+Emergency Phone Num:(513) 435-0850 OR (513) 274-1159
+Preparer's Name:S.N.
+CAGE:1B420
+=== Contractor Identification ===
+Company Name:FIBRE GLAST DEVELOPMENTS
+Address:1944 NEVA DR
+Box:City:DAYTON
+State:OH
+ZIP:45414-5525
+Country:US
+CAGE:1B420
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:STYRENE, MONOMER  (SARA III)
+CAS:100-42-5
+RTECS #:WL3675000
+Fraction by Wt: 30-40%
+Other REC Limits:50 PPM
+OSHA PEL:100 PPM
+ACGIH TLV:S,50PPM/100STEL;9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:UNSATURATED POLYESTER
+
+Ingred Name:SILICON DIOXIDE
+CAS:7631-86-9
+RTECS #:VV3100000
+Fraction by Wt: <5%
+Other REC Limits:5 MG/CUM (RES DUST)
+OSHA PEL:80 MG/CUM
+ACGIH TLV:10 MG/CUM (TOT DUST)
+
+Ingred Name:TALC (CONTAINING NO ASBESTOS)
+CAS:14807-96-6
+RTECS #:WW2710000
+Fraction by Wt: <30%
+OSHA PEL:2 MG/M3 RDUST
+ACGIH TLV:2 MG/M3 RDUST; 9192
+
+Ingred Name:CALCIUM CARBONATE (MARBLE) (LIMESTONE)
+CAS:1317-65-3
+RTECS #:EV9580000
+Fraction by Wt: <40%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9192
+
+Ingred Name:METHYL METHACRYLATE  (SARA III)
+CAS:80-62-6
+RTECS #:OZ5075000
+Other REC Limits:100 PPM
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION & CORNEAL DAMAGE.
+    SKIN: SEVERE IRRITATION, INTERNAL ORGAN DAMAGE BY ABSORPTION &
+    DERMATITIS. INHALATION: RESPIRATORY TRACT, IRRITATION, HEADACHES,
+    DIZZINESS, NAUSEA, WEAKNESS, COLLAPS E, COMA & DEATH. INGESTION:
+    GASTROINTESTINAL IRRITATION, NAUSEA, UPSET STOMACH & FATAL.
+Explanation of Carcinogenicity:STYRENE (MONOMER) IS A SUSPECTED HUMAN
+    CARCINOGEN BY ACGIH.
+Effects of Overexposure:EYES: IRRITATION & CORNEAL DAMAGE. SKIN: SEVERE
+    IRRITATION, INTERNAL ORGAN DAMAGE BY ABSORPTION & DERMATITIS.
+    INHALATION: RESPIRATORY TRACT IRRITATION, HEADACHES, DIZZINESS,
+    NAUSEA, WEAKNESS, COLLAPSE , COMA, & DEATH. INGESTION:
+    GASTROINTESTINAL IRRITATION, NAUSEA, UPSET STOMACH, FATAL.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINS. SKIN:
+    WASH W/SOAP & WATER. INHALATION: REMOVE TO FRESH AIR. GIVE CPR OR
+    OXYGEN IF NEEDED. INGESTION: DON'T INDUCE VOMITING. AVOID
+    ASPIRATION OF MATE RIAL INTO THE LUNGS. OBTAIN MED ATTENTION IN ALL
+    CASES. PHYSICIAN NOTE: NO SPECIFIC ANTIDOTE FOR OVEREXPOSURE
+    EFFECTS. OVEREXPOSURE TREATMENT SHOULD BE DIRECTED AT SYMPTOMS
+    CONTROL/CLINICAL CONDITION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:87F
+Lower Limits:1.1%
+Upper Limits:7.1%
+Extinguishing Media:FOAM, CO2 & DRY CHEMICAL
+Fire Fighting Procedures:USE CLASS B APPROVED SELF-CONTAINED BREATHING
+    APPARATUS. USE WATER TO COOL FIRE EXPOSED CONTAINERS AT A SAFE
+    DISTANCE.
+Unusual Fire/Explosion Hazard:VAPORS ARE >AIR & TRAVEL ALONG GROUND TO
+    AN IGNITION SOURCE & FLASH BACK. IF POLYMERIZATION OCCURS,
+    EXPLOSIVE RUPTURING MAY OCCUR. FLAMMABLE LIQUID.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE ALL SOURCES OF IGNITION. VENTILATE
+    AREA. ABSORB W/AN INERT MATERIAL. REMOVE & PLACE IN LABELED DRUM.
+    FLUSH SPILL AREA W/DETERGENT & WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A CLOSED, PROPERLY LABELED
+    CONTAINER IN A COOL VENTILATED AREA <86F. AVOID CONTAMINATION &
+    CONTACT W/EYES & SKIN.
+Other Precautions:DON'T SMOKE/EAT OR DRINK WHERE PRODUCT IS IN USE.
+    AVOID BREATHING VAPORS, MISTS, FUMES, DUSTS CREATED BY SANDING,
+    GRINDING, CHIPPING OF DRIED PRODUCT. GROUND METAL CONTAINERS TO
+    AVOID STATIC CHARGE. M IX IN PROPER RATIO W/MEKP.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED AIR PURIFYING ORGANIC
+    VAPOR FILTER RESPIRATOR IF >TLV.
+Ventilation:MECHANICAL (GENERAL/LOCAL EXHAUST): TO KEEP 86F, FLAME, HOT SURFACES,
+    SPARKS, STATIC, & OTHER SOURCES OF IGNITION.
+Hazardous Decomposition Products:SMOKE, CO & CO2
+Conditions to Avoid Polymerization:HEAT, PEROXIDES, OXIDIZING AGENTS &
+    FREE RADICAL CATALYSTS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE &
+    FEDERAL REGULATIONS. LIQUID POLYESTER RESIN WASTE HAVING A FLASH
+    POINT <140F IS HAZARDOUS WASTE UNDER RCRA.	D001 (IGNITABLE). UN
+    1866, FLAMMABLE LIQUID. SOLI D POLYESTER WASTE NOT A RCRA HAZ
+    WASTE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

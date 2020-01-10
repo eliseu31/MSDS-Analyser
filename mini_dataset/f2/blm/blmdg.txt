@@ -1,0 +1,120 @@
+=====================  Product Identification  =====================
+
+Product ID:HEAVY DUTY DEGREASER
+MSDS Date:01/04/1989
+FSC:4940
+NIIN:00N020763
+MSDS Number: BLMDG
+=== Responsible Party ===
+Company Name:HOTSY CORP CHEMICAL DIV
+Address:2621 SEVENTH AVE SOUTH
+City:ESTHERVILLE
+State:IA
+ZIP:51334
+Country:US
+Info Phone Num:303-623-5716
+Emergency Phone Num:303-623-5716
+CAGE:1JX29
+=== Contractor Identification ===
+Company Name:HOTSY CORP DIV DAYTON
+Address:2621 7TH AVE S
+Box:City:ESTHERVILLE
+State:IA
+ZIP:51334
+Country:US
+Phone:712-362-7737
+CAGE:1JX29
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SILICIC ACID(H2SI03), DISODIUM SALT; (SODIUM METASILICATE).
+    LD50:ORAL(RAT)800 MG/KG
+CAS:6834-92-0
+RTECS #:VV9275000
+Fraction by Wt: 5-10%
+
+Ingred Name:GLYCOLS, POLYETHYLENE, MONO
+    ((1,1,3,3-TETRAMETHYBUTYL)PHENYL)ETHER; (ETHOXYLATED ALCOHOLS).
+    LD50:ORAL(RAT)1900 MG/KG
+CAS:9036-19-5
+RTECS #:MD0907600
+Fraction by Wt: 3-7%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE INGREDIENTS
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE/CHRONIC: EYE AND SKIN BURNS.
+    INHAL: NOT APPLICABLE. EYES/SKIN: IRRITATION OR BURNS. INGEST:
+    STOMACH AND THROAT IRRITATION.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:EYE AND SKIN IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH WATER FOR AT LEAST 15 MIN, CALL PHYS. SKIN:
+    WASH WITH WATER. INGEST: DRINK WATER. INHAL: REMOVE TO FRESH AIR.
+    SUPPORT BRTHG. (GIVE O2/ARTF RESP) .
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER, DRY CHEMICAL, CARBON DIOXIDE, AND FOAM.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SHUT OFF LEAK. FLUSH AREA WITH WATER. LARGE
+    SPILLS SHOULD BE DIKED WITH EARTH; THEN PUMP TO SALVAGE TANK.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN DRY AREA. DO NOT FREEZE. KEEP
+    CONTAINER CLOSED WHEN NOT IN USE.
+Other Precautions:NONE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT APPLICABLE. USE NIOSH/MSHA APPROVED
+    RESPIRATOR APPROPRIATE FOR EXPOSURE OF CONCERN .
+Protective Gloves:RUBBER GLOVES.
+Eye Protection:CHEM WORK GOG W/FULL LENGTH FSHLD.
+Other Protective Equipment:EMERGENCY EYE WASH & DELUGE SHOWER .
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:B3
+Boiling Pt:B.P. Text:>212F,>100C
+Melt/Freeze Pt:M.P/F.P Text:32.0F,0.0C
+Vapor Pres:23
+Vapor Density:1.2
+Spec Gravity:1.03
+pH:11.8
+Solubility in Water:SOLUBLE
+Appearance and Odor:RED LIQUID, NO APPRECIABLE ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS, OXIDIZING AGENTS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:IN A MANNER IN ACCORDANCE WITH ALL FEDERAL,
+    STATE, AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

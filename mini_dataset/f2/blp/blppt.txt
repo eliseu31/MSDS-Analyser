@@ -1,0 +1,136 @@
+=====================  Product Identification  =====================
+
+Product ID:1012 FORMIC ACID SOLUTION 11N
+MSDS Date:03/16/1990
+FSC:6810
+NIIN:00F019188
+MSDS Number: BLPPT
+=== Responsible Party ===
+Company Name:HACH COMPANY
+Box:907
+City:AMES
+State:IA
+ZIP:50010
+Info Phone Num:(800) 227-4224
+Emergency Phone Num:(303) 623-5716
+CAGE:4T252
+=== Contractor Identification ===
+Company Name:HACH CO
+Address:5600 LINDBERGH DR
+Box:389
+City:LOVELAND
+State:CO
+ZIP:80539
+Country:US
+Phone:970-669-3050/ 303-623-5716
+CAGE:91224
+Company Name:HACH COMPANY
+Address:100 DAYTON RD.
+Box:907
+City:AMES
+State:IA
+ZIP:50010
+Country:US
+Phone:800-227-4224
+CAGE:4T252
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:FORMIC ACID  (SARA III)
+CAS:64-18-6
+RTECS #:LQ4900000
+Fraction by Wt: <50%
+Other REC Limits:5 PPM=IC
+OSHA PEL:5 PPM
+ACGIH TLV:5 PPM/10 STEL; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:WATER, H2O
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: BALANCE
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES/SKIN/INGESTION: CORROSIVE, TOXIC,
+    & BURNS. INHALATION: CORROSIVE & TOXIC TO RESPIRATORY TRACT.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES/SKIN/INGESTION: CORROSIVE, TOXIC, & BURNS.
+    INHALATION: CORROSIVE & TOXIC TO RESPIRATORY TRACT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES/SKIN: FLUSH W/WATER FOR 15 MINS. INGESTION: DON'T INDUCE
+    VOMITING. GIVE LARGE QUANTITIES OF WATER. GIVE AT LEAST 1 OUNCE OF
+    MILK OF MAGNESIA IN AN EQUAL AMOUNT OF WATER, OR GIVE THE WHITES OF
+    3 E GGS. NEVER GIVE ANYTHING BY MOUTH TO UNCONSCIOUS PERSON.
+    INHALATION: REMOVE TO FRESH AIR. GIVE ARTIFICIAL RESPIRATION IF
+    NECESSARY. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:>122F
+Extinguishing Media:DRY CHEMICAL, ALCOHOL FOAM, OR CO2
+Unusual Fire/Explosion Hazard:AUTOIGNITION TEMPERATURE: 815F.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:COVER THE CONTAMINATED SURFACE W/SODIUM
+    BICARBONATE OR A SODA ASH-SLAKED LIME MIXTURE (50-50). MIX & ADD
+    WATER IF NECESSARY TO FORM A SLURRY. SCOOP UP SLURRY & WASH THE
+    SITE W/SODA ASH SOLUTION.
+Neutralizing Agent:SODIUM BICARBONATE OR SODA ASH-SLAKED LIME MIXTURE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTACT W/EYES, SKIN, &
+    CLOTHING. DON'T BREATHE CHEMICALS. KEEP AWAY FROM OXIDIZERS. KEEP
+    TIGHTLY CLOSED IN A WELL-VENTILATED AREA.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:FUME HOOD
+Protective Gloves:RUBBER
+Eye Protection:LAB GRADE GOGGLES
+Other Protective Equipment:LAB COAT
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING. REMOVE/LAUNDER
+    CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+CORROSION RATE: ALUMINUM = 0.008 IN/YR; STEEL = 0.045 IN/YR.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:230F
+Spec Gravity:1.107
+pH:<0.5
+Solubility in Water:MISCIBLE
+Appearance and Odor:CLEAR, COLORLESS LIQUID W/IRRITATING ODOR.
+Corrosion Rate:SEE SUP
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZERS, CAUSTICS, FURFURYL ALCOHOL, HYDROGEN PEROXIDE, NITROMETHANE,
+    & PHOSPHOROUS PENTOXIDE
+Stability Condition to Avoid:HEAT & FLAMES
+Hazardous Decomposition Products:TOXIC FUMES OF CO
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:THE NEUTRALIZED SLURRY MAY CONTAIN SUFFICIENT
+    HEAVY METAL CONCENTRATION TO REQUIRE LANDFILLING OR TREATMENT AT AN
+    EPA APPROVED SITE. DISPOSE OF IN ACCORDANCE W/ALL FEDERAL, STATE, &
+    LOCAL REGULATIONS.	UN 1779.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

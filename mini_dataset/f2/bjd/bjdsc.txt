@@ -1,0 +1,150 @@
+=====================  Product Identification  =====================
+
+Product ID:CADMIUM ANODE BALLS
+MSDS Date:10/08/1990
+FSC:3426
+NIIN:00-262-3845
+MSDS Number: BJDSC
+=== Responsible Party ===
+Company Name:THERMAL REDUCTION CO
+Address:NO 1 PAVILION AVE
+City:RIVERSIDE
+State:NJ
+ZIP:08075-3144
+Country:US
+Info Phone Num:215-332-4277
+Emergency Phone Num:215-332-4277
+Preparer's Name:DGSC-SSH
+CAGE:9D443
+=== Contractor Identification ===
+Company Name:HANCKEL-SMITH SALES CO.
+Address:742 E. 25TH STREET
+Box:6141
+City:NORFOLK
+State:VA
+ZIP:23508
+Country:US
+CAGE:7D713
+Company Name:THERMAL REDUCTION CO
+Address:NO 1 PAVILION AVE
+Box:City:RIVERSIDE
+State:NJ
+ZIP:08075-3144
+Country:US
+Phone:215-332-4277
+CAGE:9D443
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CADMIUM  (SARA III)
+CAS:7440-43-9
+RTECS #:EU9800000
+Fraction by Wt: 100%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:SEE 1910.1027
+ACGIH TLV:0.01 MG/M3 DUST;9394
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL RAT LD50 IS 225 MG/KG
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:CADMIUM METAL IN THIS FORM POSES VERY
+    LITTLE ACUTE HAZARD. ONLY MODERATE CARE IS NECESSARY TO PREVENT
+    INGESTION OF TOXIC QUANTITIES.  HOWEVER CADMIUM AND CADMIUM
+    COMPOUNDS HAVE BEEN LISTED BY NTP AND  IARC AS CARCINOGENS, CANCER
+    BEING A POSSIBLE RESULT OF CHRONIC EXPOSURE.
+Explanation of Carcinogenicity:ACGIH AND EPA JOIN NTP AND IARC IN
+    LISTING CADMIUM AS A CARCINOGEN
+Effects of Overexposure:EYE&SKIN IRRIT. SEVERE LUNG IRRIT/PULMONARY
+    EDEMA (INHALATION OF DUST). POTENTIAL CARCINOGEN.
+Medical Cond Aggravated by Exposure:NONE FOUND
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH W/WATER 15 MIN, HOLD LIDS OPEN.  SKIN:WASH WITH
+    SOAP & WATER. REMOVE CONTAMINATED CLOTHING AND LAUNDER BEFORE
+    REUSE.  INHALED:REMOVE TO FRESH AIR. RESTORE BREATHING IF
+    NECESSARY.	INGESTED:D O NOT INDUCE VOMITING. GIVE 2 LARGE GLASSES
+    OF MILK OR WATER AND GET IMMEDIATE MEDICAL CARE. GIVE NOTHING BY
+    MOUTH IF UNCONSCIOUS.   IF IRRITATION PERSISTS OR IS SEVERE,SEE A
+    DOCTOR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:PRODUCT IS NON FLAMMABLE.  EXTINGUISH FIRE WITH
+    MEDIA APPROPRIATE FOR SOURCE OF FIRE.  NOTE:CADMIUM DUST IS
+    DANGEROUS.
+Fire Fighting Procedures:WEAR SCBA & FULL PROTECTIVE CLOTHING IF
+    INVOLVED IN FIRE.
+Unusual Fire/Explosion Hazard:CADMIUM FUMES GENERATED IN A FIRE ARE
+    VERY TOXIC.  CADMIUM DUST (UNLIKELY TO ACCUMULATE WITH THIS
+    PRODUCT) IS EXPLOSIVE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:PICK UP AND RETURN TO CONTAINER.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL DRY AREA.
+Other Precautions:USE GOOD HOUSEKEEPING PRACTICE. AVOID ANY BUILD UP OF
+    CADMIUM DUST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESPIRATOR WILL NOT NORMALLY BE NECESSARY.  USE
+    NIOSH/MSHA APPROVED AIR SUPPLIED RESPIRATOR OR RESPIRATOR FOR METAL
+    DUST/MIST IF EXPOSURE IS ABOVE THE TLV/PEL. SEE 29 CFR 1910.134 FOR
+    REGULATIONS PERT AINING TO RESPIRATOR USE.
+Ventilation:NORMAL ROOM VENTILATION IS SUFFICIENT.  SUPPLEMENT WITH
+    LOCAL EXHAUST DURING PLATING OPERATIONS IF PEL/TLV IS EXCEEDED.
+Protective Gloves:THICK WORK GLOV
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:NONE NECESSARY FOR HANDLING THIS PRODUCT. 
+    USE APPROPRATE PROTECTIVE CLOTHING WHEN OPERATING PLATING
+    OPERATION.
+Work Hygienic Practices:USE GOOD CHEMICAL HYGIENE PRACTICE. AVOID
+    UNNECESSARY CONTACT. WASH THOROUGHLY BEFORE EATING OR DRINKING.
+Supplemental Safety and Health
+PROTECTIVE CLOTHING IS DICTATED BY WORK BEING DONE AND DIFFERS
+    DRASTICALLY WHEN SIMPLY HANDLING THE PRODUCT AND WHEN USING IT IN
+    AN ELECTROPLATING OPERATION.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:1413F,767C
+Melt/Freeze Pt:M.P/F.P Text:608F,320C
+Vapor Pres:NIL
+Spec Gravity:SOLID
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:SILVERY MALLEABLE METAL BALLS, NO ODOR
+Percent Volatiles by Volume:0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZERS AND ACIDS (MAY REACT VIOLENTLY)
+Stability Condition to Avoid:HIGH HEAT NEAR MELTING AND ABOVE.
+Hazardous Decomposition Products:CADMIUM OXIDE FUME, ALSO REACTION WITH
+    ACIDS MAY LIBERATE EXPLOSIVE QUANTITIES OF HYDROGEN GAS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W ALL FEDERAL, STATE AND LOCAL
+    REGULATIONS.  HMIS SUGGESTS THAT DISPOSAL MAY BE DONE BY RECLAIM OR
+    RECOVERY BY APPROVED DISPOSAL FACILITY.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

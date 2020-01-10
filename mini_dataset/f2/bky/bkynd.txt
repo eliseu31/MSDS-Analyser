@@ -1,0 +1,123 @@
+=====================  Product Identification  =====================
+
+Product ID:640511 OATEY FIBERGLASS RESIN PART B
+MSDS Date:01/31/1986
+FSC:8040
+NIIN:00-790-9395
+MSDS Number: BKYND
+=== Responsible Party ===
+Company Name:TRW INC
+Address:8001 E PLEASANT VALLEY RD
+City:CLEVELAND
+State:OH
+ZIP:44131-5526
+Info Phone Num:(216) 447-8130
+Emergency Phone Num:(216) 267-7100
+CAGE:TRWIN
+=== Contractor Identification ===
+Company Name:TRW
+Address:100 LAKE RD.
+Box:City:MEDINA
+State:OH
+ZIP:44256
+Country:US
+Phone:216-725-4511
+CAGE:31033
+Company Name:TRW INC
+Address:1435 HEIL QUAKER BLVD
+City:LA VERGNE
+State:TN
+ZIP:37086
+Phone:(216) 467-4195
+CAGE:TRWIN
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL ETHYL KETONE PEROXIDE (MEKP)  (SARA III)
+CAS:1338-23-4
+RTECS #:EL9450000
+Fraction by Wt: 44%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:C 0.7 PPM
+ACGIH TLV:C 0.2; 9394
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+Ingred Name:DIMETHYLPHTHALATE  (SARA III)
+CAS:131-11-3
+RTECS #:TI1575000
+Fraction by Wt: 40.5%
+Other REC Limits:5 MG/CUM
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:WATER, H2O
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 15.5%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: CORROSIVE & BLINDNESS. SKIN:
+    IRRITATION. INGESTION: TOXIC.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: CORROSIVE & BLINDNESS. SKIN: IRRITATION.
+    INGESTION: TOXIC.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER. SKIN: WASH W/SOAP & WATER. INGESTION:
+    DRINK LARGE AMOUNTS OF MILK/WATER. OBTAIN MEDICAL ATTENTION IN ALL
+    CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:>110F
+Extinguishing Media:SMALL FIRES: CO2 & DRY CHEMICAL FOAM. LARGE FIRES:
+    FOG SPRAY OR FOAM.
+Fire Fighting Procedures:KEEP CONTAINERS COOL W/WATER SPRAY. USE AIR
+    MASKS.
+Unusual Fire/Explosion Hazard:MATERIAL IS A STRONG OXIDIZING AGENT; MAY
+    INCREASE FIRE HAZARD OF ORGANIC MATERIALS. EXPOSURE TO TEMPS >120F
+    MAY CAUSE DELAYED COMPOSITION AND FIRES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB W/NON-COMBUSTIBLE MATERIAL LIKE
+    VERMICULITE OR PERLITE. SWEEP UP W/NON-SPARKING TOOLS & THEN REMOVE
+    THE MIXTURE TO A SAFE OPEN AREA FOR DISPOSAL BY BURNING. AREA OF
+    SPILL RESIDUE SHOULD BE THOR OUGHLY SCRUBBED W/DETERGENT WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM HAZARDOUS MATERIALS &
+    SOURCES OF IGNITION & HEAT. STORE BETWEEN 60-65F TO MAINTAIN ACTIVE
+    OXYGEN CONTACT. KEEP AWAY FROM FOOD/DRINKS.
+Other Precautions:KEEP COOL & AWAY FROM DIRECT SUNLIGHT. AVOID
+    INHALATION OF FUMES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE AIR MASKS.
+Ventilation:USE LOCAL EXHAUST VENTILATION TO KEEP 120F, HEAT &
+    SOURCES OF IGNITION
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN COMPLIANCE W/LOCAL, STATE & FEDERAL
+    REGULATIONS. IGNITE W/LONG (6 FEET TORCH). SALVAGE OF SPILLED
+    PEROXIDES SHOULDN'T BE ATTEMPTED.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

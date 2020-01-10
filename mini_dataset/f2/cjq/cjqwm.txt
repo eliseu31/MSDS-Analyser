@@ -1,0 +1,182 @@
+=====================  Product Identification  =====================
+
+Product ID:BENZOIC ACID, A65500
+MSDS Date:12/12/1997
+FSC:NIIN:Submitter:N EN
+Status Code:A
+MSDS Number: CJQWM
+=== Responsible Party ===
+Company Name:FISHER SCIENTIFIC
+Address:1 REAGENT LANE
+City:FAIRLAWN
+State:NJ
+ZIP:07410
+Country:US
+Info Phone Num:201-796-7100
+Emergency Phone Num:800-424-9300
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:1B464
+=== Contractor Identification ===
+Company Name:FISHER SCIENTIFIC CO.  CHEMICAL MFG DIV
+Address:1 REAGENT LANE
+Box:City:FAIRLAWN
+State:NJ
+ZIP:07410-2802
+Country:US
+Phone:201-796-7100
+CAGE:1B464
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BENZOIC ACID
+CAS:65-85-0
+RTECS #:DG0875000
+= Wt:100.
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50: (ORAL,RAT) 1700 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: EYE: CAUSES SEVERE EYE
+    IRRITATION. MAY CAUSE EYE INJURY. SKIN: CAUSES SKIN IRRITATION.
+    INGESTION: MAY CAUSE GASTROINTESTINAL IRRITATION WITH NAUSEA,
+    VOMITING AND DIARRHEA. MAY CAUSE DIGESTIVE T RACT DISTURBANCES. MAY
+    CAUSE ALLERGIC REACTION. INHALATION: CAUSES RESPIRATORY TRACT
+    IRRITATION. CHRONIC: NO INFORMATION FOUND.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: IMMEDIATELY FLUSH W/PLENTY OF WATER FOR AT LST 15 MINS,
+    OCCASNLY LIFTING UPPER & LOWER LIDS. GET MEDICAL AID IMMED. SKIN:
+    GET MEDICAL AID. FLUSH W/PLENTY OF WATER FOR AT LST 15 MINS WHILE
+    REMOVI NG CONTAMD CLTHG & SHOES. INGEST: INDUCE VOMITING. IF VICTIM
+    IS CONSCIOUS & ALERT, GIVE 2-4 CUPFULS OF MILK/WATER. NEVER GIVE
+    ANYTHING BY MOUTH TO UNCON PERSON. GET MEDICAL AID. INHAL: REMOVE
+    FROM EXP OSURE TO FRESH AIR IMMED. GET MEDICAL AID IF COUGH OR
+    OTHER SYMTPOMS APPEAR. NOTES TO PHYS: TREAT SYMPTOMATICALLY AND
+    SUPPORTIVELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:=121.C, 249.8F
+Autoignition Temp:=574.C, 1065.2F
+Extinguishing Media:IN CASE OF FIRE, USE WATER, DRY CHEMICAL, CHEMICAL
+    FOAM, OR ALCOHOL-RESISTANT FOAM.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:VAPORS MAY FORM AN EXPLOSIVE MIXTURE WITH
+    AIR. THIS MATERIAL IN SUFFICIENT QUANTITY AND REDUCED PARTICLE SIZE
+    IS CAPABLE OF CREATING A DUST EXPLOSION.  HEALTH: 2; FLAMMABILITY:
+    1; REACTIVITY: 0.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:GEN INFO: USE PROPER PERSONAL PROTECTIVE
+    EQUIPMENT AS INDICATED IN EXPOSURE CONTROLS, PERSONAL PROTECTION
+    SECTION. VACUUM OR SWEEP UP MATERIAL AND PLACE INTO A SUITABLE
+    DISPOSAL CONTAINER. AVOID GENER ATING DUSTY CONDITIONS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:WASH THOROUGHLY AFTER HANDLING. USE
+    WITH ADEQUATE VENTILATION. AVOID CONTACT WITH EYES, SKIN, AND
+    CLOTHING. AVOID INGESTION AND INHALATION.
+Other Precautions:KEEP AWAY FROM HEAT AND FLAME. KEEP AWAY FROM SOURCES
+    OF IGNITION. STORE IN A TIGHTLY CLOSED CONTAINER. STORE IN A COOL,
+    DRY, WELL-VENTILATED AREA AWAY FROM INCOMPATIBLE SUBSTANCES. KEEP
+    AWAY FROM STR ONG BASES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:FOLLOW THE OSHA RESPIRATOR REGULATIONS FOUND IN
+    29CFR 1910.134 OR EUROPEAN STANDARD EN 149. ALWAYS USE A NIOSH OR
+    EUROPEAN STANDARD EN 149 APPROVED RESPIRATOR WHEN NECESSARY.
+Ventilation:USE ADEQUATE VENTILATION TO KEEP AIRBORNE CONCENTRATIONS
+    LOW.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:ANSI APPROVED EYE WASH & DELUGE SHOWER .
+    WEAR APPROPRIATE PROTECTIVE CLOTHING TO MINIMIZE CONTACT WITH SKIN.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:=249.C, 480.2F
+Melt/Freeze Pt:=122.C, 251.6F
+Vapor Pres:10 @ 96C
+Vapor Density:4.2(AIR=1)
+Spec Gravity:1.32
+pH:2.8 @ STD SOLN
+Solubility in Water:2.9% @ 20C
+Appearance and Odor:WHITE SOLID, BENZENE-LIKE ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+REACTS EXOTHERMICALLY WITH STRONG BASES, AND ITS WATER SOLUTION REACTS
+    WITH METALS AND CAN GENERATE HYDROGEN GAS. INCOMPATIBLE WITH STRONG
+    OXIDIZING AGENTS.
+Stability Condition to Avoid:INCOMPATIBLE MATERIALS, STRONG OXIDANTS.
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE,
+    PHENOL, BENZENE.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:CAS# 65-85-0: DG0875000. LD50/LC50: CAS#
+    65/85-0: ORAL,MOUSE: LD50 = 1940 MG/KG; ORAL,RAT: LD50 = 1700
+    MG/KG. EPIDEMIOLOGY, TERATOGENICITY, REPRODUCTIVE EFFECTS,
+    NEUROTOXICITY, MUTAGENICITY & OTHER ST UDIES: NO DATA AVAILABLE.
+
+=====================  Ecological Information  =====================
+
+Ecological:ECOTOXICITY, ENVIRONMENTAL FATE, PHYSICAL/CHEMICAL, & OTHER:
+    NOT AVAILABLE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN A MANNER CONSISTENT WITH FEDERAL,
+    STATE, AND LOCAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:SHIPPING NAME: BENZOIC ACID. HAZARD CLASS: 9.2.
+    UN NUMBER: UN9094. PACKING GROUP: III. ADDITIONAL INFO: REGULATED
+    LIMIT 230 KG. US DOT, IATA, RID/ADR, IMO: NO INFORMATION AVAILABLE.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:SECTION 302 (RQ): FINAL RQ = 5000 POUNDS
+    (2270 KG). SECTION 302 (TPQ): NONE OF CHEMS IN PROD HAVE A TPQ.
+    SARA CODES: CAS # 65-85-0:ACUTE. SECTION 313: NO CHEMS ARE
+    REPORTABLE UNDER SECTIONS 313.
+Federal Regulatory Information:TSCA: CAS# 65-85-0 IS LISTED ON TSCA
+    INVENTORY. HLTH & SFTY RPTG LIST: NONE OF CHEMS ARE ON HLTH & SFTY
+    RPTG LIST. CHEM TEST RULES: NONE OF CHEMS IN PROD ARE UNDER CHEM
+    TEST RULE. SECTION 12B: NONE OF  CHEMS ARE LISTED UNDER TSCA
+    SECTION 12B. TSCA SIGNIFICANT NEW USE RULE: NONE OF CHEMS IN MATL
+    HAVE SNUR UNDER TSCA. CLEAR AIR ACT: THIS MATL DOES NOT CNTN ANY
+    HAZ AIR POLLUTANTS. THIS MATL DOES NOT C NTN ANY CLASS 1 OZONE
+    DEPLETORS. THIS MATL DOES NOT CNTN ANY CALSS 2 OZONE DEPLETORS.
+    CLEAN WATER AC T: LISTED AS HAZ SUBSTANCE UNDER CWA. NONE OF CHEMS
+    IN (OTHER INFO)
+State Regulatory Information:STATE: CAS# 65-85-0 CAN BE FOUND ON THE
+    FOLLOWING STATE RIGHT TO KNOW LISTS: CALIFORNIA, NEW JERSEY,
+    FLORIDA, PENNSYLVANIA, MASSACHUSETTS. CALIFORNIA NO SIGNIFICANT
+    RISK LEVEL: NOEN OF CHEMICALS IN TH IS PRODUCT ARE LISTED.
+    EUROPEAN/INTERNATIONAL REGS. EUROPEAN LABELING I/A/W EC DIRECTIVES.
+    HAZARD SYMBOLS: NOT AVAILABLE.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

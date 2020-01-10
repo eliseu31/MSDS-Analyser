@@ -1,0 +1,130 @@
+=====================  Product Identification  =====================
+
+Product ID:B 537
+MSDS Date:05/31/1989
+FSC:6850
+NIIN:00F004086
+MSDS Number: BLPHS
+=== Responsible Party ===
+Company Name:ASHLAND CHEMICAL INC SUB OF ASHLAND OIL
+Box:2219
+City:COLUMBUS
+State:OH
+ZIP:43216
+Country:US
+Info Phone Num:614-790-3333
+Emergency Phone Num:1-800-ASHLAND OR 1-800-274-5263
+CAGE:5A188
+=== Contractor Identification ===
+Company Name:ASHLAND CHEMICAL CO
+Address:5200 PAUL BLAZEL MEMORIAL PARKWAY
+Box:City:DUBLIN
+State:OH
+ZIP:43017
+Country:US
+Phone:614-889-4505
+CAGE:5A188
+Company Name:KEPRO CIRCUIT SYSTEMS INC
+Address:630 AXMINISTER DR
+Box:City:FENTON
+State:MO
+ZIP:63026-2906
+Country:US
+Phone:314-343-1630
+CAGE:52455
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:KETONE
+Fraction by Wt: 30%
+ACGIH TLV:25 PPM
+
+Ingred Name:AROMATIC HYDROCARBON
+Fraction by Wt: >60%
+ACGIH TLV:100 PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: SEVERE IRRITATION. SKIN:
+    MODERATE IRRITATION. INHALATION: NASAL & RESPIRATORY IRRITATION,
+    CNS EFFECTS, MAY BE HARMFUL. INGESTION: GASTROINTESTINAL
+    IRRITATION. ASPIRATION & ABSORPTION HAZARD.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: REDNESS, TEARING, BLURRED VISION. SKIN:
+    DEFATTING ACTION, DERMATITIS. INHALATION: DIZZINES, WEAKNESS,
+    FATIGUE, NAUSEA, HEADACHE, POSSIBLE UNCONSCIOUSNESS, CARDIAC
+    ABNORMALITY, DEATH. INGESTION:  CHEMICAL PNEUMONITIS (WHICH CAN BE
+    FATAL), NAUSEA, VOMITING, DIARRHEA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: WASH W/SOAP & WATER. EYES: FLUSH W/WATER. INGESTION:
+    DON'T INDUCE VOMITING. KEEP WARM & QUIET. INHALATION: REMOVE TO
+    FRESH AIR. IF BREATHING DIFFICULT OR STOPPED, GIVE OXYGEN OR CPR.
+    OBTAIN MEDI CAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:73-100F
+Lower Limits:1%
+Extinguishing Media:REGULAR FOAM, CO2, DRY CHEMICAL
+Fire Fighting Procedures:WEAR FULL FACEPIECE SELF-CONTAINED BREATHING
+    APPARATUS W/FULL FACEPIECE OPERATED IN PRESSURE-DEMAND OR OTHER
+    POSITIVE PRESSURE MODE.
+Unusual Fire/Explosion Hazard:VAPORS ARE HEAVIER THAN AIR/TRAVEL ALONG
+    THE GROUND, CAN IGNITE EXPLOSIVELY AT IGNITION SOURCES DISTANT FROM
+    HANDLING POINT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB LIQUID ON PAPER/VERMICULITE/FLOOR
+    ABSORBENT/TRANSFER TO HOOD. STOP SPILL AT SOURCES, DIKE AREA OF
+    SPILL PREVENT SPREADING/PUMP LIQUID TO SALVAGE TANK. REMAINING
+    LIQUID MAY BE TAKEN UP ON SAND/C LAY/EARTH/FLOOR ABSORBENT/SHOVELED
+    INTOCONTAINERS
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:CONTAINERS OF THIS MATERIAL MAY BE
+    HAZARDOUS WHEM EMPTIED. SINCE EMPTIED CONTAINERS RETAIN PRODUCT
+    RESIDUES (VAPOR, LIQUID, &/OR SOLID).
+Other Precautions:NEVER USE WELDING OR CUTTING TORCH ON OR NEAR DRUM
+    (EVEN EMPTY) BECAUSE PRODUCT (EVEN JUST RESIDUE) CAN IGNITE
+    EXPLOSIVELY. ALL 5 GALS PAILS/LARGER METAL CONTAINERS SHOULD BE
+    GROUNDED &/OR BONDED WHEN  MATERIAL IS TRANSFERRED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF ANY COMPONENT IS EXCEEDED, A NIOSH/MSHA
+    APPROVE AIR SUPPLIED RESPIRATOR IS ADVISED IN ABSENCE OF PROPER
+    ENVIRONMENTAL CONTROL. ENGINEERING OR ADMINISTRATIVE CONTROLS
+    SHOULD BE IMPLEMENTED TO REDUCE  EXPOSURE.
+Ventilation:PROVIDE SUFFICIENT MECHANICAL (GENERAL)/LOCAL EXHAUST
+    VENTILATION TO KEEP 1
+Spec Gravity:<1
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:PILOT LIGHTS, FLAMES, SPARKS, HEATERS,
+    STATIC DISCHARGE, OR OTHER IGNITION SOURCES.
+Hazardous Decomposition Products:CO, CO2, VARIOUS HYDROCARBONS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH ALL LOCAL, STATE
+    AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

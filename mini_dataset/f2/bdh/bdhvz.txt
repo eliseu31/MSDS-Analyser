@@ -1,0 +1,110 @@
+=====================  Product Identification  =====================
+
+Product ID:ELECTROLYTE
+MSDS Date:01/01/1985
+FSC:6140
+NIIN:00-190-9828
+MSDS Number: BDHVZ
+=== Responsible Party ===
+Company Name:STANDARD INDUSTRIES
+Address:NELSON RD AT RELIABLE DR
+Box:27500
+City:SAN ANTONIO
+State:TX
+ZIP:78227-0500
+Country:US
+CAGE:32571
+=== Contractor Identification ===
+Company Name:STANDARD INDUSTRIES
+Address:NELSON RD AT RELIABLE DR
+Box:27500
+City:SAN ANTONIO
+State:TX
+ZIP:78227-0500
+Country:US
+CAGE:32571
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SULFURIC ACID  (SARA III)
+CAS:7664-93-9
+RTECS #:WS5600000
+Fraction by Wt: 33%
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:SPILLAGE ON BODY/EYES WILL CAUSE BURNS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH WITH WATER 15 MIN.SKIN:FLUSH WITH
+    WATER.INTERNAL:GIVE LARGE QUANTITIES OF WATER OR MILK,FOLLOW WITH
+    MILK OF MAGNESIA.GET MEDICAL ATTENTION IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE MEDIUM SUITABLE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APP.PROTECTIVE
+    CLOTHING
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE IGNITION SOURCES.NEUTRALIZE WITH
+    SODA ASH.FLOOD WITH WATER.FLUSH TO SEWER IN ACCORDANCE WITH
+    FEDERAL,STATE AND LOCAL REGULATIONS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DRY,WELL-VENTED
+    AREA.KEEP AWAY FROM ALKALI.KEEP CONTAINERS CLOSED.PROTECT FROM
+    PHYSICAL DAMAGE.
+Other Precautions:AVOID SPILLAGE-ACID IS CORROSIVE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY REQUIRED
+Ventilation:MECHANICAL(GENERAL)
+Protective Gloves:RUBBER
+Eye Protection:CHEMICAL GOGGLES
+Other Protective Equipment:AS NECESSARY TO PREVENT SKIN CONTACT.
+Supplemental Safety and Health
+33% SULFURIC ACID IS BASED ON TOTAL WEIGHT OF THE BATTERY.CONTAINS 1.5
+    GAL OF SULFURIC ACID(D=1.265)
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C1
+Boiling Pt:B.P. Text:242F/117
+Vapor Pres:16
+Spec Gravity:1.265
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR LIQUID;NO ODOR
+Percent Volatiles by Volume:0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ALKALI,STRONG OXIDIZERS
+Stability Condition to Avoid:SUB-ZERO TEMPERATURES
+Hazardous Decomposition Products:POSSIBLY SULFUR DIOXIDE GENERATED IN
+    FIRE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:NEUTRALIZE WITH SODA ASH.FLUSH NEUTRALIZED
+    SOLUTION TO SEWER WITH PLENTY OF WATER IN ACCORDANCE WITH
+    FEDERAL,STATE AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

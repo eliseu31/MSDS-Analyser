@@ -1,0 +1,109 @@
+=====================  Product Identification  =====================
+
+Product ID:DERMA SCRUB
+MSDS Date:01/01/1987
+FSC:6508
+NIIN:01-243-3244
+MSDS Number: BJDZT
+=== Responsible Party ===
+Company Name:MINNETONKA, INC.
+Address:JONATHAN INDUSTRIAL PARK
+City:CHASKA
+State:MN
+ZIP:55318
+Country:US
+Info Phone Num:612-448-4181
+Emergency Phone Num:612-448-4181
+CAGE:64431
+=== Contractor Identification ===
+Company Name:MINNETONKA, INC.
+Address:JONATHAN INDUSTRIAL PARK
+Box:City:CHASKA
+State:MN
+ZIP:55318
+Country:US
+Phone:612-448-4181
+CAGE:64431
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:"NOT HAZARDOUS"
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE-EYES:IRRITATION. SKIN:NONE.
+    INHALATION:UNKNOWN. INGESTION:IRRITATION. CHRONIC-EYES:IRRITATION.
+    SKIN:NONE. INHALATION:UNKNOWN. INGESTION:IRRITATION.
+Explanation of Carcinogenicity:NON-CARCINOGENIC.
+Effects of Overexposure:EYES:IRRITATION. SKIN:NONE. INHALATION:UNKNOWN.
+    INGESTION:STOMACH UPSET, NAUSEA, OR DIARRHEA.
+Medical Cond Aggravated by Exposure:NONE GIVEN BY THE MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: RINSE WITH LARGE AMOUNTS OF WATER FOR AT LEAST 15 MIN.
+    SKIN:RINSE WITH WATER. INHALATION:SEEK MEDICAL ATTENTION.
+    INGESTION:SEEK MEDICAL ATTENTION IF A LARGE AMOUNT OF THIS PRODUCT
+    IS CONSUMED.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:PRODUCT IS NON-FLAMMABLE.
+Fire Fighting Procedures:USE WATER SPRAY TO COOL NEARBY CONTAINERS
+    EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP OR MOP UP INTO DISPOSABLE CONTAINER.
+Neutralizing Agent:NOT RELEVANT
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NO UNUSUAL STORAGE OR HANDLING
+    PRECAUTIONS.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT SPECIFIED BY MANUFACTURER.
+Ventilation:NOT SPECIFIED BY MANUFACTURER.
+Protective Gloves:NOT SPECIFIED BY MANUFACTURER.
+Eye Protection:NOT SPECIFIED BY MANUFACTURER.
+Other Protective Equipment:NOT SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:WASH HANDS AFTER CONTACT WITH THIS PRODUCT.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:>212F,>100C
+Spec Gravity:1
+Solubility in Water:SOLUBLE
+Appearance and Odor:VISCOUS LIQUID WITH FRAGRANT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:EXCESSIVE HEAT.
+Hazardous Decomposition Products:NONE
+Conditions to Avoid Polymerization:POLYMERIZATION WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:NO SPECIAL PROCEDURE. FOLLOW LOCAL WASTE
+    DISPOSAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

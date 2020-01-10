@@ -1,0 +1,177 @@
+=====================  Product Identification  =====================
+
+Product ID:SEAMFIL 901 & ALL COLORS
+MSDS Date:01/01/1992
+FSC:8030
+NIIN:01-311-2627
+MSDS Number: BWRFY
+=== Responsible Party ===
+Company Name:KAMPEL ENTERPRISES INC
+Address:8930 CARLISLE RD
+City:WELLSVILLE
+State:PA
+ZIP:17365
+Country:US
+Info Phone Num:800-457-4280
+Emergency Phone Num:800-457-4280
+CAGE:2L263
+=== Contractor Identification ===
+Company Name:KAMPEL ENTERPRISES INC
+Address:8930 CARLISLE RD
+Box:157
+City:WELLSVILLE
+State:PA
+ZIP:17365-0157
+Country:US
+Phone:800-457-4280
+CAGE:2L263
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ACETONE (SARA 313) (CERCLA)
+CAS:67-64-1
+RTECS #:AL3150000
+Fraction by Wt: 10-20%
+OSHA PEL:1000 PPM
+ACGIH TLV:750 PPM;1000 STEL
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ISOPROPYL ALCOHOL (SARA 313)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: 5-15%
+OSHA PEL:400 PPM
+ACGIH TLV:400 PPM;500 STEL
+
+Ingred Name:2-BUTANONE; (METHYL ETHYL KETONE) (MEK) (SARA 313) (CERCLA)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: 5-15%
+OSHA PEL:200 PPM
+ACGIH TLV:200 PPM;300 STEL
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:XYLENE (SARA 313) (CERCLA)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 10-20%
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM;150 STEL
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ACETIC ACID, ISOPROPYL ESTER; (ISOPROPYL ACETATE)
+CAS:108-21-4
+RTECS #:AI4930000
+Fraction by Wt: 10-20%
+OSHA PEL:250 PPM
+ACGIH TLV:250 PPM;310 STEL
+
+Ingred Name:MAGNESIUM SILICATE HYDRATE
+CAS:1343-90-4
+RTECS #:OM4360000
+Fraction by Wt: 15-25%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:TITANIUM OXIDE; (TITANIUM DIOXIDE)
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 2-7%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST
+
+Ingred Name:CELLULOSE ACETATE BUTYRATE; (CELLULOSE ACETATE BUTYRATE
+    RESIN)
+CAS:9004-36-8
+Fraction by Wt: 15-25%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:SOLVENT VAPORS MAY CAUSE
+    DROWSINESS, HEADACHE, DIZZINESS & IRRITATION OF EYES, NOSE &
+    THROAT. CHRONIC:NONE.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:FLUSH W/COPIOUS AMOUNTS OF WATER. CALL MD . EYE:FLUSH
+    W/LARGE QUANTITY OF WATER FOR AT LEAST 15 MINUTES. INHAL:REMOVE TO
+    FRESH AIR. INGEST:DO NOT INDUCE VOMITING. CALL MD IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:4F,-16C
+Lower Limits:1.2%
+Extinguishing Media:USE SAND, FOAM, CARBON DIOXIDE, CHEMICAL TYPES.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT . COOL EXPOSED CONTAINERS W/WATER TO PREVENT EXPLOSION.
+Unusual Fire/Explosion Hazard:AVOID BREATHING VAPOR. FLAMMABLE UNDER
+    CONDITIONS OF FLAME OR HIGH HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. WEAR
+    NIOSH/MSHA APPROVED RESPIRATOR. CONTAIN SPILL W/INERT SUBSTANCE
+    (SAND, DIRT), PUT MIXTURE IN CONTAINERS FOR DISPOSAL. KEEP SPILL
+    OUT OF SEWERS & OPEN BODIES OF WAT ER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM HEAT & FLAME. HARMFUL
+    OR FATAL IF SWALLOWED. CONTAIN PETROLEUM DISTILLATES.
+Other Precautions:FLAMMABLE. USE W/ADEQUATE VENTILATION. AVOID CONTACT
+    W/SKIN & BREATHING OF VAPOR. CLOSE CONTAINER TIGHTLY AFTER EACH
+    USE. KEEP OUT OF REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR ABOVE 60 PPM.
+Ventilation:LOCAL EXHAUST VENTILATION.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGGS .
+Other Protective Equipment:EYE WASH FOUNTAIN & DELUGE SHOWER WHICH MEET
+    ANSI DESIGN CRITERIA . RUBBER APRON.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>130F,>54C
+Vapor Density:>1
+Spec Gravity:>1
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Appearance and Odor:VERY VISCOUS LIQUID; KETONE ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTACT W/STRONG OXIDANTS.
+Stability Condition to Avoid:AVOID FLAME OR HIGH HEAT.
+Hazardous Decomposition Products:CARBON MONOXIDE MAY FORM WHEN BURNED.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF ACCORDING TO LOCAL, STATE & FEDERAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

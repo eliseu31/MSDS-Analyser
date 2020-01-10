@@ -1,0 +1,131 @@
+=====================  Product Identification  =====================
+
+Product ID:14458 CHLOROFORM
+MSDS Date:03/29/1990
+FSC:6810
+NIIN:00F019186
+MSDS Number: BLPPR
+=== Responsible Party ===
+Company Name:HACH COMPANY
+Box:907
+City:AMES
+State:IA
+ZIP:50010
+Info Phone Num:(800) 227-4224
+Emergency Phone Num:(303) 623-5716
+CAGE:4T252
+=== Contractor Identification ===
+Company Name:HACH CO
+Address:5600 LINDBERGH DR
+Box:389
+City:LOVELAND
+State:CO
+ZIP:80539
+Country:US
+Phone:970-669-3050/ 303-623-5716
+CAGE:91224
+Company Name:HACH COMPANY
+Address:100 DAYTON RD.
+Box:907
+City:AMES
+State:IA
+ZIP:50010
+Country:US
+Phone:800-227-4224
+CAGE:4T252
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CHLOROFORM	(SARA III)
+CAS:67-66-3
+RTECS #:FS9100000
+Fraction by Wt: 100%
+OSHA PEL:(C) 50 PPM
+ACGIH TLV:10 PPM; A2; 9293
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): 800 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:EYES/SKIN: IRRITATION & TOXIC.
+    INHALATION: IRRITATION OF RESPIRATORY TRACT, TOXIC, HEADACHE,
+    DROWSINESS, VOMITING, DIZZINESS, PAIN, UNCONSCIOUSNESS, IRREGULAR
+    HEARTBEAT, LIVER & KIDNEY DAMAGE, DEATH,  & EFFECTS TO CENTRAL
+    NERVOUS SYSTEM.
+Explanation of Carcinogenicity:CHLOROFORM IS A SUSPECTED A2 CARCINOGEN
+    BY ACGIH.
+Effects of Overexposure:EYES/SKIN: IRRITATION & TOXIC, INHALATION:
+    IRRITATION OF RESPIRATORY TRACT, TOXIC, HEADACHE, DROWSINESS,
+    VOMITING, DIZZINESS, PAIN, UNCONSCIOUSNESS, IRREGULAR HEARTBEAT,
+    LIVER & KIDNEY DAMAGE, DEATH,  & EFFECTS TO CENTRAL NERVOUS SYSTEM.
+Medical Cond Aggravated by Exposure:DISEASES OF LIVER, KIDNEYS, &
+    CENTRAL NERVOUS SYSTEM
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER FOR 15 MINS. SKIN: WASH W/SOAP & WATER.
+    INGESTION: DON'T INDUCE VOMITING. INHALATION: REMOVE TO FRESH AIR.
+    GIVE ARTIFICIAL RESPIRATION IF NECESSARY. OBTAIN MEDICAL ATTENTION
+    IN ALL  CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:DRY CHEMICAL, ALCOHOL FOAM, OR CO2
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB ON PAPER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN TIGHTLY CLOSED CONTAINER.
+    AVOID CONTACT W/EYES, SKIN, & CLOTHING. DON'T BREATHE CHEMICALS.
+Other Precautions:PROTECT FROM LIGHT. AVOID EXCESSIVE EXPOSURE TO
+    CHLOROFORM.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:FUME HOOD
+Protective Gloves:DISPOSABLE
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:LAB COAT
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:141.8F
+Melt/Freeze Pt:M.P/F.P Text:-83.2F
+Vapor Pres:10
+Vapor Density:4.1
+Spec Gravity:1.474
+Solubility in Water:SLIGHT
+Appearance and Odor:HEAVY, VOLATILE, COLORLESS LIQUID W/ETHER-LIKE
+    ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ALKALIES/ACTIVE METALS SUCH AS ALUMINUM, MAGNESIUM, SODIUM OR
+    POTASSIUM, LITHIUM, DISILANE, (ACETONE + CAUSTICS)
+Stability Condition to Avoid:LIGHT, AIR, & FIRE
+Hazardous Decomposition Products:TOXIC FUMES OF CHLORIDES, CO, &
+    PHOSGENE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:BURN IN A CHEMICAL INCINERATOR EQUIPPED
+    W/AFTERBURNER & SCRUBBER. DISPOSE OF IN ACCORDANCE W/ALL LOCAL,
+    STATE, & FEDERAL REGULATIONS. UN 1888.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

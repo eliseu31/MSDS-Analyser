@@ -1,0 +1,132 @@
+=====================  Product Identification  =====================
+
+Product ID:SKI WAX
+MSDS Date:01/01/1987
+FSC:9160
+NIIN:00-903-3999
+MSDS Number: BLPGB
+=== Responsible Party ===
+Company Name:WEISSNER F H CO
+Address:159 LAKESIDE AVE
+City:BURLINGTON
+State:VT
+ZIP:05401-4931
+Country:US
+Info Phone Num:802-543-2251
+Emergency Phone Num:802-543-2251
+CAGE:MO195
+=== Contractor Identification ===
+Company Name:F.H. WEISSNER CO
+Box:City:BURLINGTON
+State:VT
+ZIP:05401
+Country:US
+CAGE:58124
+Company Name:WEISSNER F H CO
+Address:159 LAKESIDE AVE
+Box:City:BURLINGTON
+State:VT
+ZIP:05401-4931
+Country:US
+Phone:802-543-2251
+CAGE:MO195
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PARAFFIN WAX
+CAS:8002-74-2
+RTECS #:RV0350000
+Fraction by Wt: >99%
+OSHA PEL:2 MG/M3 (FUME)
+ACGIH TLV:2 MG/M3 (FUME); 9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN:BURNS FROM MOLTEN WAX.
+    INHALATION: SMOKE AND SOOT MAY CAUSE IRRITATION OF UPPER
+    RESPIRATORY TRACT. INGESTION: NON-TOXIC.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:THERMAL BURNS & IRRITATION OF UPPER RESPIRATORY
+    TRACT.
+Medical Cond Aggravated by Exposure:NONE KNOWN
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH WITH WATER FOR 15 MIN. SKIN:COOL HOT MELTED WAX IN
+    COLD WATER. DON'T USE SOLVENTS, CAN BE REMOVED WITH
+    VEGETABLE/MINERAL OIL. SEEK MEDICAL HELP FOR BURNS. INHALATION OF
+    SMOKE:REMOVE TO FRES H AIR, GIVE CPR IF NOT BREATHING. INGESTION:NO
+    TREATMENT REQUIRED.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:435F,224C
+Extinguishing Media:DRY CHEMICAL & CO2.
+Fire Fighting Procedures:DON'T USE WATER STREAM TO EXTINGUISH WAX FIRES
+    AS WATER MAY BOIL VIOLENTLY CAUSING AN EXPLOSION OF HOT WAX.
+Unusual Fire/Explosion Hazard:WAX MAY CATCH FIRE WHEN MELTED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE EQUIPMENT. ALLOW LIQUID TO
+    COOL & SOLIDIFY. SWEEP/SHOVEL INTO DOT-APPROVED CONTAINERS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL, DRY PLACE.
+Other Precautions:CONTAINERS, EVEN THOSE THAT HAVE BEEN EMPTIED, WILL
+    RETAIN PRODUCT RESIDUE. ALWAYS OBEY HAZARD WARNINGS & HANDLE EMPTY
+    CONATINERS AS IF THEY WERE FULL. ALWAYS MELT WAX OVER WATER,
+    PREFERABLY A DOUBLE  BOILER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT ORDINARILY REQUIRED.
+Ventilation:LOCAL
+Protective Gloves:MITTENS WHILE HANDLING HOT/MOLTEN WAX.
+Eye Protection:GOGGLES WHEN HANDLING MOLTEN WAX.
+Other Protective Equipment:LONG-SLEEVED SHIRT, TROUSERS, SAFETY SHOES,
+    APRON & EYEWASH/SAFETY SHOWER.
+Work Hygienic Practices:DO NOT OVERHEAT WHEN MELTING WAX, IT WILL CATCH
+    FIRE. WEAR PROTECTIVE GLOVES AND GOGGLES WHEN WORKING WITH MOLTEN
+    WAX.
+Supplemental Safety and Health
+MFR IS OUT OF BUSINESS AND IS UNLISTED. INFORMATION PRESENTED HEREIN IS
+    ACCURATE AND RELIABLE TO THE BEST OF OUR KNOWLEDGE AND BELIEF BUT
+    IS NOT GUARANTEED TO BE SO. IT IS THE USER'S RESPONSIBILITY TO 
+    TAKE ALL SAFETY PRECAUTIONS AS MAY BE NECESSARY. WE HEREBY DISCLAIM
+    ALL LIABILITY WITH RESPECT TO IT'S USE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:>600F,>316C
+Melt/Freeze Pt:M.P/F.P Text:140F,60C
+Vapor Pres:<0.1
+Spec Gravity:0.92
+Solubility in Water:INSOLUBLE
+Appearance and Odor:WHITE SOLID STICK, ODORLESS
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING MATERIALS.
+Stability Condition to Avoid:OPEN FLAME
+Hazardous Decomposition Products:CO & CO2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN ACCORDANCE WITH FEDERAL, STATE, &
+    LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,155 @@
+=====================  Product Identification  =====================
+
+Product ID:A4124 METHANOL
+MSDS Date:10/11/1989
+FSC:6810
+NIIN:01-181-4145
+MSDS Number: BKYTV
+=== Responsible Party ===
+Company Name:FISHER SCIENTIFIC CHEMICAL DIV
+Address:1 REAGENT LANE
+City:FAIR LAWN
+State:NJ
+ZIP:07410-2802
+Info Phone Num:(201) 796-7100
+Emergency Phone Num:(201) 796-7100 OR 796-7523
+Preparer's Name:GASTON L PILLORI
+CAGE:1B464
+=== Contractor Identification ===
+Company Name:FISHER SCIENTIFIC CO.  CHEMICAL MFG DIV
+Address:1 REAGENT LANE
+Box:City:FAIRLAWN
+State:NJ
+ZIP:07410-2802
+Country:US
+Phone:201-796-7100
+CAGE:1B464
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL ALCOHOL (METHANOL)  (SARA III)
+CAS:67-56-1
+RTECS #:PC1400000
+Fraction by Wt: 100%
+Other REC Limits:200 PPM
+OSHA PEL:S,200PPM/250STEL
+ACGIH TLV:S,200PPM/250STEL; 93
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): 5628 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION/INGESTION:
+    NARCOTIC/INTOXICATION/COUGH/HEADACHE/TINNITUS/DULLNESS/ANOREXIA/WEA
+    KNESS/VERTIGO/FATIGUE/INSOMNIA/LEG
+    CRAMP/NAUSEA/VOMITING/COLIC/CONSTIPATION/PAIN/SWEATING/COLD/DYSPNEA
+    /TRACHEIT IS/BLEPHAROSPASM/BLURRED VISION/OPTIC NEURITIS. SKIN:
+    IRRITATION/DEFAT. EYE: IRRITATION/CORNEAL CAPACITY/CONJUNCTIVITIS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION/INGESTION: CLAMMY
+    EXTREMITIES/BRONCHITIS/PHOTOPHOBIA/OPTIC NERVE ATROPHY/PERMANENT
+    BLINDNESS/ACIDOSIS/CYANOSIS/COMA/HYPOTENSION/TACHYCARDIA/CARDIAC
+    DEPRESSION/PERIPHERAL NEURITIS/LIVER/KIDN EY/BRAIN
+    DAMAGE/CEREBERAL/PULMONARY EDEMA/ASTHENIA/CNS EFFECT/DEATH. SKIN:
+    ABSORPTION/DERMATITIS. EYE: VISUAL IMPAIRMENT
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. GIVE CPR IF NEEDED. KEEP
+    WARM & AT REST. TREAT SYMPTOMATICALLY & SUPPORTIVELY. SKIN: WASH
+    W/SOAP OR MILD DETERGENT & PLENTY OF WATER. EYES: FLUSH W/PLENTY OF
+    WATER OR  NORMAL SALINE. INGESTION: GIVE SYRUP OFIPECAC. LAVAGE
+    THOROUGHLY W/2-4 LITERS OF TAP WATER W/SODIUM BICARBONATE ADDED.
+    OBTAIN MEDICAL ATTENTION IN ALL CASES. NOTE TO PHYSICIAN: (SEE
+    SUPP).
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:52F
+Lower Limits:6%
+Upper Limits:36%
+Extinguishing Media:DRY CHEMICAL, CO2, HALON, WATER SPRAY, OR ALCOHOL
+    FOAM. FOR LARGE FIRES USE WATER SPRAY, FOG OR ALCOHOL FOAM.
+Fire Fighting Procedures:USE SCBA W/FULL FACEPIECE. COOL FIRE-EXPOSED
+    CONTAINER W/WATER. STAY AWAY FROM STORAGE TANK ENDS. WITHDRAW IN
+    CASE OF RISING SOUND FROM VENTING SAFETY DEVICE.
+Unusual Fire/Explosion Hazard:AUTOIGNITION TEMP: 725F. DANGEROUS WHEN
+    EXPOSED TO HEAT/FLAME/OXIDIZERS. VAPORS >AIR MAY TRAVEL TO IGNITION
+    SOURCE & FLASH BACK. FLAMMABLE LIQUID CLASS 1B.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SOIL: DIG HOLDING AREA & DIKE
+    W/SOIL/SANDBAGS/FOAMED BARRIERS. AIR: USE WATER TO KNOCK DOWN
+    VAPORS. WATER: ALLOW TO AERATE. OCCUPATIONAL: SHUT OFF IGNITION
+    SOURCES. SMALL: TAKE UP W/SAND & PLACE IN CO NTAINER. LAGE: DIKE
+    FOR DISPOSAL. EVACUATE AREA.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTACT W/HEAT, SPARKS, FLAMES
+    OR OTHER IGNITION SOURCES. VAPORS MAY EXPLOSIVE. MATERIAL IS
+    POISONOUS. STORE AWAY FROM INCOMPATIBLE MATERIALS.
+Other Precautions:AVOID BREATHING VAPORS OR CONTACT W/SKIN. DON'T TOUCH
+    SPILLED MATERIAL. DON'T WEAR CONTACT LENSES WHEN WORKING W/PRODUCT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE SUPPLIED-AIR RESPIRATOR W/FULL FACE PIECE OR
+    W/A TIGHT-FITTING FACEPIECE OPERATED IN A CONTINUOUS FLOW MODE OR
+    W/FULL FACEPIECE & OPERATED IN A PRESSURE-DEMAND OR OTHER POSITIVE
+    PRESSURE MODE. MAY	ALSO USE A SCBA ANY TYPE.
+Ventilation:PROVIDE LOCAL EXHAUST OR PROCESS ENCLOSURE VENTILATION TO
+    KEEP <TLV. USE EXPLOSION-PROOF EQUIPMENT.
+Protective Gloves:RECOMMENDED
+Eye Protection:SPLASH-PROOF/DUST-RESISTANT GOGGLES
+Other Protective Equipment:IMPERVIOUS CLOTHING & EQUIPMENT.
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING/SHOES
+    BEFORE REUSE.
+Supplemental Safety and Health
+NOTE TO PHYSICIAN: GIVE 50% ETHANOL (100 PROOF), 1.5 ML/KG ORALLY,
+    DILUTE TO 5% SOLUTION, FOLLOWED BY 0.5-1 ML/KG EVERY 2 HRS ORALLY
+    OR INTRAVENOUSLY FOR 4 DAYS TO REDUCE METABOLISM OF METHANOL & TO A
+    LLOW TIME FOR EXCRETION. USE 4-METHYLPHYRAZOLE AS AN ANTIDOTE
+    ORALLY/INTRAVENOUS FOR METHANOL/ETHYLENE GLYCOL POISONING.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:149F
+Melt/Freeze Pt:M.P/F.P Text:-137F
+Vapor Pres:97.25
+Vapor Density:1.11
+Spec Gravity:0.7914
+Evaporation Rate & Reference:(BU AC = 1): 4.6
+Solubility in Water:SOLUBLE
+Appearance and Odor:CLEAR, COLORLESS LIQUID W/A CHARACTERISTIC
+    ALCOHOLIC ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACIDS, BASES, METALS, & STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:HEAT, SPARKS, FLAMES OR OTHER IGNITION
+    SOURCES.
+Hazardous Decomposition Products:CO, CO2, HYDROGEN BROMIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL/STATE/FEDERAL
+    REGS. DON'T ALLOW MATERIAL TO CONTAMINATE WATER SOURCES. FLAMMABLE
+    LIQUID CLASS 1B. EPA HAZARDOUS WASTE: U154. REPORTABLE QUANTITY:
+    5000 LBS. SUBJECT TO  SARA SECTION 313. TOXIC CHEMICAL RELEASE
+    REPORT.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

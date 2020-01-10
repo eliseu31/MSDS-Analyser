@@ -1,0 +1,149 @@
+=====================  Product Identification  =====================
+
+Product ID:NP24-12B  STORAGE BATTERY
+MSDS Date:05/20/1986
+FSC:6140
+NIIN:01-296-6194
+MSDS Number: BHWYL
+=== Responsible Party ===
+Company Name:YUASA BATTERY AMERICA INC
+Address:9728 ALBURTIS AVE
+City:SANTA FE SPRINGS
+State:CA
+ZIP:90670
+Country:US
+Info Phone Num:213-949-4266
+Emergency Phone Num:800-423-4667
+Preparer's Name:L.H.BIGGINS
+CAGE:77280
+=== Contractor Identification ===
+Company Name:YUASA-EXIDE INC
+Address:2366 BERNVILLE ROAD
+Box:14145
+City:READING
+State:PA
+ZIP:19612-4145
+Country:US
+Phone:610-208-1975
+CAGE:77280
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SULFURIC ACID  (SARA III)
+CAS:7664-93-9
+RTECS #:WS5600000
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:LEAD  (SARA III)
+CAS:7439-92-1
+RTECS #:OF7525000
+OSHA PEL:0.05 MG/M3;1910.1025
+ACGIH TLV:0.15 MG/M3;DUST 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL RAT LD50 IS NOT KNOWN
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:PRODUCT CONTAINS LEAD AND SULFURIC
+    ACID.  SULFURIC ACID IS A CORROSIVE CAUSING BURNS TO BODY TISSUES. 
+    LEAD IS TOXIC AND SOME LEAD COMPOUNDS ARE LISTED AS CARCINOGENIC. 
+    CONTACT WITH EITHER IS HIGHLY  UNLIKELY TO OCCUR UNLESS THE CASE IS
+    BROKEN OR SPILLED, THEN ONLY CONTACT WITH THE ACID IS LIKELY.
+Explanation of Carcinogenicity:LEAD COMPOUNDS ARE LISTED AS
+    CARCINOGENIC IN ANIMALS AND POSSILBY IN HUMANS.
+Effects of Overexposure:CONTACT WITH SULFURIC ACID IS THE MOST LIKELY
+    EXPOSURE, PRODUCING IRRITATION OR BURNS TO THE BODY TISSUE
+    CONTACTED.
+Medical Cond Aggravated by Exposure:NONE
+
+=======================  First Aid Measures  =======================
+
+First Aid:FIRST AID IS GIVEN FOR SULFURIC ACID CONTACT.  EYE:FLUSH
+    W/WATER 15 MIN, HOLD LIDS OPEN.  SKIN:WASH WITH SOAP & WATER.
+    REMOVE CONTAMINATED CLOTHING AND LAUNDER BEFORE REUSE. 
+    INHALED:REMOVE TO FRESH A IR.  INGESTED:DO NOT INDUCE VOMITING.
+    GIVE 2 LARGE GLASSES OF MILK OR WATER AND GET IMMEDIATE MEDICAL
+    CARE. GIVE NOTHING BY MOUTH IF UNCONSCIOUS.   IF IRRITATION
+    PERSISTS OR IS SEVERE,SEE A DOCTOR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON-FLAMMABLE
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, OR DRY CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:SULFURIC ACID REACTS WITH METALS TO FORM
+    HYDROGEN, AFLAMMABLE SOMETIMES EXPLOSIVE GAS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:IF ACID IS SPILLED, NEUTRALIZE.  PLACE
+    REMAINDER IN AN ACID RESISTANT CONTAINER FOR RECYCLE OF THE LEAD.
+Neutralizing Agent:SODIUM BICARBONATE OR LIME
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL, DRY AREA. PROTECT FROM
+    PHYSICAL DAMAGE.  PROTECT TERMINALS FROM SHORT CIRCUITS.
+Other Precautions:READ MANUFACTURERS LITERATURE AND FOLLOW
+    INSTRUCTIONS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESPIRATOR WILL NOT NORMALLY BE NECESSARY.  USE
+    NIOSH/MSHA APPROVED RESPIRATOR FOR ACID DUST/MIST IF EXPOSURE IS
+    ABOVE THE TLV/PEL. SEE 29 CFR 1910.134 FOR REGULATIONS PERTAINING
+    TO RESPIRATOR USE.
+Ventilation:NOT NORMALLY REQUIRED.  USE LOCAL EXHAUST DURING CHARGING
+    CYCLES TO AVOID AN EXPLOSIVE BUILD UP OF HYDROGEN GAS.
+Protective Gloves:NONE (RUBBER IF ACID IS LEAKING)
+Eye Protection:SAFETY GLASSES/SPLASH GOGGLES (LIQUID)
+Other Protective Equipment:NORMAL WORK CLOTHING. PROTECT WITH
+    IMPERVIOUS APRON AND/OR BOOTS IF ACID IS LEAKING.
+Work Hygienic Practices:USE GOOD INDUSTRIAL HYGIENE PRACTICE.  AVOID
+    ALL CONTACT WITH ACID OR INTERNALS OF THE BATTERY.
+Supplemental Safety and Health
+MFR STATES THAT BATTERY IS CLASSED AS AN ARTICLE PER OSHA HAZ COM STD
+    AND INFORMATION SUPPLIED FOR INFORMATION PURPOSES ONLY.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:203F,95C
+Melt/Freeze Pt:M.P/F.P Text:-338F,-206C
+Vapor Pres:10 MM
+Vapor Density:>1
+Spec Gravity:1.245-1.295
+pH:<1.0
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR COLORLESS LIQUID, NO ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ORGANIC MATERIALS,REDUCING AGENTS, METALS,
+Stability Condition to Avoid:SPILLING OR OTHER RELEASE OF ELECTROLYTE.
+Hazardous Decomposition Products:NONE UNDER ANY FORESEEABLE USE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W ALL FEDERAL, STATE AND LOCAL
+    REGULATIONS.  MANUFACTURER SUGGESTS THAT DISPOSAL MAY BE DONE BY
+    FLUSHING NEUTRALIZED ACID TO DRAIN AND SENDING REMAINDER TO LEAD
+    RECLAIMER.	DO NOT INCINERA TE!!!
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,158 @@
+=====================  Product Identification  =====================
+
+Product ID:ENAMEL ALKYD, GLOSS BROWN 10076, ID: 742010
+MSDS Date:03/22/1988
+FSC:8010
+NIIN:00-298-2304
+MSDS Number: BHWZC
+=== Responsible Party ===
+Company Name:PRATT & LAMBERT, INC.
+Box:2153
+City:WICHITA
+State:KS
+ZIP:67201
+Country:US
+Info Phone Num:316-733-1361
+Emergency Phone Num:316-733-1361
+Preparer's Name:W.A. ELLISON
+CAGE:FO127
+=== Contractor Identification ===
+Company Name:PRATT & LAMBERT, INC/BUFFALO, NY 14240
+Box:22
+CAGE:FO127
+Company Name:PRATT AND LAMBERT INC
+Address:Box:6027
+City:CLEVELAND
+State:OH
+ZIP:44101-1027
+Country:US
+Phone:216-566-2902
+CAGE:61196
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:VM&P NAPHTHA (LIGROINE)
+CAS:8032-32-4
+RTECS #:OI6180000
+OSHA PEL:300 PPM/400 STEL
+ACGIH TLV:300 PPM; 9192
+
+Ingred Name:LEAD CHROMATE
+CAS:7758-97-6
+OSHA PEL:.0500 MG/CU.M.
+ACGIH TLV:.0500 MG/CU.M.
+
+Ingred Name:MINERAL SPIRITS					       
+    (VAPOR PRESSURE 2 MMHG @ 20C)
+CAS:64475-85-0
+RTECS #:PY8240000
+OSHA PEL:500 PPM 2950 MG/CU.M
+ACGIH TLV:100 PPM 525 MG/CU.M.
+
+Ingred Name:VOC. ORGANIC CMPD 4.0 LB/GAL LESS WATER & NPRS* 480 G/L    
+    LESS WATER VOC. 10.1 LB/GAL SOLIDS 1212 G/L SOLIDS CALCULATE
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ASPIRATION OF MATERIAL INTO THE LUNGS
+    CAN CAUSE CHEMICAL PNEUMONITIS WHICH CAN  BE FATAL. REPEATED EXPSR
+    TO CRYSTALLINE SILICA MAY CAUSE PNEUMOCONIOSIS A DISABLING LUNG
+    DISEASE. PROLONGED/REPEATED OVR EXPSR MAY CAUSE PERMANENT BRAIN &
+    NERVSSYS DAMAGE. INTENTIONAL MISUSE CAN BE HARMFUL OR FATAL.
+Explanation of Carcinogenicity:AT TLV THE TI02 MANUFACTURER CONCLUDES
+    THAT THERE IS NO	 SIGNIFICIANT HAZARD FOR MAN.
+Effects of Overexposure:INGST: GASTRONINTESTINAL
+    IRRITATION,NAUSEA,VOMITING,& DIARRHEA.		   INHL:
+    ANESTHETIC,IRRITATION TO NOSE/THROAT, HEADACHES, DIZZINESS, NAUSEA,
+    & CONFUSION.;  SKIN: MAY CAUSE DEFATTING AND I RRITATIONEYE:
+    IRRITATION
+Medical Cond Aggravated by Exposure:REPEATED EXPOSURE MAY CAUSE
+    PNEUMOCONIOSIS, A	  PROGRESSIVELY DISABLING LUNG DISEASE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH W/LG AMNTS OF WTR, LIFTING EYELIDS, FOR 15
+    MINS,GET MEDICAL ATTENTIONSKIN: WASH AFFECTED AREA W/SOAP & WTR,
+    REMOVE CONTAM. CLOTHING.GET MED. ATTN.   INHAL: REMOVE TO FRESH AIR
+    IMMEDIATELY,G IVE ARTIFICIAL RESP. IF NECESSARY, KEEPWARM & QUIET,
+    GET MEDICAL ATTENTION.					     
+    INGST: DO NOT INDUCE VOMITING. GET MEDICAL ATTENTION IMMEDIATELY
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:102F/38.89C
+Extinguishing Media:USE NFPA CLASS B FIRE EXTINGUISHERS,CARBON
+    DIOXIDE,DRY CHEMICAL,ALCOHOL FOAM. POLYMER FOAM IS PREFERRED FOR
+    LG. FIRES
+Fire Fighting Procedures:WEAR SELF CONTAINED BREATHING APPARATUS. WATER
+    MAY BE INEFFECTIVE,MAY BE USED TOCOOL EXPOSED CONTAINERS. IF WATER
+    IS USED, FOG NOZZLES ARE PREFERRABLE.
+Unusual Fire/Explosion Hazard:KEEP CONTAINERS TIGHTLY CLOSED. ISOLATE
+    FROM HEAT, ELECTRICAL EQUIPMENT,SPARKS &FLAME. CLOSED CONTAINERS
+    MAY EXPLODE WHEN EXPOSED TO EXTREME HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE ALL IGNITION SOURCES. DIKE/CONTAIN
+    SPILLW/INERT MATL. PLACE ABSORBENT DIKING MATL IN COVERED METAL
+    CONTNR FOR DISPOSAL. USE ONLY NON SPARKNGTOOLS. PREVENT CONTAM. OF
+    SEWERS, GROUNDWATER, AND STREAMS W/SPILLED MATL OR USED ABSORBENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT STORE ABOVE 95F. CLOSE CONTNR
+    AFTER EACH	 USE. EMPTY CONTNRS MUST NOT BE WASHED/REUSED FOR 
+    NEVER USE PRESSURE TO EMPTY.
+Other Precautions:DO NOT TAKE INTERNALLY. CONTAINERS SHOULD BE
+    GROUNDED/BONDED TO RECEIVING CONTNRDO NOT WELD,BRAZE OR CUT ON
+    EMPTY CONTAINERS. DRUM IS NOT A PRESSURE VESSEL.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESTRICTED AREAS US NIOSH APPROVED CHEMICAL
+    CARTRIDGE RESPIRATOR. SPRAYING USE AMECHANICAL FILTER RESPIRATOR.
+    CONFINED AREAS USE A NIOSH APPROVED AIR SUPPLIED  RESPIRATOR.
+Ventilation:LOCAL EXHAUST VENTILATION OR GENERAL DILUTION
+Protective Gloves:SOLVENT IMPERMEABLE GLOVES
+Eye Protection:SAFETY GLASSES W/SIDE SHIELDS
+Other Protective Equipment:NONE
+Work Hygienic Practices:NONE
+Supplemental Safety and Health
+NK
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:280-388F
+Vapor Density:> AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:60
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS OR ALKALINE MATERIALS
+Stability Condition to Avoid:HEAT AND SOURCES OF IGNITION
+Hazardous Decomposition Products:BURNING, INCLUDING WHEN HEATED BY
+    WELDING OR CUTTING, WILL  PRODUCE SMOKE, CARBON MONOXIDE AND CARBON
+    DIOXIDE.
+Conditions to Avoid Polymerization:HEAT SPARKS AND FLAME
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN ACCORDANCE W/FEDERAL,STATE,& LOCAL
+    LAWSINCINERATE ONLY IN EPA PERMITTED FACILITY. DO NOT INCINERATE
+    CLSD CONTAINERS. CONTAMINATED ABSORBANTMAY BE DISPOSED IN A
+    HAZARDOUS WASTE LANDFILL.TRAN SFER LIQ TO COVERED METAL CONTAINERS
+    FOR DISPOSAL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

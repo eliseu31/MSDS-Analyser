@@ -1,0 +1,158 @@
+=====================  Product Identification  =====================
+
+Product ID:970-P23 INSPECTION PENETRANT (SEE SUPP.)
+MSDS Date:02/01/1990
+FSC:6850
+NIIN:01-263-2261
+MSDS Number: BJDVY
+=== Responsible Party ===
+Company Name:ARDROX INC
+Address:16961 KNOTT AVE
+City:LA MIRADA
+State:CA
+ZIP:90638-6015
+Country:US
+Info Phone Num:714-739-2821
+Emergency Phone Num:714-739-2821/800-424-9300(CHEMTREC)
+Preparer's Name:SHEREE L. KINZEL
+CAGE:23373
+=== Contractor Identification ===
+Company Name:BRENT AMERICA,  INC.
+Address:16961 KNOTT AVE.
+Box:City:LA MIRADA
+State:CA
+ZIP:90638-6015
+Country:US
+Phone:714-739-2821
+CAGE:23373
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HYDROTREATED MIDDLE DISTILLATE, (WHITE MINERAL OIL)
+CAS:8042-47-5
+RTECS #:PY8047000
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:5 MG/M3 (MIST)
+ACGIH TLV:5 MG/M3 (MIST)
+
+Ingred Name:ALKYLOXYPOLYETHYLENOXY ETHANOL (SECONDARY ETHOXLYATED FATTY
+    ALCOHOLS)
+CAS:68131-40-8
+RTECS #:WZ5200000
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:ALKYL PHENOL ETHOXYLATE (NONYLPHENOL POLYETHOXATE)
+CAS:9016-45-9
+RTECS #:MD0900000
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE EFFECTS-EYES:IRRITATION.
+    SKIN:IRRITATION,DERMATITIS. INHALE:IRRITATION OF THROAT & LUNGS.
+    INGEST:NONFATAL UNLESS ASPIRATION OCCURS. CHRONIC
+    EFFECTS-EYES/SKIN:IRRITATION.INHALE: MAY RESULT IN NON -SPECIFIC
+    SYMPTOMS RELATED TO THE NERVOUS SYSTEM, GASTROINTESTINAL TRACT &
+    LUNGS.INGESTION:LARGE AMOUNT CAN CAUSE DEATH.
+Explanation of Carcinogenicity:NONE OF THE CHEMICALS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:EYES:IRRITATION. SKIN:DRYNESS, CHAPPING &
+    REDNESS. INHALE:IRRITATION. INGEST:INTENSE BURNING OF THE THROAT,
+    DROWSINESS, DULLNESS, NUMBNESS, AND HEADACHE FOLLOWED BY DIZZINESS,
+    WEAKNESS AND NAUSEA, LOS S OF CONSCIOUSNESS AND CONVULSIONS
+    FOLLOWED BY DEATH.
+Medical Cond Aggravated by Exposure:PERSONS WITH PRE-EXISTING SKIN
+    CONDITIONS MAY BE AT INCREASED RISK FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:FIRST AID-EYE: IMMEDIATELY FLUSH WITH PLENTY OF WATER FOR 15
+    MINUTES. SEE DOCTOR. SKIN: WASH WITH SOAP AND WATER. INHALATION:
+    REMOVE TO FRESH AIR. IF NOT BREATHING GIVE MOUTH-TO-MOUTH
+    RESUSCITATION. I F BREATHING IS HARD, GIVE OXYGEN. KEEP VICTIM WARM
+    & AT REST. SEE DOCTOR IMMEDIATELY. INGESTION: DO NOT INDUCE
+    VOMITING. IF CONSCIOUS GIVE LARGE AMOUNTS OF WATER. SEE DOCTOR
+    IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:>200F,>93C
+Autoignition Temp:Autoignition Temp Text:UNKNOW
+Lower Limits:1.1
+Upper Limits:6.0
+Extinguishing Media:USE CARBON DIOXIDE, FOAM, OR DRY CHEMICAL.
+Fire Fighting Procedures:USE WATER TO COOL CNTNR EXPOSED TO HEAT OR
+    FLAME. USE CAUTION WHEN USING WATER/FOAM AS FROTHING MAY OCCUR,
+    ESPECIALLY IF SPRAYED INTO CNTNR OF BURNING LIQUID.
+Unusual Fire/Explosion Hazard:DENSE SMOKE MAY BE GENERATED WHILE
+    BURNING. CARBON MONOXIDE, CARBON DIOXIDE, & OTHER OXIDES MAY BE
+    GENERATED AS PRODUCTS OF COMBUSTION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SMALL SPILL:MOP UP/SOAK UP W/FIREPROOF
+    ABSORBENT INORGANIC MATERIAL. PUT IN DOT-APPROVED CONTAINER. STOP
+    RUNOFF TO SEWER, STORM DRAINS, SURFACE WATER & SOIL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORAGE-STORE IN COOL, DRY, WELL
+    VENTILATED AREA AWAY FROM SOURCES OF IGNITION. KEEP FROM DIRECT
+    SUNLIGHT,HIGH TEMPERATURE AND BELOW FREEZING AREAS.
+Other Precautions:KEEP PRODUCT TIGHTLY CLOSED. PROTECT FROM PHYSICAL
+    DAMAGE. DO NOT CUT, GRIND, WELD OR DRILL ON OR NEAR CONTAINER.
+    GROUND ALL EQUIPMENT. WASH THOROUGHLY AFTER USE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH APPROVED CANISTER-TYPE RESPIRATOR. IN
+    CONFINED, POORLY VENTILATED AREAS, OR EXCEEDED PEL USE AN APPROVED
+    POSITIVE-PRESSURE, SELF CONTAINED BREATHING APPARATUS.
+Ventilation:MECHANICAL (GENERAL) VENTILATION IS USUALLY ADEQUATE. LOCAL
+    EXPLOSION-PROOF EXHAUST VENTILATION MAY BE NECESSARY.
+Protective Gloves:IMPERMEABLE GLOVES
+Eye Protection:SAFETY GLASSES/CHEMICAL SPLASH GOGGLES
+Other Protective Equipment:SAFETY SHOWER AND EYE BATH. INDUSTRIAL TYPE
+    WORK CLOTHING AND APRON AS REQUIRED TO AVOID PROLONGED OR REPEATED
+    CONTACT.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING AND BEFORE
+    EATING OR DRINKING. LAUNDER CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+PRODUCT UNDER THE FOLLOWING P/N IND: A, B, C, OR D ARE LISTED IN
+    QPL-25135-15 UNDER TYPE 1, METHOD A, LEVEL 2 OF MIL-I-25135.(P/N
+    IND A: P-134D; P/N IND B: 970-P23; P/N IND C: BIO-PEN P6F2; D:
+    TRACER- TECH P-133A.)
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:>240F,>116C
+Spec Gravity:0.871
+Evaporation Rate & Reference:<1
+Solubility in Water:MODERATE
+Appearance and Odor:FLUORESCENT YELLOW GREEN MOBILE LIQUID. MILD ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:NONE KNOWN.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH ALL APPLICABLE
+    FEDERAL, STATE AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

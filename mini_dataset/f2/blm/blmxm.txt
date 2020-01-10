@@ -1,0 +1,145 @@
+=====================  Product Identification  =====================
+
+Product ID:D-70 DEVELOPER
+MSDS Date:03/15/1989
+FSC:6850
+NIIN:01-316-9429
+MSDS Number: BLMXM
+=== Responsible Party ===
+Company Name:MET-L-CHEK CO
+Address:1639 EUCLID ST
+City:SANTA MONICA
+State:CA
+ZIP:90404
+Country:US
+Info Phone Num:213-450-1111
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+CAGE:IO387
+=== Contractor Identification ===
+Company Name:MET-L-CHEK CO
+Address:1639 EUCLID ST
+City:SANTA MONICA
+State:CA
+ZIP:90404
+Country:US
+Phone:310-450-1111
+CAGE:IO387
+Company Name:MET-L-CHEK COMPANY
+Address:1639 EUCLID ST
+Box:00000
+City:SANTA MONICA
+State:CA
+ZIP:90404
+Country:US
+Phone:310-450-1111/FAX 310452-4046
+CAGE:98733
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHAL: MAY CAUSE MILD IRRITATION.
+    SKIN: MILDLY IRRITATING. INGEST: LOW ORDER OF ACUTE TOXICITY.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:IRRITATION OF EYES, SKIN, OR NOSE AND
+    RESPIRATORY TRACT. EARLY TO MODERATE CNS DEPRESSION MAY BE
+    EVIDENCED BY GIDDINESS, HEADACHE, DIZZINESS, NAUSEA.
+Medical Cond Aggravated by Exposure:PRE-EXISTING SKIN, EYE, AND
+    RESPIRATORY DISORDERS MAY BE AGGRAVATED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES/SKIN: FLUSH WITH WATER FOR AT LEAST 15 MINUTES. INHAL:
+    REMOVE VICTIM TO FRESH AIR. GET MD ATTENTION. INGEST: INDUCE
+    VOMITING IF VICTIM IS CONSCIOUS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:53.0F,11.7C
+Lower Limits:2%
+Upper Limits:2%
+Extinguishing Media:USE WATER FOG, "ALCOHOL" FOAM, DRY CHEMICAL OR
+    CO*2. WARNING, FLAMMABLE
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL PROT
+    EQUIP . CLEAR FIRE AREA OF UNPROTECTED PERSONNEL. DO NOT ENTER
+    CONFINED FIRE SPACE WITHOUT FULL BUNKER GEAR.
+Unusual Fire/Explosion Hazard:CONTAINERS EXPOSED TO INTENSE HEAT FROM
+    FIRES SHOULD BE COOLED WITH WATER TO PREVENT VAPOR PRESSURE BUILDUP
+    WHICH COULD RESULT IN CONTAINER RUPTURE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WARNING. FLAMMABLE. ELIMINATE ALL IGNITION
+    SOURCES. HANDLING EQUIPMENT MUST BE GROUNDED TO PREVENT SPARKING.
+    WEAR APPROPRIATE RESPIRATOR AND PROTECTIVE CLOTHING. SOAK UP
+    RESIDUE WITH ABSORBENT CLAY, S AND, OR OTHER MATERIAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM HEAT, SPARKS AND FLAME.
+    WASH WITH SOAP AND WATER BEFORE EATING, DRINKING, SMOKING, OR USING
+    TOILET FACILITIES.
+Other Precautions:DO NOT STORE OR HANDLE IN ALUMINUM EQUIPMENT AT
+    TEMPERATURE ABOVE 120F.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF EXPOSURE EXCEEDS LIMITS LISTED UNDER
+    HAZARDOUS INGREDIENTS, USE NIOSH/MSHA APPROVED RESPIRATOR.
+Ventilation:LOCAL EXHAUST/MECHANICAL (GENERAL): EXPLOSION PROOF TO
+    MAINTAIN TLV.
+Protective Gloves:CHEMICAL RESISTANT GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:AS REQUIRED TO MINIMIZE CONTACT. EYE WASH
+    FOUNTAINS AND SAFETY SHOWERS SHOULD BE AVAILABLE.
+Work Hygienic Practices:MINIMIZE CONTACT.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:180F,82C
+Melt/Freeze Pt:M.P/F.P Text:-127F,-88C
+Vapor Pres:33 @ 68F
+Vapor Density:2.1
+Spec Gravity:APPROX 0.8
+Evaporation Rate & Reference:1.4 (BUTYL ACETATE=1)
+Solubility in Water:LIQ PORTION IS SOL
+Appearance and Odor:WHITE, MILKY SUSPENSION, MILD ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+DO NOT STORE OR HANDLE IN ALUMINUM EQUIPMENT AT TEMPERATURES ABOVE
+    120F.
+Stability Condition to Avoid:AVOID HEAT, SPARKS, FLAME & CONTACT WITH
+    STRONG OXIDIZING AGENTS.
+Hazardous Decomposition Products:CARBON MONOXIDE AND UNIDENTIFIED
+    ORGANIC COMPOUNDS MAY BE FORMED.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W FEDERAL, STATE, AND LOCAL
+    REGULATIONS . PLACE IN NON-LEAKING CONTAINERS, SEAL AND DISPOSE AS
+    IGNITABLE HAZARDOUS WASTE ACCORDING TO LATEST EPA OR STATE
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

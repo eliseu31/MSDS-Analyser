@@ -1,0 +1,182 @@
+=====================  Product Identification  =====================
+
+Product ID:N-5377 GRAY SILICONE ENAMEL 16307
+MSDS Date:10/13/1994
+FSC:8010
+NIIN:01-344-6704
+MSDS Number: BWRYJ
+=== Responsible Party ===
+Company Name:NILES CHEMICAL PAINT CO
+Address:225 FORT STREET
+Box:307
+City:NILES
+State:MI
+ZIP:49120
+Country:US
+Info Phone Num:616-683-3377
+Emergency Phone Num:219-236-5856
+Preparer's Name:MIKE LICHATOWICH
+CAGE:02388
+=== Contractor Identification ===
+Company Name:NILES CHEMICAL PAINT
+Address:225 FORT STREET
+Box:307
+City:NILES
+State:MI
+ZIP:49120
+Country:US
+Phone:616-683-3377/219-236-5856
+CAGE:02388
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HIGH SOLIDS SILICONE (VAPOR PRESSURE 1.5 MM HG @ 20C)
+Fraction by Wt: 32%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:GROUND LIMESTONE
+CAS:1317-65-3
+RTECS #:EV9580000
+Fraction by Wt: 28%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:MINERAL SPIRITS (VAPOR PRESSURE 0.0 MM HG @ 20C)
+CAS:8052-41-3
+RTECS #:WJ8925000
+Fraction by Wt: 16%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:#100 SOLVENT (VAPOR PRESSURE 4.4 MM HG @ 20C)
+CAS:64742-95-6
+Fraction by Wt: 8%
+Other REC Limits:NONE RECOMMENDED
+ACGIH TLV:100 PPM
+
+Ingred Name:COBALT COMPOUNDS (AS CO) (SARA 313)
+CAS:7440-48-4
+RTECS #:GF8750000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:0.1 MG/M3
+ACGIH TLV:2 MG/M3
+
+Ingred Name:PROPRIETARY INGREDIENTS (MFR STATES UNIDENTIFIED
+    INGREDIENTS NOT CONSIDERED HAZARDOUS UNDER FED HAZARD COMM REGS)
+Fraction by Wt: BALANCE
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:VOC: 2.79 LBS/GAL
+RTECS #:9999999VO
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:UNKNOWN  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYE:SEVERE
+    IRRITATION.TEARING,REDNESS,BLURRED VISION.
+    SKIN:REDNESS,IRRITATION.DEFATTING LEADING TO DERMATITIS.
+    INHAL:NASAL & RESPIRATORY IRRITATION,CNS DEPRESSION
+    (DIZZINESS,DROWSINESS,WEAKNESS,FATIGU E,CONFUSION)
+    NAUSEA,VERTIGO,UNCONSCIOUSNESS,ASPHYXIATION. INGEST:GI
+    IRRITATION,ABDOMINAL PAIN,NAUSEA,VOMITING,DIARRHEA.
+Effects of Overexposure:CHRONIC: LIVER, KIDNEY, NS. PROLONGED EXPOSURE
+    TO SOLVENTS MAY CAUSE CHRONIC HEALTH EFFECTS. TARGET ORGANS: LIVER,
+    KIDNEYS, NS, SKIN, EYES, RESPIRATORY SYSTEM, CNS.
+Medical Cond Aggravated by Exposure:NONE KNOWN
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:MOVE TO FRESH AIR IMMED.IF BREATH STOPPED,GIVE ARTIF
+    RESP.GET MED AID ASAP. SKIN:IMMED FLUSH W/PLENTY OF WATER.IF MAT'L
+    PENETRATES CLOTH,IMMED REMOVE CONTAM CLOTH & FLUSH SKIN W/WATER.GET
+    MED AI D.WASH CLOTH & DECONTAM SHOES BEFORE REUSE. EYE:IMMED FLUSH
+    W/WATER 15 MIN,LIFT EYELIDS.GET MED AID IMMED. INGEST:DRINK 1-2
+    GLASSES WATER.DON'T INDUCE VOMITING.SEE DR/POISON CTR IMMED. TREAT
+    SYMPTOMS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:107F,42C
+Lower Limits:0.8
+Upper Limits:0.0
+Extinguishing Media:DRY CHEMICAL, FOAM, CO2
+Fire Fighting Procedures:WEAR SCBA W/FULL FACPIECE (POSITIVE PRESSURE
+    MODE) & FULL PROTECT CLOTH. USE WATER TO COOL CLOSED CNTNR TO
+    PREVENT PRESSURE BLDUP/AUTO IGNIT/EXPLOSION W/HEAT.
+Unusual Fire/Explosion Hazard:KEEP CNTNR CLSD. VAPOR HEAVIER THAN AIR,
+    TRAVEL ON GRND TO IGNIT SOURCE. NO HEAT/IGNIT. CLSD CNTNRS MAY
+    EXPLODE W/HEAT. APP TO HOT SRFC REQUIRE SPCL PRECAUTIONS
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE IGNITION SOURCES. MINIMIZE BREATHING
+    VAPORS. AVOID SKIN CONTACT. SMALL: ABSORB W/INERT MAT'L
+    (CLAY,SOIL,COMMERCL ABSORBNT) SHOVEL RECLAIMED LIQ & ABSORBENT INTO
+    RECOVERY DRUMS. LRG: DIKE. RE CLAIM INTO RECOVERY/SALVAGE DRUMS OR
+    TANK TRUCK.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID STORAGE IN HIGH TEMPERATURE
+    AREAS OR NEAR FIRE OR OPEN FLAME. KEEP CONTAINER CLOSED WHEN NOT IN
+    USE. AVOID ROUGH HANDLING
+Other Precautions:CONTAINERS OF THIS MATERIAL MAY BE HAZARDOUS WHEN
+    EMPTY. DO NOT WELD OR FLAME CUT ON EMPTY DRUMS. SHOCK FROM DROPPING
+    MAY SPLIT CONTAINER. CONTACT LENSES SHOULD NOT BE WORN WHEN WORKING
+    WITH THIS MATE RIAL.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR APPROPRIATE (TYPE TC-23C-75) PROPERLY
+    FITTED HALF-MASK OR FULL FACEPIECE RESPIRATOR (NIOSH/MSHA) DURING &
+    AFTER APPLICATION UNLESS AIR MONITORING DEMONSTRATES VAPOR/MIST
+    LEVELS BELOW APPLICABLE L IMITS. FOLLOW RESPRTR MFR USE DIRECTIONS
+Ventilation:KEEP AIR CONCEN BELOW PEL/TLV.REMOVE DECOMP FORMED DURING
+    WELD/FLAME CUT COATED SURFACES.VENT VAPOR FROM BAKING FINISHES
+Protective Gloves:CHEM RESISTANT (NITRILE/VITON) GLOVES
+Eye Protection:CHEM GOGGLES,SAFETY GLASSES,FACE SHIELDS
+Other Protective Equipment:EMPLOYEES SHOULD WASH PROMPTLY WHEN SKIN
+    BECOMES CONTAMINATED. REMOVE CLOTHING THAT BECOMES WET (TO AVOID
+    FLAMMABILITY).
+Work Hygienic Practices:WASH CONTAMINATED CLOTHING BEFORE REUSE. WASH
+    HANDS BEFORE EATING, SMOKING, OR USING RESTROOM.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:285 TO 398F
+Vapor Density:>AIR
+Spec Gravity:1.318
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:SLIGHT
+Appearance and Odor:LIQUID, ODOR OF SOLVENTS
+Percent Volatiles by Volume:41.39
+Corrosion Rate:MINIMAL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS, STRONG ACIDS
+Stability Condition to Avoid:HIGH TEMPERATURES
+Hazardous Decomposition Products:CAN PRODUCE CARBON MONOXIDE AND/OR
+    CARBON DIOXIDE.
+Conditions to Avoid Polymerization:HIGH TEMPERATURES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH APPLICABLE LOCAL,
+    STATE, & FEDERAL REGULATIONS. EPA HAZARDOUS WASTE CODE: D001
+    (IGNITABLE).
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

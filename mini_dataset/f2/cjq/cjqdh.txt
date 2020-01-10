@@ -1,0 +1,185 @@
+=====================  Product Identification  =====================
+
+Product ID:HEAVY DUTY PATCHING COMPOUND
+MSDS Date:07/27/1998
+FSC:5610
+NIIN:00N091685
+Status Code:A
+MSDS Number: CJQDH
+=== Responsible Party ===
+Company Name:SOUTHWESTERN PETROLEUM CORP
+Address:534 N MAIN ST
+City:FORT WORTH
+State:TX
+ZIP:76101
+Country:US
+Info Phone Num:817-348-7235
+Emergency Phone Num:800-424-9300
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:14392
+=== Contractor Identification ===
+Company Name:SOUTHWESTERN PETROLEUM CORP
+Address:534 N MAIN ST
+Box:961005
+City:FORT WORTH
+State:TX
+ZIP:76106
+Country:US
+Phone:817-348-7235
+CAGE:14392
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ASPHALT (PETROLEUM) FUMES
+CAS:8052-42-4
+RTECS #:CI9900000
+Minumum % Wt:40.
+Maxumum % Wt:70.
+ACGIH TLV:5 MG/M3
+
+Ingred Name:NAPHTHA
+CAS:64741-41-9
+Minumum % Wt:30.
+Maxumum % Wt:60.
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:DIATOMACEOUS EARTH. LD50:(ORAL,RAT) 3160 MG/KG.
+CAS:7631-86-9
+< Wt:3.
+OSHA PEL:6 MG/M3
+ACGIH TLV:10 MG/M3 TDUST
+
+Ingred Name:NUISANCE PARTICULATES
+Minumum % Wt:10.
+Maxumum % Wt:35.
+Other REC Limits:PEL:5 MG/M3 RDUST(M)
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3
+
+Ingred Name:DICOCO DIMETHYL QUATERNARY AMMONIUM CHLORIDE
+CAS:61789-77-3
+< Wt:2.
+
+Ingred Name:QUARTZ; (CRYSTALLINE SILICA). OSHA PEL: 0.3 MG/M3 TDUST
+    (M).
+CAS:14808-60-7
+RTECS #:VV7330000
+< Wt:1.
+OSHA PEL:0.1 MG/M3 RDUST
+ACGIH TLV:0.1 MG/M3
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE INGREDIENTS.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: EXPOSURE ABOVE PEL MAY RESULT
+    IN SYMPTOMS LISTED. CHRONIC: NO CHRONIC HAZARDS ARE EXPECTED FROM
+    NORMAL USE CONDITIONS.
+Explanation of Carcinogenicity:SILICA, CRYSTALLINE-QUARTZ: IARC
+    MONOGRAPHS, VOL 68, PG 41, 1997: GROUP 1. NTP 8TH ANNUAL REPORT ON
+    CARCINOGENS, 1998: REASONABLY ANTICIPATED TO BE HUMAN CARCINOGEN.
+Effects of Overexposure:INHALATION: MAY RESULT IN HEADACHE, NASAL
+    RESPIRATORY IRRITATION, NAUSEA, DROWSINESS, FATIGUE, PNEUMONITIS,
+    PULMONARY EDEMA, CENTRAL NERVOUS SYSTEM DEPRESSION. EYE/SKIN
+    CONTACT: IRRITANT. INGESTION: S YMPTOMS FOLLOW THOSE OF INHALATION.
+    ASPIRATION HAZARD.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR, IF BREATHING IS DIFFICULT
+    ADMINISTER OXYGEN, OBTAIN MEDICAL ATTENTION. EYES: FLUSH WITH WATER
+    FOR AT LEAST 15 MINUTES - OBTAIN MEDICAL ATTENTION. SKIN: WASH WITH
+    SOAP  AND WATER, IF IRRITATION DEVELOPS OBTAIN MEDICAL ATTENTION.
+    INGESTION: DO NOT INDUCE VOMITING, OBTAIN MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:=40.C, 104.F
+Autoignition Temp:=220.C, 428.F
+Autoignition Temp Text:EST
+Lower Limits:1%
+Upper Limits:6%
+Extinguishing Media:DRY CHEMICAL, FOAM OR CARBON DIOXIDE.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT . WATER SHOULD BE USED TO KEEP FIRE-EXPOSED CONTAINERS
+    COOL.
+Unusual Fire/Explosion Hazard:WATER MAY BE INEFFECTIVE, WATER OR FOAM
+    MAY CAUSE FROSTBITE. NFPA CODE: HEALTH - 0; FIRE - 2; REACTIVITY -
+    0.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE INERT ABSORBENT MATERIAL TO CONFINE SPILLS
+    AND TO ABSORB MATERIAL. SCOOP INTO A DISPOSAL CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NO APPLICABLE INFORMATION FOUND.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED RESPIRATOR TO MEET EXPOSURE
+    LIMITS.
+Ventilation:ADEQUATE VENTILATION TO MEET EXPOSURE LIMITS.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES & FULL LENGTH
+    FACESHIELD .
+Other Protective Equipment:EYE WASH & DELUGE SHOWER MEETING ANSI DESIGN
+    CRITERIA . PROTECTIVE CLOTHING.
+Supplemental Safety and Health
+PHYSICAL DATA: PRIMARY VOLATILES: PETROLEUM NAPHTHA.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:=149.C, 300.2F
+Vapor Density:>3 (AIR=1)
+Solubility in Water:NO
+Appearance and Odor:BLACK; ODOR CHARACTERISTIC OF VOLATILES.
+Percent Volatiles by Volume:30 - 60
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDANTS (AS RELATED TO GENERAL ORGANIC MATERIALS).
+Stability Condition to Avoid:HEAT AND IGNITION SOURCES.
+Conditions to Avoid Polymerization:DOES NOT OCCUR.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:ASPHALT (PETROLEUM) FUMES; DIATOMACEOUS
+    EARTH; NUISANCE PARTICULATES; AND CRYSTALLINE SILICA: BECAUSE OF
+    THE PHYSICAL FORM OF MATERIAL, POTENTIAL FOR EXPOSURE TO FUMES IS
+    LIMITED. UNDER NORMAL USE CON DITIONS, NO EXPOSURE TO FUMES IS
+    EXPECTED. DICOCO DIMETHYL QUATERNARY AMMONIUM CHLORIDE: CORROSIVE,
+    IRRITANT - EYE AND SKIN.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:LANDFILL OR INCINERATE AS FEDERAL, STATE AND
+    LOCAL REGULATIONS PERMIT.
+
+=====================  Regulatory Information  =====================
+
+Federal Regulatory Information:TSCA CERTIFICATION: ALL CHEMICALS IN
+    THESE PRODUCTS ARE LISTED, OR ARE EXEMPT FROM LISTING, ON THE TSCA
+    INVENTORY.
+State Regulatory Information:CALIFORNIA PROPOSITION 65: WARNING: THE
+    FOLLOWING PRODUCTS CONTAIN CHEMICALS KNOWN TO THE STATE OF
+    CALIFORNIA TO CAUSE CANCER, AND BIRTH DEFECTS AND OTHER
+    REPRODUCTIVE HARM; S00607, S00620, S00700, S0 0710, 1324. WARNING:
+    THE FOLLOWING PRODUCTS CONTAIN CHEMICALS KNOWN TO THE STATE OF
+    CALIFORNIA TO CAUSE CANCER: S00615.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

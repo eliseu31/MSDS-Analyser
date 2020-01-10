@@ -1,0 +1,147 @@
+=====================  Product Identification  =====================
+
+Product ID:SCOTCHCAL BRAND THINNER CGS-60
+MSDS Date:03/14/1989
+FSC:8010
+NIIN:00-506-1983
+MSDS Number: BHWBJ
+=== Responsible Party ===
+Company Name:3M COMPANY TRAFFIC CONTROL MATERIAL DIVISION
+Address:3M CENTER BLDG 223-3N
+City:ST PAUL
+State:MN
+ZIP:55144-0001
+Country:US
+Info Phone Num:612-733-1110
+Emergency Phone Num:612-733-1110
+CAGE:94960
+=== Contractor Identification ===
+Company Name:MINNESOTA MINING AND MFG CO TRAFFIC CONTROL MATERIALS DIV
+Address:3M CTR
+Box:City:SAINT PAUL
+State:MN
+ZIP:55144-0001
+Country:US
+Phone:800-553-1380
+CAGE:94960
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOPHORONE	(SARA III)
+CAS:78-59-1
+RTECS #:GW7700000
+Fraction by Wt: 45-55%
+OSHA PEL:25 PPM
+ACGIH TLV:C 5 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:HEAVY AROMATIC NAPHTHA
+CAS:64742-94-5
+Fraction by Wt: 45-55%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:IRRITATION OF
+    EYES,SKIN,RESPIRATORY OR G.I.TRACTS;CNS EFFECTS LIKE
+    HEADACHE,DIZZINESS,NAUSEA,VOMITING AND POSSIBLE
+    UNCONSCIOUSNESS;REDNESS OR BURNS OF EYES/SKIN
+    POSSIBLE.CHRONIC:DRYING OF SKIN,D EFATTING OR DERMATITIS.
+Explanation of Carcinogenicity:DATA PER MSDS
+Effects of Overexposure:SEE HEALTH HAZARDS DATA.
+Medical Cond Aggravated by Exposure:PERSONS WITH A HISTORY OF AILMENTS
+    OR WITH A PRE-EXISTING DISEASE INVOLVING THE EYES, SKIN, OR
+    RESPIRATORY TRACT MAY BE AT INCREASED RISK FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION:REMOVE TO FRESH AIR. RESUSCITATE IF NOT BREATHING.
+    GET MEDICAL ATTENTION. EYES:IMMEDIATELY FLUSH WITH PLENTY OF WATER
+    FOR 15 MINUTES HOLDING EYELIDS OPEN. GET MEDICAL ATTENTION.
+    SKIN:REMOVE  CONTAMINATED CLOTHING. WASH WITH SOAP AND WATER. IF
+    IRRITATION PERSISTS, GET MEDICAL ADVICE.  INGESTION:DO NOT INDUCE
+    VOMITING. GIVE NOTHING BY MOUTH IF UNCONSCIOUS. GET IMMEDIATE
+    MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:161F,72C
+Lower Limits:0.80
+Upper Limits:6.50
+Extinguishing Media:USE CARBON DIOXIDE, FOAM, DRY CHEMICAL, OR WATER
+    FOG.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:COMBUSTIBLE LIQUID;FIRE OR EXCESSIVE HEAT
+    MAY CAUSE PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPER PERSONAL PROTECTION;CONTAIN FREE
+    MATERIAL IF POSSIBLE;USE SUITABLE INERT ABSORBENT MATERIAL AND
+    RECOVER FOR PROPER DISPOSAL IN AN APPROVED CONTAINER.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL VENTILATED
+    AREA. KEEP CONTAINERS TIGHTLY CLOSED WHEN NOT IN USE.KEEP AWAY FROM
+    HEAT,OPEN FLAMES AND EXTREME HEAT.
+Other Precautions:DO NOT TAKE INTERNALLY. DO NOT BREATHE MIST. AVOID
+    PROLONGED OR REPEATED BREATHING OF VAPOR. AVOID CONTACT WITH EYES.
+    USE WITH ADEQUATE VENTILATION. WASH THOROUGHLY AFTER HANDLING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR AS REQUIRED
+    IF ABOVE PEL/TLV OR SCBA IN AN ENCLOSED AREA.
+Ventilation:LOCAL/GENERAL TO MAINTAIN PEL/TLV.
+Protective Gloves:NEOPRENE, NITRILE, OR NATURAL RUBBER
+Eye Protection:SAFETY GOGGLES WITH OPTIONAL FACE SHIELD
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER,WORK
+    CLOTHING AND APRON AS REQUIRED.
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES. DO NOT WEAR CONTAMINATED CLOTHING OR
+    FOOTWEAR.
+Supplemental Safety and Health
+AVOID PROLONGED OR REPEATED EXPOSURE. DO NOT GET ON SKIN OR IN EYES. DO
+    NOT BREATHE VAPORS OR MISTS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V4
+Boiling Pt:B.P. Text:>354F,>179C
+Vapor Pres:<10.0
+Vapor Density:>1.0
+Spec Gravity:0.90
+Evaporation Rate & Reference:<1.0(N-BUTYL ACETATE=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:CLEAR,WATER LIQUID,SOLVENT ODOR.
+Percent Volatiles by Volume:100.0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HIGH TEMPERATURES, SPARKS, AND OPEN FLAMES
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE AND
+    OTHER UNIDENTIFIED COMPONENTS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT LOCAL AUTHORITIES.DISPOSAL MUST BE MADE
+    IN ACCORDANCE WITH ALL APPLICABLE FEDERAL, STATE AND LOCAL LAWS AND
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

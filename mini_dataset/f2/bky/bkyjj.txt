@@ -1,0 +1,144 @@
+=====================  Product Identification  =====================
+
+Product ID:QQF838 LOW MELTING ALLOYS
+MSDS Date:02/21/1990
+FSC:9650
+NIIN:00-224-8471
+MSDS Number: BKYJJ
+=== Responsible Party ===
+Company Name:BELMONT METALS INC
+Address:330 BELMONT AVENUE
+City:BROOKLYN
+State:NY
+ZIP:11207
+Info Phone Num:(718) 342-4900
+Emergency Phone Num:(718) 342-4900
+Preparer's Name:BRUCE N. REED
+CAGE:70774
+=== Contractor Identification ===
+Company Name:BELMONT METALS INC
+Address:330 BELMONT AVE
+Box:City:BROOKLYN
+State:NY
+ZIP:11207
+Phone:718-342-4900
+CAGE:70774
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BISMUTH
+CAS:7440-69-9
+RTECS #:EB2600000
+Fraction by Wt: 48-51%
+ACGIH TLV:10 MG/CUM
+
+Ingred Name:CADMIUM  (SARA III)
+CAS:7440-43-9
+RTECS #:EU9800000
+Fraction by Wt: 9-12%
+Other REC Limits:A2 CARCINOGEN
+OSHA PEL:SEE 1910.1027
+ACGIH TLV:0.01 MG/M3 DUST;9394
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+Ingred Name:LEAD  (SARA III)
+CAS:7439-92-1
+RTECS #:OF7525000
+Fraction by Wt: 26%
+OSHA PEL:0.05 MG/M3;1910.1025
+ACGIH TLV:0.15 MG/M3;DUST 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:TIN
+CAS:7440-31-5
+RTECS #:XP7320000
+Fraction by Wt: 12-14%
+OSHA PEL:2 MG/M3
+ACGIH TLV:2 MG/M3; 9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:EYES/SKIN: DUST MAY BE IRRITATING.
+    INHALATION: RESPIRATORY SYSTEM IRRITATION, DRYNESS OF THROAT,
+    HEADACHE,  SHORTNESS OF BREATH, VOMITING, NAUSEA, CHILLS &
+    PNEUMONCONIOSIS. INGESTION: ABSORPTION BY DI GESTIVE SYSTEM.
+Explanation of Carcinogenicity:CADMIUM & LEAD ARE SUSPECTED HUMAN
+    CARCINOGENS BY ACGIH
+Effects of Overexposure:EYES/SKIN: IRRITATION. INHALATION: RESPIRATORY
+    SYSTEM IRRITATION, DRYNESS OF THROAT, HEADACHE, SHORTNESS OF
+    BREATH, VOMITING, NAUSEA, CHILLS & PNEUMOCONIOSIS. INGESTION:
+    ABSORPTION BY DIGESTIVE SYSTEM .
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER. SKIN: WASH W/SOAP & WATER.
+    INHALATION: REMOVE TO FRESH AIR. INGESTION: OBTAIN MEDICAL
+    ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:SAND, DRY CHEMICAL, OR CO2. DON'T USE WATER ON FIRE
+    WHERE MOLTEN METAL IS PRESENT
+Fire Fighting Procedures:WEAR FULL BODY PROTECTIVE CLOTHING & FULL FACE
+    PIECE SELF CONTAINED BREATHING APPARATUS OPERATED ON POSITIVE
+    PRESSURE MODE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DUST MATERIAL SHOULD BE VACUUMED OR WET SWEPT.
+    PARTICULATE MATTER SHOULD BE STORED IN DRY CONTAINERS FOR LATER
+    DISPOSAL. DON'T USE COMPRESSED AIR AS A MEANS OF CLEANING.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID INGESTION OR INHALATION. DON'T
+    USE COMPRESSED AIR ON CLOTHING. NO TOBACCO OR FOOD IN WORK AREA,
+    WASH THOROUGHLY BEFORE EATING OR SMOKING.
+Other Precautions:MACHINING OPERATIONS SUCH AS GRINDING, SAWING,
+    BUFFING CAN GENERATE AIRBORNE PARTICLES IN THE WORK AREA.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR FOR TOXIC
+    DUST & FUME.
+Ventilation:TO MAINTAIN <TLV.
+Protective Gloves:RECOMMEDED
+Eye Protection:FACESHIELD OR VENTED GOGGLES
+Other Protective Equipment:FULL PROTECTIVE CLOTHING (COVERALLS)
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE. PRACTICE GOOD HOUSEKEEPING/PERSONAL HYGIENE PROCEDURES.
+Supplemental Safety and Health
+SIGNS & LABELS IN WORK AREA & FOR CONTAMINATED CONTAINERS/EQUIPMENT MAY
+    BE REQUIRED. MEDICAL EXAMINATIONS, MONITORING, RECORDKEEPING &
+    HYGIENE FACILITIES/PRACTICES SPECIFIED MAY HAVE TO BE MET.
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:M.P/F.P Text:117-500F
+Spec Gravity:6.69-11.35
+Appearance and Odor:GRAY METALLIC, ODORLESS
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS
+Stability Condition to Avoid:OVERHEATING OF ALLOY
+Hazardous Decomposition Products:TOXIC METAL FUMES/VAPORS/DUST/OXIDES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS AS TOXIC SUBSTANCE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

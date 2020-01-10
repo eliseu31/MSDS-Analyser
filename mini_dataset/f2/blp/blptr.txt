@@ -1,0 +1,154 @@
+=====================  Product Identification  =====================
+
+Product ID:6098 SPECIAL CHASSIS ENAMEL, BLACK
+MSDS Date:02/08/1988
+FSC:8010
+NIIN:00F019270
+MSDS Number: BLPTR
+=== Responsible Party ===
+Company Name:MARTIN-SENOUR CO THE DIV SHERWIN-WILLIAMS CO
+Address:5422 DANSHER RD
+City:COUNTRYSIDE
+State:IL
+ZIP:60525
+Info Phone Num:(216) 566-2902
+Emergency Phone Num:(216) 566-2917
+CAGE:16772
+=== Contractor Identification ===
+Company Name:MARTIN-SENOUR CO THE DIV SHERWIN-WILLIAMS CO
+Address:2500 S SENOUR AVE
+Box:City:CHICAGO
+State:IL
+ZIP:60608-5724
+Country:US
+CAGE:16772
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOPARAFFINIC HYDROCARBONS (NAPHTHA PETROLEUM),
+    HYDROTREATED HEAVY, NON AROMATIC HEAVY NAPHTHA) ISOPAR G
+CAS:64742-48-9
+Fraction by Wt: 30%
+Other REC Limits:300 PPM EXXON
+ACGIH TLV:300 PPM
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 25%
+Other REC Limits:100 PPM
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:SOLVENT NAPHTHA, PETROLEUM, LIGHT AROMATIC C8-C10 (AROMATIC
+    100)
+CAS:64742-95-6
+Fraction by Wt: 10%
+ACGIH TLV:100 PPM
+
+Ingred Name:POLYAMIDE
+CAS:68082-29-1
+Fraction by Wt: <5%
+
+Ingred Name:CARBON BLACK
+CAS:1333-86-4
+RTECS #:FF5800000
+Fraction by Wt: <5%
+Other REC Limits:3.5 MG/CUM (NIOSH)
+OSHA PEL:3.5 MG/M3
+ACGIH TLV:3.5 MG/M3; 9192
+
+Ingred Name:ACRYLIC MODIFIED ALKYD POLYMER
+Fraction by Wt: 30%
+
+Ingred Name:VOL ORGANIC CMPD (THEORETICAL): 4.88 LB. OR 584 GM.
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES/SKIN: IRRITATION, REDNESS,
+    ITCHING, & BURNING SENSATION. INHALATION: RESPIRATORY SYSTEM
+    IRRITATION, NERVOUS SYSTEM DEPRESSION, UNCONSCIOUSNESS, DEATH,
+    HEADACHE, DIZZINESS, NAUSEA, LOSS OF COORDIN ATION, LIVER, URINARY,
+    BLOOD FORMING, &CARDIO-VASCULAR SYSTEM EFFECTS, PERMANENT BRAIN &
+    NERVOUS SYSTEM DAMAGE.
+Explanation of Carcinogenicity:CARBON BLACK IS A SUSPECTED HUMAN
+    CARCINOGEN BY ACGIH.
+Effects of Overexposure:EYES/SKIN: IRRITATION, REDNESS, ITCHING, &
+    BURNING SENSATION. INHALATION: RESPIRATORY SYSTEM IRRITATION,
+    NERVOUS SYSTEM DEPRESSION, UNCONSCIOUSNESS, DEATH, HEADACHE,
+    DIZZINESS, NAUSEA, LOSS OF COORDIN ATION, LIVER, URINARY, BLOOD
+    FORMING, &CARDIO-VASCULAR EFFECTS, PERMANENT BRAIN & NERVOUS SYSTEM
+    DAMAGE.
+Medical Cond Aggravated by Exposure:MAY CAUSE ALLERGIC SKIN REACTION
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR & RESTORE BREATHING. KEEP
+    WARM & QUIET. SKIN: WASH W/SOAP & WATER. EYES: FLUSH W/PLENTY OF
+    WATER FOR 15 MINS. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:51F
+Lower Limits:0.7%
+Extinguishing Media:CO2, DRY CHEMICAL, OR FOAM
+Fire Fighting Procedures:WATER SPRAY MAY BE INEFFECTIVE. IF WATER IS
+    USED, FOG NOZZLES ARE PREFERABLE. WEAR FULL PROTECTIVE CLOTHING &
+    SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:WATER SPRAY MAY BE USED TO COOL CLOSED
+    CONTAINERS TO PREVENT PRESSURE BUILD-UP, POSSIBLE AUTOIGNITION &
+    EXPLOSION WHEN EXPOSED TO EXTREME HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. VENTILATE &
+    REMOVE W/INERT ABSORBENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER CLOSED WHEN NOT IN USE.
+    TRANSFER ONLY APPROVED CONTAINERS W/COMPLETE & APPROPRIATE
+    LABELING. DON'T TAKE INTERNALLY. DON'T SMOKE.
+Other Precautions:USE ONLY W/ADEQUATE VENTILATION. AVOID BREATHING
+    VAPOR/SPRAY MIST. AVOID CONTACT W/EYES/SKIN. INTENTIONAL MISUSE BY
+    DELIBERATELY CONCENTRATING & INHALING THE CONTENTS CAN BE HARMFUL
+    OR FATAL. KEEP OUT	OF REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE PROPERLY FITTED NIOSH/MSHA APPROVED ORGANIC
+    VAPOR/PARTICULATE RESPIRATOR. WHEN SANDING OR ABRADING THE DRIED
+    FILM, WEAR A DUST MASK OR PARTICULATE RESPIRATOR.
+Ventilation:LOCAL EXHAUST OR GENERAL EXHAUST TO KEEP AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:72.9%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:HEAT/ELECTRICAL EQUIPMENT &
+    TOOLS/SPARKS/OPEN FLAME/PILOT LIGHTS/HEATERS/STOVES/APPLIANCES &
+    ALL OTHER IGNITION SOURCES.
+Hazardous Decomposition Products:CO, & CO2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:MAY BE RCRA HAZARDOUS WASTE. TEST FOR
+    IGNITABILITY TO DETERMINE EPA HAZARDOUS WASTE NUMBERS. INCINERATE
+    IN APPROVED FACILITY ACCORDING TO FEDERAL, STATE, & LOCAL
+    REGULATIONS. DON'T INCINERATE CLOSED    CONTAINERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

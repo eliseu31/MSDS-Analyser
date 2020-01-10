@@ -1,0 +1,179 @@
+=====================  Product Identification  =====================
+
+Product ID:LITHIUM SULFUR DIOXIDE BATTERY
+MSDS Date:01/31/1992
+FSC:6135
+NIIN:01-071-4923
+MSDS Number: BWRCN
+=== Responsible Party ===
+Company Name:SAFT AMERICA INC
+Address:313 CRESCENT ST
+City:VALDESE
+State:NC
+ZIP:28690
+Country:US
+Info Phone Num:704-874-4111
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+CAGE:7X634
+=== Contractor Identification ===
+Company Name:SAFT AMERICA INC ADVANCED BATTERY SYSTEMS DIVISION
+Address:313 CRESCENT ST NE
+Box:City:VALDESE
+State:NC
+ZIP:28690-9643
+Country:US
+Phone:828-874-4111/912-245-2806
+CAGE:7X634
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LITHIUM (METAL)
+CAS:7439-93-2
+RTECS #:OJ5540000
+Fraction by Wt: <2.5%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:SULFUR DIOXIDE (SARA 302)
+CAS:7446-09-5
+RTECS #:WS4550000
+Fraction by Wt: <25%
+OSHA PEL:5 PPM
+ACGIH TLV:2 PPM/5 STEL
+
+Ingred Name:ACETONITRILE (SARA 313) (CERCLA)
+CAS:75-05-8
+RTECS #:AL7700000
+Fraction by Wt: <6%
+OSHA PEL:40 PPM
+ACGIH TLV:40 PPM/60 STEL
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:CARBON BLACK; (ACETYLENE BLACK)
+CAS:1333-86-4
+RTECS #:FF8000000
+Fraction by Wt: <5%
+OSHA PEL:3.5 PPM (MFR)
+ACGIH TLV:3.5 PPM (MFR)
+
+Ingred Name:SUPDAT:OTHER MATLS. AIR-CONDITIONING OR COOLING IS NOT REQD
+    UNLESS EXCESSIVELY HIGH TEMP WILL BE ENCOUNTERED, (ING 6)
+RTECS #:9999999ZZ
+
+Ingred Name:ING 5:BUT BATTERIES SHOULD BE KEPT AS COOL AS POSS IN ORDER
+    TO MAX SHELF LIFE. TEMP ABOVE 160F SHOULD BE (ING 7).
+RTECS #:9999999ZZ
+
+Ingred Name:ING 6:AVOIDED. HERMETICALLY SEALED LITHIUM CELLS DO NOT
+    OUTGAS. HOWEVER, IF EXPOSED TO EXTREME TEMP/ROUGH HNDLG, (ING 8)
+RTECS #:9999999ZZ
+
+Ingred Name:ING 7:THEY MAY RELEASE SULFUR DIOXIDE GAS IF VENT IS
+    ACTIVATED/BATTERY DMGD. WELL-VENTILATED STOR AREA SHOULD (ING 9)
+RTECS #:9999999ZZ
+
+Ingred Name:ING 8:BE USED TO PVNT INADVERTENT CONC OF GAS IF EXTREMES
+    ARE ANTIC. IF LG QTYS OF BATTERIES ARE STORED, IT (ING 10)
+RTECS #:9999999ZZ
+
+Ingred Name:ING 9:MAY BE ADVISABLE TO INSTALL ALARM DEVICES IN STOR
+    AREA TO DETECT SMOKE/ACCUMULATION OF GASES.
+RTECS #:9999999ZZ
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:DEPENDING ON CONCENTRATION OF SULFUR
+    DIOXIDE EXPOSURE, IT ACTS AS AN ASPHYXIANT AND MAY POSSIBLY CAUSE
+    UNCONSCIOUSNESS WITH NO KNOWN CHRONIC HEALTH EFFECTS. SULFUR
+    DIOXIDE:IRRITATION OF NOSE, THROAT,  EYES, AND/OR SKIN; SUFFOCATING
+    ODOR.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:SULFUR DIOXIDE - ASTHMA AND OTHER
+    RESPIRATORY DISEASES.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:IMMEDIATELY FLUSH W/POTABLE WATER FOR MINIMUM OF 15
+    MINUTES, SEEK ASSISTANCE FROM MD . SKIN:FLUSH W/COPIOUS AMTS OF
+    WATER. CALL MD. . INHAL:REMOVE PERSON FROM CONTAMD AREA TO FRESH AI
+    R. INGEST:DRINK 2 GLASSES OF WATER TO DILUTE. IF CELL VENTS, PERS
+    SHOULD BE EVACUATED FROM CONTAMD AREAS. ARTF RESP SHOULD BE GIVEN
+    IF BREATHING STOPS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONFLAMMABLE
+Extinguishing Media:WATER/CO*2 ON BURNING LITHIUM SULFUR DIOXIDE
+    CELLS/BATTERIES. USE CLASS D FIRE EXTING AGENT ONLY ON RAW LITHIUM
+    FIRE.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:BATTERY MAY VENT WHEN SUBJECT TO
+    EXCESSIVE HEAT-EXPOSING CELL CONTENTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:KEEP OUT OF AREA UNLESS USING IMPERVIOUS
+    GLOVES & CLOTHING, & FULL-FACE BREATHING APPARATUS. PROVIDE MAXIMUM
+    VENT TO CLEAR OUT HAZARDOUS GASES.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT REMOVE OR BYPASS ELECTRICAL OR
+    THERMAL FUSES. DO NOT HEAT ABOVE 200F.
+Other Precautions:LI/SO*2 CELL IS CAPABLE OF LONG TERM STOR @ TEMP AS
+    HIGH AS 160F, COMPARED TO MAX OF ABOUT 180F FOR MOST PRIMARY
+    BATTERY SYS. STOR FOR MORE/1 YR @ 160F HAS BEEN DEMONSTRATED. STOR
+    @ LOWER TEMP WILL IM PROVE CAPACITY RETENTION OF (SUPDAT)
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN .
+Ventilation:PROVIDE MAXIMUM VENTILATION TO CLEAR OUT HAZARDOUS GASES.
+Protective Gloves:IMPERVIOUS GLOVES.
+Eye Protection:ANSI APPRVD SFTY GLASSES .
+Other Protective Equipment:IMPERVIOUS CLOTHING.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+CNDTNS TO AVOID:SEAL REMAINS INTACT. HNDLG/STOR PREC:BATTERY. FOR
+    EXAMPLE, SHELF LIFE OF 10 YRS IS PROJECTED FOR STOR @ 70F. LI/SO*2
+    CELLS & BATTERIES SHOULD BE STORED IN WELL-VENT, SPRINKLER-PROTECTE
+    D, NON-COMBUST STRUCTURE W/ADEQ CLEARANCE BETWEEN WALLS & BATTERY
+    STACKS. BATTERIES SHOULD BE SEPARATED FROM (ING 5)
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:M.P/F.P Text:>200F,>93C
+Spec Gravity:>1 (H*2O=1)
+Solubility in Water:NOT SOLUBLE IN WATER
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:BATTERY CONTAINS HERMETICALLY SEALED CELLS
+    & IS NONREACTIVE PROVIDED BATTERY INTEGRITY IS MAINTAINED & CELL
+    (SUPDAT)
+Conditions to Avoid Polymerization:HEATING, MECH ABUSE, & ELEC ABUSE
+    (SUCH AS RECHARGING, VOLTAGE REVERSAL & SHORT CIRCUITING) MAY RSLT
+    IN VENTING.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE, AND
+    FEDERAL ENVIRONMENTAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

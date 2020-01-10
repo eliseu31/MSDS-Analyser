@@ -1,0 +1,105 @@
+=====================  Product Identification  =====================
+
+Product ID:AIROILENE OIL P-89507
+MSDS Date:05/30/1989
+FSC:9150
+NIIN:00F019293
+MSDS Number: BLPVS
+=== Responsible Party ===
+Company Name:CHICAGO PNEUMATIC TOOL COMPANY
+Address:2200 BLEECKER STREET
+Box:4340
+City:UTICA
+State:NY
+ZIP:13504
+Info Phone Num:(315) 792-2600
+Emergency Phone Num:(315) 792-2600
+CAGE:90299
+=== Contractor Identification ===
+Company Name:CHICAGO PNEUMATIC TOOL CO
+Address:2200 BLEECKER ST
+Box:City:UTICA
+State:NY
+ZIP:13501
+Country:US
+Phone:800-367-2442
+CAGE:90299
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MINERAL OIL, PETROLEUM DISTILLATES, SOLVENT-REFINED HEAVY
+    PARAFFINIC, LUBRICATING OIL BASE STOCK
+CAS:64741-88-4
+RTECS #:PY8040500
+OSHA PEL:5 MG/CUM
+ACGIH TLV:5 MG/CUM
+
+Ingred Name:ANTIOXIDANT
+
+Ingred Name:ANTIWEAR
+
+Ingred Name:ANTIRUST
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN/EYES: IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN/EYES: IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: REMOVE OIL BY WIPING OR APPLYING WATERLESS HAND
+    CLEANER. WASH W/SOAP & WATER. EYES: WASH W/PLENTY OF WATER. OBTAIN
+    MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:395F
+Extinguishing Media:DRY CHEMICAL
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB W/CLAY, DIATOMACEOUS EARTH, OR OTHER
+    INERT MATERIAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NO SPECIAL PRECAUTIONS NORMALLY
+    NEEDED.
+Other Precautions:AVOID BREATHING OIL MIST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AS REQUIRED
+Ventilation:LOCAL EXHAUST: IF MIST IS GENERATED
+Protective Gloves:AS REQUIRED
+Eye Protection:GOGGLES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:0.87
+Solubility in Water:INSOLUBLE
+Appearance and Odor:LIGHT COLORED, VISCOUS LIQUID W/SLIGHT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Hazardous Decomposition Products:CO
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL BY INCINERATION IN COMPLIANCE W/LOCAL,
+    STATE, & FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

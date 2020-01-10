@@ -1,0 +1,133 @@
+=====================  Product Identification  =====================
+
+Product ID:PC-12 007M PART B (PB2008)
+MSDS Date:03/05/1992
+FSC:8040
+NIIN:00-085-4319
+Kit Part:Y
+MSDS Number: BJDRQ
+=== Responsible Party ===
+Company Name:DEXTER ELECTRONIC MTLS DIV,THE DEXTER CORP
+Address:211 FRANKLIN ST
+City:OLEAN
+State:NY
+ZIP:14760-1297
+Country:US
+Info Phone Num:716-372-6300
+Emergency Phone Num:716-372-6309
+Preparer's Name:JAMES P. HORNBURG
+CAGE:04347
+=== Contractor Identification ===
+Company Name:AMERICAN DURABLE INC
+Address:6080 CLAUDE WAY E
+Box:City:INVER GROVE HEIGHTS
+State:MN
+ZIP:55075
+Country:US
+Phone:612-455-6314
+CAGE:7Z634
+Company Name:CADPRO INC
+CAGE:1BY43
+Company Name:DEXTER CORP THE DEXTER ELECTRONIC MATERIAL DIV
+Address:211 FRANKLIN ST.
+Box:City:OLEAN
+State:NY
+ZIP:14760-1297
+Country:US
+Phone:716-372-6300/6309
+CAGE:04347
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:REACTIVE POLYAMIDE
+CAS:37189-83-6
+Fraction by Wt: 60-100%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SEE SIGNS AND SYMPTOMS
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:CONTACT WITH SKIN AND EYES MAY CAUSE BURNS.
+    BREATHING VAPORS MAY BE SLIGHTLY IRRITATING. SKIN: PROLONGED SKIN
+    CONTACT MAY CAUSE DERMATITIS
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:FLUSH SKIN AND EYE CONTACT W/ CLEAN WATER. GET MEDICAL CARE
+    FOR EYES. REMOVE CONTAMINATED CLOTHING.INHALATION:IF INHALED,
+    REMOVE TO FRESH AIR. THIS MATERIAL IS A SENSITIZER. IF ALLERGIC
+    MANIFESTATIONS  OCCUR, CONSULT A PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:338F,170C
+Lower Limits:0.6%
+Upper Limits:2.5%
+Extinguishing Media:CARBON DIOXIDE, DRY CHEMICAL, FOAM
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT. 
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SCOOP UP EXCESS. SCRUB AREA WITH 5% ACETIC
+    ACID SOLUTION TO EMULSIFY, RINSE WITH HOT WATER.
+Neutralizing Agent:SEE ABOVE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINERS TIGHTLY CLOSED.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATORS FOR EXPOSURE OF
+    CONCERN .
+Ventilation:LOCAL EXHAUST-PREFERRABLE; MECHANICAL-ACCEPTABLE.
+Protective Gloves:RUBBER OR PLASTIC
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:KEEP CONTAINERS TIGHTLY CLOSED
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:634F,334C
+Vapor Pres:<0.01
+Vapor Density:9.6
+Spec Gravity:0.9
+Evaporation Rate & Reference:NIL
+Solubility in Water:NIL
+Appearance and Odor:TRANSLUCENT AMBER, HIGH VISCOSITY
+    LIQUID,AMMONIA-LIKE ODOR
+Percent Volatiles by Volume:NIL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+SEE ABOVE - CONDITIONS TO AVOID
+Stability Condition to Avoid:STRONG ALKALIES, ACIDS.
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE IN FURNACE OR BURY IN LANDFILL. NEW
+    YORK STATE DOES NOT PERMIT LANDFILL BURIAL OF LIQUIDS. SOLIDIFY BY
+    MIXING WITH EPOXY RESIN BEFORE LANDFILL BURIAL. THIS IS NOT A
+    HAZARDOUS WASTE UNDER TH E RESOURCE CONSERVATION & RECOVERY
+    ACT(RCRA).
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

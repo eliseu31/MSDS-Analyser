@@ -1,0 +1,106 @@
+=====================  Product Identification  =====================
+
+Product ID:TABCO 13-209
+MSDS Date:07/01/1990
+FSC:6850
+NIIN:00F019184
+MSDS Number: BLPPP
+=== Responsible Party ===
+Company Name:TABCO PRODUCTS INC
+Address:940 WEST 100 SOUTH
+City:SALT LAKE CITY
+State:UT
+ZIP:84104
+Info Phone Num:(801) 595-0119
+Emergency Phone Num:(801) 595-0119
+CAGE:FO152
+=== Contractor Identification ===
+Company Name:SEYMOUR OF SYCAMORE
+Address:917 CROSBY AVE.
+Box:City:SYCAMORE
+State:IL
+ZIP:60178-1343
+Country:US
+Phone:815-895-9101/800-255-3924
+CAGE:59581
+Company Name:TABCO PRODUCTS INC/SALT LAKE CITY, UT 84104
+CAGE:FO152
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ALUMINUM SILICATE, KAOLINITE
+CAS:1318-74-7
+ACGIH TLV:10 MG/CUM (DUST)
+
+Ingred Name:SILICON DIOXIDE
+CAS:7631-86-9
+RTECS #:VV3100000
+OSHA PEL:80 MG/CUM
+ACGIH TLV:10 MG/CUM (DUST)
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION/INGESTION: INDUSTRIAL
+    BRONCHITIS & COUGHING.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION/INGESTION: INDUSTRIAL BRONCHITIS &
+    COUGHING.
+Medical Cond Aggravated by Exposure:LUNG DISORDERS SUCH AS EMPHYSEMA &
+    BRONCHITIS
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. INGESTION: GIVE WATER TO
+    DRINK. EYES: FLUSH W/WATER. SKIN: USE HAND CREAMS. OBTAIN MEDICAL
+    ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Unusual Fire/Explosion Hazard:DRY POWDERED MATERIALS CAN BUILD STATIC
+    ELECTRICAL CHARGES WHEN SUBJECTED TO FRICTION. TAKE PROPER
+    PRECAUTIONS IN PRESENCE OF FLAMMABLE/EXPLOSIVE LIQUIDS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VACUUM UP SPILLED MATERIAL IN A CONTAINER FOR
+    PROPER DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:MINIMIZE DUST GENERATION & EXPOSURE.
+    KEEP MATERIAL DRY TO PROTECT PERFORMANCE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH APPROVED DUST RESPIRATOR IF >TLV.
+Ventilation:LOCAL EXHAUST
+Protective Gloves:RUBBER
+Eye Protection:SAFETY GOGGLES
+Work Hygienic Practices:KEEP AREA CLEAN.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Solubility in Water:INSOLUBLE
+Appearance and Odor:FINE WHITE POWDER, ODORLESS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACIDS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTACT LOCAL, STATE, & FEDERAL EPA FOR PROPER
+    DISPOSAL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

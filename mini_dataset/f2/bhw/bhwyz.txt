@@ -1,0 +1,120 @@
+=====================  Product Identification  =====================
+
+Product ID:PROPANE
+MSDS Date:05/17/1985
+FSC:6830
+NIIN:00-261-7446
+MSDS Number: BHWYZ
+=== Responsible Party ===
+Company Name:AMOCO OIL COMPANY
+Address:200 EAST RANDOLPH DRIVE
+City:CHICAGO
+State:IL
+ZIP:60601
+Country:US
+Info Phone Num:800-424-9300 (SPILL)
+Emergency Phone Num:800-447-8735/HEALTH312-856-3907INFO
+Preparer's Name:STEPHEN A. ELBERT
+CAGE:15958
+=== Contractor Identification ===
+Company Name:AMOCO OIL CO
+Address:200 E RANDOLPH DR
+Box:City:CHICAGO
+State:IL
+ZIP:60601-6401
+Country:US
+Phone:312-856-3907- EM HLTH: 800 447-8735
+CAGE:15958
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PROPANE
+CAS:74-98-6
+RTECS #:TX2275000
+Fraction by Wt: 100%
+OSHA PEL:1000 PPM
+ACGIH TLV:ASPHYXIANT; 9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Effects of Overexposure:EYE & SKIN: LIQUID CAN CAUSE BURNS SIMILAR TO
+    FROSTBITE. INHALATION: VAPOR CAN  BE HARMFUL OR FATAL IF HIGH
+    CONCENTRATIONS ARE INHALED. SYMPTOMS OF LACK OF OXY INCLUDE
+    INCREASED DEPTH AND FREQUENCY OF  BREATHING, AIR HUNGER, DIZZINESS,
+    HEAD-ACHE, NAUSEA, OR LOSS OF CONSCIOUSNESS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH EYES WITH PLENTY OF WATER FOR AT LEAST 15 MINUTES,
+    THEN GET IMMEDIATEMEDICAL ATTENTION.  SKIN: IMMED FLUSH WITH PLENTY
+    OF TEPID WATER, NOT HOT. GET  MEDICAL ATTENTION.  INHALATION:
+    REMOVE T O UNCONTAMINATED AREA. GIVE CPR IF NOTBREATHING. GIVE
+    OXYGEN IF BREATHING IS DIFFICULT. GET MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:-156F -69C
+Lower Limits:2.1%
+Upper Limits:9.5%
+Extinguishing Media:STOP FLOW OF GAS IF POSSIBLE; IF NOT, ALLOW TO
+    BURN. DO NOT DIRECT WATER INTO LIQUID SPILL.  DRY CHEMICAL CAN BE
+    USED.
+Unusual Fire/Explosion Hazard:FLASHBACK POSSIBILITY. EXTINGUISHMENT OF
+    FIRE BEFORE SOURCE OF VAPOR IS SHUT OFFCAN CREATE AN EXPLOSIVE
+    MIXTURE IN AIR. EXTREMELY FLAMMABLE VAPOR/MIXTURES FORM.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE OR SHUT OFF ALL SOURCES OF IGNITION.
+    WATER SPRAY CAN BE USED TO ABSORB VAPORS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:OUTSIDE STORAGE IS RECOMMENDED. DO NOT
+    STORE IN   AREAS CONTAINING FLAMMABLE COMBUSTIBLE PRODUCTS.
+Other Precautions:AVOID STRONG OXIDIZERS
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF VENTILATION IS INADEQUATE, USE SUPPLIED AIR
+    RESPIRATOR APPROVED BY NIOSH/MSHA
+Ventilation:LOCAL EXHAUST
+Protective Gloves:IMPERVIOUS MATERIAL
+Eye Protection:CHEMICAL GOGGLES
+Other Protective Equipment:IMPERVIOUS CLOTHING, FACE SHIELD
+Supplemental Safety and Health
+DANGER! EXTREMELY FLAMMABLE. VAPOR CAN BE HARMFUL OR FATAL IF HIGH
+    CONCENTRATIONARE INHALED. CONTACT WITH LIQUID CAUSES FROSTBITE.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:-44F
+Melt/Freeze Pt:M.P/F.P Text:-306F
+Vapor Pres:132
+Vapor Density:1.56 @ 32F
+Spec Gravity:0.51, @ 60F
+Solubility in Water:SLIGHT, 0.1% TO 1.0%
+Appearance and Odor:COLORLESS GAS; ODORANT MAY BE ADDED
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NK
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:VENT VAPOR AT SAFE LOCATION. INSURE DISSIPATION
+    OFGAS BELOW THE LOWER EXPLOSIVE LIMIT. CONSULT LOCALORDINANCE FOR
+    COMPLIANCE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,134 @@
+=====================  Product Identification  =====================
+
+Product ID:RESPIRATOR WIPES
+MSDS Date:04/06/1989
+FSC:6640
+NIIN:00N023043
+MSDS Number: BLMSM
+=== Responsible Party ===
+Company Name:KENDALL CO
+Address:US HWY 31 W NORTH
+City:FRANKLIN
+State:KY
+ZIP:42134
+Country:US
+Info Phone Num:502-586-3261
+Emergency Phone Num:502-586-3261
+CAGE:2A541
+=== Contractor Identification ===
+Company Name:KENDALL CO
+Address:US HWY 31 W NORTH
+Box:City:FRANKLIN
+State:KY
+ZIP:42134
+Country:US
+Phone:502-586-3261
+CAGE:2A541
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: 70%
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 30%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: VAPOR IRRITATES EYES, NOSE AND
+    THROAT. LIQUID WILL DAMAGE EYE TISSUE. CHRONIC: PROLONGED AND/OR
+    REPEATED SKIN CONTACT MAY BE IRRITATING.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: IF OVERCOME BY VAPORS, REMOVE TO FRSH AIR AND IF BRTHG
+    STOPPED GIVE ARTIFICIAL RESPIRATION. KEEP INDIVIDUAL CALM. CALL
+    PHYSICIAN. EYES: FLUSH WITH WATER FOR AT LEAST 15 MIN AND CALL A
+    PHYSICIAN . SKIN: FLUSH WITH WATER. INGEST: GET MD IMMEDIATELY .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:159F,71C
+Lower Limits:2 %
+Upper Limits:12 %
+Extinguishing Media:DRY CHEMICAL OR ALCOHOL TYPE FOAM.
+Fire Fighting Procedures:USE WATERSPRAY TO COOL FIRE EXPOSED SURFACES
+    AND TO PROTECT PERSONNEL. WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:KEEP PUBLIC AWAY. SHUT OFF SOURCE IF POSSIBLE
+    TO DO SO WITHOUT HAZARD. ELIMINATE SOURCES OF IGNITION. WARN
+    OCCUPANTS OF DOWNWIND AREAS OF EXPLOSION HAZARD. PREVENT LIQUID
+    FROM ENTERING SEWERS, WATERCO URSES OR LOW AREA.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CNTNR CLSD WHEN NOT IN USE. DO
+    NOT HNDL/STORE NEAR FLAME/HEAT/STRONG OXIDANTS. ADEQ VENT REQUIRED.
+    CNTNRS OF THIS MATL MAY BE HAZ WHEN EMPTIED.
+Other Precautions:EMPTIED CONTAINERS RETAIN PRODUCT RESIDUES. ALL
+    HANDLING EQUIPMENT SHOULD BE ELECTRICALLY GROUNDED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED AIR-SUPPLIED MASK IF
+    USED IN ENCLOSED SPACE.
+Ventilation:LOCAL EXHAUST: FACE VELOCITY 60 FPM IN CONFINED SPACES.
+    MECH (GENERAL): EXPLOSION PROOF. NO SMOKING/OPEN LIGHTS.
+Protective Gloves:CHEMICALLY RESISTANT GLOVES.
+Eye Protection:CHEM WORK GOG/FULL LENGTH FSHLD .
+Other Protective Equipment:USUALLY NOT NEEDED.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+MTLS TO AVOID: ALDEHYDE, MONOMERS, POLYMERIZABLE ESTERS, HYDROGEN WITH
+    PALLADIUM.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V4
+Boiling Pt:B.P. Text:174F,79C
+Vapor Pres:120
+Vapor Density:2 (AIR=1)
+Spec Gravity:0.866
+Solubility in Water:COMPLETELY
+Appearance and Odor:ALCOHOL TYPE ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ALKLENE OXIDES, ACID ANYDRIDES, INORGANIC ACIDS, ORGANIC ACIDS,
+    HALOGENS, PHOSPHOROUS, TRICHLORIDE, (SUPP DATA)
+Hazardous Decomposition Products:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTAIN SPILLED LIQUID WITH SAND OR EARTH.
+    DILUTE CONTAINED SPILL WITH WATER. RECOVER FREE LIQUID BY PUMPING
+    OR WITH SUITABLE ABSORBANT. CONSULT A DISPOSAL EXPERT AND ENSURE
+    CONFORMITY TO LOCAL, STATE	AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

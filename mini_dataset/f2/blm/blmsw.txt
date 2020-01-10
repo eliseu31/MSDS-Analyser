@@ -1,0 +1,149 @@
+=====================  Product Identification  =====================
+
+Product ID:ACETONE
+MSDS Date:04/07/1989
+FSC:6810
+NIIN:00-184-4796
+MSDS Number: BLMSW
+=== Responsible Party ===
+Company Name:CHEMTECH INDUSTRIES INC
+Address:9909 CLAYTON RD
+City:ST LOUIS
+State:MO
+ZIP:63124
+Country:US
+Emergency Phone Num:314-966-9900
+CAGE:56894
+=== Contractor Identification ===
+Company Name:CHEMTECH INDUSTRIES INC MANUFACTURED PRODUCTS DIV
+Address:1655 DES PERES RD
+Box:31000
+City:ST. LOUIS
+State:MO
+ZIP:63131-1821
+Country:US
+Phone:314-966-9934
+CAGE:56894
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ACETONE  (SARA III)
+CAS:67-64-1
+RTECS #:AL3150000
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:1000PPM
+ACGIH TLV:750PPM/1000STEL;9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE-EYE:IRRITATING & WILL INJURE EYE
+    IF NOT REMOVED PROMPTLY.SKIN:FREQUENT/PROLONGED CONTACT MAY
+    IRRITATE & CAUSE DERMATITIS.INHALATION:HIGH VAPOR CONCENTRATIONS
+    ARE IRRITATING & MAY CAUSE HEADACHE, DIZZINESS &
+    ANESTHETIC.INGESTION:GI IRRITATION,NAUSEA,VOMITING &
+    DIARRHEA.ASPIRATION HAZARD.CHRONIC-NOT KNOWN.
+Explanation of Carcinogenicity:THIS PRODUCT IS NOT LISTED BY IARC, NTP,
+    OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:IRRITATION OF EYES AND SKIN. FREQUENT OR
+    PROLONGED SKIN CONTACT MAY CAUSE DERMATITIS. INHALATION OF HIGH
+    VAPOR CONCENTRATIONS ARE IRRITATING & MAY CAUSE HEADACHE,
+    DIZZINESS, WEAKNESS, FATIGUE, UNCONSC IOUSNESS AND EVEN DEATH.
+    INGESTION MAY RESULT IN GI IRRITATION, NAUSEA, VOMITING & DIARRHEA.
+Medical Cond Aggravated by Exposure:PRE-EXISTING SKIN DISORDERS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:GET PROMPT MEDICAL ATTENTION IN ALL CASES.INHALATION:REMOVE
+    TO FRESH AIR.GIVE CPR IF NEEDED.EYES:IMMEDIATELY FLUSH WITH WATER
+    FOR 15 MINUTES HOLDING EYELIDS OPEN.SKIN:WASH WITH SOAP &
+    WATER.INGESTION: DO NOT INDUCE VOMITING.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:-4F,-20C
+Lower Limits:2.1
+Upper Limits:13.0
+Extinguishing Media:NFPA CLASS B EXTINGUISHER(CO2 OR FOAM).WATER MAY BE
+    INEFFECTIVE BUT TO COOL FIRE EXPOSED SURFACES & TO PROTECT
+    PERSONNEL
+Fire Fighting Procedures:WEAR FIRE FIGHTING PROTECTIVE EQUIPMENT AND A
+    FULL FACED SELF CONTAINED BREATHING APPARATUS.SHUT OFF"FUEL"TO
+    FIRE.LET IT BURN/USE ALCOHOL TYPE FOAM TO COVER IT.
+Unusual Fire/Explosion Hazard:KEEP AWAY FROM HEAT AND OPEN FLAMES.
+    CLOSED CONTAINER MAY EXPLODE IF EXPOSED TO EXTREME HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE EQUIPMENT.ELIMINATE SOURCES OF
+    IGNITION.STOP LEAK IF POSSIBLE.NOTIFY AUTHORITIES IF 5,000 LBS OR
+    MORE IS SPILLED(800-424-8802).CONTAIN LIQUID WITH
+    SAND/EARTH.RECOVER BY PUMPING(EXPLOSI ON PROOF)OR SUITABLE
+    ABSORBENT.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL,DRY,WELL VENTILATED
+    AREA AWAY FROM SOURCES OF IGNITION.KEEP CONTAINER CLOSED.
+Other Precautions:AVOID BREATHING VAPOR/MIST.AVOID CONTACT WITH EYES &
+    SKIN.STORE WITH ADEQUATE VENTILATION.EMPTY CONTAINERS MAY CONTAIN
+    HAZARDOUS PRODUCT RESIDUES.DRUM SHOULD BE GROUNDED & BONDED WHEN
+    TRANSFERRING LIQ UID CONTENTS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF VENTILATION DOES NOT MAINTAIN INHALATION
+    EXPOSURES BELOW PEL(TLV), USE NIOSH/MSHA APPROVED FULL-FACE ORGANIC
+    VAPOR CARTRIDGE OR CANISTER RESPIRATORS AS PER CURRENT 29 CFR
+    1910.134, INSTRUCTIONS/WAR NINGS AND NIOSH-RESPIRATOR SELECTION.
+Ventilation:USE EXPLOSION-PROOF VENTILATION EQUIPMENT. THE USE OF
+    MECHANICAL DILUTION VENTILATION IF MATERIAL IS HEATED/AGITATED.
+Protective Gloves:CHEMICAL RESISTANT GLOVES.
+Eye Protection:CHEMICAL SAFETY GOGGLES
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER.
+    INDUSTRIAL-TYPE WORK CLOTHING, APRON, AND BOOTS IF SPILLS OR
+    SPLASHING CAN OCCUR.
+Work Hygienic Practices:WASH THOROUGHLY WITH SOAP AND WATER AFTER
+    HANDLING. DO NOT WEAR CONTAMINATED CLOTHING OR FOOTWEAR.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:B.P. Text:133F,56C
+Melt/Freeze Pt:M.P/F.P Text:-138F,-94C
+Vapor Pres:182
+Vapor Density:2.0
+Spec Gravity:0.792
+Evaporation Rate & Reference:7.7 (N-BUTYL ACETATE=1)
+Solubility in Water:100 %
+Appearance and Odor:CLEAR COLORLESS LIQUID WITH A SHARP KETONE ODOR
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS (PERMANGNATE), STRONG MINERAL ACIDS, STRONG
+    ALKALIES
+Stability Condition to Avoid:HIGH HEAT, OPEN FLAMES, SPARKS AND OTHER
+    SOURCES OF IGNITION
+Hazardous Decomposition Products:CARBON MONOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT AN EXPERT ON DISPOSAL OF RECOVERED
+    MATERIAL AND ENSURE CONFORMITY TO LOCAL DISPOSAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

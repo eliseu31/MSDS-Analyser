@@ -1,0 +1,125 @@
+=====================  Product Identification  =====================
+
+Product ID:VVG-671E GRADE#1,#2
+MSDS Date:01/01/1987
+FSC:9150
+NIIN:00-190-0919
+MSDS Number: BDHVG
+=== Responsible Party ===
+Company Name:SULFLO INCORPORATED
+Address:1158 ERIE AVE
+Box:285
+City:N TONAWANDA
+State:NY
+ZIP:14120-3507
+Country:US
+Emergency Phone Num:(716)695-3585
+CAGE:KO552
+=== Contractor Identification ===
+Company Name:SULFLO INC
+Address:1158 ERIE AVE
+Box:285
+City:NORTH TONAWANDA
+State:NY
+ZIP:14120-3507
+Country:US
+Phone:716-695-3585
+CAGE:1V074
+Company Name:SULFLO INCORPORATED
+Address:1158 ERIE AVE
+Box:285
+City:N TONAWANDA
+State:NY
+ZIP:14120-3507
+Country:US
+CAGE:KO552
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CALCIUM STEARATE
+CAS:1592-23-0
+RTECS #:WI3000000
+ACGIH TLV:NOT SPECIFIED
+
+Ingred Name:MINERAL OIL (EXPOSURE REGULATED AS 'OIL MIST')
+CAS:8012-95-1
+RTECS #:PY8030000
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3/10 STEL;9192
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:PER MFR,NO ILL EFFECTS DUE TO ITS USE.MAY
+    IRRITATE EYES AND SKIN.USE PERSONAL HYGIENE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALE:REMOVE TO FRESH AIR, GIVE CPR/O*2 IF
+    NEED;EYES/SKIN:FLUSH W LG AMTS H*2O FOR 15 MIN;INGEST:RINSE MOUTH;
+    GET MEDICAL ATTENTION FOR EYES, BREATHING DIFFICULTY, OR OTHER
+    SYMPTOMS OF OVEREXPOSURE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:350F/177C (OC)
+Extinguishing Media:FOAM,DRY CHEMICAL,CO*2,SAND,FOG.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA IN FIRES AND IN
+    CONFINED AREA
+Unusual Fire/Explosion Hazard:NONE NOTED BY THE MFR.USE REASONABLE
+    CARE,COMBUSTIBLE MATERIAL.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPER PERSONAL PROTECTION.USE SUITABLE
+    ABSORBENT AND RECOVER FOR PROPER DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DRY AND WELL VENTILATED
+    AREA.KEEP CONTAINER TIGHTLY CLOSED WHEN NOT IN USE.
+Other Precautions:AVOID CONTACT WITH SKIN AND EYES.WASH AFTER EACH USE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH APPROVED RESPIRATOR FOR ORGANIC VAPORS
+    OR OIL MIST
+Ventilation:MECH(GEN)OR LOCAL EXHAUST THAT PROVIDES ADEQUATE
+    VENTILATION
+Protective Gloves:OIL RESISTANT
+Eye Protection:SAFETY/CHEM GOGGLES
+Other Protective Equipment:FULL WORK CLOTHING TO PREVENT REPEATED OR
+    PROLONGED CONTACT.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:700F/371C
+Vapor Pres:.01
+Vapor Density:0.0
+Spec Gravity:0.9
+Evaporation Rate & Reference:0.01 (BUT.ACET=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:SEMI-SOLID BUTTERY LUBRICATING GREASE-BLAND.
+Percent Volatiles by Volume:0.0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NATURAL RUBBER
+Stability Condition to Avoid:NONE NOTED BY THE MFR
+Hazardous Decomposition Products:CO IF INCOMPLETE COMBUSTION
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF COLLECTED MATERIAL IN ACCORDANCE WITH
+    LOCAL,STATE AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

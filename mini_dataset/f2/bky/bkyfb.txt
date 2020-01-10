@@ -1,0 +1,133 @@
+=====================  Product Identification  =====================
+
+Product ID:TROOPER HERBICIDE
+MSDS Date:03/01/1987
+FSC:6840
+NIIN:00F018548
+MSDS Number: BKYFB
+=== Responsible Party ===
+Company Name:MONSANTO COMPANY
+Address:800 N LINDBERGH BLVD
+City:ST LOUIS
+State:MO
+ZIP:63167
+Info Phone Num:(314) 694-4000
+Emergency Phone Num:(314) 694-4000
+CAGE:DO969
+=== Contractor Identification ===
+Company Name:MONSANTO COMPANY
+Address:800 N LINDBERGH BLVD
+Box:City:SAINT LOUIS
+State:MO
+ZIP:63167
+Country:US
+Phone:314-694-6661 OR 800-332-3111
+CAGE:76541
+Company Name:MONSANTO COMPANY
+Address:800 N. LINDBERGH BLVD
+City:ST. LOUIS
+State:MO
+ZIP:63167
+Phone:314-694-1000
+CAGE:DO969
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DICAMBA DIMETHYLAMINE SALT
+CAS:2300-66-5
+RTECS #:DG7506170
+Fraction by Wt: 48.2%
+
+Ingred Name:DICAMBA DIETHANOLAMINE SALT
+CAS:25059-78-3
+RTECS #:DG7505100
+Fraction by Wt: 12%
+
+Ingred Name:INERT INGREDIENTS (TYPE NOT SPECIFIED)
+Fraction by Wt: <39.8%
+
+Ingred Name:DIMETHYLAMINE  (SARA III)
+CAS:124-40-3
+RTECS #:IP8750000
+Fraction by Wt: 17%
+Other REC Limits:10 PPM
+OSHA PEL:5 PPM/STEL15PPM;9293
+ACGIH TLV:10 PPM
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): 2629 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION, CORROSIVE &
+    CONJUNCTIVITIS. SKIN: IRRITATION, CORROSIVE, DERMATITIS &
+    ABSORPTION. INHALATION: RESPIRATORY TRACT IRRITATION, SNEEZING,
+    DYSPNEA, COUGHING, & PULMONARY EDEMA. INGESTION:  HARMFUL.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: IRRITATION, CORROSIVE & CONJUNCTIVITIS.
+    SKIN: IRRITATION, CORROSIVE, DERMATITIS & ABSORPTION. INHALATION:
+    RESPIRATORY TRACT IRRITATION, COUGHING, SNEEZING, DYSPNEA, &
+    PULMONARY EDEMA. INGESTION:  HARMFUL.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES/SKIN: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MIN.
+    INHALATION: REMOVE TO FRESH AIR. INGESTION: INDUCE VOMITING BY
+    GIVING TWO GLASSES OF WATER & STICKING FINGER DOWN THROAT. NEVER
+    GIVE ANYTHING BY  MOUTH TO AN UNCONSCIOUS PERSON. OBTAINMEDICAL
+    ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:>200F
+Extinguishing Media:WATER SPRAY, FOAM, DRY CHEMICAL, CO2 OR ANY CLASS B
+    EXTINGUISHING AGENT
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS & FULL
+    PROTECTIVE CLOTHING. CLEAN EQUIPMENT THOROUGHLY AFTER USE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONTAIN & ABSORB W/DRY GRANULES, SAWDUST OR
+    EQUIVALENT MATERIAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN ORIGINAL CONTAINER IN A WELL
+    VENTILATED AREA SEPARATELY FROM FERTILIZER, FEED & FOODSTUFFS.
+    AVOID CROSS-CONTAMINATION W/PESTICIDES.
+Other Precautions:EMPTIED CONTAINER RETAINS VAPOR & PRODUCT RESIDUE.
+    OBSEREVE ALL LABELED SAFEGUARDS UNTIL CONTAINER IS DESTROYED. KEEP
+    OUT OF REACH OF CHILDREN. AVOID CONTACT W/SKIN/EYES/CLOTHING. AVOID
+    DIRECT APPLICA TION TO ANY BODY OF WATER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED EQUIPMENT FOR PESTICIDE
+    VAPOR/MIST IF >TLV.
+Ventilation:LOCAL MECHANICAL EXHAUST TO KEEP 1
+Spec Gravity:1.190
+Solubility in Water:MISCIBLE
+Appearance and Odor:AMBER COLORED SOLUTION W/MILD AMINE ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DON'T CONTAMINATE WATER. DON'T REUSE CONTAINER.
+    TRIPLE RINSE CONTAINER, THEN PUNCTURE & DISPOSE IS SANITARY
+    LANDFILL OR BY INCINERATION ACCORDING TO FEDERAL, STATE & LOCAL
+    REGULATIONS. REPORTABLE QUAN TITY: 1000 LBS OF DICAMBA.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,147 @@
+=====================  Product Identification  =====================
+
+Product ID:4403-1GR, 4403-3 VERSATEC CLEAR DISPERSANT
+MSDS Date:12/18/1990
+FSC:6850
+NIIN:01-318-0906
+MSDS Number: BJDLG
+=== Responsible Party ===
+Company Name:VERSATEC INC
+Address:2710 WALSH AVE.
+City:SANTA CLARA
+State:CA
+ZIP:95051-0905
+Country:US
+Info Phone Num:408-985-5810 OR 800-828-6571
+Emergency Phone Num:716-422-2177 (XEROX CORP, NY)
+CAGE:1AU05
+=== Contractor Identification ===
+Company Name:VERSATEC INC
+Box:City:SANTA CLARA
+State:CA
+Country:US
+CAGE:1AU05
+Company Name:VERSATEC INC (REPLACED BY XES INC,VERSATEC PROD.)
+Address:2710 WALSH AVE.
+Box:City:SANTA CLARA
+State:CA
+ZIP:95051-0905
+Country:US
+Phone:716-422-2177 (XEROX CORP, NY)
+CAGE:50804
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HYDROTREATED HEAVY NAPHTHA
+CAS:64742-48-9
+Fraction by Wt: 100%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:400 PPM
+ACGIH TLV:400 PPM
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 ORAL RAT >10 G/KG
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE EFFECTS:INGESTION POSES MAXIMUM
+    RISK OF SEVERE RESPIRATORY DISTRESS BY ASPIRATION, AS WELL AS
+    CENTRAL NERVOUS SYSTEM DEPRESSION. INTENTIONAL INHALATION MAY
+    RESULT IN ABNORMAL HEART RHYTHMS, RESP IRATORY ARREST, CENTRAL
+    NERVOUS SYSTEM TOXICITY. CHRONIC EFFECTS:NONE SPECIFIED BY
+    MANUFACTURER.
+Effects of Overexposure:INHALATION:ABNORMAL HEART RHYGHMS, RESPIRATORY
+    ARREST, CENTRAL NERVOUS SYSTEM TOXICITY. INGESTION:MAXIMUM RISK OF
+    SEVERE RESPIRATORY DISTRESS BY ASPIRATION, AS WELL AS CENTRAL
+    NERVOUS SYSTEM DEPRESSIO N.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:FIRST AID-EYES CONTACT: FLUSH WITH PLENTY OF WATER. SKIN
+    CONTACT: REMOVE CONTAMINATED CLOTHING AND SHOES. WASH WITH SOAP AND
+    WATER. INHALATION: REMOVE VICTIM TO FRESH AIR.GIVE OXYGEN/CPR IF
+    NEEDED. IN GESTION: GIVE SEVERAL GLASSES OF WATER.DO NOT INDUCE
+    VOMIT.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:105F,41C
+Lower Limits:0.8
+Upper Limits:7.0
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE IGNITION SOURCES. VENTILATE AREA.
+    USE NON-SPARKING TOOLS. WEAR PROPER PROTECTIVE EQUIPMENT. STOP
+    LEAK.ABSORB IN INERT ABSORBENT AND PLACE INTO APPROPIATE DISPOSAL
+    CONTAINER AND SEAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DRY,WELL VENTILATED
+    PLACE,AWAY FROM HEAT,IGNITION SOURCES AND INCOMPATIBLE
+    MATERIALS.KEEP CONTAINERS CLOSED WHEN NOT IN USE.
+Other Precautions:DO NOT MIX OR STORE WITH STRONG OXIDANTS LIKE LIQUID
+    CHLORINE OR CONCENTRATED OXYGEN. AVOID BREATHING VAPORS, AND EYE
+    AND SKIN CONTACT. USE ONLY WITH ADEQUATE VENTILATION. DO NOT TAKE
+    INTERNALLY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED WHEN USED AS INTENDED.
+Ventilation:SUFFICIENT MECHANICAL (GENERAL) AND/OR LOCAL EXHAUST
+    VENTILATION TO MAINTAIN EXPOSURE BELOW TLV.
+Protective Gloves:NONE REQUIRED WHEN USED AS INTENDED.
+Eye Protection:SPLASH GOGGLES OR FACESHIELD.
+Other Protective Equipment:FULL WORK CLOTHING TO PREVENT REPEATED OR
+    PROLONGED SKIN CONTACT. EYE WASH STATION AND SAFETY SHOWER.
+Work Hygienic Practices:AVOID CONTACT WITH EYES & SKIN.DO NOT BREATHE
+    VAPORS.WASH THOROUGHLY AFTER HANDLING.LAUNDER CONTAMINATED
+    CLOTHING.
+Supplemental Safety and Health
+THESE PRECAUTIONS ARE FOR ROOM TEMPERATURE HANDLING. USE AT ELEVATED
+    TEMPERATURES MAY REQUIRE ADDED PRECAUTIONS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:320F,160C
+Vapor Pres:<10
+Vapor Density:5.0
+Spec Gravity:0.75
+Evaporation Rate & Reference:0.3 (BUTYL ACETATE = 1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:WATER-WHITE LIQUID. MILD ODOR.
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDANTS LIKE CHLORINE, CONCENTRATED OXYGEN, SODIUM OR CALCIUM
+    HYPOCHLORITE.
+Stability Condition to Avoid:HIGH TEMPERATURES, SPARKS, AND OPEN FLAMES
+Hazardous Decomposition Products:FUMES, SMOKE AND CARBON MONOXIDE IN
+    THE CASE OF INCOMPLETE COMBUSTION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH ALL APPLICABLE
+    FEDERAL, STATE AND LOCAL ENVIRONMENTAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

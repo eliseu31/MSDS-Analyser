@@ -1,0 +1,96 @@
+=====================  Product Identification  =====================
+
+Product ID:SOOT REMOVER
+MSDS Date:01/01/1987
+FSC:6850
+NIIN:00F018499
+MSDS Number: BKYBS
+=== Responsible Party ===
+Company Name:SOS PRODUCTS CO INC
+Address:4TH & RAILROAD STREETS
+City:EAST GREENVILLE
+State:PA
+ZIP:18041
+Info Phone Num:(215) 679-6262
+Emergency Phone Num:(215) 679-6262
+CAGE:6K523
+=== Contractor Identification ===
+Company Name:SOS PRODUCTS CO INC
+Address:4TH AND RAILROAD ST
+City:EAST GREENVILLE
+State:PA
+ZIP:18041
+Country:US
+Phone:215-679-6262; 215-679-6263
+CAGE:6K523
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM CHLORIDE
+CAS:7647-14-5
+RTECS #:VZ4725000
+Fraction by Wt: 80%
+
+Ingred Name:PARTICULATED WOOD
+Fraction by Wt: 10%
+
+Ingred Name:COPPER  (SARA III)
+CAS:7440-50-8
+RTECS #:GL5325000
+Fraction by Wt: 10%
+Other REC Limits:1 MG(CU)/M3 (DUST)
+OSHA PEL:0.1MG/M3 FUME/1 DUST
+ACGIH TLV:0.2MG/M3 FUME; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INGESTION: IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INGESTION: IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION: OBTAIN MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:COMPLY W/LOCAL ORDINANCES.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM HEAT & FLAME. DON'T
+    INGEST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Solubility in Water:SLIGHT
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:HEAT & FLAME
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:COMPLY W/LOCAL ORDINANCES.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

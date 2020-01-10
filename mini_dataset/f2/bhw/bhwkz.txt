@@ -1,0 +1,173 @@
+=====================  Product Identification  =====================
+
+Product ID:CAREFREE RECHARGEABLE BATTERY
+MSDS Date:03/21/1991
+FSC:6140
+NIIN:01-090-6667
+MSDS Number: BHWKZ
+=== Responsible Party ===
+Company Name:EAGLE-PINCHER INDUSTRIES
+Address:BETHEL RD
+Box:130
+City:SENECA
+State:MO
+ZIP:64865
+Country:US
+Info Phone Num:417-776-2256
+Emergency Phone Num:417-776-2256
+CAGE:81855
+=== Contractor Identification ===
+Company Name:EAGLE-PICHER INDUSTRIES, INC.
+Address:C AND PORTER STS
+Box:47
+City:JOPLIN
+State:MO
+ZIP:64801
+Country:US
+Phone:417-623-8000
+CAGE:81855
+Company Name:EAGLE-PICHER INDUSTRIES,INC ELECTRONICS DIV
+Address:BETHEL RD
+Box:130
+City:SENECA
+State:MO
+ZIP:64865-0130
+Country:US
+Phone:417-776-2256
+CAGE:3L498
+Company Name:HILLCREST ENTERPRISES INC
+Address:124 HOPSON RD UNITE 15
+Box:6008
+City:ASHLAND
+State:VA
+ZIP:23005
+Country:US
+Phone:804-798-8390
+CAGE:60463
+Company Name:MULE EMERGENCY LIGHTING INC
+Address:325 VALLEY ST
+Box:City:PROVIDENCE
+State:RI
+ZIP:02908
+Country:US
+Phone:401-521-6853
+CAGE:26947
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LEAD  (SARA III)
+CAS:7439-92-1
+RTECS #:OF7525000
+Fraction by Wt: 50%.O%
+OSHA PEL:0.05 MG/M3;1910.1025
+ACGIH TLV:0.15 MG/M3;DUST 9293
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:SULFURIC ACID  (SARA III)
+CAS:7664-93-9
+RTECS #:WS5600000
+Fraction by Wt: 18.0%
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:LEAD  (SARA III)
+CAS:7439-92-1
+RTECS #:OF7525000
+Fraction by Wt: 25%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:0.05 MG/M3;1910.1025
+ACGIH TLV:0.15 MG/M3;DUST 9293
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SEVERE BURNS AND EYE DAMAGE FROM
+    SULFURIC ACID ELECTROLYTE. ILLNESS FROM SULFUR OXIDE FUMES.
+    CONTAINS LEAD WHICH IS KNOWN TO CAUSE BIRTH DEFECTS OR OTHER
+    REPRODUCTIVE HARM.
+Explanation of Carcinogenicity:THIS COMPOUND CONTAINS NO INGREDIENTS AT
+    CONCENTRATIONS OF 0.1% OR GREATER THAT ARE CARCINOGENS OR SUSPECT
+    CARCINOGENS.
+Effects of Overexposure:IRRITATION AND ACID BURNS. PUNGENT ODOR AND
+    RESPIRATORY IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH IMMEDIATELY WITH PLENTY OF WATER FOR 15 MINUTES
+    WHILE LIFTING EYELIDS. GET MEDICAL ATTENTION. SKIN: REMOVE
+    CONTAMINATED CLOTHING. WASH SKIN WITH SOAP AND WATER. INHALATION:
+    REMOVE TO FRESH  AIR. IF SYMPTOMS PERSISTS, GET MEDICAL ATTENTION.
+    INGESTION: DO NOT INDUCE VOMITING. GIVE WATER OR MILK TO DRINK ONLY
+    IF CONSCIOUS. IF VOMITING OCCURS, KEEP HEAD BELOW HIPS. GET MEDICAL
+    ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE WATER, FOAM, OR DRY CHEMICAL.
+Fire Fighting Procedures:NONE SPECIFIED BY MANUFACTURER.
+Unusual Fire/Explosion Hazard:KEEP SPARKS AND FLAMES AWAY. EXPLOSION
+    CAN RESULT FROM IMPROPER CHARGING AND IGNITION OF CHARGING GASES.
+    EXPLOSION CAN RESULT IF CHARGED IN ENCLOSED AREA.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:AVOID CONTACT WITH SULFURIC ACID ELECTROLYTE
+    FROM BATTERY. FLUSH WITH WATER. NEUTRALIZE WITH SOLUTION OF BAKING
+    SODA IN WATER.
+Neutralizing Agent:BAKING SODA
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:BATTERIES WITH RELEASED ELECTROLYTE
+    SHALL BE SEALED IN POLYETHYLENE BAGS. KEEP BATTERIES AWAY FROM
+    CHILDREN.
+Other Precautions:DO NOT CRACK BATTERY CASE. DO NOT OVERCHARGE. DO NOT
+    SHORT CIRCUIT BATTERY TERMINAL. KEEP LIGHTED CIGARETTES, SPARKS,
+    AND FLAMES AWAY FROM CHARGING BATTERIES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:NATURAL CONVECTION.
+Protective Gloves:RUBBER GLOVES IF CASE IS CRACKED
+Eye Protection:SAFETY GLASSES/CHEMICAL SPLASH GOGGLES
+Other Protective Equipment:RUBBER APRON IF ELECTROLYTE IS RELEASED.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING AND BEFORE
+    EATING, DRINKING OR SMOKING. LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:Z4
+Appearance and Odor:CAREFREE RECHARGEABLE BATTERY
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+SOLVENTS MAY DISSOLVE BATTERY CASE MATERIAL.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:SEVERE OVERCHARGING AND OVERHEATING
+    MAY CAUSE OXIDE FUMES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:UNLAWFUL TO DISPOSE IN LANDFILL. DO NOT
+    INCINERATE, PUNCTURE, DISSAMBLE OR MUTILATE. DISPOSE WITH
+    AUTOMOTIVE BATTERY SCRAP IN ACCORDANCE WITH LOCAL, STATE AND
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

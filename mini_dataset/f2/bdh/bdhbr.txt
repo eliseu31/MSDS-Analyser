@@ -1,0 +1,88 @@
+=====================  Product Identification  =====================
+
+Product ID:MIL-L-2104,LUBRICATING OIL,INTNRL,ENG GR 30
+MSDS Date:01/01/1985
+FSC:9150
+NIIN:00-186-6681
+MSDS Number: BDHBR
+=== Responsible Party ===
+Company Name:GOLDEN BEAR DIV WITCO MFG CO
+Emergency Phone Num:805-393-7110
+CAGE:KO503
+=== Contractor Identification ===
+Company Name:GOLDEN BEAR DIV WITCO MFG CO
+Box:5446
+CAGE:KO503
+Company Name:WITCO CORP GOLDEN BEAR DIVISION
+Address:10100 SANTA MONICA BLVD SUITE 1470
+City:LOS ANGELES
+State:CA
+ZIP:90067
+Country:US
+Phone:805-393-7110
+CAGE:07750
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PETROLEUM HYDROCARBON
+Fraction by Wt: 100%
+ACGIH TLV:UNK
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:DERMATITIS IN SENSITIVE INDIVIDUALS AFTER
+    EXTENDED EXPOSURE
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH WITH PLENTY OF WATER, CALL PHYSICIAN. SKIN:WASH
+    WITH SOAP & WATER. INGESTION:CALL PHYSICIAN
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:425F (COC)
+Extinguishing Media:DRY CHEMICAL, CARBON DIOXIDE, WATERSPRAY
+Fire Fighting Procedures:STANDARD PETROLEUM PROCEDURES
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE WITH ABSORBENT MATERIAL SUCH AS SAND,
+    CLAY ETC REMOVE FROM WATER BY SKIMMING
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CLEAN DRY
+
+=============  Exposure Controls/Personal Protection  =============
+
+Protective Gloves:OIL RESISTANT
+Eye Protection:SAFETY GLASSES
+Supplemental Safety and Health
+GRADE 30 OF MIL-L-2104
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Spec Gravity:0.9159
+Solubility in Water:INSOLUBLE
+Appearance and Odor:OILY LIQUID, NO OBJECTIONABLE ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING MATERIAL
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ABSORPTION, CONTROLLED BURNING. OBSERVE LOCAL,
+    STATE, & FEDERAL REGULATIONS
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

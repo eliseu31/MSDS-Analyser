@@ -1,0 +1,193 @@
+=====================  Product Identification  =====================
+
+Product ID:XE 9862 A SAND TYPE II
+MSDS Date:10/11/1989
+FSC:8010
+NIIN:01-131-6259
+Kit Part:Y
+MSDS Number: BHWTS
+=== Responsible Party ===
+Company Name:NILES CHEMICAL PAINT COMPANY
+Address:225 FORT STREET
+Box:307
+City:NILES
+State:MI
+ZIP:49120
+Country:US
+Info Phone Num:616-683-3377 (INFORMATION)
+Emergency Phone Num:219-236-5856 (24 HOURS)
+Preparer's Name:MIKE LICHATOWICH
+CAGE:02388
+=== Contractor Identification ===
+Company Name:NILES CHEMICAL PAINT
+Address:225 FORT STREET
+Box:307
+City:NILES
+State:MI
+ZIP:49120
+Country:US
+Phone:616-683-3377/219-236-5856
+CAGE:02388
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:P M ACETATE (VAPOR PRESSURE 3.7 MM HG @20C)
+CAS:108-65-6
+RTECS #:AI8925000
+Fraction by Wt: 16%
+
+Ingred Name:PHENOLIC RESIN
+Fraction by Wt: 14%
+
+Ingred Name:N-BUTYL ACETATE  (SARA III)
+CAS:123-86-4
+RTECS #:AF7350000
+Fraction by Wt: 11%
+OSHA PEL:150 PPM/200 STEL
+ACGIH TLV:150 PPM/200STEL;9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: 8%
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:GREEN PIGMENT (AS CR)
+CAS:1308-38-9
+RTECS #:GB6475000
+Fraction by Wt: 3%
+OSHA PEL:1.0 MG/M3
+ACGIH TLV:.05 MG/M3
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS)	(SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 3%
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:VOC. ORGANIC CMPD 4.46 LB/GAL LESS WATER & NPRS* (NK) G/L  
+    LESS WATER VOC. (NK) LB/GAL SOLIDS (NK) G/L SOLIDS CALCU
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:HISTOLOGIC FIBROSIS OF LUNGS,
+    INCOHERENCE, CORNEAL VACUOLIZATION, ANOREXIA. TAR-GET ORGANS: CNS,
+    LUNGS, EYES, SKIN, RESPIRATORY SYSTEM, GI TRACT, BLOOD, LIVER,
+    KIDNEYS.ALSO SEE BELOW
+Explanation of Carcinogenicity:NOT LISTED
+Effects of Overexposure:EYE:SEVERE
+    IRRITATION,LACRIMATION,REDNESS,BLURRED
+    VISION.SKIN:REDNESS,IRRITATIONDEFATTING LEADING TO
+    DERMATITIS.BREATH:NASAL/RESPIRATORY IRRITATION,CNS
+    DEPRESS,(DIZZY,DROWSY,WEAK,FATIGUE,CONFUSION) NA
+    USEA,HEADACHE,VERTIGO,POSS UNCONSCIOUS,POSS ASPHYXIATION.SWALLOW:GI
+    IRRITATION,ABDOMINAL PAIN,NAUSEA,VOMITING,DIARRHEA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: REMOVE TO FRESH AIR AT ONCE. IF BREATH STOPPED, CPR,
+    GET MED ATTN IMMD.	SKIN: IMMED FLUSH W/PLENTY OF WTR. REMOVE
+    CONTAM CLOTHES & FLUSH SKIN W/WTR. GETMED ATTN. LAUNDER CLOTHES &
+    SHOES BEFORE  REUSE. EYE: IMMED FLUSH LG AMTS OF WTR15 MIN, LIFTING
+    LIDS. GET MED ATTN IMMED.CONTACT LENS SHOULD NOT BE
+    WORN.INGEST:DRINK 1/2 GLASSES WATER. DO NOT INDUCE VOMIT. GET MED
+    ATTN/POISON CC IMMEDIATELY
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:20 F/-6 C
+Lower Limits:1.0
+Upper Limits:10
+Extinguishing Media:DRY CHEMICAL, FOAM, CO2
+Fire Fighting Procedures:SELF CONTAINED BREATHING APPARATUS W/FULL
+    FACEPIECE OPERATED POSITIVE PRESSURE  & FULL PROT CLOTHES. WTR TO
+    COOL CLOSED CONTAIN PREVENT PRESSURE BUILDUP/EXPLOS
+Unusual Fire/Explosion Hazard:KEEP CONT TIGHTLY CLOSED. VAPORS HEAVIER
+    THAN AIR,MAY TRAVEL ALONG GROUND TO IG-NITE SOURCE. ISOLATE FROM
+    HEAT, ETC. OVEREXP TO DECOMP MAY CAUSE HEALTH HAZARDS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIM ALL IGNITION SOURCES. MIN BREATHING OF
+    VAPORSAVOID SKIN CONTACT. ABSORB W/INERT MATERIAL; CLAY,SOIL, OR
+    COMMERCIALLY AVAIL ABSORBENT. SHOVEL RECLAIMED LIQ/ABSORBENT INTO
+    RECOVERY OR SALVAGE DRUMS FOR DISPOSAL. LG: DIKE, RECLAIM IN
+    DRUM,TANK,TRUCK
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID STORAGE IN HIGH TEMP AREAS OR
+    NEAR FIRE OR  OPEN FLAME. KEEP CONTAINERS CLOSED WHEN NOT IN
+    USEAVOID ROUGH HANDLING.
+Other Precautions:CONTAINERS OF THIS MATERIAL MAY BE HAZARDOUS WHEN
+    EMPTY. DO NOT WELD OR FLAME ORCUT ON EMPTY DRUMS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:APPROPRIATE PROPERLY FITTED RESPIRATOR
+    (NIOSH/MSHA) DURING & AFTER APPLICATION  UNLESS AIR MONITOR DEMO
+    VAPOR/MIST LEVELS ARE BELOW APPLICABLE LIMITS. FOLLOW   RESPIRATOR
+    MANUFACTURER'S DIRECTIONS FOR  USE
+Ventilation:SUFFICIENT VENT IN VOL/PATTERN TO KEEP AIR CONCERN BELOW
+    CURRENT APPL OSHA PERMISSIBLE LIMIT. REMOVE DECOMP PRODUCTS
+Protective Gloves:CHEMICAL RESISTANT GLOVES
+Eye Protection:CHEM GOGGLES/SAFETY GLASSES/FACE SHIELD
+Other Protective Equipment:WEAR CHEMICAL RESISTANT CLOTHING AS NEEDED
+    TO PREVENT SKIN  CONTACT. REMOVE CLOTHES THAT BECOME WET (FLAMMABLE
+    HAZARD)
+Work Hygienic Practices:WASH HANDS BEFORE EATING, SMOKING, OR USING
+    RESTROOM. WASH  PROMPTLY WHEN SKIN BECOMES CONTAMINATED.
+Supplemental Safety and Health
+CLOSED CONTAINERS MAY EXPLODE WHEN EXPOSED TO EXTREME HEAT. APPLICATION
+    TO HOT  SURFACES REQUIRES SPECIAL PRECAUTIONS. DURING EMERGENCY
+    CONDITIONS, OVEREXP TO  DECOMP PRODUCTS MAY CAUSE A HEALTH HAZAR D.
+    SYMPTOMS MAY NOT BE IMMEDIATELTY APPARENT OBTAIN MEDICAL ATTENTION.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:B.P. Text:175-302 F
+Decomp Temp:Decomp Text:NE
+Vapor Density:> AIR
+Viscosity:75-85 KU
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:SLIGHT
+Appearance and Odor:LIQUID, ODOR OF SOLVENTS
+Percent Volatiles by Volume:59.64
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS, NITRATES, ALKALIES, ACIDS.
+Stability Condition to Avoid:UNDER REASONABLE CONDITIONS OF STORAGE AND
+    USE
+Hazardous Decomposition Products:CAN PRODUCE CARBON MONOXIDE AND/OR
+    CARBON DIOXIDE
+Conditions to Avoid Polymerization:HIGH TEMPERATURES, SHOCK FROM
+    DROPPING
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH APPLICABLE LOCAL, 
+     STATE AND FEDERAL REGULATIONS
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

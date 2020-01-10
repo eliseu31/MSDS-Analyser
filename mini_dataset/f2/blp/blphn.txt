@@ -1,0 +1,121 @@
+=====================  Product Identification  =====================
+
+Product ID:EP-L CARTRIDGE HP, 92275A
+MSDS Date:10/18/1989
+FSC:6850
+NIIN:01-321-0640
+MSDS Number: BLPHN
+=== Responsible Party ===
+Company Name:CANON INC
+Address:30-2 SHIMOMARUKO 3-CHROME;PO BOX:OHTA-KU
+City:TOKYO, JAPAN
+Info Phone Num:03-758-2111
+Emergency Phone Num:03-758-2111
+CAGE:S4546
+=== Contractor Identification ===
+Company Name:CANON INC
+Address:11 28 MITA 3 CHOME MINATO KU
+Box:City:TOKYO
+Country:JA
+Phone:03-758-2111
+CAGE:S4546
+Company Name:HEWLETT PACKARD CO
+Country:US
+Phone:208-323-2987
+CAGE:54546
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:STYRENE ACRYLATE COPOLYMER
+Fraction by Wt: 55-65%
+
+Ingred Name:IRON OXIDE
+CAS:1317-61-9
+Fraction by Wt: 30-40%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHAL:TONER IS FINELY DIVIDED SOLID.
+    DO NOT BREATHE THE DUST. EYE:NO SPECIFIC HAZARD IS KNOWN. HOWEVER,
+    ANY MATERIAL THAT CONTACTS THE EYE MAY BE IRRITATING. SKIN:LOW
+    HAZARD FOR INDUSTRIAL HANDLING. C HRONIC:NO DATA AVAILABLE.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH WITH PLENTY OF WATER FOR AT LEAST 15 MINUTES.
+    SKIN:FLUSH WITH COPIOUS AMOUNTS OF WATER. CALL MD . INHAL:REMOVE TO
+    FRESH AIR. SUPPORT BREATHING (GIVE O*2/ARTF RESP) . INGEST:CALL  MD
+    IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:CO*2, WATER, DRY CHEMICALS.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:THIS MATERIAL, LIKE MOST ORGANIC MATERIAL
+    IN POWDER FORM IS CAPABLE OF CREATING A DUST EXPLOSION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NO TONER SPILLAGE OCCURS IN NORMAL OPERATION
+    OR HANDLING. IF IT SHOULD OCCUR, AVOID INHALATION OF THE DUST.
+    SWEEP MATERIAL ONTO PAPER OR COLLECT IT.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM CONTACT WITH OXIDIZING
+    AGENTS.
+Other Precautions:KEEP OUT OF REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED. NIOSH/MSHA APPROVED RESPIRATOR
+    APPROPRIATE FOR EXPOSURE OF CONCERN .
+Ventilation:GOOD GENERAL VENTILATION SHOULD BE SUFFICIENT.
+Protective Gloves:NONE REQUIRED.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE REQUIRED.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:M.P/F.P Text:212F,100C
+Vapor Pres:NEGLIGIBLE
+Spec Gravity:1.4-1.8
+Evaporation Rate & Reference:NEGLIGIBLE (BU AC=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:TONER IS FINE POWDER, WITH SLIGHT PLASTIC ODOR
+Percent Volatiles by Volume:NEG
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:COMBUSTION WILL PRODUCE CO*2 &,
+    POSSIBLE TOXIC CHEMICAL SUCH AS CO.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:THE WASTE TONER COULD BE CONSIDERED AS A PLASTIC
+    WASTE. FOR INCINERATION, PACKAGE IT ADEQUATELY. DO NOT DISPERSE THE
+    TONER INTO FIRE. DISPOSAL SHOULD BE SUBJECT TO FEDERAL, STATE OR
+    LOCAL LAWS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

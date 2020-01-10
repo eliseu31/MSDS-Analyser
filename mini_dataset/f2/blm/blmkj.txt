@@ -1,0 +1,160 @@
+=====================  Product Identification  =====================
+
+Product ID:THALLIUM (I) NITRATE, 11824
+MSDS Date:11/13/1989
+FSC:6810
+NIIN:00N021383
+MSDS Number: BLMKJ
+=== Responsible Party ===
+Company Name:JOHNSON MATTHEY CATALOG CHEMICALS
+Address:152 ANDOVER ST
+City:DANVERS
+State:MA
+ZIP:01923
+Country:US
+Info Phone Num:508-777-1970
+Emergency Phone Num:508-777-1970
+CAGE:0JVJ1
+=== Contractor Identification ===
+Company Name:JOHNSON MATTHEY CATALOG CO INC ALFA AESAR
+Address:30 BOND ST
+Box:City:WARD HILL
+State:MA
+ZIP:01835-0747
+Country:US
+Phone:978-521-6300
+CAGE:0JVJ1
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:THALLIUM(I) NITRATE  (SARA III)
+CAS:10102-45-1
+RTECS #:XG5950000
+Fraction by Wt: 100%
+OSHA PEL:0.1 MG TL/M3;SKIN
+ACGIH TLV:0.1 MG TL/M3; 9192
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:SUPP DATA: BIRTH WEIGHT & PREMATURE BIRTH. (CHRONIC)
+    INGEST: CHRONIC THALLIUM POISONING MAY PRODUCE ALOPECIA, (ING 3)
+RTECS #:9999999ZZ
+
+Ingred Name:ING 2: SALIVATION & BLUE LINE ON THE GUMS. DISTURBANCES OF
+    THE GI & ENDROCRINE SYSTEM & KIDNEYS MAY ALSO OCCUR. (ING 4)
+RTECS #:9999999ZZ
+
+Ingred Name:ING 3: SM RPTD DOSES OF INORGANIC NITRATES MAY LEAD TO
+    WEAKNESS, GENERAL DEPRESSION, HDCH & MENTAL IMPAIRMENT. (ING 5)
+RTECS #:9999999ZZ
+
+Ingred Name:ING 4: THERE IS SOME IMPLICATION OF INCREASED CANCER
+    INCIDENCE AMONG THOSE EXPOSED. SKIN: NONE KNOWN. EYE: NONE (ING 6)
+RTECS #:9999999ZZ
+
+Ingred Name:ING 5: KNOWN. INHAL: MAY CAUSE SYMPTOMS OF THALLIUM
+    POISONING SIMILAR TO THOSE OF CHRONIC INGEST.
+RTECS #:9999999ZZ
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50:(ORAL,MOUSE) 33 MG/KG
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:(ACUTE)INGEST: MAIN SYMP OF THALLIUM
+    POISONING ARE PERIPHERAL NEUROPATHY & LOSS OF HAIR. ACUTE POISONING
+    MAY CAUSE PARESTHESIOS, ATAXIA, ALPOECIA, FEVER, CORYZA, ABDOMINAL
+    PAIN, NAUSEA & VOMIT. MAY PR OGRESS TO LETHARGY, SPEECH DISORDERS,
+    TREMORS, CONVULSIONS, CYANOSIS, PULM EDEMA, BRONCHIOPNEUMONIA(SEE
+    EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:HLTH HAZ: & DEATH. KIDNEY, LIVER & BRAIN DMG
+    HAS OCCURED. LRG AMTS OF INORGANIC NITRATES TAKEN BY MOUTH MAY HAVE
+    SERIOUS/EVEN FATAL EFTS. THE SYMP ARE DIZZ, ABDOM CRAMPS, VOMIT,
+    BLOODY DIARR, WEAKNESS , CONVULS & COLLAPSE. SKIN: MAY CAUSE IRRIT.
+    EYE: MAY CAUSE IRRIT. INHAL: MAY CAUSE SYMP OF THALLIUM (SEE SUPP
+    DATA)
+Medical Cond Aggravated by Exposure:NONE KNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: REMOVE CONTAMINATED CLOTHING, FLOOD SKIN WITH LARGE
+    AMOUNTS OF WATER. IF IRRITATION PERSISTS SEEK MD. EYE: IMMEDIATELY
+    FLUSH EYES, INCLUDING UNDER LIDS WITH LARGE AMOUNTS OF WATER FOR AT
+    LEAST 1 5 MINUTES. CALL MD. INHAL: NO SPECIFIC INFORMATION
+    AVAILABLE, ONE SHOULD OBTAIN MEDICAL ATTENTION. INGEST: CALL MD
+    IMMEDIATELY .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NOT COMBUSTIBLE
+Extinguishing Media:NOT COMBUST, BUT SUBSTANCE IS A STRONG OXIDIZER &
+    ITS HEAT OF RXN W/REDUCING AGENTS/COMBUST MAY CAUSE IGNIT. (SUPP
+    DATA)
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL PROT
+    EQUIP . IF WITHOUT RISK, REMOVE MATERIALS FROM FIRE AREA. COOL
+    CONTAINER WITH WATER FROM MAXIMUM DISTANCE.
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEARING FULL PROTECTIVE EQUIPMENT, COVER SPILL
+    WITH DRY SAND OR VERMICULITE. MIX WELL AND CAREFULLY TRANSFER TO A
+    CONTAINER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER TIGHTLY CLOSED. STORE
+    IN A COOL, DRY, WELL-VENTILATED AREA.
+Other Precautions:DANGER: OXIDIZER, POISON, CAUSES GI DAMAGE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED HIGH EFFICIENTY PARTICLE
+    RESPIRATOR.
+Ventilation:LABORATORY FUME HOOD.
+Protective Gloves:RUBBER.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:LAB COAT & APRON, FLAME & CHEM RESIST
+    COVERALLS, EYEWASH CAPABLE OF SUSTAINED FLUSHING, SAFETY DRENCH
+    SHOWER (SUPP DATA)
+Work Hygienic Practices:WASH THOROUGHLY AFTER USE.
+Supplemental Safety and Health
+EXT MEDIA: IF INVOLVED IN A FIRE, USE WATER, CO2, DRY CHEMICAL
+    EXTINGUISHING AGENTS, DRY SAND, OR DRY GROUND DOLOMITE. EFTS OF
+    OVEREXP: POISONING SIMILAR TO THOSE OF ACUTE INGEST. OTHER HAZARDS:
+    THALL IUM INTOXICATION DURING THE FIRST TRIMESTER OF PREGNANCY CAN
+    CAUSE SKELETAL DEFORMATIES, ALOPECIA, LOW (SEE ING 2)
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T4
+Boiling Pt:B.P. Text:806F,430C
+Melt/Freeze Pt:M.P/F.P Text:403F,206C
+Spec Gravity:5.55
+Solubility in Water:10%
+Appearance and Odor:WHITE CRYSTALLINE SOLID, ODORLESS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ORGANIC MATTER, EASILY OXIDIZED MATERIAL, REDUCING AGENTS.
+Stability Condition to Avoid:INCOMPATIBLES.
+Hazardous Decomposition Products:THALLIUM OXIDE, NITROGEN OXIDES.
+Conditions to Avoid Polymerization:CONTACT WITH OXIDIZABLE SUBSTANCES
+    MAY CAUSE EXTREMELY VIOLENT COMBUSTION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT STATE, LOCAL OR FEDERAL EPA REGULATIONS
+    FOR PROPER DISPOSAL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

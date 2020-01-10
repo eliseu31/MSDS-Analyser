@@ -1,0 +1,149 @@
+=====================  Product Identification  =====================
+
+Product ID:AMS5798 HASTELLOY X
+MSDS Date:01/06/1987
+FSC:3439
+NIIN:00-487-0963
+MSDS Number: BKYLL
+=== Responsible Party ===
+Company Name:UNITED STATES WELDING CORPORATION
+Address:20700 DEARBORN STREET
+City:CHATSWORTH
+State:CA
+ZIP:91311
+Info Phone Num:(818) 341-2021
+Emergency Phone Num:(818) 341-2021
+Preparer's Name:JORGE JACOBS
+CAGE:58401
+=== Contractor Identification ===
+Company Name:UNITED STATES WELDING CORP
+Address:3579 HWY 50 E SUITE 104
+Box:City:CARSON CITY
+State:NV
+ZIP:89701-2807
+Country:US
+Phone:775-883-7878
+CAGE:58401
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NICKEL  (SARA III)
+CAS:7440-02-0
+RTECS #:QR5950000
+Other REC Limits:1 MG/CUM
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+
+Ingred Name:CHROMIUM  (SARA III)
+CAS:7440-47-3
+RTECS #:GB4200000
+Fraction by Wt: 22%
+OSHA PEL:1 MG/M3
+ACGIH TLV:0.5 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:COBALT  (SARA III)
+CAS:7440-48-4
+RTECS #:GF8750000
+Fraction by Wt: 1.5%
+Other REC Limits:0.05 PPM
+OSHA PEL:0.1 MG/M3;AS CO
+ACGIH TLV:0.05 MG/M3;DUST 9293
+
+Ingred Name:MOLYBDENUM
+CAS:7439-98-7
+RTECS #:QA4680000
+Fraction by Wt: 9%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3; 9293
+
+Ingred Name:TUNGSTEN
+CAS:7440-33-7
+RTECS #:YO7175000
+Fraction by Wt: 0.6%
+OSHA PEL:5 MG/M3/ 10 STEL
+ACGIH TLV:5 MG/M3/10 STEL;9192
+
+Ingred Name:IRON
+CAS:7439-89-6
+RTECS #:NO4565500
+Fraction by Wt: 18.5%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:YES
+Health Hazards Acute and Chronic:INHALATION: DISCOMFORT, DIZZINESS,
+    NAUSEA, DRYNESS OR IRRITATION OF NOSE/THROAT, WATERY EYES,
+    HEADACHE, BREATHING DIFFICULTY, COUGHING, CHEST PAINS, PULMONARY
+    EDEMA, ASPHYXIATION, NEUROLOGICAL DAMAGE,  LUNG FIBROSIS,
+    PNEUMOCONIOSIS, OTHER LUNG DISEASES, & FATAL. SKIN: IRRITATION.
+Explanation of Carcinogenicity:NICKEL IS SUSPECTED TO BE A HUMAN
+    CARCINOGEN BY ACGIH.
+Effects of Overexposure:INHALATION: DISCOMFORT, DIZZINESS, NAUSEA,
+    DRYNESS OR IRRITATION OF NOSE/THROAT, WATERY EYES, HEADACHE,
+    BREATHING DIFFICULTY, COUGHING, CHEST PAINS, PULMONARY EDEMA,
+    ASPHYXIATION, NEUROLOGICAL DAMAGE,	LUNG FIBROSIS, PNEUMOCONIOSIS,
+    OTHER LUNG DISEASES, & FATAL. SKIN: IRRITATION.
+Medical Cond Aggravated by Exposure:IMPAIRED PULMONARY FUNCTION, AIRWAY
+    DISEASES SUCH AS ASTHMA, EMPHYSEMA, & CHRONIC BRONCHITIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER. SKIN: WASH W/SOAP OR MILD
+    DETERGENT FOR 5 MINS. INHALATION: REMOVE TO FRESH AIR. GIVE CPR OR
+    OXYGEN IF NEEDED. INGESTION: OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:DRY CHEMICAL
+Fire Fighting Procedures:SOLID FORM IS NOT COMBUSTIBLE UNDER NORMAL
+    CONDITIONS, USE FIRE FIGHTING METHODS THAT ARE APPROPRIATE FOR THE
+    SURROUNDING FIRE.
+Unusual Fire/Explosion Hazard:MOLTEN METAL ALLOYS MAY EXPLODE WHEN ON
+    CONTACT W/WATER, THEY MAY ALSO REACT VIOLENTLY W/WATER, RUST, &
+    CERTAIN METAL OXIDES (OXIDES OF COPPER, IRON & LEAD).
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:IN SOLID FORM THIS MATERIAL POSES NO SPECIAL
+    CLEAN-UP PROBLEMS. PRIOR TO DISPOSAL CONSIDER IF MATERIAL HAS
+    RECOVERY VALUE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH APPROVED RESPIRATOR.
+Ventilation:PROVIDE LOCAL EXHAUST VENTILATION TO KEEP <TLV.
+Protective Gloves:FLAMEPROOF, WELDING
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:WELDING HELMET, APRON
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Solubility in Water:INSOLUBLE
+Appearance and Odor:ODORLESS FILLER METAL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+WATER, RUST, & CERTAIN METAL OXIDES SUCH AS OXIDES OF COPPER, IRON &
+    LEAD W/MOLTEN METAL ALLOYS.
+Hazardous Decomposition Products:METAL FUMES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. PREVENT WASTES FROM CONTAMINATING SURROUNDING
+    ENVIRONMENT.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

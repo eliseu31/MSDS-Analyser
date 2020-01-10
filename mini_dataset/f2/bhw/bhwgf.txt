@@ -1,0 +1,162 @@
+=====================  Product Identification  =====================
+
+Product ID:BOND-TITE 1283-2,ADHESIVE
+MSDS Date:08/15/1986
+FSC:8040
+NIIN:01-138-4852
+MSDS Number: BHWGF
+=== Responsible Party ===
+Company Name:COOLEY,INC
+Address:50 ESTEN AVE
+City:PAWTUCKET
+State:RI
+ZIP:02860
+Country:US
+Info Phone Num:401-724-9000
+Emergency Phone Num:401-724-9000
+CAGE:NO029
+=== Contractor Identification ===
+Company Name:COOLEY INC
+Address:50 ESTEN AVE
+Box:City:PAWTUCKET
+State:RI
+ZIP:02860
+Country:US
+Phone:401-724-9000
+CAGE:92508
+Company Name:COOLEY,INC
+Address:50 ESTEN AVE
+Box:City:PAWTUCKET
+State:RI
+ZIP:02860
+Country:US
+Phone:401-724-9000
+CAGE:NO029
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL ISOBUTYL KETONE  (SARA III)
+CAS:108-10-1
+RTECS #:SA9275000
+Fraction by Wt: 5.4%
+Other REC Limits:N/K 
+OSHA PEL:100 PPM/75 STEL
+ACGIH TLV:50 PPM/75 STEL; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:TETRAHYDROFURAN  (SARA III)
+CAS:109-99-9
+RTECS #:LU5950000
+Fraction by Wt: 23.4%
+Other REC Limits:N/K 
+OSHA PEL:200 PPM/250 STEL
+ACGIH TLV:200 PPM/250STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: 28.6%
+Other REC Limits:N/K 
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:LIQUID BARIUM-CADMIUM STAB
+Fraction by Wt: <1%
+Other REC Limits:2 MG/M3 AS CD
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:N/K 
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:SEE SIGNS AND SYMPTOMS OF
+    OVEREXPOSURE.
+Explanation of Carcinogenicity:CADMIUM & CADMIUM COMPOUNDS:LIMITED
+    EVIDENCE FOR CARC IN HUMANS & SUFFICIENT EVIDENCE IN ANIMALS (IARC
+    1987),(SEE SUPP)
+Effects of Overexposure:EYES:CAUSES IRRITATION.SKIN:N/K .INGESTION:N/K
+    .INHALATION:EXPOSURE TO HIGH VAPOR CONCENTRATION MAY CAUSE
+    NAUSEA,DIZZINESS,NARCOSIS.
+Medical Cond Aggravated by Exposure:N/K 
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH WITH WATER.SKIN:WASH WITH SOAP AND
+    WATER.INGESTION:GET MEDICAL ATTENTION.INHALATION:REMOVE VICTIM TO
+    FRESH AIR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:N/K 
+Extinguishing Media:WATER FOG,FOAM,DRY CHEMICAL OR CARBON DIOXIDE.
+Fire Fighting Procedures:WEAR PROPER PROTECTIVE CLOTHING INCLUDING A
+    NIOSH APPROVED SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:THF:EXTREMELY FLAMMABLE-POSSIBLE
+    FORMULATION OF PEROXIDES MAY CAUSE VIOLENT REACTION ESPECIALLY ON
+    EVAPORATION TO DRYNESS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE IGNITION SOURCES.ABSORB WITH SAND OR
+    ABSORBENT MATERIAL.FLUSH AREA WITH WATER.
+Neutralizing Agent:N/K 
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:HANDLE AS EXTREMELY FLAMMABLE
+    LIQUID.STORE IN COOL PLACE AWAY FROM HEAT,SPARKS,FLAME.
+Other Precautions:N/K 
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH-APPROVED RESPIRATOR.
+Ventilation:USE LOCAL EXHAUST.
+Protective Gloves:IMPERVIOUS
+Eye Protection:PROTECTIVE GOGGLES.
+Other Protective Equipment:WEAR PROTECTIVE CLOTHING.
+Work Hygienic Practices:FOLLOW GOOD HYGIENE PRACTICES.
+Supplemental Safety and Health
+EXPLANATION OF CARCINOGENICITY:SUSPECTED HUMAN/KNOWN ANIMAL CARCINOGEN
+    (NTP 1985).ROUTES OF ENTRY:INHAL/SKIN/INGEST .
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:151-175F
+Decomp Temp:Decomp Text:N/K 
+Vapor Pres:145 MMHG
+Vapor Density:2.5,AIR=1
+Evaporation Rate & Reference:N/K 
+Solubility in Water:PARTIAL
+Appearance and Odor:PUNGENT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTACT WITH STRONG OXIDIZING AGENTS-UNSTABLE PEROXIDES MAY FORM
+    ON AGING ESPECIALLY IN CONTACT WITH AIR.
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:N/K 
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE IN ACCORDANCE WITH
+    FEDERAL,STATE AND LOCAL REGULATIONS.COORDINATION WITH SUPPORTING
+    INSTALLATION AND/OR MACOM ENVIRONMENTAL COORDINATION PRIOR TO
+    DISPOSAL IS RECOMMENDED TO DETERMINE  APPROPRIATE DISPOSAL METHODS
+    .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

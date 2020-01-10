@@ -1,0 +1,172 @@
+=====================  Product Identification  =====================
+
+Product ID:CE-1155 PART B
+MSDS Date:05/30/1989
+FSC:8010
+NIIN:01-275-3552
+Kit Part:Y
+MSDS Number: BHWGS
+=== Responsible Party ===
+Company Name:CONAP INC
+Address:1405 BUFFALO ST
+City:OLEAN
+State:NY
+ZIP:14760
+Country:US
+Info Phone Num:716-372-9650
+Emergency Phone Num:716-372-9650
+Preparer's Name:GEORGE C KARPIN
+CAGE:DO146
+=== Contractor Identification ===
+Company Name:CONAP INC
+Address:1405 BUFFALO ST
+City:OLEAN
+State:NY
+ZIP:14760-1139
+Phone:716-372-9650
+CAGE:DO146
+Company Name:CONAP INC.,WHOLLY OWNED SUBSIDIARY OF CYTEC INDUSTRIES
+    INC.
+Address:1405 BUFFALO STREET
+Box:City:OLEAN
+State:NY
+ZIP:14760
+Country:US
+Phone:716-372-9650
+CAGE:16245
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 10-30%
+Other REC Limits:N/K 
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:PROPYLENE GLYCOL METHYL ETHER ACETATE.
+CAS:108-65-6
+RTECS #:AI8925000
+Fraction by Wt: 10-30%
+Other REC Limits:100 PPM
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:N/K 
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:BREATHING HIGH VAPOR CONCENTRATIONS OR
+    PROLONGED BREATHING OF LOW CONCENTRATIONS CAN CAUSE RESPIRATORY
+    FAILURE.REPEATED,PROLONGED CONTACT WITH SKIN MAY LEAD TO
+    DERMATITIS.ANEMIA,LEUCOPENIA AND ENLARGE D LIVER HAVE,IN RARE
+    CASES,RESULTED FROM PROLONGED OVEREXPOSURE.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES:LIQ-HIGHLY IRRIT.VAP ALSO
+    IRRIT.SKIN:LIQ-MOD IRRIT.RPTD,PRLNG CONT-POSS
+    DEFATTING,DRYING,DERM.ABSORPTION-PRACTICALLY NON-TOX.INGEST:MOD
+    TOX.ASPIR OF VOMITUS IS POSS.INHAL:HIGH VAP CONC OR PRLNG B RTHG OF
+    LOW CONC-POSS NOSE/THROAT IRRIT,HDCH,DIZZ,LOSS OF
+    CONSCIOUSNESS,COMA RESP FAILURE.OLFACTORY FATIGUE IS COMMON.
+Medical Cond Aggravated by Exposure:DISEASES OF THE CENTRAL NERVOUS
+    SYSTEM AND LIVER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH WITH WATER FOR 15 MIN,HOLDING LIDS OPEN.GET MED
+    ATTN.SKIN:WASH W/ SOAP & WATER.REMOVE CONTAM CLTHG & SHOES.IF IRRIT
+    PERSISTS,GET MED ATTN.INGEST:DO NOT GIVE LIQUIDS.DO NOT INDUCE
+    VOMIT.GET  MD IMMED.SMALL AMTS IN MOUTH SHOULD BE RINSED OUT UNTIL
+    NO TASTE OF PROD REMAINS.INHAL:REMOVE TO FRESH AIR.GIVE O*2 IF
+    BREATHING IS DIFFICULT.GIVE ARTIFICIAL RESPIRATION IF NOT
+    BREATHING.GET MED ATTN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:45F,7C (TOLUENE)
+Lower Limits:6.7
+Upper Limits:1.3
+Extinguishing Media:DRY CHEMICAL,CARBON DIOXIDE,FOAM.
+Fire Fighting Procedures:EVACUATE HAZARD AREA OF UNPROTECTED
+    PERSONNEL.WEAR PROPER PROTECTIVE CLOTHING INCLUDING A NIOSH
+    APPROVED SCBA.COOL FIRE-EXPOSED CONTAINERS WITH WATER.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROT EQUIP.WARNING FLAM.ELIM ALL IGNIT
+    SOURCES.GROUND HNDLG EQUIP TO PVNT SPARKING.LRG:EVAC UNPROT
+    PERS.WEAR APPROP RESP & PROT CLTHG.SHUT OFF LEAK SOURCE,IF
+    SAFE.DIKE & CONTAIN.IF VAP CLOUD FORM S,SUPPRESS W/ H*2O
+    FOG.CONTAIN RUN-OFF.(SEE SUPP)
+Neutralizing Agent:N/K 
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID HEAT,SPARKS,OPEN FLAME,STRONG
+    OXIDIZERS.STORE CLSD TIGHT;IN COOL,DRY PLACE W/ ADEQ EXPLO-PROOF
+    VENT.GROUND EQUIP TO PVNT STATIC CHARGE ACCUM.
+Other Precautions:BOND & GROUND CONTR IF POURING OR TRANSFERRING
+    MATL.DO NOT WELD,HEAT OR DRILL ON OR NEAR CONTR;EVEN EMPTY CONTR
+    CAN CONTAIN EXPLO VAP.POSS DUST HAZ IF CUT,GROUND OR MACHINED AFTER
+    CURING.MAY PRODUCE T OX COMBUST BY-PROD IF SOLDERED THROUGH.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF EXPOS MAY OR DOES EXCEED OCCUPATIONAL EXPOS
+    LIMITS,USE NIOSH-APPROVED RESPIRATOR TO PVNT OVEREXPOS.IAW 29 CFR
+    1910.134 USE EITHER ATMOSPHERE-SUPPLYING RESPIRATOR OR
+    AIR-PURIFYING RESPIRATOR FOR ORG ANIC VAPORS.
+Ventilation:USE EXPLOSION-PROOF VENTILATION SUFFICIENT TO CONTROL THE
+    VAPOR CONCENTRATION.
+Protective Gloves:IMPERIVOUS
+Eye Protection:CHEMICAL GOGGLES.
+Other Protective Equipment:PROTECTIVE CLOTHING AS REQUIRED TO PREVENT
+    SKIN CONTACT.
+Work Hygienic Practices:WASH AFTER HANDLING MATERIAL.LAUNDER
+    CONTAMINATED CLOTHING/SHOES BEFORE REUSE.
+Supplemental Safety and Health
+SPILL PROC:REMOVE W/ VACUUM TRUCK OR PUMP TO STOR/SALVAGE VESSEL.ABSORB
+    RESIDUE W/ SAND,CLAY,ETC.PUT IN NON-LEAKING CONTR FOR PROPER
+    DISP.FLUSH AREA W/ H*2O TO REMOVE TRACE RESIDUE.DISP FLUSH SOLN AS 
+    ABOVE.SM:ABSORB & PUT IN NON-LEAKING CONTR.SEAL TIGHT FOR PROPER
+    DISP.VP:36.7 MMHG,TOLUENE.VAP DENS:3.2,TOLUENE (AIR=1).
+
+==================  Physical/Chemical Properties  ==================
+
+Decomp Temp:Decomp Text:N/K 
+Vapor Pres:SEE SUPP
+Vapor Density:SEE SUPP
+Spec Gravity:0.953 (WATER=1)
+Solubility in Water:PARTIAL
+Appearance and Odor:COLORLESS,MOBILE LIQUID WITH BENZENE ODOR.
+Percent Volatiles by Volume:33
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CONTACT WITH STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:AVOID HEAT,SPARKS,OPEN FLAME.
+Hazardous Decomposition Products:CARBON MONOXIDE AND UNIDENTIFIED
+    COMPOUNDS MAY BE FORMED DURING COMBUSTION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE IN ACCORDANCE WITH
+    FEDERAL,STATE AND LOCAL REGULATIONS.COORDINATION WITH SUPPORTING
+    INSTALLATION AND/OR MACOM ENVIRONMENTAL COORDINATION PRIOR TO
+    DISPOSAL IS RECOMMENDED TO DETERMINE  APPROPRIATE DISPOSAL METHODS
+    .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

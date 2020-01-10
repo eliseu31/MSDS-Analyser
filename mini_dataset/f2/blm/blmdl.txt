@@ -1,0 +1,117 @@
+=====================  Product Identification  =====================
+
+Product ID:CLEANER 72-A16, 7FG-9244
+MSDS Date:08/30/1988
+FSC:6850
+NIIN:00N020767
+MSDS Number: BLMDL
+=== Responsible Party ===
+Company Name:HUBBARD-HALL INC
+Address:563 SOUTH LEONARD ST
+City:WATERBURY
+State:CT
+ZIP:06708
+Country:US
+Info Phone Num:203-756-5521
+Emergency Phone Num:800-424-9300(CHEMTREC)
+CAGE:IO060
+=== Contractor Identification ===
+Company Name:HUBBARD-HALL CHEMICAL CO
+Box:790
+City:WATERBURY
+State:CT
+ZIP:06720-0790
+Country:US
+Phone:203-754-2171
+CAGE:94853
+Company Name:HUBBARD-HALL INC
+Address:563 SOUTH LEONARD ST
+Box:06708
+City:WATERBURY
+State:CT
+ZIP:06708
+Country:US
+Phone:203-756-5521
+CAGE:IO060
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POTASSIUM HYDROXIDE  (SARA III)
+CAS:1310-58-3
+RTECS #:TT2100000
+Fraction by Wt: 1%
+OSHA PEL:C, 2 MG/M3
+ACGIH TLV:C 2 MG/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:POSSIBLE IRRITATION TO EYES. POSSIBLE
+    SKIN IRRITAITON.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: WASH WITH LARGE QUANTITIES OF WATER FOR AT LEAST 15
+    MIN. IF IRRITATION PERSISTS, SEE PHYS. INGEST: GET MED AID. SKIN:
+    WASH WITH COLD/WARM WATER. INHAL: REMOVE TO FRESH AIR. SUPPORT
+    BRTHG. (GIVE  O2/ARTF RESP) .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:WILL NOT BURN OR SUPPORT COMBUSTION. USE MEDIA
+    SUITABLE FOR SURROUNDING FIRE .
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NEUTRALIZE WITH DILUTED MINERAL ACID AND FLUSH
+    TO CHEMICAL SEWER.
+Neutralizing Agent:DILUTED MINERAL ACID.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE. USE NIOSH/MSHA APPROVED RESPIRATOR
+    APPROPRIATE FOR EXPOSURE OF CONCERN .
+Ventilation:NONE.
+Protective Gloves:RUBBER OR VINYL GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NORMAL WORKING CLOTHING.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Spec Gravity:1.184
+Solubility in Water:COMPLETE
+Appearance and Odor:PALE YELLOW LIQUID, MILD SWEET ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CLEANER 72-A16: PH 8.5. MIXTURE OF SURFACTANTS
+    AND ALKALINE SALTS. DISCHARGE SPENT SOLUTION TO DISPOSAL UNIT.
+    NEUTRALIZE WITH MINERAL ACID TO PH BETWEEN 6 TO 8. CONSULT LOCAL,
+    FEDERAL OR STATE DISPOSA L REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

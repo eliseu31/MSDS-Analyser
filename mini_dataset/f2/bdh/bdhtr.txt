@@ -1,0 +1,147 @@
+=====================  Product Identification  =====================
+
+Product ID:MIL-G-10924,GREASE,AUTOMOTIVE & ARTILLERY
+MSDS Date:04/01/1984
+FSC:9150
+NIIN:00-190-0905
+MSDS Number: BDHTR
+=== Responsible Party ===
+Company Name:BATTENFELD GREASE & OIL CORP OF N.Y.
+Address:1174 ERIE AVE
+Box:728
+City:NORTH TONAWANDA
+State:NY
+ZIP:14120
+Info Phone Num:716-695-2100
+Emergency Phone Num:716-695-2100
+CAGE:EO110
+=== Contractor Identification ===
+Company Name:BATTENFELD GREASE AND OIL CORP OF NEW YORK INC
+Address:1174 ERIE AVE
+Box:728
+City:NORTH TONAWANDA
+State:NY
+ZIP:14120-3036
+Country:US
+Phone:716-695-2100
+CAGE:60226
+Company Name:BATTENFELD GREASE AND OIL CORP OF NEW YORK INC
+Address:1174 ERIE AVE
+Box:728
+City:NORTH TONAWANDA
+State:NY
+ZIP:14120-3036
+Country:US
+Phone:716-695-2100
+CAGE:EO110
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CALCIUM 12-HYDROXYSTEARATE
+CAS:3159-62-4
+Fraction by Wt: 10.0%
+OSHA PEL:NOT LISTED
+ACGIH TLV:NOT LISTED
+
+Ingred Name:MINERAL OIL (EXPOSURE REGULATED AS 'OIL MIST')
+CAS:8012-95-1
+RTECS #:PY8030000
+Fraction by Wt: 88.0%
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3/10 STEL;9192
+
+Ingred Name:CALCIUM SULFONATE
+CAS:68783-96-0
+Fraction by Wt: 02.0%
+OSHA PEL:NOT LISTED
+ACGIH TLV:NOT LISTED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SEE SIGNS AND SYMPTOMS OF
+    OVEREXPOSURE.
+Explanation of Carcinogenicity:NOT CARCINOGENIC BASED ON MANUFACTURER'S
+    INFORMATION IN PNI B,SAME NSN.
+Effects of Overexposure:PER MFR,PRODUCT HAS NO ILL EFFECT ON HEALTH
+Medical Cond Aggravated by Exposure:NONE NOTED
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:WASH WITH SOAP AND WATER. EYES: FLUSH WITH WATER.
+    INHALED: REMOVE TO FRESH AIR. REMOVE CONTAMINATED CLOTHING;MFR
+    NOTES,TREAT AS PETROLEUM DISTILLATE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:OC
+Flash Point:340F(171C)
+Lower Limits:UNK
+Upper Limits:UNK
+Extinguishing Media:CO*2, FOAM, DRY CHEM.
+Fire Fighting Procedures:NONE
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIM IGN SOURCES.USE PROTECTIVE EQUIPMENT
+    DURING CLEAN UP.ABSORB IN SAND,OIL SORB,OR A COMMERCIAL ABSORBENT &
+    SHOVEL INTO METAL CONTAINER.KEEP IN COVERED CONTAINERS PENDING
+    DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,SRY VENTILATED AREA.KEEP
+    FROM FREEZING.PROTECT CONTAINERS FROM PHYSICAL DAMAGE.KEEP TIGHTLY
+    CLOSED.
+Other Precautions:NONE KNOWN
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SHOULD BE NEEDED
+Ventilation:NORMAL ROOM VENTILATION.
+Protective Gloves:BUNA-N
+Eye Protection:AS REQUIRED
+Other Protective Equipment:NONE
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING. DO NOT GET IN
+    EYES AND/OR CLOTHING.
+Supplemental Safety and Health
+MSDS FM MFR DATED:4-84; ITEM OF MIL-G-10924D; MFR GAVE CAS #64741-53-3
+    FOR MINERAL OIL.UNDER THIS CAS #,EPA-TSCA
+    LISTS:DISTILLATE(PETROLEUM)HEAVY NAPHTHENIC(C20-C50)(IAW NIOSH CAS
+    #:8012-95-1)
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:>700F,>371C
+Vapor Pres:<.1
+Vapor Density:0.01
+Spec Gravity:0.92
+Evaporation Rate & Reference:0.001(BU ACETATE)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:AMBER SEMI-SOLID GREASE-BLAND
+Percent Volatiles by Volume:UNK
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Hazardous Decomposition Products:CO*2,CARBON MONOXIDE IF INCOMPLETE
+    COMBUSTION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE IN APPROVED INCINERATOR OR DISPOSE OF
+    IN APPROVED CHEMICAL DUMP IN ACCORDANCE WITH LOCAL,STATE & FEDERAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,143 @@
+=====================  Product Identification  =====================
+
+Product ID:COPPER(I) CYANIDE
+MSDS Date:06/27/1989
+FSC:6810
+NIIN:01-228-3360
+MSDS Number: BJDZQ
+=== Responsible Party ===
+Company Name:SPECTRUM CHEMICAL MANUFACTURING CORP.
+Address:14422 SOUTH SAN PEDRO STREET
+City:GARDENA
+State:CA
+ZIP:90248-2027
+Country:US
+Info Phone Num:213-516-8000
+Emergency Phone Num:213-516-8000/800-424-9300(CHEMTREC)
+CAGE:63415
+=== Contractor Identification ===
+Company Name:SPECTRUM LABORATORY PRODUCTS INC
+Address:14422 S SAN PEDRO ST
+Box:City:GARDENA
+State:CA
+ZIP:90248-2027
+Country:US
+Phone:310-516-8000/FAX: 310-516-9843
+CAGE:63415
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:COPPER CYANIDE  (SARA III)
+CAS:544-92-3
+RTECS #:GL7150000
+Fraction by Wt: 100%
+Other REC Limits:1 MG(CU)/M3 OSHA TWA
+OSHA PEL:1 MG CU/M3
+ACGIH TLV:1 MG CU/M3
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE-EYES:IRRITATION,CONJUNCTIVITIS,
+    CORNEAL ULCERATIONS. SKIN:IRRITATION. INHALATION:IRRITATION.
+    INGESTION: CNS DEPRESSION. CHRONIC-EYES:CONJUNCTIVITIS.
+    SKIN:DERMATITIS, NECROSIS AND GREENISH SKIN D ISCOLORATION.
+    INHALATION:CNS DISORDERS.INGESTION:HEMOLYTIC ANEMIA, LIVER, KIDNEY
+    AND SPLEEN DAMAGE, CNS DEPRESSION.
+Explanation of Carcinogenicity:NONE OF THE COMPOUNDS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP, OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:EYES:IRRITATION. SKIN: ITCHING, SKIN
+    DISCOLORATION, AND LESIONS. INHALATION:IRRITATION.
+    INGESTION:BURNING TASTE, FEELING OF CONSTRICTION IN THE THROAT,
+    SALIVATION, NAUSEA(WITH OR WITHOUT VOMITING), CO NFUSION, VERTIGO,
+    GIDDINESS, WEAKNESS, HEADACHE, RAPID PULSE, PALPITATIONS, CYANOSIS,
+    COMA, CONVULSIONS AND BRADYCARDIA.
+Medical Cond Aggravated by Exposure:PRE-EXISTING SKIN CONDITIONS MAY BE
+    AGGRAVATED BY EXPOSURE TO THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH W/WATER 15 MIN, HOLD LIDS OPEN.  SKIN:WASH WITH
+    SOAP & WATER. REMOVE CONTAMINATED CLOTHING AND LAUNDER BEFORE
+    REUSE.  INHALED:REMOVE TO FRESH AIR. RESTORE BREATHING IF
+    NECESSARY.	INGESTED:D O NOT INDUCE VOMITING. GIVE 2 LARGE GLASSES
+    OF MILK OR WATER AND GET IMMEDIATE MEDICAL CARE. GIVE NOTHING BY
+    MOUTH IF UNCONSCIOUS.   IF IRRITATION PERSISTS OR IS SEVERE,SEE A
+    DOCTOR.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE WATER FOG, HALON, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO KNOCK DOWN VAPORS.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WIPE/SOAK UP WITH CLOTH OR PAPER TOWEL OR
+    INERT ABSORBENT. PUT IN DISPOSAL CONTAINER. REMOVE RESIDUE WITH
+    WATER.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL VENTILATED
+    AREA. KEEP CONTAINERS TIGHTLY CLOSED WHEN NOT IN USE. PROTECT
+    CONTAINERS FROM PHYSICAL DAMAGE.
+Other Precautions:NO NOT TOUCH SPILLED MATERIAL.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESPIRATOR WILL NOT NORMALLY BE NECESSARY.  USE
+    NIOSH/MSHA APPROVED AIR SUPPLIED RESPIRATOR OR RESPIRATOR FOR
+    DUST/MIST IF EXPOSURE IS ABOVE THE TLV/PEL. SEE 29 CFR 1910.134 FOR
+    REGULATIONS PERTAINING  TO RESPIRATOR USE.
+Ventilation:GENERAL ROOM VENTILATION IS NORMALLY ADEQUATE. USE LOCAL
+    EXHAUST IF NECESSARY TO CONTROL EXPOSURE BELOW PEL/TLV.
+Protective Gloves:NEOPRENE, NITRILE, VPC OR NATURAL RUBBER
+Eye Protection:SAFETY GLASSES OR GOGGLES
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER.
+    INDUSTRIAL-TYPE WORK CLOTHING AND APRON AS REQUIRED.
+Work Hygienic Practices:USE GOOD CHEMICAL HYGIENE PRACTICE. AVOID
+    UNNECESSARY CONTACT.
+Supplemental Safety and Health
+PREVENT ANY SKIN OR EYE CONTACT.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T4
+Boiling Pt:B.P. Text:DECOMPOSES
+Melt/Freeze Pt:M.P/F.P Text:883F,473C
+Spec Gravity:2.92
+Solubility in Water:INSOLUBLE
+Appearance and Odor:WHITE, DARK GREEN, OR RED; DEPENDING ON THE CRYSTAL
+    STRUCTURE.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACIDS, MAGNESIUM, CHLORATES, FLUORIDE, MOLTEN NITRATES, NITRITES AND
+    STRONG OXIDIZERS.
+Stability Condition to Avoid:OPEN FLAMES.
+Hazardous Decomposition Products:HIGHLY TOXIC HYDROGEN CYANIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE IN ACCORDANCE WITH STANDARDS
+    APPLICABLE TO GENERATORS OF HAZARDOUS WASTE, 40CFR 262. EPA
+    HAZARDOUS WASTE NUMBER P029.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

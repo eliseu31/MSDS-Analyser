@@ -1,0 +1,122 @@
+=====================  Product Identification  =====================
+
+Product ID:BURKEPOXY PRIMER PART B
+MSDS Date:09/29/1989
+FSC:8040
+NIIN:00N021385
+Kit Part:Y
+MSDS Number: BLMKL
+=== Responsible Party ===
+Company Name:BURKE CO
+Address:2655 CAMPUS DR
+City:SAN MATEO
+State:CA
+ZIP:94403
+Country:US
+Info Phone Num:415-349-7600
+Emergency Phone Num:213-834-3401
+CAGE:0KM49
+=== Contractor Identification ===
+Company Name:BURKE CO
+Address:2655 CAMPUS DR
+Box:City:SAN MATEO
+State:CA
+ZIP:94403
+Country:US
+Phone:415-349-7600
+CAGE:0KM49
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred
+    Name:1,2-ETHANEDIAMINE,N-(2-AMINOETHYL)-N'-(2-((2-AMINOETHYL)AMINO)
+    ETHYL)-; (TETRAETHYLENE PENTAMINE)
+CAS:112-57-2
+RTECS #:KH8585000
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:(ACUTE) SKIN IRRITATION. (CHRONIC)
+    SKIN IRRITATION.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:IRRITATION, SENSITIZATION AND DERMATITIS.
+Medical Cond Aggravated by Exposure:SKIN IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: REMOVE TO FRESH AIR & ADMINISTER OXYGEN. GET MD. EYES:
+    FLUSH WITH PLENTY OF WATER FOR AT LEAST 15 MINUTES AND GET MD.
+    SKIN: WASH WITH SOAP & WATER. WASH CONTAMINATED CLOTHING BEFORE
+    REUSE. INGE ST: DO NOT INDUCE VOMITING. DILUTE WITHWATER AND GET
+    MD.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:383F,195C
+Extinguishing Media:CO2, FOAM, DRY CHEMICAL.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:AVOID ALL PERSONAL CONTACT. TAKE UP WITH
+    ABSORBANT MATERIAL, SHOVEL INTO CONTAINER & SEAL. FLUSH AREA WITH
+    WATER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTACT WITH EYES, SKIN OR
+    CLOTHING. DO NOT BREATHE VAPOR.
+Other Precautions:USE WITH FOOD VENTILATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED ORGANIC CHEMICAL CARTRIDGE
+    RESPIRATOR.
+Ventilation:LOCAL EXHAUST: RECOMMENDED. MECHANICAL (GENERAL):
+    RECOMMENDED.
+Protective Gloves:WEAR IMPERVIOUS GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE
+Work Hygienic Practices:WASH HANDS BEFORE HANDLING FOOD. WASH CLOTHING
+    BEFORE REUSE.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:400F,204C
+Vapor Pres:3.2
+Vapor Density:3.78
+Spec Gravity:0.97
+Solubility in Water:NIL
+Appearance and Odor:STRAW COLORED LIQUID, AMINE ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS.
+Stability Condition to Avoid:HIGH TEMPERATURES.
+Hazardous Decomposition Products:CO, CO2, NITROGEN COMPOUNDS.
+Conditions to Avoid Polymerization:STRONG ACIDS OR BASES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN ACCORDANCE WITH FEDERAL, STATE AND
+    LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

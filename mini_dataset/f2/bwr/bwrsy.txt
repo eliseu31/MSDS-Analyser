@@ -1,0 +1,160 @@
+=====================  Product Identification  =====================
+
+Product ID:85 SEAL TITE, 085-3
+MSDS Date:12/16/1992
+FSC:8030
+NIIN:00N057665
+MSDS Number: BWRSY
+=== Responsible Party ===
+Company Name:BEHR PROCESS CORP
+Address:3400 GARRY AVE
+City:SANTA ANA
+State:CA
+ZIP:92704
+Country:US
+Info Phone Num:714-545-7101
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+Preparer's Name:MIKE BUTLER
+CAGE:0J2D7
+=== Contractor Identification ===
+Company Name:BEHR PROCESS CORPORATION
+Address:3400 GERRY AVE
+Box:City:SANTA ANA
+State:CA
+ZIP:92704
+Country:US
+Phone:714-545-7101
+CAGE:0J2D7
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ALIPHATIC HYDROCARBON SOLVENT
+Fraction by Wt: 90%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:BENZENE,1,2,4-TRIMETHYL-;
+    (1,2,4-TRIMETHYLBENZENE)(TRIMETHYL BENZENE) (SARA 313)
+CAS:95-63-6
+RTECS #:DC3325000
+Fraction by Wt: 1.81%
+OSHA PEL:25 PPM
+ACGIH TLV:25 PPM
+
+Ingred Name:CUMENE (SARA 313) (CERCLA)
+CAS:98-82-8
+RTECS #:GR8575000
+Fraction by Wt: 1.81%
+OSHA PEL:50 PPM, S
+ACGIH TLV:50 PPM, S
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:VOLATILE ORGANIC CONTENT: 725 G/L (COATING & MATERIAL)
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: RPTD SKIN CONT MAY RSLT IN
+    DEVELOPMENT OF AN ALLERGIC SKIN RXN IN SMALL NUMBER OF INDIVIDUALS.
+    CHRONIC: RPTS HAVE ASSOCIATED REPEATED & PROLONGED OCCUPATIONAL
+    OVEREXP TO SOLVENTS W/PERM BRAIN &	CNS DMG. INHAL: PROD IS MILD
+    IRRIT. EFTS ARE TEMP & REVERSIBLE. VAP ODORS MAY CAUSE IRRIT IN
+    UPPER & (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ: LOWER RESP TRACTS, NAUS, HDCHS &
+    DIZZ. SKIN/EYES: MILD IRRIT. EFTS ARE TEMP & REVERSIBLE. PROD MAY
+    CAUSE IRRIT, REDNESS & TEARING. INGEST: CAUSES NAUSEA, VOMIT,
+    DIARRHEA & GI IRRIT.
+Medical Cond Aggravated by Exposure:AVAILABLE TOXICOLOGY, CHEMICAL &
+    PHYSICAL DATA SHOW THAT OVEREXP IS UNLIKELY TO AGGRAVATE ANY
+    MEDICAL CONDITION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH W/WATER FOR AT LEAST 15 MINS. EXPOSE TO FRESH AIR.
+    CALL MD IMMED. SKIN: WASH W/SOAP & WATER FOR 15 MINS. INHAL: REMOVE
+    TO FRESH AIR. CALL MD IF EXPERIENCING ANY DFCLTY BRTHG. INGEST: DO
+    NOT  INDUCE VOMITING! CALL MD IMMED. ACTIVATED CHARCOAL MAY BE
+    ADMINISTERED. IF CONSCIOUS FEED TWO GLASSES OF WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:FOAM, ALCOHOL FOAM, CO*2, DRY CHEMICAL.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPRVD SCBA & FULL PROT EQUIP.
+    OBSERVE RECOMM PROCS IN HNDLG FIRE AREAS. AVOID SPREADING OF
+    BURNING LIQ W/WATER USED FOR COOLING PURPS.
+Unusual Fire/Explosion Hazard:CLSD CNTNRS ARE SUBJECT TO BURSTING ON
+    EXPOS TO HEAT. LIQ EVAP & FORMS INVISIBLE VAPS WHICH SPREAD AS &
+    CAN BE IGNIT MANY SOURCES SUCH AS PILOT LIGHTS(SUPDAT)
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DIKE &/ABSORB SPILLED MATL W/INERT ABSORB MATL
+    SUCH AS SAND/SAWDUST. USE RAGS TO CLEAN UP SMALL AMTS OF SPILLED
+    MATLS. REMOVE ALL IGNIT SOURCES. VENT CONFINED AREAS. KEEP PEOPLE
+    AWAY.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CNTNR CLSD WHEN NOT IN USE. DO
+    NOT STORE/HNDL NEAR HEAT, FLAMES/STRONG OXIDANTS. STORE IN COOL,
+    WELL VENT AREAS.
+Other Precautions:ROTATE STOCK TO USE OLDER MATL FIRST. IMSPECT FOR
+    LEAKS/CRACKS IN ALL CNTNRS. EMPTY CNTNRS MAY STILL CONTAIN
+    RESIDUES(VAPORS, LIQUID/SOLID). ALL EMPTIES SHOULD BE SUBJECTED TO
+    SAME HAZ PRECS GIVE IN T HIS MSDS. KEEP AWAY FROM CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR APPROVED NIOSH/MSHA RESPIRATOR W/ORGANIC
+    VAPOR CARTRIDGE WHEN THE ENVIRONMENTAL CONTROLS ARE INADEQUATE AT
+    KEEPING AIRBORNE CONCS BELOW EXPOSURE LEVELS.
+Ventilation:GENL MECH VENT MAY BE SUFF TO KEEP PRODUCT VAPOR CONC BELOW
+    SPECIFIED TLV LEVELS. IF ADEQ, ONE CAN ALSO USE LOC EXHST.
+Protective Gloves:NEOPRENE/LATEX GLOVES.
+Eye Protection:ANSI APPRVD CHEM WORKERS GOGGLES.
+Other Protective Equipment:IMPERMEABLE APRONS/PROT CLTHG ARE RECOMM
+    WHEN WORKING W/PROD. USE OF HEAD CAPS ARE ALSO RECOMM WHENEVER
+    POSS.(SUPDAT)
+Work Hygienic Practices:CARE SHOULD BE TAKEN TO PREVENT UNNECESSARY
+    EXPOSURE TO PRODUCT.
+Supplemental Safety and Health
+EXPLO HAZ: WELDING EQUIPMENT, ELECTRICAL SWITCHES. FIRE HAZARD IS
+    GREATER AS LIQUID TEMPERATURES RISE ABOVE 55F. OTHER PROT EQUIP:
+    EYE WASHES & SAFETY SHOWERS SHOULD BE AVAILABLE.
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:0.79 (H*2O=1)
+Appearance and Odor:NONE SPECIFIED BY MANUFACTURER.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+PRODUCT WILL SOFTEN OR DISSOLVE SOME PLASTICS.
+Stability Condition to Avoid:AVOID HEAT, FLAME & CONTACT WITH STRONG
+    OXIDIZING AGENTS.
+Hazardous Decomposition Products:INCOMPLETE COMBUST CAN LEAD TO THE
+    EVOLUTION OF CARBON DIOXIDE &/CARBON MONOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PROD DISP: PRODUCT MUST BE TREATED AS HAZ MATL.
+    DISP OF ACCORDING TO LOCAL, STATE & FEDERAL REGULATIONS. CNTNR
+    DISP: TRIPLE RINSE CNTNR, THEN DSIP OF IN SANITARY LANDFILL, RAGS
+    SOAKED W/PRODUCT SHOULD  BE SOAKED IN WATER/PUT INTO AIRTIGHT
+    CNTNR.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

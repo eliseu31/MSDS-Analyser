@@ -1,0 +1,243 @@
+=====================  Product Identification  =====================
+
+Product ID:SANIPOR GERMICIDAL ACID BOWL/URINAL CLEANER
+MSDS Date:01/01/2000
+FSC:6840
+NIIN:01-412-4353
+MSDS Number: CJQTM
+=== Responsible Party ===
+Company Name:CANTOL,INC.
+Address:2211 NORTH AMERICAN STREET
+City:PHILADELPHIA
+State:PA
+ZIP:19133-3306
+Country:US
+Info Phone Num:215-425-1966
+Emergency Phone Num:(800)424-9300
+Preparer's Name:RICHARD J. PETSCHE
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:58380
+=== Contractor Identification ===
+Company Name:CANTOL,INC.
+Address:2211 NORTH AMERICAN STREET
+Box:City:PHILADELPHIA
+State:PA
+ZIP:19133-3306
+Country:US
+Phone:215-425-1966
+Contract Num:SP0411-01-M-E268
+CAGE:58380
+Company Name:CANTOL,INC.
+Address:2211 NORTH AMERICAN STREET
+Box:City:PHILADELPHIA
+State:PA
+ZIP:19133-3306
+Country:US
+Phone:215-425-1966
+Contract Num:SP0450-00-M-D484
+CAGE:58380
+Company Name:CANTOL,INC.
+Address:2211 NORTH AMERICAN STREET
+Box:City:PHILADELPHIA
+State:PA
+ZIP:19133-3306
+Country:US
+Phone:215-425-1966
+Contract Num:SP0450-01-M-ZA57
+CAGE:58380
+Company Name:CANTOL,INC.
+Address:2211 NORTH AMERICAN STREET
+Box:City:PHILADELPHIA
+State:PA
+ZIP:19133-3306
+Country:US
+Phone:215-425-1966
+Contract Num:SP0450-01-M-ZC82
+CAGE:58380
+Company Name:CANTOL,INC.
+Address:2211 NORTH AMERICAN STREET
+Box:City:PHILADELPHIA
+State:PA
+ZIP:19133-3306
+Country:US
+Phone:215-425-1966
+Contract Num:SP0450-02-M-M046
+CAGE:58380
+Company Name:CANTOL,INC.
+Address:2211 NORTH AMERICAN STREET
+Box:City:PHILADELPHIA
+State:PA
+ZIP:19133-3306
+Country:US
+Phone:215-425-1966
+Contract Num:SP0450-99-M-C777
+CAGE:58380
+Company Name:CANTOL,INC.
+Address:2211 NORTH AMERICAN STREET
+Box:City:PHILADELPHIA
+State:PA
+ZIP:19133-3306
+Country:US
+Phone:215-425-1966
+Contract Num:SPO450-00-M-D838
+CAGE:58380
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HYDROGEN CHLORIDE
+CAS:7647-01-0
+RTECS #:MW4025000
+= Wt:8.
+Other REC Limits:NONE
+OSHA PEL:C7 MG/M3;C5 PPM
+ACGIH STEL:C7.5 MG/M3;C5 PPM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:N-ALKYL DIMETHYLETHYLBENZYL AMMONIUM CHLORIDE
+CAS:68956-79-6
+Code:F
+= Wt:.5
+Other REC Limits:NONE
+OSHA PEL:NONE
+ACGIH TLV:NONE
+
+Ingred Name:NONYLPHENOXY POLYETHOXY ETHANOL
+CAS:9016-45-9
+RTECS #:AX0247000
+> Wt:1.
+Other REC Limits:NONE
+OSHA PEL:NONE
+ACGIH TLV:NONE
+
+Ingred Name:N-ALKYL DIMETHYL BENZYL AMMONIUM CHLORIDE (MSDS LISTS CAS#
+    68391-01-5 WHICH IS INVALID NUMBER)
+= Wt:.5
+Other REC Limits:NONE
+OSHA PEL:NONE
+ACGIH TLV:NONE
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NOT PROVIDED
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: CORROSIVE TO EYES AND SKIN. MAY
+    PRODUCE CHEMICAL BURNS. HARMFUL IF SWALLOWED. VAPORS IRRITATING TO
+    NOSE AND THROAT.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: BURNING, PAIN. SKIN: REDNESS, CHEMICAL
+    BURN. INHALATION: IRRITANT TO NOSE AND THROAT. NGESTION: PAIN,
+    IRRITATION.
+Medical Cond Aggravated by Exposure:NONE KNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION: CALL PHYSICIAN. DO NOT INDUCE VOMITING. DRINK
+    LARGE QUANTITIES OF WATER, EGG WHITES OR GELATIN SOLUTION. EYE:
+    FLUSH WITH WATER FOR 15 MINUTES. GET PROMPT MEDICAL ATTENTION.
+    SKIN: WIPE OFF A CID GENTLY. IMMEDIATELY FLOOD THE SURFACE WITH
+    WATER USING SOAP FREELY. INHALATION: REMOVE TO FRESH AIR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Lower Limits:NONE
+Upper Limits:NONE
+Extinguishing Media:WATER, DRY CHEMICAL, CARBON DIOXIDE, FOAM.
+Fire Fighting Procedures:HYDROGEN CHLORIDE VAPORS ARE CORROSIVE. WEAR
+    PROTECTIVE CLOTHING.
+Unusual Fire/Explosion Hazard:HYDROGEN CHLORIDE ATTACKS MOST METALS
+    WITH EVOLUTION OF HYDROGEN GAS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA. SOAK UP SPILL WITH OIL
+    ABSORBANT.	FLUSH RESIDUE WITH WATER.
+Neutralizing Agent:NOT PROVIDED
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTACT WITH SKIN AND EYES.
+    STORE IN COOL AREA. KEEP CONTAINER CLOSED. KEEP FROM FREEZING. KEEP
+    OUT OF THE REACH OF CHILDREN!
+Other Precautions:FOR INDUSTRIAL AND INSTITUTIONAL USE ONLY. READ AND
+    FOLLOW ALL LABEL DIRECTIONS AND PRECAUTIONS BEFORE USING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE- USE WITH ADEQUATE VENTILATION.
+Ventilation:NONE.
+Protective Gloves:RUBBER, NEOPRENE, PLASTIC.
+Eye Protection:EYE GOGGLES.
+Other Protective Equipment:NONE.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+ABBREVIATION: N/A = NOT APPLICABLE. N/AV = NOT AVAILABLE. N/K =
+    UNKNOWN. N/P = NOT PROVIDED. N/R = NOT RELEVANT. N/D = NOT
+    DETERMINED. N/E = NOT ESTABLISHED. CNS = CENTRAL NERVOUS SYSTEM. GI
+    = GASTROI NTESTINAL. SCBA = SELF CONTAINED BREATHING APPARATUS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C1
+NRC/State Lic Num:NOT RELEVANT
+Boiling Pt:=93.3C, 200.F
+Decomp Temp:Decomp Text:NOT PROVIDED
+Vapor Pres:NO DATA
+Vapor Density:>1
+Spec Gravity:1.043
+pH:NOT PROVIDED
+Viscosity:NOT PROVIDED
+Evaporation Rate & Reference:>1 (BUTYL ACETATE=1)
+Solubility in Water:COMPLETE
+Appearance and Odor:GREEN EMULSION LIQUID WITH MILD ODOR.
+Percent Volatiles by Volume:NOT PROVIDED
+Corrosion Rate:NOT PROVIDED
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ALKALI, OXIDIZING AGENTS. DO NOT MIX WITH ANY OTHER CHEMICALS.
+Stability Condition to Avoid:HEAT
+Hazardous Decomposition Products:BURNING YIELDS CHLORINE GAS, HYDROGEN
+    CHLORIDE VAPORS.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:NOT PROVIDED
+
+=====================  Ecological Information  =====================
+
+Ecological:NOT PROVIDED
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF SPENT ABSORBANT IN TRASH CONTAINER.
+    DISPOSE OF LIQUID AS HAZARDOUS WASTE IN ACCORDANCE WITH EPA-RCRA.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:PER RESPONSIBLE PARTY'S LABEL: COMPOUND, CLEANING
+    LIQUID, 8, NA1760, PGII (CONTAINS HYDROCHLORIC ACID).
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:HYDROGEN CHLORIDE IS SUBJECT TO REPORTING
+    REQUIREMENTS OF SECTION 313 OF TITLE III OF SUPER FUNDAMENDMENTS &
+    REAUTHORIZATION ACT (SARA) OF1986 & 40 CFRPART 372. THIS STATEMENT
+    MUST REMAIN A PART OF TH IS MATERIAL SAFETY DATA SHEET,  ANY COPY
+    OR REDISTRIBUTION OF THIS MSDS SHALL INCLUDE THIS STATEMENT.
+Federal Regulatory Information:NOT PROVIDED
+State Regulatory Information:NOT PROVIDED
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

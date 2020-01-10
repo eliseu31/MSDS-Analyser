@@ -1,0 +1,119 @@
+=====================  Product Identification  =====================
+
+Product ID:LEAD ACID BATTERY
+MSDS Date:08/16/1988
+FSC:6140
+NIIN:01-090-6667
+MSDS Number: BKYRY
+=== Responsible Party ===
+Company Name:POWER BATTERY CO INC
+Address:543 E 42ND STREET
+City:PATERSON
+State:NJ
+ZIP:07513
+Info Phone Num:(201) 523-8630
+Emergency Phone Num:(201) 523-8630
+Preparer's Name:ROBERT F. MALLEY
+CAGE:64748
+=== Contractor Identification ===
+Company Name:POWER BATTERY CO INC
+Address:25 MCLEAN BLVD.
+Box:City:PATERSON
+State:NJ
+ZIP:07514
+Country:US
+Phone:201-523-8630
+CAGE:64748
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LEAD  (SARA III)
+CAS:7439-92-1
+RTECS #:OF7525000
+Fraction by Wt: 65-75%
+OSHA PEL:0.05 MG/M3;1910.1025
+ACGIH TLV:0.15 MG/M3;DUST 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:SULFURIC ACID  (SARA III)
+CAS:7664-93-9
+RTECS #:WS5600000
+Fraction by Wt: 17-30%
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL RATS LD50: <500 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: AFFECT KIDNEYS,
+    REPRODUCTIVE, CENTRAL NERVOUS SYSTEM, ANEMIA, VOMITING, HEADACHE,
+    STOMACH PAIN, DIZZINESS, LOSS OF APPETITE, MUSCLE & JOINT PAIN.
+    INGESTION: GI TRACT BURN. SKIN/EYES: SEVER E BURNS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: THROAT & LUNG IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN/EYES: FLUSH W/WATER. INGESTION: DON'T INDUCE VOMITING.
+    IF PATIENT IS CONSCIOUS, FLUSH MOUTH W/WTER, HAVE THE PATIENT DRINK
+    MILK, OR SODIUM BICARBONATE SOLUTION. DON'T GIVE ANYTHING TO AN
+    UNCONSCI OUS PERSON. OBTAIN MEDICAL ATTENTION INALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE CLASS "B" FIRE EXTINGUISHER
+Unusual Fire/Explosion Hazard:BATTERIES ON CHARGE GIVE OFF HYDROGEN
+    GAS, WHICH CAN EXPLODE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:IF SULFURIC ACID IS SPILLED FROM A BATTERY,
+    NEUTRALIZE THE ACID W/SODIUM BICARBONATE (BAKING SODA), SODIUM
+    CARBONATE (SODA ASH) OR CALCIUM OXIDES (LIME). FLUSH W/WATER &
+    DISCARD TO THE SEWAGE SYSTE. D ON'T ALLOW UNNEUTRALIZED ACID INTO
+    SEWAGE SYSTEM.
+Neutralizing Agent:BAKING SODA, SODA ASH, OR LIME
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:BATTERIES SHOULD BE STORED IN A COOL,
+    DRY LOCATION. NOT IN CONTACT W/CONCRETE FLOORS. BATTERIES SHOULD
+    NEVER BE STACKED W/O SUPPORTS.
+Other Precautions:BATTERY ROOMS OR AREAS SHOULD HAVE MEANS IF
+    DISSIPATING ANY HYDROGEN GAS GIVEN OFF DURING CHARGING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED HEPA MASK FOR LEAD DUST,
+    MIST-TYPE MASK.
+Protective Gloves:RUBBER
+Eye Protection:SAFETY GOGGLES, FACE SHIELD
+Other Protective Equipment:APRON
+Supplemental Safety and Health
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+REACTIVE METALS, STRONG BASES, MOST ORGANIC COMPOUNDS, MIXING ACID
+    W/OTHER CHEMICALS.
+Stability Condition to Avoid:SMOKING, SPARKS, FLAME
+Hazardous Decomposition Products:SULFUR DIOXIDE, HYDROGEN SULFIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:NEUTRALIZED ACID MAY BE FLUSH DOWN THE SEWER.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

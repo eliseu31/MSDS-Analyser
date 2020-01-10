@@ -1,0 +1,116 @@
+=====================  Product Identification  =====================
+
+Product ID:ACID CORE SOLDER-40/60
+MSDS Date:01/01/1987
+FSC:3439
+NIIN:00-188-6986
+MSDS Number: BDHKY
+=== Responsible Party ===
+Company Name:TARACORP INDUSTRIES
+Emergency Phone Num:919-784-8110
+CAGE:84996
+=== Contractor Identification ===
+Company Name:TARACORP INDUSTRIES IMACO PLANT
+Address:20 E ACADIA AVE
+Box:City:WINSTON-SALEM
+State:NC
+ZIP:27108
+Country:US
+CAGE:84996
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LEAD  (SARA III)
+CAS:7439-92-1
+RTECS #:OF7525000
+Fraction by Wt: 40.0%
+OSHA PEL:0.05 MG/M3;1910.1025
+ACGIH TLV:0.15 MG/M3;DUST 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:TIN
+CAS:7440-31-5
+RTECS #:XP7320000
+Fraction by Wt: 60.0%
+OSHA PEL:2 MG/M3
+ACGIH TLV:2 MG/M3; 9192
+
+Ingred Name:ACID CORE SOLUTION (CONTAINS ZNCL*2,NH*4CL AND (C*2H*5)*3N
+    )
+Fraction by Wt: 3.0%
+ACGIH TLV:NOT SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:LEAD IS TOXIC,MAY CAUSE ABDOMINAL PAIN,PAIN IN
+    MUSCLES,WEAKNESS;PNEUMOCONIOSIS,CNS DEPRESSION,COLIC
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALE:REMOVE TO FRESH AIR, GIVE CPR/O*2 IF
+    NEED;EYES/SKIN:FLUSH W LG AMTS H*2O FOR 15 MIN;INGEST:RINSE MOUTH;
+    GET MEDICAL ATTENTION FOR EYES, BREATHING DIFFICULTY, OR OTHER
+    SYMPTOMS OF OVEREXPOSURE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:N/R,NON-FLAMMABL
+Extinguishing Media:ANY MEDIA FOR SURROUNDING FIRES.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND PROTECTIVE
+    CLOTHING.
+Unusual Fire/Explosion Hazard:NONE SPECIFIED
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPER PERSONAL PROTECTION;CLEAN UP USING
+    VACUUM CLEANING,PLACE IN CLOSED CONTAINERS AND KEEP FOR PROPER
+    DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NO SPECIAL STORAGE REQUIRED WASH HANDS
+    AFTER HANDLING;PRACTICE GOOD HOUSEKEEPING PROCEDURES.DO NOTPERMIT
+    SMOKING,EATING OR DRINKING WHILE WORKING.
+Other Precautions:DO NOT INHALE VAPORS.AVOID CONTACT WITH SKIN AND
+    EYES.KEEP SOLDERING TEMPERATURES AS LOW AS POSSIBLE TO MINIMISE
+    GENERATION OR METAL FUMES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR FOR LEAD AND
+    TIN DUST
+Ventilation:LOCAL EXHAUST TO MAINTN BELOW TLV.
+Protective Gloves:HEAT/CHEMICAL
+Eye Protection:GOGGLES/FACE SHIELD
+Other Protective Equipment:FULL PROTECTIVE CLOTHING,SAFETY SHOWER,EYE
+    WASH STATION
+Supplemental Safety and Health
+MSDS REVISED 11/84;B.P OF LEAD=4100F,LIEAD=3984F;SP.GR OT TIN=5.75 AND
+    LLEAD 11.35
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Appearance and Odor:GRAY TO SILVER WHITE METAL; ACID-WATER WHITE LIQUI
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZER,H*20*2, ACTIVE METAL,NA,K.
+Stability Condition to Avoid:NONE NOTED
+Hazardous Decomposition Products:TIN-CHLORIDE,TURPENTINE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF COLLECTED MATERIAL IN ACCORDANCE WITH
+    LOCAL,STATE AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

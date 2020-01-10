@@ -1,0 +1,141 @@
+=====================  Product Identification  =====================
+
+Product ID:HARDNESS INDICATOR POWDER
+MSDS Date:09/25/1989
+FSC:6810
+NIIN:00N057440
+MSDS Number: BWRQW
+=== Responsible Party ===
+Company Name:CALGON CORP
+Box:1346
+City:PITTSBURGH
+State:PA
+ZIP:15230-1346
+Country:US
+Info Phone Num:412-777-8000
+Emergency Phone Num:412-777-8000
+Preparer's Name:P.J. MALONEY
+CAGE:86035
+=== Contractor Identification ===
+Company Name:CALGON CORP
+Address:RT 60 AND CAMPBELLS RUN RD
+Box:1346
+City:PITTSBURGH
+State:PA
+ZIP:15230-1346
+Country:US
+Phone:412-494-8000
+CAGE:86035
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM CHLORIDE. LD50 (ORAL,RAT): 3000 MG/KG.
+CAS:7647-14-5
+RTECS #:VZ4725000
+Fraction by Wt: 99%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:C.I. MORDANT BLACK 11. LD50 (ORAL,RAT): >5000 MG/KG.
+CAS:25747-08-4
+Fraction by Wt: 1%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE INGREDIENTS.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYE: SOLID PARTICLES MAY CAUSE
+    REDNESS, PAIN, IRRITATION AND STINGING SENSATION ON CONTACT WITH
+    EYE. SKIN: PRODUCT MAY BE MILDLY IRRITATION TO SKIN. IT IS NOT
+    EXPECTED TO BE ABSORBED THROUGH SKIN IN H ARMFUL AMOUNTS OR TO BE
+    SKIN SENSITIZER. INGESTION: BASED ON ACUTE ORAL LD50 VALUES IN
+    RATS, PRODUCT (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZS: WOULD BE CONSIDERED TO BE SLIGHTLY
+    TOX BY INGEST. INGEST OF LRG AMTS OF SODIUM CHLORIDE CAN CAUSE
+    IRRIT OF STOMACH. SYMPTOMS AFTER LARGE DOSE COULD INCL VOMIT,
+    DIARR, MUSCULAR TWITCHING, &  CONVULS. INHAL: PROD IS NOT EXPECTED
+    TOPRESENT AN INHAL HAZ ALTHOUGH BRTHG DUST MAY CAUSE SOME IRRIT TO
+    NOSE & THROAT.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: IMMEDIATELY FLUSH WITH PLENTY OF WATER FOR AT LEAST 15
+    MINUTES. SEEK MEDICAL AID IF IRRITATION PERSISTS. SKIN: FLUSH WITH
+    COPIOUS AMOUNTS OF WATER . INGESTION: CALL MD IMMEDIATELY . I
+    NHALATION: REMOVE FROM EXPOSURE. SUPPORT BREATHING (GIVE ARTIFICIAL
+    RESPIRATION/OXYGEN) .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON-FLAMMABLE
+Extinguishing Media:USE MEDIA SUITABLE FOR SURROUNDING FIRE CONDITIONS
+    .
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT . EXERCISE CAUTION WHEN FIGHTING ANY CHEMICAL
+    FIRE.
+Unusual Fire/Explosion Hazard:EMITS IRRITATING AND TOXIC GASES UNDER
+    FIRE CONDITIONS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:AVOID CREATING DUSTY CONDITIONS. WEARING
+    APPROPRIATE PERSONAL PROTECTIVE EQUIPMENT, SWEEP UP MATERIAL AND
+    PLACE INTO SUITABLE CONTAINER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER CLOSED WHEN NOT IN USE.
+    WASH THOROUGHLY AFTER HANDLING.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NORMALLY NOT REQUIRED. USE NIOSH/MSHA APPROVED
+    DUST MASK IF NEEDED TO PREVENT INHALATION OF AIRBORNE PARTICLES.
+Ventilation:PROVIDE ADEQUATE VENTILATION TO MINIMIZE DUST INHALATION.
+Protective Gloves:CHEMICAL RESISTANT GLOVES.
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGG .
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:AVOID CONT W/EYES & AVOID BRTHG DUST. AS PART
+    OF GOOD INDUST & PERS HYGIENE & SFTY PROCS, AVOID ALL UNNEC EXPOS
+    (SUPDAT)
+Supplemental Safety and Health
+PH: 9.4 (1% SOLUTION). WORK HYGENIC PRACTICES: TO PRODUCT AND ENSURE
+    PROMPT REMOVAL FROM EYES, SKIN AND CLOTHING.
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:1.21
+pH:SUPDAT
+Solubility in Water:COMPLETE
+Appearance and Odor:GREYISH-PURPLE CRYSTALS MIXED WITH WHITE CRYSTALS.
+    NO ODOR.
+Percent Volatiles by Volume:0(WT)
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE,
+    NITROGEN OXIDES, SULFUR OXIDES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE AND
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

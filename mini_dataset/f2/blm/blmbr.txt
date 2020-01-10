@@ -1,0 +1,122 @@
+=====================  Product Identification  =====================
+
+Product ID:EQUALIZER, 2D1875
+MSDS Date:11/12/1990
+FSC:9150
+NIIN:00N020154
+MSDS Number: BLMBR
+=== Responsible Party ===
+Company Name:PERRY-AUSTEN INTERNATIONAL INC
+Address:2124 VALLEY DRIVE
+City:DES MOINES
+State:IA
+ZIP:50321
+Country:US
+Info Phone Num:515-288-0231
+Emergency Phone Num:515-288-0231
+CAGE:PERRY
+=== Contractor Identification ===
+Company Name:PERRY AUSTEN BOWLING PRODS INC
+Address:2124 VALLEY DRIVE
+Box:City:DES MOINES
+State:IA
+ZIP:50321
+Country:US
+Phone:515-288-0231/800-247-5471
+CAGE:1W432
+Company Name:PERRY-AUSTEN INTERNATIONAL INC
+Address:2124 VALLEY DR
+City:DES MOINES
+State:IA
+ZIP:50321
+Country:US
+Phone:515-288-0231
+CAGE:PERRY
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NON HAZARDOUS INGREDIENTS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NOT RELEVANT.
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:PROLONGED AND/OR REPEATED CONTACT MAY
+    PRODUCE MILD SKIN IRRITATION AND INFLAMMATION.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: IMMEDIATELY FLUSH EYES W/POTABLE WATER FOR A MINIUM OF
+    15 MINUTES, SEEK ASSISTANCE FROM MD . SKIN: WASH WITH SOAP AND
+    WATER. INHAL: REMOVE TO FRESH AIR. SUPPORT BREATHING (GIVE O2/
+    ARTIFIC IAL RESP). INGEST: CALL MD IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:>200F,>93C
+Lower Limits:NONE
+Extinguishing Media:DRY CHEMICAL, CARBON DIOXIDE, FOAM, WATER FOG.
+Fire Fighting Procedures:WATER-SPRAY MUST BE USED WITH CAUTION TO
+    PREVENT SPREAD OF FLAMES. WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONTAIN SPILL, ABSORB WITH INERT ABSORBANT.
+    COLLECT FOR DISPOSAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT STORE ABOVE 120F. KEEP
+    CONTAINERS CLOSED AND UPRIGHT.
+Other Precautions:FOR INDUSTRY USE ONLY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY NEEDED. NIOSH/MSHA APPROVED
+    RESPIRATOR FOR EXPOSURE OF CONCERN 
+Ventilation:GENERAL
+Protective Gloves:RUBBER GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:700F,371C
+Vapor Density:NON VOL
+Evaporation Rate & Reference:SLOWER/ N-BUTYL ACETATE
+Appearance and Odor:AMBER COLORED LIQUID.
+Percent Volatiles by Volume:0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS, ALKALIS AND OXIDIZERS.
+Stability Condition to Avoid:EXTREME HEAT AND OPEN FLAME.
+Hazardous Decomposition Products:BURNING OR EXCESSIVE HEATING MAY
+    PRODUCE CARBON MONOXIDE AND OTHER HARMFUL SUBSTANCES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH FEDERAL, STATE,
+    AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

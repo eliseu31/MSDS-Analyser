@@ -1,0 +1,74 @@
+=====================  Product Identification  =====================
+
+Product ID:TJH10100
+MSDS Date:01/01/1985
+FSC:5910
+NIIN:00-188-9045
+MSDS Number: BDHLL
+=== Responsible Party ===
+Company Name:CORNELL DUBILIER ELECTRONICS
+Emergency Phone Num:508-996-8561
+CAGE:09023
+=== Contractor Identification ===
+Company Name:CORNELL DUBILIER ELEC DIV FED PAC ELEC
+Address:ONE INTERCHANGE PLZ
+Box:B-967
+City:WAYNE
+State:NJ
+ZIP:07470
+Country:US
+Phone:201-694-8600
+CAGE:09023
+Company Name:CORNELL-DUBILIER ELECTRONICS
+Address:ONE INTERCHANGE PLZ
+Box:City:WAYNE
+State:NJ
+ZIP:07470
+Country:US
+Phone:201-694-8600
+CAGE:14655
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POLYCHLORINATED BIPHENYLS (PCBS)  (SARA III)
+CAS:1336-36-3
+RTECS #:TQ1350000
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:CAN BE ABSORBED THRU LUNGS/INTESTINES/SKIN,
+    CAUSING CANCER, LIV/KID/STOMACH/EYE/HEARING DISORDERS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE ABSORBENT & DIKES TO PREVENT RUNOFF.
+    ISOLATE & NOTIFY PROPER AUTH.
+
+======================	Handling and Storage  ======================
+
+Other Precautions:LG CAPACITORS OF 3 LB OR MORE PCB REQ LABELS IN STG,
+    USE & TRANSP.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V1
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTROLLED DISPOSAL REQ. CAPACITORS W/MORE THAN
+    3 LBS PCB REQ AUTH LANDFILL OR INCINERATION.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

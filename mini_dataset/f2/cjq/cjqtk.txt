@@ -1,0 +1,165 @@
+=====================  Product Identification  =====================
+
+Product ID:B & B TC-100N-3
+MSDS Date:01/12/2000
+FSC:6850
+NIIN:01-372-8304
+MSDS Number: CJQTK
+=== Responsible Party ===
+Company Name:B & B TRITECH, INC.
+Address:875 WEST 20TH. STREET,
+City:HIALEAH
+State:FL
+ZIP:33010
+Country:US
+Info Phone Num:305-888-5247
+Emergency Phone Num:305-888-5247
+Preparer's Name:NOT PROVIDED
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:21361
+=== Contractor Identification ===
+Company Name:B & B TRITECH, INC.
+Address:875 WEST 20TH. STREET,
+Box:City:HIALEAH
+State:FL
+ZIP:33010-2310
+Country:US
+Phone:305-888-5247
+Contract Num:SP0450-00-M-SA24
+CAGE:21361
+Company Name:B & B TRITECH, INC.
+Address:875 WEST 20TH. STREET,
+Box:City:HIALEAH
+State:FL
+ZIP:33010-2310
+Country:US
+Phone:305-888-5247
+Contract Num:SP0450-01-M-ZF38
+CAGE:21361
+Company Name:B & B TRITECH, INC.
+Address:875 WEST 20TH. STREET,
+Box:City:HIALEAH
+State:FL
+ZIP:33010-2310
+Country:US
+Phone:305-888-5247
+Contract Num:SP0450-02-M-M222
+CAGE:21361
+Company Name:B & B TRITECH, INC.
+Address:875 WEST 20TH. STREET,
+Box:City:HIALEAH
+State:FL
+ZIP:33010-2310
+Country:US
+Phone:305-888-5247
+Contract Num:SP0450-99-M-C698
+CAGE:21361
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DIETHYLENE GLYCOL BUTYL ETHER
+CAS:112-34-5
+RTECS #:KJ9100000
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NOT PROVIDED
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:OVEREXPOSURE MAY CAUSE IRRITATION TO
+    SKIN AND EYES.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:OVEREXPOSURE MAY CAUSE IRRITATION TO SKIN AND
+    EYES.
+Medical Cond Aggravated by Exposure:NOT PROVIDED
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION: DO NOT INDUCE VOMITING. GET MEDICAL ATTENTION.
+    DRINK WATER. DERMAL: FLUSH WITH SOAP AND WATER. EYE CONTACT: FLUSH
+    WITH PLENTY OF WATER FOR AT LEAST 15 MINUTES. GET MEDICAL
+    ATTENTION. INHALA TION: REMOVE TO FRESH AIR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:>93.3C, 200.F
+Extinguishing Media:WATER FOG, CO2, DRY CHEMICAL.
+Fire Fighting Procedures:NONE
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB WITH SAND OR INERT MATERIAL. PREVENT OF
+    SPREAD OR SPILL. MOP, SQUEEGEE OR INDUSTRIAL VACUUM.
+Neutralizing Agent:NOT RELEVANT
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTACT WITH SKIN AND EYES.
+    AVOID FREEZING TEMPERATURES.
+Other Precautions:NOT PROVIDED
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NORMALLY NOT REQUIRED
+Ventilation:USE WITH ADEQUATE VENTILATION.
+Protective Gloves:CHEMICAL GLOVES.
+Eye Protection:SAFETY GOGGLES.
+Other Protective Equipment:NOT PROVIDED
+Work Hygienic Practices:NOT PROVIDED
+Supplemental Safety and Health
+ABBREVIATION: N/A = NOT APPLICABLE. N/AV = NOT AVAILABLE. N/K =
+    UNKNOWN. N/P = NOT PROVIDED. N/R = NOT RELEVANT. N/D = NOT
+    DETERMINED. N/E = NOT ESTABLISHED.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V5
+NRC/State Lic Num:NOT RELEVANT
+Boiling Pt:>93.3C, 200.F
+Spec Gravity:1.02
+Evaporation Rate & Reference:SLOWER THAN ETHER.
+Solubility in Water:COMPLETE
+Appearance and Odor:LIQUID-MILD ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZERS
+Hazardous Decomposition Products:THERMAL DECOMPOSITION MAY YIELD CO
+    AND/OR CO2.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:NOT PROVIDED
+
+=====================  Ecological Information  =====================
+
+Ecological:NOT PROVIDED
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE AND
+    FEDERAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:NOT PROVIDED
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:NOT PROVIDED
+Federal Regulatory Information:NOT PROVIDED
+State Regulatory Information:NOT PROVIDED
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

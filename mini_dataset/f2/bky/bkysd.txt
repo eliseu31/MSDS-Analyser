@@ -1,0 +1,128 @@
+=====================  Product Identification  =====================
+
+Product ID:SERMASEAL 570A (PART II)
+MSDS Date:01/01/1990
+FSC:8030
+NIIN:01-123-6659
+MSDS Number: BKYSD
+=== Responsible Party ===
+Company Name:SERMATECH INTERNATIONAL INC
+Address:155 S LIMERICK ROAD
+City:LIMERICK
+State:PA
+ZIP:19468
+Info Phone Num:(215) 948-5100
+Emergency Phone Num:(215) 948-5100
+Preparer's Name:KEVIN EDDINGER
+CAGE:58913
+=== Contractor Identification ===
+Company Name:SERMATECH INTERNATIONAL INC SUB OF TELEFEX INC
+Address:155 S LIMERICK RD
+Box:City:LIMERICK
+State:PA
+ZIP:19468-1603
+Country:US
+Phone:610-948-5100
+CAGE:58913
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:2-ETHOXYETHYL ACETATE (CELLOSOLVE ACETATE) (EGEEA)
+CAS:111-15-9
+RTECS #:KK8225000
+Fraction by Wt: <5%
+OSHA PEL:S,100 PPM
+ACGIH TLV:S, 5 PPM; 9192
+
+Ingred Name:VOL ORGANIC CMPD: 0.75 LBS/GAL OR 8.8 LBS/SOLID GAL
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN: DISCOLORATION & ACID BURNS.
+    INHALATION: ATOMIZED COATING MAY PRODUCE IRRITATION TO MUCOUS
+    MEMBRANES & LUNGS.
+Explanation of Carcinogenicity:PART 1 & MIXED COATING CONTAIN
+    HEXAVALENT CHROMIUM WHICH IS CONSIDERED TO BE A CARCINOGEN.
+Effects of Overexposure:SKIN: DISCOLORATION & ACID BURNS. INHALATION:
+    ATOMIZED COATING MAY PRODUCE IRRITATION TO MUCOUS MEMBRANE & LUNGS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINS. SKIN:
+    WASH THOROUGHLY W/SOAP & WATER. INHALATION: REMOVE TO FRESH AIR.
+    GIVE CPR OR OXYGEN IF NEEDED. INGESTION: DRINK LARGE GLASSES OF
+    WATER FOLLOWE D BY MILK OF MAGNESIA. OBTAIN MEDICAL ATTENTION IN
+    ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:CO2, SAND, DRY CHEMICAL
+Fire Fighting Procedures:WILL NOT BURN OR SUPORT COMBUSION. MIXED
+    COATING CAN BURN ONLY UNTIL PART 2 IS DEPLETED. WEAR PROTECTIVE
+    CLOTHING, INCLUDING SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:COMBUSTIBLE LIQUID.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DILUTE W/EXCESS WATER, RINSE AREA & ABSORB
+    ONTO VERMICULITE OR OTHER INERT INORGANIC ABSORBENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE UNMIXED PRODUCT UP TO 1 YEAR.
+    PRODUCT THAT IS MIXED STORE FOR 48 HOURS. STORAGE TEMPERATURE IS
+    40-85F. STORE INSIDE IN ORIGINAL CONTAINERS.
+Other Precautions:AVOID SKIN CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE A SUPPLIED AIR RESPIRATOR FOR SPRAY
+    APPLICATION.
+Ventilation:SPRAY BOOTH SHOULD HAVE MINIMUM AIR FLOW OF 150 FT2/MIN.
+Protective Gloves:ACID RESISTANT RUBBER, PLASTIC
+Eye Protection:GOGGLES
+Other Protective Equipment:SUPPLIED AIR RESPIRATORS ARE RECOMMENDED
+    WHEN SPRAYING.
+Work Hygienic Practices:ALWAYS USE GOOD INDUSTRIAL HYGIENE PRACTICES.
+Supplemental Safety and Health
+KEY1:C1. ISERMASEAL 570A IS A TWO PART WATER BASED TOPCOAT SYSTEM. THE
+    COATING IS PREPARED BY MIXING IN THE FOLLOWING RATIO: 10 PARTS
+    (PART 1) & 1 PART (PART 2).
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C1
+Vapor Pres:2
+Vapor Density:4.6
+Spec Gravity:0.95
+Evaporation Rate & Reference:(BU AC = 1): 0.21
+Solubility in Water:20% WT
+Appearance and Odor:LIQUID W/ESTER ODOR
+Percent Volatiles by Volume:100%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING OR REDUCING AGENTS
+Stability Condition to Avoid:HEAT, SPARKS, SAND, DRY CHEMICAL
+Hazardous Decomposition Products:THERMAL DECOMPOSITION OF PART 2 CAN
+    PRODUCE OXIDES OF CARBON
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PART 1 & MIXED COATING CONTIAN HEXAVALENT
+    CHROMIUM & SHOULD BE CONSIDERED AS HAZARDOUS WASTE. DISPOSE OF IN
+    ACCORDANCE W/FEDERAL, STATE, & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

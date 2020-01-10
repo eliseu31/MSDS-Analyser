@@ -1,0 +1,113 @@
+=====================  Product Identification  =====================
+
+Product ID:NAVY FUSER OIL
+MSDS Date:09/12/1991
+FSC:6850
+NIIN:01-256-1094
+MSDS Number: BWRMG
+=== Responsible Party ===
+Company Name:RICOH CO LTD
+Address:5 DEDRICK PL
+City:WEST CALDWELL
+State:NJ
+ZIP:07006-6304
+Country:US
+Info Phone Num:201-882-2000, 800-336-6737
+Emergency Phone Num:800-336-6737
+Preparer's Name:RICOH CQA/EA DIVISION
+CAGE:2Z665
+=== Contractor Identification ===
+Company Name:RICOH CO LTD
+Address:5 DEDRICK PL
+Box:City:CALDWELL
+State:NJ
+ZIP:07006-6304
+Country:US
+Phone:973-882-2000 / 800-336-6737
+CAGE:2Z665
+Company Name:SAVIN CORP.
+Address:9 WEST BROAD STREET
+Box:12070
+City:STAMFORD
+State:CT
+ZIP:06904-2270
+Country:US
+Phone:203-967-5000
+CAGE:29382
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POLY (DIMETHYLSILOXANE)
+CAS:63148-62-9
+RTECS #:JJ6484500
+Fraction by Wt: 100%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN- VERY LOW IRRITATION.  INGESTION-
+    ACUTE ORAL TOXICITY: >35 G/KG BODYWEIGHT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES- FLUSH WITH WATER.  SKIN- WASH THOROUGHLY WITH SOAP AND
+    WATER.  INHALATION- NOT APPLICABLE.  INGESTION- GET MEDICAL HELP.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:OC
+Flash Point:>599F,>315C
+Extinguishing Media:ANY MEDIA SUITABLE FOR SURROUNDING MATERIAL.
+Fire Fighting Procedures:NO SPECIAL FIRE-FIGHTING PROCEDURE IS
+    NECESSARY.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WIPE UP WITH CLOTH OR PAPER. REMOVE RESIDUE
+    WITH SOAP AND COLD WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY PLACE. KEEP OUT
+    OF REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY REQUIRED.
+Ventilation:NONE NORMALLY REQUIRED.
+Protective Gloves:NONE NORMALLY REQUIRED.
+Eye Protection:NONE NORMALLY REQUIRED.
+Other Protective Equipment:NONE NORMALLY REQUIRED.
+Work Hygienic Practices:WASH HANDS THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Spec Gravity:0.97
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:CLEAR LIQUID, NO ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL OF COLLECTED PRODUCT, RESIDUES, AND
+    CLEANUP MATERIALS MAY BE GOVERNMENTALLY REGULATED. OBSERVE ALL
+    APPLICABLE LOCAL, STATE AND FEDERAL WASTE MANAGEMENT REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

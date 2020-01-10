@@ -1,0 +1,149 @@
+=====================  Product Identification  =====================
+
+Product ID:1018 EPOSOLVE T, 10-0030
+MSDS Date:04/01/1991
+FSC:8010
+NIIN:00N057651
+MSDS Number: BWRSP
+=== Responsible Party ===
+Company Name:BURKE CHEMICALS
+Address:22039 S WESTWARD AVE
+City:LONG BEACH
+State:CA
+ZIP:90810
+Country:US
+Info Phone Num:416-665-7222
+Emergency Phone Num:800-424-9300(CHEMTREC)
+Preparer's Name:PETER FUQUA
+CAGE:HO842
+=== Contractor Identification ===
+Company Name:BURKE CHEMICALS
+Address:22039 SOUTH WESTWARD AVE
+Box:City:LONG BEACH
+State:CA
+ZIP:90810
+Country:US
+Phone:416-665-7222
+CAGE:HO842
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:XYLENE;(AROMATIC HYDROCARBON(XYLENE)). VP: 21.0 @ 100F.
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 3%
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM;150 STEL
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:BENZENE, 1,2,4-TRIMETHYL-; (1,2,4-TRIMETHYLBENZENE) (SARA
+    313)
+CAS:95-63-6
+RTECS #:DC3325000
+Fraction by Wt: 25%
+OSHA PEL:25 PPM
+ACGIH TLV:25 PPM
+
+Ingred Name:CUMENE (SARA 313) (CERCLA)
+CAS:98-82-8
+RTECS #:GR8575000
+Fraction by Wt: 5%
+OSHA PEL:50 PPM, S
+ACGIH TLV:50 PPM, S
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:VOLATILE ORGANIC COMPOUND: 7.28 LB/GL (872 G/L)
+RTECS #:9999999V0
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: HEACHACHE & DIZZINESS. CHRONIC:
+    NONE SPECIFIED BY MANUFACTURER.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:INHAL: HEADACHE & DIZZINESS. SKIN & EYE
+    CONTACT: SKIN: IRRIT, SENSITIZATION & DERMATITIS. EYES: REDNESS,
+    TEARING, IRRITATION. SKIN(ABSORP): DERMITITIS, SENSITIZATION &
+    IRRITATION. INGEST: CONVULSIONS  & LOSS OF CONSCIOUSNESS.
+Medical Cond Aggravated by Exposure:UNKNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: REMOVE TO FRESH AIR. RESTORE BREATHING. TREAT
+    SYMPTOMATICALLY. EYES: FLUSH IMMEDIATELY WITH LGE AMOUNTS OF WATER
+    FOR AT LEAST 15 MINS & GET MED ATTN. SKIN: WASH W/SOAP & WATER.
+    LAUNDER CLTHG BE FORE RE-USE. INGEST: DO NOT INDUCE VOMITING.
+    CONSULT MD.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:70.0F,21.1C
+Lower Limits:1.0%
+Upper Limits:7.0%
+Extinguishing Media:FOAM, CO*2, DRY CHEMICAL, WATER FOG.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPRVD SCBA & FULL PROT EQUIP.
+    REMOVE ALL IGNIT SOURCES.
+Unusual Fire/Explosion Hazard:CLOSED CONTAINERS MAY RUPTURE DUE TO
+    BUILD UP OF PRESSURE WHEN EXPOSED TO HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SALVAGE FREE LIQUID WITH SHOVEL. BROADCAST
+    ABSORBENT MATERIAL & PLACE IN A SEALED CONTAINER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:PREVENT ALL EYE & SKIN CONTACT. AVOID
+    BREATHING VAPORS. STORE IN A COOL DRY PLACE WITH ADEQUATE
+    VENTILATION.
+Other Precautions:KEEP DRUMS CLOSED TIGHTLY AND IN AN UPRIGHT POSITION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR IS REQUIRED.
+Ventilation:LOCAL & MECHANICAL EXHAUST IS RECOMMENDED.
+Protective Gloves:NEOPRENE/RUBBER GLOVES.
+Eye Protection:ANSI APPRVD SAFETY GOGGS W/(SUPDAT)
+Other Protective Equipment:FURTHER SAFETY EQUIPMENT NECESSARY TO
+    PREVENT CONTACT W/MATERIAL. ANSI APPRVD EYEWASH & DELUGE SHOWER.
+Work Hygienic Practices:WASH HANDS BEFORE HANDLING FOOD.
+Supplemental Safety and Health
+EYE PROT: SIDE SHIELD.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:281F,138C
+Vapor Pres:SEE ING 1
+Vapor Density:HVR/AIR
+Spec Gravity:0.9(H*20=1)
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:NON SOLUBLE
+Appearance and Odor:CLEAR LIQUID WITH SOLVENT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTACT W/STRONG OXIDIZING AGENTS, MINERAL AGENTS.
+Stability Condition to Avoid:HIGH HEAT.
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE,
+    OXIDES OF NITROGEN.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

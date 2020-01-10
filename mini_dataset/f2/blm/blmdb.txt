@@ -1,0 +1,222 @@
+=====================  Product Identification  =====================
+
+Product ID:FREEMAN 90-1 YELLOW
+MSDS Date:01/01/1989
+FSC:8010
+NIIN:00N020678
+MSDS Number: BLMDB
+=== Responsible Party ===
+Company Name:FREEMAN MANUFACTURING & SUPPLY CO
+Address:1246 WEST 70TH ST
+City:CLEVELAND
+State:OH
+ZIP:44102-2097
+Country:US
+Info Phone Num:216-961-4200
+Emergency Phone Num:216-961-4200
+CAGE:DO286
+=== Contractor Identification ===
+Company Name:FREEMAN MANUFACTURING/SUPPLY CO.
+Address:1246 WEST 70TH STREET
+City:CLEVELAND
+State:OH
+ZIP:44102-2097
+Phone:(216) 961-4200
+CAGE:DO286
+Company Name:FREEMAN MFG AND SUPPLY CO
+Address:1101 MOORE RD
+Box:City:AVON
+State:OH
+ZIP:44011
+Country:US
+Phone:440-934-1902
+CAGE:1F275
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: 5%
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: 10%
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+Ingred Name:METHYL ISOBUTYL KETONE  (SARA III)
+CAS:108-10-1
+RTECS #:SA9275000
+Fraction by Wt: < 5%
+OSHA PEL:100 PPM/75 STEL
+ACGIH TLV:50 PPM/75 STEL; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:VM & P NAPHTHA (VMP 66) VP: 15 @ 38 C
+CAS:64742-89-8
+Fraction by Wt: 10%
+OSHA PEL:300 PPM;400 STEL
+ACGIH TLV:300 PPM
+
+Ingred Name:N-BUTYL ALCOHOL  (SARA III)
+CAS:71-36-3
+RTECS #:EO1400000
+Fraction by Wt: < 5%
+OSHA PEL:100 PPM
+ACGIH TLV:S, C 50 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 5%
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ISOBUTYL ALCOHOL  (SARA III)
+CAS:78-83-1
+RTECS #:NP9625000
+Fraction by Wt: < 5%
+OSHA PEL:100 PPM
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:2-BUTOXYETHANOL
+CAS:111-76-2
+RTECS #:KJ8575000
+Fraction by Wt: < 5%
+Other REC Limits:500 PPM (MFR)
+OSHA PEL:S, 50 PPM
+ACGIH TLV:S, 25 PPM; 9293
+
+Ingred Name:ISOPROPYL ACETATE
+CAS:108-21-4
+RTECS #:AI4930000
+Fraction by Wt: < 5%
+OSHA PEL:250 PPM/310 STEL
+ACGIH TLV:250 PPM/310STEL;9192
+
+Ingred Name:N-AMYL ACETATE  (SARA III)
+CAS:628-63-7
+RTECS #:AJ1925000
+Fraction by Wt: 20%
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHAL: ANESTHETIC. IRRITATION OF THE
+    RESP TRACT OR ACUTE NERVOUS SYSTEM DEPRESSION CHARACTERIZED BY
+    HEADACHES, DIZZINESS, STAGGERING GAIT, CONFUSION, UNCONSCIOUSNESS,
+    OR COMA. SKIN OR EYE: PRIMARY IRR ITATION. ANIMAL STUDIES CLEARLY
+    DEMONSTRATED DOSED-RELATED ADVERSE EFFECTS ON THE CNS,
+    HEMATOPOIETIC (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ: TISSUES, BLOOD, KIDNEYS & LIVER
+    ASSOCIATED WITH ADMINISTRATION OF EGBE (NIOSH PUB # 90-118).
+Medical Cond Aggravated by Exposure:ANY MEDICAL CONDITION, ALLERGY OR
+    SENSITIZATION CAN BECOME WORSE UPON EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: REMOVE FROM EXPOSURE, RESTORE BREATHING. KEEP WARM AND
+    QUIET. NOTIFY A PHYSICIAN. EYES: FLUSH IMMEDIATELY WITH LARGE
+    AMOUNTS OF WATER FOR AT LEAST 15 MIN. SEE PHYSICIAN. SKIN: WASH
+    AFFECTED ARE AS WITH WATER. REMOVE CONTAMINATED CLOTHING. INGEST:
+    DO NOT INDUCE VOMITING. CONSULT A PHYSICIAN OR POISON CONTROL
+    CENTER.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:23.0F,-5.0C
+Lower Limits:0.9 %
+Upper Limits:2 %
+Extinguishing Media:FOAM, CO2 OR DRY CHEMICAL.
+Fire Fighting Procedures:WATER SPARY INEFFECTIVE. USE FOG NOZZLES. COOL
+    FIRE EXPOSED CONTAINERS WITH WATER. WEAR NIOSH/MSHA APPROVED SCBA
+    AND FULL PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:KEEP CNTNRS TIGHTLY CLSD. ISOLATE FROM
+    HEAT, ELEC EQUIP, SPRKS, & OPEN FLAMES. CLOSED CNTNR MAY EXPLODE
+    WHEN EXPOSED TO EXTREME HEAT. DO NOT APPLY TO HOT SURF.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. VENTILAJTE
+    AREA. REMOVE WITH INERT ABSORBENT AND NON-SPARKING TOOLS.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT STORE ABOVE 120 F. STORE LARGE
+    QUANTITIES IN BLDGS DISIGNED AND PROTECTED FOR STORAGE OF NFPA
+    CLASS LIQUIDS. GROUND CNTNRS WHEN POURING.
+Other Precautions:AVOID FREE FALL OF LIQUID IN EXCESS OF A FEW INCHES.
+    DO NOT FLAME CUT, BRAZE, OR WELD.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:OUTDOOR/OPEN AREAS: USE NIOSH/MSHA APPRVD MASK
+    FOR DUST. RESTRICED AREAS: USE NIOSH/MSHA APPRVD CHEM MECH FILTERS
+    DISIGNED TO REMOVE A COMBINATION OF PARTICULATED & GAS & VAP.
+    CONFINED AREAS: USE NIOS H/MSHA APPRVD AIR LINE TYPE RESPIRATORS
+Ventilation:PROVIDE GEN DILUTION/LOCAL EXHAUST VENT IN VOL TO KEEP TLV
+    BELOW ACCEPTABLE LIMITS. VENT FUMES EMITTED ON HEATED.
+Protective Gloves:RESISTANT:(NATURAL RUBBER/NEOPRENE)
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:TO PREVENT REPEATED OR PROLONGED SKIN
+    CONTACT, WEAR IMPERVIOUS CLOTHING AND BOOTS.
+Work Hygienic Practices:WASH HANDS BEFORE EATING OR USING THE
+    WASHROOMS, SMOKE IN SMOKING AREAS ONLY.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F3
+Boiling Pt:B.P. Text:>175F,79C
+Vapor Pres:SEE INGRED
+Vapor Density:> 1
+Spec Gravity:0.998
+Solubility in Water:SLIGHT
+Appearance and Odor:YELLOW LIQUID, SWEET ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:HIGH TEMPERATURES.
+Hazardous Decomposition Products:MAY PRODUCE HAZARDOUS FUMES WHEN
+    HEATED. CARBON MONOXIDE, NOX, ACRID SMOKE AND POTENTIAL TOXIC
+    FUMES.
+Conditions to Avoid Polymerization:HIGH TEMPERATURES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN ACCORDANCE WITH LOCAL, STATE, AND
+    FEDERAL REGULATIONS. INCINERATE IN APPROVED FACILITY. DO NOT
+    INCINERATE CLOSED CONTAINERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

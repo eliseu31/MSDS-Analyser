@@ -1,0 +1,111 @@
+=====================  Product Identification  =====================
+
+Product ID:F250-1,ASBESTOS
+MSDS Date:01/01/1985
+FSC:5970
+NIIN:00-188-5501
+MSDS Number: BDHKB
+=== Responsible Party ===
+Company Name:AMATEX CORP.
+Address:1032 STANBRIDGE STREET
+City:NORRISTOWN
+State:PA
+ZIP:19401-3666
+Country:US
+CAGE:DO922
+=== Contractor Identification ===
+Company Name:AMATEX CORP
+Address:1032 STANBRIDGE STREET
+Box:City:NORRISTOWN
+State:PA
+ZIP:19401-3666
+Country:US
+Phone:215-277-6100 / 215-277-6108
+CAGE:90896
+Company Name:AMATEX CORP.
+Address:1032 STANBRIDGE STREET
+Box:City:NORRISTOWN
+State:PA
+ZIP:19401-3666
+Country:US
+CAGE:DO922
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ASBESTOS (AMIANTHUS, OBSOLETE AMOSITE), (FOR OSHA PEL, SEE
+    29CFR 1910.1101)
+CAS:1332-21-4
+RTECS #:CI6475000
+Fraction by Wt: 80%
+OSHA PEL:0.2 FIBERS/CC
+ACGIH TLV:0.5 FIBERS/CC; A1;89
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:>5MM/CC LONG TERM:INCREASED RISK OF
+    ASBESTOSIS,CANCER(BRONCHIAL,GASTROINTESTINAL,MESOTHELIOMA).
+
+=======================  First Aid Measures  =======================
+
+First Aid:EMERGENCY:USE NIOSH APPROVED RESPIRATORY PROTECTION(UP TP 100
+    FIBERS/CC AIR PURIFYING RESPIRATOR).CONSULT A DR. FOR
+    DERMATITIS.WHEN ASBESTOS GETS INTO THE EUES,FLUSH WITH WATER
+    FOLLOWED BY TREATMENTS  OF OPHTHALMOLOGIST.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:UPON RELEASE OF FIBERS IN EXCESS OF ABOVE
+    TLV,IT IS REQUIRED TO INCORPATE ENGINEERING CONTROLS,WORK
+    PRACTICES,OR APPROVED RESPIRATORY PROTECTION,IN THAT ORDER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE & HANDLE SUCH THAT FIBERS ARE
+    NOT RELEASED IN EXCESS OF ABOVE TLV.WEAR DUST MASK,WORKING GLOVES
+    AND SAFETY GOGGLES
+Other Precautions:SEE SECTION 1910,1001 OF TITLE 29 CHAP.XVII- THE
+    OCCUPATIONAL SAFETY AND HEALTH ADMINISTRATION (OSHA).
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE 3M NO.8710 DISPOSABLE OR OTHER NIOSH
+    APPROVED FOR ASBESTOS.
+Ventilation:LOCAL EXHAUST IS PREFERRED
+Protective Gloves:WORKING
+Eye Protection:SAFETY GOGGLES
+Other Protective Equipment:DUST MASK;EXCESS OF TLV,FULL PROCTIVE
+    CLOTHING
+Supplemental Safety and Health
+MIL-I-3053,INSULATION,ELECTRICAL,ASBESTOS-FIBER,TREATED 1 UNTREATED,FR
+    D,GR UG, TY 4PU ; CEILING TLV IS 10 FIBERS/CC BASED ON 8-HR TWA,
+    FIBER LENGTH IS >SUM.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T6
+Spec Gravity:2.4-3
+Appearance and Odor:WHITE,NO ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Hazardous Decomposition Products:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:IF DISPOSAL PRODUCES FIBERS IN EXCESS OF ABOVE
+    TLV,WASTES ARE TO BE COLLECTED & DISPOSED OF IN SEALED IMPERMEABLE
+    BAGS OR OTHER SEALED CONTAINER.PLACE A PROPER SITE FOR DAILY
+    PICK-UP OF SANITATION.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

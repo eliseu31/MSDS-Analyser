@@ -1,0 +1,212 @@
+=====================  Product Identification  =====================
+
+Product ID:822X363 SD POLYU EN 36375 GRAY, 2 GALLON KIT
+MSDS Date:01/01/1987
+FSC:8010
+NIIN:01-017-2480
+MSDS Number: BKYQX
+=== Responsible Party ===
+Company Name:DESOTO INC
+Box:5030
+City:DES PLAINES
+State:IL
+ZIP:60017
+Country:US
+Info Phone Num:312-391-9123
+Emergency Phone Num:312-391-9000
+Preparer's Name:SHERRIE M STEVENSON
+CAGE:62758
+=== Contractor Identification ===
+Company Name:DE SOTO INC
+Address:1700 S MT PROSPECT RD
+Box:City:DES PLAINES
+State:IL
+ZIP:60017
+Country:US
+Phone:708-391-9000
+CAGE:96595
+Company Name:DESOTO INC
+Address:1700 S MT PROSPECT RD
+City:DES PLAINES
+State:IL
+ZIP:60018-1804
+Country:US
+Phone:708-391-9000
+CAGE:62758
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BUTYL ACETATE (N-BUTYL ACETATE)
+CAS:123-86-4
+RTECS #:AF7350000
+Fraction by Wt: 20%
+Other REC Limits:150 PPM
+OSHA PEL:700 MG/CUM
+ACGIH TLV:713 MG/CUM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:HEXONE, METHYL ISOBUTYL KETONE (MIBK), 4-METHYL-2-PENTANONE
+CAS:108-10-1
+RTECS #:SA9275000
+Fraction by Wt: <5%
+Other REC Limits:50 PPM
+OSHA PEL:410 MG/CUM
+ACGIH TLV:205 MG/CUM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ADDITIVES
+Fraction by Wt: <25%
+
+Ingred Name:RESIN
+Fraction by Wt: <25%
+Other REC Limits:10 MG/CUM (DUST)
+
+Ingred Name:PIGMENT
+Fraction by Wt: <25%
+Other REC Limits:10 MG/CUM (DUST)
+
+Ingred Name:PROPYLENEGLYCOL MONOMETHYL ETHER ACETATE,
+    1-METHOXY-2-PROPANOL ACETATE
+CAS:108-65-6
+RTECS #:AI8925000
+Fraction by Wt: 10%
+
+Ingred Name:TITANIUM DIOXIDE, TIO2
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 15%
+OSHA PEL:15 MG/CUM
+ACGIH TLV:10 MG/CUM (DUST)
+
+Ingred Name:SILICA DIOXIDE, CRYSTALLINE QUARTZ, SAND (SUSPECTED HUMAN
+    CARCINOGEN BY IARC & ACGIH)
+CAS:14808-60-7
+RTECS #:VV7330000
+Fraction by Wt: 5%
+Other REC Limits:0.05 MG/CUM NIOSH
+OSHA PEL:10 MG/CUM
+ACGIH TLV:0.1 MG/CUM RESP DUST
+
+Ingred Name:TALC, CALIFORNIA (MICROTALC, TALCRON, CERCRON)	 *92/4*
+CAS:14801-96-6
+Fraction by Wt: <5%
+
+Ingred Name:SILICA GEL, CHROMAROD SII, DYNAGROUT SB, FRACTOSIL 500,
+    GASIL, GEMODEZ, KIESELGEL, LICHROPREP, NEOBEAD, POLYPOR
+CAS:63231-67-4
+RTECS #:VV7340000
+Fraction by Wt: 10%
+
+Ingred Name:2-BUTANONE (METHYL ETHYL KETONE) (MEK)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: 10%
+Other REC Limits:590 MG/CUM
+OSHA PEL:200 PPM
+ACGIH TLV:590 MG/CUM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ETHYL ACETATE
+CAS:141-78-6
+RTECS #:AH5425000
+Fraction by Wt: <5%
+Other REC Limits:400 PPM
+OSHA PEL:1400 MG/CUM
+ACGIH TLV:1400 MG/CUM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:VOL ORGANIC CMPD: 493 G/L
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: NASAL/RESPIRATORY
+    IRRITATION, CENTRAL NERVOUS SYSTEM DEPRESSION, HEADACHE, DIZZINESS,
+    STAGGERING GAIT, CONFUSION, UNCONSCIOUSNESS, & ASPHYXIATION. SKIN:
+    IRRITATION, DEFATTING, & DERMATITIS . EYES: IRRITATION. INGESTION:
+    GASTROINTESTINAL IRRITATION, NAUSEA, VOMITING, & DIARRHEA.
+Explanation of Carcinogenicity:CRYSTALLINE SILICA IS A SUSPECTED A2
+    HUMAN CARCINOGEN.
+Effects of Overexposure:INHALATION: PERMANENT BRAIN/NERVOUS SYSTEM
+    DAMAGE, CONCENTRATION DIFFICULTIES, DIMINISHED MANUAL DEXTERITY,
+    MEMORY LOSS, & SILICOSIS. SKIN: IRRITATION, DEFATTING, &
+    DERMATITIS. EYES: IRRITATION. INGES TION: GASTROINTESTINAL
+    IRRITATION, NAUSEA, VOMITING, & DIARRHEA.
+Medical Cond Aggravated by Exposure:SKIN, LUNG, & EYE CONDITIONS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. GIVE CPR OR OXYGEN IF
+    NEEDED. KEEP WARM & QUIET. SKIN: WASH W/SOAP & WATER. DON'T USE
+    SOLVENTS. EYES: FLUSH W/WATER FOR 15 MINS. INGESTION: OBTAIN
+    MEDICAL ATTENTION IN  ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:31F
+Extinguishing Media:CO2, DRY CHEMICAL OR FOAM.
+Fire Fighting Procedures:WATER SPRAY MAY BE INEFFECTIVE. COOL FIRE
+    EXPOSED CONTAINERS W/WATER. FOG NOZZLES PREFERABLE. WEAR NIOSH/MSHA
+    APPROVED SCBA & PROTECTIVE CLOTHING.
+Unusual Fire/Explosion Hazard:VAPORS ACCUMULATE IN CONFINED AREAS/FORM
+    EXPLOSIVE MIXTURES W/AIR/TRAVEL LONG DISTANCES/FLASHBACK/FLAME TO
+    HANDLING SITE. CLOSED CONTAINERS MAY EXPLODE W/HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. WEAR PERSONAL
+    PROTECTIVE EQUIPMENT. USE NON-SPARKING TOOLS. USE EMERGENCY
+    RESPONSE PROFESSIONAL IF MANAGING A RELEASE THAT IS BEYOND THE
+    CAPABILITY OF IN-HOUSE PERSONNE L. SMALL  SPILL: DIKE & ABSORB
+    W/INERT MATERIAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINERS TIGHTLY CLOSED. DON'T
+    STORE >120F. AVOID FREE FALL OF LIQUID. DON'T SMOKE WHERE MATERIAL
+    IS USED OR STORED. DON'T TAKE INTERNALLY.
+Other Precautions:GROUND/BOND WHEN TRANSFERRING. EMPTY DRUMS MAY
+    CONTAIN EXPLOSIVE VAPORS. DON'T CUT/PUNCTURE/WELD ON/NEAR DRUM.
+    AVOID BREATHING VAPORS/CONTACT W/SKIN/EYES. DON'T DELIBERATELY
+    CONCENTRATE THIS PRODUCT &	INHALE THE VAPORS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IN AREAS >TLV OR IF SPRAY MIST IS PRESENT, USE
+    NIOSH/MSHA APPROVED RESPIRATORY PROTECTION APPROPRIATE FOR
+    INDICATED COMPONENTS. IN CONFINED AREAS, USE A NIOSH/MSHA APPROVED
+    AIR SUPPLIED RESPIRATOR.
+Ventilation:PROVIDE GENERAL DILUTION/LOCAL EXHAUST VENTILATION IN
+    VOLUME & PATTERN TO KEEP AIR
+Evaporation Rate & Reference:SLOWER THAN N-BU AC
+Appearance and Odor:LIQUID W/SOLVENT ODOR.
+Percent Volatiles by Volume:58
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:HEAT, ELECTRICAL EQUIPMENT, SPARKS, FLAME,
+    TEMPS >120F, HOT SURFACES, & OTHER SOURCES OF IGNITION.
+Hazardous Decomposition Products:CO & CO2.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:WHEN DISPOSING, PACKAGE, STORE, TRANSPORT &
+    MANAGE IN ACCORDANCE W/LOCAL, STATE, & FEDERAL REGULATIONS. DON'T
+    DISPOSE IF IT POSES AN ENVIRONMENTAL, HUMAN HEALTH THREAT OR
+    CONTAMINATE GROUND OR SURFACE  WATER. FLAMMABLE LIQUID. UN1263.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,174 @@
+=====================  Product Identification  =====================
+
+Product ID:809 0532 FLEXICOLOR STABILIZER REPLENISHER LF, WORKING SOL'N
+MSDS Date:02/03/1993
+FSC:6750
+NIIN:01-285-1770
+MSDS Number: BWRMH
+=== Responsible Party ===
+Company Name:EASTMAN KODAK CO
+Address:343 STATE ST.
+City:ROCHCESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-477-3194
+Emergency Phone Num:716-477-3194/800-242-2424
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 95 - 99%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:NOT RELEVANT
+ACGIH TLV:NOT RELEVANT
+
+Ingred Name:HEXAMETHYLENETETRAMINE/HEXAMINE
+CAS:100-97-0
+RTECS #:MN4725000
+Fraction by Wt: 1 - 5%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:DIETHANOLAMINE (SARA 313) (CERCLA)
+CAS:111-42-2
+RTECS #:KL2975000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:3 PPM
+ACGIH TLV:0.46 PPM; 9596
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:PROPYLENE GLYCOL
+CAS:57-55-6
+RTECS #:TY2000000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:POLYVINYLPYRROLIDONE/POLY(VINYLPYRROLIDINONE)
+CAS:9003-39-8
+RTECS #:TR8370000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL, RAT) IS NOT KNOWN.
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:TARGET ORGANS:EYE, SKIN, RESPIRATORY &
+    GI TRACTS. ACUTE- CAUSES EYE & SKIN IRRITATION, ALLERGIC REACTION.
+    UNDER ACIDIC CONDITIONS, FORMS FORMALDEHYDE WHICH CAUSES
+    RESPIRATORY SENSITIZATION. HARMFUL IF  INHALED/INGESTED/ABSORBED
+    THROUGH SKIN. CHRONIC- BASED ON ANIMAL DATA MAY CAUSE ADVERSE
+    EFFECTS ON LIVER, KIDNEY, CNS.
+Explanation of Carcinogenicity:IF FORMALDEHYDE IS FORMED, IT IS A
+    POTENTIAL CARCINOGEN.
+Effects of Overexposure:IRRITATION, ALLERGIC SKIN REACTION, NAUSEA,
+    VOMITING, RESPIRATORY SENSITIZATION, TEARING
+Medical Cond Aggravated by Exposure:PERSONS WITH PRE-EXISTING SKIN
+    DISORDERS, EYE PROBLEMS OR IMPAIRED RESPIRATORY FUNCTION MAY BE
+    MORE SUSCEPTIBLE TO THE EFFECTS OF THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:CALL PHYSICIAN IF SYMPTOMS DEVELOP. EYE:IMMEDIATELY FLUSH
+    WITH WATER FOR 15 MINUTES. HOLD EYELIDS OPEN. CALL PHYSICIAN.
+    SKIN:FLUSH WITH PLENTY OF WATER. INHALED:MOVE TO FRESH AIR. PROVIDE
+    CPR/OXYGEN I F NEEDED. ORAL:ONLY INDUCE VOMITING AT INSTRUCTION OF
+    PHYSICIAN. CALL A PHYSICIAN/POISON CONTROL CENTER IMMEDIATELY.
+    NEVER GIVE FLUID OR INDUCE VOMITING IF PATIENT IS UNCONSCIOUS OR
+    HAS CONVULSIONS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:ANY MEDIA SUITABLE FOR SURROUNDING MATERIAL.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH SPILL TO SEWER WITH LARGE AMOUNT OF
+    WATER IF REGULATIONS ALLOW. OTHERWISE, ABSORB SPILL WITH
+    VERMICULITE. PLACE IN A CONTAINER FOR CHEMICAL WASTE. CLEAN SURFACE
+    THOROUGHLY TO REMOVE RESIDUAL CON TAMINATION.
+Neutralizing Agent:NOT RELEVANT
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN CLOSED CONTAINER. KEEP OUT OF
+    REACH OF CHILDREN.
+Other Precautions:AVOID CONTACT WITH EYES, SKIN AND CLOTHING. USE WITH
+    ADEQUATE VENTILATION. WASH THOROUGHLY AFTER HANDLING. CONTACT WITH
+    ACID FORMS HARMFUL GAS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF FORMALDEHYDE IS EMITTED ABOVE TLV, WEAR
+    NIOSH-APPROVED FULL FACEPIECE RESPIRATORY PROTECTION AGAINST
+    FORMALDEHYDE. IF RESPIRATORS ARE USED, A PROGRAM SHOULD BE
+    INSTITUTED TO ASSURE COMPLIANCE WITH  OSHA STANDARD 29CFR
+    1910.134/1048.
+Ventilation:GOOD GENERAL VENTILATION (TYPICALLY 10 AIR CHANGES/HR)
+    SHOULD BE USED. VENTILATION RATES SHOULD BE MATCHED TO CONDITIONS
+Protective Gloves:RUBBER/LATEX
+Eye Protection:SAFETY GLASSES WITH SIDE SHIELDS/GOGGLES
+Other Protective Equipment:EYE BATH, SAFETY SHOWER, WASHING FACILITIES
+Work Hygienic Practices:OBSERVE GOOD INDUSTRIAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES. WASH THOROUGHLY BEFORE EATING,
+    DRINKING/SMOKING.
+Supplemental Safety and Health
+THIS IS WORKING SOLUTION. SEE PNI F FOR CONCENTRATE. ECOLOGICAL
+    INFORMATION: A LOW BIOCHEMICAL OXYGEN DEMAND, A LOW POTENTIAL TO
+    AFFECT SOME AQUATIC ORGANISMS. AFTER DILUTION WITH WATER, FOLLOWED
+    BY S ECONDARY WASTE TREATMENT, THIS MATERIALIS NOT EXPECTED TO
+    CAUSE ADVERSE ENVIRNMENTAL EFFECTS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:>212F,>100C
+Decomp Temp:Decomp Text:383F,195C
+Vapor Pres:18
+Vapor Density:0.6
+Spec Gravity:1.00
+pH:7.5
+Solubility in Water:COMPLETE
+Appearance and Odor:AMBER LIQUID WITH A SLIGHT AMINE ODOR.
+Percent Volatiles by Volume:90-95
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:STABLE
+Hazardous Decomposition Products:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISCHARGE, TREATMENT OR DISPOSAL MAY BE SUBJECT
+    TO FEDERAL, STATE OR LOCAL LAWS. FLUSH TO SEWER WITH LARGE AMOUNT
+    OF WATER. SINCE EMPTIED CONTAINERS RETAIN PRODUCT RESIDUE, FOLLOW
+    LABEL WARNINGS EVEN  AFTER CONTAINER IS EMPTIED.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,135 @@
+=====================  Product Identification  =====================
+
+Product ID:TYTIN PRECAPSULATED
+MSDS Date:10/20/1991
+FSC:6520
+NIIN:01-070-0443
+MSDS Number: BWRCM
+=== Responsible Party ===
+Company Name:KERR MANUFACTURING COMPANY
+Address:28200 WICK ROAD
+City:ROMULUS
+State:MI
+ZIP:48174
+Country:US
+Info Phone Num:313-946-7800
+Emergency Phone Num:313-946-7800;CHEMTREC 800-424-9300
+CAGE:EO529
+=== Contractor Identification ===
+Company Name:KERR CORP
+Address:1717 W COLLINS AVENUE
+Box:City:ORANGE
+State:CA
+ZIP:92867-5422
+Country:US
+Phone:800-537-7187
+CAGE:33339
+Company Name:KERR MANUFACTURING COMPANY, DIVISION OF SYBRON COR
+Address:28200 WICK ROAD
+Box:City:ROMULUS
+State:MI
+ZIP:48174
+Country:US
+Phone:(313) 946-7800
+CAGE:EO529
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MERCURY (SARA III) (THE LIQUID PORTION OF THE PRODUCT)
+CAS:7439-97-6
+RTECS #:OV4550000
+Fraction by Wt: 42%
+OSHA PEL:S, C, 0.1 MG/M3
+ACGIH TLV:S, 0.05 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:YES
+Health Hazards Acute and Chronic:EYE: MAY CAUSE REDNESS AND IRRITATION
+    TO THE EYES; SKIN: MAY CAUSE REDNESS & IRRITATION TO THE SKIN;
+    INHALE:MAY CAUSE BRONCHIOLITIS,PNEUMONITIS PULMONARY EDENA IF LARGE
+    AMOUNTS IS INHALED; INGEST:MAY  CAUSE NEUROTOXIC/NEPHROTOXIC
+    EFFECTS.
+Explanation of Carcinogenicity:MERCURY IS OSHA REGULATED.
+Effects of Overexposure:CHRONIC MERCURY POISONING RESULTS IN NERVOUS
+    IRRITABILITY, WEAKNESS, TREMORS, GINGIVITIS, ERETHISM AND GREYING
+    OF LENS OF THE EYE.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:WASH THOROUGHLY WITH WATER FOR 15 MINUTES HOLDING UPPER
+    AND LOWER EYELIDS. CONSULT A PHYSICIAN. SKIN: WASH THOROUGLY WITH
+    SOAP & WATER. CONSULT A PHYSICIAN. INHALE: REMOVE TO FEESH AIR.
+    CONSULT A  PHYSICIAN. INGEST: CONSULT A PHYSICIAN IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Unusual Fire/Explosion Hazard:HIGH TEMPERATURES INCRESASE THE
+    VAPORIZATION OF MERCURY.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP AS MUCH SPILLAGE AS POSSIBLE USING
+    ABSORBENT MATERIAL. VACUUM AREA USING SPECIAL MERCURY VACUUM
+    CLEANER.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:EATING OR SMOKING SHOULD NOT BE
+    PERMITTED IN AREAS WHERE MERCURY IS HANDLED OR STORED.
+Other Precautions:USE ACCORDING TO DIRECTIONS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WHEN WORKING IN AREAS WHICH EXCEED TLV, WEAR
+    DUST MASK WITH APPROVED CARTREIDGE FOR MERCURY VAPOR.
+Ventilation:LOCAL EXHAUST IS RECOMMENDED. USE IN A WELL VENTILATED
+    AREA.
+Protective Gloves:MAY USE IMPERVIOUS GLOVES.
+Eye Protection:MAY USE SAFETY GLASSES.
+Other Protective Equipment:MAY USE LAB COAT OR APRON.
+Work Hygienic Practices:USE GOOD CHEMICAL HYGIENE PRACTICE. AVOID
+    UNNECESSARY CONTACT. WASH THOROUGHLY BEFORE EATING OR DRINKING.
+Supplemental Safety and Health
+EMPLOYEES WHO HANDLE MERCURY SHOULD WASH THEIR HANDS THOROUHLY WITH
+    SOAP AND WATER BEFORE EATING, SMOKING OR USING THE TOILET. THIS
+    MSDS REFLECTS THE HAZARDS OF THE MERCURY PART OF THE PRODUCT AS THE
+     POWDER IS CONSIDERED NON-HAZARDOUS ABY THE MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T2
+Boiling Pt:B.P. Text:674F,357C
+Melt/Freeze Pt:M.P/F.P Text:-38F,-39C
+Vapor Pres:>1
+Spec Gravity:13.35
+Solubility in Water:0.002G/100G WATER
+Appearance and Odor:LIQUID:SILVERY,MOBILE,ODORLESS. POWDER:ODORLESS
+    DARK GREY ALLOY OF AG, SN, CU
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+HALOGENS, NITRIC ACID.
+Stability Condition to Avoid:HIGH TEMPERATURES
+Hazardous Decomposition Products:MERCURY VAPOR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:COLLECT SPILLED MATERIAL FOR RECLAMATION USING
+    COMMERCIALLY AVAILABLE MERCURY VAPOR DEPRESSANTS OR SPECIALIZED
+    VACUUM CLEANERS. RETURN TO MANUFACTURER.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

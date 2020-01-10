@@ -1,0 +1,126 @@
+=====================  Product Identification  =====================
+
+Product ID:TB 1743 ADHESIVE
+MSDS Date:05/15/1990
+FSC:8040
+NIIN:00-142-9193
+MSDS Number: BLMYX
+=== Responsible Party ===
+Company Name:THREE BOND OF AMERICA INC
+Address:20815 HIGGINS CT
+City:TORRANCE
+State:CA
+ZIP:90501
+Country:US
+Info Phone Num:213-320-3342
+Emergency Phone Num:213-320-3342
+Preparer's Name:KAZ KISHITA
+CAGE:60859
+=== Contractor Identification ===
+Company Name:THREE BOND OF AMERICA,INC.
+Address:20815 HIGGINS COURT
+Box:City:TORRANCE
+State:CA
+ZIP:90501
+Country:US
+Phone:310-320-3342
+CAGE:60859
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHYL-2-CYANOACRYLATE
+CAS:708-85-0
+Fraction by Wt: 95-98%
+Other REC Limits:NONE SPECIFIED
+ACGIH TLV:4 PPM (EYE IRRITANT)
+
+Ingred Name:POLYMETHYLMETHACRYLATE
+CAS:9011-14-7
+RTECS #:TR0400000
+Fraction by Wt: 2-5%
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Health Hazards Acute and Chronic:EYE IRRITATION, BONDS SKIN INSTANTLY.
+Effects of Overexposure:EYE IRRITATION, BONDS SKIN INSTANTLY.
+
+=======================  First Aid Measures  =======================
+
+First Aid:IN CASE OF EYE CONTACT, HOLD EYELID OPEN AND FLUSH WITH WATER
+    FOR MORE THAN 15 MIN. SEE DOCTOR AT ONCE. IN CASE OF SKIN CONTACT,
+    DO NOT FORCE OR PULL APART. USE GLUE REMOVER, POLISH REMOVER, OR
+    ACETON E.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:181F,83C
+Extinguishing Media:ALCOHOL FOAM, CARBON DIOXIDE OR DRY CHEMICAL.
+Fire Fighting Procedures:WEAR FULL SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:WATER CAUSES POLYMERIZATION OF THE
+    LIQUID.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE ALL SOURCES OF IGNITION. EVACUATE
+    THE AREA, WEAR PROTECTIVE EQUIPMENT. STOP LEAK IF POSSIBLE. RECOVER
+    AS MUCH MATERIAL PRACTICAL. SOAK UP REMAINDER.
+Neutralizing Agent:VINEGAR TO PREVENT POLYMERIZATION THEN ABSORB WITH
+    ABSORBENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER CLOSED WHILE NOT IN
+    USE. STORE IN COOL AND DRY AREA OUT OF DIRECT SUN.
+Other Precautions:DO NOT POUR OR CHANGE TO ANOTHER CONTAINER, MAY
+    RESULT IN SHORT SHELF-LINE. DO NOT SPILL LIQUID: WILL REACT WITH
+    ABSORBENT AND BOND WITH OTHERS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SPECIAL. IF TLV EXCEEDS, WEAR APPROPRIATE
+    NIOSH/MSHA APPROVED.
+Ventilation:MECHANICAL AND LOCAL EXHAUST ARE RECOMMENDED.
+Protective Gloves:POLYETHYLENE GLOVES.
+Eye Protection:SAFETY GOGGLES.
+Other Protective Equipment:IMPERVIOUS CLOTHING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V4
+Boiling Pt:B.P. Text:>150F,>66C
+Melt/Freeze Pt:M.P/F.P Text:-40F,-40C
+Decomp Temp:Decomp Text:500F,260C
+Vapor Pres:2
+Vapor Density:> AIR
+Spec Gravity:1.04
+pH:6 TO 7
+Evaporation Rate & Reference:VERY SLOW
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:CLEAR LIQUID, PUNGENT ODOR
+Percent Volatiles by Volume:NONE
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACID, BASE WATER, ALCOHOLS.
+Stability Condition to Avoid:WATER EXCESS HEAT
+Hazardous Decomposition Products:ACID, CARBON MONOXIDE, CARBON DIOXIDE,
+    POSSIBLE CYANIDE COMPOUND.
+Conditions to Avoid Polymerization:WATER, BASE, ALCOHOLS, EXCESS HEAT.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN ACCORDANCE WITH ALL APPLICABLE
+    FEDERAL, STATE & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

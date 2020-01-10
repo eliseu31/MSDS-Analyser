@@ -1,0 +1,106 @@
+=====================  Product Identification  =====================
+
+Product ID:E-W9900 WHITE ENAMEL
+MSDS Date:10/31/1989
+FSC:8010
+NIIN:00F019220
+MSDS Number: BLPRH
+=== Responsible Party ===
+Company Name:HIS PAINT MFG
+Address:1700 W SHERIDAN
+City:OKLAHOMA CITY
+State:OK
+ZIP:73106
+Info Phone Num:(405) 232-2077
+Emergency Phone Num:(405) 232-2077
+CAGE:ONWE2
+=== Contractor Identification ===
+Company Name:HIS PAINT MFG
+Address:1700 W. SHERIDAN
+City:OKLAHOMA CITY
+State:OK
+ZIP:73106
+Phone:(405) 232-2077
+CAGE:ONWE2
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:2-BUTOXYETHANOL
+CAS:111-76-2
+RTECS #:KJ8575000
+Fraction by Wt: 13.07%
+Other REC Limits:25 PPM (SKIN)
+OSHA PEL:S, 50 PPM
+ACGIH TLV:S, 25 PPM; 9293
+
+Ingred Name:BARIUM METABORATE MONOHYDRATE
+CAS:13701-59-2
+RTECS #:CQ9570000
+Fraction by Wt: 4.23%
+ACGIH TLV:10 PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN/EYES: IRRITATION. INGESTION:
+    LIVER OR KIDNEY DAMAGE.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN/EYES: IRRITATION. INGESTION: LIVER OR
+    KIDNEY DAMAGE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/LARGE QUANTITIES OF WATER FOR 15 MINS. SKIN:
+    WASH THOROUGHLY W/SOAP & WATER. INGESTION: INDUCE VOMITING. OBTAIN
+    MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:<200F
+Extinguishing Media:FOAM WATER SPRAY (FOG), DRY CHEMICAL, CO2
+Fire Fighting Procedures:WATER SHOULDN'T BE USED EXCEPT AS A FOG TO
+    KEEP NEARBY CONTAINERS COOL. WEAR SELF-CONTAINED BREATHING
+    APPARATUS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DIKE SPILL AREA W/ABSORBENT EARTH OR SAWDUST.
+    COLLECT IN METAL CONTAINER FOR DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL DRY PLACE. AVOID
+    FREEZING.
+Other Precautions:AVOID INHALATION OF CONCENTRATED VAPORS. AVOID
+    SPLASHING IN EYES & SKIN CONTACT W/WET OR DRY PAINT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WHEN SPRAYING , USE A NIOSH-APPROVED MASK. WHEN
+    USING IN POORLY VENTILATED & CONFINED SPACE, USE A FRESH AIR SUPPLY
+    RESPIRATOR OR A SELF-CONTAINED BREATHING APPARATUS.
+Ventilation:MECHANICAL (GENERAL) OR LOCAL EXHAUST TO KEEP AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+WATER SENSITIVE MATERIALS
+Stability Condition to Avoid:FREEZING
+Hazardous Decomposition Products:CO, CO2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

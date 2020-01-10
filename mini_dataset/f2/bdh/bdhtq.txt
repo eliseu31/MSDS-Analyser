@@ -1,0 +1,99 @@
+=====================  Product Identification  =====================
+
+Product ID:GREASE, AUTOMOTIVE AND ARTILLERY/MIL-G10924
+MSDS Date:01/01/1987
+FSC:9150
+NIIN:00-190-0905
+MSDS Number: BDHTQ
+=== Responsible Party ===
+Company Name:SULFLO,INC
+Emergency Phone Num:716 695 2100
+CAGE:GO981
+=== Contractor Identification ===
+Company Name:SULFLO INC
+Address:1158 ERIE AVE
+Box:285
+City:NORTH TONAWANDA
+State:NY
+ZIP:14120-3507
+Country:US
+Phone:716-695-3585
+CAGE:1V074
+Company Name:SULFLO,INC
+CAGE:GO981
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MINERAL OIL (EXPOSURE REGULATED AS 'OIL MIST')
+CAS:8012-95-1
+RTECS #:PY8030000
+Fraction by Wt: 88%
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3/10 STEL;9192
+
+Ingred Name:CALCIUM 12-HYROXY STEARATE
+Fraction by Wt: 10%
+
+Ingred Name:CALCIUM SULFONATE
+Fraction by Wt: 2%
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:NO ILL EFFECTS KNOWN
+
+=======================  First Aid Measures  =======================
+
+First Aid:TREAT AS PETROLEUM DISTILLATE
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:340F/171C/0C
+Extinguishing Media:FOAM,DRY CHEMICAL,CARBON DIOXIDE
+Fire Fighting Procedures:NONE
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB IN SAND OR OIL SORB
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NONE
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Protective Gloves:PLASTIC
+Eye Protection:NOT NORMALLY REQD
+Other Protective Equipment:NONE
+Supplemental Safety and Health
+MIL-G-10924;MSDS DTD 8/84
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:700F/371C
+Vapor Pres:.01
+Vapor Density:0.01
+Spec Gravity:0.92
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:AMBER,SEMI-SOLID GREASE,BLAND ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Hazardous Decomposition Products:CARBON MONOXIDE IF INCOMPLETE
+    COMBUSTION
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE;LAND FILL
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,165 @@
+=====================  Product Identification  =====================
+
+Product ID:22-207 NICKEL PRINT
+MSDS Date:03/07/1989
+FSC:6850
+NIIN:00F019178
+MSDS Number: BLPPG
+=== Responsible Party ===
+Company Name:GC ELECTRONICS
+Address:1801 MORGAN ST
+City:ST ROCKFORD
+State:IL
+ZIP:61105-1209
+Info Phone Num:(815) 968-9661
+Emergency Phone Num:(815) 968-9661
+CAGE:72653
+=== Contractor Identification ===
+Company Name:GC THORSEN
+Address:1801 MORGAN STREET
+Box:City:ROCKFORD
+State:IL
+ZIP:61105
+Country:US
+Phone:815-968-9661
+CAGE:72653
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:N-BUTYL ALCOHOL  (SARA III)
+CAS:71-36-3
+RTECS #:EO1400000
+Fraction by Wt: 1%
+Other REC Limits:300 MG/CUM
+OSHA PEL:100 PPM
+ACGIH TLV:S, C 50 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ACRYLIC RESIN MONOMER
+Fraction by Wt: 10%
+
+Ingred Name:NICKEL  (SARA III)
+CAS:7440-02-0
+RTECS #:QR5950000
+Fraction by Wt: 52%
+Other REC Limits:1 MG/CUM
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+
+Ingred Name:N-BUTYL ACETATE  (SARA III)
+CAS:123-86-4
+RTECS #:AF7350000
+Fraction by Wt: 12%
+Other REC Limits:150 PPM
+OSHA PEL:150 PPM/200 STEL
+ACGIH TLV:150 PPM/200STEL;9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 9%
+Other REC Limits:100 PPM
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ETHYL ALCOHOL (ETHANOL)
+CAS:64-17-5
+RTECS #:KQ6300000
+Fraction by Wt: 1%
+Other REC Limits:1900 MG/CUM
+OSHA PEL:1000 PPM
+ACGIH TLV:1000 PPM; 9192
+
+Ingred Name:N-PROPYL ACETATE
+CAS:109-60-4
+RTECS #:AJ3675000
+Fraction by Wt: 8%
+Other REC Limits:200 PPM
+OSHA PEL:200 PPM/250 STEL
+ACGIH TLV:200 PPM/250STEL;9192
+
+Ingred Name:N-AMYL ACETATE  (SARA III)
+CAS:628-63-7
+RTECS #:AJ1925000
+Fraction by Wt: 7%
+Other REC Limits:530 PPM
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN: DERMATITIS. EYES: IRRITATION,
+    BLURRED BISION, NASAL/RESPIRATORY IRRITATION, DIZZINESS, HEADACHE,
+    FATIGUE, NAUSEA, UNCONSCIOUSNESS, GASTROINTESTINAL IRRITATION,
+    DIARRHEA. INGESTION: ASPIRATION IN TO LUNGS CAN CAUSE CHEMICAL
+    PNEUMONITIS& FATAL.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN: DERMATITIS. EYES: IRRITATION, BLURRED
+    VISION, NASAL/RESPIRATORY IRRITATION, DIZZINESS, HEADACHE, FATIGUE,
+    NAUSEA, UNCONSCIOUSNESS, GASTROINTESTINAL IRRITATION, DIARRHEA.
+    INGESTION: ASPIRATION IN TO LUNGS CAN CAUSE CHEMICAL PNEUMONITIS&
+    FATAL.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER FOR AT LEAST 15 MINS. SKIN: WASH W/SOAP &
+    WATER. INHALATION: MOVE TO FRESH AIR. GIVE OXYGEN, ARTIFICAL
+    RESPIRATION. INGESTION: DON'T INDUCE VOMITING. OBTAIN MEDICAL
+    ATTENTION IN AL L CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:43F
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL
+Fire Fighting Procedures:SELF CONTAINED BREATHING SUPPLY RECOMMENDED
+Unusual Fire/Explosion Hazard:COMBUSTION PRODUCTS MAY BE TOXIC.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:PICK UP W/INERT ABSORBENT, TRANSFER TO SEALED
+    CONTAINERS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:COOL WELL VENTILATED AREA, AWAY FROM
+    IGNITION SOURCES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AIR SUPPLIED BREATHING EQUIPMENT IF TLV'S
+    EXCEEDED
+Ventilation:LOCAL EXHAUST OR MECHANICAL TO KEEP 1
+Solubility in Water:INSOLUBLE
+Appearance and Odor:GRAY LIQUID, SWEET ODOR
+Percent Volatiles by Volume:38%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS
+Stability Condition to Avoid:IGNITION SOURCES
+Hazardous Decomposition Products:CO, CO2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:LICENSED INCINERATOR OR RECLAIMER, PER LOCAL,
+    STATE & FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,187 @@
+=====================  Product Identification  =====================
+
+Product ID:N-1088A WHITE EPOXY PRIMER
+MSDS Date:10/21/1994
+FSC:8010
+NIIN:01-193-0517
+Kit Part:Y
+MSDS Number: BWRDT
+=== Responsible Party ===
+Company Name:NILES CHEMICAL PAINT CO
+Address:225 FORT STREET
+Box:307
+City:NILES
+State:MI
+ZIP:49120
+Country:US
+Info Phone Num:616-683-3377
+Emergency Phone Num:219-236-5856
+Preparer's Name:MIKE LICHATOWICH
+CAGE:02388
+=== Contractor Identification ===
+Company Name:NILES CHEMICAL PAINT
+Address:225 FORT STREET
+Box:307
+City:NILES
+State:MI
+ZIP:49120
+Country:US
+Phone:616-683-3377/219-236-5856
+CAGE:02388
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 22%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:EPOXY RESIN
+CAS:15336-82-0
+RTECS #:MT9191000
+Fraction by Wt: 22%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:BUTYL ACETATE (CERCLA) (VAPOR PRESSURE 10 MM HG)
+CAS:123-86-4
+RTECS #:AF7350000
+Fraction by Wt: 21%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:150 PPM
+ACGIH TLV:150 PPM;STEL 200 PPM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:BUTYL ALCOHOL (SARA 313) (CERCLA) (VAPOR PRESSURE 4.4 MM HG
+    @ 20C)
+CAS:71-36-3
+RTECS #:EO1400000
+Fraction by Wt: 8%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:50 PPM
+ACGIH TLV:50 PPM (SKIN)
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:XYLENE (SARA 313) (CERCLA) (VAPOR PRESSURE 7.0 MM HG @ 20C)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 7%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM;STEL 150 PPM
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ZINC PHOSPHATE (SARA III)
+CAS:7779-90-0
+RTECS #:TD0590000
+Fraction by Wt: 4%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:PROPRIETARY INGREDIENTS  (MFR STATES UNIDENTIFIED
+    INGREDIENTS NOT CONSIDERED HAZARDOUS UNDER FED HAZARD COMM REGS)
+Fraction by Wt: BALANCE
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:VOC: 4.24 LBS/GAL
+RTECS #:9999999VO
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: SEVERE IRRITATION, LACRIMATION,
+    REDNESS, BLURRED VISION. SKIN: HARMFUL IF ABSORBED THROUGH SKIN.
+    CAN BE ABSORBED IN TOXIC AMOUNTS ESPECIALLY FROM PROLONGED OR
+    REPEATED EXPOSURES. INHAL: NASAL &	RESPIRATORY IRRITATION, CNS
+    DEPRESSION (DIZZINESS, DROWSINESS, WEAKNESS, FATIGUE, CONFUSION)
+    NAUSEA, HEADACHE, VERTIGO,*
+Effects of Overexposure:* UNCONSCIOUSNESS, ASPHYXIATION. INGESTION:
+    GASTROINTESTINAL, ABDOMINAL PAIN, NAUSEA, VOMITING, DIARRHEA.      
+	    CHRONIC EFFECTS: CORNEAL INFLAMMATION. PHOTOPHOBIA.
+    INCOHERENCE. CORNEAL VACUOLI ZATION, ANOREXIA.  TARGET ORGANS:
+    EYES, SKIN, RESP SYSTEM, CNS, GI TRACT, BLOOD, LIVER, KIDNEYS.
+Medical Cond Aggravated by Exposure:NONE KNOWN
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:MOVE TO FRESH AIR IMMED.IF BREATH STOPPED,GIVE ARTIF
+    RESP.GET MED AID ASAP.SKIN:IMMED FLUSH W/PLENTY OF H2O.IF MAT'L
+    PENETRATES CLOTH,IMMED REMOVE CONTAM CLOTHES.FLUSH W/H2O.GET MED
+    AID.WASH CLO THES & DECONTAM SHOES BEFORE REUSE.EYE:IMMED FLUSH
+    W/H2O 15 MIN,LIFT EYELID.GET MED AID IMMED.DON'T WEAR
+    CONTACTS.INGEST:DRINK 1-2 GLASSES H2O.DON'T VOMIT.SEE DR/POISON
+    CNTRL CTR IMMED.TREAT SYMPTOMS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:72.0F,22.2C
+Lower Limits:1.0
+Upper Limits:11.0
+Extinguishing Media:DRY CHEMICAL, FOAM, CO2
+Fire Fighting Procedures:WEAR SCBA W/FULL FACPIECE (POSITIVE PRESSURE
+    MODE) & FULL PROTECT CLOTH. USE WATER TO COOL CLOSED CNTNR TO
+    PREVENT PRESSURE BLDUP/AUTO IGNIT/EXPLOSION W/HEAT.
+Unusual Fire/Explosion Hazard:KEEP CNTNR CLSD.VAPOR >AIR,TRAVEL ON GRND
+    TO IGNIT.KEEP FROM HEAT/IGNIT.CLSD CNTNR MAY EXPLODE W/HEAT.APPLIC
+    TO HOT SRFC REQ SPCL CAUTION.DECOMP PRODCT-HLTH HZD
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SMALL:ELIMINATE IGNIT SOURCE.MINIMIZE
+    BREATHING VAPOR.AVOID SKIN CONTACT.ABSORB W/INERT
+    MAT'L(CLAY,SOIL,COMMRCL ABSORB).SHOVEL RECLAIMD LIQ & ABSORB INTO
+    RECOVERY/SALVAGE DRUM. LRG:ELIM IGNIT.MINIMIZE  BREATHING
+    VAPOR.DIKE.RECLAIM INTO DRUMS/TANK TRCK
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID STORAGE IN HIGH TEMP AREAS OR
+    NEAR FIRE OR OPEN FLAME. KEEP CONTAINERS CLOSED WHEN NOT IN USE.
+    AVOID ROUGH HANDLING.
+Other Precautions:CONTAINERS OF THIS MATERIAL MAY BE HAZARDOUS WHEN
+    EMPTY. DO NOT WELD OR FLAME CUT ON EMPTY DRUMS. SHOCK FROM DROPPING
+    MAY SPLIT CONTAINER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR FITTED 1/2 MASK (TC-23C-75) OR FULL
+    FACEPIECE RESPIRATOR (NIOSH/MSHA) DURING & AFTER APPLICATION UNLESS
+    AIR MONITORING DEMONSTRATES VAPOR/MIST LEVELS ARE BELOW APPLICABLE
+    LIMITS. FOLLOW RESPIRATO R MANUFACTURER'S DIRECTIONS FOR USE.
+Ventilation:KEEP AIR CONCEN  AIR
+Spec Gravity:1.341
+Viscosity:63-67 KU
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:SLIGHT
+Appearance and Odor:LIQUID, ODOR OF SOLVENTS
+Percent Volatiles by Volume:59.40
+Corrosion Rate:MINIMAL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NITRATES, STRONG OXIDIZERS, ALKALIES, ACIDS
+Stability Condition to Avoid:HIGH TEMPERATURES
+Hazardous Decomposition Products:CAN PRODUCE CARBON MONOXIDE AND/OR
+    CARBON DIOXIDE.
+Conditions to Avoid Polymerization:HIGH TEMPERATURES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH APPLICABLE LOCAL,
+    STATE, AND FEDERAL REGULATIONS. EPA HAZARDOUS WASTE CODE: D001,
+    IGNITABLE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

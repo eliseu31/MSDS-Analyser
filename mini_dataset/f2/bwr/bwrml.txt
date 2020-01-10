@@ -1,0 +1,123 @@
+=====================  Product Identification  =====================
+
+Product ID:MIL-S-2912-TYPE II
+MSDS Date:12/16/1992
+FSC:9320
+NIIN:01-310-5078
+MSDS Number: BWRML
+=== Responsible Party ===
+Company Name:BUCKEYE RUBBER PRODUCTS INC
+Address:637 N JACKSON ST
+Box:389
+City:LIMA
+State:OH
+ZIP:45802-0389
+Country:US
+Info Phone Num:419-228-4441/FAX 419-222-5010
+Emergency Phone Num:419-228-4441
+Preparer's Name:DARRELL KLIMA
+CAGE:94519
+=== Contractor Identification ===
+Company Name:BUCKEYE RUBBER PRODUCTS INC
+Address:637 N JACKSON ST
+Box:389
+City:LIMA
+State:OH
+ZIP:45802-0389
+Country:US
+Phone:419-228-4441
+CAGE:94519
+Company Name:CHESAPEAKE BAY RUBBER AND GASKET CO.,IN
+CAGE:CHESA
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NEOPRENE SYNTHETIC RUBBER
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and
+    Chronic:ARTICLE(IAW:29CFR1910.1200).DECOMPOSITION PRODUCTS BY FIRE
+    INCLUDE HYDROGEN CHLORIDE,WHICH MAY CAUSE RESPIRATORY IRRITATION.
+Explanation of Carcinogenicity:THERE ARE NO INGREDIENTS ABOVE 0.1%
+    WHICH ARE IDENTIFIED AS CARCINOGENS BY NTP,IARC OR OSHA.
+Effects of Overexposure:NONE EXPECTED IN NORMAL SERVICE.
+Medical Cond Aggravated by Exposure:UNLIKELY TO AGGRIVATE EXISTING
+    MEDICAL CONDITIONS UNDER NORMAL CONDITIONS OF USE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:REMOVE CONTAMINATED CLOTHING;WASH WITH SOAP AND
+    WATER.EYES:FLUSH WITH WATER FOR 15 MINUTES.INHAL:FOR DECOMPOSITION
+    PRODUCTS,REMOVE TO FRESH AIR.GIVE OXYGEN OR ARTIFICIAL RESPIRATION
+    IF NEEDED.ING EST:NO FIRST AID SHOULD BE NEEDED.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:WATER,DRY CHEMICAL,CARBON DIOXIDE,FOAM.
+Fire Fighting Procedures:USE A SELF-CONTAINED BREATHING APPARATUS AND
+    FULL PROTECTIVE EQUIPMENT.
+Unusual Fire/Explosion Hazard:FIRE CONDITIONS MAY EVOLVE TOXIC FUMES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:PICK UP AND PLACE IN STORAGE CONTAINER.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL,DRY,WELL-VENTILATED
+    PLACE.KEEP CONTAINER CLOSED WHEN NOT IN USE.
+Other Precautions:FOLLOW LABEL DIRECTIONS.AVOID BREATHING DUST.AVOID
+    SKIN AND EYE CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:FOR FIRE CONTITIONS,USE EITHER A SELF-CONTAINED
+    BREATHING APPARATUS OR A NIOSH/MSHA APPROVED RESPIRATOR FOR ORGANIC
+    VAPORS,DEPENDING ON THE AIRBORN CONCENTRATION.
+Ventilation:LOCAL VENTILATION AT THE WORKSITE,AS
+    NEEDED;MECHANICAL(GENERAL) VENTILATION TO MAINTAIN TLV/PEL.
+Protective Gloves:WORK GLOVES(COTTON).
+Eye Protection:SAFETY GLASSES OR GOGGLES.
+Other Protective Equipment:PROTECTIVE CLOTHING,AS NEEDED TO AVOID
+    CONTACT WITH CHEMICALS.PROVIDE A LOCAL EYE WASH STATION AND SAFETY
+    SHOWER.
+Work Hygienic Practices:USE REASONABLE CARE IN HANDLING THIS
+    PRODUCT.WASH HANDS AFTER USE AND BEFORE EATING.
+Supplemental Safety and Health
+TYPE II IS A SYNTHETIC RUBBER WHICH IS APPLIED IN THE VULCANIZED STATE
+    BY ADHERING IT TO THE COMPARMENT WITH ADHESIVE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Spec Gravity:1.4
+Solubility in Water:INSOLUBLE
+Appearance and Odor:SOLID,SHEET;BLACK;VERY SLIGHT ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+MANUFACTURER STATES NONE KNOWN.
+Stability Condition to Avoid:MANUFACTURER STATES NONE KNOWN.
+Hazardous Decomposition Products:CARBON DIOXIDE,CARBON
+    MONOXIDE,HYDROGEN CHLORIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH FEDERAL,STATE AND
+    LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,149 @@
+=====================  Product Identification  =====================
+
+Product ID:HELIUM
+MSDS Date:08/23/1989
+FSC:6830
+NIIN:01-008-3431
+MSDS Number: BWRXH
+=== Responsible Party ===
+Company Name:BIG THREE INDUSTRIES INC
+Address:D
+City:HOUSTON
+State:TX
+ZIP:77253
+Country:US
+Info Phone Num:713-896-2140
+Emergency Phone Num:713-868-9302
+CAGE:17688
+=== Contractor Identification ===
+Company Name:AIR LIQUIDE AMERICA CORPORATION
+Address:2700 POST OAK DRIVE
+Box:City:HOUSTON
+State:TX
+ZIP:77056-8229
+Country:US
+Phone:713-896-2896;800-231-1366
+CAGE:17688
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HELIUM
+CAS:7440-59-7
+RTECS #:MH6520000
+Fraction by Wt: 100%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:SUPP DATA: NECESSARY TO SUPPORT LIFE. INHALING DIRECTLY
+    FROM FILLING EQUIP CAN ALSO CAUSE SERIOUS LUNG DMG WHICH(ING 3)
+RTECS #:9999999ZZ
+
+Ingred Name:ING 2: COULD RESULT IN DEATH. FOR FURTHER PRECAUTIONS, SEE
+    BIG THREE INDUSTRIES' CUSTOMER SAFETY BULLETIN (ING 4)
+RTECS #:9999999ZZ
+
+Ingred Name:ING 3: "SAFE FILLING OF HELIUM BALLOONS".
+RTECS #:9999999ZZ
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:HELIUM IS NONTOXIC, BUT MAY CAUSE
+    SUFFOCATION BY DISPLACING OXYGEN IN AIR. EXPSOURE TO
+    OXYGEN-DEFICIENT ATMOSPHERES MAY CAUSE DIZZINESS, NAUSEA, VOMITING,
+    DIMINISHED MENTAL ALERTNESS, LOSS OF CONSCIOU SNESS & DEATH. IT
+    SHOULD BE RECOGNIZED THAT COLLAPSE & ASPHYXIATION MAY OCCUR W/OUT
+    EXPERIENCING ANY(EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ: OF THE ABOVE SYMPTOMS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: PERS SUFFERING FROM LACK OF O*2 SHOULD BE MOVED INTO
+    FRESH AIR. IF VICTIM IS NOT BRTHG, ADMIN ARTF RESP. IF BRTHG IS
+    DFCLT, ADMIN O*2. OBTAIN PROMPT MED ATTN. EYE: FLUSH/POTABLE WATER
+    FOR AT LE AST 15 MINS. SEE MD. SKIN: FLUSH/COPIOUS AMOUNTS OF
+    WATER. SEE MD. INGEST: CALL MD IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:MATL IS NONFLAMM. HELIUM NEITHER BURNS NOR SUPPORTS
+    COMBUSTION. USE EXTING MEDIA APPROP FOR SURROUNDING FIRE.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPRVD SCBA & FULL PROT EQUIP.
+    HELIUM WILL ACT AS SIMPLE ASPHYX IF DISPLACES OXYGEN. IF POSS,
+    REMOVE HELIUM CYLINDERS FROM FIRE(SUPDAT)
+Unusual Fire/Explosion Hazard:PRESSURE CAN BUILD UP DUE TO HEAT &
+    CYLINDER MAY EXPLODE IF PRESSURE RELIEF DEVICES SHOULD FAIL TO
+    RELIEVE PRESSURE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVAC ALL UNNEC PERS FROM AFFECTED AREA. SHUT
+    OFF SOURCE OF HELIUM IF POSS. VENT ENCLSD AREAS/REMOVE CYLINDERS TO
+    AN OUTDOOR LOCATION TO PVNT FORM/OXYGEN-DEFICIENT ATM. IF LEAKING
+    FROM CNTNR/VALVE. CON T CLOSEST BIG THREE INDUSTRIES
+    LOCATION/SUPPLIER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE & USE W/ADEQ VENT. CYLINDERS
+    SHOULD BE STORED UPRIGHT W/VALVE PROT CAP IN PALCE & FIRMLY SECURED
+    TO VNT FALLING/BEING KNOCKED OVER.
+Other Precautions:PROT CYLINDERS FROM PHYSICAL DMG; DO NOT DRAG, ROLL,
+    SLIDE OR DROP. USE A SUITABLE HAND TRUCK FOR CYLINDER MOVEMENT. DO
+    NOT ALLOW THE TEMP WHERE CYLINDERS ARE STORED TO EXCEED 125F(52C).
+    NEVER STRIKE  A WELDING ARC ON ANY COMPRESSED(SUPDAT)
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED SCBA OR POSITIVE
+    PRESSURE AIR LINE W/MASK IN OXYGEN-DEFICIENT ADTMOSPHERES.
+    RESPIRATORS WILL NOT FUNCTION.
+Ventilation:LOCAL/MECHANICAL: ADEQUATE TO AVOID LOWERING OXYGEN CONTENT
+    TO BELOW 19.5% (OXYGEN-DEFICIENT ATMOSPHERE).
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPRVD SAFETY GLASSES.
+Other Protective Equipment:SAFETY SHOES WHEN HANDLING CYLINDERS.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+FIRE FIGHT PROC:AREA/COOL W/WATER TO AVOID EXCESS PRESS BUILDUP. OTHER
+    PREC: GAS CYLINDER. REFILLING CYLINDERS W/OUT CONSENT OF CYLINDER
+    OWNER IS A VIOLATION OF FEDERAL LAW(CFR). DO NOT ALLOW ANYONE T O
+    INHALE HELIUM FROM FILLING EQUIP/FROMBALLOONS. RAPID SUFFOCATION
+    CAN TAKE PLACE BY REDUCING CONC OF O*2 IN AIR(ING 2)
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:-452F,-269C
+Vapor Density:0.01034
+Spec Gravity:0.138(AIR=1)
+Evaporation Rate & Reference:N/A (GAS)
+Solubility in Water:0.94SCC/100CC
+Appearance and Odor:COLORLESS, ODORLESS, TASTELESS GAS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE.
+Stability Condition to Avoid:NONE.
+Hazardous Decomposition Products:NONE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DO NOT ATTEMPT TO DISP OF RESIDUAL/UNUSED QTYS.
+    RETURN TO YOUR SUPPLIER FOR DISP. FOR EMER DISP, SECURE CYLINDER &
+    VENT SLOWLY TO THE ATMOSPHERE IN A WELL-VENTILATED AREA OR
+    OUTDOORS. DISP OF I/A/W LO CAL, STATE & FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

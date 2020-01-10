@@ -1,0 +1,113 @@
+=====================  Product Identification  =====================
+
+Product ID:424 POLYSULFIDE SEALANT
+MSDS Date:08/26/1988
+FSC:8030
+NIIN:00-530-6608
+MSDS Number: BKYLS
+=== Responsible Party ===
+Company Name:GENERAL SEALANTS INC
+Address:800 SOUTH TURNBULL CANYON ROAD
+Box:3855
+City:CITY OF INDUSTRY
+State:CA
+ZIP:91745
+Info Phone Num:(800) 762-1144	 (818) 961-0211
+Emergency Phone Num:(800) 762-1144    (818) 961-0211
+CAGE:53992
+=== Contractor Identification ===
+Company Name:GENERAL SEALANTS INC
+Address:300 S TURNBULL CANYON RD
+Box:3855
+City:CITY OF INDUSTRY
+State:CA
+ZIP:91744
+Country:US
+Phone:818-961-0211
+CAGE:53992
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PLASTICIZER
+
+Ingred Name:POLYSULFIDE RUBBER
+ACGIH TLV:20 MG/CUM
+
+Ingred Name:PARAFFINIC OILS
+CAS:64771-72-8
+ACGIH TLV:0.2 OZ/CUFT
+
+Ingred Name:FILLERS
+ACGIH TLV:4 MG/CUM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN/EYES: BURNS OR IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN/EYES: BURNS OR IRRITATION.
+Medical Cond Aggravated by Exposure:SENSITIVITY
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN/EYES: FLUSH W/WATER. OBTAIN MEDICAL ATTENTION IN ALL
+    CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER, CO2, OR DRY CHEMICAL
+Fire Fighting Procedures:USE WATER SPRAY TO COOL FIRE-EXPOSED SURFACES
+    & TO PROTECT PERSONNEL.
+Unusual Fire/Explosion Hazard:NON-EXPLOSIVE. SOLID MATERIAL MAY BURN AT
+    OR ABOVE FLASH POINT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE SOURCES OF IGNITION. PREVENT
+    ADDITIONAL DISCHARGE OF MATERIAL. IMPLEMENT CLEAN UP PROCEDURE &
+    NOTIFY AUTHORITIES IF APPROPRIATE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE UNDER NORMAL CONDITIONS. STORE
+    AT 72F.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED
+Ventilation:NONE REQUIRED
+Protective Gloves:NONE REQUIRED
+Eye Protection:NONE REQUIRED
+Other Protective Equipment:NONE REQUIRED
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Decomp Temp:Decomp Text:800F
+Spec Gravity:1.34
+Solubility in Water:INSOLUBLE
+Appearance and Odor:BLACK, SLIGHT ODOR.
+Percent Volatiles by Volume:0.7%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS & OXIDIZING SUBSTANCES
+Stability Condition to Avoid:SOURCES OF IGNITION
+Hazardous Decomposition Products:CO & FLAMMABLE HYDROCARBONS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:USE STANDARD METHODS. RECOVER MATERIAL & PLACE
+    IN CONTAINERS FOR RECYCLE OR DISPOSAL. ENSURE LOCAL DISPOSAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

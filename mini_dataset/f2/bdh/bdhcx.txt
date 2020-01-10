@@ -1,0 +1,142 @@
+=====================  Product Identification  =====================
+
+Product ID:MIL-L-46152C GR 10W30
+MSDS Date:12/02/1985
+FSC:9150
+NIIN:00-186-6699
+MSDS Number: BDHCX
+=== Responsible Party ===
+Company Name:DAVIS HOWLAND OIL CORP.
+Address:200 ANDERSON AVE
+City:ROCHESTER
+State:NY
+ZIP:14607-1111
+Country:US
+Info Phone Num:716-473-6650
+Emergency Phone Num:716-473-6650
+CAGE:5A565
+=== Contractor Identification ===
+Company Name:DAVIS HOWLAND OIL CORP.
+Address:200 ANDERSON AVE.
+City:ROCHESTER
+State:NY
+ZIP:14607
+Country:US
+Phone:716-473-6650
+CAGE:5A565
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LUBRICATING OIL BASE STOCK
+CAS:64791-97-5
+Fraction by Wt: >85%
+OSHA PEL:5 MG/CUM (OIL MIST)
+ACGIH TLV:5 MG/CUM (OIL MIST)
+
+Ingred Name:ADDITIVES (PROPRIETARY COMPOSITION)-MFR WOULD NOT DIVULGE
+Fraction by Wt: <15%
+OSHA PEL:5 MG/CUM (OIL MIST)
+ACGIH TLV:5 MG/CUM (OIL MIST)
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MAY CAUSE SKIN IRRITATION AND
+    DERMATITIS.
+Effects of Overexposure:EYE, SKIN AND LUNG IRRITATION.
+Medical Cond Aggravated by Exposure:SKIN DISORDERS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH WITH WATER FOR 15 MINUTES OR UNTIL IRRITATION
+    SUBSIDES. IF IRRITATION PERSISTS, CALL A PHYSICIAN. SKIN: REMOVE
+    ANY CONTAMINATED CLOTHING AND WASH SKIN THOROUGHLY WITH SOAP &
+    WATER. INHALATI ON: VAPOR PRESSURE IS VERY LOW. VAPOR INHALATION IS
+    NOT NORMALLY A PROBLEM. IF OVERCOME BY VAPOR FROM HOT PRODUCT,
+    IMMEDIATELY REMOVE FROM EXPOSURE AND CALL A PHYSICIAN. USE CPR OR
+    OXYGEN AS REQUIRED.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:>392F, 200C
+Autoignition Temp:Autoignition Temp Text:>500F
+Lower Limits:7.0
+Upper Limits:0.9
+Extinguishing Media:FOAM, WATER SPRAY(FOG), DRY CHEMICAL, CARBON
+    DIOXIDE AND VAPORIZING LIQUID.
+Fire Fighting Procedures:USE WATER TO KEEP FIRE-EXPOSED CONTAINERS
+    COOL. FLUSH SPILLS W/WATER AWAY FROM FIRE. WEAR SCBA FOR ENCLOSED
+    OR CONFINED SPACES. DO NOT BREATHE FUMES.
+Unusual Fire/Explosion Hazard:"EMPTY" CONTAINERS RETAIN RESIDUE AND CAN
+    BE DANGEROUS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:RECOVER FREE PRODUCT. ADD SAND, EARTH, OR
+    OTHER SUITABLE ABSORBENT TO SPILL AREA. MINIMIZE SKIN CONTACT. KEEP
+    PRODUCT OUT OF SEWERS AND WATERCOURSES BY DIKING OR IMPOUNDING.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINERS CLOSED WHEN NOT IN
+    USE. DO NOT HANDLE OR STORE NEAR HEAT, SPARKS, FLAME OR STRONG
+    OXIDANTS.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NORMALLY NOT NEEDED AT AMBIENT TEMPERATURES. USE
+    SUPPLIED-AIR RESPIRATORY PROTECTION IN CONFINED OR ENCLOSED SPACES,
+    IF REQUIRED.
+Ventilation:USE LOCAL EXHAUST TO CAPTURE VAPOR, MISTS OR FUMES, IF
+    NECESSRY. MECHANICAL (GEN) TO LIMIT BUILDUP OF VAPOR.
+Protective Gloves:USE CHEMICAL-RESISTANT GLOVES
+Eye Protection:USE SPLASH GOGGLES OR FACE SHIELD
+Other Protective Equipment:USE CHEMICAL-RESISTANT APRON OR OTHER
+    IMPERVIOUS CLOTHING.
+Work Hygienic Practices:MINIMIZE BREATHING VAPOR, MIST OR FUMES. AVOID
+    PROLONGED/REPEATED CONTACT WITH SKIN. REMOVE CONTAMINATED CLOTHING
+    & WASH
+Supplemental Safety and Health
+PRODUCT IS READILY REMOVED FROM SKIN BY WATERLESS HAND CLEANERS
+    FOLLOWED BY WASHING THOROUGHLY WITH SOAP AND WATER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:555F,291C
+Vapor Pres:<0.01
+Vapor Density:>5
+Spec Gravity:0.872
+pH:7.0
+Viscosity:10 CST@100C
+Evaporation Rate & Reference:<0.01 (N-BUTYL ACETATE=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:CLEAR,GOLDEN-BROWN,OILY LIQUID
+Percent Volatiles by Volume:0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDANTS SUCH AS LIQUID CHLORINE, CONC OXYGEN, SODIUM
+    HYPOCHLORITE OR CALCIUM HYPOCHLORITE.
+Stability Condition to Avoid:NONE SPECIFIED
+Hazardous Decomposition Products:FUMES, SMOKE, CARBON MONOXIDE, SULFUR
+    OXIDES, ALDEHYDES & OTHER DECOMPOSITION PRODUCTS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE IN ACCORDANCE WITH FEDERAL, STATE AND
+    LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

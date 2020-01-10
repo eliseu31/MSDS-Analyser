@@ -1,0 +1,142 @@
+=====================  Product Identification  =====================
+
+Product ID:BR 624 POTTING COMPOUND
+MSDS Date:08/07/1989
+FSC:8030
+NIIN:01-259-2424
+MSDS Number: BHWDT
+=== Responsible Party ===
+Company Name:AMERICAN CYANAMID CO CHEMICAL LIGHT DEPT
+Address:ONE CYANAMID PLAZA
+City:WAYNE
+State:NJ
+ZIP:07470-4028
+Country:US
+Info Phone Num:201-835-3100
+Emergency Phone Num:201-835-3100
+Preparer's Name:MARVIN A. FRIEDMAN, PH.D.
+CAGE:83289
+=== Contractor Identification ===
+Company Name:AMERICAN CYANAMID CO CYTEC INDUSTRIES DIV CHEMICAL LIGHT
+    DEP
+Address:5 GARRET MOUNTAIN PLZ
+Box:City:LITTLE FALLS
+State:NJ
+ZIP:07424
+Country:US
+Phone:201-831-2000/201-357-3100
+CAGE:83289
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SILICA, AMORPHOUS, DUST
+CAS:112945-52-5
+RTECS #:VV7310000
+Fraction by Wt: 2.80%
+OSHA PEL:6 MG/M3
+ACGIH TLV:10 MG/M3; 8990
+
+Ingred Name:GLYCERIN
+CAS:56-81-5
+RTECS #:MA8050000
+Fraction by Wt: 1.1%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 (MIST) 9293
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL RAT) IS 7500 MG/KG (SILICA)
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ALLERGIC SKIN REACTIONS OR PRIMARY
+    SKIN IRRITATION MAY BE PRODUCED BY PROLONGED OR REPEATED DERMAL
+    CONTACT WITH EPOXY RESINS. OVEREXPOSURE TO VAPOR DURING HEAT CURING
+    MAY CAUSE IRRITATION OR INJURY OF  THE RESPIRATORY TRACT AND EYE
+    IRRITATION.
+Explanation of Carcinogenicity:NONE OF THE CHEMICALS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:EYE, SKIN AND RESPIRATORY TRACT IRRITATION.
+Medical Cond Aggravated by Exposure:PERSONS WITH A HISTORY OF SKIN OR
+    RESPIRATORY DISORDERS MAY BE AT INCREASED RISK FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:IN CASE OF SKIN CONTACT, IMMEDIATELY WASH AFFECTED AREAS WITH
+    SOAP AND PLENTY OF WATER. REMOVE CONTAMINATED CLOTHING AND SHOES.
+    OBTAIN MEDICAL ATTENTION. IN CASE OF INHALATION, REMOVE VICTIM TO
+    FRESH  AIR.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE WATER, CARBON DIOXIDE OR DRY CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE CLOTHING AND EQUIPMENT. SWEEP
+    UP SPILLS AND PLACE IN A WASTE DISPOSAL CONTAINER. FLUHS AREA WITH
+    WATER.
+Neutralizing Agent:NONE APPLICABLE FOR THIS MATERIAL
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:MUST BE STORED AT OR BELOW 0 F TO
+    PROLONG USEFUL WORKING LIFE. DO NOT STORE NEAR FOOD.
+Other Precautions:AVOID SKIN CONTACT. FOOD, BEVERAGES AND TOBACCO
+    PRODUCTS SHOULD NOT BE CARRIED, STORED, OR CONSUMED WHERE THIS
+    MATERIAL IS IN USE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF VENTILATION DOES NOT MAINTAIN INHALATION
+    EXPOSURES BELOW PEL (TLV), USE NIOSH/MSHA APPROVED RESPIRATOR AS
+    PER CURRENT 29 CFR 1910.134, INSTRUCTIONS/WARNINGS AND
+    NIOSH-RESPIRATOR SELECTION.
+Ventilation:GOOD ENCLOSURE AND LOCAL CONTROL VENTILATION SHOULD BE
+    PROVIDED WHEN SPRAYING OR CURING AT ELEVATED TEMPERATURES.
+Protective Gloves:BARRIER CREAM AND PROTECTIVE GLOVES.
+Eye Protection:SPLASH PROOF GOGGLES OR FACESHIELD.
+Other Protective Equipment:SAFETY SHOWER AND EYE BATH. PROTECTIVE
+    CLOTHING AS REQUIRED TO MINIMIZE EXPOSURE FROM PROLONGED OR
+    REPEATED CONTACT.
+Work Hygienic Practices:WASH THROUGHLY AFTER HANDLING AND BEFORE
+    EATING. LAUNDER CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+DESTROY OR THOROUGHLY CLEAN SHOES BEFORE REUSE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V7
+Spec Gravity:0.6
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:BROWNISH-RED PASTE. NO ODOR.
+Percent Volatiles by Volume:<2.0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, ACIDS AND BASES.
+Stability Condition to Avoid:MUST BE STORED AT 0 F TO PROLONG USEFUL
+    WORKING LIFE.
+Hazardous Decomposition Products:CARBON DIOXIDE, CARBON MONOXIDE,
+    AMMONIA AND/OR OXIDES OF NITROGEN.
+Conditions to Avoid Polymerization:POLYMERIZES SLOWLY AT ROOM
+    TEMPERATURE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH ALL APPLICABLE
+    FEDERAL, STATE AND LOCAL LAWS AND REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

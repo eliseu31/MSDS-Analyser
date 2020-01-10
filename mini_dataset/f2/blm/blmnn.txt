@@ -1,0 +1,144 @@
+=====================  Product Identification  =====================
+
+Product ID:ADHESIVE AND SEAM SEALER, G-8433
+MSDS Date:09/30/1991
+FSC:8040
+NIIN:00N021835
+MSDS Number: BLMNN
+=== Responsible Party ===
+Company Name:GLOBAL CHEMICAL SYSTEMS, INC
+Address:12842 PIERCE ST
+City:PACOIMA
+State:CA
+ZIP:91331
+Country:US
+Info Phone Num:818-897-5801
+Emergency Phone Num:818-897-5801
+CAGE:60383
+=== Contractor Identification ===
+Company Name:GLOBAL CHEMICAL SYSTEMS INC
+Address:PACOIMA
+Country:CD
+CAGE:60383
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DIMETHYLFORMAMIDE
+CAS:68-12-2
+RTECS #:LQ2100000
+OSHA PEL:S, 10 PPM
+ACGIH TLV:S, 10 PPM; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:POLYURETHANE RESIN, STABILIZERS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:INGEST:NAUSEA, VOMITING. DO NOT INDUCE
+    VOMITING. EYE:IRRITANT. SKIN:IRRITANT. NOT A SENSITIZER, DMF MAY
+    CAUSE LIVER DAMAGE IF ABSORBED THROUGH SKIN OR INHALED. INHAL:(10
+    PPM TWA)-SEE BELOW.
+Explanation of Carcinogenicity:DIMETHYLFORMAMIDE: IARC GROUP 2B.
+Effects of Overexposure:NAUSEA, HEADACHE, DIZZINESS, ABDOMINAL
+    DISCOMFORT. SHORT LIVED INTOLERANCE FOR ALCOHOLIC BEVERAGES
+    EXHIBITED BY REDNESS OF FACE, NECK ETC.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:REMOVE TO FRESH AIR. GIVE ARTIFICIAL RESPIRATION IF
+    NECESSARY. SKIN:FLUSH WITH PLENTY OF WATER. INGEST:GIVE ACTIVATED
+    CHARCOAL SLURRY. (50 MG ACTIVATED CHARCOAL IN 400 ML. WATER). CALL
+    A PHYSICI AN. EYE:FLUSH WITH PLENTY OF WATER FOR 15 MINUTES AT
+    LEAST.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:45.0F,7.2C
+Lower Limits:1.8
+Upper Limits:11.8
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL
+Fire Fighting Procedures:MUST WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:ALSO SEE DMF & TOLUENE MATL SAFETY DATA
+    SHEETS. VAPS ARE HEAVIER THAN AIR & MAY TRAVEL ALONG GROUND/BE
+    MOVED BY VENT & IGNITED BY HEAT, PILOT LIGHTS,(SUPP DATA)
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:AVOID SKIN CONTACT. CLEAN AS A CHEMICAL SPILL.
+    USE OIL ABSORBENT FILLER AND DISPOSE OF AS PER FEDERAL, STATE, AND
+    LOCAL REGULATIONS.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN CLOSED VENTED VESSELS AWAY
+    FROM SOURCE OF SPARK OR OPEN FLAME. DO NOT LEAVE CNTNRS OPEN. USE
+    ADEQ VENT. AVOID PRLNGD OR RPTD BRTHG OF VAP.
+Other Precautions:AVOID CONTACT WITH EYES. WEAR GLOVES. EQUIPMENT
+    SHOULD BE ELECTRICALLY GROUNDED. AVOID COPPER (POSSIBLE PRESENCE OF
+    ACETYLENE). IDEAL STORAGE TEMPERATURE:60 F TO 100 F. SHELF LIFE 3-4
+    MONTHS UNOPENED,  60 DAYS AFTER OPENED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED FULL FACE PIECE WITH AIR
+    SUPPLY ABOVE 100 PPM.
+Ventilation:LOCAL EXHAUST:TO MAINTAIN BELOW TLV LIMITS. MECHANICAL:
+    PROVIDE SUCH VENTILATION.
+Protective Gloves:RUBBER OR SUITABLE PLASTIC GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES.
+Other Protective Equipment:POSSIBLE FACE SHIELD.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+EXPLOS HAZ:OTHER FLAMES AND IGNITION SOURCES AT LOCATION DISTANT FROM
+    MATERIAL HANDLING POINTS. NEVER USE WELDING OR CUTTING TORCH ON OR
+    NEAR DRUM (EVEN EMPTY) BECAUSE PRODUCT CAN IGNITE EXPLOSIVELY.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F3
+Boiling Pt:B.P. Text:230F,110C
+Vapor Pres:2.7
+Vapor Density:2.7
+Spec Gravity:0.9
+Solubility in Water:YES
+Appearance and Odor:YELLOW (DMF TOLUENE ODOR) LIQUID.
+Percent Volatiles by Volume:80%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING MATL. DMF MAY REACT VIOLENTLY W/SOME POLYHALOGENATED
+    COMPOUNDS IN PRESENCE OF IRON, CHLORINE, BROMINE, ETC.
+Stability Condition to Avoid:STABLE AT ROOM TEMPERATURE. SEALED
+    CONTAINERS MAY ERUPT UNDER HIGH TEMPERATURES.
+Hazardous Decomposition Products:DIMETHYLAMINE, CO, CO2, HCN, NOX
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF AS PER LOCAL, STATE, AND FEDERAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

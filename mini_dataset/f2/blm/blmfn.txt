@@ -1,0 +1,197 @@
+=====================  Product Identification  =====================
+
+Product ID:ALUMINUM LACQUER, S4844
+MSDS Date:07/04/1990
+FSC:8010
+NIIN:00N020959
+MSDS Number: BLMFN
+=== Responsible Party ===
+Company Name:SUPERIOR COATINGS INC
+Address:7230 C F HAWN FREEWAY
+Box:17707
+City:DALLAS
+State:TX
+ZIP:75217
+Country:US
+Info Phone Num:214-391-2171
+Emergency Phone Num:214-391-2171
+CAGE:SCOAT
+=== Contractor Identification ===
+Company Name:SUPERIOR COATINGS INC
+Address:7230 C F HAWN FREEWAY
+Box:17707
+City:DALLAS
+State:TX
+ZIP:75217
+Country:US
+Phone:214-391-2171
+CAGE:SCOAT
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 50.45%
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: 11.95%
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+Ingred Name:RESIN. VP: 12.5. LEL: 1%.
+Fraction by Wt: 4.34%
+OSHA PEL:150 PPM (MFR)
+ACGIH TLV:150 PPM (MFR)
+
+Ingred Name:METHYL ISOBUTYL KETONE  (SARA III)
+CAS:108-10-1
+RTECS #:SA9275000
+Fraction by Wt: 13.69%
+OSHA PEL:100 PPM/75 STEL
+ACGIH TLV:50 PPM/75 STEL; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:METHYL N-AMYL KETONE
+CAS:110-43-0
+RTECS #:MJ5075000
+Fraction by Wt: 1.91%
+OSHA PEL:100 PPM
+ACGIH TLV:50 PPM; 9192
+
+Ingred Name:ALUMINUM  (SARA III)
+CAS:7429-90-5
+RTECS #:BD0330000
+Fraction by Wt: 3.14%
+OSHA PEL:15MG/M3 DUST/5 FUME
+ACGIH TLV:10MG/M3 DUST; 9192
+
+Ingred Name:NITROCELLULOSE; (RESIN)
+CAS:9004-70-0
+RTECS #:QW0970000
+Fraction by Wt: 9.09%
+
+Ingred Name:ISOBUTYL ACETATE  (SARA III)
+CAS:110-19-0
+RTECS #:AI4025000
+Fraction by Wt: 4.16%
+OSHA PEL:150 PPM
+ACGIH TLV:150 PPM; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHAL:EXCESSIVE INHAL OF VAPORS CAN
+    CAUSE NASAL AND RESPIRATORY IRRITATION, DIZZINESS, WEAKNESS,
+    FATIGUE, NAUSEA, HEADACHE, POSSIBLE UNCON AND EVEN ASPHYXIATION.
+    SKIN/EYE:EYE CONTACT CAN CAUSE IRRITAT ION, REDNESS, TEARING, AND
+    BLURRED VISION. SKIN CONTACT CAN CAUSE REDNESS, DRYNESS, OR RASH.
+    SKIN (SEE EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ:ABSORPTION:PRLNG CONT CAN CAUSE
+    IRRIT/DRY SKIN/CRACKS, & DERM. INGEST: MAY CAUSE VOMIT/NAUS, DIARR,
+    & GI IRRIT. LONG TERM OVEREXP OF SOLVENTS IS SUSPECTED OF CAUSING
+    LIVER, KIDNEY, LUNG & CEN TRAL NERVOUS SYSTEM DAMAGE.
+    INTENTIONALMISUSE BY DELIBERATELY CONCENTRATING & INHALING SOLVENTS
+    MAY BE HARMFUL/FATAL.
+Medical Cond Aggravated by Exposure:RESPIRATORY AND SKIN SENSITIVITY.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:MOVE TO FRESH AIR, AID BREATHING, CALL PHYS. EYE: IMMED
+    FLUSH WITH WATER FOR AT LEAST 15 MIN AND CALL PHYS. SKIN: REMOVE
+    CONTAMINATED CLOTHING, WASH AREA IMMED WITH SOAP AND WATER. SEE
+    PHYS IF I RRITATION PERSISTS. INGEST: DRINK 1 OR 2 GLASSES OF WATER
+    TO DILUTE. DO NOT NOT INDUCE VOMIT. CONSULT PHYS OR POISON CONTROL
+    CENTER IMMED.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:40.0F,4.4C
+Lower Limits:1%
+Upper Limits:7.9%
+Extinguishing Media:ALCOHOL FOAM, CO2, DRY CHEMICAL.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT . WATER MAY BE INEFFECTIVE. IF WATER IS USED,
+    FOG NOZZLES ARE PREFERABLE.
+Unusual Fire/Explosion Hazard:BURNING MAY PRDCE NOX & CARBON. NEVER USE
+    WELD/CUTTING TORCH ON OR NEAR DRUMS BECAUSE PROD CAN IGNITE EXPLOS.
+    VAP ARE >AIR/MAY TRAVEL ALONG GROUND/MAY (SUPDAT)
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SOAK UP SPILLS WITH INERT MATERIAL, I.E.,
+    SAND, AND SCRAPE UP WITH NON-SPARKING TOOLS. PUT IN COVERED METAL
+    CONTAINER FOR DISPOSAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN TIGHTLY CLSD CONTR. KEEP AWAY
+    FROM SPARKS/EXCESS HEAT/OPEN FLAMES. TRANSFER BETWEEN CONTR THAT
+    HAVE BEEN ELEC GROUNDED. SEE OSHA 29(SUPDAT)
+Other Precautions:DO NOT TAKE INTERNALLY, CAN NOT BE MADE NONPOISONOUS.
+    AVOID INHAL/SKIN CONT. WASH CONTAMD CLTHG BEFORE REUSE. DO NOT
+    DRAG/SLIDE/ PUNCTURE, REUSE CONTR. DO NOT USE PRESS TO EMPTY CONTR.
+    DO NOT SPRAY LA CQUER PROD IN SAME SPRAY BOOTH W/(SUPDAT
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR. COMBINATION
+    DUST/VAPOR RESPIRATOR OR CHEMICAL RESPIRATOR.
+Ventilation:LOCAL EXHAUST TO MAINTAIN WORK SPACE BELOW TLV. SEE
+    REGULATION 29CFR, PART 1910.
+Protective Gloves:IMPERVIOUS GLOVES.
+Eye Protection:CHEM WORK GOG & FULL LENGTH FSHLD.
+Other Protective Equipment:EYEWASH STATION, EMERGENCY SHOWER,
+    AUTO-WATER SPRAY.
+Work Hygienic Practices:WASH HANDS BEFORE EATING OR USING RESTROOM.
+    SMOKE IN DESIGNATED AREAS ONLY.
+Supplemental Safety and Health
+EXPLOS HAZ: BE MOVED BY VENTILATION & IGNITED BY PILOT LIGHTS, SPARKS,
+    HEATERS, SMOKING ELEC MOTORS, OR STATIC DISCHARGE DISTANT FROM
+    HNDLG POINT. HNDLG/STOR PREC:CFR, PART 1910. OTHER PREC: OXIDIZING 
+    STAINS, GLAZES, OR VARNISHES.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F3
+Boiling Pt:B.P. Text:23.0F,-5.0C
+Vapor Pres:36@68F
+Vapor Density:>1
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:82.70
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, STRONG ALKALIES, STRONG MINERAL ACIDS.
+Stability Condition to Avoid:HIGH HEAT, SPARKS, FLAMES.
+Hazardous Decomposition Products:OXIDATION MAY PRODUCE CARBON AND
+    NITROGEN OXIDES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN ACCORDANCE WITH LOCAL, STATE, AND
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

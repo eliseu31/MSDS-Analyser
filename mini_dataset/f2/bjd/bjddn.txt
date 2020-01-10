@@ -1,0 +1,105 @@
+=====================  Product Identification  =====================
+
+Product ID:LIQUID HARDENER
+MSDS Date:03/01/1988
+FSC:6520
+NIIN:00F011108
+MSDS Number: BJDDN
+=== Responsible Party ===
+Company Name:UNITEK CORPORATION
+Address:2724 SOUTH PECK ROAD
+City:MONROVIA
+State:CA
+ZIP:91010
+Info Phone Num:(818) 574-4000
+Emergency Phone Num:(818) 574-4000
+CAGE:90444
+=== Contractor Identification ===
+Company Name:UNITEK CORPORATION
+Address:2724 S PECK RD
+Box:City:MONROVIA
+State:CA
+ZIP:91016-5005
+Phone:(213) 445-7960
+CAGE:90444
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DIBUTYLTIN DILAURATE
+CAS:77-58-7
+RTECS #:WH7000000
+Other REC Limits:0.1 MG/CUM (SN)
+OSHA PEL:0.1 MG/CUM (SN)
+ACGIH TLV:0.1 MG/CUM, SN(SKIN)
+
+Ingred Name:DIBUTYLTIN DIHYDROXIDE
+OSHA PEL:0.1 (AS TIN)
+ACGIH TLV:0.1 (AS TIN)
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYE: IRRITATION. SKIN: DERMATITIS.
+    INHALATION: RESPIRATORY IRRITATION, SORE THROAT, & COUGHING.
+    INGESTION: HEADACHE, NAUSEA, VOMITING, & DAMAGE TO THE NERVOUS
+    SYSTEM, LIVER & BILE DUCTS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN: PROLONGED OR REPEATED CONTACT MAY RESULT
+    IN DERMATITIS. INHALATION: RESPIRATORY IRRITATION, SORE THROAT, &
+    COUGHING. INGESTION: HEADACHE, NAUSEA, VOMITING & DAMAGE TO THE
+    NERVOUS SYSTEM, LIVER,  & BILE DUCTS.
+Medical Cond Aggravated by Exposure:DERMATITIS
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE/SKIN: WASH W/LARGE AMOUNTS OF WATER, SOAP ORMILD
+    DETERGENT. INGESTION: GIVE THE PERSON LARGE QUANTITIES OF WATER,
+    THEN INDUCE VOMITING. SEEK MED ATT. INHALATION: IF PERSON HAS
+    BREATHED IN LARGE AM OUNTS, MOVE TO FRESH AIR AT ONCE. IF BREATHING
+    HAS STOPPED, PERFORM ARTIFICIAL RESPIRATION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:36C
+Extinguishing Media:DRY CHEMICAL, FOAM, CO2
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:COVER W/INSERT ABSORBENT SOLID SUCH AS SAND OR
+    VERMICULITE. CLEAN SMALL QUANTITIES WITH ACETONE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH OR MSHA APPROVED RESPIRATOR W/ORGANIC
+    VAPOR CARTRIDGE, DUST & MIST FILTER IN AREAS WHICH EXCEED TLV.
+Ventilation:MECHANICAL/LOCAL EXHAUST MAY BE REQUIRED TO MEET TLV.
+Protective Gloves:REQUIRED AS NECESSARY
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:50C
+Spec Gravity:1.069
+Solubility in Water:INSOLUBLE
+Appearance and Odor:REDDISH LIQUID, CHARACTERISTIC ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+WATER
+Stability Condition to Avoid:HEAT, MOISTURE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE, AND
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

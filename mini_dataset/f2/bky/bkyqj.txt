@@ -1,0 +1,163 @@
+=====================  Product Identification  =====================
+
+Product ID:10-P3-2 BASE
+MSDS Date:02/01/1987
+FSC:8010
+NIIN:00-964-6004
+MSDS Number: BKYQJ
+=== Responsible Party ===
+Company Name:CROWN METRO AEROSPACE COATINGS, INC
+Box:5695
+City:GREENVILLE
+State:SC
+ZIP:29606
+Info Phone Num:(803) 277-1870
+Emergency Phone Num:(803) 277-1870
+CAGE:CROME
+=== Contractor Identification ===
+Company Name:CROWN METRO AEROSPACE COATINGS INC
+Box:5695
+City:GREENVILLE
+State:SC
+ZIP:29606
+Country:US
+Phone:803-277-1870
+CAGE:CROME
+Company Name:DEXTER CORP THE PACKAGING PRODUCTS DIV
+Address:1-7 E WATER ST
+Box:City:WAUKEGAN
+State:IL
+ZIP:60085-5614
+Country:US
+Phone:847-623-4200
+CAGE:91342
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:EPOXY RESIN
+CAS:25085-99-8
+Fraction by Wt: <15%
+
+Ingred Name:ZINC  (SARA III)
+CAS:7440-66-6
+RTECS #:ZG8600000
+Fraction by Wt: <65%
+OSHA PEL:10 MG ZNO/M3
+ACGIH TLV:10 MG ZNO/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: <15%
+Other REC Limits:100 PPM
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: <5%
+Other REC Limits:400 PPM
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: <10%
+Other REC Limits:590 MG/CUM
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN: IRRITATION, ALLERGIC REACTIONS.
+    EYES: IRRITATION, & WATERING. INHALATION: IRRITATION TO RESPIRATORY
+    TRACT, DRYNESS OF THROAT, COUGHING, HEADACHE, TIGHTNESS IN CHEST OR
+    BURNING SENSATION, HEADACH E, DIZZINESS, NAUSEA.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN: IRRITATION, ALLERGIC REACTIONS. EYES:
+    WATERING, & IRRITATION. INHALATION: IRRITATION TO RESPIRATORY
+    TRACT, DRYNESS OF THROAT, COUGHING, HEADACHE, TIGHTNESS IN CHEST OR
+    BURNING SENSATION, HEADACH E, DIZZINESS OR NAUSEA.
+Medical Cond Aggravated by Exposure:ASTHMATIC TYPE CONDITIONS,
+    BRONCHITIS, RESPIRATORY DISEASE, RECURRENT SKIN ECZEMA OR
+    SENSITIZATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH W/WATER FOR 15 MINS. SKIN: WASH AFFECTED AREA
+    W/SOAP & WATER. INHALATION: REMOVE TO FRESH AIR. INGESTION: DRINK
+    WATER TO DILUTE. DON'T INDUCE VOMITING. OBTAIN MEDICAL ATTENTION IN
+    ALL CASES .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:23F
+Lower Limits:1.0%
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL, WATER FOG
+Fire Fighting Procedures:SELF CONTAINED BREATHING APPARATUS. WATER
+    SPRAY MAY BE INEFFECTIVE. IF WATER IS USED, FOG NOZZLES ARE
+    PREFERRED.
+Unusual Fire/Explosion Hazard:WATER MAY BE USED TO COOL CLOSED
+    CONTAINERS TO PREVENT PRESSURE BUILDUP/POSSIBLE AUTOIGNITION OR
+    EXPLOSION WHEN EXPOSED TO EXTREME HEAT. FLAMMABLE LIQUID.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE NON ESSENTIAL PERSONNEL. REMOVE ALL
+    SOURCES OF IGNITION, SPARKS, FLAMES, HOT SURFACES. VENTILATE AREA.
+    EQUIPMENT CLEAN UP CREW W/SELF CONTAINED BREATHING APPARATUS. DIKE
+    SPILL. COVER W/SAWDUS T, VERMICULITE, FULLER'S EARTH'S EARTH.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T STORE >100F. KEEP CONTAINERS
+    CLOSED/UPRIGHT TO PREVENT LEAKAGE. DON'T STORE OR USE NEAR HEAT,
+    SPARKS, OR FLAME.
+Other Precautions:AVOID PROLONGED OR REPEATED CONTACT W/VAPOR OR SPRAY
+    MISTS DURING APPLICATION OR CURING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IN OUTDOOR OR OPEN AREA USE NIOSH APPROVED
+    MECHANICAL FILTER RESPIRATOR. IN RESTRICTED VENTILATION AREAS, USE
+    NIOSH APPROVED CHEMICAL/MECHANICAL FILTERS TO REMOVE
+    VAPOR/PARTICULATES. IN CONFINED AREAS  USE NIOSH APPROVED AIR LINE
+    RESPS/HOODS
+Ventilation:PROVIDE SUFFICIENT LOCAL EXHAUST VENTILATION IN
+    VOLUME/PATTERN TO KEEP AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:65%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HEAT, SPARKS, ELECTRICAL EQUIPMENT, OPEN
+    FLAME, HOT SURFACES, SOURCES OF IGNITION. DON'T STORE >100F.
+Hazardous Decomposition Products:CO, CO2, & NITROGEN OXIDES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONFORM TO FEDERAL, STATE, & LOCAL REGULATIONS.
+    EMPTY CONTAINERS MUST BE HANDLED CAREFULLY DUE TO PRODUCT
+    RESIDUE/FLAMMABLE SOLVENT VAPOR. FLAMMABLE LIQUID, UN1263.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

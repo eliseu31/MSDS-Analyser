@@ -1,0 +1,137 @@
+=====================  Product Identification  =====================
+
+Product ID:017072-24 HV TEFLON TAPE
+MSDS Date:04/12/1995
+FSC:8030
+NIIN:00-167-0427
+MSDS Number: BLPDW
+=== Responsible Party ===
+Company Name:HARVEY, WILLIAM H CO
+Address:4350 LAFAYETTE AVE
+City:OMAHA
+State:NE
+ZIP:68131-1026
+Country:US
+Info Phone Num:800-228-9681
+Emergency Phone Num:800-424-9300(CHEMTREC)
+CAGE:KO402
+=== Contractor Identification ===
+Company Name:HARVEY, WILLIAM H CO
+Address:4350 LAFAYETTE AVE
+Box:City:OMAHA
+State:NE
+ZIP:68131-1026
+Country:US
+Phone:800-228-9681
+CAGE:KO402
+Company Name:WILLIAM H HARVEY CO
+Address:4334 SOUTH 67TH ST
+Box:City:OMAHA
+State:NE
+ZIP:68117-1019
+Country:US
+Phone:800-228-9681
+CAGE:51947
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POLYTETRAFLUOROETHYLENE
+CAS:116-14-3
+RTECS #:KX4025000
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:UNHEATED PTFE:PROUDCT INERT,THERE ARE
+    NO KNOWN INSTANCES OF HEALTH HAZ FROM HNDLG UNHEATED PTFE.PRODUCT
+    WHEN HEATED @HI TEMP WILL THERM DEGRADE & DECOMPO & PRODUCE TOXIC
+    FUMES.INHAL OF SUCH FUMES WILL  CAUSE "POLYMER FUME FEVER" WHICH
+    HAS SYMPTOMS VERY SIMILAR TO INFLUENZA & CAN  INCLUDE
+    HEAD,CHILLS,COUGH,FEVER,ETC.
+Effects of Overexposure:SIMILAR TO INFLUENZA AND CAN INCLUDE HEADACHE,
+    COUGH, FEVER, CHILLS, ETC.
+Medical Cond Aggravated by Exposure:NONE INDICATED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:MERGENCY FIRST AID CALL 1-303-623-5716 COLLECT.REMOVE VICTIM
+    TO FRESH AIR & CALL PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE/INDICATED
+Autoignition Temp:Autoignition Temp Text:NA
+Lower Limits:NONE/INDIC
+Upper Limits:NONE/INDIC
+Extinguishing Media:NONE INDICATED. HMIS:USE APPROPRIATE FIRE
+    EXTINGUISHING MEDIA FOR SURROUNDING FIRE/MATL.
+Fire Fighting Procedures:NONE INDICATED.
+Unusual Fire/Explosion Hazard:NONE INDICATED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:OBEY LOCAL REULES, LAWS, REGULATIONS, ETC.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:PTFE PRODUCTS NON-FLAMM,BUT WILL THERM
+    DEGRADE & DECOMPO & THEREFORE DO NOT STORE THEM TOGETHER W/FLAMM
+    MATL.OBEY U-TO-DATE LOC RULES,LAWS,REGS,ETC.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:FOR NORMAL USE PROT GEARS SUCH AS
+    MASKS,RESPS,ETC ARE NOT SPECIALLY NEEDED. WHEN USED AT HIGH TEMPS
+    TOXIC FUMES WILL BE PRODUCED FROM THERMAL DEGRADATION &/OR
+    DECOMPOSTIIN OF PTFE & THEREFORE PROPER V ENTI EQMPT SHALL BE
+    INSTALLED/USED.
+Ventilation:PROPER VENTILATION EQPMT SHALL BE INSTALLED & USED.
+Protective Gloves:FOR NORMAL USE NOT SPECIALLY NEEDED.
+Eye Protection:FOR NORMAL USE NOT SPECIALLY NEEDED.
+Other Protective Equipment:FOR NORMAL USE NOT SPEICALLY NEEDED.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:NONE/INDIC
+Melt/Freeze Pt:M.P/F.P Text:NONE/INDIC
+Decomp Temp:Decomp Text:NP
+Vapor Pres:NONE/INDIC
+Vapor Density:NONE/INDIC
+Spec Gravity:0.40000
+pH:NP
+Viscosity:NP
+Evaporation Rate & Reference:NONE/INDIC
+Solubility in Water:NONE/INDIC
+Appearance and Odor:WHITE SOLID, NO ODOR.
+Percent Volatiles by Volume:NP
+Corrosion Rate:NP
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+MOLTEN ALKALI, CETAIN HALOGEN PRODUCTS, FLUORINE (AT HIGH
+    TEMEPERATURES).
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DO NOT INCINERATE. OBEY LOCAL LAWS, REULES,
+    REGULATIONS, ETC.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

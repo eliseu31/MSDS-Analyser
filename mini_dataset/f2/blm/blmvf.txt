@@ -1,0 +1,135 @@
+=====================  Product Identification  =====================
+
+Product ID:MICRO-LOK
+MSDS Date:03/10/1991
+FSC:5640
+NIIN:00-964-6944
+MSDS Number: BLMVF
+=== Responsible Party ===
+Company Name:MANVILLE SALES CORP
+Box:5108
+City:DENVER
+State:CO
+ZIP:80217-5108
+Country:US
+Info Phone Num:303-978-4900; 800-654-3103
+Emergency Phone Num:303-978-4900
+Preparer's Name:RICHARD A VERSEN
+CAGE:75165
+=== Contractor Identification ===
+Company Name:SCHULLER INTERNATIONAL INC.
+Box:5108
+City:DENVER
+State:CO
+ZIP:80217-5108
+Country:US
+Phone:303-978-4900
+CAGE:75165
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:GLASS, FIBROUS
+RTECS #:LK3651000
+Fraction by Wt: 90%
+Other REC Limits:1 FIBER/CC (MFR)
+OSHA PEL:15 MG/M3 (DUST)
+ACGIH TLV:10 MG/M3 (DUST);9192
+
+Ingred Name:PHENOL-MELAMINE, UREA-FORMALDEHYDE RESIN, CURED
+CAS:25212-25-3
+Fraction by Wt: 10%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:PROD DUST IS MECH IRRIT TO UPPER
+    RESP SYS, SKIN & EYES. CHRONIC:A MORTALITY STUDY OF FIBER GLASS
+    PROD WORKERS RPTD SOME SM, BUT STATISTICALLY SIGNIFICANT EXCESS IN
+    RESP CANCER. SOME ANIMALS EXPO SED THRU ARTF MEANS
+    (E.G.IMPLANTATION) DEVELOPED CANCER. INHAL:IRRITATION OR SORENESS
+    IN THROAT & NOSE.(EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:HLTH HAZ:IN EXTREME EXPOSURES SOME CONGESTION
+    MAY OCCUR. SKIN:TEMPORARY IRRITATION OR RASH. INGEST:NOT HAZARDOUS
+    WHEN INGESTED, MAY CAUSE TEMPORARY IRRITATION TO GASTROINTESTINAL
+    TRACT. EYES:TEMPORARY  IRRITATION OR INFLAMMATION.
+Medical Cond Aggravated by Exposure:AS WITH ANY DUST, PRE-EXISTING
+    UPPER RESPIRATORY & LUNG DISEASES MAY BE AGGRAVATED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:REMOVE TO FRESH AIR. DRINK WATER TO CLEAR THROAT & BLOW
+    NOSE TO EVACUATE FIBERS. SKIN:WASH AFFECTED AREAS GENTLY W/SOAP &
+    WARM WATER. EYES:FLUSH W/LARGE AMOUNTS OF WATER FOR AT LEAST 15
+    MINUTES.  IF IRRITATION PERSISTS CALL MD. INGEST:NOT APPLICABLE.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:CO*2, WATER, WATER FOG, DRY CHEMICAL ABC RATED.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:RESIN & PAPER OR PLASTIC FACINGS WILL
+    BURN CAUSING DENSE ACRID SMOKE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:PICK UP PIECES. VACUUM CLEAN DUSTS. IF
+    SWEEPING IS NECESSARY USE DUST SUPPRESSANT (WATER).
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP MATERIAL DRY. PROVIDE ADEQ VENT
+    TO KEEP DUST LEVEL TO BELOW PEL/TLV. PROD CONTAINS FORMALDEHYDE,
+    CHEM KNOWN TO STATE OF CALIF TO CAUSE CANCER.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:<10 F/CC USE NIOSH/MSHA APPROVED DUST/MIST
+    RESPIRATOR; <50 F/CC USE NIOSH/MSHA APPROVED FULL FACE RESPIRATOR
+    WITH H FILTER.
+Ventilation:USE SUFFICIENT NATURAL OR MECHANICAL VENTILATION TO KEEP
+    DUST LEVEL TO BELOW PEL/TLV
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:WEAR LOOSE FITTING, LONG SLEEVED CLOTHING.
+Work Hygienic Practices:WASH EXPOSED AREAS W/SOAP & WARM WATER AFT
+    HNDLG. WASH WORK CLOTHES SEPARATELY FROM OTHER CLTHG; RINSE WASHER
+    THORO.
+Supplemental Safety and Health
+HAZ DECOMP PROD:OF ANY ORGANIC CHEMICAL.
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:M.P/F.P Text:>1300F,>704
+Spec Gravity:VAR
+Solubility in Water:NIL
+Appearance and Odor:FIBROUS GLASS PIPE COVERING; SLIGHT PHENOLIC ODOR.
+Percent Volatiles by Volume:0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+HYDROFLUORIC ACID.
+Stability Condition to Avoid:NONE IN DESIGNED USE.
+Hazardous Decomposition Products:CO*2, CO, CARBON PARTICLES & TRACES OF
+    HYDROGEN CYANIDE DERIVED FROM PYROLYSIS OF RESIN AS IS TYPICAL OF
+    DECOMP (SUPDAT)
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:WASTES ARE NOT HAZARDOUS AS DEFINED BY RCRA (40
+    CFR PART 261). COMPLY W/FEDERAL, STATE & LOCAL REGULATIONS. METHOD
+    OF DISPOSAL:LANDFILL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

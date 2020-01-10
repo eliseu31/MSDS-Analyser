@@ -1,0 +1,146 @@
+=====================  Product Identification  =====================
+
+Product ID:FOAM COAT CONC D;M6126;FORMER NAME WAS MICROLITE 126
+MSDS Date:07/29/1992
+FSC:6810
+NIIN:00D003457
+MSDS Number: BWRNR
+=== Responsible Party ===
+Company Name:PIERCE AND STEVENS CHEMICAL CORP.
+Address:710 OHIO ST.
+Box:1092
+City:BUFFALO
+State:NY
+ZIP:14240
+Country:US
+Info Phone Num:718-958-4910
+Emergency Phone Num:800-255-3924 718-873-8000
+Preparer's Name:A.R.ENDRESS
+CAGE:EO220
+=== Contractor Identification ===
+Company Name:PIERCE & STEVENS
+Box:City:BUFFALO
+State:NY
+ZIP:14240
+Country:US
+Phone:716-856-4910
+CAGE:77282
+Company Name:PIERCE AND STEVENS CHEMICAL CORP.
+Address:710 OHIO ST.
+Box:1092
+City:BUFFALO
+State:NY
+ZIP:14240
+Country:US
+Phone:718-958-4910
+CAGE:EO220
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:VINYLIDENE CHLORIDE (1,1-DICHLOROETHYLENE)	(SARA III)
+CAS:75-35-4
+RTECS #:KV9275000
+Fraction by Wt: <5%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:1 PPM
+ACGIH TLV:5 PPM/20 STEL; 9394
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:ISOBUTANE
+CAS:75-28-5
+RTECS #:TZ4300000
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:VOLATILE ORGANIC CONTENT,SOLIDS=150 G/L
+RTECS #:9999999VO
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT) IS 200MG/KG INGRED #1
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:MFR STATES THAT THE HEALTH HAZARDS ARE
+    UNKNOWN FOR THIS PRODUCT. HMIS HAS FOUND IN THE LITERATURE(RTECS)
+    THAT VINYLIDENE CHLORIDE IS VERY TOXIC VIA INHALATION AND INGESTION
+    AND HAS MODERATE DERMAL ABS ORPTIVITY.IT MAY CAUSE LIVER DAMAGE
+    AND,IT AND ISOBUTANE,CAN CAUSE CNS EFFECTS BY INHALATION.
+Explanation of Carcinogenicity:VINYLIDENE CHLORIDE IS LISTED BY IARC
+    AND EPA AS HAVING LIMITED EVIDENCE OF CARCINOGENICITY.
+Effects of Overexposure:INHAL:HMIS SUGGESTS HEADACHE,DIZZINESS.
+Medical Cond Aggravated by Exposure:NOT REPORTED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:REMOVE CONTAMINATED CLOTHING;WASH WITH WATER.EYES:FLUSH
+    WITH WATER FOR 15 MINUTES.INHAL:REMOVE TO FRESH AIR.GIVE OXYGEN OR
+    ARTIFICIAL RESPIRATION IF NEEDED.INGEST:DO NOT INDUCE VOMITING.GET
+    PROMP T QUALIFIED MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE MEDIA APPROPRIATE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:USE A SELF-CONTAINED BREATHING APPARATUS AND
+    FULL PROTECTIVE EQUIPMENT.
+Unusual Fire/Explosion Hazard:FIRE CONDITIONS MAY EVOLVE TOXIC FUMES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPER RESPIRATORY AND PROTECTIVE
+    EQUIPMENT.SOAK UP WITH NON-COMBUSTIBLE INERT
+    ADSORBANT(EG.CLAY);PLACE COLLECTED MATERIAL IN AN APPROPRIATE
+    CONTAINER FOR DISPOSAL;CLEAN SPILL AREA TO REMOVE SLIPP ERINESS.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL,DRY,WELL-VENTILATED
+    PLACE.KEEP CONTAINER CLOSED WHEN NOT IN USE.
+Other Precautions:FOLLOW LABEL DIRECTIONS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NEEDED IN NORMAL SERVICE.
+Ventilation:USE GENERAL DILUTION VENTILATION.
+Protective Gloves:HMIS SUGGESTS IMPERVIOUS,AS NEEDED.
+Eye Protection:HMIS SUGGESTS SAFETY GLASSES.
+Other Protective Equipment:HMIS SUGGESTS PROTECTIVE CLOTHING,AS
+    NEEDED.PROVIDE A LOCAL EYE WASH STATION AND SAFETY SHOWER.
+Work Hygienic Practices:USE REASONABLE CARE IN HANDLING THIS
+    PRODUCT.WASH HANDS AFTER USE AND BEFORE EATING.
+Supplemental Safety and Health
+MFR STATES THAT THIS ITEM HAS BEEN RECENTLY DISCONTINUED.THE NAME
+    CHANGE WAS EFFECTIVE AS OF 05JUN87.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T6
+Boiling Pt:B.P. Text:11F-171F
+Vapor Density:>1
+Spec Gravity:0.9
+Evaporation Rate & Reference:<1 ETHER=1
+Appearance and Odor:LIQUID.COLOR AND ODOR NOT REPORTED.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:CARBON DIOXIDE,CARBON MONOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH FEDERAL,STATE AND
+    LOCAL REGULATIONS.RCRA CODE FOR VINYLIDENE CHLORIDE IS
+    U078(1,1-DICHLOROETHYLENE).
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

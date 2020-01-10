@@ -1,0 +1,141 @@
+=====================  Product Identification  =====================
+
+Product ID:ENAMEL, ALKYD, GLOSS, METALLIC RED 10076
+MSDS Date:08/19/1988
+FSC:8010
+NIIN:00-298-2304
+MSDS Number: BHWBC
+=== Responsible Party ===
+Company Name:CHEMRAY COATING CORP
+Address:209 N MICHIGAN AVE
+City:KENILWORTH
+State:NJ
+ZIP:07033
+Country:US
+Info Phone Num:201-245-1111
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+CAGE:33832
+=== Contractor Identification ===
+Company Name:CHEMRAY COATING CORP
+Address:209 N MICHIGAN AVE
+Box:City:KENILWORTH
+State:NJ
+ZIP:07033
+Country:US
+Phone:201-245-1111
+CAGE:33832
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:STODDARD SOLVENT
+CAS:8052-41-3
+RTECS #:WJ8925000
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM; 9293
+
+Ingred Name:PIGMENT: MOLY ORANGE (58% PB) % OF PAINT
+CAS:12709-98-7
+RTECS #:OG1625000
+Fraction by Wt: .3%
+ACGIH TLV:.05 MG CUM
+
+Ingred Name:ADDITIVE: LEAD DRIER (AS PB)
+Fraction by Wt: .2%
+ACGIH TLV:.05 MG CUM
+
+Ingred Name:VOC=4.4 LBS/GAL OR 525 GRAMS/LITERS
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Health Hazards Acute and Chronic:(ACIGH)(OSHA) 100 PPM (590 MG/M3) FOR
+    8 HOUR WORK DAY. HIGH VAPOR CONCENTRATIONS (>1000 PPM) ARE
+    IRRITATING TO EYES/RESPIRATORY TRACT. MAY CAUSE HEADACHES &
+    DIZZINESS. PROLONG SKIN CONTACT IRRITATES.	REPORTS HAVE ASSOCIATED
+    REPEAT/PROLONG OVEREXPOSURE W/PERMANENT BRAIN/NERVOUS SYSTEM
+    DAMAGE. MISUSE MAY BE HARMFUL/FATAL
+Effects of Overexposure:(ACIGH)(OSHA) 100 PPM (590 MG/M3) FOR 8 HOUR
+    WORK DAY. HIGH VAPOR CONCENTRATIONS (>1000 PPM) ARE IRRITATING TO
+    EYES/RESPIRATORY TRACT. MAY CAUSE HEADACHES & DIZZINESS. PROLONG
+    SKIN CONTACT IRRITATES.  REPORTS HAVE ASSOCIATED REPEAT/PROLONG
+    OVEREXPOSURE W/PERMANENT BRAIN/NERVOUS SYSTEM DAMAGE. MISUSE MAYBE
+    HARMFUL/FATAL.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE CONTACT: FLUSH WITH WATER 15 MINUTES OR UNTIL IRRITATION
+    SUBSIDES. IF IRRITATION PERSISTS, CALL PHYSICIAN. SKIN CONTACT:
+    REMOVE CONTAMINATED CLOTHING AND WASH THOROUGHLY WITH SOAP AND
+    WATER. INHAL ATION: IF OVERCOME BY VAPORS REMOVE TO FRESH AIR, CALL
+    PHYSICIAN. INGESTION: DO NOT INDUCE VOMITING, CALL PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:103 F/40 C
+Lower Limits:.9
+Upper Limits:7
+Extinguishing Media:CARBON DIOXIDE, FOAM, WATER FOG OR DRY CHEMICAL.
+Fire Fighting Procedures:USE AIR SUPPLIED BREATHING EQUIPMENT. COOL
+    ENCLOSED CONTAINERS WITH WATER SPRAY. AVOID BREATHING VAPORS OR
+    FUMES.						.
+Unusual Fire/Explosion Hazard:IF LEAK OR SPILL HAS IGNITED, USE WATER
+    SPRAY TO DISPERSE THE VAPORS FROM FIRE FIGHTERS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL IGNITION SOURCES. KEEP FROM HEAT,
+    SPARKS AND OPEN FLAME. ADD ABSORBENT (SAND, EARTH, SAWDUST) TO
+    SPILL. VENTILATE AREA (OPEN WINDOWS, DOORS). LARGE SPILL: KEEP FROM
+    ENTERING SEWERS/WATERCOU RSES BY DIKING. ADVISE AUTHORITIES IF DOES
+    ENTER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE HYDROCARBON VAPOR CANISTER OR SUPPLIED AIR
+    RESPIRATOR IN CONFINED AREAS. USE RESPIRATORY PROTECTION AGAINST
+    LEAD DUST DURING SANDING.
+Ventilation:LOCAL EXHAUST: FACE VELOCITY 60FPM. SPECIAL: USE ONLY
+    W/ADEQUATE VENTILATION. MECHANICAL: USE EXPLOSION PROOF EQUIPMENT.
+Protective Gloves:CHEMICAL RESISTANT.
+Eye Protection:SPLASH GOGGLES OR FACE SHIELD.
+Other Protective Equipment:USE CHEM RESISTANT APRON OR CLOTHING TO
+    AVOID REPEATED SKIN CONTACT. SEE 29CFR1910.1025 FOR OCCUPATIONAL
+    LEAD EXPOSURE.
+Work Hygienic Practices:WASH HANDS THROUGHLY AFTER USE AND KEEP
+    CONTAINERS CLOSED WHEN NOT IN USE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:308F,153C
+Melt/Freeze Pt:M.P/F.P Text:<0F,<-18C
+Vapor Pres:<10 MM HG
+Vapor Density:4.8(AIR=1)
+Spec Gravity:.99 (H2O=1)
+Evaporation Rate & Reference:.09 (BUTYL ACETATE=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:METALLIC RED LIQUID, PAINT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CAN REACT WITH OXIDIZING MATERIAL WHEN HEATED TO DECOMPOSITION.
+Stability Condition to Avoid:HIGH TEMPERATURES.
+Hazardous Decomposition Products:CARBON MONOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ASSURE CONFORMITY WITH APPLICABLE DISPOSAL
+    REGULATIONS. DISPOSE OF ABSORBED MATERIAL AT AN APPROVED DISPOSAL
+    SITE OR FACILITY.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

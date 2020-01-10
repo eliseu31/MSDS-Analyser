@@ -1,0 +1,140 @@
+=====================  Product Identification  =====================
+
+Product ID:VCI-414
+MSDS Date:06/26/1998
+FSC:6850
+NIIN:00N092029
+Status Code:A
+MSDS Number: CJQDY
+=== Responsible Party ===
+Company Name:CORTEC CORPORATION
+Address:4119 WHITE BEAR PARKWAY
+City:ST PAUL
+State:MN
+ZIP:55110
+Country:US
+Info Phone Num:612-429-1100; 800-426-7832
+Emergency Phone Num:(800)424-9300
+Preparer's Name:MARGARITA KHARSHAN
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:44695
+=== Contractor Identification ===
+Company Name:THE CORTEC CORPORATION
+Address:4119 WHITE BEAR PKY
+Box:City:SAINT PAUL
+State:MN
+ZIP:55110-7634
+Country:US
+Phone:651-429-1100/800-4-CORTEC
+CAGE:44695
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHOXYLATED C9-11 ALCS.; (ETHOXYLATED ALCOHOLS (C9-C11) 
+    LD50: (ORAL, RAT) 1.5 G/KG
+CAS:68439-46-3
+< Wt:10.
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE INGREDIENT
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYE CONTACT WITH THIS PRODUCT WILL
+    PRODUCE IRRITATION AND POSSIBLE EYE DAMAGE UNLESS PROMPT FIRST AID
+    MEASURES ARE TAKEN. REPEATED OR PROLONGED CONTACT WILL PRODUCE SKIN
+    IRRITATION DUE TO THE ALKALINE  NATURE OF THE PRODUCT. INHALATION
+    OF PARTICLE MISTS RESULTING FROM SPRAYING OR ATOMIZING THE PRODUCT
+    MAY CAUSE IRRITATION OF THE NOSE, THROAT AND LUNGS AND SHOULD BE
+    AVOIDED. INGESTION OF THIS PRODUC T MAY BE HARMFUL.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE KNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE CONTACT: FLUSH EYES WITH LARGE QUANTITIES OF WATER FOR AT
+    LEAST 15 MINUTES. CONSULT A PHYSICIAN. SKIN CONTACT: WASH AFFECTED
+    AREA WITH SOAP AND WATER. IF IRRITATION PERSISTS, CONSULT A
+    PHYSICIAN.	INHALATION: REMOVE TO AN UNCONTAMINATED AREA,
+    ADMINISTER OXYGEN IF NECESSARY. IF VICTIM HAS STOPPED BREATHING
+    BEGIN CPR. GET MEDICAL ATTENTION. INGESTION: IF SWALLOWED, GIVE
+    WATER OR MILK AND INDUCE V OMITING. GET IMMEDIATE MEDICAL
+    ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:>100.C, 212.F
+Lower Limits:N/E
+Upper Limits:N/E
+Extinguishing Media:WATER, CARBON DIOXIDE OR OTHER DRY CHEMICAL FIRE
+    FIGHTING AGENTS.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE. HMIS FLAMMABILITY RATING: 0.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB ON SWEEPING COMPOUND OR OTHER ABSORBENT
+    MATERIAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID EYE AND SKIN CONTACT. WORKERS
+    SHOULD THOROUGHLY WASH HANDS WITH SOAP AND WATER PRIOR TO EATING,
+    DRINKING, SMOKING AND USING LAVATORY. KEEP CONTAINERS TIGHTLY
+    CLOSED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED UNLESS PARTICLE MISTS ARE
+    GENERATED, THEN USE A NIOSH APPROVED DUST/MIST RESPIRATOR IN
+    CLOSELY CONFINED AREAS.
+Protective Gloves:SAFETY GLOVES.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:EYE WASH AND DELUGE SHOWER MEETING ANSI
+    DESIGN CRITERIA .
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:N/E
+Vapor Pres:SAME AS WATER
+Vapor Density:N/E
+pH:11-12 (NEAT)
+Evaporation Rate & Reference:N/E
+Appearance and Odor:CLEAR, SLIGHTLY YELLOW LIQUID; MILD ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS.
+Stability Condition to Avoid:CONTACT WITH INCOMPATIBLE MATERIALS.
+Hazardous Decomposition Products:N/A.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH EXISTING FEDERAL,
+    STATE AND LOCAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:SHIPPING DATA - TSCA STATUS: LISTED.
+    DOT/IATA/IMDG SHIPPING NAME: N/A. UN/NA NUMBER: N/A. DOT IATA/IMDG
+    HAZARD CLASS: N/A. DOT/IATA IMDG REQUIRED LABELS: N/A. IMDG CODE
+    PAGE (AMDT 27-94): N/A. TECHNIC AL SHIPPING NAME: N/A. FREIGHT
+    CLASS BULK: SAME AS ABOVE. LTL: 70. TL: 40. MW: 30.
+
+=====================  Regulatory Information  =====================
+
+State Regulatory Information:
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

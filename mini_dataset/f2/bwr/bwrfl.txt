@@ -1,0 +1,140 @@
+=====================  Product Identification  =====================
+
+Product ID:847 1245 FLEXICOLOR BLEACH III STARTER
+MSDS Date:08/17/1994
+FSC:6750
+NIIN:01-272-1824
+MSDS Number: BWRFL
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-722-5151
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 50 - 55%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:POTASSIUM CARBONATE
+CAS:584-08-7
+RTECS #:TS7750000
+Fraction by Wt: 45 - 50%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL, RAT) IS NOT KNOWN.
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:TARGET ORGANS:EYE, SKIN, DIGESTIVE
+    TRACT. ACUTE- INHALE:LOW HAZARD FOR RECOMMENDED HADLING.
+    EYES:CAUSES BURNS. SKIN:CAUSES IRRITATION. ORAL:HARMFUL IF
+    SWALLOWED. MAY CAUSE GASTROINTESTINAL TRACT BURNS . CHRONIC-
+    UNKNOWN.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:IRRITATION AND BURNS
+
+=======================  First Aid Measures  =======================
+
+First Aid:GET MEDICAL HELP IF SYMPTOMS PERSIST. INHALED:REMOVE TO FRESH
+    AIR. PROVIDE CPR/OXYGEN IF NEEDED. EYES:IMMEDIATELY FLUSH WITH
+    WATER FOR 15 MINUTES, HOLDING EYELIDS OPEN. CALL PHYSICIAN.
+    SKIN:FLUSH WITH  WATER FOR 15 MINUTES. ORAL:DO NOT INDUCE VOMITING.
+    IF CONSCIOUS, DRINK A GLASS OF WATER. CALL PHYSICIAN/POISON CONTROL
+    CENTER IMMEDIATELY. NEVER GIVE ANYTIHING BY MOUTH TO AN UNCONSCIOUS
+    PERSON.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:WATER SPRAY, CARBON DIOXIDE, FOAM OR DRY CHEMICAL
+    FOR SURROUNDING FIRE. USE WATER SPRAY TO COOL FIRE EXPOSED
+    CONTAINERS.
+Fire Fighting Procedures:WEAR PROTECTIVE CLOTHING AND NIOSH-APPROVED
+    SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH TO SEWER WITH LARGE AMOUNT OF WATER.
+    OTHERWISE, ABSORB SPILL WITH INERT MATERIAL SUCH AS VERMICULITE,
+    THEN PLACE IN A CONTAINER FOR CHEMICAL WASTE. CLEAN SURFACE
+    THOROUGHLY TO REMOVE RESIDUAL CO NTAMINATION. PREVENT RUNOFF FROM
+    ENTERING SEWERS.
+Neutralizing Agent:WEAK ACID
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER TIGHTLY CLOSED AWAY
+    FROM INCOMPATIBLE MATERIALS.
+Other Precautions:WASH THOROUGHLY AFTER HANDLING. AVOID CONTACT WITH
+    EYES, SKIN AND CLOTHING. KEEP OUT OF REACH OF CHILDREN. USE WITH
+    ADEQUATE VENTILATION. WASH CLOTHING BEFORE REUSE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SHOULD BE NEEDED.
+Ventilation:GOOD GENERAL VENTILATION IS SUFFICIENT FOR MOST CONDITIONS
+    (10 ROOM VOLUMES PER HOUR).
+Protective Gloves:NATURAL RUBBER, PVC
+Eye Protection:SAFETY GOGGLES/GLASSES WITH SIDE SHIELDS
+Other Protective Equipment:EYE WASH STATION, SAFETY SHOWER, PROTECTIVE
+    CLOTHING APPROPRIATE FOR THE RISK OF EXPOSURE
+Work Hygienic Practices:OBSERVE GOOD INDUSTRIAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES.
+Supplemental Safety and Health
+FORMULA CHANGED. FOR PREVIOUS FORMULATION AND TRADE NAME, SEE PNI A,
+    SAME NSN.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:B1
+NRC/State Lic Num:NOT RELEVANT
+Boiling Pt:>100.C, 212.F
+Vapor Pres:18 @ 68F
+Vapor Density:0.6
+Spec Gravity:1.5
+pH:>13
+Solubility in Water:COMPLETE
+Appearance and Odor:COLORLESS LIQUID - ODORLESS
+Percent Volatiles by Volume:50- 55
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACIDS
+Hazardous Decomposition Products:CARBON DIOXIDE AND PROBABLY CARBON
+    MONOXIDE MAY BE FORMED.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISCHARGE, TREATMENT OR DISPOSAL MAY BE SUBJECT
+    TO NATIONAL, STATE OR LOCAL REGULATIONS. FLUSH TO SEWER WITH LARGE
+    AMOUNT OF WATER, IF PERMITTED.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

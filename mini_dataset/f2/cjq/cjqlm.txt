@@ -1,0 +1,181 @@
+=====================  Product Identification  =====================
+
+Product ID:PETCOR FLEA SPRAY
+MSDS Date:03/01/1992
+FSC:6840
+NIIN:00N092190
+Status Code:A
+MSDS Number: CJQLM
+=== Responsible Party ===
+Company Name:ZOECON CORP
+Address:12200 DENTON DR
+City:DALLAS
+State:TX
+ZIP:75234
+Country:US
+Info Phone Num:214-243-2321
+Emergency Phone Num:214-243-2321
+Resp. Party Other MSDS Num.:93-14-0071
+CAGE:51112
+=== Contractor Identification ===
+Company Name:ZOECON CORP
+Address:12200 DENTON DR
+Box:City:DALLAS
+State:TX
+ZIP:75234
+Country:US
+Phone:214-243-2321
+CAGE:51112
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:S-METHOPRENE: ISOPROPYL (2E, 4E, 7S)-11-METHOXY-3,7,11,
+    TRIMETHYL-2,4 DODECADIENOATE
+CAS:65733-16-6
+Other REC Limits:230 MG/M3 TWA 8H (M)
+
+Ingred Name:PYRETHRINS
+CAS:8003-34-7
+RTECS #:UR4200000
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:PIPERONYL BUTOXIDE
+CAS:51-03-6
+RTECS #:XS8050000
+
+Ingred Name:N-OCTYL BICYCLOHEPTENE DICARBOXIMIDE
+CAS:113-48-4
+RTECS #:RB8575000
+
+Ingred Name:ISOPROPYL ALCOHOL. ACGIH TLV: 980 MG/M3; STEL 1225 MG/M3
+    (M).
+CAS:67-63-0
+RTECS #:NT8050000
+OSHA PEL:980 MG/M3;400 PPM
+OSHA STEL:1225 MG/M3;500 PPM
+ACGIH TLV:983 MG/M3;400 PPM
+ACGIH STEL:1230 MG/M3;500 PPM
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50:(ORAL,RAT) >5,100 MG/KG & TOX INFO.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: IN LARGE DOSES MAY SEE ATAXIA,
+    CONVULSIONS, CRAMPS, GASTROINTESTINAL IRRITATION. SYMPTOMS SIMILAR
+    TO DRUNKENNESS. CHRONIC: CHRONIC SYMPTOMS NOT KNOWN/REPORTED.
+Explanation of Carcinogenicity:NO COMPONENT LISTED.
+Effects of Overexposure:THOSE ASSOCIATED WITH ALLERGIES, HAY FEVER,
+    I.E. ITCHY, RUNNY EYES, STUFFY/RUNNY NOSE, CHEST DISCOMFORT,
+    POSSIBLE HIVES. IN ADDITION, ALCOHOL MAY CAUSE ATAXIA, DIZZINESS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH IMMEDIATELY WITH WATER. IF IRRITATION PERSISTS,
+    GET MEDICAL ATTENTION. INGESTION: IF SWALLOWED IN QUANTITY, GIVE 1
+    TO 2 GLASSES OF WATER, AND INDUCE VOMITING. CALL MD. SKIN: WASH
+    WITH PLEN TY OF SOAP AND HOT WATER. INHALATION: REMOVE TO FRESH
+    AIR. SUPPORT BREATHING (GIVE O*2/ARTF RESP) .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:=21.1C, 70.F
+Lower Limits:2%
+Upper Limits:12%
+Extinguishing Media:DRY CHEMICAL, CO*2, OR ALCOHOL FOAM, (WATER MAY BE
+    INEFFECTIVE).
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT . DO NOT ALLOW RUNOFF TO ENTER WATERWAYS INHABITED BY
+    AQUATIC ORGANISMS.
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DO NOT ALLOW SPILL TO ENTER WATERWAYS
+    INHABITED BY AQUATIC ORGANISMS. SOAK UP WITH ABSORBENT MATERIAL AND
+    PLACE IN CONTAINER FOR DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTACT WITH SKIN AND EYES.
+    AVOID INHALATION OF VAPORS. DO NOT USE OR STORE NEAR HEAT OR OPEN
+    FLAME. STORE AWAY FROM CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AVOID INHALATION OF VAPORS. IF PROLONGED OR
+    EXCESSIVE EXPOSURE IS EXPECTED, WEAR NIOSH APPROVED ORGANIC
+    VAPOR/PESTICIDE RESPIRATOR.
+Ventilation:LOCAL EXHAUST.
+Protective Gloves:IMPERVIOUS GLOVES.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:EYE WASH & DELUGE SHOWER MEETING ANSI DESIGN
+    CRITERIA . WEAR APPROPRIATE CLOTHING TO PREVENT SKIN CONTACT.
+Work Hygienic Practices:WASH THOROUGHLY WITH SOAP AND WATER AFTER
+    HANDLING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:0.8767 @ 25C/20C (H*2O=1)
+Solubility in Water:MISCIBLE
+Appearance and Odor:PALE YELLOW, TRANSPARENT LIQUID; ODOR OF ISOPROPYL
+    ALCOHOL.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS.
+Stability Condition to Avoid:OPEN FLAME, HEAT.
+Hazardous Decomposition Products:NONE.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:LD50:(DERMAL,RABBIT) >2,100 MG/KG. PRIMARY
+    SKIN IRRITATION (RABBIT): NONE. PRIMARY EYE IRRITATION: MODERATE
+    IRRITANT. HYPERSENSITIVITY (GUINEA PIG): POSITIVE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT FEDERAL, STATE AND LOCAL REGULATIONS.
+    ENTIRE CONTENTS AND RINSATE MUST BE USED ACCORDING TO LABEL
+    DIRECTIONS. TRIPLE-RINSED CONTAINERS MAY BE PLACED IN TRASH. UNUSED
+    PRODUCT MUST BE DELIVERED  TO AN EPA APPROVED HAZARDOUS WASTE
+    MANAGEMENT FACILITY.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:DOT REGS (AIR & TRUCK): ARTICLE NAME: (QTS/LESS)
+    CONSUMER COMMODITY; (>QT) INSECTICIDE LIQ, N.O.S. (ISOPROPANOL).
+    HAZ CLASS: (QTS/LESS) N/A; (>QT) FLAMM LIQ. PACKAGING: (QTS/LESS)
+    EXEMPT; (>QT) DOT-12 B-65 FIBERBOARD BOX. MAX NET QTY: (QTS/LESS)
+    PASSENGER & CARGO; (>QT) FORBIDDEN. PER PACKAGE BY AIR: (QTS/LESS)
+    30 KG GROSS; (>QT) CARGO; 10 GALS. BILL OF LADING DESCRIPTION:
+    (QTS/LESS) CONSUMER COMMO DITY, ORM-D; (>QT) INSECTICIDE LIQ,
+    N.O.S. (ISOPROPANOL) FLAMM LIQ, NA1993. INTERNATIONAL AIR TRANSPORT
+    ASSOC (AITA): ARTICLE NAME: FLAMM LIQ, N.O.S. (ISOPROPANOL). HAZ
+    CLASS: (CLASS 3). PACKAGING: UN  4G COMBINATION PACKAGE. (OTHER
+    INFO)
+
+=====================  Regulatory Information  =====================
+
+Federal Regulatory Information:MAY BE USED TO COMPLY WITH OSHA'S HAZARD
+    COMMUNICATION STANDARD, 29 CFR 1910.1200. STANDARD MUST BE
+    CONSULTED FOR SPECIFIC REQUIREMENTS.
+State Regulatory Information:
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

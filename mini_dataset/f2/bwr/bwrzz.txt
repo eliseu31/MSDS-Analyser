@@ -1,0 +1,164 @@
+=====================  Product Identification  =====================
+
+Product ID:842 7452, HX DEVELOPER, BROWN
+MSDS Date:04/30/1997
+FSC:6850
+NIIN:01-387-5804
+MSDS Number: BWRZZ
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-722-5151
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:DANKA IMAGING
+Box:UNKNOW
+CAGE:NO801
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+Company Name:EASTMAN KODAK CO US CUSTOMER SERVICE/GOVERNMENT SALES
+Address:800 LEE RD
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-3129
+Country:US
+Phone:800-828-6203
+CAGE:5K871
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:STRONTIUM FERRITE
+CAS:12023-91-5
+Fraction by Wt: 85-90%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:ACRYLATE-DIVINYLBENZENE-STYRENE COPOLYMER
+CAS:60806-47-5
+Fraction by Wt: 10-15%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:CARBON BLACK
+CAS:1333-86-4
+RTECS #:FF5800000
+Fraction by Wt: <0.1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:3.5 MG/M3
+ACGIH TLV:3.5 MG/M3; 9495
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:KODAK SUPPLIED NO LD50 FOR THE PRODUCT.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION:LOW HAZARD FOR RECOMMENDED
+    HANDLING. EYE:NO SPECIFIC HAZARD KNOWN. MAY CAUSE TRANSIENT
+    IRRITATION. SKIN:LOW HAZARD FOR RECOMMENDED HANDLING.
+    INGESTION:EXPECTED TO BE LOW INGESTION HAZARD.   OVEREXPOSURE TO
+    CARBON BLACK DUST MAY RESULT IN RESPIRATORY IRRITATION & BENIGN
+    DEPOSIOTION OF CARBON BLACK IN LUNGS.
+Explanation of Carcinogenicity:IN ADDITION TO THE ABOVE, PRODUCT IS
+    NEGATIVE W/REGARTD TO:ACGIH CANCER, CALIFORNIA CANCER &
+    REPRODUCTIVE EFFECTS.
+Effects of Overexposure:TRANSIENT EYE IRRITATION
+Medical Cond Aggravated by Exposure:KODAK GAVE NO INFORMATION ABOUT
+    CONDITIONS THAT MAY BE AGGRAVATED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:IF SYMPTOMS OCCUR, GET IMMEDIATE MEDICAL ATTENTION.
+    INHALATION:IF SYMPTOMATIC, MOVE TO FRESH AIR. EYE:FLUSH W/PLENTY OF
+    WATER FOR 15 MIN. SKIN:FLUSH W/WATER 15 MIN. REMOVE CONTAMINATED
+    CLOTHING & LAUN DER BEFORE REUSE. INGESTION:DO NOT INDUCE VOMITING!
+    DRINK 1-2 GLASSES OF WATER. (NOTHING BY MOUTH IF UNCONSCIOUS.) CALL
+    PHYSICIAN OR POISON CONTROL CENTER IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Autoignition Temp:Autoignition Temp Text:N/A.
+Lower Limits:N/A.
+Upper Limits:N/A.
+Extinguishing Media:WEAR SELF CONTAINED BREATHING APPARATUS &
+    PROTECTIVE CLOTHING.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS &
+    PROTECTIVE CLOTHING. FIRE OR EXCESSIVE HEAT MAY PRODUCE HAZARDOUS
+    DECOMPOSITION PRODUCTS.
+Unusual Fire/Explosion Hazard:POWDERED MATERIAL MAY FORM EXPLOSIVE
+    DUST-AIR MIXTURES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DO NOT USE VACUUM CLEANER TO CLEAN UP SPILLS
+    OF POWDERED DEVELOPERS & TONERS. THE VERY FINE PARTICLES CAN CAUSE
+    A FIRE OR EXPLOSION. SWEEP MATERIAL ONTO PAPER & PLACE IN A FIBER
+    CARTON.
+Neutralizing Agent:MFR GAVE NO INFORMATION OF MSDS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER CLOSED.
+Other Precautions:AVOID BREATHING DUST. USE W/ADEQUATE VENTILATION.
+    WASH THOROUGHLY AFTER HANDLING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SHOULD BE NEEDED.
+Ventilation:USE GOOD GENERAL VENTILATION (TYPICALLY 4-6 ROOM
+    CHANGES/HR). MATCH VENTILATION RATES TO CONDITIONS.
+Protective Gloves:IMPERVIOUS GLOVES TO MINIMIZE CONTACT
+Eye Protection:MINIMIZE EYE CONTACT.
+Other Protective Equipment:PROTECTIVE CLOTHING APPROPRIATE FOR THE RISK
+    OF EXPOSURE PLUS WASHING FACILITIES.
+Work Hygienic Practices:KODAK:?   (DLA-HMIS:USE GOOD INDUSTRIAL HYGIENE
+    PRACTICES. MINIMIZE PERSONAL CONTACT. WASH THOROUGHLY AFTER
+    HANDLING.)
+Supplemental Safety and Health
+CIN 10090993; J-0400.200.  THIS MATERIAL HAS NOT BEEN TESTED FOR
+    ENVIRONMENTAL EFFECTS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+NRC/State Lic Num:NONE
+Melt/Freeze Pt:M.P/F.P Text:N/A.
+Vapor Pres:NEGLIGIBLE
+Vapor Density:NEGLIGIBLE
+Spec Gravity:N/A.
+pH:N/A.
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:SOLID (POWDER), BROWN, SLIGHT ODOR
+Percent Volatiles by Volume:N/A.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:MFR GAVE NO INFORMATION OF MSDS.
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISCHARGE, TREATMENT OR DISPOSAL MAY BE SUBJECT
+    TO NATIONAL, STATE OR LOCAL LAWS. INCINERATE OR LANDFILL. CAN BE
+    INCINERATED WHEN IN COMPLIANCE W/LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

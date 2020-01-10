@@ -1,0 +1,160 @@
+=====================  Product Identification  =====================
+
+Product ID:ECCOBOND 51 UNPIGMENTED
+MSDS Date:04/15/1985
+FSC:8040
+NIIN:01-161-1753
+Kit Part:Y
+MSDS Number: BHWGH
+=== Responsible Party ===
+Company Name:EMERSON AND CUMING,INC
+Address:869 WASHINGTON ST
+City:CANTON
+State:MA
+ZIP:02021
+Country:US
+Info Phone Num:617-828-3300
+Emergency Phone Num:617-828-3300
+CAGE:3D421
+=== Contractor Identification ===
+Company Name:EMERSON AND CUMING,INC
+Address:869 WASHINGTON ST
+Box:City:CANTON
+State:MA
+ZIP:02021
+Country:US
+Phone:617-828-3300
+CAGE:3D421
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:EPICHLOROHYDRIN  (SARA III)
+CAS:106-89-8
+RTECS #:TX4900000
+Fraction by Wt: <5% PPM
+Other REC Limits:N/K 
+OSHA PEL:S, 5 PPM
+ACGIH TLV:S, 2 PPM; 9293
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:PHENYL GLYCIDYL ETHER (PGE)
+CAS:122-60-1
+RTECS #:TZ3675000
+Fraction by Wt: <3%
+Other REC Limits:N/K 
+OSHA PEL:10 PPM
+ACGIH TLV:1 PPM; 9293
+
+Ingred Name:BISPHENOL A/EPICHLOROHYDRIN-BASED EPOXY RESIN MINERAL
+    FILLERS
+Fraction by Wt: 97%
+Other REC Limits:N/K 
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:N/K 
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:EPICHLOROHYDRIN:PROLONGED EXPOSURE MAY
+    RESULT IN SKIN SENSITIZATION.REPORTED TO PRODUCE MUTAGENIC CHANGES
+    IN BACTERIA AND CULTURED HUMAN CELLS.PHENYL GLYCIDYL ETHERS:RECENT
+    STUDIES INDICATE MUTAGENIC	CHANGES IN LABORATORY ANIMALS.THIS HAS
+    NOT BEEN RELATED TO HUMAN EXPOSURES.
+Explanation of Carcinogenicity:EPICHLOROHYDRIN:SUSP HUM CARCIN/KNOWN
+    ANIM CARCIN (NTP,1985).INAD EVID FOR CARCIN IN HUM/SUFF EVID IN
+    ANIM (IARC,1987).
+Effects of Overexposure:EYES:IRRITATION UPON DIRECT
+    CONTACT.SKIN:IRRITATION UPON DIRECT CONTACT.PROLONGED EXPOSURE MAY
+    RESULT IN SKIN SENSITIZATION.INGESTION:HARMFUL IF
+    SWALLOWED.INHALATION:VAPORS CAN BE IRRITATING.
+Medical Cond Aggravated by Exposure:N/K 
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:IMMEDIATELY FLUSH EYES WITH WATER FOR 15 MINUTES,GET
+    MEDICAL ATTENTION.SKIN:REMOVE CONTAMINATED CLOTHING.WASH AFFECTED
+    AREA WITH WATER.INGESTION:IF PERSON IS ALERT,GIVE AMPLE WATER AND
+    INDUCE VOM ITING.GET MEDICAL ATTENTION.INHALATION:REMOVE TO FRESH
+    AIR.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:CARBON DIOXIDE,DRY CHEMICAL,FOAM.
+Fire Fighting Procedures:FIREFIGHTER SHOULD WEAR SELF-CONTAINED
+    BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:TOXIC FUMES MAY BE EVOLVED UPON EXPOSURE
+    TO HEAT OR OPEN FLAME.HAZARDOUS DECOMPOSITION PRODUCTS ARE:CARBON
+    MONOXIDE,ALDEHYDES,ACIDS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SMALL SPILL:WIPE UP OR ABSORB WITH VERMICULITE
+    OR OTHER ABSORBANT.COLLECT IN SEALED CONTAINERS.WASH AREA WITH
+    SOAPY WATER.RINSE.LARGE SPILL:DIKE AREA.SHOVEL OR PUMP TO
+    DRUM/SALVAGE TANK.ABSORB RESIDUE  WITH SAND,VERMICULITE,OTHER
+    ABSORBENT (SEE SUPP)
+Neutralizing Agent:N/K 
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTACT.WEAR GLOVES & PROTECTIVE
+    CLOTHING.AVOID VAPORS.STORE IN COOL DRY PLACE,AWAY FROM HEAT OR
+    FLAME.KEEP CLOSED WHEN NOT IN USE.
+Other Precautions:USE ONLY WITH ADEQUATE VENTILATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:N/K .
+Ventilation:USE WITH GOOD LOCAL VENTILATION.FLEXIBLE DUCTWORK SHOULD
+    EXTEND TO AREAS OF HIGH CONCENTRATION TO PREVENT (SEE SUPP)
+Protective Gloves:RECOMMENDED
+Eye Protection:N/K 
+Other Protective Equipment:WEAR PROTECTIVE CLOTHING.
+Work Hygienic Practices:N/K 
+Supplemental Safety and Health
+% VOLAT BY WT:NEGLIGIBLE.MAT TO AVOID:REACTION WITH CURING AGENTS MAY
+    CAUSE LOTS OF HEAT/SMOKE/TOXIC FUME RELEASE.SPILL
+    PROC:SCRAPE/SHOVEL TO CONTAINERS.WASH AREA WITH SOAPY
+    WATER.RINSE.SPIILLED MATER IAL AND RINSES ARE CLASSIFIED AS
+    CHEMICAL WASTE.VENT:LOCAL BUILDUP OF VAPOR.PROVIDE SPECIAL
+    VENTILATION AT HIGH TEMP.
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:M.P/F.P Text:N/K 
+Decomp Temp:Decomp Text:N/K 
+Vapor Pres:<1 MMHG
+Vapor Density:>1 (AIR=1)
+Spec Gravity:1.65 (WATER=1)
+Evaporation Rate & Reference:N/K 
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:GRAY PASTE,SLIGHTLY SWEET ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS,AMINES,AMIDES,STRONG LEWIS OR MINERAL
+    ACIDS,THIOSULFATES,CARBOXYLIC ACIDS,ALCOHOL,MERCAPTANS. (SEE SUP)
+Stability Condition to Avoid:STORAGE IN OPEN CONTAINERS,EXPOSURE TO
+    HEAT AND/OR OPEN FLAME,EXPOSURE TO INCOMPATIBLE SUBSTANCES.
+Hazardous Decomposition Products:CARBON MONIXIDE,ALDEHYDES,ACIDS.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE IN ACCORDANCE WITH
+    FEDERAL,STATE AND LOCAL REGULATIONS.COORDINATION WITH SUPPORTING
+    INSTALLATION AND/OR MACOM ENVIRONMENTAL COORDINATION PRIOR	TO
+    DISPOSAL IS RECOMMENDED TO DETERMINE  APPROPRIATE DISPOSAL METHODS
+    .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

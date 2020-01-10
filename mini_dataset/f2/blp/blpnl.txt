@@ -1,0 +1,139 @@
+=====================  Product Identification  =====================
+
+Product ID:0361 ZEP ULTRASUDS
+MSDS Date:09/29/1989
+FSC:7930
+NIIN:00F019161
+MSDS Number: BLPNL
+=== Responsible Party ===
+Company Name:ZEP MFG CO/DIV OF NATIONAL SERVICE IND
+Address:1310 SEABOARD INDUSTRIAL BLVD NW
+Box:2015
+City:ATLANTA
+State:GA
+ZIP:30301
+Info Phone Num:(404) 352-1680 OR 435-2973
+Emergency Phone Num:(404) 352-1680 OR 435-2973
+CAGE:FO952
+=== Contractor Identification ===
+Company Name:ZEP MANUFACTURING COMPANY
+Address:1310 SEABOARD INDUSTRIAL BLVD NW
+Box:2015
+City:ATLANTA
+State:GA
+ZIP:30318
+Country:US
+Phone:877-428-9937
+CAGE:27674
+Company Name:ZEP MFG CO/DIV OF NATIONAL SERVICE IND
+Address:1310 SEABOARD INDUSTRIAL BLVD NW
+Box:2015
+City:ATLANTA
+State:GA
+ZIP:30301
+Phone:(404) 352-1680 OR 435-2973
+CAGE:FO952
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM LAURYL ETHER SULFATE
+CAS:9004-82-4
+RTECS #:WB7499000
+Fraction by Wt: 2%
+
+Ingred Name:ETHYL ALCOHOL (ETHANOL)
+CAS:64-17-5
+RTECS #:KQ6300000
+Fraction by Wt: 5%
+Other REC Limits:1900 MG/CUM
+OSHA PEL:1000 PPM
+ACGIH TLV:1000 PPM; 9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION, STINGING,
+    INFLAMMATION, & CORNEAL DAMAGE. SKIN: IRRITATION. INHALATION: UPPER
+    RESPIRATORY TRACT IRRITATION, & HARMFUL, NARCOTIC EFFECTS,
+    FLUSHING, HEADACHE, DIZZINESS, NAUSEA.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN: DRYNESS & IRRITATION. INHALATION:
+    NARCOSIS, UNCONSCIOUSNESS, DEATH, & IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN/EYES: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINS.
+    INHALATION: MOVE PERSON TO FRESH AIR. INGESTION: INDUCE VOMITING BY
+    GIVING 2 GLASSES OF WATER & STICKING FINGER DOWN THROAT. OBTAIN
+    MEDICAL ATT ENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:115F
+Extinguishing Media:WATER DILUTION RAISES FLASH POINT
+Fire Fighting Procedures:FIRE EXPOSED DRUMS SHOULD BE COOLED W/STREAM
+    OF WATER.
+Unusual Fire/Explosion Hazard:COMBUSTIBLE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE ALL FLAME, IGNITION & HIGH-HEAT
+    SOURCES. ABSORB SPILL ON INERT ABSORBENT MATERIAL. PICK UP & PLACE
+    RESIDUE IN A SUITABLE WASTE CONTAINER OR, IF PERMITTED, FLUSH TO
+    SEWER. FLUSH THOROUGHLY W/ WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:COMBUSTIBLE. STORE TIGHTLY CLOSED
+    CONTAINER IN A DRY AREA AT TEMP. BETWEEN 40-120F. AVOID CONTACT
+    W/SKIN & EYES. DON'T BREATHE SPRAY MISTS OR VAPORS.
+Other Precautions:KEEP OUT OF REACH OF CHILDREN. DON'T WEARING CONTACT
+    LENSES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NO SPECIAL MEASURES ARE REQUIRED
+Ventilation:IF VAPORS ARE DETECTED, VENTILATE WORK AREA BY OPENING
+    WINDOWS & USING EXHAUST FANS.
+Protective Gloves:IMPERVIOUS
+Eye Protection:SAFETY GLASSES OR GOGGLES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:200F
+Vapor Pres:17.54
+Vapor Density:AS WATER
+Spec Gravity:1.06
+pH:7-8.5
+Evaporation Rate & Reference:(WATER = 1): 1
+Solubility in Water:COMPLETE
+Appearance and Odor:A CLEAR GREEN FOAMY LIQUID W/A MILD SWEET ODOR.
+Percent Volatiles by Volume:22%/WT
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS, ACIDS
+Stability Condition to Avoid:HEAT, SPARKS, OPEN FLAMES, OR ANY SOURCE
+    OF IGNITION.
+Hazardous Decomposition Products:CO, CO2, & OXIDES OF SULFUR
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:LIQUIDS CAN'T BE SENT TO LANDFILLS UNLESS
+    SOLIDIFIED. UNUSABLE PRODUCT & SOME COLLECTED, SPENT USE-DILUTIONS
+    MAY REQUIRE DISPOSAL AS A HAZARDOUS WASTE AT A PERMITTED
+    TREATMENT/STORAGE/DISPOSAL FACILIT Y. CONSULT LOCAL, STATE &
+    FEDERAL AGENCIES.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

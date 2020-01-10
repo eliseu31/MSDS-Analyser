@@ -1,0 +1,150 @@
+=====================  Product Identification  =====================
+
+Product ID:BORIC ACID
+MSDS Date:09/06/1991
+FSC:6810
+NIIN:01-336-8094
+MSDS Number: BWRGJ
+=== Responsible Party ===
+Company Name:ANACHEMIA
+Address:3 LINCOLN BLVD
+City:ROUSES PT
+State:NY
+ZIP:12979
+Country:US
+Info Phone Num:518-297-4444
+Emergency Phone Num:800-424-9300(CHEMTREC)
+CAGE:HO801
+=== Contractor Identification ===
+Company Name:ANACHEMIA
+Address:3 LINCOLN BLVD
+Box:City:ROUSES POINT
+State:NY
+ZIP:12979
+Country:US
+Phone:518-297-4444
+CAGE:HO801
+Company Name:ANACHEMIA CHEMICALS INC
+Address:3 LINCOLN BLVD
+Box:City:ROUSES POINT
+State:NY
+ZIP:12979
+Country:US
+Phone:518-297-4444
+CAGE:4A444
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BORIC ACID
+CAS:10043-35-3
+RTECS #:ED4550000
+Fraction by Wt: 98-100%
+OSHA PEL:10 MG BORATES/M3
+ACGIH TLV:5 MG BORATES/M3
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50: (ORAL,RAT) 2260 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: MAY CAUSE IRRITATION. REVERSIBLE
+    CONJUNCTIVITIS. SKIN: MAY CAUSE IRRITATION. SKIN ABSORPTION THROUGH
+    DAMAGED SKIN: MAY BE ABSORBED INTO BLOODSTREAM IN TOXIC AMOUNTS,
+    MAY CAUSE MILD IRRITATION, E RYTHEMA, MACULAR RASH & CNS EFFECTS
+    AFTER 24 HOURS. INHALATION: MAY CAUSE RESPIRATORY TRACT
+    INFLAMMATION. IRRITATION TO MUCOUS MEMBRANESS. COUGHING, SNEEZING.
+    INGESTION: LARGE DOSES (>15 G FOR ADULTS,  >5 G FOR INFANTS) MAY
+    CAUSE ERYTHEMA, MACULAR RASH, WEAKNESS, NAUSEA, HEADACHE, ABDOMINAL
+    PAIN, DYANOSIS, VOMITING, DIARRHEA, DIZZINESS, CIRCULATORY COLLAPSE
+    AND MAY LEAD TO DEATH.  CHRONIC EFFECTS:  EYE:(SIGNS AND SYMPTOMS
+    OF OVEREXPOSURE)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HEALTH HAZARDS ACUTE AND CHRONIC (CONT): MILD
+    IRRITATION. REPRODUCTIVE EFFECTS: ANIMAL STUDIES SHOW INGESTION OF
+    LARGE AMOUNTS OF BORATES OVER PROLONGED PERIODS OF TIME CAUSE A
+    DECREASE IN SPERM PRODU CTION AND TESTICLE SIZE IN MALE LAB ANIMALS
+    AND DEVELOPMENTAL EFFECTS IN FETUSES OF PREGNANT FEMALE LABANIMALS.
+    LIVER AND KIDNEY DAMAGE.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:WASH EYES & SKIN W/COPIOUS QTYS OF WATER FOR AT LEAST 15
+    MINS. CALL MD. SKIN:WASH SKIN W/SOAP & WATER. REMOVE CONTAMD CLTHG.
+    CALL MD. WASH CLTHG BEFORE REUSE. INHAL:REMOVE PATIENT TO FRESH
+    AIR. A DMIN APPRVD O*2 SUPPLY IF BRTHG IS DFCLT. ADMIN ARTF
+    RESP/CPR IF BRTHG HAS CEASED. CALL MD. INGEST:GIVE LGE QTY OF WATER
+    TO DILUTE. INDUCE VOMIT. CALL MD. NEVER GIVE ANYTHING BY MOUTH TO
+    UNCON PERS.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE MEDIA SUITABLE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT. WEAR ADEQUATE PERS PROT TO PVNT CONTACT
+    W/MATL OR ITS COMBUSTION PRODUCTS.
+Unusual Fire/Explosion Hazard:EMITS TOXIC FUMES UNDER FIRE CONDITIONS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR NIOSH/MSHA APPRVD RESP, CHEM SAFETY
+    GOGGS, RUBBER BOOTS & HEAVY RUBBER GLOVES. SWEEP UP & PLACE IN
+    CNTNR FOR DISPOSAL. AVOID RAISING DUST. VENT AREA & WASH SPILL SITE
+    AFTER MATL PICK UP IS COMPLE TE.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL VENT AREA.
+    STORE AWAY FROM INCOMP MATLS TO CNTNR. DO NOT WASH DOWN DRAIN.
+    AVOID RAISING DUST. WASH WELL AFTER USE.
+Other Precautions:DO NOT GET IN EYES, ON SKIN, OR ON CLTHG. IN
+    ACCORDANCE WITH GOOD STORAGE & HANDLING PRACTICES. DO NOT ALLOW
+    SMOKING AND FOOD COMSUMPTION WHILE HANDLING. POSSIBLE REPRO TOXIN.
+    POSS TERATOGEN. DO NOT B REATHE DUST. AVOID ALL CONTACT WITH
+    PRODUCT. USE ADEQUATE VENTILATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR IS ADVISED IN
+    THE ABSENCE OF PROPER ENVIRONMENTAL CONTROLS.
+Ventilation:LOCAL EXHUAST IS SUFFICIENT.
+Protective Gloves:RUBBER GLOVES.
+Eye Protection:ANSI APPRVD SAFETY GOGGLES.
+Other Protective Equipment:MAKE ANSI APPRVD EYE BATH & EMER SHOWER
+    AVAILABLE . APRON OR CLOTHING TO PROTECT SKIN. SUFFICIENT TO
+    PROTECT SKIN.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+PHYSICAL AND CHEMICAL PROPERTIES (CONT): PH: 3.7 @ 4.7%, 5.1 @ 1%.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C3
+Spec Gravity:1.5128
+pH:3.7 @ 4.7%
+Solubility in Water:4.7% @ 20C, 27.5% @ 100C
+Appearance and Odor:WHITE CRYSTALLINE POWDER OR CRYSTALS WITH NO ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ALKALINE CARBONATES, POTASSIUM HYDROXES, ACETIC ANHYDRIDE, STRONG
+    BASES, PHOSPHORUS, ALKALIS. VOLAT IN STEAM W/O DECOMPOSITION.
+Stability Condition to Avoid:WILL DEHYDRATE AT 100C AND ABOVE.
+Hazardous Decomposition Products:BORON OXIDES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ACCORDING TO ALL APPLICABLE REGULATIONS. AVOID
+    RUN OFF. DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE & FEDERAL
+    REGULATIONS .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

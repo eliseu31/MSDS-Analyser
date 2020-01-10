@@ -1,0 +1,106 @@
+=====================  Product Identification  =====================
+
+Product ID:PYRO CHEM GL POWDER, KIDDIE METAL GUARD
+MSDS Date:06/01/1988
+FSC:4210
+NIIN:00F018549
+MSDS Number: BKYFC
+=== Responsible Party ===
+Company Name:PYRO CHEM INC
+Address:301 DIVISION STREET
+City:BOONTON
+State:NJ
+ZIP:07005
+Info Phone Num:(201) 335-9750
+Emergency Phone Num:(201) 335-9750
+CAGE:FO942
+=== Contractor Identification ===
+Company Name:PYRO CHEM INC
+Address:301 DIVISION STREET
+City:BOONTON
+State:NJ
+ZIP:07005
+Phone:(201) 335-9750
+CAGE:FO942
+Company Name:PYRO-CHEM INC
+Address:301 DIVISION ST
+Box:City:BOONTON
+State:NJ
+ZIP:07005-1826
+Country:US
+Phone:201-335-9750
+CAGE:4J390
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CARBON (COKE)
+CAS:65996-77-2
+RTECS #:GH0304500
+Fraction by Wt: >95%
+
+Ingred Name:PHENOL ISOPROPYLATED PHOSPHATE (3:1)
+CAS:68937-41-7
+Fraction by Wt: <5%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES/SKIN: IRRITATION. INHALATION:
+    RESPIRATORY TRACT IRRITATION & DISCOMFORT.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES/SKIN: IRRITATION. INHALATION: RESPIRATORY
+    TRACT IRRITATION & DISCOMFORT.
+Medical Cond Aggravated by Exposure:SKIN SENSITIVITY & RESPIRATORY
+    DISORDERS
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES/SKIN: FLUSH W/PLENTY OF WATER. INHALATION: REMOVE FROM
+    EXPOSURE. INGESTION: OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON-COMBUSTIBLE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE BY VACUUMING FOR SIMPLE CLEANUP &
+    CONTAINMENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN CLOSED CONTAINERS. KEEP DRY &
+    AT MODERATE TEMPERATURES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED DUST RESPIRATOR IF >TLV.
+Ventilation:LOCAL EXHAUST TO KEEP DUST <TLV.
+Protective Gloves:NONE NORMALLY NEEDED
+Eye Protection:SAFETY GOGGLES
+Work Hygienic Practices:NORMAL CARE & AWARENESS
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Solubility in Water:INSOLUBLE
+Appearance and Odor:BLACK GRANULAR POWDER W/VERY SLIGHT PHENOLIC ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

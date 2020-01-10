@@ -1,0 +1,115 @@
+=====================  Product Identification  =====================
+
+Product ID:AW 250-1.6
+MSDS Date:01/01/1987
+FSC:8010
+NIIN:00F019361
+MSDS Number: BLPZB
+=== Responsible Party ===
+Company Name:SWD URETHANE COMPANY
+Address:222 S DATE ST
+City:MESA
+State:AZ
+ZIP:85202
+Info Phone Num:(602) 969-8413
+Emergency Phone Num:(602) 969-8413
+CAGE:FO963
+=== Contractor Identification ===
+Company Name:SWD URETHANE COMPANY
+Address:222 S DATE ST
+City:MESA
+State:AZ
+ZIP:85202
+Phone:(602) 969-8413
+CAGE:FO963
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ADDITIVES
+Fraction by Wt: <10%
+
+Ingred Name:METHYLENE BISPHENYL ISOCYANATE (MDI)  (SARA III)
+CAS:101-68-8
+RTECS #:NQ9350000
+Fraction by Wt: >92%
+Other REC Limits:0.005 PPM
+OSHA PEL:C, 0.02 PPM
+ACGIH TLV:0.005 PPM; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:TRIS (2-CHLOROPROPYL) PHOSPHATE
+Fraction by Wt: <8%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: BREATHLESSNESS, HARMFUL,
+    IRRITATION OF MUCOUS MEMBRANES & REDUCED PULMONARY FUNCTION &
+    ALLERGIC RESPIRATORY REACTION. SKIN/EYES: IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES/SKIN: IRRITATION. INHALATION:
+    BREATHLESSNESS, IRRITATION OF MUCOUS MEMBRANES, REDUCED PULMONARY
+    FUNCTION, ALLERGIC RESPIRATORY REACTION & HARMFUL.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR, TREAT SYMPTOMATICALLY, GIVE
+    OXYGEN IF NECESSARY. EYES: FLUSH W/WATER FOR AT LEAST 15 MINS.
+    SKIN: WASH THOROUGHLY W/SOAP & WATER. OBTAIN MEDICAL ATTENTION IN
+    ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:440F
+Extinguishing Media:CO2, DRY CHEMICAL, WATER
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS & FULL
+    PROTECTIVE CLOTHING.
+Unusual Fire/Explosion Hazard:EXOTHERMIC GENERATION OF CO2 GAS MAY
+    CAUSE DANGEROUS PRESSURE BUILD-UP IN A CLOSED CONTAINER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONTAIN SPILL, COVER LIQUID W/ABSORBENT
+    MATERIAL. REMOVE TO WELL VENTILATED AREA & TREAT W/NEUTRALIZING
+    SOLUTION. VENT CONTAMINATED CONTAINERS, MOVE TO A SAFE AREA FOR
+    NEUTRALIZATION & DISPOSAL.
+Neutralizing Agent:FORMULA: 90% WATER, 8% CONCENTRATED AMMONIA & 2%
+    LIQUID DETERGENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTACT W/EYES, SKIN & CLOTHING.
+    PROTECT FROM CONTAMINATION.
+Other Precautions:AVOID INHALATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AS REQUIRED
+Ventilation:LOCAL EXHAUST/MECHANICAL (GENERAL) TO KEEP 1
+Appearance and Odor:DARK BROWN LIQUID.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG BASES, METAL COMPOUNDS, ALCOHOLS, & SURFACE ACTIVE AGENTS.
+Stability Condition to Avoid:TEMPS >400F
+Hazardous Decomposition Products:TRACES OF HYDROGEN CYANIDE, CO, OXIDES
+    OF NITROGEN, CO2.
+Conditions to Avoid Polymerization:ISOCYANATE REACTIVE MATERIALS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:BURY OR LANDFILL IN ACCORDANCE W/LOCAL, STATE &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

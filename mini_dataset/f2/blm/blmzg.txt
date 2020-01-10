@@ -1,0 +1,196 @@
+=====================  Product Identification  =====================
+
+Product ID:MIL-C-83286, BLACK, 17038, 03BK028
+MSDS Date:06/06/1991
+FSC:8010
+NIIN:00-181-8276
+Kit Part:Y
+MSDS Number: BLMZG
+=== Responsible Party ===
+Company Name:DEFT INC CHEMICAL COATING DIV
+Address:17451 VON KARMAN AVE
+City:IRVINE
+State:CA
+ZIP:92714-6205
+Country:US
+Info Phone Num:714-474-0400
+Emergency Phone Num:800-424-9300 CHEMTREC
+Preparer's Name:NORM GAUL
+CAGE:33461
+=== Contractor Identification ===
+Company Name:DEFT,  INC.
+Address:17451 VON KARMAN AVE
+City:IRVINE
+State:CA
+ZIP:92614
+Country:US
+Phone:949-474-0400
+CAGE:33461
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHYL-3-ETHOXYPROPIONATE (VAPOR PRESSURE .7 MM HG)
+CAS:763-69-9
+RTECS #:UF3325000
+Fraction by Wt: 25%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: 15%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ETHYL ACETATE  (SARA III)
+CAS:141-78-6
+RTECS #:AH5425000
+Fraction by Wt: 10%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:400 PPM
+ACGIH TLV:400 PPM; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:N-BUTYL ACETATE  (SARA III)
+CAS:123-86-4
+RTECS #:AF7350000
+Fraction by Wt: <1%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:150 PPM/200 STEL
+ACGIH TLV:150 PPM/200STEL;9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:PMGE ACETATE (VAPOR PRESSURE 3.8 MM HG)
+CAS:108-65-6
+RTECS #:AI8925000
+Fraction by Wt: <1%
+Other REC Limits:TLV OF 100 PPM
+OSHA PEL:NONE ESTABLISHED
+ACGIH TLV:NONE ESTABLISHED
+
+Ingred Name:DIBUTYLTIN DILAURATE (VAPOR PRESSURE .2 MM HG)
+CAS:77-58-7
+RTECS #:WH7000000
+Fraction by Wt: <0.1%
+Other REC Limits:NONE SPECIFIED
+ACGIH TLV:.1MG/M3;.2MG/M3 STEL
+
+Ingred Name:VOC: 564 G/L
+RTECS #:9999999VO
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: VAPORS ARE IRRITATING TO
+    EYES/NOSE/ THROAT. INHALATION MAY CAUSE HEADACHES/DIFFICULT
+    BREATHING/LOSS OF CONSCIOUSNESS. CHRONIC: PROLONGED CONTACT WILL
+    CAUSE DRYING AND CRACKING OF THE SKIN, DUE	TO DEFATTING ACTION.
+    SKIN SENSITIZATION, ASTHMA OR OTHER ALLERGIC RESPONSES MAY DEVELOP.
+Effects of Overexposure:INHALE:IRRITATE-RSPRTRY TRACT/ACUTE NERVOUS
+    SYSTEM
+    DEPRESSION=HEADACHE/DIZZINESS/STAGGERING/CONFUSION/UNCONSCIOUSNESS/
+    COMA. SKIN:
+    IRRITATE-SWELLING/REDNESS/RASH/DRYING/DEFATTING/CRACKING. EYES:
+    IRRIT ATE-TEARING/REDNESS/SWELLING/STINGING. INGESTION:
+    IRRITATE/CORROSION- MOUTH/STOMACH/DIGESTIVE TRACT-CHEMICAL
+    PHEUMONITIS
+Medical Cond Aggravated by Exposure:ASTHMA AND ANY OTHER RESPIRATIRY
+    DISORDERS. SKIN ALLERGIES, ECZEMA, AND DERMITITIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO RISK-FREE AREA. RESTORE BREATHING.
+    ASTHMA-TYPE SYMPTOMS MAY DEVELOP IMMED/DELAYED. MEDICAL ATTENTION.
+    SKIN: REMOVE CLOTHING. WASH W/SOAP/WATER. WASH CONTAMINATED
+    CLOTHING BEFORE  RE-USE. EYES: FLUSH W/WATER LIFTING LIDS-15
+    MINUTES. MEDICAL ATTENTION. INGESTION: DO NOT INDUCE VOMITING.
+    NOTHING BY MOUTH TO UNCONSCIOUS PERSON. MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:24.0F,-4.4C
+Lower Limits:1.05
+Extinguishing Media:FOAM, ALCOHOL FOAM, CARBON DIOXIDE, DRY CHEMICAL,
+    WATER FOG.
+Fire Fighting Procedures:FULL GEAR W/SELF-CONTAINED BREATHING
+    APPARATUS. WATER USED TO COOL CLOSED CONTAINERS TO PREVENT PRESSURE
+    BUILD- UP/AUTO IGNITION-EXPLOSION.
+Unusual Fire/Explosion Hazard:KEEP CONTAINERS CLOSED. NO HEAT/SPARKS/
+    ELECTRICAL EQUIP/OPEN FLAME. APPLICATION HOT SURFACES--SPECIAL
+    PRECAUTIONS. OVEREXPOSURE TO DECOMP PRODS--HEALTH HAZARD.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CLEAR AREA. REMOVE ALL SOURCES OF IGNITION
+    (FLAME/SPARK SOURCES/HOT SURFACES) VENTILATE AREA CONTAIN AND
+    REMOVE WITH INERT ABSORBANT AND NON-SPARKING TOOLS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:BUILDING COMPLY OSHA 1910.106 AVOID
+    STORING NEAR HIGH TEMPERATURES/FIRE/OPEN FLAME/SPARK SOURCES.
+    CLOSED CONTAINERS. WELL VENTILATED AREA.
+Other Precautions:NO LEAKAGE. NO PROLONGED BREATHING VAPORS.
+    OVEREXPOSURE-ALLERGIC REACTION. NO CONTACT SKIN/EYES/INGESTION.
+    UNDERSTAND MANUFACTURERS SAFETY PRECAUTIONS. SECTION 313 OF TITLE
+    III SUPERFUND AMENDMENT AND  REAUTHORIZATION ACT 1986 & 40 CFR
+    #372.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AIR PURIFYING OR FRESH AIR SUPPLIED RESPIRATOR
+    APPROVED FOR USE IN ORGANIC VAPOR ENVIRONMENT. OSHA REGULATIONS FOR
+    RESPIRATOR USE. KEEP EXPOSURE LEVELS BELOW OSHA LIMITS.
+Ventilation:EXHAUST SUFFICIENT TO KEEP AIRBORNE CONCENTRATES BELOW
+    TLV'S. NO IGNITION SOURCES: HEAT/SPARKS/FLAME/HOT SURFACES.
+Protective Gloves:COTTON, NEOPRENE, RUBBER, POLYETHYLENE.
+Eye Protection:SAFETY/SPLASH/GUARDS/SIDE SHEILDS.
+Other Protective Equipment:LONG SLEEVE/LEG CLOTHING.
+Work Hygienic Practices:WASH HANDS BEFORE EATING, SMOKING, OR USING
+    WASHROOM. SMOKE IN SMOKING AREAS ONLY.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:B.P. Text:169 TO 338F
+Vapor Density:>AIR
+Spec Gravity:1.02
+Viscosity:*
+Evaporation Rate & Reference:2.43 (X N-BUTYL ACETATE)
+Solubility in Water:INSOLUBLE
+Appearance and Odor:BLACK LIQUID WITH SOLVENT ODOR
+Percent Volatiles by Volume:63.6
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:HIGH TEMPERATURES, SPARKS, OR OPEN FLAMES.
+Hazardous Decomposition Products:BY HIGH HEAT/TEMPERATURE: CARBON
+    MONOXIDE, CARBON DIOXIDE, AND OXIDES OF NITROGEN.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:IN ACCORDANCE WITH LOCAL, STATE AND FEDERAL
+    REGULATIONS. EMPTY CONTAINERS HANDLE W/CARE DUE TO PRODUCT RESIDUE
+    & FLAMMABLE VAPOR. NO BURN CLOSED CONTAINERS. SECTION IV, V, VI,
+    FOR OTHER PRECAUTIONS. E PA HAZARDOUS WASTE NUMBER/CODE: D001,
+    F003, F005.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

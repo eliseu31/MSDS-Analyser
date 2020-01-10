@@ -1,0 +1,139 @@
+=====================  Product Identification  =====================
+
+Product ID:MAINE RESIN, 553
+MSDS Date:08/08/1988
+FSC:8030
+NIIN:00-259-7968
+MSDS Number: BLPFD
+=== Responsible Party ===
+Company Name:FIBRE GLASS-EVERCOAT CO INC
+Address:6600 CORNELL ROAD
+City:CINCINNATI
+State:OH
+ZIP:45242
+Country:US
+Info Phone Num:513-489-7600
+Emergency Phone Num:800-543-4530
+CAGE:18731
+=== Contractor Identification ===
+Company Name:FIBRE GLASS-EVERCOAT CO INC
+Address:6600 CORNELL ROAD
+Box:City:CINCINNATI
+State:OH
+ZIP:45242
+Country:US
+Phone:513-489-7600
+CAGE:18731
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:STYRENE, MONOMER  (SARA III)
+CAS:100-42-5
+RTECS #:WL3675000
+Fraction by Wt: <40%
+OSHA PEL:100 PPM
+ACGIH TLV:S,50PPM/100STEL;9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:UNSATURATED POLYESTER RESIN
+Fraction by Wt: >60%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:SKIN:PROLONGED OR FREQUENT CONTACT MAY
+    CAUSE DEFATTING, DRYNESS WITH IRRITATION AND POSSIBLE DERMATITIS.
+    STYRENE MAY BE ABSORBED THROUGH THE SKIN IN TOXIC AMOUNTS. EYE:MAY
+    CAUSE TEARING AND IRRITATION . INHAL:VAPORS MAY CAUSE NOSE, THROAT,
+    AND RESPIRATORY TRACT IRRITATION. HIGH CONCENTRATIONS MAY CAUSE
+    (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:STYRENE:GROUP 2B (IARC)
+Effects of Overexposure:HLTH HAZ:HEADACHE AND NAUSEA. REPEATED HIGH
+    CONCENTRATION EXPOSURE MAY CAUSE LIVER AND KIDNEY DAMAGE.
+    INGEST:MAY CAUSE GASTROINTESTINAL DISTURBANCES, PAIN AND
+    DISCOMFORT.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:WASH WITH SOAP & WATER. EYE:FLUSH WITH WATER FOR AT
+    LEAST 15 MINUTES. GET MD. INHAL:REMOVE FROM EXPOSURE. IF
+    UNCONSCIOUS, GIVE ARTIFICIAL RESPIRATION OR OXYGEN IF NEEDED. GET
+    MD. INGEST:DO NOT IN DUCE VOMITING (ASPIRATION HAZARD). GET MD
+    IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:89.0F,31.7C
+Lower Limits:1.1%
+Upper Limits:6.1%
+Extinguishing Media:WATER SPRAY, FOAM, DRY CHEMICAL OR CO*2.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:AT ELEVATED TEMPERATURES SUCH AS IN A
+    FIRE, POLYMERIZATION MAY TAKE PLACE. IF CONTAINED, VIOLENT RUPTURE
+    MAY RESULT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE SOURCES OF IGNITION. ABSORB SPILL WITH
+    ABSORBENT MATERIAL SUCH AS VERMICULITE OR SAND.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID STORAGE ABOVE 100F. STORE ONLY
+    IN ORIGINAL CONTAINERS.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:A NIOSH/MSHA APPROVED CANISTER TYPE RESPIRATOR
+    MUST BE WORN TO PREVENT THE INHALATION OF VAPORS OR SPRAY MISTS
+    WHEN THE TLV OR PEL IS EXCEEDED. WEAR NIOSH/MSHA APPROVED DUST MASK
+    WHEN SANDING CURED PR ODUCT.
+Ventilation:GENERAL VENTILATION IS REQUIRED DURING NORMAL USE.
+Protective Gloves:PLASTIC OR CHEMICAL RESISTANT GLOVES.
+Eye Protection:CHEM WORK GOG W/FULL LENGTH FSHLD 
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:295F,146C
+Vapor Pres:4.3 @ 20C
+Vapor Density:HVR/AIR
+Spec Gravity:1.1
+Evaporation Rate & Reference:SLOWER THAN BUTYL ACETATE
+Solubility in Water:NIL
+Appearance and Odor:FLUID, SHARP AROMATIC ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS AND OXIDIZING AGENTS.
+Stability Condition to Avoid:HEAT AND DIRECT SUNLIGHT.
+Hazardous Decomposition Products:HEATING TO DECOMPOSITION MAY CAUSE THE
+    EMISSION OF IRRITATING ACRID FUMES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:SMALL QUANTITIES CAN BE REACTED WITH THE
+    APPROPRIATE HARDNER TO SOLIDIFY. DISPOSE OF IN ACCORDANCE WITH ALL
+    FEDERAL, STATE AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

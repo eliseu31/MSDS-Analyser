@@ -1,0 +1,150 @@
+=====================  Product Identification  =====================
+
+Product ID:METHOXY POLY(ETHYLENE GLYCOL) ISOCYANATE, AVERAGE MW 5,000
+MSDS Date:08/03/1998
+FSC:6810
+NIIN:00N092048
+Status Code:A
+MSDS Number: CJQFQ
+=== Responsible Party ===
+Company Name:SHEARWATER POLYMERS INC
+Address:2307 SPRING BRANCH RD
+City:HUNTSVILLE
+State:AL
+ZIP:35801
+Country:US
+Info Phone Num:205-533-4201
+Emergency Phone Num:205-533-4201
+CAGE:TO228
+=== Contractor Identification ===
+Company Name:SHEARWATER POLYMERS INC
+Address:2307 SPRING BRANCH RD
+Box:City:HUNTSVILLE
+State:AL
+ZIP:35801
+Country:US
+Phone:205-533-4201
+CAGE:TO228
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHOXY POLY(ETHYLENE GLYCOL) ISOCYANATE
+Other REC Limits:15  MG/M3 TDUST(MFR)
+OSHA PEL:5 MG/M3 RDUST
+ACGIH TLV:10 MG/M3
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EFFECT OF SINGLE OVEREXPOSURE:
+    INGESTION: NO AVAILABLE INFORMATION. SKIN ABSORPTION: NO AVAILABLE
+    INFORMATION. INHALATION: SHORT-TERM HARMFUL HEALTH EFFECTS ARE NOT
+    EXPECTED FROM VAPOR GENERATED AT AM BIENT TEMPERATURE. SKIN
+    CONTACT: NO AVAILABLE INFORMATION. EYE CONTACT: NO AVAILABLE
+    INFORMATION. EFFECTS OF REPEATED OVEREXPOSURE: NO INFORMATION
+    AVAILABLE. EXPOSURE LIMITS: OSHA HAS ESTABLISHED A PE L OF 5 MG/M3
+    FOR RESPIRABLE DUST AND OF 15 MG/M3 FOR TOTAL DUST. ACGIH HAS
+    ESTABLISHED A TLV OF 10 MG/M3 FOR NUISANCE PARTICULATES.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: IN CASE OF CONTACT, IMMEDIATELY FLUSH EYES WITH COPIOUS
+    AMOUNTS OF WATER FOR AT LEAST 15 MINUTES. SKIN: IN CASE OF CONTACT,
+    IMMEDIATELY WASH SKIN WITH SOAP AND COPIOUS AMOUNTS OF WATER.
+    INHALATI ON: IF INHALED, REMOVE TO FRESH AIR. IF NOT BREATHING GIVE
+    ARTIFICIAL RESPIRATION. IF BREATHING IS DIFFICULT, GIVE OXYGEN.
+    INGESTION: IF SWALLOWED, WASH OUT MOUTH WITH WATER PROVIDED PERSON
+    IS CONSCIO US. CALL A PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:>176.7C, 350.F
+Lower Limits:NOT DETERM
+Upper Limits:NOT DETERM
+Extinguishing Media:APPLY ALCOHOL-TYPE OR ALL-PURPOSE-TYPE FOAM BY
+    MANUFACTURER'S RECOMMENDED TECHNIQUES FOR LARGE FIRES. USE CARBON
+    DIOXIDE OR DRY CHEMICAL MEDIA FOR SMALL FIRES.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT . DO NOT DIRECT A SOLID STREAM OF WATER OR FOAM INTO HOT
+    BURNING POOLS; THIS MAY CAUSE FROTHING AND INCREASE FIRE INTENSITY.
+Unusual Fire/Explosion Hazard:AVOID DISPERSION OF DUST IN AIR TO REDUCE
+    POTENTIAL FOR DUST IGNITION/RAPID BURNING. DUST IS EASILY IGNITED;
+    AVOID IGNITION SOURCES. ALL METAL PARTS AND EQUIPMENT SHOULD BE
+    PROPERLY BONDED AND GROUNDE D. IN THE PRESENCE OF FLAMMABLE GASES,
+    LIQUIDS OR VAPORS, HANDLE IN INERT NITROGEN-BLANKETED EQUIPMENT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:COLLECT FOR DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT BREATHE VAPOR. AVOID CONTACT
+    WITH EYES, SKIN AND CLOTHING. WASH THOROUGHLY AFTER HANDLING. KEEP
+    TIGHTLY CLOSED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR APPROPRIATE NIOSH APPROVED RESPIRATOR.
+Ventilation:MECHANICAL EXHAUST REQUIRED.
+Protective Gloves:CHEMICAL-RESISTANT GLOVES.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:EYE WASH AND DELUGE SHOWER MEETING ANSI
+    DESIGN CRITERIA . WEAR PROTECTIVE CLOTHING.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+OTHER INFO: REQUEST ITS CUSTOMERS TO NOTIFY THEIR EMPLOYEES, CUSTOMERS
+    & OTHER USERS OF THE PROD OF THIS INFORMATION.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:>200.C, 392.F
+B.P. Text:DECOMPOSES
+Melt/Freeze Pt:>50.C, 122.F
+M.P/F.P Text:MP: 50-60C
+Vapor Pres:NIL @ 20C
+Vapor Density:>1 (AIR=1)
+Spec Gravity:1.08 @ 20C (H*2O=1)
+Evaporation Rate & Reference:NIL (BUTYL ACETATE=1)
+Appearance and Odor:WHITE POWDER; MILD ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+STRONG OXIDIZING AGENTS, MOISTURE SENSITIVE, SENSITIVE TO BASE.
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:POTENTIAL FOR A DUST EXPLOSION EXISTS IF ATTEMPT
+    IS MADE TO INCINERATE ORGANIC POWDERS. IF INCINERATION IS DESIRED,
+    DISSOLVE IN A SUITABLE SOLVENT AND INCINERATE AS A SOLUTION.
+    INCINERATE IN A FURNACE  WHERE PERMITTED UNDER FEDERAL, STATE AND
+    LOCAL REGULATIONS.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:AROCLOR 1260 SUBJECT TO THE REPORTING
+    REQUIREMENTS OF SARA TITLE III, SECTION 313.
+Federal Regulatory Information:THIS MATERIAL IS NOT LISTED ON THE TSCA
+    (TOXIC SUBSTANCES CONTROL ACT) INVENTORY. THIS MATERIAL IS INTENDED
+    FOR R&D USE ONLY AND MAY NOT BE USED FOR DRUG, HOUSEHOLD, OR OTHER
+    PURPOSES. IT IS SUBJECT T O TSCA REGULATIONS ACT CFR 40 PART 720.36
+    WHICH DEAL WITH THE EXEMPTION OF CHEMICALS USED IN RESEARCH AND
+    DEVELOPMENT FROM PMN (PREMANUFACTURE NOTIFICATION) REQUIREMENTS. IN
+    ADDITION, THE BURDEN OF SA FE USE OF THE MATERIAL RESTS WITH YOU
+    AND, THEREFORE, IT SHOULD BE HANDLED ONLY BY QUALIFIED PERSONS 
+    TRAINED IN LABORATORY PROCEDURES AND GOOD SAFETY PRACTICES.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

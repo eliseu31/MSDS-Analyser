@@ -1,0 +1,196 @@
+=====================  Product Identification  =====================
+
+Product ID:HYDRAULIC OIL 704
+MSDS Date:07/08/1997
+FSC:9150
+NIIN:01-345-6132
+MSDS Number: BLMXX
+=== Responsible Party ===
+Company Name:SOUTHWESTERN PETROLEUM CORP
+Address:534 N MAIN ST
+Box:789
+City:FORT WORTH
+State:TX
+ZIP:76101
+Country:US
+Info Phone Num:817-332-2336
+Emergency Phone Num:817-332-2336/800-424-9300(CHEMTREC)
+CAGE:14392
+=== Contractor Identification ===
+Company Name:SOUTHWESTERN PETROLEUM CORP
+Address:534 N MAIN ST
+Box:961005
+City:FORT WORTH
+State:TX
+ZIP:76106
+Country:US
+Phone:817-348-7235
+CAGE:14392
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SOLVENT REFINED HYDROTREATED RESIDUAL OIL/PETROLEUM
+    LUBRICATING OIL BASE STOCK. TOTAL PERCENTGE OF INGS 1-7: >97
+CAS:64742-57-0
+Fraction by Wt: SEE ING
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:5 MG/M3 AS OIL MIST
+ACGIH TLV:5 MG/M3 AS OIL MIST
+
+Ingred Name:SOLVENT DEWAXED RESIDUAL OIL (PETROLEUM)
+CAS:64742-62-7
+Fraction by Wt: SEE # 1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:5 MG/M3 AS OIL MIST
+ACGIH TLV:5 MG/M3 AS OIL MIST
+
+Ingred Name:MINERAL OIL, PETROLEUM DISTILLATES,HYDROTREATED
+    (MILD),HEAVY PARAFFINIC
+CAS:64742-54-7
+RTECS #:PY8035500
+Fraction by Wt: SEE # 1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:5 MG/M3 (OIL MIST)
+ACGIH TLV:5 MG/M3 (OIL MIST)
+
+Ingred Name:MINERAL OIL, PETROLEUM DISTILLATE, SOLVENT DEWAXED (MILD),
+    HEAVY PARAFFINIC
+CAS:64742-65-0
+RTECS #:PY8038500
+Fraction by Wt: SEE # 1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:5 MG/M3 AS OIL MIST
+ACGIH TLV:5 MG/M3 AS OIL MIST
+
+Ingred Name:SOLVENT REFINED, HYDROTREATED LIGHT PARAFFINIC DISTILLATE
+CAS:64742-55-8
+RTECS #:PY8036500
+Fraction by Wt: SEE # 1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:5 MG/M3 AS OIL MIST
+ACGIH TLV:5 MG/M3 AS OIL MIST
+
+Ingred Name:DISTILLATES, SOLVENT-DEWAXED LIGHT PARAFFINIC
+CAS:64742-56-9
+RTECS #:PY8039500
+Fraction by Wt: SEE # 1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:5 MG/M3 AS OIL MIST
+ACGIH TLV:5 MG/M3 AS OIL MIST
+
+Ingred Name:MINERAL OIL, SOLVENT REVFINED HEAVY PARAFFINIC, SEVERELY
+    HYDROTREATED
+CAS:64741-88-4
+RTECS #:PY8040501
+Fraction by Wt: SEE # 1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:5 MG/M3 (OIL MIST)
+ACGIH TLV:5 MG/M3 (OIL MIST)
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:TLV FOR OIL MIST IS 5 MG/M3.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:TARGET ORGANS: EYES, SKIN, RESPIRATORY
+    TRACT. ACUTE- EYE CONTACT MAY CAUSE IRRITATION. PROLONGED/REPEATED
+    SKIN CONTACT MAY CAUSE MILD IRRITATION AND INFLAMMATION. INHALATION
+    OF OIL MISTS MAY CAUSE MIL D IRRITATION OF UPPER RESPIRATORY TRACT.
+    LOW ORDER OF ORAL TOXICITY. ASPIRATION HAZARD. CHRONIC- SKIN
+    INFLAMMATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:IRRITATION, NAUSEA, VOMITING, ABDOMINAL
+    DISCOMFORT, TEARING, COUGHING
+Medical Cond Aggravated by Exposure:PERSONS WITH PRE-EXISTING SKIN
+    DISORDERS MAY BE MORE SUSCEPTIBLE TO THE EFFECTS OF THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:GET MEDICAL ATTENTION IF SYMPTOMS PERSIST. SKIN: REMOVE
+    CONTAMINATED CLOTHING. WIPE EXCESS OFF. WASH SKIN WITH SOAP &
+    WATER. EYE: FLUSH WITH WATER FOR 15 MINUTES. HOLD EYELIDS OPEN.
+    INHALED: MOVE TO F RESH AIR. ORAL: DO NOT INDUCE VOMITING.GET
+    MEDICAL ATTENTION IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:430F,221C
+Autoignition Temp:Autoignition Temp Text:>500F
+Lower Limits:0.9
+Upper Limits:7
+Extinguishing Media:WATER FOG/SPRAY, CARBON DIOXIDE, FOAM/DRY CHEMICAL.
+    DIRECTLY SPRAYING WATER/FOAM ONTO BURNING OIL MAY CAUSE FROTHING.
+Fire Fighting Procedures:DO NOT ENTER ANY ENCLOSED OR CONFINED AREA
+    WITHOUT PROPER PROTECTIVE EQUIPMENT AND NIOSH-APPROVED
+    SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:CONTAINER MAY RUPTURE. COOL CONTAINERS
+    WITH WATER SPRAY.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE EQUIPMENT. REMOVE SPILL WITH
+    INERT ABORBENT SUCH AS SAND, CLAY, EARTH. TRANSFER TO PROPER
+    CONTAINERS FOR DISPOSAL. PREVENT RUN-OFF TO ENTER SEWERS OR
+    WATERWAYS. WASH AREA TO REMOVE TRA CE RESIDUE.
+Neutralizing Agent:NOT RELEVANT
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM OXIDIZING AGENTS. KEEP
+    CONTAINER CLOSED.
+Other Precautions:"EMPTY" CONTAINERS RETAIN RESIDUE. ALL PRECAUTIONS
+    SHOULD BE OBSERVED. WASH THOROUGHLY AFTER HANDLING. KEEP OUT OF
+    REACH OF CHILDREN. AVOID BREATHING MISTS/VAPORS. AVOID REPEATED
+    SKIN CONTACT. DO NOT  GET IN EYES. DO NOT INGEST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT REQUIRED UNDER NORMAL CONDITIONS OF USE. IF
+    HIGH VAPOR OR MIST CONCENTRATIONS EXPECTED, USE NIOSH APPROVED
+    CHEMICAL CARTRIDGE RESPIRATOR FOR ORGANIC VAPORS AND MISTS. REFER
+    TO 29 CFR 1910.134.
+Ventilation:USE ADEQUATE VENTILATION TO KEEP OIL MISTS OF THIS MATERIAL
+    BELOW APPLICABLE STANDARD(S).
+Protective Gloves:NITRILE IF FREQUENT CONTACT EXPECTED
+Eye Protection:SAFETY GOGGLES IF SPLASHING ANTICIPATED
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER.
+    INDUSTRIAL-TYPE WORK CLOTHING AND APRON AS REQUIRED.
+Work Hygienic Practices:OBSERVE GOOD INDUSTRIAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES. WASH BEFORE EATING OR DRINKING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+NRC/State Lic Num:NOT RELEVANT
+Boiling Pt:B.P. Text:>559F,>293C
+Vapor Density:>5
+Spec Gravity:0.9
+Solubility in Water:NO
+Appearance and Odor:RED OIL - LUBE OIL ODOR
+Percent Volatiles by Volume:NONE
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:EXTREME HEAT, IGNITION SOURCES
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE, SMOKE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL STATE AND
+    FEDERAL LAWS. PRODUCT IS AN OIL. SPILLS TO US SURFACE
+    WATERS/WATERCOURSE/SEWER THAT CAUSE A VISIBLE SHEEN MUST BE
+    REPORTED TO NATIONAL RESPONSE CENTER 800 -424-8802. LANDFILL OR
+    INCINERATION IS RECOMMENDED
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

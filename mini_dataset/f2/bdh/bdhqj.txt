@@ -1,0 +1,135 @@
+=====================  Product Identification  =====================
+
+Product ID:MIL-C-43454,CLEANING COMPOUND,OPTICAL LENS
+MSDS Date:04/03/1989
+FSC:6850
+NIIN:00-188-9875
+MSDS Number: BDHQJ
+=== Responsible Party ===
+Company Name:CHEMICAL COMMODITIES AGENCY
+Address:27447 PACIFIC STREET
+City:HIGHLAND
+State:CA
+ZIP:92346-2640
+Country:US
+Info Phone Num:714-864-2310
+Emergency Phone Num:714-864-2310
+CAGE:60777
+=== Contractor Identification ===
+Company Name:CHEMICAL COMMODITIES AGENCY, INC.
+Address:27447 PACIFIC STREET
+Box:City:HIGHLAND
+State:CA
+ZIP:92346-2640
+Country:US
+Phone:909-864-2310
+CAGE:60777
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHYL ALCOHOL (ETHANOL)
+CAS:64-17-5
+RTECS #:RQ6300000
+= Wt:54.3
+OSHA PEL:1000 PPM
+ACGIH TLV:1000 PPM; 8990
+
+Ingred Name:METHYL ALCOHOL (METHANOL)  (SARA III)
+CAS:67-56-1
+RTECS #:PC1400000
+= Wt:2.7
+OSHA PEL:S,200PPM/250STEL
+ACGIH TLV:S,200PPM/250STEL; 93
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+= Wt:42.9
+
+Ingred Name:DETERGENTS, TYPE NOT SPECIFIED BY MANUFACTURER.
+= Wt:.15
+Other REC Limits:NONE ESTABLISHED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Effects of Overexposure:SKIN/EYES:CAUSE IRRIT.MAY CAUSE
+    BLINDNESS;INGEST:MAY CAUSE BLINDNESS/DEATH;INHAL:NAUSEA,DIZZ.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:WASH W.SOAP & H*2O EYES:FLUSH W. H*2O. INGESTED:GIVE 2
+    GLASSES H*2O; INDUCE VOMITING.CALL A PHYSICIAN. INHALE:REMOVE TO
+    FRESH AIR. GIVE CPR/OXYGEN IF NEED. KEEP WARM & QUIET. REMOVE
+    CONTAMINATED  CLOTHING. IF UNCONS DO NOT TAKE ANYTHINGBY MOUTH.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:60F/15.6C
+Extinguishing Media:CO*2, FOAM, DRY CHEM.
+Fire Fighting Procedures:WEAR SELF-CNTD BRTHG,APP H*20 SPRAY TO COOL
+    CONTR.
+Unusual Fire/Explosion Hazard:NONE NOTED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE IGNITION SOURCES. STOP LEAK.
+    EVACUATE AREA.DO NOT TOUCH SPILLAGE. SM SPILL:ABSORB W. INERT
+    ABSORBENT. PLACE IN CLOSED CONTAINER. FLUSH AREA W. WATER. LG
+    SPILL: DIKE AHEAD FOR LATER DISPOSAL.  NOTIFY AUTHORITIES.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DRY,WELL VENTILATED
+    AREA. PROTECT FROM PHYSICAL DAMAGE.AVOID ANY PHYSICAL CONTACT. KEEP
+    CONTAINERS TIGHTLY CLOSED
+Other Precautions:KEEP AWAY FM HEAT & OPEN FLAM.DO NOT STORE NEAR
+    OXIDIZER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SHOULD BE NEEDED
+Ventilation:NO SPECIAL REQUIREMENTS W ADEQUATE VENT.
+Protective Gloves:IMPERVIOUS
+Eye Protection:CHEM SPLASH GOGGLES
+Other Protective Equipment:NORMAL WORK CLOTHING COVERING ARMS & LEGS.
+Supplemental Safety and Health
+FORMULA 3A HAS 100 GALLONS ETHYL ALCOHOL PLUS 5 GALLONS METHANOL.
+    FORMULA 3A IS MIXTURE OF 4.762% METHANOL & 95.238% ETHANOL; SEE
+    COMPONENTS FOR EXACT % OF ALCOHOLS IN THE COMPOUND.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F5
+Boiling Pt:=77.8C, 172.F
+pH:7
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR,COLORLESS LIQUID SLIGHT FRAGRANT.
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:HIGH TEMP/EXCESSIVE HEAT
+Hazardous Decomposition Products:INCOMPLETELY BURNED CARBON PRODUCTS,
+    CO*2, CO.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:SM & LG SPILL:DEPOSIT IN A POSTED TOXIC
+    SUBSTANCE LANDFILL IN ACCORDANCE WITH LOCAL, STATE AND FEDERAL
+    REGULATIONS
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

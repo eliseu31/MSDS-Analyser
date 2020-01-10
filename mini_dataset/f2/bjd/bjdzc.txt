@@ -1,0 +1,146 @@
+=====================  Product Identification  =====================
+
+Product ID:MERCUROUS NITRATE, MONOHYDRATE
+MSDS Date:10/11/1985
+FSC:6810
+NIIN:00-241-1095
+MSDS Number: BJDZC
+=== Responsible Party ===
+Company Name:J.T.BAKER CHEMICAL CO
+Address:222 RED SCHOOL LANE
+City:PHILLIPSBURG
+State:NJ
+ZIP:08865
+Country:US
+Info Phone Num:201-859-2151
+Emergency Phone Num:201-859-2151/800-424-9300(CHEMTREC)
+CAGE:DO870
+=== Contractor Identification ===
+Company Name:J.T.BAKER CHEMICAL CO.
+Address:222 RED SCHOOL LANE
+City:PHILLIPSBURG
+State:NJ
+ZIP:08865-2219
+Country:US
+Phone:201-859-2151
+CAGE:DO870
+Company Name:MALLINCKRODT BAKER,  INC.
+Address:222 RED SCHOOL LANE
+Box:City:PHILLIPSBURG
+State:NJ
+ZIP:08865
+Country:US
+Phone:800-582-2537
+CAGE:70829
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MERCUROUS NITRATE, MONOHYDRATE
+CAS:7782-86-7
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:0.1 MG/M3(HG)
+ACGIH TLV:.05 MG(HG)/M3(VAPOR)
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL RAT) IS 170 MG/KG.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE-EYES:IRRITATION.
+    SKIN:IRRITATION. INHALATION:DIFFICULT BREATHING AND CENTRAL NERVOUS
+    SYSTEM DISORDERS. INGESTION:LOCAL TISSUE DAMAGE AND CNS DISORDERS.
+    CHRONIC-EYES:IRRITATION. SKIN:IRRITATION.  INHALATION:BUILD-UP OF
+    METAL IN THE BRAIN,LIVER,AND KIDNEYS. INGESTION:BUILD-UP OF METAL
+    IN THE BRAIN,LIVER, AND KIDNEYS
+Explanation of Carcinogenicity:NONE OF THE COMPOUNDS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP, OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:EYES:IRRITATION. SKIN:IRRITATION.
+    INHALATION:HEADACHE, COUGHING, DIZZINESS, OR DIFFICULT BREATHING.
+    INGESTION:NAUSEA, DIZZINESS, AND TISSUE DAMAGE.
+Medical Cond Aggravated by Exposure:PRE-EXISTING SKIN, EYE AND LUNG
+    CONDITIONS MAY BE AGGRAVATED BY EXPOSURE TO THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH W/WATER 15 MIN, HOLD LIDS OPEN.  SKIN:WASH WITH
+    SOAP & WATER. REMOVE CONTAMINATED CLOTHING AND LAUNDER BEFORE
+    REUSE.  INHALED:REMOVE TO FRESH AIR. RESTORE BREATHING IF
+    NECESSARY.	INGESTED:I MMEDIATELY INDUCE VOMITING AND GET IMMEDIATE
+    MEDICAL CARE. GIVE NOTHING BY MOUTH IF UNCONSCIOUS.  *IF IRRITATION
+    PERSISTS OR IS SEVERE,SEE A DOCTOR.*
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE WATER SPRAY.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS(NITROGEN OXIDES).
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS AND
+    FULL PROTECTIVE CLOTHING. KEEP COMBUSTIBLES AWAY FROM SPILLED
+    MAYERIAL. WITH A CLEAN SHOVEL, CAREFULLY PLACE MATERIAL INTO A
+    CLEAN, DRY CONTAINER AND COVER;  REMOVE FROM AREA. FLUSH SPILL WITH
+    WATER.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL VENTILATED
+    AREA. KEEP CONTAINERS TIGHTLY CLOSED WHEN NOT IN USE. PROTECT
+    CONTAINERS FROM PHYSICAL DAMAGE.
+Other Precautions:STORE SEPARATELY AND AWAY FROM FLAMMABLE AND
+    COMBUSTIBLE MATERIALS. THIS MATERIAL MAY IGNITE OTHER COMBUSTIBLE
+    MATERIALS. KEEP CONTAINERS AWAY FROM SUN AND AWAY FROM HEAT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESPIRATOR WILL NOT NORMALLY BE NECESSARY.  USE
+    NIOSH/MSHA APPROVED AIR SUPPLIED RESPIRATOR OR RESPIRATOR FOR
+    DUST/MIST IF EXPOSURE IS ABOVE THE TLV/PEL. SEE 29 CFR 1910.134 FOR
+    REGULATIONS PERTAINING  TO RESPIRATOR USE.
+Ventilation:GENERAL ROOM VENTILATION IS NORMALLY ADEQUATE. USE LOCAL
+    EXHAUST IF NECESSARY TO CONTROL EXPOSURE BELOW PEL/TLV.
+Protective Gloves:NEOPRENE, NITRILE, VPC OR NATURAL RUBBER
+Eye Protection:SAFETY GLASSES OR GOGGLES
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER.
+    INDUSTRIAL-TYPE WORK CLOTHING AND APRON AS REQUIRED.
+Work Hygienic Practices:USE GOOD CHEMICAL HYGIENE PRACTICE. AVOID
+    UNNECESSARY CONTACT.
+Supplemental Safety and Health
+MATERIAL IS A STRONG OXIDIZER. CONTACT MAY CAUSE BURNS TO SKIN AND
+    EYES.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T4
+Vapor Density:1.90
+Spec Gravity:4.78
+Solubility in Water:COMPLETE
+Appearance and Odor:SMALL, COLORLESS CRYSTALS WITH NO ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+MOST COMMON METALS, COMBUSTIBLE MATERIALS, STRONG REDUCING AGENTS.
+Stability Condition to Avoid:HIGH TEMPERATURES AND OPEN FLAMES.
+Hazardous Decomposition Products:NITROGEN OXIDES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W ALL FEDERAL, STATE AND LOCAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

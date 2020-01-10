@@ -1,0 +1,116 @@
+=====================  Product Identification  =====================
+
+Product ID:HALOTHANE USP
+MSDS Date:09/01/1989
+FSC:6505
+NIIN:00-854-2504
+MSDS Number: BKYNF
+=== Responsible Party ===
+Company Name:HALOCARBON PROD CORP/HALOCARBON LAB DIV
+Address:120 DITTMAN CT
+Box:6369
+City:NORTH AUGUSTA
+State:SC
+ZIP:29841
+Info Phone Num:(803) 278-3500
+Emergency Phone Num:(803) 278-3504
+Preparer's Name:DR. ARTHUR J. ELLIOTT
+CAGE:0NSB5
+=== Contractor Identification ===
+Company Name:HALOCARBON PROD CORP/HALOCARBON LAB DIV
+Address:120 DITTMAN CT
+Box:City:NORTH AUGUSTA
+State:SC
+ZIP:29841
+Phone:(803) 278-3500
+CAGE:0NSB5
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HALOTHANE  (BROMOCHLOROTRIFLUOROETHANE)
+CAS:151-67-7
+RTECS #:KH6550000
+Fraction by Wt: 100%
+Other REC Limits:40 MG/CUM
+ACGIH TLV:50 PPM; 9192
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): 6.7 G/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: ANESTHETIC RANGE BEGINS AT
+     0.7%, BUT INITIAL INDUCTION MAY BE AS HIGH AS 3% OR HIGHER,
+    DIZZINESS, DEPRESSED BREATHING, CESSATION OF BREATHING, & TOXIC.
+    INGESTION: TOXIC & LIVER DAMAGE. SK IN/EYES: CORROSIVE &
+    IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: ANESTHETIC RANGE BEGINS AT	0.7%
+    BUT INITIAL INDUCTION MAY BE AS HIGH AT 3% OR HIGHER, DIZZINESS,
+    DEPRESSED BREATHING, CESSATION OF BREATHING, & TOXIC. INGESTION:
+    TOXIC & LIVER DAMAGE. SKI N/EYES: IRRITATION & CORROSIVE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. GIVE ARTIFICIAL RESPIRATION
+    OR OXYGEN IF NEEDED. GET MEDICAL HELP FROM ANESTHESIOLOGIST. SKIN:
+    WASH W/SOAP & WATER. EYES: WASH W/COPIOUS AMOUNTS OF WATER.
+    INGESTION: I NDUCE VOMITING. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE METHODS SUITABLE FOR SURROUNDINGS FIRES.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:VAPORS WILL COLLECT IN LOW AREAS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ALLOW SMALL SPILLS TO DISSIPATE W/GOOD
+    VENTILATION. FOR LARGE SPILLS, WEAR PROTECTIVE EQUIPMENT & ABSORB
+    ON VERMICULITE, & THEN PLACE IN CLOSED CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTINUED INHALATION OF VAPORS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AS NEEDED.
+Ventilation:PROVIDE ADEQUATE MECHANICAL & LOCAL EXHAUST VENTILATION,
+    SINCE VAPORS WILL COLLECT IN LOW AREA.
+Protective Gloves:IMPERVIOUS
+Eye Protection:SAFETY GLASSES OR GOGGLES
+Other Protective Equipment:AS NEEDED.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:122F
+Vapor Pres:243
+Vapor Density:6.9
+Spec Gravity:1.87
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:COLORLESS LIQUID W/ETHEREAL ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+REACTIVE METALS SUCH AS SODIUM, POTASSIUM, & FINELY DIVIDED ZINC,
+    ALUMINUM & MAGNESIUM
+Stability Condition to Avoid:HIGH TEMPERATURES
+Hazardous Decomposition Products:HALOGEN ACIDS & CARBONYL HALIDES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ALLOW SMALL AMOUNTS TO EVAPORATE IN WELL
+    VENTILATED AREA. OBSERVE ALL FEDERAL, STATE, & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

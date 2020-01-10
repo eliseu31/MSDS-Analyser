@@ -1,0 +1,143 @@
+=====================  Product Identification  =====================
+
+Product ID:SPNFM T-8962 CUSTOM KIT, 771140
+MSDS Date:10/29/1987
+FSC:6810
+NIIN:00N020805
+MSDS Number: BLMDW
+=== Responsible Party ===
+Company Name:STEPAN CO
+Address:22 W FRONTAGE RD
+City:NORTHFIELD
+State:IL
+ZIP:60093
+Country:US
+Info Phone Num:312-446-7500
+Emergency Phone Num:800-228-5635 800-424-9300(CHEMTREC)
+CAGE:87558
+=== Contractor Identification ===
+Company Name:STEPAN CO
+Address:22 W FRONTAGE ROAD
+City:NORTHFIELD
+State:IL
+ZIP:60093-3407
+Country:US
+Phone:708-446-7500
+CAGE:87558
+Company Name:STEPAN COMPANY
+Address:EDENS EXPY WINNETKA RD
+Box:City:WINNETKA
+State:IL
+ZIP:60093
+Country:US
+Phone:800-228-5635, CHEMTREC 800-424-9300
+CAGE:87570
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TOLUENE-2,4-DIISOCYANATE (TDI)  (SARA III)
+CAS:584-84-9
+RTECS #:CZ6300000
+Fraction by Wt: 28%
+OSHA PEL:C,0.02 PPM/0.02 STEL
+ACGIH TLV:0.005PPM/0.02STEL;93
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: EYES: CONTACT WITH EYES IS
+    PAINFUL AND IRRITATING. SKIN: PROLONGED OR REPEATED CONTACT WITH
+    SKIN CAUSES IRRITATION. INHAL: MIST CAUSED BY MANUFACTURING
+    OPERATIONS IRRITATES NASAL PASSAGES. CHRO NIC EFFECTS HAVE NOT BEEN
+    ESTABLISHED. AVOID UNNECESSARY EXPOSURE.
+Explanation of Carcinogenicity:TOLUENE DILSOCYANATE: IARC GROUP 2B, NTP
+    GROUP 2.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:HAVE NOT BEEN ESTABLISHED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH IMMED WITH PLENTY OF WATER FOR AT LEAST 15 MIN.
+    SKIN: WASH OFF SKIN WITH WATER. REMOVE CONTAMINATED CLOTHING AND
+    CLEAN BEFORE REUSE. INHAL: REMOVE TO FRESH AIR. GIVE O2 OR APPLY
+    ARTF RESP  IF NEEDED. INGEST: IF SWALLOWED, CONSULT PHYS IMMED. IF
+    ANY SYMPTOMS PERSIST, CONSULT PHYS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:>200F,93C
+Lower Limits:1%
+Extinguishing Media:DRY CHEMICAL, CARBON DIOXIDE, FOAM, OR WATER FOG.
+    CLASS BC, ABC FIRE EXTINGUISHER.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT  IN FIGHTING FIRE INVOLVING CHEMICALS.
+Unusual Fire/Explosion Hazard:NONE KNOWN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONTAIN ALL SPILLS AND LEAKS TO PREVENT
+    DISCHARGE INTO ENVIRONMENT. VENTILATE AREA. SMALL SPILLS: SOAK UP
+    WITH ABSORBANT, SHOVEL INTO WASTE CONTAINER, FLUSH AREA WITH WATER.
+    LARGE SPILLS: RECOVER LIQU ID FOR REPROCESSING OR DISPOSAL.
+Neutralizing Agent:1% AMMONIA.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID OVERHEATING OR FREEZING. AVOID
+    OPEN FIRE OR FLAME.
+Other Precautions:SPILLED MATERIAL IS SLIPPERY. WASH THOROUGHLY AFTER
+    HANDLING. IF INGESTED, CALL PHYS. DO NOT POUR INTO DRAINS, AS
+    SOLIDS THAT FORM WILL PLUG SEWERS. 1% AMMONIA MAY BE USED TO
+    NEUTRALIZE SPILLS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF VAPORS ARE PRESENT, USE NIOSH/MSHA APPROVED
+    RESPIRATOR FOR ORGANIC VAPORS, AIR-LINE RESPIRATOR, OR SCBA.
+Ventilation:USE VENTILATION ADEQUATE TO KEEP HAZARDOUS INGREDIENTS
+    BELOW THEIR TLV.
+Protective Gloves:IMPERVIOUS GLOVES.
+Eye Protection:CHEM WORK GOG/FULL LENGTH FSHLD.
+Other Protective Equipment:PROTECTIVE CLOTHING. EYEWASH STATION AND
+    SAFETY SHOWER SHOULD BE NEAR WORK AREA.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+WASTE DISP METH: CLEANED, RECONDITIONED, OR DESTROYED.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T3
+Boiling Pt:B.P. Text:>200F,93C
+Vapor Density:>AIR
+Evaporation Rate & Reference:EST:SLOWER/ETHYL ETHER
+Percent Volatiles by Volume:NIL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, WATER, ALCOHOLS, AMINES, ALKALIES, METAL
+    COMPOUNDS (CATALYSTS).
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:CYANIDES AND AMMONIA MAY BE FORMED.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:RECOVER MATL/DISPOSE(INCIN IS PREF) I/A/W APPLIC
+    FED, ST, & LOC REGS. MATL COLLECTED W/ABSORBANT MAY BE DISP IN
+    PERMITTED LANDFILL I/A/W FED, ST, & LOC REGS. EMPTY CONTR MAY
+    RETAIN VAP/PROD RESIDUE. O BSERVE ALL LBLD SAFEGUARDS UNTIL CONTR
+    IS (SUPDAT)
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

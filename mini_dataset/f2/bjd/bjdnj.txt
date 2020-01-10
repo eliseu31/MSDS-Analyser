@@ -1,0 +1,216 @@
+=====================  Product Identification  =====================
+
+Product ID:STAINLESS STEEL COVERED ELECTRODE 310
+MSDS Date:03/01/1989
+FSC:3439
+NIIN:00-460-7658
+MSDS Number: BJDNJ
+=== Responsible Party ===
+Company Name:TELEDYNE MCKAY
+Address:850 GRANTLEY RD
+Box:1509
+City:YORK
+State:PA
+ZIP:17405
+Country:US
+Info Phone Num:717-845-7581
+Emergency Phone Num:717-849-2490
+CAGE:76254
+=== Contractor Identification ===
+Company Name:ARCOS ALLOYS DIV OF HOSKINS MFG CO
+Address:#1 ARCOS DRIVE
+Box:308
+City:MTCARMEL
+State:PA
+ZIP:17851
+Country:US
+Phone:717-339-5200, CHEMTREC 800-424-9300
+CAGE:03805
+Company Name:HOBART BROS CO  MCKAY WELDING PRODUCTS DIV
+Address:400 TRADE SQ E
+Box:City:TROY
+State:OH
+ZIP:45373-2900
+Country:US
+Phone:513-332-5706
+CAGE:76254
+Company Name:SANDVIK INC WELDING AND WIRING DIVISION
+Address:INTERSTATE 81 EXT 59
+Box:1220
+City:SCRANTON
+State:PA
+ZIP:18501
+Country:US
+Phone:717-587-5191
+CAGE:61005
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CALCIUM FLUORIDE (CAF*2) (COVERING)
+CAS:7789-75-5
+RTECS #:EW1760000
+OSHA PEL:2.5 MG/M3 (AS F)
+ACGIH TLV:2.5 MG/M3 (AS F)
+
+Ingred Name:CHROMIUM  (SARA III)
+CAS:7440-47-3
+RTECS #:GB4200000
+Fraction by Wt: 26.2%
+OSHA PEL:1 MG/M3
+ACGIH TLV:0.5 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:IRON (FE)
+CAS:7439-89-6
+RTECS #:NO4565500
+Fraction by Wt: BAL.
+OSHA PEL:5 MG/M3
+
+Ingred Name:MANGANESE  (SARA III)
+CAS:7439-96-5
+RTECS #:OO9275000
+Fraction by Wt: 2.1%
+OSHA PEL:(C) 5 MG/M3 DUST
+ACGIH TLV:5 MG/M3 DUST 9293
+
+Ingred Name:NICKEL  (SARA III)
+CAS:7440-02-0
+RTECS #:QR5950000
+Fraction by Wt: 21.0%
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+
+Ingred Name:SILICON
+CAS:7440-21-3
+RTECS #:VW0400000
+Fraction by Wt: 0.50%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:SODIUM ALUMINUM FLUORIDE (NA*3ALF*6), (COVERING)
+CAS:15096-52-3
+RTECS #:WA9625000
+OSHA PEL:2.5 MG/M3 (AS F)
+ACGIH TLV:2.5 MG/M3 (AS F)
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:WELDING FUME
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3
+
+Ingred Name:GRAPHITE, SYNTHETIC
+CAS:7440-44-0
+RTECS #:FF5250100
+Fraction by Wt: 0.13%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:2 MG/M3 TDUST; 9293
+
+Ingred Name:POTASSIUM FLUORIDE (KF), (COVERING)
+CAS:7789-23-3
+RTECS #:TT0700000
+OSHA PEL:2.5 MG/M3 (F)
+ACGIH TLV:2.5 MG/M3 (F)
+
+Ingred Name:MAGNESIUM FLUORIDE (COVERING)
+CAS:7783-40-6
+RTECS #:OM3325000
+OSHA PEL:2.5 MG/M3 (F)
+ACGIH TLV:2.5 MG/M3 (F)
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: DISCOMFORT-DIZZINESS, NAUSEA,
+    DRYNESS OR IRRITATION OF NOSE, THROAT, OR EYES. CHRONIC: SIDEROSIS
+    (IRON DEPOSITS IN LUNGS) AND BELIEVED BY SOME INVESTIGATORS TO
+    AFFECT PULMONARY FUNCTION. ARC RA YS CAN INJURE EYES AND BURN SKIN.
+    ELECTRIC SHOCK CAN KILL.
+Explanation of Carcinogenicity:CHROMIUM AND NICKEL METALS & CMPDS ARE
+    LISTED AS POTENTIAL CARCINOGENS BY NTP, IARC, & OSHA.
+Effects of Overexposure:SEE HEALTH HAZARDS
+Medical Cond Aggravated by Exposure:RESPIRATORY OR ALLERGIC CONDITIONS
+    MAY AFFECT SOMEEXPOSED INDIVIDUALS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:REMOVE FROM EXPOSURE AND GET MD. IF VICTIM IS UNCONSCIOUS,
+    ADMINISTER OXYGEN. IF NOT BREATHING, RESUSCITATE IMMEDIATELY.
+    EMPLOY FIRST AID TECHNIQUE RECOMMENDED BY THE AMERICAN RED CROSS.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:(NONFLAMMABLE)-WELDING ARC AND SPARKS CAN IGNITE
+    COMBUSTIBLES AND FLAMMABLES.
+Fire Fighting Procedures:REFER TO AMERICAN NATIONAL Z49.1 FOR FIRE
+    PREVENTION DURING THE USE OF WELDING AND ALLIED PROCEDURES.
+Unusual Fire/Explosion Hazard:MOLTEN METAL,SPKS,SLAG,&HOT SURFS CAN
+    CAUSE FIRE OR EXPLO/PRECAUT MEASURES ARE NOT USED.DO NOT WELD IN
+    SPACES CONTAINING FLAMM GASES,VAPORS,LIQUIDS OR DUSTS.
+
+==================  Accidental Release Measures  ==================
+
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:TRAIN WELDER TO AVOID ELEC SHOCK BY
+    MAINTAINING A DRY WORK AREA,INSULATING HIMSELF FROM WORK AND
+    GROUND,&NOT TOUCHING LIVE ELEC PARTS.AVOID BREATHING.
+Other Precautions:WELDING HAZS ARE COMPLEX.AVAIL ACCIDENT&HEALTH
+    RECORDS SHOW THAT GREAT MAJORITY OF RECORDED PROBLEMS RESULT FROM
+    PHYSICAL ACCIDENTS(SOMETIMES DUE TO ELEC SHOCK OR RESTRICTED
+    VISIBILITY(MOBILITY),PHYSI CAL STRAINS,RAD BURNS SUCH AS EYE FLASH.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE RESPIRABLE FUME RESP OR AIR-SUPPLIED RESP
+    WHENWELDING IN CONFINED SPACE OR WHERE LOCAL EXHAUST OR VENT. DOES
+    NOT KEEP EXPOSURE BELOW TLV/PEL. TRAIN EACH WELDER TO KEEP HEAD OUT
+    OF FUMES.
+Ventilation:USE ENOUGH VENT, LOCAL EXHAUST AT THE ARC, OR BOTH, TO KEEP
+    FUMES & GASES BELOW TLV/PEL IN WORKERS BREATHING ZONE.
+Protective Gloves:WELDERS GLOVES
+Eye Protection:HELMET OR FACE SHIELD W/FILTER LENS
+Other Protective Equipment:WEAR HEAD, HAND AND BODY PROTECTION TO HELP
+    PREVENT INJURY FROM RADIATION, SPARKS & ELECTRICAL SHOCK. SEE ANSI
+    Z49.1
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+WHEN ELECTRODE IS COMSUMED, FUME AND GAS DECOMP PRODS GENERATED ARE
+    DIFF IN PERCENT AND FORM THAN THE INGREDIENTS.
+
+==================  Physical/Chemical Properties  ==================
+
+Appearance and Odor:WELDING CONSUMABLES-SOLID CORE WITH WIRE AND A
+    STEEL COATING.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:FUMES:COMPLEX OXIDE AND FLUORIDE
+    COMBINATIONS OF ALL ELECTRODE INGRED. GASES:NORMALLY LOW.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF FUME OR FLUX OR WELDING GRINDING
+    RESIDUES FROM THE WORK AREA OR FROM FILTERS IN ACCORDANCE WITH EPA
+    OR LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

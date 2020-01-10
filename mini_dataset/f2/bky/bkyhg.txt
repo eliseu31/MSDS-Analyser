@@ -1,0 +1,138 @@
+=====================  Product Identification  =====================
+
+Product ID:U-1202-D EPOXY PRIMER COMP B
+MSDS Date:12/01/1989
+FSC:8010
+NIIN:00-142-9279
+MSDS Number: BKYHG
+=== Responsible Party ===
+Company Name:STERLING LACQUER MFG CO INC
+Address:3150 BRANNON AVE
+City:ST. LOUIS
+State:MO
+ZIP:63139
+Info Phone Num:(314) 776-4450
+Emergency Phone Num:(314) 776-4450
+Preparer's Name:P. D. MOORE
+CAGE:5G238
+=== Contractor Identification ===
+Company Name:STERLING LACQUER MFG CO INC
+Address:3150 BRANNON AVE
+Box:City:ST LOUIS
+State:MO
+ZIP:63139-1422
+Country:US
+CAGE:5G238
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: 50%
+Other REC Limits:400 PPM
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+Ingred Name:ETHYLENE GLYCOL PROPYL ETHER, EKTASOLVE EP
+CAS:2807-30-9
+RTECS #:KM2800000
+Fraction by Wt: 21%
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS)	(SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 5%
+Other REC Limits:100 PPM
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:VOL ORGANIC CMPD: 5.45 LB/GAL (653 G/L)
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: IRRITATION OF THE
+    RESPIRATORY TRACT, NOSE, THROAT, LUNGS/NARCOSIS. SKIN/EYES:
+    IRRITATION & INJURY TO TISSUE. INGESTION: MODERATELY TOXIC, NAUSEA,
+    VOMITING, & DIARRHEA.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: IRRITATION TO THE RESPIRATORY
+    TRACT, NOSE, THROAT, LUNGS/NARCOSIS. SKIN/EYES: IRRITATION & INJURY
+    TO TISSUE. INGESTION: MODERATELY TOXIC, NAUSEA, VOMITING, &
+    DIARRHEA.
+Medical Cond Aggravated by Exposure:RESPIRATORY PROBLEMS
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINS. SKIN:
+    WASH THOROUGHLY W/SOAP & WATER. INHALATION: REMOVE TO FRESH AIR.
+    INGESTION: DON'T INDUCE VOMITING. OBTAIN MEDICAL ATTENTION IN ALL
+    CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:54F
+Lower Limits:1.1%
+Upper Limits:15.8%
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL
+Fire Fighting Procedures:WEAR SCBA W/FULL FACEPIECE OPERATED IN
+    PRESSURE-DEMAN. USE WATER FOG NOZZLES TO COOL CLOSED CONTAINER.
+Unusual Fire/Explosion Hazard:DON'T USE WATER, FLAMMABLE LIQUID, CAN
+    RELEASE VAPORS THAT FORM FLAMMABLE MIXTURES AT TEMP AT OR ABOVE THE
+    FLASHPOINT. COMBUSTIBLE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR RESPIRATOR, ABSORB WITH VERMICULITE OR
+    OTHER ABSORBENT MATERIAL. ELIMINATE ALL IGNITION SOURCES. STOP
+    SPILL AT SOURCE, PREVENT SPREADING.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN DRY AREA, <120F. PROTECT FROM
+    PHYSICAL DAMAGE. EMPTIED CONTAINERS RETAIN PRODUCT RESIDUES
+    (VAPOR/LIQUID/SOLID).
+Other Precautions:KEEP CLOSURE TIGHT/CONTAINER UPRIGHT TO PREVENT
+    LEAKAGE. DON'T GET IN EYES. KEEP AWAY FROM CHILDREN. AVOID CONTACT
+    W/SKIN. DON'T TAKE INTERNALLY. FOR INDUSTRIAL USE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF >TLV, A NIOSH/MSHA APPROVED AIR SUPPLY
+    RESPIRATOR IS ADVISED IN ABSENCE OF PROPER ENVIRONMENTAL CONTROL.
+    OSHA REGS PERMIT OTHER NIOSH/MSHA RESPIRATORS UNDER SPECIFIED
+    CONDITIONS. IMPLEMENT ENGINEER ING OR ADMINISTRATIVE CONTROLS.
+Ventilation:PROVIDE GENERAL/LOCAL EXHAUST TO KEEP AIR
+Spec Gravity:0.9
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:CLEAR LIQUID, SOLVENT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HEAT, SPARKS, FLAME, TEMPS >120F, & OTHER
+    SOURCES OF IGNITION
+Hazardous Decomposition Products:CO2, CO, & TOXIC GASES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DESTROY BY LIQUID INCINERATION. CONTAMINATED
+    ABSORBENT MAY BE DEPOSITED IN A LANDFILL IN ACCORDANCE WITH LOCAL,
+    STATE & FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

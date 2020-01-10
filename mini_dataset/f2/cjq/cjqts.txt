@@ -1,0 +1,173 @@
+=====================  Product Identification  =====================
+
+Product ID:ETERNACELL LITHIUM SDX
+MSDS Date:08/28/1998
+FSC:6135
+NIIN:01-276-5402
+Status Code:A
+MSDS Number: CJQTS
+=== Responsible Party ===
+Company Name:HAWKER ETERNACELL INC (FORMALLY POWER CONVERSION INC)
+Address:495 BOULEVARD
+City:ELMWOOD PARK
+State:NJ
+ZIP:07407-2029
+Country:US
+Info Phone Num:201-796-4800
+Emergency Phone Num:215-313-6484
+Preparer's Name:K. ERRICKSON
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:5G978
+=== Contractor Identification ===
+Company Name:HAWKER ETERNACELL, INC.
+Address:495 BOULEVARD
+Box:City:ELMWOOD PARK
+State:NJ
+ZIP:07407-2029
+Country:US
+Phone:201-796-4800 /FAX: 201-796-6243
+CAGE:5G978
+Company Name:PLAINVIEW BATTERIES INC
+Address:23 NEWTOWN RD
+Box:City:PLAINVIEW
+State:NY
+ZIP:11803
+Country:US
+Phone:516-249-2873
+Contract Num:SP0430-99-M-AS24
+CAGE:0LEJ1
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SULFUR DIOXIDE (SARA 302)
+CAS:7446-09-5
+RTECS #:WS4550000
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:5 PPM
+ACGIH TLV:2 PPM/5 STEL; 9495
+
+Ingred Name:LITHIUM METAL (<0.5 GRAMS)
+CAS:7439-93-2
+RTECS #:OJ5540000
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:PROPYLENE (PROPENE) (SARA 313)
+CAS:115-07-1
+RTECS #:UC6740000
+Other REC Limits:NONE RECOMMENDED
+ACGIH TLV:ASPHIXIANT; 9495
+
+Ingred Name:ACETONITRILE (SARA 313) (CERCLA)
+CAS:75-05-8
+RTECS #:AL7700000
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:40 PPM
+ACGIH TLV:40 PPM/60 STEL; 9495
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:LITHIUM SALTS MIXTURE
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:STEEL CASING, & NON-HAZARDOUS COMPONENTS
+CAS:116-14-3
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:TEFLON
+CAS:9002-84-0
+RTECS #:KX4025000
+OSHA PEL:15 MG/M3
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: ELECTROLYTE IS SEVERE IRRITANT.
+    INTACT LITHIUM IS REACTIVE. AVOID CONTACT. CHRONIC: MAY CAUSE
+    DERMATITIS. SOME COMPONENTS HAVE BEEN SHOWN TO BE TERATOGENIC TO
+    ANIMALS.
+Explanation of Carcinogenicity:NONE SPECIFIED BY MANUFACTURER.
+Effects of Overexposure:EXPOSURE TO SKIN OR EYES MAY CAUSE IRRITATION.
+    INHALATION MAY RESULT IN DIFFICULTY BREATHING.
+Medical Cond Aggravated by Exposure:NONE KNOWN
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH WATER FOR 15 MINUTES. SEEK MEDICAL
+    ASSISTANCE. SKIN: FLUSH WITH WATER FOR 15 MINUTES. SEEK MEDICAL
+    ASSISTANCE. INHALATION: REMOVE TO FRESH AIR. SEEK MEDICAL
+    ASSISTANCE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:LITH-X, DRY SAND
+Fire Fighting Procedures:COOL BATTERY WITH EXTINGUISHING MEDIA, REMOVE
+    ADJACENT COMBUSTIBLE MATERIALS IF SAFE TO DO SO. SCBA REQUIRED.
+Unusual Fire/Explosion Hazard:DO NOT USE WATER TO EXTINGUISH FIRES,
+    CELLS CAN REACT WITH WATER VIOLENTLY. CELLS CAN VENT ELECTROLYTE IF
+    SUBJECT TO TEMPERATURES OF 185F OR GREATER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ALLOW BATTERY TO COOL AND VAPOR TO DISSIPATE.
+    AVOID CONTACT. AVOID INHALATION OF VAPORS. REMOVE SPILLED
+    ELECTROLYTE WITH ABSORBANT MATERIAL. WEAR FULL FACE ACID/ORGANIC
+    CARTRIDGE RESPIRATOR.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:BATTERIES MAY EXPLODE, IGNITE, OR VENT
+    ELECTROLYTE IF CRUSHED, OPENED, PUNCTURED OR EXPOSED TO
+    TEMPERATURES IN EXCESS OF 185F.
+Other Precautions:DO NOT SHORT CIRCUIT, INSTALL WITH INCORRECT
+    POLARITY, OR ATTEMPT TO RECHARGE. DO NOT INCINERATE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE FULL FACE ACID/ORGANIC VAPOR RESPIRATOR IF
+    CELL VENTS.
+Ventilation:PROVIDE IF CELL VENTS.
+Protective Gloves:NATURAL OR BUTYL RUBBER.
+Eye Protection:CHEMICAL GOGGLES
+Other Protective Equipment:EYE WASH STATION, QUICK DRENCH SHOWER (HMIS)
+Work Hygienic Practices:AVOID EXPOSURE. WASH HANDS AFTER HANDLING.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:Z6
+Appearance and Odor:SEALED CELL, LITHIUM BATTERY. CYLINDERICAL OR
+    BOXLIKE APPEARANCE.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+DO NOT EXPOSE TO WATER.
+Stability Condition to Avoid:DO NOT HEAT ABOVE 185F, PUNCTURE, OR OPEN
+    CELL, SHORT CIRCUIT, OR ATTEMPT TO RECHARGE.
+Hazardous Decomposition Products:MAY INCLUDE CARBON MONOXIDE AND
+    CAUSTIC LITHIUM OXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:FULLY DISCHARGE PRIOR TO DISPOSAL. DISPOSE OF IN
+    ACCORDANCE WITH LOCAL, STATE. AND FEDERAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:LITHIUM CELLS AND BATTERIES CONTAINING LESS THAN
+    1.0 G OF LITHIUM ARE NOT SUBJECT TO 49 CFR 173.185 (B)(1)(2). THIS
+    BATTEY CONTAINS LESS THAN 0.5 G OF LITHIUM.
+
+ ======================================================================
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

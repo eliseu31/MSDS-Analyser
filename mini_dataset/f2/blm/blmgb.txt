@@ -1,0 +1,204 @@
+=====================  Product Identification  =====================
+
+Product ID:MACCO PV-20, MMF 303
+MSDS Date:05/06/1991
+FSC:8040
+NIIN:00N021101
+MSDS Number: BLMGB
+=== Responsible Party ===
+Company Name:GLIDDEN CO
+Address:925 EUCLID AVE
+City:CLEVELAND
+State:OH
+ZIP:44115
+Country:US
+Info Phone Num:216-344-8000
+Emergency Phone Num:216-344-7370
+CAGE:72818
+=== Contractor Identification ===
+Company Name:GLIDDEN CO MEMBER OF ICI WORLD PAINTS
+Address:925 EUCLID AVE
+Box:15049
+City:CLEVELAND
+State:OH
+ZIP:44115
+Country:US
+Phone:216-344-8000
+CAGE:72818
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 35-50%
+
+Ingred Name:GLYCOLS, POLYETHYLENE, MONO
+    ((1,1,3,3-TETRAMETHYLBUTYL)PHENY) ETHER. LD50:ORAL(RAT)>5 GM/KG.
+CAS:9036-19-5
+RTECS #:MD0907600
+Fraction by Wt: 1-5%
+
+Ingred Name:MINERAL OIL, PETROLEUM DISTILLATES, HYDROTREATED LIGHT
+    NAPHTHENIC. LIMITS AS OIL MIST.
+CAS:64742-53-6
+RTECS #:PY8036000
+Fraction by Wt: 1-5%
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3;10MG/M3 STEL
+
+Ingred Name:KAOLIN
+CAS:1332-58-7
+RTECS #:GF1670500
+Fraction by Wt: 20-30%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:2 MG/M3 TDUST; 9293
+
+Ingred Name:METHYL ALCOHOL (METHANOL)  (SARA III)
+CAS:67-56-1
+RTECS #:PC1400000
+Fraction by Wt: 1-5%
+OSHA PEL:S,200PPM/250STEL
+ACGIH TLV:S,200PPM/250STEL; 93
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:MINERAL OIL, PETROLEUM DISTILLATES, HYDROTREATED HEAVY
+    NAPHTHENIC. LIMITS AS OIL MIST.
+CAS:64742-52-5
+RTECS #:PY8035000
+Fraction by Wt: 1-5%
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3;10MG/M3 STEL
+
+Ingred Name:KEROSENE (PETROLEUM), HYDROTREATED. LD50:ORAL(RAT)4.7
+    GM/KG.
+CAS:64742-47-8
+RTECS #:OA5504000
+Fraction by Wt: 1-5%
+OSHA PEL:100 PPM (MFR)
+ACGIH TLV:100 PPM (MFR)
+
+Ingred Name:HYDROCARBON RESIN
+CAS:71302-83-3
+Fraction by Wt: 5-10%
+
+Ingred Name:STYRENE BUTADIENE, LATEX, DISPERSION; (BUTANEDIOIC ACID,
+    METHYLENE-, POLYMER WITH 1,3, BUTADIENE & ETHENYLBENZENE)
+CAS:30174-67-5
+Fraction by Wt: 5-10%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE INGREDIENTS 1, 4, 6.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:INHAL:IRRIT OF RESP TRACT. PRLNG INHAL
+    MAY LEAD TO FATG, DROW, DIZZ &/OR LTHEAD, HDCH, UNCOORD, NAUS,
+    MENTAL APATHY, CNS DEPRESS, RESP PROBS, UNCON, ASPHY, DEATH.
+    SKIN:IRRIT. PRLNG/RPTD CNTCT CAN CAUS E DERM, DEFAT, BLURRED
+    VISION, CNS DEPRESS, ABSORP THRU SKIN. EYE: IRRIT. PRLNG/RPTD CNTCT
+    CAN CAUSE (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:CAS NOS.64742-53-6 AND 64742-52-5 ARE
+    LISTED IN THE RTECS AS IARC GROUP 1 CARCINOGENS.
+Effects of Overexposure:HLTH HAZ:BLURRED VISION, TEARING/REDNESS OF
+    EYES, SEV EYE IRRIT. INGEST:MAY CAUSE LUNG INFLAMM & DMG DUE TO
+    ASPIR OF MATL INTO LUNGS, FATG, DROW, DIZZ &/OR LT HEAD, UNCOORD,
+    NAUS, VOMIT, DIARR, DIGEST	SYS PROBS, MENTAL APATHY, CNS
+    DEPRESS,BLNDNESS, DEATH. OTHER EFTS OF OVEREXP MAY INCL TOX TO
+    LIVER/KIDNEY/CNS.(SUPDAT)
+Medical Cond Aggravated by Exposure:EYE, SKIN, RESPIRATORY DISORDERS.
+    LUNG DISORDERS. ASTHMA-LIKE CONDITIONS. KIDNEY & LIVER DISORDERS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:REMOVE TO FRESH AIR. RESTORE & SUPPORT CONTINUED BRTHG.
+    GET EMER MED ATTN. HAVE TRAINED PERS GIVE O2 IF NEC. GET MD FOR ANY
+    BRTHG DFCLTY. SKIN:WASH OFF QUICKLY W/PLENTY OF H2O. THEN SOAP &
+    H2O;  REMOVE CONTAM CLTHG. WASH CONTAM CLTHG BEFORE RE-USE.
+    EYE:FLUSH IMMED W/LG AMTS OF H2O, ESP UNDER LIDS FOR @ LST 15 MIN.
+    GET EMER MED ATTN. INGEST:GET MD IMMED.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:>200F,>93C
+Upper Limits:36%
+Extinguishing Media:DRY CHEMICAL OR FOAM.
+Fire Fighting Procedures:WATER MAY BE USED TO COOL & PROTECT EXPOSED
+    CONTAINERS. WEAR NIOSH/MSHA APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:CLOSED CONTAINERS MAY BURST IF EXPOSED TO
+    EXTREME HEAT OR FIRE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:COMPLY W/ALL APPLIC HLTH & ENVIRON REGS. VENT
+    AREA. SPILLS MAY BE COLLECTED W/ABSORB MATLS. EVACUATE ALL UNNEC
+    PERS. PLACE COLLECTED MATL IN PROPER CNTNR. LG SPILLS:SHUT OFF LEAK
+    IF SAFE TO DO SO. DIK E & CONTAIN SPILL. PUMP TO STOR/SALVAGE(SUPP
+    DATA)
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE BELOW 100F. KEEP FROM FREEZING.
+    USE ONLY W/ADEQ VENT. DO NOT TAKE INTERNALLY. KEEP OUT OF REACH OF
+    CHILDREN.
+Other Precautions:AVOID CNTCT W/SKIN & EYES & BRTHG OF VAPS. KEEP
+    CNTNRS TIGHTLY CLSD & UPRIGHT WHEN NOT IN USE. IF SANDING IS DONE,
+    WEAR DUSTMASK TO AVOID BRTHG OF SANDING DUST. EMPTY CNTNRS MAY
+    CONTAIN HAZ RESIDUES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:CONTROL ENVIRONMENTAL CONCENTRATIONS BELOW
+    APPLICABLE STANDARDS. WHERE RESPIRATORY PROTECTION IS REQUIRED, USE
+    ONLY NIOSH/MSHA APPROVED RESPIRATORS I/A/W OSHA STANDARD 20 CFR
+    1910.134.
+Ventilation:PROVIDE DILUTION VENTILATION OR LOCAL EXHAUST TO PREVENT
+    BUILD-UP OF VAPORS.
+Protective Gloves:IMPERVIOUS GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:EYE WASH, SAFETY SHOWER, IMPERVIOUS
+    CLOTHING.
+Work Hygienic Practices:WASH HANDS THOROUGHLY AFTER HANDLING,
+    ESPECIALLY BEFORE EATING OR SMOKING.
+Supplemental Safety and Health
+EFTS OF OVEREXP:NOTICE-RPTS HAVE ASSOC RPTD & PRLNG OCCUP OVEREXP TO
+    SOLVS W/PERM BRAIN & NERV SYS DMG. INTENT MISUSE BY DELIB CONC &
+    INHALING CONTENTS MAY BE HARMFUL/FATAL. SPILL PROC:VESSELS. USE AB
+    SORB TO PICK UP EXCESS RESIDUE. KEEP SALVAGERIAL MATL & RINSE WATER
+    OUT OF SEWERS OR WATER COURSES.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:147F,64C
+Spec Gravity:1.17
+pH:8.7
+Solubility in Water:YES
+Appearance and Odor:TAN PASTE.
+Percent Volatiles by Volume:57.54
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZERS, ACIDS, REDUCING AGENTS, BASES, AMINES.
+Stability Condition to Avoid:ELEVATED TEMPERATURES, CONTACT WITH
+    OXIDIZING AGENT, FREEZING.
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W ALL APPLICABLE LOCAL, STATE &
+    FEDERAL REGULATIONS. AVOID DISCHARGE TO NATURAL WATERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

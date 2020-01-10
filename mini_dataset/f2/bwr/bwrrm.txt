@@ -1,0 +1,150 @@
+=====================  Product Identification  =====================
+
+Product ID:RE-MOV, 0898
+MSDS Date:01/18/1993
+FSC:7930
+NIIN:00N057576
+MSDS Number: BWRRM
+=== Responsible Party ===
+Company Name:SELIG CHEMICAL INDUSTRIES
+Address:840 SELIG DRIVE, SW
+City:ATLANTA
+State:GA
+ZIP:30375
+Country:US
+Info Phone Num:404-691-9220
+Emergency Phone Num:800-424-9300(CHEMTREC)
+CAGE:86938
+=== Contractor Identification ===
+Company Name:SELIG CHEMICAL INDUS, DIV OF NATIONAL SERVICE INDUS
+Address:840 SELIG DR SW
+Box:City:ATLANTA
+State:GA
+ZIP:30378
+Country:US
+Phone:404-691-9220
+CAGE:86938
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHANOL, 2-BUTOXY-; (2-BUTOXYETHANOL)
+CAS:111-76-2
+RTECS #:KJ8575000
+Fraction by Wt: 10-15%
+OSHA PEL:S, 50 PPM
+ACGIH TLV:S, 25 PPM
+
+Ingred Name:POTASSIUM HYDROXIDE (CERCLA)
+CAS:1310-58-3
+RTECS #:TT2100000
+Fraction by Wt: 1-3%
+OSHA PEL:C 2 MG/M3
+ACGIH TLV:C 2 MG/M3
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ETHANOLAMINE; (MONOETHANOLAMINE)
+CAS:141-43-5
+RTECS #:KJ5775000
+Fraction by Wt: 5-10%
+OSHA PEL:3 PPM
+ACGIH TLV:3 PPM
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN/EYES:CORROSIVE. INHALATION:CAN
+    CAUSE DIZZINESS, NAUSEA AND HEADACHE UPON PROLONGED EXPOSURE.
+    INGEST:CORROSIVE TO THROAT AND STOMACH. "ANIMAL STUDIES CLEARLY
+    DEMONSTRATED DOSE-RELATED ADVERSE EFFE CTS ON THE CNS, THE
+    HEMATOPOIETIC TISSUES, THE BLOOD, KIDNEYS AND LIVER, ASSOCIATED
+    WITH THE ADMIN OF (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:HLTH HAZS:ETHYLENE GLYCOL MONOBUTYL ETHER
+    (EGBE). (EXTRACTED FROM DHHS (NIOSH) PUBLICATION NO 90-118) .
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:RINSE IMMEDIATELY WITH WATER. SEEK MEDICAL ATTENTION.
+    EYES:FLUSH IMMEDIATELY WITH PLENTY OF WATER FOR AT LEAST 15
+    MINUTES. CONSULT PHYSICIAN. INHALATION:MOVE TO FRESH AIR. GIVE
+    OXYGEN, IF NEEDED.	SEE DOCTOR. INGESTION:DO NOT INDUCE VOMITING.
+    GIVE VICTIM A GLASS OF WATER AND CALL A PHYSICIAN IMMEDIATELY. SEE
+    LABEL FOR ADDITIONAL INFORMATION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:NONE TO BOIL
+Extinguishing Media:FOAM, CO*2, DRY CHEMICAL, WATER FOG.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB SPILL WITH AN ABSORBENT MATERIAL (I.E.
+    SELIG'S AP ABSORBENT):PICK UP AND DEPOSIT IN A SEALABLE CONTAINER
+    FOR DISPOSAL AS A HAZARDOUS WASTE. THOROUGHLY CLEAN AREA WITH A
+    DETERGENT SOLUTION. RINS E AREA THOROUGHLY WITH CLEAN WATER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP OUT OF REACH OF CHILDREN. HARMFUL
+    IF SWALLOWED. AVOID CONTACT WITH EYES, SKIN OR CLOTHING. USE WITH
+    CAUTION ON ASPHALT TILE TO AVOID BLEACHING.
+Other Precautions:USE ONLY AS DIRECTED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE
+    FOR EXPOSURE OF CONCERN . NOT REQUIRED.
+Ventilation:MECHANICAL.
+Protective Gloves:RUBBER OR NEOPRENE GLOVES.
+Eye Protection:ANSI APPRVD CHEM WORK GOGGS & (SUPDAT)
+Other Protective Equipment:EMERGENCY EYEWASH & DELUGE SHOWER WHICH MEET
+    ANSI DESIGN STANDARDS.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+PH (CONCENTRATE):13.3, PH(USE DILUTION OF 1:4):12.0. WASTE DISPOSAL
+    METHOD:LOCAL, STATE & FEDERAL AGENCIES FOR PROPER DISPOSAL PROCS IN
+    YOUR AREA. IF COMPANY EFFLUENT IS ULTIMATELY TREATED BY A PUBLIC LY
+    OWNED SEWAGE TREATMENT PLANT, SPENT PRODUCT MAY BE NEUT &
+    DISCHARGED TO SEWER. EYE PROT: FULL LENGTH FACESHLD.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:200F,93C
+Spec Gravity:1.04
+pH:SUPDAT
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR, LIGHT YELLOW, CHARACTERISTIC ODOR.
+Percent Volatiles by Volume:93
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACID
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:NONE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:UNUSED PROD MAY HAVE TO BE ABSORBED ON AN INERT
+    MATL (SELIG'S AP ABSORB) & DISPOSED OF AS HAZ WASTE. SM HAZ WASTE
+    GENERATORS SHOULD CONSULT CFR TITLE 40, PART 261.5 FOR POSS
+    EXEMPTION. SINCE REGS  VAR Y CONCERNING DISP OF THESE CHEMS,
+    CONSULT (SUPDAT)
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

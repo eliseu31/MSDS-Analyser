@@ -1,0 +1,151 @@
+=====================  Product Identification  =====================
+
+Product ID:CALCIUM 12 HYDROXYSTEARATE GREASE
+MSDS Date:11/01/1990
+FSC:9150
+NIIN:00-190-0905
+MSDS Number: BDHTS
+=== Responsible Party ===
+Company Name:BATTENFELD GREASE AND OIL CORP OF NEW YORK INC.
+Address:1174 ERIE AVENUE
+Box:728
+City:NORTH TONAWANDA
+State:NY
+ZIP:14120-3036
+Country:US
+Info Phone Num:716-695-2100
+Emergency Phone Num:716-695-2100
+Preparer's Name:THOMAS G. MUSILLI
+CAGE:EO110
+=== Contractor Identification ===
+Company Name:BATTENFELD GREASE AND OIL CORP OF NEW YORK INC
+Address:1174 ERIE AVE
+Box:728
+City:NORTH TONAWANDA
+State:NY
+ZIP:14120-3036
+Country:US
+Phone:716-695-2100
+CAGE:60226
+Company Name:BATTENFELD GREASE AND OIL CORP OF NEW YORK INC
+Address:1174 ERIE AVE
+Box:728
+City:NORTH TONAWANDA
+State:NY
+ZIP:14120-3036
+Country:US
+Phone:716-695-2100
+CAGE:EO110
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CALCIUM HYDROXYSTEARATE
+CAS:3159-62-4
+Fraction by Wt: 11.0%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:MINERAL OIL
+CAS:64742-53-6
+RTECS #:PY8036000
+Fraction by Wt: 86.0%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:SULFURIZED ISOBUTYLENE
+CAS:68511-50-2
+Fraction by Wt: 1.0%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:CALCIUM SULFONATE
+CAS:68783-96-0
+Fraction by Wt: 2.0%
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL RAT) IS NOT AVAILABLE
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MILD SKIN AND EYE IRRITATION.
+Explanation of Carcinogenicity:NONE OF THE COMPOUNDS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP, OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:MILD SKIN AND EYE IRRITATION.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH WITH WATER FOR 15 MINUTES WHILE HOLDING EYELIDS
+    OPEN. GET MEDICAL ATTENTION. SKIN: WASH WITH SOAP & WATER/WATERLESS
+    CLEANER. REMOVE CONTAMINATED CLOTHING. IF IRRITATION PERSISTS, GET
+    MEDICA L ATTENTION. INGESTION: DO NOT INDUCE VOMITING. GET MEDICAL
+    ADVICE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:300F,149C
+Autoignition Temp:Autoignition Temp Text:330 F
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, DRY CHEMICAL,
+    EARTH OR SAND.
+Fire Fighting Procedures:WEAR FIRE FIGHTING PROTECTIVE EQUIPMENT AND A
+    FULL FACED SELF CONTAINED BREATHING APPARATUS. COOL FIRE EXPOSED
+    CONTAINERS WITH WATER SPRAY. CONTAIN RUNOFF.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB WITH SAND OR INERT MATERIAL. SWEEP OR
+    SCOOP UP AND REMOVE.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY PLACE WITH
+    ADEQUATE VENTILATION. KEEP CONTAINERS TIGHTLY CLOSED WHEN NOT IN
+    USE. KEEP AWAY FROM OPEN FLAMES & HIGH TEMPERATURES.
+Other Precautions:NO SPECIAL CONDITIONS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NO SPECIAL REQMNTS UNDER ORDINARY
+    CONDITIONS/ADEQUATE VENT.
+Ventilation:NO SPECIAL REQUIREMENTS W ADEQUATE VENT.
+Protective Gloves:NEOPRENE,POLYETHYLENE
+Eye Protection:GOGGLES/FACE SHIELD
+Other Protective Equipment:NONE
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES. DO NOT WEAR CONTAMINATED CLOTHING OR
+    FOOTWEAR.
+Supplemental Safety and Health
+DO NOT GET IN EYES OR ON CLOTHING.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:650F(343C)
+Melt/Freeze Pt:M.P/F.P Text:300F,149C
+Spec Gravity:0.91
+Solubility in Water:NIL
+Appearance and Odor:AMBER GREASE - BLAND
+Percent Volatiles by Volume:0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:EXTREMELY HIGH TEMPERATURES
+Hazardous Decomposition Products:CARBON DIOXIDE AND CARBON MONOXIDE IF
+    THERE IS INCOMPLETE COMBUSTION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN AN APPROPRIATE DISPOSAL FACILITY
+    IN COMPLIANCE WITH FEDERAL, STATE, AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

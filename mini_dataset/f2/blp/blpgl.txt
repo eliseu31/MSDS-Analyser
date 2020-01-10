@@ -1,0 +1,168 @@
+=====================  Product Identification  =====================
+
+Product ID:BRAZE 560 AWS A 5.8,BAG-7
+MSDS Date:12/31/1986
+FSC:3439
+NIIN:01-046-3655
+MSDS Number: BLPGL
+=== Responsible Party ===
+Company Name:HANDY AND HARTMAN
+Address:850 THIRD AVE
+City:NEW YORK
+State:NY
+ZIP:10022-6222
+Country:US
+Info Phone Num:212-207-2632/203-259-8321
+Emergency Phone Num:212-207-2632/203-259-8321
+CAGE:JO825
+=== Contractor Identification ===
+Company Name:HANDY & HARMAN
+Address:850 THIRD AVENUE
+Box:City:NEW YORK
+State:NY
+ZIP:10022
+Country:US
+Phone:212-752-3400
+CAGE:73977
+Company Name:HANDY AND HARTMAN
+Address:850 THIRD AVE
+City:NEW YORK
+State:NY
+ZIP:10022-6222
+Country:US
+Phone:212-752-3400
+CAGE:JO825
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SILVER  (SARA III)
+CAS:7440-22-4
+RTECS #:VW3500000
+Fraction by Wt: 56%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:0.01 MG/M3
+ACGIH TLV:0.1 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:COPPER  (SARA III)
+CAS:7440-50-8
+RTECS #:GL5325000
+Fraction by Wt: 22%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:0.1MG/M3 FUME/1 DUST
+ACGIH TLV:0.2MG/M3 FUME; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ZINC  (SARA III)
+CAS:7440-66-6
+RTECS #:ZG8600000
+Fraction by Wt: 17%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:10 MG ZNO/M3
+ACGIH TLV:10 MG ZNO/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:TIN
+CAS:7440-31-5
+RTECS #:XP7320000
+Fraction by Wt: 5%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:2 MG/M3
+ACGIH TLV:2 MG/M3; 9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE-INHALED:VAPORS MAY CAUSE METAL
+    FUME FEVER WHICH INCLUDES CHILLS,FEVER,ACHING
+    MUSCLES,HEADACHE,VOMITING,STOMACH PAIN,METALLIC
+    TASTE,THIRST.EYE/SKIN:MAY CAUSE IRRITATION.INGESTION:MAY CAUSE
+    STOMAC H PAIN,NAUSEA,VOMITING & DIARRHEA.CHRONIC-COPPER FRAGMENTS
+    IN THE CORNEA MAY CAUSE CATARACTS & LOSS OF THE EYE.
+Effects of Overexposure:VAPORS MAY CAUSE METAL FUME FEVER WHICH
+    INCLUDES CHILLS, FEVER, ACHING MUSCLES, HEADACHE, VOMITING, STOMACH
+    PAIN, METALLIC TASTE, THIRST. MAY CAUSE EYE AND SKIN IRRITATION.
+    INGESTION MAY CAUSE STOMACH  PAIN, NAUSEA, VOMITING & DIARRHEA.
+Medical Cond Aggravated by Exposure:ALLERGY, MUCOUS AND THROAT RELATED
+    CONDITIONS, STOMACH, LIVER, KIDNEY RELATED CONDITIONS MAY BE
+    AGGRAVATED WHEN METAL FUMES/DUST EVOLVED DURING HEATING ARE TAKEN
+    IN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:CALL A PHYSICIAN IN ALL CASES.INHALATION:REMOVE TO FRESH
+    AIR.GIVE CPR IF NEEDED.EYES:IMMEDIATELY FLUSH WITH WATER FOR 15
+    MINUTES HOLDING EYELIDS OPEN.SKIN:WASH WITH WATER.INGESTION:IF DUST
+    IS INGESTED ,GET IMMEDIATE MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:DRY POWDER FOR METAL FIRES
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SELF
+    CONTAINED BREATHING APPARATUS OPERATED IN POSITIVE PRESSURE MODE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NO PROBLEMS ANTICIPATED. COLLECT CLEAN SCRAP
+    FOR REUSE OR RECYCLE. MATERIAL HAS PRECIOUS METAL. VENTILATE AREA.
+    VACUUM UP DUST AND PLACE IN SUITABLE CONTAINER.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORAGE-STORE IN A DRY PLACE.KEEP
+    CONTAINERS TIGHTLY CLOSED.
+Other Precautions:DO NOT TAKE INTERNALLY. DO NOT BREATHE FUMES. AVOID
+    CONTACT WITH EYES AND SKIN. WASH THOROUGHLY AFTER HANDLING. FOR
+    INDUSTRIAL USE ONLY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF FUMES ARE PRESENT, WEAR A NIOSH/MSHA-APPROVED
+    SELF-CONTAINED BREATHING APPARATUS OPERATED IN POSITIVE PRESSURE
+    MODE & FULL FACEPIECE.
+Ventilation:LOCAL EXHAUST
+Protective Gloves:LEATHER WELDING
+Eye Protection:SAFETY GOGGLES
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER. WEAR
+    NON-FLAMMABLE PROTECTIVE CLOTHING.
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES. DO NOT WEAR CONTAMINATED CLOTHING OR
+    FOOTWEAR.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Melt/Freeze Pt:M.P/F.P Text:1145F,618C
+Spec Gravity:9.42
+Solubility in Water:NIL
+Appearance and Odor:METALLIC, ROD, WIRE, STRIP OR POWDER - NO ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACIDS CAN ATTACK METAL.
+Stability Condition to Avoid:HIGH TEMPERATURES AND OPEN FLAMES
+Hazardous Decomposition Products:ZINC OXIDE FUME MAY BE EVOLVED DURING
+    BRAZING.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:SCRAP MATERIAL MAY BE CONTAMINATED. MAY REQUIRE
+    SPECIAL DISPOSAL. CONSULT FEDERAL, STATE AND LOCAL REGULATORY
+    AGENCIES.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

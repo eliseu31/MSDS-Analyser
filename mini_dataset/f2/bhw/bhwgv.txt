@@ -1,0 +1,114 @@
+=====================  Product Identification  =====================
+
+Product ID:LD-L REAGENT; 72129
+MSDS Date:06/28/1987
+FSC:6550
+NIIN:00N009730
+MSDS Number: BHWGV
+=== Responsible Party ===
+Company Name:CIBA CORNING DIAGNOSTICS CORP.
+Address:132 PRTINO STREET
+City:OBERLIN
+State:OH
+ZIP:44074
+Info Phone Num:(216)774-1041
+Emergency Phone Num:(216)774-1041
+CAGE:0BU78
+=== Contractor Identification ===
+Company Name:CIBA CORNING DIAGNOSTICS CORP
+Address:132 ARTINO STREET
+Box:City:OBERLIN
+State:OH
+ZIP:44074
+Phone:(216) 774-1041
+CAGE:0BU78
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NO INGREDIENT FOR THIS FORMULATION_INGREDIENT
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NOT KNOWN 
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SEE SIGNS AND SYMPTOMS OF OVEREXPOSURE
+    SECTION .
+Explanation of Carcinogenicity:NOT APPLICABLE 
+Effects of Overexposure:MAY CAUSE SKIN; EYE.RESPIRATORY IRRITATION.
+    PROLONGED EXPOSURE WILL INCREASE THE POSSIBILITY OF IRRITATION.
+Medical Cond Aggravated by Exposure:NOT KNOWN 
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES & SKIN:IMMED FLUSH EYES/SKIN W/LGE AMTS OF WTR FOR AT
+    LEAST 15MIN. CONSULT PHYSICIAN IMMED IF IRRI PERSISTS.
+    INHALATION:RMV FROM EXPOSURE.SUPPORT BREATHING(GIVE O*2/ARTIFICIAL
+    RESPIRATION).  INGESTION:CALL MD IMMEDIATELY .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:N/K 
+Lower Limits:N/K 
+Upper Limits:N/K 
+Extinguishing Media:NOT KNOWN 
+Fire Fighting Procedures:NOT KNOWN 
+Unusual Fire/Explosion Hazard:NOT KNOWN 
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP DRY. THEN FLUSH AFFECTED AREA WITH
+    WATER.
+Neutralizing Agent:NOT KNOWN 
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AT TEMPERATURE LISTED IN THE
+    PACKAGE INSERT (35.6-46.4C/2-8F).
+Other Precautions:WASH EQUIPMENT WITH WATER
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH.MSHA APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN .
+Ventilation:MECHANICAL:GOOD GENERAL VENTILATION. LOCAL EXHAUST:NOT
+    REQUIRED
+Protective Gloves:LATEX GLOVES
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:USUAL LABORATORY PROTECTIVE CLOTHING
+Work Hygienic Practices:NOT KNOWN 
+Supplemental Safety and Health
+PH:N.FL PT MTD:N.RT OF ENTRY:
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:N/K 
+Melt/Freeze Pt:M.P/F.P Text:N/K 
+Decomp Temp:Decomp Text:N/K 
+Vapor Pres:N/APPLICAB
+Vapor Density:N/APPLICAB
+Spec Gravity:N/APPLICABLE
+pH:N/K-FP
+Solubility in Water:YES
+Appearance and Odor:WHITE TO OFF-WHITE POWDER
+Percent Volatiles by Volume:N/APPL
+Corrosion Rate:
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:AVOID HEATING TO DECOMPOSITION
+Conditions to Avoid Polymerization:AVOID HEATING TO DECOMPOSITION
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:FOLLOW FEDERAL; STATE AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

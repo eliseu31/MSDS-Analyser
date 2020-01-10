@@ -1,0 +1,150 @@
+=====================  Product Identification  =====================
+
+Product ID:UNION CARBIDE MOLECULAR SIEVE TYPE 13XPG
+MSDS Date:05/01/1987
+FSC:6605
+NIIN:01-144-2000
+MSDS Number: BJDVF
+=== Responsible Party ===
+Company Name:UNION CARBIDE CORP.
+Address:39 OLD RIDGEBURY RD.
+City:DANBURY,
+State:CT
+ZIP:06817
+Country:US
+Emergency Phone Num:800-822-4357
+CAGE:UNICA
+=== Contractor Identification ===
+Company Name:COAST ENGINEERING LABS/LDC DIV OF MILTON ROY CO
+Address:13508 S NORMANDIE AVE
+Box:City:GARDENA
+State:CA
+ZIP:90249-2606
+Country:US
+Phone:310-532-7400
+CAGE:16084
+Company Name:UNION CARBIDE COATINGS SERVICE CORP
+Address:1555 MAIN STREET
+City:INDIANAPOLIS
+State:IN
+ZIP:48224
+Country:US
+Phone:317-240-2650 OR 800-822-4357
+CAGE:UNICA
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM OXIDE
+CAS:1313-59-3
+Fraction by Wt: <30%
+
+Ingred Name:SILICON OXIDE
+CAS:112945-52-5
+RTECS #:VV7310000
+Fraction by Wt: <50%
+OSHA PEL:20MPPCF
+ACGIH TLV:5MG/M3RESPRBLE DUST
+
+Ingred Name:ALPHA-ALUMINA (ALUMINUM OXIDE)  (EPA LISTS ONLY FIBROUS
+    FORMS)  (SARA III)
+CAS:1344-28-1
+RTECS #:BD1200000
+Fraction by Wt: <30%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:LOW TOXICITY.MAY CAUSE
+    NAUSEA,VOMITING,DIARRHEA,ABDOMINAL DISCOMFORT, IRRITATION OF NOSE &
+    THROAT ACCOMPANIED BY COUGH & CHEST DISCOMFORT,IRRITATION OF SKIN
+    SEEN AS LOCAL REDNESS,EYE IRRITATION  SEEN AS EXCESS REDDENING OR
+    POSSIBLE SWELLING OF CONJUNCTIVA.CHRONIC:PROLONGED INHAL.MAY CAUSE
+    LUNG DAMAGE.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE  HEALTH HAZARDS
+Medical Cond Aggravated by Exposure:BREATHING OF DUST MAY AGGRAVATE
+    ASTHMA AND INFLAMMATORY OR FIBROTIC PULMONARY DISEASE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGEST:IF IN LARGE QUANTITIES,DRINK TWO GLASSES OF
+    WATER.INDUCE VOMITING IF PATIENT IS CONSCIOUS.SKIN:WASH W/SOAP &
+    WATER. IF IRRITATION PERSISTS, GET MD. INHAL:REMOVE TO FRESH AIR IF
+    BREATHING IS DIF FICULT,GIVE OXYGEN. GET MD. EYE:FLUSH W/WATER FOR
+    15 MINUTES. NO SPECIFIC ANTIDOTE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:DOES NOT BURN
+Extinguishing Media:UNUSED MATERIAL WILL NOT BURN. USE MEDIA
+    APPROPRIATE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:DEPENDS ON THE USE OF THE MATERIAL. USED
+    MATERIAL MAY CONTAIN PRODUCTS OF A HAZARDOUS NATURE. THE USER OF
+    THIS PRODUCT MUST RELAY THE HAZARDS OF RETAINED MAT.
+Unusual Fire/Explosion Hazard:IN FRESH,UNUSED STATE,MOLECULAR SIEVES
+    ARE NOT FLAMMABLE.WHEN EXPOSED TO H*2O,CAN GET HOT & HEAT TO
+    BOILING PT.OF H*2O.FLOODING WILL REDUCE TEMP.TO SAFE LIMITS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP THE SPILL AREA. COLLECT AND PLACE THE
+    SPILLED MATERIAL IN A WASTE DISPOSAL CONTAINER. AVOID RAISING DUST.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:PH RANGE IF IN AQUEOUS SLURRY	8-11.
+Other Precautions:EYE & SKIN IRRITATION,BREATHING DUST MAY BE
+    HARMFUL.OPEN CONTAINER SLOW TO AVOID DUST.USE ADEQUATE VENT.,KEEP
+    CONTAINER CLOSED.WASH THOROUGHLY AFTER HANDLING, DO NOT INGEST.
+    AVOID BREATHING DUST & PRO LONGED CONTACT W/SKIN.DO NOT GET IN EYES
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATORY FOR PROTECTION
+    AGAINST DUST IS RECOMMENDED FOR OPERATIONS WHEN THE PEL MAY BE
+    EXCEEDED.
+Ventilation:RECOMMENDED FOR OPERATIONS WHERE PEL MAY BE EXCEEDED.
+Protective Gloves:IMPERMEABLE TO DUST FOR HAND CONTACT
+Eye Protection:SAFETY GLASSES OR GOGGLES(29CFR1910.132)
+Other Protective Equipment:SELECT IAW OSHA 29 CFR 1910.132 AND 1910.133
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T6
+Spec Gravity:1.1
+Appearance and Odor:DEPENDING ON PRODUCT, MAY APPEAR AS
+    BEAD,PELLET,MESH,CAKE OR POWDER;ODORLESS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+SUDDEN CONTACT W/HIGH CONCENTRATIONS OF CHEMICALS HAVING HIGH HEATS OF
+    ADSORPTION SUCH AS OLEFINS,HCL,ETC.
+Stability Condition to Avoid:MOISTURE (WATER) CAN CAUSE RISE IN
+    TEMPERATURE WHICH MAY RESULT IN BURN.
+Hazardous Decomposition Products:MOLEC. SIEVE DOE NOT READILY DECOMPOSE
+    UNLESS SUBJECTED TO EXTREME TEMP OR CHEM.COND. IF SO SEE INGRED.
+    SEC.FOR PROD.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISCARD ANY PRODUCT, RESIDUE, DISPOSABLE
+    CONTAINER OR LINER IN AN ENVIRONMENTALLY ACCEPTABLE MANNER, I/A/W
+    FED, STATE AND LOCAL REGS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

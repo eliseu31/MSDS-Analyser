@@ -1,0 +1,140 @@
+=====================  Product Identification  =====================
+
+Product ID:HALON 1301,R17,FIRE EXTINGUISHING
+MSDS Date:08/04/1990
+FSC:1680
+NIIN:00-416-2503
+MSDS Number: BHWFP
+=== Responsible Party ===
+Company Name:WALTER KIDDE DIV OF KIDDE INC;AEROSPACE OPERATIONS
+Address:2500 AIRPORT DRIVE
+City:WILSON
+State:NC
+ZIP:27893
+Country:US
+Info Phone Num:919-237-7004
+Emergency Phone Num:919-237-7004
+Preparer's Name:JAMES BAHLAUGH
+CAGE:DO750
+=== Contractor Identification ===
+Company Name:KIDDE INC WALTER KIDDE DIV AEROSPACE OPNS
+Address:2500 AIRPORT DRIVE
+Box:City:WILSON
+State:NC
+ZIP:27893-9604
+Country:US
+Phone:252-237-7004
+CAGE:61423
+Company Name:WALTER KIDDE DIV
+Address:2500 AIRPORT DRIVE
+Box:City:WILSON
+Phone:919-237-7004
+CAGE:DO750
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TRIFLUOROBROMOMETHANE  (HALON 1301)  (SARA III)
+CAS:75-63-8
+RTECS #:PA5425000
+Fraction by Wt: >99%
+Other REC Limits:N/K 
+OSHA PEL:1000 PPM
+ACGIH TLV:1000 PPM; 9192
+Ozone Depleting Chemical:1
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:N/K 
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:AT CONCENTRATIONS OF 10% BY VOLUME AND
+    HIGHER:POSSIBLE NARCOSIS AND CARDIAC ARRHYTHMIA.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES/SKIN/INGESTION:N/K
+    .INHALATION:OVEREXPOSURE MAY CAUSE LIGHT
+    HEADEDNESS,GIDDINESS,DIZZINESS,SHORTNESS OF BREATH.AT
+    CONCENTRATIONS OF 10% BY VOLUME AND HIGHER:POSSIBLE NARCOSIS AND
+    CARDI AC ARRHYTHMIA.
+Medical Cond Aggravated by Exposure:AT CONCENTRATIONS OF 10% BY VOLUME
+    AND HIGHER MAY CAUSE POSSIBLE NARCOSIS AND CARDIAC ARRHYTHMIA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES/SKIN:FLUSH WITH WATER.INGESTION:N/K .INHALATION:REMOVE
+    TO FRESH AIR.CALL A PHYSICIAN.DO NOT GIVE EPINEPHRINE OR SIMILAR
+    DRUGS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONFLAMMABLE
+Extinguishing Media:HALON 1301 IS A FIRE EXTINGUISHING MEDIA.
+Fire Fighting Procedures:SELF CONTAINED BREATHING APPARATUS TO PROTECT
+    AGAINST VAPORIZED MATERIAL DECOMPOSITION PRODUCTS
+    (BROMINE,FLUORINE,HALOGEN ACIDS AND CARBONYL HALIDES).
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA-ESPECIALLY LOW PLACES WHERE
+    HEAVY VAPORS MAY COLECT.REMOVE OPEN FLAMES.
+Neutralizing Agent:N/K 
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE CONTAINERS IN A CLEAN,DRY
+    AREA.DO NOT HEAT ABOVE 125F,51.67C.
+Other Precautions:AVOID CONTAINER DAMAGE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE A FULL FACE PIECE SUPPLIED AIR RESPIRATOR OR
+    SELF CONTAINED BREATHING APPARATUS FOR CONCENTRATIONS GREATER THAN
+    TLV.
+Ventilation:LOCAL AND MECHANICAL EXHAUST IF TLV IS EXCEEDED.VENTILATE
+    SUMPS AND PITS WHERE VAPORS MAY COLLECT.
+Protective Gloves:PVA OR PVC.
+Eye Protection:CHEMICAL WORKER GOGGLES.
+Other Protective Equipment:SAFETY SHOWER AND EYE WASH STATION NEAR WORK
+    AREA.
+Work Hygienic Practices:GOOD HYGIENE PRACTICES AS WITH ANY INDUSTRIAL
+    CHEMICAL.
+Supplemental Safety and Health
+BP:-71.95F,-57.78C.VP:12.152 MMHG @ 77F,25C.VAP DENS:8.71 G/L @ BP
+    (AIR=1).SOL IN H*2O:0.03 @ 77F,25C (% BY WT).
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:G3
+Boiling Pt:B.P. Text:SEE SUPP
+Decomp Temp:Decomp Text:N/K 
+Vapor Pres:SEE SUPP
+Vapor Density:SEE SUPP
+Spec Gravity:1.538 (WATER=1)
+Evaporation Rate & Reference:N/K 
+Solubility in Water:SEE SUPP DATA
+Appearance and Odor:SLIGHT ETHERAL ODOR,COLORLESS GAS & LIQUID.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+LIQUID CONTACT WITH ALKALI AND ALKALINE EARTH METALS-POWDERED
+    ALUMINUM,ZINC,BERYLLIUM,ETC.
+Stability Condition to Avoid:AVOID CONTACT WITH OPEN FLAME OR
+    TEMPERATURES ABOVE 1000F,537.78C.STABLE UNDER NORMAL CONDITIONS.
+Hazardous Decomposition Products:HYDROGEN FLUORIDES,HYDROGEN
+    BROMIDES,FREE BROMINE AND CARBONYL HALIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE IN ACCORDANCE WITH
+    FEDERAL,STATE AND LOCAL REGULATIONS.COORDINATION WITH SUPPORTING
+    INSTALLATION AND/OR MACOM ENVIRONMENTAL COORDINATION PRIOR TO
+    DISPOSAL IS RECOMMENDED TO DETERMINE  APPROPRIATE DISP METH
+    .EVAPORATE OUTDOORS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

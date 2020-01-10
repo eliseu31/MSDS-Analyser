@@ -1,0 +1,124 @@
+=====================  Product Identification  =====================
+
+Product ID:F275-160
+MSDS Date:02/17/1989
+FSC:8040
+NIIN:00N021469
+MSDS Number: BLMLC
+=== Responsible Party ===
+Company Name:IMPERIAL CHEMICAL INDUSTRIES PIC
+Address:WEXHAM ROAD, SLOUGH
+City:BERKSHIRE
+Country:EN
+Info Phone Num:0753 31151
+Emergency Phone Num:0753 31151
+Preparer's Name:N AURORA /R W BLACKFORD
+CAGE:K2054
+=== Contractor Identification ===
+Company Name:IMPERIAL CHEMICAL INDUSTRIES PIC
+Address:WEXHAM ROAD, SLOUGH
+Box:City:BERKSHIRE
+Country:EN
+Phone:0753-31151
+CAGE:K2054
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS)	(SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Other REC Limits:435 MG/M3 (MFR)
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHAL:HARMFUL BY INHAL. DO NOT BREATH
+    SPRAY. DURING SPRAYING WEAR SUITABLE RESP EQUIP. E.G. CARTRIDGE
+    MASK TO BS 4667 PART 3:1974 (AIR FED). EYE:AVOID CONTACT W/EYES.
+    FOR SPRAYING USE GOGGLES TO BS209 2:1967. SKIN:HARMFUL IN CONTACT
+    W/SKIN.AVOID CONTACT W/SKIN. WEAR SUITABLE GLOVES. INGEST:WHEN
+    USING DO NOT EAT/DRINK.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:NONE SPECIFIED BY MANUFACTURER.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:MOVE TO FRESH AIR & KEEP PATIENT WARM. GIVE NOTHING BY
+    MOUTH. IF PATIENT SHOWS BAD SYMP OBTAIN MD ASSISTANCE IMMED.
+    EYE:FLUSH EYE COPIOUSLY W/CLEAN WATER FOR AT LEAST 15 MIN, HOLDING
+    EYELIDS APA RT. SEEK MD ATTEN IMMED. SKIN:REMOVE ANY CONTAM CLTHG
+    IMMED & AWAY FROM ANY IGNIT SOURCE & WASH SKIN W/SOAP & WATER. IF
+    SKIN IRRIT PERSISTS/RASH DEVELOPS, SEEK MD ATTEN. INGEST:DO NOT
+    INDUCE (SUP DAT)
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:73.4F,23.0C
+Lower Limits:1%
+Upper Limits:11.5%
+Extinguishing Media:DRY POWDER OR FOAM
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE WITH INERT ABSORBENT IN LIDDED METAL
+    CONTAINER. VENTILATE AREA THOROUGHLY AND KEEP SOURCES OF IGNITION
+    AWAY.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:TAKE PRECAUTIONARY MEASURES AGAINST
+    STATIC DISCHARGE.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:DURING SPRAYING WEAR SUITABLE NIOSH/MSHA
+    APPROVED RESPIRATORY EQUIPMENT.
+Ventilation:NONE SPECIFIED BY MANUFACTURER.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:DO NOT EAT OR DRINK WHEN USING.
+Supplemental Safety and Health
+FIRST AID:VOMITING. IF CONCIOUS, GIVE COPIOUS AMOUNTS OF WATER AND SEEK
+    MEDICAL ATTENTION.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:241F,116C
+Vapor Pres:7
+Vapor Density:HEAVIER
+Appearance and Odor:COLORLESS LIQUID, STRONG SOLVENT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:IF FLASH POINT BELOW 21 C, DISPOSE IN ACCORDANCE
+    WITH CONTROL OF POLLUTION (SPECIAL WASTE) REGULATIONS : 1980.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

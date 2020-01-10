@@ -1,0 +1,169 @@
+=====================  Product Identification  =====================
+
+Product ID:LAM X500 WHITE 17875, 7311T101
+MSDS Date:07/02/1991
+FSC:8010
+NIIN:00N021192
+MSDS Number: BLMGR
+=== Responsible Party ===
+Company Name:DEXTER CROWN METRO AEROSPACE COATINGS
+Address:31500 HAYMAN
+City:HAYWARD
+State:CA
+ZIP:94544
+Country:US
+Info Phone Num:415-471-7171; 415-791-1961
+Emergency Phone Num:415-471-7171; 415-791-1961
+Preparer's Name:K BUNTON
+CAGE:0S4B8
+=== Contractor Identification ===
+Company Name:CROWN
+Box:350
+City:GREENVILLE
+State:SC
+ZIP:29606
+Country:US
+Phone:803-277-1870
+CAGE:06367
+Company Name:CROWN METRO AEROSPACE COATINGS INC SUB OF DEXTER CORP THE
+Address:315 ECHELON RD
+Box:5695
+City:GREENVILLE
+State:SC
+ZIP:29606
+Country:US
+Phone:803-277-1870
+CAGE:0S4B8
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:N-BUTYL ACETATE  (SARA III)
+CAS:123-86-4
+RTECS #:AF7350000
+Fraction by Wt: <10%
+OSHA PEL:150 PPM/200 STEL
+ACGIH TLV:150 PPM/200STEL;9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: <10%
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: <10%
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ACETIC ACID, 2-METHOXY-1-METHYLETHYL ESTER; (1-METHOXY
+    2-PROPANOL ACETATE). VP: 3.8
+CAS:108-65-6
+RTECS #:AI8925000
+Fraction by Wt: 10-20%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:(ACUTE) OVEREXPOSURE BY INHALATION MAY
+    CAUSE IRRITATION OF THE RESPIRATORY TRACT, HEADACHE, DIZZINESS, OR
+    DROWSINESS. SKIN OR EYE: IRRITANT TO THE EYES AND SKIN. (CHRONIC)
+    MAY AFFECT THE FOLLOWING ORG ANS: RESPIRATORY TRACT, CNS, KIDNEYS,
+    LIVER, REPRODUCTIVE SYSTEM, CARDIAC SENSITIZATION.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:UNKNOWN AT THIS TIME.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: REMOVE FROM EXPOSURE. EYE: FLUSH IMMEDIATELY WITH
+    LARGE AMOUNTS OF RUNNING WATER FOR AT LEAST 15 MINUTES. SKIN:
+    REMOVE CONTAMINATED CLOTHING AND WASH SKIN WITH SOAP AND WATER.
+    INGEST: DRINK WAT ER. IF NECESSARY CONSULT MD FOR ANY OF THESE
+    CONDITIONS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:22.0F,-5.6C
+Lower Limits:1.20%
+Extinguishing Media:USE WATER FOG, FOAM, DRY CHEMICAL OR CO2.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION, AVOID
+    BREATHING VAPS, VENTILATE AREA, AND REMOVE WITH INERT ABSORBENT &
+    NON- SPARKING TOOLS. BEFORE ATTEMPTING CLEANUP REFER TO INGREDIENTS
+    SECTION.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT TAKE INTERNALLY. CNTNRS SHOULD
+    BE GROUNDED WHEN POURING. AVOID FREE FALL OF LIQ IN EXCESS OF A FEW
+    INCHES.
+Other Precautions:MAKE SURE THE DRUM IS COMPLETELY EMPTY BEFORE
+    ATTEMPTING TO WELD OR BRAZE. THE DRUM SHOULD BE INDUSTRIALLY
+    CLEANED PRIOR TO REUSE. DO NOT FLAME CUT, BRAZE, OR WELD WITHOUT A
+    NIOSH/MSHA APPROVED RESPIR ATOR OR APPROPRIATE VENTILATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WHERE GENERAL DILUTION/LOCAL EXHST FAILS TO ADEQ
+    DILUTE TWA/PEL OF MATL, THEN RESP PROT SHOULD BE USED AS FOLLOWS:
+    I/A/W 29CFR 1910.134, USE NIOSH/MSHA APPRVD AIR LINE TYPE
+    RESP/HOODS FOR ENCLOSED & C ONFINED AREAS. NIOSH/MSHA(SEE SUPP
+    DATA)
+Ventilation:PROVIDE GENERAL DILUTION/LOCAL EXHAUST VENT TO KEEP TWA AND
+    LEL BELOW ACCEPTABLE LIMITS AND TO REMOVE DECOMP PRODS.
+Protective Gloves:CHEMICAL RESISTANT GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+RESP PROT: APPROVED AIR PURIFYING RESPIRATORS MAY BE USED FOR OTHER
+    AREAS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F3
+Boiling Pt:B.P. Text:172F,78C
+Vapor Pres:SEE INGRED
+Vapor Density:HVR/AIR
+Spec Gravity:12.273 LBS
+Appearance and Odor:NONE SPECIFIED BY MANUFACTURER.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:FUMES MAY CONTAIN CO & NOX. MAY
+    PRODUCE HAZARDOUS FUMES WHEN HEATED TO DECOMPOSITION AS IN WELDING.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE, AND
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

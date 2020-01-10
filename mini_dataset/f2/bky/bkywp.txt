@@ -1,0 +1,101 @@
+=====================  Product Identification  =====================
+
+Product ID:1669115 IBM, 3820 PRINTER, FUSER OIL
+MSDS Date:12/02/1990
+FSC:6850
+NIIN:01-257-2877
+MSDS Number: BKYWP
+=== Responsible Party ===
+Company Name:IBM CORPORATION
+Address:OLD ORCHARD ROAD
+City:ARMONK
+State:NY
+ZIP:10504
+Info Phone Num:(800) 426-4333
+Emergency Phone Num:(800) 426-4333
+CAGE:30874
+=== Contractor Identification ===
+Company Name:IBM CORPORATION
+Address:OLD ORCHARD ROAD
+City:ARMONK
+State:NY
+ZIP:10504-1709
+Country:US
+Phone:800-426-4333/FAX 214-280-3903
+CAGE:30874
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DIMETHYL POLYSILOXANE (MONOMER: DIMETHYL SILOXANE),
+    SILICONE FLUID, DOW CORNING 200, POLYMETHYLSILOXANE
+CAS:63148-62-9
+RTECS #:JT6484500
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN/EYES/INHALATION: IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN/EYES/INHALATION: IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. SKIN: WASH W/SOAP & WATER.
+    EYES: FLUSH W/PLENTY OF WATER FOR 15 MINS. OBTAIN MEDICAL ATTENTION
+    IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:OC
+Flash Point:<610F
+Extinguishing Media:WATER, DRY CHEMICAL, CO2, OR FOAM.
+Fire Fighting Procedures:WATER MAY CAUSE FROTHING. USE A SELF-CONTAINED
+    BREATHING APPARATUS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONTAIN FOR TREATMENT/DISPOSAL. VENTILATE
+    AREA. COVER W/ABSORBENT MATERIAL & COLLECT. ELIMINATE SOURCES OF
+    IGNITION.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP OUT OF REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:<315F
+Decomp Temp:Decomp Text:1652F
+Vapor Pres:5
+Spec Gravity:0.98
+Evaporation Rate & Reference:(ETHER = 1): 1
+Solubility in Water:0.1%
+Appearance and Odor:CLEAR, COLORLESS LIQUID W/NO ODOR.
+Percent Volatiles by Volume:5%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZERS
+Stability Condition to Avoid:SOURCES OF IGNITION
+Hazardous Decomposition Products:SILICON DIOXIDE, CO, CO2, & TRACES OF
+    INCOMPLETELY BURNED CARBON PRODUCTS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:LANDFILL IN ACCORDANCE W/LOCAL, STATE, & FEDERAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

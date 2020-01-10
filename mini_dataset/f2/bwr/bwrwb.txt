@@ -1,0 +1,169 @@
+=====================  Product Identification  =====================
+
+Product ID:COMP B, U-1202-D
+MSDS Date:06/01/1993
+FSC:8010
+NIIN:00-082-2477
+Kit Part:Y
+MSDS Number: BWRWB
+=== Responsible Party ===
+Company Name:STERLING LACQUER MFG CO, INC
+Address:3150 BRANNON AVE
+City:ST LOUIS
+State:MO
+ZIP:63139
+Country:US
+Info Phone Num:314-776-4450
+Emergency Phone Num:314-776-4450
+Preparer's Name:P.D. MOORE
+CAGE:60003
+=== Contractor Identification ===
+Company Name:STERLING LACQUER MFG CO
+Address:3150 BRANNON AVE
+Box:City:ST. LOUIS
+State:MO
+ZIP:63139-1422
+Country:US
+Phone:314-776-4450
+CAGE:60003
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOPROPYL ALCOHOL (SARA III) (VAPOR PRESSURE 30.0 MM HG
+    68F)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: 51%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:400 PPM
+ACGIH TLV:400 PPM
+
+Ingred Name:2-PROPOXYETHANOL (VAPOR PRESSURE 1.3 MM HG @ 77F)
+CAS:2807-30-9
+RTECS #:KM2800000
+Fraction by Wt: 21%
+Other REC Limits:25 PPM
+
+Ingred Name:XYLENE (SARA 313) (CERCLA) (VAPOR PRESSURE 9.5 MM HG @ 68F)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 5%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:COATING VOC: 5.45 LB/GL (653 G/L)  MATERIAL VOC: 5.45 LB/GL
+    (653 G/L)
+RTECS #:9999999VO
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: IRRITATION TO RESPIRATORY
+    TRACT (NOSE, THROAT, LUNGS) AND/OR NARCOSIS. SKIN & EYE:
+    IRRITATING, MAY INJURE EYE TISSUE IF NOT PROPERLY REMOVED. SKIN
+    ABSORPTION: IRRITATION DUE TO SOLVENTS. I NGESTION: TOXIC. MAY
+    CAUSE NAUSEAA, VOMITING, DIARRHEA. DON'T INGEST. CONSULT PHYSICIAN.
+Explanation of Carcinogenicity:CRYSTALLINE SILICA HAS BEEN CLASSIFIED
+    AS PROBABLY CARCINOGEN FOR HUMANS (2A) BY IARC
+Effects of Overexposure:OVEREXPOSURE HAS BEEN FOUND TO CAUSE FOLLOWING
+    EFFECTS IN ANIMALS. LIVER  ABNORMALITIES, KIDNEY, LUNG, SPLEEN
+    DAMAGE. OVEREXPOSURE HAS BEEN SUGGESTED AS A CAUSE OF THE FOLLOWING
+    EFFECTS IN HUMANS: LIV ER ABNORMALITIES. INFORMATION IS BELIEVED
+    ACCURATE. SILICOSIS, NON CANCEROUS LUNG DISEASE.
+Medical Cond Aggravated by Exposure:RESPIRATORY PROBLEMS CAN BE
+    INCREASED BY INHALATION OF VAPORS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH WATER FOR 15 MINUTES. GET IMMEDIATE MEDICAL
+    ATTENTION. SKIN: REMOVE CONTAMINATED CLOTHING. WASH AFFECTED AREA
+    WITH SOAP AND WATER. INHALATION: MOVE TO FRESH AIR. OBTAIN MEDICAL
+    ATTENT ION IF NEEDED. INGESTION: DO NOT INDUCEVOMITING. GET
+    IMMEDIATE MEDICAL ATTENTION. FOR INDUSTRIAL USE. KEEP AWAY FROM
+    CHILDREN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:54.0F,12.2C
+Lower Limits:1.1
+Upper Limits:15.8
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL
+Fire Fighting Procedures:WEAR SELF CONTAINED BREATHING APPARATUS WITH A
+    FULL FACEPIECE OPERATED IN PRESSURE DEMAND WHEN FIGHTING FIRES. USE
+    WATER FOG NOZZLES TO COOL CLOSED CONTAINER.
+Unusual Fire/Explosion Hazard:DO NOT USE WATER. FLAMM LIQ CAN RELEASE
+    VAPOR (FORM FLAMM MIX AT TEMP AT/ABOVE FLASHPOINT).ELIMINATE &
+    ISOLATE FROM IGNIT SOURCES. CO2,CO,TOXIC GASES PRODUCED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR RESPIRATOR, ABSORB WITH VERMICULITE OR
+    OTHER ABSORBENT MATERIAL. ELIMINATE ALL IGNITION SOURCES. STOP
+    SPILL AT SOURCE AND PREVENT SPREADING.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN DRY AREA. KEEP CONTAINERS
+    TIGHTLY CLOSED. PROTECT FROM PHYSICAL DAMAGE. EMPTIED CONTAINERS
+    RETAIN PRODUCT RESIDUES. STORE BELOW 120F.
+Other Precautions:STORE LRG QTY IN BLDGS DESIGNED TO COMPLY W/OSHA
+    1910.106.KEEP CLOSURE TIGHT & CONTAINER UPRIGHT TO PREVENT
+    LEAK.DON'T STORE NEAR HEAT,SPARKS,FLAME.DON'T GET IN EYES.KEEP AWAY
+    FROM CHILDREN.AVOID SKIN  CONTACT.DON'T INGEST.FOR INDUSTRIAL USE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:>TLV OF PRODUCT/COMPONENT,NIOSH/MSHA APPRVD AIR
+    SUPPLY RESPRTR ADVISED IN ABSENCE OF ENVIRONMENTAL CONTROL.OSHA
+    REGS PERMIT OTHER NIOSH/MSHA RESPRTRS UNDER SPECIFIED
+    CONDITIONS.SEE SFTY EQUIP SUPPLR.I MPLEMENT ENGINEER/ADMINISTRATIVE
+    CONTROL
+Ventilation:PROVIDE SUFFICIENT MECHANICAL (GENERAL/LOCAL EXHAUST)
+    VENTILATION TO MAINTAIN EXPOSURE BELOW TLV(S).
+Protective Gloves:WEAR SOLVENT RESISTANT GLOVES
+Eye Protection:CHEMICAL SPLASH GOGGLES,SAFETY GLASSES
+Other Protective Equipment:TO PREVENT REPEATED OR PROLONGED SKIN
+    CONTACT, WEAR SOLVENT IMPERVIOUS CLOTHING AND BOOTS.
+Work Hygienic Practices:WASH WITH SOAP AND WATER AFTER USE, BEFORE
+    EATING OR SMOKING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:B.P. Text:179 TO 301F
+Vapor Density:> AIR
+Spec Gravity:0.9  (WATER=1)
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:NEGLIBIBLE
+Appearance and Odor:CLEAR LIQUID, SOLVENT ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:AVOID EXCESSIVE HEAT.
+Hazardous Decomposition Products:BURNING CAN PRODUCE CARBON DIOXIDE
+    AND/OR CARBON MONOXIDE.
+Conditions to Avoid Polymerization:AVOID EXCESSIVE HEAT.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DESTROY BY LIQUID INCINERATION. CONTAMINATED
+    ABSORBENT MAY BE DEPOSITED IN A LANDFILL IN ACCORDANCE WITH LOCAL,
+    STATE, AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

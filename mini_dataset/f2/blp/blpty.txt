@@ -1,0 +1,116 @@
+=====================  Product Identification  =====================
+
+Product ID:4300 ALL PURPOSE SEALANT, WHITE
+MSDS Date:10/25/1989
+FSC:8030
+NIIN:00F019276
+MSDS Number: BLPTY
+=== Responsible Party ===
+Company Name:MARTIN-SENOUR CO THE DIV SHERWIN-WILLIAMS CO
+Address:5422 DANSHER RD
+City:COUNTRYSIDE
+State:IL
+ZIP:60525
+Info Phone Num:(216) 566-2902
+Emergency Phone Num:(216) 566-2917
+CAGE:16772
+=== Contractor Identification ===
+Company Name:MARTIN-SENOUR CO THE DIV SHERWIN-WILLIAMS CO
+Address:2500 S SENOUR AVE
+Box:City:CHICAGO
+State:IL
+ZIP:60608-5724
+Country:US
+CAGE:16772
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TALC (CONTAINING NO ASBESTOS)
+CAS:14807-96-6
+RTECS #:WW2710000
+Fraction by Wt: 5%
+OSHA PEL:2 MG/M3 RDUST
+ACGIH TLV:2 MG/M3 RDUST; 9192
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 40%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES/SKIN: IRRITATION, REDNESS,
+    ITCHING, & BURNING SENSATION. INHALATION: RESPIRATORY SYSTEM
+    IRRITATION, HEADACHE, DIZZINESS, & NAUSEA.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES/SKIN: IRRITATION, REDNESS, ITCHING, &
+    BURNING SENSATION. INHALATION: RESPIRATORY SYSTEM IRRITATION,
+    HEADACHE, DIZZINESS, & NAUSEA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR & RESTORE BREATHING. KEEP
+    WARM & QUIET. SKIN: WASH W/SOAP & WATER. EYES: FLUSH W/PLENTY OF
+    WATER FOR 15 MINS. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:>199F
+Extinguishing Media:ALCOHOL FOAM, CO2 & DRY CHEMICAL
+Fire Fighting Procedures:WATER SPRAY MAY BE INEFFECTIVE. IF WATER IS
+    USED, FOG NOZZLES ARE PREFERABLE. WEAR FULL PROTECTIVE CLOTHING &
+    SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:WATER SPRAY MAY BE USED TO COOL CLOSED
+    CONTAINERS TO PREVENT PRESSURE BUILD-UP, POSSIBLE AUTOIGNITION &
+    EXPLOSION WHEN EXPOSED TO EXTREME HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. VENTILATE &
+    REMOVE W/INERT ABSORBENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER CLOSED WHEN NOT IN USE.
+    TRANSFER TO APPROVED CONTAINERS W/COMPLETE & APPROPRIATE LABELING.
+    DON'T TAKE INTERNALLY.
+Other Precautions:USE ONLY W/ADEQUATE VENTILATION. AVOID BREATHING
+    VAPOR/SPRAY MIST. DON'T GET IN EYES OR ON SKIN. KEEP OUT OF REACH
+    OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE PROPERLY FITTED NIOSH/MSHA APPROVED ORGANIC
+    VAPOR/PARTICULATE RESPIRATOR. WHEN SANDING OR ABRADING THE DRIED
+    FILM, WEAR A DUST/MIST RESPIRATOR.
+Ventilation:LOCAL EXHAUST OR GENERAL EXHAUST TO KEEP AIR
+Spec Gravity:1.47
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Appearance and Odor:WHITE
+Percent Volatiles by Volume:28%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:EXTREME HEAT & OTHER SOURCES OF IGNITION
+Hazardous Decomposition Products:CO, & CO2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE AS NON-HAZARDOUS WASTE INCINERATE IN
+    APPROVED FACILITY ACCORDING TO FEDERAL, STATE, & LOCAL REGULATIONS.
+    DON'T INCINERATE CLOSED CONTAINERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

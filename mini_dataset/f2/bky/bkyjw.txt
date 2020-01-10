@@ -1,0 +1,108 @@
+=====================  Product Identification  =====================
+
+Product ID:SOLAR FLUX TYPE B
+MSDS Date:10/27/1988
+FSC:3439
+NIIN:00-250-2629
+MSDS Number: BKYJW
+=== Responsible Party ===
+Company Name:GOLDEN EMPIRE CORPORATION
+Address:28409 QUAILHILL DR
+Box:2293
+City:RANCHO PALOS VERDES
+State:CA
+ZIP:90274-0110
+Info Phone Num:(213) 644-8239
+Emergency Phone Num:(213) 644-8239
+Preparer's Name:R.L. WEHRMEISTER
+CAGE:71980
+=== Contractor Identification ===
+Company Name:GOLDEN EMPIRE CORPORATION
+Address:28409 QUAILHILL DR
+Box:City:RANCHO PALOS VERDES
+State:CA
+ZIP:90274-0110
+Phone:(213) 644-8239
+CAGE:71980
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SILICA, CRYSTALLINE - QUARTZ
+CAS:14808-60-7
+RTECS #:VV7330000
+Other REC Limits:0.05 MG/CUM NIOSH
+OSHA PEL:SEE TABLE Z3
+ACGIH TLV:0.1 MG/M3 RDUST;9293
+
+Ingred Name:SILICON DIOXIDE
+CAS:7631-86-9
+RTECS #:VV3100000
+Fraction by Wt: 6-12%
+OSHA PEL:80 MG/CUM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: LUNG INJURY (SILICOSIS).
+    SKIN/EYES/INGESTION: NUISANCE DUST MAY CAUSE IRRITATION.
+Explanation of Carcinogenicity:CRYSTALLINE SILICA IS AN A2 CARCINOGEN.
+Effects of Overexposure:INHALATION: LUNG INJURY (SILICOSIS).
+    SKIN/EYES/INGESTION: NUISANCE DUST MAY CAUSE IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER. INGESTION: DRINK PLENTY OF WATER. INDUCE
+    VOMITING. SKIN: WASH W/SOAP & WATER. INHALATION: REMOVE TO FRESH
+    AIR. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE APPROPRIATE EXTINGUISHING MEDIA SUITABLE FOR
+    FIRES.
+Fire Fighting Procedures:WATER MAY BE USED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE INERT DRY POWDER. SWEEP UP & DISCARD IN
+    SOLID WASTE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID PROLONGED INHALATION. STORE IN
+    WELL VENTILATED AREA.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:STANDARD FOR WELDING.
+Ventilation:LOCAL EXHAUST: STANDARD FOR WELDING.
+Protective Gloves:STANDARD FOR WELDING
+Eye Protection:STANDARD FOR WELDING
+Supplemental Safety and Health
+THIS CHEMICAL IS LISTED ON CALIFORNIA'S PROPOSITION 65.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:3060F
+Spec Gravity:2.2
+Solubility in Water:4.2 GM/ML
+Appearance and Odor:DARK GRAY POWDER, ODORLESS
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/FEDERAL, STATE &
+    LOCAL REGULATIONS. NOT CLASSIFIED AS TOXIC WASTE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,153 @@
+=====================  Product Identification  =====================
+
+Product ID:ETHYL ALCOHOL
+MSDS Date:07/28/1994
+FSC:6810
+NIIN:00-242-3645
+MSDS Number: BWRJS
+=== Responsible Party ===
+Company Name:MCCORMICK DISTILLING CO
+Address:1 MCCORMICK LN
+City:WESTON
+State:MO
+ZIP:64098
+Country:US
+Info Phone Num:800-825-0377
+Emergency Phone Num:800-424-9300
+CAGE:0KZD5
+=== Contractor Identification ===
+Company Name:MCCORMICK DISTILLING CO
+Address:1 MCCORMICK LN
+Box:City:WESTON
+State:MO
+ZIP:64098
+Country:US
+Phone:800-424-9300/202-483-7616
+CAGE:0KZD5
+Company Name:MIDWEST GRAIN PRODUCTS COMPANY
+Address:1 MCCORMICK LANE
+Box:City:WESTON
+State:MO
+ZIP:64098
+Country:US
+Phone:816-386-2276
+CAGE:0M034
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHYL ALCOHOL (ETHANOL)
+CAS:64-17-5
+RTECS #:RQ6300000
+Fraction by Wt: 95%
+OSHA PEL:1000 PPM
+ACGIH TLV:1000 PPM; 8990
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: CONTACT MAY CAUSE SKIN & EYE
+    IRRITATION. INHALATION OF VAPORS MAY IRRITATE MUCOUS MEMBRANES OR
+    CAUSE CNS EFFECTS (AT VERY HIGH VAPOR CONCENTRATIONS). INGESTION
+    MAY CAUSE CNS DEPRESSSION. CHRONI C: NONE SPECIFIED BY
+    MANUFACTURER.
+Explanation of Carcinogenicity:NO INGREDIENT OF A CONCENTRATION OF 0.1%
+    OR GREATER IS LISTED AS A CARCINOGEN OR SUEPECTED CARCINOGEN.
+Effects of Overexposure:EYES-REDNESS, TEARING, STINGING.BURNING. SKIN:
+    REDNESS, DISCOMFORT. INHALED: COUGHING, SHORTNESS OF BREATH,
+    HEADACHE, DIZZINESS, NAUSEA. INGESTED: NAUSEA, VOMITING, DIZZINESS,
+    INCCORDINATION, SLURRED  SPEECH, HEADACHE, UNCONSCIOUSNESS.
+Medical Cond Aggravated by Exposure:NOT AVAILABLE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALED-REMOVE TO FRESH AIR. GIVE ARTIFICIAL RESPIRATION IF
+    NEEDED. GET MEDICAL ATTENTION. EYES-FLUSH WITH WATER FOR 15
+    MINUTES. SKIN-REMOVE CONTAMINATED CLOTHES. FLUSH WITH WATER.
+    INGESTED-SEEK IMMED IATE MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:60.8F,16.0C
+Lower Limits:3.3
+Upper Limits:19.0
+Extinguishing Media:CARBON DIOXIDE, ALCOHOL-RESISTANT FOAM OR DRY
+    CHEMICAL. WATER MAY BE INEFFECTIVE IN FIGHTING ALCOHOL FIRE.
+Fire Fighting Procedures:WEAR FIRE FIGHTING PROTECTIVE EQUIPMENT & A
+    FULL FACED SELF CONTAINED BREATHING APPARATUS.USE WATER IN DELUGE
+    QUANTITIES OR TO KEEP FIRE EXPOSED SURFACES COOL.
+Unusual Fire/Explosion Hazard:DANGEROUS FIRE HAZARD, MODERATE EXPLOSION
+    HAZARD WHEN EXPOSED TO IGNITION SOURCE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE ALL SOURCES OF IGNITION. CONTAIN
+    SPILLED MATERIAL. DILUTE TO NON-FLAMMABLE MIXTURE WITH WATER.
+    VENTILATE THE SPILL AREA. PREVENT RUN-OFF FROM ENTERING DRAINS,
+    SEWERS OR STREAMS.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY PLACE AWAY FROM
+    HEAT, OPEN FLAMES, OTHER SOURCES OF IGNITION AND STRONG OXIDIZING
+    AGENTS.
+Other Precautions:PROPERLY BOND & GROUND ALL CONTAINERS DURING TRANSFER
+    OPERATIONS. EMPTY CONTAINERS MAY CONTAIN RESIDUAL VAPORS/LIQUID AND
+    CAN BE A FIRE OR EXPLOSION HAZARD.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF ENGINEERING CONTROLS FAIL OR NON-ROUTINE USE
+    OR AN EMERGENCY OCCURS; WEAR AN MSHA/NIOSH APPROVED RESPIRATOR OR
+    AN AIR-SUPPLIED RESPIRATOR OR SCBA, AS REQUIRED. USE IN ACCORDANCE
+    WITH 29 CFR 1910.13 4 AND MANUFACTURER'S RECOMMENDATIONS.
+Ventilation:USE ADEQUATE EXPLOSION-PROOF MECHANICAL VENTILATION OR
+    LOCAL EXHAUST TO MAINTAIN EXPOSURE BELOW TLV(S).
+Protective Gloves:NEOPRENE, NITRILE, OR NATURAL RUBBER
+Eye Protection:SAFETY GLASSES/CHEMICAL SPLASH GOGGLES
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER. DLA-HMIS:
+    EYE WASH STATION AND SAFETY SHOWER, WORK CLOTHING AND APRON AS
+    REQUIRED.
+Work Hygienic Practices:WASH HANDS AFTER HANDLING AND BEFORE EATING,
+    DRINKING, OR SMOKING. LAUNDER CONTAMINATED CLOTHES BEFORE REUSE.
+Supplemental Safety and Health
+DLA-HMIS: AVOID PROLONGED OR REPEATED EXPOSURE. DO NOT GET ON SKIN OR
+    IN EYES. DO NOT BREATHE VAPORS OR MISTS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:B.P. Text:172F,78C
+Vapor Pres:45
+Vapor Density:1.6
+Spec Gravity:0.82
+Evaporation Rate & Reference:2.7 (N-BUTYL ACETATE = 1)
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR LIQUID; ALCOHOL ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER. DLA-HMIS:
+    AVOID SOURCES OF IGNITION AND INCOMPATIBLE MATERIALS.
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTAIN AND COLLECT FOR INCINERATION. IN ALL
+    CASES, DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE AND FEDERAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

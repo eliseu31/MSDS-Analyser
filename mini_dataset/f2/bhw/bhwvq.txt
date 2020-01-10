@@ -1,0 +1,152 @@
+=====================  Product Identification  =====================
+
+Product ID:REXOLITE ADHESIVE # 12517
+MSDS Date:03/20/1988
+FSC:8040
+NIIN:00-149-0649
+Kit Part:Y
+MSDS Number: BHWVQ
+=== Responsible Party ===
+Company Name:C-LEC PLASTICS, INC.
+Address:1717 BRIDGEBORO ROAD
+City:BEVERLY
+State:NJ
+ZIP:08010
+Country:US
+Info Phone Num:215-533-3553
+Emergency Phone Num:215-533-3553
+CAGE:60956
+=== Contractor Identification ===
+Company Name:C-LEC PLASTICS, INC.
+Address:1717 BRIDGEBORO ROAD
+Box:City:BEVERLY
+State:NJ
+ZIP:08010
+Country:US
+Phone:215-533-3553
+CAGE:60956
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POLYSTYRENE
+CAS:9003-53-6
+RTECS #:WL6475000
+Other REC Limits:S,50 PPM TWA/100STEL
+
+Ingred Name:DIVINYL BENZENE
+CAS:1321-74-0
+RTECS #:CZ9400000
+OSHA PEL:10 PPM
+ACGIH TLV:10 PPM; 9192
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL RAT) IS 5000 MG/KG.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:REPEATED EXCESSIVE EXPOSURES TO HIGH
+    AMOUNTS MAY CAUSE CENTRAL NERVOUS SYSTEM, LIVER AND KIDNEY EFFECTS.
+    REPEATED EXCESSIVE EXPOSURES TO SMALLER AMOUNTS MAY CAUSE CENTRAL
+    NERVOUS SYSTEM EFFECTS AND RE SPIRATORY AND EYE IRRITATION.
+Explanation of Carcinogenicity:NONE OF THE CHEMICALS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:EYES:IRRITATION,TEARING.
+    SKIN:IRRITATION,BURNS.REPEATED CONTACT MAY CAUSE DRYING OR FLAKING.
+    INHALATION:ANESTHETIC OR NARCOTIC EFFECTS.IRRITATION TO UPPER
+    RESPIRATORY TRACT.
+Medical Cond Aggravated by Exposure:PERSONS WITH A HISTORY OF
+    RESPIRATORY DISORDERS MAY BE AT INCREASED RISK FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:IMMEDIATELY FLUSH WITH PLENTY OF WATER FOR AT LEAST 15
+    MINUTES.SEE DOCTOR. SKIN:IMMEDIATELY FLUSH WITH PLENTY OF WATER
+    WHILE REMOVING CONTAMINATED CLOTHING AND SHOES.IF IRRITATION
+    PERSIST,SEE DOC TOR. INHALATION:REMOVE TO FRESH AIR.IF NOT
+    BREATHING GIVE CPR.IF BREATHING IS DIFFICULT,GIVE OXYGEN.SEE
+    DOCTOR. INGESTION:DO NOT INDUCE VOMIT.SEE DOCTOR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:=31.1C, 88.F
+Lower Limits:1.1
+Upper Limits:6.1
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:POLYMERIZATION WILL TAKE PLACE UNDER FIRE
+    CONDITIONS AND CONTAINER MAY RUPTURE VIOLENTLY. COOL FIRE EXPOSED
+    CONTAINERS WITH WATER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB WITH SUITABLE AGENT, SUCH AS SAND OR
+    VERMICULITE.WASH AREA WITH SOAP AND WATER. SOME ABSORBENTS SUCH AS
+    ZORB-ALL MAY INITIATE POLYMERIZATION.
+Neutralizing Agent:NONE APPLICABLE FOR THIS MATERIAL
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL, DRY, WELL VENTILATED
+    AREA. PROTECT FROM PHYSICAL DAMAGE, HEAT AND IGNITION SOURCES. KEEP
+    CONTAINERS CLOSED.
+Other Precautions:NONE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:ATMOSPHERIC LEVELS SHOULD BE MAINTAINED BELOW
+    THE EXPOSURE GUIDELINE. WHEN RESPIRATORY PROTECTION IS REQUIRED FOR
+    CERTAIN OPERATIONS, USE AN APPROVED AIR-PURIFYING RESPIRATOR.
+Ventilation:MECHANICAL (GENERAL) VENTILATION IS REQUIRED. LOCAL EXHAUST
+    MAY BE REQUIRED IF WORK AREA IS NOT VENTED.
+Protective Gloves:IMPERVIOUS.
+Eye Protection:CHEMICAL GOGGLES OR FULL FACE RESPIRATOR
+Other Protective Equipment:IMPERVIOUS PROTECTIVE CLOTHING. USE OF
+    BOOTS, APRON OR FULL-BODY SUIT WILL DEPEND ON TYPE OF OPERATION.
+Work Hygienic Practices:WASH THROUGHLY AFTER HANDLING AND BEFORE
+    EATING. LAUNDER CONTAMINATED CLOTHING BEFORE REUSE. DISCARD
+    CONTAMINATED SHOES.
+Supplemental Safety and Health
+NOTE TO PHYSICIAN:BECAUSE RAPID ABSORPTION MAY OCCUR THROUGH LUNGS IF
+    ASPIRATED,THE DECISION TO INDUCE VOMIT SHOULD BE MADE BY A
+    PHYSICIAN. IF LAVAGE IS PERFORMED,SUGGEST ENDOTRACHEAL AND/OR
+    ESOPHGEAL  CONTROL. IF BURN IS PRESENT,TREAT AS ANY THERMAL BURN
+    AFTER DECONTAMINATION.NO SPECIFIC ANTIDOTE.SUPPORTIVE CARE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F3
+Boiling Pt:=145.C, 293.F
+Vapor Pres:4.5
+Spec Gravity:0.9034
+Appearance and Odor:COLORLESS LIQUID. SWEET ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:NO
+ACID, CAUSTIC, OXIDIZING MATERIAL, METALLIC HALIDES (SALTS).
+Stability Condition to Avoid:POLYMERIZES EASILY. AVOID TEMPERATURES
+    ABOVE 90F. MAINTAIN INHIBITOR AND DISSOLVED OXYGEN LEVEL.
+Hazardous Decomposition Products:CARBON DIOXIDE, CARBON MONOXIDE,
+    INCOMPLETELY BURNED CARBON PRODUCTS.
+Conditions to Avoid Polymerization:AVOID HEAT, METALLIC (HALIDE) SALTS
+    SUCH AS FERRIC AND ALUMINUM CHLORIDES, PEROXIDES, AND DEPLETION OF
+    INHIBITOR & OXIGN
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE IN PROPERLY DESIGNED FURNACE. DISPOSE
+    OF IN ACCORDANCE WITH ALL APPLICABLE FEDERAL, STATE AND LOCAL LAWS
+    AND REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

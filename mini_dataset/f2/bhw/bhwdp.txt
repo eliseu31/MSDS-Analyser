@@ -1,0 +1,188 @@
+=====================  Product Identification  =====================
+
+Product ID:MIL-G-10924E LUBRICATING GREASE
+MSDS Date:09/14/1988
+FSC:9150
+NIIN:01-197-7689
+MSDS Number: BHWDP
+=== Responsible Party ===
+Company Name:BATTENFELD GREASE AND OIL CORP OF NEW YORK INC.
+Address:1174 ERIE AVE
+Box:728
+City:NORTH TONAWANDA
+State:NY
+ZIP:14120-3036
+Country:US
+Info Phone Num:716-695-2100
+Emergency Phone Num:716-695-2100
+Preparer's Name:THOMAS G. MUSILLI
+CAGE:EO110
+=== Contractor Identification ===
+Company Name:BATTENFELD GREASE AND OIL CORP OF NEW YORK INC
+Address:1174 ERIE AVE
+Box:728
+City:NORTH TONAWANDA
+State:NY
+ZIP:14120-3036
+Country:US
+Phone:716-695-2100
+CAGE:60226
+Company Name:BATTENFELD GREASE AND OIL CORP OF NEW YORK INC
+Address:1174 ERIE AVE
+Box:728
+City:NORTH TONAWANDA
+State:NY
+ZIP:14120-3036
+Country:US
+Phone:716-695-2100
+CAGE:EO110
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BENTONITE
+CAS:1302-78-9
+RTECS #:CT9450000
+Fraction by Wt: 2.0%
+OSHA PEL:5 MG/M3 (DUST)
+ACGIH TLV:5 MG/M3 (DUST)
+
+Ingred Name:SYNTHETIC HYDROCARBON BASE OIL
+CAS:68649-12-7
+Fraction by Wt: 70.5%
+
+Ingred Name:MINERAL OIL
+CAS:64742-65-0
+RTECS #:PY8038500
+Fraction by Wt: 8.0%
+
+Ingred Name:MAGNESIUM SULFONATE
+CAS:61789-87-5
+Fraction by Wt: 5.0%
+OSHA PEL:5 MG MG/M3 CEILING
+ACGIH TLV:10 MG MG/M3
+
+Ingred Name:PHOSPHATE ESTER
+CAS:68025-51-4
+Fraction by Wt: 2.5%
+
+Ingred Name:P,P'-DIOCTYLDIPHENYLAMINE
+CAS:101-67-7
+RTECS #:JJ8850000
+Fraction by Wt: 1.0%
+
+Ingred Name:TRIMETHYLDIHYDROQUINOLINE
+CAS:26780-96-1
+RTECS #:TQ2625000
+Fraction by Wt: 1.0%
+
+Ingred Name:LITHIUM 12-HYDROXYOCTADECANOATE
+CAS:68815-49-6
+Fraction by Wt: 10.0%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL RAT) IS NOT AVAILABLE
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MAY BE MILDLY IRRITATING. RELEASE
+    DURING HIGH PRESSURE USAGE MAY RESULT IN INJECTION OF OIL INTO THE
+    SKIN CAUSING LOCAL NECROSIS. HIGH TEMPERATURE VAPORS MAY IRRITATE
+    RESPIRATORY TRACT. LOW LEVEL OF T OXICITY(INGESTED). CHRONIC
+    OVEREXPOSUREMAY CAUSE SKIN DISORDERS, DERMATITIS.
+Explanation of Carcinogenicity:NONE OF THE COMPOUNDS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP, OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:EYE:POSSIBLE IRRITATION.  SKIN:POSSIBLE
+    IRRITATION, DERMATITIS WITH CHRONIC EXPOSURE.  INHALED:UNLIKELY
+    EXPOSURE.  INGESTED:G/I IRRITATION, LOW TOXICITY.
+Medical Cond Aggravated by Exposure:PRE-EXISTING SKIN DISORDERS MAY BE
+    AGGRAVATED BY EXPOSURE TO THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH WITH WATER FOR 15 MINUTES WHILE HOLDING EYELIDS
+    OPEN. GET MEDICAL ATTENTION. SKIN: WASH WITH SOAP & WATER/WATERLESS
+    CLEANER. REMOVE CONTAMINATED CLOTHING AND LAUNDER BEFORE REUSE. IF
+    IRRITA TION PERSISTS SEE A DOCTOR. INHALED:REMOVE TO FRESH AIR.
+    GIVE OXYGEN IF BREATHING IS DIFFICULT AND GET MEDICAL CARE.
+    INGESTION: DO NOT INDUCE VOMITING. IN GENERAL, NO TREATMENT 
+    REQUIRED. SEE DOCTOR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:460F,238C
+Autoignition Temp:Autoignition Temp Text:500F
+Extinguishing Media:USE CARBON DIOXIDE, FOAM, DRY CHEMICAL, WATER FOG,
+    SAND, OR EARTH
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:WHEN WATER IS USED AS THE EXTINGUISHING
+    AGENT, IT MAY CAUSE THE PRODUCT TO FROTH.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SCOOP UP EXCESS GREASE.  CLEAN AREA WITH
+    APPROPRIATE CLEANER.
+Neutralizing Agent:NONE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY PLACE WITH
+    ADEQUATE VENTILATION. KEEP CONTAINERS TIGHTLY CLOSED WHEN NOT IN
+    USE. KEEP AWAY FROM OPEN FLAMES & HIGH TEMPERATURES.
+Other Precautions:'EMPTY' CONTAINERS MAY CONTAIN RESIDUE OR VAPOR.
+    TREAT THEM WITH THE RESPECT DUE FULL ONES. DO NOT CUT,WELD,ETC. ON
+    THEM.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESPIRATORY PROTECTION WILL NOT NORMALLY BE
+    REQUIRED. IF VENTILATION DOES NOT MAINTAIN INHALATION EXPOSURES
+    BELOW PEL(TLV), USE NIOSH/MSHA APPROVED RESPIRATORS AS PER CURRENT
+    29 CFR 1910.134, INSTRUCT IONS/WARNINGS.
+Ventilation:NORMAL ROOM VENTILATION IS NORMALLY SUFFICIENT.
+Protective Gloves:BUTYL OR NEOPRENE RUBBER AS REQUIRED.
+Eye Protection:SAFETY GLASSES OR FACE SHIELD RECOMMENDE
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER.
+    INDUSTRIAL-TYPE WORK CLOTHING AND APRON AS REQUIRED BY TASK AT
+    HAND.
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES.
+Supplemental Safety and Health
+MFR CODE NO. 10,897.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:700F,371C
+Melt/Freeze Pt:M.P/F.P Text:450F,232C
+Spec Gravity:0.86
+pH:UNKNON
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:LIGHT BROWN GREASE, BLAND ODOR
+Percent Volatiles by Volume:UNKNON
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:NONE GIVEN BY MANUMACTURER.
+Hazardous Decomposition Products:COMBUSTION WILL PRODUCE A MIXTURE OF
+    AIRBORNE SOLID, LIQUID PARTICULATES AND GASES (CARBON MONOXIDE &
+    CARBON DIOXIDE).
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W ALL FEDERAL, STATE AND LOCAL
+    REGULATIONS.  MANUFACTURER SUGGESTS THAT DISPOSAL MAY BE DONE BY
+    INCINERATION.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

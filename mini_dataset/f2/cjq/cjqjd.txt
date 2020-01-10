@@ -1,0 +1,127 @@
+=====================  Product Identification  =====================
+
+Product ID:SEBACYL CHLORIDE, 118 3193
+MSDS Date:08/15/1986
+FSC:6810
+NIIN:00N092099
+Status Code:A
+MSDS Number: CJQJD
+=== Responsible Party ===
+Company Name:ACROS ORGANICS
+Address:711 FORBES AVE
+City:PITTSBURGH
+State:PA
+ZIP:15219-4785
+Country:US
+Info Phone Num:800-227-6701
+Emergency Phone Num:800-424-9300
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:ACR0S
+=== Contractor Identification ===
+Company Name:ACROS ORGANICS
+Address:ONE REAGENT LANE
+Box:City:FAIRLAWN
+State:NJ
+ZIP:07410
+Country:US
+Phone:800-227-6701
+CAGE:ACR0S
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SEBACYL CHLORIDE
+CAS:111-19-3
+= Wt:100.
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: VAPOR IRRITATING. SKIN:
+    POISON. MAY BE FATAL IF ABSORBED THROUGH SKIN. CAUSES SEVERE BURNS.
+    EYE: CAUSES SEVERE BURNS.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. TREAT SYMPTOMATICALLY. IF
+    SYMPTOMS ARE PRESENT GET MEDICAL ATTENTION. SKIN: IMMEDIATELY FLUSH
+    WITH PLENTY OF WATER FOR AT LEAST 15 MINUTES. CALL MD  EYES:
+    IMMEDIATELY  FLUSH WITH PLENTY OF WATER FOR AT LEAST 15 MINUTES.
+    CALL MD. INGESTION: CALL MD IMMEDIATELY .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:>110.C, 230.F
+Extinguishing Media:WATER SPRAY, DRY CHEMICAL, CARBON DIOXIDE.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT . USE WATER WITH CAUTION. MATERIAL REACTS WITH WATER.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY PRODUCE
+    HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB MATERIAL IN VERMICULITE OR OTHER
+    SUITABLE ABSORBENT AND PLACE IN IMPERVIOUS CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP FROM CONTACT WITH WATER. DO NOT
+    ADD WATER TO A CLOSED CONTAINER SINCE THE REACTION MAY RESULT IN
+    VIOLENT RUPTURE OF THE CONTAINER. KEEP FROM CONTACT WITH OXIDIZING
+    MATERIALS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:A NIOSH-APPROVED ORGANIC VAPOR RESPIRATOR SHOULD
+    BE WORN, IF NEEDED.
+Ventilation:GOOD GENERAL ROOM VENTILATION SHOULD BE USED. LOCAL EXHAUST
+    MAY BE NEEDED.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES & FULL LENGTH
+    FACESHIELD .
+Other Protective Equipment:ANSI APPROVED EYE WASH & DELUGE SHOWER .
+    PROTECTIVE CLOTHING MUST BE WORN.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:=220.C, 428.F
+B.P. Text:@ 75 MMHG
+Vapor Pres:11 MMHG @ 165C (329F)
+Spec Gravity:1.12 (H*2O=1)
+Evaporation Rate & Reference:NEGLIGIBLE (N-BUAC=1)
+Solubility in Water:DECOMPOSES (BY WT)
+Appearance and Odor:COLORLESS OR YELLOW LIQUID.
+Percent Volatiles by Volume:NEGLIG (WT)
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS, WATER.
+Hazardous Decomposition Products:COMBUSTION WILL PRODUCE CARBON DIOXIDE
+    AND PROBABLY CARBON MONOXIDE. HYDROGEN CHLORIDE GAS MAY ALSO BE
+    PRESENT.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE BY INCINERATION OR CONTRACT WITH
+    LICENSED CHEMICAL WASTE DISPOSAL AGENCY. DISCHARGE, TREATMENT, OR
+    DISPOSAL MAY BE SUBJECT TO FEDERAL, STATE OR LOCAL LAWS.
+
+=====================  Regulatory Information  =====================
+
+State Regulatory Information:
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

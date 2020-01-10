@@ -1,0 +1,178 @@
+=====================  Product Identification  =====================
+
+Product ID:POLYAMIDE CURING AGENT, 0200T01F
+MSDS Date:07/02/1991
+FSC:8010
+NIIN:00N021194
+MSDS Number: BLMGT
+=== Responsible Party ===
+Company Name:DEXTER CROWN METRO AEROSPACE COATINGS
+Address:31500 HAYMAN
+City:HAYWARD
+State:CA
+ZIP:94544
+Country:US
+Info Phone Num:415-471-7171; 415-791-1961
+Emergency Phone Num:415-471-7171; 415-791-1961
+Preparer's Name:K BUNTON
+CAGE:0S4B8
+=== Contractor Identification ===
+Company Name:CROWN
+Box:350
+City:GREENVILLE
+State:SC
+ZIP:29606
+Country:US
+Phone:803-277-1870
+CAGE:06367
+Company Name:CROWN METRO AEROSPACE COATINGS INC SUB OF DEXTER CORP THE
+Address:315 ECHELON RD
+Box:5695
+City:GREENVILLE
+State:SC
+ZIP:29606
+Country:US
+Phone:803-277-1870
+CAGE:0S4B8
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOBUTYRIC ACID, ISOBUTYL ESTER; (ISOBUTYL ISOBUTYRATE).
+    VAP PRESS: 1 @ 20C.
+CAS:97-85-8
+RTECS #:NQ5250000
+Fraction by Wt: 10-20%
+
+Ingred Name:ACETIC ACID, 2-METHOXY-1-METHYLETHYL ESTER; (1-METHOXY
+    2-PROPANOL ACETATE). VAP PRESS: 3.8 @ 20C.
+CAS:108-65-6
+RTECS #:AI8295000
+Fraction by Wt: 10-20%
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: <10%
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS)	(SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: <10%
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: <10%
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+Ingred Name:VM&P NAPHTHA. VAP PRESS: 26 @ 20C.
+CAS:64742-89-8
+Fraction by Wt: 30-40%
+Other REC Limits:300 PPM (MFR)
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NOT RELEVANT.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:OVER EXPOSURE BY INHALATION MAY CAUSE
+    IRRITATION OF THE RESPIRATORY TRACT, HEADACHE, DIZZINESS, OR
+    DROWSINESS. SKIN/EYE CONTACT: IRRITANT TO THE EYES AND SKIN.
+    CHRONIC: MAY AFFECT THE FOLLOWING ORGANS ; RESPIRATORY TRACT,
+    KIDNEYS/LIVER, REPRODUCTIVE SYSTEM, CENTRAL NERVOUS SYSTEM AND
+    CARDIAC SENSITIZATION.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:UNKNOWN AT THIS TIME.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: REMOVE FROM EXPOSURE. SUPPORT BREATHING. GIVE (ARTF
+    RESP/O2) . EYES: FLUSH IMMED W/LARGE AMOUNTS OF RUNNING WATER FOR
+    AT LEAST 15 MINUTES. SKIN: REMOVE CONTAMINATED CLOTHING AND WASH
+    SKIN  W/SOAP AND WATER. INGEST: DRINK WATER.CALL MD. IF NECESSARY,
+    CONSULT A MD FOR ANY OF THESE CONDITIONS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:42.0F,5.6C
+Lower Limits:1%
+Extinguishing Media:USE WATER FOG, FOAM, DRY CHEMICAL, OR CARBON
+    DIOXIDE.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT 
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION, AVOID
+    BREATHING VAPORS, VENTILATE AREA, AND REMOVE WITH INERT ABSORBANT
+    AND NON- SPARKING TOOLS. DISPOSE OF IN ACCORDANCE WITH LOCAL,
+    STATE, AND FEDERAL REGULATIONS.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT TAKE INTERNALLY. CNTRS SHLD BE
+    GROUNDED WHEN POURING. AVOID FREE FALL OF LIQ IN EXCESS OF FEW
+    INCHES.
+Other Precautions:BE SURE DRUM IS COMPLETELY EMPTY BEFORE ATTEMPTING TO
+    WELD OR BRAZE. DRUM SHOULD BE INDUSTRIALLY CLEANED PRIOR TO REUSE.
+    DO NOT FLAME CUT, BRAZE, OR WELD WITHOUT NIOSH/MSHA APPROVED
+    RESPIRATOR OR APPR OPRIATE VENTILATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WHERE GENL DILUTION/LOC EXHST FAILS TO ADEQ
+    DILUTE TWA/PEL OF MTL, RESP PROT SHLD BE USED AS FOLLOWS: IN ACCORD
+    W/29CFR 1910.134, USE NIOSH/MSHA APPRVD AIR LINE TYPE RESPS/HOODS
+    FOR ENCLOSED/ CONFINED  AREAS. AIR PURIFYING RESPS MAY BE USED.
+Ventilation:PROVIDE GENL DILUTION/LOCAL EXHAUST VENTILATION TO KEEP TWA
+    AND LEL BELOW ACCEPTABLE LIMITS AND TO REMOVE DECOMP PRODS.
+Protective Gloves:CHEMICAL RESISTANT GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F3
+Boiling Pt:B.P. Text:180F,82C
+Vapor Pres:SEE INGRED
+Vapor Density:HVR/AIR
+Spec Gravity:0.85 
+Appearance and Odor:NONE SPECIFIED BY MANUFACTURER.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:FUMES MAY CONTAIN CO, NOX. MAY PRODUCE
+    HAZ FUMES WHEN HEATED TO DECOMP AS IN WELDING.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF I/A/W FEDERAL, STATE AND LOCAL
+    REGULATIONS 
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

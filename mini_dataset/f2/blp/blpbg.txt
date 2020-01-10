@@ -1,0 +1,240 @@
+=====================  Product Identification  =====================
+
+Product ID:TECHALLOY COVERED ELECTRODES FOR MMAW, 7016
+MSDS Date:09/01/1989
+FSC:3439
+NIIN:00N022436
+MSDS Number: BLPBG
+=== Responsible Party ===
+Company Name:TECHALLOY MARYLAND INC
+Address:2310 CHESAPEAKE AVE
+City:BALTIMORE
+State:MD
+ZIP:21222
+Country:US
+Info Phone Num:301-633-9300; 800-638-1458
+Emergency Phone Num:301-633-9300; 800-638-1458
+CAGE:59711
+=== Contractor Identification ===
+Company Name:TECHALLOY COMPANY, INC.
+Address:2310 CHESAPEAKE AVENUE
+Box:City:BALTIMORE
+State:MD
+ZIP:21222
+Country:US
+Phone:410-633-9300; 800-638-1458
+CAGE:59711
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 0-3%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:SODIUM FLUOALUMINATE; (CRYOLITE)
+CAS:15096-52-3
+RTECS #:WA9625000
+Fraction by Wt: 0-2%
+OSHA PEL:2.5 MG(F)/M3
+ACGIH TLV:2.5 MG(F)/M3
+
+Ingred Name:POTASSIUM HYDROXIDE  (SARA III)
+CAS:1310-58-3
+RTECS #:TT2100000
+Fraction by Wt: 0-0.5%
+OSHA PEL:C, 2 MG/M3
+ACGIH TLV:C 2 MG/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:IRON
+CAS:7439-89-6
+RTECS #:NO4565500
+Fraction by Wt: 55-70%
+OSHA PEL:10 MG(FE)/M3 TDUST
+ACGIH TLV:5 MG(FE)/M3 FUME
+
+Ingred Name:MANGANESE  (SARA III)
+CAS:7439-96-5
+RTECS #:OO9275000
+Fraction by Wt: 0.5-2.0%
+OSHA PEL:(C) 5 MG/M3 DUST
+ACGIH TLV:5 MG/M3 DUST 9293
+
+Ingred Name:SILICON
+CAS:7440-21-3
+RTECS #:VW0400000
+Fraction by Wt: 0.1-1.0%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:NICKEL  (SARA III)
+CAS:7440-02-0
+RTECS #:QR5950000
+Fraction by Wt: 0-3.0%
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+
+Ingred Name:MOLYBDENUM
+CAS:7439-98-7
+RTECS #:QA4680000
+Fraction by Wt: 0-1.0%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3; 9293
+
+Ingred Name:CHROMIUM  (SARA III)
+CAS:7440-47-3
+RTECS #:GB4200000
+Fraction by Wt: 0-1.0%
+OSHA PEL:1 MG/M3
+ACGIH TLV:0.5 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:CALCIUM CARBONATE (MARBLE) (LIMESTONE)
+CAS:1317-65-3
+RTECS #:EV9580000
+Fraction by Wt: 5-12%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9192
+
+Ingred Name:FLUORSPAR; (CALCIUM FLUORIDE)
+CAS:14542-23-5
+Fraction by Wt: 3-10%
+OSHA PEL:2.5 MG(F)/M3
+ACGIH TLV:2.5 MG(F)/M3
+
+Ingred Name:POTASSIUM ALUMINUM SILICATE; (FELDSPAR)
+CAS:68476-25-5
+Fraction by Wt: 0-1%
+ACGIH TLV:2 MG/M3 (MFR)
+
+Ingred Name:POTASSIUM TITANATE
+CAS:12030-97-6
+Fraction by Wt: 0-3%
+
+Ingred Name:ALPHA-ALUMINA (ALUMINUM OXIDE)  (EPA LISTS ONLY FIBROUS
+    FORMS)  (SARA III)
+CAS:1344-28-1
+RTECS #:BD1200000
+Fraction by Wt: 0-1%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:SILICON DIOXIDE, AMORPHOUS; (SILICA GEL)
+CAS:7631-86-9
+Fraction by Wt: 0-2%
+OSHA PEL:5 MG/M3 (MFR)
+ACGIH TLV:3 MG/M3 (MFR)
+
+Ingred Name:MAGNESITE
+CAS:546-93-0
+RTECS #:OM2470000
+Fraction by Wt: 0-2%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9192
+
+Ingred Name:POTASSIUM SILICATE
+CAS:1312-76-1
+Fraction by Wt: 0-2%
+
+Ingred Name:SODIUM SILICATE
+CAS:1344-09-8
+Fraction by Wt: 1-5%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:ELECTRIC ARC WELDING MAY CREASY ONE OR
+    MORE OF THE FOLLOWING HEALTH HAZARDS: FUMES AND GASES CAN BE
+    DANGEROUS TO YOUR HEALTH. ARC RAYS CAN INJURE EYES AND BURN SKIN.
+    ELECTRIC SHOCK CAN KILL. SHORT TER M OVEREXP TO WELDING FUMES MAY
+    RESULT IN DISCOMFORT SUCH AS: DIZZ, NAUS/DRYNESS OR IRRIT OF NOSE,
+    (SEE EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NICKEL & NICKEL CMPDS: GRP 1 (IARC); GRP
+    2 (NTP). CHROMIUM & CERTAIN CHROMIUM CMPDS: GRP 1 (IARC); GRP 1
+    (NTP).
+Effects of Overexposure:HLTH HAZ: THROAT, OR EYES, TIGHTNESS IN CHEST,
+    FEVER AND ALLERGIC REACTIONS. LONG TERM (CHRONIC) OVEREXP TO
+    WELDING FUMES MAY LEAD TO SIDEROSIS (IRON DEPOSIT IN LUNGS) AND IS
+    BELIEVED BY SOME INVESTIG ATORS TO AFFECT PULMONARY FUNCTION.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: REMOVE TO FRESH AIR, OBTAIN MEDICAL ATTENTION. EMPLOY
+    FIRST AID TECHNIQUES RECOMMENDED BY THE AMERICAN RED CROSS. INGEST:
+    CALL MD IMMEDIATELY . EYES: IMMEDIATELY FLUSH EYES WITH POTABLE W
+    ATER FOR A MINIMUM OF 15 MINUTES, SEEK ASSISTANCE FROM MD . SKIN:
+    FLUSH WITH COPIOUS AMOUNTS OF WATER. CALL MD .
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE MEDIA SUITABLE FOR SURROUNDING FIRE .
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:WELDING ARC & SPARKS CAN IGNITE
+    COMBUSTIBLES & FLAM. REFER TO AMERICAN NATIONAL STANDARD Z49.1 FOR
+    FIRE PREVENTION DURING USE OF WELDING & ALLIED PROCEDURES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NOT APPLICABLE.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:USE EXHAUST SYSTEM TO CLEAR WELDING
+    FUMES. MAKE SURE THAT INHALED AIR DOES NOT CONTAIN FUME
+    CONSTITUENTS ABOVE PEL.
+Other Precautions:TRAIN WELDER TO KEEP HIS HEAD OUT OF THE FUMES. TRAIN
+    WELDER NOT TO TOUCH LIVE ELECTRICAL PARTS AND TO INSULATE HIMSELF
+    FROM WORK AND GROUND.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRABLE FUME
+    RESPIRATORY OR NIOSH/MSHA APPROVED AIR SUPPLIED RESPIRATOR WHEN
+    WELDING IN CONFINED SPACE OR WHERE LOCAL EXHAUST OR VENT DOES NOT
+    KEEP EXPOS <RECOMMENDED EXPOSU RE LIMIT.
+Ventilation:USE ENOUGH VENT, LOCAL EXHST AT ARC, OR BOTH, TO KEEP FUMES
+    & GASES FROM WORKER'S BRTHG ZONE & GENERAL AREA.
+Protective Gloves:PROTECTIVE GLOVES.
+Eye Protection:CHEM WORK GOGG&WELD FACESHLD (SUPP DATA)
+Other Protective Equipment:WEAR HAND, HEAD, AND BODY PROTECTION.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+EYE PROT: WITH TINTED LENS.
+
+==================  Physical/Chemical Properties  ==================
+
+Appearance and Odor:NONE SPECIFIED BY MANUFACTURER.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:OXIDES OF INGREDIENTS. REFER TO
+    ORIGINAL MSDS .
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PREVENT WASTE FROM CONTAMINATING SURROUNDING
+    ENVIRONMENT. DISCARD ANY PRODUCT RESIDUE, DISPOSABLE CONTAINER OR
+    LINER IN AN ENVIRONMENTALLY ACCEPTABLE MANNER, IN FULL COMPLIANCE
+    WITH FEDERAL, STATE AND  LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

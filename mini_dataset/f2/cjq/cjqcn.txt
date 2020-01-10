@@ -1,0 +1,129 @@
+=====================  Product Identification  =====================
+
+Product ID:MICRON FILTER,999-15
+MSDS Date:03/23/1996
+FSC:6810
+NIIN:01-381-9299
+Status Code:A
+MSDS Number: CJQCN
+=== Responsible Party ===
+Company Name:KFM CORP
+Address:UNK
+Box:UNK
+City:UNK
+Country:US
+Info Phone Num:0000000000
+Emergency Phone Num:(800)424-9300
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:TO344
+=== Contractor Identification ===
+Company Name:FAWLEY ENTERPRISES, LLC; DBA K FAWLEY MFG
+Address:11890 OLD BALTIMORE PIKE SUITE P
+Box:City:BELTSVILLE
+State:MD
+ZIP:20705
+Country:US
+Phone:301-931-1300
+CAGE:1B8P5
+Company Name:KFM CORP
+Address:UNK
+Box:UNK
+City:UNK
+Country:US
+Phone:0000000000
+CAGE:TO344
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:COTTON FILTERS
+Minumum % Wt:90.
+Maxumum % Wt:95.
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN CONTACT-REPEATED OR PROLONGED
+    SKIN CONTACT MAY CAUSE IRRITATION. EYE CONTACT-DIRECT CONTACT WITH
+    PRODUCT MAY CAUSE IRRITATION. INHALATION-IRRITATION OF MIST MAY
+    IRRITATE RESPIRATORY PASSAGES. ING ESTION-MAY BE HARMFUL IF
+    SWALLOWED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN CONTACT-WASH AFFECTED AREA THOROUGHLY WITH SOAP & WATER.
+    IF IRRITATION OCCURS, SEE A PHYSICIAN IMMEDIATELY. REMOVE ALL
+    CONTAMINATED CLOTHING & LAUNDER BEFORE REUSE. EYE CONTACT-FLUSH
+    WITH LARGE A MOUNTS OF WATER FOR 15 MINUTES. IF IRRITATION OCCURS,
+    SEE A  PHYSICIAN IMMEDIATELY. INHALATION-REMOVE TO FRESH AIR. IF
+    UNCONSCIOUS ADMINISTER ARTIFICIAL RESPIRATON. CALL A PHYSICIAN
+    IMMEDIATELY. GIVE  OXYGEN IF NEEDED.
+
+=====================  Fire Fighting Measures  =====================
+
+Autoignition Temp:=401.C, 753.8F
+Extinguishing Media:FOAM, CARBON MONOXIDE, DRY CHEMICAL.
+Fire Fighting Procedures:FIREFIGHTERS SHOULD WEAR PROTECTIVE GEAR
+    INCLUDING SELF-CONTAINED BREATHING APPARATUS.USE EXTINGUISHING
+    MEDIA APPROPRIATE FOR SURROUNDING FIRE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NOTIFY EMERGENCY RESPONSE PERSONNEL. EVACUATE
+    AREA AND REMOVE IGNITION SOURCE. BUILD DIKE TO CONTAIN SPILL.
+    REMOVE FREE LIQUID. DO NOT FLUSH INTO SEWER OR OPEN WATER STREAM.
+    PICKUP WITH INERT ABSORBEN T AND PLACE IN CLOSED CONTAINER FOR
+    DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE CLOSED CONTAINERS AWAY FROM
+    EXTREME TEMPERATURES.
+Other Precautions:USE GOOD CHEMICAL HYGIENE PRACTICES. DO NOT SMOKE
+    WHILE USING PRODUCT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AS REQUIRED BY EXPOSURE.
+Ventilation:USE ADEQUATE MECHANICAL VENTILATION.
+Eye Protection:SAFETY GLASSES OR CHEMICAL GOGGLES
+Other Protective Equipment:WEAR LONG SLEEVED SHIRT WHEN USING PRODUCT.
+Work Hygienic Practices:LAUNDER CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Spec Gravity:2.1
+Solubility in Water:INSOLUBLE
+Appearance and Odor:BLACK COATED FABRIC; NO ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:STRONG OXIDIZING AGENTS
+Hazardous Decomposition Products:OXIDES OF CARBON AND NITROGEN
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:UTILIZE LICENSED WASTE DISPOSAL COMPANY. OBSERVE
+    LOCAL, STATE, AND FEDERAL REGULATIONS. ALL COMPONENTS ARE LISTED ON
+    TSCA INVENTORY.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:MICRON FILTER, NOT REGULATED.
+
+=====================  Regulatory Information  =====================
+
+Federal Regulatory Information:ALL COMPONENTS ARE LISTED ON TSCA
+    INVENTORY.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

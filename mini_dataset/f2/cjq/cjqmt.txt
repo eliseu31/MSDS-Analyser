@@ -1,0 +1,138 @@
+=====================  Product Identification  =====================
+
+Product ID:RESOLVE CARPET CLEANER W/STAIN REPEL-TRIG, SPRAY & REFILL
+MSDS Date:04/21/1997
+FSC:7930
+NIIN:00N092262
+Status Code:A
+MSDS Number: CJQMT
+=== Responsible Party ===
+Company Name:RECKITT & COLMAN INC
+Address:225 SUMMIT AVE
+City:MONTVALE
+State:NJ
+ZIP:07645
+Country:US
+Info Phone Num:201-573-5700
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+Resp. Party Other MSDS Num.:480-041
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:73820
+=== Contractor Identification ===
+Company Name:RECKITT & COLMAN INC
+Address:225 SUMMIT AVE
+Box:City:MONTVALE
+State:NJ
+ZIP:07645
+Country:US
+Phone:201-573-5700
+CAGE:73820
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NON-HAZARDOUS INGREDIENTS (AS DEFINED IN OSHA 29 CFR
+    1910.1200)
+Other REC Limits:N/K 
+OSHA PEL:N/K 
+OSHA STEL:N/K 
+ACGIH TLV:N/K 
+ACGIH STEL:N/K 
+
+Ingred Name:ETHYLENE GLYCOL MONOHEXYL ETHER
+CAS:112-25-4
+RTECS #:KL2450000
+= Wt:1.5
+Other REC Limits:N/K 
+OSHA PEL:N/K 
+OSHA STEL:N/K 
+ACGIH TLV:N/K 
+ACGIH STEL:N/K 
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: INHALATION/SKIN/EYES/INGESTION:
+    NONE EXPECTED.
+Effects of Overexposure:NONE EXPECTED.
+Medical Cond Aggravated by Exposure:NONE KNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: NONE REQUIRED. REMOVE TO FRESH AIR. SUPPORT
+    BREATHING (GIVE OXYGEN OR ARTIFICIAL RESPIRATION) . SKIN: NONE
+    REQUIRED. FLUSH WITH COPIOUS AMOUNTS OF WATER. SEE MD . EYES:
+    IMMEDIA TELY REMOVE CONTACT LENSES AND RINSE EYES WITH PLENTY OF
+    WATER FOR AT LEAST 15 MINUTES. INGESTION: CONTACT A PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE WATER SPRAY, FOAM, DRY CHEMICAL OR CARBON
+    DIOXIDE, AS SUITABLE FOR THE SURROUNDING FIRE.
+Fire Fighting Procedures:NONE REQUIRED. WEAR NIOSH APPROVED SCBA AND
+    FULL PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE KNOWN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SPILLS MAY BE FLUSHED TO SEWER WITH LARGE
+    QUANTITIES OF WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP OUT OF REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR NIOSH APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN .
+Ventilation:NONE REQUIRED.
+Protective Gloves:WEAR IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:EYEWASH AND DELUGE SHOWER MEETING ANSI
+    DESIGN CRITERIA .
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:1.0
+pH:8.75
+Evaporation Rate & Reference:<1 (BUTYL ACETATE=1)
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR, WATER THIN, PALE AMBER LIQUID WITH CITRUS
+    HERBACEOUS ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE KNOWN.
+Stability Condition to Avoid:NONE.
+Hazardous Decomposition Products:NONE KNOWN.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE AND
+    FEDERAL REGULATIONS. CONTAINER DISPOSAL: REPLACE CAP AND DISCARD
+    CONTAINER IN GENERAL REFUSE.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:SECTION 313 SUPPLIER NOTIFICATION: THIS
+    PRODUCT CONTAINS THE FOLLOWING TOXIC CHEMICALS SUBJECT TO THE
+    REPORTING REQUIREMENTS OF SECTION 313 OF THE EMERGENCY PLANNING AND
+    COMMUNITY RIGHT-TO-KNOW ACT (E PCRA) OF 1986 AND OF 40 CFR 372: CAS
+    # 112-25-4, ETHYLENE GLYCOL MONOHEXYL ETHER, 1.5% OF MIXTURE. THIS
+    INFORMATION MUST BE INCLUDED ON ALL MSDS'S THAT ARE COPIED AND
+    DISTRIBUTED FOR THIS MATERIAL.
+State Regulatory Information:
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

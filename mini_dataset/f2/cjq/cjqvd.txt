@@ -1,0 +1,157 @@
+=====================  Product Identification  =====================
+
+Product ID:SODIUM CARBONATE ANHYDROUS, SX0395
+MSDS Date:01/31/1997
+FSC:6810
+NIIN:00N045860
+Status Code:A
+MSDS Number: CJQVD
+=== Responsible Party ===
+Company Name:EM SCIENCE, A DIVISION OF EM INDUSTRIES
+Address:480 DEMOCRAT RD
+Box:70
+City:GIBBSTOWN
+State:NJ
+ZIP:08027
+Country:US
+Info Phone Num:609-423-6300
+Emergency Phone Num:800-424-9300(CHEMTREC)
+CAGE:63612
+=== Contractor Identification ===
+Company Name:E M SCIENCE DIV OF E M INDUSTRIES INC
+Address:480 DEMOCRAT ROAD
+Box:70
+City:GIBBSTOWN
+State:NJ
+ZIP:08027
+Country:US
+Phone:800-222-0342/609-423-6300
+CAGE:63612
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM CARBONATE
+CAS:497-19-8
+RTECS #:VZ4050000
+= Wt:100.
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL, RAT): 4090 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:POSSIBLY HARMFUL IF SWALLOWED.
+    IRRITATING TO EYES, SKIN, RESPIRATORY TRACT; MAY CAUSE EYE BURNS.
+    INGESTION CAN SEVERELY DAMAGE MUCOUS MEMBRANES AND CAUSE PAIN,
+    VOMITING, DIARRHEA AND CIRCULATORY COLLA PSE. AVOID SIMULTANEOUS
+    PRESENCE OF SODA ASH AND LIME DUST; THE COMBINATION IN THE PRESENCE
+    OF PERSPIRATION OR MOISTURE WILL CAUSE FORMATION OF CORROSIVE
+    CAUSTIC SODA.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:DATA NOT AVAILABLE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:GET MEDICAL ASSISTANCE FOR ALL CASES OF OVEREXPOSURE. SKIN:
+    IMMEDIATELY WASH THOROUGHLY WITH SOAP AND WATER. EYES: IMMEDIATELY
+    FLUSH THOROUGHLY WITH WATER FOR AT LEAST 15 MINUTES. INHALATON:
+    REMOVE TO  FRESH AIR; GIVE ARTIFICIAL RESPIRATION IF BREATHING HAS
+    STOPPED. INGESTION: DO NOT INDUCE VOMITING; IF CONSCIOUS, GIVE
+    WATER FREELY AND GET MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONCOMBUSTIBLE
+Extinguishing Media:USE ANY SUITABLE FOR ADJACENT MATERIAL.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACULATE THE AREA OF ALL UNNECESSARY
+    PERSONNEL. WEAR SUITABLE PROTECTIVE EQUIPMENT LISTED UNDER
+    EXPOSURE/PERSONAL PROTECTION. ELIMINATE ANY IGNITION SOURCES UNTIL
+    THE AREA IS DETERMINED TO BE FREE FR OM EXPLOSION OR FIRE HAZARDS.
+    CONTAIN THE RELEASE AND ELIMINATE ITS SOURCE, IF THIS CAN BE DONE
+    WITHOUT RISK. TAKE UP AND CONTAINERIZE FOR PROPER DISPOSAL AS
+    DESCRIBED UNDER DISPOSAL. (SUPDAT)
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER CLOSED TIGHTLY. STORE
+    IN A COOL, DRY, WELL-VENTILATED AREA. STORE AWAY FROM MINERAL AND
+    ORGANIC ACIDS. DO NOT GET IN EYES. AVOID SKIN CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN .
+Ventilation:MATERIAL SHOULD BE HANDLED OR TRANSFERRED IN AN APPROVED
+    FUME HOOD OR W/ADEQUATE VENTILATION.
+Protective Gloves:NEOPRENE, PVC OR EQUIVALENT GLOVES.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES AND FULL LENGHT
+    FACESHIELD .
+Other Protective Equipment:ANSI APPROVED EYE WASH AND DELUGE SHOWER .
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING. DO NOT TAKE
+    INTERNALLY.
+Supplemental Safety and Health
+SPILL PROC: COMPLY WITH FEDERAL, STATE, AND LOCAL REGULATIONS ON
+    REPORTING RELEASES. REFER TO REGULATORY INFORMATION FOR REPORTABLE
+    QUANTITY AND OTHER REGULATORY DATA.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T6
+Boiling Pt:B.P. Text:DECOMPOSES
+Melt/Freeze Pt:=851.C, ######F
+Spec Gravity:2.53 (H*2O = 1)
+Evaporation Rate & Reference:NOT AVAILABLE
+Solubility in Water:22%
+Appearance and Odor:WHITE GRANULAR POWDER.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACIDS, ALUMINUM, FLUORINE, PHOSPHORUS PENTOXIDE, SULFURIC ACID.
+Stability Condition to Avoid:CONTACT WITH STRONG ACID MAY RESULT IN
+    VIOLENT REACTION. STARTS TO DECOMPOSE, LOSING CO*2, AT 400C.
+Hazardous Decomposition Products:CO*2, NA*2O.
+Conditions to Avoid Polymerization:DOES NOT OCCUR.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:TOXICITY DATA: IPR-MUS LD50: 117 MG/KG.
+    IHL-MUS LC50: 1200 MG/M3/2H. TOXICOLOGICAL FINDINGS; TESTS ON
+    LABORATORY ANIMALS INDICATE MATERIAL MAY PRODUCE ADVERSE
+    REPRODUCTIVE EFFECTS. CITED IN REGISTRY O F TOXIC EFFECTS OF
+    CHEMICAL SUBSTANCES (RTECS).
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:TREATMENT: MATERIAL DOES NOT HAVE AN EPA WASTE
+    NUMBER AND IS NOT A LISTED WASTE, HOWEVER CONSULTATION WITH A
+    PERMITTED WASTE DISPOSAL SITE (TSD) SHOULD BE ACCOMPLISHED. ALWAYS
+    CONTACT A PERMITTED WAST E DISPOSER (TSD) TO ASSURE COMPLIANCE WITH
+    ALL CURRENT LOCAL, STATE AND FEDERAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:DOT PROPER SHIPPING NAME: NON-REGULATED. DOT ID
+    NUMBER: NONE.
+
+=====================  Regulatory Information  =====================
+
+Federal Regulatory Information:TSCA STATEMENT: THE CAS NUMBER OF THIS
+    PRODUCT IS LISTED ON THE TSCA INVENTORY.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

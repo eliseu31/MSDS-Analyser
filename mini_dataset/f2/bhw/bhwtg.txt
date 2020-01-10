@@ -1,0 +1,153 @@
+=====================  Product Identification  =====================
+
+Product ID:SANTOCHLOR BRAND PARA-DICHLOROBENZENE
+MSDS Date:07/27/1988
+FSC:6840
+NIIN:00-982-2103
+MSDS Number: BHWTG
+=== Responsible Party ===
+Company Name:MONSANTO CO
+Address:800 N LINDBERGH BLVD
+City:ST LOUIS
+State:MO
+ZIP:63141
+Country:US
+Info Phone Num:314-694-1000
+Emergency Phone Num:314-694-1000 (COLLECT)
+Preparer's Name:MSDS COORDINATOR
+CAGE:76541
+=== Contractor Identification ===
+Company Name:MONSANTO COMPANY
+Address:800 N LINDBERGH BLVD
+Box:City:SAINT LOUIS
+State:MO
+ZIP:63167
+Country:US
+Phone:314-694-6661 OR 800-332-3111
+CAGE:76541
+Company Name:WILLERT HOME PRODUCTS
+CAGE:2E816
+Company Name:WILLERT HOME PRODUCTS
+CAGE:6N814
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:P-DICHLOROBENZENE  (1,4-DICHLOROBENZENE)  (SARA III)
+CAS:106-46-7
+RTECS #:CZ4550000
+Fraction by Wt: >99.6%
+OSHA PEL:75 PPM
+ACGIH TLV:10 PPM,A3 9394
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL RAT LD50 IS 3826 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:PARA-DICHLOROBENZENE IS AN IRRITANT TO
+    BODY TISSUES.  EXPOSURES BELOW THE TLV HAVE RESULTED IN SIGNIFICANT
+    IRRITATION WITH PROLONGED/REPEATED EXPOSURE.  ACUTE CONTACT DOES
+    NOT APPEAR TO CAUSE PERMANEN T DAMAGE, BUT CHRONIC EXPOSURE HAS
+    PRODUCED LIVER AND/OR KIDNEY DAMAGE IN RATS.
+Explanation of Carcinogenicity:NTP CLASSES P-DICHLOROBENZENE AS
+    "REASONABLY EXPECTED TO BE CARCINOGENIC" WHILE IARC CLASSES IT
+    "INSUFFICIENT EVIDENCE".
+Effects of Overexposure:EYE:IRRITATION,PAIN  SKIN:IRRITATION,BURNING
+    SENSATION	INHALED:RESPIRATORY IRRITATION	 INGESTED:G/I
+    IRRITATION,MAY CAUSE LIVER AND/OR KIDNEY DAMAGE. METABOLISM OF
+    PARADICHLOROBENZENE CAUSES THE URI NE TO CONTAIN
+    2,5-DICHLOROPHENOL, WHICHHAS A CHARACTERISTIC ODOR.
+Medical Cond Aggravated by Exposure:NONE GIVEN BY MANUMACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH W/WATER 15 MIN, HOLD LIDS OPEN.  SKIN:REMOVE
+    CONTAMINATED CLOTHING AND LAUNDER BEFORE REUSE. WASH WITH SOAP &
+    WATER.  INHALED:REMOVE TO FRESH AIR. RESTORE BREATHING AS NEEDED. 
+    INGESTED:GIVE  2 LARGE GLASSES OF MILK OR WATER AND IMMEDIATELY
+    INDUCE VOMITING.  GIVE NOTHING BY MOUTH IF UNCONSCIOUS.  GET
+    IMMEDIATE MEDICAL CARE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:150F,66C
+Extinguishing Media:USE CARBON DIOXIDE, FOAM, DRY CHEMICAL, OR WATER
+    FOG OR ANY CLASS B EXTINGUISHING AGENT
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE APPROPRIATE RESPIRATORY PROTECTION.  SWEEP
+    OR SHOVEL INTO CLEAN METAL CONTAINERS.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL AREA SEPARATED FROM
+    FOODSTUFF.
+Other Precautions:'EMPTY' CONTAINERS MAY CONTAIN RESIDUE OR VAPOR.
+    TREAT THEM WITH THE RESPECT DUE FULL ONES. DISPOSE OF EMPTIES
+    PROPERLY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESPIRATOR WILL NOT NORMALLY BE NECESSARY.  USE
+    NIOSH/MSHA APPROVED AIR SUPPLIED RESPIRATOR OR RESPIRATOR FOR
+    ORGANIC VAAPOR IF EXPOSURE IS ABOVE THE TLV/PEL. SEE 29 CFR
+    1910.134 FOR REGULATIONS PERTA INING TO RESPIRATOR USE.
+Ventilation:USE GOOD GENERAL (MECHANICAL) ROOM VENTILATION.  SUPPLEMENT
+    WITH LOCAL EXHAUST IF PEL/TLV IS EXCEEDED.
+Protective Gloves:RUBBER, VINYL OR OTHER IMPERVIOUS
+Eye Protection:SAFETY GLASSES OR SPLASH GOGGLES
+Other Protective Equipment:SAFETY SHOWER AND EYE WASH STATION AND
+    IMPERVIOUS CLOTHING IF THE LATTER IS NEEDED TO PREVENT SKIN
+    CONTACT.
+Work Hygienic Practices:USE GOOD CHEMICAL HYGIENE PRACTICE. AS WITH ANY
+    PESTICIDE, AVOID ANY CONTACT, IF POSSIBLE.
+Supplemental Safety and Health
+MSDS NUMBER 000106467.	MONSANTO INCLUDES THIS STATEMENT "FOR USE BY
+    MANUFACTURERS,FORMULATORS AND REPACKERS ONLY."  EPA REQUIRES EACH
+    OF THE ABOVE TO OBTAIN AN INDIVIDUAL REGISTRATION NUMBER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T4
+Boiling Pt:B.P. Text:345F,174C
+Melt/Freeze Pt:M.P/F.P Text:127F,53C
+Vapor Pres:0.6 MM
+Vapor Density:5.1
+Spec Gravity:1.458
+pH:UNKNON
+Solubility in Water:NEGLIGIBLE	0.008%
+Appearance and Odor:WHITE CRYSTALS, PDNDTRATING 'MOTH BALL' ODOR
+Percent Volatiles by Volume:UNKNON
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HIGH TEMPERATURES, IGNITION SOURCES
+Hazardous Decomposition Products:CARBON MONOXIDE,CARBON
+    DIOXIDE,SMOKE,SOOT,CHLORIDES,CHLORINE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W ALL FEDERAL, STATE AND LOCAL
+    REGULATIONS.  MANUFACTURER SUGGESTS THAT DISPOSAL MAY BE DONE BY
+    APPROVED INCINERATION.  DO NOT ALLOW TO ENTER SEWER,DRAIN,ETC.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,133 @@
+=====================  Product Identification  =====================
+
+Product ID:H.S. HARDENER MILC 85285
+MSDS Date:01/10/1990
+FSC:8010
+NIIN:01-293-1365
+Kit Part:Y
+MSDS Number: BJDYX
+=== Responsible Party ===
+Company Name:DEXTER COATINGS CO
+Address:31500 HAYMAN ST
+City:HAYWARD
+State:CA
+ZIP:94544-7120
+Country:US
+Info Phone Num:415-471-7171 NIGHT 415-791-1961
+Emergency Phone Num:415-471-7171 NIGHT 415-791-1961
+Preparer's Name:D ELLISON
+CAGE:0HKK2
+=== Contractor Identification ===
+Company Name:DEXTER CORP THE DEXTER CROWN METRO AEROSPACE DIV
+Address:31500 HAYMAN ST
+Box:City:HAYWARD
+State:CA
+ZIP:94544-7120
+Country:US
+Phone:510-471-7171
+CAGE:98795
+Company Name:DEXTER SPECIALTY COATINGS
+Address:31500 HAYMAN ST
+Box:City:HAYWARD
+State:CA
+ZIP:94544
+Country:US
+Phone:415-791-1961
+CAGE:0HKK2
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: 10-20%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Health Hazards Acute and Chronic:PRODUCT IS AN IRRITANT TO EYES & SKIN.
+    MAY ALSO IRRITATE RESPIRATORY TRACT AND CAUSE ALLERGIC RESPIRATORY
+    AND SKIN REACTION.
+Effects of Overexposure:HEADACHE, DIZZINESS, DROWSINESS, IRRITATION TO
+    PARTS OF THE BODY WITH CONTACT.
+Medical Cond Aggravated by Exposure:RESPIRATORY PROBLEMS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE FROM EXPOSURE. EYE COTACT: FLUSH
+    IMMEDIATELY WITH LARGE AMOUNTS OF RUNNING WATER FOR 15 MINUTES.
+    SKIN CONTACT: REMOVE CONTAMINATED CLOTHING & WASH SKIN WITH SOAP &
+    WATER. INGESTION:  DRINK WATER. GET MEDICAL ATTENTION IMMEDIATELY
+    FOR ANY OF THESE CONDITIONS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:26F/-3.3C
+Lower Limits:1.80
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, DRY CHEMICAL
+    OR CARBON DIOXIDE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION, AVOID
+    BREATHING VAPORS, VENTILATE AREA, REMOVE WITH INERT ABSORBANT &
+    NON-SPARK TOOLS.
+
+======================	Handling and Storage  ======================
+
+Other Precautions:THIS PRODUCT CONTAINS METHYL ETHYL KETONE, A
+    HAZARDOUS INGREDIENT & TOXIC CHEMICAL.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:DO NOT BREATHE VAPOR OR SPRAY MIST. WEAR
+    APPROPRIATE RESPIRATOR NIOSH/OSHA APPROVED. AIR LINE RESPIRATOR IS
+    RECOMMENDED. AT TIMES A VAPOR/PARTICULATE RESPIRATOR MAY BE NEEDED
+    IR AREAS OF HIGH EXPOSURE .
+Ventilation:DILUTION OR LOCAL EXHAUST VENTILATION TO KEEP TWA AND LEL
+    BELOW ACCEPTABLE LIMITS & TO REMOVE DECOMPOSITION PRODUCTS.
+Protective Gloves:WEAR CHEMICAL RESISTANT GLOVES.
+Eye Protection:EYEWARE TO PROTECT FROM SPLASH OF LIQUID
+Work Hygienic Practices:DO NOT TAKE INTERNALLY.
+Supplemental Safety and Health
+CONTAINERS SHOULD BE GROUNDED WHEN POURING. AVOID FREE FALL OF LIQUID
+    IN EXCESS OF A FEW INCHES. MAKE SURE DRUM IS COMPLETELY EMPTY
+    BEFORE ATTEMPTING TO WELD OR BRAZE. THE DRUM SHOULD BE INDUSTRIALLY
+     CLEANED PRIOR TO REUSE. DO NOT FLAMECUT, BRAZE, OR WELD WITHOUT
+    NIOSH APPROVED RESPIRATOR OR APPROPRIATE VENTILATION.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:172 TO 176F
+Vapor Density:> THAN AIR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:NO
+AVOID HAZ DECOMP BY-PRODUCTS. FUMES MAY CONTAIN CARBON MONOXIDE, OXIDES
+    OF NITROGEN & PRODUCE HAZARDOUS FUMES.
+Stability Condition to Avoid:AVOID WATER OR WATER CONTAINING PRODUCTS
+    TO GIVE OFF HEAT & FUMES. COULD EXPLODE IF WATER ENTERS SEALED
+    DRUMS.
+Hazardous Decomposition Products:FUMES CONTAINING CARBON MONOXIDE &
+    OXIDES OF NITROGEN.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF I/A/W LOCAL, STATE & FEDERAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

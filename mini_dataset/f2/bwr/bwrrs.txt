@@ -1,0 +1,115 @@
+=====================  Product Identification  =====================
+
+Product ID:ORANGE OIL, SWEET, OR115
+MSDS Date:05/12/1994
+FSC:6505
+NIIN:00N057608
+MSDS Number: BWRRS
+=== Responsible Party ===
+Company Name:SPECTRUM CHEMICAL MFG CORP
+Address:14422 S SAN PEDRO ST
+City:GARDENA
+State:CA
+ZIP:90248
+Country:US
+Info Phone Num:310-516-8000
+Emergency Phone Num:310-516-8000;800-424-9300(CHEMTREC)
+CAGE:63415
+=== Contractor Identification ===
+Company Name:SPECTRUM LABORATORY PRODUCTS INC
+Address:14422 S SAN PEDRO ST
+Box:City:GARDENA
+State:CA
+ZIP:90248-2027
+Country:US
+Phone:310-516-8000/FAX: 310-516-9843
+CAGE:63415
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:OIL OF ORANGE; (ORANGE OIL, SWEET)
+CAS:8008-57-9
+RTECS #:RI8600000
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:LIQUID MAY BE IRRITATING TO SKIN &
+    EYES.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: REMOVE TO FRESH AIR. SUPPORT BREATHING(GIVE O*2/ARTF
+    RESP). EYES: FLUSH/POTABLE WATER FOR AT LEAST 15 MINUTES. SEE MD.
+    SKIN: FLUSH W/COPIOUS AMOUNTS OF WATER. SEE MD. INGEST:  CALL MD
+    IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:115F,46C
+Extinguishing Media:FOAM, DRY CHEMICAL, CARBON DIOXIDE.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPRVD SCBA & FULL PROT EQUIP.
+    SPRAY EXTING MEDIA DIRECTLY AT BASE OF FLAMES. WATER IS UNSUITABLE
+    FOR USE ON BURNING MATLS, BUT (SUPDAT)
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NONE SPECIFIED BY MANUFACTURER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NONE SPECIFIED BY MANUFACTURER.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NO SPECIAL PROTECTION; NIOSH/MSHA APPROVED ODOR
+    MASK OR ORGANIC VAPOR RESPIRATOR SHOULD BE WORN IF VAPORS ARE FOUND
+    TOO ANNOYING/IRRITATING. NIOSH/MSHA APPROVED DUST MASK FOR POWDERS
+    ONLY.
+Ventilation:NONE SPECIFIED BY MANUFACTURER.
+Protective Gloves:OIL/SOLVENT RESISTANT GLOVES.
+Eye Protection:ANSI APPRVD CHEM WORKERS GOGGLES.
+Other Protective Equipment:USE PROTECTIVE CLOTHING AS NECESSARY.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+FIRE FIGHT PROC: MAY BE USED TO COOL CONTAINERS EXPOSED TO HEAT.
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:0.820
+Solubility in Water:INSOLUBLE
+Appearance and Odor:YELLOW TO DEEP ORANGE LIQUID WITH CHARACTERISTIC
+    TASTE & ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTACT W/STRONG OXIDIZERS.
+Stability Condition to Avoid:AVOID SPARKS, FLAME & HEAT. AVOID HOT WORK
+    & SOURCES OF IGNITION ON OR NEAR EMPTY CONTAINERS.
+Hazardous Decomposition Products:WHEN HEATED TO DECOMPOSITION, PRODUCES
+    ACRID SMOKE & FUMES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE &
+    FEDERAL REGULATIONS .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

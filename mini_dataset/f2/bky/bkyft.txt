@@ -1,0 +1,103 @@
+=====================  Product Identification  =====================
+
+Product ID:AIRLIFT LEMON (BULK)
+MSDS Date:01/02/1987
+FSC:6850
+NIIN:00F018564
+MSDS Number: BKYFT
+=== Responsible Party ===
+Company Name:SPARTAN CHEMICAL CO INC
+Address:110 N WESTWOOD AVE
+City:TOLEDO
+State:OH
+ZIP:43607
+Info Phone Num:(419) 531-5551
+Emergency Phone Num:(419) 531-5551
+Preparer's Name:THOMAS J. MITCHELL
+CAGE:23212
+=== Contractor Identification ===
+Company Name:SPARTAN CHEMICAL CO INC. IPG INDUSTRIAL PRODUCTS GROUP
+Address:110 N WESTWOOD AVE
+Box:City:TOLEDO
+State:OH
+ZIP:43607
+Country:US
+Phone:800-537-8990/419-531-5551
+CAGE:23212
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: 1-5%
+Other REC Limits:400 PPM
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN/EYES: IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN/EYES: IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION: DRINK LARGE QUANTITIES OF WATER. EYES: FLUSH
+    W/PLENTY OF WATER FOR AT LEAST 15 MINS. OBTAIN MEDICAL ATTENTION IN
+    ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH W/WATER THROUGH SANITARY SEWER SYSTEM.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTAMINATION OF FOOD. AVOID
+    CONTACT W/SKIN, EYES, & CLOTHING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AS REQUIRED
+Ventilation:LOCAL EXHAUST REQUIRED
+Protective Gloves:RUBBER
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:NONE
+Supplemental Safety and Health
+SOLID BY WEIGHT: 3-5%
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:212F
+Vapor Pres:18
+Spec Gravity:1.0
+pH:5-7
+Evaporation Rate & Reference:(BU AC = 1): <1
+Solubility in Water:COMPLETE
+Appearance and Odor:YELLOW TO AMBER LIQUID, PLEASANT LEMON ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

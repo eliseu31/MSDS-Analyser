@@ -1,0 +1,147 @@
+=====================  Product Identification  =====================
+
+Product ID:MURIATIC ACID
+MSDS Date:05/01/1986
+FSC:6810
+NIIN:01-046-9843
+MSDS Number: BWRCL
+=== Responsible Party ===
+Company Name:ALL PURE CHEMICAL CO
+Box:268
+City:TRACY
+State:CA
+ZIP:95376-0268
+Country:US
+Info Phone Num:209-835-5423
+Emergency Phone Num:209-835-5423
+CAGE:45202
+=== Contractor Identification ===
+Company Name:ALL PURE CHEMICAL
+Address:26700 S BANTA RD
+Box:268
+City:TRACY
+State:CA
+ZIP:95376-0268
+Country:US
+Phone:209-835-5423
+CAGE:45202
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HYDROCHLORIC ACID; (HYDROGEN CHLORIDE) (SARA 302/313)
+    (CERCLA)
+CAS:7647-01-0
+RTECS #:MW4025000
+Fraction by Wt: 31.44%
+OSHA PEL:5 PPM, C
+ACGIH TLV:5 PPM, C
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:CAUSES BURNS TO BODY TISSUES UNLESS
+    IMMEDIATELY WASHED OFF W/WATER. CAUSES THROAT IRRITATION AFTER
+    SHORT EXPOSURE. INHALATION EFFECTS USUALLY LIMITED TO ULCERATION &
+    INFLAMMATION OF NOSE, THROAT & LAR YNX. REPEATED SKIN CONTACT
+    W/CONCENTRATED & DILUTE SOLUTIONS MAY CAUSE DERMATITIS. VAPOR IS SO
+    (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:HLTH HAZ:PENETRATING THAT EXTENDED EXPOSURE IS
+    UNLIKELY UNLESS VICTIM IS TRAPPED OR UNCONSCIOUS & IS, THEREFORE,
+    UNABLE TO LEAVE THE AREA.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGEST:DO NOT INDUCE VOMIT; GET MED ATTN; GIVE PLENTY OF
+    WATER FOLLOWED BY LG QTYS OF LIME WATER/MILK OF MAGNESIA.
+    SKIN:FLUSH W/SOAP & WATER; GET MED ATTN; REMOVE & LAUNDER CONTAM
+    CLTHG & DESTROY SHOE S. DO NOT APPLY OIL/OINTMENT UNLESS DIRECTED
+    TO DO SO BY MD. EYE:FLUSH W/PLENTY OF WATER FOR AT LST 15 MINS IF
+    MED ASSISTANCE HAS NOT ARRIVED. BE SURE EYELIDS ARE OPEN & ENTIRE
+    EYE IS (SUPP DATA)
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON FLAMMABLE
+Extinguishing Media:USE WATER, NEUTRALIZE W/CHEMICALLY BASIC SUBSTANCES
+    SUCH AS SODA ASH, DRY CHEMICALS OR INERT MATERIALS.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT . KEEP CONTAINERS COOL. MOVE CONTAINERS FROM FIRE OR
+    IGNITION SOURCE.
+Unusual Fire/Explosion Hazard:NONFLAMMABLE. HOWEVER, HYDROCHLORIC ACID
+    REACTS W/MOST METALS TO EVOLVE HYDROGEN GAS. HYDROGEN GAS MAY CAUSE
+    FIRE OR EXPLOSION IN THE AIR.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH W/WATER; ABSORB W/SAND OR INERT
+    MATERIAL; NEUTRALIZE W/LIME OR SODA ASH; SWEEP OR SCOOP UP &
+    REMOVE; STAY UPWIND & EVACUATE CLOSED SPACES. PREVENT SPREAD;
+    DISPOSE OF IMMEDIATELY. AVOID BREATHING  OF GASES OR VAPORS.
+Neutralizing Agent:LIME OR SODA ASH.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT GET IN EYES, ON SKIN OR
+    CLOTHING; DO NOT BREATHE VAPOR, MIST, GAS, DUST; KEEP AWAY FROM
+    HEAT, SPARKS, OPEN FLAMES.
+Other Precautions:CORROSIVE. STORE IN TIGHTLY CLOSED CONTAINERS; DO NOT
+    STORE NEAR COMBUSTIBLES; KEEP FROM CONTACT W/CLOTHING. EMPTY
+    CONTAINER MAY CONTAIN HAZARDOUS RESIDUES; KEEP CONTAINER CLOSED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IN CASE OF SPILL OR LEAK, NIOSH/MSHA APPROVED
+    SELF-CONTAINED CAN OR CARTRIDGE GAS OR VAPOR RESPIRATORY EQUIPMENT
+    SHOULD BE AVAILABLE.
+Ventilation:ALWAYS MAINTAIN EXPOSURE BELOW PELS.
+Protective Gloves:NEOPRENE, BUTYL/NATURAL RUBBER GLOVES.
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGGS(SUPDAT)
+Other Protective Equipment:EYE WASH FOUNTAIN & DELUGE SHOWER WHICH MEET
+    ANSI DESIGN CRITERIA . ACID SUIT IN CASE OF SPILL/LEAK; (SUPDAT)
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+FIRST AID PROC:IRRIGATED W/WATER. INHAL:REMOVE TO FRESH AIR; GET MED
+    ATTN; GIVE ARTF RESP/OXYGEN AS NEEDED. WASTE DISP METH:COMPLETED IF
+    ALLOWED. IF NOT CALL LOC WASTE HAULER. EYE PROT:& FULL LENGTH F
+    ACESHIELD . OTHER PROT EQUIP:SAFETY SHOES ALSO NEEDED.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:230F,110C
+Vapor Pres:28.05 @20C
+Spec Gravity:1.19
+Solubility in Water:67% @ 30C
+Appearance and Odor:CLEAR, YELLOW LIQUID; PUNGENT & IRRITATING ODOR.
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+REACTS W/ALKALIES, PRODUCING HEAT & OTHER CHEMICAL PRODUCTS. OPEN
+    CONTAINERS EMIT PUNGENT VAPOR.
+Stability Condition to Avoid:HEAT, SPARKS, OPEN FLAMES.
+Hazardous Decomposition Products:HYDROGEN GAS WHEN IN CONTACT W/MOST
+    METALS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT FED, STATE/LOC AUTHS FOR PROPER DISP
+    PROCS. PERMITS MAY BE REQD. AS ENVIRON HAZ, IT SHOULD NOT BE
+    DISPOSED OF IN LAKES, STREAMS, PONDS/PUBLIC WATERS. NEUT W/SODA
+    ASH, SODIUM BICARBONATE/LIME.  FLUSH TO SANITARY SEWER WHEN NEUT IS
+    (SUPDAT)
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

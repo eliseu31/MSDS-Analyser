@@ -1,0 +1,118 @@
+=====================  Product Identification  =====================
+
+Product ID:WAX AWAY PLUS PN 113-5
+MSDS Date:10/01/1990
+FSC:7930
+NIIN:00-045-6931
+MSDS Number: BLMYD
+=== Responsible Party ===
+Company Name:OMEGA CHEMICAL PROD GP, FINE ORGANICS CORP
+Address:6935 WEST 62ND STREET
+City:CHICAGO
+State:IL
+ZIP:60638
+Country:US
+Info Phone Num:312-586-8000
+Emergency Phone Num:312-586-8000, 800-424-9300
+Preparer's Name:PAUL ZALANTIS
+CAGE:0B5U9
+=== Contractor Identification ===
+Company Name:OMEGA CHEMICAL PROD GP, FINE ORGANICS CORP
+Address:6935 WEST 62ND STREET
+City:CHICAGO
+State:IL
+ZIP:60638
+Country:US
+Phone:312-586-8000, 800-424-9300
+CAGE:0B5U9
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:2-BUTOXYETHANOL
+CAS:111-76-2
+RTECS #:KJ8575000
+Fraction by Wt: 2%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:S, 50 PPM
+ACGIH TLV:S, 25 PPM; 9293
+
+=====================  Hazards Identification  =====================
+
+Health Hazards Acute and Chronic:SKIN IRRITANT--DERMATITIS. INHALATION
+    OF MISTS MAY CAUSE VARYING DEGREES OF DAMAGE TO THE AFFECTED
+    TISSUES AND ALSO INCREASING SUSCEPTIBILITY TO RESPIRATORY ILLNESS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:IF INHALED, REMOVE TO FRESH AIR. IF EYE CONTACT, IMMEDIATELY
+    FLUSH EYES WITH LOTS OF WATER FOR 15 MINUTES. GET IMMEDIATE MEDICAL
+    ATTENTION. SKIN CONTACT, IMMEDIATELY WASH WITH LOTS OF WATER. IF
+    SWALLO WED, DO NOT INDUCE VOMITING. GIVE LOTS OF WATER OR MILK.
+    THEN DRINK DILUTED VINEGAR, LEMON JUICE OR ORANGE JUICE. GET
+    IMMEDIATE MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:NONE
+Extinguishing Media:WATER, CO2.
+Fire Fighting Procedures:NONE KNOWN.
+Unusual Fire/Explosion Hazard:NONE KNOWN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ADD SAND, EARTH OR OTHER SUITABLE ABSORBENT TO
+    CONTAIN SPILL AREA. NEUTRALIZE WITH MILD ACID, PREVENT FROM
+    DISCHARGE.
+Neutralizing Agent:ANY MILD ACID.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM STRONG ACIDS. DO NOT
+    FREEZE.
+Other Precautions:CONTAINERS, EVEN THOSE THAT HAVE BEEN EMPTIED WILL
+    RETAIN PRODUCT RESIDUE AND VAPORS. ALWAYS OBEY HAZARD WARNING AND
+    HANDLE EMPTY CONTAINERS AS IF THEY WERE FULL.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:UNDER NORMAL CONDITIONS OF USE, NONE IS
+    REQUIRED. IF MISTING EXISTS, USE RESPIRATOR.
+Ventilation:NONE AS REQUIRED UNDER NORMAL USE CONDITIONS.
+Protective Gloves:RUBBER GLOVES.
+Eye Protection:SAFETY GOGGLES.
+Other Protective Equipment:PROTECTIVE CLOTHING AND/OR UNIFORM.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:B3
+Boiling Pt:B.P. Text:212F,100C
+Melt/Freeze Pt:M.P/F.P Text:32.0F,0.0C
+Spec Gravity:1.02 (WATER=1)
+pH:12.5
+Evaporation Rate & Reference:1
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR NEAR WATER WHITE LIQUID; GLYCOL ODOR.
+Percent Volatiles by Volume:96
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS.
+Stability Condition to Avoid:NONE KNOWN.
+Hazardous Decomposition Products:NONE KNOWN.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN ACCORDANCE WITH 42USG3251 ET SEQ
+    RECRA 1976 AND ANY FEDERAL, STATE & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

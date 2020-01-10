@@ -1,0 +1,184 @@
+=====================  Product Identification  =====================
+
+Product ID:WEEKEND (ALL COLORS) PN 345-370
+MSDS Date:06/01/1989
+FSC:8010
+NIIN:00-079-3762
+MSDS Number: BJDRM
+=== Responsible Party ===
+Company Name:ILLINOIS BRONZE PAINT COMPANY
+Address:300 EAST MAIN STREET
+City:LAKE ZURICH
+State:IL
+ZIP:60047
+Country:US
+Info Phone Num:708-438-8201
+Emergency Phone Num:800-228-5635
+CAGE:91794
+=== Contractor Identification ===
+Company Name:ILLINOIS BRONZE PAINT COMPANY
+Address:300 EAST MAIN STREET
+City:LAKE ZURICH
+State:IL
+ZIP:60047-2580
+Country:US
+Phone:800-228-5635
+CAGE:91794
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:2-BUTOXYETHANOL
+CAS:111-76-2
+RTECS #:KJ8575000
+Fraction by Wt: <1%
+OSHA PEL:S, 50 PPM
+ACGIH TLV:S, 25 PPM; 9293
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: <1%
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+Ingred Name:VM&P NAPHTHA (LIGROINE)
+CAS:8032-32-4
+RTECS #:OI6180000
+Fraction by Wt: 0-4%
+OSHA PEL:300 PPM/400 STEL
+ACGIH TLV:300 PPM; 9192
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: .11-43%
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:VM & P NAPHTHA (VAPOR PRESSURE 17 MMHG @ 68 F)
+CAS:64742-89-8
+Fraction by Wt: 0-14%
+OSHA PEL:500 PPM
+ACGIH TLV:300 PPM
+
+Ingred Name:ACETONE  (SARA III)
+CAS:67-64-1
+RTECS #:AL3150000
+Fraction by Wt: 20-27%
+OSHA PEL:1000PPM
+ACGIH TLV:750PPM/1000STEL;9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:PROPELLANT(PROPANE ISOBUTANE) (VAPOR PRESSURE 4400 MMHG @
+    68 F)
+CAS:68476-86-8
+Fraction by Wt: 30-35%
+
+Ingred Name:INERT RESINS & PIGMENTS
+Fraction by Wt: BALANCE
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Health Hazards Acute and Chronic:INHALE:ACUTE OVEREXPOS CAN LEAD TO
+    CENTRAL NERV SYST DEPRESS. CHRONIC:REPORTED REPEAT/PROLONGED
+    OVEREXPOS W/PERMANENT BRAIN & NERV SYST DAMAGE. OVEREXPOS TO XYLOL
+    & TOLUENE IN LAB ANIMALS HAS SHOWN LI VER ABNORMALITIES, KIDNEY,
+    LUNG, SPLEEN, EYE DAMAGE, ANEMIA & BLOOD ABNORMALITIES.
+    HUMANS:LIVER & CARDIAC ABNORMALITIES.
+Effects of Overexposure:INHALE: HEADACHES, DIZZINESS, NAUSEA AND LOSS
+    OF CONSCIOUSNESS. SKIN: PROLONGED CONTACT CAN CAUSE DEFATTING &
+    DRYING OF THE SKIN WHICH MAY RESULT IN SKIN IRRITATION &
+    DERMATITIS. EYES: ACUTE EXPOSURES  MAY RESULT IN SLIGHT EYE
+    IRRITATION. CHRONIC EXPOSURES MAY BE MORE IRRITATING.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALE: REMOVE VICTIM TO FRESH AIR & PROVIDE OXYGEN IF
+    BREATHING IS DIFFICULT. GIVE CPR IF NOT BREATHING. GET MEDICAL
+    ATTENTION. SKIN: WASH WITH SOAP & WATER. REMOVE CONTAMINATED
+    CLOTHING; REUSE ONLY  WHEN CLEANED. IF PERSISTENT IRRITATION
+    OCCURS, GET MEDICAL ATTENTION. EYES: FLUSH WITH WATER FOR 15
+    MINUTES WHILE HOLDING EYELIDS OPEN. GET MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:-40 F/-40 C
+Lower Limits:0.8
+Extinguishing Media:FOAM, CO2 OR DRY CHEMICAL.
+Fire Fighting Procedures:FULL PROTECTIVE EQUIPMENT, INCLUDING
+    SELF-CONTAINED BREATHING APPARATUS, IS NEEDED TO PROTECT
+    FIREFIGHTERS FROM ANY HAZARDOUS COMBUSTION PRODUCTS.
+Unusual Fire/Explosion Hazard:CANS WILL RUPTURE FROM INTERNAL PRESSURE
+    AT ABOUT 190 F AND DISCHARGE FLAMMABLE CONTENTS. WHEN HEATED TO
+    DECOMPOSITION, TOXIC FUMES ARE FORMED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION (FLAMES, HOT
+    SURFACES AND ELECTRICAL, STATIC OR FRICTIONAL SPARKS). AVOID
+    BREATHING VAPORS. VENTILATE AREA. REMOVE WITH INERT ABSORBENT.
+    REFER TO OTHER PROTECTIVE MEASUR ES.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT STORE ABOVE 120 F. STORE LARGE
+    QUANTITIES IN BUILDINGS DESIGNED & PROTECTED FOR STORAGE OF NFPA
+    CLASS IA FLAMMABLE LIQUIDS.
+Other Precautions:DON'T SPRAY IN EYES. DON'T PUNCTURE/INCINERATE CAN.
+    DON'T STICK PIN OR ANY SHARP OBJECT INTO OPENING ON TOP OF CAN.
+    FINGER MUST NOT PROTRUDE OVER FRONT OF SPRAY BUTTON. INTENDED
+    MISUSE BY DELIBERATE C ONCENTRATE/INHALING MAY BE HARMFUL/FATAL
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:FOR CASUAL USE, NONE REQUIRED PROVIDED
+    VENTILATION IS AVAILABLE AS OUTLINED BELOW. IF EYE WATERING,
+    HEADACHES OR DIZZINESS OCCURS, INCREASE VENTILATION OR WEAR
+    RESPIRATOR PROTECTION (NIOSH/MSHA TC23C  OR EQUIVALENT) OR LEAVE
+    AREA.
+Ventilation:SUFFICIENT VOL/PATTERN TO KEEP AIR CONTAMINANT
+    CONCENTRATION OF HAZARD INGREDIENTS BELOW CURRENT APPLICABLE
+    TLV/PEL/LEL.
+Protective Gloves:NONE REQUIRED.
+Eye Protection:USE SAFETY GLASSES WHILE SPRAYING.
+Other Protective Equipment:NONE REQUIRED.
+Work Hygienic Practices:WASH HANDS AFTER USE AND PRIOR TO EATING,
+    SMOKING OR USING RESTROOM.
+Supplemental Safety and Health
+FLAMMABLE LIQUID - CLASS 1A.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V3
+Boiling Pt:B.P. Text:104 TO 390F
+Vapor Density:> THAN AIR
+Evaporation Rate & Reference:< ETHER (SOLVENT) *
+Appearance and Odor:N/K.
+Percent Volatiles by Volume:90
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+N/K. * > ETHER (PROPELLANT)
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE,
+    VARIOUS COMPLEX ORGANIC COMPOUNDS WHEN BURNED.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE DONE IN ACCORDANCE WITH
+    FEDERAL, STATE AND LOCAL REGULATIONS. BEFORE ATTEMPTING CLEANUP,
+    REFER TO HAZARD CAUTION INFORMATION IN OTHER SECTIONS OF THIS DATA
+    SHEET.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

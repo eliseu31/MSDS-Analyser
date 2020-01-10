@@ -1,0 +1,138 @@
+=====================  Product Identification  =====================
+
+Product ID:GUARDIAN ACCLAIM, 10595
+MSDS Date:02/04/1991
+FSC:7930
+NIIN:01-084-2185
+MSDS Number: BLMVY
+=== Responsible Party ===
+Company Name:ECOLAB INC
+Address:ECOLAB CENTER 370 WABASHA STREET
+City:ST PAUL
+State:MN
+ZIP:55102-1307
+Country:US
+Info Phone Num:612-293-2233
+Emergency Phone Num:800-328-0026
+CAGE:0DAC4
+=== Contractor Identification ===
+Company Name:ECOLAB INC
+Address:8811 E HAMPDEN AVE BLDG 4 B
+City:DENVER
+State:CO
+ZIP:80231
+Country:US
+Phone:612-293-2233
+CAGE:0DAC4
+Company Name:ECOLAB PROFESSIONAL PRODUCTS DIVISION OF ECOLAB INC.
+Address:ECOLAB CENTER
+Box:City:ST PAUL
+State:MN
+ZIP:55102
+Country:US
+Phone:800-352-5326
+CAGE:85884
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SILICIC ACID (H2SIO3), DISODIUM SALT; (SODIUM METASILICATE)
+CAS:6834-92-0
+RTECS #:VV9275000
+Fraction by Wt: 30%
+
+Ingred Name:1,3,5-TRIAZINE-2,4,6 (1H,3H,5H)-TRIONE, 1,3-DICHLORO-,
+    SODIUM SALT, DIHYDRATE; (SODIUM DICHLOROISOCYANURATE DIHYDRATE)
+CAS:51580-86-0
+RTECS #:XZ1910000
+Fraction by Wt: 2%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN/EYE: CAUSES SEVERE CHEMICAL
+    BURNS. EYE CONTACT MAY CAUSE BLINDNESS. HARMFUL CONTACT MAY NOT
+    CAUSE IMMEDIATE PAIN. IMMEDIATE WATER FLUSHING IS VITAL IN CASE OF
+    EYE CONTACT. INGEST: HARMFUL OR FATA L. CAUSES CHEMICAL BURNS OF
+    MOUTH, THROAT AND STOMACH. INHAL: DAMAGES AIRWAYS & LUNGS DEPENDING
+    (SEE EFTS OF OVEREXPOS)
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:HLTH HAZ: UPON AMOUNT AND DURATION OF EXPOSURE.
+    EFFECTS CAN VARY FROM SLIGHT IRRITATION TO BRONCHITIS OR PNEUMONIA.
+    PEOPLE WITH ASTHMA OR OTHER LUNG PROBLEMS MAY BE MORE SUSCEPTIBLE.
+Medical Cond Aggravated by Exposure:PEOPLE WITH ASTHMA OR OTHER LUNG
+    PROBLEMS MAY BE MORE SUSCEPTIBLE TO RESPIRATORY EFFECTS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: IMMED FLUSH W/PLENTY OF COOL RUNNING WATER. REMOVE
+    CONTACT LENSES. CONTINUE FLUSHING FOR AT LEAST 15 MINS, HOLDING
+    LIDS APART TO ENSURE RINSING OF ENTIRE EYE. CALL MD IMMED. SKIN:
+    IMMED FLUSH W/P LENTY OF COOL RUNNING WATER FOR AT LEAST 15 MINS
+    WHILE REMOVING CONTAMD CLTHG & SHOES. WASH CLOTHING BEFORE REUSE.
+    INGEST: RINSE MOUTH AT ONCE; THEN DRINK 1-2 GLASSES OF WATER/MILK.
+    (SUPP DATA)
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE CO*2 FOR SM FIRES NEAR THIS PROD, SINCE WETTING
+    PROD CAN CAUSE AN EXOTHERMIC REACTION. EXTING THERMAL (SUPP DATA)
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT . PRODUCT DOES NOT SUPPORT COMBUSTION.
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:PICK UP WITHOUT RAISING DUST. FLUSH AREA WITH
+    WATER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP PRODUCT DRY. DO NOT STORE IN WET,
+    MOIST AREAS.
+Other Precautions:KEEP OUT OF REACH OF CHILDREN. AVOID CONTACT WITH USE
+    SOLUTIONS. THESE MAY ALSO BE HAZARDOUS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AVOID BREATHING DUSTS OR MISTS OF THIS PRODUCT.
+    WEAR NIOSH/MSHA APPROVED RESPIRATOR FOR EXPOSURE OF CONCERN .
+Ventilation:NONE SPECIFIED BY MANUFACTURER.
+Protective Gloves:RUB GLOVES-PROT CUFF/GAUNTLET TYPE PREF.
+Eye Protection:CHEM WORK GOG/FULL LGTH FSHLD .
+Other Protective Equipment:EMERGENCY EYE WASH AND DELUGE SHOWER .
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+PH: 0.2% = 10.5-11.5. EXTING MEDIA: DECOMPOSITION BY FLOODING WITH
+    WATER. FIRST AID PROC: DO NOT INDUCE VOMITING. NEVER GIVE ANYTHING
+    BY MOUTH TO AN UNCONSCIOUS PERSON. INHAL: IMMEDIATELY MOVE TO FRES
+    H AIR. CALL A POISON CONTROL CENTER OR MD IMMEDIATELY.
+
+==================  Physical/Chemical Properties  ==================
+
+pH:SUPDAT
+Solubility in Water:COMPLETE
+Appearance and Odor:BLUE SPECKLED POWDER; FAINT CHLORINE ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACIDS.
+Stability Condition to Avoid:REACTS VIOLENTLY WITH ACIDS.
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT FEDERAL, STATE, AND LOCAL AUTHORITIES
+    FOR RESTRICTIONS ON DISPOSAL OF CHEMICAL WASTE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

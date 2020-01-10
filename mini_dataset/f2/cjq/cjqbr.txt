@@ -1,0 +1,201 @@
+=====================  Product Identification  =====================
+
+Product ID:4-4315/4317/4319 OFFSET ROLLER CLEANER & BLANKET WASH
+MSDS Date:07/28/1999
+FSC:6850
+NIIN:01-238-9225
+MSDS Number: CJQBR
+=== Responsible Party ===
+Company Name:A.B. DICK COMPANY
+Address:7400 CALDWELL AVE
+City:NILES
+State:IL
+ZIP:60714
+Country:US
+Info Phone Num:800-752-5139 EXT. 2745
+Emergency Phone Num:800-424-9300
+Preparer's Name:KENNETH W. PINTER
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:17638
+=== Contractor Identification ===
+Company Name:DICK A B CO
+Address:7400 CALDWELL AVE
+Box:City:NILES
+State:IL
+ZIP:60714-4628
+Country:US
+Phone:847-779-1900
+Contract Num:SP0450-00-M-D980
+CAGE:17638
+Company Name:DICK. A. B. PRODUCTS OF ROANOKE INC
+Address:5119 HOLLINS RD
+Box:7428
+City:ROANOKE
+State:VA
+ZIP:24019
+Country:US
+Phone:540-362-1226
+Contract Num:SP0450-00-M-D377
+CAGE:1LMU2
+Company Name:DICK. A. B. PRODUCTS OF ROANOKE INC
+Address:5119 HOLLINS RD
+Box:7428
+City:ROANOKE
+State:VA
+ZIP:24019
+Country:US
+Phone:540-362-1226
+Contract Num:SP0450-99-M-NG57
+CAGE:1LMU2
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PETROLEUM NAPHTHA
+CAS:64742-48-9
+= Wt:100.
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INGESTION: EXCESSIVE QUANTITIES MAY
+    CAUSE IRRITATION OF THE DIGESTIVE TRACT & SIGNS OF NERVOUS SYSTEM
+    DEPRESSION.  ASPIRATION HAZARD- THIS MATERIAL CAN ENTER LUNGS
+    DURING SWALLOWING OR VOMITING AND CA USE LUNG INFLAMMATION AND
+    DAMAGE.  EYES: MAY CAUSE IRRITATION.  SKIN: SOME IRRITATION,
+    DEFATTING & DERMATITIS MAY OCCUR WITH PROLONGED OR REPEATED
+    CONTACT.  INHALATION: HIGH CONCENTRATIONS OF VAPORS O R MISTS MAY
+    CAUSE NOSE & THROAT IRRITATION. SIGNS OF CENTRAL NERVOUS SYSTEM
+    DEPRESSION.
+Explanation of Carcinogenicity:NOT KNOWN TO BE CARCINOGENIC.
+Effects of Overexposure:POSSIBLE RESPIRATORY IRRITATION, HEADACHE,
+    DIZZINESS, NAUSEA AND FATIGUE. REDNESS AND BURNING OF THE SKIN. 
+    SIGNS OF CENTRAL NERVOUS SYSTEM DEPRESSION: DROWSINESS, DIZZINESS,
+    LOSS OF COORDINATION, AND  FATIGUE.
+Medical Cond Aggravated by Exposure:PRE-EXISTING SKIN AND LUNG
+    DISORDERS.	(ASTHMA-LIKE CONDITIONS).
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION: DO NOT INDUCE VOMITING. CALL A PHYSICIAN
+    IMMEDIATELY.  EYES: FLUSH WITH WATER FOR 15 MIN. SEEK MEDICAL
+    ATTENTION.	SKIN: WASH WITH SOAP AND WATER. SEEK MEDICAL ATTENTION
+    IF IRRITATION PERSI STS.  INHALATION: REMOVE TO FRESH AIR. IF
+    BREATHING STOPS, BEGIN ARTIFICIAL RESPIRATION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:>40.C, 104.F
+Autoignition Temp:Autoignition Temp Text:N.D.
+Lower Limits:1.0
+Upper Limits:7.0
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL.
+Fire Fighting Procedures:USE SELF-CONTAINED BREATHING APPARATUS FOR
+    FIRE FIGHTER. WATER MAY BE UNSUITABLE AS AN EXTINGUISHING MEDIA BUT
+    HELPFUL IN KEEPING ADJACENT CONTAINER COOL. AVOID SPREADING BURNING
+    LIQUID WITH WATER USE D FOR COOLING PURPOSES.
+Unusual Fire/Explosion Hazard:KEEP WORK AREAS FREE OF HOT METAL
+    SURFACES AND OTHER SOURCES OF IGNITION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:MATERIAL IS VOLATILE AND COMBUSTIBLE AND CARE
+    SHOULD BE TAKEN TO PREVENT FIRE. SPILLED MATERIAL MAY BE PUMPED
+    INTO ANOTHER CONTAINER OR ABSORBED AND REMOVED FROM AREA. KEEP
+    SPARKS, FLAMES AND IGNITION  SOURCES OUT OF AREA. DON'T INHALE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP PRODUCT CONTAINERS COOL, DRY AND
+    AWAY FROM SOURCES OF IGNITION. USE AND STORE WITH ADEQUATE
+    VENTILATION. KEEP CONTAINERS TIGHTLY CLOSED. "EMPTY" CONTAINERS
+    RETAIN RESIDUE AND CAN BE DANGEROUS. KE EP AWAY FROM SOURCES OF
+    IGNITION.
+Other Precautions:AVOID INHALATION OF VAPORS. PERSONAL CONTACT SHOULD
+    BE AVOIDED. ON CONTACT, REMOVE SATURATED CLOTHING/SHOES AND FLUSH
+    AFFECTED AREAS WITH WATER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT REQUIRED WHEN USED AS INTENDED.
+Ventilation:LOCAL EXHAUST: PERFERABLE. MECHANICAL (GENERAL):
+    ACCEPTABLE.
+Protective Gloves:IMPERMEABLE GLOVES TO PREVENT PROLONGED AND REPEATED
+    CONTACT.
+Eye Protection:SAFETY GLASSES. CHEMICAL WORKERS GOGGLES
+Other Protective Equipment:IMPERMEABLE APRON TO PREVENT ACCIDENTAL
+    CONTACT.
+Work Hygienic Practices:NOT PROVIDED
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:>157.8C, 316.F
+B.P. Text:316-356F
+Melt/Freeze Pt:M.P/F.P Text:N.A
+Vapor Pres:7.5 @ 100F
+Vapor Density:4.7
+Spec Gravity:0.770
+VOC Grams/Liter:6.43
+Evaporation Rate & Reference:0.15 (BUTYL ACETATE = 1)
+Solubility in Water:INSOLUBLE
+Appearance and Odor:CLEAR LIQUID, NAPHTHA ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACIDS, BASES, OXIDIZING AGENTS AND SELECTED AMINES.
+Stability Condition to Avoid:OPEN FLAMES, ESPECIALLY NEAR SPILLS. DO
+    NOT SMOKE WHILE USING.
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:NO DATA
+
+=====================  Ecological Information  =====================
+
+Ecological:NOT PROVIDED
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:IN ACCORDANCE WITH LOCAL, STATE AND FEDERAL
+    REGULATIONS FOR COMBUSTIBLE PETROLEUM WASTE.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:ON MSDS MANUFACTURER SAYS THAT THIS PRODUCT IS
+    NOT DOT REGULATED.	HOWEVER, WITH A FLASH POINT OF 104F SHOULD BE A
+    FLAMMABLE LIQUID (49 CFR 173.120) WITH A PACKING GROUP OF III (49
+    CFR 173.121).  THE	EXCEPTION IS THAT A FLAMMABLE LIQUID WITH A
+    FLASH POINT AT OR ABOVE 100F THAT DOES NOT MEET THE DEFINITION OF
+    ANY OTHER HAZARD CLASS MAY BE RECLASSED AS A COMBUSTIBLE LIQUID
+    (WHICH IS NOT REGULATED IN	BULK, 49 CFR 173.120(B)(2)). THIS DOES
+    NOT APPLY TO VESSEL OR AIR TRANSPORT.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:THIS PRODUCT DOES NOT CONTAIN ANY
+    INGREDIENTS LISTED AS AN EXTREMELY HAZARDOUS SUBSTANCE. THIS
+    PRODUCT CONTAINS MATERIAL WHICH MAY REQUIRE REPORTING UNDER 311 &
+    312 IF STORED IN LARGE ENOUGH QUANTITIE S.	THIS PRODUCT DOES NOT
+    CONTAIN ANY INGREDIENTS ON THE LIST OF TOXIC CHEMICALS.
+Federal Regulatory Information:THIS PRODUCT COMPLIES WITH RULES AND
+    REGULATIONS OF TSCA.
+State Regulatory Information:THIS PRODUCT DOES NOT CONTAIN ANY
+    MATERIALS THAT ARE CURRENTLY LISTED BY THE STATE OF CALIFORNIA
+    UNDER PROPOSITION 65.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

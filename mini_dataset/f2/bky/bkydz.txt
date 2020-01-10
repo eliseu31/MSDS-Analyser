@@ -1,0 +1,134 @@
+=====================  Product Identification  =====================
+
+Product ID:56 3072 00 WD/RH POLY SATIN VAR
+MSDS Date:10/26/1989
+FSC:8010
+NIIN:00F018547
+MSDS Number: BKYDZ
+=== Responsible Party ===
+Company Name:VALSPAR CORPORATION
+Address:1101 THIRD STREET SOUTH
+City:MINNEAPOLIS
+State:MN
+ZIP:55415-1211
+Info Phone Num:(612) 332-7371
+Emergency Phone Num:(800) 228-5635
+CAGE:06758
+=== Contractor Identification ===
+Company Name:VALSPAR CORPORATION
+Address:1101 THIRD STREET SOUTH
+City:MINNEAPOLIS
+State:MN
+ZIP:55415
+Country:US
+Phone:800-228-5635
+CAGE:06758
+Company Name:VALSPAR CORPORATION
+Address:1101 THIRD ST. SOUTH
+Box:City:MINNEAPOLIS
+State:MN
+ZIP:55415
+Country:US
+Phone:612-332-7371/888-345-5732
+CAGE:23526
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SILICON DIOXIDE
+CAS:7631-86-9
+RTECS #:VV3100000
+Fraction by Wt: 1%
+OSHA PEL:80 MG/CUM
+
+Ingred Name:SOLVENT NAPHTHA, PETROLEUM, LIGHT AROMATIC C8-C10 (AROMATIC
+    100)
+CAS:64742-95-6
+Fraction by Wt: 5%
+ACGIH TLV:100 PPM
+
+Ingred Name:HYDROTREATED LIGHT DISTILLATE, PETROLEUM; C12-C15
+    ISOPARAFFINIC HYDROCARBONS
+CAS:64742-47-8
+Fraction by Wt: 50%
+Other REC Limits:300 PPM (MFR)
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:2-BUTOXYETHANOL
+CAS:111-76-2
+RTECS #:KJ8575000
+Fraction by Wt: 5%
+Other REC Limits:25 PPM (SKIN)
+OSHA PEL:S, 50 PPM
+ACGIH TLV:S, 25 PPM; 9293
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: HARMFUL, AFFECT THE BRAIN,
+    NERVOUS SYSTEM OR RESPIRATORY SYSTEM, DIZZINESS, HEADACHE, NAUSEA,
+    RESPIRATORY/NOSE/THROAT/MUCOUS MEMBRANES IRRITATION, PERMANENT
+    BRAIN/NERVOUS SYSTEM/LIVER/KIDN EY DAMAGE. SKIN: ABSORPTION &
+    IRRITATION. EYES: IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: HARMFUL, AFFECT THE BRAIN, NERVOUS
+    SYSTEM OR RESPIRATORY SYSTEM, DIZZINESS, HEADACHE, NAUSEA,
+    RESPIRATORY/NOSE/THROAT/MUCOUS MEMBRANES IRRITATION, PERMANENT
+    BRAIN/NERVOUS SYSTEM/LIVER/KIDN EY DAMAGE. SKIN: ABSORPTION &
+    IRRITATION. EYES: IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINS. SKIN:
+    WASH THOROUGHLY W/SOAP & WATER. INHALATION: REMOVE TO FRESH AIR.
+    INGESTION: OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:105F
+Lower Limits:1%
+Upper Limits:11%
+Extinguishing Media:CO2, DRY CHEMICAL, FOAM, &/OR WATER FOG.
+Fire Fighting Procedures:FIREFIGHTERS MUST WEAR SELF-CONTAINED
+    BREATHING APPARATUS OR AIR MASKS. USE WATER SPRAY TO KEEP FIRE
+    EXPOSED CONTAINERS COOL.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA. USE PROTECTIVE EQUIPMENT FOR
+    LARGE SPILLS IN A CONFINED AREA.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM HEAT, SPARKS & OPEN
+    FLAME. KEEP CONTAINER CLOSED WHEN NOT IN USE. DON'T STORE >120F.
+    DON'T CUT, PUNCTURE OR WELD ON OR NEAR CONTAINER.
+Other Precautions:PROVIDE SUITABLE STORAGE BASED. EMPTY CONTAINERS MAY
+    CONTAIN RESIDUE, FLAMMABLE/EXPLOSIVE VAPORS. OBSERVE ALL LABEL
+    WARNINGS UNTIL CONTAINER HAS BEEN CLEANED/RECONDITIONED. AVOID
+    BREATHING VAPORS & CO NTACT W/EYES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR APPROPRIATE, NIOSH/MSHA APPROVED PROPERLY
+    FITTED RESPIRATOR DURING & AFTER APPLICATIONS UNLESS AIR MONITORING
+    VAPOR/MIST LEVELS ARE 120F, HEAT, SPARKS, & OPEN
+    FLAME.
+Hazardous Decomposition Products:NITROGEN OXIDES, CO2, & CO.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. DON'T INCINERATE CLOSED CONTAINERS OR CUT,
+    PUNCTURE OR WELD ON OR NEAR CONTAINER.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

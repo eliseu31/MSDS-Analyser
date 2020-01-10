@@ -1,0 +1,168 @@
+=====================  Product Identification  =====================
+
+Product ID:500W12 WHITE TRAFFIC PAINT
+MSDS Date:06/01/1990
+FSC:8010
+NIIN:00-664-7048
+MSDS Number: BKYMH
+=== Responsible Party ===
+Company Name:GRIGGS PAINT SUB OF DOMCOM DISTRIBUTOR
+Address:3635-1 S 16TH PL
+City:PHOENIX
+State:AZ
+ZIP:85040
+Country:US
+Info Phone Num:602-243-3293
+Emergency Phone Num:602-243-3293
+Preparer's Name:ROBERT COMMISSO
+CAGE:58963
+=== Contractor Identification ===
+Company Name:GRIGGS PAINT
+Address:3602 S 16TH PLACE
+Box:City:PHOENIX
+State:AZ
+ZIP:85040
+Country:US
+Phone:602-243-3293
+CAGE:58963
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 7%
+Other REC Limits:100 PPM
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 10%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:CHLORINATED RUBBER RESIN
+Fraction by Wt: <5%
+
+Ingred Name:BENZIN, NAPHTHA, MINERAL SPIRITS, PETROLEUM NAPHTHA
+CAS:8030-30-6
+RTECS #:DE3030000
+Fraction by Wt: <5%
+Other REC Limits:STEL 400 PPM
+OSHA PEL:500 PPM
+ACGIH TLV:300 PPM
+
+Ingred Name:TALC (CONTAINING NO ASBESTOS)
+CAS:14807-96-6
+RTECS #:WW2710000
+Fraction by Wt: <5%
+OSHA PEL:2 MG/M3 RDUST
+ACGIH TLV:2 MG/M3 RDUST; 9192
+
+Ingred Name:VOL ORGANIC CMPD: 223 G/L OR 1.86 LB/GAL
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION. SKIN: IRRITATION,
+    DERMATITIS, DEFATTING & ABSORBTION. INHALATION: DROWSINESS,
+    DIZZINESS, FATIGUE, COMA, LUNG CHANGES, NAUSEA, VOMITING, COUGH &
+    CNS DEPRESSION. INGESTION: PULMONARY E DEMA/IRRITATION, HEMORRAGE,
+    PNEUMONITIS& GASTROINTESTINAL DISTURBANCE.
+Explanation of Carcinogenicity:TITANIUM DIOXIDE IS A SUSPECTED ANIMAL
+    CARCINOGEN.
+Effects of Overexposure:EYES: IRRITATION. SKIN: IRRITATION, DERMATITIS,
+    DEFATTING & ABSORBTION. INHALATION: DROWSINESS, FATIGUE, COMA, LUNG
+    CHANGES, NAUSEA, VOMITING, COUGH & CNS DEPRESSION. INGESTION:
+    PULMONARY EDEMA/IRRITA TION, HEMORRAGE, PNEUMONITIS &
+    GASTROINTESTINAL DISTURBANCE.
+Medical Cond Aggravated by Exposure:AILMENTS OF THE CENTRAL NERVOUS
+    SYSTEM, LIVER & KIDNEY.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINS. SKIN:
+    WASH W/SOAP & WATER. INGESTION: DON'T INDUCE VOMITING. NEVER GIVE
+    ANYTHING BY MOUTH TO AN UNCONSCIOUS PERSON. AVOID ASPIRATION OF
+    MATERIAL INT O THE LUNGS. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TOC
+Flash Point:45F
+Autoignition Temp:Autoignition Temp Text:474 F
+Lower Limits:1%
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL & WATER FOG
+Fire Fighting Procedures:IF WATER IS USED, FOG NOZZLES ARE PREFERABLE.
+    FULL PROTECTIVE CLOTHING & SCBA. USE WATER TO KEEP FIRE-EXPOSED
+    CONTAINERS COOL.
+Unusual Fire/Explosion Hazard:KEEP CONTAINERS TIGHTLY CLOSED. CLOSED
+    CONTAINERS MAY EXPLODE WHEN EXPOSED TO HEAT. AUTOIGNITION TEMP:
+    475F.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:STOP LEAK. REMOVE ALL SOURCES OF IGNITION &
+    STAY UPWIND. ABSORB W/INERT MATERIAL & FLUSH AREA W/WATER.
+    VENTILATE AREA FOR AT LEAST 24 HOURS OR UNTIL AREA HAS BEEN
+    DECLARED SAFE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINERS CLOSED & UPRIGHT TO
+    PREVENT LEAKAGE. AVOID BREATHING OF VAPORS/SPRAY MISTS & SKIN/EYE
+    CONTACT.
+Other Precautions:DON'T USE IN CONFINED AREAS, TANK OR PIT W/OUT
+    ADEQUATE VENILATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE MSHA/NIOSH APPROVED UNITS IF EXPOSURE
+    >TLV/PEL. IF W/IN OSHA PROTECTION FACTOR, AIR PURIFYING OV/FILTER
+    UNITS CAN BE USED.
+Ventilation:LOCAL EXHAUST/MECHANICAL
+Protective Gloves:RUBBER
+Eye Protection:SAFETY GLASSES W/SIDE SHIELDS, GOGGLES
+Other Protective Equipment:EYE BATH & SAFETY SHOWER
+Work Hygienic Practices:MAINTAIN GOOD PERSONAL HYGIENE. DON'T USE IN
+    CONFINED AREAS W/OUT ADEQUATE VENILATION.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:B.P. Text:230F
+Vapor Density:>AIR
+Spec Gravity:1.9
+Viscosity:65 - 75 KU
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:VISCOUS LIQUID W/TYPICAL PAINT ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:FLAMES, SPARKS, SMOKING, HEAT, WELDING,
+    OPEN LIGHTS, ELECTRICAL EQUIPMENT, & OTHER IGNITION SOURCES.
+Hazardous Decomposition Products:CO & CO2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

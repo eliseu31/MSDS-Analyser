@@ -1,0 +1,130 @@
+=====================  Product Identification  =====================
+
+Product ID:NITROGEN A800500-10
+MSDS Date:05/20/1986
+FSC:4920
+NIIN:00-870-0582
+MSDS Number: BJDTH
+=== Responsible Party ===
+Company Name:KIDDE INC WALTER KIDDE DIV AEROSPACE OPNS
+Address:2500 AIRPORT DRIVE
+City:WILSON
+State:NC
+ZIP:27893-9604
+Country:US
+Info Phone Num:307-744-5487
+Emergency Phone Num:919-237-7004
+CAGE:61423
+=== Contractor Identification ===
+Company Name:KIDDE INC WALTER KIDDE DIV AEROSPACE OPNS
+Address:2500 AIRPORT DRIVE
+Box:City:WILSON
+State:NC
+ZIP:27893-9604
+Country:US
+Phone:252-237-7004
+CAGE:61423
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NITROGEN
+CAS:7727-37-9
+RTECS #:QW9700000
+Fraction by Wt: 100%
+ACGIH TLV:ASPHYXIANT; 9192
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:CHRONIC:N/A.
+    INHALE:HEADACHE,DROWSINESS,DIZZINESS,EXCITATION, EXCESS SALIVATION,
+    VOMITING AND UNCONSCIOUSNESS. LIQUID CONTACT MAY CAUSE FROSTBITE.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS
+Medical Cond Aggravated by Exposure:THE TOXICOLOGY, PHYSICAL AND
+    CHEMICAL PROPERTIES OF THE MATERIAL DO NOT SUGGEST THAT
+    OVEREXPOSURE IS LIKELY TO AGGRAVATE EXISTING MEDICAL CONDITIONS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:REMOVE TO FRESH AIR,GET MD. GIVE ART. RESP. IF NECESSARY OR
+    OXYGEN. FLUSH EYES W/WATER AT LEAST 15 MIN. FOR EXPOSURE TO LIQUID,
+    WARM FROSTBITE AREA WITH WATER (NOT TO EXCEED 105F). IN CASE OF
+    MASSIVE  EXPOSURE, REMOVE CLOTHES AND SHOWER W/WARM WATER. NOTE:
+    THERE IS NO SPECIFIC ANTIDOTE. DIR.TREATMENT AT CNTRL OF SYMPTOM.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:NITROGEN CANNOT CATCH FIRE
+Fire Fighting Procedures:USE MEDIA APPROPRIATE FOR SURROUNDING
+    FIRE.EVACUATE PERSONNEL FROM DANGER AREA.DELUGE CONTAINER W/WATER
+    SPRAY FROM MAX.DISTANCE TIL COOL.MOVE CONTAINERS AWAY.
+Unusual Fire/Explosion Hazard:GAS CANNOT CATCH FIRE.CONT.MAY RUPTURE
+    DUE TO HEAT OR FIRE.NO PART OF A CONT.SHOULD BE >52C.MOST
+    CONTAINERS WILL VENT CONTENTS WHEN EXPOSED TO HIGH TEMPS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE PERSONNEL. USE SCBA WHERE NEEDED.
+    VENTILATE AREA WHERE LEAK OCCURED. TEST AREA FOR SUFFICIENT OXYGEN
+    PRIOR TO PERMITTING RE-ENTRY OF PERSONNEL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE & USE W/ADEQUATE VENTILATIONS.
+    MIXING TWO OR MORE GASES OR LIQUIDIFIED GASES MAY COMBINE TO CREATE
+    UNEXPECTED HAZARD.OBTAIN SAFETY INFORMATION.
+Other Precautions:NEVER WORK ON A PRESSURIZED SYSTEM. IF THERE IS A
+    LEAK,CLOSE THE CYLINDER VALVE,BLOW DOWN THE SYSTEM BY VENTING TO A
+    SAFE PLACE, THEN REPAIR THE LEAK.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:PER OSHA 29 CFR 1910.134 - ACCEPTABLE TO MSHA
+    AND NIOSH
+Ventilation:LOCAL EXHAUST PREFERRED, MECHANICAL ACCEPTABLE
+Protective Gloves:USE FOR HANDLING CYLINDERS & 1910.132.
+Eye Protection:I/A/W OSHA CFR 1910.133
+Other Protective Equipment:METATORSAL SHOES FOR CYLINDER HANDLING, IAW
+    OSHA 29 CFR 1910.132
+Work Hygienic Practices:GOOD HYGIENE PRACTICE AS WITH ANY INDUSTRIAL
+    CHEMICAL
+Supplemental Safety and Health
+THIS IS PART "B" OF A TWO PART PRODUCT, WHICH IS NOT A KIT.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:-320F,-195C
+Melt/Freeze Pt:M.P/F.P Text:-346F,-210C
+Vapor Pres:@ 20C GAS
+Vapor Density:0.967
+Spec Gravity:1.2506G/L @ 0C
+Solubility in Water:SLIGHT
+Appearance and Odor:COLORLESS,ODORLESS GAS AT AMBIENT TEMP AND PRESSURE
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+UNDER CERTAIN CONDITIONS NITROGEN CAN REACT VIOLENTLY
+    W/LITHIUM,NEODYMIUM,TITANIUM OR OZONE.
+Stability Condition to Avoid:CAUTION HIGH PRESSURE GAS
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:SLOWLY RELEASE INTO ATMOSPHERE. DISCARD ANY
+    PRODUCT, RESIDUE DISPOSABLE CONTAINERS OR LINER IN AN
+    ENVIRONMENTALLY ACCEPTABLE MANNER I/A/W FED, STATE AND LOCAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,174 @@
+=====================  Product Identification  =====================
+
+Product ID:801 0308 KODAK FLEXICOLOR STABILIZER II & REPLNSHER, CONC
+MSDS Date:08/24/1989
+FSC:6750
+NIIN:01-285-1771
+MSDS Number: BHWTZ
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-477-3194 MSDS :800- 242-2424
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 85 - 90%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:TRIETHANOLAMINE
+CAS:102-71-6
+RTECS #:KL9275000
+Fraction by Wt: 10 - 15%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:SILICON
+CAS:7440-21-3
+RTECS #:VW0400000
+Fraction by Wt: 1 - 5%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:FORMALDEHYDE  (SARA III)
+CAS:50-00-0
+RTECS #:LP8925000
+Fraction by Wt: 1 - 5%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:SEE 1910.1048
+ACGIH TLV:C 0.3 PPM; A2; 9293
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:METHYL ALCOHOL (METHANOL)  (SARA III)
+CAS:67-56-1
+RTECS #:PC1400000
+Fraction by Wt: <1%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:S,200PPM/250STEL
+ACGIH TLV:S,200PPM/250STEL; 93
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:1,2-BENZISOTHIAZOLIN-3-ONE
+CAS:2634-33-5
+Fraction by Wt: 1%
+OSHA PEL:NONE ESTABLISHED
+ACGIH TLV:NONE ESTABLISHED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:YES
+Health Hazards Acute and Chronic:ACUTE-EYE:VAPOR/LIQUID CAN CAUSE EYE
+    IRRITATION.SKIN:CAUSES IRRITATION.MAY CAUSE AN ALLERGIC
+    REACTION.INHALATION:MILD SENSORY IRRITATION OF EYES,NOSE &
+    THROAT.MAY CAUSE RESPIRATORY SENSITIZATION.INGES TION:MAY CAUSE
+    ABDOMINAL PAIN,VOMITING,DIARRHEA OR DIZZINESS.CHRONIC-NONE
+    SPECIFIED BY MANUFACTURER.
+Explanation of Carcinogenicity:FORMALDEHYDE
+Effects of Overexposure:EYE/SKIN:IRRITATION.INHALATION:IRRITATES
+    EYES,NOSE,THROAT AT 2-5 PPM.MAY CAUSE RESPIRATORY SENSITIZATION IN
+    SOME INDIVIDUALS.INGESTION:MAY CAUSE ABDOMINAL PAIN WITH
+    VOMITING,NAUSEA,DIARRHEA OR DIZZINE SS.
+Medical Cond Aggravated by Exposure:MAY AGGRAVATE PRE-EXISTING
+    ASTHMATIC CONDITIONS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:GET MEDICAL ATTENTION.EYE:IMMEDIATELY FLUSH W/WATER 15 MIN,
+    HOLD LIDS OPEN.SKIN:FLUSH WITH PLENTY OF WATER WHILE REMOVING
+    CONTAMINATED CLOTHING & SHOES.INHALATION:REMOVE TO FRESH AIR.TREAT
+    SYMPTOMATIC ALLY.INGESTION:DO NOT INDUCE VOMITING.IF
+    CONSCIOUS,IMMEDIATELY GIVE ONE GLASS OF WATER.NEVER GIVE ANYTHING
+    BY MOUTH TO AN UNCONSCIOUS PERSON.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:WATER SPRAY,DRY CHEMICAL,CARBON DIOXIDE,ALCOHOL
+    FOAM
+Fire Fighting Procedures:USE SELF-CONTAINED BREATHING APPARATUS AND
+    PROTECTIVE CLOTHING.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB IN VERMICULITE OR OTHER SUITABLE
+    ABSORBENT AND PLACE IN IMPERVIOUS CONTAINER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER TIGHTLY CLOSED AND AWAY
+    FROM OXIDIZING AGENTS.
+Other Precautions:THIS FORMULATION HAS A LOW BIOLOGICAL OXYGEN DEMAND.
+    WHEN DILUTED WITH WATER TO A CONCENTRATION OF 30 MG/L, OR LESS, IS
+    NOT EXPECTED TO CAUSE AN ADVERSE ENVIRONMENTAL EFFECT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:A FULL FACEPIECE WITH CARTRIDGES OR CANISTERS
+    SPECIALLY APPROVED BY NIOSH FOR PROTECTION AGAINST FORMALDEHYDE OR
+    A TYPE C SUPPLIED AIR RESPIRATOR SHOULD BE WORN IF NEEDED.
+Ventilation:LOCAL EXHAUST
+Protective Gloves:NITRILE OR NEOPRENE
+Eye Protection:SAFETY GLASSES W/SIDE SHIELDS OR GOGGLES
+Other Protective Equipment:EYE WASH STATION & SAFETY SHOWER.
+Work Hygienic Practices:USE OF A NON-ALKALINE (ACID) TYPE OF SKIN
+    CLEANER AND GLOVES WILL HELP MINIMIZE THE POSSIBILITY OF ALLERGIC
+    REACTION.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T4
+Boiling Pt:B.P. Text:212F,100C
+Vapor Pres:18
+Vapor Density:0.6
+Spec Gravity:1.014
+pH:9.5
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR, TAN COLOR SOLUTION-SLIGHT FORMALDEHYDE ODOR
+Percent Volatiles by Volume:89(WT)
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS
+Stability Condition to Avoid:HIGH TEMPERATURE
+Hazardous Decomposition Products:CARBON DIOXIDE AND PROBABLY CARBON
+    MONOXIDE.OXIDES OF NITROGEN MAY ALSO BE PRESENT.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE BY INCINERATION OR CONTRACT WITH A
+    LICENSED CHEMICAL WASTE DISPOSAL AGENCY.DISPOSAL,DISCHARGE OR
+    TREATMENT MAY BE SUBJECT TO FEDERAL,STATE,LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,152 @@
+=====================  Product Identification  =====================
+
+Product ID:TT-P-1952C TY 1 31136 RED 700R47
+MSDS Date:01/01/1994
+FSC:8010
+NIIN:01-380-1749
+MSDS Number: BWRZK
+=== Responsible Party ===
+Company Name:GRIGGS PAINT
+Address:3602 S 16TH PLACE
+City:PHOENIX
+State:AZ
+ZIP:85040
+Country:US
+Info Phone Num:602-243-3293
+Emergency Phone Num:800-424-9300 CHEMTREC
+Preparer's Name:ROBERT COMMISSO
+CAGE:DO312
+=== Contractor Identification ===
+Company Name:GRIGGS PAINT
+Address:3602 S 16TH PLACE
+Box:City:PHOENIX
+State:AZ
+ZIP:85040
+Country:US
+Phone:602-243-3293
+CAGE:58963
+Company Name:GRIGGS PAINT
+Address:3602 S 16TH PL
+City:PHOENIX
+State:AZ
+ZIP:85040-1319
+Phone:602-243-3293
+CAGE:DO312
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ACRYLIC POLYMER PLUS PROPRIETARY ADDITIVES
+Fraction by Wt: 30%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:MAGNESIUM SILICATE
+CAS:14807-96-6
+RTECS #:MW2700000
+Fraction by Wt: 10%
+Other REC Limits:NONE RECOMMENDED
+ACGIH TLV:2 MG/M3
+
+Ingred Name:METHANOL (VAPOR PRESSURE 5.9 MM HG @ 68F) (SARA 313)
+    (CERCLA)
+CAS:67-56-1
+RTECS #:PC1400000
+Fraction by Wt: 1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:200 PPM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:MATERIAL VOC: 0.37 LB/GL (45 G/L)
+RTECS #:9999999VO
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: ADVERSE HEALTH EFFECTS
+    FROM VAPOR/SPRAY MIST IN POORLY VENTED AREAS MAY INCLUDE IRRITATION
+    OF NOSE, THROAT, RESPIRATORY TRACT. HEADACHE & NAUSEA MAY ALSO
+    OCCUR. SKIN: PROLONGED/REPEATED CO NTACT MAY CAUSE IRRITATION. EYE:
+    DIRECTCONTACT MAY RESULT IN IRRITATION. INGESTION: IRRITATION &
+    MUCOUS MEMBRANE DAMAGE
+Medical Cond Aggravated by Exposure:NONE KNOWN
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR AND GIVE ARTIFICIAL
+    RESPIRATION OR OXYGEN IF NEEDED. CALL A PHYSICIAN. INGESTION: DO
+    NOT INDUCE VOMITING. CALL A PHYSICIAN. EYE: FLUSH EYES WITH WATER
+    FOR 15 MINUTES. C ALL A PHYSICIAN. SKIN CONTACT: WASH SKIN WITH
+    SOAP AND WATER. CALL A PHYSICIAN IF IRRITATION PERSISTS.
+
+=====================  Fire Fighting Measures  =====================
+
+Lower Limits:7.3
+Extinguishing Media:NONE KNOWN	   * 9.5
+Fire Fighting Procedures:NONE
+Unusual Fire/Explosion Hazard:PRODUCT WILL NOT BURN BUT MAY SPATTER IF
+    TEMPERATURE EXCEEDS BOILING POINT. POLYMER FILMS ARE CAPABLE OF
+    BURNING GIVING OFF OXIDES OF CARBON/NITROGEN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE ALL SOURCES OF IGNITION. DIKE AND
+    CONTAIN SPILL WITH INERT MATERIAL. TRANSFER LIQUID TO CONTAINERS.
+    KEEP SPILLS AND RUNOFFS OUT OF MUNICIPAL SEWERS AND OPEN BODIES OF
+    WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID FREEZING. AVOID CONTACT WITH
+    MICROORGANISMS. KEEP CONTAINER CLOSED WHEN NOT IN USE.
+Other Precautions:CAUTION - MAY BE HARMFUL IF SWALLOWED. BREATHING
+    VAPOR OR MIST MAY BE HARMFUL. USE WITH ADEQUATE VENTILATION. AVOID
+    EYE AND SKIN CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF EXPOSURE EXCEEDS PERMISSIBLE EXPOSURE LIMITS,
+    USE APPROPRIATE NIOSH APPROVED RESPIRATORY EQUIPMENT.
+Ventilation:LOCAL EXHAUST RECOMMENDED. MECHANICAL VENTILATION
+    RECOMMENDED.
+Protective Gloves:IMPERMEABLE GLOVES-MINIMIZE SKIN CONTACT
+Eye Protection:CHEM SPLSH GOGGLES,SFTY GLASSES,FACESHLD
+Other Protective Equipment:EYE WASH FOUNTAIN, SAFETY SHOWER
+Work Hygienic Practices:WASH HANDS BEFORE EATING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:147 TO 212F
+Vapor Density:> AIR
+Spec Gravity:1.6 (H2O=1)
+pH:9.2- *
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:100%
+Appearance and Odor:VISCOUS LIQUID WITH SLIGHT AMMONIA ODOR
+Percent Volatiles by Volume:38.9
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE KNOWN
+Stability Condition to Avoid:FREEZING TEMPERATURES
+Hazardous Decomposition Products:NONE KNOWN
+Conditions to Avoid Polymerization:FREEZING TEMPERATURES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:OBEY RELEVANT LOCAL, STATE, AND FEDERAL LAWS. DO
+    NOT CONTAMINATE ANY LAKES, PONDS, STREAMS, OR UNDERGROUND WATER
+    SUPPLIES. TREAT AS HAZARDOUS WASTE. DISPOSE OF IN ACCORDANCE WITH
+    FEDERAL, STATE, AND L OCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

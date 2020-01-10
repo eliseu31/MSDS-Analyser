@@ -1,0 +1,137 @@
+=====================  Product Identification  =====================
+
+Product ID:PD-220D
+MSDS Date:07/01/1994
+FSC:7930
+NIIN:01-019-0809
+MSDS Number: BWRXL
+=== Responsible Party ===
+Company Name:TRONEX CHEMICAL CORPORATION
+Address:1401 WOODLAND
+City:DETROIT
+State:MI
+ZIP:48211
+Country:US
+Info Phone Num:313-865-4600
+Emergency Phone Num:313-865-4600
+CAGE:TRONE
+=== Contractor Identification ===
+Company Name:CRESCENT CONT.
+Box:UNKNOW
+CAGE:NO736
+Company Name:TRONEX CHEMICAL CORPORATION
+Address:1401 WOODLAND
+City:DETROIT
+State:MI
+ZIP:48211
+Country:US
+Phone:313-865-4600
+CAGE:TRONE
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:INORGANIC PHOSPHATE SALT
+Fraction by Wt: <30%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:INORGANIC CARBONATE SALT
+Fraction by Wt: <70%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:ALKYL ARYL SULFONATE SALT
+Fraction by Wt: <5%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:POLYETHYLENE/PROPYLENE GLYCOL POLYMER
+Fraction by Wt: <5%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INGESTION: CAN CAUSE BURNS TO MOUTH,
+    ESOPHAGUS, AND STOMACH. EYE: GIVES IRRITATION AND POSSIBLE ALKALINE
+    BURNS. SKIN: PROLONGED CONTACT CAN BE IRRITATING AND ALSO DRIES
+    SKIN. INHALATION: CAN BE IRRITA TING TO UPPER RESPIRATORY TRACT AND
+    CAUSE DISCOMFORT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH W/WATER FOR AT LEAST 15 MINUTES, INCLUDING UNDER
+    EYELIDS. GET MED AID. SKIN: FLUSH WITH WATER & WASH WITH SOAP. GET
+    MED AID, IF IRRITATION PERSISTS. INHALATION: REMOVE VICTIM TO FRESH
+    AIR. G ET MED AID, IF IRRITATION PERSISTS. INGESTION: DO NOT INDUCE
+    VOMIT. GIVE DILUTED VINEGAR OR CITRUS JUICE FOLLOWED BY LRG QTY
+    MILK OR WATER TO DRINK.NOTHING BY MOUTH TO UNCONSCIOUS PERSON. GET
+    MED AID.
+
+=====================  Fire Fighting Measures  =====================
+
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE SELF-CONTAINED
+    BREATHING APPARATUS AND FULL PROTECTIVE CLOTHING. USE WATER SPRAY
+    TO COOL FIRE EXPOSED CONTAINERS.
+Unusual Fire/Explosion Hazard:THIS MATERIAL IS CLASSIFIED NONFLAMMABLE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NOTIFY SAFETY PERSONNEL OF LEAK/SPILL.CONTAIN
+    SPILL.COLLECT LIQ W/INERT CLAY.SHOVEL UP DRY MAT'L.PLACE IN LABELED
+    CLOSED CONTAINERS.NEUTRALIZE RESIDUE W/DILUTE ACID/SODIUM
+    BICARBONATE.DON'T FLUSH TO S EWER,STREAM,WATERWAYS.FLUSH RESIDUE TO
+    CHEM SEWERS
+Neutralizing Agent:NEUTRALIZATION IS REQUIRED FOR ALKALINE MATERIALS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:WHEN MAKING SOLUTIONS ADD SLOWLY TO
+    SURFACE OF WATER WHILE STIRRING. USE CAUTION WHEN ADDING ALKALINE
+    MAT'LS TO HOT WATER.
+Other Precautions:AVOID OUTDOOR STORAGE, HEAT, & SUNLIGHT. STORE IN
+    CLOSED, PROPERLY LABELED CONTAINERS. PROTECT CONTAINERS FROM
+    PHYSICAL DAMAGE. EMPTY CONTAINERS SHOULD BE WATER FLUSHED AND
+    CLEANED (FREE OF RESIDUE) P RIOR TO DISCARD PROCEDURES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:PROVIDE RESPIRATORY PROTECTION WHERE DUST OR
+    MISTING CONDITIONS OCCUR.
+Ventilation:WHERE DUSTY, MISTING OR VAPOR CONDITIONS EXIST PROVIDE
+    LOCAL EXHAUST VENTILATION (10-100 FPM CAPTURE VELOCITY).
+Protective Gloves:PROVIDE RUBBER GLOVES
+Eye Protection:SAFETY GOGGLES & FULL FACE SHIELD
+Other Protective Equipment:PROVIDE RUBBER APRONS. AVOID WEARING
+    CONTAMINATED CLOTHING. LAUNDER CLOTHING PRIOR TO REUSE. EYEWASH
+    STATIONS.
+Work Hygienic Practices:AVOID WEARING CONTAMINATED CLOTHING. LAUNDER
+    CLOTHING PRIOR TO REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+pH:10.0
+Solubility in Water:COMPLETE
+Appearance and Odor:WHITE POWDER - MILD DETERGENT ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING AGENTS, STRONG ACIDS
+Hazardous Decomposition Products:THERMAL OXIDATIVE DECOMPOSITION
+    PRODUCTS CAN INCLUDE OXIDES OF CARBON.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:WASTE MATERIAL MUST BE DISPOSED OF IN AN
+    APPROVED WASTE FACILITY. CARE MUST BE TAKEN WHEN USING OR DISPOSING
+    OF CHEMICAL MATERIALS AND/OR CONTAINERS TO PREVENT ENVIRONMENTAL
+    CONTAMINATION. FOLLOW FEDE RAL, STATE, AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

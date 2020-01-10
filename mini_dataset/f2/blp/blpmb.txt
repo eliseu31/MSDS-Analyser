@@ -1,0 +1,123 @@
+=====================  Product Identification  =====================
+
+Product ID:TRICHEM 715 EPOXY RESIN
+MSDS Date:11/11/1985
+FSC:8040
+NIIN:00F019133
+MSDS Number: BLPMB
+=== Responsible Party ===
+Company Name:TRIMONT CHEMICAL
+City:CUMBERLAND
+State:RI
+ZIP:02864
+Info Phone Num:(401) 333-4100
+Emergency Phone Num:(401) 333-4100
+CAGE:TRIMO
+=== Contractor Identification ===
+Company Name:TRIMONT CHEMICAL
+City:CUMBERLAND
+State:RI
+ZIP:02864
+Phone:(401) 333-4100
+CAGE:TRIMO
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:EPICHLOROHYDRIN  (SARA III)
+CAS:106-89-8
+RTECS #:TX4900000
+Fraction by Wt: <90%
+Other REC Limits:2 PPM
+OSHA PEL:S, 5 PPM
+ACGIH TLV:S, 2 PPM; 9293
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:4,4'-ISOPROPYLIDENEDIPHENOL  (SARA III)
+CAS:80-05-7
+RTECS #:SL6300000
+Fraction by Wt: <90%
+
+Ingred Name:N-BUTYL GLYCIDYL ETHER (BGE)
+CAS:2426-08-6
+RTECS #:TX4200000
+Fraction by Wt: 10-14%
+Other REC Limits:25 PPM
+OSHA PEL:50 PPM
+ACGIH TLV:25 PPM; 9293
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): >2050 MG/KG.
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION. SKIN: IRRITATION,
+    SENSITIZER & DERMATITIS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: IRRITATION. SKIN: IRRITATION, SENSITIZER,
+    & DERMATITIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: IRRIGATE/FLUSH W/WATER FOR 5 MINUTES. SKIN: WASH
+    W/WATER OR SHOWER. INHALATION: REMOVE TO FRESH AIR. INGESTION:
+    INDUCE VOMITING. OBTAIN MEDICAL ATTENTION IN ALL CASES. PHYSICIAN
+    NOTE: EYE STAIN  FOR EVIDENCE OF CORNEAL INJURY. NO SPECIFIC
+    ANTIDOTE, TREAT SYMPTOMS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:135F
+Extinguishing Media:FOAM, CO2 OR DRY CHEMICAL
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SOAK UP IN ABSORBENT MATERIAL OR SCRAPE UP.
+    RESIDUAL CAN BE REMOVED W/NON-FLAMMABLE SOLVENT SUCH AS METHYLENE
+    CHLORIDE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:PRACTICE GOOD CAUTION TO AVOID SKIN &
+    EYE CONTACT. AVOID BREATHING VAPORS OF HEATED MATERIAL.
+Other Precautions:EXCESSIVE OF HEATING OVER LONG PERIODS OF TIME
+    DEGRADES THE RESIN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY NEEDED
+Ventilation:GOOD ROOM VENTILATION ADEQUATE
+Eye Protection:SAFETY GLASSES W/O SIDE SHIELDS
+Other Protective Equipment:BODY-COVERING CLOTHING
+Work Hygienic Practices:PRACTICE GOOD CAUTION & PERSONNEL CLEANLINESS.
+    WASH CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:327F
+Vapor Density:>AIR
+Spec Gravity:1.12-1.14
+Solubility in Water:INSOLUBLE
+Appearance and Odor:STRAW COLORED LIQUID W/MILD AROMATIC ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+BASE
+Stability Condition to Avoid:EXCESS HEATING
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:BURN IN ADEQUATE INCINERATOR OR BURY IN AN
+    APPROVED LANDFILL ACCORDING TO FEDERAL, STATE, & LOCAL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

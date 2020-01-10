@@ -1,0 +1,128 @@
+=====================  Product Identification  =====================
+
+Product ID:RPM DELO MOTOR OIL SAE 15W-40
+MSDS Date:10/22/1985
+FSC:9150
+NIIN:00-186-6706
+MSDS Number: BDHDV
+=== Responsible Party ===
+Company Name:CHEVRON ENVIRONMENTAL HEALTH CENTER INC
+Address:15299 SAN PABLO AVE
+Box:4054
+City:RICHMOND
+State:CA
+ZIP:94804
+Emergency Phone Num:415-233-3737
+CAGE:0AHD1
+=== Contractor Identification ===
+Company Name:CHEVRON ENVIRONMENTAL HEALTH CENTER INC
+Address:15299 SAN PABLO AVE
+Box:4054
+City:RICHMOND
+State:CA
+ZIP:94804
+Country:US
+Phone:800-582-3835
+CAGE:0AHD1
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:REFINED BASE OIL
+CAS:64742-54-7
+RTECS #:PY8035500
+OSHA PEL:5 MG/CUM(OIL MIST)
+ACGIH TLV:5 MG/CUM(OIL MIST)
+
+Ingred Name:REFINED BASE OIL
+CAS:64742-65-0
+RTECS #:PY8038500
+OSHA PEL:5 MG/CUM (OIL MIST)
+ACGIH TLV:5 MG/CUM (OIL MIST)
+
+Ingred Name:DETERGENT INHIBITOR(CONTAINS ZINC
+    DIALKYLDITHIOPHOSPHATE:CAS-68649-42-3)
+
+Ingred Name:DETERGENT INHIBITOR(CONTAINS CALCIUM PHENATE)
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Health Hazards Acute and Chronic:EXPECTED TO CAUSE NO MORE THAN MINOR
+    SKIN OR EYE IRRITATION WHEN CONTACTED; BREATHING MINERAL OIL MIST
+    AT CONCENTRATIONS IN AIR THAT EXCEED THE PEL CAN CAUSE RESPIRATORY
+    IRRITATION OR DISCOMFORT.
+Effects of Overexposure:IRRITATION
+Medical Cond Aggravated by Exposure:NONE STATED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH WITH FRESH WATER FOR AT LEAST 15 MINUTES WHILE
+    HOLDING EYELIDS OPEN; SKIN:WASH WITH SOAP & WATER,LAUNDER
+    CONTAMINATED CLOTHING; INH:REMOVE TO FRESH AIR,SEE A PHYSICIAN IF
+    IRRITATION CONTINUE S; ING:GIVE WATER OR MILK TO DRINK & SEEK
+    MEDICAL ADVICE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:410F/210C
+Extinguishing Media:CO*2,DRY CHEMICAL,FOAM,WATER FOG
+Fire Fighting Procedures:WEAR PROPER PROTECTIVE EQUIPMENT INCLUDING
+    SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:NONE STATED
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:STOP SOURCE OF THE LEAK OR RELEASE.CONTAIN
+    LIQUID TO PREVENT FURTHER CONTAMINATION OF SOIL,SURFACE WATER OR
+    GROUNDWATER.CLEAN UP SPILL WITH ABSORBENT MATERIALS OR
+    PUMPING.REMOVE CONTAMINATED SOIL.FOLL OW PRESCRIBED PROCEDURES FOR
+    REPORTING.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT WELD,HEAT OR DRILL
+    CONTAINER.RESIDUE MAY IGNITE WITH EXPLOSIVE VIOLENCE IF HEATED
+    SUFFICIENTLY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NORMALLY NONE.
+Ventilation:NORMAL VENTILATION
+Protective Gloves:OIL IMPERVIOUS
+Eye Protection:SAFETY GLASSES OR GOGGLES
+Other Protective Equipment:IMPERVIOUS CLOTHING
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Spec Gravity:0.89
+pH:7
+Viscosity:13.8 CST(100C
+Solubility in Water:INSOLUBLE
+Appearance and Odor:DARK AMBER LIQUID
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDING MATERIALS
+Stability Condition to Avoid:NONE STATED
+Hazardous Decomposition Products:CO*2;OXIDES OF SULFUR,NITROGEN &
+    PHOSPHORUS;CO.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PLACE CONTAMINATED MATERIALS IN DISPOSABLE
+    CONTAINERS,& FOLLOW APPLICABLE REGULATIONS. CONTACT LOCAL
+    ENVIRONMENTAL OR HEALTH AUTHORITIES FOR APPROVED DISPOSAL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

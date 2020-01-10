@@ -1,0 +1,110 @@
+=====================  Product Identification  =====================
+
+Product ID:SNAKE-OIL
+MSDS Date:01/18/1989
+FSC:9150
+NIIN:00F019098
+MSDS Number: BLPKF
+=== Responsible Party ===
+Company Name:GENERAL WIRE SPRING COMPANY
+Address:1101 THOMPSON AVE
+City:MCKEES ROCKS
+State:PA
+ZIP:15136
+Info Phone Num:(412) 771-6300
+Emergency Phone Num:(800) 424-9300
+CAGE:96282
+=== Contractor Identification ===
+Company Name:GENERAL WIRE SPRING COMPANY
+Address:1101 THOMPSON AVE
+Box:City:MCKEES ROCKS
+State:PA
+ZIP:15136
+Phone:(412) 771-6300
+CAGE:96282
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ALIPHATIC HYDROCARBON SOLVENT
+Fraction by Wt: >90%
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:ORTHOBENZYL PARACHLOROPHENOL
+Fraction by Wt: 0.5%
+
+Ingred Name:CALCIUM PETROLEUM SULFONATE
+CAS:61789-86-4
+RTECS #:WR7140000
+Fraction by Wt: >2%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: STINGS. SKIN: IRRITATION &
+    DEFATTING. INHALATION: DIZZINESS OR HEADACHES.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: STINGS. SKIN: IRRITATION & DEFATTING.
+    INHALATION: DIZZINESS, HEADACHES.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: WASH W/SOAP & WATER FOR 15 MINS. USE AN EMMOLIENT.
+    EYES: RINSE W/COOL WATER FOR 15 MINS. INGESTION: DON'T INDUCE
+    VOMITING. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:275F
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL
+Fire Fighting Procedures:USE WATER TO KEEP FIRE-EXPOSED CONTAINERS
+    COOL.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB SPILL W/ABSORBANT MATERIAL & SHOVEL
+    INTO WASTE DISPOSAL DRUMS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINERS CLOSED. STORE IN A
+    COOL, DRY PLACE.
+Other Precautions:AVOID BREATHING OF VAPORS OR SPRAY MIST. DON'T TAKE
+    INTERNALLY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NORMALLY REQUIRED
+Ventilation:LOCAL EXHAUST: RECOMMENDED
+Protective Gloves:OIL PROOF
+Eye Protection:PROTECTIVE GOGGLES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:450-610F
+Vapor Pres:0.1
+Spec Gravity:0.832
+Solubility in Water:EMULSIFIABLE
+Appearance and Odor:CLEAR, AMBER LIQUID ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

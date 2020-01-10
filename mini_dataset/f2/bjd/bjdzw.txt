@@ -1,0 +1,142 @@
+=====================  Product Identification  =====================
+
+Product ID:TRACER TECH P-133D (SEE SUPP.)
+MSDS Date:05/01/1990
+FSC:6850
+NIIN:01-263-2262
+MSDS Number: BJDZW
+=== Responsible Party ===
+Company Name:ARDROX INC
+Address:16961 KNOTT AVE
+City:LA MIRADA
+State:CA
+ZIP:90638-6015
+Country:US
+Info Phone Num:714-739-2821
+Emergency Phone Num:800 424-9300 (CHEMTREC)
+Preparer's Name:SHEREE L. KINZEL
+CAGE:23373
+=== Contractor Identification ===
+Company Name:BRENT AMERICA,  INC.
+Address:16961 KNOTT AVE.
+Box:City:LA MIRADA
+State:CA
+ZIP:90638-6015
+Country:US
+Phone:714-739-2821
+CAGE:23373
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WHITE MINERAL OIL
+CAS:8042-47-5
+RTECS #:PY8047000
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE-EYES:IRRITANT.
+    SKIN:IRRITANT/DERMATITIS. INHALE:THROAT/LUNGS IRRITANT.
+    INGEST:NONFATAL UNLESS ASPIRATION OCCURS. CHRONIC-EYES:IRRITANT.
+    SKIN:DERMATITIS. INHALE:NON-SPECIFIC SYMPTOMS RELATED TO T HE
+    NERVOUS SYSTEM, GASTROINTESTINAL TRACT & LUNG. INGEST:BURNING
+    THROAT, UNCONSCIOUSNESS, CONVULSIONS FOLLOWED BY DEATH.
+Explanation of Carcinogenicity:NONE OF THE CHEMICALS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:EYES:IRRITATION. SKIN:DRYNESS, CHAPPING, AND
+    REDDENING. INHALE:IRRITATION OF THROAT AND LUNGS.
+    INGEST:DROWSINESS, DULLNESS, NUMBNESS AND HEADACHE FOLLOWED BY
+    DIZZINESS, WEAKNESS AND NAUSEA.
+Medical Cond Aggravated by Exposure:PERSONS WITH PRE-EXISTING SKIN
+    CONDITIONS MAY BE AT INCREASED RISK FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:FIRST AID-EYE: IMMEDIATELY FLUSH WITH PLENTY OF WATER FOR 15
+    MINUTES. SEE DOCTOR. SKIN: WASH WITH SOAP AND WATER. INHALATION:
+    REMOVE TO FRESH AIR. IF NOT BREATHING GIVE CPR. IF BREATHING HARD,
+    GIVE OX YGEN. KEEP WARM & AT REST. SEE DOCTOR. INGESTION: DO NOT
+    INDUCE VOMITING. IF CONSCIOUS, GIVE LARGE AMOUNTS OF WATER. SEE
+    DOCTOR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:>200F,>93C
+Lower Limits:1.1
+Upper Limits:6.0
+Extinguishing Media:USE CARBON DIOXIDE, FOAM, OR DRY CHEMICAL.
+Fire Fighting Procedures:WATER CAN BE USED TO COOL CNTNRS EXPOSED TO
+    HEAT/FLAME. USE CAUTION WITH WATER/FOAM AS FROTHING MAY OCCUR,
+    ESPECIALLY IF SPRAYED IN CNTNR OF HOT BURNING LIQUID.
+Unusual Fire/Explosion Hazard:DENSE SMOKE MAT BE GENERATED WHILE
+    BURNING. CARBON MONOXIDE, CARBON DIOXIDE AND OTHER OXIDES MAY BE
+    GENERATED AS PRODUCTS OF COMBUSTION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE EQUIPMENT. ABSORB SMALL SPILL
+    WITH NON-COMBUSTIBLE INORGANIC MATERIAL OR DIKE TO RETAIN LARGE
+    SPILL. PLACE WASTE IN DOT APPROVED CONTAINER FOR DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORAGE-KEEP COOL, DRY & AWAY FROM
+    IGNITION SOURCES. KEEP FROM DIRECT SUNLIGHT, HIGH TEMP. OR BELOW
+    FREEZING AREAS. KEEP CONTAINER TIGHTLY CLOSED.
+Other Precautions:PROTECT FROM PHYSICAL DAMAGE. USE AND STORE WITH
+    ADEQUATE VENTILATION. DO NOT CUT, GRIND, WELD OR DRILL ON OR NEAR
+    THIS CONTAINER. GROUND ALL EQUIPMENT. WASH THOROUGHLY AFTER USE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF VENTILATION DOES NOT MAINTAIN INHALATION
+    EXPOSURES BELOW PEL, USE NIOSH APPROVED CANISTER-TYPE RESPIRATOR.
+    IN CONFINED OR POORLY VENTILATED AREAS OR FOR EMERGENCY USE AN
+    APPROVED POSITIVE-PRESSURE,  SELF CONTAINED BREATHING APPARATUS.
+Ventilation:MECHANICAL (GENERAL) VENTILATION IS USUALLY ADEQUATE. LOCAL
+    EXPLOSION PROOF EXHAUST VENTILATION MAY BE NEEDED.
+Protective Gloves:RUBBER GLOVES
+Eye Protection:SAFETY GLASSES/CHEMICAL SPLASH GOGGLES
+Other Protective Equipment:SAFETY SHOWER AND EYE BATH. INDUSTRIAL TYPE
+    WORK CLOTHING AND APRON AS REQUIRED TO AVOID PROLONGED OR REPEATED
+    CONTACT.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING AND BEFORE
+    EATING OR DRINKING. LAUNDER CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+PRODUCT UNDER THE FOLLOWING P/N IND: A, B, C, D  OR E ARE LISTED IN
+    QPL-25135-15 UNDER TYPE 1, METHOD A, LEVEL 2 OF MIL-I-25135.(P/N
+    IND A: TRACER-TECH P-133A; P/N IND B: 970-P23; P/N IND C: TRACER-TE
+    CH P-133D; P/N IND D: P-134D; P/N IND E: BIO-PEN P6F2.)
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:>240F,>116C
+Spec Gravity:0.871
+Evaporation Rate & Reference:<1
+Solubility in Water:MODERATE
+Appearance and Odor:FLUORESCENT YELLOW GREEN MOBILE LIQUID. MILD ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:CARBON DIOXIDE AND CARBON MONOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH ALL APPLICABLE
+    FEDERAL, STATE AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

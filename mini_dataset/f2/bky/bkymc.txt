@@ -1,0 +1,125 @@
+=====================  Product Identification  =====================
+
+Product ID:CS 3300 (PART B)
+MSDS Date:03/16/1990
+FSC:8030
+NIIN:00-616-9191
+MSDS Number: BKYMC
+=== Responsible Party ===
+Company Name:FLAMEMASTER CORP
+Address:11120 SHERMAN WAY
+City:SUN VALLEY
+State:CA
+ZIP:91352
+Info Phone Num:(818) 982-1650
+Emergency Phone Num:(818) 982-1650
+CAGE:14439
+=== Contractor Identification ===
+Company Name:FLAMEMASTER CORP THE CHEM SEAL DIV
+Address:11120 SHERMAN WAY
+Box:City:SUN VALLEY
+State:CA
+ZIP:91352-4949
+Country:US
+Phone:818-982-1650
+CAGE:14439
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LEAD PEROXIDE, LEAD DIOXIDE
+CAS:1309-60-0
+RTECS #:OG0700000
+Fraction by Wt: 64%
+OSHA PEL:50 UG/CUM
+ACGIH TLV:0.15 MG/CUM
+
+Ingred Name:LEAD OXIDE YELLOW, LEAD OXIDE
+CAS:1317-36-8
+RTECS #:OG1750000
+Fraction by Wt: 6%
+OSHA PEL:0.05 MG/CUM
+ACGIH TLV:0.15 MG/CUM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION. INGESTION: WEAKNESS,
+    STUPOR, KIDNEY DAMAGE, ANEMIA, REPRODUCTIVE DEFECTS, HEADACHE,
+    MUSCLE & JOINT PAIN & NEUROMUSCULAR DYSFUNCTION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: IRRITATION. INGESTION: WEAKNESS, STUPOR,
+    KIDNEY DAMAGE, ANEMIA, REPRODUCTIVE DEFECTS, HEADACHE, MUSCLE &
+    JOINT PAIN & NEUROMUSCULAR DYSFUNCTION.
+Medical Cond Aggravated by Exposure:ANEMIA, KIDNEY DISEASE & PREGNANCY
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER. INGESTION: INDUCE VOMITING.
+    OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:>200F
+Extinguishing Media:DRY CHEMICAL, FOAM, CO2 OR WATER
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS W/FULL
+    FACEPIECE, IN CONFINED AREAS.
+Unusual Fire/Explosion Hazard:FIRE HAZARD EXISTS IF CONTACT
+    W/OXIDIZABLE MATERIALS AT HIGH TEMPERATURES
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SCOOP UP & TRANSFER TO SAFETY CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL DRY AREA. KEEP
+    CONTAINERS CLOSED WHEN NOT USINS. TRAIN EMPLOYEES IN THE SAFE
+    HANDLING OF THIS PRODUCT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF SUT IS FORMED USE NIOSH APPROVED RESPIRATOR
+Ventilation:PROVIDE LOCAL AIR HOOD OR MECHANICAL FAN EXHAUST
+    VENTILATION
+Protective Gloves:RUBBER
+Eye Protection:SAFETY GLASSES
+Work Hygienic Practices:WASH HANDS BEFORE EATING, SMOKING OR DRINKING
+    AFTER HANDLING
+Supplemental Safety and Health
+EXPORUSE LIMITS ARE BASED ON DUST PARTICLES. THE LEAD DIOXIDE/OXIDE
+    PARTICLES ARE WETTED OUT, THEREFORE AIRBORNE PARTICLES WILL NOT
+    RESULT FROM NORMAL USE.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:644F
+Melt/Freeze Pt:M.P/F.P Text:ROOM TEMP.
+Vapor Pres:NIL
+Spec Gravity:3
+Evaporation Rate & Reference:NIL
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:BROWN PASTE W/OILY ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZABLE MATERIALS
+Stability Condition to Avoid:HIGH TEMPERATURES & HEAT
+Hazardous Decomposition Products:LEAD OXIDE DUST & ORGANICS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:RETURN TO SMELTER FOR RECLAMATION OR REACT
+    W/BASE.  DISPOSE OF ACCORDING TO FEDERAL, STATE, & LOCAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

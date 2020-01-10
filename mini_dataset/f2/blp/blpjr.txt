@@ -1,0 +1,106 @@
+=====================  Product Identification  =====================
+
+Product ID:STEEP ROOFING ASPHALT
+MSDS Date:11/21/1985
+FSC:5610
+NIIN:00F019087
+MSDS Number: BLPJR
+=== Responsible Party ===
+Company Name:YOUNG REFINING CORPORATION
+Address:7982 HUEY ROAD
+City:DOUGLASVILLE
+State:GA
+ZIP:30134
+Info Phone Num:(404) 920-0563
+Emergency Phone Num:(404) 920-0563
+CAGE:1HS88
+=== Contractor Identification ===
+Company Name:YOUNG REFINING CORP
+Address:7982 HUEY RD
+Box:City:DOUGLASVILLE
+State:GA
+ZIP:30134
+Country:US
+Phone:404-942-2343
+CAGE:1HS88
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PETROLEUM ASPHALT
+Other REC Limits:STEL 10 MG/CUM
+ACGIH TLV:5 MG/CUM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: RESPIRATORY TRACT
+    IRRITATION.
+Explanation of Carcinogenicity:CARCINOGENIC & EQUIVOCAL TUMORIGENIC
+    AGENT BY RTECS CRITERIA.
+Effects of Overexposure:INHALATION: RESPIRATORY TRACT IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. SKIN: DON'T ATTEMPT TO
+    REMOVE HOT ASPHALT. COOL W/ICE, COVER W/PETROLEUM JELLY TO SOFTEN.
+    OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:530F
+Extinguishing Media:CO2, DRY CHEMICAL OR FOAM
+Fire Fighting Procedures:USE WATER ONLY TO COOL FIRE EXPOSED
+    CONTAINERS. DON'T ENTER CONFINED FIRE SPACE W/O PROPER PROTECTIVE
+    EQUIPMENT. WEAR A SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:AVOID WATER CONTACT W/HOT ASPHALT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SHUT OFF LEAK SOURCE & CONTAIN SPILL W/EARTH
+    OR SAND.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID SKIN CONTACT & BREATHING VAPORS.
+    AVOID WATER CONTACT W/HOT ASPHALT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE ORGANIC VAPOR RESPIRATOR IF >TLV.
+Ventilation:ADEQUATE
+Protective Gloves:IMPERMEABLE
+Eye Protection:GOGGLES OR FACE SHIELD
+Other Protective Equipment:LONG SLEEVED SHIRT, LONG TROUSSERS.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:674F
+Melt/Freeze Pt:M.P/F.P Text:185-205F
+Vapor Pres:<40
+Vapor Density:>AIR
+Spec Gravity:1.04
+Solubility in Water:INSOLUBLE
+Appearance and Odor:BLACK, VISCOUS SOLID W/TAR LIKE ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:EXCESSIVE HEATING
+Hazardous Decomposition Products:CO
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:RECYCLE OR LANDFILL ACCORDING TO FEDERAL, STATE,
+    & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

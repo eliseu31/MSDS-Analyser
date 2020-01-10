@@ -1,0 +1,167 @@
+=====================  Product Identification  =====================
+
+Product ID:4-NITROBENZYL CHLORIDE 99%, 140112
+MSDS Date:01/01/1999
+FSC:6810
+NIIN:00N092223
+Status Code:A
+MSDS Number: CJQRV
+=== Responsible Party ===
+Company Name:ALDRICH CHEMICAL CO INC
+Address:1001 WEST ST PAUL
+City:MILWAUKEE
+State:WI
+ZIP:53233
+Country:US
+Info Phone Num:414-273-3850
+Emergency Phone Num:414-273-3850
+CAGE:60928
+=== Contractor Identification ===
+Company Name:ALDRICH CHEMICAL CO INC
+Address:1001 WEST ST PAUL AVE
+Box:355
+City:MILWAUKEE
+State:WI
+ZIP:53233
+Country:US
+Phone:414-273-3850
+CAGE:60928
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:4-NITROBENZYL CHLORIDE
+CAS:100-14-1
+RTECS #:XS9093000
+Code:F
+= Wt:99.
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50: (ORAL,RAT) 1809 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: HARMFUL IF SWALLOWED, INHALED,
+    OR ABSORBED THROUGH SKIN. CAUSES BURNS. MATERIAL IS EXTREMELY
+    DESTRUCTIVE TO TISSUE OF THE MUCOUS MEMBRANES AND UPPER RESPIRATORY
+    TRACT, EYES AND SKIN. DEPENDING  ON THE INTENSITY AND DURATION OF
+    EXPOSURE, EFFECTS MAY VARY FROM MILD IRRITATION TO SEVERE
+    DESTRUCTION OF TISSUE. SYMPTOMS OF EXPOSURE MAY INCLUDE BURNING
+    SENSATION, COUGHING, WHEEZING, LARYNGITIS, SH ORTNESS OF BREATH,
+    HEADACHE, NAUSEA & VOMITING. INHALATION MAY RESULT IN SPASM,
+    INFLAMMATION AND EDEMA OF THE LARYNX AND BRONCHI, CHEMICAL
+    PNEUMONITIS AND PULMONARY EDEMA.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:CONTAMINATION OF EYES SHOULD BE TREATED BY IMMEDIATE AND
+    PROLONGED IRRIGATION WITH COPIOUS AMOUNTS OF WATER FOR AT LST 15
+    MINUTES. ASSURE ADEQUATE FLUSHING OF EYES BY SEPARATING THE EYELIDS
+    WITH FINGE RS. IN CASE OF CONTACT, IMMEDIATELY WASHSKIN WITH SOAP
+    AND COPIOUS AMOUNTS OF WATER. IF INHALED, REMOVE TO FRESH AIR. IF
+    NOT BREATHING GIVE ARTIFICIAL RESPIRATION. IF BREATHING IS
+    DIFFICULT, GIVE OXYG EN. IF SWALLOWED, WASH OUT MOUTH WITH WATER
+    PROVIDED PERSON IS CONSCIOUS. CALL PHYSICIAN. DISCARD CONTAMINATED
+    CLOTHING AND SHOES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:CARBON DIOXIDE, DRY CHEMICAL POWDER OR APPROPRIATE
+    FOAM. DO NOT USE WATER.
+Fire Fighting Procedures:WEAR NIOSH APPROVED SELF-CONTAINED BREATHING
+    APPARATUS AND PROTECTIVE CLOTHING TO PREVENT CONTACT WITH SKIN AND
+    EYES.
+Unusual Fire/Explosion Hazard:WATER HYDROLYZES MATERIAL LIBERATING
+    ACIDIC GAS WHICH IN CONTACT WITH METAL SURFACES CAN GENERATE
+    FLAMMABLE AND/OR EXPLOSIVE HYDROGEN GAS. EMITS TOXIC FUMES UNDER
+    FIRE CONDITIONS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE AREA. WEAR NIOSH APPRVD
+    SELF-CONTAINED BREATHING APPARATUS, RUBBER BOOTS AND HEAVY RUBBER
+    GLOVES. COVER WITH DRY LIME OR SODA ASH, PICK UP, KEEP IN A CLOSED
+    CONTAINER AND HOLD FOR WASTE DISPO SAL. VENTILATE AREA AND WASH
+    SPILL SITE AFTER MATERIAL PICKUP IS COMPLETE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:CORROSIVE. CAUSES BURNS. HARMFUL BY
+    INHALATION, IN CONT W/SKIN & IF SWALLOWED. LACHRYMATOR. TAKE OFF
+    IMMEDIATELY ALL CONTAMINATED CLOTHING. WEAR SUITABLE PROTECTIVE
+    CLOTHING, GLOVES AND EYE/FACE PROTE CTION.
+Other Precautions:KEEP CONTAINER TIGHTLY CLOSED IN A COOL
+    WELL-VENTILATED PLACE. DO NOT BREATHE DUST. DO NOT GET IN EYES, ON
+    SKIN, ON CLOTHING. HARMFUL SOLID. STORE IN A COOL DRY PLACE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED RESPIRATOR.
+Ventilation:USE ONLY IN A CHEMICAL FUME HOOD.
+Protective Gloves:HEAVY RUBBER GLOVES.
+Eye Protection:ANSI APPRVD CHEMICAL WORKERS GOGGS & FACESHIELD (8-INCH
+    MINIMUM).
+Other Protective Equipment:EYE WASH & DELUGE SHOWER MEETING ANSI DESIGN
+    CRITERIA .
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:>70.C, 158.F
+M.P/F.P Text:70C TO 73C
+Decomp Temp:>125.C, 257.F
+Appearance and Odor:LIGHT-YELLOW CRYSTALLINE SOLID.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+BASES, AMINES, OXIDIZING AGENTS, MOISTURE, ALCOHOLS. CORRODES STEEL.
+Stability Condition to Avoid:NONE LISTED BY MANUFACTURER.
+Hazardous Decomposition Products:HAZARDOUS COMBUSTION OF DECOMPOSITION
+    PRODUCTS:  TOXIC FUMES OF:	CARBON MONOXIDE, CARBON DIOXIDE,
+    HYDROGEN CHLORIDE GAS, NITROGEN OXIDES.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:TOXICITY DATA: ORL-RAT LD50:1809 MG/KG.
+    INHTE5 3,265,1991. ONLY SELECTED REGISTRY OF TOXIC EFFECTS OF
+    CHEMICAL SUBSTANCES (RTECS) DATA IS PRESENTED HERE. SEE ACTUAL
+    ENTRY IN RTECS FOR COMPLETE INFORMA TION.
+
+=====================  Ecological Information  =====================
+
+Ecological:DATA NOT YET AVAILABLE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISSOLVE OR MIX MATERIAL WITH A COMBUSTIBLE
+    SOLVENT AND BURN IN A CHEMICAL INCINERATOR EQUIPPED WITH AN
+    AFTERBURNER AND SCRUBBER. OBSERVE ALL FEDERAL, STATE AND LOCAL
+    ENVIRONMENTAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:CONTACT ALDRICH CHEMICAL COMPANY FOR
+    TRANSPORATION INFORMATION.
+
+=====================  Regulatory Information  =====================
+
+Federal Regulatory Information:EUROPEAN INFO: CORROSIVE. R 34. CAUSES
+    BURNS. R 20/21/22. HARMFUL BY INHAL, IN CONT W/SKIN & IF SWALLOWED.
+    S 26. IN CASE OF CONT W/EYES, RINSE IMMED W/PLENTY OF WATER & SEEK
+    MED ADVICE. S 27. TAKE OFF	IMMED ALL CONTAMD CLTHG. S 36/37/39.
+    WEAR SUITABLE PROT CLTHG, GLOVES & EYE/FACE PROTECTION. S 3/7/9.
+    KEEP CNTNR TIGHTLY CLOSED IN COOL WELL-VENTILATED PLACE. REVIEWS,
+    STDS, & REGS. OEL=MAK. EPA TSCA  SECTION 8(B) CHEM INVENTORY. EPA
+    TSCA TEST SUBMISSSION (TSCATS) DATA BASE, JUNE 1998.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,130 @@
+=====================  Product Identification  =====================
+
+Product ID:QUARTZ (TUBING, ROD, FORMED PRODUCTS ETC.)
+MSDS Date:11/08/1985
+FSC:5955
+NIIN:00N057641
+MSDS Number: BWRSD
+=== Responsible Party ===
+Company Name:GENERAL ELECTRIC CO
+Address:24400 HIGHLAND RD
+City:RICHMOND HTS
+State:OH
+ZIP:44143
+Country:US
+Info Phone Num:216-266-2222
+Emergency Phone Num:216-266-3382
+CAGE:08808
+=== Contractor Identification ===
+Company Name:GENERAL ELECTRIC CO LAMP GLASS & COMPONENTS DEPT
+Address:24400 HIGHLAND RD
+Box:City:RICHMOND HEIGHTS
+State:OH
+ZIP:44143-2503
+Country:US
+Phone:216-266-2888
+CAGE:08808
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SILICA, CRYSTALLINE - QUARTZ; (QUARTZ (FUSED SILICA)
+    (AMORPHOUS)) (WHEN QUARTZ TUBING IS HEATED TO WORKING TEMPS (ING 2)
+CAS:14808-60-7
+RTECS #:VV7330000
+Fraction by Wt: 100%
+OSHA PEL:SEE TABLE Z-3
+ACGIH TLV:0.1 MG/M3 RDUST
+
+Ingred Name:ING 1:THE VAPORS GIVEN OFF CONDENSE AS AMORPHOUS SILICA)
+RTECS #:9999999ZZ
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:INHALATION:OVEREXPOSURE TO FUSED
+    SILICA DUST OR CONDENSED SILICA VAPORS FOR AN EXTENDED PERIOD OF
+    TIME MAY PRODUCE LUNG INJURY. SYMPTOMS INCLUDE COUGHING, WHEEZING,
+    AND DIFFICULTY IN BREATHING. INGEST ION:NO ADVERSE EFFECTS
+    ANTICIPATED SINCE MATERIAL IS INSOLUBLE AND NON-TOXIC. SKIN:NO
+    ADVERSE EFFECTS (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:SILICA, CRYTALLINE-QUARTZ (FUSED):IARC
+    MONOGRAPHS, SUPP. VOL 7, PG 341, 1987:GROUP 2A. NTP 7TH ANNUAL RPT
+    ON (SUP DAT)
+Effects of Overexposure:HLTH HAZS:ANTICIPATED. EYE:IRRITATION DUE TO
+    MECHANICAL ABRASION.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGEST:CALL MD IMMEDIATELY . INHAL:REMOVE TO FRESH AIR.
+    SUPPORT BREATHING (GIVE O*2/ARTF RESP) . SKIN:FLUSH W/COPIOUS
+    AMOUNTS OF WATER. CALL MD . EYES:FLUSH WITH WATER FOR AT LEAST 1 5
+    MINUTES TO REMOVE PARTICLES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:MEDIA SUITABLE FOR SURROUNDING FIRE .
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE NORMAL CLEAN-UP PROCEDURES, USING A BROOM
+    OR VACUUM, TAKING CARE TO AVOID EXCESSIVE DUSTING.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NORMAL PRECAUTIONS FOR HANDLING
+    POTENTIALLY SHARP, BROKEN EDGED MATERIAL.
+Other Precautions:NONE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF EXPOSURE MAY EXCEED PERMISSIBLE LIMITS, USE
+    NIOSH/MSHA APPROVED RESPIRATOR FOR DUSTS HAVING A TLV NOT LESS THAN
+    0.05 MG/M3. ALWAYS OBSERVE RESPIRATOR LIMITATIONS.
+Ventilation:FOR CUTTING OR GRINDING OPERATINGS, USE LOCAL EXHAUST
+    VENTILATION IF NEC, TO KEEP EXPOS LEVELS BELOW PERMISSIBLE LIMITS.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED SAFETY GLASSES .
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+EXPLAN OF CARCIN:CARCINOGENS. 1994:ANTICIPATED TO BE CARCINOGENIC.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:4045F,2229C
+Melt/Freeze Pt:M.P/F.P Text:3110F,1710C
+Vapor Pres:10 @ 1732C
+Spec Gravity:2.2
+Evaporation Rate & Reference:NONE
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:CLEAR, GLASS-LIKE APPEARANCE, ODORLESS.
+Percent Volatiles by Volume:NONE
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE.
+Stability Condition to Avoid:NOT APPLICABLE.
+Hazardous Decomposition Products:NONE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH ALL APPLICABLE
+    FEDERAL, STATE AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

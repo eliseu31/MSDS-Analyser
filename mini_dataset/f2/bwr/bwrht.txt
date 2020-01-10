@@ -1,0 +1,155 @@
+=====================  Product Identification  =====================
+
+Product ID:541 COOL'R CLEAN'R FLUSH
+MSDS Date:05/10/1994
+FSC:6850
+NIIN:01-382-0628
+MSDS Number: BWRHT
+=== Responsible Party ===
+Company Name:BG PRODUCTS INC
+Address:701 S WICHITA
+Box:1282
+City:WICHITA
+State:KS
+ZIP:67201
+Country:US
+Info Phone Num:316-265-2686
+Emergency Phone Num:316-265-2686
+Preparer's Name:GARY E. CURMODE
+CAGE:58579
+=== Contractor Identification ===
+Company Name:BG PRODUCTS INC
+Address:701 S WICHITA
+Box:1282
+City:WICHITA
+State:KS
+ZIP:67201
+Country:US
+Phone:316-265-2686
+CAGE:58579
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:INERT MATERIALS
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:THIOGLYCOLIC ACID
+CAS:68-11-1
+RTECS #:AI5950000
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:S, 1 PPM
+ACGIH TLV:S, 1 PPM; 9394
+
+Ingred Name:COMPLEX MIXTURE
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:ETHYLENE OXIDE  (SARA III)
+CAS:75-21-8
+RTECS #:KX2450000
+Fraction by Wt: TRACE
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:SEE 1910.1047
+ACGIH TLV:1 PPM, A2; 9394
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+Ingred Name:1,4-DIOXANE (DIETHYLENE DIOXIDE)  (SARA III)
+CAS:123-91-1
+RTECS #:JG8225000
+Fraction by Wt: TRACE
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:S, 100 PPM
+ACGIH TLV:S, 25 PPM; 9394
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:IRRITATING TO SKIN & EYES. MAY CAUSE
+    DEFATTING OF SKIN. INHAL TOXICITY:INSIGNIFICANT. ORAL
+    TOXICITY:SLIGHT. ASPIRATION HAZ:YES. DERMAL TOXICITY:SLIGHT.
+    IRRITANCY:SKIN/EYES:MODERATE TO SERIOUS. RESP TR ACT:INSIGNIFICANT.
+Explanation of Carcinogenicity:PER MSDS:NO DATA AVAILABLE.
+Effects of Overexposure:IRRIT TO SKIN, EYES. ASPIRATION HAZARD,
+Medical Cond Aggravated by Exposure:EXISTING DERMATITIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH W/COPIOUS AMTS OF WATER FOR 15MINS. IF IRRIT OCCURS
+    SEE PHYSICIAN IMMED. SKIN:WASH THOROUGHLY W/SOAP & WATER. IF IRRIT
+    OCCURS SEE PHYSICIAN IMMED. REMOVE ALL CONTAMINATED CLOTHING.
+    INHAL:REM OVE TO FRESH AIR. IF UNCONSC ADMINISTERARTIFICIAL RESP.
+    CALL PHYSICIAN IMMED. GIVE OXYGEN IF NEEDED. INGEST:DO NOT INDUCE
+    VOMITING. CALL PHYSICIAN IMMED.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:CO2, DRY CHEMICAL, FOAM.
+Fire Fighting Procedures:FIREFIGHTERS SHOULD WEAR SELF-CONTAINED
+    POSITIVE PRESSURE BREATHING APPARATUS & PERSONSAL PROTECTIVE
+    EQUIPMENT.
+Unusual Fire/Explosion Hazard:VAPOR IS HEAVIER THAN AIR & MAY TRAVEL
+    CONSIDERABLE DISTANCES TO SOURCE OF IGNITION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DO NOT FLUSH INTO SEWER, DRAIN OR STREAM.
+    ISOLATE SPILL. ABSORB W/INERT MATERIAL. TRANSFER TO APPROPRIATE DOT
+    CONTAINER FOR DISPOSAL. WEAR PROPER PROTECTIVE EQUIPMENT.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL DRY WELL VENTILATED
+    AREA. AVOID BREATHING FUMES. DO NOT EXPOSED TO SOURCES OF
+    HEAT/SPARK/FLAME.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AS REQUIRED BY EXPOSURE.
+Ventilation:MECHANICAL VENTILATION REQUIRED.
+Protective Gloves:IMPERVIOUS GLOVES
+Eye Protection:SAFETY GLASSES OR CHEMICAL GOGGLES
+Other Protective Equipment:AS REQUIRED BY EXPOUSRE; LONG-SLEEVED SHIRT
+    RECOMMENDED.
+Work Hygienic Practices:USE GOOD CHEMICAL HYGIENE PRACTICES.DO NOT
+    SMOKE WHILE USING.WASH HANDS AFT USE.LAUNDER CONTAMIN CLOTHING
+    BEFORE REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C3
+Boiling Pt:B.P. Text:<212F,<100C
+Vapor Density:<1.0
+Spec Gravity:1.0482
+pH:10.1
+Evaporation Rate & Reference:NO DATA AVAILABLE
+Solubility in Water:COMPLETE, 100%
+Appearance and Odor:LIQUID, PPUNGENT ODOR, TURQUOISE COLOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING AGENTS, ACIDS
+Stability Condition to Avoid:DO NOT EXPOSE TO SOURCES OF HEAT, SPARK,
+    FLAME.
+Hazardous Decomposition Products:CARBON MONOXIDE & VARIOUS HYDROCARBONS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE AND
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

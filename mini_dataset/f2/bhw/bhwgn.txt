@@ -1,0 +1,151 @@
+=====================  Product Identification  =====================
+
+Product ID:DRILL-EASE
+MSDS Date:11/15/1985
+FSC:9150
+NIIN:01-208-0800
+MSDS Number: BHWGN
+=== Responsible Party ===
+Company Name:AMERICAN GREASE STICK CO
+Address:2651 HOYT ST
+Box:729
+City:MUSKEGON
+State:MI
+ZIP:49443
+Country:US
+Info Phone Num:616-733-2101
+Emergency Phone Num:616-733-2101
+Preparer's Name:CHUCK HIDDEMAN
+CAGE:EO473
+=== Contractor Identification ===
+Company Name:AMERICAN GREASE STICK CO DBA AGS
+Address:2651 HOYT ST
+Box:729
+City:MUSKEGON
+State:MI
+ZIP:49443
+Country:US
+Phone:231-733-2101; 800-253-0403
+CAGE:96980
+Company Name:AMERICAN GREASE STICK COMPANY
+Address:2651 HOYT STREET
+Box:729
+City:MUSKEGON HTS.
+State:MI
+ZIP:49444
+Phone:(800) 253-0403
+CAGE:EO473
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PARAFFIN WAX.OSHA AND ACGIH STANDARDS ARE FOR PARAFFIN WAX
+    FUMES (8002-74-2).
+CAS:8002-74-2
+RTECS #:RV0350000
+Fraction by Wt: 30-45%
+Other REC Limits:2 MG/M3
+OSHA PEL:2 MG/M3
+ACGIH TLV:2 MG/M3
+
+Ingred Name:PETROLEUM OIL.ACGIH AND OSHA TWA FOR OIL MIST,MINERAL.
+CAS:8002-05-9
+Fraction by Wt: 30-45%
+Other REC Limits:N/K 
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3
+
+Ingred Name:NAPHTHENIC ACID,ZINC SALT
+CAS:12001-85-3
+RTECS #:QK9275000
+Fraction by Wt: 1-5%
+Other REC Limits:N/K 
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:N/K 
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SEE SIGNS AND SYMPTOMS OF
+    OVEREXPOSURE.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES:MAY CAUSE IRRITATION.SKIN:IN MOLTEN STATE
+    MAY CAUSE BURNS.INGESTION:NOT KNOWN.INHALATION:ASPIRATION OR
+    INHALATION OF FUMES OR MIST MAY CAUSE RESPIRATORY PROBLEMS.
+Medical Cond Aggravated by Exposure:N/K 
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH WITH WATER FOR AT LEAST 15 MINUTES.CONSULT A
+    PHYSICIAN.SKIN:WASH WITH SOAP AND WATER.GET MEDICAL ATTENTION IF
+    ADVERSE EFFECTS ARISE.INGESTION:DO NOT INDUCE VOMITING.CONSULT A
+    PHYSICIAN.INHA LATION:REMOVE TO FRESH AIR.ADMINISTER OXYGEN OR
+    ARTIFICIAL RESPIRATION AS NEEDED.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:380F,193C
+Extinguishing Media:DRY CHEMICAL,FOAM,CARBON DIOXIDE AND WATER FOG.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS.USE
+    WATER FOG TO MINIMIZE VAPORS IN AIR.
+Unusual Fire/Explosion Hazard:HAZARDOUS DECOMPOSITION PRODUCTS:OXIDES
+    OF CARBON AND ZINC.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DIKE AREA TO CONTAIN PRODUCT SPILL.ALLOW TO
+    COOL,SCRAPE MATERIAL UP AND PLACE IN CONTAINER FOR DISPOSAL.
+Neutralizing Agent:N/K 
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID EXCESS HEAT AND IGNITION
+    SOURCES.STORE IN COOL AREAS.
+Other Precautions:N/K .
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR A NIOSH-APPROVED RESPIRATOR FOR OIL MIST
+    WHEN TWA EXCEEDS 2 MG/M3 OR IS UNKNOWN.
+Ventilation:LOCAL EXHAUST WHEN USING PRODUCT IN MOLTEN STATE.
+Protective Gloves:HEAT & OIL RESISTANT IF IN MOLTEN STATE.
+Eye Protection:SAFETY GLASSES WITH SIDE SHIELDS.
+Other Protective Equipment:EYE WASH IN WORK AREA.
+Work Hygienic Practices:N/K 
+Supplemental Safety and Health
+WASTE DISPOSAL METHOD:REMOVAL BY AN APPROVED,LICENSED WASTE HAULER.
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:M.P/F.P Text:163F,73C
+Decomp Temp:Decomp Text:N/K 
+Vapor Pres:NEGLIGIBLE
+Spec Gravity:0.7475,WATER=1
+Solubility in Water:INSOLUBLE
+Appearance and Odor:TAN WAXY SOLID WITH PETROLEUM ODOR.
+Percent Volatiles by Volume:NIL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS.
+Stability Condition to Avoid:N/K 
+Hazardous Decomposition Products:OXIDES OF CARBON AND ZINC.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE IN ACCORDANCE WITH
+    FEDERAL,STATE AND LOCAL REGULATIONS.COORDINATION WITH SUPPORTING
+    INSTALLATION AND/OR MACOM ENVIRONMENTAL COORDINATION PRIOR TO
+    DISPOSAL IS RECOMMENDED TO DETERMINE  APPROPRIATE DISPOSAL METHODS
+    .(SEE SUPP DA)
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

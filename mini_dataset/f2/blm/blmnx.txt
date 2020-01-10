@@ -1,0 +1,164 @@
+=====================  Product Identification  =====================
+
+Product ID:EPOXY THINNER, X-6272
+MSDS Date:03/06/1989
+FSC:8010
+NIIN:00N021892
+MSDS Number: BLMNX
+=== Responsible Party ===
+Company Name:FARWEST PAINT MFG CO
+Address:4522 S 133RD ST
+City:TUKWILA
+State:WA
+ZIP:98168
+Country:US
+Info Phone Num:206-244-8844
+Emergency Phone Num:206-941-1619
+CAGE:6F266
+=== Contractor Identification ===
+Company Name:FARWEST PAINT MANUFACTURING CO
+Address:4522 SOUTH 133RD ST
+Box:City:TUKWILA
+State:WA
+ZIP:98168
+Country:US
+Phone:206-244-8844
+CAGE:6F266
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:355-L/HI FLASH AROMATIC HYDROCARBON
+Fraction by Wt: 50%
+ACGIH TLV:100 PPM (MFR)
+
+Ingred Name:ISOBUTYL ALCOHOL  (SARA III)
+CAS:78-83-1
+RTECS #:NP9625000
+Fraction by Wt: 50%
+OSHA PEL:100 PPM
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:RESP PROT: CONTROLS SHOULD BE IMPLEMENTED TO REDUCE
+    EXPOSURE.
+RTECS #:9999999ZZ
+
+Ingred Name:SUPP DATA: EARTH, FLOOR ABSORBENT, OR OTHER ABSORBENT MATL.
+    PVNT RUN-OFF TO SEWERS, STREAMS, OR OTHER BODIES OF (ING 5)
+RTECS #:9999999ZZ
+
+Ingred Name:ING 4: WATER. IF RUN-OFF OCCURS, NOTIFY PROPER AUTHORITIES
+    AS REQUIRED, THAT A SPILL HAS OCCURED.
+RTECS #:9999999ZZ
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYE: CAN CAUSE SEVERE IRRIT, REDNESS,
+    TEARING, BLURRED VISION. SKIN: PRLNGD/RPTD CONT CAN CAUSE MODERATE
+    IRRIT, DEFAT, DERMAT. INHAL: EXCESS INHAL OF VAPS CAN CAUSE NASAL &
+    RESP IRRIT, DIZZ, WEAKNESS,  FATIGUE, NAUS, HDCH, POSS UNCON &
+    EVENASPHY. INGEST: CAN CAUSE GI IRRIT, NAUS, VOMIT & DIARR. (SEE
+    EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:HLTH HAZ: ASPIR OF MATL IN LUNGS CAN CAUSE CHEM
+    PNEUM WHICH CAN BE FATAL.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:THORO WASH EXPSD AREA W/SOAP & WATER. REMOVE CONTAM
+    CLTHG.LAUNDER CONTAM CLTHG BEFORE RE-USE.EYES:FLUSH W/LRG AMTS OF
+    WATER, LIFTING UPPER & LOWER LIDS OCCASNLY, GET MD.INGEST:DO NOT
+    INDUCE VOMIT , KEEP PERSON WARM, QUIET, AND GET MD.ASPIR OF MATL IN
+    LUNGS DUE TO VOMIT CAN CAUSE CHEM PNEUM WHICH CAN BE
+    FATAL.INHAL:REMOVE INDIV TO FRESH AIR. IF BRTHG IS DFCLT, ADMIN
+    OXYGEN. IF (SUPP DATA)
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:85.0F,29.4C
+Lower Limits:0.9%
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL, WATER FOG.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NEVER USE NEAR OR AROUND WELDERS OR
+    CUTTING TORCHES. DRUM (EVEN EMPTY) BECAUSE PRODUCT (EVEN JUST
+    RESIDUE) CAN IGNITE EXPLOSIVELY.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SM SPILL: ABSORB LIQ ON PAPER, VERMICULITE,
+    FLOOR ABSORB/OTHER ABSORB MATL & TRANSFER TO HOOD. LRG SPILL: ELIM
+    ALL IGNIT SOURCES (FLARES, FLAMES, INCL PILOT LIGHTS, ELEC SPARKS).
+    PERSONS NOT WEARING P ROT EQUIP SHOULD BE EXCLUDED FROM AREA (SUPP
+    DATA)
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:CONTAINERS OF THIS MATL MAY BE HAZ
+    WHEN EMPTIED, SINCE EMPTIED CNTNRS RETAIN PROD RESIDUES (VAP, LIQ,
+    AND/OR SOLID) , ALL HAZ PREC MUST BE OBSERVED.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF TLV OF PROD/ANY COMPONENT IS EXCEEDED, A
+    NIOSH/ MSHA APPRVD AIR SUPPLIED RESP IS ADVISED IN ABSENCE OF
+    PROPER ENVIRON CONTROL. OSHA REGS ALSO PERMIT OTHER NIOSH/MSHA
+    APPRVD RESP UNDER SPECIFIED CND TNS. ENGINEERING/ADMIN (SEE ING 3)
+Ventilation:PROVIDE SUFF MECH (GENERAL AND/OR LOCAL EXHST) VENT TO
+    MAINTAIN EXPOSURE BELOW TLV(S).
+Protective Gloves:NITRILE RUBBER.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:TO PREVENT REPEATED OR PROLONGED SKIN
+    CONTACT, WEAR IMPERVIOUS CLOTHING AND BOOTS.
+Work Hygienic Practices:KEEP WORK AREA CLEAN & FREE FROM LEAKS &
+    SPILLS. ALWAYS WASH HANDS THORO W/SOAP & WATER BEFORE HNDLG FOOD &
+    DRINK.
+Supplemental Safety and Health
+FIRST AID PROC: BRTHG IS DIFFICULT. ADMINISTER OXYGEN. IF BRTHG STOPS,
+    GIVE ARTF RESP. KEEP PERSON, QUIET AND GET MD. SPILL PROC: OF SPILL
+    UNTIL CLEAN-UP HAS BEEN COMPLETED. STOP SPILL AT SOURCE, DIKE  AREA
+    OF SPILL TO PVNT SPREADING, PUMP LIQ TO SALVAGE TANK. REMAINING LIQ
+    MAY BE TAKEN UP ON SAND, CLAY, (SEE ING 4)
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:226F,108C
+Vapor Pres:SEE INGRED
+Vapor Density:HVR/AIR
+Spec Gravity:0.82 
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:NIL
+Appearance and Odor:CLEAR, WATER WHITE LIQUID WITH SWEET ALCOHOL ODOR.
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTACT WITH STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:KEEP AWAY FROM OPEN FLAMES, SPARKS AND
+    HEAT. DO NOT WELD NEAR OR AROUND PRODUCT.
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DESTROY BY LIQUID INCINERATION. CONTAMINATED
+    ABSORBENT MAY BE DEPOSITED IN A LANDFILL IN ACCORDANCE WITH LOCAL,
+    STATE AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

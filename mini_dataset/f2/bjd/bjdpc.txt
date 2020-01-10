@@ -1,0 +1,157 @@
+=====================  Product Identification  =====================
+
+Product ID:EA 9320 N PART B (AB0120-078TYPEVIICL1)
+MSDS Date:02/09/1990
+FSC:8040
+NIIN:01-132-0687
+Kit Part:Y
+MSDS Number: BJDPC
+=== Responsible Party ===
+Company Name:THE DEXTER CORPORATION
+Address:2850 WILLOW PASS ROAD
+Box:312
+City:PITTSBURG
+State:CA
+ZIP:94565-0312
+Country:US
+Info Phone Num:415-687-4201
+Emergency Phone Num:800-424-9300
+CAGE:0KZ46
+=== Contractor Identification ===
+Company Name:DEXTER CORPORATION ADHESIVE & COATING SYSTEMS
+Address:2850 WILLOW PASS ROAD
+Box:312
+City:BAY POINT
+State:CA
+ZIP:94565-3299
+Country:US
+Phone:202-483-7616
+CAGE:33564
+Company Name:RESIN FORMULATORS CO
+Address:8500 STELLER DR
+Box:City:CALVER CITY
+State:CA
+ZIP:90232
+Country:US
+Phone:213-870-9561
+CAGE:03355
+Company Name:RESIN FORMULATORS CO
+Address:8500 STELLER DR
+Box:City:CULVER CITY
+State:CA
+ZIP:90232
+Country:US
+Phone:213-870-9561
+CAGE:94756
+Company Name:THE DEXTER CORPORATION
+City:CHAGRIN FALLS
+State:OH
+ZIP:44022
+Country:US
+Phone:800-669-0053
+CAGE:0KZ46
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ALKYLAMINES
+
+Ingred Name:TRIETHYLENETETRAMINE
+CAS:112-24-3
+RTECS #:YE6650000
+Fraction by Wt: <18%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MAY BE CORROSIVE TO SKIN AND EYES.
+    HIGH CONCENTRATION OF VAPORS CAN CAUSE SEVERE IRRIT OF EYES AND
+    RESP TRACT. LIQ CAUSES SEVERE DAMAGE TO MUCOUS MEMBRANES IF
+    SWALLOWED. PROLONGED AND REPEATED CONTACT  MAY CAUSE SENSITIZATION
+    WHICH WILL RESULT IN ALLERGIC REACTIONS.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:POSSIBLE BURNS TO EYES AND SKIN; IRRITATION AND
+    POSSIBLE SENSITIZATION TO SKIN. VAPORS MAY BE IRRITATING TO UPPER
+    RESP TRACT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:FLUSH SKIN AND EYE CONTACT WITH PLENTY OF WATER. WASH
+    THOROUGHLY WITH SOAP AND WATER OR HAND CLEANER. DO NOT USE
+    SOLVENTS. REMOVE SOILED CLOTHING AND WASH BEFORE REUSE. IF
+    IRRITATION PERSISTS, SEE PHY SICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TOC
+Flash Point:>300F,>149C
+Extinguishing Media:DRY CHEMICAL OR HALON, WATER SPRAY, FOAM OR FOG.
+Fire Fighting Procedures:USE SELF-CONTAINED BREATHING APPARATUS WHEN
+    FIGHTING FIRES IN CONFINED AREAS.
+Unusual Fire/Explosion Hazard:DENSE SMOKE AND TOXIC GASES MAY BE
+    LIBERATED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE CLOTHING, GLOVES AND SAFETY
+    GLASSES. SCRAPE UP AND TRANSFER TO METAL CONTAINER. WIPE UP
+    REMAINING RESIDUE WITH SOLVENTS, OBSERVING SOLVENT FLAMMABILITY
+    CAUTIONS.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP COOL IN ACCORDANCE WITH LABEL
+    INSTRUCTIONS. STORE AT ROOM TEMPERATURE (77 F) NO LONGER THAN 12
+    MONTHS.
+Other Precautions:FOLLOW RECOMMENDED CURING SCHEDULE. MAY BE CURED FOR
+    5-7 DAYS @ >77F TO ACHIEVE NORMAL PERFORMANCE. ACCELERATED CURES UP
+    TO 200F (SMALL MASSES ONLY) MAY BE USED AS AN ALTERNATIVE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NEEDED WITH GOOD INDUSTRIAL VENTILATION.
+Ventilation:LOCAL EXHAUST IS RECOMMENDED.
+Protective Gloves:IMPERVIOUS PLASTIC OR RUBBER.
+Eye Protection:SAFETY GLASSES OR GOGGLES.
+Other Protective Equipment:AS NEEDED TO PROTECT SKIN AND CLOTHING.
+Work Hygienic Practices:WASH THOROUGHLY W/SOAP & WATER AFTER HANDLING.
+    EMPTY CONTRS RETAIN PRODUCT RESIDUE & VAPORS, OBEY ALL PRECAUTIONS.
+Supplemental Safety and Health
+THIS PRODUCT REQ MIXING TWO COMPONENTS TOGETHER JUST PRIOR TO
+    APPL.COMPLETE MIXING IS NEC.TEMP OF SEPARATE COMPONENTS PRIOR TO
+    MIXING SHOULD BE CLOSE TO ROOM TEMP.MIX RATIO BY WEIGHT:PART
+    A-100,PART B -19.POT LIFE (200 GM MASS)=25 MIN.DENATURED
+    ALCOHOL&MANY COMMON INDUST SOLVENTS WILL REMOVE UNCURED ADHESIVE.
+
+==================  Physical/Chemical Properties  ==================
+
+Vapor Density:8.45
+Spec Gravity:1.02
+Evaporation Rate & Reference:NIL
+Appearance and Odor:BLUE LIQUID WITH AMMONIACAL ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, STRONG LEWIS OR MINERAL ACIDS.
+Hazardous Decomposition Products:CO, NO*X, ALDEHYDES, ACIDS AND
+    UNDETERMINED ORGANICS.
+Conditions to Avoid Polymerization:AVOID MIXING RESIN&CURING AGT IN
+    BATCHES >1/2LB TOT.DO NOT HEAT MIXED ADHESIVE >75F UNLESS CURING
+    SURFACES TO BE BONDED.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF AS HAZARDOUS WASTE ACCORDING TO
+    FEDERAL, STATE AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

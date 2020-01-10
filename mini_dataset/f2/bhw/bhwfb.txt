@@ -1,0 +1,141 @@
+=====================  Product Identification  =====================
+
+Product ID:DOW CORNING 4 ELECTRICAL INSULATING PASTE/C
+MSDS Date:03/16/1989
+FSC:6850
+NIIN:01-317-3339
+MSDS Number: BHWFB
+=== Responsible Party ===
+Company Name:DOW CORNING CORP
+Address:3901 SOUTH SAGINAW ROAD
+Box:997
+City:MIDLAND
+State:MI
+ZIP:48640
+Country:US
+Info Phone Num:517-496-5900
+Emergency Phone Num:517-496-5900
+Preparer's Name:JACK L. SHENEBERGER
+CAGE:5D028
+=== Contractor Identification ===
+Company Name:DOW CORNING CORP
+Address:3901 S SAGINAW RD
+Box:997
+City:MIDLAND
+State:MI
+ZIP:48686-0997
+Country:US
+Phone:517-496-6000/517-496-6315
+CAGE:5D028
+Company Name:DOW CORNING CORP
+Address:2200 W SALZBURG RD
+Box:City:AUBURN
+State:MI
+ZIP:48611
+Country:US
+Phone:517-496-4388
+CAGE:71984
+Company Name:TLD ACE
+Address:805 BLOOMFIELD AVE
+Box:City:WINDSOR
+State:CT
+ZIP:06095-2363
+Country:US
+Phone:860-602-3406
+CAGE:00365
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SILICA GEL
+CAS:112945-52-5
+RTECS #:VV7310000
+Fraction by Wt: 9.0%
+
+Ingred Name:OTHER COMPONENTS (TYPE NOT SPECIFIED)
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:IRRITATION OF
+    EYES,SKIN,RESPIRATORY OR G,I.TRACT;REDNESS OR BURNS OF EYES ARE
+    POSSIBLE.
+Explanation of Carcinogenicity:DATA PER MGF MSDS.
+Effects of Overexposure:SEE HEALTH HAZARDS DATA.
+Medical Cond Aggravated by Exposure:PRE-EXISTING CONDITIONS MAY BE
+    WORSEN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES AND SKIN:FLUSH WITH LARGE AMOUNT OF WATER FOR ABOUT
+    15-20 MINUTES;SEEK MEDICAL ATTENTION IMMEDIATELY.INHALATION:REMOVE
+    TO FRESH AIR;CALL A PHYSICIAN.INGESTION:SEEK MEDICAL ATTENTION
+    IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:>200F,>93C
+Extinguishing Media:USE CARBON DIOXIDE, FOAM, DRY CHEMICAL, OR WATER
+    FOG.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:NONE EXPECTED
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPER PERSONAL PROTECTION;USE SUITABLE
+    INERT ABSORBENT MATERIAL AND COLLECT FOR PROPER DISPOSAL IN AN
+    APPROVED CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DRY AND WELL VENTILATED
+    AREA.KEEP CONTAINER CLOSED WHEN NOT IN USE.
+Other Precautions:WASH THOROUGHLY AFTER EACH USE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR FOR DUST/MIST
+    IF ABOVE PEL/TLV OR SCBA IN AN ENCLOSED AREA.
+Ventilation:NORMAL ROOM VENTILATION
+Protective Gloves:IMPERVIOUS
+Eye Protection:SAFETY GLASSES/GOGGLES
+Other Protective Equipment:PROTECTIVE CLOTHINGS.EYE-WASH
+    FACILITIES,SAFETY SHOWER.
+Work Hygienic Practices:AVOID CONTACT WITH EYES AND SKIN;DO NOT BREATHE
+    VAPORS/MIST/DUST.WASH THOROUGHLY AFTER EACH USE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V7
+Vapor Pres:< 5.0
+Spec Gravity:1.1
+Evaporation Rate & Reference:< 1.0(ETHER =1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:VERY LITTLE ODOR,PASTE-LIKE,SOME COLOR
+Percent Volatiles by Volume:>5.0 %
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HIGH TEMPERATURES, SPARKS, AND OPEN FLAMES
+Hazardous Decomposition Products:SILICON DIOXIDE,CARBON DIOXIDE,AND
+    TRACES OF UNBURNT CARBON PRODUCTS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT LOCAL AUTHORITIES;DISPOSAL MUST BE IN
+    ACCORDANCE WITH LOCAL,STATE AND FEDERAL REGULATIONS
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

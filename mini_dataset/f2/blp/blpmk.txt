@@ -1,0 +1,159 @@
+=====================  Product Identification  =====================
+
+Product ID:TEXOSOLV
+MSDS Date:12/31/1988
+FSC:6850
+NIIN:00F019139
+MSDS Number: BLPMK
+=== Responsible Party ===
+Company Name:TEXO CORPORATION
+Address:2801 HIGHLAND AVE
+City:CINCINATTI
+State:OH
+ZIP:45212
+Info Phone Num:(513) 731-3400 OR (617) 784-8379
+Emergency Phone Num:(513) 731-3400 OR (617) 784-8379
+Preparer's Name:BARRY S. POKORNY
+CAGE:FO951
+=== Contractor Identification ===
+Company Name:TEXO CORP
+Address:2801 HIGHLAND
+Box:City:NORWOOD
+State:OH
+ZIP:45212-2409
+Country:US
+CAGE:22169
+Company Name:TEXO CORPORATION
+Address:2801 HIGHLAND AVE
+City:CINCINATTI
+State:OH
+ZIP:45212
+Phone:(513) 731-3400 OR (617) 784-8379
+CAGE:FO951
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:VM&P NAPHTHA (LIGROINE)
+CAS:8032-32-4
+RTECS #:OI6180000
+Fraction by Wt: 70%
+Other REC Limits:STEL 400 PPM
+OSHA PEL:300 PPM/400 STEL
+ACGIH TLV:300 PPM; 9192
+
+Ingred Name:METHYLENE CHLORIDE	(SARA III)
+CAS:75-09-2
+RTECS #:PA8050000
+Fraction by Wt: 15%
+OSHA PEL:500 PPM/C,1000; Z2
+ACGIH TLV:50 PPM, A2; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:METHYL CHLOROFORM (1,1,1-TRICHLOROEHANE)  (SARA III)
+CAS:71-55-6
+RTECS #:KJ2975000
+Fraction by Wt: 15%
+Other REC Limits:450 PPM STEL
+OSHA PEL:350 PPM/450 STEL
+ACGIH TLV:350 PPM/450STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+Ozone Depleting Chemical:1
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:NO	 OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION & TEARING. SKIN:
+    IRRITATION, BURNING SENSATION, REDNESS, & ROUGHNESS. INGESTION: GI
+    TRACT IRRITATION, VOMITING, CNS DEPRESSION, LIGHT-HEADEDNESS,
+    HARMFUL, UNCONSCIOUSNESS, & DEATH. IN HALATION: ANESTHETIC &
+    NARCOTIC EFFECTS, DIZZINESS, DRUNKENESS, UNCONSCIOUSNESS, &
+    IRREGULAR HEARTBEATS.
+Explanation of Carcinogenicity:METHYLENE CHLORIDE IS AN A2 CARCINOGEN
+    BY ACGIH.
+Effects of Overexposure:EYES: PAIN & INFLAMMATION. SKIN: DRYNESS,
+    ABSORPTION, & DERMATITIS. INGESTION: CENTRAL NERVOUS SYSTEM
+    DEPRESSION, ASPIRATION OF LIQUID INTO LUNGS MAY CAUSE CHEMICAL
+    PNEUMONIA, SYSTEMIC EFFECTS, & HARM FUL. INHALATION: CENTRAL
+    NERVOUS SYSTEM, LIVER, & KIDNEY EFFECTS, CARBOXYHEMOGLOBINEMIA, OR
+    DEATH.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER FOR 15 MIN. SKIN: WASH W/SOAP & WATER.
+    APPLY SOOTHING OINTMENT. INHALATION: REMOVE TO FRESH AIR. IF
+    BREATHING STOPS, RESUSCITATE/ADMINISTER OXYGEN. INGESTION: DON'T
+    INDUCE VOMITING . GIVE PLENTY OF WATER. NEVER GIVE ANYTHING BY
+    MOUTH IF UNCONSCIOUS. NOTE TO PHYSICIAN: ATTENDING PHYSICIAN SHOULD
+    DECIDE TO INDUCE VOMITING OR NOT. OBTAIN MEDICAL ATTENTION IN ALL
+    CASES.  (SEE SUPP.)
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:150F
+Extinguishing Media:WATER FOG, CO2, OR DRY CHEMICAL
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS & FULL
+    IMPERVIOUS PROTECTIVE CLOTHING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SOAK UP W/ABSORBENT MATERIAL. EVACUATE THE
+    AREA & LET EVAPORATE. KEEP OUT OF WATER SUPPLY.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T CUT OR WELD ON OR NEAR DRUMS
+    FULL OR EMPTY. AVOID CONTACT W/EYES/SKIN/CLOTHING. DON'T TAKE
+    INTERNALLY. DON'T BREATHE VAPORS & SPRAY MIST.
+Other Precautions:USE W/ADEQUATE VENTILATION. PERSONNEL HANDLING THIS
+    PRODUCT SHOULD BE ACQUAINTED W/ITS CHARACTERISTICS & DANGERS. KEEP
+    OUT OF THE REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE SELF-CONTAINED BREATHING APPARATUS IF >TLV.
+Ventilation:LOCAL EXAUST TO KEEP <TLV.
+Protective Gloves:RUBBER
+Eye Protection:SAFETY GOGGLES, FACE MASK
+Other Protective Equipment:RUBBER BOOTS, RUBBER APRON, SAFETY SHOWER, &
+    EYE WASH.
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE.
+Supplemental Safety and Health
+NOTE TO PHYSICIAN (CONT'D): IF LAVAGE IS PERFOMED, SUGGEST
+    ENDOTRACHEAL/ESOPHAGEAL CONTROL. DON'T ADMINISTER SYMPATHOMIMETIC
+    DRUGS UNLESS ABSOLUTELY NECESSARY. EXPOSURE MAY INCREASE
+    "MYOCARDIAL IRRITA BILITY". NO SPECIFIC ANTIDOTE. SUPPORTIVE CARE.
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:0.9
+Solubility in Water:INSOLUBLE
+Appearance and Odor:COLORLESS LIQUID W/MILD CHLORINATED ODOR
+Percent Volatiles by Volume:100%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZERS, AMINES, ALUMINUM, SODIUM POTASSIUM, & MAGNESIUM
+Stability Condition to Avoid:HEAT, FLAME, OPEN SPARKS, FIRE, HOT
+    METALS, ELECTRIC ARC & OTHER SOURCES OF IGNITION.
+Hazardous Decomposition Products:HYDROGEN CHLORIDE, POSSIBLE PHOSGENE,
+    CO, & CHLORINE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:GIVE TO CHEMICAL HAULER. INCINERATE UNDER SAFE
+    CONDITIONS. DISPOSE OF IN ACCORDANCE W/FEDERAL, STATE, & LOCAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

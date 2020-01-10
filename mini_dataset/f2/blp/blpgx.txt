@@ -1,0 +1,137 @@
+=====================  Product Identification  =====================
+
+Product ID:MYSTERY OIL
+MSDS Date:06/01/1991
+FSC:9150
+NIIN:01-126-4459
+MSDS Number: BLPGX
+=== Responsible Party ===
+Company Name:MARVEL OIL CO INC
+Address:331 NORTH MAIN ST
+City:PORT CHESTER
+State:NY
+ZIP:10573
+Country:US
+Info Phone Num:914-937-4000
+Emergency Phone Num:914-937-4000
+CAGE:95015
+=== Contractor Identification ===
+Company Name:MARVEL OIL CO INC
+Address:331 NORTH MAIN ST
+Box:City:PORT CHESTER
+State:NY
+ZIP:10573
+Country:US
+Phone:914-937-4000
+CAGE:95015
+Company Name:NESTOR SALES INC	DBA ACE TOOL CO
+Address:7337 BRYAN DAIRY RD
+Box:City:LARGO
+State:FL
+ZIP:33777
+Country:US
+Phone:727-544-6114
+CAGE:1X015
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:KEROSENE (PETROLEUM), HYDROTREATED; (MINERAL SPIRITS)
+CAS:64742-47-8
+RTECS #:OA5504000
+Fraction by Wt: 30%
+OSHA PEL:5 MG/M3 (MFR)
+ACGIH TLV:5 MG/M3 (MFR)
+
+Ingred Name:SOLV REFINED HEAVY NAPHTHENIC DISTILLATE,PETROLEUM;
+    (NAPTHENIC BASE OIL DISTILLATE) CAS NO 64742-63-8, 64741-96-4.
+CAS:64741-96-4
+RTECS #:PY8040000
+OSHA PEL:5 MG/M3 (MFR)
+ACGIH TLV:5 MG/M3 (MFR)
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYE: MILD IRRITATION. SKIN: ONE OR
+    MORE COMPONENTS OF THIS MATERIAL MAY CAUSE SKIN IRRITATION.
+    PROLONGED OR REPEATED CONTACT MAY CAUSE REDNESS, BURNING AND DRYING
+    AND CRACKING OF THE SKIN. INGEST: PUL MONARY ASPIRATION HAZARD IF
+    SWALLOWED. DO NOT INDUCE VOMITING.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGEST: CALL MD IMMEDIATELY . INHAL: REMOVE TO FRESH AIR.
+    SUPPORT BREATHING (GIVE O2/ARTIFICIAL RESPIRATION) . EYES:
+    IMMEDIATELY FLUSH EYES WITH POTABLE WATER FOR A MINIMUM OF 15
+    MINUTES,  SEEK ASSISTANCE FROM MD . SKIN: FLUSH WITH COPIOUS
+    AMOUNTS OF WATER. CALL MD .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:140F,60C
+Extinguishing Media:CO2, DRY CHEMICAL, FOAM, WATER SPRAY, WATER FOG.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:DO NOT STORE OR MIX WITH STRONG OXIDANTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:RECOVER FREE LIQUID, ADD ABSORBENT TO SPILL
+    AREA.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM HEAT AND OPEN FLAME,
+    CONTAINS REFINED PETROLEUM DISTILLATES, IF SWALLOWED DO NOT INDUCE
+    VOMITING, IF INGEST CALL MD IMMED.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN .
+Ventilation:MECHANICAL VENTILATION AS NEEDED.
+Protective Gloves:CHEMICAL RESISTANT GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:USE CHEMICAL RESISTANT APRON OR OTHER
+    IMPERVIOUS CLOTHING TO AVOID PROLONGED OR REPEATED SKIN CONTACT.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:313F,156C
+Vapor Pres:2 @ 68
+Spec Gravity:0.9
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:RED COLOR LIQUID WITH MILD ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING AGENTS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:KEEP PRODUCT OUT OF SEWERS AND WATERCOURSES.
+    DISPOSAL SHOULD BE IN COMPLIANCE WITH FEDERAL, STATE AND LOCAL
+    LAWS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

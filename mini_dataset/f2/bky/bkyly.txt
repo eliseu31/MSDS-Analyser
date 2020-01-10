@@ -1,0 +1,154 @@
+=====================  Product Identification  =====================
+
+Product ID:AA-1420 FIXATIVE LACQUER CLEAR/MATTE
+MSDS Date:02/13/1991
+FSC:8010
+NIIN:00-598-5179
+MSDS Number: BKYLY
+=== Responsible Party ===
+Company Name:NATIONAL AEROSOL PRODUCT CO
+Address:2193 E 14 ST
+City:LOS ANGELES
+State:CA
+ZIP:90021
+Info Phone Num:(213) 627-2668
+Emergency Phone Num:(213) 627-2668
+CAGE:59986
+=== Contractor Identification ===
+Company Name:NATIONAL AEROSOL PRODUCTS CO SUB OF GROW GROUP INC
+Address:2193 E 14TH STREET
+Box:City:LOS ANGELES
+State:CA
+ZIP:90021-2843
+Country:US
+CAGE:59986
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 41%
+Other REC Limits:100 PPM
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:METHYLENE CHLORIDE	(SARA III)
+CAS:75-09-2
+RTECS #:PA8050000
+Fraction by Wt: 15%
+OSHA PEL:500 PPM/C,1000; Z2
+ACGIH TLV:50 PPM, A2; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:PROPANE
+CAS:74-98-6
+RTECS #:TX2275000
+Fraction by Wt: <25%
+Other REC Limits:1800 MG/CUM
+OSHA PEL:1000 PPM
+ACGIH TLV:ASPHYXIANT; 9192
+
+Ingred Name:ISOBUTANE, 2-METHYLPROPANE
+CAS:75-28-5
+RTECS #:TZ4300000
+Fraction by Wt: <25%
+Other REC Limits:1000 PPM
+OSHA PEL:1800 MG/CUM
+ACGIH TLV:1000 PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:NO	 OSHA:NO
+Health Hazards Acute and Chronic:EYES/SKIN: IRRITATION. INHALATION:
+    RESPIRATORY TRACT IRRITATION/BRAIN/NERVOUS SYSTEM
+    AFFECTS/DIZZINESS/HEADACHE/NAUSEA/WEAKNESS/FATIGUE/UNCONSCIOUSNESS/
+    RESPIRATORY ARREST. INGESTION: STOMACH OR INTEST INAL
+    IRRITATION/NAUSEA/VOMITING/DIARRHEA/ASPIRATION OF VOMITUS CAN CAUSE
+    CHEMICAL PNEUMONITIS WHICH CAN BE FATAL.
+Explanation of Carcinogenicity:METHYLENE CHLORIDE IS A SUSPECTED HUMAN
+    CARCINOGEN BY ACGIH.
+Effects of Overexposure:EYES/SKIN; IRRITATION. INHALATION: DIFFICULTY
+    BREATHING/RESPIRATORY ARREST/UNCONSCIOUSNESS/PERMANENT BRAIN OR
+    NERVOUS SYSTEM DAMAGE/INHALATION OF DUST MAY CAUSE DUST DISEASE OF
+    THE LUNGS. INGESTION: S TOMACH OR INTESTINAL
+    IRRITATION/NAUSEA/VOMITING/DIARRHEA/ASPIRATION OF VOMITUS CAN CAUSE
+    CHEMICAL PNEUMONITIS/FATAL.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MIN. SKIN: WASH
+    W/SOAP & WATER. INHALATION: REMOVE TO FRESH AIR. IF CONTINUED
+    BREATHING DIFFICULTY, RESTORE USING APPROVED CPR TECHNIQUES.
+    INGESTION: DON' T INDUCE VOMITING. ASPIRATION OF VOMITUS CAN CAUSE
+    CHEMICAL PNEUMONITIS, WHICH CAN BE FATAL. OBTAIN MEDICAL ATTENTION
+    IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:-156F
+Extinguishing Media:CO2, DRY CHEMICAL, FOAM, OR OTHER CLASS B
+    EXTINGUISHING AGENT.
+Fire Fighting Procedures:WATER SPRAY MAY BE INEFFECTIVE. IF WATER IS
+    USED, FOG NOZZLES ARE PREFERABLE. FULL PROTECTIVE CLOTHING & SCBA.
+    USE WATER TO KEEP FIRE-EXPOSED CONTAINERS COOL.
+Unusual Fire/Explosion Hazard:FIRE EXPOSED CONTAINERS MAY BUILD
+    PRESSURE OR POSSIBLE AUTOIGNITION. VAPORS MAY IGNITE EXPLOSIVELY OR
+    CAUSE FLASH FIRE. VAPORS MAY SPREAD LONG DISTANCES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. VENTILATE
+    AREA. CONTAIN SPILLED MATERIAL & REMOVE W/INERT ABSORBENT &
+    NON-SPRAKING TOOLS. STORE IN CLOSED CONTAINERS UNTIL PROPERLY
+    DISPOSED.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T PUNCTURE, INCINERATE OR STORE
+    >120F. DON'T SMOKE OR INHALE VAPORS. DON'T PLACE GARBAGE
+    COMPACTORS. DON'T RESUE EMPTY CONTAINERS.
+Other Precautions:KEEP OUT OF THE REACH OF CHILDREN. STORE LARGE
+    QUANTITIES IN BUILDINGS DESIGNED TO COMPLY W/OSHA. DON'T TRANSFER
+    CONTENTS TO BOTTLES/UNLABELLED CONTAINERS. EXTINGUISH/TURN OFF
+    PILOT LIGHTS/HEATERS/FAN S & OTHER NON-EXPLOSION PROOF EQUIPMENT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IN OPEN AREAS W/UNRESTRICTED VENTILATION, USE
+    NIOSH APPROVED MECHANICAL FILTER. IN RESTRICTED AREAS, USE NIOSH
+    CHEMICAL/MECHANICAL FILTERS FOR PARTICULATES & VAPORS. IN CONFINED
+    AREAS, USE NIOSH AIR S UPPLY RESPIRATOR OR HOODS. (SEE SUPP.)
+Ventilation:GENERAL DILUTION OR LOCAL EXHAUST TO KEEP AIR
+Evaporation Rate & Reference:FASTER THAN ETHER
+Percent Volatiles by Volume:96%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:FIRE, EXTEME HEAT, FLAMES, HOT SURFACES,
+    ELECTRICAL STATIC OR FRICTIONAL SPARKS, PILOT LIGHTS, OTHER SOURCES
+    OF IGNITION
+Hazardous Decomposition Products:HAZARDOUS FUMES, CO, CO2, METAL OXIDES
+    & CHLORINE COMPOUNDS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. INCINERATE ONLY IN APPROVED FACILITY. DON'T
+    INCINERATE CLOSED CONTAINERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

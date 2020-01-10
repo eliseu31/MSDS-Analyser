@@ -1,0 +1,139 @@
+=====================  Product Identification  =====================
+
+Product ID:DOLPHON, CC-1305
+MSDS Date:01/27/1992
+FSC:8040
+NIIN:00N057633
+MSDS Number: BWRRZ
+=== Responsible Party ===
+Company Name:JOHN C DOLPH COMPANY
+Address:WEST NEW RD
+Box:267
+City:MONMOUTH JUNCTION
+State:NJ
+ZIP:08852-9513
+Country:US
+Info Phone Num:201-329-2333
+Emergency Phone Num:201-329-2333;800-424-9300(CHEMTREC)
+CAGE:81476
+=== Contractor Identification ===
+Company Name:JOHN C DOLPH COMPANY
+Box:267
+City:MONMOUTH
+State:NJ
+ZIP:08852-9513
+Country:US
+Phone:908-329-2333
+CAGE:81476
+Company Name:JOHN C. DOLPH COMPANY
+Address:NEW ROAD
+Box:267
+City:MONMOUTH JUNCTION
+State:NJ
+ZIP:08852
+Country:US
+Phone:908-329-2333
+CAGE:72688
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PEROXIDE,BIS(ALPHA,ALPHA-DIMETHYLBENZYL); (ORGANIC
+    PEROXIDE). VP: 6.9 @ 86F.
+CAS:80-43-3
+RTECS #:SD8150000
+Fraction by Wt: 1.0-1.4%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHAL: DUE TO ITS LOW VAPOR PRESS, THE
+    INHALATION EXPOSURE HAZARD POTENTIAL IS CONSIDERED TO BE MODERATE.
+    HOWEVER, WHEN HEATED TO DECOMPOSITION, ACRID SMOKE IS EMITTED THAT
+    MAY BE IRRIT TO EYES, NOSE,  THROAT & UPPER RESP TRACT. SKIN:
+    MODERATE IRRIT. EYE: MILD IRRIT. INGEST: MODERATE TOXICITY.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:EXCESSIVE EXPOSURE MAY CAUSE LUNG & LIVER
+    DAMAGE.
+Medical Cond Aggravated by Exposure:MAY AGGRAVATE PRE-EXISTING LIVER
+    DISEASE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: REMOVE TO FRESH AIR. SEVERE EXPOSURE MAY REQUIRE ARTF
+    RESP. GET MED ATTN. SKIN: WASH SKIN THOROUGHLY W/SOAP & WATER. GET
+    MED ATTN. EYE: FLUSH W/LGE VOLUME OF WATER WHILE HOLDING EYELIDS
+    OPEN. G ET MED ATTN. INGEST: GIVE 1-2 LARGE GLASSES OF MILK OR
+    WATER & INDUCE VOMITING. GET MED ATTN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:>200F,>93C
+Extinguishing Media:WATER FOG, CARBON DIOXIDE, DRY CHEMICALS.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT.
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB THE SPILLED MATERIAL ON SAND OR INERT
+    MATERIAL. REMOVE AND PLACE IN LABELED DRUM.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT STORE WITH OXIDIZERS. MAINTAIN
+    TEMPERATURE BELOW 100F.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IN HIGH TEMPERATURE APPLICATIONS OR EXPOSURE TO
+    MISTING, USE A NIOSH/MSHA APPROVED SCBA.
+Ventilation:LOCAL EXHAUST VENT SHOULD BE USED TO CONTROL THE EMISSION
+    OF AIR CONTAMINANTS.
+Protective Gloves:NEOPRENE RUBBER GLOVES.
+Eye Protection:ANSI APPRVD SAFETY GOGGS/FACESHLD.
+Other Protective Equipment:RUBBER APRON & SAFETY SHOES.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>300F,>149C
+Vapor Pres:SEE ING 1
+Vapor Density:HVR/AIR
+Spec Gravity:1.12-1.14
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:CLEAR AMBER.
+Percent Volatiles by Volume:NEGLIG
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS AND THEIR DERIVATIVES.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:WHEN HEATED TO DECOMP, ACRID SMOKE &
+    IRRIT FUMES INCLG CARBON DIOXIDE, CARBON MONOXIDE & ORGANIC ACIDS
+    ARE EMITTED.
+Conditions to Avoid Polymerization:TEMPERATURES OVER 200F.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

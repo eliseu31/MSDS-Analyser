@@ -1,0 +1,109 @@
+=====================  Product Identification  =====================
+
+Product ID:TITAN 200
+MSDS Date:11/08/1985
+FSC:6520
+NIIN:00N057377
+MSDS Number: BWRQM
+=== Responsible Party ===
+Company Name:PLUESS-STAUFER INC
+Address:CRYSTAL CREEK RD
+City:LUCERNE VALLEY
+State:CA
+ZIP:92356
+Country:US
+Info Phone Num:619-248-7306
+Emergency Phone Num:619-248-7306
+CAGE:PLUES
+=== Contractor Identification ===
+Company Name:PLUESS-STAUFER INC
+Address:CRYSTAL CREEK RD
+Box:City:LUCERNE VALLEY
+State:CA
+ZIP:92356
+Country:US
+Phone:619-248-7306
+CAGE:PLUES
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CALCIUM CARBONATE
+CAS:1317-65-3
+RTECS #:EV9580000
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Explanation of Carcinogenicity:NOT RELEVANT
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGEST:CALL MD IMMEDIATELY . INHAL:REMOVE TO FRESH AIR.
+    SUPPORT BREATHING (GIVE O*2/ARTF RESP) . EYES:USE WATER OR EYEWASH
+    PRODUCT IN EYECUP FOR AT LEAST 15 MINUTES. SKIN:USE COLD WATER OR 
+    ROOM TEMPERATURE WASH TO REMOVE DUST.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:MEDIA SUITABLE FOR SURROUNDING FIRE .
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:NON-COMBUSTIBLE & NON-EXPLOSIVE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:MATERIAL SPILLED OR LEAKED CAN BE CLEANED BY
+    SWEEPING.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:MULTIWALL PAPER BAGS & FIBRE DRUMS.
+    CALCIUM CARBONATE SHOULD BE STORED IN CLOSED CONTAINERS. NO SPECIAL
+    PRECAUTIONS.
+Other Precautions:NON-TOXIC MATERIAL; STORE IN DRY AREA. KEEP SPILLED
+    MATERIALS CLEANED UP.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:SUGGEST ANY ACCEPTABLE NIOSH/MSHA APPROVED DUST
+    MASK.
+Ventilation:NORMAL AIR CIRCULATION.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED SAFETY GLASSES .
+Other Protective Equipment:NOT REQUIRED.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:2.71 (H*2O=1)
+Solubility in Water:INSOLUBLE
+Appearance and Odor:WHITE POWDER; ODORLESS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+POSSIBLE REACTIVITY W/STRONG MINERAL ACIDS.
+Stability Condition to Avoid:AVOID STORAGE IN CLOSE PROXIMITY TO ACIDS.
+Hazardous Decomposition Products:REACTION W/ACIDS WILL EVOLVE CARBON
+    DIOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT FEDERAL, STATE & LOCAL REGULATIONS.
+    CONVENTIONAL CONTAINERS USED FOR DISPOSAL PURPOSES.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

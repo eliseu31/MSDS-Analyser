@@ -1,0 +1,187 @@
+=====================  Product Identification  =====================
+
+Product ID:KEN LUSTRAL, ENAMEL, NON-LEAD COLORS
+MSDS Date:12/05/1986
+FSC:8010
+NIIN:00-905-5418
+MSDS Number: BHWCH
+=== Responsible Party ===
+Company Name:THE SHERWIN WILLIAMS COMPANY
+Address:101 PROSPECT AVENUE N.W.
+City:CLEVELAND
+State:OH
+ZIP:44115
+Country:US
+Info Phone Num:(216) 566-2902 OR (216) 566-2917
+Emergency Phone Num:(216) 566-2917 OR (216) 566-5902
+CAGE:82927
+=== Contractor Identification ===
+Company Name:SHERWIN-WILLIAMS CO THE
+Address:101 PROSPECT AVE NW
+Box:City:CLEVELAND
+State:OH
+ZIP:44115-1042
+Country:US
+Phone:800-251-2486/216-566-2242
+CAGE:54636
+Company Name:THE SHERWIN WILLIAMS COMPANY
+Address:101 PROSPECT AVENUE  N. W.
+Box:City:CLEVELAND
+State:OH
+ZIP:44115-1042
+Country:US
+Phone:216-566-2917/216-566-2902
+CAGE:82927
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:V.M. & P. NAPHTHA					       
+    (VAPOR PRESSURE 12.0)
+CAS:64742-48-9
+RTECS #:SE7555000
+Fraction by Wt: 0-5%
+ACGIH TLV:3OO PPM
+
+Ingred Name:MINERAL SPIRITS					       
+    (VAPOR PRESSURE 2.0)
+CAS:64742-47-8
+Fraction by Wt: 35-55%
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:MINERAL SPIRITS 140-FLASH				       
+    (VAPOR PRESSURE 0.5)
+CAS:64475-85-0
+RTECS #:PY8240000
+Fraction by Wt: 0-5%
+ACGIH TLV:100 PPM
+
+Ingred Name:DIPROPYLENE GLYCOL METHYL ETHER
+CAS:34590-94-8
+RTECS #:JM1575000
+Fraction by Wt: 0-5%
+OSHA PEL:S,100PPM/150STEL
+ACGIH TLV:S,100PPM/150STEL9192
+
+Ingred Name:2-BUTOXYETHANOL
+CAS:111-76-2
+RTECS #:KJ8575000
+Fraction by Wt: 0-5%
+OSHA PEL:S, 50 PPM
+ACGIH TLV:S, 25 PPM; 9293
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 0-30%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:LEAD  (SARA III)
+CAS:7439-92-1
+RTECS #:OF7525000
+Fraction by Wt: .00-.01%
+OSHA PEL:0.05 MG/M3;1910.1025
+ACGIH TLV:0.15 MG/M3;DUST 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:OVEREXPOSURE CAUSES EYE, SKIN &
+    RESPIRATORY IRRITATION. NERVOUS DEPRESSIONWITH HEADACHE, DIZZINESS,
+    NAUSEA, CONFUSION & STAGG GAIT. UNCONSCIOUS & POSSIBLEDEATH.
+    CHRONIC: ADVERSE EFFECTS THE LIVE R, URINARY & BLOOD-FORMING
+    SYSTEMS. RATSEXPOSED 250MG/M3 DEVEL LUNG CANCER. MAY CAUSE PERMAN
+    BRAIN/NERVOUS SYSTEM DAMAGE
+Explanation of Carcinogenicity:NO
+Effects of Overexposure:ACUTE:OVEREXPOSURE CAUSES EYE, SKIN &
+    RESPIRATORY IRRITATION. NERVOUS DEPRESSIONWITH HEADACHE, DIZZINESS,
+    NAUSEA, CONFUSION & STAGG GAIT. UNCONSCIOUS & POSSIBLEDEATH.
+    CHRONIC: ADVERSE EFFECTS THE LIVE R, URINARY & BLOOD-FORMING
+    SYSTEMS. RATSEXPOSED 250MG/M3 DEVEL LUNG CANCER. MAY CAUSE PERMAN
+    BRAIN/NERVOUS SYSTEM DAMAGE
+
+=======================  First Aid Measures  =======================
+
+First Aid:IF INHALED: IF AFFECTED, REMOVE FROM EXPOSURE. RESTORE
+    BREATHING. KEEP WARM AND QUIET. SKIN CONTACT: WASH AFFECTED AREA
+    THOROUGHLY WITH SOAP AND WATER. REMOVE  CONTAMINATED CLOTHING AND
+    LAUNDER BEFORE  RE-USE. IF EYE CONTACT: FLUSH EYES WITHLARGE
+    AMOUNTS OF WATER FOR 15 MINUTES. GET MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:102 F/ 39 C
+Lower Limits:0.7
+Extinguishing Media:CARBON DIOXIDE, DRY CHEMICAL, FOAM.
+Fire Fighting Procedures:FULL PROTECT EQUIP. SCBA SHOULD BE USED. WATER
+    SPRAY INEFFECT, BUT USED TO COOL CONTAINER, FOG NOZZLES PREFERED,
+    TO PREVENT EXPLOSION/AUTO-IGNITE/PRESS BUILD-UP
+Unusual Fire/Explosion Hazard:KEEP CONTAIN TIGHTLY CLOSED. ISOLATE FROM
+    HEAT,ELEC EQUIP,SPARK,ETC. CLOSED CON-TAIN MAY EXPLODE FROM EXTREME
+    HEAT USE SPECIAL PRECAUTIONS. DECOMP HEALTH HAZARD
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. VENTILATE AND
+    RE- MOVE WITH INERT ABSORBENT.			  DISPOSE OF IN
+    ACCORDANCE WITH FEDERAL, STATE AND	LOCAL REGULATIONS REGARDING
+    POLLUTION.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:COMBUSTIBLE. KEEP AWAY FROM HEAT/OPEN
+    FLAME. CON- SULT NFPA CODE. USE APPROVED BOND/GROUNDING
+    PROCE-DURES. TRANS TO APPROVED CONTAIN W/COMPLETE LABELS
+Other Precautions:DO NOT TAKE INTERNALLY. KEEP OUT OF THE REACH OF
+    CHILDREN. THIS COATING CONTAINSMATERIAL CLASSIFIED AS NUISANCE
+    PARTICULATES, EXAMPLE: TITANIUM DIOXIDE, ETC.,  WHICH MAY PRESENT
+    HAZARDOUS LEVELS ONLY  DURING SAND/ABRADING OF THE DRIED FILE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF PERSONAL EXPOSURE CANNOT BE CONTROLLED BELOW
+    APPLICABLE LIMITS BY VENTILATIONWEAR RESPIRATORY DEVICE APPROVED BY
+    NIOSH/MSHA FOR PROTECTION AGAINST MATERIALS.
+Ventilation:LOCAL EXHAUST PREFERABLE. GENERAL EXHAUST ACCEPTABLE IF EX-
+    POSURE MAINTAIN BELOW APPLICABLE EXPOSURE LIMITS. REFER OSHA
+Protective Gloves:USE GLOVES RECOMMENDED BY SUPPLIER.
+Eye Protection:SAFETY GLASSES W/UNPERFORATED SIDESHIELD
+Supplemental Safety and Health
+INTENTIONAL MISUSE BY DELIBERATELY CONCENTRATING AND INHALING THE
+    CONTENTS CAN  BE HARMFUL OR FATAL.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:240-416
+Vapor Density:> THAN AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:58-66
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NK
+Hazardous Decomposition Products:CARBON DIOXIDE AND CARBON MONOXIDE.
+    (MAY CAUSE HEALTH HAZARDSYMPTOMS MAY NOT BE IMMEDIATELY APPARENT,
+    OBTAIN MED ATTN).
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:WASTE FROM PRODUCT MAY BE HAZARDOUS AS DEFINED  
+     UNDER RCRA 40 CFR 261. WASTE MUST BE TESTED FOR   IGNITABILITY TO
+    DETERMINE APPLICABLE EPA HAZARDOUSWASTE NUMBERS. INCINERATE IN
+    APPROVED FACILITY.	  DO NOT INCINERATE CLOSED CONTAINERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

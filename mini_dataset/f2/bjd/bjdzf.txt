@@ -1,0 +1,120 @@
+=====================  Product Identification  =====================
+
+Product ID:POTASSIUM IODIDE
+MSDS Date:08/20/1980
+FSC:6810
+NIIN:00-243-4433
+MSDS Number: BJDZF
+=== Responsible Party ===
+Company Name:MALLINCKRODT INC. SCIENCE PRODUCTS DIVISION
+Address:PARIS BYPASS
+Box:M
+City:PARIS
+State:KY
+ZIP:40361
+Country:US
+Info Phone Num:606-987-7000
+Emergency Phone Num:606-987-7000
+CAGE:62910
+=== Contractor Identification ===
+Company Name:MALLINCKRODT SPECIALTY CHEMICALS CO
+Address:222 RED SCHOOL LANE
+Box:City:PHILLIPSBURG
+State:NJ
+ZIP:08865
+Country:US
+Phone:908-859-2151
+CAGE:62910
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POTASSIUM IODIDE
+CAS:7681-11-0
+RTECS #:TT2975000
+Fraction by Wt: >99%
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE-SKIN:IRRITATION.CHRONIC:NONE
+    SPECIFIED BY MANUFACTURER.
+Explanation of Carcinogenicity:NONE OF THE COMPOUNDS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP, OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:PROLONGED ABSORPTION OF IODIDES MAY PRODUCE
+    "IODISM" WHICH IS MANIFESTED BY SKIN RASH, RUNNING NOSE, HEADACHE,
+    AND IRRITATION OF MUCOUS MEMBRANES.
+Medical Cond Aggravated by Exposure:PERSONS WITH A HISTORY OF AILMENTS
+    OR WITH A PRE-EXISTING DISEASE INVOLVING THE EYES, SKIN, OR
+    RESPIRATORY TRACT MAY BE AT INCREASED RISK FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:WASH CONTACT AREAS WITH LARGE AMOUNT OF WATER.EYES:WASH
+    WITH COPIOUS QUANTITIES OF WATER AND CALL PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:ANY MEDIA SUITABLE FOR EXTINGUISHING THE SUPPORTING
+    FIRE.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF IODINE FUMES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP, DISSOLVE IN WATER AND FLUSH TO SEWER
+    WITH EXCESS WATER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL VENTILATED
+    AREA. KEEP CONTAINERS TIGHTLY CLOSED WHEN NOT IN USE. PROTECT FROM
+    LIGHT.
+Other Precautions:AVOID CONTACT WITH EYES AND SKIN. USE WITH ADEQUATE
+    VENTILATION. WASH THOROUGHLY AFTER HANDLING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:DUST MASK (NIOSH APPROVED)
+Ventilation:MECHANICAL ROOM VENTILATION IS NORMALLY ADEQUATE.
+Protective Gloves:RUBBER
+Eye Protection:SAFETY GOGGLES
+Other Protective Equipment:LAB COAT OR COVERALLS
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES. DO NOT WEAR CONTAMINATED CLOTHING OR
+    FOOTWEAR.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Melt/Freeze Pt:M.P/F.P Text:1333F,723C
+Vapor Pres:1 @ 745C
+Spec Gravity:3.13
+Solubility in Water:APPRECIABLE
+Appearance and Odor:WHITE CRYSTALS OR POWDER; ODORLESS
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+POTASSIUM CHLORIDE, ALKALOIDAL SALTS, CHLORAL HYDRATE, TARTARIC ACID
+    AND OTHER ACIDS, AND METALLIC SALTS.
+Stability Condition to Avoid:HIGH TEMPERATURES, AND FLAMES
+Hazardous Decomposition Products:HIGHLY TOXIC FUMES OF IODINE AND
+    IODINE COMPOUNDS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:MAY BE SENT TO AN APPROVED LAND FILL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

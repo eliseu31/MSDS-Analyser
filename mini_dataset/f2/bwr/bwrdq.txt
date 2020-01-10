@@ -1,0 +1,126 @@
+=====================  Product Identification  =====================
+
+Product ID:EXPANDO FR
+MSDS Date:09/01/1989
+FSC:5970
+NIIN:01-187-3731
+MSDS Number: BWRDQ
+=== Responsible Party ===
+Company Name:BENTLEY-HARRIS MFG CO
+Address:241 WELSH POOL RD
+City:LIONVILLE
+State:PA
+ZIP:19353
+Country:US
+Info Phone Num:215-363-2600
+Emergency Phone Num:215-363-2600
+CAGE:GO150
+=== Contractor Identification ===
+Company Name:BENTLEY HARRIS MFG CO
+Address:241 WELSH POOL ROAD
+Box:City:LIONVILLE
+State:PA
+ZIP:19353
+Country:US
+Phone:215-363-2600
+CAGE:81851
+Company Name:BENTLEY-HARRIS MFG CO/SUB OF T & N INC
+Address:241 WELSH POOL RD
+City:LIONVILLE
+State:PA
+ZIP:19353
+Country:US
+Phone:215-363-2600
+CAGE:GO150
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NON-HAZARDOUS INGREDIENTS
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: DERMATITIS MAY OCCUR ON RARE
+    OCCASIONS. CHRONIC: RECENT STUDIES HAVE SHOWN SLIGHT INCREASES IN
+    LUNG CANCER AMONG WORKERS EMPLOYED IN MFR OF GLASS WOOL & MINERAL
+    WOOL INSULATION PRODUCTS. THOSE  SAME STUDIES SHOW NO EVIDENCE OF
+    SIMILAR EFT AMONG CONTINOUS FILAMENT FIBERGLASS WORKERS. THIS
+    PRODUCT(EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ: IS MADE OF CONTINUOUS FILIMENT
+    FIBERGLASS. NO HEALTH HAZ ARE EXPECTED IN FORM PROVIDED, HOWEVER,
+    FIBERGLASS FIBERS ARE KNOWN TO CAUSE IRRITATION & ITCHING OF SKIN &
+    EYES. INHALED FIBERS MAY  CAUSE LUNG IRRITATION. MAY CAUSE SOME
+    REDDENING & ITCHING.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: RINSE W/CLEAR WATER FOR AT LEAST 15 MINUTES. SKIN: WASH
+    WITH COOL WATER & USE MILD SOAP. INHAL: IF OVEREXP TO FUMES, REMOVE
+    TO OPEN AIR. INGEST: NONE. CALL MD IMMEDIATELY .
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE MEDIA SUITABLE FOR SURROUNDING FIRE. MATERIAL
+    IS SELF-EXTINGUISHING.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT.
+Unusual Fire/Explosion Hazard:TOXIC VAPORS MAY BE EMITTED UNDER FIRE
+    CONDITIONS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NONE.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NONE.
+Other Precautions:NONE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF EXCESSIVE DUST OCCURS, USE NIOSH/MSHA
+    APPROVED DUST RESPIRATOR.
+Ventilation:NONE SPECIFIED BY MANUFACTURER.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPRVD SAFETY GLASSES .
+Other Protective Equipment:EYEWASH STATION.
+Work Hygienic Practices:WASH HANDS BEFORE EATING & SMOKING.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:M.P/F.P Text:>392F,>200C
+Spec Gravity:1.24 (H*2O=1)
+Solubility in Water:INSOLUBLE
+Appearance and Odor:LIGHTWEIGHT EXPANDABLE MONOFILAMENT TUBULAR BRAIDS
+    W/NO ODOR. VARIOUS COLORS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE.
+Stability Condition to Avoid:NONE.
+Hazardous Decomposition Products:HEATING ABOVE 250C WILL CAUSE FINISH
+    TO DECOMPOSE AND PRODUCE OXIDE FUMES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:USE DISPOSAL METHOD RECOMMENDED BY FEDERAL,
+    STATE & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

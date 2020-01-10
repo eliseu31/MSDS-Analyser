@@ -1,0 +1,169 @@
+=====================  Product Identification  =====================
+
+Product ID:VERSI-FOAM SYSTEMS 15, 50 REFILLABLES- (SUP
+MSDS Date:03/22/1990
+FSC:8135
+NIIN:00N021882
+MSDS Number: BLMNR
+=== Responsible Party ===
+Company Name:RHH FOAM SYSTEMS INC
+Address:6001 SOUTH PENNSYLVANIA AVE
+City:CUDAHY
+State:WI
+ZIP:53110
+Country:US
+Info Phone Num:414-744-6066; 414-784-5020
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+CAGE:RHHFO
+=== Contractor Identification ===
+Company Name:RHH FOAM SYSTEMS INC
+Address:6001 SOUTH PENNSYLVANIA AVE
+Box:752
+City:CUDAHY
+State:WI
+ZIP:53110-0752
+Country:US
+Phone:800-657-0702
+CAGE:RHHFO
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POLYETHER POLYOL; (POLYETHER POLYOL RESIN)
+CAS:37208-53-0
+Fraction by Wt: 49%
+
+Ingred Name:2-PROPANOL, 1,3-DICHLORO-,PHOSPHATE(3:1); (HALOGENATED
+    PHOSPHATE ESTER)
+CAS:13674-87-8
+RTECS #:UB1473000
+Fraction by Wt: 12%
+
+Ingred Name:DICHLORODIFLUOROMETHANE  (SARA III)
+CAS:75-71-8
+RTECS #:PA8200000
+Fraction by Wt: 16%
+OSHA PEL:1000 PPM
+ACGIH TLV:1000 PPM; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+Ozone Depleting Chemical:1
+
+Ingred Name:TRICHLOROFLUOROMETHANE  (CFC-11)  (SARA III)
+CAS:75-69-4
+RTECS #:PB6125000
+Fraction by Wt: 20%
+OSHA PEL:1000 PPM
+ACGIH TLV:C, 1000 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+Ozone Depleting Chemical:1
+
+Ingred Name:; (SILICONE SURFACTANT)
+CAS:68937-54-2
+Fraction by Wt: <1%
+
+Ingred Name:AMINE CATALYST
+Fraction by Wt: <1%
+
+Ingred Name:ORGANOTIN CATALYST
+Fraction by Wt: <1%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:NONE ANTIC UNLESS FLUOROCARBON
+    VAP/CONC EXCEEDS 10%. MAY IRRIT SKIN/EYES UPON CONT.
+    CHLOROFLUOROCARBON MATLS HAVE PRDCED SENSIT OF THE MYOCARDIUM TO
+    EPINEPHRINE IN LAB ANIMALS & MAY HAVE A SIMILAR EFT  IN HUMANS.
+    ADRENOMIMETICS (E.G.,EPINEPHRINE) MAY BE CONTRAINDICATED EXCEPT FOR
+    LIFE-SUSTAINING USES IN HUMANS (SUPDAT)
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:IRRITATION OF MUCUOUS MEMBRANE, TIGHTNESS OF
+    CHEST. IRRITATION OF RESPIRATORY TRACT, COUGHING, HEADACHE,
+    SHORTNESS OF BREATH. IRRITATION OF SKIN AND EYES.
+Medical Cond Aggravated by Exposure:BRONCHIAL, RESPIRATORY &/OR
+    ALLERGENIC CONDITIONS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: FLUSH W/WATER. EYES: FLUSH W/WATER FOR A MINIMUM OF 15
+    MIN. CONSULT MD. INHAL: REMOVE FROM CONTAMINATED AREA TO FRESH AIR.
+    CONTACT MD. ADMINISTER OXYGEN IF NECESSARY. INGEST: CALL MD
+    IMMEDIATELY  .
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:CO2, DRY CHEMICAL, FOAM OR WATER FOG.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED PRESSURE DEMAND SCBA
+    & FULL PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:CONTAINS CCL2 AND N2 WHICH CAN DEVELOP
+    PRESSURE IN SEALED CONTAINER. THERMAL DECOMPOSITION PRODUCTS MAY
+    INCLUDE CHLORIDES, FLUORIDES & PHOSGENE .
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA AND CONTAIN SPILL IF POSSIBLE.
+    ABSORB IN ABSORBANT SWEEPING COMPOUND, REMOVE IN OPEN DRUMS AND
+    FLUSH AREA WITH WATER AND DETERGENT.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID BODY CONTACT AND INHALATION OF
+    VAPORS. STORE ONLY IN HIGH PRESSURE CONTAINERS IN COOL, DRY AREA.
+    KEEP FROM FREEZING.
+Other Precautions:NO SMOKING IN AREA OF USE. DO NOT USE IN THE GENERAL
+    VICINITY OF ARC WELDING, OPEN FLAMES OR HOT SURFACES. HEAT AND/OR
+    UV RADIATION MAY CAUSE THE FORMATION OF CHLORIDES, FLUORIDES AND/OR
+    PHOSGENE (FP  N).
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED AIR SUPPLIED FACE MASK IS
+    RECOMMENDED FOR HIGH VAPOR PRESSURE.
+Ventilation:LOCAL EXHAUST TO MAINTAIN VAPOR CONCENTRATION BELOW TLV.
+Protective Gloves:CHEMICAL RESISTANT RUBBER OR PLASTIC.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:IN WORK AREAS OF HIGH EXPOSURE POTENTIAL,
+    PROVIDE SAFETY SHOWERS AND EYE WASH STATIONS.
+Work Hygienic Practices:STANDARD INDUSTRIAL PRACTICES.
+Supplemental Safety and Health
+MFR'S PART NO/TRADE NAME: 2 STANDARD, SLO RISE. HAZ DECOMP PROD:
+    FLUORIDES AND PHOSGENE . HLTH HAZ: ACUTELY OR CHRONICALLY EXPOSED
+    TO CHLOROFLUOROCARBONS .
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:-22F,-30C
+Vapor Pres:<70 PSIG
+Vapor Density:4.74
+Spec Gravity:1.21
+Solubility in Water:PARTIALLY SOLUBLE
+Appearance and Odor:AMBER LIQUID WITH ETHEREAL COLOR.
+Percent Volatiles by Volume:NONE
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+UNCONTROLLED MIXTURE WITH ISOCYANATES, HEAT.
+Stability Condition to Avoid:TEMPERATURES ABOVE 95F MAY CAUSE DANGEROUS
+    PRESSURE IN SEALED CONTAINERS.
+Hazardous Decomposition Products:CO2, CO, ORGANIC FRAGMENTS, NOX. HIGH
+    TEMPERATURE CAN DECOMPOSE FLUROCARBON TO ACIDS, TOXIC MATLS.
+    CHLORIDES, (SUPDAT)
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF AS SOLID INDUSTRIAL WASTE I/A/W
+    FEDERAL, STATE, AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

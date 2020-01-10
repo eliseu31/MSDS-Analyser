@@ -1,0 +1,190 @@
+=====================  Product Identification  =====================
+
+Product ID:JHU-625 HONING STONE
+MSDS Date:08/15/1987
+FSC:5345
+NIIN:00F019142
+MSDS Number: BLPMN
+=== Responsible Party ===
+Company Name:SUNNEN PRODUCTS COMPANY
+Address:7910 MANCHESTER AVE
+City:ST LOUIS
+State:MO
+ZIP:63143
+Country:US
+Info Phone Num:314-781-2105
+Emergency Phone Num:314-781-2105
+Preparer's Name:TERRY HELLER
+CAGE:58436
+=== Contractor Identification ===
+Company Name:SUNNEN PRODUCTS CO
+Address:7910 MANCHESTER AVE
+Box:City:SAINT LOUIS
+State:MO
+ZIP:63143-2712
+Country:US
+Phone:314-781-2100
+CAGE:58436
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ALUMINUM OXIDE, BAUXITE, ALUMINA, DIALUMINUM TRIOXIDE
+CAS:1344-28-1
+RTECS #:BD1200000
+Fraction by Wt: 55%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:ALUMINUM (POWDER)
+CAS:7429-90-5
+RTECS #:BD0330000
+Fraction by Wt: 5%
+OSHA PEL:15 MG/CUM
+ACGIH TLV:10 MG/CUM (DUST)
+
+Ingred Name:BORON OXIDE, TRIOXIDE
+CAS:1303-86-2
+RTECS #:ED7900000
+Fraction by Wt: 5%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3; 9293
+
+Ingred Name:CALCIUM OXIDE; LIME
+CAS:1305-78-8
+RTECS #:EW3100000
+Fraction by Wt: 5%
+OSHA PEL:5 MG/CUM
+ACGIH TLV:2 MG/CUM
+
+Ingred Name:COPPER (DUST & MIST), BRONZE POWDER
+CAS:7440-50-8
+RTECS #:GL5325000
+Fraction by Wt: 5%
+Other REC Limits:1 MG(CU)/M3 (DUST)
+OSHA PEL:0.1 MG(CU)/M3 (FUME)
+ACGIH TLV:0.2 MG/M3 (FUME)
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:SILICON CARBIDE
+CAS:409-21-2
+RTECS #:VW0450000
+Fraction by Wt: 55%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:FLOURIDE
+CAS:16984-48-8
+RTECS #:LM6290000
+Fraction by Wt: 5%
+OSHA PEL:2.5 MG/CUM
+ACGIH TLV:2.5 MG/CUM
+
+Ingred Name:MANGANESE, MN COMPOUNDS
+CAS:7439-96-5
+RTECS #:OO9275000
+Fraction by Wt: 1%
+OSHA PEL:(C) 5 MG/M3 DUST
+ACGIH TLV:5 MG/M3 DUST 9293
+
+Ingred Name:FIBROUS (FIBER) GLASS, OXIDE GLASS, GLASS FIBERS
+RTECS #:LK3651000
+Fraction by Wt: 10%
+Other REC Limits:3000000 FB/CUM
+OSHA PEL:15 MG/CUM
+ACGIH TLV:10 MG/CUM
+
+Ingred Name:AMORPHOUS FUSED SILICA, SILICON DIOXIDE, QUARTZ, SILICON   
+    INTENTED CHANGE (IC)
+CAS:60676-86-0
+RTECS #:VV7328000
+Fraction by Wt: 5%
+Other REC Limits:30 MG/CUM TOTAL DUST
+OSHA PEL:SEE TABLE Z3
+ACGIH TLV:0.1 MG/M3 RDUST;9293
+
+Ingred Name:TIN (AS SN)
+CAS:7440-31-5
+RTECS #:XP7320000
+Fraction by Wt: 5%
+OSHA PEL:2.0 MG/CUM
+ACGIH TLV:2.0 MG/CUM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION. INHALATION: NOSE OR
+    THROAT IRRITATION W/METALLIC TASTE IN MOUTH, METAL FUME FEVER
+    W/FLU-LIKE SYMPTOMS.
+Explanation of Carcinogenicity:NONE
+Medical Cond Aggravated by Exposure:SENSITIVITY, RESPIRATORY CONDITIONS
+    SUCH AS EMPHYSEMA, LIGHT & SENSITIVE SKIN, LARGE AMOUNTS OF BODY
+    HAIR, & SKIN DISORDERS
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. IF NOT BREATHING, BEGIN
+    MOUTH-TO-MOUTH RESUSCITATION. EYES: FLUSH W/WATER TO REMOVE
+    PARTICULATES. SKIN: BRUSH OFF EXCESS DUST. WASH HANDS W/MILD
+    NON-ABRASIVE SOAP & WA TER. INGESTION: OBTAIN MEDICAL ATTENTION IN
+    ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Unusual Fire/Explosion Hazard:MATERIAL IN SOLID STATE DOESN'T PRESENT
+    HAZARD. DUST HAZARDS EXIST UNDER CONDITIONS OF SMALL PARTICAL SIZE.
+    DISPERSION IN AIR/IGNITION SOURCE CAUSES EXPLOSION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:TREAT CHIPS OR DUST AS METAL ALLOYS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T WEAR CONTACT LENSES. DRY
+    HONING/CUTTING/GRINDING/WELDING/BRAZING/SOLDERING/ABRADING/MELTING
+    OF STONE PRODUCES DUST OR METAL FUMES.
+Other Precautions:AVOID INHALATION & INGESTION. AVOID CONTACT W/SKIN &
+    EYES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF CONDITIONS OF USE SUCH AS DRY HONING,
+    CUTTING, GRINDING, WELDING, BRAZING, OR SOLDERING OF STONE GIVE
+    RISE TO DUST, USE NIOSH APPROVED RESPIRATOR RATED FOR METAL DUST TO
+    KEEP BELOW TLV.
+Ventilation:USE FORCED VENTILATION TO KEEP BELOW TLV IF CONDITIONS OF
+    USE GIVE RISE TO METAL FUMES.
+Protective Gloves:AS REQUIRED
+Eye Protection:SAFETY GLASSES
+Supplemental Safety and Health
+WATER WILL CAUSE STONE HOLDER TO SLOWLY CORRODE.
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:M.P/F.P Text:>728F/387C
+Spec Gravity: 0.5
+Solubility in Water:INSOLUBLE
+Appearance and Odor:SOLID OBJECT
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACIDS OF ALL TYPES W/PH <4, BASES, OR STRONG OXIDIZING AGENTS
+Hazardous Decomposition Products:METAL FUMES & OXIDES OF NITROGEN AS
+    OXIDATION PRODUCTS OF CEMENT
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/APPLICABLE FEDERAL,
+    STATE, & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

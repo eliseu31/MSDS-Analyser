@@ -1,0 +1,123 @@
+=====================  Product Identification  =====================
+
+Product ID:SPRAY NINE
+MSDS Date:08/06/1991
+FSC:7930
+NIIN:01-177-0795
+MSDS Number: BHWYB
+=== Responsible Party ===
+Company Name:KNIGHT CHEMICAL CORP
+Address:251 N. COMRIE AVE.
+Box:290
+City:JOHNSTOWN
+State:NY
+ZIP:12095-1501
+Country:US
+Info Phone Num:518-762-4591
+Emergency Phone Num:518-762-4591(CHEMTREC 800-424-9300)
+Preparer's Name:GARY M. GRECO
+CAGE:24220
+=== Contractor Identification ===
+Company Name:KNIGHT CHEMICAL CORP
+Address:251 N COMRIE AVE
+Box:City:JOHNSTOWN
+State:NY
+ZIP:12095-1501
+Country:US
+Phone:518-762-4591
+CAGE:24220
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:2-BUTOXYETHANOL
+CAS:111-76-2
+RTECS #:KJ8575000
+Fraction by Wt: 1-5%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:S, 50 PPM
+ACGIH TLV:S, 25 PPM; 9394
+
+Ingred Name:PER MFR: THERE IS NO OTHER HAZARDOUS INGREDIENT ABOVE 1%
+    (OR 0.1% IF CARCINOGENIC) IN THE PRODUCT.
+RTECS #:9999999ZZ
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE; CONTACT WITH SKIN AND EYES MAY
+    CAUSE IRRITATION. CHRONIC: UNKNOWN.
+Explanation of Carcinogenicity:NO INGREDIENT OF A CONCENTRATION OF 0.1%
+    OR GREATER IS LISTED AS A CARCINOGEN OR SUSPECTED CARCINOGEN.
+Effects of Overexposure:SKIN: REDNESS, SWELLING, ITCHING OR DISCOMFORT.
+    EYES: REDNESS, TEARING, BLURRED VISION, DISCOMFORT.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN-FLUSH WITH WATER FOR 15 MINUTES, CONTACT PHYSICIAN IF
+    IRRITATION PERSISTS. EYE-FLUSH IMMEDIATELY WITH WATER FOR 15
+    MINUTES. CONTACT PHYSICIAN. INGESTED-IF CONSCIOUS, DRINK PLENTY OF
+    WATER. CONTAC T PHYSICIAN IMMEDIATELY. INHALED- NO DATA GIVEN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE ABSORBENT MATERIAL TO SOAK UP SPILLS.
+    THOROUGHLY RINSE RESIDUE WITH WATER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID FREEZING AND EXCESSIVE HEAT.
+    KEEP CONTAINER CLOSED. KEEP OUT OF REACH OF CHILDREN.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SPECIFIED BY MANUFACTURER. DLA-HMIS- NONE
+    NORMALLY REQUIRED.
+Ventilation:USE WITH ADEQUATE VENTILATION.
+Protective Gloves:RUBBER GLOVES.
+Eye Protection:SAFETY GLASSES.
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+EPA REGISTRATION NUMBER (FIFRA)-6659-3. PER MFR, THIS IS A LIQUID
+    PRODUCT, NOT AN AEROSOL. MSDS ENTERED AS UPDATE BY DLA-HMIS UNDER
+    PROJECT FOR GSA.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:B3
+Boiling Pt:B.P. Text:212F,100C
+Vapor Pres:18 MM HG
+Vapor Density:>1
+Spec Gravity:1.02
+pH:12.75
+Evaporation Rate & Reference:> WATER
+Solubility in Water:COMPLETE
+Appearance and Odor:TRANSPARENT LIQUID; MILD, PLEASANT ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE AND
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

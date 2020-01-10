@@ -1,0 +1,122 @@
+=====================  Product Identification  =====================
+
+Product ID:PANEL BRIGHT
+MSDS Date:06/07/1986
+FSC:7930
+NIIN:00F018510
+MSDS Number: BKYCG
+=== Responsible Party ===
+Company Name:SERV-ALL PRODUCTS & MFG
+Address:542 BUTLER ST
+City:MARIETTA
+State:GA
+ZIP:30060
+Info Phone Num:(404) 427-2939
+Emergency Phone Num:(404) 427-2939
+CAGE:SERVA
+=== Contractor Identification ===
+Company Name:SERV-ALL PRODUCTS & MFG
+Address:542 BUTLER ST
+Box:City:MARIETTA
+State:GA
+ZIP:30060
+Phone:(404) 427-2939
+CAGE:SERVA
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM HYDROXIDE  (SARA III)
+CAS:1310-73-2
+RTECS #:WB4900000
+Other REC Limits:2MG/M3 CEILING NIOSH
+OSHA PEL:2 MG/M3
+ACGIH TLV:C 2 MG/M3; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:TETRASODIUM SALT OF ETHYLENEDIAMINETETRAACETIC ACID        
+    SODIUM EDTA, SODIUM (DI) ETHYLENEDIAMINE TETRAACETATE
+CAS:64-02-8
+RTECS #:AH5075000
+
+Ingred Name:SODIUM PHOSPHATE, TRIBASIC	(SARA III)
+CAS:7758-29-4
+RTECS #:YK4570000
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN: BURNS & IRRITATION. EYES: BURNS
+    & IRREVERSIBLE DAMAGE.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN: BURNS & IRRITATION. EYES: BURNS &
+    IRREVERSIBLE DAMAGE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER FOR AT LEAST 15 MINS. SKIN: WASH W/SOAP &
+    WATER. INGESTION: DON'T INDUCE VOMITING UNLESS INSTRUCTED TO DO SO
+    BY A PHYSICIAN. NOTE TO PHYSICIAN: DECISION TO INDUCE VOMITING OR
+    NOT S HOULD BE DETERMINED BY THE POSSIBILITY OF ASPIRATING THE
+    MATERIAL WHICH WILL CAUSE SYSTEMIC EFFECTS. IF LAVAGE IS PERFORMED,
+    ENDOTRACHEAL &/OR ESOPHAGEAL CONTROL IS SUGGESTED. OBTAIN MED
+    ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Fire Fighting Procedures:COOL DRUMS W/WATER MIST.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SMALL SPILLS: FLUSH AWAY W/WATER. FLOOR MAY
+    BECOME SLIPPERY. AVOID FALLS. LARGE SPILLS: PUMP LIQUID INTO
+    SALVAGE TANK. ABSORB ON SAND, EARTH OR OTHER SUITABLE ABSORBENT.
+    STOP SPILL AT SOURCE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL, DRY AREA AWAY FROM
+    SOURCES OF HEAT. KEEP CONTAINER CLOSED WHEN NOT IN USE. AVOID
+    CONTACT W/SKIN & EYES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Protective Gloves:RUBBER
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:SPECIAL PERSONAL PROTECTIVE EQUIPMENT SHOULD
+    BE EMPLOYED WHEN TRANSFERRING MATERIAL FROM DRUM.
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:218F
+Spec Gravity:1.1
+Evaporation Rate & Reference:AS WATER
+Solubility in Water:COMPLETE
+Appearance and Odor:COLORLESS TO AMBER COLORED LIQUID W/TYPICAL
+    DETERGENT LIKE ODOR
+Percent Volatiles by Volume:>80%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

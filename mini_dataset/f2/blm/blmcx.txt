@@ -1,0 +1,160 @@
+=====================  Product Identification  =====================
+
+Product ID:RAPID SET EPOXY WHITE, PART A
+MSDS Date:05/01/1991
+FSC:8040
+NIIN:00N020643
+Kit Part:Y
+MSDS Number: BLMCX
+=== Responsible Party ===
+Company Name:MORTON INTERNATIONAL BAUER COATINGS FACILITY
+Address:1021 N MISSION RD
+City:LOS ANGELES
+State:CA
+ZIP:90033
+Info Phone Num:213-225-4154
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+CAGE:DO471
+=== Contractor Identification ===
+Company Name:MORTON INTERNATIONAL; SPECIALTY CHEM GRP
+Address:333 WEST WACKER
+City:CHICAGO
+State:IL
+ZIP:60606-1292
+Phone:815-338-1800
+CAGE:DO471
+Company Name:MORTON INTL INC SPECIALTY CHEMICALS GROUP
+Address:333 W WACKER DR
+City:CHICAGO
+State:IL
+ZIP:60606-1218
+Country:US
+Phone:312-807-2000
+CAGE:32063
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:EPOXY RESIN
+CAS:25068-38-6
+RTECS #:KC2100000
+
+Ingred Name:PROPANE, 1,2-EPOXY-3- (O-TOLYOXY)-; (CRESYLGLYCIDYL ETHER).
+    VAP PRESS: 1.
+CAS:2210-79-9
+RTECS #:TZ3700000
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:TALC (CONTAINING NO ASBESTOS)
+CAS:14807-96-6
+RTECS #:WW2710000
+OSHA PEL:2 MG/M3 RDUST
+ACGIH TLV:2 MG/M3 RDUST; 9192
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ELES				   CA  900
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:0-424-9300 (CHEMTREC)		 
+    213-225-4154
+Explanation of Carcinogenicity:NONE SPECIFIED BY MAN
+Effects of Overexposure:UFACTURER.				       
+								       
+								       
+					WEAR NIOSH/MSHA APPROVED DUST
+    MASK; IF TLV EXCEEDED, USE NIOSH/MSHA APPROVED RESPIRATOR.
+Medical Cond Aggravated by Exposure:SUFFICIENT TO MAINTAIN BELOW TLV.
+
+=======================  First Aid Measures  =======================
+
+First Aid:IMPERVIOUS GLOVES .		    CHEMICAL WORKERS GOGGLES . 
+	  NONE SPECIFIED BY MANUFACTURER.			       
+							       NONE
+    SPECIFIED BY MANUFACTURER.					       
+					  NONE SPECIFIED BY MAN
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:240F,116C
+Extinguishing Media:USE CHEMMICAL FOAM, DRY CHEMICAL, OR CARBON
+    DIOXIDE.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT . WATER FROM FOG NOZZLES MAY BE USED TO COOL
+    CLOSED CONTAINERS TO PREVENT PRESSURE BUILDUP.
+Unusual Fire/Explosion Hazard:FULL PROTECTIVE EQUIP, INCLUDING SCBA, IS
+    RECOMMENDED. WATER FROM FOG NOZZLES MAY BE USED TO COOL CLOSED
+    CONTAINERS TO PREVENT PRESSURE BUILDUP.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:UFACTURER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE BELOW 120 F. DO NOT CUT, GRIND,
+    WELD, OR DRILL NEAR THIS CONTAINER.
+Other Precautions:AVOID EXP TO VAPS. GROUND CNTNR WHILE POURING. MIN
+    DISTANCE OF FREE FALL TO AVOID STATIC ELEC GEN. CNTNRS, EVEN THOSE
+    THAT HAVE BEEN EMPTIED, WILL RETAIN PROD RESIDUE & VAPS. ALWAYS
+    OBEY HAZ WARNINGS  & HNDL CNTNRS AS IF THEY WERE FULL.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:VENT WORKING SPACES TO BELOW THRESHOLD LIMIT
+    VALUE. IF LOCAL EXHAUST NOT AVAILABLE, USE NIOSH/MSHA APPROVED
+    RESPIRATORY DEVICE.
+Ventilation:LOCAL EXHAUST TO MAINTAIN VAPOR CONCENTRATION BELOW
+    THRESHOLD LIMIT VALUE.
+Protective Gloves:IMPERVIOUS GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:EYE BATH RECOMMENDED.
+Work Hygienic Practices:REMOVE & WASH CONTAM CLTHG BEFORE REUSE.
+    DISCARD SHOES IF SATURATED. WHEN PART A IS MIXED W/PART B AN (SUPP
+    DATA)
+Supplemental Safety and Health
+EFTS OF OVEREXP: SHOWED THAT LUNG CLEARANCE MECHANISM WAS OVERWHELMED &
+    THAT RSLTS AT MASSIVE 250 MG/M3 LEV ARE NOT RELEVANT TO WORKPLACE.
+    HYGIENE PRACT: EXOTHERMIC RXN OCCURS WHICH WILL PRDCE TEMPS I N
+    EXCESS OF 200 F. ADTNL PROT EQUIPMENTMUST BE WORN TO PROPERLY
+    HANDLE THIS PRODUCT MIX.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Vapor Pres:SEE ING 2
+Vapor Density:HVR/AIR
+Spec Gravity:1.4771 
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Appearance and Odor:NONE SPECIFIED BY MANUFACTURER.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:HEAT, SPARKS, AND OPEN FLAME.
+Hazardous Decomposition Products:RAPID SET EPOXY WHITE, PART A	       
+			 KMJ01MAY9104AUG95
+Conditions to Avoid Polymerization:MORTON INTERNATIONAL BAUER COATINGS
+    FACILITY	  1021 N MISSION RD				LOS ANG
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF WASTE IN ACCORDANCE WITH LOCAL,
+    STATE, AND FEDERAL REGULATIONS. DO NOT INCINERATE IN CLOSED
+    CONTAINER. COMPLY WITH ALL APPLICABLE GOVERNMENTAL REGULATIONS ON
+    SPILL REPORTING.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

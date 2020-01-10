@@ -1,0 +1,142 @@
+=====================  Product Identification  =====================
+
+Product ID:TRACER-TECH P-133A (SEE SUPPLEMENTAL)
+MSDS Date:05/01/1986
+FSC:6850
+NIIN:01-263-2262
+MSDS Number: BJDWD
+=== Responsible Party ===
+Company Name:ARDROX INC
+Address:16961 KNOTT AVE
+City:LA MIRADA
+State:CA
+ZIP:90638-6015
+Country:US
+Info Phone Num:714-739-2821
+Emergency Phone Num:800-424-9300
+CAGE:23373
+=== Contractor Identification ===
+Company Name:BRENT AMERICA,  INC.
+Address:16961 KNOTT AVE.
+Box:City:LA MIRADA
+State:CA
+ZIP:90638-6015
+Country:US
+Phone:714-739-2821
+CAGE:23373
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:AROMATIC HYDROCARBONS
+Fraction by Wt: 35%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:HYDROCARBON OILS
+Fraction by Wt: 25%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:2-BUTOXYETHANOL
+CAS:111-76-2
+RTECS #:KJ8575000
+Fraction by Wt: 5%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:S, 50 PPM
+ACGIH TLV:S, 25 PPM; 9293
+
+Ingred Name:NONYLPHENOXYPOLY (ETHOXY) ETHANOL
+Fraction by Wt: 20%
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE EFFECTS-EYES:IRRITANT.
+    SKIN:POSSIBLE IRRITANT. CHRONIC EFFECTS-NO LONG TERM EFFECTS KNOWN.
+Explanation of Carcinogenicity:NONE OF THE CHEMICALS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:EYES:IRRITATION. SKIN:MAY CAUSE IRRITATION.
+    INHALE:DIZZINESS, NAUSEA. INGEST:MAY CAUSE NAUSEA, VOMITING AND
+    DIARRHEA. POSSIBLY COULD RESULT IN PNEUMONITIS.
+Medical Cond Aggravated by Exposure:NONE
+
+=======================  First Aid Measures  =======================
+
+First Aid:FIRST AID-EYE: IMMEDIATELY FLUSH WITH PLENTY OF WATER FOR 15
+    MINUTES. GET MEDICAL ATTENTION. SKIN: FLUSH WITH LARGE AMOUNTS OF
+    WATER. INHALATION: REMOVE TO FRESH AIR. GET MEDICAL ATTENTION IF
+    BREATHIN G IS DIFFICULT. INGESTION: DO NOT INDUCE VOMITING. GET
+    MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:225F,107C
+Extinguishing Media:USE CARBON DIOXIDE, FOAM, OR DRY CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING FIRES IN ENCLOSED AREAS.
+Unusual Fire/Explosion Hazard:DO NOT SPRAY NEAR OPEN FLAME OR IGNITION
+    SOURCE. DO NOT HEAT OR WELD CONTAINERS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB SPILL WITH INERT MATERIAL. PLACE
+    MATERIAL IN DOT-APPROVED CONTAINER. FLUSH RESIDUE WITH LARGE
+    AMOUNTS OF WATER.
+Neutralizing Agent:SOLIDIFY WASTE IN CONTAINER WITH ABSORBENT MATERIAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORAGE-STORE IN A DRY AREA ABOVE 32 F
+    AND BELOW 90 F. SHORT TERM EXPOSURE OUTSIDE THIS TEMPERATURE RANGE
+    SHOULD NOT PERMANENTLY DAMAGE THE PRODUCT.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE
+Ventilation:MECHANICAL EXHAUST IS NECESSARY IF PRODUCT IS SPRAYED.
+Protective Gloves:RUBBER GLOVES OR P.V.C.
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:SAFETY SHOWER AND EYE BATH. INDUSTRIAL TYPE
+    WORK CLOTHING AND APRON AS REQUIRED TO AVOID PROLONGED OR REPEATED
+    CONTACT.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING AND BEFORE
+    EATING OR DRINKING. NEVER EAT, DRINK OR SMOKE WHEN WORKING WITH
+    CHEMICALS.
+Supplemental Safety and Health
+PRODUCT UNDER THE FOLLOWING P/N IND: A, B, C, D OR E ARE LISTED IN
+    QPL-25135-15 UNDER TYPE 1, METHOD A, LEVEL 2 OF MIL-I-25135.(P/N
+    IND A: TRACER-TECH P-133A; P/N IND B: 970-P23; P/N IND C:
+    TRACER-TEC H P-133D; P/N IND D: P-134D; P/N IND D:BIO-PEN P6F2.)
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:444F,229C
+Spec Gravity:.965-.975
+Solubility in Water:COMPLETE
+Appearance and Odor:FLUORESCENT YELLOW LIQUID WITH AROMATIC SOLVENT
+    TYPE ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:OPEN FLAMES. MATERIAL CAN BE IGNITED.
+Hazardous Decomposition Products:CARBON MONOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTACT SPECIAL WASTE DISPOSAL COMPANY. DISPOSE
+    OF IN ACCORDANCE WITH ALL APPLICABLE FEDERAL, STATE AND LOCAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

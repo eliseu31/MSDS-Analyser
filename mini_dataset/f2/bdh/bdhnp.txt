@@ -1,0 +1,97 @@
+=====================  Product Identification  =====================
+
+Product ID:BRAYCO 424,MIL-L-2104C,OE/HDO-40,GRADE 40
+MSDS Date:01/01/1985
+FSC:9150
+NIIN:00-188-9862
+MSDS Number: BDHNP
+=== Responsible Party ===
+Company Name:BRAY OIL CO, INC
+Emergency Phone Num:213-575-1212
+CAGE:KO467
+=== Contractor Identification ===
+Company Name:BRAY OIL CO, INC
+CAGE:KO467
+Company Name:CASTROL INDUSTRIAL NORTH AMERICA INC SPECIALTY PRODUCTS
+    DIV
+Address:1001 WEST 31ST STREET
+Box:City:DOWNERS GROVE
+State:IL
+ZIP:60515-1280
+Country:US
+Phone:800-621-2661/ FAX: 630-241-4140
+CAGE:2R128
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:REFINED PETROLEUM LUBE OIL STOCK
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:NOT EXPECTED TO CAUSE ANY ILL EFFECT EXCEPT IN
+    VERY SENSITIVE INDIV. MAY CAUSE EYE IRRIT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: IMMED FLUSH W/WATER AT LEAST 15 MIN, CALL MD. SKIN: WASH
+    THOROUGHLY W/MILD SOAP & WATER. INGEST: DO NOT INDUCE VOMIT, CALL
+    MD.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:480F COC
+Extinguishing Media:DRY CHEM, CO*2, FOAM, WATER FOG
+Fire Fighting Procedures:USE SELF-CNTND RESP EQUIP IN CONFINED AREA
+Unusual Fire/Explosion Hazard:DO NOT USE WATER EXCEPT AS FOG, OR SPRAY
+    TO COOL CNTNRS OR TANKS TO AVOID HEATING ABOVE FLASH PT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:STOP FLOW & SHUT OFF SOURCES OF IGNITION. WIPE
+    OR MOP UP, OR ABSORB W/CLAY, DIATOMACEOUS EARTH, OR OTHER INERT
+    MATL. STORE IN CLOSED METAL CNTNRS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT STORE NEAR HEAT, OPEN FLAME, OR
+    OTHER SOURCES OF IGNITION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQ EXCEPT IF OIL MIST EXCEEDS TLV,
+    NIOSH/MSHA APPRVD IF NEC.
+Ventilation:LOCAL EXHST & MECH, ONLY IF OIL MIST EXCEEDS TLV
+Protective Gloves:PLASTIC/RUBBER
+Eye Protection:SAFETY GLASSES
+Supplemental Safety and Health
+MFR STATES PROD IS NON HAZ AS DEFINED BY US DEPT OF LABOR 29CFR, SECT
+    1915.2.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:>500F
+Spec Gravity:0.904
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:DARK OILY LIQ, PETROLEUM ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID STRONG OXIDIZING AGENTS
+Hazardous Decomposition Products:COMBUSTION MAY PRODUCE CARBON MONOXIDE
+    & ASPHYXIANTS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTROLLED INCINERATION OR METHOD IAW LOCAL,
+    STATE, FED REG.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,186 @@
+=====================  Product Identification  =====================
+
+Product ID:20-813 SUPERGARD SAE 10W-30
+MSDS Date:10/12/1994
+FSC:9150
+NIIN:01-227-8210
+MSDS Number: BWRFD
+=== Responsible Party ===
+Company Name:CITIES SERVICE CO
+Address:CITIES SERVICE BLDG
+Box:300
+City:TULSA
+State:OK
+ZIP:74102
+Country:US
+Info Phone Num:918-561-5165
+Emergency Phone Num:918-561-5165, FOR MED:318-491-6215
+CAGE:71476
+=== Contractor Identification ===
+Company Name:CITIES SERVICE CO
+Address:CITIES SERVICE BLDG
+Box:300
+City:TULSA
+State:OK
+ZIP:74102
+Country:US
+Phone:918-561-5165, FOR MED:318-491-6215
+CAGE:71476
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MINERAL OIL, SOLVENT REVFINED HEAVY PARAFFINIC, SEVERELY
+    HYDROTREATED (NON-CARCINOGENIC - IARC)
+CAS:64741-88-4
+RTECS #:PY8040501
+Fraction by Wt: >75%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:PETROLEUM OIL
+CAS:64741-89-5
+RTECS #:PY8041500
+Fraction by Wt: >75%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:MINERAL OIL, PETROLEUM DISTILLATE, SOLVENT DDEWAXED
+    (SEVERE), HEAVY PARAFFINIC
+CAS:64742-65-0
+RTECS #:PY8038501
+Fraction by Wt: >75%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:SOLVENT REFINED, HYDROTREATED LIGHT PARAFFINIC DISTILLATE
+CAS:64742-55-8
+RTECS #:PY8036500
+Fraction by Wt: >75%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:HIGHLY REFINED BASE OIL
+CAS:72623-87-1
+Fraction by Wt: >75%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:INGREDIENTS 1-5 ARE COMBINED PERCENTAGE OF >75%.
+RTECS #:9999999ZZ
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:ANTIWEAR, RUST AND OXID. INHIBITORS (CONTAINS ZINC
+    DIALKYDITHIOPHOSPHATES)
+Fraction by Wt: <15%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:PHOSPHORODITHOIC ACID, O-O-D1 C1-14-ALKYL ESTERS, ZINC
+    SALTS (2:1) (ZDDP) (PULLED OUT FORM #7 FOR EPCRA PURPOSES)
+CAS:68649-42-3
+Fraction by Wt: <2%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:VI IMPROVER (TYPE NOT SPECIFIED)
+Fraction by Wt: <15%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT) IS >5000 MG/KG
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: INHALATION OF MISTS/FUMES MAY
+    CAUSE CNS EFFECTS, RESPIRATORY IRRITATION OR CHEMICAL PNEUMONITIS.
+    CONTACT MAY CAUSE MILD SKIN & EYE IRRITATION. INGESTION OF VERY
+    LARGE QUANTITIES MAY CAUSE GI TR ACT DISCOMFORT/IRRITATION.
+    INJECTION MAY CAUSE EDEMA. CHRONIC: PROLONGED OR REPEATED EXPOSURE
+    MAY CAUSE DERMATITIS.
+Explanation of Carcinogenicity:NO INGREDIENT OF A CONCENTRATION OF 0.1%
+    OR GREATER IS LISTED AS A CARCINOGEN OR SUEPECTED CARCINOGEN.
+Effects of Overexposure:INHALED-DIZZINESS, HEADACHE, NAUSEA,
+    RESPIRATORY IRRITATION. EYES-REDNESS, DISCOMFORT. SKIN-REDNESS,
+    DRYING, DISCOMFORT. INGESTED-IRRITATION, ERYTHEMA, EDEMA.
+Medical Cond Aggravated by Exposure:NONE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. RESTORE BREATHING IF NEEDED.
+    SEEK MEDICAL ATTENTION. EYE: PROMPTLY FLUSH WITH WATER FOR 15
+    MINUTES WHILE HOLDING LIDS OPEN. GET MEDICAL ATTENTION. SKIN: WASH
+    WITH SOAP  AND WATER. REMOVE CONTAMINATED CLOTHING. GET MEDICAL
+    ATTENTION IF IRRITATION PERSISTS. INGESTION: DO NOT INDUCE
+    VOMITING. GET MEDICAL ATTENTION. INJECTION: GET IMMEDIATE MEDICAL
+    AID.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:428F,220C
+Extinguishing Media:WATER FOG, CARBON DIOXIDE, DRY CHEMICAL, FOAM.
+Fire Fighting Procedures:NONE. DLA-HMIS: WEAR SELF-CONTAINED BREATHING
+    APPARATUS AND FULL PROTECTIVE GEAR. COOL FIRE EXPOSED CONTAINERS
+    WITH WATER.
+Unusual Fire/Explosion Hazard:WATER MAY CAUSE FROTHING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE ALL SOURCES OF IGNITION. PROVIDE
+    ADEQUATE VENTILATION. TAKE UP WITH NONCOMBUSTIBLE ABSORBANT SUCH AS
+    FULLERS EARTH OR SAND. PLACE INTO CONTAINERS FOR LATER DISPOSAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER TIGHTLY CLOSED AND AWAY
+    FROM HEAT & FLAME. AVOID PROLONGED SKIN CONTACT. USE ONLY IN
+    WELL-VENTILATED AREAS.
+Other Precautions:REPORT ANY DISCHARGES OF ANY KIND OR FORM TO THE
+    COAST GUARD AT THE NATIONAL RESPONSE CENTER AT 800-424-8802.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF ENGINEERING CONTROLS FAIL OR NON-ROUTINE USE
+    OR AN EMERGENCY OCCURS; WEAR AN MSHA/NIOSH APPROVED RESPIRATOR OR
+    AN AIR-SUPPLIED RESPIRATOR OR SCBA, AS REQUIRED. USE IN ACCORDANCE
+    WITH 29 CFR 1910.13 4 AND MANUFACTURER'S RECOMMENDATIONS.
+Ventilation:IN CONFINED SPACES, USE ADEQUATE MECHANICAL VENTILATION OR
+    LOCAL EXHAUST TO MAINTAIN EXPOSURE BELOW TLV(S).
+Protective Gloves:PROLONGED OR REPEATED CONTACT: NITRILE.
+Eye Protection:SPLASHING EXPECTED: SAFETY GOGGLES.
+Other Protective Equipment:BODY-COVERING WORK CLOTHES TO PREVENT
+    PROLONGED OR REPEATED SKIN CONTACT.
+Work Hygienic Practices:WASH HANDS AFTER HANDLING AND BEFORE EATING,
+    DRINKING, OR SMOKING. LAUNDER CONTAMINATED CLOTHES BEFORE REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:693F,367C
+Vapor Pres:<<1
+Vapor Density:>1
+Spec Gravity:0.89
+Evaporation Rate & Reference:<1 (N-BUTYL ACETATE=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:LIGHT AMBER LIQUID; SLIGHT PETROLEUM ODOR.
+Percent Volatiles by Volume:NIL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS, STRONG ACIDS, CAUSTICS.
+Stability Condition to Avoid:NONE.
+Hazardous Decomposition Products:CARBON DIOXIDE (CARBON MONOXIDE UNDER
+    INCOMPLETE COMBUSTION), TRACES OF CALCIUM, PHOSPHORUS, SULFUR,
+    ZINC.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE AND
+    FEDERAL ENVIRONMENTAL REGULATIONS. SARA 313-ZINC
+    DIALKYLDITHIOPHOSPHATES, CAS# 68649-42-3, 2%; SARA 302-NONE; 
+    CERCLA-PETROLEUM PRODUCTS ARE EXCLUDED; SA RA 311-NOT APPLICABLE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

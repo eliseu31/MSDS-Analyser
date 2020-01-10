@@ -1,0 +1,102 @@
+=====================  Product Identification  =====================
+
+Product ID:SUPER-D III MOTOR OIL, GRADE 30
+MSDS Date:01/01/1985
+FSC:9150
+NIIN:00-188-9858
+MSDS Number: BDHMP
+=== Responsible Party ===
+Company Name:KENDALL REFINING CO.
+Emergency Phone Num:814-368-6111
+CAGE:KENDA
+=== Contractor Identification ===
+Company Name:KENDALL REFINING COMPANY
+Address:77 N. KENDALL AVE
+Box:2000
+City:BRADFORD PA.
+State:PA
+ZIP:16701
+Country:US
+Phone:814-368-6111
+CAGE:KENDA
+Company Name:WITCO CHEMICAL CORP,KENDALL REFINING CO. DIVISION
+Address:77 N KENDALL AVENUE
+Box:2000
+City:BRADFORD
+State:PA
+ZIP:16701-1726
+Country:US
+Phone:814-368-6111
+CAGE:75273
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PETROLEUM HYDROCARBON
+
+Ingred Name:ADDITIVES
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:EYE: IRRIT. AVOID SKIN CNTCT, MAY CAUSE DERMAT
+    OR SENSIT TO SOME INDIV.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER. IF IRRIT, CNTCT MD. SKIN: REMOVE W/CLOTH
+    OR PAPER & WASH AREA W/SOAP & WATER. SWALLOWED: CALL MD.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:205C, 400F
+Lower Limits:1.0
+Upper Limits:10
+Extinguishing Media:DRY CHEM, FOAM, CO*2
+Fire Fighting Procedures:DO NOT USE WATER EXCEPT AS FOG
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:IF VOLUME SIGNIFICANT, TRANSFER INTO CNTNRS
+    FOR DISPOSAL. USE OIL ABSORBENT PROD TO REMOVE BAL OF SPILL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:HANDLE & STORE AT ROOM TEMP
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPRVD DEVICE IF NEC
+Ventilation:MFR STATES NOT REQ. ADEQUATE TO PROT FROM OIL MIST.
+Protective Gloves:NOT REQ
+Eye Protection:NOT REQ
+Other Protective Equipment:NONE
+Supplemental Safety and Health
+VAPOR PRESSURE:NIL. % VOLATILE BY WT: NIL. SPECIFIC GRAVITY:
+    0.868-0.896.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:330C, 626F
+Evaporation Rate & Reference:NIL
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:FLUIDITY-LIKE MOTOR OIL, BLAND ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS
+Hazardous Decomposition Products:IF BURNED: CO*2 IF ADEQ AIR, CO*2 & CO
+    IF INADEQ AIR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:USE OIL DISPOSAL METHOD TO SATISFY LOCAL REG
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

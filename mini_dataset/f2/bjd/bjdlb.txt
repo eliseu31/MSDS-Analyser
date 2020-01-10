@@ -1,0 +1,152 @@
+=====================  Product Identification  =====================
+
+Product ID:INTERGARD HS UNIV. EPOXY REACTOR PART B
+MSDS Date:08/04/1989
+FSC:8010
+NIIN:01-241-9721
+Kit Part:Y
+MSDS Number: BJDLB
+=== Responsible Party ===
+Company Name:INTERNATIONAL PAINT (USA) INC.   PART 1 OF 2 PARTS
+Box:386
+City:UNION
+State:NJ
+ZIP:07083
+Country:US
+Info Phone Num:713-682-1711
+Emergency Phone Num:1-800-854-6813
+CAGE:26351
+=== Contractor Identification ===
+Company Name:INTERNATIONAL PAINT INC
+Address:6001 ANTOINE DR
+Box:City:HOUSTON
+State:TX
+ZIP:77091
+Country:US
+Phone:800-589-1267/800-854-6813
+CAGE:26351
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL N-AMYL KETONE				       
+    (VAPOR PRESSURE 2.1 MM HG)
+CAS:110-43-0
+RTECS #:EC6475000
+Fraction by Wt: 10-15%
+OSHA PEL:100 PPM
+ACGIH TLV:50 PPM
+
+Ingred Name:VM&P NAPHTHA (LIGROINE)
+CAS:8032-32-4
+RTECS #:OI6180000
+Fraction by Wt: 1-5%
+OSHA PEL:300 PPM/400 STEL
+ACGIH TLV:300 PPM; 9192
+
+Ingred Name:1,2 ETHANDIAMN N-(2AMNTHYL) 			       
+    (VAPOR PRESSURE .1 MM HG @ 20C)
+CAS:25068-38-6
+RTECS #:KC2100000
+Fraction by Wt: 1-5%
+OSHA PEL:1 PPM
+ACGIH TLV:1 PPM
+
+Ingred Name:AMINE COMPOUND (PROPRIETARY INFORMATION)
+Fraction by Wt: 35-40%
+
+Ingred Name:POLYAMINE ADDUCT (PROPRIETARY INFORMATION)
+Fraction by Wt: 20-25%
+
+Ingred Name:ALKYL GLYCIDYL EITHER (PROPRIETARY INFORMATION)
+Fraction by Wt: 15-20%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Effects of Overexposure:EYE: EXTREMELY IRRITATING, LIQUID CAUSES EYE
+    BURNS. SKIN: MAY CAUSE BURNS/SENSITIZATION/ALLERGIC RESPONSES.
+    INHALATION: IRRITATION OF RESPIRATORY TRACT HEADACHE, DIZZINESS AND
+    UNCONSCIOUSNESS. INGESTI ON: GASTRO-INTESTINAL IRRITATION, NAUSEA,
+    VOMITING DIARRHEA.
+Medical Cond Aggravated by Exposure:SKIN AND RESPIRATORY CONDITIONS
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH IMMEDIATELY WITH COPIOUS QUANTITIES OF WTR FOR 15
+    MIN. CALL DR. IMMEDIATELY.SKIN: REMOVE CONTAMD CLOTHING, WASH SKIN
+    WITH PLENTY OF SOAP AND WATER.  INHALATION: REMOVE TO FRESH AIR.
+    GIVE AR TIFICIAL RESPIRATION IF NEEDED. CALLDR. INGESTION: CALL A
+    PHYSICIAN IMMEDIATELY TO DETERMINE WHETHER OR NOT TO INDUCE
+    VOMITING.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:106F
+Lower Limits:NA
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL
+Fire Fighting Procedures:SMOTHER FLAMES WITH ONE OF THE ABOVE EXTING
+    MEDIA. WATER TO COOL UNOPENED CONT. NOT BE USED AS AN EXTING MEDIA.
+    PREVENT SPREAD OF BURNING LIQUID WITH WATER.
+Unusual Fire/Explosion Hazard:NONE KNOWN UNLESS OTHERWISE NOTED.
+    CONTAINS FLAMMABLE SOLVENT. DO NOT USE IN AREAS WHERE SPARK AND
+    OPEN FLAME ARE PRESENT.CONT. MAY EXPLODE WITH EXTREME HEAT
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. AVOID
+    INHALATION	OF VAPORS. VENTILATE AREA CLEAN UP WITH
+    ABSORRBANTMATERIALS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN BUILDING DESIGNED FOR THE
+    STORAGE OF	   LIQUIDS. AVOID BREATHAING DURST OR CHIPS FROM    
+    SANDING OR BLASTING SURFACES COATED W/THIS PRODUCT
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:OPEN AREAS: USE A NIOSH APPROVED FILTER
+    RESPIRATOR. RESTRICTED AREAS: USE A     NIOSH APPROVED RESPIRATOR
+    IN ACCORDANCE W/29CFR1910.134.
+Ventilation:PROVIDE SUFFICIENT VENTILATION
+Protective Gloves:CHEMICAL RESISTANT GLOVES
+Eye Protection:SAFETY GLASSES/CHEM GOGGLES/FACESHIELDS
+Other Protective Equipment:IMPERVIOUS PROTECTIVE CLOTHING TO PREVENT
+    SKIN CONTACT.
+Work Hygienic Practices:REMOVE AND WASH SOILED CLOTHING BEFORE REUSE.
+    WASH HANDS	  BEFORE EATING OR SMOKING.
+Supplemental Safety and Health
+NK
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:200-482F
+Vapor Density:>AIR
+Evaporation Rate & Reference:SLOWER THEN ETHER
+Percent Volatiles by Volume:16%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING AGENTS
+Stability Condition to Avoid:PROTECT FROM FREEZING. STORE AWAY FROM
+    DIRECT HEAT, FLAME ORSPARK.
+Hazardous Decomposition Products:CO, CO2, VARIUOS HYDROCARBON FRAGMENTS
+    ALDEHYDES NITROGEN COMPOUNDS.
+Conditions to Avoid Polymerization:WILL NOT OCCUR
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN ACCORDANCE WITH LOCAL, STATE AND     
+     FEDERAL REGULATIONS. DO NOT INCINERATE UNOPENED   CONTAINERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

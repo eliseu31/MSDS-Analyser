@@ -1,0 +1,53 @@
+=====================  Product Identification  =====================
+
+Product ID:KRYLON 1327
+MSDS Date:01/01/1985
+FSC:6850
+NIIN:00-193-7910
+MSDS Number: BDHZT
+=== Responsible Party ===
+Company Name:BORDEN CHEMICAL CO
+Address:180 E BROAD ST
+City:COLUMBUS
+State:OH
+ZIP:43215-3705
+Country:US
+Emergency Phone Num:614-225-6124
+CAGE:86142
+=== Contractor Identification ===
+Company Name:BORDEN CHEMICAL CO
+Address:180 E BROAD ST
+Box:City:COLUMBUS
+State:OH
+ZIP:43215-3705
+Country:US
+Phone:614-225-6124
+CAGE:86142
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL CHLOROFORM (1,1,1-TRICHLOROEHANE)  (SARA III)
+CAS:71-55-6
+RTECS #:KJ2975000
+OSHA PEL:350 PPM/450 STEL
+ACGIH TLV:350 PPM/450STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+Ozone Depleting Chemical:1
+
+=============  Exposure Controls/Personal Protection  =============
+
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:G3
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

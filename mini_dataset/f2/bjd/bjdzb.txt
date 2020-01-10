@@ -1,0 +1,135 @@
+=====================  Product Identification  =====================
+
+Product ID:SILVER NITRATE TABLETS
+MSDS Date:10/27/1987
+FSC:6850
+NIIN:00-201-1257
+MSDS Number: BJDZB
+=== Responsible Party ===
+Company Name:THE GERIN CORPORATION
+Address:1109 SEVENTH AVE
+City:NEPTUNE
+State:NJ
+ZIP:07753-5143
+Country:US
+Info Phone Num:201-774-3256
+Emergency Phone Num:201-774-3256
+CAGE:KO588
+=== Contractor Identification ===
+Company Name:GERIN CORP
+Address:1109 SEVENTH AVE
+Box:City:NEPTUNE
+State:NJ
+ZIP:07753-5143
+Country:US
+Phone:908-774-3256
+CAGE:96009
+Company Name:THE GERIN CORPORATION
+Address:1109 SEVENTH AVE
+City:NEPTUNE
+State:NJ
+ZIP:07753-5143
+Country:US
+Phone:201-774-3256
+CAGE:KO588
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SILVER NITRATE  (SARA III)
+CAS:7761-88-8
+RTECS #:VW4725000
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:0.01 MG AG/M3
+ACGIH TLV:0.01 MG AG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE - EYES: IRRITATION. SKIN:
+    IRRITATION. INHALATION: IRRITATION. INGESTION: IRRITATION. CHRONIC
+    - EYES: IRRITATION AND/OR BURNING. SKIN: IRRITATION AND/OR BURNING.
+    INHALATION: IRRITATION. INGESTION : IRRITATION.
+Explanation of Carcinogenicity:NOT CONSIDERED A CARCINOGEN BY NTP,
+    IARC, OR OSHA.
+Effects of Overexposure:EYES: IRRITATION. SKIN: IRRITATION AND/OR
+    BURNING. INHALATION: IRRITATION. INGESTION: IRRITATION.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH LARGE AMOUNTS OF WATER FOR AT LEAST 15
+    MINUTES WHILE HOLDING LIDS APART. SKIN: RINSE WITH SOAP AND WATER.
+    REMOVE ANY CONTAMINATED CLOTHING. INHALATION: MOVE VICTUM TO FRESH
+    AIR AND SE EK MEDICAL CARE. GIVE ARTIFICIAL RESPIRATION IF
+    NECESSARY. INGESTION: GIVE WATER AND INDUCE VOMITING. SEEK MEDICAL
+    ATTENTION. EFFECTS MAY BE DELAYED. KEEP VICTIM UNDER OBSERVATION.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER ONLY. NO DRY CHEMICAL, CO2, OR HALON.
+Fire Fighting Procedures:USE A NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT WHEN FIGHTING CHEMICAL FIRES. USE WATER SPRAY TO COOL
+    NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:KEEP COMBUSTIBLES AWAY FROM SPILLED MATERIAL.
+    SCOOP UP AND PLACE IN A SUITABLE CONTAINER. FLUSH RESIDUE WITH
+    WATER. USE WATER SPRAY TO REDUCE DUST.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A CLOSED CONTAINER. STORE
+    AWAY FROM COMBUSTIBLE MATERIALS.
+Other Precautions:DO NOT TOUCH SPILLED MATERIAL.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE A DUST MASK WHEN HANDLING THIS PRODUCT.
+Ventilation:LOCAL MECHANICAL EXHAUST.
+Protective Gloves:RUBBER GLOVES.
+Eye Protection:SAFETY GLASSES.
+Other Protective Equipment:LAB COAT.
+Work Hygienic Practices:WASH HANDS AFTER USING THIS MATERIAL.
+Supplemental Safety and Health
+DO NOT EAT, DRINK, OR SMOKE AROUND THIS MATERIAL.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:D1
+Boiling Pt:B.P. Text:NONE
+Melt/Freeze Pt:M.P/F.P Text:414F,212C
+Decomp Temp:Decomp Text:831F,444C
+Spec Gravity:4.35
+Solubility in Water:HIGH
+Appearance and Odor:ODORLESS, DARK BROWNISH BLACK WHEN EXPOSED TO
+    LIGHT.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ALKALIES,HALIDES,ANTIMONY SALTS,ARSENITES,CARBONATE,
+    THIOCYANATES,FERROUS SALTS, HYPOPHOSPHITES, ACETALDEHYDE, ACETYLENE
+Stability Condition to Avoid:AVOID EXPOSURE TO LIGHT.
+Hazardous Decomposition Products:WHEN HEATED TO DECOMPOSITION, IT EMITS
+    TOXIC FUMES OF NITROGEN OXIDES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH ALL APPLICABLE
+    FEDERAL, STATE, AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

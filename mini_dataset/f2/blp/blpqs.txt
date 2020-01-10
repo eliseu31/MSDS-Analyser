@@ -1,0 +1,117 @@
+=====================  Product Identification  =====================
+
+Product ID:2000 FIRESTOP SEAL
+MSDS Date:09/18/1985
+FSC:8030
+NIIN:00F019208
+MSDS Number: BLPQS
+=== Responsible Party ===
+Company Name:DOW CORNING CORP
+Address:SOUTH SAGINAW RD
+Box:997
+City:MIDLAND
+State:MI
+ZIP:48686
+Info Phone Num:(517) 496-5900
+Emergency Phone Num:(517) 496-5900
+Preparer's Name:JACK L. SHENEBERGER
+CAGE:5D028
+=== Contractor Identification ===
+Company Name:DOW CORNING CORP
+Address:3901 S SAGINAW RD
+Box:997
+City:MIDLAND
+State:MI
+ZIP:48686-0997
+Country:US
+Phone:517-496-6000/517-496-6315
+CAGE:5D028
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DIMETHYLFORMAMIDE
+CAS:68-12-2
+RTECS #:LQ2100000
+Fraction by Wt: 1%
+Other REC Limits:10 PPM
+OSHA PEL:S, 10 PPM
+ACGIH TLV:S, 10 PPM; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:SILICONE
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: DISCOMFORT & PAIN. SKIN:
+    IRRITATION. INHALATION: IRRITATION & PAIN TO RESPIRATORY PASSAGES.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: DISCOMFORT & PAIN. SKIN: IRRITATION.
+    INHALATION: IRRITATION & PAIN TO RESPIRATORY PASSAGES.
+Medical Cond Aggravated by Exposure:ALLERGIC CONDITIONS
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER. SKIN: WIPE OFF & FLUSH W/WATER. OBTAIN
+    MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:OC
+Flash Point:>250F
+Extinguishing Media:WATER FOG, CO2, DRY CHEMICAL OR FOAM
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS & FULL
+    PROTECTIVE CLOTHING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE PRODUCT & USE ABSORBENT MATERIAL TO
+    TAKE CARE OF ANY OIL-LIKE RESIDUES.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE <90F. USE ONLY W/ADEQUATE
+    VENTILATION. DON'T USE IN CONFINED OR POORLY VENTILATED SPACES.
+    DON'T PUT IN MOUTH. AVOID EYE & SKIN CONTACT.
+Other Precautions:USE REASONABLE CARE & CAUTION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE ORGANIC VAPOR TYPE RESPIRATOR UNLESS
+    VENTILATION IS ADEQUATE
+Ventilation:MECHANICAL (GENERAL): RECOMMENDED. LOCAL EXHAUST: ADEQUATE.
+Eye Protection:SAFETY GLASSES
+Work Hygienic Practices:REMOVE/WASH CONTAMINATED CLOTHING BEFORE REUSE.
+    WASH AT MEALTIME, END OF SHIFT, BEFORE EATING OR SMOKING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:1.45
+Solubility in Water:<0.1%
+Appearance and Odor:GRAY, PASTE-LIKE W/SLIGHT ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING MATERIAL
+Stability Condition to Avoid:TEMPERATURES >90F.
+Hazardous Decomposition Products:METAL OXIDES, CO2, TRACES OF
+    INCOMPLETELY BURNED CARBON PRODUCTS
+Conditions to Avoid Polymerization:AIR OR MOISTURE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS CONCERNING HEALTH/POLLUTION.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

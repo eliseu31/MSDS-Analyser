@@ -1,0 +1,150 @@
+=====================  Product Identification  =====================
+
+Product ID:MINIPAX (SILICA GEL)
+MSDS Date:10/21/1997
+FSC:6850
+NIIN:01-362-9257
+Status Code:A
+MSDS Number: CJQCS
+=== Responsible Party ===
+Company Name:MULTISORB TECHNOLOGIES, INC.
+Address:325 HARLEM ROAD
+City:BUFFALO
+State:NY
+ZIP:14224
+Country:US
+Info Phone Num:716-824-8900
+Emergency Phone Num:716-824-8900
+Resp. Party Other MSDS Num.:M49
+Preparer's Name:G.E. MCKEDY
+CAGE:22627
+=== Contractor Identification ===
+Company Name:MULTISORB TECHNOLOGIES INC
+Address:325 HARLEM ROAD
+Box:City:BUFFALO
+State:NY
+ZIP:14224-1893
+Country:US
+Phone:716-824-8900
+CAGE:22627
+Company Name:SIGMA TECH ENTERPRISES INC
+Address:90 GLEN WAY SUITE 16
+Box:City:SAN CARLOS
+State:CA
+ZIP:94070
+Country:US
+Phone:415-591-2510
+Contract Num:SP0450-99-M-NG14
+CAGE:04KF9
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SIO2 (AMORPHOUS SILICA GEL)
+CAS:7631-86-9
+Minumum % Wt:85.
+Maxumum % Wt:95.
+OSHA PEL:20 MPPCF
+ACGIH TLV:10 MG/M3 T DUST
+ACGIH STEL:3 MG/M3 R DUST
+
+Ingred Name:NON-HAZARDOUS INGREDIENTS  HIGH DENSITY POLYETHYLENE FIBER
+    (TYVEK)
+Minumum % Wt:5.
+Maxumum % Wt:15.
+
+=====================  Hazards Identification  =====================
+
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:TARGET ORGANS: N/P. ACUTE: MAY CAUSE
+    EYE, SKIN AND MUCOUS MEMBRANE IRRITATION. CHRONIC: MAY CAUSE EYE,
+    SKIN AND MUCOUS MEMBRANE IRRITATION.
+Explanation of Carcinogenicity:NOT LISTED
+Effects of Overexposure:DRYING AND DISCOMFORT
+Medical Cond Aggravated by Exposure:ASTHMA
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE CONTACT: WASH WITH LARGE AMOUNT OF WATER. GET MEDICAL
+    ATTENTION. SKIN CONTACT: WASH WITH LARGE AMOUNT OF WATER.
+    INHALATION: REMOVE TO FRESH AIR. INGESTION: MATERIALS WILL PASS
+    THROUGH BODY NORMALL Y, BUT PACKETS COULD CAUSE BLOCKAGE. CONTACT
+    PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Autoignition Temp:=330.C, 626.F
+Autoignition Temp Text:TYVEK
+Extinguishing Media:WATER IS THE BEST EXTINGUISHING MEDIUM BUT DRY
+    CHEMICAL, CARBON DIOXIDE AND FOAM CAN BE USED.
+Fire Fighting Procedures:THE HIGH DENSITY POLYETHYLENE FIBER WILL BURN,
+    BUT THE SILICA GEL WILL NOT.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP OR VACUUM UP AND DISPOSE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:COVER PROMPTLY TO AVOID BLOWING DUST,
+    IF BAGS ARE BROKEN OPEN.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:LOCAL EXHAUST
+Protective Gloves:LIGHT COTTON
+Other Protective Equipment:NONE
+Work Hygienic Practices:AVOID RAISING DUST. AVOID CONTACT WITH SKIN,
+    EYES, AND CLOTHING IF BAGS ARE BROKEN OPEN.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Melt/Freeze Pt:=135.C, 275.F
+M.P/F.P Text:TYVEK
+Spec Gravity:2.1 (SILICA GEL)
+Solubility in Water:INSOLUBLE
+Appearance and Odor:PRINTED WHITE PACKETS CONTAINING DRY GRANULES.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:MOISTURE, THE SILICA GEL WILL READILY
+    ABSORB MOISTURE.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:NONE SPECIFIED BY MANUFACTURER.
+
+=====================  Ecological Information  =====================
+
+Ecological:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN AN APPROVED LANDFILL ACCORDING TO
+    FEDERAL, STATE AND LOCAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:NONE SPECIFIED BY MANUFACTURER.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:NONE SPECIFIED BY MANUFACTURER.
+Federal Regulatory Information:NONE SPECIFIED BY MANUFACTURER.
+State Regulatory Information:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,154 @@
+=====================  Product Identification  =====================
+
+Product ID:CARBON DIOXIDE
+MSDS Date:06/01/1989
+FSC:4210
+NIIN:00-248-0472
+MSDS Number: BJDSB
+=== Responsible Party ===
+Company Name:ANSUL FIRE PROTECTION, WORMALD U.S.INC.
+Address:ONE STANTON STREET
+City:MARINETTE
+State:WI
+ZIP:54143-2542
+Country:US
+Info Phone Num:715-735-7411...FAX 715-732-3477
+Emergency Phone Num:715-735-7411...TOM LAWSON EXT 580
+CAGE:03670
+=== Contractor Identification ===
+Company Name:ALL-SAFE INC
+Address:4767 LANGTON RD
+Box:116
+City:HIILIARD
+State:OH
+ZIP:43026
+Country:US
+Phone:614-876-4041
+CAGE:2X264
+Company Name:ANSUL INC
+Address:ONE STANTON STREET
+Box:City:MARINETTE
+State:WI
+ZIP:54143-2542
+Country:US
+Phone:715-735-7411
+CAGE:03670
+Company Name:CHESAPEAKE ASSOC. ENT.
+Address:22 NEWPORT DR
+Box:City:FOREST HILL
+State:MD
+ZIP:21050
+Country:US
+Phone:410-838-0260
+CAGE:7R834
+Company Name:SCIOTO VALVE AND FITTING CO
+CAGE:51213
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CARBON DIOXIDE
+CAS:124-38-9
+RTECS #:FF6400000
+Fraction by Wt: 100%
+OSHA PEL:5000 PPM
+ACGIH TLV:5000PPM/30000STEL;93
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:IHL-HMN LCLO IS 100,000 PPM/1M
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:CONTACT W/CO*2 SNOW(DRY ICE)CAN
+    PRODUCE CHILLING SENSATIONS & DISCOMFORT,ALSO FROSTBITE.EVAPORATION
+    OF LIQUID FROM SKIN CAN PRODUCE CHILLING SENSATIONS.FROSTBITE CAN
+    OCCUR.VAPOR IS HEAVIER THAN AIR &  CAN CAUSE SUFFOCATION.BRTHNG
+    HIGH CONC CAUSE LIGHT HEADEDNESS,GIDDINESS,SHORTNESS OF
+    BREATH,MUSCULAR TREMORS & WEAKNESS.
+Explanation of Carcinogenicity:NONE OF THE COMPOUNDS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP, OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:DIZZINESS,IMPAIRED COORDINATION,REDUCED MENTAL
+    ACUITY,HEADACHES,DIFFICULTY BREATHING,DROWSINESS,DEPENDING ON
+    LENGTH OF EXPOSURE AND CONCENTRATIONS.
+Medical Cond Aggravated by Exposure:RESPIRATORY PROBLEMS
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION:REMOVE TO FRESH AIR. RESUSCITATE IF NOT BREATHING.
+    GET MEDICAL ATTENTION. EYES:IMMEDIATELY FLUSH WITH PLENTY OF WATER
+    FOR 15 MINUTES HOLDING EYELIDS OPEN. GET MEDICAL ATTENTION.
+    SKIN:REMOVE  CONTAMINATED CLOTHING. WASH WITH SOAP AND WATER. IF
+    IRRITATION PERSISTS, GET MEDICAL ADVICE.  TREAT EYE AND SKIN
+    CONTACT FOR FROSTBITE IF NECESSARY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:THIS IS AN EXTINGUISHING AGENT
+Fire Fighting Procedures:THIS IS AN EXTINGUISHING AGENT
+Unusual Fire/Explosion Hazard:THOUGH GAS CYLINDERS ARE EQUIPPED WITH
+    PRESSURE AND TEMPERATURE RELIEF DEVICES THEY SHOULD BE REMOVED FROM
+    HIGH TEMPERATURES OR FIRE TO AVOID RISK OF RUPTURE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE AREA. VENTILATE TO OUTSIDE
+    ATMOSPHERE. COOL OR REMOVE HOT METAL SURFACES OR SOURCE OF
+    NON-EXTINGUISHED FLAMES.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE CNTRS IN A
+    CLEAN,DRY,WELL-VENTILATED AREA AWAY FROM HEAT ABOVE 120F. STORE AS
+    A COMPRESSED GAS IN DOT APPROVED VESSELS.
+Other Precautions:IF CYLINDER OR CARTRIDGE IS NOT ATTACHED TO A SYSTEM
+    IT MUST BE SAFETY CAPPED TO PROTECT AGAINST VIOLENT VESSEL MOVEMENT
+    OR FORCE OF ESCAPING GAS IF VALVE IS ACTUATED OR SEAL IS PUNCTURED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NORMALLY NECESSARY IF CONTROLS ARE ADEQUATE.
+    IF TLV IS EXCEEDED OR IF EXPOSURE IS PROLONGED SCBA IS RECOMMENDED.
+Ventilation:LOCAL EXHAUST RECOMMENDED IN CONFINED SPACES. MECHANICAL
+    (GENERAL) RECOMMENDED.
+Protective Gloves:FOR CONTACT W/DRY ICE
+Eye Protection:CHEMICAL GOGGLES,FULL FACE SHIELD
+Other Protective Equipment:FULL FACESHIELD IF SPLASHING IS POSSIBLE.
+    WEAR PROTECTIVE   CLOTHING FOR CONTACT.
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES. DO NOT WEAR CONTAMINATED CLOTHING OR
+    FOOTWEAR.
+Supplemental Safety and Health
+AVOID PROLONGED OR REPEATED EXPOSURE. DO NOT GET ON SKIN OR IN EYES.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:SUBLIMES
+Vapor Pres:830PSI@20C
+Vapor Density:1.5
+Spec Gravity:1.98
+Evaporation Rate & Reference:N/A (GAS AT ROOM TEMP)
+Solubility in Water:88 ML CO2/100 ML H2O
+Appearance and Odor:COLORLESS GAS WITH NO ODOR
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+REACTS VIGOROUSLY WITH (AL + NA2O2), CS2O, LI, K, MG(C2H5)2, (MG +
+    NA2O), KHC2, NA, NA2C2, NAK, TI
+Hazardous Decomposition Products:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL SHOULD BE MADE IN ACCORDANCE WITH ALL
+    APPLICABLE FEDERAL, STATE AND LOCAL LAWS AND REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

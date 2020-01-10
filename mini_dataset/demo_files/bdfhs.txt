@@ -1,0 +1,88 @@
+=====================  Product Identification  =====================
+
+Product ID:23F1067G102
+MSDS Date:01/01/1985
+FSC:5910
+NIIN:00-170-3607
+MSDS Number: BDFHS
+=== Responsible Party ===
+Company Name:GENERAL ELECTRIC CO. SWITCH GEAR BUSINESS.
+Address:6901 ELMWOOD AVE
+City:PHILADELPHIA
+State:PA
+ZIP:19142-1815
+Country:US
+Emergency Phone Num:215-726-2626
+CAGE:03497
+=== Contractor Identification ===
+Company Name:GENERAL ELECTRIC OUTDOOR BREAKER BUSINESS SECTION
+Address:6901 ELMWOOD AVE
+Box:City:PHILADELPHIA
+State:PA
+ZIP:19142-1815
+Country:US
+Phone:215-726-2626
+CAGE:03497
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POLYCHLORINATED BIPHENYLS (PCBS)  (SARA III)
+CAS:1336-36-3
+RTECS #:TQ1350000
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:ABSORBED THRU SKIN,LUNGS,INTESTINE.CAUSES
+    CANCER,LIVER,KIDNEY,STOMACH,EYE,HEARING DISORDER(SUP DATA)
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH W/WATER IMMED.SKIN WASH W/SOAP IMMED.INHAL:REMOVE
+    TO FRESH AIR,GIVE ART RESPIR.AS NEEDED.INGEST:GET MEDICAL ATTN.GIVE
+    LARGE QTY OF SALT WATER,INDUCE VOMITING,BUT DO NOT MAKE UNCONSCIOUS
+    PER SON VOMIT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE ABSORBENT & DIKES TO PREVENT
+    RUNOFF.ISOLATE & NOTIFY PROPER AUTHORITIES.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORAGE MUST FOLLOW RCRA REQUIREMENTS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:SUPPLIED AIR W/FULL FACEPIECE,HELMET OR HOOD
+Ventilation:LOCAL EXHAUST
+Protective Gloves:RUBBER-IMPERV
+Eye Protection:GOGGLES,FACE SHIELD
+Other Protective Equipment:FULL CLOTHING TO PREVENT SKIN CONTACT
+Supplemental Safety and Health
+OVEREXPOS:CAN CAUSE FORMATION OF CYSTS.CAUSES STILLBIRTHS.IRRITATES
+    EYES,NOSE THROAT.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:Z3
+Appearance and Odor:LIGHT STRAW COLORED-LIQUID,AROMATIC ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+STRONG OXIDIZERS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTROLLED DISPOSAL REQUIRED-GENERALLY HIGH
+    TEMPERATURE INCINERATION.ONLY APPROVED DISPOSAL OPERATOR PERMITTED.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,134 @@
+=====================  Product Identification  =====================
+
+Product ID:LENS BOND OPTICAL CEMENTS,UV-71
+MSDS Date:05/28/1992
+FSC:8040
+NIIN:00-266-0828
+MSDS Number: BWRWM
+=== Responsible Party ===
+Company Name:SUMMERS LABORATORIES INC OPTICAL PRODUCTS DIVISION
+Address:321 MORRIS RD
+Box:162
+City:FORT WASHINGTON
+State:PA
+ZIP:19034-2003
+Country:US
+Info Phone Num:215-646-1477
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+CAGE:53836
+=== Contractor Identification ===
+Company Name:SUMMERS LABORATORIES INC OPTICAL PRODUCTS DIVISION
+Address:321 MORRIS RD
+Box:162
+City:FORT WASHINGTON
+State:PA
+ZIP:19034-2003
+Country:US
+CAGE:53836
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:STYRENE, MONOMER (SARA III)
+CAS:100-42-5
+RTECS #:WL3675000
+Fraction by Wt: 39-40%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:100 PPM
+ACGIH TLV:S,50PPM/100STEL;9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:POLYESTER RESIN (NON-TOXIC)
+Fraction by Wt: 60-61%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:ACUTE-MODERATE TISSUE ITTITANT.
+Explanation of Carcinogenicity:STYRENE IS LISTED BY IARC. SEE THE IARC
+    REPORT FOR DETAILS.
+Effects of Overexposure:NAUSEA, CNS DEPRESSION, GENERAL WEAKNESS,
+    DIZZINESS, DRUNKNENESS, SKIN RASH OR EYE & NASAL IRRITATION.
+Medical Cond Aggravated by Exposure:NOT ESTABLISHED BUT THOSE SUFFERING
+    FROM RESPIRATORY AILMENTS SHOULD AVOID EXPOSURE AS WELL AS THOSE
+    WITH CNS DISORDERS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:REMOVE TO FRESH AIR & GIVE OXYGEN, RINSE EYES FOR 20-30
+    MINUTES, WASH SKIN THOROUGHLY W/SOAP AND WATER. DO NOT INDUCE
+    VOMITING. SEEK MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:OC
+Flash Point:122F,50C
+Lower Limits:1.1%
+Upper Limits:6.1%
+Extinguishing Media:USE CARBON DIOXIDE,DRY CHEMICAL,OR FOAM.
+Fire Fighting Procedures:WEAR POSITIVE PRESSURE BREATHING APPARATUS AND
+    EYE PROTECTION. EVACUATE AND FIGHT FIRE FROM A DISTANCE.
+Unusual Fire/Explosion Hazard:HEAT CAN CAUSE HAZARDOUS
+    POLYMERIZATION.IN CLOSED CONTAINERS THIS CAN CAUSE VIOLENT RUPTURE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB WITH VERMICULITE AND DISPOSE I/A/W
+    FEDERAL,STATE AND LOCAL LAWS.
+Neutralizing Agent:MFR GAVE NO INFORMATION ON MSDS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM HIGH TEMPERATURES AND
+    STRONG LIGHT.  KEEP AWAY FROM SPARK OR FLAME.
+Other Precautions:STORE IN A WELL VENTILATED AREA.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED RESPIRATOR WHEN TLV IS EXCEEDED.
+Ventilation:LOCAL EXHAUST & MECHANICAL (GENERAL): YES.
+Eye Protection:SAFETY GLASSES OR FACE SHIELD
+Other Protective Equipment:NEOPRENE APRON AND EYEWASH STATION.
+Work Hygienic Practices:REMOVE SOILED CLOTHING AND WASH THOROUGHLY.
+    ALWAYS WASH SKIN THOROUGHLY.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+NRC/State Lic Num:NONE
+Boiling Pt:B.P. Text:302F,150C
+Melt/Freeze Pt:M.P/F.P Text:N/E
+Vapor Pres:4.5 MM
+Vapor Density:3.6
+Spec Gravity:1.09 (WATER=1)
+Solubility in Water:INSOLUBLE
+Appearance and Odor:CLEAR,AMBER,BURGUNDY OR BLUE LIQUID, SWEET ODOR.
+Percent Volatiles by Volume:43.6
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:NO
+ACIDS,OXIDIZING MATERIALS,METALLIC HALIDES.
+Stability Condition to Avoid:OVERHEATING AND STRONG LIGHT.
+Hazardous Decomposition Products:ACRID FUMES,CARBON MONOXIDE AND CARBON
+    DIOXIDE.
+Conditions to Avoid Polymerization:ACID,OXIDIZING MATERIAL,METTALIC
+    HALIDES AND OVERHEATING.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:SMALL QUANTITIES CAN BE POLYMERIZED & DISPOSED
+    OF IN MUNICIPAL WASTE SYSTEM. LARGE QUANTITIES CAN BE INCINERATED.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,123 @@
+=====================  Product Identification  =====================
+
+Product ID:KATS UL 288 STATIC DISSIPATIVE FLOOR FINISH
+MSDS Date:09/30/1985
+FSC:7930
+NIIN:01-300-9666
+MSDS Number: BHWDZ
+=== Responsible Party ===
+Company Name:HANSON-LORAN CHEMICAL CO. INC. UNIVERSAL LAB. DIV.
+Address:6700 CABALLERO BLVD.
+City:BUENA PRK
+State:CA
+ZIP:90620
+Country:US
+Info Phone Num:714-522-5700
+Emergency Phone Num:714-522-5700
+CAGE:0CAB4
+=== Contractor Identification ===
+Company Name:HANSON-LORAN CHEMICAL CO INC
+Address:6700 CABALLERO BLVD
+Box:City:BUENA PARK
+State:CA
+ZIP:90620
+Country:US
+Phone:714-422-5700
+CAGE:0CAB4
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:AMMONIA  (SARA III)
+CAS:7664-41-7
+RTECS #:BO0875000
+Fraction by Wt: 0.01%
+OSHA PEL:50 PPM
+ACGIH TLV:25 PPM/35 STEL; 9293
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:ACRYLIC POLYMER
+Fraction by Wt: 22%
+Other REC Limits:NONE ESTABLISHED
+OSHA PEL:NONE ESTABLISHED
+ACGIH TLV:NONE ESTABLISHED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:AMMONIA AND RESIDUAL MONOMER VAPORS
+    MAY BE IRRITATING TO EYES, SKIN AND MUCOUS MEMBRANES.
+Effects of Overexposure:MAY BE IRRITATING; MAY PRODUCE SYMPTOMS OF
+    HEADACHE IN POORLY VENTILATED AREAS.
+Medical Cond Aggravated by Exposure:NONE STATED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH EYES WITH PLENTY OF WATER FOR AT LEAST 15 MINUTES;
+    SKIN:WASH SKIN THOROUGHLY WITH SOAP AND WATER,IF DRENCHED,REMOVE
+    AND WASH CLOTHING; INGEST:INDUCE VOMITING AT ONCE BY GIVING TWO
+    GLASSES OF	WATER TO DRINK AND PLACE FINGER AT BACK OF THROAT.  
+    OBTAIN MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Fire Fighting Procedures:NONE
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:KEEP UNNECESSARY PEOPLE AWAY, FLOOR MAY BE
+    SLIPPERY WHEN WET. CONTAIN SPILL AND TRANSFER THE LIQUID TO
+    CONTAINERS FOR RECOVERY.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:PERSONNEL SHOULD AVOID INHALATION OF
+    VAPORS. PERSONAL CONTACT WITH THE PRODUCT SHOULD BE AVOIDED. SHOULD
+    CONTACT MADE REMOVE SATURATED CLOTHING.
+Other Precautions:FLUSH AFFECTED AREAS WITH WATER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE USUALLY.
+Ventilation:LOCAL VENTILATION.
+Protective Gloves:NONE UAUALLY.
+Eye Protection:SAFETY GLASSES.
+Other Protective Equipment:NONE
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:212F/100C
+Vapor Pres:17 MMHG
+Spec Gravity:1.1
+pH:6,EST
+Evaporation Rate & Reference:0.36 (BUTYL ACETATE=1)
+Solubility in Water:COMPLETE
+Appearance and Odor:WHITE MILKY LIQUID WITH SLIGHT AMMONIA ODOR
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:NONE STATED.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:RECOVERED FLOOR FINISH CAN BE USED IN GARAGE AND
+    WAREHOUSE AREAS AS A TOP COATING.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

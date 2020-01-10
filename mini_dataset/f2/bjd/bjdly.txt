@@ -1,0 +1,121 @@
+=====================  Product Identification  =====================
+
+Product ID:SPOT REMOVER
+MSDS Date:05/23/1990
+FSC:6850
+NIIN:01-015-7940
+MSDS Number: BJDLY
+=== Responsible Party ===
+Company Name:CHEMICAL COMMODITIES AGENCY, INC.
+Address:27447 PACIFIC STREET
+City:HIGHLAND
+State:CA
+ZIP:92346-2640
+Country:US
+Info Phone Num:714-864-2310
+Emergency Phone Num:714-864-2310
+CAGE:60777
+=== Contractor Identification ===
+Company Name:CHEMICAL COMMODITIES AGENCY, INC.
+Address:27447 PACIFIC STREET
+Box:City:HIGHLAND
+State:CA
+ZIP:92346-2640
+Country:US
+Phone:909-864-2310
+CAGE:60777
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ALIPHATIC PETROLEUM DISTILLATE
+Fraction by Wt: 94.5%
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:UNKNOWN  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:HARMFUL OR FATAL IF SWALLOWED. MAY
+    CAUSE SKIN AND EYE IRRITATION.
+Explanation of Carcinogenicity:NONE OF THE COMPOUNDS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP, OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:IF SWALLOWED, DO NOT INDUCE VOMITING. CALL A PHYSICIAN
+    IMMEDIATELY. IN CASE OF EYE CONTACT IRRIGATE WITH WATER FOR 15
+    MINUTES. CALL A PHYSICIAN. SKIN: REMOVE CONTAMINATED CLOTHING. WASH
+    WITH SOAP AND  WATER. IF IRRITATION PERSISTS, GET MEDICAL ADVICE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:140F,60C
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, ALCOHOL FOAM, OR DRY
+    CHEMICAL.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NORMAL NON-HAZARDOUS LIQUID SPILL CLEAN UP
+    PROCEDURE.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL VENTILATED
+    AREA. KEEP CONTAINERS TIGHTLY CLOSED WHEN NOT IN USE. PROTECT
+    CONTAINERS FROM PHYSICAL DAMAGE.
+Other Precautions:DO NOT TAKE INTERNALLY. DO NOT BREATHE MIST. AVOID
+    PROLONGED OR REPEATED BREATHING OF VAPOR. AVOID CONTACT WITH EYES.
+    USE WITH ADEQUATE VENTILATION. WASH THOROUGHLY AFTER HANDLING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SPECIFIED BY MANUFACTURER.
+Ventilation:MECHANICAL (GENERAL) ROOM VENTILATION IS NORMALLY ADEQUATE.
+    LOCAL EXHAUST MAY BE REQUIRED IF WORK AREA NOT VENTED.
+Protective Gloves:NONE SPECIFIED BY MANUFACTURER.
+Eye Protection:NONE SPECIFIED BY MANUFACTURER.
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER.
+    INDUSTRIAL-TYPE WORK CLOTHING AND APRON AS REQUIRED.
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES. DO NOT WEAR CONTAMINATED CLOTHING OR
+    FOOTWEAR.
+Supplemental Safety and Health
+AVOID PROLONGED OR REPEATED EXPOSURE. DO NOT GET ON SKIN OR IN EYES. DO
+    NOT BREATHE VAPORS OR MISTS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:212F,100C
+Vapor Pres:OF WATER
+Vapor Density:0.8
+Spec Gravity:1.0
+Evaporation Rate & Reference:1
+Solubility in Water:INFINITE
+Appearance and Odor:CLEAR LIQUID, MILD SOLVENT ODOR
+Percent Volatiles by Volume:96%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:HEAT AND SOURCES OF IGNITION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL SHOULD BE MADE IN ACCORDANCE WITH ALL
+    APPLICABLE FEDERAL, STATE AND LOCAL LAWS AND REGULATIONS. NORMAL
+    NON-HARMFUL LIQUID WASTE DISPOSAL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

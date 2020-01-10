@@ -1,0 +1,176 @@
+=====================  Product Identification  =====================
+
+Product ID:NEOMYCIN SULFATE, N1876
+MSDS Date:07/01/1999
+FSC:6505
+NIIN:01-371-5045
+Status Code:A
+MSDS Number: CJQPQ
+=== Responsible Party ===
+Company Name:SIGMA CHEMICAL CO
+Box:14508
+City:ST LOUIS
+State:MO
+ZIP:63178
+Country:US
+Info Phone Num:314-771-5765
+Emergency Phone Num:314-771-5765
+CAGE:21076
+=== Contractor Identification ===
+Company Name:SIGMA CHEMICAL COMPANY
+Address:3050 SPRUCE ST
+Box:14508
+City:ST LOUIS
+State:MO
+ZIP:63178
+Country:US
+Phone:314-771-5765
+CAGE:21076
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NEOMYCIN SULFATE. LD50:(ORAL,RAT) >4325 MG/KG (SUPPLIER
+    DATA).
+CAS:1405-10-3
+RTECS #:QP4375000
+ACGIH TLV:2 MG/M3 TWA
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE INGREDIENTS & TOX INFORMATION.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: MAY BE HARMFUL BY INHALATION,
+    INGESTION OR SKIN ABSORPTION. CAUSES EYE AND SKIN IRRITATION.
+    MATERIAL IS IRRITATING TO MUCOUS MEMBRANES AND UPPER RESPIRATORY
+    TRACT. MAY CAUSE ALLERGIC RESPIRATOR Y AND SKIN REACTIONS. CHRONIC:
+    POSSIBLERISK OF CONGENITAL MALFORMATION IN THE FETUS. TARGET
+    ORGAN(S): KIDNEYS, EARS. TO THE BEST OF MFR'S KNOWLEDGE, THE
+    CHEMICAL, PHYSICAL AND TOXICOLOGICAL PROPERTIES  HAVE NOT BEEN
+    THOROUGHLY INVESTIGATED. TARGET ORGAN DATA: SENSE ORGANS AND
+    SPECIAL SENSES (CHANGE IN ACUITY); BEHAVIORAL (CONVULSIONS OR
+    EFFECT ON SEIZURE THRESHOLD).
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: IMMEDIATELY FLUSH WITH COPIOUS AMOUNTS OF WATER FOR AT
+    LEAST 15 MINUTES. SKIN: IMMEDIATELY FLUSH WITH COPIOUS AMOUNTS OF
+    WATER FOR AT LEAST 15 MINUTES WHILE REMOVING CONTAMINATED CLOTHING
+    AND SH OES. WASH CONTAMINATED CLOTHING BEFORE REUSE. INHALATION:
+    REMOVE TO FRESH AIR. IF NOT BREATHING GIVE ARTIFICIAL RESPIRATION.
+    IF BREATHING IS DIFFICULT, GIVE OXYGEN. INGESTION: WASH OUT MOUTH
+    WITH WATE R PROVIDE PERSON IS CONSCIOUS. CALL MD.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER SPRAY, CARBON DIOXIDE, DRY CHEMICAL POWDER OR
+    APPROPRIATE FOAM.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:EMITS TOXIC FUMES UNDER FIRE CONDITIONS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE AREA. WEAR NIOSH APPROVED
+    SELF-CONTAINED BREATHING APPARATUS, RUBBER BOOTS AND HEAVY RUBBER
+    GLOVES. WEAR DISPOSABLE COVERALLS AND DISCARD THEM AFTER USE. SWEEP
+    UP, PLACE IN A BAG AND HOLD FOR  WASTE DISPOSAL. AVOID RAISING
+    DUST. VENTILATE AREA AND WASH SPILL SITE AFTER MATERIAL PICKUP IS
+    COMPLETE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT BREATHE DUST. DO NOT GET IN
+    EYES, ON SKIN, ON CLOTHING. AVOID PROLONGED OR REPEATED EXPOSURE.
+    KEEP TIGHTLY CLOSED. STORE IN A COOL, DRY PLACE.
+Other Precautions:HARMFUL. POSSIBLE RISK OF HARM TO THE UNBORN CHILD.
+    MAY CAUSE SENSITIZATION BY INHALATION AND SKIN CONTACT. IRRITATING
+    TO EYES, RESPIRATORY SYSTEM AND SKIN. IN CASE OF ACCIDENT OR IF YOU
+    FEEL UNWELL,  SEEK MEDICAL ADVICE IMMEDIATELY (SHOW LABEL WHERE
+    POSSIBLE).
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR APPROPRIATE NIOSH APPROVED RESPIRATOR.
+Ventilation:USE ONLY IN A CHEMICAL FUME HOOD.
+Protective Gloves:CHEMICAL-RESISTANT GLOVES.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES & FULL LENGTH
+    FACESHIELD .
+Other Protective Equipment:ANSI APPROVED EYE WASH & DELUGE SHOWER .
+    WEAR OTHER SUITABLE PROTECTIVE CLOTHING.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+PHYSICAL DATA: SOLUBILITY: IN ETHER - INSOLUBLE; IN ETHANOL - SLIGHTLY
+    SOLUBLE; IN ACETONE - INSOLUBLE.
+
+==================  Physical/Chemical Properties  ==================
+
+Solubility in Water:SOLUBLE
+Appearance and Odor:SOLID.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:HEAT. MAY DECOMPOSE ON EXPOSURE TO LIGHT.
+Hazardous Decomposition Products:TOXIC FUMES OF: CARBON MONOXIDE,
+    CARBON DIOXIDE, NITROGEN OXIDES, SULFUR OXIDES.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:AMINOGLYCOSIDES ARE ASSOC W/SIGNIFICANT
+    NEPHROTOXICITY &/OR OTOTOXICITY. IRRIT DATA: SKIN-HMN 6 MG/3D-I MLD
+    - 85DKA8 -,127,1977. TOX DATA: LD50:(SCU,RAT) 200 MG/KG - ARZNAD
+    12,597,1962. LD50:(ORAL,MUS ) >8 GM(BASE)/KG - AACHAX -,138,1963.
+    LD50:(IPR,MUS) 305 MG/KG - ANTCAO 8,198,1958. LD50:(SCU,MUS) 190
+    MG/KG - ANTBAL 18,444,1973. LD50:(IVN,MUS) 17400 UG/KG - AITEAT
+    10,947,1962. LD50:(IMS,MUS) 142 M G/KG - AIMDAP 119,493,1967.
+    LD50:(ICE,MUS) 32 MG/KG - TXAPA9 7,361,1965. LD50:(IMS,GPG) >250
+    MG/KG - TXAPA9 33,320,1975. ONLY SELECTED RTECS DATA IS PRESENTED
+    HERE. SEE ACTUAL ENTRY IN RTECS FOR COMPL ETE INFO.
+
+=====================  Ecological Information  =====================
+
+Ecological:DATA NOT YET AVAILABLE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISSOLVE OR MIX THE MATERIAL WITH A COMBUSTIBLE
+    SOLVENT AND BURN IN A CHEMICAL INCINERATOR EQUIPPED WITH AN
+    AFTERBURNER AND SCRUBBER. OBSERVE ALL FEDERAL, STATE AND LOCAL
+    ENVIRONMENTAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:CONTACT SIGMA CHEMICAL COMPANY FOR TRANSPORTATION
+    INFORMATION.
+
+=====================  Regulatory Information  =====================
+
+Federal Regulatory Information:EUROPEAN INFO: HARMFUL R 63 - POSS RISK
+    OF HARM TO UNBORN CHILD. R 42/43 - MAY CAUSE SENSIT BY INHAL & SKIN
+    CONT. R 36/37/38 - IRRIT TO EYES, RESP SYS & SKIN. S 45 - IN CASE
+    OF ACCIDENT/IF YOU FEEL UN WELL, SEEK MED ADVICE IMMED (SHOW LBL
+    WHERE POSS). S 26 - IN CASE OF CONT W/EYES, RINSE IMMED W/PLENTY OF
+    WATER & SEEK MED ADVICE. S 36/37/39 - WEAR SUITABLE PROT CLTHG,
+    GLOVES & EYE/FACE PROT. REVIEW S, STDS & REGS: OEL=MAK. EPA FIFRA
+    1988 PESTICIDE SUBJECT TO REGISTRATION/RE-REGISTRATION FEREAC 54,
+    7740,1989. NOES 1983: HZD X3700; NIS 23; TNF 3566; NOS 33; TNE
+    180078; TFE 143663. NOES 1983: HZD X9498; NIS 5; TNF 1014; (OTHER
+    INFO)
+State Regulatory Information:CALIFORNIA PROPOSITION 65: THIS PRODUCT IS
+    OR CONTAINS CHEMICAL(S) KNOWN TO THE STATE OF CALIFORNIA TO CAUSE
+    DEVELOPMENTAL TOXICITY.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

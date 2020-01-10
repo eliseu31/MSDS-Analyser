@@ -1,0 +1,173 @@
+=====================  Product Identification  =====================
+
+Product ID:POLYPOXY WHITE AND COLORS PART A, 4170
+MSDS Date:05/16/1989
+FSC:8040
+NIIN:00N021891
+MSDS Number: BLMNW
+=== Responsible Party ===
+Company Name:PETTIT PAINT CO INC
+Address:36 PINE ST
+City:ROCKAWAY
+State:NJ
+ZIP:07866
+Country:US
+Info Phone Num:201-625-3100
+Emergency Phone Num:800-548-0489
+CAGE:11111
+=== Contractor Identification ===
+Company Name:KOP-COAT INC
+Address:36 PINE ST
+Box:City:ROCKAWAY
+State:NJ
+ZIP:07866
+Country:US
+Phone:201-625-3100; 800-221-4466
+CAGE:11111
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BARIUM SULFATE
+CAS:7727-43-7
+RTECS #:CR0600000
+Fraction by Wt: 0-10%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:CALCIUM CARBONATE (MARBLE) (LIMESTONE)
+CAS:1317-65-3
+RTECS #:EV9580000
+Fraction by Wt: 0-20%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9192
+
+Ingred Name:CADMIUM SULFOSELENIDE. LD50: ORL(RAT) >10,000 MG/KG.
+CAS:58339-34-7
+Fraction by Wt: 0-15%
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS)	(SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 8-17%
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:METHYL ISOBUTYL KETONE  (SARA III)
+CAS:108-10-1
+RTECS #:SA9275000
+Fraction by Wt: 14-20%
+OSHA PEL:100 PPM/75 STEL
+ACGIH TLV:50 PPM/75 STEL; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:RUTILE; (TITANIUM DIOXIDE). LD50: ORL(RAT) >9500 MG/KG.
+CAS:1317-80-2
+RTECS #:VM2940000
+Fraction by Wt: 0-45%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST
+
+Ingred Name:CARBON BLACK
+CAS:1333-86-4
+RTECS #:FF5800000
+Fraction by Wt: 0-4%
+OSHA PEL:3.5 MG/M3
+ACGIH TLV:3.5 MG/M3; 9192
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE INGREDIENTS
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:CAN LEAD TO CENTRAL NERVOUS SYSTEM
+    DEPRESSION PRODUCING SUCH EFFECTS AS HEADACHE, DIZZINESS, AND LOSS
+    OF CONSCIOUSNESS. EYE: MAY BE IRRITATING. SKIN: CAN BE IRRITATING &
+    CAUSE DERMATITIS. INGEST: MAY  RESULT IN VOMITING. BRTHG IN ANY
+    VOMITUS INTO LUNGS CAN CAUSE CHEMICAL PNEUMONITIS.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER FOR A MINIMUM OF 15 MINUTES. SKIN: WASH
+    W/SOAP & WATER. INHAL: GIVE FRESH AIR OR OXYGEN. GIVE ARTIFICIAL
+    RESPIRATION IF NOT BREATHING. INGEST: DO NOT INDUCE VOMITING. KEEP
+    HEAD BEL OW HIPS IF VOMITING OCCURS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:70.0F,21.1C
+Lower Limits:1%
+Extinguishing Media:CO2, DRY CHEMICAL, WATER FOG.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:CONTAINERS EXPOSED TO INTENSE HEAT FROM
+    FIRES SHOULD BE COOLED W/WATER TO PREVENT VAPOR PRESSURE BUILDUP
+    WHICH COULD RESULT IN CONTAINER RUPTURE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE ALL IGNITION SOURCES. TAKE UP W/AN
+    ABSORBENT MATERIAL AND PLACE IN NON-LEAKING CONTAINERS. SEAL
+    TIGHTLY.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTRS TIGHTLY CLOSED. KEEP AWAY
+    FROM HEAT, SPARKS, AND OPEN FLAMES. STORE AWAY FROM STRONG
+    OXIDIZING AGENTS IN A COOL, DRY PLACE.
+Other Precautions:MINIMIZE SKIN CONTACT. WASH WITH SOAP AND WATER
+    BEFORE EATING, DRINKING, SMOKING OR USING TOILET FACILITIES. THIS
+    PRODUCT CONTAINS CHEMICALS UNDER SARA TITLE III SECTION 313.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF EXPOSURE MAY OR DOES EXCEED OCCUPATIONAL
+    EXPOSURE LIMITS, USE A NIOSH/MSHA APPROVED RESPIRATOR.
+Ventilation:USE PROPER VENTILATION TO KEEP VAPOR CONCENTRATION BELOW
+    100 PPM.
+Protective Gloves:IMPERVIOUS GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE.
+Work Hygienic Practices:WASH W/SOAP & WATER BEFORE EATING, DRINKING,
+    SMOKING OR USING TOILET FACILITIES.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F3
+Boiling Pt:B.P. Text:241F,116C
+Vapor Pres:ING 1 & 2
+Vapor Density:HVR/AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Appearance and Odor:NONE SPECIFIED BY MANUFACTURER.
+Percent Volatiles by Volume:45-50
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:HEAT, SPARK AND OPEN FLAME.
+Hazardous Decomposition Products:CO AND OTHER ORGANIC COMPOUNDS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PLACE IN A DISPOSAL FACILITY APPROVED UNDER RCRA
+    REGULATIONS FOR HAZARDOUS WASTE. LABEL PROPERLY. DISPOSAL MUST BE
+    IN ACCORDANCE WITH FEDERAL, STATE, AND LOCAL REGULATIONS .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

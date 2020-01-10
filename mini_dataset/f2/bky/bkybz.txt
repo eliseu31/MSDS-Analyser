@@ -1,0 +1,119 @@
+=====================  Product Identification  =====================
+
+Product ID:TRUCK SOAP
+MSDS Date:05/24/1986
+FSC:7930
+NIIN:00F018505
+MSDS Number: BKYBZ
+=== Responsible Party ===
+Company Name:SERV-ALL PRODUCTS & MFG
+Address:542 BUTLER ST
+City:MARIETTA
+State:GA
+ZIP:30060
+Info Phone Num:(404) 427-2939
+Emergency Phone Num:(404) 427-2939
+CAGE:SERVA
+=== Contractor Identification ===
+Company Name:SERV-ALL PRODUCTS & MFG
+Address:542 BUTLER ST
+Box:City:MARIETTA
+State:GA
+ZIP:30060
+Phone:(404) 427-2939
+CAGE:SERVA
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:2-BUTOXYETHANOL
+CAS:111-76-2
+RTECS #:KJ8575000
+Other REC Limits:25 PPM (SKIN)
+OSHA PEL:S, 50 PPM
+ACGIH TLV:S, 25 PPM; 9293
+
+Ingred Name:SODIUM METASILICATE; SODIUM SILICATE; WATER GLASS; DISODIUM
+    SALT SILIC ACID
+CAS:6834-92-0
+RTECS #:VV9275000
+ACGIH TLV:10 MG/CUM
+
+Ingred Name:SODIUM PHOSPHATE, TRIBASIC	(SARA III)
+CAS:7758-29-4
+RTECS #:YK4570000
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:TERGITOL NP-10
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: BURNING & IRRITATION. SKIN:
+    ABSORPTION, IRRITATION & TOXIC. INHALATION: RESPIRATORY TRACT
+    IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: BURNING & IRRITATION. SKIN: ABSORPTION,
+    IRRITATION & TOXIC. INHALATION: RESPIRATORY TRACT IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER FOR 15 MIN. SKIN: WASH W/SOAP & WATER.
+    INHALATION: REMOVE TO FRESH AIR. INGESTION: DON'T INDUCE VOMITING.
+    NOTE: DECISION OF WHETHER TO INDUCE VOMITING OR NOT SHOULD BE MADE
+    BY PHYS ICIAN DUE TO POSSIBILITY THAT MATERIAL MAY BE ASPIRATED
+    CONSISTS SYSTEMIC EFFECTS. IF LAVAGE IS PERFORMED, ENDOTRACHEAL &
+    ESOPHAGEAL CONTROL IS SUGGESTED. OBTAIN MEDICAL ATTENTION IN ALL
+    CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Fire Fighting Procedures:COOL DRUMS W/WATER MIST
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:STOP SPILL AT SOURCE. FLUSH W/WATER. FLOORS
+    MAY BECOME SLIPPERY. AVOID FALLS. PUMP LIQUID INTO SALVAGE TANK,
+    ABSORB ON SAND, EARTH OR OTHER SUITABLE ABSORBENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL, DRY AREA AWAY FROM
+    SOURCES OF HEAT. AVOID CONTACT W/SKIN & EYES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Eye Protection:SAFETY GLASSES TO TRANSFER MATERIAL
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:220F
+Spec Gravity:1.1
+Evaporation Rate & Reference:AS WATER
+Solubility in Water:COMPLETE
+Appearance and Odor:COLORLESS LIQUID W/BUTYL-LIKE ODOR
+Percent Volatiles by Volume:>80%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:HEAT SOURCES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,104 @@
+=====================  Product Identification  =====================
+
+Product ID:SOAP, LAUNDRY TYPE I NEUTRAL HIGH TEMP
+MSDS Date:02/02/1987
+FSC:7930
+NIIN:00-228-0961
+MSDS Number: BJDJL
+=== Responsible Party ===
+Company Name:CONCORD CHEMICAL CO INC
+Address:17TH & FEDERAL STREETS
+City:CAMDEN
+State:NJ
+ZIP:08105
+Country:US
+Info Phone Num:609-966-1526
+Emergency Phone Num:609-966-1526
+CAGE:19853
+=== Contractor Identification ===
+Company Name:CONCORD CHEMICAL CO INC
+Address:17TH AND FEDERAL STS
+Box:City:CAMDEN
+State:NJ
+ZIP:08105
+Country:US
+CAGE:19853
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NON - HAZARDOUS INGREDIENT
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:NONE
+Effects of Overexposure:NONE
+Medical Cond Aggravated by Exposure:NONE
+
+=======================  First Aid Measures  =======================
+
+First Aid:IF DUST GETS INTO EYES, FLUSH WITH WATER
+
+=====================  Fire Fighting Measures  =====================
+
+Lower Limits:NA
+Upper Limits:NA
+Extinguishing Media:NA
+Fire Fighting Procedures:NONE
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NONE
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:DUST MASK
+Ventilation:SUFFICIENT TO EVACUATE DUST
+Protective Gloves:NONE REQUIRED
+Eye Protection:NONE REQUIRED
+Other Protective Equipment:NONE REQUIRED
+Work Hygienic Practices:STANDARD
+Supplemental Safety and Health
+NK
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:NA
+Melt/Freeze Pt:M.P/F.P Text:NA
+Decomp Temp:Decomp Text:NA
+Vapor Pres:NA
+Vapor Density:NA
+Spec Gravity:0.5
+pH:NA
+Evaporation Rate & Reference:NA
+Solubility in Water:APPRECIABLE
+Appearance and Odor:TAN/AMBER POWDER/FLAKE WITH CHARACTERISTIC SOAP
+    ODOR
+Percent Volatiles by Volume:NA
+Corrosion Rate:NA
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Hazardous Decomposition Products:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:BURY OR FLUSH TO SEWER
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

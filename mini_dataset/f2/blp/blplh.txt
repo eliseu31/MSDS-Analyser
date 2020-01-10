@@ -1,0 +1,142 @@
+=====================  Product Identification  =====================
+
+Product ID:01-ER-15703 ER141 EPOXY RESIN INK, ROYAL BLUE
+MSDS Date:09/15/1990
+FSC:7510
+NIIN:00F019121
+MSDS Number: BLPLH
+=== Responsible Party ===
+Company Name:NAZADAR COMPANY
+Address:1087 N NORTH BRANCH ST
+City:CHICAGO
+State:IL
+ZIP:60622
+Info Phone Num:(312) 943-8338
+Emergency Phone Num:(312) 943-8338
+CAGE:FO950
+=== Contractor Identification ===
+Company Name:NAZADAR COMPANY
+Address:1087 N NORTH BRANCH ST
+City:CHICAGO
+State:IL
+ZIP:60622
+Phone:(312) 943-8338
+CAGE:FO950
+Company Name:NAZDAR COMPANY
+Address:1087 N NORTH BRANCH ST
+Box:City:CHICAGO
+State:IL
+ZIP:60622-4292
+Country:US
+Phone:312-943-8338;800-736-7636
+CAGE:76708
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:2-BUTOXYETHANOL
+CAS:111-76-2
+RTECS #:KJ8575000
+Fraction by Wt: 14-17%
+Other REC Limits:25 PPM (SKIN)
+OSHA PEL:S, 50 PPM
+ACGIH TLV:S, 25 PPM; 9293
+
+Ingred Name:DIPROPYLENE GLYCOL METHYL ETHER
+CAS:34590-94-8
+RTECS #:JM1575000
+Fraction by Wt: 4-12%
+Other REC Limits:100 PPM
+OSHA PEL:S,100PPM/150STEL
+ACGIH TLV:S,100PPM/150STEL9192
+
+Ingred Name:SOLVENT NAPHTHA, HEAVY AROMATIC NAPHTHA
+CAS:64742-94-5
+RTECS #:WF3100000
+Fraction by Wt: 12-20%
+OSHA PEL:500 PPM
+
+Ingred Name:VOL ORGANIC CMPD: 461 G/L OR 3.8 LB/GAL.
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: ANESTHETIC, RESPIRATORY
+    TRACT IRRITATION, NERVOUS SYSTEM DEPRESSION, HEADACHE, DIZZINESS,
+    STAGGERING GAIT, CONFUSION, UNCONSCIOUSNESS, COMA, KIDNEY, LIVER &
+    BLOOD DAMAGE. SKIN: IRRITATION,  ABSORPTION, KIDNEY, LIVER, & BLOOD
+    DAMAGE. EYES: IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: ANESTHETIC, RESPIRATORY TRACT
+    IRRITATION, NERVOUS SYSTEM DEPRESSION, HEADACHE, DIZZINESS,
+    STAGGERING GAIT, CONFUSION, UNCONSCIOUSNESS, COMA, KIDNEY, LIVER, &
+    BLOOD DAMAGE. SKIN: IRRITATION , ABSORPTION, KIDNEY, LIVER, & BLOOD
+    DAMAGE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR & RESTORE BREATHING. KEEP
+    WARM & QUIET. EYES: FLUSH W/PLENTY OF WATER FOR AT LEAST 15
+    MINUTES. SKIN: WASH W/SOAP & WATER. INGESTION: DON'T INDUCE
+    VOMITING. OBTAIN MEDIC AL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:140F
+Lower Limits:1%
+Extinguishing Media:FOAM, CO2 & DRY CHEMICAL
+Fire Fighting Procedures:WATER SPRAY MAY BE INEFFECTIVE. IF WATER IS
+    USED, FOG NOZZLES ARE PREFERABLE.
+Unusual Fire/Explosion Hazard:WATER SPRAY MAY BE USED TO COOL CLOSED
+    CONTAINERS TO PREVENT PRESSURE BUILD-UP, POSSIBLE AUTOIGNITION &
+    EXPLOSION WHEN EXPOSED TO EXTREME HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION (FLAMES, HOT
+    SURFACES, ELECTRICAL STATIC OR FRICTIONAL SPARKS). VENTILATE AREA.
+    REMOVE W/INERT, ABSORBENT & NON-SPARKING TOOLS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T STORE >120F. KEEP CONTAINERS
+    TIGHTLY CLOSED. STORE LARGE QUANTITIES IN BUILDINGS DESIGNED FOR
+    STORAGE OF NFPA CLASS II COMBUSTIBLE LIQUIDS.
+Other Precautions:CONTAINERS SHOULD BE GROUNDED WHEN POURING. AVOID
+    FREE FALL OF LIQUIDS IN EXCESS OF A FEW INCHES. DON'T FLAME CUT,
+    BRAZE, OR WELD W/O MSHA APPROVED RESPIRATOR OR APPROPRIATE
+    VENTILATION. DON'T TAKE IN TERNALLY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH APPROVED RESPIRATOR W/ORGANIC CHEMICAL
+    CARTRIDGE.
+Ventilation:GENERAL DILUTION OR LOCAL EXHAUST IN VOLUME & PATTERN TO
+    KEEP AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Appearance and Odor:BLUE LIQUID
+Percent Volatiles by Volume:51%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:HEAT, ELECTRICAL EQUIPMENT, SPARKS, OPEN
+    FLAME, HOT SURFACES, & OTHER SOURCES OF IGNITION.
+Hazardous Decomposition Products:HAZARDOUS FUMES AS IN WELDING, CO &
+    OXIDES OF NITROGEN
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. DON'T INCINERATE CLOSED CONTAINERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

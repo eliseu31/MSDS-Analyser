@@ -1,0 +1,122 @@
+=====================  Product Identification  =====================
+
+Product ID:50-185 CONTACT CLEANER
+MSDS Date:09/09/1986
+FSC:6850
+NIIN:00F019191
+MSDS Number: BLPPX
+=== Responsible Party ===
+Company Name:GC ELECTRONICS
+Address:1801 MORGAN ST
+City:ROCKFORD
+State:IL
+ZIP:61105-1209
+Info Phone Num:(815) 968-9661
+Emergency Phone Num:(815) 968-9661
+CAGE:72653
+=== Contractor Identification ===
+Company Name:GC THORSEN
+Address:1801 MORGAN STREET
+Box:City:ROCKFORD
+State:IL
+ZIP:61105
+Country:US
+Phone:815-968-9661
+CAGE:72653
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TRICHLOROFLUOROMETHANE  (CFC-11)  (SARA III)
+CAS:75-69-4
+RTECS #:PB6125000
+Fraction by Wt: 97%
+Other REC Limits:1000 PPM MSHA
+OSHA PEL:1000 PPM
+ACGIH TLV:C, 1000 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+Ozone Depleting Chemical:1
+
+Ingred Name:CARBON DIOXIDE
+CAS:124-38-9
+RTECS #:FF6400000
+Fraction by Wt: 3%
+Other REC Limits:10000 PPM
+OSHA PEL:5000 PPM
+ACGIH TLV:5000PPM/30000STEL;93
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: LIGHT HEADEDNESS,
+    GIDDINESS, SHORTNESS OF BREATH, NARCOSIS, CARDIAC IRREGULARITIES,
+    UNCONSCIOUSNESS, DEATH.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: LIGHT HEADEDNESS, GIDDINESS,
+    SHORTNESS OF BREATH, NARCOSIS, CARDIAC IRREGULARITIES,
+    UNCONSCIOUSNESS, DEATH.
+Medical Cond Aggravated by Exposure:CARDIOVASCULAR DISEASE
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER FOR AT LEAST 15 MINS. SKIN: WASH W/SOAP &
+    WATER. INHALATION: MOVE TO FRESH AIR. GIVE OXYGEN, ARTIFICIAL
+    RESPIRATION. INGESTION: DON'T USE EPINEPHRINE. OBTAIN MEDICAL
+    ATTENTION IN A LL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:CO2, FOAM
+Fire Fighting Procedures:WEAR SELF CONTAINED BREATHING APPARATUS
+Unusual Fire/Explosion Hazard:TOXIC GASES EMITTED IF SUBJECTED TO
+    FLAME. CAN MAY BURST.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA. DIKE SPILL, ABSORB W/INERT
+    MATERIAL COLLECT IN STEEL DRUMS FOR DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:CLEAN, DRY AREA. DON'T STORE >120F.
+Other Precautions:AVOID CONTACT W/SKIN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:LOCAL EXHAUST: AS NECESSARY WHEN LARGE AMOUNTS ARE RELEASED
+Protective Gloves:BUTYL
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:75F
+Vapor Pres:792
+Vapor Density:4.9
+Spec Gravity:1.48
+Evaporation Rate & Reference:(CARBON TETROCHL: 1): 0.1
+Solubility in Water:0.1%
+Appearance and Odor:AEROSOL, CLEAR LIQUID W/CHLOROFLUOROCARBON ODOR
+    (ETHEREAL)
+Percent Volatiles by Volume:100%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:FLAME, EXTREME HIGH TEMPERATURE. DONT'
+    STORE >120F.
+Hazardous Decomposition Products:TOXIC GASES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:AUTHORIZED INCINERATOR OR RECLAIMER. SMALL
+    QUANTITIES WILL EVAPORATE QUICKLY.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

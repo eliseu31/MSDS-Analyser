@@ -1,0 +1,159 @@
+=====================  Product Identification  =====================
+
+Product ID:63228 CONV. TRAFFIC PAINT YELLOW
+MSDS Date:11/11/1987
+FSC:8010
+NIIN:00F018504
+MSDS Number: BKYBY
+=== Responsible Party ===
+Company Name:SAFETY COATINGS INC
+Address:HWY 59 N
+Box:399
+City:FOLEY
+State:AL
+ZIP:36536
+Info Phone Num:(205) 943-1638
+Emergency Phone Num:(205) 943-1638
+Preparer's Name:CHARLES D. CARNEAL
+CAGE:SAFTY
+=== Contractor Identification ===
+Company Name:SAFETY COATINGS INC
+Address:HIGHWAY 59 NORTH
+Box:399
+City:FOLEY
+State:AL
+ZIP:36536
+Country:US
+Phone:205-943-1638
+CAGE:SAFTY
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TALC (CONTAINING NO ASBESTOS)
+CAS:14807-96-6
+RTECS #:WW2710000
+Fraction by Wt: 10%
+OSHA PEL:2 MG/M3 RDUST
+ACGIH TLV:2 MG/M3 RDUST; 9192
+
+Ingred Name:LIGHT ALIPHATIC NAPHTHA, VM & P NAPHTHA
+CAS:64742-89-8
+Fraction by Wt: 20%
+OSHA PEL:200 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 3%
+Other REC Limits:100 PPM
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:LEAD CHROMATE, CR, CHROME GREEN, CHROME YELLOW (SUSPECTED
+    HUMAN CARCINOGEN BY ACGIH, IARC & NTP)
+CAS:7758-97-6
+RTECS #:GB2975000
+Fraction by Wt: 8%
+OSHA PEL:0.5 MG/CUM PB
+ACGIH TLV:0.05 MG/CUM CR (A2)
+
+Ingred Name:CALCIUM CARBONATE (MARBLE) (LIMESTONE)
+CAS:1317-65-3
+RTECS #:EV9580000
+Fraction by Wt: 42%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9192
+
+Ingred Name:ORGANO MONTMORILLIONITE
+
+Ingred Name:SOYABEAN OIL RESIN
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: DIZZINESS, NAUSEA,
+    HEADACHE, & DEPRESSION. SKIN/EYES: IRRITATION.
+Explanation of Carcinogenicity:LEAD CHROMATE IS CONSIDERED TO BE AN A2
+    CARCINOGEN BY ACGIH.
+Effects of Overexposure:INHALATION: DIZZINESS, NAUSEA, DEPRESSION, &
+    HEADACHE. SKIN/EYES: IRRITATION.
+Medical Cond Aggravated by Exposure:HEART CONDITIONS, DEPRESSION
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINS. SKIN:
+    WASH THOROUGHLY W/SOAP & WATER. INHALATION: REMOVE TO FRESH AIR.
+    GIVE CPR OR OXYGEN IF NEEDED. INGESTION: DON'T INDUCE VOMITING.
+    OBTAIN MEDICA L ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:40F
+Lower Limits:1%
+Upper Limits:7%
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL, HALON
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS W/FULL
+    FACE PIECE OPERATED IN PRESSURE DEMAND OR OTHER POSITIVE PRESSURE
+    MODE.
+Unusual Fire/Explosion Hazard:VAPOR IS >AIR & MAY TRAVEL ALONG GROUND.
+    WILL IGNITE NEAR HEAT SOURCES. EMPTY CONTAINERS RETAIN RESIDUE
+    WHICH IS FLAMMABLE.  FLAMMABLE LIQUID.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SOAK UP W/ABSORBENT MATERIAL & DEPOSIT IN SAFE
+    CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T PUT EMPTY OR FULL CONTAINERS
+    NEAR HEAT SOURCES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED SELF-CONTAINED BREATHING
+    APPARATUS.
+Ventilation:MECHANICAL/LOCAL EXHAUST: TO MAINTAIN LEVELS <TLV.
+Protective Gloves:RECOMMENDED
+Eye Protection:RECOMMENDED
+Other Protective Equipment:IMPERVIOUS CLOTHING & SHOES
+Work Hygienic Practices:WASH HANDS THOROUGHLY AFTER USE. REMOVE/LAUNDER
+    CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:200-210F
+Melt/Freeze Pt:M.P/F.P Text:LIQUID
+Vapor Pres:62
+Vapor Density:3.3
+Spec Gravity:1.51
+Evaporation Rate &amp; Reference:(BU AC = 1): 2.80
+Solubility in Water:NEGLIGIBLE <5%
+Appearance and Odor:YELLOW W/PETROLEUM ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+WATER
+Stability Condition to Avoid:HEAT SOURCES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN POSTED TOXIC LANDFILL IN
+    ACCORDANCE W/STATE, LOCAL & FEDERAL REGULATIONS. FLAMMABLE LIQUID.
+    UN 1263.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

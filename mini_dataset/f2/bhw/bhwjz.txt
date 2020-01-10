@@ -1,0 +1,171 @@
+=====================  Product Identification  =====================
+
+Product ID:KATHON FP 1.5 BIOCIDE
+MSDS Date:07/24/1986
+FSC:6840
+NIIN:01-041-0098
+MSDS Number: BHWJZ
+=== Responsible Party ===
+Company Name:ROHM AND HAAS CO
+Address:INDEPENDENCE MALL WEST
+City:PHILADELPHIA
+State:PA
+ZIP:19105
+Country:US
+Emergency Phone Num:U/K
+CAGE:77902
+=== Contractor Identification ===
+Company Name:FUEL QUALITY SERVICES, INC.
+Address:4584 CANTRELL ROAD
+Box:1380
+City:FLOWERY BRANCH
+State:GA
+ZIP:30542
+Country:US
+Phone:(800) 827-9790 - (770) 967-9790
+CAGE:40161
+Company Name:ROHM AND HAAS CO
+Address:100 INDEPENDENCE MALL WEST
+Box:City:PHILADELPHIA
+State:PA
+ZIP:19106-2399
+Country:US
+Phone:215-592-2521/215-592-3000
+CAGE:77902
+Company Name:SHELDAHL INC
+Address:NORTH HWY 3
+Box:170
+City:NORTHFIELD
+State:MN
+ZIP:55057
+Country:US
+CAGE:62822
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:5-CHLORO-2-METHYL-4-ISOTHIOAZOLIN-3-ONE
+CAS:26172-55-4
+RTECS #:NX8156850
+Fraction by Wt: 1-1.25%
+Other REC Limits:NONE ESTABLISHED
+
+Ingred Name:2-METHYL-4-ISOTHIAZOLIN-3-ONE
+CAS:2682-20-4
+RTECS #:NX8157000
+Fraction by Wt: .25-.45%
+Other REC Limits:NONE ESTABLISHED
+
+Ingred Name:MAGNESIUM SALTS
+Fraction by Wt: 2.6%
+Other REC Limits:NONE ESTABLISHED
+OSHA PEL:NONE ESTABLISHED
+ACGIH TLV:NONE ESTABLISHED
+
+Ingred Name:DIPROPYLENE GLYCOL
+CAS:110-98-5
+RTECS #:UB8785000
+Other REC Limits:NONE ESTABLISHED
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: <96%
+Other REC Limits:NONE ESTABLISHED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL RAT) IS 3600 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALE:IRRITATION OF MUCOUS MEMBRANES
+    OF THE NOSE & THROAT; EYE:MATERIAL AS SUPPLIED CAUSES SEVERE
+    IRRITATION & CORNEAL INJURY; SKIN:MATERIAL AS SUPPLIED CAUSES
+    SEVERE IRRITATION & CHEMICAL BURNS;DELA YED EFFECT: MATERIAL IS A
+    SKIN SENSITIZER.
+Effects of Overexposure:SEE "HEALTH HAZARDS"
+Medical Cond Aggravated by Exposure:NOTE TO PHYSICIAN:MUCOSAL AFTER
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION:REMOVE TO FRESH AIR. RESUSCITA IF NOT BREATHING.
+    GET MEDICAL ATTENTION. EYES:IMMEDIATELY FLUSH WITH PLENTY OF WATER
+    FOR 15 MINUTES, GET MEDICAL ATTENTION. SKIN:WASH WITH SOAP AND
+    WATER,REMO VE CONTAMINATED CLOTHING; INGEST:DILUTEBY GIVING 2
+    GLASSES OF WATER TO DRINK AND CALL A PHYSICIAN. NEVER GIVE ANYTHING
+    BY MOUTH TO AN UNCONSCIOUS PERSON.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:280F/138C
+Extinguishing Media:CARBON DIOXIDE, DRY CHEMICAL, WATER SPRAY.
+Fire Fighting Procedures:WEAR BREATHING APPARATUS AND FULL PROTECTIV
+    CLOTHING. USE WATER SPRAY TO COOL FIRE-EXPOSED CONTAINERS.
+Unusual Fire/Explosion Hazard:AVOID EXPOSURE TO FUMES AND VAPORS FROM A
+    FIRE. CAN POSSIBLY INCLUDE SULFUR DIOXIDE AND HYDROGEN CHLORIDE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:KEEP SPILLS OUT OF MUNICIPAL SEWERS AND OPEN
+    BODIES OF WATER. DIKE AND ABSORB SPILL WITH INERT MATERIAL. SHOVEL
+    AL CONTAMINATED SOLIDS--DIKING MATERIAL,ABSORBENT AND SOIL-- INTO
+    CORROSION PROOF DRUMS.  SEAL DRUMS BEFORE DISPOSAL.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:MATERIAL CAUSES CHEMICAL BUR AND IS A
+    SKIN SENSITIZER. AVOID CONTACT WITH EYES AND SKIN. WASH AFTER
+    HANDLIN AND SHOWER AT END OF WORK PERIOD.
+Other Precautions:EYE WASHES AND SAFETY SHOWERS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR MSHA/NIOSH APPROVED RESPIRATOR SUITABLE FOR
+    CONCENTRATIONS ENCLOUNTERED WHERE EXPOSURE LIMITS ARE EXCEEDED.
+Ventilation:MECHANICAL LOCAL EXHAUST AT POINTS OF CONTAMINANT (VAPOR OR
+    MIST RELEASE.
+Protective Gloves:IMPERVIOUS TYPES.
+Eye Protection:SAFETY GOGGLES WITH OPTIONAL FACE SHIELD
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER.
+    INDUSTRIAL-TY WORK CLOTHING AND APRON AS REQUIRED.
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES. DO NOT WEAR CONTAMINATED CLOTHING OR
+    FOOTWEAR.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C2
+Boiling Pt:B.P. Text:212F/100C
+Vapor Pres:15
+Vapor Density:0.65
+Spec Gravity:1.044
+pH:4.4
+Evaporation Rate & Reference:< WATER
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR,YELLOW LIQUID; MILD AROMATIC ODOR.
+Percent Volatiles by Volume:96
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE STATED.
+Stability Condition to Avoid:NONE STATED
+Hazardous Decomposition Products:HYDROGEN CHLORIDE AND OXIDES OF
+    SULFUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:FOR DISCARD,THIS IS A HAZARD WASTE:RCRA NO.
+    D002;DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE, AND FEDERAL
+    REGULATIONS, LANDFILL CONTAMINATED SOLIDS IN SEALED DRUMS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

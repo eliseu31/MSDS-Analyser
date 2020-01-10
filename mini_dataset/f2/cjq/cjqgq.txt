@@ -1,0 +1,139 @@
+=====================  Product Identification  =====================
+
+Product ID:HYDRAZINE COLOR STANDARDS, C-5005N
+MSDS Date:01/19/1998
+FSC:6810
+NIIN:00N092123
+Status Code:A
+MSDS Number: CJQGQ
+=== Responsible Party ===
+Company Name:CHEMETRICS INC
+Address:ROUTE 88
+City:CALVERTON
+State:VA
+ZIP:20138
+Country:US
+Info Phone Num:800-355-3072
+Emergency Phone Num:703-590-9204
+CAGE:7K791
+=== Contractor Identification ===
+Company Name:CHEMETRICS INC
+Address:ROUTE 28
+Box:City:CALVERTON
+State:VA
+ZIP:22016
+Country:US
+Phone:800-356-3072; 540-788-9026
+CAGE:7K791
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MARTIUS YELLOW
+CAS:605-69-6
+< Wt:.01
+
+Ingred Name:AZORUBIN S
+CAS:915-67-3
+RTECS #:OJ6550000
+< Wt:.01
+
+Ingred Name:XYLENE CYANOLE FF.
+CAS:4463-44-9
+< Wt:.01
+
+Ingred Name:DIETHYLENE GLYCOL
+CAS:111-46-6
+RTECS #:ID5950000
+= Wt:12.5
+
+Ingred Name:DILONIZED WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+> Wt:87.
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: IRRITATION. CHRONIC:
+    IRRITATION.
+Explanation of Carcinogenicity:NONE.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:MAY CAUSE IRRITATION TO EYES, SKIN
+    AND MUCOUS MEMBRANES.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE AND SKIN CONTACT: IMMEDIATELY FLUSH EYES AND SKIN WITH
+    WATER FOR AT LEAST 15 MINUTES. INGESTION: SEEK MEDICAL ATTENTION.
+    INHALATION: REMOVE INDIVIDUAL TO FRESH AIR.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:DRY CHEMICAL, CARBON DIOXIDE, WATER OR ALCOHOL
+    FOAM.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT .
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:TAKE UP WTIH ABSORBENT MATERIAL. PLACE IN
+    SMALL CONTAINERS FOR DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:THIS PRODUCT HAS LIMITED SHELF LIFE.
+    PRODUCT SHOULD NOT BE USED AFTER DATE SPECIFIED ON COMPARATOR.
+    PRODUCT SHOULD BE STORED IN DARK AND AT ROOM TEMERATURE; HOWEVER,
+    TEMPERATURES UP TO 120F OR EVEN BE LOW FREEZING WILL NOT NORMALLY
+    AFFECT REAGENT PERFORMANCE.
+Other Precautions:IF THIS PRODICT IS USED AS DIRECTED, THE USER WILL
+    NOT COME IN CONTACT WITH OR BE EXPOSED TO ANY OF ITS CHEMICAL
+    COMPONENTS. AVOID CONTACT WITH EYES. FRAGILE: LIQUID IN GLASS.
+    HANDLE WITH CARE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN .
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:EYE WASH & DELUGE SHOWER MEETING ANSI DESIGN
+    CRITERIA .
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:=150.C, 302.F
+Melt/Freeze Pt:=-5.C, 23.F
+Spec Gravity:1.03
+pH:7
+Solubility in Water:MISCIBLE
+Appearance and Odor:COLORLESS TO YELLOW LIQUID, NO ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Hazardous Decomposition Products:NONE.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:ACUTE TOXICITY: IRRITATION. CHRONIC TOXICITY:
+    IRRITATION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH ALL FEDERAL, STATE
+    AND LOCAL REGULATIONS.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,136 @@
+=====================  Product Identification  =====================
+
+Product ID:SEQUESTER, DR8030
+MSDS Date:10/10/1990
+FSC:6840
+NIIN:00N021451
+MSDS Number: BLMKV
+=== Responsible Party ===
+Company Name:DRUMMOND AMERICAN CORP
+Address:1700 SHERWIN AVE
+City:DES PLAINES
+State:IL
+ZIP:60010
+Country:US
+Info Phone Num:312-297-1777
+Emergency Phone Num:312-297-1777;800-424-9300(CHEMTREC)
+CAGE:64557
+=== Contractor Identification ===
+Company Name:DRUMMOND AMERICAN CORPORATION
+Address:600 CORPORATE WOODS PKWY.
+Box:City:VERNON HILLS
+State:IL
+ZIP:60061
+Country:US
+Phone:708-913-9313
+CAGE:64557
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:N-ALKYL DIMETHYL ETHYLBENZYL AMMONIUM CHLORIDE;
+    (QUARTERNAARY AMMONIUM CHLORIDE)
+CAS:68956-79-6
+Fraction by Wt: 1-5%
+
+Ingred Name:N-ALKYL DIMETHYL BENZYL AMMONIUM CHLORIDE. MFR CAS
+    #63891-01-5.
+CAS:68391-01-5
+Fraction by Wt: 1-5%
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: 5-10%
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+Ingred Name:SODIUM SILICATE; (SODIUM METASILICATE)
+CAS:6834-92-0
+RTECS #:VV9275000
+Fraction by Wt: 1-5%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MAY BE HARMFUL IF SWALLOWED. MAY CAUSE
+    EYE OR SKIN IRRITATION. CAUSES GASTROINTESTINAL IRRITATION.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:UNKNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:WASH OFF W/SOAP & WATER. EYE:FLUSH W/ WATER FOR AT LEAST
+    15 MINUTES. CALL MD IF IRRITATION PERSISTS. INGEST:DRINK LARGE
+    AMOUNTS OF WATER OR MILK. CALL MD. INHAL:REMOVE TO FRESH AIR.
+    SUPPORT BREAT HING (GIVE O2/ARTF RESP), CALL MD .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:112F,44C
+Lower Limits:2%
+Extinguishing Media:CARBON DIOXIDE, WATER FOG.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:MOP UP SPILLS, THEN RINSE AWAY W/WATER. FLOOR
+    MAY BE SLIPPERY. USE CAUTION TO AVOID FALLS.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN DRY, COOL PLACE. KEEP OUT OF
+    REACH OF CHILDREN. KEEP FROM FREEZING.
+Other Precautions:READ ENTIRE LABEL BEFORE USING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED. USE NIOSH/MSHA APPROVED
+    RESPIRATOR APPROPRIATE FOR EXPOSURE OF CONCERN .
+Ventilation:LOCAL EXHAUST:NONE REQUIRED. MECHANICAL (GENERAL):MAINTAIN
+    ADEQUATE VENTILATION.
+Protective Gloves:PLASTIC OR RUBBER GLOVES RECOMMENDED.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:EYE WASH STATION AND SHOWER SHOULD BE
+    AVAILABLE FOR EMERGENCY USE.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:212F,100C
+Vapor Pres:18
+Vapor Density:LTR/AIR
+Spec Gravity:1.05
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR, GREEN LIQUID, PLEASANTLY SCENTED.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:THERMAL DECOMPOSITION MAY PRODUCE COX
+    AND NOX.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:RINSE CONTAINER THEN DISCARD IN TRASH. DISPOSE
+    OF I/A/W FEDERAL, STATE AND LOCAL REGULATIONS .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

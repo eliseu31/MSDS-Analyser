@@ -1,0 +1,175 @@
+=====================  Product Identification  =====================
+
+Product ID:HEAVY WEIGHT BODY FILLER
+MSDS Date:05/21/1988
+FSC:8010
+NIIN:01-060-7176
+Kit Part:Y
+MSDS Number: BHWFY
+=== Responsible Party ===
+Company Name:DYNATRON/BONDO CORP
+Address:3700 ATLANTA INDUSTRIAL PKWY NW
+City:ATLANTA
+State:GA
+ZIP:30331-1098
+Country:US
+Info Phone Num:404-696-2730
+Emergency Phone Num:404-696-2730
+CAGE:16522
+=== Contractor Identification ===
+Company Name:BONDO/MAR-HYDE CORP
+Address:3700 ATLANTA INDUSTRIAL PKWY NW
+Box:City:ATLANTA
+State:GA
+ZIP:30331
+Country:US
+Phone:404-696-2730
+CAGE:16522
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TALC (CONTAINING NO ASBESTOS)
+CAS:14807-96-6
+RTECS #:WW2710000
+Fraction by Wt: >50%
+Other REC Limits:N/K 
+OSHA PEL:2 MG/M3 RDUST
+ACGIH TLV:2 MG/M3 RDUST; 9192
+
+Ingred Name:STYRENE, MONOMER  (SARA III)
+CAS:100-42-5
+RTECS #:WL3675000
+Fraction by Wt: <20%
+Other REC Limits:N/K 
+OSHA PEL:100 PPM
+ACGIH TLV:S,50PPM/100STEL;9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:UNSATURATED POLYESTER RESIN
+CAS:26123-45-5
+Fraction by Wt: <50%
+Other REC Limits:N/K 
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:N/K 
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:REPEATED SKIN CONTACT WITH PROLONGED
+    EXPOSURE POSSIBLY DEVELOPING INTO DERMATITIS.IF ECZEMA
+    DEVELOPS,THIS MOST OFTEN OCCURS ON THE BACK OF HANDS,WRISTS AND
+    FOREARMS.
+Explanation of Carcinogenicity:STYRENE MONOMER:INADEQUATE EVIDENCE FOR
+    CARCINOGENICITY IN HUMANS AND LIMITED EVIDENCE IN ANIMALS (IARC
+    1987).
+Effects of Overexposure:EYES:IRRITATION.SKIN:MINOR IRRITATION.REPEATED
+    CONTACT MAY CAUSE RASH.INGESTION:N/K .INHALATION:UPPER RESPIRATORY
+    IRRITATION.CHRONIC:MAY FEEL DRUGGED,BECOME SLEEPY OR UNCONSCIOUS.
+Medical Cond Aggravated by Exposure:INDIVIDUALS WITH CHRONIC
+    RESPIRATORY CONDITIONS:ASTHMA,CHRONIC BRONCHITIS,EMPHYSEMA,ETC.MAY
+    BE ADVERSELLY AFFECTED BY ANY FUME OR AIRBORNE PARTICULATE MATTER
+    EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH WITH LOTS OF WATER FOR AT LEAST 15 MINUTES,LIFTING
+    LIDS OCCASIONALLY.GET MEDICAL AID.SKIN:REMOVE CONTAMINATED
+    CLOTHING.WASH THOROUGHLY WITH SOAP & WATER.IF IRRIT OCCURS,GET
+    MEDICAL AID.INGE STION:DO NOT INDUCE VOMIT.GET MEDICAL
+    AID.INHALATION:REMOVE FROM EXPOSURE.IF BREATH IS STOPPED OR
+    DIFFICULT,ADMINISTER ARTIFICIAL RESPIRATION OR OXYGEN AS
+    INDICATED.IF SYMPTOMS PERSIST,CONSULT MD.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:90C (STYRENE)
+Lower Limits:6.1
+Upper Limits:1.1
+Extinguishing Media:SMALL FIRES:CARBON DIOXIDE,DRY CHEMICAL;LARGE
+    FIRES:FOAM AND WATER FOG.
+Fire Fighting Procedures:DENSE SMOKE LIMITS VISIBILITY.VENT SMOKE & USE
+    GAS MASK OR REMOTE AIR SUPPLY.WEAR MSHA/NIOSH APPROVED
+    SELF-CONTAINED BREATHING APPARATUS & PROTECTIVE EQUIPMENT.
+Unusual Fire/Explosion Hazard:ISOLATE FROM HEAT,ELECTRICAL
+    EQUIPMENT,SPARKS & OPEN FLAME.HAZARDOUS DECOMPOSITION
+    PRODUCTS:CO,CO*2,LOW MOLECULAR WEIGHT HYDROCARBONS & ORGANIC ACIDS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL IGNITION SOURCES.INCREASE
+    VENTILATION TO DISPERSE VAPOR.DIKE LARGE SPILLS TO PREVENT RUNOFF
+    INTO SEWERS/WATERWAYS.REMOVE MATERIAL BY
+    SHOVELING,WIPING,ETC.SWEEP/CLEAN WITH INERT MATERIALS (S
+    AND,VERMICULITE,ETC) & PLACE IN CLOSED CONTAINER.
+Neutralizing Agent:N/K 
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID PROLONGED/REPEATED SKIN
+    CONTACT.AVOID EYE CONTACT.STORE IN COOL,DRY AREA OUT OF DIRECT
+    SUNLIGHT.USE ADEQUATE VENTILATION.
+Other Precautions:BOND & GROUND CONTAINERS FOR TRANSFER TO PREVENT
+    STATIC SPARKS.STYRENE VAPORS ARE UNINHIBITED & MAY CAUSE BLOCKAGE
+    OF VENTS DUE TO POLYMERIZATION (PREVENT WITH PERIODIC
+    INSPECTION).AVOID IMPROPER ADDI TION OF PROMOTERS & OXIDIZING
+    AGENTS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE ADEQUATE VENTILATION.NIOSH/MSHA APPROVED
+    ORGANIC VAPOR/DUST RESPIRATOR TO AVOID INHALATION OF EXCESSIVE AIR
+    CONTAMINANTS.
+Ventilation:USE LOCAL EXHAUST TO CONTROL EMISSION.GENERAL DILUTION
+    VENTILATION MAY HELP REDUCE AIR CONTAMINANT CONCENTRATION.
+Protective Gloves:POLYVINYL ALCOHOL & POLYETHYLENE
+Eye Protection:SAFETY GLASSES RECOMMENDED.
+Other Protective Equipment:SAFETY SHOWERS AND EYE WASH STATIONS SHOULD
+    BE AVAILABLE.
+Work Hygienic Practices:CLEAN HANDS WITH SOAP AND WATER AFTER EVERY
+    USAGE.
+Supplemental Safety and Health
+% VOLAT BY WEIGHT:<20.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:N/K 
+Melt/Freeze Pt:M.P/F.P Text:N/K 
+Decomp Temp:Decomp Text:N/K 
+Vapor Pres:N/K 
+Vapor Density:N/K 
+Spec Gravity:1.78 (WATER=1)
+Evaporation Rate & Reference:<1 (ETHER=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:WHITE PASTE,STYRENE ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS,PEROXIDES AND OTHER OXIDIZING AGENTS.
+Stability Condition to Avoid:N/K 
+Hazardous Decomposition Products:CARBON MONOXIDE,CARBON DIOXIDE,LOW
+    MOLECULAR WEIGHT HYDROCARBONS,ORGANIC ACIDS.
+Conditions to Avoid Polymerization:UNREGULATED CONTACT WITH ORGANIC
+    PEROXIDES,EXPOSURE TO HEAT,OPEN FLAME AND PROLONGED STORAGE ABOVE
+    100F,38C.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE IN ACCORDANCE WITH
+    FEDERAL,STATE AND LOCAL REGULATIONS.COORDINATION WITH SUPPORTING
+    INSTALLATION AND/OR MACOM ENVIRONMENTAL COORDINATION PRIOR TO
+    DISPOSAL IS RECOMMENDED TO DETERMINE  APPROPRIATE DISPOSAL METHODS
+    .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

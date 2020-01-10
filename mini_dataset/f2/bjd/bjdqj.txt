@@ -1,0 +1,147 @@
+=====================  Product Identification  =====================
+
+Product ID:LIQUIDLITH DEVELOPER-PART A
+MSDS Date:05/23/1989
+FSC:6750
+NIIN:00-913-1614
+MSDS Number: BJDQJ
+=== Responsible Party ===
+Company Name:CLAYTON CHEMICAL CO.
+Address:13310 S.FIQUEROA STREET
+City:LOS ANGELES
+State:CA
+ZIP:90061
+Country:US
+Info Phone Num:213-538-9530
+Emergency Phone Num:213-538-9530
+Preparer's Name:JHON B.TAYLOR
+CAGE:6W820
+=== Contractor Identification ===
+Company Name:CLAYTON CHEMICAL CO., A DIV OF VARICHEM CORP
+Address:RR 1
+Box:276-Z
+City:HEATHSVILLE
+State:VA
+ZIP:22473
+Country:US
+Phone:703-759-9399
+CAGE:6W820
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HYDROQUINONE  (SARA III)
+CAS:123-31-9
+RTECS #:MX3500000
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:2 MG/M3
+ACGIH TLV:2 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:POTASSIUM FORMALDEHYDE BISULFITE
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:SODIUM FORMALDEHYDE BISULFITE
+CAS:149-44-0
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:TRIETHYLENE GLYCOL
+CAS:112-27-6
+RTECS #:YE4550000
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:UNKNOWN  Skin:UNKNOWN  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:IRRITATION OF
+    EYES,SKIN,RESPIRATORY OR G.I.TRACTS; HARMFUL IF INGESTED.CHRONIC:NO
+    DATA AVAILABLE.
+Explanation of Carcinogenicity:DATA PER MSDS
+Effects of Overexposure:MAY CAUSE IRRITATION OF EYES,SKIN,RESPIRATORY
+    OR G.I.TRACTS;HARMFUL IF INGESTED.
+Medical Cond Aggravated by Exposure:NO DATA AVAILABLE
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION:REMOVE TO FRESH AIR. RESUSCITATE IF NOT BREATHING.
+    GET MEDICAL ATTENTION. EYES:IMMEDIATELY FLUSH WITH PLENTY OF WATER
+    FOR 15 MINUTES HOLDING EYELIDS OPEN. GET MEDICAL ATTENTION.
+    SKIN:REMOVE  CONTAMINATED CLOTHING. WASH WITH SOAP AND WATER. IF
+    IRRITATION PERSISTS, GET MEDICAL ADVICE.  INGESTION:DO NOT INDUCE
+    VOMITING. GIVE NOTHING BY MOUTH IF UNCONSCIOUS. GET IMMEDIATE
+    MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE SUITABLE MEDIA LIKE WATER FOG, CARBON DIOXIDE,
+    FOAM, OR DRY CHEMICAL FOR SURROUNDING FIRE.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPER PERSONAL PROTECTION;CONTAIN FREE
+    MATERIAL IF POSSIBLE;USE SUITABLE INERT ABSORBENT MATERIAL AND
+    RECOVER FOR PROPER DISPOSAL IN AN APPROVED CONTAINER.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL VENTILATED
+    AREA. KEEP CONTAINERS TIGHTLY CLOSED WHEN NOT IN USE. PROTECT
+    CONTAINERS FROM PHYSICAL DAMAGE.
+Other Precautions:DO NOT TAKE INTERNALLY. DO NOT BREATHE MIST. AVOID
+    PROLONGED OR REPEATED BREATHING OF VAPOR. AVOID CONTACT WITH EYES.
+    USE WITH ADEQUATE VENTILATION. WASH THOROUGHLY AFTER HANDLING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NORMALLY NOT REQUIRED WITH ADEQUATE VENTILATION.
+Ventilation:NORMAL ROOM VENTILATION
+Protective Gloves:IMPERVIOUS
+Eye Protection:SAFETY GOGGLES WITH OPTIONAL FACE SHIELD
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER,WORK
+    CLOTHING AND APRON AS REQUIRED.
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES. DO NOT WEAR CONTAMINATED CLOTHING OR
+    FOOTWEAR.
+Supplemental Safety and Health
+AVOID PROLONGED OR REPEATED EXPOSURE. DO NOT GET ON SKIN OR IN EYES. DO
+    NOT BREATHE VAPORS OR MISTS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:>212F,>100C
+Spec Gravity:1.24
+pH:7.2
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR,COLORLESS TO PALE VIOLET;NO ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG MINERAL ACIDS
+Stability Condition to Avoid:HIGH TEMPERATURES
+Hazardous Decomposition Products:CARBON DIOXIDE AND OTHER UNIDENTIFIED
+    COMPONENTS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT LOCAL AUTHORITIES.DISPOSAL MUST BE MADE
+    IN ACCORDANCE WITH ALL APPLICABLE FEDERAL, STATE AND LOCAL LAWS AND
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

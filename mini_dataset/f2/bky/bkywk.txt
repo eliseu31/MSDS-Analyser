@@ -1,0 +1,236 @@
+=====================  Product Identification  =====================
+
+Product ID:36118 FLUOROELASTOMER RAIN/THERMAL RESISTANT COAT/ LUSTERLES
+MSDS Date:04/01/1991
+FSC:8010
+NIIN:01-242-8160
+Kit Part:Y
+MSDS Number: BKYWK
+=== Responsible Party ===
+Company Name:CAAP CO INC
+Address:152 PEPES FARM ROAD
+City:MILFORD
+State:CT
+ZIP:06460
+Country:US
+Info Phone Num:203-877-0375
+Emergency Phone Num:203-877-0375
+Preparer's Name:RONALD D. ARENA
+CAGE:60922
+=== Contractor Identification ===
+Company Name:CAAP CO INC
+Address:152 PEPE'S FARM RD
+Box:City:MILFORD
+State:CT
+ZIP:06460
+Country:US
+Phone:203-877-0375
+CAGE:60922
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:2-BUTANONE (METHYL ETHYL KETONE) (MEK)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: 25-26%
+Other REC Limits:590 MG/CUM
+OSHA PEL:200 PPM
+ACGIH TLV:200 PPM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:BUTYL ACETATE (N-BUTYL ACETATE)
+CAS:123-86-4
+RTECS #:AF7350000
+Fraction by Wt: 15-17%
+Other REC Limits:150 PPM
+OSHA PEL:150 PPM
+ACGIH TLV:150 PPM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:DIETHYLENE GLYCOL DIMETHYL ETHER
+CAS:111-96-6
+RTECS #:KN3339000
+Fraction by Wt: 25-27%
+Other REC Limits:500 PPM
+
+Ingred Name:TITANIUM DIOXIDE, TIO2
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 1-3%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:COLUMBIA CARBON, CARBON BLACK, LAMPBLACK (SUSPECTED HUMAN
+    CARCINOGEN BY ACGIH), BLACK PEARLS
+CAS:1333-86-4
+RTECS #:FF5800000
+Fraction by Wt: .05-0.2%
+Other REC Limits:3.5 MG/CUM (NIOSH)
+OSHA PEL:3.5 MG/CUM
+ACGIH TLV:3.5 MG/CUM
+
+Ingred Name:SILICA, AMORPHOUS FUMED (SUSPECTED HUMAN CARCINOGEN BY
+    IARC)
+CAS:112945-52-5
+RTECS #:VV7310000
+Fraction by Wt: 0.7-0.8%
+OSHA PEL:0.1 MG/CUM
+ACGIH TLV:0.1 MG/CUM
+
+Ingred Name:CADMIUM SULFOSELENIDE    *93-1*
+CAS:58339-34-7
+Fraction by Wt: 0-0.5%
+OSHA PEL:0.05 MG/CUM (CD)
+ACGIH TLV:0.05 MG/CUM
+
+Ingred Name:CADMIUM ZINC SULFIDE (YELLOW)
+CAS:12442-27-2
+OSHA PEL:0.2 MG/CUM
+ACGIH TLV:0.05 MG/CUM
+
+Ingred Name:ALUMINUM CHROMIUM COBALT OXIDE			       
+    COBALT CHROMITE BLUE GREEN SPINEL
+CAS:68187-11-1
+OSHA PEL:0.1 MG/CUM
+ACGIH TLV:0.1 MG/CUM
+
+Ingred Name:COBALT ALUMINATE BLUE
+CAS:1345-16-0
+OSHA PEL:0.1 MG/CUM
+ACGIH TLV:0.1 MG/CUM
+
+Ingred Name:COBALT & CHROMIUM COMPOUNDS       *93-1*
+CAS:68187-49-5
+Fraction by Wt: 0-0.5%
+OSHA PEL:0.5 MG/CUM
+ACGIH TLV:0.5 MG/CUM
+
+Ingred Name:C. I. PIGMENT BLUE 15, COPPER PHTHALOCYANINE BLUE *93-1*
+CAS:147-14-8
+Fraction by Wt: 0-0.5%
+OSHA PEL:15 MG/CUM
+ACGIH TLV:10 MG/CUM
+
+Ingred Name:VOL ORGANIC CMPD: 792 G/L
+RTECS #:9999999VO
+
+Ingred Name:WEIGHT PER GALLON IN POUNDS: 6.6
+RTECS #:9999999WG
+
+Ingred Name:BARIUM SULFATE, BARYTES
+CAS:7727-43-7
+RTECS #:CR0600000
+Fraction by Wt: < 0.5%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:EYES/SKIN: IRRITATION. INHALATION:
+    RESPIRATORY IRRITATION. MAY CAUSE DIZZINESS, NAUSEA, VOMITING, OR
+    NARCOSIS. VAPOR EXPOSURE MAY RESULT IN IRRITATION/BURNING OF
+    EYES/SKI	      N, HEADACHE, DIZZINE SS, THROAT IRRITATION, LOSS
+    OF APPETITE, NAUSEA, & VOMITING.
+Explanation of Carcinogenicity:SEE INGREDIENTS.
+Effects of Overexposure:SKIN: DEFATTING & DERMATITIS. INHALATION:
+    NEURAL DYSFUNCTION, KIDNEY & LIVER DAMAGE.
+Medical Cond Aggravated by Exposure:ALLERGIES, EYE, SKIN, & RESPIRATORY
+    DISORDERS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. GIVE ARTIFICIAL RESPIRATION,
+    IF NOT BREATHING. EYES: FLUSH W/MUCH WATER. SKIN: WASH W/SOAP &
+    WATER. INGESTION: DON'T INDUCE VOMITING. IF VOMITING OCCURS
+    SPONTANEOUSLY,  KEEP VICTIM'S HEAD BELOW HIS HIPS TO PREVENT
+    BREATHING VOMITUS INTO LUNGS. OBTAIN MEDICAL ATTENTION IN ALL
+    CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TOC
+Flash Point:35F/2C
+Lower Limits:1.4%
+Upper Limits:17.4%
+Extinguishing Media:DRY CHEMICAL, CO2, FOAM
+Fire Fighting Procedures:USE METHODS FOR FLAMMABLE LIQUIDS.  NOT
+    MISCIBLE W/WATER, BUT MAY BE USED TO COOL FIRE EXPOSED CONTAINERS.
+    WEAR SCBA & PROTECTIVE CLOTHING.
+Unusual Fire/Explosion Hazard:FLAMMABLE LIQUID.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE IGNITION SOURCES. WEAR PROTECTION.
+    CONTAIN SPILL W/DIKES OF ABSORBENT MATERIAL & SOAK UP THE SPILL
+    W/ABSORBENT MATERIAL. CLEAN UP THE ABSORBENT & CONTAIN SECURELY.
+    SWEEP & WET MOP THE AFFECTED  AREA W/SOAP & WATER. VENTILATE AREA
+    ADEQUATELY.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T SMOKE IN AREA. ONLY PROPERLY
+    TRAINED & PROTECTED PERSONNEL SHOULD BE IN THE IMMEDIATE SPRAY
+    AREA.
+Other Precautions:DON'T WEAR CONTACT LENSES WHEN USING THIS PRODUCT AS
+    CONTACT LENSES CONTRIBUTE TO THE SEVERITY OF AN EYE INJURY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF CONDITIONS GENERATE VAPORS/MISTS, WEAR NIOSH
+    APPROVED RESPIRATOR APPROPRIATE FOR THOSE EMISSION LEVELS AT POINT
+    OF USE (FULL FACEPIECE/PURIFYING CARTRIDGE RESPIRATOR EQUIPPED FOR
+    ORGANIC VAPORS/MIS TSD, SCBA IN PRESSURE DEMAND MODE,(SUPP)
+Ventilation:SPRAY BOOTH FOR SPRAYING. EXHAUST: SUFFICIENT TO KEEP
+    AIRBORNE CONCENTRATIONS LOW. DESIGNED TO DRAW AIR PAST (SEE SUPP)
+Protective Gloves:SOLVENT RESISTANT
+Eye Protection:SAFETY GOGGLES
+Other Protective Equipment:SOLVENT RESISTANT APRON & BOOTS, EYEWASH &
+    SAFETY SHOWER, & FULL PERMEATION RESISTANT EQUIPMENT.
+Work Hygienic Practices:WASH AFTER HANDLING THE PRODUCT. REMOVE/LAUNDER
+    CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+CON'T WASTE: WHEN FLOUROELASTOMER SOLUTION & CURING AGENT ARE MIXED AND
+    SOLVENT IS ALLOWED TO EVAPORATE, THE SOLID PRODUCT IS A
+    NON-HAZARDOUS LANDFILL ITEM. CON'T RESPIRATORY: A POSITIVE PRESSURE
+    AIR  SUPPLIED RESPIRATOR. CON'T VENT: OPERATOR, THEN PAST THE
+    SOURCE, AND THEN TO THE EXHAUST, NOT THE REVERSE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:B.P. Text:175-324F
+Vapor Pres:26.1
+Vapor Density:3.5
+Spec Gravity:0.950
+Evaporation Rate & Reference:(BU AC = 1): 2.09
+Solubility in Water:INSOLUBLE
+Appearance and Odor:LIGHT TO DARK GRAY, BLUE OR GREEN LIQUID, KETONE
+    ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HOT SURFACES, TEMPS >100F, & OTHER SOURCES
+    OF IGNITION
+Hazardous Decomposition Products:CO, CO2, UNIDENTIFIED ORGANIC
+    COMPOUNDS IN BLACK SMOKE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:APPROPRIATELY DISIGNED/LICENSED INCINERATOR.
+    RCRA HAZARDOUS IGNITABLE WASTE. DISPOSE ACCORDING TO
+    LOCAL/STATE/FEDERAL REGULATIONS. UN 1263. (SEE SUPP)
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

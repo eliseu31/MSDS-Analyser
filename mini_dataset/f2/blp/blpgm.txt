@@ -1,0 +1,133 @@
+=====================  Product Identification  =====================
+
+Product ID:KRYLON 1333 TUNER AND CONTACT CLEANER
+MSDS Date:12/04/1986
+FSC:9150
+NIIN:01-054-6453
+MSDS Number: BLPGM
+=== Responsible Party ===
+Company Name:BORDEN INC
+Address:180 E BROAD ST
+City:COLUMBUS
+State:OH
+ZIP:43215-3705
+Country:US
+Emergency Phone Num:614-431-6600
+CAGE:07982
+=== Contractor Identification ===
+Company Name:BORDEN INC
+Address:180 E BROAD ST
+Box:208
+City:COLUMBUS
+State:OH
+ZIP:43215-3705
+Country:US
+Phone:614-225-6124
+CAGE:07982
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:1,1,2-TRICHLORO-1,2,2-TRIFLUOROETHANE (FREON 113)  (SARA
+    III)
+CAS:76-13-1
+RTECS #:KJ4000000
+Fraction by Wt: >50%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:1000PPM/1250STEL
+ACGIH TLV:1000PPM/1250STEL9192
+Ozone Depleting Chemical:1
+
+Ingred Name:CARBON DIOXIDE
+CAS:124-38-9
+RTECS #:FF6400000
+Fraction by Wt: 1-5%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:5000 PPM
+ACGIH TLV:5000PPM/30000STEL;93
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MAY BE HARMFUL IF INHALED. LIQUID OR
+    VAPOR CAN CAUSE IRRITATION OF NOSE, THROAT AND LUNGS.  MAY CAUSE
+    IRRITATION TO THE EYES AND SKIN UPON PROLONGED OR REPEATED
+    EXPOSURE.
+Effects of Overexposure:NONE SPECIFIED BY MANUFACTURER.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION: DILUTE BY DRINKING LARGE QUANTITIES OF WATER.
+    IMMEDIATELY CONTACT A POISON CONTROL CENTER.  INHALATION: REMOVE TO
+    FRESH AIR. ADMINISTER BREATHING SUPPORT MEASURES IF NECESSARY. 
+    SKIN AND EY ES: FLUSH THOROUGHLY WITH WATER. CALL APHYSICIAN IF
+    IRRITATION PERSISTS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON-FLAMMABLE
+Extinguishing Media:AS APPROPRIATE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:COOL FIRE EXPOSED CONTAINERS.
+Unusual Fire/Explosion Hazard:EXPOSURE TO HIGH TEMPERATURE MAY CAUSE
+    BURSTING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SOAK UP WITH ABSORBENT MATERIAL AND REMOVE TO
+    A CHEMICAL DISPOSAL AREA.  PREVENT ENTRY INTO NATURAL BODIES OF
+    WATER.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT STORE AT TEMPERATURES OVER
+    120F.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA-APPROVED RESPIRATORY PROTECTION
+    EQUIPMENT IF NEEDED.
+Ventilation:LOCAL EXHAUST VENTILATION.
+Protective Gloves:NOT NORMALLY REQUIRED
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:WASH HANDS THOROUGHLY AFTER HANDLING THIS
+    MATERIAL.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Vapor Pres:85 PSIG
+Vapor Density:>AIR
+Spec Gravity:>WATER
+Evaporation Rate & Reference:>1 (N-BUTYL ACETATE=1)
+Solubility in Water:SLIGHT
+Appearance and Odor:NOT SPECIFIED BY MANUFACTURER.
+Percent Volatiles by Volume:99
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:EXTREME HEAT.
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE,
+    PHOSGENE, AND HYDROCHLORIC ACID.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATION WILL CAUSE CONTAINER TO BURST
+    VIOLINTLY. DISPOSE OF ACCORDING TO LOCAL, STATE, AND FEDERAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

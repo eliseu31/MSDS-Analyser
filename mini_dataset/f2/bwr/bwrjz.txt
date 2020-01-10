@@ -1,0 +1,183 @@
+=====================  Product Identification  =====================
+
+Product ID:HUMISEAL 2A53, PART A
+MSDS Date:07/29/1994
+FSC:5970
+NIIN:00-418-1922
+Kit Part:Y
+MSDS Number: BWRJZ
+=== Responsible Party ===
+Company Name:HUMISEAL DIV,COLUMBIA CHASE CORPORATION
+Address:26-60 BROOKLYN QUEENS EXPRESSWAY WEST
+Box:445
+City:WOODSIDE
+State:NY
+ZIP:11377-0445
+Country:US
+Info Phone Num:718-932-0800
+Emergency Phone Num:718-932-0800
+CAGE:99109
+=== Contractor Identification ===
+Company Name:ARGENT INDUSTRIES INC
+Address:477 E WENGER ROAD
+Box:City:ENGLEWOOD
+State:OH
+ZIP:45322
+Country:US
+Phone:937-836-8633
+CAGE:25579
+Company Name:HUMISEAL DIVISION/CHASE CORPORATION
+Address:26-60 BROOKLYN QUEENS EXPRESSWAY WEST
+Box:City:WOODSIDE
+State:NY
+ZIP:11377
+Country:US
+Phone:718-932-0800
+CAGE:99109
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TOLUENE (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 18-21%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:METHYL ISOBUTYL KETONE (SARA III)
+CAS:108-10-1
+RTECS #:SA9275000
+Fraction by Wt: 12-15%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:100 PPM/75 STEL
+ACGIH TLV:50 PPM/75 STEL; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:EPOXY RESIN
+Fraction by Wt: 60-70%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:OPTICAL BRIGHTENER
+Fraction by Wt: <1%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:VOLATILE ORGANIC CONTENT: 345 GRAMS/LITER.
+RTECS #:9999999VO
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL RAT LD50 IS 5000 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: EXPOSURE MAY CAUSE EYE, SKIN &
+    RESPIRATORY TRACT IRRITATION. INHALATION MAY CAUSE CNS DEPRESSION.
+    INGESTION CAUSES CNS DEPRESSION AND GI TRACT IRRITATION. ASPIRATION
+    MAY CAUSE CHEMICAL PNEUMONI TIS. CHRONIC: PROLONGED OR REPEATED
+    EXPOSURE MAY CAUSE DERMATITIS, DEFATTING, DRY SKIN.
+Explanation of Carcinogenicity:NO INGREDIENT OF A CONCENTRATION OF 0.1%
+    OR GREATER IS LISTED AS A CARCINOGEN OR SUEPECTED CARCINOGEN.
+Effects of Overexposure:EYE:SLIGHT IRRITATION TO BURNS WITH PROLONGED
+    CONTACT. SKIN: DEFATTING, DRYING, DERMATITIS. ABSORBTION MAY ADD TO
+    EXPOSURE. INHALED: CNS DEPRESSION, DIZZINESS NAUSEA, VOMITING,
+    RESPIRATORY DEPRESSION,  CARDIAC ARRYTHMAS. OLEFACTORY
+    DESENSITIZATION. INGESTED:G/I IRRITATION, BURNS PLUS SYMPTOMS AS IN
+    INHALED.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION-REMOVE TO FRESH AIR. GIVE MOUTH-TO-MOUTH
+    RESUSCITATION IF NOT BREATHING. GET MEDICAL ATTENTION IMMEDIATELY.
+    EYE-IMMEDIATELY FLUSH WITH WATER FOR 15 MINUTES. GET MEDICAL
+    ATTENTION IMMEDIATEL Y. SKIN-WASH WITH SOAP & WATER. REMOVE
+    CONTAMINATED CLOTHING. INGESTION-DO NOT INDUCE VOMITING. NOTHING BY
+    MOUTH IF UNCONSCIOUS. GET MEDICAL ATTENTION IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:40.0F,4.4C
+Lower Limits:1.2
+Upper Limits:8.0
+Extinguishing Media:FOAM, CARBON DIOXIDE, DRY CHEMICAL.
+Fire Fighting Procedures:FIGHT AS FLAMMABLE LIQUID FIRE. WEAR
+    SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:FLAMMABLE VAPOR IS HEAVIER THAN AIR, MAY
+    TRAVEL TO IGNITION SOURCE AND FLASHBACK.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB WITH INERT MATERIAL. (SAND,
+    VERMICULITE,ETC.) LARGE SPILLS MAY BE SCOOPED UP WITH NON-SPARKING
+    TOOLS. REMOVE SOURCES OF IGNITION. PROVIDE VENTILATION OR
+    RESPIRATORY PROTECTION.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM HEAT,SPARKS,OPEN FLAME.
+    STORE AT AMBIENT TEMP. GROUND TO PROTECT FROM STATIC CHARGE. KEEP
+    CONTAINER CLOSED. USE ADEQUATE VENTILATION.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF ENGINEERING CONTROLS FAIL OR NON-ROUTINE USE
+    OR AN EMERGENCY OCCURS; WEAR AN MSHA/NIOSH APPROVED RESPIRATOR OR
+    AN AIR-SUPPLIED RESPIRATOR OR SCBA, AS REQUIRED. USE IN ACCORDANCE
+    WITH 29 CFR 1910.13 4 AND MANUFACTURER'S RECOMMENDATIONS.
+Ventilation:USE ADEQUATE EXPLOSION-PROOF MECHANICAL VENTILATION OR
+    LOCAL EXHAUST TO MAINTAIN EXPOSURE BELOW TLV(S).
+Protective Gloves:NITRILE, BUTYL, PVA
+Eye Protection:SAFETY GLASSES/CHEMICAL SPLASH GOGGLES
+Other Protective Equipment:AS NEEDED TO PREVENT CONTACT TO WORKERS AS
+    REQUIRED. DLA-HMIS: EYE WASH STATION & SAFETY SHOWER.
+Work Hygienic Practices:DLA-HMIS: WASH HANDS AFTER HANDLING AND BEFORE
+    EATING, DRINKING, OR SMOKING. LAUNDER CONTAMINATED CLOTHES BEFORE
+    REUSE.
+Supplemental Safety and Health
+KEY1=F3.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:=111.C, 231.8F
+Vapor Pres:22 MM HG
+Vapor Density:4
+Spec Gravity:1.07
+Evaporation Rate & Reference:2.85 (N-BUTYL ACETATE=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:WATER CLEAR , LOW VISCOSITY LIQUID, AROMATIC ODOR
+Percent Volatiles by Volume:46-51
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTACT WITH STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:MFR SAID "NOT APPLICIABLE" IN THIS FIELD.
+    DLA-HMIS: AVOID EXPOSURE TO STRONG OXIDIZING AGENTS.
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE
+Conditions to Avoid Polymerization:MFR SAID "NOT APPLICIABLE" IN THIS
+    FIELD.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF HUMISEAL PRODUCTS IN STRICT
+    ACCORDANCE WITH LOCAL, STATE AND FEDERAL ENVIRONMENTAL REGULATIONS.
+    EPA/RCRA HAZWASTE NUMBER D001 (IGNITABLE), U220 (TOLUENE), U161
+    (MEK) MAY APPLY TO UNUSED/UNC ONTAMINATED PRODUCT.
+
+ ======================================================================
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

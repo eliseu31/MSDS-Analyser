@@ -1,0 +1,65 @@
+=====================  Product Identification  =====================
+
+Product ID:23F351G102
+MSDS Date:01/01/1985
+FSC:5910
+NIIN:00-170-4375
+MSDS Number: BDFHW
+=== Responsible Party ===
+Company Name:GENERAL ELECTRIC CO
+Emergency Phone Num:800-626-2000/2004
+CAGE:24446
+=== Contractor Identification ===
+Company Name:GENERAL ELECTRIC CO
+Address:3135 EASTON TURNPIKE
+Box:City:FAIRFIELD
+State:CT
+ZIP:06431
+Country:US
+Phone:800-626-2000/800-626-2004 (CHRIS)
+CAGE:24446
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POLYCHLORINATED BIPHENYLS (PCBS)  (SARA III)
+CAS:1336-36-3
+RTECS #:TQ1350000
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:CAN BE ABSORBED THRU LUNGS/INTESTINES/SKIN,
+    CAUSING CANCER, LIV/KID/STOMACH/EYE/HEARING DISORDERS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE ABSORBENT & DIKES TO PREVENT RUNOFF.
+    ISOLATE & NOTIFY PROPER AUTH.
+
+======================	Handling and Storage  ======================
+
+Other Precautions:LG CAPACITORS OF 3 LB OR MORE PCB REQ LABELS IN STG,
+    USE & TRANSP.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:Z3
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTROLLED DISPOSAL REQ. CAPACITORS W/MORE THAN
+    3 LBS PCB REQ AUTH LANDFILL OR INCINERATION.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

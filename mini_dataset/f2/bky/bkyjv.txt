@@ -1,0 +1,115 @@
+=====================  Product Identification  =====================
+
+Product ID:71101 711B PDRP BULK 1 GAL
+MSDS Date:05/04/1989
+FSC:8030
+NIIN:00-244-1297
+MSDS Number: BKYJV
+=== Responsible Party ===
+Company Name:SPRAYON PRODUCTS
+Address:26300 FARGO AVE
+City:BEDFORD HTS
+State:OH
+ZIP:44146
+Info Phone Num:(216) 292-7400
+Emergency Phone Num:(216) 292-7400
+CAGE:09800
+=== Contractor Identification ===
+Company Name:SHERWIN-WILLIAMS DIVERSIFIED BRANDS, INC.
+Address:26300 FARGO AVENUE
+Box:City:BEDFORD HEIGHTS
+State:OH
+ZIP:44146
+Country:US
+Phone:216-292-7400 OR 216-595-8634
+CAGE:09800
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:2-BUTOXYETHANOL
+CAS:111-76-2
+RTECS #:KJ8575000
+Fraction by Wt: 5%
+Other REC Limits:25 PPM (SKIN)
+OSHA PEL:S, 50 PPM
+ACGIH TLV:S, 25 PPM; 9293
+
+Ingred Name:MEDIUM ALIPHATIC NAPHTHA (AROMATIC 100), PARAFFIN-NAPTHANES
+    MINERAL SPIRITS
+CAS:64742-88-7
+Fraction by Wt: 70%
+Other REC Limits:100 PPM
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: ANESTHETIC, UPPER
+    RESPIRATORY SYSTEM IRRITATION, LIGHT-HEADEDNESS, STAGGERING GAIT,
+    GIDDINESS, & NAUSEA. SKIN/EYES: IRRITATION. INGESTION: HARMFUL &
+    FATAL.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: PERMANENT BRAIN, NERVOUS SYSTEM,
+    KIDNEY, & LIVER DAMAGE. SKIN/EYES: IRRITATION. INGESTION: HARMFUL &
+    FATAL.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. EYES: FLUSH W/WATER FOR AT
+    LEAST 15 MINS. SKIN: WASH W/SOAP & WATER. INGESTION: DON'T INDUCE
+    VOMITING. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:>140F
+Lower Limits:1%
+Extinguishing Media:CO2, DRY CHEMICAL OR FOAM.
+Fire Fighting Procedures:WATER MAY BE INEFFECTIVE. WATER MAY BE USED TO
+    KEEP FIRE EXPOSED CONTAINERS COOL.
+Unusual Fire/Explosion Hazard:EXPOSURE TO DIRECT SUNLIGHT OR OTHER HEAT
+    MAY CAUSE BURSTING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. VENTILATE
+    AREA. REMOVE W/INERT ABSORBENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T STORE >120F. KEEP AT ROOM
+    TEMPERATURE AS EXPOSURE TO DIRECT SUNLIGHT OR HEAT MAY CAUSE
+    BURSTING. AVOID BREATHING VAPORS OR SPRAY MIST.
+Other Precautions:KEEP AWAY FROM CHILDREN. DON'T PUNCTURE, INCINERATE
+    OR SPRAY NEAR FIRE OR OPEN FLAME.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:PROVIDE LOCAL EXHAUST VENTILATION IN VOLUME & PATTERN TO
+    KEEP AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Appearance and Odor:COATINGS
+Percent Volatiles by Volume:75%/WT
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:TEMPERATURES >120F, OPEN FLAME, SUNLIGHT,
+    HEAT, & SOURCES OF IGNITION.
+Hazardous Decomposition Products:CO & CO2.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DON'T PUNCTURE OR INCINERATE. DISPOSE OF IN
+    ACCORDANCE W/LOCAL, STATE, & LOCAL REGULATIONS REGARDING POLLUTION.
+    CONSUMER COMMODITY ORM-D.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,144 @@
+=====================  Product Identification  =====================
+
+Product ID:P6142 POTASSIUM PERMANGANATE
+MSDS Date:09/29/1989
+FSC:6750
+NIIN:00-515-0456
+MSDS Number: BHWBK
+=== Responsible Party ===
+Company Name:SIGMA CHEMICAL COMPANY
+Box:14508
+City:ST. LOUIS
+State:MO
+ZIP:63178
+Info Phone Num:800-325-8070
+Emergency Phone Num:314-771-5765
+CAGE:21076
+=== Contractor Identification ===
+Company Name:SIGMA CHEMICAL COMPANY
+Address:3050 SPRUCE ST
+Box:14508
+City:ST LOUIS
+State:MO
+ZIP:63178
+Country:US
+Phone:314-771-5765
+CAGE:21076
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POTASSIUM PERMANGANATE  (SARA III)
+CAS:7722-64-7
+RTECS #:SD6475000
+Fraction by Wt: 100%
+OSHA PEL:5 MG MN/M3;CEILING
+ACGIH TLV:5 MG MN/M3; 9192
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL RAT) IS 1090 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:HARMFUL IF SWALLOWED,INHALED,OR
+    ABSORBED THROUGH SKIN.MATERIAL IS EXTREMELY DESTRUCTIVE TO TISSUE
+    OF THE MUCOUS MEMBRANES AND UPPER RESPIRATORY TRACT,EYES AND
+    SKIN.OVEREXPOSURE CAN RESULT IN ANEMIA,SW ELLING OF THE THROAT WITH
+    THE POSSIBILITY OF SUFFOCATION AND KIDNEY DAMAGE.INHALATION MAY BE
+    FATAL.
+Explanation of Carcinogenicity:THIS PRODUCT IS NOT LISTED BY IARC, NTP
+    OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:SYMPTOMS OF EXPOSURE MAY INCLUDE BURNING
+    SENSATION, COUGHING, WHEEZING, LARYNGITIS, SHORTNESS OF BREATH,
+    HEADACHE, NAUSEA AND VOMITING.
+Medical Cond Aggravated by Exposure:PERSONS WITH A HISTORY OF SKIN AND
+    RESPIRATORY DISORDERS MAY BE AT INCREASED RISK FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:IMMEDIATELY FLUSH WITH LARGE AMOUNTS OF WATER FOR AT
+    LEAST 15 MINUTES. SKIN:IMMEDIATELY FLUSH WITH LARGE AMOUNTS OF
+    WATER WHILE REMOVING CONTAMINATED CLOTHING AND SHOES.
+    INHALATION:REMOVE TO FRES H AIR.IF NOT BREATHING GIVE ARTICIAL
+    RESPIRATION.IF BREATHING IS DIFFICULT,GIVE OXYGEN.SEE DOCTOR.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER SPRAY.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS. CONTACT WITH OTHER
+    MATERIALS MAY CAUSE FIRE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE AREA.SHUT OFF IGNITION
+    SOURCES.VENTILATE.WEAR SCBA,RUBBER BOOTS AND HEAVY RUBBER
+    GLOVES.COVER WITH DRY-LIME,SAND OR SODA ASH.PLACE IN COVERED
+    CONTAINERS USING NON-SPARKING TOOLS AND TRANSPORT  OUTDOORS.WASH
+    AREA WITH LARGE AMOUNTS OF WATER.
+Neutralizing Agent:NONE REQUIRED
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL, DRY, WELL VENTILATED
+    AREA.KEEP AWAY FROM COMBUSTIBLE MATERIALS, HEAT AND IGNITION
+    SOURCES. KEEP CONTAINERS CLOSED.
+Other Precautions:AVOID BREATHING DUST. DO NOT GET IN EYES, SKIN OR
+    CLOTHING. AVOID PROLONGED OR REPEATED EXPOSURES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR AS PER
+    CURRENT 29 CFR 1910.134, INSTRUCTIONS/WARNINGS AND NIOSH-RESPIRATOR
+    SELECTION.
+Ventilation:USE ONLY IN A CHEMICAL FUME HOOD.
+Protective Gloves:RUBBER
+Eye Protection:CHEMICAL SAFETY GOGGLES
+Other Protective Equipment:SAFETY SHOWER AND EYE BATH. OTHER EQUIPMENT
+    AS REQUIRED TO MINIMIZE EXPOSURE FROM PROLONGED OR REPEATED
+    CONTACT.
+Work Hygienic Practices:WASH THROUGHLY AFTER HANDLING AND BEFORE
+    EATING.LAUNDER CONTAMINATED CLOTHING BEFORE REUSE.DISCARD
+    CONTAMINATED SHOES.
+Supplemental Safety and Health
+SEE CASE HISTORY 90199A FOR MORE INFORMATION ON WASTE DISPOSAL
+    PROCEDURES AND ON INCOMPATIBLE MATERIALS THAT MAY RESULT IN
+    IGNITION, INCREASED SENSITIVITY TO HEAT OR FRICTION, VIOLENT
+    REACTIONS, OR EX PLOSIONS.-THIS PRODUCT CAUSES EFFECTS ON MALE
+    FERTILITY.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:D1
+Spec Gravity:2.703
+Solubility in Water:COMPLETE
+Appearance and Odor:BLACK OR DEEP PURPLE CRYSTALS
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG REDUCING AGENTS,FINELY POWDERED
+    METALS,PEROXIDES,ALUMINUM,ZINC,LEAD,COPPER,AND THEIR ALLOYS.
+Stability Condition to Avoid:HIGH TEMPERATURES, OPEN FLAMES.
+Hazardous Decomposition Products:NATURE OF DECOMPOSITION PRODUCTS NOT
+    KNOWN.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTACT YOUR LOCAL ENVIRONMENTAL OFFICER. A
+    SPECIAL PRECIPITATION PROCEDURE MUST BE FOLLOWED PRIOR TO DISPOSAL.
+    FOLLOW MANUFACTURER'S INSTRUCTIONS. DISPOSE OF IN ACCORDANCE WITH
+    ALL APPLICABLE FEDERAL , STATE AND LOCAL LAWS AND REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

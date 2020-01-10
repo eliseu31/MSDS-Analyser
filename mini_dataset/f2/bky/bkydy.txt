@@ -1,0 +1,164 @@
+=====================  Product Identification  =====================
+
+Product ID:SPRAY GLUE
+MSDS Date:02/01/1990
+FSC:8040
+NIIN:00F018546
+MSDS Number: BKYDY
+=== Responsible Party ===
+Company Name:HUNTING SPECIALTY PRODUCTS INC
+Address:265 S WEST STREET
+City:LEBANON
+State:OH
+ZIP:45036
+Info Phone Num:(513) 241-9202
+Emergency Phone Num:(513) 241-9202
+CAGE:HUNTI
+=== Contractor Identification ===
+Company Name:HUNTING SPECIALTY PRODUCTS, INC.
+Address:265 S. WEST STREET
+City:LEBANON
+State:OH
+ZIP:45036
+Country:US
+Phone:800-733-4413
+CAGE:HUNTI
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 4%
+Other REC Limits:100 PPM
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ACETONE  (SARA III)
+CAS:67-64-1
+RTECS #:AL3150000
+Fraction by Wt: 4%
+Other REC Limits:590 MG/CUM
+OSHA PEL:1000PPM
+ACGIH TLV:750PPM/1000STEL;9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:HEXANE (N-HEXANE)
+CAS:110-54-3
+RTECS #:MN9275000
+Fraction by Wt: 30%
+Other REC Limits:50 PPM
+OSHA PEL:500 PPM
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:LIGHT ALIPHATIC NAPHTHA, VM & P NAPHTHA
+CAS:64742-89-8
+Fraction by Wt: 27%
+OSHA PEL:400 PPM
+
+Ingred Name:PROPANE
+CAS:74-98-6
+RTECS #:TX2275000
+Fraction by Wt: <26%
+Other REC Limits:1800 MG/CUM
+OSHA PEL:1000 PPM
+ACGIH TLV:ASPHYXIANT; 9192
+
+Ingred Name:RESIN
+Fraction by Wt: <9%
+Other REC Limits:10 MG/CUM (DUST)
+
+Ingred Name:RUBBER BINDER
+Fraction by Wt: <9%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: RESPIRATORY TRACT
+    IRRITATION, DIFFICULTY BREATHING, & VOMITING. EYES: IRRITATION.
+    SKIN: IRRITATION, REDNESS, & ABSORPTION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: RESPIRATORY TRACT IRRITATION,
+    DIFFICULTY BREATHING, & VOMITING. EYES: IRRITATION. SKIN:
+    IRRITATION, REDNESS, & ABSORPTION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER FOR 15 MINS. SKIN: WASH
+    THOROUGHLY W/SOAP & WATER. INHALATION: REMOVE TO FRESH AIR. USE
+    OXYGEN OR CPR AS REQUIRED. INGESTION: DON'T INDUCE VOMITING. OBTAIN
+    MEDICAL ATTENT ION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:-40F
+Lower Limits:1.8%
+Upper Limits:12%
+Extinguishing Media:WATER FOG, DRY CHEMICAL, & CO2.
+Unusual Fire/Explosion Hazard:AEROSOL CANS MAY RUPTURE WHEN HEATED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EXTINGUISH ALL SOURCES OF FLAME & IGNITION.
+    ABSORB W/INERT MATERIAL SUCH AS VERMICULITE OR SAND. SWEEP UP &
+    COLLECT IN CONTAINERS FOR DISPOSAL. WASH THE AREA W/TRI-SODIUM
+    PHOSPHATE & WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE <90F IN COOL DRY PLACE. KEEP
+    AWAY FROM SOURCES OF HEAT & IGNITION. OPEN CONTAINERS SLOWLY TO
+    RELIEVE ANY INTERNAL PRESSURE.
+Other Precautions:USE W/ADEQUATE VENTILATION. KEEP OUT OF REACH OF
+    CHILDREN. AVOID STORAGE IN OPEN CONTAINER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE A CHEMICAL RESPIRATOR W/SELF-CONTAINED AIR
+    SUPPLY.
+Ventilation:ANY COMBINATION OF LOCAL & GENERAL, TO DRAW FUMES AWAY FROM
+    WORKERS. USE EXPLOSION PROOF EQUIPMENT.
+Protective Gloves:PLASTIC OR RUBBER CHEMICAL RESISTANT
+Eye Protection:SAFETY GLASSES W/SIDE SHIELD
+Other Protective Equipment:PROTECTIVE CLOTHING, SHOES, EYE WASH STATION
+    & SAFETY SHOWERS.
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:-40 TO 158F
+Vapor Pres:42
+Vapor Density:>AIR
+Spec Gravity:0.7
+Evaporation Rate & Reference:SLOWER THAN BU AC
+Appearance and Odor:AEROSOL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:TEMPERATURES >100F, EXCESSIVE HEAT, OPEN
+    FLAME, SOURCES OF FLAME & IGNITION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,131 @@
+=====================  Product Identification  =====================
+
+Product ID:BULLET TIP PAINT YELLOW 4006
+MSDS Date:08/17/1990
+FSC:8010
+NIIN:01-076-5489
+MSDS Number: BJDNS
+=== Responsible Party ===
+Company Name:SANITEK PRODUCTS INC
+Address:3959 GOODWIN AVE
+City:LOS ANGELES
+State:CA
+ZIP:90039-1107
+Country:US
+Info Phone Num:213-245-6781
+Emergency Phone Num:213-245-6781
+CAGE:54666
+=== Contractor Identification ===
+Company Name:ROSEN RAYMOND J
+CAGE:5R648
+Company Name:ROSEN RAYMOND J.
+CAGE:62198
+Company Name:SANITEK PRODUCTS, INC.
+Address:3959 GOODWIN AVENUE
+Box:City:LOS ANGELES
+State:CA
+ZIP:90039
+Country:US
+Phone:213-245-6781
+CAGE:54666
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHYLENE GLYCOL  (SARA III)
+CAS:107-21-1
+RTECS #:KW2975000
+OSHA PEL:C 50 PPM
+ACGIH TLV:C 50 PPM,VAPOR; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:COMPLEX ORGANIC PHOSPHATE ESTER
+OSHA PEL:1 PPM
+ACGIH TLV:1 PPM
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHAL: NOT EXPECTED TO PRODUCE EFFECTS
+    DUE TO HIGHVISCOSITY.  EYE: IRRITATION. SKIN: IRRITATION. HARMFUL
+    IF SWALLOWED, MAY CAUSE CNS DEPRESSION.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS
+Medical Cond Aggravated by Exposure:DISORDERS INVOLVING THE EYES, THE
+    CENTRAL NERVOUS SYSTEM AND THE RESPIRATORY SYSTEM.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: REMOVE TO FRESH AIR, GET MD. EYE: IMMED FLUSH
+    W/RUNNING WATER 15 MIN, LIFTING UPPER AND LOWEREYELIDS
+    OCCASIONALLY. GET MD IMMED IF IRRITATION PERSISTS. SKIN: WASH
+    W/SOAP & WATER, REMOVE CONTAM  CLOTHING & WASH BEFORE REUSE.
+    INGEST: INDUCE VOMITING IF VICTIM CONSCIOUS. GET MD. IF UNCON, GIVE
+    NOTHING BY MOUTH.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:NONE SPECIFIED BY MANUFACTURER
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD WEAR SCBA. USE WATER
+    SPRAY TOCOOL NEARBY CONTAINERS AND STRUCTURES EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:NONE KNOWN
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:MOP UP OR ABSORB ON SUITABLE ABSORBENT.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID FREEZING OR OVERHEATING. DO NOT
+    TRANSFER MATERIAL TO UNLABELED CONTAINERS. KEEP CONTAINERS TIGHTLY
+    CLOSED. STORE IN COOL PLACE.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NEEDED UNDER NORMAL USE CONDITIONS
+Ventilation:USE ADEQUATE VENTILATION
+Protective Gloves:WATER RESISTANT
+Eye Protection:NOT NORMALLY REQUIRED
+Other Protective Equipment:NONE
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:212F,100C
+Vapor Pres:17.5 @20C
+Vapor Density:<1
+Spec Gravity:1.08
+pH:8@20F
+Evaporation Rate & Reference:<1(H*20=1)
+Solubility in Water:DISPERSES
+Appearance and Odor:COLORED (VARIOUS) OPAQUE SLURRY WITH MILD ODOR
+Percent Volatiles by Volume:66
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+SEE ABOVE
+Stability Condition to Avoid:STRONGLY IONIC AQUEOUS SOLUTIONS MAY
+    COAGULATE THEPOLYMERS.
+Hazardous Decomposition Products:BURNING WILL PRODUCE TOXIC FUMES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE AT APPROVED WASTE FACILITY IAW FED,
+    STATE & LOCAL REGS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

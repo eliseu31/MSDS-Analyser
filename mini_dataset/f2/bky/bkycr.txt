@@ -1,0 +1,168 @@
+=====================  Product Identification  =====================
+
+Product ID:1688 AEROSOL FLUX STRIPPER W DEFLUXER
+MSDS Date:08/15/1989
+FSC:3439
+NIIN:00F018519
+MSDS Number: BKYCR
+=== Responsible Party ===
+Company Name:TECH SPRAY
+Address:88 HUGHES ST
+Box:949
+City:AMARILLO
+State:TX
+ZIP:79105
+Info Phone Num:(806) 372-8523
+Emergency Phone Num:(806) 372-8523
+Preparer's Name:J WITCHER
+CAGE:DO989
+=== Contractor Identification ===
+Company Name:TECH SPRAY
+Address:88 HUGHES STREET
+Box:949
+City:AMARILLO
+State:TX
+ZIP:79105
+Country:US
+Phone:800-692-4677 OR 800-858-4043
+CAGE:DO989
+Company Name:TECH SPRAY INC
+Address:1001 NW 1ST
+Box:949
+City:AMARILLO
+State:TX
+ZIP:79105-0949
+Country:US
+Phone:806-372-8523
+CAGE:54700
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:1,1,2-TRICHLORO-1,2,2-TRIFLUOROETHANE (FREON 113)  (SARA
+    III)
+CAS:76-13-1
+RTECS #:KJ4000000
+Fraction by Wt: 50-55%
+Other REC Limits:1000 PPM
+OSHA PEL:1000PPM/1250STEL
+ACGIH TLV:1000PPM/1250STEL9192
+Ozone Depleting Chemical:1
+
+Ingred Name:CHLORODIFLUOROMETHANE
+CAS:75-45-6
+RTECS #:PA6390000
+Fraction by Wt: 20-25%
+Other REC Limits:1000 PPM
+OSHA PEL:1000 PPM
+ACGIH TLV:1000PPM; 9192
+Ozone Depleting Chemical:2
+
+Ingred Name:CARBON DIOXIDE
+CAS:124-38-9
+RTECS #:FF6400000
+Fraction by Wt: <2%
+Other REC Limits:10000 PPM
+OSHA PEL:5000 PPM
+ACGIH TLV:5000PPM/30000STEL;93
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: 22-23%
+Other REC Limits:400 PPM
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION:
+    SUFFOCATION/LIGHT-HEADEDNESS/GIDDINESS/BREATH
+    SHORTNESS/CONFUSION/NARCOSIS/CARDIAC
+    IRREGULARITIES/UNCONSCIOUSNESS/DEATH. EYES: IRRITATION/CORNEAL
+    INJURY. SKIN: DEFATTING. INGESTION: VOMITI NG/CHEMICAL
+    PNEUMONIA/SYSTEMIC/NERVOUS SYSTEM/GASTROINTESTINAL EFFECTS/HUMAN
+    PSYCHOTROPIC/LOW TO MODERATE TOXICITY.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION:
+    SUFFOCATION/LIGHT-HEADEDNESS/GIDDINESS/BREATH
+    SHORTNESS/CONFUSION/NARCOSIS/CARDIAC
+    IRREGULARITIES/UNCONSCIOUSNESS/DEATH. EYES: IRRITATION/CORNEAL
+    INJURY. SKIN: DEFATTING. INGESTION: VOMITI NG/CHEMICAL
+    PNEUMONIA/SYSTEMIC/CENTRAL NERVOUS/GASTROINTESTINAL EFFECTS/HUMAN
+    PSYCHOTROPIC/LOW TO MODERATE TOXICITY.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. IF BREATHING HAS STOPPED,
+    ADMINISTER CPR. EYES: FLUSH W/CLEAR WATER FOR AT LEAST 15 MINS.
+    SKIN: WASH W/SOAP & WATER. INGESTION: DON'T INDUCE VOMITING. GIVE 2
+    GLASSES O F WATER. OBTAIN MEDICAL ATTENTION IN ALL CASES. NOTE TO
+    PHYSICIAN: DON'T USE ADRENALIN OR ANY OTHER SIMILAR CARDIAC
+    STIMULANTS TO TREAT EFFECTS OF OVEREXPOSURE FROM THIS PRODUCT.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:>116F
+Extinguishing Media:WATER, FOAM, DRY CHEMICAL OR CO2.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD WEAR SELF-CONTAINED
+    POSITIVE-PRESSURE BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:AEROSOL CANS MAY ERUPT W/FORCE AT
+    TEMPERATURES >120F. COMPRESSED & NON-FLAMMABLE GAS UN1956.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE/VENTILATE AREA. PICK UP LIQUID ON
+    SUITABLE ABSORBENT & STORE IN SEALED CONTAINERS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AEROSOL CANS IN COOL PLACE OUT OF
+    DIRECT SUNLIGHT. FOR INDUSTRIAL USE ONLY. DON'T USE IN CLOSED
+    SPACE.
+Other Precautions:KEEP THIS & ALL CHEMICALS OUT OF REACH OF CHILDREN.
+    AVOID CONTACT W/SKIN & BREATHING VAPORS. VAPOR CONCENTRATION WILL
+    BE HIGHEST ALONG FLOOR & IN LOW LYING AREAS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE A NIOSH APPROVED ORGANIC VAPOR MASK.
+Ventilation:REQUIRED
+Protective Gloves:SOLVENT RESISTANT AS NEOPRENE OR PVA
+Eye Protection:SPLASH-PROOF SAFETY GOGGLES, GLASSES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:116F
+Vapor Density:>1
+Solubility in Water:0%
+Appearance and Odor:CLEAR WATER-WHITE MOBILE LIQUID W/SLIGHT ETHEREAL
+    ODOR.
+Percent Volatiles by Volume:100%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+REACTIVE ALKALI METALS, STRONG ACIDS & BASES.
+Stability Condition to Avoid:OPEN FLAME, HEAT, TEMPERATURES >120F, OR
+    DIRECT SUNLIGHT
+Hazardous Decomposition Products:HYDROGEN CHLORIDE, PHOSGENE, CHLORINE,
+    CO2, & CO
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF BY A LICENSED RECLAIMER OR INCINERATE
+    IN ACCORDANCE W/LOCAL, STATE, & FEDERAL REGULATIONS. DON'T
+    INCINERATE OR DESTROY AEROSOL CANS. COMPRESSED & NON-FLAMMABLE GAS.
+    UN1956.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

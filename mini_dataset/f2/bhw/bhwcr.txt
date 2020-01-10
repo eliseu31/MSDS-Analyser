@@ -1,0 +1,165 @@
+=====================  Product Identification  =====================
+
+Product ID:ACETONE
+MSDS Date:07/18/1989
+FSC:6810
+NIIN:01-003-0262
+MSDS Number: BHWCR
+=== Responsible Party ===
+Company Name:VAN WATERS AND ROGERS INC
+Address:2600 CAMPUS DRIVE
+Box:5932
+City:SAN MATEO
+State:CA
+ZIP:94403-2522
+Country:US
+Info Phone Num:206-447-5911
+Emergency Phone Num:415-573-8000
+Preparer's Name:DOUGLAS EISNER
+CAGE:0AN91
+=== Contractor Identification ===
+Company Name:CHEMICAL COMMODITIES AGENCY, INC.
+Address:27447 PACIFIC STREET
+Box:City:HIGHLAND
+State:CA
+ZIP:92346-2640
+Country:US
+Phone:909-864-2310
+CAGE:60777
+Company Name:VAN WATERS AND ROGERS
+Address:2256 JUNCTION AVE
+City:SAN JOSE
+State:CA
+ZIP:95131
+Country:US
+Phone:408-435-8700/800-424-9300(CHEMTREC)
+CAGE:0AN91
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ACETONE (SARA III)
+CAS:67-64-1
+RTECS #:AL3150000
+Fraction by Wt: >99.0%
+OSHA PEL:1000PPM
+ACGIH TLV:750PPM/1000STEL;9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:BENZENE (SARA III)
+CAS:71-43-2
+RTECS #:CY1400000
+Fraction by Wt: IN TRAC
+OSHA PEL:1PPM/5STEL;1910.1028
+ACGIH TLV:10 PPM; A2; 9192
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL RAT) IS  9750 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:IRRITATION OF
+    EYES,SKIN,RESPIRATORY OR G.I.TRACTS;CNS EFFECTS LIKE
+    HEADACHE,DIZZINESS,NAUSEA,VOMITING AND POSSIBLE
+    UNCONSCIOUSNESS;REDNESS OR BURNS OF EYES/SKIN
+    POSSIBLE.CHRONIC:DRYING OF SKIN,D EFATTING OR DERMATITIS.
+Explanation of Carcinogenicity:THIS ITEM CONTAINS A TRACE AMOUNT OF
+    BENZENE BELOW THE OSHA REPORTABLE LEVEL.BENZENE IS TOXIC TO THE
+    LIVER.
+Effects of Overexposure:SEE HEALTH HAZARDS DATA.
+Medical Cond Aggravated by Exposure:PERSONS WITH A HISTORY OF AILMENTS
+    OR WITH A PRE-EXISTING DISEASE INVOLVING THE EYES, SKIN, OR
+    RESPIRATORY TRACT MAY BE AT INCREASED RISK FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION:REMOVE TO FRESH AIR. RESUSCITATE IF NOT BREATHING.
+    GET MEDICAL ATTENTION. EYES:IMMEDIATELY FLUSH WITH PLENTY OF WATER
+    FOR 15 MINUTES HOLDING EYELIDS OPEN. GET MEDICAL ATTENTION. SKIN:
+    REMOV E CONTAMINATED CLOTHING. WASH WITH SOAPAND WATER. IF
+    IRRITATION PERSISTS, GET MEDICAL ADVICE. INGESTION:DO NOT INDUCE
+    VOMITING. GIVE NOTHING BY MOUTH IF UNCONSCIOUS. GET IMMEDIATE
+    MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:0F,-18C
+Lower Limits:2.0
+Upper Limits:13.0
+Extinguishing Media:USE CARBON DIOXIDE, FOAM, DRY CHEMICAL, OR WATER
+    FOG.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SE PROPER PERSONAL PROTECTION;CONTAIN FREE
+    MATERIAL IF POSSIBLE;USE SUITABLE INERT ABSORBENT MATERIAL AND
+    RECOVER FOR PROPER DISPOSAL IN AN APPROVED CONTAINER.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL VENTILATED
+    AREA. KEEP CONTAINERS TIGHTLY CLOSED WHEN NOT IN USE. PROTECT
+    CONTAINERS FROM PHYSICAL DAMAGE.
+Other Precautions:DO NOT TAKE INTERNALLY. DO NOT BREATHE MIST. AVOID
+    PROLONGED OR REPEATED BREATHING OF VAPOR. AVOID CONTACT WITH EYES.
+    USE WITH ADEQUATE VENTILATION. WASH THOROUGHLY AFTER HANDLING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR AS REQUIRED
+    IF ABOVE PEL/TLV OR SCBA IN AN ENCLOSED AREA.
+Ventilation:LOCAL/GENERAL TO MAINTAIN PEL/TLV.
+Protective Gloves:NEOPRENE, NITRILE, OR NATURAL RUBBER
+Eye Protection:SAFETY GOGGLES WITH OPTIONAL FACE SHIELD
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER,WORK
+    CLOTHING AND APRON AS REQUIRED.
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES. DO NOT WEAR CONTAMINATED CLOTHING OR
+    FOOTWEAR.
+Supplemental Safety and Health
+AVOID PROLONGED OR REPEATED EXPOSURE. DO NOT GET ON SKIN OR IN EYES. DO
+    NOT BREATHE VAPORS OR MISTS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:B.P. Text:133F,56C
+Melt/Freeze Pt:M.P/F.P Text:-142F,-97C
+Vapor Pres:184
+Vapor Density:2.0
+Spec Gravity:0.79
+Evaporation Rate & Reference:14(N-BUTYL ACETATE=1)
+Solubility in Water:COMPLETE
+Appearance and Odor:COLORLESS LIQUID,
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS,AMINES AND ACIDS
+Stability Condition to Avoid:HIGH TEMPERATURES, SPARKS, AND OPEN FLAMES
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE AND
+    OTHER UNIDENTIFIED COMPONENTS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT LOCAL AUTHORITIES.DISPOSAL MUST BE MADE
+    IN ACCORDANCE WITH ALL APPLICABLE FEDERAL, STATE AND LOCAL LAWS AND
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

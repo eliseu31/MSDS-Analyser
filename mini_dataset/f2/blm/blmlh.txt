@@ -1,0 +1,135 @@
+=====================  Product Identification  =====================
+
+Product ID:1875 DEFOMER
+MSDS Date:06/28/1988
+FSC:6850
+NIIN:00N021473
+MSDS Number: BLMLH
+=== Responsible Party ===
+Company Name:INDUSCO CHEMICAL PRODUCTS
+Address:1806 S E HOLGATE BLVD
+City:PORTLAND
+State:OR
+ZIP:97242-0194
+Country:US
+Info Phone Num:503-236-4167
+Emergency Phone Num:503-236-4167
+Preparer's Name:R M HALL
+CAGE:2Y525
+=== Contractor Identification ===
+Company Name:INDUSCO CHEMICAL PRODUCTS
+Address:1806 SOUTH EAST HOLGATE BLVD
+Box:City:PORTLAND
+State:OR
+ZIP:97242-0194
+Country:US
+Phone:503-236-4167
+CAGE:2Y525
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:2-BUTOXYETHANOL
+CAS:111-76-2
+RTECS #:KJ8575000
+Fraction by Wt: 9.0%
+Other REC Limits:50 PPM (MFR)
+OSHA PEL:S, 50 PPM
+ACGIH TLV:S, 25 PPM; 9293
+
+Ingred Name:STODDARD SOLVENT
+CAS:8052-41-3
+RTECS #:WJ8925000
+Fraction by Wt: 23%
+Other REC Limits:500 PPM (MFR)
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM; 9293
+
+Ingred Name:MODIFIED POLYETHOXY ADDUCT
+Fraction by Wt: 68%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:PENETRATES SKIN. FREQUENT CONT MAY
+    RSLT IN ABSORP IN PTNTL HARMFUL AMTS. EYES: IRRIT & POSS CORNEAL
+    INJURY. ANIMAL STUDIES HAVE CLEARLY DEMONSTRATED DOSE-RELATED
+    ADVERSE EFTS ON THE CNS, THE HEMATOPOI ETIC TISS, THE BLOOD, THE
+    KIDNEYS AND THE LIVER ASSOC W/THE ADMIN OF ETHYLENE GLYCOL
+    MONOBUTYL (SEE EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:ETHER (EGBE) AND ETHYLENE GLYCOL MONOBUTYL
+    ETHER ACETATE (EGBEA). (EXTRACTED FROM DHHS (NIOSH) PUBLICATION NO.
+    90-118) . SKIN-IRRITATION. EYES-IRRITATION AND BURNING SENSATION.
+Medical Cond Aggravated by Exposure:DERMATITIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: RINSE OFF WITH WATER. EYES: RINSE WITH WATER FOR AT
+    LEAST 15 MIN. INHAL: REMOVE TO FRESH AIR. SUPPORT BRTHG. (GIVE
+    O2/ARTF RESP) . INGEST: CALL MD IMMED .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:150F,66C
+Extinguishing Media:CO2, DRY CHEMICAL.
+Fire Fighting Procedures:NONE. WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:MOP AND RINSE WITH WATER TO DRAIN.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE ABOVE 32F AND BELOW 100F.
+Other Precautions:NONE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE. USE NIOSH/MSHA APPROVED RESPIRATOR
+    APPROPRIATE FOR EXPOSURE OF CONCERN .
+Ventilation:MECHANICAL(GENERAL).
+Protective Gloves:PLASTIC OR RUBBER GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE.
+Work Hygienic Practices:WASH HANDS AND FACE BEFORE SMOKING AND EATING.
+    CHANGE CONTAMINATED CLOTHING IMMED.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:>180F,>82C
+Vapor Pres:0.88
+Vapor Density:4.1
+Spec Gravity:0.92
+Solubility in Water:68%
+Appearance and Odor:BLUE, SOLVENT SCENT.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID STRONG OXIDIZING OR REDUCING AGENTS, ACIDS.
+Stability Condition to Avoid:NONE.
+Hazardous Decomposition Products:THERMAL MAY GENERATE CO OR CO2, OXIDES
+    OF NITROGEN.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:FLUSH TO SEWER WITH WATER. DISPOSE OF IN
+    ACCORDANCE WITH FEDERAL, STATE AND LOCAL REGULATIONS .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

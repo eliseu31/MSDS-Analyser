@@ -1,0 +1,180 @@
+=====================  Product Identification  =====================
+
+Product ID:MOLY OPEN GEAR OIL AEROSOL, 11030
+MSDS Date:03/31/1993
+FSC:9150
+NIIN:00N057616
+MSDS Number: BWRRW
+=== Responsible Party ===
+Company Name:DYKEM CO
+Address:8501 DELPORT DR
+City:ST LOUIS
+State:MO
+ZIP:63114
+Country:US
+Info Phone Num:314-423-0100
+Emergency Phone Num:314-423-0100
+CAGE:HO995
+=== Contractor Identification ===
+Company Name:DYKEM CO
+Address:8501 DELPORT DR
+Box:City:ST. LOUIS
+State:MO
+ZIP:63114
+Country:US
+Phone:314-423-0100
+CAGE:HO995
+Company Name:ITW DYKEM/ DYMON
+Address:805 E OLD 56 HWY
+Box:City:OLATHE
+State:KS
+ZIP:66061
+Country:US
+Phone:800-443-9536
+CAGE:98148
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HEXANE (CERCLA). VP: 60F.
+CAS:110-54-3
+RTECS #:MN9275000
+Fraction by Wt: 11-30%
+OSHA PEL:500 PPM
+ACGIH TLV:50 PPM
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:PROPANE. VP: 120 @ 70F.
+CAS:74-98-6
+RTECS #:TX2275000
+Fraction by Wt: 6-10%
+OSHA PEL:1000 PPM
+ACGIH TLV:ASPHYXIANT
+
+Ingred Name:PROPANE, 2-METHYL-; (ISOBUTANE). VP: 50 @ 70F.
+CAS:75-28-5
+RTECS #:TZ4300000
+Fraction by Wt: 6-10%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:VOLATILE ORGANIC CONTENT: 1.94 LB/GL
+RTECS #:9999999VO
+
+Ingred Name:SUPP DATA: OUTSIDE PROCESS EQUIPMENT OPERATING UNDER
+    ELEVATED PRESS IF SUDDEN ESCAPE OR VAPS/MISTS TO ATM OCCURS.(ING 6)
+RTECS #:9999999ZZ
+
+Ingred Name:ING 5: ANY PROPOSED USE OF THIS PRODUCT IN ELEVATED-TEMP
+    PROCESSES SHOULD BE THORO EVALUATED TO ASSURE THAT SAFE(ING 7)
+RTECS #:9999999ZZ
+
+Ingred Name:ING 6:  OPERATING CONDITIONS ARE ESTABLISHED AND
+    MAINTAINED.
+RTECS #:9999999ZZ
+
+Ingred Name:PROT GLOVES: PPOLYVINYL CHLORIDE-COATED.
+RTECS #:9999999ZZ
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: EYES/SKIN: MODERATE IRRIT.
+    INHAL: HIGH CONCS OF VAPORS MAY PRODUCE IRRIT OF RESP TRACT, HDCH,
+    DIZZ & NAUSEA. INGEST: SIMILAR TO INHAL. CHRONIC: PLNGD RPTD
+    OVEREXP TO THIS PRODUCT MAY LEAD TO SK IN SENSITIZATION/DERMATITIS.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:INHAL: HIGH CONCS OF VAPS MAY PRODCE IRRIT OF
+    RESP TRACT, HDCH, DIZZ, & NAUSEA. SKIN/EYE: MOD IRRIT. SKIN ABSORP:
+    MODERATE IRRIT. INGEST: NAUSEA & VOMITING.
+Medical Cond Aggravated by Exposure:SKIN DISORDERS, RESPIRATORY
+    DISORDERS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WELL WITH WATER. CONTACT MD IF IRRIT PERSISTS.
+    SKIN: WASH WITH SOAP & WATER. INHAL: REMOVE PATIENT TO FRESH AIR.
+    IF BREATHING IS DFCLT, ADMIN OXYGEN. INGEST: DO NOT INDUCE
+    VOMITING. CONTAC T MD. IF VOMITING OCCURS, KEEP HEAD BELOW HIPS TO
+    PREVENT ASPIRATION OF LIQUID INTO LUNGS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:OC
+Flash Point:-156F,-104C
+Lower Limits:1.2%
+Upper Limits:9.5%
+Extinguishing Media:CO*2, DRY CHEMICAL, FOAM.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT.
+Unusual Fire/Explosion Hazard:VAPORS ARE HVR/AIR & MAY TRAVEL ALONG
+    GROUND OR BE MOVED BY VENTILATION AND BE IGNITED BY IGNITION
+    SOURCE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:PVNT SKIN & EYE CONTACT. USE NON-COMBUST MATL
+    TO CONFINE &/ABSORB. ELIMINATE IGNITION SOURCES. VENT AREA.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:"EMPTY" CNTNRS RETAIN RESIDUE(LIQ
+    &/VAPS) & CAN BE DANGEROUS. DO NOT PERSS, CUT, WELD, BRAZE, SOLDER,
+    DRIL, GRIND/EXPOS SUCH CNTNRS TO HEAT,(SUPDAT)
+Other Precautions:WARNING: MANY HOT ORG CHEM VAPS/MISTS ARE SUSCEPTIBLE
+    TO SUDDEN SPONT COMBUST WHEN MIXED W/AIR. IGNIT MAY OCCUR AT TEMPS
+    BELOW THOSE PUBLISHED IN LITERATURE AS "AUTOIGNIT" OR "IGNIT"
+    TEMPS. IGNIT TEMP S DECREASE W/INCREASING VAP VOL (SUPDAT)
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQD FOR NORMAL USE W/ADEQ VENT. IN POORLY
+    VENT AREAS, USE NIOSH/MSHA APRVD ORGANIC VAPOR RESP.
+Ventilation:LOCAL EXHUAST IS RECOMMEDED FOR CONFINED AREAS. GENL MECH
+    VENT IS ADEQUATE FOR NORMAL USE.
+Protective Gloves:CHEMICAL RESIST GLOVES SUCH AS(ING 8)
+Eye Protection:ANSI APPRVD CHEM WORKERS GOGGLES.
+Other Protective Equipment:EYE BATH & SAFETY SHOWER. OTHER PROTECTIVE
+    GEAR AS REQUIRED TO MINIMIZE CONTACT.
+Work Hygienic Practices:FOLLOW CURRENT HMIS REGULATIONS.
+Supplemental Safety and Health
+HNDLG/STOR: SPARKS, FLAMES, STATIC ELEC/OTHER SOURCES OF IGNIT. USE
+    W/ADEQ VENT. OTHER PRECS: & VAP/AIR CONTACT TIME & ARE INFLUENCED
+    BY PRESS CHANGES. IGNIT OF ORG CHEM VAPS MAY OCCUR AT TYPICAL ELEV
+    -TEMP PROCESS CNDTNS, EXPECIALLY IN PROCESSES OPERATING UNDER
+    VACUUM IF SUBJECTED TO SUDDEN INGRESS OF AIR, OR (ING 5)
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>10F,>-12C
+Vapor Pres:SEE INGS
+Vapor Density:>1
+Spec Gravity:0.79 (H*20=1)
+Evaporation Rate & Reference:>1 (BUAC=1)
+Solubility in Water:APPRECIABLE
+Appearance and Odor:DARK BROWN VISCOUS LIQUID WITH ASPHALT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:HEAT, SPARKS AND OPEN FLAMES.
+Hazardous Decomposition Products:OXIDES OF CARBON.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:REMOVE TO WASTE DISPOSAL FACILITY OPERATING IN
+    COMPLIANCE W/LOC, STATE & FED REGS. APPLIC CERCLA/RCRA HAZ WASTE
+    CODES: D001(IGNIT): RPTBLE QTY UNDER CERCLA IN LBS: 100.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

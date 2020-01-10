@@ -1,0 +1,177 @@
+=====================  Product Identification  =====================
+
+Product ID:EPK 0615 HARDENER
+MSDS Date:02/25/1993
+FSC:8040
+NIIN:01-124-9736
+MSDS Number: BWRCZ
+=== Responsible Party ===
+Company Name:DEXTER CORP
+Address:ONE DEXTER DR
+City:SEABROOK
+State:NH
+ZIP:03874
+Country:US
+Info Phone Num:603-474-5541
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+Preparer's Name:KEN DECOSTA
+CAGE:57294
+=== Contractor Identification ===
+Company Name:DEXTER CORP THE HYSOL DIV
+Address:1 DEXTER DR
+Box:City:SEABROOK
+State:NH
+ZIP:03874
+Country:US
+Phone:603-474-5541/FAX: 603-474-5545
+CAGE:1JB33
+Company Name:DIVERSITY WATER TECHNOLOGIES INC
+Address:LABORATORY PK 7145 PINE ST
+Box:200
+City:CHAGRIN FALLS
+State:OH
+ZIP:44022
+Country:US
+Phone:216-247-5000
+CAGE:57294
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CALCIUM CARBONATE; (MAGNESIUM SILICATE HYDRATE)
+CAS:1317-65-3
+RTECS #:EV9580000
+Fraction by Wt: 10-30%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST
+
+Ingred Name:SILICA, CRYSTALLINE - QUARTZ; (QUARTZ (CRYSTALLINE SILICA)
+CAS:14808-60-7
+RTECS #:VV7330000
+Fraction by Wt: 34.550%
+OSHA PEL:N/K 
+ACGIH TLV:0.1 MG/M3 RDUST
+
+Ingred Name:PHENOL, 2,4,6-TRIS(DIMETHYLAMINOMETHYL)-;
+    (2,4,6-TRI(DIMETHYLAMINOMETHYL) PHENOL)  MFR CAS#: 90-77-2
+CAS:90-72-2
+RTECS #:SN3500000
+Fraction by Wt: 1-5%
+OSHA PEL:N/K 
+ACGIH TLV:5 PPM (MFR)
+
+Ingred Name:FORMALDEHYDE (SARA 302/313) (CERCLA)
+CAS:50-00-0
+RTECS #:LP8925000
+Fraction by Wt: TRACE
+OSHA PEL:N/K 
+ACGIH TLV:0.3 PPM, C
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:ING 1: INHAL: OVER MANY YEARS COULD
+    CAUSE LUNG PATHOLOGY. ING 2: INHAL: PRLNG OVEREXP TO FREE SILICA
+    DUST (UNCOMBINED SILICON DIOXIDE) AVOVE TLV MAY CAUSE SCARRING OF
+    LUNGS WITH COUGH & SHORTNESS OF B REATH. DELAYED LUNG INJURY,
+    SILICOSIS, MAY RSLT FROM BRTHG FREE SILICA. SILICOSIS IS FORM OF
+    DISABLING (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:SILICA, CRYSTALLINE-QUARTZ: IARC MONO,
+    SUPPLEMENT, VOL 7, PG 341, 1978:GRP 2A. NTP 7TH ANNUAL RPT ON
+    CARCINS, (SUPDAT)
+Effects of Overexposure:HLTH HAZ:PROGRESSIVE & SOMETIMES FATAL PULM
+    FIBROSIS CHARACT BY PRESENCE OF TYPICAL NODULATION IN LUNGS. ING
+    3:EYES: LIQ CNTCT WILL CAUSE SEV IRRIT & POSS CORNEAL DMG. SKIN:
+    SEV IRRIT CAUSING PERSISTE NT LESIONS. MATL IS ALLERGENIC CAUSING
+    SENSIT DERM. MATL CAN BE ABSORBED THRU SKIN. MATL IS RATED HIGH
+    HLTH HAZ (SUPDAT)
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH EYES W/PLENTY OF WATER FOR AT LEAST 15 MIN. GET
+    PROMPT MED ATTN. SKIN: WASH THORO W/SOAP & WATER. REMOVE & WASH
+    CLOTHING BEFORE REUSE. INHAL: MOVE TO FRESH AIR. INGEST: DILUTE BY
+    GIVING WA TER TO DRINK & CALL MD. NEVER GIVE ANYTHING BY MOUTH TO
+    AN UNCONSCIOUS PERSON. NOTE TO MD: IT MAY NOT BE ADVISABLE TO
+    INDUCE VOMIT IF SEVERE DAMAGE TO DIGESTIVE TRACT HAS OCCURRED.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:OC
+Flash Point:215F,102C
+Extinguishing Media:WATER SPRAY, DRY CHEMICAL, "ALCOHOL" FOAM OR CARBON
+    DIOXIDE.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT . USE WATER TO KEEP FIRE-EXPOS CNTNRS COOL.
+    WATER SPRAY MAY BE USED TO FLUSH SPILLS (SUPDAT)
+Unusual Fire/Explosion Hazard:CARE MUST BE TAKEN TO PREVENT IGNITION
+    WHEN PROCESSING OR HANDLING AT TEMPERATURES ABOVE THE FLASH POINT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CLEANUP AND DISPOSAL SHOULD BE IN ACCORDANCE
+    WITH FEDERAL, STATE AND LOCAL ENVIRONMENTAL CONTROL REGULATIONS.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:PROTECT FROM PHYSCIAL DAMAGE. STORE IN
+    COOL, DRY AREA; WELL VENTILATED AREA AWAY FROM ANY AREA WHERE FIRE
+    HAZARD MAY BE ACUTE.
+Other Precautions:STRONG SKIN SENSITIZER. AVOID SKIN CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR APPROPRATE FOR
+    EXPOSURE OF CONCERN . WHERE COMPARATIVELY SMALL AMOUNTS ARE BEING
+    USED, VENTILATION SHOULD MOVE AIR OVER THE WORK & AWAY FROM WORKER.
+    DO NOT RECIRCU LATE UNLESS SCRUBBED WITH ACID.
+Ventilation:VENTILATION SHOULD MOVE AIR OVER THE WORK AND AWAY FROM THE
+    WORKER.
+Protective Gloves:PLASTIC OR RUBBER GLOVES.
+Eye Protection:ANSI APPRVD CHEM WORKERS GOGGLES .
+Other Protective Equipment:ANSI APPROVED EMERGENCY EYE WASH & DELUGE
+    SHOWER . USE OF A PROTECTIVE CREAM IS RECOMMENDED.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+FIRE FIGHT PROC: AWAY FROM EXPOS & TO DILUTE SPILLS TO NONFLAM MIXS.
+    EXPLAN OF CARCIN: 1994:ANTIC TO BE CARCIN. EFTS OF OVEREXP: DUE TO
+    CORNEAL DMG & SEV SKIN IRRIT.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:404F,207C
+Vapor Pres:1
+Vapor Density:3.5
+Spec Gravity:1.65
+Solubility in Water:PARTIAL
+Appearance and Odor:WHITE, VISCOUS LIQUID; STRONG AMMONIA-LIKE ODOR.
+Percent Volatiles by Volume:NIL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTAMINATION WITH STRONG ACIDS.
+Stability Condition to Avoid:DO NOT MIX LARGE BATCHES OF EPOXY RESIN &
+    DTA WITHOUT RECOGNITION OF DEVELOPMENT OF EXOTHERMIC HEAT.
+Hazardous Decomposition Products:THERMAL DECOMPOSITION MAY PRODUCE
+    HYDROGEN CYANIDE, NITROGEN OXIDES, CARBON MONOXIDE AND CARBON
+    DIXOIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CLEANUP AND DISPOSAL SHOULD BE IN ACCORDANCE
+    WITH FEDERAL, STATE AND LOCAL ENVIRONMENTAL CONTROL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

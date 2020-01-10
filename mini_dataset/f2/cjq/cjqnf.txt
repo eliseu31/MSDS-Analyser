@@ -1,0 +1,175 @@
+=====================  Product Identification  =====================
+
+Product ID:REGAL AQUAGLO, 333
+MSDS Date:04/22/1997
+FSC:8010
+NIIN:00N016708
+Status Code:A
+MSDS Number: CJQNF
+=== Responsible Party ===
+Company Name:BENJAMIN MOORE & CO
+Address:51 CHESTNUT RIDGE RD
+City:MONTVALE
+State:NJ
+ZIP:07645
+Country:US
+Info Phone Num:201-573-9600
+Emergency Phone Num:(800)424-9300
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:91950
+=== Contractor Identification ===
+Company Name:BENJAMIN MOORE & CO
+Address:51 CHESTNUT RIDGE RD
+City:MONTVALE
+State:NJ
+ZIP:07645
+Country:US
+Phone:201-573-9600
+CAGE:09585
+Company Name:BENJAMIN MOORE & CO
+Address:51 CHESTNUT RIDGE RD
+Box:City:MONTVALE
+State:NJ
+ZIP:07645
+Country:US
+Phone:201-573-9600
+CAGE:91950
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+= Wt:24.
+OSHA PEL:15 MG/M3
+ACGIH TLV:10 MG/M3
+
+Ingred Name:CARBON BLACK
+CAS:1333-86-4
+RTECS #:FF5800000
+= Wt:2.1
+OSHA PEL:3.5 MG/M3
+ACGIH TLV:3.5 MG/M3
+
+Ingred Name:KAOLIN; (HYDROUS ALUM SILICATES)
+CAS:1332-58-7
+RTECS #:GF1670500
+= Wt:12.1
+OSHA PEL:15 MG/M3
+ACGIH TLV:2 MG/M3
+
+Ingred Name:PIGMENTS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: INHALATION: IRRITATION OF THE
+    RESPIRATORY TRACT. SKIN AND EYE CONTACT: PRIMARY IRRITATION.
+    INGESTION OF LARGE AMOUNTS COULD CAUSE SERIOUS INJURY. CHRONIC:
+    IARC HAS CLASSIFIED CARBON BLACK AS PO SSIBLY CARCINOGENIC FOR
+    HUMANS.
+Explanation of Carcinogenicity:CARBON BLACK: IARC MONOGRAPHS, VOL 65,
+    PG 149, 1996:GROUP 2B.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE EXPECTED WHEN USED IN
+    ACCORDANCE WITH SAFE HANDLING AND USE INFORMATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. GET MEDICAL HELP FOR ANY
+    BREATHING DIFFICULTY. EYE CONTACT: FLUSH THOROUGHLY WITH WATER FOR
+    AT LEAST 15 MINUTES. CALL PHYSICIAN. SKIN CONTACT: WASH WITH SOAP
+    AND WATER . INGESTION: DRINK 1 OR 2 GLASSES OF WATER TO DILUTE. DO
+    NOT INDUCE VOMITING. CALL A PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:>121.1C, 250.F
+Extinguishing Media:FOAM, CO*2, DRY CHEMICAL, WATER FOG.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT . COOL EXPOSED CONTAINERS WITH WATER.
+Unusual Fire/Explosion Hazard:TOXIC GASES MAY FORM WHEN PRODUCT BURNS.
+    CLOSED CONTAINERS MAY BURST IF EXPOSED TO EXTREME HEAT OR FIRE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH WITH WATER. ABSORB WITH SAWDUST OR RAGS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT THROW OR DROP CONTAINERS. NOTE:
+    THIS PRODUCT CONTAINS PIGMENTS WHICH MAY BECOME A DUST NUISANCE
+    WHEN REMOVED BY ABRASIVE BLASTING, SANDING, OR GRINDING.
+Other Precautions:AVOID CONTACT WITH EYES AND PROLONGED CONTACT WITH
+    SKIN OR BREATHING OF SPRAY MIST OR SANDING DUST. CLOSE CONTAINER
+    AFTER EACH USE. KEEP OUT OF REACH OF CHILDREN. DO NOT TAKE
+    INTERNALLY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH APPROVED RESPIRATOR SPECIFIED FOR
+    PROTECTION AGAINST PAINT SPRAY MIST AND SANDING DUST IN RESTRICTED
+    OR CONFINED AREAS.
+Ventilation:ADEQUATE TO MAINTAIN WORKING ATMOSPHERE BELOW TLV & LEL
+    (SEE INGRED DATA & CONCENTRATIONS). MECHANICAL EXHAUST MAY BE
+    REQUIRED IN CONFINED AREAS.
+Protective Gloves:WATERPROOF GLOVES.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:ANSI APPROVED EYE WASH AND DELUGE SHOWER .
+    CLOTHING ADEQUATE TO PROTECT SKIN.
+Work Hygienic Practices:REMOVE AND WASH CLOTHING BEFORE REUSE. WASH
+    HANDS BEFORE EATING, SMOKING OR USING THE WASHROOM.
+Supplemental Safety and Health
+PHYSICAL DATA - WT/GALLON: 9.1 TO 10.8.
+
+==================  Physical/Chemical Properties  ==================
+
+Vapor Density:HVR/AIR
+Spec Gravity:1.09-1.30 
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:58.9-69.2
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE REASONABLY FORESEEABLE.
+Stability Condition to Avoid:ELEVATED TEMPERATURES.
+Hazardous Decomposition Products:BURNING MAY PRODUCE CARBON DIOXIDE AND
+    CARBON MONOXIDE.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:N/P. --OTHER INFO: THIS CODE IS LEFT BLANK ON
+    BENJAMIN MOORE & CO MSDS'S AS IT DEPENDS ON APPLICATION TECHNIQUE
+    AND THE WORKPLACE VENTILATION. PLEASE READ ALL SECTIONS OF THIS
+    MSDS BEFORE DECIDING ON  APPROPRIATE PROTECTIVE EQUIPMENT AND
+    BEGINNING WORK. THERE ARE CODES AVAILABLE FOR THIS SECTION WHICH
+    CAN BE OBTAINED FROM LABELMASTER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONVENTIONAL PROCEDURES IN COMPLIANCE WITH
+    LOCAL, STATE AND FEDERAL REGULATIONS. DO NOT INCINERATE SEALED
+    CONTAINERS.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:SARA TITLE 312 - ACUTE: NO, CHRONIC: YES,
+    FIRE: NO, PRESSURE: NO, REACTIVITY: NO. NOTE: THERE ARE NO SARA
+    REPORTABLE MATERIALS IN THIS PRODUCT.
+State Regulatory Information:THIS PRODUCT MAY CONTAIN SMALL AMOUNTS OF
+    MATERIALS KNOWN TO THE STATE OF CALIFORNIA TO CAUSE CANCER AND
+    PREPRODUCTIVE HARM.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

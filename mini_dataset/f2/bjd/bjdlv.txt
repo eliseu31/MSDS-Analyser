@@ -1,0 +1,117 @@
+=====================  Product Identification  =====================
+
+Product ID:SWEEPING COMPOUND II
+MSDS Date:01/31/1989
+FSC:7930
+NIIN:00-633-9849
+MSDS Number: BJDLV
+=== Responsible Party ===
+Company Name:FLOORMASTER,INC.
+Address:4801 HOOKER ROAD
+City:CHATTANOOGA
+State:TN
+ZIP:37407
+Country:US
+Info Phone Num:615-867-4525
+Emergency Phone Num:615-867-4525
+CAGE:1K300
+=== Contractor Identification ===
+Company Name:FLOORMASTER,INC.
+Address:4801 HOOKER ROAD
+City:CHATTANOOGA
+State:TN
+ZIP:37407
+Country:US
+Phone:615-867-4525
+CAGE:1K300
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SILICA, CRYSTALLINE - QUARTZ
+CAS:14808-60-7
+RTECS #:VV7330000
+Fraction by Wt: 50.0%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:SEE TABLE Z3
+ACGIH TLV:0.1 MG/M3 RDUST;9293
+
+Ingred Name:OTHER COMPONENTS (TYPE NOT SPECIFIED)
+Fraction by Wt: BALANCE
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:PER MSDS NO HEALTH HAZARDS ARE
+    NOTED. MAY CAUSE IRRITATION OF EYES OR SKIN.
+Explanation of Carcinogenicity:DATA PER MGF MSDS.
+Effects of Overexposure:SEE HEALTH HAZARDS DATA.
+Medical Cond Aggravated by Exposure:NONE NOTED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES AND SKIN:FLUSH WITH LARGE AMOUNT OF WATER FOR ABOUT
+    15-20 MINUTES;SEEK MEDICAL ATTENTION IMMEDIATELY.INHALATION:REMOVE
+    TO FRESH AIR;CALL A PHYSICIAN.INGESTION:SEEK MEDICAL ATTENTION
+    IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:257F,125C
+Extinguishing Media:WATER
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:NONE EXPECTED
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPER PERSONAL PROTECTION;SWEEP UP OR
+    VACUUM AND COLLECT FOR PROPER DISPOSAL IN AN APPROVED CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DRY AND WELL VENTILATED
+    AREA.KEEP CONTAINER CLOSED WHEN NOT IN USE.
+Other Precautions:WASH THOROUGHLY AFTER EACH USE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY REQUIRED.
+Ventilation:NORMAL ROOM VENTILATION
+Protective Gloves:AS RECOMMENEDE.
+Eye Protection:SAFETY GLASSES/GOGGLES
+Other Protective Equipment:PROTECTIVE CLOTHINGS.EYE-WASH
+    FACILITIES,SAFETY SHOWER.
+Work Hygienic Practices:AVOID CONTACT WITH EYES AND SKIN;DO NOT BREATHE
+    MIST/DUST.WASH THOROUGHLY AFTER EACH USE.
+Supplemental Safety and Health
+USE AS DIRECTED.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Solubility in Water:INSOLUBLE
+Appearance and Odor:LOOKS LIKE SAWDUST--SMELLS WAXY
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS
+Stability Condition to Avoid:NONE NOTED
+Hazardous Decomposition Products:NOT SPECIFIED
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT LOCAL AUTHORITIES;DISPOSAL MUST BE IN
+    ACCORDANCE WITH LOCAL,STATE AND FEDERAL REGULATIONS
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

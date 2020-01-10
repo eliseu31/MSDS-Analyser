@@ -1,0 +1,128 @@
+=====================  Product Identification  =====================
+
+Product ID:GASEOUS CARBON MONOXIDE
+MSDS Date:11/01/1987
+FSC:6830
+NIIN:00-973-7286
+MSDS Number: BKYQK
+=== Responsible Party ===
+Company Name:SPECIALTY GAS CORPORATION
+Address:135 SOUTH LA SALLE STREET
+City:CHICAGO
+State:IL
+ZIP:60603-4282
+Info Phone Num:(312) 855-2500
+Emergency Phone Num:(504) 673-8831
+CAGE:MO415
+=== Contractor Identification ===
+Company Name:LIQUID CARBONIC CORP
+Address:135 S LA SALLE STREET
+Box:City:CHICAGO
+State:IL
+ZIP:60603-4101
+Country:US
+Phone:312-855-2500
+CAGE:36517
+Company Name:SPECIALTY GAS CORPORATION
+Address:135 SOUTH LA SALLE STREET
+City:CHICAGO
+State:IL
+ZIP:60603-4282
+Phone:(312) 855-2500
+CAGE:MO415
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CARBON MONOXIDE
+CAS:630-08-0
+RTECS #:FG3500000
+Fraction by Wt: 98%
+Other REC Limits:50 PPM
+OSHA PEL:50 PPM
+ACGIH TLV:25 PPM; 9293
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: HEADACHE, NAUSEA, COMA,
+    DEATH & ASPHYXIA.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: HEADACHE, NAUSEA, COMA, DEATH,
+    ASPHYXIA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. IF BREATHING HAS STOPPED,
+    GIVE ARTIFICIAL RESPIRATION. ADMINISTER OXYGEN. KEEP VICTIM WARM &
+    AT REST. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Lower Limits:12.5%
+Upper Limits:74%
+Extinguishing Media:CO2, DRY CHEMICALS, HALON, & WATER SPRAY
+Fire Fighting Procedures:IN FIGHTING SMALL FIRES APPROACH FROM UPWIND
+    W/SELF-CONTAINED BREATHING APPARATUS. LARGE FIRES SHOULD BE FOUGHT
+    FROM SAFE DISTANCE OR PROTECTED LOCATION.
+Unusual Fire/Explosion Hazard:WHEN CARBON MONOXIDE IS MIXED W/AIR, IT'S
+    A DANGEROUS FIRE & EXPLOSION HAZARD. IF IGNITED CONTAIN FIRE UNTIL
+    FLOW IS SHUT OFF. AUTOIGNITION: 1128F.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:STOP FLOW OF GAS. EVACUATE ALL PERSONNEL FROM
+    AFFECTED AREA. USE APPROPRIATE PROTECTIVE EQUIPMENT. DON'T ENTER
+    AREA W/O POSITIVE PRESSURE AIR OR SELF-CONTAINED BREATHING
+    APPARATUS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:POSITIVE PRESSURE AIR LINE W/MASK OR
+    SCBA SHOULD BE AVAILABLE FOR EMERGENCY USE. STORE IN A COOL, DRY,
+    WELL VENTILATED AREAS, OUTDOORS PREFERRED.
+Other Precautions:AVOID OXYGEN/CORROSIVE STORAGE AREAS. PROTECT
+    CYLINDERS FROM PHYSICAL DAMAGE. ELECTRICIAL EQUIPMENT SHOULD BE
+    EXPLOSION PROOF OR NON-SPARKING. ALL PIPING/EQUIPMENT SHOULD BE
+    ELECTRICALLY GROUND.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:POSITIVE PRESSURE, SELF-CONTAINED BREATHING
+    APPARATUS.
+Ventilation:LOCAL EXHAUST/MECHANICAL: STORE OR USED TO PREVENT
+    ACCUMULATION OF CO >TLV.
+Protective Gloves:LEATHER
+Eye Protection:SAFETY GOGGLES, GLASSES
+Other Protective Equipment:SAFETY SHOES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:-312.7F
+Vapor Density:0.968
+Spec Gravity:0.793
+Solubility in Water:2.32%
+Appearance and Odor:COLORLESS & GAS ODORLESS.
+Percent Volatiles by Volume:100%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZERS
+Stability Condition to Avoid:HEAT, SOURCES OF IGNITION, SPARKS, FLAMES,
+    PHYSICAL DAMAGE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

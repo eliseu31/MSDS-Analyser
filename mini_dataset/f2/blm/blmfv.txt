@@ -1,0 +1,161 @@
+=====================  Product Identification  =====================
+
+Product ID:E-SERIES ULTRAJET ES1200
+MSDS Date:01/01/1989
+FSC:6830
+NIIN:00N021052
+MSDS Number: BLMFV
+=== Responsible Party ===
+Company Name:CHEMTRONICS INC
+Address:681 OLD WILLETS PATH
+City:HAUPPAUGE
+State:NY
+ZIP:11788
+Country:US
+Info Phone Num:516-582-3322
+Emergency Phone Num:516-582-3322
+Preparer's Name:HAL ALPER
+CAGE:2M589
+=== Contractor Identification ===
+Company Name:CHEMTRONICS INC
+Address:8125 COBB CENTER DRIVE
+Box:City:KENNESAW
+State:GA
+ZIP:30152
+Country:US
+Phone:770-424-4888/800-645-5244
+CAGE:21267
+Company Name:CHEMTRONICS INC (CANCELLED USE 21267)
+City:HAUPPAUGE
+State:NY
+ZIP:11760
+Country:US
+CAGE:2M589
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CHLORODIFLUOROMETHANE
+CAS:75-45-6
+RTECS #:PA6390000
+Fraction by Wt: 100%
+OSHA PEL:1000 PPM
+ACGIH TLV:1000PPM; 9192
+Ozone Depleting Chemical:2
+
+Ingred Name:SUPP DATA: COULD HAVE SIMILAR EFT IN HUMANS. ADRENOMIMETICS
+    (I.E., EPINEPHRINE) MAY BE CONTRA-INDICATED EXCEPT (ING 3)
+RTECS #:9999999ZZ
+
+Ingred Name:ING 2: FOR LIFE-SUSTAINING USES IN HUMANS ACUTELY OR
+    CHRONICALLY EXPOSED TO CFC'S .
+RTECS #:9999999ZZ
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHAL: VAP IS HEAVIER THAN AIR AND CAN
+    CAUSE SUFFOCATION BY REDUCING O2 AVAILABLE FOR BREATHING. BREATHING
+    HIGH CONC OF PROD CAN CAUSE LIGHT-HEADEDNESS, GIDDINESS, SHORTNESS
+    OF BRTH, POS NARCOSIS, POS SIBLE CARDIAC IRREGULARITIES,
+    UNCONSCIOUSNESS OR DEATH. EYE: LIQUID CONTACT CAN CAUSE FROSTBITE.
+    (SEE EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ: SKIN: LIQ CONTACT CAN CAUSE
+    FROSTBITE. NOTE: IN SCREENING STUDIES WITH EXPERIMENTAL ANIMALS,
+    EXPOSURE AT APPROX 50,000 PPM (V/V) & ABOVE FOLLOWED BY LRG
+    INTRAVENOUS EPINEPHRINE CHALLENGE HAS  INDUCED SERIOUS CARDIAC
+    IRREGULARITIES. CFC MATLS HAVE PRDCED SENSIT OF MYOCARDIUM TO
+    EPINEPHRINE (SUP DATA)
+Medical Cond Aggravated by Exposure:CARDIOVASCULAR DISEASE: SEE
+    PRINCIPAL HEALTH HAZARDS. INHALATION SECTION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: REMOVE TO FRESH AIR. CALL PHYS. IF NOT BRTHG GIVE ARTF
+    RESP, PREFERABLY MOUTH-TO-MOUTH. IF BRTHG IS DFCLT, GIVE O2. DO NOT
+    GIVE EPINEPHRINE OR SIMILAR DRUGS. EYE: FLUSH WITH WATER FOR AT
+    LEAST  15 MIN. CALL PHYS. SKIN: FLUSH W/H2O. TREAT FOR FROSTBITE IF
+    NEC. NOTE TO PHYS: BECAUSE OF POS INCR RISK OF ELICITING CARDIAC
+    DYSRYTHMIAS, CATECHOLAMINE DRUGS, SUCH AS EPINEPHRINE, SHD BE (SUP
+    DAT)
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TOC
+Flash Point:NONE
+Extinguishing Media:MEDIA SUITABLE FOR SURROUNDING CONDITIONS .
+Fire Fighting Procedures:OTHER BURNING MATL MAY CAUSE ULTRAJET TO BURN
+    WEAKLY. EXTING FOR OTHER BURNING MATL IN AREA IS SUFF TO STOP
+    BURNING. USE NIOSH/MSHA APPRVD PRESS DEMAND(SUP DAT)
+Unusual Fire/Explosion Hazard:CYLINDERS ARE EQUIP W/PRESS RELIEF
+    DEVICES BUT STILL MAY RUPTURE UNDER FIRE CNDTNS. DECOMP MAY
+    OCCUR.DECOMP PRODS MAY INCL FLUORIDES, CHLORIDES, PHOSGENE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA-ESPECIALLY LOW PLACES WHERE
+    HEAVY VAPORS MIGHT COLLECT. REMOVE OPEN FLAMES.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:CLEAN DRY AREA. DO NOT HEAT >100F. DO
+    NOT PUNCTURE/DAMAGE CNTNRS. ROTATE STOCK. AVOID BRTHG VAP & LIQ
+    CONT. DO NOT TURN CAN UPSIDE DOWN WHEN SPRAYING.
+Other Precautions:NO SMOKING IN AREA OF USE. DO NOT USE IN GEN VICIN OF
+    ARC WELD, OPEN FLAMES, HOT SURFACES. HEAT &/OR UV RADIATION MAY
+    CAUSE FORMATION OF CHLORIDES, FLUORIDES, PHOSGENE .
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:UNDER NORMAL MANUFACTURING CONDITIONS, NO
+    RESPIRATORY PROTECTION IS REQUIRED WHEN USING THIS PRODUCT.
+    NIOSH/MSHA APPROVED SCBA IS REQUIRED IF LRG RELEASE OCCURS.
+Ventilation:NORM VENT FOR STD MFR PROC IS GEN ADEQ.LOC EXHST SHD BE
+    USED WHEN LRG AMTS ARE RELS.MECH VENT SHD BE USE IN LOW PLACES.
+Protective Gloves:LINED BUTYL GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+FIRE FIGHT PROC: SCBA & FULL PROT EQUIP MAY BE REQUIRED IF CYLINDERS
+    RUPTURE/CONTENTS ARE RELS UNDER FIRE CNDTNS. HAZ DECOMP PROD:
+    ACIDS-POSSIBLY CARBONYL HALIDES. CHLORIDES, FLUORIDES, PHOSGENE (FP
+    N ). FIRST AID PROC: CONSIDERED ONLY AS ALAST RESORT IN LIFE
+    THREATENING EMER. EFTS OF OVEREXP: IN LAB ANIMALS & (ING 2)
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:G3
+Boiling Pt:B.P. Text:-41F,-41C
+Vapor Pres:138 @ 77F
+Vapor Density:2.98
+Solubility in Water:0.30% BY WT. @ 77F
+Appearance and Odor:CLEAR, COLORLESS LIQUEFIED GAS. SLIGHT ETHERAL
+    ODOR.
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ALKALI OR ALKALINE EARTH METALS-POWERED AL, ZN, BE, ETC.
+Stability Condition to Avoid:OPEN FLAMES AND HIGH TEMPERATURES.
+Hazardous Decomposition Products:ULTRAJET CAN BE DECOMP BY HIGH TEMP
+    (OPEN FLAMES, GLOWING METAL SURFS, ETC) FORMING HYDROCHLORIC &
+    HYDROFLUORIC(SUP DAT)
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ALLOW TO EVAPORATE. DO NT PUNCTURE OR INCINERATE
+    AEROSOL CANS. COMPLY WITH FEDERAL, STATE AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

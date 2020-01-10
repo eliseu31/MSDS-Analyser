@@ -38,7 +38,8 @@ class PipelinesManager:
         # features pipeline object
         self.features_pipeline = None
 
-    def create_predictors(self, procedures_list, relation_extraction=False, n_features=150, n_targets=20, n_jobs=8):
+    def create_predictors(self, procedures_list, relation_extraction=False,
+                          n_features=150, n_targets=20, classifier='decision_tree', n_jobs=8):
         # create all the pipelines
         for pipeline_name, target_procedure in procedures_list:
             # join all the target data frames
@@ -47,7 +48,7 @@ class PipelinesManager:
             # generates the data tuple
             data_tuple = (self.x_train, self.x_test, y_train, y_test)
             # creates the text pipeline
-            self.pipelines_dict[pipeline_name] = TextPipeline(pipeline_name, data_tuple)
+            self.pipelines_dict[pipeline_name] = TextPipeline(pipeline_name, data_tuple, classifier_name=classifier)
             # creates the targets pipeline
             self.pipelines_dict[pipeline_name].create_label_pipeline(relation_extraction, n_targets, n_jobs)
             # creates the pipeline

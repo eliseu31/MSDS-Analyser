@@ -1,0 +1,185 @@
+=====================  Product Identification  =====================
+
+Product ID:PRMR COATING EPOXY POLYAMIDE,COMP A, 724222
+MSDS Date:03/31/1986
+FSC:8010
+NIIN:00-935-7080
+Kit Part:Y
+MSDS Number: BHWJQ
+=== Responsible Party ===
+Company Name:PRATT & LAMBERT, INC.
+Box:2153
+City:WICHITA
+State:KS
+ZIP:67201
+Country:US
+Info Phone Num:316-733-1361
+Emergency Phone Num:316-733-1361
+Preparer's Name:W.A. ELLISON
+CAGE:FO127
+=== Contractor Identification ===
+Company Name:PRATT & LAMBERT, INC/BUFFALO, NY 14240
+Box:22
+CAGE:FO127
+Company Name:PRATT AND LAMBERT INC
+Address:Box:6027
+City:CLEVELAND
+State:OH
+ZIP:44101-1027
+Country:US
+Phone:216-566-2902
+CAGE:61196
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:PROPYLENE GLYCOL MONOBUTYL ETHER			       
+    (VAPOR PRESSURE 11 MMHG @ 20C)
+CAS:10215-33-5
+RTECS #:UA7525000
+ACGIH TLV:100 PPM/360 MG/CU.M.
+
+Ingred Name:STRONTIUM CHROMATE	(SARA III)
+CAS:7789-06-2
+RTECS #:GB3240000
+OSHA PEL:0.1 PPM CRO3;CEILING
+ACGIH TLV:0.0005MG CR/M3;A2;93
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:TALC (CONTAINING NO ASBESTOS)
+CAS:14807-96-6
+RTECS #:WW2710000
+OSHA PEL:2 MG/M3 RDUST
+ACGIH TLV:2 MG/M3 RDUST; 9192
+
+Ingred Name:AMORPHOUS SILICON DIOXIDE
+CAS:112945-52-5
+RTECS #:VV7310000
+OSHA PEL:15 MG/CU.M.
+ACGIH TLV:10 MG/CU.M.
+
+Ingred Name:ISOBUTYL ALCOHOL  (SARA III)
+CAS:78-83-1
+RTECS #:NP9625000
+OSHA PEL:100 PPM
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:VOC. ORGANIC CMPD 6.8 LB/GAL LESS WATER & NPRS* 816 G/L
+    LESSWATER VOC. 18.9 LB/GAL SOLIDS  2268 G/L SOLIDS CALCULATED
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE POSIONING MAY RESULT IN DEATH BY
+    CAUSING RESPIRATORY PARALYSIS. REPORTS   HAVE ASSOCIATED
+    PROLONGED/REPEATED OCCUPATIONAL OVERESXPOSURE TO SOLVENTS WITH 
+    PERMANENT BRAIN/NERVOUS SYSTEM DAMAGE. I NTENTIONAL MISUSE MAY BE
+    HARMFUL ORFATAL. REPEATED OVEREXPOSURE TO TOLUENE MAY CAUSE LIVER
+    DAMAGE.
+Explanation of Carcinogenicity:TOLUENE HAS BEEN FOUND TO CAUSE KIDNEY.
+    LUNG AND SPLEEN DAM-AGE IN LABORATORY ANIMALS.
+Effects of Overexposure:EYE: MAY CAUSE IRRITATION.;  SKIN: DEFATTING
+    AND IRRITATION TO SKIN	       INHAL: MAY CAUSE NOSE AND THROAT
+    IRRITATION; ANESTHETIC,HDACHE,DIZZINESS,NAUSEA CONFUSION,
+    UNCONSCIOUSNESS, AND EVEN ASP HYXIATION.INGST: GASTROINTESTINAL
+    IRRITATION,NAUSEA,VOMITING, & ABDOMIAL PAIN
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH W/LG AMNT OF WTR, LIFTING EYELIDS, FOR 15 MINS.
+    GET MEDICAL ATTENTIONSKIN: REMOVE CONTAM. CLOTHING, WASH AFFECTED
+    AREA W/SOAP & WTR,GET MEDICAL ATTN.INHAL: REMOVE TO FRESH AIR
+    IMMEDIATELY,G IVE ARTIFICIAL RESP. IF NECESSARY, KEEPWARM & QUIET,
+    GET MEDICAL ATTN.; INGST: DO NOT INDUCE VOMITING, CALL PHYSICIAN 
+    IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:40F/4.44C
+Extinguishing Media:NFPA CLASS B FIRE EXTING., CARBON DIOXIDE, DRY
+    CHEMICAL, OR ALCOHOL FOAM. POLYMER FOAM IS PREFERRED FOR LARGE
+    FIRES.
+Fire Fighting Procedures:FIREFIGHTERS WEAR SCBA. WTR MAY BE
+    INEFFCT.,BUT MAY BE USED TO COOL EXPSD CONTNRTO PREVNT PRESS.
+    BUILDUP & POSS. IGN.;IF WTR IS USED FOG NOZZLES ARE PREFERRED.
+Unusual Fire/Explosion Hazard:KEEP CONTAINERS TIGHTLY CLOSED. ISOLATE
+    FROM HEAT, ELECTRICAL EQUIPMENT, SPARKS,AND FLAME. CLOSED
+    CONTAINERS MAY EXPLODE WHEN EXPOSED TO EXTREME HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE ALL IGNITION SOURCES. DIKE & CONTAIN
+       SPILL W/INERT MATL.. PLACE ABSORBENT DIKING MATL  IN COVERED
+    METAL CONTAINERS FOR DISPOSAL. USE ONLYNON SPARKING TOOLS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DONOT STORE ABOVE 95F. STORE LG QTY.
+    IN COMPLIANCEWITH OSHA 29CFR 1910.106. NEVER USE PRESSURE TO  
+    EMPTY. CLOSE CONTAINER AFTER EACH USE.
+Other Precautions:DO NOT TAKE INTERNALLY. EMPTY CONTAINERS MUST NOT BE
+    WASHED & REUSED FOR ANY    PURPOSE. CONTNRS SHOULD BE GROUNDED &
+    BONDED TO THE RECEIVING CONTNR. PREVENT   CONTAMINATION OF
+    SEWERS,STREAMS, & GROUN DWATER W/SPILLED MATL OR USED ABSORBENT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESTRICTED AREAS USE NIOSH APPRVD CHEMICAL
+    CARTRIDGE RESP.; SPRAYING USE A MECH-ANICAL PREFILTER; CONFINED
+    AREAS USE A NIOSH APPROVED AIR SUPPLIED RESPIRATOR.
+Ventilation:GENERAL DILUTION OR LOCAL EXHAUST VENTILATION
+Protective Gloves:IMPERMEABLE GLOVES
+Eye Protection:SAFETY GLASSES W/SIDESHIELDS
+Other Protective Equipment:NONE
+Supplemental Safety and Health
+NK
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F3
+Boiling Pt:B.P. Text:210-475F
+Vapor Density:> AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:63
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS OR ALKALINE MATERIALS
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:BURNING, INCLUDING WHEN HEATED BY
+    WELDING/CUTTING, WILL PRODUCE SMOKE, CARBON MONOXIDE/DIOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DO NOT INCINERATE CLOSED CONTAINERS. DISPOSE IN 
+     ACCORDANCE WITH FEDERAL, STATE, & LOCAL REGULATIONOBSERVE
+    PRECAUTIONS FOR DISPOSAL OF FLAMMABLE MATLCONTAMINATED ABSORBENT
+    MAY BE DISPOSED IN A HAZARD OUS WASTE LANDFILL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

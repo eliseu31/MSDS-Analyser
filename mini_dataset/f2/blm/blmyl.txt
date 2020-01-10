@@ -1,0 +1,138 @@
+=====================  Product Identification  =====================
+
+Product ID:SNOMELT
+MSDS Date:01/01/1991
+FSC:6810
+NIIN:00-082-2644
+MSDS Number: BLMYL
+=== Responsible Party ===
+Company Name:STANDARD TAR PRODUCTS CO. INC.
+Address:2456 W CORNELL ST.
+City:MILWAUKEE
+State:WI
+ZIP:53209-6294
+Country:US
+Info Phone Num:414-873-7650
+Emergency Phone Num:800-424-9300(CHEMTREC)
+CAGE:1JN25
+=== Contractor Identification ===
+Company Name:STANDARD TAR PRODUCTS CO. INC.
+Address:2456 W CORNELL ST.
+Box:City:MILWAUKEE
+State:WI
+ZIP:53209-6294
+Phone:414-873-7650
+CAGE:1JN25
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CALCIUM CHLORIDE
+CAS:10043-52-4
+RTECS #:EV9800000
+Fraction by Wt: 90-92%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:SODIUM CHLORIDE
+CAS:7647-14-5
+RTECS #:VZ4725000
+Fraction by Wt: 1-2%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:POTASSIUM CHLORIDE
+CAS:7447-40-7
+RTECS #:TS8050000
+Fraction by Wt: 2-3%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:STRONTIUM CHLORIDE
+CAS:10476-85-4
+RTECS #:WK8400000
+Fraction by Wt: 1%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: BAL.
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50: SKIN RABBITS >5000 MG/KG
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: CORNEAL INJURY, THERMAL BURNS.
+    SKIN CONTACT: BURNS, THERMAL BURNS. INGESTION: GASTROINTESTINAL
+    IRRITATION OR ULCERATION. INHALATION: DUST; IRRITATION UPPER
+    RESPITATORY TRACT.
+Effects of Overexposure:EYES: MODERATE TO SEVERE IRRITATION. SKIN
+    CONTACT: IRRITATION. MAY BE MORE SEVERE IF DAMP/ABRADED/CONFINED TO
+    SKIN. INGESTION: IRRITATION. INHALATION: DUST MAY CAUSE IRRITATION.
+Medical Cond Aggravated by Exposure:THE ORAL LD50 FOR RATS IS IN THE
+    RANGE OF 900-2100 MG/KG FOR CALCIUM CHLORIDE ON A 100% BASIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: IRRIGATE EYES WITH WATER 15 MIN. MED. ATTEN. SKIN: WASH
+    IN FLOWING WATER OR SHOWER. INGESTION: INDUCE VOMITING IMMEDIATELY
+    BY GIVING 2 GLASSES OF WATER AND STICKING FINGER DOWN THROAT.
+    NOTHING B Y MOUTH TO UNCONSCIOUS PERSON. MED ATTEN. INHALATION:
+    REMOVE TO FRESH AIR. MED ATTEN.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:NON-COMBUSTIBLE
+Fire Fighting Procedures:WEAR POSITIVE PRESSURE SELF-CONTAINED
+    BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID EYE/SKIN CONTACT. COOL WATER
+    (>80F) TO DISSOLVE CALCIUM CHLORIDE. HIGH HEAT DURING
+    DISOLVING/MIXING. EXPOSED TO ATMOSPHERE WILL FORM SOLUTION.
+Other Precautions:LEATHER CLOTHING AND SHOES WILL BE DAMAGED BY CALCIUM
+    CHLORIDE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:ATMOSPHERIC LEVELS SHOULD BE MAINTAINED BELOW
+    THE EXPOSURE GUIDLINES. APPROVED AIR-PURIFYING RESPIRATOR. IN DUSTY
+    ATMOSPHERES USE APPROVED DUST RESPIRATOR.
+Ventilation:PROVIDE GENERAL AND/OR LOCAL EXHAUST VENTILATION TO CONTROL
+    AIRBORNE LEVELS BELOW EXPOSURE GUIDLINES.
+Protective Gloves:YES, DEPENDING ON OPERATION.
+Eye Protection:SAFETY GLASSES, CHEMICAL GOGGLES
+Other Protective Equipment:BODY COVERING PROTECTIVE CLOTHING IMPERVIOUS
+    TO MATERIAL. BOOTS, APRONS, OR FULL-BODY SUIT DEPEND ON OPERATION.
+Supplemental Safety and Health
+EYE WASH SHOULD BE LOCATED IN IMMEDIATE WORK AREA.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:388F,198C
+Melt/Freeze Pt:M.P/F.P Text:466F,241C
+Decomp Temp:Decomp Text:349F,176C
+Vapor Pres:1MM/HG@20C
+Spec Gravity:2.2
+Solubility in Water:VERY SOLUBLE
+Appearance and Odor:WHITE TO OFF-WHITE SOLID PELLETS
+
+=================  Stability and Reactivity Data  =================
+
+MOST METALS ALUM/ALOYS/YLW BRASS, SULFURIC ACID, WTR REACTIVE MAT'L;
+    SODIUM, IN SOLUTION FORM: ZINC.
+Stability Condition to Avoid:DECOMPOSES AT 349 F
+Hazardous Decomposition Products:HYDROGEN CHLORIDE, RUNAWAY
+    POLYMERIZATION REACTION W/METHYL VINYL ETHER, HYDROGEN GAS.
+Conditions to Avoid Polymerization:WATER REACTIVE MATERIALS SUCH AS
+    SODIUM.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,93 @@
+=====================  Product Identification  =====================
+
+Product ID:8R2345 RIBBON CARTRIDGE
+MSDS Date:10/16/1985
+FSC:7510
+NIIN:01-291-0278
+MSDS Number: BKYXY
+=== Responsible Party ===
+Company Name:XEROX CORPORATION
+Address:901 PAGE AVENUE
+City:FREMONT
+State:CA
+ZIP:94537
+Info Phone Num:(716) 422-2177
+Emergency Phone Num:(716) 422-2177
+CAGE:26921
+=== Contractor Identification ===
+Company Name:XEROX CORPORATION
+Address:100 CLINTON AVE SOUTH
+Box:City:ROCHESTER
+State:NY
+ZIP:14644-1877
+Country:US
+Phone:800-828-6571/716-422-2177
+CAGE:26921
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POLYOLEFIN FILM
+Fraction by Wt: >95%
+
+Ingred Name:MULTI-ACRYLIC POLYMER
+Fraction by Wt: <5%
+
+Ingred Name:STARCH
+CAS:9005-25-8
+RTECS #:GM5090000
+Fraction by Wt: <5%
+Other REC Limits:NUISANCE PARTICULATE
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3; 9192
+
+Ingred Name:SILICON DIOXIDE
+CAS:7631-86-9
+RTECS #:VV3100000
+Fraction by Wt: <5%
+OSHA PEL:80 MG/CUM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Explanation of Carcinogenicity:NONE
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER, CO2, & DRY CHEMICAL.
+
+======================	Handling and Storage  ======================
+
+Other Precautions:AVOID BREATHING PRODUCTS OF DECOMPOSITION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE WHEN USED AS INTENDED
+Protective Gloves:NONE WHEN USED AS INTENDED
+Eye Protection:NONE WHEN USED AS INTENDED
+Other Protective Equipment:NONE WHEN USED AS INTENDED
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:RIBBON CARTRIDGE, MINIMAL ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Hazardous Decomposition Products:CO, CO2, & OTHER TOXIC PRODUCTS OF
+    DECOMPOSITION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:NO SPECIAL PROCEDURES.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

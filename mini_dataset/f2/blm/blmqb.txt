@@ -1,0 +1,157 @@
+=====================  Product Identification  =====================
+
+Product ID:GLOSS AROPLATE-II T/W, 648 401
+MSDS Date:04/17/1989
+FSC:8010
+NIIN:00N022249
+MSDS Number: BLMQB
+=== Responsible Party ===
+Company Name:FRAZEE PAINT & WALL COVERINGS
+Address:6625 MIRAMAR ROAD
+City:SAN DIEGO
+State:CA
+ZIP:92121
+Country:US
+Info Phone Num:619-276-9500
+Emergency Phone Num:619-276-9500
+Preparer's Name:ZEKE
+CAGE:FO493
+=== Contractor Identification ===
+Company Name:FRAZEE INDUSTRIES INC
+Address:6625 MIRAMAR RD
+City:SAN DIEGO
+State:CA
+ZIP:92121
+Country:US
+Phone:858-626-3600
+CAGE:1GK99
+Company Name:FRAZEE PAINT & WALL COVERINGS
+Address:6625 MIRAMAR ROAD
+City:SAN DIEGO
+State:CA
+ZIP:92121
+Phone:(619) 276-9500
+CAGE:FO493
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:AROMATIC PETROLEUM DISTILLATES; (MINERAL SPIRITS)
+CAS:64741-41-9
+Fraction by Wt: 35%
+Other REC Limits:125 PPM (MFR)
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: DIZZINESS, BREATHING
+    DIFFICULTY, HEADACHES AND LOSS OF COORDINATION. IF THERE ARE SIGNS
+    OF OVEREXPOSURE TO VAPOR OR MIST OF SOLVENTS IN MATERIAL, MOVE
+    INDIVIDUAL TO AN UNCONTAMINATED AREA  AND GET MEDICAL ATTENTION.
+    SKIN AND EYE: USE GOOD PERSONAL HYGIENE PRACTICES WHILE WORKING
+    WITH (SEE EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ: MATERIAL. DRY CONTAMINATED CLOTHING
+    BEFORE REUSE. SKIN: MATERIAL IS NOT EXPECTED TO BE PRIMARY SKIN
+    IRRITANT. HOWEVER, MINOR IRRITATION MAY BE NOTED FOLLOWING
+    PROLONGED OR FREQUENTLY REPEATE D CONTACT WHICH MAY CAUSE SKIN TO
+    BECOME DRY OR CRACKED FROM DEFATTING ACTION. INGESTION: MATL IS
+    SWALLOWED OR (SUP DAT)
+Medical Cond Aggravated by Exposure:ANESTHESIA, RESPIRATORY TRACT
+    IRRITATION, DERMATITIS, NAUSEA, VOMITING, POSSIBLE UNCONSCIOUSNESS
+    AND EVEN ASPHYXIATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: CLEAN WITH SOAP AND WATER. INGESTION: DO NOT INDUCE
+    VOMITING. CONSULT PHYSICIAN. INHALATION: REMOVE TO FRESH AIR. EYE:
+    FLUSH WITH WATER FOR AT LEAST 15 MINUTES. CONSULT PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:109F,43C
+Lower Limits:1.0%
+Upper Limits:6.0%
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL, WATER FOG.
+Fire Fighting Procedures:DO NOT USE WATER EXCEPT IN FORM OF FOG.
+    EXCLUDE AIR. USE NIOSH/MSHA APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT . CONSULT LOCAL FIRE MARSHALL.
+Unusual Fire/Explosion Hazard:VAPOR FORMS EXPLOSIVE MIXTURE WITH AIR
+    BETWEEN UPPER AND LOWER EXPLOSIVE LIMITS. DO NOT OPEN OR USE NEAR
+    ANY FLAME OR SPARK SOURCE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WIPE IMMEDIATELY AND DISCARD ABSORBANT
+    MATERIAL IN ACCORDANCE WITH CURRENT REGULATIONS.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:TOOLS TO OPEN ANY CNTNR MUST BE NON-
+    SPARKING. PRIOR TO OPENING CNTNR, ELECTROSTATIC BONDING BETWEEN
+    DISPENSING & RECEIVING CNTNR MUST BE ACCOMPLISHED
+Other Precautions:IN ADDITION, ELECTROSTATIC GROUNDING OF CONTAINERS
+    MUST BE PROVIDED. AVOID PROLONGED BREATHING OF VAPORS. AVOID
+    PROLONGED OR REPEATED SKIN CONTACT. AVOID ALL SOURCES OF HEAT, OPEN
+    FLAMES, SPARKS AND S TATIC ELECTRICITY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WHEN SPRAYING MATL USE A NIOSH/MSHA APPRVD
+    CARTRIDGE RESP/GAS MASK SUITABLE TO KEEP AIRBORNE MISTS AND VAPOR
+    CONCENTRATIONS BELOW TIME WEIGHTED THRESHOLD LIMIT VALUES. WHEN
+    USING IN POORLY VENT & CONF INED SPACES USE NIOSH/MSHA (SUP DAT)
+Ventilation:EXHAUST WITH EXPLOSION PROOF EQUIPMENT IS RECOMMENDED TO
+    MAINTAIN CONCENTRATIONS BELOW TLV AND LEL LIMITS.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEM WORK GOG & FULL LGTH FACESHLD
+Other Protective Equipment:TO PREVENT REPEATED OR PROLONGED SKIN
+    CONTACT, WEAR IMPERVIOUS CLOTHING AND BOOTS.
+Work Hygienic Practices:EYE WASHES & SAFETY SHOWERS IN WORKPLACE ARE
+    RECOMMENDED, AS WELL AS BARRIER CREAMS, DAILY SHOWERS & CHANGE OF
+    CLOTHES.
+Supplemental Safety and Health
+EFTS OF OVEREXP: ASPIR, CHEM PNEUM MAY RESULT. IF SWALLOWED, GET MED
+    ATTN IMMED. DO NOT INDUCE VOMIT. ACUTE & CHRONIC: SKIN: IRRIT ,
+    DEFAT, DERM. EYES: REDNESS, TEARING & BLURRED VISION. INHAL: EXCESS
+    IVE INHAL OF VAPS CAN CAUSE NASAL RESP IRRIT, DIZZ, FATIGUE, HDCH &
+    NAUS. RESP PROT: FRESH-AIR SUPP RESP OR SCBA.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:315F,157C
+Vapor Density:HVR/AIR
+Spec Gravity:1.1
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:WHITE VISCOUS LIQUID. MINERAL SPIRITS ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTACT WITH STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:DO NOT USE NEAR OPEN FLAME. EXCESS HEAT
+    MAY CAUSE CONTAINERS TO RUPTURE.
+Hazardous Decomposition Products:CO, CO2, VARIOUS HYDROCARBONS, ETC.,
+    BY COMBUSTION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH CURRENT LOCAL,
+    STATE AND FEDERAL REGULATIONS GOVERNING SOLVENT-BASED PAINT AND
+    PAINT WASTE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

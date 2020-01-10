@@ -1,0 +1,174 @@
+=====================  Product Identification  =====================
+
+Product ID:3C UNIVERSAL 60% PRE-DILUTED ANTIFREEZE
+MSDS Date:11/19/1996
+FSC:6850
+NIIN:01-441-3248
+Status Code:A
+MSDS Number: CJQBP
+=== Responsible Party ===
+Company Name:THIRD COAST PACKAGING INC
+Address:18410 W CLOVER LN
+Box:367
+City:FRIENDSWOOD
+State:TX
+ZIP:77546
+Country:US
+Info Phone Num:713-482-9212
+Emergency Phone Num:713-482-9212
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:0P418
+=== Contractor Identification ===
+Company Name:CHEMICAL SPECIALISTS AND DEVELOPMENT INC
+Address:2210 HACKBERRY LN
+Box:687
+City:CONROE
+State:TX
+ZIP:77305
+Country:US
+Phone:409-756-1065
+Contract Num:SP0450-99-C-5697
+CAGE:4N760
+Company Name:THIRD COAST PACKAGING INC
+Address:18410 W CLOVER LN
+Box:367
+City:FRIENDSWOOD
+State:TX
+ZIP:77549
+Country:US
+Phone:281-482-9212;914-838-7204
+CAGE:0P418
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHYLENE GLYCOL
+CAS:107-21-1
+RTECS #:KW2975000
+= Wt:57.
+ACGIH STEL:C127 MG/M3;C50 PPM
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: PRIMARY IRRITATION TO EYES. 
+    SKIN: PRIMARY IRRITATION TO SKIN, DEFATTING, DERMATITIS. 
+    INHALATION: ANESTHETIC. IRRITATES RESPIRATORY TRACT. ACUTE
+    OVEREXPOSURE CAN CAUSE SERIOUS NERVOUS SYSTEM DE PRESSION. VAPOR
+    HARMFUL.  INGESTION: HARMFUL OR FATAL IF SWALLOWED. CAN CAUSE
+    ABDOMINAL IRRITATION.
+Explanation of Carcinogenicity:THIS PRODUCT HAS NO CARCINOGENS LISTED
+    BY IARC, NTP, NIOSH, OSHA, OR ACGIH, AS OF THIS DATE, GREATED OR
+    EQUAL TO 0.1%.
+Effects of Overexposure:EYES: REDNESS, TEARING, BLURRED VISION. 
+    INHALATION: SYMPTOMS OF NERVOUS SYSTEM DEPRESSION.	INGESTION:
+    NAUSEA, VOMITING, AND DIARRHEA.
+Medical Cond Aggravated by Exposure:PERSONS WITH SEVERE SKIN, LIVER, OR
+    KIDNEY PROBLEMS SHOULD AVOID USE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH LARGE AMOUNTS OF WATER FOR AT LEAST 15 MIN,
+    LIFTING EYELIDS TO INSURE COMPLETE FLUSHING OF SURFACE.  GET
+    MEDICAL ATTENTION. SKIN: REMOVE CONTAMINATED CLOTHING. WASH SKIN
+    AREA WITH SOA P AND WATER. GET MEDICAL ATTENTION IF SYMPTOMS
+    DEVELOP AND PERSIST. INHALATION: MOVE TO FRESH AIR. IF NOT
+    BREATHING,GIVE CPR. IF BREATHING DIFFICULT GIVE OXYGEN. GET MEDICAL
+    ATTENTION IMMEDIATELY.  IN GESTION: GET  IMMEDIATE MEDICAL
+    ATTENTION AND DO NOT INDUCE VOMITING.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:=118.3C, 245.F
+Autoignition Temp:=343.3C, 650.F
+Lower Limits:3.2
+Extinguishing Media:NFPA CLASS B EXTINGUISHERS (CARBON DIOXIDE OR FOAM)
+    FOR CLASS IIIB FIRES.
+Fire Fighting Procedures:WATERSPRAY MAY BE INEFFECTIVE ON FIRE BUT CAN
+    PROTECT FIRE-FIGHTERS AND COOL CLOSED CONTAINERS. USE FOG NOZZLES
+    IF WATER IS USED.DON'T ENTER CONFINED FIRE-SPACE WITHOUT FULL
+    BUNKER GEAR. HELMET WITH F ACE SHIELD, BUNKER COATS, GLOVES &
+    BOOTS. USE NIOSH APPROVED POSITIVE PRESSURE SELF CONTAINED
+    BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:SLIGHTLY COMBUSTIBLE.  KEEP CONTAINERS
+    TIGHTLY CLOSED. ISOLATE FROM OXIDIZERS, HEAT AND OPEN FLAME. CLOSED
+    CONTAINERS MAY EXPLODE IF EXPOSED TO EXTREME HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:STOP SPILL AT SOURCE. DIKE AREA AND CONTAIN
+    SPILL.  CLEAN UP REMAINDER WITH ABSORBENT MATERIALS. MOP UP AND
+    DISPOSE OF PROPERTY.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM OXIDIZERS, HEAT, OPEN
+    FLAMES. USE WITH ADEQUATE VENTILATION. AVOID BREATHING VAPOR/MIST.
+    DO NOT FLAME CUT, BRAZE, OR WELD CONTAINERS. STORE IN A COOL
+    VENTILATED AREA.
+Other Precautions:DO NOT STORE ABOVE 120F. STORE LARGE AMOUNTS IN
+    STRUCTURES MADE FOR OSHA CLASS IIIB LIQUIDS. KEEP CONTAINERS
+    TIGHTLY CLOSED AND UPRIGHT WHEN NOT IN USE TO PREVENT LEAKAGE.
+    AVOID FREE FALL OF LIQUID. G ROUND CONTAINERS WHEN TRANSFERRING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:VENTILATE TO KEEP VAPORS OF THIS MATERIAL BELOW
+    20 PPM. IF OVER TLV, IN ACCORDANCE WITH 29 CFR 1910.134, USE NIOSH
+    APPROVED POSITIVE-PRESSURE, SELF-CONTAINED BREATHING APPARATUS.
+    CONSULT SAFETY EQUIPM ENT SUPPLIER. USE EXPLOSION PROOF EQUIPMENT
+Ventilation:LOCAL EXHAUST IS NECESSARY. MECHANICAL IS ACCEPTABLE
+Protective Gloves:WEAR GLOVES IMPERVIOUS TO THIS MATERIAL
+Eye Protection:WEAR OSHA STANDARD GOGGLES OR FACE SHIELD
+Other Protective Equipment:WEAR APRON AND FOOTWEAR IMPERVIOUS TO THIS
+    MATERIAL
+Work Hygienic Practices:WASH CLOTHING BEFORE REUSE
+Supplemental Safety and Health
+NONE PROVIDED BY MFR.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V7
+Boiling Pt:>111.C, 231.8F
+B.P. Text:111 TO 198 DEG C
+Vapor Pres:1.6 MMHG @ 20 DEG C
+Vapor Density:2.0(AIR=1)
+Spec Gravity:1.110 @ 60 DEG F (WATER=1
+pH:9.0
+Solubility in Water:COMPLETE
+Appearance and Odor:GREEN LIQUID WITH NO ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ISOLATE FROM STRONG OXIDIZERS SUCH AS PERMANGANATES, CHROMATES, AND
+    PEROXIDES.
+Stability Condition to Avoid:ISOLATE FROM OXIDIZERS, HEAT, AND OPEN
+    FLAMES
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE  FROM
+    BURNING.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF WASTE IN ACCORDANCE WITH LOCAL,
+    STATE, FEDERAL HEALTH, SAFETY AND POLLUTION REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:DOT SHIPPING NAME: DRUM: NONE.  BULK: RQ,
+    ENVIRONMENTALLY HAZARDOUS  SUBSTANCES, LIQUID, NOS (ETHYLENE
+    GLYCOL), 9, UN3082, PG-III.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,146 @@
+=====================  Product Identification  =====================
+
+Product ID:HYDRAULIC FLUID,A-A-59290
+MSDS Date:06/14/1999
+FSC:9150
+NIIN:00-224-8729
+Status Code:A
+MSDS Number: CJQCW
+=== Responsible Party ===
+Company Name:OCTAGON PROCESS INC.
+Address:596 RIVER ROAD
+City:EDGEWATER
+State:NJ
+ZIP:07020-1105
+Country:US
+Info Phone Num:201-945-9400
+Emergency Phone Num:201-417-1056
+Preparer's Name:J.J. BURGARD
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:82925
+=== Contractor Identification ===
+Company Name:OCTAGON PROCESS INC.
+Address:596 RIVER ROAD
+Box:City:EDGEWATER
+State:NJ
+ZIP:07020
+Country:US
+Phone:201-945-9400
+Contract Num:SP0450-99-M-B261
+CAGE:82925
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHYLENE GLYCOL  (SARA III)
+CAS:107-21-1
+RTECS #:KW2975000
+Fraction by Wt: 95% %
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:C 50 PPM
+ACGIH TLV:C 50 PPM,VAPOR; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:UNIDENTIFIED COMPONENT
+Fraction by Wt: 5%
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NOT SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYE IRRITATION, CHEMICAL
+    CONJUNCTIVITIS, SKIN IRRITATION, PROLONGED OR REPEATED SKIN CONTACT
+    MAY CAUSE DRYNESS AND DERMATITIS, CENTRAL NERVOUS SYSTEM
+    STIMULATION/DEPRESSION, GASTROINTESTINAL DISTURBAN CES, CHRONIC
+    KIDNEY DAMAGE WHICH CAN BEFATAL.
+Explanation of Carcinogenicity:PRODUCT CONTAINS NO INGREDIENTS
+    CURRENTLY CLASSIFIED AS CARCINOGENIC BY NTP, IARC OR OSHA.
+Effects of Overexposure:EYE IRRITATION, ITCHING, REDNESS, SKIN
+    IRRITATION, DRYNESS, DEPRESSION, DIZZINESS, LIGHTHEADEDNESS,
+    GASTROINTESTINAL PAIN, NAUSEA, VOMITING, CHRONIC KIDNEY DAMAGE,
+    DEATH/
+Medical Cond Aggravated by Exposure:NO DATA AVAILABLE
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLOOD WITH WATER FOR AT LEAST 15 MINUTES. IF IRRITATION
+    PERSISTS, GET IMMEDIATE MEDICAL ATTENTION. SKIN: WASH WITH MILD
+    SOAP AND WATER. IF IRRITATION OCCURS AND PERSISTS, GET MEDICAL
+    ATTENTION.	INGESTION: INDUCE VOMITING. ADMINISTER 4-8 OUNCES OF
+    WATER TO DILUTE STOMACH CONTENTS. GET IMMEDIATE MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:=111.1C, 232.F
+Lower Limits:3.2 %
+Upper Limits:NOT GIVEN
+Extinguishing Media:WATER SPRAY OR FOG, DRY CHEMICAL, FOAM OR CARBON
+    DIOXIDE
+Fire Fighting Procedures:KEEP FIRE EXPOSED CONTAINERS COOL WITH WATER
+    SPRAY.
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DIKE AND CONTAIN SPILL. ABSORB PRODUCT WITH
+    INERT MATERIAL AND PLACE INTO PROPER CONTAINERS FOR DISPOSAL. DO
+    NOT ALLOW ANY MATERIAL TO ENTER DRAINS, SEWERS OR WATER WAYS.
+    COMPLY WITH ALL SPILL NOTIFIC ATION REGULATIONS.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,,DRY PLACE. KEEP
+    CONTAINERS CLOSED WHEN NOT IN USE. DO NOT CONTAMINATE PRODUCT WITH
+    WATER.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF WORKING IN A CONFINED SPACE OR MISTING IS
+    OCCURRING, USE  NIOSH-APPROVED RESPIRATORY PROTECTION (29 CFR
+    1910.134).
+Ventilation:LOCAL EXHAUST AND MECHANICAL (FANS)
+Protective Gloves:RUBBER
+Eye Protection:SAFETY GLASSES OR GOGGLES
+Other Protective Equipment:LOCAL EMERGENCY SHOWERS AND EYE WAH STATIONS
+Work Hygienic Practices:WASH HANS AND FACE AFTER HANDLING PRODUCT.
+    LAUNDER CONTAMINATED CLOTHING BEFORE RE-USE.
+Supplemental Safety and Health
+LAUNDER CONTAMINATED CLOTHING BEFORE RE-USE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:=171.1C, 340.F
+Melt/Freeze Pt:M.P/F.P Text:NOT GIVEN
+Vapor Pres:0.60 MMHG
+Vapor Density:2.1
+Spec Gravity:1.12
+Evaporation Rate & Reference:<0.01 (BUTYL ACETATE = 1)
+Solubility in Water:APPRECIABLE
+Appearance and Odor:YELLOW TO LIGHT AMBER LIQUID, MILD ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS
+Hazardous Decomposition Products:CARBON MONOXIDE UPON INCOMPLETE
+    COMBUSTION
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF WASTE IN COMPLIANCE WITH ALL LOCAL,
+    STATE AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

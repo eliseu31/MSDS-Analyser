@@ -1,0 +1,195 @@
+=====================  Product Identification  =====================
+
+Product ID:CLEANER/PRIMER 005 PURPLE
+MSDS Date:03/21/1990
+FSC:8040
+NIIN:01-386-7695
+MSDS Number: BWRJB
+=== Responsible Party ===
+Company Name:OATEY
+Address:4700 W 160TH STREET
+Box:25906
+City:CLEVELAND
+State:OH
+ZIP:44135
+Country:US
+Info Phone Num:303-628-5716
+Emergency Phone Num:303-628-5716
+Preparer's Name:GABRIELLA BITZ
+CAGE:IO629
+=== Contractor Identification ===
+Company Name:OATEY
+Address:4700 W 160TH ST
+Box:35096
+City:CLEVELAND
+State:OH
+ZIP:44135
+Country:US
+Phone:303-623-5716
+CAGE:IO629
+Company Name:OATEY CO
+Address:4700 WEST 160TH STREET
+Box:35906
+City:CLEVELAND
+State:OH
+ZIP:44135
+Country:US
+Phone:216-267-7100/303-623-5716
+CAGE:53472
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:2-BUTANONE; (METHYL ETHYL KETONE) (MEK) (SARA 313) (CERCLA)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: 75-80%
+OSHA PEL:200 PPM
+ACGIH TLV:200 PPM;300 STEL
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:FURAN, TETRAHYDRO-; (TETRAHYDROFURAN)  (CERCLA)
+CAS:109-99-9
+RTECS #:LU5950000
+Fraction by Wt: 1-3%
+OSHA PEL:200 PPM
+ACGIH TLV:200 PPM;250 STEL
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ACETONE (SARA 313) (CERCLA)
+CAS:67-64-1
+RTECS #:AL3150000
+Fraction by Wt: 12-24%
+OSHA PEL:1000 PPM
+ACGIH TLV:750 PPM;1000 STEL
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ANTHRAQUINONE, 1-HYDROXY-4-(P-TOLUIDINO)-; (VIOLET DYE)
+CAS:81-48-1
+RTECS #:CB7700000
+Fraction by Wt: <1%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:CYCLOHEXANONE (CERCLA)
+CAS:108-94-1
+RTECS #:GW1050000
+Fraction by Wt: 3-10%
+OSHA PEL:50 PPM, S
+ACGIH TLV:25 PPM, S
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:TOLUIDINE RED PIGMENT; (RED DYE)
+CAS:4477-79-6
+Fraction by Wt: <1%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHAL:MAY CAUSE IRRIT OF MUC MEMBS,
+    NOSE & THROAT, HDCH, DIZZ, NAUS, NUMB OF EXTREMS & NARCOS IN HIGH
+    CONCS. HAS CAUSED CNS DEPRESS & LIVER DMG IN ANIMALS & CONCS OF
+    1000-3000 PPM CAUSED RETARDATION O F FETAL DEVELOPMENT IN RATS.
+    SKIN:CHRONIC CONT/CHRONIC EXPOS TO VAPS OF HIGH CONC MAY CAUSE
+    IRRIT & (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:HLTH HAZ:DERM. MAY POSS BE ABSORBED THRU SKIN.
+    EYE:VAPS/DIRECT CONT MAY IRRIT. INGEST:MAY BE ASPIRATED INTO
+    LUNGS/CAUSE SYSTEMIC EFTS AS W/INHAL. TARGET ORGANS:EYE, SKIN,
+    LUNGS, CNS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:WASH THORO W/SOAP & WATER. SEEK MED ATTN IF IRRIT
+    PERSISTS. EYES:MOVE TO FRESH AIR & IRRIGATE W/WATER FOR AT LST 15
+    MINS. IF IRRIT PERSISTS, SEEK MED ATTN. IF EYE IS STRUCK W/WIRE,
+    SEEK MED ATTN.  INHAL:MOVE TO FRESH AIR. IF BRTHG IS DFCLT, GIVE
+    OXYGEN. IF NOT BRTHG, GIVE ARTF RESP. KEEP VICTIM QUIET & WARM.
+    CALL POIS CTL CTR/MD IMMED. INGEST:DRINK WATER & CALL POIS CTL
+    CTR/MD IMMED. (SUPDAT)
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:>0F,>-18C
+Lower Limits:2%
+Upper Limits:13%
+Extinguishing Media:FOR SMALL FIRES:USE DRY CHEMICAL, CO*2, WATER OR
+    FOAM EXTINGUISHER.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT . FOR LARGE FIRES: EVACUATE AREA & CALL FIRE DEPARTMENT
+    IMMEDIATELY.
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA, STOP LEAK IF IT CAN BE DONE
+    W/OUT RISK. TAKE UP W/SAND, EARTH OR OTHER NON-COMBUSTIBLE
+    ABSORBENT.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM HEAT, SPARKS & FLAMES;
+    STORE IN COOL, DRY PLACE. FLAMMABLE LIQUID. IRRITANT. SKIN/EYE
+    HAZARD. TOXIC AGENT.
+Other Precautions:CONTAINERS, EVEN EMPTIES WILL RETAIN RESIDUE &
+    VAPORS. REPRODUCTIVE TOXIN. NERVOUS SYSTEM TOXIN. LUNG TOXIN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED CANNISTER RESPIRATOR IN
+    ABSENCE OF ADEQUATE VENTILATION.
+Ventilation:GEN MECH:EXHST VENT CAPABLE OF MAINTAINING EMISSIONS AT
+    POINT OF USE BELOW PEL. LOC EXHST:OPEN DOORS & WINDOWS. (SUPDAT)
+Protective Gloves:RUBBER GLOVES.
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGGS .
+Other Protective Equipment:EYE WASH & SAFETY SHOWER SHOULD BE
+    AVAILABLE.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+FIRST AID PROC:AVOID ALCOHOLIC BEVERAGES. NEVER GIVE ANYTHING BY MOUTH
+    TO AN UNCONSCIOUS PERSON. VENT:IF USED IN ENCLOSED AREA, USE
+    EXHAUST FANS.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:133F,56C
+Vapor Pres:70 @ 20C
+Vapor Density:2
+Spec Gravity:0.79
+Evaporation Rate & Reference:6-8 (BUTYL ACETATE=1)
+Solubility in Water:28 PARTS
+Appearance and Odor:PURPLE LIQUID; SHARP, PENETRATING ODOR.
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACIDS, OXIDIZING MATLS, ALKALIS, CHLORINATED INORGANICS(POTASSIUM,
+    CALCIUM & SODIUM HYPOCHLORITE), COPPER/COPPER ALLOYS.
+Stability Condition to Avoid:HEAT, SPARKS & OPEN FLAME.
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE,
+    HYDROGEN CHLORIDE, SMOKE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF ACCORDING TO LOCAL, STATE & FEDERAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

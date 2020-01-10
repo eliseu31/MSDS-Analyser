@@ -1,0 +1,168 @@
+=====================  Product Identification  =====================
+
+Product ID:146 4114;RAPID FIXER;W/S-PAPER;KAN 471330
+MSDS Date:01/27/1994
+FSC:6750
+NIIN:00-528-0473
+Kit Part:Y
+MSDS Number: BWRKH
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-722-5151
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 90-95%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:AMMONIUM THIOSULFATE
+CAS:7783-18-8
+RTECS #:XN6465000
+Fraction by Wt: 5-10%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:SODIUM ACETATE
+CAS:127-09-3
+RTECS #:AJ4300010
+Fraction by Wt: 1-5%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:BORIC ACID
+CAS:10043-35-3
+RTECS #:ED4550000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:10 MG BORATES/M3
+ACGIH TLV:5 MG BORATES/M3
+
+Ingred Name:AMMONIUM SULFITE  (SARA III)
+CAS:10196-04-0
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ACETIC ACID  (SARA III)
+CAS:64-19-7
+RTECS #:AF1225000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:10 PPM
+ACGIH TLV:10 PPM/15 STEL; 9394
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:TLV FOR ACETIC ACID IS 10PPM TWA
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES:MAY CAUSE IRRITATION.SKIN:LOW
+    HAZARD FOR EXPECTED HANDLING.INGEST:EXPECTED TO BE A LOW
+    HAZARD.INHAL:EXPECTED TO BE A LOW HAZARD.
+Explanation of Carcinogenicity:THERE ARE NO INGREDIENTS ABOVE 0.1%
+    WHICH ARE IDENTIFIED AS CARCINOGENS BY NTP,IARC OR OSHA.
+Effects of Overexposure:EYES:TRANSCIENT IRRITATION.
+Medical Cond Aggravated by Exposure:NOT REPORTED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:REMOVE CONTAMINATED CLOTHING;WASH WITH SOAP AND
+    WATER.GET MEDICAL ATTENTION.EYES:FLUSH WITH WATER FOR 15
+    MINUTES.GET MEDICAL ATTENTION.INHAL:REMOVE TO FRESH AIR.GIVE OXYGEN
+    OR ARTIFICIAL RESPIRAT ION IF NEEDED.INGEST:DO NOT INDUCE
+    VOMITING.GET PROMPT QUALIFIED MEDICAL ATTENTION.IF CONSCIOUS,GIVE
+    1-2 GLASSES OF WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE MEDIA APPROPRIATE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:USE A SELF-CONTAINED BREATHING APPARATUS AND
+    FULL PROTECTIVE EQUIPMENT.
+Unusual Fire/Explosion Hazard:FIRE CONDITIONS MAY EVOLVE TOXIC FUMES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SOAK UP WITH NON-COMBUSTIBLE INERT
+    ADSORBANT(EG.CLAY);PLACE COLLECTED MATERIEL IN AN APPROPRIATE
+    CONTAINER FOR DISPOSAL;CLEAN SPILL AREA TO REMOVE
+    SLIPPERINESS.SMALL SPILLS-NEUTRALIZE TO PH 3-12;FLUSH  TO SEWER
+    WITH PLENTY OF WATER.
+Neutralizing Agent:SODIUM BICARBONATE,SLAKED LIME.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:USE WITH ADEQUATE VENTILATION.KEEP
+    CONTAINERS CLOSED.AVOID CONTACT WITH OXIDIZING AGENTS.
+Other Precautions:FOLLOW LABEL DIRECTIONS.AVOID BREATHING VAPORS.AVOID
+    SKIN AND EYE CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NEEDED IN NORMAL SERVICE.
+Ventilation:USE GENERAL DILUTION VENTILATION.MFR RECOMMENDS 10 AIR
+    CHANGES/HOUR.
+Protective Gloves:IMPERVIOUS
+Eye Protection:CHEMICAL GOGGLES.
+Other Protective Equipment:PROTECTIVE CLOTHING,AS NEEDED.PROVIDE A
+    LOCAL EYE WASH STATION AND SAFETY SHOWER.
+Work Hygienic Practices:WASH HANDS.SEPERATE WORK CLOTHES FROM STREET
+    CLOTHES.LAUNDER WORK CLOTHES BEFORE REUSE.KEEP FOOD OUT OF THE WORK
+    AREA.
+Supplemental Safety and Health
+KEY1;C3.REFER TO PNIND-D(PT.A);PNIND-B(PT.B);PNIND-W(WORKING SOLUTION
+    FOR FILM).
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C3
+Boiling Pt:B.P. Text:>212F,>100C
+Vapor Pres:18
+Vapor Density:0.6
+Spec Gravity:1.04
+pH:4.4
+Solubility in Water:COMPLETE
+Appearance and Odor:LIQUID;COLORLESS;SLIGHT SULFUR DIOXIDE ODOR.
+Percent Volatiles by Volume:80-85
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+BASE,STRONG OXIDIZERS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:AMMONIA,OXIDES OF NITROGEN,SULFUR
+    DIOXIDE,CHLORAMINE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH FEDERAL,STATE AND
+    LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

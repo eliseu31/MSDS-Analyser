@@ -1,0 +1,181 @@
+=====================  Product Identification  =====================
+
+Product ID:PENNZOIL EP BEARING GREASE 706
+MSDS Date:09/13/1991
+FSC:9150
+NIIN:01-321-3330
+MSDS Number: BLMXN
+=== Responsible Party ===
+Company Name:PENNZOIL CO
+Address:PENNZOIL PL, 700 MILIAM
+City:HOUSTON
+State:TX
+ZIP:77252
+Country:US
+Info Phone Num:713-546-6227
+Emergency Phone Num:713-236-6070
+Preparer's Name:ENV., SAFETY & HEALTH
+CAGE:0AVY3
+=== Contractor Identification ===
+Company Name:CONVOY OIL CORP
+Address:1410 N FRONT STREET
+Box:29366
+City:PHILADELPHIA
+State:PA
+ZIP:19125
+Country:US
+Phone:215-739-5281
+CAGE:6A438
+Company Name:PENNZOIL CO
+Box:2967
+City:OIL CITY
+State:PA
+ZIP:16301-0808
+Country:US
+Phone:713-546-8512
+CAGE:0AVY3
+Company Name:PENNZOIL COMPANY
+Box:808
+City:OIL CITY
+State:PA
+ZIP:16301
+Country:US
+Phone:713-236-6070/713-546-8512
+CAGE:83589
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BASE LUBRICATING OIL
+Fraction by Wt: 80-95%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:LITHIUM SOAP
+Fraction by Wt: 5-10%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:EXTREME PRESSURE AGENT
+Fraction by Wt: 1-5%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:TACKIFER, TRADE SECRET
+Fraction by Wt: <1%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:CORROSION INHIBITOR
+Fraction by Wt: <1%
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL RAT) IS NOT AVAILABLE
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: EYE-MINIMAL IRRITATION.
+    SKIN-MINIMAL IRRITATION. INHALE-NOT EXPECTED TO BE AN INHALATION
+    HAZARD. INGEST-RELATIVELY NON-TOXIC, BUT THIS PRODUCT HAS LAXATIVE
+    PROPERTIES. CHRONIC: SKIN-CONTACT DER MATITIS OR OIL ACNE WITH
+    POSSIBLE SECONDARY INFECTION. CAUTION SHOULD BE TAKEN TO PREVENT
+    MISTING.
+Explanation of Carcinogenicity:NONE OF THE COMPOUNDS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP, OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:SKIN-DRYNESS, CHAPPING, REDNESS, BLACKHEADS.
+    CONSTITUENTS OF THIS PRODUCT HAVE BEEN ASSOCIATED WITH
+    PHOTOSENSITIVITY, AN ABNORMAL SENSITIVITY OF SKIN TO SUNLIGHT.
+    INGEST-ABDOMINAL CRAMPS, DIRRHEA, SHO RTNESS OF BREATH AND
+    COUGHING.
+Medical Cond Aggravated by Exposure:SKIN CONTACT WITH THIS PRODUCT MAY
+    MAKE THE SKIN MORE SUSCEPTIBLE TO OTHER IRRITANTS, SENSITIZERS AND
+    DISEASE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALE-THIS MATERIAL IS NOT EXPECTED TO BE AN INHALATION
+    HAZARD AT ROOM TEMP. IF VAPOR IS GENERATED WHEN HEATED, REMOVE FROM
+    EXPOSURE. EYE-IMMEDIATELY FLUSH WITH WATER FOR 15 MIN. IF MATERIAL
+    IS HOT,  TREAT FOR THERMAL BURNS & GO TO A HOSPITAL. SKIN-REMOVE
+    CONTAMINATED CLOTHING. WASH AREA WITH SOAP/WATER. IF IRRITATION
+    OCCURS, SEE DOCTOR. INGEST-DO NOT INDUCE VOMITING. SEEK A
+    PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:430F,221C
+Autoignition Temp:Autoignition Temp Text:>900F
+Extinguishing Media:USE CARBON DIOXIDE, FOAM, OR DRY CHEMICAL.
+Fire Fighting Procedures:WATER AMY BE INEFFECTIVE BUT CAN BE USED TO
+    COOL FIRE EXPOSED CONTAINERS. USE CAUTION, FROTHING MAY OCCUR,
+    ESPECIALLY IF SPRAYED INTO CONTAINERS OF HOT LIQUID.
+Unusual Fire/Explosion Hazard:DENSE SMOKE MAY BE GENERATED WHILE
+    BURNING. CARBON MONOXIDE, CARBON DIOXIDE & OTHER OXIDES MAY BE
+    GENERATED AS PRODUCTS OF COMBUSTION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONTAIN SPILL. DO NOT ALLOW SPILL TO ENTER
+    WATERCOURSES. REMOVE IGNITION SOURCES. ABSORB WITH APPROPIATE INERT
+    MATERIAL SUCH AS SAND, CLAY, ETC.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT TRANSFER TO UNMARKED
+    CONTAINERS. STORE IN CLOSED CONTAINER AWAY FROM HEAT, SPARKS, OPEN
+    FLAMES, OR OXIDIZING MATERIAL.
+Other Precautions:THIS PRODUCT IS NOT CLASSIFIED AS HAZARDOUS UNDER DOT
+    REGULATIONS. FIRE EXTINGUISHERS SHOULD BE KEPT READILY AVAILABLE.
+    SEE NFPA 30 AND OSHA 1910.106--FLAMMABLE AND COMBUSTIBLE LIQUIDS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESPIRATORY PROTECTION IS NOT REQUIRED UNDER
+    NORMAL CONDITIONS OF USE. IF VAPOR OR MIST IS GENERATED WHEN THE
+    MATERIAL IS HEATED OR HANDLED, USE A NIOSH APPROVED ORGANIC VAPOR
+    RESPIRATOR WITH A DUST A ND MIST FILTER.
+Ventilation:IF VAPOR OR MIST IS GENERATED, USE ADEQUATE VENTILATION IN
+    ACCORDANCE WITH GOOD ENGINEERING PRACTICES.
+Protective Gloves:RECOMMENDED.
+Eye Protection:PLASTIC FACE SHIELD/SAFETY GLASSES.
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER.
+    INDUSTRIAL-TYPE WORK CLOTHING AND APRON AS REQUIRED.
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES. DO NOT WEAR CONTAMINATED CLOTHING OR
+    FOOTWEAR.
+Supplemental Safety and Health
+FOR PROLONGED OR REPEATED EXPOSURE, USE IMPERVIOUS CLOTHING (BOOTS,
+    GLOVES, APRONS, ETC). IF HANDLING HOT MATERIAL, USE INSULATED
+    PROTECTIVE CLOTHING (BOOTS, GLOVES, APRONS, ETC). LAUNDER SOILED
+    CLOTH ES. PROPERLY DISPOSE OF CONTAMINATED LEATHER ARTICLES. DO NOT
+    USE COMPRESSED OXYGEN IN HYDROCARBON ATMOSPHERE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:>800F,>427C
+Melt/Freeze Pt:M.P/F.P Text:370F,188C
+Spec Gravity:<1
+Solubility in Water:SOLUBLE IN HYDROCARB
+Appearance and Odor:OPAQUE, DARK GREEN LIQUID, MILD PETROLEUM ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ALL DISPOSAL MUST COMPLY WITH FEDERAL, STATE &
+    LOCAL REGULATIONS. THE MATERIAL, IF SPILLED, MAY BE REGULATED
+    WASTE. REFER TO STATE & LOCAL REGULATIONS. CAUTION! IF REGULATED
+    SOLVENTS ARE USED TO CLEAN	UP SPILL, THE RESULTING MIXTURE MAY
+    BEREGULATED.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

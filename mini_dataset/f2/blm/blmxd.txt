@@ -1,0 +1,125 @@
+=====================  Product Identification  =====================
+
+Product ID:SOLID SUPER IMPACT
+MSDS Date:02/04/1991
+FSC:7939
+NIIN:01-265-7258
+MSDS Number: BLMXD
+=== Responsible Party ===
+Company Name:ECOLAB INC ECOLAB CENTER
+Address:370 WABASHA ST
+City:SAINT PAUL
+State:MN
+ZIP:55102-1307
+Country:US
+Info Phone Num:612-293-2570
+Emergency Phone Num:612-293-2570
+CAGE:85884
+=== Contractor Identification ===
+Company Name:ECOLAB PROFESSIONAL PRODUCTS DIVISION OF ECOLAB INC.
+Address:ECOLAB CENTER
+Box:City:ST PAUL
+State:MN
+ZIP:55102
+Country:US
+Phone:800-352-5326
+CAGE:85884
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM HYDROXIDE  (SARA III)
+CAS:1310-73-2
+RTECS #:WB4900000
+Fraction by Wt: 50%
+OSHA PEL:2 MG/M3
+ACGIH TLV:C 2 MG/M3; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:1,3,5-TRIAZINE-2,4,6(1H,3H,5H)-TRIONE, 1,3-DICHLORO-,SODIUM
+    SALT, DIHYDRATE; (SODIUM DICHLOROISOCYANURATE DIHYDRATE)
+CAS:51580-86-0
+RTECS #:XZ1910000
+Fraction by Wt: 5%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN AND EYES: CAUSES SEVERE CHEMICAL
+    BURNS. EYE CONTACT MAY CAUSE BLINDNESS. HARMFUL SKIN CONTACT MAY
+    NOT CAUSE IMMED PAIN. INGEST: HARMFUL OR FATAL. CAUSES CHEMICAL
+    BURNS OF MOUTH, THROAT AND STOMAC H.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:IMMED FLUSH W/PLENTY OF COOL RUNNING H*2O FOR @ LST 15
+    MIN. REMOVE CONT LENSES. CALL PHYS IMMED. SKIN:IMMED FLUSH W/PLENTY
+    OF COOL RUNNING H*2O FOR @ LST 15 MIN WHILE REMOVING CONTAMD
+    CLTHG/SHOES . WASH CLTHG BEFORE REUSE. INGEST:RINSEMOUTH @ ONCE;
+    THEN DRINK 1 OR 2 LG GLASSES OF H*2O/MILK. DO NOT INDUCE VOMIT.
+    NEVER GIVE ANYTHING BY MOUTH TO AN UNCON PERSON. CALL POIS CTRL CTR
+    OR PHYS IMMED.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:MEDIA SUITABLE FOR SURROUNDING FIRE .
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT . PRODUCT DOES NOT SUPPORT COMBUSTION.
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CLEANUP: PICK UP WITHOUT RAISING DUST. FLUSH
+    AREA WITH WATER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP OUT OF REACH OF CHILDREN.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SPECIFIED BY MANUFACTURER. USE NIOSH/MSHA
+    APPROVED RESPIRATOR APPROPRIATE FOR EXPOSURE OF CONCERN .
+Ventilation:NONE SPECIFIED BY MANUFACTURER.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEM WORK GOG & FULL LENGTH FSHLD.
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:B1
+pH:12.5
+Solubility in Water:COMPLETE
+Appearance and Odor:BLUE SOLID: CHLORINE ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACIDS, SOFT METALS SUCH AS AL AND ZN.
+Stability Condition to Avoid:REACTS VIOLENTLY WITH ACIDS. REACTS WITH
+    SOFT METALS SUCH AS ALUMINUM AND ZINC.
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT STATE, FEDERAL AND LOCAL AUTHORITIES FOR
+    RESTRICTIONS ON DISPOSAL OF CHEMICAL WASTE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

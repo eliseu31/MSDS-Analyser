@@ -1,0 +1,169 @@
+=====================  Product Identification  =====================
+
+Product ID:BIOBOND CONCENTRATES
+MSDS Date:01/01/1987
+FSC:6520
+NIIN:00F012284
+MSDS Number: BJDFC
+=== Responsible Party ===
+Company Name:DENTSPLY INTERNATIONAL, INC
+Address:570 WEST COLLEGE AVENUE
+City:YORK
+State:PA
+ZIP:17404
+Info Phone Num:(717) 845-7511
+Emergency Phone Num:(717) 845-7511
+CAGE:8T797
+=== Contractor Identification ===
+Company Name:DENTSPLY INTERNATIONAL INC
+Address:570 WEST COLLEGE AVENUE
+City:YORK
+State:PA
+ZIP:17405
+Phone:(717) 845-7511
+CAGE:8T797
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CALCIUM OXIDE
+CAS:1305-78-8
+RTECS #:EW3100000
+Fraction by Wt: 0.7%
+OSHA PEL:5 MG/M3
+ACGIH TLV:2 MG/M3; 9192
+
+Ingred Name:BORON
+CAS:7440-42-8
+RTECS #:ED7350000
+Fraction by Wt: 0.7%
+
+Ingred Name:MINOR OXIDES
+Fraction by Wt: 2.7%
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:FLUOROSILICATE
+CAS:17084-08-1
+RTECS #:VV7790000
+
+Ingred Name:MAGNESIUM OXIDE
+CAS:1309-48-4
+RTECS #:OM3850000
+OSHA PEL:15 MG/M3 PARTICULATE
+ACGIH TLV:10 MG/M3;TDUST; 9293
+
+Ingred Name:PHOSPHORUS PENTOXIDE  (SARA III)
+CAS:1314-56-3
+RTECS #:TH3945000
+
+Ingred Name:ZINC OXIDE
+CAS:1314-13-2
+RTECS #:ZH4810000
+OSHA PEL:15MG/M3 TDUST/5 FUME
+ACGIH TLV:10MG/M3 TDUST; 9293
+
+Ingred Name:ZIRCONIUM DIOXIDE
+CAS:7440-67-2
+
+Ingred Name:CERIUM OXIDE
+CAS:1306-38-3
+
+Ingred Name:LITHIUM OXIDE
+CAS:12057-24-8
+
+Ingred Name:QUARTZ, SILICON DIOXIDE
+CAS:14808-60-7
+RTECS #:VV7330000
+Fraction by Wt: 61.8%
+Other REC Limits:50 UG/CUM
+OSHA PEL:10 MG/CUM RESP
+ACGIH TLV:10 MG/CUM DUST
+
+Ingred Name:ALPHA-ALUMINA (ALUMINUM OXIDE)  (EPA LISTS ONLY FIBROUS
+    FORMS)  (SARA III)
+CAS:1344-28-1
+RTECS #:BD1200000
+Fraction by Wt: 15.9%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:POTASSIUM OXIDE
+CAS:12136-45-7
+RTECS #:TT3790000
+Fraction by Wt: 10.5%
+
+Ingred Name:SODIUM OXIDE
+CAS:12401-86-4
+RTECS #:WC4800000
+Fraction by Wt: 5.9%
+
+Ingred Name:BARIUM OXIDE
+CAS:1304-28-5
+RTECS #:CQ9800000
+Fraction by Wt: 1.8%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: ANY GLASSY POWDERED
+    MATERIAL CARRIES WITH IT THE DANGER OF POSSIBLE SILICEOUS-LIE
+    EFFECTS.
+Explanation of Carcinogenicity:NONE
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH W/COPIOUS AMOUNTS OF CLER TEPID WATER. IF
+    IRRITATION PERSISTS, CONTACT PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Fire Fighting Procedures:NORMAL FIRE FIGHTING PROCEDURES MAY BE USED.
+Unusual Fire/Explosion Hazard:MATERIAL WON'T BURN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NORMAL SWEEP-UP PROCEDURES. CARE SHOULD BE
+    TAKEN NOT TO DUST.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINERS CLOSED WHEN NOT IN
+    USE. AVOID MOISTURE CONTAMINATION TO AVOID CAKING OF MATERIAL.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Eye Protection:NONE REQUIRED
+Supplemental Safety and Health
+TYPICALLY A GLASSY MATRIX FELDSPATHIC AGGREGATE CERAMIC COMPOSITE.
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:M.P/F.P Text:1750F
+Spec Gravity:2.6
+Solubility in Water:INSOLUBLE
+Appearance and Odor:WHITE POWDER/NO ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+HYDROFLUORIC ACID
+Hazardous Decomposition Products:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DRY TRASH COLLECTION-NONFLAMMABLE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

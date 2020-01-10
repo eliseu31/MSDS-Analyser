@@ -1,0 +1,162 @@
+=====================  Product Identification  =====================
+
+Product ID:ROSIN CORE SOLDER
+MSDS Date:02/14/1991
+FSC:3439
+NIIN:00-473-2000
+MSDS Number: BLMTL
+=== Responsible Party ===
+Company Name:BOW SOLDER PRODUCTS CO INC
+Address:900 HOBSON ST
+Box:488
+City:UNION
+State:NJ
+ZIP:07083
+Country:US
+Info Phone Num:800-526-4496
+Emergency Phone Num:800-526-4496
+CAGE:52329
+=== Contractor Identification ===
+Company Name:BOW ELECTRONIC SOLDERS
+Address:1 CROSSMAN ROAD
+Box:City:SAYREVILLE
+State:NJ
+ZIP:08872
+Country:US
+Phone:732-316-2100/ FAX: 732-316-2177
+CAGE:52329
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TIN
+CAS:7440-31-5
+RTECS #:XP7320000
+Fraction by Wt: 0-100%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:2 MG/M3
+ACGIH TLV:2 MG/M3; 9192
+
+Ingred Name:LEAD  (SARA III)
+CAS:7439-92-1
+RTECS #:OF7525000
+Fraction by Wt: 0-100%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:0.05 MG/M3;1910.1025
+ACGIH TLV:0.15 MG/M3;DUST 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:ANTIMONY  (SARA III)
+CAS:7440-36-0
+RTECS #:CC4025000
+Fraction by Wt: <2%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:0.5 MG/M3
+ACGIH TLV:0.5 MG SB/M3; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:COPPER  (SARA III)
+CAS:7440-50-8
+RTECS #:GL5325000
+Fraction by Wt: <2%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:0.1MG/M3 FUME/1 DUST
+ACGIH TLV:0.2MG/M3 FUME; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ROSIN ACID
+CAS:8050-09-7
+Fraction by Wt: 1-3%
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SEVERE SHORT-TERM OVEREXPOSURE MAY
+    LEAD TO CENTRAL NERVOUS SYSTEM DISORDERS.
+Explanation of Carcinogenicity:PER MANUFACTURER.
+Effects of Overexposure:PROLONGED OVEREXPOSURE TO LEAD CAN RESULT IN
+    SYSTEMIC POISONING WITH SYMPTOMS OF METALLIC TASTE, ANEMIA,
+    INSOMNIA, WEAKNESS, CONSTIPATION, ABDOMINAL PAIN, GASTROINTESTINAL
+    DISORDERS, JOINT AND MUSCLE  PAIN, AND MUSCULAR WEAKNESS, AND MAY
+    CAUSE DAMAGE TO THE BLOOD-FORMING, NERVOUS, KIDNEYS, AND
+    REPRODUCTIVE SYSTEMS.
+Medical Cond Aggravated by Exposure:DISEASES OF THE BLOOD AND BLOOD
+    FORMING ORGANS, KIDNEYS, NERVOUS AND POSSIBLY REPRODUCTIVE SYSTEMS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. ADMINISTER BREATHING SUPPORT
+    MEASURES, IF NECESSARY. CONSULT A PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:300F (CORE)
+Extinguishing Media:USE CARBON DIOXIDE OR DRY CHEMICAL ON SURROUNDING
+    FIRE.
+Fire Fighting Procedures:DO NOT USE WATER ON FIRE WHERE MOLTEN METAL IS
+    PRESENT.
+Unusual Fire/Explosion Hazard:MOLTEN METALS PRODUCE FUME OR VAPOR THAT
+    MAY BE TOXIC AND/OR RESPIRATORY IRRITANTS. REACTS VIOLENTLY WITH
+    OXIDIZING AGENTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ANY METHOD THAT KEEPS DUST TO A MINIMUM IS
+    ACCEPTABLE.  USE OF APPROVED RESPIRATORY PROTECTION WHERE
+    POSSIBILITY OF DUST/FUME EXPOSURE EXISTS. DO NOT USE COMPRESSED AIR
+    FOR CLEANING.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NONE
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WHERE AIRBORNE EXPOSURES MAY EXCEED OSHA/ACGIH
+    PERMISSIBLE AIR CONCENTRATIONS, THE MINIMUM RESPIRATORY PROTECTION
+    RECOMMENDED IS A NEGATIVE PRESSURE AIR PURIFYING RESPIRATOR WITH
+    CARTRIDGES THAT ARE N IOSH/MSHA APPROVED AGAINST DUST/FUMES.
+Ventilation:LOCAL EXHAUST VENTILATION IS RECOMMENDED FOR DUST AND/OR
+    FUME GENERATION OPERATIONS.
+Protective Gloves:GLOVES RECOMMENDED
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:NONE
+Work Hygienic Practices:WASH HANDS THOROUGHLY AFTER HANDLING THIS
+    PRODUCT.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:>2372F
+Melt/Freeze Pt:M.P/F.P Text:354F,179C
+Spec Gravity:7.3-11.3
+Solubility in Water:INSOLUBLE
+Appearance and Odor:SILVER-WHITE METAL, CORE HAS SLIGHY ROSIN ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS MAY CAUSE VIOLENT REACTION.
+Hazardous Decomposition Products:METAL FUMES AND OXIDES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST COMPLY WITH FEDERAL, STATE, AND
+    LOCAL DISPOSAL OR DISCHARGE LAWS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

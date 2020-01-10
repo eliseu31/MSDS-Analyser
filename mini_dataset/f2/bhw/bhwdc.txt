@@ -1,0 +1,170 @@
+=====================  Product Identification  =====================
+
+Product ID:MOLECULAR SIEVE TYPE 4A
+MSDS Date:12/01/1992
+FSC:6850
+NIIN:01-143-7657
+MSDS Number: BHWDC
+=== Responsible Party ===
+Company Name:UOP INC
+Address:25 E ALGONQUIN RD
+City:DES PLAINES
+State:IL
+ZIP:60017-5017
+Country:US
+Info Phone Num:708-391-2123
+Emergency Phone Num:708-391-2123/800-424-9300(CHEMTREC)
+CAGE:02QC3
+=== Contractor Identification ===
+Company Name:ADCOA-ADSORBENTS AND DESICCANTS CORP OF AMERICA
+Address:17000 S  VERMONT AVENUE
+Box:City:GARDENA
+State:CA
+ZIP:90247-5832
+Country:US
+Phone:310-532-6086
+CAGE:61134
+Company Name:UOP LLC
+Address:25 E ALGONQUIN RD
+Box:City:DES PLAINES
+State:IL
+ZIP:60017-5017
+Country:US
+Phone:847-391-3189 FAX: 847-391-2953
+CAGE:02QC3
+Company Name:UOP, MOLECULAR SIEVE DEPT
+Address:308 HARPER DRIVE
+Box:City:MOORESTOWN
+State:NJ
+ZIP:08057
+Country:US
+Phone:609-778-6283, CHEMTREC 800-424-9300
+CAGE:0H8X3
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM OXIDE
+CAS:1313-59-3
+Fraction by Wt: <30%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:ALPHA-ALUMINA (ALUMINUM OXIDE) (SARA 313)
+CAS:1344-28-1
+RTECS #:BD1200000
+Fraction by Wt: <30%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9495
+
+Ingred Name:SILICA GEL
+CAS:112945-52-5
+RTECS #:VV7310000
+Fraction by Wt: <50%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:6 MG/M3
+ACGIH TLV:10 MG/M3
+
+Ingred Name:MAGNESIUM OXIDE
+CAS:1309-48-4
+RTECS #:OM3850000
+Fraction by Wt: <5%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:15 MG/M3 PARTICULATE
+ACGIH TLV:10 MG/M3; FUME; 9495
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: CONTACT WITH SKIN AND EYES MAY
+    CAUSE IRRITATION AND/OR BURNS. INHALATION OF DUST MAY CAUSE
+    IRRITATION OF NOSE AND THROAT. INGESTION MAY CAUSE BURNS TO MUCOUS
+    MEMBRANES OF MOUTH, THROAT AND STOM ACH MAY OCCUR. CHRONIC:
+    PROLONGED INHALATION MAY CAUSE LUNG DAMAGE.
+Explanation of Carcinogenicity:NO INGREDIENT OF A CONCENTRATION OF 0.1%
+    OR GREATER IS LISTED AS A CARCINOGEN OR SUSPECTED CARCINOGEN.
+Effects of Overexposure:EYES-REDNESS, IRRITATION. SKIN-REDNESS, BURNS.
+    INHALED-COUGH, CHEST DISCOMFORT. INGESTED-BURNS TO MUCOUS
+    MEMBRANES, STOMACH PAIN.
+Medical Cond Aggravated by Exposure:ASTHMA AND INFLAMMATORY OR FIBROTIC
+    PULMONARY DISEASE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALED-REMOVE TO FRESH AIR. EYES-FLUSH WITH WATER FOR 15
+    MINUTES. SKIN-WASH WITH SOAP & WATER. INGESTED-IF CONSCIOUS, DRINK
+    2 GLASSES OF WATER. CONTACT PHYSICIAN TO GET PERMISSION TO INDUCE
+    VOMITING.  NOTE TO PHYSICIAN: PRODUCT IS A DESSICCANT AND MAY
+    PRODUCE HEAT IF IT ADORBS WATERS. THE USED PRODUCT MAY CONTAIN
+    MATERIAL OF A HAZARDOUS NATURE. IDENTIFY THAT MATERIAL AND TREAT
+    SYMPTOMATICALLY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON-FLAMMABLE
+Extinguishing Media:USE MEDIA APPROPRIATE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS AND
+    FULL PROTECTIVE GERA.
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP THE SPILL AREA. COLLECT AND PLACE THE
+    SPILLED MATERIAL IN A WASTE DISPOSAL CONTAINER. AVOID RAISING DUST.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:USE WITH ADEQUATE VENTILATION. OPEN
+    CONTAINER SLOWLY. AVOID BREATHING DUST. AVOID CONTACT WITH EYES AND
+    SKIN.
+Other Precautions:DO NOT PUT IN MOUTH OR POUR LIQUID INTO PRODUCT;
+    BURNS MAY RESULT. DUST MAY IRRITATE EYES, NOSE, THROAT AND SKIN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF ENGINEERING CONTROLS FAIL OR NON-ROUTINE USE
+    OR AN EMERGENCY OCCURS; WEAR AN MSHA/NIOSH APPROVED RESPIRATOR WITH
+    DUST CARTRIDGE OR AN AIR-SUPPLIED RESPIRATOR OR SCBA, AS REQUIRED.
+    USE IAW 29 CFR 19 10.134.
+Ventilation:USE ADEQUATE MECHANICAL VENTILATION OR LOCAL EXHAUST TO
+    MAINTAIN EXPOSURE BELOW TLV(S).
+Protective Gloves:WORK GLOVES.
+Eye Protection:SAFETY GLASSES/CHEMICAL SPLASH GOGGLES.
+Other Protective Equipment:SELECT IAW 29 CFR 1910.132 & 1910.133.
+Work Hygienic Practices:WASH HANDS AFTER HANDLING AND BEFORE EATING,
+    DRINKING, OR SMOKING. LAUNDER CONTAMINATED CLOTHES BEFORE REUSE.
+Supplemental Safety and Health
+AVOID PROLONGED OR REPEATED EXPOSURE. DO NOT GET ON SKIN OR IN EYES.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V7
+Spec Gravity:1.1-2.1
+Appearance and Odor:TAN PELLETS OR TRISIV GRANULES OR BEADS, OR WHITE
+    POWDER OR CAKE; ODORLESS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+HIGH CONCENTRATIONS OF CHEMICALS HAVING HIGH HEATS OF ADSORPTION SUCH
+    AS OLEFINS, HYDROGEN CHLORIDE, ETC...
+Stability Condition to Avoid:THE ADDITION OF MOISTURE/WATER W/O
+    FLOODING CAN CAUSE RISE OF TEMEPRATURE FROM HEAT OF ADSORPTION-MAY
+    CAUSE SKIN BURNS.
+Hazardous Decomposition Products:MIXTURE OF OXIDES OF INGREDIENTS.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE AND
+    FEDERAL ENVIRONMENTAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

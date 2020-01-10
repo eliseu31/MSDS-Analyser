@@ -1,0 +1,144 @@
+=====================  Product Identification  =====================
+
+Product ID:LUBRICATING OIL,INTERNAL COMBUSTION ENGINE
+MSDS Date:02/07/1989
+FSC:9150
+NIIN:00-188-9858
+MSDS Number: BDHLQ
+=== Responsible Party ===
+Company Name:WITCO CHEMICAL CORP GOLDEN BEAR OIL CO DIVISION
+Address:MANOR & NORRIS ROADS
+Box:5446
+City:OILDALE
+State:CA
+ZIP:93388-5446
+Country:US
+Info Phone Num:805-393-7110
+Emergency Phone Num:805-393-7110,CHEMTREK 800-424-9300
+Preparer's Name:J.T. COOK
+CAGE:1F469
+=== Contractor Identification ===
+Company Name:WITCO CHEMICAL CORP GOLDEN BEAR OIL CO DIVISION
+Address:MANOR & NORRIS ROADS
+Box:5446
+City:OILDALE
+State:CA
+ZIP:93388-5446
+Country:US
+Phone:805-393-7110/800-424-9300(CHEMTREC)
+CAGE:1F469
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SOLVENT REFINED HEAVY NAPHTHENIC DISTILLATE, PETROLEUM
+CAS:64741-96-4
+RTECS #:PY8040000
+Fraction by Wt: UNK
+Other REC Limits:5 MG/M3 OIL MIST
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE-INGESTION:NOT EXPECTED TO CAUSE
+    ILL EFFECTS. INHALATION:NO ADVERSE HEALTH EFFECTS
+    EXPECTED,HOWEVER,MINUTE AMOUNTS ASPIRATED INTO LUNGS MAY CAUSE
+    PULMONARY INJURY. EYE: IRRITATION. SKIN: NOT NORM ALLY EXPECTED TO
+    CAUSE ILL EFFECTS.	CHRONIC-PROLONGED/REPEATED SKIN CONTACT MAY
+    CAUSE IRRITATION,DERMATITIS.
+Explanation of Carcinogenicity:THE COMPONENTS OF THIS PRODUCT HAVE NOT
+    SHOWN ANY EVIDENCE OF BEING CARCINOGENIC.
+Effects of Overexposure:PROLONGED OR REPEATED SKIN CONTACT MAY CAUSE
+    SKIN IRRITATION. EYE CONTACT MAY CAUSE EYE IRRITATION.
+Medical Cond Aggravated by Exposure:PERSONS WITH A SKIN DISORDER SHOULD
+    AVOID PROLONGED CONTACT WHEN HANDLING OR USING THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: REMOVE CONTAMINATED CLOTHING. WASH WITH SOAP AND WATER.
+    GET MEDICAL ATTENTION IF IRRITATION PERSISTS. INHALATION: REMOVE TO
+    FRESH AIR & RESTORE BREATHING IF NECESSARY. GET MEDICAL ATTENTION.
+    EYE : IMMEDIATELY FLUSH WITH WATER FOR 15 MINUTES WHILE HOLDING
+    EYELIDS OPEN. GET MEDICAL ATTENTION. INGESTION: GET IMMEDIATE
+    MEDICAL ATTENTION. DO NOT INDUCE VOMITING. NOTHING BY MOUTH IF
+    UNCONSCIOUS.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS, SUCH AS OXIDES OF
+    CARBON, NITROGEN AND SULPHUR.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:RECOVER FREE PRODUCT, OR ABSORB WITH
+    DIATOMACEOUS EARTH OR OTHER INERT MATERIAL. STORE IN APPROPRIATE
+    CONTAINER FOR DISPOSAL. KEEP PRODUCT OUT OF SEWERS AND WATERCOURSES
+    BY DIKING OR IMPOUNDING. MINIM IZE SKIN CONTACT AND BREATHING
+    VAPORS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID STORAGE NEAR OPEN FLAME OR OTHER
+    SOURCES OF IGNITION,AND STRONG OXIDANTS.KEEP CONTAINERS CLOSED.
+Other Precautions:EMPTY CONTAINERS RETAIN RESIDUE.DO NOT
+    PRESSURIZE,CUT,WELD OR EXPOSE TO HEAT,FLAME,STATIC ELECTRICITY, OR
+    OTHER SOURCES OF IGNITION;THEY MAY EXPLODE AND CAUSE INJURY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE SUPPLIED-AIR RESPIRATORY PROTECTION IN
+    CONFINED OR ENCLOSED SPACES, IF NEEDED.
+Ventilation:SUFFICIENT TO MAINTAIN ATMOSPHERE BELOW TLV LIMIT.
+Protective Gloves:NEOPRENE, NITRILE, OR POLYVINYL ALCOHOL
+Eye Protection:USE CHEMICAL SAFETY GOGGLES
+Other Protective Equipment:EYE WASH STATION & SAFETY SHOWER. CHEMICALLY
+    RESISTANT BOOTS AND APRONS RECOMMENDED.
+Work Hygienic Practices:DO NOT TAKE INTERNALLY. AVOID SKIN CONTACT.
+    WASH SKIN AFTER USING PRODUCT. DO NOT EAT, DRINK OR SMOKE IN WORK
+    AREA.
+Supplemental Safety and Health
+WASH OR TAKE SHOWER IF GENERAL CONTACT OCCURS. REMOVE OIL-SOAKED
+    CLOTHING AND LAUNDER BEFORE REUSE. DISCARD CONTAMINATED LEATHER
+    GLOVES AND SHOES. IF USED IN APPLICATIONS WHERE MIST MAY BE
+    GENERATED,	OBSERVE A TWA/PEL OF 5 MG/M3 FOR MINERAL OIL MIST.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>550F,>288C
+Vapor Pres:<1
+Vapor Density:<0.1
+Spec Gravity:0.89-0.99
+Viscosity:>100 SUS
+Evaporation Rate & Reference:<.01 (WATER=1)
+Solubility in Water:INSOLUBLE
+Appearance and Odor:OILY LIQUID WITH NO OBJECTIONABLE ODOR.
+Percent Volatiles by Volume:<.01
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS SUCH AS HYDROGEN PEROXIDE, BROMINE, AND CHROMIC
+    ACID.
+Stability Condition to Avoid:HIGH TEMPERATURES, SPARKS, AND OPEN FLAMES
+Hazardous Decomposition Products:FUMES,SMOKE., OXIDES OF CARBON,
+    NITRGEN AND SULFUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF WASTE IN ACCORDANCE WITH LOCAL, STATE
+    AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

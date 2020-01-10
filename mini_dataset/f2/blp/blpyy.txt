@@ -1,0 +1,158 @@
+=====================  Product Identification  =====================
+
+Product ID:6-712 SPEEDHIDE WHITE W/B INHIBITIVE PRIMER
+MSDS Date:07/03/1990
+FSC:8010
+NIIN:00F019359
+MSDS Number: BLPYY
+=== Responsible Party ===
+Company Name:PPG INDUSTRIES INC
+Address:260 KAPPA DR
+City:PITTSBURGH
+State:PA
+ZIP:15238
+Info Phone Num:(412) 492-5555
+Emergency Phone Num:(304) 843-1300
+CAGE:93915
+=== Contractor Identification ===
+Company Name:PPG INDUSTRIES INC CHEMICAL DIVISION
+Address:ONE GATEWAY CENTER
+City:PITTSBURGH
+State:PA
+ZIP:15222-1416
+Country:US
+Phone:304-843-1300
+CAGE:93915
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CALCIUM CARBONATE (MARBLE) (LIMESTONE)
+CAS:1317-65-3
+RTECS #:EV9580000
+Fraction by Wt: 2-5%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9192
+
+Ingred Name:TALC (CONTAINING NO ASBESTOS)
+CAS:14807-96-6
+RTECS #:WW2710000
+Fraction by Wt: 2-5%
+OSHA PEL:2 MG/M3 RDUST
+ACGIH TLV:2 MG/M3 RDUST; 9192
+
+Ingred Name:ZINC BORATE
+CAS:1332-07-6
+Fraction by Wt: 5-10%
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 10-15%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:WATER, H2O
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 40-45%
+
+Ingred Name:FILM FORMERS
+Fraction by Wt: <25%
+
+Ingred Name:RESIN
+Fraction by Wt: <25%
+Other REC Limits:10 MG/CUM (DUST)
+
+Ingred Name:ADDITIVES
+Fraction by Wt: <25%
+
+Ingred Name:BARIUM METABORATE MONOHYDRATE
+CAS:13701-59-2
+RTECS #:CQ9570000
+Fraction by Wt: 2-5%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INGESTION: HARMFUL. EYES/SKIN:
+    IRRITATION. INHALATION: HARMFUL, IRRITATION, NOSE/THROAT, BREATHING
+    DIFFICULTIES.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: IRRITATION, REDNESS, ITCHING, BURNING
+    SENSATION/VISUAL DISTURBANCES. SKIN: IRRITATION, DRYNESS, ITCHING,
+    CRACKING, BURNING, REDNESS, & SWELLING. INHALATION: HARMFUL.
+    INGESTION: HARMFUL & CORROSI VE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION: DON'T INDUCE VOMITING. EYES: FLUSH W/PLENTY OF
+    WATER FOR AT LEAST 15 MINS. SKIN: WIPE OFF W/WATERLESS HAND CLEANER
+    & WASH W/SOAP & WATER. INHALATION: REMOVE TO FRESH AIR. APPLY
+    ARTIFICIAL R ESPIRATION & OTHER SUPPORTIVE MEASURES AS REQUIRED.
+    OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Extinguishing Media:USE NFPA CLASS B EXTINGUISHER SUCH AS CO2, DRY
+    CHEMICAL OR UNIVERSAL AQUEOUS FILM FORMING FOAM.
+Fire Fighting Procedures:WATER SPRAY MAY BE INEFFECTIVE. IF WATER IS
+    USED, FOG NOZZLES ARE PREFERABLE. WEAR SELF CONTAINED BREATHING
+    APPARATUS.
+Unusual Fire/Explosion Hazard:USE WATER SPRAY TO COOL CLOSED CONTAINERS
+    TO PREVENT PRESSURE BUILD-UP/POSSIBLE AUTOIGNITION/EXPLOSION WHEN
+    EXPOSED TO EXTREME HEAT. COMBUSTIBLE LIQUID.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:PROVIDE MAXIMUM VENTILATION. REMOVE ALL
+    SOURCES OF IGNITION. TAKE UP SPILLED MATERIAL W/SAWDUST,
+    VERMICULITE, OR OTHER ABSORBENT MATERIAL & PLACE INTO CONTAINERS
+    FOR DISPOSAL. WEAR PROTECTIVE EQUIPMEN T.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T STORE >120F. AVOID WELDING,
+    BRAZING, OR FLAME-CUTTING ON SURFACES COATED W/PRODUCT.	       
+		      IQUIDS.
+Other Precautions:AVOID INHALATION OF VAPOR OR SPRAY MIST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WHERE VENTILATION IS INADEQUATE, USE A SUITABLE
+    RESPIRATOR.
+Ventilation:GENERAL DILUTION/LOCAL EXHAUST IN VOLUME & PATTERN TO KEEP
+    AIR
+Spec Gravity:1.30
+Evaporation Rate & Reference:(BU-AC = 100): 34
+Solubility in Water:42.6%
+Appearance and Odor:VISCOUS LIQUID W/ODOR CHARACTERISTIC OF CHEMICAL
+    FAMILY/SOLVENTS.
+Percent Volatiles by Volume:79%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ALKALIES, MINERAL ACIDS, & OXIDIZING AGENTS.
+Stability Condition to Avoid:TEMPS >120F, & OTHER SOURCES OF IGNITION,
+    FREEZING.
+Hazardous Decomposition Products:CO, ZINC OXIDES, OXIDES OF NITROGEN
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. EMPTY CONTAINERS SHOULD BE RECYCLED OR
+    DISPOSED OF THROUGH AN APPROVED WASTE MANAGEMENT FACILITY.
+    COMBUSTIBLE LIQUID.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

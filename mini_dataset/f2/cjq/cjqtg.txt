@@ -1,0 +1,170 @@
+=====================  Product Identification  =====================
+
+Product ID:86711 MIL-G-10924F (4122)
+MSDS Date:04/13/1998
+FSC:9150
+NIIN:01-197-7691
+Status Code:A
+MSDS Number: CJQTG
+=== Responsible Party ===
+Company Name:EXXON COMPANY,U.S.A.
+Address:800 BELL ST
+Box:2180
+City:HOUSTON
+State:TX
+ZIP:77252-2180
+Country:US
+Info Phone Num:713-870-6000
+Emergency Phone Num:713-656-3424
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:EO384
+=== Contractor Identification ===
+Company Name:EXXON CO USA-SOUTHWEST GREASE BUSINESS UNIT
+Address:1400 S HARRISON
+Box:1974
+City:OLATHE
+State:KS
+ZIP:66061
+Country:US
+Phone:913-656-3701/800-424-9300(CHEMTREC)
+Contract Num:SP0450-99-D-0436
+CAGE:70878
+Company Name:EXXON COMPANY,U.S.A.
+Address:800 BELL ST
+Box:2180
+City:HOUSTON
+State:TX
+ZIP:77252-2180
+Country:US
+Phone:713-870-6000
+CAGE:EO384
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:1-DECENE, HOMOPOLYMER, HYDROGENATED
+CAS:68037-01-4
+= Wt:55.
+
+Ingred Name:DISTILLATES (PETROLEUM), HYDROTREATED HEAVY PARAFFINIC
+CAS:64742-54-7
+RTECS #:PY8035500
+< Wt:18.
+
+Ingred Name:DISTILLATES (PETROLEUM), SOLVENT-DEWAXED HEAVY PARAFFINIC
+CAS:64742-65-0
+RTECS #:PY8038500
+< Wt:18.
+
+Ingred Name:LITHIUM COMPLEX SOAP THICKENER
+= Wt:15.
+
+Ingred Name:PROPRIETARY ADDITIVES
+= Wt:12.
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (RAT) > 5G/KG
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:REPEATED AND PROLONGED OVEREXPOSURE TO
+    OIL MISTS MAY RESULT IN DROPLET DEPOSITION, OIL GRANULOMA
+    FORMATION, INFLAMMATION AND INCREASED INCIDENCE OF INFECTION.
+    PROLONGED OR REPEATED SKIN CONTACT WITH T HIS PRODUCT TENDS TO
+    REMOVE SKIN OILS, POSSIBLY LEADING TO IRRITATION AND DERMATITIS.
+    PRODUCT HAS A LOW ORDER OF ACUTE ORAL AND DERMAL TOXICITY, BUT
+    MINUTE AMOUNTS ASPIRATED INTO THE LUNGS DURING INGE STION OR
+    VOMITING MAY CAUSE MILD TO SEVERE PULMONARY INJURY AND POSSIBLY
+    DEATH.
+Explanation of Carcinogenicity:NONE LISTED.
+Effects of Overexposure:CONTACT ON EYES OR SKIN MAY CAUSE IRRITATION.
+Medical Cond Aggravated by Exposure:NONE RECOGNIZED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH WITH CLEAR WATER FOR 15 MINUTES OR UNTIL
+    IRRITATION SUBSIDES. IF IRRITATION PERSISTS, CALL A PHYSICIAN.
+    SKIN: REMOVE ANY CONTAMINATED CLOTHING AND WASH SKIN WITH SOAP AND
+    WATER. LAUNDER CLO THING BEFORE REUSE. IF THE PRODUCT IS INJECTED
+    INTO OR UNDER THE SKIN, THE INDIVIDUAL SHOULD BE EVALUATED
+    IMMEDIATELY BY A PHYSICIAN AS A SURGICAL EMERGENCY. INHALE: VAPOR
+    INHALATION UNDER AMBIENT CON DITIONS IS NORMALLY NOT A PROBLEM. IF
+    OVEREXPOSURED TO OIL MIST, REMOVE FROM FURTHER EXPOSURE UNTIL
+    EXCESSIVE OIL MIST CONDITION. INGEST: DO NOT INDUCE VOMITING. CALL
+    A PHYSICIAN IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:>210.C, 410.F
+Extinguishing Media:FOAM,WATER SPRAY(FOG),DRY CHEMICAL,CARBON DIOXIDE
+    AND VAPORIZING LIQUID TYPE EXTINGUISHING AGENTS
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:RECOVER FREE PRODUCT. ADD SAND, EARTH OR OTHER
+    SUITABLE ABSORBENT TO SPILL AREA. KEEP PRODUCT OUT OF  SEWERS AND
+    WATERCOURSE BY DIKING OR IMPOUNDING. ADVISE AUTHORITIES IF PRODUCT
+    HAS ENTERED OR MAY E NTER SEWERS, WATERCOURSE, OR EXTENSIVE LAND
+    AREAS.
+Neutralizing Agent:NONE STATED.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:USE PRODUCT WITH CAUTION AROUND HEAT,
+    SPARKS, PILOT LIGHTS, STATIC ELECTRICITY AND OPEN FLAME.
+Other Precautions:NONE STATED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE SUPPLIED AIR RESPITRATORY PROTECTION IN
+    CONFINED OR ENCLOSED SPACES.
+Ventilation:LOCAL EXHAUST TO CAPTURE VAPOR,MISTS,FUMES. PROVIDE
+    VENTILATION SUFFICIENT TO PREVENT EXCEEDING RECOMMENDED EXPOSURE
+    LIMITS OR BUILD-UP OF VAPORS.
+Protective Gloves:CHEMICAL-RESISTANT GLOVES
+Eye Protection:SPLASH GOGGLES OR FACE SHIELD
+Other Protective Equipment:CHEMICAL-RESISTANT APRON OR OTHE RIMPERVIOUS
+    CLOTHING
+Work Hygienic Practices:REMOVE CONTAMINATED CLOTHING LAUNDER OR DRY
+    CLEAN BEFORE REUSE. DISCARD OIL-SOAKED SHOES.CLEANSE SKIN
+    THOROUGHLY BEFORE BREAKS AND MEALS,AND AT END OF WORK PERIOD.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Spec Gravity:0.87
+Viscosity:> 100 SUS
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:AMBER GREASE,MINERAL OIL ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDANTS,SUCH AS,LIQUID CHLORINE,CONCENTRATED OXYGEN,SODIUM
+    HYPOCHLORITE,CALCIUM HYPOCHLORITE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ASSURE COMFORMITY WITH APPLICABLE GOVERNMENTAL
+    REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:DOT: NOT REGULATED.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:THIS PRODUCT DOES NOT CONTAIN ANY CHEMICAL
+    SUBJECT TO THE REPORTING REQUIREMENTS OF SECTION 313 OF TITLE III
+    OF THE SUPERFUND AMENDMENTS AND REAUTHORIZATION ACT OF 1986 AND 40
+    CFR PART 372.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

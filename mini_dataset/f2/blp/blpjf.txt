@@ -1,0 +1,144 @@
+=====================  Product Identification  =====================
+
+Product ID:CPE710090 SUN CLARIFIER
+MSDS Date:04/20/1989
+FSC:6850
+NIIN:00F019078
+MSDS Number: BLPJF
+=== Responsible Party ===
+Company Name:OLIN CORP
+Address:120 LONG RIDGE ROAD
+City:STAMFORD
+State:CT
+ZIP:06904
+Info Phone Num:(203) 356-3449
+Emergency Phone Num:(203) 356-3449
+CAGE:8X135
+=== Contractor Identification ===
+Company Name:OLIN CORP
+Address:51 CORPORATE WOODS 9393 W 110 ST
+City:OVERLAND PARK
+State:KS
+ZIP:66210
+Country:US
+Phone:800-432-6546
+CAGE:8X135
+Company Name:OLIN CORP CHEMICALS GROUP
+Address:120 LONG RIDGE RD
+City:STAMFORD
+State:CT
+ZIP:06904
+Country:US
+Phone:203-356-3449,CHEMTREC 800-242-9300
+CAGE:53084
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CATIONIC POLYELECTROLYTE
+Fraction by Wt: 5-10%
+
+Ingred Name:WATER, H2O
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 90-96%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): >5 G/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION:
+    HARMFUL/NAUSEA/HEADACHE/DIZZINESS/BREATHING
+    DIFFICULTY/UNCONSCIOUSNESS/MILD IRRITATION OF THROAT, UPPER
+    RESPIRATORY TRACT, & LUNGS. EYES:
+    HARMFUL/IRRITATION/REDNESS/SWELLING/MUCOUS DISCHAR GE TO
+    CONJUNCTIVA. SKIN: IRRITATION. INGESTION: GASTROENTERITIS
+    W/NAUSEA/VOMITING/LETHARGY, & DIARRHEA.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION:
+    HARMFUL/NAUSEA/HEADACHE/DIZZINESS/BREATHING
+    DIFFICULTY/UNCONSCIOUSNESS/MILD IRRITATION OF THROAT, UPPER
+    RESPIRATORY TRACT, & LUNGS. EYES:
+    HARMFUL/IRRITATION/REDNESS/SWELLING/MUCOUS DISCHAR E TO
+    CONJUNCTIVA. SKIN: IRRITATION. INGESTION: GASTROENTERITIS
+    W/NAUSEA/VOMITING/LETHARGY, & DIARRHEA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/LARGE AMOUNTS OF WATER FOR AT LEAST 15 MINS.
+    SKIN: FLUSH W/WATER. INGESTION: DRINK WATER TO DILUTE. INHALATION:
+    REMOVE TO FRESH AIR. ADMINISTER OXYGEN. KEEP PERSON WARM & AT REST.
+    IF BRE ATHING STOPS, GIVE ARTIFICIAL RESPIRATION. OBTAIN MEDICAL
+    ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:200F
+Fire Fighting Procedures:USE WATER TO COOL CONTAINERS EXPOSED TO FIRE.
+    WEAR SELF-CONTAINED BREATHING APPARATUS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE COMPATIBLE ABSORBENTS SUCH AS SAW DUST,
+    SAND, CLAY SOIL, & COMMERCIAL ABSORBENTS. THIS MATERIAL MAY BE
+    NEUTRALIZED FOR DISPOSAL. WEAR PROTECTIVE EQUIPMENT. AVOID
+    ENVIRONMENTAL CONTAMINATION FROM T HE USE OF MATERIAL. ENSURE
+    ADEQUATE VENTILATION.
+Neutralizing Agent:CONTACT MANUFACTURER
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTACT W/SKIN, EYES, &
+    CLOTHING. STORE IN A COOL, DRY, WELL-VENTILATED PLACE. AVOID
+    INHALATION. DON'T STORE AT TEMPS >212F.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NORMALLY NEEDED SINCE THE VOLATILITY &
+    TOXICITY ARE LOW. IF VAPORS, MISTS, OR AEROSOLS ARE GENERATED, WEAR
+    A NIOSH/MSHA APPROVED RESPIRATOR.
+Ventilation:LOCAL EXHAUST IF VAPORS, MISTS, OR AEROSOLS ARE GENERATED.
+    OTHERWISE, USE GENERAL EXHAUST.
+Protective Gloves:IMPERMEABLE, NEOPRENE
+Eye Protection:CHEMICAL GOGGLES
+Other Protective Equipment:AS NEEDED
+Work Hygienic Practices:USE GOOD SAFETY PRACTICES.
+Supplemental Safety and Health
+THIS MATERIAL IS HEAVIER THAN WATER. THEREFORE, IT IS SOLUBLE IN WATER.
+    THIS SUBSTANCE IS LISTED ON THE TOXIC SUBSTANCES CONTROL ACT
+    INVENTORY. SHELF LIFE LIMITATIONS OF PRODUCT IS  2 YEARS.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:212F
+Melt/Freeze Pt:M.P/F.P Text:32F
+Vapor Pres:AS WATER
+Vapor Density:AS WATER
+Spec Gravity:1-1.09
+pH:3-4
+Evaporation Rate & Reference:(WATER = 1): 1
+Solubility in Water:COMPLETE
+Appearance and Odor:LIGHT BLUE LIQUID, ODORLESS.
+Percent Volatiles by Volume:90-96%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:TEMPS >212F
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:WASTE DOESN'T MEET CRITERIA OF HAZARDOUS WASTE
+    AS DEFINED UNDER 40 CFR 261. DISPOSE OF NONHAZARDOUS LIQUID
+    WASTE/UNUSED MATERIAL/RESIDUES/CONTAINERS IN ACCORDANCE
+    W/LOCAL/STATE/FEDERAL REGULATIONS BY  TREATMENT IN WASTEWATER
+    TREATMENT SYSTEM.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

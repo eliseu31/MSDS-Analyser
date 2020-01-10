@@ -1,0 +1,124 @@
+=====================  Product Identification  =====================
+
+Product ID:421 RP SUPER FILTER COAT, READY-TO-USE
+MSDS Date:01/01/1990
+FSC:8040
+NIIN:00F019167
+MSDS Number: BLPNS
+=== Responsible Party ===
+Company Name:RESEARCH PRODUCTS CORPORATION
+Address:1015 EAST WASHINGTON AVE
+City:MADISON
+State:WI
+ZIP:53703
+Info Phone Num:(608) 257-8801
+Emergency Phone Num:(608) 257-8801
+Preparer's Name:JIM ENRIGHT
+CAGE:82866
+=== Contractor Identification ===
+Company Name:RESEARCH PRODUCTS CORP
+Address:1015 EAST WASHINGTON AVE
+Box:City:MADISON
+State:WI
+ZIP:53703
+Country:US
+Phone:608-257-8801
+CAGE:82866
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SOLUBLE HYDROCARBON OIL
+Fraction by Wt: 58%
+OSHA PEL:5 MG/CUM
+ACGIH TLV:5 MG/CUM (PEL)
+
+Ingred Name:WATER, H2O
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 40%
+
+Ingred Name:POLYETHYLENE, POLYETHYLENE RESIN (HOMOPOLYMER)
+CAS:9002-88-4
+RTECS #:TQ3325000
+Fraction by Wt: 1%
+
+Ingred Name:METHYL PARAHYDROXYBENZOATE, METHYLPARABEN
+CAS:99-76-3
+RTECS #:DH2450000
+Fraction by Wt: <1%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INGESTION: VOMITING & DIARRHEA.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INGESTION: VOMITING & DIARRHEA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. EYES: FLUSH W/WATER. SKIN:
+    WASH W/SOAP & WATER. INGESTION: DON'T INDUCE VOMITING. OBTAIN
+    MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:355F
+Extinguishing Media:CLASS B EXTINGUISHING AGENT
+Fire Fighting Procedures:HANDLE AS HYDROCARBON OIL. USE AIR-SUPPLIED
+    BREATHING EQUIPMENT. COOL EXPOSED CONTAINERS W/WATER SPRAY.
+Unusual Fire/Explosion Hazard:BURNS AS OIL WHEN WATER IS
+    EVAPORATED/REMOVED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:TREAT AS WATER SOLUBLE HYDROCARBON OIL & FLUSH
+    W/WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AT 60-90F. DON'T FREEZE OR
+    SUBJECT TO HIGH TEMPERATURES. DON'T HANDLE/STORE NEAR HEAT, SPARKS
+    OR FLAME. KEEP CONTAINER CLOSED WHEN NOT IN USE.
+Other Precautions:USE IN WELL VENTILATED AREA. AVOID SKIN & EYE
+    CONTACT. AVOID BREATHING VAPORS/FUMES. DON'T SWALLOW.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE AIR-SUPPLIED RESPIRATORY PROTECTION IN
+    CONFINED OR ENCLOSED SPACES.
+Ventilation:LOCAL EXHAUST. PROVIDE >60 FPM HOOD OR FACE VELOCITY FOR
+    CONFINED SPACES TO KEEP <TLV.
+Protective Gloves:AS REQUIRED
+Eye Protection:GOGGLES OR FACE SHIELD
+Other Protective Equipment:CHEMICAL-RESISTANT APRON & CLOTHING
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:212F
+Spec Gravity:0.98
+Solubility in Water:SOLUBLE
+Appearance and Odor:HEAVY EMULSION W/BL AND ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG, OXIDIZING AGENTS
+Stability Condition to Avoid:HEAT, SPARKS, & FLAME
+Hazardous Decomposition Products:SMOKE, CO, & SULFUR OXIDES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:HANDLE AS LOCAL CODES DICTATE FOR SOLUBLE OIL
+    ACCORDING TO FEDERAL, STATE, & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

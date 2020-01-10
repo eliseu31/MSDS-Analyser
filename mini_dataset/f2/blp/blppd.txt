@@ -1,0 +1,145 @@
+=====================  Product Identification  =====================
+
+Product ID:PR-1005-L-R RUBBER SOLUTION
+MSDS Date:01/17/1989
+FSC:8030
+NIIN:00F019176
+MSDS Number: BLPPD
+=== Responsible Party ===
+Company Name:PRODUCTS RESEARCH & CHEMICAL CORP
+Address:5430 SAN FERNANDO RD
+Box:1800
+City:GLENDALE
+State:CA
+ZIP:91209
+Info Phone Num:(800) 240-2060
+Emergency Phone Num:(800) 228-5635
+Preparer's Name:JCS
+CAGE:DO563
+=== Contractor Identification ===
+Company Name:PRC-DESOTO INTERNATIONAL, INC. A PPG INDUSTRIES COMPANY
+Address:5430 SAN FERNANDO RD
+Box:1800
+City:GLENDALE
+State:CA
+ZIP:91209
+Country:US
+Phone:818-240-2060
+CAGE:83574
+Company Name:PRODUCTS RESEARCH & CHEMICAL
+Address:NOW DBA COURTAULDS AEROSPACE
+Box:1800
+City:GLENDALE
+State:CA
+ZIP:91209
+Phone:818-240-2060
+CAGE:DO563
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: 50%
+Other REC Limits:590 MG/CUM
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: 15%
+Other REC Limits:400 PPM
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+Ingred Name:METHYL ISOBUTYL KETONE  (SARA III)
+CAS:108-10-1
+RTECS #:SA9275000
+Fraction by Wt: 10%
+Other REC Limits:50 PPM
+OSHA PEL:100 PPM/75 STEL
+ACGIH TLV:50 PPM/75 STEL; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:PHENOLIC RESIN
+CAS:9039-25-2
+Fraction by Wt: 15%
+
+Ingred Name:VOL ORGANIC CMPD: 677 G/L
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION & EYE TISSUE DAMAGE.
+    SKIN: IRRITATION & DERMATITIS. INHALATION: NOSE & THROAT
+    IRRITATION, HEADACHE, DIZZINESS, NAUSEA, VOMITING, MENTAL
+    DEPRESSION, NARCOSIS, ANESTHESIA, & COMA. INGES TION: HEADACHE,
+    DIZZINESS, FLUSHING, NAUSEA, VOMITING, MENTAL DEPRESSION, NARCOSIS,
+    ANESTHESIA, & COMA.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: IRRITATION & EYE TISSUE DAMAGE. SKIN:
+    IRRITATION & DERMATITIS. INHALATION: NOSE & THROAT IRRITATION,
+    HEADACHE, DIZZINESS, NAUSEA, VOMITING, MENTAL DEPRESSION, NARCOSIS,
+    ANESTHESIA, & COMA. INGES TION: FLUSHING, HEADAHCE, DIZZINESS,
+    NAUSEA, VOMITING, MENTAL DEPRESSION, NARCOSIS, ANESTHESIA, & COMA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/LUKE WARM WATER FOR 15 MINUTES. SKIN: WASH
+    W/SOAP & WATER. INHALATION: REMOVE TO FRESH AIR. INGESTION: INDUCE
+    VOMITING. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:23F
+Extinguishing Media:FOAM, CO2, OR DRY CHEMICAL
+Fire Fighting Procedures:WEAR AIR SUPPLIED RESPIRATOR. USE WATER TO
+    COOL HEAT EXPOSED CONTAINERS.
+Unusual Fire/Explosion Hazard:HIGH TEMPERATURES MAY CAUSE PRESSURE
+    BUILDUP IN CLOSED CONTAINERS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. COVER
+    W/ABSORBENT MATERIAL. SCOOP INTO CONTAINER. CLEAN UP RESIDUE
+    W/1,1,1-TRICHLOROETHANE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:GENERAL TO MAINTAIN VAPORS <PEL/TLV.
+Protective Gloves:SOLVENT-RESISTANT
+Eye Protection:GOGGLES OR FULL FACE SHIELD
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:0.85
+Solubility in Water:APPRECIABLE
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HIGH TEMPERATURES
+Hazardous Decomposition Products:OXIDES OF CARBON
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DOO1: HAZARDOUS WASTE. DISPOSE OF IN ACCORDANCE
+    W/FEDERAL, STATE, & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

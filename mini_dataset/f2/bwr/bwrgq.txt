@@ -1,0 +1,207 @@
+=====================  Product Identification  =====================
+
+Product ID:MOBILGREASE 29
+MSDS Date:06/25/1992
+FSC:9150
+NIIN:01-345-6449
+MSDS Number: BWRGQ
+=== Responsible Party ===
+Company Name:MOBIL OIL CORP ENVIRONMENTAL AFFAIRS & TOXICOLOGY
+Address:PENNINGTON-ROCKY HILL RD
+City:PENNINGTON
+State:NJ
+ZIP:08534
+Country:US
+Info Phone Num:800-662-4525
+Emergency Phone Num:800-424-9300(CHEMTREC)/609-737-4411
+Preparer's Name:MOBIL OIL CORP
+CAGE:0AHK0
+=== Contractor Identification ===
+Company Name:MOBIL OIL CORP ENVIRONMENTAL AFFAIRS & TOXICOLOGY
+Address:PENNINGTON-ROCKY HILL RD
+Box:City:PENNINGTON
+State:NJ
+ZIP:08534
+Country:US
+CAGE:0AHK0
+Company Name:SALATHE OIL CO INC
+Address:2226 PETERS RD
+Box:City:HARVEY
+State:LA
+ZIP:70058
+Country:US
+Phone:504-366-4542
+CAGE:0T5C6
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:1-DECENE, HOMOPOLYMER, HYDROGENATED
+CAS:68037-01-4
+Fraction by Wt: >65.00%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:QUAT AMMONIUM CMPDS,BENZYL(HYDROGENATED TALLOWALKYL
+    DIMETHYL,CHLORIDES,CMPDS W/BENTONITE & BIS(HYDROGENATED TALLOW
+    ALKYL
+CAS:71011-25-1
+Fraction by Wt: <10.00%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:MOLYBDENUM DISULFIDE
+CAS:1317-33-5
+RTECS #:QA4697000
+Fraction by Wt: 5.01%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:5 MG MO/M3
+ACGIH TLV:5 MG MO/M3
+
+Ingred Name:ACETIC ACID, CALCIUM SALT
+CAS:62-54-4
+RTECS #:AF7525000
+Fraction by Wt: <4.00%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:BENZENEPROPANOIC ACID,
+    3,5-BIS(1,1-DIMETHYL)-4-HYDROXY-OCTADECYL ESTER
+CAS:2082-79-3
+Fraction by Wt: <2.00%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:BENZENAMINE, N-PHENYL-, REACTION PRODUCTS W/
+    2,4,-TRIMETHYLPENTENE
+CAS:68411-46-1
+Fraction by Wt: <2.00%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:N-PHENYL-ALPHA-NAPHTHYLAMINE
+CAS:90-30-2
+RTECS #:QM4500000
+Fraction by Wt: <2.00%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:1,3-PROPANEDIOL, 2,2-BIS(HYDROXYMEHTYL)-
+CAS:115-77-5
+RTECS #:RZ2490000
+Fraction by Wt: 1.37%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3; 9394
+
+Ingred Name:NITROUS ACID, SODIUM SALT
+CAS:7632-00-0
+RTECS #:RA1225000
+Fraction by Wt: 1.20%
+Other REC Limits:NONE RECOMMENDED
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:ALPHA-NAPHTHYLAMINE  (SARA III)
+CAS:134-32-7
+RTECS #:QM1400000
+Fraction by Wt: 0.001%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:SEE 1910.1004
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:BETA-NAPHTHYLAMINE	(SARA III)
+CAS:91-59-8
+RTECS #:QM2100000
+Fraction by Wt: 0.001%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:SEE 1910.1009
+ACGIH TLV:A1; 9394
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SLIGHT EYE/SKIN IRRIT. ORAL/DERMAL
+    TOXICITY:SLIGHTLY TOXIC. INHAL:HARMF;UL CONC OF MIST &/OR VAP ARE
+    UNLIKELY TO BE ENCOUNTERED THRU ANY CUSTOMARY/REASONABLY
+    FORESEEABLE HANDLING/USE/MISUSE OF PROD. S KIN:MAY CAUSE SLIGHT
+    IRRIT ON PROLONGED/REPEATED CONTACT.
+Effects of Overexposure:EYE/SKIN IRRITATION.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH THOROUGHLY W/WATER. IF IRRIT PERSISTS CALL
+    PHYSICIAN. SKIN:WASH W/SOAP & WATER. HIGH PRESSURE ACCIDENTAL
+    INJECT THRU SKIN REQUIRES IMMED MED ATTN FOR POSSBILE INCISION.
+    IRRIGATION &/OR DEBRI DEMENT. INHAL/INGEST:NOT EXPECTED TO BEA
+    PROBLEM. HOWEVER IF >1/2L(PT) INGESTED IMMED GIVE 1-2 GLASSES OF
+    WATER. CALL PHYSICIAN/HOSP EMERG RM/POI CNTRL CNTR FOR ASSIST. DO
+    NOT INDUCE VOMIT.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:>400F,>204C
+Extinguishing Media:CARBON DIOXIDE, FOAM, DRY CHEMICAL, WATER FOG.
+Fire Fighting Procedures:WATER/FOAM MAY CAUSE FROTH.COOL FIRE EXPO
+    CNTNRS W/WATER.ENCLSD AREA USE SCBA.FLUSH SPILLS AWAY FRM EXPO
+    W/WATERSPRAY.PREVENT RUNOFF ENTER STREAMS/SEWERS/SUPPLY
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SHOVEL UP/DISPO @ APPROPRIATE WASTE DISPOSAL
+    FACILITY.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NO SPECIAL PRECAUTIONS REQUIRED.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NO SPECIAL REQUIREMENTS UNDER ORDINARY CONDITONS
+    OF USE & W/ADEQUATE VENTILATION.
+Ventilation:NO SPECIAL REQUIREMENTS UNDER ORDINARY CONDITIONS OF USE &
+    W/ADEQUATE VENTILATION.
+Protective Gloves:NO SPECIAL EQUIPMENT REQUIRED.
+Eye Protection:SAFETY GLASSES W/SIDE SHIELDS, CHEM GOGG
+Other Protective Equipment:GO
+Work Hygienic Practices:FOLLOW GOOD PERSONAL HYGIENE PRACTICES.
+Supplemental Safety and Health
+DISPOSAL:@ ANY GOVT APPROVED WASTE DISPOSAL FACILITY.METHODS SUBJECT TO
+    USER COMPLIANCE W/APPLICABLE LAWS/REGS/PROD CHARACTERISTIS
+    @DISPOSAL TIME.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:>600F,>316C
+Vapor Pres:<0.1 @20C
+Spec Gravity:0.892
+Viscosity:144.2SUS@100F
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:BLACK SMOOTH GREASE, MILD ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS.
+Stability Condition to Avoid:EXTREME HEAT.
+Hazardous Decomposition Products:NITROGEN OXIDES. PHOSPORUS OXIDES.
+    CARBON MONOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE	@APPROPRIATE WASTE DISPOSAL FACILITY
+    IAW CURRENT APPLICABLE LAWS/REGS & POR CHARACTERISTICS @DISPOSAL
+    TIME.SUITABLE FOR BURN IN ENCLSD CNTRLLD BURNER FOR FUEL
+    VALUE/SUPERVISED INCINERATION(IA W RCRA);FOR RECYCLING
+    PROCESS;METHOD DISPOSAL(SUP)
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

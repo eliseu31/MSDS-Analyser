@@ -1,0 +1,181 @@
+=====================  Product Identification  =====================
+
+Product ID:BATTERY,STORAGE
+MSDS Date:11/21/1997
+FSC:6140
+NIIN:01-069-7376
+MSDS Number: BLMVT
+=== Responsible Party ===
+Company Name:MARATHON POWER TECHNOLOGIES
+Address:8301 IMPERIAL DRIVE
+Box:8233
+City:WACO
+State:TX
+ZIP:76714-8233
+Country:US
+Info Phone Num:817-776-0650
+Emergency Phone Num:817-776-0650(75)
+Resp. Party Other MSDS Num.:P/N: 25468-1
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:74025
+=== Contractor Identification ===
+Company Name:MARATHON POWER TECHNOLOGIES CO
+Address:8301 IMPERIAL DR
+Box:City:WACO
+State:TX
+ZIP:76712-6588
+Country:US
+Phone:254-741-5405
+CAGE:74025
+Company Name:TRIMAN INDUSTRIES INC
+Address:420 COMMERCE LN SUITE 8
+Box:City:WEST BERLIN
+State:NJ
+ZIP:08091
+Country:US
+Phone:856-767-7945 /FAX: 856-767-7154
+Contract Num:SP0430-00-M-KG05
+CAGE:0ZBE8
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CADMIUM  (SARA III)
+CAS:7440-43-9
+RTECS #:EU9800000
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:SEE 1910.1027
+ACGIH TLV:0.01 MG/M3 DUST;9394
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+Ingred Name:CADMIUM HYDROXIDE
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:NICKEL  (SARA III)
+CAS:7440-02-0
+RTECS #:QR5950000
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+
+Ingred Name:NICKEL HYDROXIDE  (SARA III)
+CAS:12054-48-7
+RTECS #:QR7040000
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:1 MG NI/M3
+ACGIH TLV:0.1 MG NI/M3; 9293
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+Ingred Name:POTASSIUM HYDROXIDE  (SARA III)
+CAS:1310-58-3
+RTECS #:TT2100000
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:C, 2 MG/M3
+ACGIH TLV:C 2 MG/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL (RAT) IS UNKNOWN.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE AND CHRONIC: UNDER NORMAL
+    CONDITIONS OF USE, NO EXPOSURE TO HAZARDOUS COMPONENTS EXISTS.  IF
+    INCINERATED, INHALATION OF FUMES MAY CAUSE RESPIRATORY SYSTEMS
+    IRRITATION, FUMES WILL ALSO IRRITATE E YE TISSUES (ACUTE); CHRONIC
+    EXPOSURE MAY CAUSE KIDNEY DYSFUNCTION AND LUNG INJURY.
+Explanation of Carcinogenicity:NOT ESTABLISHED FOR BATTERIES.  NICKEL
+    AND CADMIUM ARE LISTED AS POTENTIAL CARCINOGENS BY NTP, IARC, AND
+    OSHA.
+Effects of Overexposure:IF INCINERATED, CHEST PAIN, COUGHING, SWEATING,
+    CHILLS, SHORTNESS OF BREATH AND WEAKNESS ALONG WITH POSSIBLE EYE
+    IRRITATION.
+Medical Cond Aggravated by Exposure:IF INCINERATED, RESPIRATORY SYSTEMS
+    DISORDERS, PROSTRATE DISORDERS, LIVER AND KIDNEY DISORDERS, VISION
+    PROBLEMS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:IF CONTACT WITH POTASSIUM HYDROXIDE ELECTROLYTE, FLUSH WITH
+    WATER FOR 15 MINUTES AND CONTACT PHYSICIAN; IF INHALED, REMOVE FROM
+    EXPOSURE AND CONTACT PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE EXTINGUISHING MEANS APPROPRIATE FOR SURROUNDING
+    FIRE.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD WEAR PROPER PROTECTIVE
+    EQUIPMENT AND SELF-CONTAINED BREATHING APPARATUS WITH FULL
+    FACE-PIECE OPERATED IN POSITIVE PRESSURE MODE.
+Unusual Fire/Explosion Hazard:CONTACT WITH STRONG OXIDIZERS MAY CAUSE
+    FIRE OR EXPLOSION. CADMIUM AND NICKEL FUMES ARE TOXIC AND CAN CAUSE
+    DEATH.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:BATTERY AND CELL CASES WILL NORMALLY CONTAIN
+    MATERIALS OF CONCERN. USE INDUSTRIAL ABSORBENT TO COLLECT LIQUID
+    POTASSIUM HYDROXIDE.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:HANDLING-DO NOT INVERT.AVOID
+    BREAKING,CRUSHING OR OTHERWISE DESTROYING THE PHYSICAL INTEGRITY OF
+    THE CELL OR BATTERY.
+Other Precautions:NONE SPECIFIED BY MANFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SPECIFIED BY MANUFACTURER.
+Ventilation:USE ADEQUATE LOCAL EXHAUST VENTILATION WHEN HANDLING THE
+    LIQUID IN THE BATTERY.
+Protective Gloves:RUBBER GLOVES
+Eye Protection:SAFETY GOGGLES AND FACE SHIELD
+Other Protective Equipment:WEAR PROTECTIVE CLOTHING TO MINIMIZE SKIN
+    CONTACT.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+MARATHON P/N: 25468-1
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:B1
+Boiling Pt:=407.2C, 765.F
+B.P. Text:CADMIUM
+Melt/Freeze Pt:=160.6C, 321.F
+M.P/F.P Text:CADMIUM
+Solubility in Water:INSOLUBLE
+Appearance and Odor:SILVER COLOR METAL; NO ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, NITRATES, NITRIC ACID
+Hazardous Decomposition Products:NONE
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CELLS AND BATTERIES MAY BE RETURNED AT SENDERS
+    EXPENSE TO MARATHON POWER TECHNOLOGIES. DISPOSAL SHALL BE BY
+    APPROVED METHODS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:PER MFR: BATTERY, WET, FILLED WITH ALKALI, 8,
+    UN2795, III.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

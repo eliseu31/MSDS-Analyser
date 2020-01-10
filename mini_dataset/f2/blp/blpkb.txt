@@ -1,0 +1,210 @@
+=====================  Product Identification  =====================
+
+Product ID:646 MYSTON FIXATIVE
+MSDS Date:01/24/1990
+FSC:6850
+NIIN:00F019095
+MSDS Number: BLPKB
+=== Responsible Party ===
+Company Name:M GRUMBACHER INC
+Address:30 ENGELHARD DRIVE
+City:CRANBURY
+State:NJ
+ZIP:08512
+Info Phone Num:(609) 655-8282
+Emergency Phone Num:(609) 655-8282
+CAGE:FO948
+=== Contractor Identification ===
+Company Name:GRUMBACHER M INC
+Address:30 ENGELHARD DR
+Box:City:CRANBURY
+State:NJ
+ZIP:08512
+Country:US
+Phone:609-655-8282
+CAGE:72925
+Company Name:M GRUMBACHER INC
+Address:30 ENGELHARD DRIVE
+City:CRANBURY
+State:NJ
+ZIP:08512
+Phone:(609) 655-8282
+CAGE:FO948
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:2-BUTOXYETHANOL
+CAS:111-76-2
+RTECS #:KJ8575000
+Fraction by Wt: 2%
+Other REC Limits:25 PPM (SKIN)
+OSHA PEL:S, 50 PPM
+ACGIH TLV:S, 25 PPM; 9293
+
+Ingred Name:METHYL CHLOROFORM (1,1,1-TRICHLOROEHANE)  (SARA III)
+CAS:71-55-6
+RTECS #:KJ2975000
+Fraction by Wt: 18%
+Other REC Limits:450 PPM STEL
+OSHA PEL:350 PPM/450 STEL
+ACGIH TLV:350 PPM/450STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+Ozone Depleting Chemical:1
+
+Ingred Name:ACETONE  (SARA III)
+CAS:67-64-1
+RTECS #:AL3150000
+Fraction by Wt: 6%
+Other REC Limits:590 MG/CUM
+OSHA PEL:1000PPM
+ACGIH TLV:750PPM/1000STEL;9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ETHYL ACETATE  (SARA III)
+CAS:141-78-6
+RTECS #:AH5425000
+Fraction by Wt: 22%
+Other REC Limits:400 PPM
+OSHA PEL:400 PPM
+ACGIH TLV:400 PPM; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:N-BUTYL ACETATE  (SARA III)
+CAS:123-86-4
+RTECS #:AF7350000
+Fraction by Wt: 14%
+Other REC Limits:150 PPM
+OSHA PEL:150 PPM/200 STEL
+ACGIH TLV:150 PPM/200STEL;9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: 9%
+Other REC Limits:400 PPM
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+Ingred Name:N-BUTYL ALCOHOL  (SARA III)
+CAS:71-36-3
+RTECS #:EO1400000
+Fraction by Wt: 5%
+Other REC Limits:300 MG/CUM
+OSHA PEL:100 PPM
+ACGIH TLV:S, C 50 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:PROPANE
+CAS:74-98-6
+RTECS #:TX2275000
+Fraction by Wt: <23%
+Other REC Limits:1800 MG/CUM
+OSHA PEL:1000 PPM
+ACGIH TLV:ASPHYXIANT; 9192
+
+Ingred Name:ISOBUTANE, 2-METHYLPROPANE
+CAS:75-28-5
+RTECS #:TZ4300000
+Fraction by Wt: <23%
+Other REC Limits:1000 PPM
+OSHA PEL:1800 MG/CUM
+ACGIH TLV:1000 PPM
+
+Ingred Name:NON-HAZARDOUS FOR INGREDIENTS
+Fraction by Wt: 1%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: DIZZINESS, NARCOSIS,
+    CENTRAL NERVOUS SYSTEM EFFECTS, BREATHING DIFFICULTY, LIVER/KIDNEY
+    & LUNG DAMAGE. INGESTION: VOMITING. SKIN: DEFATTING & REDNESS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: DIZZINESS, NARCOSIS, CENTRAL
+    NERVOUS SYSTEM EFFECTS, BREATHING DIFFICULTY, LIVER/KIDNEY & LUNG
+    DAMAGE. SKIN: DEFATTING & REDNESS. INGESTION: VOMITING.
+Medical Cond Aggravated by Exposure:HEART DISEASE & RESPIRATORY
+    DISORDERS
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: GIVE OXYGEN. EYES/SKIN: WASH W/WATER. INGESTION:
+    DON'T INDUCE VOMITING. USE GASTRIC LAVAGE. OBTAIN MEDICAL ATTENTION
+    IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:-40F
+Lower Limits:1.8%
+Upper Limits:12%
+Extinguishing Media:WATER FOG, DRY CHEMICAL, OR CO2
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:AEROSOL CANS MAY RUPTURE OR BURST WHEN
+    HEATED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE ABSORBENT SWEEPING COMPOUND TO SOAK UP
+    MATERIAL. PUT INTO CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM HEAT, SPARKS, OR OPEN
+    FLAME. STORE AT TEMPERATURES <120F. AVOID LONG TERM EXPOSURE TO
+    VAPORS.
+Other Precautions:DON'T SMOKE WHILE USING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR SELF-CONTAINED BREATHING APPARATUS IF >TLV.
+    WHEN SPRAYING MORE THAN ONE HALF CAN CONTINUOUSLY OR MORE THAN ONE
+    CAN CONSECUTIVELY, USE NIOSH APPROVED RESPIRATOR.
+Ventilation:LOCAL EXHAUST
+Protective Gloves:NONE REQUIRED IF SPRAYING
+Eye Protection:RECOMMENDED
+Other Protective Equipment:LONG SLEEVE & LONG PANTS
+Work Hygienic Practices:WASH HANDS AFTER USE.
+Supplemental Safety and Health
+THIS PRODUCT CONTAINS TOXIC CHEMICALS SUBJECT TO THE REPORTING
+    REQUIREMENTS OF SECTION 313 OF TITLE III OF THE SUPERFUND
+    AMENDMENTS & REAUTHORIZATION ACT (SARA) OF 1986.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:-40 TO 191F
+Vapor Pres:60 PSIG
+Vapor Density:4
+Spec Gravity:0.8
+Evaporation Rate & Reference:(BU AC = 1): >1
+Solubility in Water:INSOLUBLE
+Appearance and Odor:CLEAR W/SOLVENT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS & ACTIVE METALS
+Stability Condition to Avoid:HEAT, SPARKS, OPEN FLAMES, OR TEMPERATURES
+    >120F
+Hazardous Decomposition Products:WATER, CO2, HALOGEN ACIDS, & PHOSGENE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF AS HAZARDOUS WASTE IN ACCORDANCE
+    W/EPA RCRA, LOCAL, STATE, & FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

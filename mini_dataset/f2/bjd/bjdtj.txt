@@ -1,0 +1,142 @@
+=====================  Product Identification  =====================
+
+Product ID:CHEM PRO FORMULA 9847
+MSDS Date:12/01/1987
+FSC:8010
+NIIN:00-935-9887
+MSDS Number: BJDTJ
+=== Responsible Party ===
+Company Name:CHEMEX PAINT AND COATINGS, INC.
+Address:2822 35TH STREET
+City:TAMPA
+State:FL
+ZIP:33605
+Country:US
+Info Phone Num:813-536-5525
+Emergency Phone Num:813-248-6104
+Preparer's Name:SAFETY DIRECTOR
+CAGE:OA701
+=== Contractor Identification ===
+Company Name:CHEMEX PAINT & COATINGS, INC.
+CAGE:0A701
+Company Name:CHEMEX PAINT AND COATING
+Address:2822 35TH STREET
+City:TAMPA
+State:FL
+ZIP:33605
+Country:US
+Phone:(813) 248-6104
+CAGE:OA701
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:V.M. & P. NAPTHA
+CAS:64742-89-8
+Fraction by Wt: 37.2%
+OSHA PEL:500 PPM
+ACGIH TLV:300 PPM
+
+Ingred Name:METHYL ISOBUTYL KETONE  (SARA III)
+CAS:108-10-1
+RTECS #:SA9275000
+Fraction by Wt: 9.26%
+OSHA PEL:100 PPM/75 STEL
+ACGIH TLV:50 PPM/75 STEL; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN AND EYE IRRITATION.
+Effects of Overexposure:VAPORS: IRRITATING TO EYES, NOSE AND THROAT.
+    EXCESS EXPOSURE MAY RESULT IN HEADACHE, DIZZINESS AND NAUSEA.
+    DEFATTING TO SKIN.
+Medical Cond Aggravated by Exposure:RESPIRATORY SYMPTOMS ASSOCIATED
+    WITH PRE-EXISTING LUNG DISORDERS (E.G., ASTHMA-LIKE CONDITIONS) MAY
+    BE AGGRAVATED BY EXPOSURE TO THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:ASPIRATION HAZARD: DO NOT INDUCE VOMITING OR GIVE ANYTHING BY
+    MOUTH BECAUSE THIS MATERIAL CAN ENTER THE LUNGS AND CAUSE SEVERE
+    LUNG DAMAGE. IF POSSIBLE, DO NOT LEAVE VICTIM UNATTENDED, SEEK
+    MEDICAL AT TENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:50 F/10 C
+Lower Limits:.9
+Extinguishing Media:REGULAR FOAM OR CARBON DIOXIDE OR DRY CHEMICAL.
+Fire Fighting Procedures:FIREFIGHTING PROCEDURES, WEAR SELF-CONTAINED
+    BREATHING APPARATUS W/FULL FACEPIECE OPERATED IN PRESSURE-DEMAND OR
+    OTHER POSITIVE PRESSURE MODE WHEN FIGHTING FIRE
+Unusual Fire/Explosion Hazard:SPECIAL FIRE & EXPLOSION HAZARD: VAPORS
+    ARE HEAVIER THAN AIR & MAY TRAVEL ALONG GROUND OR MAY BE MOVED BY
+    VENTILATION & IGNITED BY PILOT LIGHTS, FLAMES, SPARKS*
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA. REMOVE ALL SOURCES OF
+    IGNITION. SPREAD ABSORBANT MATERIAL AND PLACE IN A CLOSED
+    CONTAINER. WEAR PROTECTIVE EQUIPMENT DURING CLEANUP.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:ISOLATE FROM HEAT, ELECTRIC EQUIPMENT,
+    SPARKS AND OPEN FLAMES. CLOSED CONTAINERS RUPTURE WHEN EXPOSED TO
+    EXTREME HEAT.
+Other Precautions:STAY UPWIND AND AWAY FROM SPILL. KEEP ALL SOURCES OF
+    IGNITION AND HOT SURFACES AWAY FROM SPILL. IF SPILL IS INDOORS,
+    VENTILATE AREA OF SPILL.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE A RESPIRATOR OR GAS MASK WITH APPROPRIATE
+    CARTRIDGES AND CANNISTERS (NIOSH APPROVED, IF AVAILABLE) OR
+    SUPPLIED AIR EQUIPMENT.
+Ventilation:LOCAL EXHAUST; P.O.E. AND MECHANICAL; FAN.
+Protective Gloves:NEOPRENE GLOVES
+Eye Protection:SAFETY GOGGLES
+Other Protective Equipment:IMPERVIOUS CLOTHING SHOULD BE WORN AS
+    NEEDED.
+Work Hygienic Practices:IT IS SUGGESTED THAT A SOURCE OF CLEAN WATER BE
+    AVAILABLE IN WORK AREA FOR FLUSHING EYES AND SKIN.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:237 TO 242F
+Vapor Pres:15 MMHG
+Vapor Density:3.5(AIR=1)
+Spec Gravity:.77 (H2O=1)
+Solubility in Water:NONE
+Appearance and Odor:KETONE ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+THIS PRODUCT IS INCOMPATIBLE WITH STRONG ACIDS OR BASES, OXIDIZING
+    AGENTS AND SELECTED AMINES.
+Stability Condition to Avoid:N/K. *HEATERS, SMOKING, ELEC MOTORS,
+    STATIC DISCHARGE OR OTHER IGNITE SOURCES AT LOCATIONS DISTANT FROM
+    HANDLING POINT.
+Hazardous Decomposition Products:THERMAL DECOMPOSITION IN THE PRESENCE
+    OF AIR MAY YIELD CARBON MONOXIDE AND/OR CARBON DIOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE IN AN APPROVED INCINERATOR OR DISPOSE
+    OF IN A CHEMICAL DUMP IN ACCORDANCE WITH LOCAL, STATE AND FEDERAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

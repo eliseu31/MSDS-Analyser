@@ -1,0 +1,124 @@
+=====================  Product Identification  =====================
+
+Product ID:HUSQVARNA 50:1 TWO CYCLE ENGINE OIL
+MSDS Date:11/19/1985
+FSC:9150
+NIIN:00F019181
+MSDS Number: BLPPL
+=== Responsible Party ===
+Company Name:SPECTRUM CORPORATION
+Address:FULGHUM STREET
+Box:130
+City:HORNSHY
+State:TN
+ZIP:38044
+Info Phone Num:(901) 658-9050
+Emergency Phone Num:(901) 658-9050
+CAGE:FO953
+=== Contractor Identification ===
+Company Name:SPECTRUM CORP
+Address:FULGHUM ST
+Box:130
+City:HORNSBY
+State:TN
+ZIP:38044
+Country:US
+CAGE:1EE17
+Company Name:SPECTRUM CORPORATION
+Address:FULGHUM STREET
+Box:130
+City:HORNSHY
+State:TN
+ZIP:38044
+Phone:(901) 658-9050
+CAGE:FO953
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MINERAL OIL, PETROLEUM DISTILLATES, SOLVENT-REFINED HEAVY
+    PARAFFINIC, LUBRICATING OIL BASE STOCK
+CAS:64741-88-4
+RTECS #:PY8040500
+OSHA PEL:5 MG/CUM
+ACGIH TLV:5 MG/CUM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: DIZZINESS, HEADACHE &
+    RESPIRATORY IRRITATION. EYES/SKIN: IRRITATION. INGESTION: SLIGHTLY
+    TOXIC. PULMONARY ASPIRATION HAZARD IF VOMITING OCCURS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: DIZZINESS, HEADACHE & RESPIRATORY
+    IRRITATION. EYES/SKIN: IRRITATION. INGESTION: SLIGHTLY TOXIC.
+    PULMONARY ASPIRATION HAZARD IF VOMITING OCCURS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: WASH W/SOAP & WATER. EYES: FLUSH W/WATER FOR 5 MINS.
+    INHALATION: REMOVE TO FRESH AIR. INGESTION: DON'T INDUCE VOMITING.
+    OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:475F
+Lower Limits:0.09%
+Upper Limits:7%
+Extinguishing Media:WATER FOG, CHEMICAL FOAM, DRY CHEMICAL POWDER, CO2
+Fire Fighting Procedures:USE WATER TO KEEP FIRE-EXPOSED CONTAINERS
+    COOL.
+Unusual Fire/Explosion Hazard:PRESSURE INCREASES IN OVER HEATED CLOSED
+    CONTAINERS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE IGNITION SOURCES. RECOVER LIQUID. ADD
+    ABSORBENT TO SPILL AREA. VENTILATE CONFINED SPACES. ADVISE
+    AUTHORITIES IF PRODUCT ENTERS SWERS, ETC.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER CLOSED WHEN NOT IN USE.
+    DON'T HANDLE OR STORE NEAR HEAT OR FLAMES.
+Other Precautions:AVOID CONTACT W/SKIN & EYES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:VENTILATE AS NEEDED TO COMPLY W/EXPOSURE LIMIT
+Protective Gloves:IMPERVIOUS, CHEMICAL RESISTANT
+Eye Protection:GOGGLES, FACE SHIELD
+Other Protective Equipment:APRON
+Work Hygienic Practices:WASH/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>600
+Vapor Pres:<1
+Vapor Density:>5
+Evaporation Rate & Reference:(BU AC = 1): <1
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:DARK RED COLORED LIQUID, MILD PETROLEUM ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDANTS
+Stability Condition to Avoid:IGNITION SOURCES, HEAT OR FLAMES
+Hazardous Decomposition Products:FUMES, SMOKE & CO
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ASSURE CONFORMITY W/APPLICABLE DISPOSAL
+    REGULATIONS. DISPOSE OF ABSORBED MATERIAL AT APPROVED WASTE SITE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

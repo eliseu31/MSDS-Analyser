@@ -1,0 +1,163 @@
+=====================  Product Identification  =====================
+
+Product ID:EPK 1C HARDENER AB0001
+MSDS Date:11/10/1993
+FSC:8040
+NIIN:00-777-0631
+Kit Part:Y
+MSDS Number: BWRWY
+=== Responsible Party ===
+Company Name:DEXTER CORP; AUTOMOTIVE MATERIALS DIVISION
+Address:ONE DEXTER DRIVE
+City:SEABROOK
+State:NH
+ZIP:03874
+Country:US
+Info Phone Num:603-474-5541
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+Preparer's Name:KEN DECOSTA
+CAGE:1JB33
+=== Contractor Identification ===
+Company Name:DEXTER CORP THE HYSOL DIV
+Address:1 DEXTER DR
+Box:City:SEABROOK
+State:NH
+ZIP:03874
+Country:US
+Phone:603-474-5541/FAX: 603-474-5545
+CAGE:1JB33
+Company Name:RESIN FORMULATORS CO
+Address:8500 STELLER DR
+Box:City:CALVER CITY
+State:CA
+ZIP:90232
+Country:US
+Phone:213-870-9561
+CAGE:03355
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:QUARTZ (CRYSTALLINE SILICA)
+CAS:14808-60-7
+RTECS #:VV7330000
+Fraction by Wt: 15.602%
+Other REC Limits:NONE RECOMMENDED
+ACGIH TLV:0.3 MG/M3
+
+Ingred Name:DIETHYLENETRIAMINE
+CAS:111-40-0
+RTECS #:IE1225000
+Fraction by Wt: 10-30%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:1 PPM
+ACGIH TLV:1 PPM
+
+Ingred Name:EPOXY RESIN
+CAS:25068-38-6
+RTECS #:KC2100000
+Fraction by Wt: 10-30%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES
+Health Hazards Acute and Chronic:INHAL: LUNG SCARRING (COUGH,SHORT OF
+    BREATH). SILICOSIS (FORM OF PULMONARY FIBROSIS). EYE:SEVERE
+    IRRITATION W/CORNEAL INJURY, MAY BE PERMANENT VISION IMPAIRMENT,
+    BLINDNESS. VAPORS MAY IRRITATE. SKIN:  ALLERGIC SKIN REACTIONS IN
+    HUMANS. ABSORPTION: MAY BE ABSORBED IN HARMFUL AMTS. INGEST:GI
+    IRRITATION/ULCERATION. BURNS *
+Explanation of Carcinogenicity:CRYSTALLINE SILICA: NTP: (RESPIRABLE)
+    MAY REASONABLY ANTICIPATED TO BE CARCINOGEN. IARC: LIMITED EVIDENCE
+    IN HUMANS.
+Effects of Overexposure:IRRITATIONS AS NOTED. SKIN SENSITIZATION
+    (ALLERGY) MAY BE EVIDENCED BY RASHES, ESPECIALLY HIVES.	       
+								       
+	   * OF MOUTH & THR OAT. INHALATION: RESPIRATORY SENSITIZATION
+    OR ASTHMA IN SUSCEPTIBLE INDIVIDUALS. UPPER RESPIRATORY TRACT
+    IRRITATION.
+Medical Cond Aggravated by Exposure:PRE-EXISTING SKIN & EYE DISORDERS.
+    PRE-EXISTING SKIN OR LUNG ALLERGIES MAY INCREASE CHANCE OF
+    DEVELOPING INCREASED ALLERGY SYMPTOMS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: IMMED & CONTINUOUS IRRIGATION W/FLOWING WATER AT LEAST
+    30 MINS. PROMPT MED AID ESSENTIAL. SKIN: IMMED FLUSH SKIN W/WATER
+    AT LEAST 15 MINUTES, WHILE REMOVING CONTAM CLOTHING, PREFERABLY
+    UNDER SAF ETY SHOWER. GET MED AID IMMED. AVOID PROLONGED/REPEATED
+    CONTACT WITH SKIN. WASH THOROUGHLY AFTER HANDLING. INGEST: DO NOT
+    INDUCE VOMITING. GIVE LARGE AMT WATER/MILK IF AVAILABLE & TRANSPORT
+    TO **
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:OC
+Flash Point:215F,102C
+Extinguishing Media:USE WATER SPRAY, DRY CHEMICAL, "ALCOHOL" FOAM, OR
+    CARBON DIOXIDE
+Fire Fighting Procedures:USE WATER TO KEEP FIRE-EXPOSED CONTAINERS
+    COOL. WATER SPRAY MAY BE USED TO FLUSH SPILLS AWAY FROM EXPOSURE &
+    TO DILUTE SPILLS TO NONFLAMMABLE MIXTURES.
+Unusual Fire/Explosion Hazard:CARE MUST BE TAKEN TO PREVENT IGNITION
+    WHEN PROCESSING OR HANDLING AT TEMPERATURES ABOVE THE FLASH POINT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CLEANUP AND DISPOSAL SHOULD BE IN ACCORDANCE
+    WITH FEDERAL, STATE, AND LOCAL ENVIRONMENTAL CONTROL REGULATIONS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:PROTECT FROM PHYSICAL DAMAGE. STORE IN
+    A COOL, DRY AREA, WELL VENTILATED AWAY FROM ANY AREA WHERE FIRE
+    HAZARD MAY BE ACUTE.
+Other Precautions:STRONG SKIN SENSITIZER. AVOID SKIN CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WHERE COMPARITIVELY SMALL AMOUNTS ARE BEING
+    USED, VENTILATION SHOULD MOVE AIR OVER THE WORK AND AWAY FORM THE
+    WORKER. DO NOT RECIRCULATE UNLESS SCRUBBED WITH ACID.
+Ventilation:VENTILATION SHOULD MOVE AIR OVER THE WORK AND AWAY FROM THE
+    WORKER.
+Protective Gloves:RUBBER OR PLASTIC
+Eye Protection:GOGGLES WHERE THERE IS DANGER OF SPLASH
+Other Protective Equipment:USE OF PROTECTIVE SKIN CREAM IS RECOMMENDED.
+Supplemental Safety and Health
+** MED FACILITY. INHAL: REMOVE TO FRESH AIR IF EFFECTS OCCUR. CONSULT
+    DR. NOTE TO PHYSICIAN: CORROSIVE. MAY CAUSE STRICTURE. IF LAVAGE
+    PERFORMED, SUGGEST ENDOTRACHEAL &/OR ESOPHAGOSCOPIC CONTROL. IF B
+    URN PRESENT, TREAT AS ANY THERMAL BURN,AFTER DECONTAMINATION. NO
+    SPECIFIC IN RESPONSE TO REACTIONS OF PATIENT.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:404F,207C
+Vapor Pres:<1
+Vapor Density:3.5
+Spec Gravity:1.65
+Solubility in Water:PARTIAL
+Appearance and Odor:TAN, HIGH VISCOSITY LIQUID WITH STRONG AMMONIA LIKE
+    ODOR
+Percent Volatiles by Volume:NIL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTAMINATION WITH STRONG ACIDS
+Hazardous Decomposition Products:THERMAL DECOMPOSITION MAY PRODUCE
+    HYDROGEN CYANIDE, NITROGEN OXIDES, CARBON MONOXIDE AND CARBON
+    DIOXIDE.
+Conditions to Avoid Polymerization:DO NOT MIX LARGE BATCHES OF EPOXY
+    RESIN & DTA W/O RECOGNITION OF DEVELOPMENT OF EXOTHERMIC HEAT.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

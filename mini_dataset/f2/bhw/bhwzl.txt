@@ -1,0 +1,132 @@
+=====================  Product Identification  =====================
+
+Product ID:ALKYD ENAMEL,GLOSS,GRAY 16492
+MSDS Date:09/22/1986
+FSC:8010
+NIIN:00-582-1508
+MSDS Number: BHWZL
+=== Responsible Party ===
+Company Name:CON-LUX COATINGS, INC.
+Address:226 TALMAGDE ROAD
+Box:847
+City:EDISON
+State:NJ
+ZIP:08818-0847
+Country:US
+Info Phone Num:(206) 287-4000
+Emergency Phone Num:(206) 287-4000
+CAGE:60189
+=== Contractor Identification ===
+Company Name:CON-LUX COATINGS INC
+Address:226 TALMADGE RD
+Box:847
+City:EDISON
+State:NJ
+ZIP:08818-0847
+Country:US
+Phone:732-287-4000
+CAGE:60189
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MINERAL SPIRITS
+Fraction by Wt: 25.13%
+OSHA PEL:100 PPM
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: NO
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Effects of Overexposure:HEADACHE, NAUSEA & DIZZINESS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR.RESTORE RESPIRATION IF
+    NECESSARY. EYE CONTACT:  FLUSH IMMEDIATELY W/COPIOUS QTYS OF WTR
+    FOR 15 MINS MINIMUM. CONSULT PHYSICIAN. DERMAL CONTACT: WASH
+    AFFECTED AREA W/SOA P & WTR.REMOVE CONTAMINATED CLOTHING CONSULT
+    PHYSICIAN IS IRRITATION PERSISTS. INGESTION: DRINK 1/2 GLASSES WTR
+    TO DILUTE.DO NOT INDUCE VOMITING.IF VOMITING OCCURS KEEP HEAD BELOW
+    KNEE LEVEL.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:105F
+Lower Limits:1.0
+Extinguishing Media:FOAM,CARBON DIOXIDE CO2,DRY CHEMICAL,WATER MIST
+Fire Fighting Procedures:SMOTHER FLAMES W/ONE OF THE ABOVE
+    EXTINGUISHING MEDIA.WATER MAY BE USED TO COOL DOWN UNOPENED
+    CONTAINERS IN VICINITY.
+Unusual Fire/Explosion Hazard:CONTAINS FLAMMABLE SOLVENT.DO NOT USE IN
+    AREAS WHERE SPARKS OR OPEN FLAMES ARE PRESENT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE ALL IGNITION SOURCES.WEAR
+    APPROPRIATE PERSONAL PROTECTION EQUIP & APPROVED RESPIRATOR.CONTAIN
+    SPILL W/ABSORBENT MATERIAL & PUT INTO VAPOR   TIGHT
+    CONTAINERS.PREVENT MATERIAL FROM CONTACTING  ANY WTR SOURCES OR
+    SEWERS LEADING TO SURFACE WTRS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN AREAS DESIGNED TO COMPLY
+    W/ANSI/NFPA 30 FLAMMABLE & COMBUSTIBLE LIQUIDS CODE.
+Other Precautions:GROUND CONTAINERS WHEN POURING LIQS/PDRS TO AVOID
+    STATIC CHARGE BUILD UP.DO NOT HANDLE UNTIL MANUFACTURERS SAFETY
+    PRECAUTIONS HAVE BEEN READ & UNDERSTOOD.PROVIDE ADEQUATE
+    VENTILATION OR RESPIRATORY PR OTECTION DURING WELDING/FLAME
+    CUTTING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IN OUTDOOR OR OPEN AREAS,USE APPROVED RESPIRATOR
+    TO REMOVE SOLID AIRBORNE PARTICLES OF OVER SPRAY DURING SPRAY
+    APPLICATION.IN RESTRICTED VENTILATION AREAS USE  APPROVED
+    RESPIRATOR DESIGN TO REMOVE A C OMBINATION OF PARTICLES AND VAPOR.
+Ventilation:SUFFICIENT VENTILATION,IN VOLUME & PATTERN,SHOULD BE
+    PROVIDED TO KEEP AIR CONTAMINANT CONCENTRATION BELOW EXPOSURE UNITS
+Protective Gloves:IMPERVIOUS FOR LONG/REPEATED EXPOSURE.
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:PREVENT PROLONGED SKIN CONTACT
+    W/CONTAMINATED CLOTHING.
+Work Hygienic Practices:WASH HANDS BEFORE EATING, SMOKING OR USING THE
+    WASHROOM	 FACILITIES.
+Supplemental Safety and Health
+NK
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:0 - 323F
+Vapor Density:THAN AIR
+Evaporation Rate & Reference:THAN ETHER
+Percent Volatiles by Volume:47.58
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING AGENTS.
+Stability Condition to Avoid:EXTREME HEAT, SPARKS OR OPEN FLAMES.
+Hazardous Decomposition Products:MAY PRODUCE HAZARDOUS FUMES WHEN
+    HEATED.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/FEDERAL,STATE & LOCAL
+     REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

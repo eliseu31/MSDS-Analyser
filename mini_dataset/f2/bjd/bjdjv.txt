@@ -1,0 +1,137 @@
+=====================  Product Identification  =====================
+
+Product ID:WHITE ALKYD ENAMEL ID X-4609
+MSDS Date:07/11/1988
+FSC:8010
+NIIN:00-298-2288
+MSDS Number: BJDJV
+=== Responsible Party ===
+Company Name:SENTRY PAINT COMPANY
+City:DARBY
+State:PA
+ZIP:19023
+Country:US
+Info Phone Num:215-522-1900
+Emergency Phone Num:215-522-1900
+CAGE:LO232
+=== Contractor Identification ===
+Company Name:SENTRY PAINT AND CHEMICAL CO
+Address:MILL AND LAWRENCE ST
+Box:City:DARBY
+State:PA
+ZIP:19023
+Country:US
+CAGE:34346
+Company Name:SENTRY PAINT COMPANY
+Address:237 MILL ST.
+City:DARBY
+State:PA
+ZIP:19023
+Country:US
+CAGE:LO232
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MINERAL SPIRITS					       
+    (VAPOR PRESSURE 1.00 @20C)
+CAS:64475-85-0
+RTECS #:PY8240000
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:LEAD  (SARA III)
+CAS:7439-92-1
+RTECS #:OF7525000
+OSHA PEL:0.05 MG/M3;1910.1025
+ACGIH TLV:0.15 MG/M3;DUST 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:YES
+Health Hazards Acute and Chronic:ACUTE: LEAD INTOXICATION AND
+    INHALATION					       CHRONIC:
+    INGESTION
+Explanation of Carcinogenicity:LISTED AS SUSPECTED CARCINOGENIC
+    POTENTIAL TO MAN.
+Effects of Overexposure:EYES: IRRIT REDNESS, TEARING-BLURRED
+    VISION.SKIN: DRYNESS,IRRIT, DERMATITIS     INHALATION: NASAL AND
+    RESPIRATORY IRRIT, DIZZINESS,WEAKNESS, NAUSEA, HEADACHE. 
+    SWALLOWING: NAUSEA, VOMITING, DIARRHEA.  ASPIRATION OF MATERIAL
+    INTO THE LUNGSCAN CAUSE CHEMICAL PNEUMONITIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR IMMED. IF BREATHING HAS
+    STOPPED, GIVE ARTIFICIALRESPIRATION. KEEP WARM/QUIET. EYE: FLUSH
+    W/LARGE QTYS OF WTR, LIFTING UPPER AND LOWER LIDS
+    OCCASIONALLY.CONTINUE FOR 15  MINS.GET MEDICAL ATTN. SKIN: WASH
+    EXPDAREA WITH SOAP AND WATER. REMOVE CONTAMINATED
+    CLOTHING.SWALLOWING: DO NOT INDUCEVOMITING, KEEP PERSON WARM,
+    QUIET, AND GET MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:107F/41.67C
+Lower Limits:1.00
+Extinguishing Media:USE CARBON DIOXIDE OR DRY CHEMICALS, FOR SMALL
+    FIRES.	 FOAM FOR LARGE FIRES.
+Fire Fighting Procedures:CLOSED CONTAINERS MAY BUILD EXPLOSIVE PRESSURE
+    FROM HEAT. VAPORS ARE HEAVIER    THAN AIR MAY TRVL AT GROUND LEVEL,
+    MAY BE MOVED BY VENT TO IGNITE SOURCES.
+Unusual Fire/Explosion Hazard:MAY BE IGNITED BY FLAMES,SPARKS
+    HEATERS,SMOKING, ELCTRIC MOTORS, STATIC DISCHARGE OR IGNITION
+    SOURCES AT LOCATIONS DISTANT FROM HANDLING POINT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:KEEP SPECTATORS AWAY. ELIM ALL IGNITION
+    SOURCES.  DIKE AND CONTAIN SPILL W/INERT MATERIAL (SAND OR	EARTH).
+    TRANSFER LIQS TO COVERED METAL CONTAINRS  FOR RECOVERY OR DISPOSAL,
+    OR REMOVE W/INERT ABSORB ENT. USE ONLY NON-SPARKING TOOLS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE SELF-CONTAINED BREATHING APPARATUS WHERE
+    CONCENTRATIONS MAY BE ABOVE TLV    LIMITS. BELOW TLV LIMITS, USE A
+    NIOSH APPROVED VAPOR RESPIRATOR.
+Ventilation:LOCAL EXHAUST
+Protective Gloves:CHEMICAL GLOVES
+Eye Protection:SAFETY GLASSES W/SIDE SHIELDS
+Other Protective Equipment:EYE BATH AND SAFETY SHOWER. TO PREVENT
+    REPEATED OR 	 PROLONGED SKIN CONTACT, WEAR IMPERVIOUS
+    CLOTHING AND BOOTS.
+Supplemental Safety and Health
+NK
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:323 - 390F
+Vapor Density:>AIR
+Evaporation Rate & Reference:<ETHER
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTACT W/STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:EXCESS HEAT, SPARKS, & OPEN FLAME
+Hazardous Decomposition Products:FUMES MAY CONTAIN THE HAZARDOUS
+    MATERIALS LISTED ABOVE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH FEDERAL, STATE AND
+     LOCAL LAWS. INCINERATE ONLY IN EPA PERMITTED      FACILITY. DO NOT
+    INCINERATE CLOSED CONTAINERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

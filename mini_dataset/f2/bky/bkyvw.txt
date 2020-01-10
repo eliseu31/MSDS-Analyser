@@ -1,0 +1,143 @@
+=====================  Product Identification  =====================
+
+Product ID:INDOLE REAGENT
+MSDS Date:03/05/1990
+FSC:6550
+NIIN:01-226-9892
+MSDS Number: BKYVW
+=== Responsible Party ===
+Company Name:B D MICROBIOLOGY SYSTEMS
+Box:243
+City:COCKEYSVILLE
+State:MD
+ZIP:21030
+Info Phone Num:(816) 966-5000
+Emergency Phone Num:(816) 966-5000
+CAGE:FO896
+=== Contractor Identification ===
+Company Name:B D MICROBIOLOGY SYSTEMS
+Address:240 SCHILLING CIRCLE
+City:HUNT VALLEY
+State:MD
+ZIP:21031
+Phone:(301) 584-7169
+CAGE:FO896
+Company Name:BDMS - MARION BD MICROBIOLOGY SYS
+Box:City:COCKEYVILLE
+State:MD
+ZIP:21030
+Phone:(816) 866-5000
+CAGE:BDMIC
+Company Name:CURTIN MATHESON SCIENTIFIC INC
+Address:7677 EQUITABLE DR
+Box:City:EDEN PRAIRIE
+State:MN
+ZIP:55344-3676
+Country:US
+Phone:612-934-1793
+CAGE:5K095
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOBUTYL ALCOHOL  (SARA III)
+CAS:78-83-1
+RTECS #:NP9625000
+Fraction by Wt: 70%
+Other REC Limits:50 PPM
+OSHA PEL:100 PPM
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:HYDROGEN CHLORIDE  (HYDROCHLORIC ACID)  (SARA III)
+CAS:7647-01-0
+RTECS #:MW4025000
+Fraction by Wt: 25%
+Other REC Limits:7 PPM
+OSHA PEL:C 5 PPM
+ACGIH TLV:C 5 PPM; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:P-DIMETHYLAMINOBENZALDEHYDE
+CAS:100-10-7
+RTECS #:CU5775000
+Fraction by Wt: 5%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL RAT LD50:  2460 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: BURNS, CONJUNCTIVITIS &
+    IRRITATION. SKIN: BURNS. INHALATION: MUCOUS MEMBRANES BURNS &
+    HEADACHE.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: BURNS, CONJUNCTIVITIS & IRRITATION. SKIN:
+    BURNS. INHALATION: HEADACHE & MUCOUS MEMBRANES BURNS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN/EYES: FLUSH W/FLOWING WATER FOR 15 MINS. SKIN: WASH
+    W/SOAP & WATER. INGESTION: DRINK LARGE AMOUNTS OF WATER OR MILK.
+    DON'T INDUCE VOMITING. INHALATION: REMOVE TO FRESH AIR. OBTAIN
+    MEDICAL ATTENTI ON IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:105F
+Lower Limits:1.7%
+Upper Limits:11%
+Extinguishing Media:DRY CHEMICAL, CO2, ALCOHOL & WATER SPRAY.
+Fire Fighting Procedures:WATER SHOULD BE USED TO COOL FIRE EXPOSED
+    CONTAINERS & TO DISPERSE UNIGNITED VAPORS.
+Unusual Fire/Explosion Hazard:EXPLOSION HAZARD FOR ISOBUTYL ALCOHOL IF
+    EXPOSED TO EXTREME HEAT OR FLAME. RELEASE OF HYDROGEN GAS WHICH
+    COULD BE EXPLOSIVE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE EQUIPMENT. REMOVE ALL SOURCES
+    OF IGNITION. ABSORB W/INERT MATERIAL. SHOVEL OR SWEEP UP, PLACE IN
+    A DOT APPROVED CONTAINER & SEAL. VENTILATE AREA.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:OBSERVE ESTABLISHED PRECAUTIONS
+    AGAINST MICROBIOLOGICAL HAZARDS THROUGHOUT ALL PROCEDURES.
+Other Precautions:PRIOR TO DISCARDING, STERLIZE SPECIMEN CONTAINERS &
+    OTHER CONTAMINATED MATERIALS BY AUTOCLAVING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Protective Gloves:LATEX
+Eye Protection:SAFETY GLASSES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+pH:<1.0
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR, SLIGHTLY YELLOW LIQUID; SWEET, CHOKING ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ALKALIES & METALS.
+Stability Condition to Avoid:HEAT, FLAME, DIRECT SUNLIGHT, SOURCES OF
+    IGNITION.
+Hazardous Decomposition Products:HYDROGEN GAS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/RCRA, STATE & LOCAL
+    REGULATIONS. DON'T FLUSH INTO SEWER.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

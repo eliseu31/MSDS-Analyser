@@ -1,0 +1,145 @@
+=====================  Product Identification  =====================
+
+Product ID:570A COOL'R CLEAN'R HEAVY DUTY COMPLETE'R A
+MSDS Date:05/12/1994
+FSC:6850
+NIIN:01-358-6705
+MSDS Number: BWRHF
+=== Responsible Party ===
+Company Name:BG PRODUCTS INC
+Address:701 S WICHITA
+Box:1282
+City:WICHITA
+State:KS
+ZIP:67201
+Country:US
+Info Phone Num:316-265-2686
+Emergency Phone Num:800-424-9300(CHEMTREC)
+Preparer's Name:GARY E. CURMODE
+CAGE:58579
+=== Contractor Identification ===
+Company Name:BG PRODUCTS INC
+Address:701 S WICHITA
+Box:1282
+City:WICHITA
+State:KS
+ZIP:67201
+Country:US
+Phone:316-265-2686
+CAGE:58579
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:COMPLEX MIXTURE
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:PHOSPHORIC ACID  (SARA III)
+CAS:7664-38-2
+RTECS #:TB6300000
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3/3 STEL; 9394
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:SODIUM PHOSPHATE, DIBASIC  (SARA III)
+CAS:7558-79-4
+RTECS #:WC4500000
+Other REC Limits:NONE RECOMMENDED
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:TLV FOR PRODUCT NO DATA AVAILABLE
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION OF MIST MAY IRRITATE
+    RESPIRATORY PASSAGES. MAY BE HARMFUL IF SWALLOWED. PROLONGED OR
+    FREQUENT SKIN CONTACT MAY CAUSE IRRITATION. DERMAL/INHAL/ORAL
+    TOXICITY:SLIGHT. IRRITANCY:SKIN/RESP TRACT :SLIGHT, EYES:SLIGHT TO
+    MODERATE. ASPIRATION HAZARD:YES.
+Explanation of Carcinogenicity:PER MSDS:CARCINOGENICITY:NO DATA
+    AVAILABLE.
+Effects of Overexposure:IRRIT RESPIRATORY PASSAGES AND SKIN. HARMFUL IF
+    INGEST. IRRITATE EYES.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH W/COPIOUS AMTS OF WATER FOR 15MINS. IF IRRIT OCCURS
+    SEE PHYSICIAN IMMED. SKIN:WASH EFFECTED AREA THOROUGHLY W/SOAP &
+    WATER. IF IRRIT OCCURS SEE PHYSICIAN IMMED. REMOVE ALL CONTAMINATED
+    CLOTH ING. INHAL:REMOVE TO FRESH AIR. IF UNCONSC ADMINISTER ART
+    RESP. CALL PHYSICIAN IMMED. GIVE OXYGEN IF NEEDED. INGEST:DO NOT
+    INDUCE VOMITING. CALL PHYSICIAN IMMED.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:CO2, DRY CHEMICAL, FOAM.
+Fire Fighting Procedures:FIREFIGHTERS SHOULD WEAR A SELF-CONTAINED,
+    POSITIVE PRESSURE BREATHING APPARATUS & PERSONAL PROTECTIVE
+    EQUIPMENT.
+Unusual Fire/Explosion Hazard:NO DATA AVAILABLE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DO NOT FLUSH ITNO SEWER, DRAIN, STREAM.
+    ISOLATE SPILL. ABSORB W/INERT MATERIAL. TRANSFER TO APPROPRIATE DOT
+    CONTAINER FOR DISPOSAL. WEAR PROPER PROTECTIVE EQPMT.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL DRY WELL VENTILATIED
+    AREA. AVOID BREATHING FUMES. DO NOT EXPOSE TO SOURCES OF
+    HEAT/SPARK/FLAME.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AS REQUIRED BY EXPOSURE.
+Ventilation:MECHANICAL VENTILATION REQUIRED.
+Protective Gloves:IMPERVIOUS GLOVES
+Eye Protection:SAFETY GLASSES OF CHEMICAL GOGGLES
+Other Protective Equipment:AS REQURIED BY EXPOUSRE; LONG-SLEEVED SHIRT
+    RECOMMENDED.
+Work Hygienic Practices:USE GOOD CHEM HYGIENE PRACTICES.DO NOT SMOKE
+    WHILE USING.WASH HANDS AFTER USE.LAUNDER ALL CONTAMIN CLOTHING
+    BEFORE REUSE
+Supplemental Safety and Health
+PER MSDS:DESIGNED SOLELY FOR USE W/BG COOL'R COOLANT PURIFICATION
+    SYSTEM AS 1 PART OF 2-PART RE-INHIBITING PACKAGE TO PROVIDE
+    CORR,FOAM,& CAVITATION.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C1
+Boiling Pt:B.P. Text:>212F,>100C
+Melt/Freeze Pt:M.P/F.P Text:21F(FRZ PT)
+Spec Gravity:1.08
+pH:1.2
+Evaporation Rate & Reference:<1, REF NOT GIVEN
+Solubility in Water:APPRECIABLE
+Appearance and Odor:BLUE LIQUID, SLIGHT ODOR,
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ALKALI.
+Stability Condition to Avoid:AVOID EXTREME HEAT.
+Hazardous Decomposition Products:OXIDES OF PHOSPHORUS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE AND
+    FEDERAL REGULATIONS. CERCLA:PHOSPHORIC ACID 5000BLS, DISODIUM
+    PHOSPHATE 5000LBS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

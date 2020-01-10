@@ -1,0 +1,155 @@
+=====================  Product Identification  =====================
+
+Product ID:BULLDOG ALUMINUM COATING, ASBESTOS FREE
+MSDS Date:08/01/1989
+FSC:8030
+NIIN:00-664-7042
+MSDS Number: BKYMG
+=== Responsible Party ===
+Company Name:PALMER ASPHALT COMPANY
+Address:196 WEST 5TH STREET
+Box:58
+City:BAYONNE
+State:NJ
+ZIP:07002-1102
+Info Phone Num:(201) 339-0855
+Emergency Phone Num:(201) 339-0855
+CAGE:86371
+=== Contractor Identification ===
+Company Name:PALMER ASPHALT CO
+Address:196 W 5TH
+Box:58
+City:BAYONNE
+State:NJ
+ZIP:07002-1102
+Country:US
+CAGE:86371
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ASPHALT OXIDE
+CAS:64742-93-4
+OSHA PEL:100 PPM
+ACGIH TLV:525 MG/M3
+
+Ingred Name:STODDARD SOLVENT
+CAS:8052-41-3
+RTECS #:WJ8925000
+Other REC Limits:350 MG/CUM
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM; 9293
+
+Ingred Name:ALUMINUM  (SARA III)
+CAS:7429-90-5
+RTECS #:BD0330000
+OSHA PEL:15MG/M3 DUST/5 FUME
+ACGIH TLV:10MG/M3 DUST; 9192
+
+Ingred Name:CALCIUM METASILICATE (CAB-O-LITE)
+CAS:13983-17-0
+RTECS #:ZC9750000
+
+Ingred Name:SILICA GEL, CHROMAROD SII, DYNAGROUT SB, FRACTOSIL 500,
+    GASIL, GEMODEZ, KIESELGEL, LICHROPREP, NEOBEAD, POLYPOR
+CAS:63231-67-4
+RTECS #:VV7340000
+ACGIH TLV:10 MG/M3 (DUST)
+
+Ingred Name:POLYETHYLENE, POLYETHYLENE RESIN (HOMOPOLYMER)
+CAS:9002-88-4
+RTECS #:TQ3325000
+
+Ingred Name:PAPER FIBERS (CELLULOSE)
+CAS:1004-34-6
+ACGIH TLV:10 MG/CUM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: NAUSEA, DIZZINESS,
+    CHEMICAL PNEUMONIA, LIVER/KIDNEY DAMAGE, UNCONSCIOUSNESS &
+    DIFFICULTY BREATHING. SKIN: ITCHING & DRYNESS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: NAUSEA, DIZZINESS, CHEMICAL
+    PNEUMONIA, LIVER/KIDNEY DAMAGE, UNCONSCIOUSNESS & DIFFICULTY
+    BREATHING. SKIN: ITCHING & DRYNESS.
+Medical Cond Aggravated by Exposure:EMPHYSEMA
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINS. SKIN:
+    WASH W/SOAP & WATER. INHALATION: REMOVE TO FRESH AIR. GIVE CPR OR
+    OXYGEN IF NEEDED. INGESTION: DON'T INDUCE VOMITING. NEVER GIVE
+    ANYTHING BY M OUTH TO AN UNCONSCIOUS PERSON. OBTAIN MEDICAL
+    ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:120F
+Lower Limits:0.9%
+Upper Limits:7.0%
+Extinguishing Media:DRY CHEMICAL & FOAM CO2
+Fire Fighting Procedures:DON'T USE WATER OR HALOGENATED EXTINGUISHING
+    AGENTS. USE SUPPLIED AIR BREATHING EQUIPMENT FOR ENCLOSED AREAS.
+    COOL EXPOSED CONTAINERS, BUT DON'T USE WATER.
+Unusual Fire/Explosion Hazard:DON'T MIX OR STORE W/STRONG OXIDANTS.
+    DON'T ALLOW WATER TO MIX W/CONTENTS. AUTO-IGNITION TEMP: 400F.
+    COMBUSTIBLE LIQUID.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE NON_ SPARKING TOOLS. SHOVEL & PLACE IN
+    CLOSED CONTAINER. ADD ABSORBENT TO SPILL. EVACUATE AREA.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN DRY, COOL AREA. USE IN WELL
+    VENTILATED AREA. DON'T HEAT PRODUCT FOR APPLICATION.
+Other Precautions:AVOID CONTACT W/SKIN & BREATHING OF VAPORS OR SPRAY
+    MIST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE ORGANIC VAPOR CARTRIDGE IF IN AN ENCLOSED
+    AREA.
+Ventilation:LOCAL EXHAUST/MECHANICAL VENTILATION
+Protective Gloves:IMPERVIOUS
+Eye Protection:CHEMICAL GOGGLES
+Other Protective Equipment:LONG SLEEVE SHIRT & PANTS. KEEP ARM/LEGS
+    COVERED.
+Work Hygienic Practices:WASH CONTAMINATED CLOTHING, SEPERATE FROM OTHER
+    CLOTHING. WASH THOROUGHLY W/SOAP & WATER AFTER HANDLING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:300F
+Spec Gravity:1.04
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:BRONZE (SILVER WHEN STIRRED), VISCOUS LIQUID
+    W/SLIGHT PETROLEUM ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACIDS, CAUSTICS, HALOGENATED HYDROCARBONS, OXIDIZERS & WATER
+Stability Condition to Avoid:HEAT, SPARKS & OPEN FLAME
+Hazardous Decomposition Products:SMOKE, CO, CO2 & ALUMINUM OXIDE
+Conditions to Avoid Polymerization:CONTAINERS OPEN TO MOISTURE & WATER
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:KEEP PRODUCT OUT OF SEWERS & WATERCOURSES.
+    DISPOSE ACCORDING TO LOCAL, STATE & FEDERAL REGULATIONS FOR
+    PERMITTED LAND USE DISPOSAL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,189 @@
+=====================  Product Identification  =====================
+
+Product ID:SKYKLEEN 1000 AVIATION SOLVENT
+MSDS Date:11/18/1998
+FSC:6850
+NIIN:01-442-0527
+MSDS Number: CJQCG
+=== Responsible Party ===
+Company Name:SOLUTIA INC.
+Address:10300 OLIVE BLVD
+City:ST LOUIS
+State:MO
+ZIP:63166-6760
+Country:US
+Info Phone Num:800-426-7022/314-694-6661
+Emergency Phone Num:703-527-3887
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:1CHP6
+=== Contractor Identification ===
+Company Name:SOLUTIA INC.
+Address:10300 OLIVE BLVD
+Box:City:ST LOUIS
+State:MO
+ZIP:63166-6760
+Country:US
+Phone:334-473-8472
+Contract Num:SP0450-99-M-ND09
+CAGE:1CHP6
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DIMETHYL GLUTARATE
+CAS:1119-40-0
+Minumum % Wt:55.
+Maxumum % Wt:75.
+
+Ingred Name:DIMETHYL SUCCINATE
+CAS:106-65-0
+RTECS #:WM7675000
+Minumum % Wt:15.
+Maxumum % Wt:35.
+
+Ingred Name:DIMETHYL ADIPATE
+CAS:627-93-0
+RTECS #:AV1645000
+Minumum % Wt:5.
+Maxumum % Wt:25.
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL, RAT) 500 - 5000 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE- MAY CAUSE MODERATE EYE
+    IRRITATION.  SLIGHTLY TOXIC IF INGESTED.  INAHALATION: NO MORE THAN
+    SLIGHTLY TOXIC. SKIN: NO MORE THAN SLIGHTLY IRRITATING OR SLIGHT
+    TOXIC.  OVEREXPOSURE TO THE VAPORS OF  THE DIBASIC ESTER MIXTURE
+    HAS PRODUCED BLURRING OF VISION.  CHRONIC- UNKNOWN.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:OVEREXPOSURE TO VAPORS OF THE DIBASIC ESTER
+    MIXTURE HAS PRODUCED BLURRING OF VISION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: IMMEDIATELY FLUSH WITH PLENTY OF WATER. IF EASY TO DO
+    SO, REMOVE ANY CONTACT LENSES. GET MEDICAL ATTENTION IF IRRITATION
+    PERSISTS. SKIN: IMMEDIATE FIRST AID IS NOT LIKELY TO BE REQUIRED.
+    INHALAT ION: IMMEDIATE FIRST AID IS NOT LIKELY TO BE REQUIRED.
+    INGESTION: IMMEDIATE FIRST AID IS NOT LIKELY TO BE REQUIRED. A
+    PHYSICIAN OR POISON CONTROL CENTER CAN BE CONTACTED FOR ADVICE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:=103.C, 217.4F
+Extinguishing Media:IN CASE OF FIRE , USE WATER (FLOOD WITH WATER), DRY
+    CHEMICAL, CO2, OR ALCOHOL FOAM
+Fire Fighting Procedures:FIRE FIGHTERS AND OTHERS EXPOSED TO PRODUCTS
+    OF COMBUSTIION SHOULD  WEAR SELF-CONTAINED BREATHING APPARATUS.
+    EQUIPTMENT SHOULD BE THOROUGHLY DECONTAMINATED AFTER USE.
+Unusual Fire/Explosion Hazard:NONE KNOWN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONTAIN LARGE SPILLS WITH DIKES AND TRANSFER
+    THE MATERIAL TO APPROPRIATE CONTAINERS FOR RECLAMATION OR DISPOSAL.
+    ABSORB REMAINING MATERIAL OR SMALL SPILLS WITH AN INERT MATERIAL
+    AND THEN PLACE IN A CH EMICAL WASTE CONTAINER. FLUSH RESIDUAL SPILL
+    AREA WITH WATER.
+Neutralizing Agent:NOT RELEVANT
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:PRODUCT IS STABLE UNDER NORMAL
+    CONDITIONS OF STORAGE AND HANDLING.  AVOID CONTACT WITH EYES. 
+    EMPTIED CONTAINER MAY RETAIN VAPOR OR PRODUCT RESIDUE.
+Other Precautions:AVOID BREATHING VAPORS/MISTS. WASH THOROUGHLY AFTER
+    HANDLING MATERIAL AND BEFORE EATING OR DRINKING. DO NOT INGEST. 
+    OBSERVE LABEL INSTRUCTION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/ MSHA APPROVED RESPIRATORY PROTECTION
+    EQUIPMENT WHEN AIRBBORNE EXPOSURE IS EXCESSIVE, CONSULT RESPIRATOR
+    MANUFACTURER TO DETERMINE APPROPRIATE TYPE EQUIPTMENT FOR GIVEN
+    APPLICATION. OBSERVE  RESPRIATOR USE LIMITATIONS SPECIFIED BY
+    NIOSH/MSHA OR THE MANUFACTUER. RESPIRATORY	PROTECTION PROGRAMS
+    MUST COMPLY WITH 29 CFR 1910.134
+Ventilation:PROVIDE NATURAL OR MECHANICAL VENTILATION TO MINIMIZE
+    EXPOSURE. USE LOCAL MECHANICAL EXHAUST VENTILATION AT SOURCES OF
+    AIR CONTAMINATION .
+Protective Gloves:CHEMICAL RESISTANT GLOVES TO PREVENT SKI N CONTACT.
+Eye Protection:WHERE  POTENTIAL FOR EYE CONTACT, WEAR GOGGLES AND HAVE
+    EYE FLUSHING EQUIPMENT
+Other Protective Equipment:WEAR A FACE SHIELD AND CHEMICAL RESISTANT
+    CLOTHING SUCH AS A RUBBER APRON,
+Work Hygienic Practices:WASH CONTAMINATED SKIN, LAUNDER CLOTHING AND
+    EQUIPMENT, BEFORE REUSE, WASH AFTER HANDLING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+NRC/State Lic Num:NOT RELEVANT
+Boiling Pt:B.P. Text:196 TO 226 DEG C
+Melt/Freeze Pt:=-40.C, -40.F
+Vapor Pres:0.06 MMHG @ 20 DEG C
+Spec Gravity:1.086
+Solubility in Water:5.5 % (WT)	@ 20 DEG C
+Appearance and Odor:COLORLESS LIQUID - SWEET ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDANTS, ACIDS AND ALKALIS
+Stability Condition to Avoid:PRODUCT IS STABLE UNDER NORMAL CONDITIONS
+    OF STORAGE AND HANDLING. ELEVATED TEMPERTURES- DECOMPOSES WITH
+    HEAT. VAPOR FORMS EXPLOSIVE MIXTURE IN AIR.
+Hazardous Decomposition Products:NO UNIQUELY HAZARDOUS DECOMPOSITION
+    PRODUCTS ARE EXPECTED.
+Conditions to Avoid Polymerization:DOES NOT OCCUR
+
+===================  Toxicological Information	===================
+
+Toxicological Information:DERMAL RABBIT LD50 - GREATER THAN 5000 MG/KG
+    (PRACTICALLY NON-TOXIC).  IN STUDIES FROM THE LITERATURE THE
+    INHALATION LC50 (RATS) IS >10.7 MG/L FOR A 1 HOUR EXPOSURE TO A
+    SIMILAR DIMETHYL ESTER MIXTURE . NO SKIN ALLERGY WAS REPORTED IN
+    ANIMALS FOLLOWING EXPOSURE TO THIS MIXTURE.
+
+=====================  Ecological Information  =====================
+
+Ecological:96-HR LC50 FATHEAD MINNOW: 18-24 MG/L, SLIGHTLY TOXIC; 48-HR
+    EC50 DAPHNIA MAGNA: 136 MG/L, PRACTICALLY NONTOXIC
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:THIS MATERIAL WHEN DISCARDED OR IS NOT A
+    HAZARDOUS WASTE AS DEFINED BY RCRA, 40 CFR 261- DISPOSE OF BY
+    INCINERATION OR RECYCLE IN ACCORDANCE WITH LOCAL, STATE AND FEDERAL
+    REGULATIONS. CONSULT YOUR ATT ORNEY OR APPROPRIATE REGULATORY
+    OFFICIALS FOR INFORMATION ON SUCH DISPOSAL.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:THE DATA PROVIDED IN THIS SECTION IS FOR
+    INFORMATION ONLY. PLEASE APPLY THE APPROPRIATE REGULATIONS TO
+    PROPERLY CLASSIFY YOUR SHIPMENT FOR TRANSPORTATION. THIS PRODUCT IS
+    NOT HAZARDOUS UNDER THE APPLI CABLE DOT, ICAO/IATA, OR IMDG
+    REGULATIONS.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:HAZARD CATEGORIES UNDER TITLE III RULES (40
+    CFR 370): IMMEDIATE, DELAYED.  SECTION 302 EXTREMELY HAZARDOUS
+    SUBSTANCES: NOT APPLICABLE.  SECTION 313 TOXIC CHEMICAL: NOT
+    APPLICABLE.
+Federal Regulatory Information:TSCA INVENTORY: ALL COMPONENTS ARE
+    LISTED. CERCLA REPORTABLE QUANTITY: NOT APPLICABLE.
+State Regulatory Information:CALIFORNIA PROPOSITION 65: NOT APPLICABLE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,115 @@
+=====================  Product Identification  =====================
+
+Product ID:POLYOL, SN-3013-A
+MSDS Date:12/16/1988
+FSC:8030
+NIIN:00N020828
+MSDS Number: BLMFB
+=== Responsible Party ===
+Company Name:H B FULLER CO
+Address:1200 WOLTERS BLVD
+City:VADNAIS HEIGHTS
+State:MN
+ZIP:55110
+Info Phone Num:612-481-3300
+Emergency Phone Num:612-481-3300
+Preparer's Name:INDUSTRIAL HYGIENE
+CAGE:0HD19
+=== Contractor Identification ===
+Company Name:H B FULLER CO
+Address:1200 WOLTER BLVD
+Box:City:VADNAIS HEIGHTS
+State:MN
+ZIP:55110
+Country:US
+Phone:612-481-3300
+CAGE:0HD19
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NON HAZARDOUS INGREDIENTS.
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: DIRECT EYE CONTACT WITH PRODUCT
+    MAY CAUSE IRRITATION. SKIN: PROLONGED OR REPEATED CONTACT MAY CAUSE
+    IRRITATION. INHALATION: INHALATION IS NOT A ROUTE OF EXPOSURE.
+    CHRONIC: NO ANTICIPATED CHRONIC  EFFECTS.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NO KNOWN EFFECTS ON OTHER
+    ILLNESSES.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH IMMEDIATELY WITH WATER FOR AT LEAST 15 MINUTES.
+    CONSULT A PHYSICIAN IF IRRITATION PERSISTS. SKIN: WASH MATERIAL
+    FROM SKIN WITH SOAP AND WATER. INHALATION: REMOVE TO FRESH AIR.
+    SUPPORT BREAT HING (GIVE ARTIFICIAL RESPIRATION/OXYGEN). CALL MD
+    IMMEDIATELY . INGEST: CALL MD IMMEDIATELY .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:>200F,>93C
+Extinguishing Media:USE WATER SPRAY, FOAM, DRY CHEMICAL OR CARBON
+    DIOXIDE.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE KNOWN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR RUBBER GLOVES AND WIPE UP WITH ABSORBENT
+    MATERIAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY LOCATION.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NORMALLY REQUIRED.
+Ventilation:STANDARD INDUSTRIAL VENTILATION.
+Protective Gloves:RUBBER GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:PROTECTIVE CLOTHING.
+Work Hygienic Practices:LAUNDER CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+WASTE DISP METH: FULLER ENVIRONMENTAL SERVICES 612-481-1588.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Spec Gravity:1.0423 
+Appearance and Odor:HEAVY LIQUID.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:INCOMPLETE COMBUSTION CAN YIELD LOW
+    MOLECULAR WEIGHT HYDROCARBONS, CARBON MONOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PROD DOES NOT MEET DEFINITION OF HAZ WASTE UNDER
+    U.S. EPA HAZ WASTE REGS 40 CFR 261. STATE/LOCAL HAZ WASTE REGS MAY
+    APPLY IF THEY ARE DIFFERENT FROM FED REG. INCINERATE IN AN APPRVD
+    FACILITY. FOR ADDT NL WASTE DISP ASSISTANCE CONSULT H.B. (SUPP
+    DATA)
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

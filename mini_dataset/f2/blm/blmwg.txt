@@ -1,0 +1,190 @@
+=====================  Product Identification  =====================
+
+Product ID:LEAK DETECTION POWDER 491 (AEROSOL)
+MSDS Date:07/27/1993
+FSC:6850
+NIIN:01-130-2451
+MSDS Number: BLMWG
+=== Responsible Party ===
+Company Name:COURTAULDS AEROSPACE INC
+Address:757 CALIFORNIA STREET
+Box:1800
+City:GLENDALE
+State:CA
+ZIP:91203
+Country:US
+Info Phone Num:818-549-7973
+Emergency Phone Num:818-549-7973
+CAGE:83574
+=== Contractor Identification ===
+Company Name:PRC-DESOTO INTERNATIONAL, INC. A PPG INDUSTRIES COMPANY
+Address:5430 SAN FERNANDO RD
+Box:1800
+City:GLENDALE
+State:CA
+ZIP:91209
+Country:US
+Phone:818-240-2060
+CAGE:83574
+Company Name:PRC-DESOTO INTL INC
+Address:5454 SAN FERNANDO RD
+Box:1800
+City:GLENDALE
+State:CA
+ZIP:91203
+Country:US
+Phone:818-240-2060/800-228-5635
+CAGE:92108
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL CHLOROFORM (1,1,1-TRICHLOROEHANE) (SARA III)
+CAS:71-55-6
+RTECS #:KJ2975000
+Fraction by Wt: < 5%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:350 PPM/450 STEL
+ACGIH TLV:350 PPM/450STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+Ozone Depleting Chemical:1
+
+Ingred Name:TALC/HYDROUS MAGNESIUM SILICATE
+CAS:14807-96-6
+RTECS #:MW2700000
+Fraction by Wt: 65%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:0.2 FIBERS/CC
+ACGIH TLV:0.2 FIBERS/CC; 9192
+
+Ingred Name:PROPANE (PROPELLANT - NOT PART OF THE PRODUCT)
+CAS:74-98-6
+RTECS #:TX2275000
+Fraction by Wt: 15%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:1000 PPM
+ACGIH TLV:ASPHYXIANT; 9192
+
+Ingred Name:ISOBUTANE (PROPELLANT - NOT PART OF THE PRODUCT)
+CAS:75-28-5
+RTECS #:TZ4300000
+Fraction by Wt: 5%
+Other REC Limits:NONE SPECIFIED
+ACGIH TLV:800 PPM (MFR)
+
+Ingred Name:BUTANE (PROPELLANT - NOT PART OF THE PRODUCT)
+CAS:106-97-8
+RTECS #:EJ4200000
+Fraction by Wt: 10%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:800 PPM
+ACGIH TLV:800 PPM; 9192
+
+Ingred Name:BUTANE
+CAS:106-97-8
+RTECS #:EJ4200000
+Fraction by Wt: 10%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:800 PPM
+ACGIH TLV:800 PPM; 9293
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE-EYE:SEVERE
+    IRRITATION.SKIN:IRRITATION. INHALATION:MAY CAUSE MUCOUS MEMBRANE
+    IRRITATION.NARCOTIC IN HIGH CONCENTRATION.EXCESSIVE INHALATION MAY
+    CAUSE A PRO ARRHYTHMIC ACTIVITY WHICH SOMETIMES CAU SES CARDIAC
+    ARREST.PROLONGED INHALATIONOF EXCESSIVE DUST MAY CAUSE LUNG
+    INJURY.INGESTION:NONE KNOWN.CHRONIC-NONE KNOWN.
+Effects of Overexposure:SEVERE EYE IRRITATION. SKIN IRRITATION.
+    INHALATION MAY CAUSE MUCOUS MEMBRANE IRRITATION. NARCOTIC IN HIGH
+    CONCENTRATION. EXCESSIVE INHALATION MAY CAUSE A PRO ARRHYTHMIC
+    ACTIVITY WHICH SOMETIMES CAUSES  CARDIAC ARREST. PROLONGED
+    INHALATION OF EXCESSIVE DUST MAY CAUSE LUNG INJURY.
+Medical Cond Aggravated by Exposure:PRE-EXISTING SKIN DISORDERS MAY BE
+    MORE SUSCEPTIBLE TO THIS MATERIAL.
+
+=======================  First Aid Measures  =======================
+
+First Aid:GET MEDICAL ATTENTION IN ALL CASES OF OVEREXPOSURE.SKIN:WASH
+    WITH SOAP AND WATER.INHALATION:REMOVE TO FRESH AIR & PROVIDE
+    OXYGEN/CPR IF NECESSARY.EYE:IMMEDIATELY FLUSH WITH WATER FOR 15
+    MINUTES WHILE  HOLDING EYELIDS OPEN.INGESTION:CALL A PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:-156F,-104C
+Extinguishing Media:WATER, DRY CHEMICAL EXTINGUISHER
+Fire Fighting Procedures:WEAR FIRE FIGHTING PROTECTIVE EQUIPMENT AND A
+    FULL FACED SELF CONTAINED BREATHING APPARATUS. COOL FIRE EXPOSED
+    CONTAINERS WITH WATER SPRAY.
+Unusual Fire/Explosion Hazard:HIGH TEMPERATURES MAY CAUSE PRESSURE
+    BUILDUP IN CLOSED CONTAINERS. HYDROCHLORIC ACID MAY BE DEVELOPED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR AIR-SUPPLIED RESPIRATOR FOR MAJOR
+    UNVENTILATED SPILL. SCOOP INTO CONTAINERS. CLEAN-UP RESIDUE WITH
+    1,1,1- TRICHLOROETHANE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORAGE-STORE BELOW 120F.DO NOT
+    PUNCTURE OR INCINERATE.
+Other Precautions:"EMPTY" CONTAINERS RETAIN RESIDUE AND CAN BE
+    DANGEROUS. DO NOT PRESSURIZE,CUT,WELD,BRAZE,SOLDER,DRILL,GRIND OR
+    EXPOSE SUCH CONTAINERS TO HEAT,FLAME,SPARKS.THEY MAY EXPLODE AND
+    CAUSE INJURY/DEATH. AVOI D REPEATED OR PROLONGED CONTACT WITH SKI
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR. AIR-SUPPLIED
+    OR FILTERING TYPE WITH ORGANIC VAPOR CARTRIDGES ARE RECOMMENDED.
+Ventilation:LOCAL AND MECHANICAL EXHAUST RECOMMENDED. AVOID OPEN
+    ELECTRICAL SOURCES NEAR PRODUCT VAPOR AREAS.
+Protective Gloves:NEOPRENE, NITRILE, OR POLYVINYL ALCOHOL
+Eye Protection:USE CHEMICAL SAFETY GOGGLES & FACESHIELD
+Other Protective Equipment:EYE WASH STATION & SAFETY SHOWER.
+Work Hygienic Practices:DO NOT TAKE INTERNALLY. AVOID SKIN CONTACT.
+    WASH SKIN AFTER USING PRODUCT. DO NOT EAT, DRINK OR SMOKE IN WORK
+    AREA.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V3
+NRC/State Lic Num:NONE
+Boiling Pt:B.P. Text:-44F,-42C
+Vapor Pres:3620
+Vapor Density:1.742
+Spec Gravity:2.76
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:PIGMENT MIXTURE WITH PROPELLANT
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE KNOWN.
+Stability Condition to Avoid:HIGH HEAT, SPARKS, OPEN FLAMES AND OTHER
+    SOURCES OF IGNITION
+Hazardous Decomposition Products:HYDROGEN CHLORIDE AND OXIDES OF CARBON
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF SPILLAGE IN ACCORDANCE WITH ALL
+    APPLICABLE LOCAL, STATE AND FEDERAL LAWS AND REGULATIONS. THIS
+    PRODUCT CONTAINS A TOXIC CHEMICAL/CHEMICALS SUBJECT TO THE
+    REPORTING REQUIREMENTS OF SECTION 3 13 OF TITLE 111 OF THE SARA
+    (1986) & 40CFR PART372
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

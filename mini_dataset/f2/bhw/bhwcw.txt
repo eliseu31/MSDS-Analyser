@@ -1,0 +1,121 @@
+=====================  Product Identification  =====================
+
+Product ID:SUDAFED BRAND TABLETS.
+MSDS Date:10/07/1985
+FSC:6505
+NIIN:01-053-8667
+MSDS Number: BHWCW
+=== Responsible Party ===
+Company Name:BURROUGHS WELLCOME CO
+Address:3030 CORNWALLIS ROAD
+City:RESEARCH TRIANGLE PARK
+State:NC
+ZIP:27709
+Country:US
+Info Phone Num:919-248-3000
+Emergency Phone Num:919-248-3000
+CAGE:09979
+=== Contractor Identification ===
+Company Name:BURROUGHS WELLCOME CO
+Address:3030 CORNWALLIS ROAD
+City:RESEARCH TRIANGLE PARK
+State:NC
+ZIP:27709
+Country:US
+Phone:919-248-3000
+CAGE:09979
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PSEUDOEPHEDRINE HYDROCHLORIDE
+CAS:345-78-8
+RTECS #:UL5950000
+Fraction by Wt: 100.0%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50(RAT)=2,206+/-273MG/KG
+Routes of Entry: Inhalation:YES  Skin:UNKNOWN  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:HARMFUL BY INHALATION OF DUST OR IF
+    SWALLOWED IN EXCESS OF THERAPEUTIC DOSES.INGESTION MAY CAUSE RAPID
+    PULSE,RAISED BLOOD PRESSURE,PAIN IN CHEST,ANXIETY AND
+    RESTLESSNESS;THERE MAY BE DILATION OR PUPIL S OF THE EYES.SERIOUS
+    ADVERSE EFFECTS OF OVERDOSAGE INCLUDE
+    IRRITABILITY,CONVULSIONS,PALPATATIONS,AND HYPERTENSION.
+Explanation of Carcinogenicity:DATA PER MGF MSDS.
+Effects of Overexposure:SEE HEALTH HAZARDS DATA.
+Medical Cond Aggravated by Exposure:PRE-EXISTING CONDITIONS MAY BE
+    WORSEN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES AND SKIN:FLUSH WITH LARGE AMOUNT OF WATER FOR ABOUT
+    15-20 MINUTES;SEEK MEDICAL ATTENTION IMMEDIATELY.INHALATION:REMOVE
+    TO FRESH AIR;CALL A PHYSICIAN.INGESTION:SEEK MEDICAL ATTENTION
+    IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE CARBON DIOXIDE, FOAM, DRY CHEMICAL, OR WATER
+    FOG.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:COMBUSTIBLE.DUST CLOUDS MAY BE A POSSIBLE
+    EXPLOSION HAZARD.HEATING WILL GIVE RISE TO TOXIC FUMES(HCL)
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPER PERSONAL PROTECTION;SWEEP UP OR
+    VACUUM AND COLLECT FOR PROPER DISPOSAL IN AN APPROVED CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DRY AND WELL VENTILATED
+    AREA.KEEP CONTAINER CLOSED WHEN NOT IN USE.TEMPERATURE NOT
+    EXCEEDING 30C;PROTECT FROM LIGHT.
+Other Precautions:WASH THOROUGHLY AFTER EACH USE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR FOR
+    DUST/MIST(3M 8710) IF ABOVE PEL/TLV OR SCBA IN AN ENCLOSED AREA.
+Ventilation:LOCAL/GENERAL TO MAINTAIN PEL/TLV.
+Protective Gloves:IMPERVIOUS (PVC OR RUBBER)
+Eye Protection:SAFETY GLASSES/GOGGLES
+Other Protective Equipment:PROTECTIVE CLOTHINGS.EYE-WASH
+    FACILITIES,SAFETY SHOWER.
+Work Hygienic Practices:AVOID CONTACT WITH EYES AND SKIN;DO NOT BREATHE
+    VAPORS/MIST/DUST.WASH THOROUGHLY AFTER EACH USE.
+Supplemental Safety and Health
+PROTECT FROM LIGHT.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Melt/Freeze Pt:M.P/F.P Text:361F,183C
+Solubility in Water:NEGLIBIBLE
+Appearance and Odor:WHITE,CRYSTALLINE POWDER;ALMOST ODORLESS;BITTER
+    TASTE.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE NOTED
+Stability Condition to Avoid:NONE KNOWN
+Hazardous Decomposition Products:NOT SPECIFIED
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT LOCAL AUTHORITIES;DISPOSAL MUST BE IN
+    ACCORDANCE WITH LOCAL,STATE AND FEDERAL REGULATIONS
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,149 @@
+=====================  Product Identification  =====================
+
+Product ID:RL 8741A COMPONENT A
+MSDS Date:01/01/1987
+FSC:8010
+NIIN:01-131-6254
+Kit Part:Y
+MSDS Number: BHWMD
+=== Responsible Party ===
+Company Name:RM ENGINEERED PRODUCTS, INC.
+Address:4854 O'HEAR AVENUE
+City:NORTH CHARLESTON
+State:SC
+ZIP:29406
+Country:US
+Info Phone Num:803-744-6261
+Emergency Phone Num:803-744-6261
+CAGE:0DCP7
+=== Contractor Identification ===
+Company Name:RM ENGINEERED PRODUCTS INC
+Address:4854 O HEAR AVE
+Box:City:NORTH CHARLESTON
+State:SC
+ZIP:29406
+Country:US
+Phone:803-744-6261
+CAGE:0DCP7
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DIATOMACEOUS EARTH (<60% CRISTOBALITE)
+CAS:68855-54-9
+Fraction by Wt: 10%
+ACGIH TLV:0.6 MG/M3
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: 21%
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:2-METHOXYPROPYL ACETATE (PMA)
+CAS:108-65-6
+RTECS #:AI8925000
+Fraction by Wt: 18%
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS)	(SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 1%
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Health Hazards Acute and Chronic:CRISTOBALITE 0.6 MG/M3, XYLENE 100
+    PPM, 2-BUTANONE, 200 PPM. SOLVENT VAPORS MAY CAUSE HEADACHES,
+    NAUSEA, DROWSINESS, ETC. LIQUID CONTACT WITH EYES IS SEVERELY
+    IRRITATING. MODERATELY TOXIC BY INGESTION .
+Effects of Overexposure:CRISTOBALITE 0.6 MG/M3, XYLENE 100 PPM,
+    2-BUTANONE, 200 PPM. SOLVENT VAPORS MAY CAUSE HEADACHES, NAUSEA,
+    DROWSINESS, ETC. LIQUID CONTACT WITH EYES IS SEVERELY IRRITATING.
+    MODERATELY TOXIC BY INGESTION .
+
+=======================  First Aid Measures  =======================
+
+First Aid:REMOVE TO FRESH AIR. IF BREATHING HAS STOPPED, GIVE
+    ARTIFICIAL RESPIRATION, SEE A PHYSICIAN. EYES: FLUSH WITH WATER 15
+    MINUTES AND GET MEDICAL ATTENTION. IF SWALLOWED: DO NOT INDUCE
+    VOMITING, CALL A P HYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:21 F/-6 C
+Lower Limits:1.8
+Upper Limits:10.1
+Extinguishing Media:CARBON DIOXIDE, DRY CHEMICAL, OR ALCOHOL TYPE FOAM.
+Fire Fighting Procedures:SELF CONTAINED BREATHING APPARATUS. FULL
+    PROTECTIVE CLOTHING. COOL ADJACENT CONTAINERS WITH WATER SPRAY.
+Unusual Fire/Explosion Hazard:SOLVENT VAPOR (HEAVIER THAN AIR) CAN MOVE
+    BY AIR CURRENT AND BE IGNITED BY SPARKS, FLAMES, ELECTRIC
+    DISCHARGE, ETC.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE NON-ESSENTIAL PERSONNEL. VENTILATE &
+    REMOVE ALL SOURCES OF IGNITION. COVER SPILL WITH ABSORBENT
+    MATERIAL. NOTIFY AUTHORITIES. TRANSFER TO CONTAINERS FOR RECOVERY
+    OR DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM HEAT, SPARKS AND
+    FLAMES. AVOID BREATHING VAPOR. KEEP CONTAINER CLOSED. USE WITH
+    ADEQUATE VENTILATION.
+Other Precautions:GROUND CONTAINER DURING STORAGE AND TRANSFER
+    OPERATIONS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AIRLINE RESPIRATORS UNLESS SAMPLING DATA ALLOWS
+    CHEMICAL CARTRIDGE RESPIRATORS.
+Ventilation:LOCAL EXHAUST: KEEP CONCENTRATION BELOW TLV. SPECIAL:
+    EXPLOSION PROOF. MECHANICAL: KEEP CONCENTRATION BELOW TLV.
+Protective Gloves:CHEMICAL RESISTANT.
+Eye Protection:SPLASH PROOF SAFETY GOGGLES.
+Other Protective Equipment:EYEWASH AND SHOWER.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>175F,>80C
+Vapor Pres:<71 @ 68 F
+Vapor Density:> THAN AIR
+Spec Gravity:1.39 (H20=1)
+Evaporation Rate & Reference:<6.31 (BU ACETATE=1)
+Solubility in Water:INSOLUBLE
+Appearance and Odor:BLACK LIQUID WITH SOLVENT ODOR.
+Percent Volatiles by Volume:62
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ALKALINE MATERIALS, MINERAL ACIDS, HALOGENS.
+Stability Condition to Avoid:HEAT, FIRE, IGNITION SOURCES.
+Hazardous Decomposition Products:BURNING CAN PRODUCE CARBON MONOXIDE OR
+    CARBON DIOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE IN A FURNACE WHERE PERMITTED UNDER
+    APPROPRIATE FEDERAL, STATE AND LOCAL REGULATIONS. EMPTY CONTAINERS
+    MAY CONTAIN RESIDUE AND FLAMMABLE SOLVENT VAPORS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

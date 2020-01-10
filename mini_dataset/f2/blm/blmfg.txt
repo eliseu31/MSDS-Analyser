@@ -1,0 +1,171 @@
+=====================  Product Identification  =====================
+
+Product ID:MATCHLESS MATSATIN SEMIGLOSS LATEX PAINT, 1
+MSDS Date:07/24/1989
+FSC:8010
+NIIN:00N020898
+MSDS Number: BLMFG
+=== Responsible Party ===
+Company Name:STANDARD MANUFACTURING CO LTD
+Box:6090
+City:ST JOHN'S NEWFOUNDLAND
+Info Phone Num:709-726-4432
+Emergency Phone Num:709-726-4432
+CAGE:35689
+=== Contractor Identification ===
+Company Name:STANDARD MANUFACTURING CO LTD
+Box:City:ST JOHNS'S, NEWFOUNDLAND
+Country:CA
+Phone:709-726-4432
+CAGE:35689
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 0-30%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:CALCIUM CARBONATE (MARBLE) (LIMESTONE)
+CAS:1317-65-3
+RTECS #:EV9580000
+Fraction by Wt: 1-20%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9192
+
+Ingred Name:KAOLIN
+CAS:1332-58-7
+RTECS #:GF1670500
+Fraction by Wt: 0-10%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:2 MG/M3 TDUST; 9293
+
+Ingred Name:PROPYLENE GLYCOL, LD50: 21 G/KG (ORAL,RAT)
+CAS:57-55-6
+RTECS #:TY2000000
+Fraction by Wt: 1-3%
+
+Ingred Name:ETHYLENE GLYCOL  (SARA III)
+CAS:107-21-1
+RTECS #:KW2975000
+Fraction by Wt: 0-1%
+OSHA PEL:C 50 PPM
+ACGIH TLV:C 50 PPM,VAPOR; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:IRON OXIDE
+CAS:1309-37-1
+RTECS #:NO7400000
+Fraction by Wt: 0-1%
+OSHA PEL:10 MG/M3 (FE)
+ACGIH TLV:5 MG/M3(FE),B2; 9293
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHAL: IRRIT OF RESP TRACT, HEADACHE,
+    NAUSEA, DIZZINESS. SKIN: PRIMARY IRRIT & POSSIBLE SENSITIZATION.
+    SKIN ABSORPTION: POS SENSIT WHICH MAY LEAD TO DERM. EYE: MAY CAUSE
+    INJURY TO EYE TISSUE. INGESTIO N: MINUTE AMOUNTS WHICH MAY BE
+    ASPIRATED INTO LUNGS DURING INGESTION OR VOMITING CAN CAUSE INJURY
+    (SEE EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ: TO LUNG TISSUE. ACUTE OVEREXPOSURE:
+    ANESTHESIA, HEADACHE, DIZZINESS, NAUSEA, NARCOSIS, IRRITATING TO
+    EYES. CHRONIC OVEREXPOSURE: EFFECTS OF CHRONIC OVEREXPOSURE TO THIS
+    PRODUCT HAVE NOT BEEN  FULLY INVESTIGATED. REPEATED HANDLING AND
+    USE MAY PRESENT ADDITIONAL HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: IMMEDIATELY FLUSH WITH CLEAN WATER FOR AT LEAST 15
+    MINUTES. CONTACT PHYSICIAN. SKIN: REMOVE CONTAMINATED CLOTHING.
+    FLUSH SKIN WITH LARGE AMOUNTS OF WATER. INHALATION: MOVE VICTIM TO
+    FRESH AIR. I F BREATHING IS DIFFICULT, QUALIFIED PERSON SHOULD
+    ADMINISTER ARTIFICIAL RESPIRATION. CONTACT PHYSICIAN. INGEST:
+    CONTACT PHYSICIAN IMMEDIATELY. NOTES TO PHYSICIAN: IF SWALLOWED DO
+    NOT INDUCE VOMITING.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:MEDIA SUITABLE FOR SURROUNDING CONDITION .
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:LATEX PAINT(WET LIQ)IS NOT FLAM.IF
+    EXPOSED TO TEMP APPROACHING BOILING POINT,LATEX PAINT WILL SPLATTER
+    HOT LIQ.AT ELEVATED TEMPS, CLSD CNTNRS MAY EXPLO(SUP DAT)
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:AVOID BREATHING VAPORS. VENTILATE AREA.
+    CONTAIN SPILLED MATERIAL AND REMOVE WITH ABSORBENT AND NON-SPARKING
+    TOOLS. STORE IN CLOSED CONTAINER UNTIL PROPERLY DISPOSED OF.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID PROLONGED BREATHING OF VAPOR.
+    AVOID CONTACT WITH EYES, SKIN, OR CLOTHING. IN CASE OF CONTACT,
+    FLUSH EYES WITH WATER FOR AT LEAST 15 MINUTES.
+Other Precautions:DO NOT STORE ABOVE 48 C. KEEP FROM FREEZING. CLOSE
+    CONTAINERS AFTER USE. DO NOT REUSE EMPTY CONTAINERS. AVOID
+    SPLASHING OR SPILLS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR FOR ORGANIC
+    VAPORS & MISTS.
+Ventilation:PROVIDE GEN DILUTION ON LOCAL EXHST VENT IN VOL & PATTERN
+    TO KEEP AIR CONTAM CONC BELOW CURRENT APPLIC OSHA (SUPP DATA)
+Protective Gloves:SOLVENT RESISTANT GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:EYE WASH FOUNTAIN IN CASE OF SPLASH HAZARD.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+EXPLO HAZ: DUE TO PRESS BUILD UP. DRY LATEX PAINT FILMS MAY BURN. VENT:
+    HLTH & SFTY REQS, IN MIX, APPLICATION, & CURING AREAS, & TO REMOVE
+    DECOMP PRODS DURING WELDING & FLAME CUTTING ON SURFS COATED W
+    /PROD. HEAVY SOLV VAPS SHD BE REMOVED FROM LOWER LEVELS OF WORK
+    AREAS AND ALL IGNITION SOURCES SHOULD BE ELIMINATED.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:392F,200C
+Vapor Pres:17
+Vapor Density:0.62
+Spec Gravity:1.2-1.4
+Evaporation Rate & Reference:SLOWER THAN BUTYL ACETATE
+Solubility in Water:DILUTABLE
+Appearance and Odor:VISCOUS LIQUID, AMMONIA ODOR.
+Percent Volatiles by Volume:59-63
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CAN REACT VIOLENTLY IF HEATED IN CONTACT WITH OXIDIZING MATERIALS.
+Stability Condition to Avoid:EXCESSIVE HEAT; CLOSED, OR POORLY
+    VENTILATED WORK AREAS.
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+Conditions to Avoid Polymerization:HIGH TEMPERATURES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE AND
+    FEDERAL REGULATIONS. INCINERATE ONLY IN APPROVED FACILITY. DO NOT
+    INCINERATE CLOSED CONTAINERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

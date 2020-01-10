@@ -1,0 +1,143 @@
+=====================  Product Identification  =====================
+
+Product ID:ARGON
+MSDS Date:01/01/1991
+FSC:6830
+NIIN:00-935-1008
+MSDS Number: BLMTX
+=== Responsible Party ===
+Company Name:NATIONAL WELDERS
+Box:31007
+City:CHARLOTTE
+State:NC
+ZIP:28231
+Country:US
+Info Phone Num:704-333-5475
+Emergency Phone Num:800-866-4422/CHEMTREC 800-424-9300
+CAGE:18264
+=== Contractor Identification ===
+Company Name:NATIONAL WELDERS SUPPLY CO INC
+Address:810 GESCO ST
+Box:31007
+City:CHARLOTTE
+State:NC
+ZIP:28231
+Country:US
+Phone:704-333-5475
+CAGE:18264
+Company Name:NATIONAL WELDERS SUPPLY CO INC
+Address:HWY 117 NORTH
+Box:1093
+City:GOLDSBORO
+State:NC
+ZIP:27530-8560
+Country:US
+CAGE:9C482
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ARGON *
+CAS:7440-37-1
+RTECS #:CF2300000
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:NOT ESTABLISHED *
+ACGIH TLV:ASPHYXIANT; 9192 *
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ARGON IS NONTOXIC BUT THE LIBERATION
+    OF A LARGE AMOUNT IN A CONFINED AREA COULD DISPLACE THE AMOUNT OF
+    OXYGEN IN AIR.ARGON IS DEFINED AS A SIMPLE ASPHYXIANT.OXYGEN LEVELS
+    SHOULD BE MAINTAINED AT GREAT ER THAN 18 MOLAR PERCENT AT NORMAL
+    ATMOSPHERIC PRESSURE WHICH IS EQUIVALENT TO A PARTIAL PRESSURE OF
+    135 MM HG
+Effects of Overexposure:INHALATION:HIGH CONCENTRATION OF ARGON
+    DISPLACES OXYGEN IN AIR NECESSARY FOR LIFE AND MAY CAUSE LOSS OF
+    BALANCE/DIZZINESS, TIGHTNESS IN THE FRONTAL AREA OF THE FOREHEAD &
+    TINGLING IN THE TONGUE,FINGER TIPS/TOES,WEAKENED SPEECH,REDUCED
+    CONSCIOUSNESS,LOSS OF TACTILE SENSATIONS AND HEIGHTENED MENTAL
+    ACTIVITY.
+Medical Cond Aggravated by Exposure:NONE
+
+=======================  First Aid Measures  =======================
+
+First Aid:PROMPT MEDICAL ATTENTION IS MANDATORY IN ALL CASES OF
+    OVEREXPOSURE TO ARGON.RESCUE PERSONNEL SHOULD BE EQUIPPED WITH
+    SELF-CONTAINED BREATHING APPARATUS.INHALATION:CONSCIOUS PERSONS
+    SHOULD BE ASSISTED	TO AN UNCONTAMINATED AREA AND INHALE FRESH
+    AIR.QUICK REMOVAL FROM THE CONTAMINATED AREA IS MOST
+    IMPORTANT.UNCONSCIOUS PERSONS SHOULD BE MOVED TO FRESH AIR,GIVEN
+    CPR AND SUPPLEMENTAL OXYGEN.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:NONFLAMMABLE, INERT GAS
+Fire Fighting Procedures:WEAR A NIOSH-APPROVED SELF-CONTAINED BREATHING
+    APPARATUS OPERATED IN POSITIVE PRESSURE MODE & FULL PROTECTIVE
+    EQUIPMENTS. COOL FIRE EXPOSED CONTAINERS WITH H2O.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE ALL PERSONNEL FROM AFFECTED AREA. USE
+    APPROPRIATE PROTECTIVE EQUIPMENT. IF LEAK IS IN CONTAINER OR
+    CONTAINER VALVE, CONTACT YOUR SUPPLIER OR CALL THE EMERGENCY
+    TELEPHONE NUMBER LISTED HEREIN.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE UPRIGHT,IN A COOL,DRY,WELL
+    VENTILATED AREA BELOW 131F.USE ONLY IN WELL VENTILATED AREA.DO NOT
+    DRAG,SLIDE OR ROLL CYLINDERS.
+Other Precautions:DO NOT HEAT CYLINDER TO INCREASE THE DISCHARGE RATE
+    OF PRODUCT FROM THE CYLINDER.USE A FIRST-IN FIRST-OUT INVENTORY
+    SYSTEM.VALVE PROTECTION CAPS MUST REMAIN IN PLACE UNLESS CONTAINER
+    IS SECURED WITH V ALVE OUTLET PIPED TO USE POINT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:POSITIVE PRESSURE AIR LINE WITH MASK OR
+    SELF-CONTAINED BREATHING APPARATUS SHOULD BE AVAILABLE FOR
+    EMERGENCY USE.
+Ventilation:LOCAL EXHAUST
+Protective Gloves:ANY MATERIAL
+Eye Protection:SAFETY GLASSES OR GOGGLES
+Other Protective Equipment:SAFETY SHOES
+Work Hygienic Practices:WASH HANDS.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:G3
+Boiling Pt:B.P. Text:-303F,-186C
+Melt/Freeze Pt:M.P/F.P Text:-309F,-189C
+Spec Gravity:1.38
+Solubility in Water:VERY SLIGHT
+Appearance and Odor:COLORLESS, ODORLESS GAS
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DO NOT ATTEMPT TO DISPOSE OF WASTE OR UNUSED
+    QUANTITIES.RETURN IN THE SHIPPING CONTAINER PROPERLY LABELED,WITH
+    ANY VALVE OUTLET PLUGS OR CAPS SECURED AND VALVE PROTECTION CAP IN
+    PLACE TO YOUR SUPPLIER .CALL THE EMERGENCY TELEPHONE NUMBER FOR
+    DISPOSAL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

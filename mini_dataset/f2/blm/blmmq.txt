@@ -1,0 +1,138 @@
+=====================  Product Identification  =====================
+
+Product ID:TYPE A TONER PC, 235616
+MSDS Date:02/27/1990
+FSC:6850
+NIIN:00N021582
+MSDS Number: BLMMQ
+=== Responsible Party ===
+Company Name:STARKEY CHEMICAL PROCESS CO
+Address:9600 W OGDEN AVE
+City:LAGRANGE
+State:IL
+ZIP:60525
+Country:US
+Info Phone Num:708-352-2565
+Emergency Phone Num:708-352-2565
+CAGE:86472
+=== Contractor Identification ===
+Company Name:STARKEY CHEMICAL PROCESS CO
+Address:9600 W OGDEN AVE
+Box:City:LA GRANGE
+State:IL
+ZIP:60525-2534
+Country:US
+Phone:708-352-2565
+CAGE:86472
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HYDROTREATED HEAVY NAPHTHA (PETROLEUM);(ISOPAR G). PEL AND
+    TLV AS VM & P NAPHTHA.
+CAS:64742-48-9
+Fraction by Wt: >99%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION OF HIGH VAPOR
+    CONCENTRATIONS MAY HAVE RESULTS RANGING FROM DIZZINESS AND
+    HEADACHES TO UNCONSCIOUSNESS. PROLONGED OR REPEATED LIQUID CONTACT
+    WITH THE SKIN WILL DRY AND DEFAT THE SKIN LEADING  TO IRRITATION
+    AND DERMATITIS.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:NONE SPECIFIED BY MANUFACTURER.
+Medical Cond Aggravated by Exposure:DERMATITIS
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH WITH WATER FOR AT LEAST 15 MINUTES. SKIN:WASH WITH
+    SOAP AND WARM WATER. INHAL:REMOVE TO FRESH AIR;CALL A PHYSICIAN.
+    INGEST:DO NOT INDUCE VOMITING. CALL A PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:100F,38C
+Lower Limits:0.8%
+Upper Limits:7%
+Extinguishing Media:FOAM, DRY CHEMICAL, CO2, OR WATER FOG OR SPRAY
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT . COOL EXPOSED CONTAINERS WITH WATER SPRAY.
+    AVOID BREATHING VAPOR OR FUMES.
+Unusual Fire/Explosion Hazard:DO NOT MIX OR STORE WITH STRONG OXIDANTS
+    LIKE LIQUID CHLORINE OR CONCENTRATED OXYGEN. COMBUSTIBLE LIQUID.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL IGNIT SOURCES. KEEP PEOPLE AWAY.
+    RECOVER FREE LIQ. ADD ABSORBENT (SAND/EARTH/SAWDUST/ECT.) TO SPILL
+    AREAS. AVOID BRTHG VAP. VENT CONFINED SPACES. OPEN ALL WINDOWS &
+    DOORS. KEEP PETROLEUM PR ODUCTS OUT OF SEWERS & WATERCOURSES BY
+    (SUPP DATA)
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT HANDLE OR STORE NEAR HEAT,
+    SPARKS, FLAME OR STRONG OXIDANTS. ADEQUATE VENTILATION REQUIRED.
+Other Precautions:AVOID BREATHING VAPORS. AVOID PROLONGED OR REPEATED
+    CONTACT WITH SKIN. REMOVE CONTAMINATED CLOTHING, LAUNDER BEFORE
+    REUSE. REMOVE CONTAMINATED SHOES & THOROUGHLY DRY BEFORE REUSE.
+    WASH SKIN THOROUGHLY  WITH SOAP AND WATER AFTER CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED HYDROCARBON VAPOR
+    CANISTER OR SUPPLIED-AIR RESPIRATORY PROTECTION IN CONFINED OR
+    ENCLOSED SPACES IF NEEDED.
+Ventilation:LOCAL EXHAUST:FACE VELOCITY >60 FPM
+Protective Gloves:CHEMICAL RESISTANT GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:USE CHEMICAL-RESISTANT GLOVES IF NEEDED TO
+    AVOID REPEATED OR PROLONGED SKIN CONTACT.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+SPILL PROC:DIKING OR IMPOUNDING. ADVISE AUTHORITIES IF PRODUCT HAS
+    ENTERED OR MAY ENTER SEWERS, WATERCOURSES OF EXTENSIVE LAND AREAS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:157F,69C
+Vapor Pres:10 @ 25C
+Vapor Density:5
+Spec Gravity:0.75
+Evaporation Rate & Reference:0.3
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:BLACK LIQUID. MILD ISOPARAFFINIC HYDROCARBON ODOR.
+Percent Volatiles by Volume:99
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDANTS LIKE:LIQUID CHLORINE, CONCENTRATED OXYGEN OR CALCIUM
+    HYPOCHLORITES
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:FUMES; SMOKE AND CARBON MONOXIDE IN
+    THE CASE OF INCOMPLETE COMBUSTION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ASSURE CONFORMITY WITH APPLICABLE DISPOSAL
+    REGULATIONS. DISPOSE OF ABSORBED MATERIAL AT AN APPROVED SITE OR
+    FACILITY. DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE, AND FEDERAL
+    REGULATIONS .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

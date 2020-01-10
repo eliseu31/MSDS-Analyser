@@ -1,0 +1,134 @@
+=====================  Product Identification  =====================
+
+Product ID:ACETIC ACID, 99.7%, A.C.S. REAGENT, 24285-3
+MSDS Date:05/10/1988
+FSC:6810
+NIIN:00N057757
+MSDS Number: BWRVC
+=== Responsible Party ===
+Company Name:ALDRICH CHEMICAL CO INC
+Address:1001 W ST PAUL AVE
+Box:355
+City:MILWAUKEE
+State:WI
+ZIP:53201
+Country:US
+Info Phone Num:414-273-3850
+Emergency Phone Num:800-231-8327
+CAGE:60928
+=== Contractor Identification ===
+Company Name:ALDRICH CHEMICAL CO INC
+Address:1001 WEST ST PAUL AVE
+Box:355
+City:MILWAUKEE
+State:WI
+ZIP:53233
+Country:US
+Phone:414-273-3850
+CAGE:60928
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ACETIC ACID (CERCLA)
+CAS:64-19-7
+RTECS #:AF1225000
+Fraction by Wt: >99.7%
+OSHA PEL:10 PPM
+ACGIH TLV:10 PPM;15 STEL
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50:(ORAL,RAT) 3530 MG/KG.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:HARMFUL IF SWALLOWED, INHALED OR
+    ABSORBED THROUGH SKIN. MATERIAL IS EXTREMELY DESTRUCTIVE TO TISSUE
+    OF MUCOUS MEMBRANES & UPPER RESPIRATORY TRACT, EYES & SKIN.
+    INHALATION MAY BE FATAL AS A RESUL T OF SPASM, INFLAMMATION & EDEMA
+    OF THELARYNX & BRONCHI, CHEMICAL PNEUMONITIS & PULMONARY EDEMA.
+    (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:HLTH HAZ:SYMPTOMS OF EXPOSURE MAY INCLUDE
+    BURNING SENSATION, COUGHING, WHEEZING, LARYNGITIS, SHORTNESS OF
+    BREATH, HEADACHE, NAUSEA & VOMITING.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGEST:CALL MD IMMED . EYES:IMMED FLUSH W/COPIOUS AMTS OF
+    WATER FOR AT LST 15 MINS. ASSURE ADEQ FLUSHING BY SEPARATING
+    EYELIDS W/FINGERS. SKIN:IMMED FLUSH W/COPIOUS AMTS OF WATER FOR AT
+    LST 15 M INS WHILE REMOVING CONTAM CLTHG & SHOES. WASH CONTAM CLTHG
+    BEFORE REUSE. DISCARD CONTAM SHOES. INHAL:REMOVE TO FRESH AIR. IF
+    NOT BRTHG GIVE ARTF RESP. IF BRTHG IS DFCLT, GIVE OXYGEN. CALL MD.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:104F,40C
+Lower Limits:4%
+Upper Limits:16%
+Extinguishing Media:CARBON DIOXIDE, DRY CHEMICAL POWDER, ALCOHOL OR
+    POLYMER FOAM.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT . COMBUSTIBLE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR NIOSH/MSHA APPRVD SCBA, RUBBER BOOTS &
+    HEAVY RUBBER GLOVES. ABSORB ON SAND OR VERMICULITE & PLACE IN
+    CLOSED CONTAINERS FOR DISPOSAL. VENTILATE AREA & WASH SPILL SITE
+    AFTER MATERIAL PICKUP IS COMP LETE.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT GET IN EYES, ON SKIN, ON
+    CLOTHING. DO NOT BREATHE VAPOR. READILY ABSORBED THROUGH SKIN.
+    CORROSIVE.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR APPROPRIATE NIOSH/MSHA APPROVED RESPIRATOR.
+Ventilation:USE ONLY IN A CHEMICAL FUME HOOD.
+Protective Gloves:CHEMICAL-RESISTANT GLOVES.
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGGS(SUPDAT)
+Other Protective Equipment:WEAR OTHER PROTECTIVE CLOTHING. SAFETY
+    SHOWER & EYE BATH.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+EYE PROT:& FULL LENGTH FACESHIELD .
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>243F,>117C
+Melt/Freeze Pt:M.P/F.P Text:>61F,>16C
+Vapor Pres:11.4 @ 20C
+Vapor Density:2.07
+Spec Gravity:1.049
+Appearance and Odor:NONE SPECIFIED BY MANUFACTURER.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+BASES.
+Stability Condition to Avoid:PROTECT FROM MOISTURE.
+Hazardous Decomposition Products:TOXIC FUMES OF: CARBON MONOXIDE,
+    CARBON DIOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:THIS COMBUSTIBLE MATERIAL MAY BE BURNED IN A
+    CHEMICAL INCINERATOR EQUIPPED W/AFTERBURNER & SCRUBBER. OBSERVE ALL
+    FEDERAL, STATE & LOCAL LAWS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

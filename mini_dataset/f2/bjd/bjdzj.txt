@@ -1,0 +1,143 @@
+=====================  Product Identification  =====================
+
+Product ID:ISOTON II DILUENT
+MSDS Date:01/27/1992
+FSC:6550
+NIIN:01-034-5640
+MSDS Number: BJDZJ
+=== Responsible Party ===
+Company Name:COULTER ELECTRONICS INC (FORMERLY DIAGNOSTIC)
+Address:590 W 20TH ST
+City:HIALEAH
+State:FL
+ZIP:33010-2427
+Country:US
+Info Phone Num:305-885-0131/822-8250
+Emergency Phone Num:305-885-0131/800-424-8802 (NRC)
+CAGE:5M287
+=== Contractor Identification ===
+Company Name:COULTER ELECTRONICS INC SALES DEPT
+Address:590 W 20TH ST
+Box:City:HIALEAH
+State:FL
+ZIP:33010-2427
+Country:US
+Phone:305-885-0131
+CAGE:5M287
+Company Name:COULTER ELECTRONICS INC.
+Address:860 W 84TH. ST.
+Box:City:HIALEAH
+State:FL
+ZIP:33014-3519
+Country:US
+Phone:800-424-9300
+CAGE:5Z189
+Company Name:CURTIN MATHESON SCIENTIFIC INC
+Address:955 COBB PLACE BLVD
+Box:City:KENNESAW
+State:GA
+ZIP:30144
+Country:US
+Phone:404-590-9016
+CAGE:8C742
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHYLENE GLYCOL PHENYL ETHER
+CAS:122-99-6
+RTECS #:KM0350000
+Fraction by Wt: 0.3%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:SODIUM FLUORIDE  (SARA III)
+CAS:7681-49-4
+RTECS #:WB0350000
+Fraction by Wt: 0.03%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:2.5 PPM F
+ACGIH TLV:2.5 MG F/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE- SEVERE SYMPTOMS FROM INGESTION
+    OF LESS THAN ONE(1) GRAM (2 OR MORE LITERS OF THIS PRODUCT). MAY
+    CAUSE NAUSEA, VOMITING, ABDOMINAL PAIN, WEAKNESS, RESPIRATORY &
+    CARDIAC FAILURE. DEATH FROM 5-10  GRAMS(12 OR MORE LITERS OF THIS
+    PRODUCT). MAY CAUSE EYE IRRITATION. CHRONIC- UNKNOWN. TARGET
+    ORGANS:GI TRACT, EYES.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES AND GASTROINTESTINAL TRACT IRRITATION,
+    ABDOMINAL PAIN, NAUSEA, VOMITING
+
+=======================  First Aid Measures  =======================
+
+First Aid:IN CASE OF PROLONGED SKIN CONTACT, FLUSH WITH PLENTY OF
+    WATER. IN CASE OF EYE CONTACT, FLUSH EYE WITH WATER FOR 15 MINUTES.
+    INHALATION IS UNLIKELY. IN CASE OF INGESTION, GIVE VICTIM
+    APPROPRIATE DOSE O F EFFERVESCENT CALCIUM GLUCONATE (IN COPIOUS
+    AMOUNT OF WATER OR MILK). CONTACT PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Autoignition Temp:Autoignition Temp Text:NONE
+Extinguishing Media:WATER SPRAY, CARBON DIOXIDE, FOAM OR DRY CHEMICAL
+    FOR SURROUNDING FIRE. USE WATER SPRAY TO COOL FIRE EXPOSED
+    CONTAINERS.
+Fire Fighting Procedures:NONE
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH WITH WATER TO APPROVED OUTSIDE DRAINAGE.
+Neutralizing Agent:NOT RELEVANT
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NONE.
+Other Precautions:WASH HANDS AFTER HANDLING. KEEP OUT OF REACH OF
+    CHILDREN. DO NOT INGEST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED.
+Ventilation:NONE REQUIRED.
+Protective Gloves:NONE REQUIRED.
+Eye Protection:NONE REQUIRED.
+Other Protective Equipment:EYE WASH STATION
+Work Hygienic Practices:OBSERVE GOOD INDUSTRIAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T6
+NRC/State Lic Num:NOT RELEVANT
+Boiling Pt:B.P. Text:212F,100C
+Spec Gravity:1.0
+Solubility in Water:99%
+Appearance and Odor:CLEAR LIQUID
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH ALL LOCAL, STATE
+    AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

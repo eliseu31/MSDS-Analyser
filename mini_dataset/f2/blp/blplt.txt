@@ -1,0 +1,172 @@
+=====================  Product Identification  =====================
+
+Product ID:PLAST 78 TOOLING GEL COAT
+MSDS Date:03/01/1991
+FSC:5985
+NIIN:00F019128
+MSDS Number: BLPLT
+=== Responsible Party ===
+Company Name:FIBRE GLAST DEVELOPMENTS CORP
+Address:1944 NEVA DRIVE
+City:DAYTON
+State:OH
+ZIP:45414
+Info Phone Num:(513) 274-1159
+Emergency Phone Num:(513) 435-0850
+Preparer's Name:S.N.
+CAGE:1B420
+=== Contractor Identification ===
+Company Name:FIBRE GLAST DEVELOPMENTS
+Address:1944 NEVA DR
+Box:City:DAYTON
+State:OH
+ZIP:45414-5525
+Country:US
+CAGE:1B420
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:STYRENE, MONOMER  (SARA III)
+CAS:100-42-5
+RTECS #:WL3675000
+Fraction by Wt: 40-50%
+Other REC Limits:50 PPM
+OSHA PEL:100 PPM
+ACGIH TLV:S,50PPM/100STEL;9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:METHYL METHACRYLATE  (SARA III)
+CAS:80-62-6
+RTECS #:OZ5075000
+Other REC Limits:100 PPM
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:UNSATURATED POLYESTER
+
+Ingred Name:LEAD CHROMATE, CR, CHROME GREEN, CHROME YELLOW (SUSPECTED
+    HUMAN CARCINOGEN BY ACGIH, IARC & NTP)
+CAS:7758-97-6
+RTECS #:GB2975000
+OSHA PEL:0.5 MG/CUM PB
+ACGIH TLV:0.05 MG/CUM CR (A2)
+
+Ingred Name:CADMIUM MERCURY SULFATE
+Fraction by Wt: >0.1%
+
+Ingred Name:SILICON DIOXIDE
+CAS:7631-86-9
+RTECS #:VV3100000
+Fraction by Wt: <5%
+Other REC Limits:10 MG/CUM (RES DUST)
+OSHA PEL:80 MG/CUM
+ACGIH TLV:10 MG/CUM (TOT DUST)
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:EYE: IRRITATION/CORNEAL DAMAGE. SKIN:
+    SEVERE IRRITATION.INHALATION: RESPIRATORY TRACT
+    IRRITATION/HEADACHES/DIZZINESS/NAUSEA/WEAK/COLLAPSE/COMA/DEATH.
+    INGESTION: GASTROINTESTINAL IRRITATION/NAUSEA/UPSE T STOMACH/FATAL.
+    ABSORPTION: INTERNAL OXGEN DAMAGE.
+Explanation of Carcinogenicity:LEAD CHROMATE IS A SUSPECTED HUMAN
+    CARCINOGEN BY ACGIH & NTP.
+Effects of Overexposure:EYE: IRRITATION/CORNEAL DAMAGE. SKIN: SEVERE
+    IRRITATION. INHALATION: RESPIRATORY, BLOOD, RENAL, REPRODUCTIVE &
+    NERVOUS SYSTEMS EFFECTS. COLLAPSE, COMA, DEATH. INGESTION:
+    GASTOINTESTINAL IRRITATION. AB SORPTION: INTERNAL OXGEN DAMAGE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINS. SKIN:
+    WASH W/SOAP & WATER. INHALATION: REMOVE TO FRESH AIR. GIVE CPR OR
+    OXYGEN IF NEEDED. INGESTION: DON'T INDUCE VOMITING. AVOID
+    ASPIRATION OF MATE RIAL INTO THE LUNGS. OBTAIN MEDICAL ATTENTION IN
+    ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:87F
+Lower Limits:1.1%
+Upper Limits:7.1%
+Extinguishing Media:FOAM, CO2 & DRY CHEMICAL
+Fire Fighting Procedures:USE CLASS B APPROVED SELF-CONTAINED BREATHING
+    APPARATUS. USE WATER TO COOL FIRE EXPOSED CONTAINERS FROM A SAFE
+    DISTANCE.
+Unusual Fire/Explosion Hazard:VAPORS ARE >AIR & TRAVEL ALONG GROUND TO
+    AN IGNITION SOURCE & FLASH BACK. STYRENE MAY POLYMERIZE AT ELEVATED
+    TEMPS. OF FIRES & CAUSE EXPLOSIVE RUPTURING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE ALL SOURCES OF IGNITION. VENTILATE
+    AREA. ABSORB W/AN INERT MATERIAL. REMOVE & PLACE IN LABELED DRUM.
+    FLUSH SPILL AREA W/DETERGENT & WATER. AVOID BREATHING VAPORS/DUST
+    OR SKIN/EYE CONTACT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A CLOSED, PROPERLY LABELED
+    CONTAINER IN A COOL VENTILATED AREA. KEEP AWAY FROM HEAT, SPARKS,
+    FLAMES & PEROXIDES.
+Other Precautions:DON'T SMOKE, EAT, OR DRINK WHERE PRODUCT IS IN USE.
+    TOTAL DUST CONTAINS NO ASBESTOS & <1% FREE SILICA.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED ORGANIC VAPOR RESPIRATOR
+    WHERE BELOW TLV. IF W/IN OSHA PROTECTION FACTOR, AIR PURIFYING
+    OV/FILTER UNITS.
+Ventilation:USE LOCAL EXHAUST/MECHANICAL/GENERAL VENTILATION TO KEEP
+    <TLV.
+Protective Gloves:NEOPRENE OR NITRILE RUBBER
+Eye Protection:CHEMICAL SPLASH GOGGLES/GLASSES W/SIDE
+Other Protective Equipment:RUBBER APRON & BOOTS
+Work Hygienic Practices:WASH HANDS AFTER USE. REMOVE/LAUNDER
+    CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+9-11 LBS/GAL.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:295F
+Vapor Pres:4.5
+Spec Gravity:1.1-1.3
+pH:<7
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:SLIGHT
+Appearance and Odor:CLEAR OR COLORED LIQUID W/STYRENE SMELL
+Percent Volatiles by Volume:<50%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING AGENTS, ACIDS, CAUSTIC, METALLIC HALIDES & SALTS
+Stability Condition to Avoid:HEAT, IGNITION SOURCES, FLAME, HOT
+    SURFACES, SPARKS & STATIC
+Hazardous Decomposition Products:SMOKE, CO & CO2
+Conditions to Avoid Polymerization:HEAT, PEROXIDES, OXIDZING AGENTS OR
+    FREE RADICAL CATALYSTS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE &
+    FEDERAL REGULATIONS. LIQUID POLYESTER RESIN WASTE HAVING A FLASH
+    POINT <140F IS HAZARDOUS WASTE UNDER RCRA.	D001 (IGNITABILITY). UN
+    1866, FLAMMABLE LIQUID. S OLID POLYESTER WASTE NOT A RCRA HAZ
+    WASTE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

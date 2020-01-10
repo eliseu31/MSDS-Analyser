@@ -1,0 +1,148 @@
+=====================  Product Identification  =====================
+
+Product ID:ADHESIVE, PART B
+MSDS Date:04/10/1991
+FSC:8040
+NIIN:01-375-6502
+Kit Part:Y
+MSDS Number: BWRHP
+=== Responsible Party ===
+Company Name:CHEMICAL COMMODITIES AGENCY
+Address:27447 PACIFIC STREET
+City:HIGHLAND
+State:CA
+ZIP:92346
+Country:US
+Info Phone Num:714-864-2310
+Emergency Phone Num:714-793-1994
+CAGE:60777
+=== Contractor Identification ===
+Company Name:CHEMICAL COMMODITIES AGENCY, INC.
+Address:27447 PACIFIC STREET
+Box:City:HIGHLAND
+State:CA
+ZIP:92346-2640
+Country:US
+Phone:909-864-2310
+CAGE:60777
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHYL ACETATE (CERCLA)
+CAS:141-78-6
+RTECS #:AH5425000
+Fraction by Wt: 76.4%
+Other REC Limits:400.00 PPM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:2,4-TOLUENE DIISOCYANATE
+CAS:984-54-9
+Fraction by Wt: 0.2%
+Other REC Limits:0.04 MG/M3
+
+Ingred Name:LIMIT NUMBERS SHOWN REPRESENT THE LOWER OF THE US OSHA PEL
+    OR ACGIH TLV VALUES.
+RTECS #:9999999ZZ
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LC50 (INHAL) 0-1500 PPM
+Health Hazards Acute and Chronic:ACUTE: INHALATION: HAZARDOUS IF
+    INHALED. CONTACT: INGREDIENT CAUSES EYE AND/OR SKIN IRRITATION.    
+	     CHRONIC: LONG TERM OVEREXPOSURE TO THE HAZARDOUS MATERIALS
+    IN THIS PRODUCT HAVE BEEN ASSOCI ATED WITH DERMATITIS, LUNG
+    IMPAIRMENT, RESPIRATORY SENSITIZATION.
+Explanation of Carcinogenicity:0.175% 2.4-TOLUENE DIISOCYANATE, A
+    SUSPECTED CANCER HAZARD
+Effects of Overexposure:IRRITATION, DRY THROAT, SINITUS, DROWSINESS,
+    LETHARGY, BREATHING DIFFICULTIES, BRONCHITIS, COUGHING, HEADACHE,
+    NAUSEA, POSSIBLE EYE INJURY, NARCOSIS.    TARGET ORGANS: EYES,
+    RESPIRATORY SYSTEM, SKIN,  LUNG.
+Medical Cond Aggravated by Exposure:ASTHMA, RESPIRATORY DISEASE,
+    CONJUNCTIVITIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: IF INHALED, REMOVE TO FRESH AIR. IF NOT
+    BREATHING, GIVE ARTIFICIAL RESPIRATION, PREFERABLY MOUTH TO MOUTH.
+    IF BREATHING IS DIFFICULT, GIVE OXYGEN. CONTACT: IN CASE OF
+    CONTACT, IMMEDIATELY  FLUSH EYES WITH PLENTY OF WATER FOR AT LEAST
+    15 MINUTES. CALL A PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:29.0F,-1.7C
+Autoignition Temp:Autoignition Temp Text:800 F
+Lower Limits:2.00
+Upper Limits:11.41
+Extinguishing Media:WATER SPRAY, FOAM, DRY CHEMICAL, CARBON DIOXIDE
+Fire Fighting Procedures:USE SELF-CONTAINED BREATHING APPARATUS,
+    PROTECTIVE CLOTHING. BE CAREFUL WHEN USING WATER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WARNING. FLAMMABLE. ELIMINATE ALL IGNITION
+    SOURCES. SOAK UP LIQUID WITH ABSORBENT MATERIAL (SAND, EARTH,
+    SWEEPING COMPOUND, ETC). PACKAGE ABSORBENT OR SOLID PRODUCT IN
+    STEEL DRUMS IN GOOD CONDITION. T HOROUGHLY CLEAN AREA WHERE SPILL
+    OCCURRED.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL LOCATION (60-80F) AWAY
+    FROM SUNLIGHT AND ANY SOURCE OF HEAT, SPARKS, FLAME. KEEP CONTAINER
+    TIGHTLY CLOSED WHEN NOT BEING USED.
+Other Precautions:USE WITH ADEQUATE VENTILATION, AVOID PROLONGED OR
+    REPEATED BREATHING OF VAPORS. AVOID SKIN CONTACT, USE IN AN AREA
+    FREE FROM FLAME AND SPARKS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:LOCAL EXHAUST IS PREFERRED TO KEEP PARTICULATES BELOW THE
+    TLV VALUE. MECHANICAL AREASIDE VENTILATION IS ACCEPTABLE.
+Protective Gloves:NEOPRENE RBBR,NITRILE,IMPERVIOUS PLASTIC
+Eye Protection:SAFETY GLASSES OR FULL FACE SHIELD
+Other Protective Equipment:SAFETY SHOWER AND EYE BATH
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:171F,77C
+Vapor Pres:73
+Vapor Density:3.04
+Spec Gravity:0.97
+Evaporation Rate & Reference:4.3 (BU AC=1)
+Solubility in Water:5.7%
+Appearance and Odor:A STRAW COLORED LIQUID WITH A SWEET ODOR.
+Percent Volatiles by Volume:82.9
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS, STRONG ALKALIS, STRONG ACIDS, ALCOHOLS, AMINES,
+    WATER, NITRATES
+Stability Condition to Avoid:TEMPERATURES >200 F
+Hazardous Decomposition Products:MAY INCLUDE:CO2,CO,WATER VAPOR,OXIDES
+    OF NITROGEN,VARIETY OF INNOCUOUS/TOXIC FUMES,HYDROGEN
+    CYANIDE,TOLUENE DIISOCYANATE
+Conditions to Avoid Polymerization:WATER, AMINES, ALKALIS, ETC.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN ACCORD W/FED, STATE, LOCAL RULES. BE
+    AWARE THAT STATE & LOCAL REQUIREMENTS MAY DIFFER DEPENDING ON
+    LOCATION & MAY IN MANY CASES BE DIFFERENT FROM FED RULES. WHEN
+    DISPOSING, USER ADVISED PRO DUCT CLASSIFIED HAZARDOUS WASTE. D001
+    IGNITABLE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

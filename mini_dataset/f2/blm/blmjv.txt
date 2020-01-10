@@ -1,0 +1,194 @@
+=====================  Product Identification  =====================
+
+Product ID:AMERCOAT PART A, 3121 RESIN
+MSDS Date:03/09/1990
+FSC:8010
+NIIN:00N021345
+Kit Part:Y
+MSDS Number: BLMJV
+=== Responsible Party ===
+Company Name:AMERON PROTECTIVE COATINGS
+Address:201 NORTH BERRY ST
+City:BREA
+State:CA
+ZIP:92621
+Country:US
+Info Phone Num:714-529-1951
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+CAGE:0Y2E4
+=== Contractor Identification ===
+Company Name:AMERON INTERNATIONAL PROTECTIVE COATINGS GROUP
+Address:201 NORTH BERRY ST.
+Box:City:BREA
+State:CA
+ZIP:92821
+Country:US
+Phone:714-529-1951
+CAGE:55849
+Company Name:AMERON PROTECTIVE COATINGS
+Address:201 NORTH BERRY STREET
+Box:1020
+City:BREA
+State:CA
+ZIP:92622-1020
+Country:US
+Phone:714-529-1951
+CAGE:0Y2E4
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TALC (CONTAINING NO ASBESTOS)
+CAS:14807-96-6
+RTECS #:WW2710000
+Fraction by Wt: <45%
+OSHA PEL:2 MG/M3 RDUST
+ACGIH TLV:2 MG/M3 RDUST; 9192
+
+Ingred Name:EPOXY RESIN. LD50:ORAL(RAT)11.4 G/KG.
+CAS:25068-38-6
+RTECS #:KC2100000
+Fraction by Wt: <25%
+ACGIH TLV:10 MG/M3, S (MFR)
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: <20%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:PROPYLENE GLYCOL MONOMETHYL ETHER
+CAS:107-98-2
+RTECS #:UB7700000
+Fraction by Wt: 8.88%
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+
+Ingred Name:SOLVENT NAPHTHA (PETROLEUM) LIGHT AROMATIC; (HIGH FLASH
+    NAPHTHA). VP:2.7 @ 68F. LD50:ORAL(RAT)2.9 G/KG.
+CAS:64742-95-6
+Fraction by Wt: 8.68%
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:1,2,4-TRIMETHYLBENZENE  (SARA III)
+CAS:95-63-6
+RTECS #:DC3325000
+Fraction by Wt: 4.22%
+OSHA PEL:25 PPM
+ACGIH TLV:25 PPM; 9192
+
+Ingred Name:TRIMETHYL BENZENE  (SARA III)
+CAS:25551-13-7
+RTECS #:DC3220000
+Fraction by Wt: 2.03%
+OSHA PEL:25 PPM
+ACGIH TLV:25 PPM; 9192
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE INGREDIENTS.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:VAPOR, SPRAY MIST &/OR DUST CAN BE
+    HARMFUL. IRRIT TO SKIN, MUCOUS MEMBRANES, EYES & RESP SYS.
+    EXCESSIVE INHAL CAN CAUSE HDCH, NAUS, DIZZ OR ASPHY. RPTD/PRLNG
+    OCCUP OVEREXP TO SOLV IS ASSOC W/PERM BRAI N & NERV SYS DMG. CAN BE
+    HARMFUL/FATAL IF SWALLOWED. CAN BE HARMFUL IF INHALED/ABSORBED THRU
+    SKIN. (SEE EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ:OVEREXP CAN DAMAGE CNS. OVEREXP/
+    INGEST CAN CAUSE LUNG, KIDNEY &/OR LIVER DAMAGE. SKIN & RESP SENSIT
+    & ALLERGIC REACTION SUCH AS RASH, HIVES OR ASTHMA CAN OCCUR.
+Medical Cond Aggravated by Exposure:RESPIRATORY, ALLERGIES, KIDNEY &
+    LIVER DISORDERS. SKIN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:PROVIDE FRESH AIR. IF BRTHG LABORED, GIVE O2/ARTF RESP.
+    SKIN:WASH THORO W/SOAP & WATER. EYES:FLUSH IMMED W/ PLENTY OF WATER
+    FOR AT LEAST 15 MIN & GET MD. INGEST:DRINK 1 OR 2 GLASSES OF WATER
+    TO	DILUTE. DO NOT INDUCE VOMIT. CALL MD ORPOISON CONTROL CENTER
+    IMMED. TREAT SYMPTOMATICALLY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:96.0F,35.6C
+Lower Limits:0.5%
+Upper Limits:11.8%
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:CLSD CNTNRS MAY EXPLODE WHEN EXPOS TO
+    EXTREME HEAT. ISOLATE FROM HEAT/ELEC EQUIP/SPKS/OPEN FLAME. VAPS
+    MAY SPREAD LONG DIST/CAUSE FLASH FIRE/IGNITE EXPLOSIVELY.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:AVOID BREATHING VAPS/DUST. USE ABSORB CLEANUP
+    MATERIALS OR SWEEP UP. PLACE IN SEPARATE CONTAINER. KEEP OUT OF
+    PUBLIC SEWERS & WATERWAYS. IF ENTRY IS THREATENED OR OCCURS, NOTIFY
+    LOCAL AUTHORITIES. ELI MINATE ALL SOURCES OF IGNITION.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CNTNR CLSD, UPRIGHT WHEN NOT IN
+    USE. STORE IN COOL, DRY, WELL-VENTED AREA. AVOID STOR TEMPS ABOVE
+    100F. DO NOT TAKE INTERNALLY.
+Other Precautions:AVOID PRLNG BRTHG OF DUST/VAPS/SPRAY MIST OR CONTACT
+    W/ SKIN & EYES. DO NOT WELD/FLAME CUT EMPTY CNTNR. GROUND CNTNRS
+    WHEN POURING. DESTROY CONTAM LEATHER & ABSORB SHOES WHICH CANNOT BE
+    DECONTAM. SUBJ  TO REPORTING REQS OF SARA & CERCLA.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPRVD CERTIFIED RESP. FOR SPEC
+    CNDTNS REFER TO NIOSH POCKET GUIDE TO CHEM HAZ. USE NIOSH/MSHA
+    APPRD AIR-LINE RESPS IN CONFINED/RESTRICTED VENT AREAS OR
+    W/POLYURETHANE OR ISOCYANATES. REFER  TO 20 CFR, OSHA PARTS 1910,
+    (SUPDAT)
+Ventilation:SUFFICIENT VENT, IN VOL & PATTERN, SHOULD BE PROVIDED TO
+    KEEP AIR CONTAM CONC BELOW TLV LIM. REMOVE WELDING OR (SUPDAT)
+Protective Gloves:NEOPRENE/OTHER SUITABLE GLOVES.
+Eye Protection:CHEM WORK GOGG/FULL LENGTH FCSHLD.
+Other Protective Equipment:FULL PROTECTIVE CLOTHING. SPARK-PROOF
+    EQUIPMENT.
+Work Hygienic Practices:WASH THORO BEFORE EATING, SMOKING OR USING
+    WASHROOM. LAUNDER CONTAM CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+RESP PROT:1915 & 1916 FOR COATING OPERATIONS. VENT:FLAME CUTTING
+    DECOMPOSITION PRODUCTS. REFER TO 29 CFR, OSHA PARTS 1910, 1915 &
+    1916 FOR COATING OPERATIONS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:243F,117C
+Vapor Pres:SEE INGRED
+Vapor Density:>AIR
+Evaporation Rate & Reference:0.37-0.83 (BUAC=1)
+Appearance and Odor:LIQUID, SOLVENT ODOR.
+Percent Volatiles by Volume:44
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS, ACIDS, ALKALIES.
+Stability Condition to Avoid:HEAT, OPEN FLAME, ARC OR SPARKS.
+Hazardous Decomposition Products:CO, CO2 & ALDEHYDES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:IN SEPARATE, CLOSED METAL CONTAINER DISPOSE
+    I/A/W ALL APPLICABLE FEDERAL, STATE & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

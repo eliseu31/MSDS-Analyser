@@ -1,0 +1,123 @@
+=====================  Product Identification  =====================
+
+Product ID:628 401 AAROPLATE SEMI/G T/W 082688
+MSDS Date:04/17/1989
+FSC:8010
+NIIN:00F019198
+MSDS Number: BLPQG
+=== Responsible Party ===
+Company Name:FRAZEE PAINT & WALLCOVERINGS
+Address:6625 MIRAMAR RD
+City:SAN DIEGO
+State:CA
+ZIP:92121
+Info Phone Num:(619) 276-9500
+Emergency Phone Num:(619) 276-9500
+Preparer's Name:ZEKE
+CAGE:FO493
+=== Contractor Identification ===
+Company Name:FRAZEE PAINT & WALL COVERINGS
+Address:6625 MIRAMAR ROAD
+City:SAN DIEGO
+State:CA
+ZIP:92121
+Phone:(619) 276-9500
+CAGE:FO493
+Company Name:FRAZEE S R CO (FRAZEE INDUSTRIES)
+Address:6625 MIRAMAR RD
+City:SAN DIEGO
+State:CA
+ZIP:92121-2508
+Country:US
+Phone:619-276-9500/619-543-6000
+CAGE:6D488
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:AROMATIC PETROLEUM DISTILLATE, HEAVY STRAIGHT RUN NAPHTHA
+    C6-C12 BOILING PT 149-446F
+CAS:64741-41-9
+Fraction by Wt: 35%
+ACGIH TLV:125 PPM
+
+Ingred Name:VOL ORGANIC CMPD: 3.51 LB/GL OR 420 G/L
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: DIZZY/BREATHING
+    DIFFICULTY/HEADACHE/COORDINATION LOSS/NASAL & RESPIRATORY
+    IRRITATION/FATIGUE/NAUSEA/ANESTHESIA/VOMITING/UNCONSCIOUSNESS/ASPHY
+    XIATION. SKIN: IRRITATION/DRYING/CRACKING/DEFAT TING/DERMATITIS.
+    EYES: REDNESS/TEARING/IRRITATION/BLURRED VISION. INGESTION:
+    ASPIRATION MAY CAUSE CHEMICAL PNEUMONITIS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: DIZZY/BREATHING
+    DIFFICULTY/HEADACHE/COORDINATION LOSS/NASAL & RESPIRATORY
+    IRRITATION/FATIGUE/NAUSEA/VOMITING/ANESTHESIA/UNCONSCIOUSNESS/ASPHY
+    XIATION. SKIN: IRRITATION/DRY/CRACKING/DEFATTIN G/DERMATITIS. EYES:
+    REDNESS/TEARING/IRRITATION/BLURRED VISION. INGESTION: ASPIRATION
+    CAN CAUSE CHEMICAL PNEUMONITIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: WASH W/SOAP & WATER. INGESTION: DON'T INDUCE VOMITING.
+    INHALATION: REMOVE TO FRESH AIR. EYES: FLUSH W/WATER. OBTAIN
+    MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:109F
+Lower Limits:1%
+Upper Limits:6%
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL, OR WATER FOG
+Fire Fighting Procedures:EXCLUDE AIR. WEAR SELF-CONTAINED BREATHING
+    APPARATUS.
+Unusual Fire/Explosion Hazard:VAPOR FORMS EXPLOSIVE MIXTURE W/AIR
+    BETWEEN UPPER & LOWER EXPLOSIBE LIMITS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE ABSORBANT MATERIAL
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:TOOLS TO OPEN ANY CONTAINER MUST BE
+    NON-SPARKING. AVOID CONTACT W/SKIN. AVOID BREATHING OF VAPORS.
+Other Precautions:BEFORE OPENING CONTAINER, ELECTROSTATIC BONDING
+    BETWEEEN DISPENSING/RECEIVING CONTAINER SHOULD BE ACCOMPLISHED.
+    ELECTROSTATIC GROUNDING OF THE CONTAINER MUST BE PROVIDED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH APPROVED CARTRIDGE RESPIRATOR OR GAS
+    MASK TO KEEP AIRBORNE MISTS/VAPOR AIR
+Spec Gravity:1.2
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:WHITE VISCOUS LIQUID W/MINERAL SPIRITS ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:OPEN FLAME, HEAT, SPARKS, STATIC
+    ELECTRICITY, & OTHER SOURCES OF IGNITION
+Hazardous Decomposition Products:CO, CO2, & VARIOUS HYDROCARBONS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF ABSORBANT IN ACCORDANCE W/FEDERAL,
+    STATE, & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

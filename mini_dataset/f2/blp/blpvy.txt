@@ -1,0 +1,121 @@
+=====================  Product Identification  =====================
+
+Product ID:SPONGOL
+MSDS Date:08/09/1990
+FSC:6850
+NIIN:00F019298
+MSDS Number: BLPVY
+=== Responsible Party ===
+Company Name:CHEMISTRY LABORATORY/MAQCC
+City:HILL AFB
+State:UT
+ZIP:84056-5300
+Info Phone Num:777-2302
+Emergency Phone Num:777-2302
+CAGE:FO960
+=== Contractor Identification ===
+Company Name:CHEMISTRY LABORATORY/MAQCC
+City:HILL AFB
+State:UT
+ZIP:84056-5300
+Phone:777-2302
+CAGE:FO960
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYLENE CHLORIDE	(SARA III)
+CAS:75-09-2
+RTECS #:PA8050000
+OSHA PEL:500 PPM/C,1000; Z2
+ACGIH TLV:50 PPM, A2; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:METHYL ALCOHOL (METHANOL)  (SARA III)
+CAS:67-56-1
+RTECS #:PC1400000
+Other REC Limits:200 PPM
+OSHA PEL:S,200PPM/250STEL
+ACGIH TLV:S,200PPM/250STEL; 93
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:WATER, H2O
+CAS:7732-18-5
+RTECS #:ZC0110000
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: NASAL/RESPIRATORY TRACT
+    IRRITATION, DIZZINESS, WEAKNESS, NAUSEA, HEADACHE. INGESTION:
+    GASTROINTESTINAL IRRITATION, NAUSEA, VOMITING, DIARRHEA. EYES/SKIN:
+    IRRITATION.
+Explanation of Carcinogenicity:METHYLENE CHLORIDE IS ONSIDERED TO BE A2
+    CARCINOGEN BY ACGIH.
+Effects of Overexposure:INHALATION: NASAL/RESPIRATORY TRACT IRRITATION,
+    DIZZINESS, WEAKNESS, NAUSEA, HEADACHE. EYES/SKIN: IRRITATION.
+    INGESTION: GASTROINTESTINAL IRRITATION, NAUSEA, VOMITING, DIARRHEA.
+Medical Cond Aggravated by Exposure:RESPIRATORY DISEASE
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:50F
+Lower Limits:6%
+Upper Limits:36%
+Extinguishing Media:DRY CHEMICAL, CO2, FOAM
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:KEEP IN COVERED DRUMS PENDING DISPOSAL.
+    VENTILATE AREA. WEAR PROPER PROTECTIVE CLOTHING. CONTAIN SPILL.
+    ABSORB IN INERT MATERIAL & PLACE IN APPROPRIATE CONTAINER. FLUSH
+    RESIDUE W/WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN DRY WELL-VENTILATED AREA AWAY
+    FROM INCOMPATIBLE MATERIALS. KEEP CONTAINER CLOSED WHEN NOT IN USE.
+Other Precautions:AVOID CONTACT W/SKIN & EYES. DON'T BREATHE VAPORS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR NIOSH/MSHA APPROVED RESPIRATOR PROTECTION
+    APPROPRIATE FOR EXPOSURE. IF >TLV, USE SELF-CONTAINED BREATHING
+    APPARATUS.
+Ventilation:LOCAL EXHAUST
+Protective Gloves:RUBBER
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:NOT REQUIRED FOR NORMAL USAGE.
+Work Hygienic Practices:WASH AFTER HANDLING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Vapor Density:>1.1
+Evaporation Rate & Reference:(ETHER = 1): >1
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR LIQUID W/PUNGENT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS & CAUSTICS, CHEMICALLY ACTIVE METALS SUCH AS ALUMINUM,
+    MAGNESIUM POWDERS & SODIUM POTASSIUM
+Hazardous Decomposition Products:CO, CO2, HYDROGEN CHLORIDE & PHOSGENE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

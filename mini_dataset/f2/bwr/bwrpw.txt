@@ -1,0 +1,152 @@
+=====================  Product Identification  =====================
+
+Product ID:CHROMOSORB-P-DMCS
+MSDS Date:01/21/1994
+FSC:9390
+NIIN:00N057192
+MSDS Number: BWRPW
+=== Responsible Party ===
+Company Name:CELITE CORP
+Box:519
+City:LOMPOC
+State:CA
+ZIP:93438
+Country:US
+Info Phone Num:805-735-7791
+Emergency Phone Num:805-736-1221
+Preparer's Name:CHRIS PAULEY
+CAGE:9K562
+=== Contractor Identification ===
+Company Name:CELITE CORP
+Box:519
+City:LOMPOC
+State:CA
+ZIP:93438
+Country:US
+Phone:805-735-7791
+CAGE:9K562
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CALCINED DIATOMACEOUS EARTH(DE)
+CAS:91053-39-3
+Fraction by Wt: 100%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:SILANE, DICHLORODIMETHYL-; (DIMETHYLDICHLOROSILANE) (SARA
+    302)
+CAS:75-78-5
+RTECS #:VV3150000
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:SILICA, CRYSTALLINE - CRISTOBALITE
+CAS:14464-46-1
+RTECS #:VV7325000
+Fraction by Wt: <20%
+OSHA PEL:N/K 
+ACGIH TLV:0.05 MG/M3 RDUST
+
+Ingred Name:SILICA, CRYSTALLINE - QUARTZ
+CAS:14808-60-7
+RTECS #:VV7330000
+Fraction by Wt: <3%
+OSHA PEL:N/K 
+ACGIH TLV:0.1 MG/M3 RDUST
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: TRANSITORY UPPER RESPIRATORY OR
+    MINOR TEMPORARY EYE IRRITATION. CHRONIC: CRYSTALLINE SILICA IS ALSO
+    A KNOWN CAUSE OF SILICOSIS, A NONCANCEROUS LUNG DISEASE CAUSED BY
+    EXCESSIVE EXPOSURE TO CRYST ALLINE SILICA.
+Explanation of Carcinogenicity:SILICA, CRYSTALLINE-QUARTZ & SILICA,
+    CRYSTALLINE-CRISTOBALITE: IARC MONOGRAPHS, SUPP,VOL 7, PG 341,1987:
+    GRP 2A.(SUPDAT)
+Effects of Overexposure:INHALATION: MAY CAUSE CONGESTION OR IRRITATION
+    OF UPPER RESPIRATORY SYSTEM. SKIN: NONE. SKIN ABSORPTION: NONE.
+    INGESTION: NONE. EYES: CAN CAUSE TRANSITORY IRRITATION.
+Medical Cond Aggravated by Exposure:PRE-EXISTING UPPER RESPIRATORY AND
+    LUNG DISEASE SUCH AS, BUT NOT LIMITED TO BRONCHITIS, EMPHYSEMA AND
+    ASTHMA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. DRINK WATER TO CLEAR THROAT
+    AND BLOW NOSE TO EVACUATE DUST. SKIN: FLUSH WITH COPIOUS AMOUNTS OF
+    WATER . INGESTION: CALL MD IMMEDIATELY . EYES: FLUSH WITH L ARGE
+    QUANTITIES OF WATER FOR AT LEAST 15 MINUTES. IF IRRITATION PERSISTS
+    CONSULT PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONFLAMMABLE
+Extinguishing Media:USE MEDIA SUITABLE FOR SURROUNDING FIRE CONDITIONS
+    .
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SHOVEL OR SWEEP UP (WITH AID OF DUST
+    SUPPRESSANT). VACUUM CLEAN REMAINING FINE PARTICLES, UNCONTAMINATED
+    MATERIALS MAY BE REUSED.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:ALWAYS SEGREGATE MATERIALS BY MAJOR
+    HAZARD CLASS. AVOID CREATING DUSTS. MAINTAIN GOOD HOUSEKEEPING
+    PRACTICES. REPAIR BROKEN BAGS IMMEDIATELY.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:<10X PEL, USE 3M 9900; <100X PEL, USE NIOSH/MSHA
+    APPROVED ULTRA-TWIN WITH H FILTER; <200X PEL, USE NIOSH/MSHA
+    APPROVED 01-00-06 WITH TYPE C SUPPLIED AIR UNIT (CONT. FLOW MADE);
+    OR EQUIVALENTS.
+Ventilation:LOCAL EXHAUST VENTILATION MAY BE REQUIRED IN DUST
+    GENERATING OPERATIONS TO KEEP DUST CONCENTRATIONS BELOW PEL/TLV.
+Protective Gloves:COTTON GLOVES.
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGG .
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+EXPLANATION OF CARCINOGEN: NTP 7TH ANNUAL REPORT ON CARCINOGENS, 1994:
+    ANTICIPATED TO BE CARCINOGEN.
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:M.P/F.P Text:3092F,1700C
+Spec Gravity:2.3 (H*2O=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:PINK FINE AGGREGATE, NO ODOR.
+Percent Volatiles by Volume:NIL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+HYDROFLUORIC ACID.
+Stability Condition to Avoid:NONE.
+Hazardous Decomposition Products:NONE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:WASTES ARE NOT HAZARDOUS AS DEFINED BY RCRA (40
+    CFR PART 261). COMPLY WITH FEDERAL, STATE AND LOCAL REGULATIONS.
+    METHOD OF DISPOSAL-LANDFILL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

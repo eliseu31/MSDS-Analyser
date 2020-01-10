@@ -1,0 +1,143 @@
+=====================  Product Identification  =====================
+
+Product ID:IE-15W40 QPL ML-3275 MIL-L-46152D
+MSDS Date:09/18/1990
+FSC:9150
+NIIN:00-186-6706
+MSDS Number: BDHDW
+=== Responsible Party ===
+Company Name:IMPERIAL OIL CO.,INC.
+Address:ORCHARD PLACE
+City:MORGANVILLE
+State:NJ
+ZIP:07751
+Country:US
+Info Phone Num:201-591-9400
+Emergency Phone Num:201-591-9400
+CAGE:58563
+=== Contractor Identification ===
+Company Name:IMPERIAL OIL CO INC
+Address:FOOT OF ORCHARD PL
+Box:279
+City:MORGANVILLE
+State:NJ
+ZIP:07751
+Country:US
+Phone:732-591-9400/FAX: 732-591-8825
+CAGE:58563
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LUBE OIL BASE STOCK
+CAS:64741-88-4
+Fraction by Wt: 79.22%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:5 MG/M3 (OIL MIST)
+ACGIH TLV:5 MG/M3 (OIL MIST)
+
+Ingred Name:HYDROTREATED HEAVY NAPHTHENIC DISTILLATE, PETROLEUM
+CAS:64742-52-5
+RTECS #:PY8035000
+Fraction by Wt: SEE #1%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:PROPRIETARY ADDITIVES - FOR MORE INFORMATION CALL EXXON
+    CORP.
+Fraction by Wt: 20.78%
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Explanation of Carcinogenicity:NO DATA AVAILABLE
+Effects of Overexposure:DUE TO LOW ORDER OF DERMAL & ORAL TOXICITY, THE
+    SIGNS & SYMPTOMS OF OVER EXPOSURE ARE UNKNOWN.
+Medical Cond Aggravated by Exposure:PERSONS WITH A HISTORY OF AILMENTS
+    OR WITH A PRE-EXISTING DISEASE INVOLVING THE EYES & SKIN MAY BE AT
+    INCREASED RISK FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION:REMOVE TO FRESH AIR.GET MEDICAL ATTENTION, IF
+    NEEDED.EYES:IMMEDIATELY FLUSH WITH WATER FOR 15 MINUTES HOLDING
+    EYELIDS OPEN.GET MEDICAL ATTENTION.SKIN:REMOVE CONTAMINATED
+    CLOTHING.WASH FIRST  WITH WATERLESS SOAP,THEN SOAP AND
+    WATER.INGESTION:DO NOT INDUCE VOMITING. GET IMMEDIATE MEDICAL
+    ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:440F,227C
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DIKE & CONTAIN SPILL WITH INERT MATERIAL
+    (SAND,EARTH,FULLERS EARTH ETC.).TRANSFER LIQUID TO DRUMS OR OTHER
+    CONTAINERS FOR RECOVERY OR DISPOSAL.AREA MAY BE SLIPPERY.CARE
+    SHOULD BE TAKEN TO AVOID FALLS. PREVENT MATERIAL FROM GETTING INTO
+    SEWERS & WATERS
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:THESE LUBRICANTS BECOME VERY VISCOUS
+    WHEN STORED AT LOW TEMPERATURE. THEY CONGEAL AT TEMPERATURE FROM
+    -12 TO -32 C.
+Other Precautions:USE PRODUCT WITH CAUTION AROUND OPEN FLAMES, HEAT,
+    SPARKS, PILOT LIGHTS & STATIC ELECTRICITY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE SUPPLIED-AIR RESPIRATORY PROTECTION IN
+    CONFINED OR ENCLOSED SPACES IF NEEDED.
+Ventilation:MECHANICAL (GENERAL) ROOM VENTILATION IS NORMALLY ADEQUATE.
+Protective Gloves:IMPERVIOUS
+Eye Protection:SPLASH GOGGLES
+Other Protective Equipment:EYE WASH STATION
+Work Hygienic Practices:MINIMIZE BREATHING VAPOR,MIST OR FUMES.REMOVE
+    CONTAMINATED CLOTHING & LAUNDER BEFORE RE-USE.DISCARD OIL-SOAKED
+    SHOES.
+Supplemental Safety and Health
+"EMPTY" CONTAINERS RETAIN RESIDUE (LIQUID AND/OR VAPOR) & CAN BE
+    DANGEROUS.DO NOT PRESSURIZE,CUT,WELD,BRAZE,SOLDER DRILL,GRIND OR
+    EXPOSE THEM TO HEAT,FLAME,SPARKS OR OTHER SOURCES OF IGNITION:THEY
+    MAY  EXPLODE AND CAUSE INJURY.DO NOT CLEAN THEM.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:600F,316C
+Melt/Freeze Pt:M.P/F.P Text:0
+Vapor Pres:1
+Vapor Density:1
+Spec Gravity:1
+Evaporation Rate & Reference:<1 (N-BUTYL ACETATE=1)
+Solubility in Water:0
+Appearance and Odor:DARK AMBER-NO ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE,
+    SULFUR & NITROGEN COMPOUNDS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF CONTAMINATED DIKING MATERIAL
+    ACCORDING TO CURRENT FEDERAL, STATE AND LOCAL LAWS AND REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

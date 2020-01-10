@@ -1,0 +1,175 @@
+=====================  Product Identification  =====================
+
+Product ID:192 9801 FLEXCOLR STBLZR II & REPLR (WORKIN
+MSDS Date:10/12/1990
+FSC:6750
+NIIN:01-285-1770
+Kit Part:Y
+MSDS Number: BLMXJ
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-722-5151
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 95-100%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:TRIETHANOLAMINE
+CAS:102-71-6
+RTECS #:KL9275000
+Fraction by Wt: <1.0%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:SILICONE
+Fraction by Wt: <0.1%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:FORMALDEHYDE  (SARA III)
+CAS:50-00-0
+RTECS #:LP8925000
+Fraction by Wt: <0.1%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:SEE 1910.1048
+ACGIH TLV:C 0.3 PPM; A2; 9293
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:METHYL ALCOHOL (METHANOL)  (SARA III)
+CAS:67-56-1
+RTECS #:PC1400000
+Fraction by Wt: <0.1%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:S,200PPM/250STEL
+ACGIH TLV:S,200PPM/250STEL; 93
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:DIPROPYLENE GLYCOL
+CAS:110-98-5
+RTECS #:UB8785000
+Fraction by Wt: 1%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL RAT) IS NOT ESTABLISHED.
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:YES
+Health Hazards Acute and Chronic:ACUTE: INHALATION: LOW HAZARD. EYES:
+    IRRITATION/BURNS. SKIN: IRRITATION. INGESTION:LOW HAZARD.
+    CHRONIC-NONE LISTED BY MFR. HOWEVER, MIXTURE CONTAINS FORMALDEHYDE,
+    WHICH CAN CAUSE DERMATITIS AND SENSIT IZATION OF RESPIRATORY
+    SYSTEM.
+Explanation of Carcinogenicity:FORMALDEHYDE IS LISTED BY IARC, NTP, OR
+    OSHA AS A PROBABLE/SUSPECT CARCINOGEN.
+Effects of Overexposure:IRRITATION OF EYES, SKIN, AND NOSE., VOMITING
+    AND DIARRHEA.
+Medical Cond Aggravated by Exposure:SKIN AND RESPIRATORY DISEASES.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:IMMEDIATELY FLUSH WITH PLENTY OF WATER FOR 15 MINUTES
+    HOLDING EYELIDS OPEN. GET IMMEDIATE MEDICAL ATTENTION. SKIN:REMOVE
+    CONTAMINATED CLOTHING AND SHOES. WASH SKIN WITH SOAP AND WATER. GET
+    MEDICA L ATTENTION.  INGESTION:DO NOT INDUCE VOMITING. GIVE NOTHING
+    BY MOUTH IF UNCONSCIOUS. IMMEDIATELY GIVE ONE GLASS OF MILK OR
+    WATER. CALL A PHYSICIAN AT ONCE. NOTE: ALKALINE SOLUTION. TREAT
+    ACCORDINGLY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL.
+Fire Fighting Procedures:WEAR FIRE FIGHTING PROTECTIVE EQUIPMENT AND A
+    FULL FACED SELF CONTAINED BREATHING APPARATUS. COOL FIRE EXPOSED
+    CONTAINERS WITH WATER SPRAY.
+Unusual Fire/Explosion Hazard:COMBUSTION OR HEAT OF FIRE MAY PRODUCE
+    HAZARDOUS DECOMPOSITION PRODUCTS AND VAPORS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SOAK UP WITH INERT ABSORBENT. PUT IN DISPOSAL
+    CONTAINER. PREVENT RUNOFF FROM ENTERING DRAINS, SEWERS, AND
+    STREAMS. REMOVE RESIDUE WITH LARGE AMOUNTS OF WATER BY FLUSHING TO
+    AN ACID-FREE SEWER.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINERS TIGHTLY CLOSED WHEN
+    NOT IN USE AND AWAY FROM ACIDS. KEEP FROM CONTACT WITH OXIDIZING
+    MATERIALS. PROTECT CONTAINERS FROM DAMAGE.
+Other Precautions:AVOID CONTACT WITH EYES. WASH THOROUGHLY AFTER
+    HANDLING. USE OF NON-ALKALINE TYPE HAND CLEANER REDUCES RISK OF
+    ALLERGIC SKIN REACTION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AN APPROPRIATE NIOSH-APPROVED RESPIRATOR FOR
+    ORGANIC VAPOR SHOULD BE WORN IF NEEDED.
+Ventilation:MECHANICAL (GENERAL) ROOM VENTILATION IS NORMALLY ADEQUATE.
+Protective Gloves:NEOPRENE OR NATURAL RUBBER
+Eye Protection:SAFETY GOGGLES WITH OPTIONAL FACE SHIELD
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER.
+    INDUSTRIAL-TYPE WORK CLOTHING AND APRON AS REQUIRED.
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES. DO NOT WEAR CONTAMINATED CLOTHING OR
+    FOOTWEAR.
+Supplemental Safety and Health
+AVOID PROLONGED OR REPEATED EXPOSURE. DO NOT GET ON SKIN OR IN EYES.
+    LAUNDER CONTAMINATED CLOTHING PRIOR TO REUSE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:212F,100C
+Vapor Pres:18 MMHG
+Vapor Density:0.6
+Spec Gravity:1.001
+pH:9.0
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR, TAN COLOR SOLUTION, SLIGHT FORMALDEHYDE
+    ODOR.
+Percent Volatiles by Volume:95
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HIGH HEAT
+Hazardous Decomposition Products:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL SHOULD BE MADE IN ACCORDANCE WITH ALL
+    APPLICABLE FEDERAL, STATE AND LOCAL LAWS AND REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

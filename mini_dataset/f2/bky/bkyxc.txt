@@ -1,0 +1,98 @@
+=====================  Product Identification  =====================
+
+Product ID:738 ELECTRICAL SEALANT, WHITE
+MSDS Date:12/23/1988
+FSC:8040
+NIIN:01-260-1939
+MSDS Number: BKYXC
+=== Responsible Party ===
+Company Name:DOW CORNING CORPORATION
+Address:3901 SOUTH SAGINAW ROAD
+City:MIDLAND
+State:MI
+ZIP:48686
+Info Phone Num:(517) 496-5900
+Emergency Phone Num:(517) 496-5900
+Preparer's Name:JACK L. SHENEBERGER
+CAGE:5D028
+=== Contractor Identification ===
+Company Name:DOW CORNING CORP
+Address:3901 S SAGINAW RD
+Box:997
+City:MIDLAND
+State:MI
+ZIP:48686-0997
+Country:US
+Phone:517-496-6000/517-496-6315
+CAGE:5D028
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHOXYSILANE
+Fraction by Wt: 5%
+OSHA PEL:200 PPM
+ACGIH TLV:200 PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: IRRITATION TO RESPIRATORY
+    PASSAGES & DISCOMFORT. SKIN: IRRITATION. EYES: PAIN, REDNESS,
+    IRRITATION, & MINOR CORNEAL INJURY. INGESTION: INJURY.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: IRRITATION TO RESPIRATORY PASSAGES
+    & DISCOMFORT. SKIN: IRRITATION. EYES: IRRITATION, PAIN, REDNESS, &
+    MINOR CORNEAL INJURY. INGESTION: INJURY.
+Medical Cond Aggravated by Exposure:ALLERGIC CONDITIONS
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. EYES: FLUSH W/WATER FOR 15
+    MINS. SKIN: WIPE OFF & FLUSH W/WATER. INGESTION: OBTAIN MEDICAL
+    ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:OC
+Flash Point:>250F
+Extinguishing Media:WATER FOG, CO2, DRY CHEMICAL, OR FOAM
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS & FULL
+    PROTECTIVE CLOTHING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE PRODUCT & USE ABSORBENT MATERIAL TO
+    TAKE CARE OF ANY OIL-LIKE RESIDUES.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE <90F. USE REASONABLE CARE &
+    CAUTION. AVOID UNNECESSARY EXPOSURE TO ANY CHEMICAL. AVOID CONTACT
+    EYES. USE ONLY W/ADEQUATE VENTILATION.
+Other Precautions:THESE PRECAUTIONS ARE FOR ROOM TEMPERATURE HANDLING,
+    USE AT ELEVATED TEMPERATURES, OR AEROSOL/SPRAY APPLICATIONS MAY
+    REQUIRE ADDED PRECAUTIONS. SMALL AMOUNTS OF METHANOL MAY BE
+    LIBERATED DURING CURING .
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE AIR-SUPPLIED OR SELF-CONTAINED RESPIRATOR
+    UNLESS VENTILATION IS ADEQUATE OR AIR SAMPLING DATA SHOWS 90F
+Hazardous Decomposition Products:SILICON DIOXIDE, CO2, TRACES OF
+    INCOMPLETELY BURNED CARBON PRODUCTS, & METHANOL
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:REVIEW ALL LOCAL, STATE, & FEDERAL REGULATIONS
+    CONCERNING HEALTH & POLLUTION TO DETERMINE APPROVED DISPOSAL
+    PROCEDURES.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

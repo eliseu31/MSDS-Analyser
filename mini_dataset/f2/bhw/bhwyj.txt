@@ -1,0 +1,92 @@
+=====================  Product Identification  =====================
+
+Product ID:SKD-S SPOTCHECK DEVELOPER
+MSDS Date:08/30/1989
+FSC:6850
+NIIN:01-265-2743
+MSDS Number: BHWYJ
+=== Responsible Party ===
+Company Name:MAGNAFLUX CORPORATION
+Address:7300 W LAWRENCE AVE
+City:CHICAGO
+State:IL
+ZIP:60656-3504
+Country:US
+Info Phone Num:708-867-8000
+Emergency Phone Num:708-867-8000
+Preparer's Name:BRUCE C.GRAHAM
+CAGE:37676
+=== Contractor Identification ===
+Company Name:ILLINOIS TOOL WORKS INC MAGNAFLUX DIV
+Address:3624 WEST LAKE AVENUE
+Box:City:GLENVIEW
+State:IL
+ZIP:60025
+Country:US
+Phone:847-657-5300/
+CAGE:37676
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHYL ACETATE  (SARA III)
+CAS:141-78-6
+RTECS #:AH5425000
+Fraction by Wt: 45.0%
+OSHA PEL:400 PPM
+ACGIH TLV:400 PPM; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ETHYL ALCOHOL (ETHANOL)
+CAS:64-17-5
+RTECS #:KQ6300000
+Fraction by Wt: 40.0%
+OSHA PEL:1000 PPM
+ACGIH TLV:1000 PPM; 9192
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:30.0F,-1.1C
+Lower Limits:2.0
+Upper Limits:15.0
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.AEROSOL CAN MAY
+    BURST IF HEATED ABOVE 130F.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:B.P. Text:167F,75C
+Vapor Pres:150 MM BUL
+Vapor Density:3.0
+Spec Gravity:O.90
+pH:NEUTRL
+Evaporation Rate & Reference:0.4(ETHER=1)
+Solubility in Water:PARTIAL
+Appearance and Odor:WHITE LIQUID
+Percent Volatiles by Volume:90.0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE NOTED
+Stability Condition to Avoid:HIGH TEMPERATURES, SPARKS, AND OPEN FLAMES
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,180 @@
+=====================  Product Identification  =====================
+
+Product ID:9401 ALCOHOL,ANHYDROUS
+MSDS Date:01/07/1992
+FSC:6810
+NIIN:00-127-4532
+MSDS Number: BKYGX
+=== Responsible Party ===
+Company Name:J T BAKER INC
+Address:222 RED SCHOOL LANE
+City:PHILLIPSBURG
+State:NJ
+ZIP:08865-2219
+Country:US
+Info Phone Num:800-582-2537
+Emergency Phone Num:201-859-2151
+CAGE:DO803
+=== Contractor Identification ===
+Company Name:J T BAKER INC
+Address:222 RED SCHOOL LANE
+City:PHILLIPSBURG
+State:NJ
+ZIP:08865
+Country:US
+Phone:1-800-582-2537
+CAGE:DO803
+Company Name:LABCO SCIENTIFIC DIV OKLAHOMA CITY OK
+CAGE:1A109
+Company Name:MALLINCKRODT BAKER,  INC.
+Address:222 RED SCHOOL LANE
+Box:City:PHILLIPSBURG
+State:NJ
+ZIP:08865
+Country:US
+Phone:800-582-2537
+CAGE:70829
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHANOL (ETHYL ALCOHOL), TECSOL, ALCOHOL
+CAS:64-17-5
+RTECS #:KQ6300000
+Fraction by Wt: 90-95%
+Other REC Limits:1900 MG/CUM
+OSHA PEL:1000 PPM
+ACGIH TLV:1000 PPM
+
+Ingred Name:ISOPROPANOL (ISOPROPYL ALCOHOL), 2-PROPANOL, DIMETHYL
+    CARBINOL
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: 1-5%
+Other REC Limits:400 PPM
+OSHA PEL:400 PPM
+ACGIH TLV:400 PPM
+
+Ingred Name:METHANOL (METHYL ALCOHOL), COLUMBIAN SPIRITS
+CAS:67-56-1
+RTECS #:PC1400000
+Fraction by Wt: 1-5%
+Other REC Limits:200 PPM
+OSHA PEL:S,200PPM/250STEL
+ACGIH TLV:S,200PPM/250STEL; 93
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): 7060 MG/KG (ETHANOL)
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION:
+    HARMFUL/HEADACHE/NAUSEA/VOMITING/DIZZINESS/DROWSINESS/UPPER
+    RESPIRATORY TRACT & MUCOUS MEMBRANE IRRITATION/UNCONSCIOUSNESS.
+    SKIN/EYE: IRRITATION. INGESTION: HEADACHE/NAUSEA/VOMITING/DIZZIN
+    ESS/GASTROINTESTINAL IRRITATION/RESPIRATORY FAILURE/CNS
+    DEPRESSION/CONVULSIONS/UNCONSCIOUSNESS/BLINDNESS/FATAL.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INGESTION: DAMAGE TO LIVER/KIDNEY/CENTRAL
+    NERVOUS SYSTEM/BRAIN/SPLEEN/BLOOD/HEART/STOMACH/GASTROINTESTINAL
+    TRACT. EYES: DAMAGE. INHALATION: DAMAGE TO LUNGS & RESPIRATORY
+    SYSTEM, BIRTH DEFECTS. SKIN: D AMAGE & DERMATITIS.
+Medical Cond Aggravated by Exposure:LIVER & SKIN DISORDERS, CHRONIC
+    IRRITATION OF MUCOUS MEMBRANES
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION: IF CONSCIOUS, GIVE PLENTY OF WATER. INDUCE
+    VOMITING. INHALATION: REMOVE TO FRESH AIR. IF NOT BREATHING, GIVE
+    CPR. IF BREATHING IS DIFFICULT, GIVE OXYGEN. SKIN: FLUSH W/WATER.
+    EYE: FLUSH W/P LENTY OF WATER FOR AT LEAST 15 MINS. OBTAIN MEDICAL
+    ATTENTION IN ALL CASES. MEDICAL SURVEILLANCE: PROVIDE PERIODIC
+    MEDICAL EXAMINATIONS W/EMPHASIS ON LUNGS, SKIN, RESPIRATORY SYSTEM
+    & LIVER.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:55F (12C)
+Lower Limits:3.3%
+Upper Limits:19%
+Extinguishing Media:ALCOHOL FOAM, DRY CHEMICAL, CO2. WATER MAY BE
+    INEFFECTIVE.
+Fire Fighting Procedures:WEAR PROTECTIVE EQUIPMENT & SCBA W/FULL
+    FACEPIECE OPERATED IN POSITIVE PRESSURE MODE. MOVE CONTAINERS FROM
+    FIRE AREA SAFELY. USE WATER TO KEEP CONTAINERS COOL.
+Unusual Fire/Explosion Hazard:VAPORS FLOW TO DISTANT IGNITION
+    SOURCE/FLASHBACK. CLOSED CONTAINERS EXPLODE IN HEAT. STRONG
+    OXIDIZERS MAY CAUSE FIRE. FLAMMABLE. AUTOIGNITION TEMP: 685F
+    (362C).
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE EQUIPMENT. SHUT OFF IGNITION
+    SOURCES. STOP LEAK SAFELY. USE WATER SPRAY TO REDUCE VAPORS. TAKE
+    UP W/SAND OR NON-COMBUSTIBLE ABSORBENT MATERIAL & PLACE INTO
+    CONTAINER FOR LATER DISPOSAL . FLUSH AREA W/WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:BOND/GROUND CONTAINERS WHEN
+    TRANSFERRING LIQUID. KEEP CONTAINER TIGHTLY CLOSED. STORE IN A
+    COOL/DRY/WELL-VENTILATED AREA. DON'T SMOKE.
+Other Precautions:STORE IN FLAMMABLE LIQUID STORAGE AREA/CABINET. CAN'T
+    BE MADE NON-POISONOUS. NOT FOR INTERNAL USE. KEEP AWAY FROM
+    HEAT/SPARKS/FLAME. AVOID CONTACT W/EYES/SKIN/CLOTHING. AVOID
+    BREATHING VAPOR.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF AIRBORNE CONCENTRATION IS HIGH, WEAR A
+    CHEMICAL CARTRIDGE RESPIRATOR W/ORGANIC VAPOR CARTRIDGE. IS
+    CONCENTRATION EXCEEDS CAPACITY OF CARTRIDGE RESPIRATOR, WEAR A
+    SELF-CONTAINED BREATHING APPARATUS.  NONE REQUIRED W/ADEQUATE
+    VENTILATION.
+Ventilation:GENERAL/LOCAL EXHAUST: TO MEET TLV REQUIREMENTS. VENT HOOD.
+Protective Gloves:NEOPRENE
+Eye Protection:SAFETY GOGGLES, FACE SHIELD
+Other Protective Equipment:UNIFORM, PROTECTIVE SUIT, LAB COAT, & APRON
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+THIS CHEMICAL MAY INTERACT W/OTHER SUBSTANCES. USER IS RESPONSIBLE FOR
+    DETERMINING THE PRECAUTIONS & DANGERS OF THIS CHEMICAL FOR HIS OR
+    HER PARTICULAR APPLICATION.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:172F (78C)
+Melt/Freeze Pt:M.P/F.P Text:-173F
+Vapor Pres:44
+Vapor Density:1.6
+Spec Gravity:0.79
+Evaporation Rate & Reference:(BU AC = 1): 2.7
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR, COLORLESS LIQUID W/PLEASANT ODOR.
+Percent Volatiles by Volume:100%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDANTS/ALUMINUM/ALKALI METALS/ACETYL CHLORIDE/STRONG
+    ACIDS/ACID CHLORIDE/ACID ANHYDRIDE/STRONG REDUCING AGENTS
+Stability Condition to Avoid:HEAT, FLAME, SUNLIGHT, ULTRAVIOLENT LIGHT,
+    FLARES, SPARKS, & OTHER SOURCES OF IGNITION
+Hazardous Decomposition Products:CO, CO2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/APPLICABLE FEDERAL,
+    STATE, & LOCAL ENVIRONMENTAL REGULATIONS. D001 (IGNITABLE WASTE).
+    FLAMMABLE LIQUID. UN 1170.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

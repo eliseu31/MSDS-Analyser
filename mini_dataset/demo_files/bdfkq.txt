@@ -1,0 +1,111 @@
+=====================  Product Identification  =====================
+
+Product ID:SORBITAN SLICK REMOVER,SOLVENT-EMULSIFIER
+MSDS Date:01/01/1987
+FSC:6850
+NIIN:00-172-9110
+MSDS Number: BDFKQ
+=== Responsible Party ===
+Company Name:CHEMICAL COMMODITIES AGENCY INC.
+Address:27447 PACIFIC STREET
+City:HIGHLAND
+State:CA
+ZIP:92346-2640
+Country:US
+Info Phone Num:714-864-2310
+Emergency Phone Num:714-864-2310
+CAGE:60777
+=== Contractor Identification ===
+Company Name:CHEMICAL COMMODITIES AGENCY, INC.
+Address:27447 PACIFIC STREET
+Box:City:HIGHLAND
+State:CA
+ZIP:92346-2640
+Country:US
+Phone:909-864-2310
+CAGE:60777
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:2-ETHYL BUTANOL
+CAS:97-95-0
+RTECS #:EL3850000
+= Wt:25.
+ACGIH TLV:50 PPM (SKIN)
+
+Ingred Name:SORBITAN MONO-OLEATE
+CAS:9005-65-6
+RTECS #:WG2932500
+= Wt:75.
+ACGIH TLV:NOT SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:EYES:IRRITATE AND
+    BURNS;INGEST:HARMFUL;INHAL:IRRITATES RESP.SYSTEM;SKIN:DERMATITIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALE:REMOVE TO FRESH AIR, GIVE CPR/O*2 IF
+    NEED;EYES/SKIN:FLUSH W LG AMTS H*2O FOR 15 MIN;INGEST:RINSE MOUTH;
+    GET MEDICAL ATTENTION FOR EYES, BREATHING DIFFICULTY, OR OTHER
+    SYMPTOMS OF OVEREXPOSURE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:=53.3C, 128.F
+Extinguishing Media:CO*2,DRY CHEMICAL,FOAM.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA IN FIRES AND IN
+    CONFINED AREA.
+Unusual Fire/Explosion Hazard:NONE NOTE BY THE MFR.USE REASONABLE
+    CARE,COMBUSTIBLE LIQUID.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPR PERSONAL PROTECTION.USE ABSORBENT
+    MATERIAL LIKE VERMICULITE OR SAND AND ROCOVER FOR PROPER DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL DRY AND WELL VENTILATED
+    AREA. KEEP AWAY FROM HEAT,SPARKS AND FIRES.KEEP CONTAINER CLOSED
+    WHEN NOT IN USE.
+Other Precautions:AVOID SKIN AND EYES CONTACT.DO NOT INHALE VAPORS.WASH
+    AFTER EACH USE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH APPROVED RESPIRATOR FOR ORGANIC VAPORS
+Ventilation:PROVIDE MECHAN(GEN/LOCAL EXHAUST)VENT TO MAINTN <TLV
+Protective Gloves:IMPERVIOUS
+Eye Protection:SAFETY/CHEM GOGGLES
+Other Protective Equipment:FULL PROTECTIVE CLOTHING,SAFETY SHOWER,EYE
+    WASH STATION
+Supplemental Safety and Health
+MSDS UNDATED
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Appearance and Odor:AMBER LIQUID
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CORROSIVES AND OXIDIZERS
+Stability Condition to Avoid:HEAT, SPARKS, AND FIRES.
+Hazardous Decomposition Products:CO*2,CO,WATER VAPORS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF COLLECTED MATERIAL IN ACCORDANCE WITH
+    LOCAL,STATE & FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

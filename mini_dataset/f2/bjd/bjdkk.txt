@@ -1,0 +1,130 @@
+=====================  Product Identification  =====================
+
+Product ID:ANAEROBIC 232
+MSDS Date:10/01/1989
+FSC:8030
+NIIN:00-964-7537
+MSDS Number: BJDKK
+=== Responsible Party ===
+Company Name:HERNON MANUFACTURING INC.
+Address:865 ESSEX STREET
+City:BROOKLYN
+State:NY
+ZIP:11208-5220
+Country:US
+Info Phone Num:718-649-3000
+Emergency Phone Num:718-649-3000
+CAGE:DO346
+=== Contractor Identification ===
+Company Name:HERNON MANUFACTURING
+Address:121 TECH DRIVE
+Box:City:SANFORD
+State:FL
+ZIP:32771
+Country:US
+Phone:407-322-4000/800-255-3924
+CAGE:61603
+Company Name:HERNON MANUFACTURING INC.
+Address:865 ESSEX STREET
+City:BROOKLYN
+State:NY
+ZIP:11208-5220
+Phone:718-649-3000
+CAGE:DO346
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TRIALKYLAMINE
+Fraction by Wt: <2%
+
+Ingred Name:1-METHYL-1-PHENYLETHYL HYDROPEROXIDE (CUMENE HYDROPEROXIDE)
+     (SARA III)
+CAS:80-15-9
+RTECS #:MX2450000
+Fraction by Wt: <3%
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:NONE
+Explanation of Carcinogenicity:NOT LISTED IN ANY OF THE ABOVE
+Effects of Overexposure:PROLONGED EXPOSURE TO SKIN MAY CAUSE IRRITATION
+    TO A SENSITIVE PERSON.
+Medical Cond Aggravated by Exposure:PROLONGED EXPOSURE TO SKIN MAY
+    CAUSE IRRITIATION  TO A SENSITIVE PERSON.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE CONTACT:	FLUSH WITH WATER.  SKIN CONTACT:  FLUSH WITH
+    WATER.		 INHALATION:  NK  INGESTION:  DO NOT INDUCE
+    VOMITING. SEEK MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:>200F/>93C
+Lower Limits:DNA
+Upper Limits:DNA
+Extinguishing Media:FOAM, DRY CHEMICAL
+Fire Fighting Procedures:SELF CONTAINED BREATHING APPARATUS AND
+    PROTECTIVE CLOTHING SHOULD BE WORN IN    FIGHTING FIRES INVOLVING
+    CHEMICALS.
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SOAK UP IN INERT ABSORBENT, STORE IN CLOSED   
+       CONTAINERS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE BELOW 100F AND AVOID PROLONGED
+    SKIN	 CONTACT.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NECESSARY
+Ventilation:LOCAL EXHAUST NOT NECESSAY. MECHANICAL (GENERAL); REQUIRED 
+    OTHER, NORMALLY NOT NECESSARY.
+Protective Gloves:RUBBER OR PLASTIC RECOMMENDED
+Eye Protection:SAFETY GLASSES RECOMMENDED
+Other Protective Equipment:NONE
+Work Hygienic Practices:AS REQUIRED
+Supplemental Safety and Health
+NK
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>300F
+Melt/Freeze Pt:M.P/F.P Text:NA
+Vapor Pres:<5 @ 80F
+Spec Gravity:1.05 (H20=1)
+Evaporation Rate & Reference:>1 (BUTYL ACETATE=1)
+Solubility in Water:LOW
+Appearance and Odor:BLUE LIQUID - ODOR MILD
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:EXCESS HEAT AND STRONG OXIDIZING AGENTS.
+Hazardous Decomposition Products:NONE
+Conditions to Avoid Polymerization:POLYMERIZATION IRRITATORS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE OR BURY IN ACCORDANCE WITH LOCAL AND 
+     FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

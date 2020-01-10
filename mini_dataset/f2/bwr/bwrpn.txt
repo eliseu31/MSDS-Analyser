@@ -1,0 +1,190 @@
+=====================  Product Identification  =====================
+
+Product ID:GALVA-TECH THIN SHEET, 1056000
+MSDS Date:04/11/1991
+FSC:3439
+NIIN:00N057116
+MSDS Number: BWRPN
+=== Responsible Party ===
+Company Name:X-ERGON DIV NCH CORP
+Address:2727 CHEMSEARCH BLVD
+Box:152170
+City:IRVING
+State:TX
+ZIP:75015
+Country:US
+Info Phone Num:214-438-1381
+Emergency Phone Num:214-438-1381
+Preparer's Name:LINDA M. SILAS
+CAGE:IO972
+=== Contractor Identification ===
+Company Name:NCH CORP
+Address:2727 CHEMSEARCH BLVD
+Box:152170
+City:IRVING
+State:TX
+ZIP:75015-2170
+Country:US
+Phone:972-438-0563
+CAGE:20913
+Company Name:X-ERGON DIV NCH CORP
+Address:2727 CHEMSEARCH BLVD
+Box:152170
+City:IRVING
+State:TX
+ZIP:75015
+Country:US
+Phone:214-438-1381
+CAGE:IO972
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:IRON
+CAS:7439-89-6
+RTECS #:NO4565500
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:CALCIUM CARBONATE
+CAS:1317-65-3
+RTECS #:EV9580000
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST
+
+Ingred Name:TITANIUM OXIDE; (TITANIUM DIOXIDE)
+CAS:13463-67-7
+RTECS #:XR2275000
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST
+
+Ingred Name:ALUMINUM OXIDE (SARA 313)
+CAS:1344-28-1
+RTECS #:BD1200000
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST
+
+Ingred Name:MANGANESE (SARA 313)
+CAS:7439-96-5
+RTECS #:OO9275000
+Fraction by Wt: 1%
+OSHA PEL:5 MG/M3 DUST, C
+ACGIH TLV:5 MG/M3 DUST
+
+Ingred Name:SUPDAT: AS WELL AS PRESENCE OF CONTAMS IN ATM WHEN FILLER
+    METAL IS CONSUMED. FUME & GAS DECOMP PRODS GENERATED (ING 7)
+RTECS #:9999999ZZ
+
+Ingred Name:ING 6: ARE DIFFERENT IN PERCENT & FORM FROM INGREDS LISTED.
+    FUME & GAS DECOMP PRODS FROM NORM OPERATION INCL (ING 8)
+RTECS #:9999999ZZ
+
+Ingred Name:ING 7: THOSE ORIGINATING FROM VOLATILIZATION, RXN &
+    OXIDATION OF ELECTRODE, PLUS THOSE FROM BASE METAL, COATING, (ING
+    9)
+RTECS #:9999999ZZ
+
+Ingred Name:ING 8: ETC., AS NOTED.
+RTECS #:9999999ZZ
+
+Ingred Name:VENT: TRAIN THE WELDER TO KEEP HIS/HER HEAD OUT OF THE
+    FUMES.
+RTECS #:9999999ZZ
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: FUMES & GASES CAN BE DANGEROUS
+    TO HEALTH. SHORT TERM OVEREXPOSURE TO WELDING FUMES MAY RESULT IN
+    DISCOMFORT SUCH AS DIZZINESS, NAUSEA OR DRYNESS OR IRRITATION OF
+    NOSE, THROAT OR EYES. WELDING A RC MAY DAMAGE EYES. ELECTRICAL ARC
+    CAN KILL. CHRONIC: LONG TERM OVEREXPOSURE MAY LEAD TO SIDEROSIS
+    (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:HLTH HAZ: (IRON DEPOSITS IN LUNG) & IS BELIEVED
+    BY SOME INVESTIGATORS TO AFFECT PULMONARY FUNCTION.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: REMOVE FROM EXPOS & CALL FOR MED AID. ADMIN
+    RESPIRATION. IF NO DETECTABLE PULSE, BEGIN EXTERNAL HEART MASSAGE.
+    EMPLOY FIRST AID TECHNIQUES RECOM BY AMERICAN RED CROSS. IN CASE OF
+    ELEC SHOCK, TU RN OFF POWER PRIOR TO REMOVAL FROM EXPOS AREA &
+    ADMIN AID. EYES: FLUSH W/WATER FOR AT LEAST 15 MIN. SKIN: REMOVE
+    CONTAMD CLTHG. WASH SKIN W/SOAP & WATER. INGEST: DO NOT INDUCE
+    VOMIT. OBTAIN MED ATTN.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:MEDIA SUITABLE FOR SURROUNDING FIRE .
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT . SEE ANS Z49.1, SAFETY IN WELDING & CUTTING,
+    & OSHA PUBLICATION 2206 (CFR 192-1910).
+Unusual Fire/Explosion Hazard:NONE FLAMMABLE: WELDING ARC & SPARK CAN
+    IGNITE COMBUSTIBLES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:PICK UP PRODUCT. SWEEP AREA.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NOT APPLICABLE.
+Other Precautions:DURING USE, WELDING ARC AND SPARK CAN IGNITE
+    COMBUSTIBLE MATERIALS. THESE PRODUCTS SHOULD BE REMOVE FROM THE
+    WORK AREA.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED OR EQUIVALENT FUME
+    RESPIRATOR OR AIR SUPPLIED RESPIRATOR WHEN WELDING IN CONFINED
+    SPACE OR WHERE LOCAL EXHAUST OR VENTILATION DOES NOT KEEP EXPOSURE
+    BELOW TLV.
+Ventilation:USE ENOUGH VENT, LOC EXHST AT ARC/BOTH TO KEEP FUMES &
+    GASES BELOW TLVS IN WORKER'S BRTHG ZONE & GEN AREA. (ING 10)
+Protective Gloves:WELDER'S PROTECTIVE GLOVES.
+Eye Protection:PROTECTIVE WELDING LENS, #10 OR DARKER.
+Other Protective Equipment:EYE WASH FOUNTAIN & DELUGE SHOWER MEETING
+    ANSI DESIGN CRITERIA . PROTECTIVE CLOTHING SUCH AS LEATHER APRONS,
+    ETC.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+HAZ DECOMP PRODS: PROCESS, PROC & FILLER METAL BEING USED. OTHER CNDTNS
+    WHICH ALSO INFLUENCE COMPOSITION & QTY OF FUMES & GASES TO WHICH
+    WORKER MAY BE EXPOSED INCL COATINGS ON METAL BEING JOINED, NUMB ER
+    OF WELDERS & VOL OF WORK SPACE, QUALITY & AMT OF VENT, POSITION OF
+    OPERATOR'S HEAD IN RELATION TO FUME PLUME (ING 6)
+
+==================  Physical/Chemical Properties  ==================
+
+Solubility in Water:INSOLUBLE
+Appearance and Odor:LIGHT BROWN/GREY METAL; NO ODOR.
+Percent Volatiles by Volume:0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE.
+Stability Condition to Avoid:NOT APPLICABLE.
+Hazardous Decomposition Products:WELDING & BRAZING FUMES CANNOT BE
+    CLASSIFIED SIMPLY. COMPOSITION & QTY ARE DEPENDENT UPON METAL BEING
+    JOINED, (SUPDAT)
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PREVENT WASTE FROM CONTAMINATING SURROUNDING
+    ENVIRONMENT. DISCARD ANY PRODUCT, RESIDUE, DISPOSABLE CONTAINER OR
+    LINER IN AN ENVIRONMENTALLY ACCEPTABLE MANNER, IN FULL COMPLIANCE
+    WITH FEDERAL, STATE AN D LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

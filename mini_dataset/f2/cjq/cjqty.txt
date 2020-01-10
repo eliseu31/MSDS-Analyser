@@ -1,0 +1,170 @@
+=====================  Product Identification  =====================
+
+Product ID:002-ANTI-SPATTER (BULK)
+MSDS Date:04/10/1997
+FSC:6850
+NIIN:00N092136
+Status Code:A
+MSDS Number: CJQTY
+=== Responsible Party ===
+Company Name:KCI INC
+Address:3710 N DAVIDSON ST
+City:CHARLOTTE
+State:NC
+ZIP:28205
+Country:US
+Info Phone Num:704-372-8435
+Emergency Phone Num:(800)424-9300
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:00EC9
+=== Contractor Identification ===
+Company Name:KCI INC
+Address:3710 N DAVIDSON ST
+Box:City:CHARLOTTE
+State:NC
+ZIP:28205
+Country:US
+Phone:704-372-8435
+CAGE:00EC9
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYLENE CHLORIDE
+CAS:75-09-2
+RTECS #:PA8050000
+= Wt:93.
+OSHA PEL:see Table Z-2
+ACGIH TLV:174 MG/M3;50 PPM
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:LECITHIN; (SOYA LECITHIN)
+CAS:8002-43-5
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:YES
+Health Hazards Acute and Chronic:INHAL: IN CONFINED/POORLY VENTED
+    AREAS, VAPS CAN READILY ACCUM & CAN CAUSE UNCON & DEATH. MINIMAL
+    ANESTHETIC/NARCOTIC EFTS MAY BE SEEN IN 500-1000 PPM RANGE.
+    PROGRESSIVELY HIGHER LEVS OVER 1000PPM CAN	CAUSE UNCON & DEATH.
+    THESE HIGH LEVELS MAY ALSO CAUSE CARDIAC ARRHYTHMIAS. EXCESSIVE
+    EXPOS MAY CAUSE IRRIT TO UPPER RESP TRACT & MAY CAUSE
+    CARBOXYHEMOGLOBINEMIA. CHLROROCARB MATLS HAVE PRDCD SENSITIZ ATION
+    OF MYOCARDIUM TO EPINEPHRINE IN LAB ANIMALS & COULD HAVE SIMILAR
+    EFT IN HUMANS. ADRENOMIMETICS (E.G. EPINEPHRINE) MAY BE
+    CONTRAINDICATED EXCEPT FOR LIFE-SUSTAINING USES IN HUMANS
+    ACUTELY/CHRONIC ALLY EXPOSED TO CHLOROCARBS .
+Explanation of Carcinogenicity:METHYLENE CHLORIDE: IARC MONOGRAPHS,
+    SUPPLEMENT, VOL 7, PG 194, 1987: GROUP 2B. NTP 8TH ANNUAL REPORT ON
+    CARCINOGENS, 1998: REASONABLY ANTICIPATED TO BE HUMAN CARCINOGEN.
+    OSHA REGULATED: CFR 29 1910.1 052.
+Effects of Overexposure:LIGHT-HEADEDNESS AND NAUSEA. IRRITATING TO THE
+    EYES AND THE SKIN.
+Medical Cond Aggravated by Exposure:PROLONGED CONTACT WITH HIGH
+    CONCENTRATIONS CAN LEAD TO SERIOUS KIDNEY AND LIVER DAMAGE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH WATER FOR AT LEAST 15 MINUTES. SKIN: WASH
+    AREA WITH SOAP AND WATER. INGESTION: DRINK WATER, INDUCE VOMITING.
+    INHALATION: REMOVE TO FRESH AIR. CALL A PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:NONE
+Extinguishing Media:CARBON DIOXIDE, DRY CHEMICAL OR FOAM.
+Fire Fighting Procedures:USE NIOSH APPROVED PRESSURE DEMAND SCBA AND
+    FULL PROTECTIVE EQUIPMENT . STORAGE CONTAINERS EXPOSED TO FIRE
+    SHOULD BE KEPT COOL WITH WATER.
+Unusual Fire/Explosion Hazard:AT HIGH TEMPERATURES, OVER-PRESSURIZATION
+    OF CONTAINERS CAN RESULT. THERMAL DECOMPOSITION PRODUCTS MAY
+    INCLUDE HCL AND PHOSGENE .
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SPILLS SHOULD BE SOAKED UP WITH ABSORBENT.
+    AREA SHOULD THEN BE FLUSHED WITH WATER. ALL RINSATE SHOULD BE
+    CONTAINERIZED AND LABELED. SPILLS ON AREAS THAT ARE NOT ON PAVEMENT
+    CAN BE HANDLED BY REMOVING	THE AFFECTED SOILS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:LABEL ALL CONTAINERS. STORE CONTAINERS
+    IN A COOL, DRY, WELL VENTILATED AREA. STORE AWAY FROM HEAT AND
+    FLAMES.NO SMOKING IN AREA OF USE. DO NOT USE IN THE GENERAL
+    VICINITY OF ARC WELDING, OPEN FLAMES O R HOT SURFACES. HEAT AND/OR
+    UV RADIATION MAY CAUSE THE FORMATION OF HCL AND/OR PHOSGENE .
+Other Precautions:NIA.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN . RESPIRATORY PROTECTION IN ACCORDANCE WITH 29
+    CFR 1910.134.
+Ventilation:LOCAL EXHAUST - SUFFICIENT TO MAINTAIN TLV. SPECIAL - N/A.
+    MECHANICAL (GENERAL) - N/A. OTHER - N/A.
+Protective Gloves:POLYFLUORINATED POLYETHYLENE SUGGESTED.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:ANSI APPROVED EYE WASH AND DELUGE SHOWER .
+    SEE 29 CFR 1910.132 AND 133.
+Work Hygienic Practices:WASH SKIN WITH SOAP AND WATER.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:=40.C, 104.F
+Vapor Pres:390 (MMHG)
+Vapor Density:2.9
+Spec Gravity:>1.32 (H*2O=1)
+Evaporation Rate & Reference:14.50 (BUTYL ACETATE=1)
+Solubility in Water:1.3% BY WEIGHT
+Appearance and Odor:CLEAR, COLORLESS LIQUID WITH A CHLOROFORM-LIKE
+    ODOR.
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTACT WITH OXYGEN, NITROGEN, PEROXIDE, OXIDIZERS AND REACTIVE
+    METALS (IE ALUMINUM, POTASSIUM, SODIUM).
+Stability Condition to Avoid:OPEN FLAMES AND ELECTRICAL ARCS.
+Hazardous Decomposition Products:COMBUSTION MAY YIELD CO, CO*2,
+    PHOSGENE AND/OR HCL.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:THE MATERIALS RESULTING FROM CLEAN-UP OPERATIONS
+    MAY BE HAZARDOUS WASTES, AND THEREFORE SUBJECT TO LOCAL, STATE AND
+    FEDERAL REGULATIONS. FULL OR PARTIALLY FILLED CONTAINERS CONSIDERED
+    HAZARDOUS WASTE.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:METHYLENE CHLORIDE IS A TOXIC CHEMICAL
+    SUBJECT TO THE REPORTING REQUIREMENTS OF SECTION 313 OF TITLE III
+    OF THE SUPER FUND AMENDMENST AND REAUTHORIZATION ACT (SARA) OF 1986
+    AND 40 CFR PART 372. YOU MU ST NOTIFY EACH PERSON TO WHOM THIS
+    MIXTURE OR TRADE NAME PRODUCT IS SOLD. THIS STATEMENT MUST REMAIN A
+    PART OF THIS MATERIAL SAFETY DATA SHEET. THIS STATEMENT MUST NOT BE
+    DETACHED. ANY COPY OR REDISTR IBUTION OF THIS MATERIAL SAFETY DATA
+    SHEET SHALL INCLUDE THIS STATEMENT.
+Federal Regulatory Information:MATERIAL SAFETY DATA SHEET: MAY BE USED
+    TO COMPLY WITH OSHA'S HAZARD COMMUNICATION STANDARD, 29CFR
+    1910.2100.
+State Regulatory Information:NEW JERSEY RIGHT TO KNOW INFORMATION (5
+    MOST PREDOMINANT INGREDIENTS/HAZARDOUS AND NON-HAZARDOUS) METHYLENE
+    CHLORIDE CAS #75-09-2; SOYA LECITHIN CAS #8002-43-5.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

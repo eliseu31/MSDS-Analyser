@@ -1,0 +1,127 @@
+=====================  Product Identification  =====================
+
+Product ID:V LUBE J
+MSDS Date:12/01/1988
+FSC:9150
+NIIN:00N057834
+MSDS Number: BWRVP
+=== Responsible Party ===
+Company Name:STOKES VACUUM INC
+Address:5500 TABOR RD
+City:PHILADELPHIA
+State:PA
+ZIP:19120
+Country:US
+Info Phone Num:215-831-5400
+Emergency Phone Num:215-831-5400;800-424-9300(CHEMTREC)
+Preparer's Name:RICHARD MAUNZ
+CAGE:GO130
+=== Contractor Identification ===
+Company Name:PENNWALT CORP. STOKES EQUIPMENT DIVISION
+Address:5500 TABOR ROAD
+City:PHILADELPHIA
+State:PA
+ZIP:19120-2124
+Country:US
+Phone:800-424-9300
+CAGE:57847
+Company Name:STOKES VACUUM INC
+Address:5500 TABOR ROAD
+City:PHILADELPHIA
+State:PA
+ZIP:19120-2124
+Country:US
+Phone:(215) 831-5400
+CAGE:GO130
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NON-HAZARDOUS INGREDIENTS;(SOLVENT REFINED PARAFFINIC
+    NEUTRAL OIL)
+Fraction by Wt: 100%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ESSENTIALLY NON-TOXIC. INHALATION OF
+    MISTS MAY CAUSE LIPID PNEUMONITIS.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGEST: DO NOT INDUCE VOMITING. GET MED ATTN. GIVE LIQUIDS.
+    SKIN: FLUSH W/SOAP & WATER. EYE: FLUSH W/PLENTY OF WATER FOR AT
+    LEAST 15 MINUTES. GET MED ATTN. INHAL: REMOVE TO FRESH AIR. SUPPORT
+    BREATHIN G(GIVE O*2/ARTF RESP).
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:415F,213C
+Extinguishing Media:WATERFOG, CO*2, FOAM.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT.
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB WITH SAND OR INERT MATERIAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORAGE PEP NFTA 111 B CLASS.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED UNDER NORMAL USE. USE NIOSH/MSHA
+    APPROVED RESPIRATOR APPROPRIATE FOR EXPOSURE OF CONCERN .
+Ventilation:HEAVY CONCENTRATIONS REQUIRE VENTILATION TO COMPLY WITH
+    EXPOSURE LIMIT.
+Protective Gloves:OIL RESISTANT GLOVES.
+Eye Protection:ANSI APPRVD CHEM WORKERS GOGGLES.
+Other Protective Equipment:IF VACUUM PUMP IS USED TO PUMP HAZARDOUS
+    GASES, RESPIRATORS MAY BE REQUIRED.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:392F,200C
+Vapor Density:14
+Spec Gravity:0.87 (H*2O=1)
+Evaporation Rate & Reference:NIL (BUAC=1)
+Solubility in Water:NIL
+Appearance and Odor:PALE YELLOW, VISCOUS LIQUID W/FAINT PETROLEUM ODOR.
+Percent Volatiles by Volume:NIL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:INCOMPLETE OXIDATION PRODUCES CARBON
+    MONOXIDE.
+Conditions to Avoid Polymerization:OPEN FLAMES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONFORM TO FEDERAL, STATE & LOCAL LAWS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

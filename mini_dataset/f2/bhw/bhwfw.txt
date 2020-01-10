@@ -1,0 +1,175 @@
+=====================  Product Identification  =====================
+
+Product ID:LAMINAR X-500 PRINTED CIR COAT (SEE SUPP)
+MSDS Date:02/01/1989
+FSC:8010
+NIIN:00-865-0374
+MSDS Number: BHWFW
+=== Responsible Party ===
+Company Name:DEXTER COATINGS
+Address:31200 HAYMAN
+City:HAYWARD
+State:CA
+ZIP:94544
+Country:US
+Info Phone Num:415-796-4972 (N)
+Emergency Phone Num:415-471-7171
+Preparer's Name:K BUNTON
+CAGE:0HKK2
+=== Contractor Identification ===
+Company Name:DEXTER CORP THE DEXTER CROWN METRO AEROSPACE DIV
+Address:31500 HAYMAN ST
+Box:City:HAYWARD
+State:CA
+ZIP:94544-7120
+Country:US
+Phone:510-471-7171
+CAGE:98795
+Company Name:DEXTER SPECIALTY COATINGS
+Address:31500 HAYMAN ST
+Box:City:HAYWARD
+State:CA
+ZIP:94544
+Country:US
+Phone:415-791-1961
+CAGE:0HKK2
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:2-ETHOXYETHYL ACETATE (CELLOSOLVE ACETATE) (EGEEA)
+CAS:111-15-9
+RTECS #:KK8225000
+Fraction by Wt: 30-40%
+Other REC Limits:N/K 
+OSHA PEL:S,100 PPM
+ACGIH TLV:S, 5 PPM; 9192
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: <10%
+Other REC Limits:N/K 
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: 10-20%
+Other REC Limits:N/K 
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:VOLATILE ORGANIC CONTENT:4.902 POUNDS/GALLON LESS WATER.
+RTECS #:9999999VO
+Other REC Limits:N/K 
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:N/K 
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MAY AFFECT KIDNEYS,RESPIRATORY
+    TRACT,LIVER,REPRODUCTIVE SYSTEM,CENTRAL NERVOUS SYSTEM.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES:IRRITANT.SKIN:IRRITANT.INGESTION:N/K
+    .INHALATION:OVEREXPOSURE BY INHALATION MAY CAUSE IRRITATION OF
+    RESPIRATORY TRACT,HEADACHE,DIZZINESS,DROWSINESS.CONTACT WITH
+    MATERIALS MAY AFFECT KI DNEYS,RESPIRATORY TRACT,LIVER,REPRODUCTIVE
+    SYSTEM,CENTRAL NERVOUS SYSTEM.
+Medical Cond Aggravated by Exposure:UNKNOWN AT THIS TIME.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:IMMEDIATELY FLUSH WITH LARGE AMOUNTS OF RUNNING WATER
+    FOR AT LEAST 15 MINUTES.SKIN:REMOVE CONTAMINATED CLOTHING AND WASH
+    SKIN WITH SOAP AND WATER.INGESTION:DRINK WATER.INHALATION:REMOVE
+    FROM EXPO SURE.IF NECESSARY,CONSULT PHYSICIAN FORANY OF THESE
+    CONDITIONS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:41F,5C
+Lower Limits:N/K 
+Upper Limits:1.20
+Extinguishing Media:USE WATER FOG,FOAM,DRY CHEMICAL OR CARBON DIOXIDE.
+Fire Fighting Procedures:STANDARD TURNOUT GEAR WITH NIOSH/MSHA APPROVED
+    SCBA .
+Unusual Fire/Explosion Hazard:N/K 
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION.AVOID BREATHING
+    VAPORS.VENTILATE AREA.REMOVE WITH INERT ABSORBANT AND NON-SPARKING
+    TOOLS.DISPOSE OF IN ACCORDANCE WITH LOCAL,STATE AND FEDERAL
+    REGULATIONS.BEFORE ATTEMPT ING TO CLEAN UP,SEE INGREDIENT SECTION.
+Neutralizing Agent:N/K 
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER CLOSED WHEN NOT IN
+    USE.DO NOT TAKE INTERNALLY.GROUND CONTAINERS WHEN POURING.AVOID
+    FREE FALL OF LIQUID IN EXCESS OF FEW INCHES.
+Other Precautions:MAKE SURE DRUM IS COMPLETELY EMPTY BEFORE ATTEMPTING
+    TO WELD OR BRAZE.DRUM SHOULD BE INDUSTRIALLY CLEANED BEFORE
+    REUSE.DO NOT FLAME CUT,BRAZE OR WELD WITHOUT A NIOSH APPROVED
+    RESPIRATOR OR APPROPRIATE  VENTILATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IN ACCORD WITH 29CFR 1910.134,USE NIOSH/MSHA
+    APPROVED AIR LINE TYPE RESPIRATORS OR HOODS FOR ENCLOSED AND
+    CONFINED AREAS.AIR PURIFYING RESPIRATORS MAY BE USED FOR OTHER
+    AREAS.
+Ventilation:PROVIDE GENERAL DILUTION OR LOCAL EXHAUST TO KEEP TWA & LEL
+    BELOW ACCEPTABLE LIMITS & TO REMOVE DECOMPOSITION PRODUCTS.
+Protective Gloves:CHEMICAL RESISTANT.
+Eye Protection:SAFETY EYEWEAR.
+Other Protective Equipment:N/K 
+Work Hygienic Practices:N/K 
+Supplemental Safety and Health
+PART NO:POLYURETHANE 7C23.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:172-329F
+Melt/Freeze Pt:M.P/F.P Text:N/K 
+Decomp Temp:Decomp Text:N/K 
+Vapor Pres:N/K 
+Vapor Density:>1 (AIR=1)
+Spec Gravity:N/K 
+Evaporation Rate & Reference:N/K 
+Solubility in Water:N/K 
+Appearance and Odor:LIQUID
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+N/K 
+Stability Condition to Avoid:N/K 
+Hazardous Decomposition Products:FUMES MAY CONTAIN CARBON MONOXIDE &
+    NITROGEN OXIDES.MAY PRODUCE HAZARDOUS FUMES WHEN HEATED TO DECOMP
+    (AS IN WELDING).
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE IN ACCORDANCE WITH
+    FEDERAL,STATE AND LOCAL REGULATIONS.COORDINATION WITH SUPPORTING
+    INSTALLATION AND/OR MACOM ENVIRONMENTAL COORDINATION PRIOR TO
+    DISPOSAL IS RECOMMENDED TO DETERMINE  APPROPRIATE DISPOSAL METHODS
+    .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

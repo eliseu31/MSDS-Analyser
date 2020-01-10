@@ -1,0 +1,141 @@
+=====================  Product Identification  =====================
+
+Product ID:G-322L SILICONE GREASE
+MSDS Date:06/07/1994
+FSC:9150
+NIIN:01-232-7667
+MSDS Number: BWRMF
+=== Responsible Party ===
+Company Name:NOVAGARD SILICONES
+Address:2720 E. 79TH STREET
+City:CLEVELAND
+State:OH
+ZIP:44104
+Country:US
+Info Phone Num:800-626-6527
+Emergency Phone Num:800-626-6527
+Preparer's Name:JASON E. BARNES
+CAGE:00CE9
+=== Contractor Identification ===
+Company Name:FOAM SEAL INC DBA NOVAGARD
+Address:5109 HAMILTON AVENUE
+Box:City:CLEVELAND
+State:OH
+ZIP:44114-3907
+Country:US
+Phone:800-626-6527/216-881-8111
+CAGE:00CE9
+Company Name:THE SMITH GROUP INC.
+Address:811 E. CAYUGA STREET
+Box:City:PHILADELPHIA
+State:PA
+ZIP:19124-3893
+Country:US
+Phone:215-743-8200
+CAGE:2B613
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYLALKYL POLYSILOXANE
+CAS:68607-71-6
+Fraction by Wt: 65-90%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:LITHIUM STEARATE
+CAS:4485-12-5
+RTECS #:WI4370000
+Fraction by Wt: 15-35%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:ZINC CHROMATE
+CAS:13530-65-9
+RTECS #:GB3290000
+Fraction by Wt: 1-5%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:C 0.1 MG (CRO3)/M3
+ACGIH TLV:0.01MG(CR)/M3,A1; 94
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:CONTACT W/SKIN IS NOT EXPECTED TO
+    CAUSE IRRIT. CONTACT W/EYES MAY CAUSE TEMPORARY IRRIT.
+Explanation of Carcinogenicity:PER MSDS:THERE'S SUFFI EVIDENCE FOR
+    CARCI OF CR & CERTAIN CR COMPDS BOTH IN HUMANS/EXPERIMENTAL
+    ANIMALS.(SEE SUPPLEMENT)
+Effects of Overexposure:TEMPORARY EYE IRRITATION.
+Medical Cond Aggravated by Exposure:RESPIRATORY AILMENTS, LIVER &
+    KIDNEY DAMAGE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:IF INGESTED DO NOT INDUCE VOMITING. GET PROMPT MED ATTN. WASH
+    CONTACTED AREAS W/SOAP & WATER. FLUSH EYES W/COPIOUS AMTS OF WATER
+    FOR A MINIMUM OF 15MINS. IF CHRONIC IRRIT DEVELOPS CONTACT A
+    PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:>399F,>204C
+Lower Limits:N/DETERMINED
+Upper Limits:N/DETERMINED
+Extinguishing Media:USE CARBON DIOXIDE OR DRY CHEMICAL ON SMALL FIRES.
+    USE FOAM & WATER SPRAY FOR LARGE FIRES.
+Fire Fighting Procedures:NONE SPECIFIED BY MANUFACTURER.
+Unusual Fire/Explosion Hazard:NONE KNOWN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE ABSORBANT MATERIAL TO COOLECT & CONTAIN
+    MATERIAL FOR DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN TEMPS BELOW 100F.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SPECIFIED BY MANUFACTURER.
+Ventilation:NONE SHOULD BE NEEDED.
+Protective Gloves:RECOMMENDED.
+Eye Protection:SAFETY GLASSES OR GOGGLES
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:WASH HANDS AFTER HANDLING PRODUCT.
+Supplemental Safety and Health
+CARCINOGENICITY:ZINC CHROMATE PRODUCES SARCOMAS @SITE OF THEIR
+    SUBCUTANEOUS INTRAMUSCULAR &/OR INTRAPLEURAL ADMINISTRATION IN RATS
+    (IARC, 1980).
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Vapor Pres:NEGLIGIBLE
+Vapor Density:NA/
+Spec Gravity:0.93
+Evaporation Rate & Reference:D
+Solubility in Water:<1%
+Appearance and Odor:YELLOW TO PURPLE, PASATE, ODORLESS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS OR BASES, STRONG OXIDIZING MATERIALS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:SILICON DIOXIDE, ZINC & CHROMIUM METAL
+    FUMES, CARBON MONOXIDE AND CARBON DIOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH ALL APPLICABLE
+    LOCAL, STATE AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

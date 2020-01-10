@@ -1,0 +1,158 @@
+=====================  Product Identification  =====================
+
+Product ID:PHILLYBOND #6 RESIN
+MSDS Date:09/27/1989
+FSC:8030
+NIIN:01-061-4995
+Kit Part:Y
+MSDS Number: BJDTY
+=== Responsible Party ===
+Company Name:PHILADELPHIA RESINS CORP
+Address:130 COMMERCE DR
+Box:454
+City:MONTGOMERYVILLE
+State:PA
+ZIP:18936
+Country:US
+Info Phone Num:508-777-1100
+Emergency Phone Num:215-855-8450
+CAGE:20420
+=== Contractor Identification ===
+Company Name:ITW PHILADELPHIA RESINS
+Address:130 COMMERCE DR
+Box:City:MONTGOMERYVILLE
+State:PA
+ZIP:18936
+Country:US
+Phone:215-855-8450
+CAGE:20420
+Company Name:RAYTHEON CO SUBMARINE SIGNAL DIVISION HQ
+Address:1847 W MAIN RD
+Box:City:PORTSMOUTH
+State:RI
+ZIP:02871-1087
+Country:US
+CAGE:94404
+Company Name:RAYTHEON CO,EXECUTIVE OFFICES
+Address:141 SPRING ST
+Box:City:LEXINGTON
+State:MA
+ZIP:02173-7801
+Country:US
+Phone:617-862-6600
+CAGE:49956
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BISPHENOL A DIGLYCIDYL ETHER RESIN, MODERATE EYE AND SKIN
+    IRRITANT, SENSITIZER
+CAS:25068-38-6
+Fraction by Wt: 30-60%
+
+Ingred Name:TALC (CONTAINING NO ASBESTOS)
+CAS:14807-96-6
+RTECS #:WW2710000
+OSHA PEL:2 MG/M3 RDUST
+ACGIH TLV:2 MG/M3 RDUST; 9192
+
+Ingred Name:NUISANCE DUSTS GENERATED FROM SANDING OR MACHINING THE
+    CURED MATERIAL
+OSHA PEL:10 MG/M3 TOTAL DUST
+ACGIH TLV:10 MG/M3
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORLLD50(RAT):11,400MG/KG;DRML(RAB)>20000
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:EYES AND SKIN:MODERATE IRRITANT.
+    INHAL:NOT LIKELY TO PRODUCE ANY ADVERSE EFFECTS. INGEST:RESIN
+    GENERALLY CONSIDERED TO HAVE A LOW ORDER OF ACUTE ORAL TOXICITY.
+    CHRONIC:PROLONGED OR REPEATED EXPO SURE MAY CAUSE ASTHMA AND SKIN
+    SENSITIZATION OR OTHER ALLERGIC RESPONSE.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS
+Medical Cond Aggravated by Exposure:PRE-EXISTING SKIN AND EYE ALLERGIES
+    MAY INCREASE THE CHANCE OF DEVELOPING INCREASED ALLERGY SYMPTOMS
+    FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH W/CLEAN WATER AT LEAST 30 MIN WHILE GENTLY HOLDING
+    EYELIDS OPEN. GET MD IMMED. SKIN:IMMED REMOVE CONTAM CLOTHING AND
+    WASH W/PLENTY OF SOAP & WATER, GET MD IF SYMPTOMS PERSIST.
+    INHAL:REMOVE T O FRESH AIR, GIVE OXYGEN IF BREATHING DIFFICULT, GET
+    MD. INGEST:DO NOT INDUCE VOMITING, GIVE MILK OR WATER TO DILUTE,
+    GET MD IMMED.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TOC
+Flash Point:450F,232C
+Extinguishing Media:CARBON DIOXIDE, DRY CHEMICAL, FOAM
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD WEAR SELF-CONTAINED
+    BREATHING APPARATUS IN CONFINED AREAS
+Unusual Fire/Explosion Hazard:NONE KNOWN
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:AVOID PERSONAL CONTACT. SCRAPE UP AS MUCH
+    MATERIAL AS POSSIBLE AND PLACE IN A SUITABLE, LABELED, CONTAINER
+    FOR WASTE DISPOSAL. RESIDUE MAY BE REMOVED USING A SAFETY SOLVENT.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL, DRY PLACE W/ADEQUATE
+    VENT. KEEP AWAY FROM OPEN FLAME AND HIGH TEMP. HANDLE IN ACCORDANCE
+    WITH THE HAZARD POTENTIAL OF CURING AGENT.
+Other Precautions:PRACTICE GOOD HOUSEKEEPING PROCED TO AVOID ALL SKIN
+    CONTACT AND BREATHING OF VAPORS. TAKE PROPER PRECAUTIONS AGAINST
+    OVEREXPOSURE TO THE DUSTS THAT MAY BE GENERATED FROM SANDING OR
+    MACHINING THE CURED  MATERIAL. SEE SUPP DATA.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT ORDINARILY REQUIRED FOR RESIN. RESP
+    PROTECTION SHOULD BE SUITABLE FOR ALL WORKING CONDITIONS. DUST
+    MASKS SHOULD BE WORN DURING ANY GRINDING OR MACHINING PROCEDURES.
+Ventilation:GOOD GENERAL VENTILATION IS USUALLY ADEQUATE FOR MOST
+    INDUSTRIAL APPLICATIONS.
+Protective Gloves:CHEMICAL RESISTANT, RUBBER
+Eye Protection:SAFETY GLASSES OR GOGGLES
+Other Protective Equipment:CLEAN LONG-SLEEVE AND LONG LEG CLOTHING
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING
+Supplemental Safety and Health
+OTHER PRECAUTIONS(CON'T):THEY INCLUDE TALC (TLV 2MG/M3) & NUISANCE
+    DUSTS (TLV 10 MG/M3).
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:530F,277C
+Vapor Pres:N/A @ 68F
+Spec Gravity:1.81
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:OFF-WHITE LIQUID WITH MILD TO NO ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS, OXIDIZING MATERIAL, MINERAL ACIDS AND EPOXY RESINS UNDER
+    UNCONTROLLED CONDITIONS
+Stability Condition to Avoid:HEAT, SPARKS AND OPEN FLAMES
+Hazardous Decomposition Products:CARBON DIOXIDE, CARBON MONOXIDE AND
+    OXIDES OF NITROGEN
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH APPLICABLE
+    FEDERAL, STATE AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

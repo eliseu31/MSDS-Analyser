@@ -1,0 +1,168 @@
+=====================  Product Identification  =====================
+
+Product ID:TRANSFER RECORDING CARTRIDGE FOR TELECOPIER
+MSDS Date:04/03/1990
+FSC:7510
+NIIN:01-327-5211
+MSDS Number: BLPHP
+=== Responsible Party ===
+Company Name:XEROX CORP
+Address:100 CLINTON AVENUE SOUTH
+City:ROCHESTER
+State:NY
+ZIP:14644
+Country:US
+Info Phone Num:800-828-6571
+Emergency Phone Num:716-422-2177
+CAGE:0E6G9
+=== Contractor Identification ===
+Company Name:XEROX CORP
+Address:300 MAIN ST NO 27C
+City:EAST ROCHESTER
+State:NY
+ZIP:14645
+Country:US
+Phone:800-828-6571; 800-351-2024
+CAGE:0E6G9
+Company Name:XEROX CORPORATION
+Address:100 CLINTON AVE SOUTH
+Box:City:ROCHESTER
+State:NY
+ZIP:14644-1877
+Country:US
+Phone:800-828-6571/716-422-2177
+CAGE:26921
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POLY(OXYETHYLENEOXYTEREPHTHALOYL); (POLYETHYLENE
+    TEREPHTHALATE FILM)
+CAS:25038-59-9
+RTECS #:TR2725000
+Fraction by Wt: 52%
+
+Ingred Name:CARNAUBA WAX
+CAS:8015-86-9
+Fraction by Wt: 6%
+
+Ingred Name:PARAFFIN WAX
+CAS:8002-74-2
+RTECS #:RV0350000
+Fraction by Wt: 46%
+OSHA PEL:2 MG/M3 (FUME)
+ACGIH TLV:2 MG/M3 (FUME); 9192
+
+Ingred Name:CARBON BLACK
+CAS:1333-86-4
+RTECS #:FF5800000
+Fraction by Wt: 12%
+OSHA PEL:3.5 MG/M3
+ACGIH TLV:3.5 MG/M3; 9192
+
+Ingred Name:MINERAL OIL. PEL AND TLV AS OIL MIST, MINERAL.
+CAS:64742-16-1
+Fraction by Wt: <6%
+OSHA PEL:5 MG/M3
+ACGIH TLV:5MG/M3;10 MG/M3 STEL
+
+Ingred Name:KYNAR, 1,1-DIFLUOROETHENE HOMOPOLYMER; (KYNAR)
+CAS:24937-79-9
+Fraction by Wt: <2%
+
+Ingred Name:ETHYLENE, TETRAFLUORO-, POLYMER; (TEFLON)
+CAS:116-14-3
+RTECS #:KX4025000
+Fraction by Wt: 5%
+
+Ingred Name:ADDITIVES; (ETHYLENE-METHACRYLATE COPOLYMER)
+CAS:24937-78-8
+Fraction by Wt: 5%
+
+Ingred Name:CELLULOSE ACETATE BUTANOATE
+CAS:9004-36-8
+Fraction by Wt: 1%
+
+Ingred Name:ADDITIVES
+Fraction by Wt: 20%
+
+Ingred Name:ADDITIVES. PERCENT: +/- 20% OF ING 2.
+Fraction by Wt: SEE ING
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN: NON-IRRITATING, NON-SENSITIZING.
+    EYES: NON-IRRITATING.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:NONE SPECIFIED BY MANUFACTURER.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: IMMEDIATELY FLUSH EYES WITH POTABLE WATER FOR A MINIMUM
+    OF 15 MINUTES, SEEK ASSISTANCE FROM MD . SKIN: FLUSH WITH COPIOUS
+    AMOUNTS OF WATER. CALL MD . INHAL: REMOVE TO FRESH AIR. SUPP ORT
+    BREATHING (GIVE O*2/ARTIFICIAL RESPIRATION) . INGEST: CALL MD
+    IMMEDIATELY .
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER, FOAM, CO*2, DRY CHEMICAL.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NOT APPLICABLE.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NONE
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED WHEN USED AS INTENDED IN XEROX
+    EQUIPMENT. NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE FOR EXPOSURE
+    OF CONCERN .
+Ventilation:NONE SPECIFIED BY MANUFACTURER.
+Protective Gloves:NONE REQUIRED.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE REQUIRED WHEN USED AS INTENDED IN XEROX
+    EQUIPMENT.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+MFR PART NO: 7020/7021/7032/7033/7033S, 8R3626.
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:M.P/F.P Text:142F,61C
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:BLACK FILM.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:IN A FIRE, CO AND CO*2 AND OTHER TOXIC
+    PRODUCTS OF DECOMPOSITION MAY BE EVOLVED.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:NO SPECIFIC WASTE DISPOSAL METHOD REQUIRED.
+    DISPOSE OF IN ACCORDANCE WITH FEDERAL, STATE, AND LOCAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

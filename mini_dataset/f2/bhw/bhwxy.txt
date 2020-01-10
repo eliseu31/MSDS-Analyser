@@ -1,0 +1,145 @@
+=====================  Product Identification  =====================
+
+Product ID:STERI-STRIP COMPOUND BENZOIN TINCTURE 1543
+MSDS Date:02/29/1988
+FSC:6510
+NIIN:01-153-4573
+MSDS Number: BHWXY
+=== Responsible Party ===
+Company Name:MINNESOTA MINING & MFG CO HEALTH CARE PRODUCTS DIV
+Address:3M CTR BLDG 225-5S-01
+City:ST PAUL
+State:MN
+ZIP:55144-1000
+Country:US
+Info Phone Num:612-733-1110
+Emergency Phone Num:612-733-1110
+CAGE:28156
+=== Contractor Identification ===
+Company Name:MINNESOTA MINING AND MFG CO HEALTH CARE SERVICES DIV
+Address:3M CTR BLDG 275-4E-01
+Box:City:ST PAUL
+State:MN
+ZIP:55144-1000
+Country:US
+Phone:800-854-0631
+CAGE:28156
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BENZOIN (2-HYDROXY-2-PHENYL-ACETOPHENONE)
+CAS:119-53-9
+RTECS #:DI1590000
+Minumum % Wt:20.
+Maxumum % Wt:26.
+
+Ingred Name:ETHYL ALCOHOL (ETHANOL)
+CAS:64-17-5
+RTECS #:RQ6300000
+Minumum % Wt:74.
+Maxumum % Wt:80.
+OSHA PEL:1000 PPM
+ACGIH TLV:1000 PPM; 8990
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:UNKNOWN  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:HEALTH HAZARD BY INHALATION AND
+    INGESTION. AFFECTS THE CENTRAL NERVOUS SYSTEM
+Explanation of Carcinogenicity:NONE OF THE CHEMICALS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:EYES:IRRITATION. SKIN:IRRITATION.
+    INHALATION:RESPIRATORY SYSTEM IRRITATION,TEMPORARY LIGHT
+    HEADEDNESS,HEADACHE,DIZZINESS,NAUSEA,FATIGUE,UNCONSCIOUSNESS.
+    INGESTION:DIGESTIVE SYSTEM IRRITATION,TEMPORARY  LIGHT
+    HEADEDNESS,DIZZINESS,NAUSEA,SLEEPINESS,DECREASED REACTION
+    TIME,BLURRED VISION,LOSS OF COORDINATION,COMA.
+Medical Cond Aggravated by Exposure:PERSONS WITH A HISTORY OF
+    RESPIRATORY DISORDERS MAY BE AT INCREASED RISK FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH WITH PLENTY OF WATER FOR AT LEAST 15 MINUTES.SEE
+    DOCTOR. SKIN:IF SKIN IRRITATION OCCURS, DISCONTINUE USE.
+    INHALATION:REMOVE VICTIM TO FRESH AIR. INGESTION:DRINK TWO GLASSES
+    OF MILK OR WATER .SEE DOCTOR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:=14.4C, 58.F
+Lower Limits:3.3
+Upper Limits:19
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EXTINGUISH IGNITION SOURCES. WEAR APPROPIATE
+    PROTECTION. COVER WITH ABSORBENT MATERIAL. COLLECT SPILLED MATERIAL
+    AND PLACE IN DOT-APPROVED CONTAINER AND SEAL.
+Neutralizing Agent:NONE APPLICABLE FOR THIS MATERIAL
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL, DRY, WELL VENTILATED
+    AREA. PROTECT FROM PHYSICAL DAMAGE, HEAT AND IGNITION SOURCES. KEEP
+    CONTAINERS CLOSED.
+Other Precautions:AVOID EYE CONTACT AND INGESTION. AVOID PROLONGED
+    BREATHING OF VAPORS. USE ONLY IN AREAS ADEQUATELY VENTILATED WITH
+    ENOUGH AIR MOVEMENT TO REMOVE VAPOR BUILDUP. AVOID PROLONGED SKIN
+    CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF VENTILATION DOES NOT MAINTAIN INHALATION
+    EXPOSURES BELOW PEL (TLV), USE NIOSH/MSHA APPROVED RESPIRATOR AS
+    PER CURRENT 29 CFR 1910.134, INSTRUCTIONS/WARNINGS AND
+    NIOSH-RESPIRATOR SELECTION.
+Ventilation:MECHANICAL (GENERAL) VENTILATION IS REQUIRED. LOCAL EXHAUST
+    MAY BE REQUIRED IF WORK AREA IS NOT VENTED.
+Protective Gloves:AS REQUIRED.
+Eye Protection:CHEMICAL SAFETY GOGGLES.
+Other Protective Equipment:EYE BATH. OTHER EQUIPMENT AS REQUIRED TO
+    MINIMIZE EXPOSURE FROM PROLONGED OR REPEATED CONTACT.
+Work Hygienic Practices:WASH THROUGHLY AFTER HANDLING AND BEFORE
+    EATING. LAUNDER CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:=78.C, 172.4F
+Vapor Density:1.6
+Spec Gravity:0.881
+Evaporation Rate & Reference:7 (NO REFERENCE GIVEN)
+Solubility in Water:INSOLUBLE
+Appearance and Odor:REDDISH BROWN. CHARACTERISTIC ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HIGH TEMPERATURES, SPARKS, AND OPEN FLAMES
+Hazardous Decomposition Products:CARBON DIOXIDE, CARBON MONOXIDE,
+    INCOMPLETELY BURNED CARBON PRODUCTS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH ALL APPLICABLE
+    FEDERAL, STATE AND LOCAL LAWS AND REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

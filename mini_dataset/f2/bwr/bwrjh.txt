@@ -1,0 +1,160 @@
+=====================  Product Identification  =====================
+
+Product ID:PERKADOX 14-40K-PD
+MSDS Date:03/31/1994
+FSC:6810
+NIIN:00N014419
+MSDS Number: BWRJH
+=== Responsible Party ===
+Company Name:AKZO CHEMICLALS INC (FORMERLY STAUFFER CHEM CO)
+Address:300 S. RIVERSIDE PALZA
+City:CHICAGO
+State:IL
+ZIP:60606
+Country:US
+Info Phone Num:312-906-7500
+Emergency Phone Num:914-693-6946/CHEMTREC 800-424-9300
+Preparer's Name:PRODUCT SAFETY
+CAGE:HO797
+=== Contractor Identification ===
+Company Name:AKZO CHEMICLALS INC (FORMERLY STAUFFER CHEM CO)
+Address:300 S. RIVERSIDE PALZA
+City:CHICAGO
+State:IL
+ZIP:60606
+Country:US
+Phone:312-906-7500
+CAGE:HO797
+Company Name:AKZO NOBEL CHEMICALS INC
+Address:300 S. RIVERSIDE PLAZA
+Box:City:CHICAGO
+State:IL
+ZIP:60606-6613
+Country:US
+Phone:312-906-7500 TECH: 800-828-792
+CAGE:97854
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:KAOLIN
+CAS:1332-58-7
+RTECS #:GF1670500
+Fraction by Wt: 54%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:2 MG/M3 TDUST; 9394
+
+Ingred Name:DI-(2-TERT-BUTYLPEROXYISOPROPYL)BENZENE
+CAS:25155-25-3
+RTECS #:SD8431900
+Fraction by Wt: 40%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:SILICA, FUMED.
+CAS:7631-86-9
+Fraction by Wt: 6%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:6 MG/M3
+ACGIH TLV:10 MG/M3
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES:MAY CAUSE IRRITATION AND
+    DAMAGE.SKIN:MAY CAUSE IRRITATION.INGEST:MAY CAUSE GI TRACT
+    IRRITATION.MAY CAUSE UNG DAMAGE IF VOMITED AFTER
+    INGESTING.INHAL:DUST MAY CAUSE RESPIRATORY IRRITATION.
+Explanation of Carcinogenicity:THERE ARE NO INGREDIENTS ABOVE 0.1%
+    WHICH ARE IDENTIFIED AS CARCINOGENS BY NTP,IARC OR OSHA.
+Effects of Overexposure:SKIN:REDNESS.
+Medical Cond Aggravated by Exposure:PERSONS WITH PRE-EXISTING SKIN
+    AILMENTS MAY BE AT INCREASED RISK FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:REMOVE CONTAMINATED CLOTHING;WASH WITH SOAP AND WATER.DO
+    NOT ATTEMPT TO NEUTRALIZE.GET MEDICAL ASSISTANCE.EYES:REMOVE
+    CONTACT LENSES.FLUSH WITH WATER FOR 15 MINUTES.DO NOT ATTEMPT TO
+    NEUTRALIZE.G ET MEDICAL ATTENTION.INHAL:REMOVE TO FRESH AIR.GIVE
+    OXYGEN OR ARTIFICIAL RESPIRATION IF NEEDED.INGEST:DO NOT INDUCE
+    VOMITING.GET PROMPT QUALIFIED MEDICAL ATTENTION.IF CONSCIOUS,GIVE
+    WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:WATER FOG,DRY CHEMICAL,CARBON DIOXIDE,FOAM.
+Fire Fighting Procedures:USE A SELF-CONTAINED BREATHING APPARATUS AND
+    FULL PROTECTIVE EQUIPMENT.COOL FIRE EXPOSED CONTAINERS WITH WATER
+    FOG.
+Unusual Fire/Explosion Hazard:PEROXIDES AND THEIR DECOMPOSITION
+    PRODUCTS ARE EXPLOSIVE.VAPORS ARE HEAVIER THAN AIR,CAN TRAVEL
+    DISTANCES ALONG THE GROUND,AND FLASHBACK.DECOMP PRODS TOXIC.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA.USE PROPER PROTECTIVE AND
+    RESPIRATORY EQUIPMENT.SWEEP OR VACUUM;DO NOT CREATE DUST;PLACE IN A
+    DRY CONTAINER FOR DISPOSAL.CLEAN SPILL AREA WITH WATER.
+Neutralizing Agent:NOT REPORTED.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE BELOW 104F IN A
+    DRY,WELL-VENTILATED PLACE.KEEP CONTAINER CLOSED WHEN NOT IN
+    USE.KEEP AWAY FROM HEAT,SPARKS,FLAMES AND INCOMPATIBLE MATERIALS.
+Other Precautions:GROUND CONTAINERS WHEN TRANSFERRING MATERIAL TO AVOID
+    STATIC ELECTRICITY BUILDUP.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WHERE ENVIRONMENTAL CONTROLS ARE LACKING OR IN
+    ENCLOSED SPACES USE A NIOSH/MSHA APPROVED RESPIRATOR FOR ORGANIC
+    VAPORS.
+Ventilation:USE LOCAL EXHAUST WITH CONTINUOUS MONITORING DEVICES TO
+    MAINTAIN PEL/TLV.
+Protective Gloves:IMPERVIOUS
+Eye Protection:CHEMICAL SPLASH GOGGLES
+Other Protective Equipment:PROTECTIVE CLOTHING,AS NEEDED.PROVIDE A
+    LOCAL EYE WASH STATION AND SAFETY SHOWER.
+Work Hygienic Practices:WASH HANDS.SEPERATE WORK CLOTHES FROM STREET
+    CLOTHES.LAUNDER WORK CLOTHES BEFORE REUSE.KEEP FOOD OUT OF THE WORK
+    AREA.
+Supplemental Safety and Health
+**IF SPONTANEOUS VOMITING OCCURS,KEEP HEAD LOWER THAN HIPS TO AVOID
+    ASPIRATION OF VOMITUS INTO LUNGS**
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Decomp Temp:Decomp Text:167F,75C
+Spec Gravity:1.61
+pH:7
+Solubility in Water:INSOLUBLE
+Appearance and Odor:NOT REPORTED.HMIS SUGGESTS THAT INGRED #1 HAS BEEN
+    ADSORBED ONTO A POWDER.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS,STRONG ACIDS,BASES,MINERAL SALTS,REDUCING
+    AGENTS ACCELERATORS.
+Stability Condition to Avoid:TEMPERATURES ABOVE 176F(DECOMPOSES).
+Hazardous Decomposition Products:CARBON DIOXIDE,CARBON MONOXIDE
+Conditions to Avoid Polymerization:TEMPERTAURES ABOVE 176F,ACIDS
+    ALKALIS,HEAVY METALS,REDUCING AGENTS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH FEDERAL,STATE AND
+    LOCAL REGULATIONS.RCRA CODE D003(REACTIVE).
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,148 @@
+=====================  Product Identification  =====================
+
+Product ID:31-250 OMC HI-VIS GEAR LUBE
+MSDS Date:10/02/1991
+FSC:9150
+NIIN:00F019201
+MSDS Number: BLPQK
+=== Responsible Party ===
+Company Name:CITGO PETROLEUM
+Address:6100 S YALE
+Box:992
+City:TULSA
+State:OK
+ZIP:74102
+Country:US
+Info Phone Num:918-495-5933
+Emergency Phone Num:318-491-6215
+CAGE:7X110
+=== Contractor Identification ===
+Company Name:CITGO PETROLEUM CORP
+Address:6100 S YALE AVE
+Box:3758
+City:TULSA
+State:OK
+ZIP:74102
+Country:US
+Phone:918-495-5933
+CAGE:7X110
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MINERAL OIL, PETROLEUM DISTILLATES, SOLVENT-REFINED HEAVY
+    PARAFFINIC, LUBRICATING OIL BASE STOCK
+CAS:64741-88-4
+RTECS #:PY8040500
+Fraction by Wt: <95%
+OSHA PEL:5 MG/CUM
+ACGIH TLV:5 MG/CUM
+
+Ingred Name:SOLVENT-REFINED RESIDUUM	 *93-1*
+CAS:64742-01-4
+Fraction by Wt: <95%
+
+Ingred Name:EXTREME PRESSURE OXIDATION & RUST INHIBITOR
+Fraction by Wt: <5%
+
+Ingred Name:ANTI-MIST
+Fraction by Wt: <1%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): >5 G/KG (PETROLEUM)
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:VAPORS & MISTS MAY CAUSE LUNG
+    IRRITATION OR PNEUMONITIS. SKIN/EYE IRRITANT. CONTACT MAY CAUSE
+    DERMATITIS, FOLLICULITIS, LESIONS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN: DRYING, CRACKING, IRRITATION. INHALATION:
+    DROWSINESS, DIZZINESS, HEADACHE, NAUSEA, IRRITATION. EYES:
+    IRRITATION. IGESTION: LOW TOXICITY, GENERALIZED DEPRESSION,
+    HEADACHE, DROWSINESS, NAUSEA, VOM ITING, DIARRHEA, IRRITATION.
+    INJECTION:ERYTHEMA, EDEMA, IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. RESPIRATORY SUPPORT IF
+    NECESSARY. SKIN: WASH W/SOAP & WATER. DON'T WEAR HEAVILY
+    CONTAMINATED CLOTHING BEFORE LAUNDERING. EYES: FLUSH W/LARGE
+    VOLUMES OF WATER. INGESTIO N: DON'T INDUCE VOMITING. INJECTION:
+    SUBCUTANEOUS INJECTION IS A MEDICAL EMERGENCY. OBTAIN MEDICAL
+    ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:460F/238C
+Extinguishing Media:CO2, DRY CHEMICAL, FOAM & WATER FOG
+Fire Fighting Procedures:WATER MAY CAUSE FROTHING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE IGNITION SOURCES. PROVIDE ADEDQUATE
+    VENTILATION, CONTAIN LEAK. SMALL SPILL: ABSORB W/SUITABLE MATERIAL
+    (RAGS/STRAW/SAND). LARGE SPILLS: CONTAIN SPILL IN EARTHEN DIKES FOR
+    LATER RECOVERY. REPORT  SPILLS AS REQUIRED TO APPROPRIATE
+    AUTHORITIES.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID PROLONGED CONTACT. DON'T APPLY
+    HIGH HEAT OR FLAME TO CONTAINER. KEEP SEPARATE FROM STRONG
+    OXIDIZING AGENTS.
+Other Precautions:USE W/ADEQUATE VENTILATION. EMPTY CONTAINERS MAY
+    CONTAIN PRODUCT RESIDUE WHICH COULD INCLUDE FLAMMABLE OR EXPLOSIVE
+    VAPORS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NORMALLY NONE REQUIRED. IF HIGH VAPOR OR MIST
+    CONCENTRATIONS EXPECTED, USE RESPIRATOR APPROVED FOR ORGANIC VAPORS
+    & MISTS.
+Ventilation:MECHANICAL: IN CONFINED SPACES TO KEEP LEVELS BELOW LIMITS.
+Protective Gloves:OIL IMPERVIOUS, RUBBER
+Eye Protection:SAFETY GOGGLES/CHEMICAL SPLASH GOGGLES
+Other Protective Equipment:BODY-COVERING WORK CLOTHES
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE. WASH HANDS THOROUGHLY W/SOAP & WATER.
+Supplemental Safety and Health
+NOTE TO PHYSICIAN: IF ACCIDENTALLY INJECTED, APPLY SURGICAL DEBRIDEMENT
+    PROCEDURE. IF UNFAMILIAR W/TECHNIQUE, SEEK SKILLED ADVICE. ON
+    INGESTION, SMALL AMOUNTS MAY PASS THROUGH THE SYSTEM W/OUT CAUSING 
+    A HAZARD. REMOVE LARGER QUANTITIES TO PREVENT INTESTINAL BLOCKAGE.
+    SAYBOLT VISCOSITY IS  750 SUS AT 100F.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text: 750F/ 399C
+Vapor Pres:<0.0003
+Vapor Density:>1
+Spec Gravity:0.88
+Evaporation Rate & Reference:(BU AC = 1): <1
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:AMBER LIQUID W/SLIGHT SULFURIZED ODOR.
+Percent Volatiles by Volume:NEGL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDANTS
+Stability Condition to Avoid:SOURCES OF HEAT & IGNITION, FLAME
+Hazardous Decomposition Products:CO2, CO
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DETERMINE IF THE MATERIAL IS A HAZARDOUS WASTE
+    AT THE TIME OF DISPOSAL. CHECK BEFORE
+    DISPOSING/REUSING/RECONDITIONING/RECLAIMING/RECYCLING TO BE SURE
+    YOU ARE IN COMPLIANCE W/LOCAL, STATE, & FEDERAL RE GULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,127 @@
+=====================  Product Identification  =====================
+
+Product ID:328 401 VELGLO II MEDIUM BASE 011989
+MSDS Date:04/17/1989
+FSC:8010
+NIIN:00F019197
+MSDS Number: BLPQF
+=== Responsible Party ===
+Company Name:FRAZEE PAINT & WALLCOVERINGS
+Address:6625 MIRAMAR ROAD
+City:SAN DIEGO
+State:CA
+ZIP:92121
+Info Phone Num:(619) 276-9500
+Emergency Phone Num:(619) 276-9500
+Preparer's Name:ZEKE
+CAGE:FO493
+=== Contractor Identification ===
+Company Name:FRAZEE PAINT & WALL COVERINGS
+Address:6625 MIRAMAR ROAD
+City:SAN DIEGO
+State:CA
+ZIP:92121
+Phone:(619) 276-9500
+CAGE:FO493
+Company Name:FRAZEE S R CO (FRAZEE INDUSTRIES)
+Address:6625 MIRAMAR RD
+City:SAN DIEGO
+State:CA
+ZIP:92121-2508
+Country:US
+Phone:619-276-9500/619-543-6000
+CAGE:6D488
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:AROMATIC PETROLEUM DISTILLATE, HEAVY STRAIGHT RUN NAPHTHA
+    C6-C12 BOILING PT 149-446F
+CAS:64741-41-9
+Fraction by Wt: 15%
+ACGIH TLV:125 PPM
+
+Ingred Name:VOL ORGANIC CMPD: 2.09 LB/GAL (250 G/L)
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: REDNESS, TEARING & BLURRED
+    VISION. SKIN: IRRITATION, DRY, CRACKED, DEFATTING & DERMATITIS.
+    INHALATION: DIZZINESS, BREATHING DIFFICULTY, HEADACHES, LOSS OF
+    COORDINATION, NASAL/RESPIRATORY TRACT I RRITATION, FATIGUE, NAUSEA,
+    VOMITING, UNCONSCIOUSNESS, ANESTHESIA & ASPHXIATION. INGESTION:
+    CHEMICAL PNEUMONITIS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: REDNESS, TEARING & BLURRED VISION. SKIN:
+    IRRITATION & DERMATITIS. INHALATION: DIZZINESS, BREATHING
+    DIFFICULTY, HEADACHES, LOSS OF COORDINATION, NASAL/RESPIRATORY
+    TRACT IRRITATION, FATIGUE, NAUSE A, ANESTHESIA, VOMITING,
+    UNCONSCIOUSNESS & ASPHYXIATION. INGESTION: CHEMICAL PNEUMONITIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER. SKIN: WASH W/SOAP & WATER. INHALATION:
+    REMOVE TO FRESH AIR. INGESTION: DON'T INDUCE VOMITING. AVOID
+    ASPIRATION OF MATERIAL INTO THE LUNGS MAY CAUSE CHEMICAL
+    PNEUMONITIS. OBTAIN ME DICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:109F
+Lower Limits:1%
+Upper Limits:6%
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL & WATER FOG
+Fire Fighting Procedures:DON'T USE WATER EXCEPT IN THE FORM OF A FOG.
+    EXCLUDE AIR. USE A SELF-CONTAINED BREATHING APPARATUS & CONSULT
+    LOCAL FIRE MARSHALL.
+Unusual Fire/Explosion Hazard:VAPOR FORM EXPLOSIVE MIXTURE W/AIR
+    BETWEEN UPPER & LOWER EXPLOSIVE LIMITS. EXCESS HEAT MAY CAUSE
+    CONTAINERS TO RUPTURE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CLEAN-UP IMMEDIATELY & DISCARD ABSORBENT
+    MATERIAL IN ACCORDANCE W/CURRENT REGULATIONS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:USE NON-SPARKING TOOLS. OPENING
+    CONTAINER USE ELECTROSTATIC BONDING BETWEEN DISPENSING & RECEIVING
+    CONTAINER MUST BE ACCOMPLISHED.
+Other Precautions:ELECTROSTATIC GROUNDING OF THE CONTAINERS MUST BE
+    PROVIDED. AVOID BREATHING OF VAPORS & CONTACT W/SKIN. KEEP AWAY
+    FROM ALL SOURCES OF HEAT, OPEN FLAMES, SPARKS & STATIC ELECTRICITY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE A NIOSH APPROVED CARTRIDGE RESPIRATOR OR GAS
+    MASK TO KEEP AIR
+Spec Gravity:1.3
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:WHITE VISCOUS LIQUID W/MINERAL SPIRITS ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:OPEN FLAME, HEAT, SPARKS, & STATIC
+    ELECTRICITY
+Hazardous Decomposition Products:CO, CO2 & VARIOUS HYDROCARBONS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS GOVERNING SOLVENT-BASED PAINT & PAINT WASTE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

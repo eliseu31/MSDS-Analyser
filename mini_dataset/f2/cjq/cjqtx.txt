@@ -1,0 +1,138 @@
+=====================  Product Identification  =====================
+
+Product ID:SEALPROOF, 1000X
+MSDS Date:09/01/1996
+FSC:8040
+NIIN:00N091416
+Status Code:A
+MSDS Number: CJQTX
+=== Responsible Party ===
+Company Name:ZYVAX INC
+Box:825
+City:BOCA RATON
+State:FL
+ZIP:33429
+Country:US
+Info Phone Num:561-395-4405
+Emergency Phone Num:800-424-9300
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:047D8
+=== Contractor Identification ===
+Company Name:ZYVAX INC
+Box:825
+City:BOCA RATON
+State:FL
+ZIP:33429
+Country:US
+Phone:561-395-4405
+CAGE:047D8
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM SILICATE
+CAS:1344-09-8
+< Wt:10.
+OSHA PEL:2MG/M2
+ACGIH TLV:2MG/M3
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYE CONTACT: MAY CAUSE MILD EYE
+    IRRITATION. NO LASTING HARMFUL EFFECTS KNOWN. SKIN CONTACT: MAY
+    CAUSE MILD SKIN IRRITATION. NO LASTING HARMFUL EFFECTS ARE KNOWN.
+    INHALATION: POSSIBLE RESPIRATORY IRRIT ATION IF SPRAYED. INGESTION:
+    INGESTION OF EXCESSIVE QUANTITIES MAY CAUSE IRRITATION OF THE
+    MOUTH, THROAT AND DIGESTIVE TRACT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE CONTACT: FLUSH WITH LOTS OF CLEAN WATER FOR AT LEAST 15
+    MINUTES. IF IRRITATION OF REDNESS DEVELOPS AND PERSISTS, SEEK
+    MEDICAL ATTENTION. SKIN CONTACT: WASH AFFECTED AREAS THOROUGHLY
+    WITH MILD SOAP  AND WATER. INHALATION: MOVE VICTIM INTO FRESH AIR.
+    INGESTION: DO NOT INDUCE VOMITING. GIVE LARGE QUANTITIES OF WATER.
+    (IF AVAILABLE, GIVE SEVERAL GLASSS OF MILK.)
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:N.A.
+Lower Limits:N.A.
+Upper Limits:N.A.
+Extinguishing Media:NONE KNOWN. USE MEDIA SUITABLE FOR SURROUNDING FIRE
+    .
+Fire Fighting Procedures:NONE KNOWN. WEAR NIOSH APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE KNOWN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE ABSORBENT MATERIAL TO COLLECT AND CONTAIN
+    FOR SALVAGE OR DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:USE AND STORE THIS MATERIAL IN A COOL,
+    DRY, WELL VENTILATED AREA. STORE ONLY IN APROVED CONTAINERS. STORE
+    ONLY IN THE ORIGINAL CONTAINERS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESPIRATORY PROTECTION NOT REQUIRED WHEN USED
+    ACCORDING TO RECOMMENDED PROCEDURES. RESPIRATORY EXPOSURE LIMITS
+    FOR NAOH: PEL 2MG/M3, TLV 2MG/M3.
+Ventilation:USE IN WELL VENTILATED AREA.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:ANSI APPROVED EMERGENCY EYEWASH AND DELUGE
+    SHOWER .
+Supplemental Safety and Health
+VOC: 0%
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:>101.1C, 214.F
+B.P. Text:214-216F
+Vapor Pres:17.5
+Vapor Density:N.A.
+Spec Gravity:1.05
+Evaporation Rate & Reference:<1.0 (BUAC = 1)
+Solubility in Water:SOLUBLE
+Appearance and Odor:OPAQUE LIQUID WITH BLAND ODOR.
+Percent Volatiles by Volume:0%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS, OXIDIZING AGENTS.
+Stability Condition to Avoid:NONE.
+Hazardous Decomposition Products:CARBON MONOXIDE/DIOXIDE.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF PRODUCT IN ACCORDANCE WITH LOCAL,
+    STATE, AND FEDERAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:DOT SHIPPING NAME: NONE. DOT HAZARD
+    CLASSIFICATION: NONE. PRODUCT CODE: 1000X. DOT ID NUMMBER: NONE.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:THIS PRODUCT CONTAINS THE FOLLOWING
+    CHEMICALS THAT ARE SUBJECT TO THE REPORTING REQUIREMENTS OF SARA
+    313 AND 40 CFR 372: NONE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

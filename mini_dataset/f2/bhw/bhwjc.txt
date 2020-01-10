@@ -1,0 +1,176 @@
+=====================  Product Identification  =====================
+
+Product ID:HYSOL PC20M ACRYLIC RESIN
+MSDS Date:02/02/1989
+FSC:5970
+NIIN:00-442-0272
+MSDS Number: BHWJC
+=== Responsible Party ===
+Company Name:DEXTER ELECTRONIC MTLS DIV.,THE DEXTER CORP.
+Address:211 FRANKLIN ST.
+City:OLEAN
+State:NY
+ZIP:14760-1297
+Country:US
+Info Phone Num:716-372-6300
+Emergency Phone Num:716-372-6309
+Preparer's Name:JAMES P. HORNBURG
+CAGE:04347
+=== Contractor Identification ===
+Company Name:DEXTER CORP THE DEXTER ELECTRONIC MATERIAL DIV
+Address:211 FRANKLIN ST.
+Box:City:OLEAN
+State:NY
+ZIP:14760-1297
+Country:US
+Phone:716-372-6300/6309
+CAGE:04347
+Company Name:MCKEOWN ROBERT CO. INC.
+Address:111 CHAMBERS BROOK RD.
+Box:City:SOMERVILLE
+State:NJ
+ZIP:08876
+Country:US
+Phone:908-218-9000
+CAGE:7B953
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS)	(SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 1-5%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 30-60%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: 10-30%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ACRYLIC RESIN
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL RAT LD50 IS NOT KNOWN
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:PRODUCT IS IRRITATING TO BODY TISSUES.
+     ITMAY EFFECT THE CENTRAL NERVOUS SYSTEM.  POSSIBLE CHRONIC EFFECTS
+    ARE "PAINTERS" SYNDROME.
+Explanation of Carcinogenicity:THE PRODUCT CONTAINS NO INGREDIENT THAT
+    IS LISTED BY IARC, NTP OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:EYE:IRRITATION	SKIN:DRYING,IRRITATION,
+    POSSIBLE DERMITIS WITH PROPLONGED/REPEATED CONTACT 
+    INHALED:NARCOSIS,RESPIRATORY IRRITATION  INGESTED:G/I
+    IRRITATION/DISTRESS,POSSIBLE NAUSEA,VOMITING.
+Medical Cond Aggravated by Exposure:NONE GIVEN BY MANUMACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH W/WATER 15 MIN, HOLD LIDS OPEN.  SKIN:WASH WITH
+    SOAP & WATER. REMOVE CONTAMINATED CLOTHING AND LAUNDER BEFORE
+    REUSE.  INHALED:REMOVE TO FRESH AIR. RESTORE BREATHING IF
+    NECESSARY.	INGESTED:D O NOT INDUCE VOMITING. GIVE 2 LARGE GLASSES
+    OF MILK OR WATER AND GET IMMEDIATE MEDICAL CARE. GIVE NOTHING BY
+    MOUTH IF UNCONSCIOUS.   IF IRRITATION PERSISTS OR IS SEVERE,SEE A
+    DOCTOR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:52.0F,11.1C
+Lower Limits:1.8
+Upper Limits:10.0
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL.
+Fire Fighting Procedures:WEAR FIRE FIGHTING PROTECTIVE EQUIPMENT AND A
+    FULL FACED SELF CONTAINED BREATHING APPARATUS. COOL FIRE EXPOSED
+    CONTAINERS WITH WATER SPRAY. CONTAIN RUNOFF.
+Unusual Fire/Explosion Hazard:VAPORS ARE HEAVIER THAN AIR AND MAY
+    TRAVEL ALONG GROUND OR FLOOR, THEN 'FLASH BACK' FROM A DISTANT
+    IGNITION SOURCE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE IGNITION SOURCES.  MOP, WIPE UP,
+    ADSORB WITH INERT MATERIAL.  STORE AS A FLAMMABLE WASTE.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL,DRY AREA.  KEEP AWAY
+    FROM ALL IGNITION SLURCES.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESPIRATOR WILL NOT NORMALLY BE NECESSARY.  USE
+    NIOSH/MSHA APPROVED AIR SUPPLIED RESPIRATOR OR RESPIRATOR FOR
+    ORGANIC VAPOR IF EXPOSURE IS ABOVE THE TLV/PEL. SEE 29 CFR 1910.134
+    FOR REGULATIONS PERTAI NING TO RESPIRATOR USE.
+Ventilation:NORMAL ROOM VENTILATION IS SUFFICIENT.  SUPPLEMENT WITH
+    LOCAL EXHAUST IF PEL/TLV IS EXCEEDED. MFR RECOMMENDS LOCAL EXHAS
+Protective Gloves:RUBBER, VINYL OR OTHER IMPERVIOUS
+Eye Protection:SAFETY GLASSES OR SPLASH GOGGLES
+Other Protective Equipment:SAFETY SHOWER AND EYE WASH STATION. 
+    IMPERVIOUS APRON AND BOOTS IF CONTACT IS LIKELY.
+Work Hygienic Practices:USE GOOD CHEMICAL HYGIENE PRACTICE. AVOID
+    UNNECESSARY CONTACT.
+Supplemental Safety and Health
+MSDS REVISION 02.  PRODUCT CODE PO0012.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:B.P. Text:180F,82C
+Vapor Pres:78 MM
+Vapor Density:4.5
+Spec Gravity:0.94
+Evaporation Rate & Reference:5.7 (BUTYL ACETATE = 1)
+Solubility in Water:3-5%
+Appearance and Odor:LIGHT AMBER LOW VISCOSITY LIQUID, AROMATIC ODOR
+Percent Volatiles by Volume:55
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS,CHLORINATED HYDROCARBONS +
+    ALKALIS,AMINES,AMMONIA,INORGANIC ACIDS,ISOCYANATES
+Stability Condition to Avoid:HIGH TEMPERATURES, SPARKS, AND OPEN FLAMES
+Hazardous Decomposition Products:CARBON DIOXIDE,CARBON
+    MONOXIDE,N-BUTYLMETHACRYLATE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W ALL FEDERAL, STATE AND LOCAL
+    REGULATIONS.  MANUFACTURER MAKES NO SUGGESTION ABOUT DISPOSAL. 
+    DGSC-SSH SUGGESTS INCINERATION.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

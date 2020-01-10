@@ -1,0 +1,155 @@
+=====================  Product Identification  =====================
+
+Product ID:PAINT EPOXY POLYAMIDE, EXT TOPCOAT DARK GRAY
+MSDS Date:07/17/1991
+FSC:8010
+NIIN:00-410-8465
+Kit Part:Y
+MSDS Number: BHWBF
+=== Responsible Party ===
+Company Name:SEAGRAVE COATINGS CORP, CHEMRAY DEFENSE DIV
+Address:209 N MICHIGAN AVE
+City:KENILWORTH
+State:NJ
+ZIP:07033
+Country:US
+Info Phone Num:908-245-1111
+Emergency Phone Num:800-424-9300 CHEMTREC
+Preparer's Name:FRED ARMSTRONG
+CAGE:DO631
+=== Contractor Identification ===
+Company Name:CHEMRAY COATING CORP
+Address:209 N MICHIGAN AVE
+Box:City:KENILWORTH
+State:NJ
+ZIP:07033
+Country:US
+Phone:201-245-1111
+CAGE:33832
+Company Name:SEAGRAVE COATINGS CORP OF VA.
+Address:4030 SEAGUARD AVENUE
+City:PORTSMOUTH
+State:VA
+ZIP:23701
+Phone:1-800-424-9300
+CAGE:DO631
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SUPER HIFLASH NAPTHA
+CAS:64742-95-6
+Fraction by Wt: 23%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:200 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:MAGNESIUM SILICATE-TALC (NON-ASBESTIFORM)
+CAS:14807-96-6
+RTECS #:WW2710000
+Fraction by Wt: 24.5%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:20 MPPCF
+ACGIH TLV:2 MG/CUM
+
+Ingred Name:VOC:316 GRAMS/LITER OR 2.64 LBS/GAL
+RTECS #:9999999VO
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Health Hazards Acute and Chronic:OVEREXPOSURE TO HIGH VAPOR
+    CONCENTRATIONS (GREATER THAN APPROXIMATELY 1000 PPM) ARE IRRITATING
+    TO THE EYES AND THE RESPIRATORY TRACT MAY CAUSE HEADACHES AND
+    DIZZINESS, ARE ANESTHETIC AND MAY HAVE OTHE R CENTRAL NERVOUS
+    SYSTEM EFFECTS.
+Medical Cond Aggravated by Exposure:PREEXISTING EYE, SKIN AND
+    RESPIRATORY DISORDERS MAY BE AGGRAVATED BY EXPOSURE TO THIS
+    PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE CONTACT: FLUSH WITH WATER 15 MIN OR UNTIL IRRITATION
+    SUBSIDES. IF IRRITATION PERSISTS CALL PHYSICIAN. SKIN CONTACT:
+    REMOVE CONTAMINATED CLOTHING AND WASH THOROUGHLY WITH SOAP AND
+    WATER. INHALATION : IF OVERCOME BY VAPORS, REMOVE TO FRESH AIR,
+    CALL PHYSICIAN. INGESTION: DO NOT INDUCE VOMITING, CALL PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:115F,46C
+Autoignition Temp:Autoignition Temp Text:867F
+Lower Limits:0.5
+Upper Limits:6.0
+Extinguishing Media:CARBON DIOXIDE, FOAM, WATER FOG, DRY CHEMICAL.
+Fire Fighting Procedures:USE AIR SUPPLIED BREATHING EQUIPMENT. COOL
+    ENCLOSED CONTAINERS WITH WATER SPRAY, AVOID BREATHING VAPOR OR
+    FUMES.
+Unusual Fire/Explosion Hazard:IF LEAK OR SPILL HAS IGNITED, USE WATER
+    SPRAY TO DISPERSE THE VAPORS FROM FIRE FIGHTERS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE IGNIT SOURCES. KEEP FROM HEAT, SPARKS &
+    FLAME. ADD ABSORBENT (SAND, EARTH, SAWDUST) TO SPILL. VENT AREA
+    (OPEN WINDOWS, DOORS). IF LARGE SPILL, KEEP PRODUCT FROM ENTERING
+    SEWERS & WATERCOURSES B Y DIKING. ADVISE AUTHORITIES IF
+    PRODUCTRELEASED.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM IGNITION SOURCES. KEEP
+    IN COOL, DRY, WELL VENTED AREAS. AVOID DIRECT SUNLIGHT & EXTREME
+    TEMPERATURES--HOT OR COLD.
+Other Precautions:AVOID EYE, SKIN CONTACT, INHALATION, INGESTION OR
+    MISTS, SPRAY OR VAPORS AVOID BREATHING SANDING OR BLASTING DUST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE HYDROCARBON VAPOR CANISTER OR SUPPLIED AIR
+    RESPIRATOR IN CONFINED AREA.
+Ventilation:LOCAL EXHAUST: FACE VELOCITY 60FPM. SPECIAL: USE ONLY
+    W/ADEQUATE VENT. MECHANICAL: USE EXPLOSION PROOF EQUIPMENT.
+Protective Gloves:CHEMICAL RESISTANT
+Eye Protection:SPLASH GOGGLES OR FACE SHIELD
+Other Protective Equipment:USE CHEMICAL RESISTANT APRON OR CLOTHING.
+Work Hygienic Practices:WASH CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:318F,159C
+Melt/Freeze Pt:M.P/F.P Text:0F,-18C
+Decomp Temp:Decomp Text:600F,316C
+Vapor Pres:<10
+Vapor Density:4.2 @ 25C
+Spec Gravity:1.20 (WATER=1)
+Viscosity:60-80 KU @25C
+Evaporation Rate & Reference:0.37 (BU AC=1)
+Solubility in Water:NEGLIBIBLE
+Appearance and Odor:CLOUDY TRANSLUCENT LIQUID WITH KEROSENE ODOR.
+Percent Volatiles by Volume:34.5
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CAN REACT WITH OXIDIZING MATERIAL WHEN HEATED TO DECOMPOSITION.
+Stability Condition to Avoid:HIGH TEMPERATURE
+Hazardous Decomposition Products:CARBON MONOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ASSURE CONFORMITY WITH APPLICABLE DISPOSAL
+    REGULATIONS. DISPOSE OF ABSORBED MATERIAL AT AN APPROVED DISPOSAL
+    SITE OR FACILITY. DISPOSE IN CONFORMITY WITH STATE AND FEDERAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

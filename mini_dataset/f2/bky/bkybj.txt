@@ -1,0 +1,213 @@
+=====================  Product Identification  =====================
+
+Product ID:OM-0017-3744 JOHNSON WHITE ACRYLIC
+MSDS Date:10/03/1986
+FSC:8010
+NIIN:00F018491
+MSDS Number: BKYBJ
+=== Responsible Party ===
+Company Name:SEYMOUR OF SYCAMORE
+Address:917 CROSBY AVE
+City:SYCAMORE
+State:IL
+ZIP:60178-1343
+Info Phone Num:(815) 895-9101
+Emergency Phone Num:(815) 895-9101
+CAGE:59581
+=== Contractor Identification ===
+Company Name:SEYMOUR OF SYCAMORE
+Address:917 CROSBY AVE.
+Box:City:SYCAMORE
+State:IL
+ZIP:60178-1343
+Country:US
+Phone:815-895-9101/800-255-3924
+CAGE:59581
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ACETONE  (SARA III)
+CAS:67-64-1
+RTECS #:AL3150000
+Fraction by Wt: 11.51%
+Other REC Limits:590 MG/CUM
+OSHA PEL:1000PPM
+ACGIH TLV:750PPM/1000STEL;9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:MINERAL SPIRITS
+CAS:64742-86-7
+Fraction by Wt: 0.39%
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:ETHYL ALCOHOL (ETHANOL)
+CAS:64-17-5
+RTECS #:KQ6300000
+Fraction by Wt: 3.18%
+Other REC Limits:1900 MG/CUM
+OSHA PEL:1000 PPM
+ACGIH TLV:1000 PPM; 9192
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS)	(SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 1.32%
+Other REC Limits:100 PPM
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:2-BUTOXYETHANOL
+CAS:111-76-2
+RTECS #:KJ8575000
+Fraction by Wt: 1.11%
+Other REC Limits:25 PPM (SKIN)
+OSHA PEL:S, 50 PPM
+ACGIH TLV:S, 25 PPM; 9293
+
+Ingred Name:PROPANE
+CAS:74-98-6
+RTECS #:TX2275000
+Fraction by Wt: 18%
+Other REC Limits:1800 MG/CUM
+OSHA PEL:1000 PPM
+ACGIH TLV:ASPHYXIANT; 9192
+
+Ingred Name:ISOBUTANE, 2-METHYLPROPANE
+CAS:75-28-5
+RTECS #:TZ4300000
+Fraction by Wt: 12%
+Other REC Limits:1000 PPM
+OSHA PEL:1800 MG/CUM
+ACGIH TLV:1000 PPM
+
+Ingred Name:VM&P NAPHTHA (LIGROINE)
+CAS:8032-32-4
+RTECS #:OI6180000
+Fraction by Wt: 1.45%
+Other REC Limits:STEL 400 PPM
+OSHA PEL:300 PPM/400 STEL
+ACGIH TLV:300 PPM; 9192
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 6.36%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:METHYLENE CHLORIDE	(SARA III)
+CAS:75-09-2
+RTECS #:PA8050000
+Fraction by Wt: 17.46%
+OSHA PEL:500 PPM/C,1000; Z2
+ACGIH TLV:50 PPM, A2; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 16.88%
+Other REC Limits:100 PPM
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:EYE: REDNESS/PAIN/INFLAMMATION. SKIN:
+    HARMFUL ABSORPTION/BURNING SENSATION/RED/ROUGH/DRY. INHALATION:
+    MENNTAL
+    CONFUSION/HEADACHE/DIZZINESS/STUPOR/NAUSEA/VOMITING/FATIGUE/APPETIT
+    E LOSS/COUGH/MUSCULAR I NCOORDINATION/BALANCE LOSS/MUCOUS
+    MEMBRANE/RESPIRATORY IRRITATION. INGESTION: GI TRACT
+    IRRITATION/LIVER/KIDNEY DAMAGE.
+Explanation of Carcinogenicity:METHYLENE CHLORIDE IS A SUSPECTED A2
+    HUMAN CARCINOGEN.
+Effects of Overexposure:EYE: TEARS/BLURRED VISION. SKIN:
+    DEFAT/DERMATITIS. INHALATION: UNCONSIOUSNESS/ASPHYXIATION/BRAIN
+    CELL DAMAGE/CNS DEPRESSION/NARCOSIS/ACIDOSIS/PERMANENT VISION
+    LOSS/HARMFUL/DEATH. INGESTION: BLINDNESS/ FATAL/ASPIRATION INTO
+    LUNGS CAN CAUSE CHEMICAL PNEUMONITIS/PULMONARY
+    EDEMA/HEMORRHAGE/UNCONSCIOUSNESS/HARMFUL/DIARRHEA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH W/WATER FOR AT LEAST 15 MIN. SKIN: WASH
+    W/SOAP/WATER. APPLY SOOTHING OINTMENT. INHALATION: REMOVE TO FRESH
+    AIR. GIVE CPR/OXYGEN IF NECESSARY. INGESTION: DON'T INDUCE
+    VOMITING, IF VOMITING O CCURS, KEEP HEAD BELOW HIPS. NEVER
+    GIVEANYTHING BY MOUTH IF UNCONSCIOUS. TREAT SYMPTOMATICALLY. OBTAIN
+    MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TOC
+Flash Point:-10F
+Extinguishing Media:CO2, DRY CHEMICAL OR FOAM
+Fire Fighting Procedures:WATER SPRAY MAY BE INEFFECTIVE. IF WATER IS
+    USED, FOG NOZZLES ARE PREFERABLE. WEAR SELF-CONTAINED BREATHING
+    APPARATUS. USE WATER TO COOL CONTAINERS.
+Unusual Fire/Explosion Hazard:EXPOSURE TO HEAT OR SUN MAY CAUSE
+    BURSTING OF AEROSOL CAN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. VENTILATE
+    AREA. WIPE UP W/INERT MATERIALS & PLACE IN APPROPRIATE CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T STORE >120F. USE ONLY AS
+    DIRECTED. INTENTIONAL MISUSE BY DELIBERATELY CONCENTRATING VAPORS &
+    INHALING CONTENTS CAN BE HARMFUL OR FATAL.
+Other Precautions:AVOID BREATHING SOLVENT VAPORS & SPRAY MISTS. AVOID
+    INGESTION & CONTACT W/SKIN & EYES. KEEP FROM SUNLIGHT, SPARKS,
+    PILOT LIGHTS, OR OPEN FLAME.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE SELF-CONTAINED BREATHING APPARATUS IF >TLV.
+Ventilation:ADEQUATE
+Protective Gloves:AS REQUIRED
+Eye Protection:GOGGLES
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING/SHOES
+    BEFORE REUSE. DISCARD FOOTWEAR WHICH CANNOT BE DECONTAMINATED.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Vapor Pres:40 PSIG
+Vapor Density:>AIR
+Evaporation Rate & Reference:FASTER THAN ETHER
+Percent Volatiles by Volume:85%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:TEMPERATURES >120F, HEAT, SPARKS, PILOT
+    LIGHTS, OPEN FLAME, SUNLIGHT OR OTHER SOURCE OF IGNITION
+Hazardous Decomposition Products:HAZARDOUS FUMES CONTAINING, CO2, CO,
+    HYDROGEN CHLORIDE & TRACES OF PHOSGENE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DON'T INCINERATE. DISPOSE OF IN ACCORDANCE
+    W/FEDERAL, STATE & LOCAL REGULATIONS. DON'T PLACE AEROSOL CANS IN
+    HOME COMPACTOR. DON'T PUNCTURE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

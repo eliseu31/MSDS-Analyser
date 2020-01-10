@@ -1,0 +1,131 @@
+=====================  Product Identification  =====================
+
+Product ID:560 LAMINATING RESIN
+MSDS Date:08/08/1988
+FSC:8030
+NIIN:00F019193
+MSDS Number: BLPPZ
+=== Responsible Party ===
+Company Name:FIBRE GLASS-EVERCOAT CO INC
+Address:6600 CORNELL RD
+City:CINCINNATI
+State:OH
+ZIP:45242
+Info Phone Num:(513) 489-7600
+Emergency Phone Num:(800) 543-4530
+CAGE:18731
+=== Contractor Identification ===
+Company Name:FIBRE GLASS-EVERCOAT CO INC
+Address:6600 CORNELL ROAD
+Box:City:CINCINNATI
+State:OH
+ZIP:45242
+Country:US
+Phone:513-489-7600
+CAGE:18731
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:STYRENE, MONOMER  (SARA III)
+CAS:100-42-5
+RTECS #:WL3675000
+Fraction by Wt: <40%
+Other REC Limits:50 PPM
+OSHA PEL:100 PPM
+ACGIH TLV:S,50PPM/100STEL;9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:UNSATURATED POLYESTER RESIN
+Fraction by Wt: >60%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:SKIN: DEFATTING, DRYNESS, IRRITATION,
+    DERMATITIS, STYRENE ABSORPTION IN TOXIC AMOUNTS. EYES: TEARING &
+    IRRITATION. INHALATION: NOSE, THROAT, & RESPIRATORY TRACT
+    IRRITATION, HEADACHE, NAUSEA, LIVER & K IDNEY DAMAGE. INGESTION:
+    GASTROINTESTINAL DISTURBANCES, PAIN, DISCOMFORT, & ASPIRATION
+    HAZARD.
+Explanation of Carcinogenicity:STYRENE IS A SUSPECTED 2B HUMAN
+    CARCINOGEN.
+Effects of Overexposure:SKIN: DEFATTING, DRYNESS, IRRITATION,
+    DERMATITIS, STYRENE ABSORPTION IN TOXIC AMOUNTS. EYES: TEARING &
+    IRRITATION. INHALATION: NOSE, THROAT, & RESPIRATORY TRACT
+    IRRITATION, HEADACHE, NAUSEA, LIVER, &  KIDNEY DAMAGE. INGESTION:
+    GASTROINTESTINAL DISTURBANCES, PAIN, DISCOMFORT, & ASPIRATION
+    HAZARD.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: WASH W/SOAP & WATER. EYES: FLUSH W/WATER FOR 15 MIN.
+    INHALATION: REMOVE TO FRESH AIR. IF UNCONSCIOUS, GIVE ARTIFICIAL
+    RESPIRATION OR OXYGEN IF NEEDED. INGESTION: DON'T INDUCE VOMITING.
+    ASPIRATIO N HAZARD. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:89F
+Lower Limits:1.1%
+Upper Limits:6.1%
+Extinguishing Media:WATER SPRAY, FOAM, DRY CHEMICAL, OR CO2
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:AT ELEVATED TEMPERATURES, POLYMERIZATION
+    MAY TAKE PLACE. IF CONTAINED, VIOLENT RUPTURE MAY RESULT. FLAMMABLE
+    LIQUID.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE SOURCES OF IGNITION. ABSORB SPILL
+    W/ABSORBENT MATERIAL SUCH AS VERMICULITE OR SAND.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T STORE >100F. STORE ONLY ORIGINAL
+    CONTAINERS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE A CANISTER TYPE RESPIRATOR FOR VAPORS/SPRAY
+    MISTS IF >TLV. WEAR A DUST MASK WHEN SANDING CURED PRODUCT.
+Ventilation:GENERAL DURING NORMAL USE
+Protective Gloves:PLASTIC OR CHEMICAL RESISTANT
+Eye Protection:FACE SHIELD OR CHEMICAL GOGGLES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:295F
+Vapor Pres:4.3
+Vapor Density:>AIR
+Spec Gravity:1.1
+Evaporation Rate & Reference:SLOWER THAN BU AC
+Solubility in Water:INSOLUBLE
+Appearance and Odor:FLUID W/SHARP AROMATIC ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS & OXIDIZING AGENTS
+Stability Condition to Avoid:HEAT, DIRECT SUNLIGHT, TEMPERATURES >100F,
+    & OTHER SOURCES OF IGNITION
+Hazardous Decomposition Products:ACRID FUMES
+Conditions to Avoid Polymerization:AT ELEVATED TEMPERATURES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:SMALL QUANTITIES CAN BE REACTED W/APPROPRIATE
+    HARDENER TO SOLIDIFY. DISPOSE OF IN ACCORDANCE W/FEDERAL, STATE, &
+    LOCAL REGULATIONS. FLAMMABLE LIQUID.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

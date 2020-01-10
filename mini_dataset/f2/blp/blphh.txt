@@ -1,0 +1,109 @@
+=====================  Product Identification  =====================
+
+Product ID:KAPTON POLYIMIDE FILM
+MSDS Date:02/04/1991
+FSC:5970
+NIIN:01-184-3234
+MSDS Number: BLPHH
+=== Responsible Party ===
+Company Name:DU PONT E I DE NEMOURS & CO INC
+Address:1007 MARKET STREET
+Box:1635
+City:WILMINGTON
+State:DE
+ZIP:19899
+Country:US
+Info Phone Num:800-441-3637(MEDICAL) OR CHEMTREC
+Emergency Phone Num:800-441-7515
+Preparer's Name:W.H. MARTIN
+CAGE:18873
+=== Contractor Identification ===
+Company Name:E.I. DUPONT DE NEMOURS & CO
+Address:1007 MARKET STREET
+Box:City:WILMINGTON
+State:DE
+ZIP:19898
+Country:US
+Phone:800-441-7515;800-441-9442
+CAGE:18873
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DIMETHYL ACETAMIDE
+CAS:127-19-5
+RTECS #:AB7700000
+Fraction by Wt: <1%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:S, 10 PPM
+ACGIH TLV:S, 10 PPM; 9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:POLYMER DUST MAY CAUSE IRRITATION OF
+    THE EYES AND RESPIRATORY TRACT.
+Effects of Overexposure:IRRITATION MAY RESULT FROM POLYMER DUST.
+Medical Cond Aggravated by Exposure:NONE KNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:FOR PROLONGED SKIN CONTACT, WASH WITH SOAP AND WATER.  FLUSH
+    EYES WITH WATER. CONSULT A PHYSICIAN IF NECESSARY.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER, CARBON DIOXIDE, FOAM, DRY CHEMICAL.
+Fire Fighting Procedures:THIS PRODUCT CHARS BUT DOES NOT BURN IN AIR.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:PICK UP TO PREVENT SLIPPING HAZARDS.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM FLAMMABLE MATERIALS.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT REQUIRED FOR NORMAL PROCESSING.
+Ventilation:LOCAL EXHAUST FOR OPERATIONS ABOVE 200C.
+Protective Gloves:RECOMMENDED.
+Eye Protection:SAFETY GLASSES RECOMMENDED.
+Other Protective Equipment:NOT REQUIRED.
+Work Hygienic Practices:NO SPECIAL REQUIREMENTS.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Melt/Freeze Pt:M.P/F.P Text:NONE
+Spec Gravity:>1.4
+Solubility in Water:INSOLUBLE
+Appearance and Odor:TRANSPARENT FILM, LIGHT AMBER COLOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE KNOWN.
+Stability Condition to Avoid:TEMPERATURES ABOVE 400C.
+Hazardous Decomposition Products:OVER 400C, CARBON MONOXIDE AND CARBON
+    DIOXIDE ARE EMITTED.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:LANDFILL OR INCINERATE IN COMPLIANCE WITH
+    FEDERAL, STATE, AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

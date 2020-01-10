@@ -1,0 +1,142 @@
+=====================  Product Identification  =====================
+
+Product ID:URALITE 3140 PART A
+MSDS Date:12/09/1987
+FSC:8010
+NIIN:00N020791
+Kit Part:Y
+MSDS Number: BLMDR
+=== Responsible Party ===
+Company Name:HEXCEL CORPORATION
+Address:20701-NORDHOFF STREET
+Box:2197
+City:CHATSWORTH
+State:CA
+ZIP:91311
+Info Phone Num:818-882-3022
+Emergency Phone Num:800-433-5072 800-367-7527
+CAGE:01490
+=== Contractor Identification ===
+Company Name:HEXCEL CORPORATION;CHEMICAL PRODUCTS DIVISION
+Address:20701-NORDHOFF STREET
+Box:2197
+City:CHATSWORTH
+State:CA
+ZIP:91311-5924
+Country:US
+Phone:818-882-3022
+CAGE:01490
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYLENE BIS(4-CYCLOHEXYLISOCYANATE)
+CAS:5124-30-1
+RTECS #:NQ9250000
+Fraction by Wt: 10-20%
+OSHA PEL:C, 0.01 PPM
+ACGIH TLV:0.005 PPM; 9192
+
+Ingred Name:HEXAMETHYLENE, DIISOCYANATE POLYMER; (POLYPROPYLENE
+    POLYETHYLENE POLYGLYCOL)
+CAS:68310-52-1
+Fraction by Wt: 80-90%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:STRONG IRRITANT AND SENSITIZER. CAN
+    CAUSE DERMATITIS.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:PRE-EXISTING EYE, SKIN, AND
+    RESPIRATORY DISORDERS MAY BE AGGRAVATED BY EXPOSURE TO THIS
+    PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: PROMPT WASHING WITH SOAP AND WATER. INGEST: CALL A
+    PHYSICIAN AT ONCE. INDUCE VOMITING UPON ADVICE OF A PHYSICIAN. EYE:
+    FLUSH PROMPTLY WITH CLEAR WATER FOR 15 MINUTES. CALL PHYSICIAN.
+    INHALATION:  TREAT SYMPTOMATICALLY; VASO-DILATORS, FRESH AIR,
+    OXYGEN. CALL A PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:300F,149C
+Extinguishing Media:CO2 OR DRY CHEMICAL FOR SMALL FIRES. WATER AND FOAM
+    FOR LARGE FIRES.
+Fire Fighting Procedures:VAPORS ARE EXCEEDINGLY IRRITATING WHEN
+    INHALED. USE A NIOSH/MSHA SCBA & FULL PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA THOROUGHLY. SPILLED COMPOUND
+    SHOULD BE ABSORBED IN SAWDUST OR OTHER ABSORBANTS. STORE
+    TEMPORARILY IN AN OPEN CONTAINER. TREAT WITH A SOLUTION OF WATER,
+    AMMONIA, AND ISOPROPANOL BEFORE D ISPOSAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL DRY AREA IN TIGHTLY
+    CLOSED CONTAINERS. DO NOT BREATHE VAPORS.
+Other Precautions:AVOID CONTACT WITH SKIN OR CLOTHING. CONTAMINATED
+    CLOTHING MUST BE LAUNDERED BEFORE WEARING. CONTAMINATED SHOES MUST
+    BE THOROUGHLY CLEANED OR DISCARDED. CAUTION: MIXED UNCURED COMPOUND
+    WILL STAY BROWN .
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NEEDED IN NORMAL APPLICATIONS. IN CASE OF
+    NEED, USE NIOSH/MSHA APPROVED AIR SUPPLIED MASK OR RESPIRATOR WITH
+    CANISTER FOR ORGANIC VAPORS.
+Ventilation:LOCAL EXHAUST: IF HANDLED INDOORS, PROVIDE MECHANICAL
+    EXHAUST VENTILATION.
+Protective Gloves:RUBBER OR NEOPRENE GLOVES.
+Eye Protection:CHEM WORK GOG/FULL LENGTH FACESHLD
+Other Protective Equipment:RUBBER OR PLASTIC COVERALLS.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+KEY1: N1. THIS ENTRY IS FOR PART A OF A TWO PART KIT. SEE THIS SAME
+    NSN, P/N IND B, FOR PART B DATA. WASTE DISP METH: ENVIRONMENTAL
+    WASTE DISPOSAL CONTRACTOR. RCRA HAZARDOUS WASTE NUMBER: DBP U-069.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V4
+Vapor Pres:<0.0005
+Spec Gravity:1.029
+Evaporation Rate & Reference:ESSENTIALLY NON-VOLATILE.
+Solubility in Water:INSOLUBLE
+Appearance and Odor:PALE AMBER-FAINTLY SWEET ODOR.
+Percent Volatiles by Volume:<1.0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTACT WITH WATER, ALCOHOLS, STRONG BASES, METAL COMPOUNDS, AND
+    SURFACE ACTIVE MATERIALS.
+Stability Condition to Avoid:HEAT.
+Hazardous Decomposition Products:COMBUSTION MAY RESULT IN CARBON
+    MONOXIDE, CARBON DIOXIDE AND OXIDES OF NITROGEN; MAY INCLUDE TRACES
+    OF HCN.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONT IN SEALED CNTNRS. DISP OF IN CHEM WASTE
+    LANDFILL/USE CONTROLLED INCINERATION. DISP MUST BE I/A/W ALL FED,
+    ST, & LOCAL ENVIRONMENTAL CNTRL REGS W/RESPECT TO HLTH, WATER,
+    LAND, OR AIR POLLUTION. IF	QUESTIONS ARISE, CONSULT CERTIFIED
+    (SUPP DATA)
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

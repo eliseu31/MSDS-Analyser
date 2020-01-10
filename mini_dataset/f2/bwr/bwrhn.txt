@@ -1,0 +1,177 @@
+=====================  Product Identification  =====================
+
+Product ID:ADHESIVE, PART A
+MSDS Date:04/29/1992
+FSC:8040
+NIIN:01-375-6502
+Kit Part:Y
+MSDS Number: BWRHN
+=== Responsible Party ===
+Company Name:CHEMICAL COMMODITIES AGENCY
+Address:27447 PACIFIC STREET
+City:HIGHLAND
+State:CA
+ZIP:92346
+Country:US
+Info Phone Num:714-864-2310
+Emergency Phone Num:714-793-1994
+CAGE:60777
+=== Contractor Identification ===
+Company Name:CHEMICAL COMMODITIES AGENCY, INC.
+Address:27447 PACIFIC STREET
+Box:City:HIGHLAND
+State:CA
+ZIP:92346-2640
+Country:US
+Phone:909-864-2310
+CAGE:60777
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:AMORPHOUS SILICA (SILICON DIOXIDE, SILICA)
+CAS:112945-52-5
+RTECS #:VV7318000
+Fraction by Wt: 1.4%
+Other REC Limits:6.000 MG/M3
+
+Ingred Name:ETHYL ACETATE (ETHYL ETHANOATE) (CERCLA)
+CAS:141-78-6
+RTECS #:AH5425000
+Fraction by Wt: 22.1%
+Other REC Limits:400.000 PPM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ACETONE (DIMETHYL KETONE) (SARA 313) (CERCLA)
+CAS:67-64-1
+RTECS #:AL3150000
+Fraction by Wt: 7.8%
+Other REC Limits:750.000 PPM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:PETROLEUM NAPHTHA 1
+CAS:8030-30-6
+RTECS #:DE3030000
+Fraction by Wt: 15.4%
+Other REC Limits:300.000 PPM
+
+Ingred Name:TOLUENE (METHYL BENZENE) (SARA III) (CERCLA)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 24.0%
+Other REC Limits:50.000 PPM
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:HEXANE (N-HEXANE) (CERCLA)
+CAS:110-54-3
+RTECS #:MN9275000
+Fraction by Wt: 9.7%
+Other REC Limits:50.000 PPM
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:NUMBERS SHOWN REPRESENT THE LOWER OF THE US OSHA PEL OR
+    ACGIH TLV VALUES.  TLV FOR VAPOR IS 98.470 PPM.
+RTECS #:9999999ZZ
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LC50 (INHAL) 1500-2500 PPM/500-2500MG/M3
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:CONTACT: INGREDIENT CAUSES EYE AND/OR
+    SKIN IRRITATION. CORROSION: INGREDIENT CAUSES POSSIBLY IRREVERSIBLE
+    EYE BURNS. INHALATION: HAZARDOUS IF INHALED. CHRONIC: LONG TERM
+    OVEREXPOSURE TO THE HAZARDOUS  MATERIALS IN THIS PRODUCT HAVE BEEN
+    ASSOCIATED WITH DERMATITIS, KIDNEY, AND LIVER DAMAGE, POTENTIAL
+    EMBRYOTOXICITY.
+Effects of Overexposure:IRRITATION, DIZZINESS, GIDDINESS, WEAKNESS,
+    DROWSINESS, LETHARGY, BREATHING DIFFICULTIES, DEFATTING, HEADACHE,
+    INCOORDINATION, NAUSEA, DIARRHEA, VOMITING, NARCOSIS.	       
+		   TARGET  ORGANS: EYES, HEART, KIDNEYS, LIVER,
+    RESPIRATORY SYSTEM, SKIN, LUNG.
+Medical Cond Aggravated by Exposure:SKIN ALLERGY, CARDIOVASCULAR
+    DISEASE
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: IF INHALED, REMOVE TO FRESH AIR. IF NOT BREATHING
+    GIVE ARTIFICIAL RESPIRATION, PREFERABLY MOUTH TO MOUTH. IF
+    BREATHING IS DIFFICULT, GIVE OXYGEN. CALL A PHYSICIAN. CONTACT: IN
+    CASE OF CONT ACT, IMMEDIATELY FLUSH EYES WITH PLENTYOF WATER FOR AT
+    LEAST 15 MINUTES. CALL A PHYSICIAN. IN CASE OF FIRE USE
+    EXTINGUISHING AGENTS RECOMMENDED.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:-5F,-21C
+Lower Limits:1.47
+Upper Limits:8.92
+Extinguishing Media:WATER SPRAY, FOAM, DRY CHEMICAL, CARBON DIOXIDE
+Fire Fighting Procedures:USE SELF-CONTAINED BREATHING APPARATUS.
+    PROTECTIVE CLOTHING. BE CAREFUL WHEN USING WATER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WARNING, EXTREMELY FLAMMABLE. ELIMINATE
+    IGNITION SOURCES. SOAK UP LIQUID W/ABSORBENT MAT'L
+    (SAND,EARTH,SWEEPING COMPOUND,OTHER ABSORBENT MAT'L). PACKAGE
+    ABSORBENT MAT'L OR SOLID PRODUCT IN STEEL DRUMS  WHICH ARE IN GOOD
+    CONDITION. CLEAN AREA OF SPILL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL LOCATION (60-80F)AWAY
+    FROM SUNLIGHT AND ANY SOURCE OF HEAT,SPARKS,FLAME. KEEP CONTAINER
+    TIGHTLY CLOSED WHEN NOT BEING USED.
+Other Precautions:USE WITH ADEQUATE VENTILATION. AVOID PROLONGED OR
+    REPEATED BREATHING OF VAPORS. AVOID SKIN CONTACT. USE IN AN AREA
+    FREE FROM FLAMES AND SPARKS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:LOCAL EXHAUST IS PREFERRED TO KEEP VAPORS/PARTICULATES
+    BELOW THE TLV VALUE. MECHANICAL AREA WIDE VENT ACCEPTABLE.
+Protective Gloves:NEOPRENE RBBR,NITRILE,IMPERVIOUS PLASTIC
+Eye Protection:SAFETY GLASSES OR FULL FACE SHIELD
+Other Protective Equipment:SAFETY SHOWER AND EYE BATH
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:133 TO 232F
+Vapor Pres:83
+Vapor Density:3.05
+Spec Gravity:0.88
+Evaporation Rate & Reference:4.9 (BU AC=1)
+Solubility in Water:9.4%
+Appearance and Odor:A BUFF COLORED LIQUID WITH AN ESTER ODOR.
+Percent Volatiles by Volume:86.3
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS. STRONG ALKALIS. STRONG ACIDS. AMINES. NITRATEES.
+Hazardous Decomposition Products:UNKNOWN (COMPLEX NATURE OF
+    MAT'L).CO2,CO,WATER VAPOR,NITROGEN OXIDES,VARIETY OF
+    INNOCUOUS/TOXIC FUME,HYDROGEN CHLORIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN ACCORD W/FED,STATE,LOCAL RULES.STATE
+    & LOCAL REQUIREMENTS MAY DIFFER WIDELY FROM FED RULES.IF UNALTERED
+    OR MIXED W/OTHER MAT'LS, CONTAINS BENZENE (EPA HZD: D018).
+    HAZARDOUS WASTE REMOVAL CO NTRACTOR ABLE TO ASSIST. EPA WASTE
+    D001IGNITABLE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

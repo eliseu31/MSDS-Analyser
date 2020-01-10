@@ -1,0 +1,129 @@
+=====================  Product Identification  =====================
+
+Product ID:146 3256;EKTACHEM HDL CHOLESTROL REAGENT
+MSDS Date:01/05/1994
+FSC:6750
+NIIN:01-286-7586
+MSDS Number: BWRFV
+=== Responsible Party ===
+Company Name:EASTMAN KODAK CO.
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-722-5151
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 90-95%
+
+Ingred Name:MAGNESIUM CHLORIDE
+CAS:7786-30-3
+Fraction by Wt: 5-10%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT) IS 2800MG/KG(INGRED#2)
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION/SKIN/INGESTION: LOW HAZARD
+    FOR EXPECTED HANDLING. EYES: MAY CAUSE IRRITATION.
+Explanation of Carcinogenicity:THERE ARE NO INGREDIENTS ABOVE 0.1%
+    WHICH ARE IDENTIFIED AS CARCINOGENS BY NTP,IARC OR OSHA.
+Effects of Overexposure:EYES:TRANSCIENT IRRITATION.
+Medical Cond Aggravated by Exposure:UNLIKELY TO AGGRIVATE EXISTING
+    MEDICAL CONDITIONS UNDER NORMAL CONDITIONS OF USE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:REMOVE CONTAMINATED CLOTHING;WASH WITH SOAP AND
+    WATER.GET MEDICAL ATTENTION IF SYMPTOMS OCCUR.EYES:FLUSH WITH WATER
+    FOR 15 MINUTES.GET MEDICAL ATTENTION.INHAL:REMOVE TO FRESH AIR.GIVE
+    OXYGEN OR A RTIFICIAL RESPIRATION IF NEEDED.INGEST:DO NOT INDUCE
+    VOMITING.GET PROMPT QUALIFIED MEDICAL ATTENTION.IF CONSCIOUS,GIVE
+    1-2 GLASSES OF WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE MEDIA APPROPRIATE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:USE A SELF-CONTAINED BREATHING APPARATUS AND
+    FULL PROTECTIVE EQUIPMENT.
+Unusual Fire/Explosion Hazard:FIRE CONDITIONS MAY EVOLVE TOXIC FUMES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SOAK UP WITH NON-COMBUSTIBLE INERT
+    ADSORBANT(EG.CLAY);PLACE COLLECTED MATERIAL IN AN APPROPRIATE
+    CONTAINER FOR DISPOSAL;CLEAN SPILL AREA TO REMOVE
+    SLIPPERINESS.SMALL SPILLS CAN BE FLUSHED TO A SANITAR Y SEWER WITH
+    PLENTY OF WATER.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE BELOW 8C(46F).KEEP CONTAINER
+    CLOSED WHEN NOT IN USE.
+Other Precautions:FOLLOW LABEL DIRECTIONS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NEEDED IN NORMAL SERVICE.
+Ventilation:DILUTION VENTILATION (TYPICALLY 10 AIR CHANGES PER HOUR).
+Protective Gloves:IMPERVIOUS GLOVES.
+Eye Protection:SAFETY GLASSES OR GOGGLES
+Other Protective Equipment:PROVIDE A LOCAL EYE WASH STATION AND SAFETY
+    SHOWER.
+Work Hygienic Practices:USE REASONABLE CARE IN HANDLING THIS
+    PRODUCT.WASH HANDS AFTER USE AND BEFORE EATING.
+Supplemental Safety and Health
+HMIS NOTES THAT NO TIR OR CTDF WAS AVAILABLE AT THE TIME THIS RECORD
+    WAS MADE.ALSO NOTE THAT THE KODAK PART NUMBERS ARE 146 3256-FOR 100
+    TUBES AND 148 0664-FOR 27 TUBES;KAN 444098(FOR BOTH ITEMS).
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:>212F,>100C
+Vapor Pres:18
+Vapor Density:0.6
+Spec Gravity:1.0
+Solubility in Water:COMPLETE
+Appearance and Odor:LIQUID;COLORLESS;ODORLESS
+Percent Volatiles by Volume:90-95
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:HYDROGEN CHLORIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH FEDERAL,STATE AND
+    LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

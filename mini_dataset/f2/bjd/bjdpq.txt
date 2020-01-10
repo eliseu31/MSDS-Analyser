@@ -1,0 +1,135 @@
+=====================  Product Identification  =====================
+
+Product ID:NYE CLOCK OIL 140B
+MSDS Date:03/01/1993
+FSC:9150
+NIIN:01-229-3237
+MSDS Number: BJDPQ
+=== Responsible Party ===
+Company Name:WILLIAM F NYE INC
+Address:12 HOWLAND ROAD
+City:FAIRHAVEN
+State:MA
+ZIP:02719
+Country:US
+Info Phone Num:508-996-6721; 508-758-4408
+Emergency Phone Num:508-996-6721; 508-758-4408
+CAGE:98354
+=== Contractor Identification ===
+Company Name:MISC INC
+Address:1928 GREENWOOD ST
+Box:3823
+City:HARRISBURG
+State:PA
+ZIP:17105-3823
+Country:US
+Phone:717-232-4719
+CAGE:1CN60
+Company Name:NYE LUBRICANTS INC
+Address:12 HOWLAND RD
+Box:City:FAIR HAVEN
+State:MA
+ZIP:02719
+Country:US
+Phone:508-996-6721
+CAGE:98354
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NO INGREDIENT FOR THIS FORMULATION_INGREDIENT
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE-INGESTION:LOW TOXICITY. MAY
+    CAUSE GI TRACT IRRITATION. INHALATION:INHALATION OF
+    MIST/VAPORS/FUMES MAY CAUSE RESPIRATORY TRACT IRRITATION. SMALL
+    AMOUNT ASPIRATED INTO LUNGS MAY CAUSE CHEMICAL PNE UMONITIS.
+    EYE:IRRITATION. SKIN:REPEATEDCONTACT MAY CAUSE IRRITATION.
+    CHRONIC:DERMATITIS, OIL ACNE OR FOLLICULITIS.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:IRRITATION.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:REMOVE CONTAMINATED CLOTHING. WASH WITH SOAP AND WATER.
+    GET MEDICAL ATTENTION IF IRRITATION PERSISTS. INHALATION:REMOVE TO
+    FRESH AIR & RESTORE BREATHING IF NECESSARY. GET MEDICAL ATTENTION.
+    EYE:I MMEDIATELY FLUSH WITH WATER FOR 15 MINUTES WHILE HOLDING
+    EYELIDS OPEN. GET MEDICAL ATTENTION. INGESTION:GET IMMEDIATE
+    MEDICAL ATTENTION. DO NOT INDUCE VOMITING. NOTHING BY MOUTH IF
+    UNCONSCIOUS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:350F,177C
+Extinguishing Media:CO2, FOAM, DRY CHEMICAL, WATER SPRAY
+Fire Fighting Procedures:AVOID SMOKE INHALATION. WATER SPRAY MAY CAUSE
+    FROTHING.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE FREE LIQUID. ADD ABSORBENT (SAND,
+    EARTH, SAWDUST) TO SPILL AREA. REMOVE ABSORBENT AND SAVE FOR
+    DISPOSAL. WASH WALKING SURFACES W/SOAP & WATER TO REDUCE SLIPPING.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:ORDINARY CARE IN HANDLING CHEMICALS.
+Other Precautions:AVOID CONTAM. OF CIGARETTES OR OTHER TOBACCO PROD.
+    WASH HANDS BEFORE SMOKING. SMALL PERCENTAGES OF POPULATION MAY
+    DISPLAY UNEXPECTED ALLERGIC SKIN REACTIONS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY REQUIRED. USE NIOSH APPROVED
+    SELF-CONTAINED BREATHING APPARATUS IF TLV IS EXCEEDED OR WHEN
+    SPRAYING OR USING IN CONFINED SPACES.
+Ventilation:GENERAL
+Protective Gloves:YES FOR PROLONGED SKIN CONTACT
+Eye Protection:SAFETY GLASSES, IF SPLASH IS LIKELY
+Other Protective Equipment:NOT NEEDED
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Melt/Freeze Pt:M.P/F.P Text:-55F,-48C
+Vapor Pres:NEGLIGIBLE
+Vapor Density:> AIR
+Spec Gravity:0.88
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:INSOLUBLE
+Appearance and Odor:LIGHT YELLOW LUBRICATING OIL WITH VERY MILD ODOR.
+Percent Volatiles by Volume:NONE
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING MATERIALS.
+Stability Condition to Avoid:PYROLYSIS
+Hazardous Decomposition Products:BURNING MAY PRODUCE CARBON MONOXIDE AS
+    WELL AS SMALL AMOUNTS OF OTHER TOXIC FUMES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:MANY STATES CLASSIFY WASTE LUBES AS 'HAZARDOUS',
+    WHICH MEANS DISPOSAL ONLY BY A LICENSED FIRM. CONSULT LOCAL, STATE
+    & FEDERAL REGULATION IN YOUR AREA.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

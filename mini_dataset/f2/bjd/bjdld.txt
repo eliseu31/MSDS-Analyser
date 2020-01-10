@@ -1,0 +1,141 @@
+=====================  Product Identification  =====================
+
+Product ID:ALUPENT BRONCHODILATOR
+MSDS Date:04/01/1988
+FSC:6505
+NIIN:01-311-8441
+MSDS Number: BJDLD
+=== Responsible Party ===
+Company Name:BOEHRINGER INGELHEIM PHARMACEUTICALS INC.
+Address:90 EAST RIDGE
+Box:368
+City:RIDGEFIELD
+State:CT
+ZIP:06877
+Country:US
+Info Phone Num:203-798-9988
+Emergency Phone Num:203-798-5521
+CAGE:55391
+=== Contractor Identification ===
+Company Name:BOEHRINGER INGELHEIM INC.
+Address:175 BRIAR RIDGE RD.
+Box:1160
+City:DANBURY
+State:CT
+ZIP:06810
+Phone:203-798-9988
+CAGE:55391
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BENZYL ALCOHOL,3,5-DIHYDROXY-ALPHA-(ISOPROPYL AMINO)
+    METHYL-SULFATE (2:1) (SALT) OR METAPROTERENOL SULFATE OR ALUPENT
+CAS:5874-97-5
+RTECS #:DO2275000
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:SOYA LECITHIN
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:TRICHLOROFLUOROMETHANE  (CFC-11)  (SARA III)
+CAS:75-69-4
+RTECS #:PB6125000
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:1000 PPM
+ACGIH TLV:C, 1000 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+Ozone Depleting Chemical:1
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 ORAL RAT = 5538 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE EFFECTS:EYE, SKIN AND/OR
+    RESPIRATORY IRRITATION. CHRONIC EXPOSURE:POSSIBLE
+    HYPERSENSITIZATION.
+Effects of Overexposure:POSSIBLE ALLERGIC REACTION TO DUST IF INHALED,
+    INGESTED OR IN CONTACT WITH SKIN, TACHYCARDIA, HYPERTENSION,
+    PALPITATIONS, NERVOUSNESS, TREMOR, NAUSEA, VOMITING.
+Medical Cond Aggravated by Exposure:HYPERSENSITIVITY TO MATERIAL,
+    HYPERTENSION, CORONARY ARTERY DISEASE, CONGESTIVE HEART FAILURE,
+    HYPERTHYROIDISM, DIABETES.
+
+=======================  First Aid Measures  =======================
+
+First Aid:FIRST AID-EYE CONTACT:FLUSH WITH PLENTY OF WATER.SEE DOCTOR
+    IMMEDIATELY.SKIN CONTACT:REMOVE CONTAMINATED CLOTHING.WASH WITH
+    SOAP AND WATER.IF IRRITATION PERSISTS.SEE DOCTOR.INHALATION:REMOVE
+    TO FRESH  AIR.GIVE OXYGEN/CPR IF NEEDED,SEE DOCTOR.INGESTION:FLUSH
+    MOUTH WITH WATER.SEE DOCTOR.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL AS APPROPIATE FOR SURROUNDING FIRE AND MATERIALS.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:DUST MAY BE EXPLOSIVE IF MIXED WITH AIR
+    IN CRITICAL PROPORTIONS AND IN THE PRESENCE OF AN IGNITION SOURCE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR APPROVED RESPIRATOR AND GLOVES. VACUUM OR
+    SWEEP UP SPILLAGE. AVOID CREATING DUST. PLACE SPILLAGE IN
+    APPROPIATE CONTAINER FOR WASTE DISPOSAL. WASH CONTAMINATED CLOTHING
+    BEFORE REUSE. VENTILATE ARE A AND WASH SPILL SITE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN AIRTIGHT CONTAINER. PROTECT
+    FROM LIGHT AND EXTREME HEAT. USE WITH ADEQUATE DUST CONTROL.
+Other Precautions:AVOID CONTACT WITH EYES, SKIN OR CLOTHING. AVOID
+    BREATHING DUST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY REQUIRED.
+Ventilation:MECHANICAL (GENERAL) VENTILATION.
+Protective Gloves:NONE NORMALLY REQUIRED.
+Eye Protection:SAFETY GOGGLES.
+Other Protective Equipment:IF DUST HAZARD EXIST, AN EYEWASH FOUNTAIN
+    SHOULD BE MADE AVAILABLE.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.LAUNDER
+    CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+MAINTAIN GOOD HOUSEKEEPING FOR CONTROL OF DUST. MECHANICAL EQUIPMENT
+    WHICH COMES IN CONTACT WITH DRY MATERIAL SHOULD BE GROUNDED TO
+    DISSIPATE THE POTENTIAL BUILDUP OF STATIC ELECTRICITY.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V2
+Melt/Freeze Pt:M.P/F.P Text:401F(POWDR)
+Solubility in Water:COMPLETE
+Appearance and Odor:MICRONIZED POWDER IN AEROSOL CONTAINER.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ALKALIES, HEAVY METAL IONS AND OXIDIZING AGENTS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:WHEN HEATED TO DECOMPOSITION OR UNDER
+    FIRE CONDITIONS, MATERIAL EMITS TOXIC FUMES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTACT YOUR LOCAL ENVIRONMENTAL OFFICER.DO NOT
+    PUNCTURE OR INCINERATE CONTAINER.GIVE TO DISPOSAL SERVICE.DISPOSE
+    OF IN ACCORDANCE WITH FEDERAL,STATE AND LOCAL ENVIRONMENTAL
+    REGULATIONS.RECOMMENDED ME THOD IS BY INCINERATION.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

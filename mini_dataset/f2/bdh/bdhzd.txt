@@ -1,0 +1,46 @@
+=====================  Product Identification  =====================
+
+Product ID:ATR345
+MSDS Date:01/01/1985
+FSC:5960
+NIIN:00-193-5141
+MSDS Number: BDHZD
+=== Responsible Party ===
+Company Name:BOMAC ELECTRONICS INC
+CAGE:50450
+=== Contractor Identification ===
+Company Name:BOMAC ELECTRONICS INC
+CAGE:50450
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:COBALT  (SARA III)
+CAS:7440-48-4
+RTECS #:GF8750000
+OSHA PEL:0.1 MG/M3;AS CO
+ACGIH TLV:0.05 MG/M3;DUST 9293
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:HANDLE BROKEN DEVICE WITH GLOVES & FORCEPS
+
+=============  Exposure Controls/Personal Protection  =============
+
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:A2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTROLLED DISPOSAL REQUIRED
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

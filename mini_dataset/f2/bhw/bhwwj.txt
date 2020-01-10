@@ -1,0 +1,149 @@
+=====================  Product Identification  =====================
+
+Product ID:NATIONAL REFRIGERANT 12
+MSDS Date:06/01/1988
+FSC:6830
+NIIN:00-292-0133
+MSDS Number: BHWWJ
+=== Responsible Party ===
+Company Name:NATIONAL REFRIGERANTS INC
+Address:89 WATER ST
+City:BRIDGETON
+State:NJ
+ZIP:08302-2545
+Country:US
+Info Phone Num:609-455-4555
+Emergency Phone Num:609-455-4555
+CAGE:4J994
+=== Contractor Identification ===
+Company Name:NATIONAL REFRIGERANTS INC
+Address:661 KENYON AVE
+Box:City:BRIDGETON
+State:NJ
+ZIP:08302
+Country:US
+Phone:800-262-0012/215-698-6620
+CAGE:4J994
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DICHLORODIFLUOROMETHANE  (SARA III)
+CAS:75-71-8
+RTECS #:PA8200000
+Fraction by Wt: 100.0%
+OSHA PEL:1000 PPM
+ACGIH TLV:1000 PPM; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+Ozone Depleting Chemical:1
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: VAPOR IS HEAVIER THAN AIR
+    AND CAN CAUSE SUFFOCATION BY REDUCING OXYGEN AVAILABLE FOR
+    BREATHING. BREATHING HIGH CONCENTRATIONS OF VAPOR MAY CAUSE
+    LIGHT-HEADEDNESS, GIDDINESS, SHORTNESS OF B REATH, AND MAY LEAD TO
+    NARCOSIS, CARDIAC IRREGULARITIES, ULNCONSCIOUSNESS OF DEATH.
+    SKIN/EYE: LIQUID CAN DEFAT TISSUE.
+Explanation of Carcinogenicity:DATA PER MSDS
+Effects of Overexposure:BREATHING HIGH CONCENTRATIONS OF VAPOR MAY
+    CAUSE LIGHT-HEADEDNESS, GIDDINESS, SHORTNESS OF BREATH, AND MAY
+    LEAD TO NARCOSIS, CARDIAC IRREGULARITIES, UNCONSCIOUSNESS OR DEATH.
+    LIQUID IS NOT CORROSIVE O R AN IRRITANT, BUT CAN CAUSE DEFATTING OF
+    TISSUE.
+Medical Cond Aggravated by Exposure:SKIN DISEASE - FREON 113 IS A
+    DEFATTING AGENT AND CAN CAUSE DERMATITIS ON PROLONGED EXPOSURE.
+    PERSONS WITH PRE-EXISTING SKIN DISORDERS MAY BE MORE SUSCEPTIBLE TO
+    THE EFFECTS OF THIS AGENT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR, CALL A PHYSICIAN. IF NOT
+    BREATHING, GIVE ARTIFICIAL RESPIRATION.IF BREATHING IS DIFFICULT,
+    GIVE OXYGEN. DO NOT GIVE EPINEPHRINE OR SIMILAR DRUGS. EYE: FLUSH
+    WITH WATER . SKIN: FLUSH WITH WATER. IF IRRITATIONPRESISTS, GET
+    MEDICAL ATTENTION. ORAL: GET MEDICAL ATTENTION IMMEDIATELY. DO NOT
+    INDUCE VOMITING AS THE HAZARD OF ASPIRATING INTO THE LUNGS IS TOO
+    GREAT.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE WATER FOG OR WATER SPRAY
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA. DO NOT FLUSH INTO SEWERS. DIKE
+    SPILL. COLLECT ON ABSORBENT MATERIAL AND TRANSFER TO STEEL DRUMS
+    FOR RECOVERY OR DISPOSAL. COMPLY WITH FEDERAL, STATE AND LOCAL
+    REGULATIONS ON REPORTING  RELEASES.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A CLEAN, COOL, DRY AND
+    WELL-VENTILATED AREA OF LOW FIRE RISK. PROTECT CONTAINERS FROM
+    PHYSICAL DAMAGE AND KEEP CLOSED.
+Other Precautions:AVOID BREATHING VAPOR, LIQUID CONTACT WITH EYES, SKIN
+    OR CLOTHING. TANK-CLEANING PERSONNEL SHOULD USE ONLY FORMAL TANK
+    ENTRY PROCEDURE BASED ON RECOGNIZED SAFETY PRINCIPLES. EMPTY
+    CONTAINERS MAY CONTA IN PRODUCT RESIDUES/VAPORS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED FOR ADEQUATELY VENTED WORK
+    SITUATIONS. FOR ACCIDENTAL OR NON-VENTILATED SITUATIONS, USE A
+    SELF-CONTAINED BREATHING APPARATUS OR SUPPLIED-AIR RESPIRATOR,
+    APPROVED BY NIOSH.
+Ventilation:PROVIDE LOCAL EXHAUST AT FILLING ZONES AND OTHER OPERATING
+    SPACES WHERE LEAKAGE IS PROBABLE. MECHANICAL FOR OTHER.
+Protective Gloves:BUTYL RUBBER, PVA OR NEOPRENE
+Eye Protection:CHEMICAL SPLASH GOGGLES
+Other Protective Equipment:USE IMPERVIOUS CLOTHING IF THERE IS REPEATED
+    OR PROLONGED CONTACT WITH LIQUID.
+Work Hygienic Practices:REMOVE AND WASH CLOTHING PROMPTLY UPON
+    CONTAMINATION.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:G3
+Boiling Pt:B.P. Text:-22F,-30C
+Vapor Pres:94.5 PSIA
+Vapor Density:4.26,AIR=1
+Spec Gravity:1.315
+pH:NEUTR
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:LIQUIFIED GAS,CLEAR,C0LORLESS,SLIGHT ETHEREAL ODOR
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ALKALI OR ALKALINE EARTH METALS-POWDERED AL,ZN,BE ETC.
+Stability Condition to Avoid:HIGH TEMPERATURES, SPARKS, AND OPEN FLAMES
+Hazardous Decomposition Products:DECOMPOSED BY HIGH TEMPERATURES (OPEN
+    FLAMES, GLOWING METAL SURFACES, ETC.) FORMING HYDROCHLORIC AND
+    HYDROFLUORIC ACIDS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:COMPLY WITH FEDERAL, STATE AND LOCAL
+    REGULATIONS. REMOVE TO A PERMITTED WASTE DISPOSAL FACILITY.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,135 @@
+=====================  Product Identification  =====================
+
+Product ID:3120 DEVELOPER
+MSDS Date:11/08/1989
+FSC:6850
+NIIN:00N021368
+MSDS Number: BLMKC
+=== Responsible Party ===
+Company Name:OCE-USA INC
+Address:5450 N CUMBERLAND AVE
+City:CHICAGO
+State:IL
+ZIP:60656
+Country:US
+Info Phone Num:312-338-1700
+Emergency Phone Num:312-338-1700;800-942-5969
+CAGE:5M896
+=== Contractor Identification ===
+Company Name:OCE USA INCORPORATED
+Address:150 N MICHIGAN AVE SUITE 2820
+Box:City:CHICAGO
+State:IL
+ZIP:60601
+Country:US
+Phone:312-338-1700
+CAGE:0M0K8
+Company Name:OCE-USA INC
+Address:5450 N CUMBERLAND AVE
+Box:City:CHICAGO
+State:IL
+ZIP:60656
+Country:US
+Phone:312-338-1700
+CAGE:5M896
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CARBON BLACK
+CAS:1333-86-4
+RTECS #:FF5800000
+Fraction by Wt: <1%
+Other REC Limits:YN/K SPECIFIED
+OSHA PEL:3.5 MG/M3
+ACGIH TLV:3.5 MG/M3; 9192
+
+Ingred Name:IRON POWDER
+Fraction by Wt: >95%
+
+Ingred Name:RESINS
+Fraction by Wt: 1-5%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50:ORAL(RAT)>5 G/KG
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INGEST: NO SIGNIFICANT HAZARD. INHAL:
+    CONSIDERED NO SIGNIFICANT HAZARD. SKIN: SAFE FOR HUMAN SKIN
+    CONTACT. EYES: CONSIDERED NON-IRRITATING.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:INGEST: UNKNOWN. INHAL: DUST MAY CAUSE
+    DISCOMFORT OF UPPER RESPIRATORY SYSTEM. SKIN: NO ADVERSE HEALTH
+    EFFECTS ARE EXPECTED. EYES: DUST MAY CAUSE DISCOMFORT IN THE SAME
+    MANNER AS NUISANCE DUST.
+Medical Cond Aggravated by Exposure:NO CONDITIONS KNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGEST: RINSE MOUTH WITH WATER. IF LARGE QUANTITY SWALLOWED
+    SEEK MED ADVICE. INHAL: CLEAN NOSE, MOUTH, THROAT. COUGH UP. SKIN:
+    NORMAL HYGIENE: WASH WITH WATER AND SOAP. EYES: RINSE WITH PLENTY
+    OF WATE R FOR AT LEAST 15 MIN.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:DRY CHEMICAL, CARBON DIOXIDE, WATER SPRAY(FOG),
+    FOAM.
+Fire Fighting Procedures:NONE. WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:DEVELOPER IS COMBUSTIBLE. LOWER EXPLOSIVE
+    LIMIT FOR DEVELOPER PARTICLES SUSPENDED IN AIR IS APPROX. 135 G/M3.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE WITH A VACUUM CLEANER OR WITH COLD
+    WATER AND SOAP.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:HANDLE CAREFULLY. AVOID BREATHING
+    DUST. STORE COOL AND DRY IN CLOSED PACKING (TO MAINTAIN QUALITY).
+Other Precautions:NONE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NO. USE NIOSH/MSHA APPROVED RESPIRATOR
+    APPROPRIATE FOR EXPOSURE OF CONCERN .
+Ventilation:SEE SAFETY DATA SHEET OR USER'S MANUAL FOR READER/PRINTER.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NO.
+Work Hygienic Practices:AVOID FORMATION AND INHALATION OF DUST. NO
+    SPECIAL PRACTICES ARE NECESSARY.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Solubility in Water:INSOLUBLE
+Appearance and Odor:BLACK POWDER/PRACTICALLY ODORLESS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE.
+Stability Condition to Avoid:NONE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:MATERIAL IS NOT CLASSIFIED HAS HAZ UNDER PRESENT
+    EPA REGS. PLACE IN PLASTIC BAG OR SEALED CONTAINER TO PREVENT DUST
+    & DISPOSE OF BY BURIAL IN SANITARY LANDFILL OR INCINERATION IN
+    ACCORDANCE WITH ANY A PPLICABLE FEDERAL, STATE AND LOCAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

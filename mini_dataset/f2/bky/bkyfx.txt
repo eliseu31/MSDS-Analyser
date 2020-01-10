@@ -1,0 +1,115 @@
+=====================  Product Identification  =====================
+
+Product ID:FRL-3700 LAST-A-FOAM, 55 GAL DRUM
+MSDS Date:10/01/1989
+FSC:9330
+NIIN:00F018567
+MSDS Number: BKYFX
+=== Responsible Party ===
+Company Name:GENERAL PLASTICS MANUFACTURING CO
+Address:4910 BURLINGTON WAY
+Box:9097
+City:TACOMA
+State:WA
+ZIP:98409
+Info Phone Num:(206) 473-5000
+Emergency Phone Num:(206) 473-5000
+CAGE:28014
+=== Contractor Identification ===
+Company Name:GENERAL PLASTICS MFG CO
+Address:4910 BURLINGTON WAY
+Box:9097
+City:TACOMA
+State:WA
+ZIP:98409-2833
+Country:US
+Phone:206-473-5000
+CAGE:28014
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYLENE BISPHENYL ISOCYANATE (MDI)  (SARA III)
+CAS:101-68-8
+RTECS #:NQ9350000
+Fraction by Wt: 50%
+Other REC Limits:0.005 PPM
+OSHA PEL:C, 0.02 PPM
+ACGIH TLV:0.005 PPM; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:HIGHER OLIGOMERS OF MDI, POLYMETHYLENE POLYPHENYLENE
+    POLYISOCYANATE
+CAS:9016-87-9
+RTECS #:TR0350000
+Fraction by Wt: 50%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: MUCOUS MEMBRANE &
+    RESPIRATORY TRACT IRRITATION, TIGHTNESS OF CHEST, COUGHING,
+    HEADACHE, SHORTNESS OF BREATH, & ALLERGENIC SENSITIVITY. SKIN/EYES:
+    IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: MUCOUS MEMBRANES & RESPIRATORY
+    TRACT IRRITATION, TIGHTNESS OF CHEST, COUGHING, HEADACHE, SHORTNESS
+    OF BREATH, & ALLEGENIC SENSITIVITY. SKIN/EYES: IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: WASH W/SOAP & WATER FOR AT LEAST 5 MINS. EYES: FLUSH
+    W/PLENTY OF WATER FOR AT LEAST 15 MINS. INGESTION: INDUCE VOMITING.
+    INHALATION: REMOVE TO FRESH AIR. GIVE OXYGEN IF NEEDED. OBTAIN
+    MEDICAL AT TENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:415F
+Extinguishing Media:CO2, DRY CHEMICAL, FOAM, WATER, OR FOG.
+Fire Fighting Procedures:USE SELF-CONTAINED BREATHING APPARATUS &
+    PROTECTIVE CLOTHING.
+Unusual Fire/Explosion Hazard:CONTAINERS CONTAMINATED W/WATER MAY
+    EXPLODE DUE TO PRESSURE BUILD-UP.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB IN ABSORBENT SWEEPING/CLEANING COMPOUND
+    SUCH AS OIL DRY. REMOVE FROM AREA IN OPEN DRUMS & TREAT W/WATER
+    CONTAINING 1% AMMONIA BEFORE DISPOSAL.
+Neutralizing Agent:1% AMMONIA/WATER SOLUTION
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:PROTECT FROM WATER BY A DRY ATMOSPHERE
+    & MAINTAIN AT 65-75F. VENT WATER CONTAMINATED CONTAINERS TO AVOID
+    PRESSURE BUILD UP.
+Other Precautions:AVOID CONTACT W/SKIN & EYES. MATERIAL HAS A SHELF
+    LIFE OF 6 MONTHS, IF KEPT IN A CLOSED ORIGINAL CONTAINER & STORED
+    PROPERLY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE A CANISTER TYPE GAS MASK EQUIPPED FOR
+    ORGANIC VAPORS, MASKS SUPPLIED FROM AN EXTERNAL AIR SOURCE, OR
+    SELF-CONTAINED BREATHING EQUIPMENT.
+Ventilation:LOCAL EXHAUST: TO KEEP 120F OR <32F, & MOISTURE.
+Hazardous Decomposition Products:CO2
+Conditions to Avoid Polymerization:MOISTURE & MATERIALS WHICH REACT
+    W/ISOCYANATES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

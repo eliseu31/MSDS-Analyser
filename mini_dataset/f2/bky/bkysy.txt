@@ -1,0 +1,135 @@
+=====================  Product Identification  =====================
+
+Product ID:48-3020-0 HEADLINER DEVELOPER
+MSDS Date:02/23/1989
+FSC:6750
+NIIN:01-161-1834
+MSDS Number: BKYSY
+=== Responsible Party ===
+Company Name:VARITYPER
+Address:11 MT PLEASANT AVE
+City:EAST HANOVER
+State:NJ
+ZIP:07936
+CAGE:18544
+=== Contractor Identification ===
+Company Name:VARITYPER
+CAGE:18544
+Company Name:VARITYPER INC., A TEGRA CO.
+Address:11 MOUNT PLEASANT AVE
+Box:City:EAST HANOVER
+State:NJ
+ZIP:07936-2601
+Country:US
+Phone:201-887-8000, 201-884-6378
+CAGE:62812
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM CARBONATE, MONOHYDRATE
+CAS:5968-11-6
+Fraction by Wt: 50-60%
+ACGIH TLV:15 MG/M3
+
+Ingred Name:BORIC ACID, ORTHOBORIC ACID
+CAS:10043-35-3
+RTECS #:ED4550000
+Fraction by Wt: 1-5%
+ACGIH TLV:10 MG/M3
+
+Ingred Name:SODIUM SULFITE
+CAS:7757-83-7
+RTECS #:WE2150000
+Fraction by Wt: 30-40%
+Other REC Limits:5 MG/CUM (DUST)
+
+Ingred Name:HYDROQUINONE  (SARA III)
+CAS:123-31-9
+RTECS #:MX3500000
+Fraction by Wt: 5-10%
+OSHA PEL:2 MG/M3
+ACGIH TLV:2 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION & DAMAGE TO TISSUE.
+    SKIN: IRRITATION. INHALATION: IRRITATION TO NASAL MUCOUS MEMBRANES
+    & RESPIRATORY TRACT. INGESTION: IRRITATION & CORROSION TO THE
+    DIGESTIVE TRACT.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: IRRITATION & DAMAGE TO TISSUE. SKIN:
+    IRRITATION. INHALATION: IRRITATION TO NASAL MUCOUS MEMBRANES &
+    RESPIRATORY TRACT. INGESTION: IRRITATION & CORROSION TO THE
+    DIGESTIVE TRACT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINS. SKIN:
+    WASH THOROUGHLY W/SOAP & WATER FOR AT LEAST 15 MINS. INHALATION:
+    REMOVE TO FRESH AIR. GIVE CPR OR OXYGEN IF NEEDED. INGESTION: DRINK
+    2 OR 4 GL ASSES OF MILK/WATER. OBTAIN MEDICAL ATTENTION IN ALL
+    CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:NONE
+Extinguishing Media:ANY APPLICABLE TO PRIMARY CAUSE OF FIRE
+Fire Fighting Procedures:IF OVERHEATED, WEAR NIOSH APPROVED
+    SELF-CONTAINED BREATHING APPARATUS WHEN ENTERING BUILDING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP DUST & DISPOSE OF IN A SUITABLE
+    CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN WELL VENTILATED AREA. KEEP
+    CONTAINERS CLOSED. KEEP FROM HEAT. DON'T STORE FOOD, DRINK OR
+    TOBACCO NEAR THIS MATERIAL.
+Other Precautions:AVOID CONTACT W/SKIN. OBSERVE ALL PRECAUTIONS FOR
+    HANDLING & STORING. DON'T REUSE CONTAINERS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR NIOSH APPROVED DUST RESPIRATOR WHEN
+    HANDLING POWDER.
+Ventilation:LOCAL EXHAUST IS RECOMMENDED.
+Protective Gloves:LATEX RUBBER OR NEOPRENE WATERPROOF
+Eye Protection:CHEMICAL GOGGLES/GLASSES W/SPLASH SHIELD
+Other Protective Equipment:FULL PROTECTIVE WORK CLOTHING
+Work Hygienic Practices:REMOVE/WASH CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:1.5-2.0
+pH:>7
+Solubility in Water:COMPLETE
+Appearance and Odor:WHITE POWDER
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS OR OXIDIZERS
+Stability Condition to Avoid:HEAT
+Hazardous Decomposition Products:SULFUR DIOXIDE & CO2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

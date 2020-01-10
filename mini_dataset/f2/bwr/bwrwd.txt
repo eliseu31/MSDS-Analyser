@@ -1,0 +1,114 @@
+=====================  Product Identification  =====================
+
+Product ID:476002, CALOMEL ELECTRODE
+MSDS Date:06/13/1991
+FSC:6630
+NIIN:00-164-2404
+MSDS Number: BWRWD
+=== Responsible Party ===
+Company Name:CIBA CORNING DIAGNOSTICS CORP A JOINT VENTURE
+Address:63 NORTH ST
+City:MEDFIELD
+State:MA
+ZIP:02052-2308
+Country:US
+Info Phone Num:508-359-7711 / FAX  508-359-2879
+Emergency Phone Num:508-359-7711/ 800-255-8769
+CAGE:51404
+=== Contractor Identification ===
+Company Name:CIBA CORNING DIAGNOSTICS CORP A JOINT VENTURE
+Address:63 NORTH ST
+Box:City:MEDFIELD
+State:MA
+ZIP:02052-2308
+Country:US
+Phone:508-359-7711/ 800-255-8769
+CAGE:51404
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MERCURY  (SARA III)
+CAS:7439-97-6
+RTECS #:OV4550000
+Fraction by Wt: 90%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:S, C, 0.1 MG/M3
+ACGIH TLV:S, 0.05 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:MERCUROUS CHLORIDE
+CAS:7546-30-7
+RTECS #:OV8750000
+Fraction by Wt: 10%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:0.01 MG HG/M3
+ACGIH TLV:0.01 MG HG/M3
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EXPOSURE OCCURS ONLY IF THE ELECTRODE
+    IS BROKEN. ACUTE EXPOSURE MAY EFFECRT THE LUNGS.
+Explanation of Carcinogenicity:MANUFACTURER GAVE NO INFORMATION ABOUT
+    CARCINOGENICITY. HMIS DOES NOT EXPECT IT TO BE CARCINOGENIC.
+Effects of Overexposure:EXPOSURE CAN OCCUR ONLY IF ELECTRODE IS BROKEN.
+Medical Cond Aggravated by Exposure:MFR GAVE NO INFORMATION ON MSDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:NOT APPLICABLE UNDER NORMAL CONDITIONS.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:NON-FLAMMABLE. USE MEDIA APPROPRIATE FOR
+    SURROUNDING FIRE.
+Unusual Fire/Explosion Hazard:MFR GAVE NO INFORMATION ON MSDS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:IF ELECTRODE IS BROKEN, USE APPROPRIATE
+    MERCURY SPILL KIT.
+Neutralizing Agent:MFR GAVE NO INFORMATION ON MSDS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:HANDLE ELECTRODE W/CARE TO AVOID
+    BREAKAGE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT APPLICABLE UNDER NORMAL CONDITIONS.
+Protective Gloves:RECOMMENDED
+Eye Protection:RECOMMENDED
+Work Hygienic Practices:MFR:?.	HMIS:USE GOOD CHEMICAL HYGIENE
+    PRACTICES. AVOID CONTACT IF POSSIBLE. WASH THOROUGHLY AFTER
+    HANDLING.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+NRC/State Lic Num:NONE
+Appearance and Odor:GLASS ELECTRODE
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF I/A/W FEDERAL, STATE & LOCAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

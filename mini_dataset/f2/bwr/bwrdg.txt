@@ -1,0 +1,144 @@
+=====================  Product Identification  =====================
+
+Product ID:QUATERNARY DETERGENT DISINFECTANT, A-456-N
+MSDS Date:02/06/1990
+FSC:6840
+NIIN:01-154-6969
+MSDS Number: BWRDG
+=== Responsible Party ===
+Company Name:AIRKEM PROFFESSIONAL PRODUCTS
+Address:ECOLAB CENTER
+City:ST PAUL
+State:MN
+ZIP:55102
+Country:US
+Info Phone Num:800-444-4410
+Emergency Phone Num:800-328-0026
+CAGE:NO075
+=== Contractor Identification ===
+Company Name:AIRKEM PROFESSIONAL PRODUCTS/DIV OF ECOLAB INC
+Address:370 N WABASHA STREET
+Box:City:ST. PAUL
+State:MN
+ZIP:55102-1307
+Country:US
+Phone:800-328-0026
+CAGE:89044
+Company Name:AIRKEM PROFFESSIONAL PRODUCTS
+Address:ECOLAB CENTER
+Box:City:ST PAUL
+State:MN
+ZIP:55102
+Country:US
+Phone:800-444-4410
+CAGE:NO075
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:AMMONIUM, ALKYLDIMETHYLBENZYL-, CHLORIDE; (ALKYL DIMETHYL
+    BENZYL AMMONIUM CHLORIDE)
+CAS:8001-54-5
+RTECS #:BO3150000
+Fraction by Wt: 6%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:AMMONIUM, DIDECYLDIMETHYL-, CHLORIDE; (DIDECYLDIMETHYL
+    AMMONIUM CHLORIDE)
+CAS:7173-51-5
+RTECS #:BP6560000
+Fraction by Wt: 9%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:OCTYLDIMETHYLAMINE OXIDE
+CAS:2605-78-9
+Fraction by Wt: 3%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:SKIN & EYES:CAN CAUSE SEVERE
+    IRRITATION, POSSIBLE CHEMICAL BURNS. INGEST:HARMFUL. CAN CAUSE
+    CHEMICAL BURNS OF MOUTH, THROAT AND STOMACH.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:REMOVE TO FRESH AIR. SUPPORT BREATHING (GIVE O*2/ARTF
+    RESP) . EYES:FLUSH IMMED W/PLENTY OF COOL RUNNING WATER. REMOVE
+    CONT LENSES. CONTINUE FLUSHING FOR 15 MINS. SKIN:FLUSH W/PLENTY OF
+    COO L RUNNING WATER. WASH THORO W/SOAP & WATER. INGEST:RINSE MOUTH;
+    THEN DRINK 1-2 LG GLASSES OF WATER. DO NOT INDUCE VOMIT. NEVER GIVE
+    ANYTHING BY MOUTH TO UNCON PERSON. CALL POIS CTL CTR/PHYS IMMED.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:NONE SPECIFIED BY MANUFACTURER.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT . PRODUCT DOES NOT SUPPORT COMBUSTION.
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DIKE OR DAM LARGE SPILLS. PUMP TO CONTAINERS
+    OR SOAK UP ON INERT ABSORBENT. FLUSH RESIDUE TO SANITARY SEWER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTAMINATION OF FOOD/FOOD
+    PRODUCTS. DO NOT STORE WITH FOOD PRODUCTS. KEEP OUT OF REACH OF
+    CHILDREN.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN .
+Ventilation:NONE SPECIFIED BY MANUFACTURER.
+Protective Gloves:RUBB GLOVES-PROT CUFF/GAUNTLET (SUPDAT)
+Eye Protection:ANSI APPRVD CHEM WORKERS GOGG (SUPDAT)
+Other Protective Equipment:EMERGENCY EYE WASH & DELUGE SHOWER WHICH
+    MEET ANSI DESIGN STANDARDS .
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+PH:7.5-8.8 (100%). PROT GLOVES:TYPE PREFERRED. EYE PROT:& FULL LENGTH
+    FACESHIELD .
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>212F,>100C
+Spec Gravity:0.98-1.01
+pH:SUPDAT
+Evaporation Rate & Reference:NOT KNOWN
+Solubility in Water:COMPLETE
+Appearance and Odor:RED LIQUID; NON-DESCRIPT ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:DO NOT MIX WITH ANYTHING BUT WATER.
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT FEDERAL, STATE AND LOCAL AUTHOR FOR
+    RESTRICTIONS ON DISP OF CHEM WASTE. RINSE EMPTY CNTNR THORO W/WATER
+    BEFORE DISCARDING.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

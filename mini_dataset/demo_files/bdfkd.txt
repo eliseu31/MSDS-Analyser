@@ -1,0 +1,60 @@
+=====================  Product Identification  =====================
+
+Product ID:49F4370
+MSDS Date:01/01/1985
+FSC:5910
+NIIN:00-172-3126
+MSDS Number: BDFKD
+=== Responsible Party ===
+Company Name:GENERAL ELECTRIC CO
+CAGE:06001
+=== Contractor Identification ===
+Company Name:GENERAL ELECTRIC CO CAPACITOR PROD SEC DIVISION
+Address:3135 EASTON TURNPIKE
+Box:City:FAIRFIELD
+State:CT
+ZIP:06431
+Country:US
+Phone:800-626-2000
+CAGE:06001
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POLYCHLORINATED BIPHENYLS (PCBS)  (SARA III)
+CAS:1336-36-3
+RTECS #:TQ1350000
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:CAN BE ABSORBED THRU LUNGS/INTESTINES/SKIN,
+    CAUSING CANCER, LIV/KID/STOMACH/EYE/HEARING DISORDERS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE ABSORBENT & DIKES TO PREVENT RUNOFF.
+    ISOLATE & NOTIFY PROPER AUTH.
+
+======================	Handling and Storage  ======================
+
+Other Precautions:LG CAPACITORS OF 3 LB OR MORE PCB REQ LABELS IN STG,
+    USE & TRANSP.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Supplemental Safety and Health
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTROLLED DISPOSAL REQ. CAPACITORS W/MORE THAN
+    3 LBS PCB REQ AUTH LANDFILL OR INCINERATION.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,127 @@
+=====================  Product Identification  =====================
+
+Product ID:SOLUTION S0902 SC-2
+MSDS Date:04/12/1989
+FSC:6850
+NIIN:00F019367
+MSDS Number: BLPZL
+=== Responsible Party ===
+Company Name:NALCO CHEMICAL COMPANY
+Address:ONE NALCO CENTER
+City:NAPERVILLE
+State:IL
+ZIP:60566-1024
+Info Phone Num:(708) 961-9500
+Emergency Phone Num:(708) 961-9500 OR (708) 920-1510
+Preparer's Name:JOHN J. KASPER
+CAGE:89524
+=== Contractor Identification ===
+Company Name:ONDEO NALCO COMPANY
+Address:ONDEO NALCO CENTER
+Box:City:NAPERVILLE
+State:IL
+ZIP:60563-1198
+Country:US
+Phone:(630) 305-1000
+CAGE:89524
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM SUCCINATE
+CAS:14047-56-4
+Fraction by Wt: 1-10%
+
+Ingred Name:METHYL ALCOHOL (METHANOL)  (SARA III)
+CAS:67-56-1
+RTECS #:PC1400000
+Fraction by Wt: >40%
+Other REC Limits:200 PPM
+OSHA PEL:S,200PPM/250STEL
+ACGIH TLV:S,200PPM/250STEL; 93
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL (RATS) LD50: 5,628 NG/KG METHANOL
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES/SKIN: IRRITATION. INGESTION:
+    BLINDNESS, HARMFUL/FATAL. INHALATION: NAUSEA, DIZZINESS,
+    LIGHT-HEADEDNESS, VOMITING OR UNCONSCIOUSNESS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES/SKIN: IRRITATION. INGESTION: BLINDNESS,
+    HARMFUL/FATAL. INHALATION: NAUSEA, DIZZINESS, LIGHT-HEADEDNESS,
+    VOMITING OR UNCONSCIOUSNESS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER FOR 15 MINS. SKIN: WASH THOROUGHLY W/SOAP
+    & RINSE W/WATER. INGESTION: INDUCE VOMITING & GIVE WATER. IF
+    UNCONSCIOUS, HAVING TROUBLE BREATHING OR IN CONVULSIONS, DON'T
+    INDUCE VOMITIN G OR GIVE WATER. INHALATION: REMOVE TO FRESH AIR.
+    OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:76F
+Extinguishing Media:DRY CHEMICAL, ALCOHOL FOAM, CO2, OR OTHER
+    EXTINGUISHING AGENT SUITABLE FOR CLASS B FIRES.
+Fire Fighting Procedures:USE WATER TO KEEP FIRE-EXPOSED CONTAINERS
+    COOL. FOR LARGE FIRES, USE WATER SPRAY OR FOG, THOROUGHLY DRENCHING
+    THE BURNING MATERIAL.
+Unusual Fire/Explosion Hazard:FLAMMABLE LIQUID. EXPLOSIONS MAY OCCUR
+    UPON CONTACT W/STRONG OXIDIZERS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONTAIN W/ABSORBENT MATERIAL, SUCH AS CLAY,
+    SOIL OR ANY COMMERCIALLY AVAILABLE ABSORBENT. COMBINE W/IGNITABLE
+    PLANT WASTE. KEEP THE SPILL AWAY FROM HEAT, SPARKS, FLAME & WELDING
+    OPERATIONS. WEAR PROTE CTIVE EQUIPMENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID INHALATION OF SMOKE OR FUMES.
+Other Precautions:AVOID CONTACT W/SKIN, EYES & CLOTHING. KEEP CONTAINER
+    CLOSED WHEN NOT IN USE . EMPTY CONTAINERS MAY CONTAIN RESIDUAL
+    PRODUCT. DON'T REUSE CONTAINER UNLESS PROPERLY RECONDITIONED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AS NEEDED
+Ventilation:GENERAL/LOCAL EXHAUST: RECOMMENDED WHERE VAPORS, MISTS, OR
+    AEROSOLS MAY BE RELEASED.
+Protective Gloves:AS REQUIRED
+Eye Protection:SAFETY GLASSES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Appearance and Odor:YELLOW/AMBER. LIQUID W/ALCOHOL ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS, SUCH AS CHLORINE, PEROXIDES, CHROMATES, NITRIC ACID,
+    PERCHLORATES, CONCENTRATED OXYGEN & PERMANGANATES
+Stability Condition to Avoid:HEAT, FIRES, SPARKS, & FLAMES
+Hazardous Decomposition Products:TOXIC FUMES, CO, CO2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:WASTE MEETS CRITERIA OF HAZARDOUS WASTE AS
+    DEFINED UNDER RCRA. D001 (IGNITABLE). INCINERATE IN ACCORDANCE
+    W/LOCAL/STATE/FEDERAL LAWS. FLAMMABLE LIQUID. UN 1993. EMPTY
+    PRODUCT CONTAINERS SHOULD BE PUNC TURED, IF PLASTIC, & PLACED IN
+    GARBAGE CONTAINER.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,169 @@
+=====================  Product Identification  =====================
+
+Product ID:FORMVAR 15/95E RESIN, 15800
+MSDS Date:04/02/1999
+FSC:8030
+NIIN:00N092031
+Status Code:A
+MSDS Number: CJQDZ
+=== Responsible Party ===
+Company Name:ELECTRON MICROSCOPY SCIENCES
+Address:321 MORRIS ROAD
+Box:251
+City:FORT WASHINGTON
+State:PA
+ZIP:19034
+Country:US
+Info Phone Num:215-646-1566
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:4G905
+=== Contractor Identification ===
+Company Name:ELECTRON MICROSCOPY SCIENCES
+Address:321 MORRIS ROAD
+Box:251
+City:FORT WASHINGTON
+State:PA
+ZIP:19034
+Country:US
+Phone:215-646-1566
+CAGE:4G905
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POLYVINYL FORMAL RESIN (PV FORMAL)
+= Wt:81.
+Other REC Limits:N/K 
+OSHA PEL:15 MG/M3
+OSHA STEL:N/K 
+ACGIH TLV:15 MG/M3
+ACGIH STEL:N/K 
+
+Ingred Name:POLYVINYL ACETATE (PV ACETATE)
+Minumum % Wt:9.5
+Maxumum % Wt:13.
+Other REC Limits:N/K 
+OSHA PEL:15 MG/M3
+OSHA STEL:N/K 
+ACGIH TLV:15 MG/M3
+ACGIH STEL:N/K 
+
+Ingred Name:HYDROXYL ALCOHOL (PV ALCOHOL)
+Minumum % Wt:5.
+Maxumum % Wt:6.5
+Other REC Limits:N/K 
+OSHA PEL:15 MG/M3
+OSHA STEL:N/K 
+ACGIH TLV:15 MG/M3
+ACGIH STEL:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE TOXICOLOGICAL INFORMATION.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:NO SIGNIFICANT TARGET EFFECTS
+    REPORTED. ACUTE: EYE CONTACT: IRRITATION.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH IMMEDIATELY WITH LARGE AMOUNT OF WATER FOR AT
+    LEAST 15 MINUTES. GET MEDICAL ATTENTION IMMEDIATELY. SKIN: REMOVE
+    CONTAMINATED CLOTHING IMMEDIATELY. WASH WITH LARGE AMOUNT OF WATER.
+    GET MEDI CAL ATTENTION IF NEEDED. INHALATION: WHEN SAFE TO ENTER
+    AREA, REMOVE FROM EXPOSURE. KEEP WARM AND AT REST. INGESTION: TRY
+    TO GET THE VICTIM TO VOMIT. GET MEDICAL ATTENTION IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:REGULAR DRY CHEMICAL, CARBON DIOXIDE, WATER,
+    REGULAR FOAM. LARGE FIRES: USE REGULAR FOAM OR FLOOD WITH FINE
+    WATER SPRAY.
+Fire Fighting Procedures:WEAR NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT . SHUT OFF FUEL TO FIRE IF POSSIBLE TO DO SO WITHOUT
+    HAZARD.
+Unusual Fire/Explosion Hazard:SLIGHT FIRE HAZARD. DUST-AIR MIXTURES MAY
+    IGNITE OR EXPLODE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:AVOID RAISING DUST AND CAREFULLY SWEEP UP.
+    SHUT OFF ALL SOURCES OF IGNITION. IN CASE OF SPILL, SWEEP UP
+    POLYMER AND DISPOSE OF IN AS RECOMMENDED IN WASTE DISPOSAL METHOD
+    SECTION.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:WEAR PROPER PROTECTIVE EQUIPMENT IN
+    ORDER TO AVOID CONTACT WITH SKIN AND EYES. PREVENT BUILD-UP OF
+    ELECTROSTATIC CHARGES (E.G, BY GROUNDING). SEPARATE FROM OXIDIZING
+    MATERIALS. KEEP AWAY FROM HEAT OR  SUNLIGHT, AND STORE IN A COOL
+    DRY LOCATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:TO PREVENT ANY CONTACT, WEAR NIOSH APPROVED DUST
+    RESPIRATOR, NIOSH APPROVED SELF-CONTAINED BREATHING APPARATUS.
+Ventilation:USE WITH LOCAL EXHAUST VENTILATION.
+Protective Gloves:WEAR IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:EYEWASH AND DELUGE SHOWER MEETING ANSI
+    DESIGN CRITERIA . TO PREVENT ANY CONTACT, WEAR PROTECTIVE CLOTHING.
+Work Hygienic Practices:WASH HANDS AND FACE AFTER USING MATERIALS.
+Supplemental Safety and Health
+PHYSICAL/CHEMICAL PROPERTIES: PERCENT VOLATILE AS PACKED (%): MAX 2.2;
+    SOLUBILITY: SOLUBLE IN PHENOLS, SOME CHLORINATED HYDROCARBONS,
+    ALCOHOL MIXTURES, AND AROMATIC HYDROCARBONS.
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:1.1-1.3 (H*2O=1 @ 20C)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:WHITE TO LIGHT YELLOW, FREE-FLOWING AND SLIGHTLY
+    PUNGENTLY POWDER.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING MATERIALS.
+Stability Condition to Avoid:AVOID HEAT, FLAMES, SPARKS, AND OTHER
+    SOURCES OF IGNITION. AVOID CONTACT WITH INCOMPATIBLE MATERIALS.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:TOXICITY DATA: ORAL LD50 (RAT): >5.010 MG/KG.
+    PRACTICALLY NON-TOXIC. DERMAL LD50 (RABBIT): >2,000 MG/KG. NO MORE
+    THAN SLIGHTLY TOXIC. IRRITATION DATA: EYE (RABBIT): 3.3 ON A SCALE
+    OF 110.0. SLIGHTLY I RRITATING. SKIN (RABBIT): 0.0 ON A SCALE OF
+    8.0. NON-IRRITATING.
+
+=====================  Ecological Information  =====================
+
+Ecological:NOT AVAILABLE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:BURN IN AN APPROVED INCINERATOR OR DISPOSE OF IN
+    AN APPROVED LANDFILL IN ACCORDANCE WITH ALL APPLICABLE LOCAL, STATE
+    AND FEDERAL LAWS AND REGULATIONS. CONSULT YOUR ATTORNEY OR
+    APPROPRIATE REGULATORY O FFICIALS FOR INFORMATION SUCH AS DISPOSAL.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:NO CLASSIFICATION ASSIGNED.
+
+=====================  Regulatory Information  =====================
+
+State Regulatory Information:
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

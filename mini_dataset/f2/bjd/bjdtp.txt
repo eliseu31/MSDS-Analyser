@@ -1,0 +1,120 @@
+=====================  Product Identification  =====================
+
+Product ID:AEROSOL GREEN 24233
+MSDS Date:01/01/1987
+FSC:8010
+NIIN:00-965-2390
+MSDS Number: BJDTP
+=== Responsible Party ===
+Company Name:NATIONAL AEROSOL PRODUCTS CO SUB OF GROW GROUP INC
+Address:2193 E. 14TH STREET
+City:LOS ANGELES
+State:CA
+ZIP:90021
+Country:US
+Info Phone Num:213-627-2668
+Emergency Phone Num:213-627-2668
+CAGE:59986
+=== Contractor Identification ===
+Company Name:GROW GROUP INC DEVOE AND REYNOLDS CO DIV
+Address:4000 DUPONT CIRCLE
+Box:City:LOUISVILLE
+State:KY
+ZIP:40207-4802
+Country:US
+Phone:502-361-2536
+CAGE:97758
+Company Name:NATIONAL AEROSOL PRODUCTS CO SUB OF GROW GROUP INC
+Address:2193 E 14TH STREET
+Box:City:LOS ANGELES
+State:CA
+ZIP:90021-2843
+Country:US
+CAGE:59986
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:VINYL TOLUENE ALKYD
+
+Ingred Name:PIGMENTS AND BINDERS
+
+Ingred Name:ALIPHATIC HYDROCARBONS
+Fraction by Wt: 26.0%
+ACGIH TLV:400 PPM
+
+Ingred Name:CHLORINATED HYDROCARBONS
+Fraction by Wt: 34.0%
+ACGIH TLV:200 PPM
+
+Ingred Name:ISOBUTANE-PROPANE
+Fraction by Wt: 30.0%
+ACGIH TLV:800 PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Health Hazards Acute and Chronic:INGESTION: NAUSEA. EYES: IRRITATION.
+    INHALATION: DIZZINESS AND SKIN: MINOR IRRITATION.
+Effects of Overexposure:INGESTION: NAUSEA. EYES: IRRITATION.
+    INHALATION: DIZZINESS AND SKIN: MINOR IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION: GET MEDICAL HELP. EYES: FLUSH WITH WATER FOR
+    MINIMUM OF 5 MINUTES. INHALATION: REMOVE TO FRESH AIR. CALL A
+    PHYSICIAN. GIVE MOUTH-TO-MOUTH RESUCITATION IF BREATHING STOPS.
+    SKIN: WASH WITH WA TER.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NR
+Extinguishing Media:WATER FOG, STANDARD FOAM, CO2, DRY CHEMICAL AND
+    HALON.
+Fire Fighting Procedures:TEMPS >120F MAY CAUSE BURST/VENTING. KEEP
+    CONTAINERS COOL. USE EQUIP/SHIELD TO PROTECT PERSONNEL AGAINST
+    BURST/VENTING CONTAINERS. DO NOT PUNCTURE OR INCINERATE
+Unusual Fire/Explosion Hazard:DO NOT USE NEAR OPEN FLAME, FIRE OR WHILE
+    SMOKING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:MOP UP, SOAK UP OR WIPE UP IMMEDIATELY.
+    PROVIDE VENTILATION.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT STORE WHERE TEMPERATURE COULD
+    EXCEED 120F.
+Other Precautions:USE AND FOLLOW LABEL DIRECTIONS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:RECOMMENDED. LOCAL EXHAUST IS ADEQUATE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Vapor Pres:40-50 @70F
+Vapor Density:> (AIR=1)
+Spec Gravity:0.976 (H2O=1)
+Solubility in Water:SLIGHT
+Appearance and Odor:PAINT/SOLVENT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Condition to Avoid:DO NOT STORE ABOVE 120 F(49C).
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DO NOT PUNCTURE OR INCINERATE "EMPTY" OR FULL
+    CANS. ONCE SPILLS OR LEAKS ARE CLEANED UP. DISPOSE OF WASTE IN
+    ACCORDANCE WITH GOVERNMENTAL ORDINANCES.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

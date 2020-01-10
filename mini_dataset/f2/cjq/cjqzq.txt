@@ -1,0 +1,174 @@
+=====================  Product Identification  =====================
+
+Product ID:IRON (III) CHLORIDE 97%, 15774-0
+MSDS Date:05/17/1999
+FSC:6810
+NIIN:00N092177
+Status Code:A
+MSDS Number: CJQZQ
+=== Responsible Party ===
+Company Name:SIGMA CHEMICAL CO DIV ALDRICH
+Box:355
+City:MILWAUKEE
+State:WI
+ZIP:52301
+Country:US
+Info Phone Num:414-273-3850
+Emergency Phone Num:414-273-3850
+CAGE:60928
+=== Contractor Identification ===
+Company Name:ALDRICH CHEMICAL CO INC
+Address:1001 WEST ST PAUL AVE
+Box:355
+City:MILWAUKEE
+State:WI
+ZIP:53233
+Country:US
+Phone:414-273-3850
+CAGE:60928
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:IRON CHLORIDE; (IRON (III) CHLORIDE)
+CAS:7705-08-0
+RTECS #:LJ9100000
+= Wt:97.
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:CORROSIVE. CAUSES BURNS. HARMFUL BY
+    INHALATION, IN CONTACT WITH SKIN AND IF SWALLOWED. IN CASE OF
+    CONTACT WITH EYES, RINSE IMMEDIATELY WITH PLENTY OF WATER AND SEEK
+    MEDICAL ADVICE. ACUTE: HARMFUL IF S WALLOWED, INHALED, OR ABSORBED
+    THROUGH SKIN. MATERIAL IS EXTREMELY DESTRUCTIVE TO TISSUE OF THE
+    MUCOUS MEMBRANES AND UPPER RESPIRATORY TRACT, EYES AND SKIN.
+    INHALATION MAY RESULT IN SPASM, INFLAMMATIO N AND EDEMA OF LARYNX &
+    BRONCHI, CHEMICAL PNEUMONITIS & PULMONARY EDEMA. SYMPTOMS OF
+    EXPOSURE MAY INCLUDE BURNING SENSATION, COUGHING, WHEEZING,
+    LARYNGITIS, SHORTNESS OF BREATH, HEADACHE, NAUSEA AND V OMITING.
+    (EFTS OF OVEREXP)
+Effects of Overexposure:HLTH HAZ: TO THE BEST OF MFR'S KNOWLEGE,
+    CHEMICAL, PHYSICAL, AND TOXICOLOGICAL PROPERTIES HAVE NOT BEEN
+    THOROUGHLY INVESTIGATED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES OR SKIN: IN CASE OF CONTACT, IMMEDIATELY FLUSH EYES OR
+    SKIN WITH COPIOUS AMOUNTS OF WATER FOR AT LEAST 15 MINUTES WHILE
+    REMOVING CONTAMINATED CLOTHING AND SHOES. ASSURE ADEQUATE FLUSHING
+    OF THE E YES BY SEPARATING THE EYELIDS WITH FINGERS. INHAL: REMOVE
+    TO FRESH AIR. IF NOT BRATHING GIVE ARTIFICIAL RESPIRATION. IF
+    BREATHING IS DIFFICULT, GIVE OXYGEN. INGESTION: WASH OUT MOUTH WITH
+    WATER PROVID ED PERSON IS CONSCIOUS. CALL A PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:NONCOMBUSTIBLE. USE EXTINGUISHING MEDIA APPROPRIATE
+    TO SURROUNDING FIRE CONDITIONS.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:EMITS TOXIC FUMES UNDER FIRE CONDITIONS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR NIOSH SELF-CONTAINED BREATHING APPARATUS,
+    RUBBER BOOTS AND HEAVY RUBBER GLOVES. SWEEP UP, PLACE IN A BAG AND
+    HOLD FOR WASTE DISPOSAL. AVOID RINSING DUST. VENTILATE AREA AND
+    WASH SPILL SITE AFTER  MATERIAL PICKUP IS COMPLETE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:TAKE OFF IMMEDIATELY ALL CONTAMINATED
+    CLOTHING. WEAR SUITABLE PROTECTIVE CLOTHING, GLOVES AND EYE/FACE
+    PROTECTION. DO NOT BREATHE DUST. VERY HYGROSCOPIC. STORE UNDER
+    NITROGEN. KEEP TIGHTLY CLOSED. STO RE IN A COOL DRY PLACE.
+Other Precautions:DO NOT GET IN EYES, ON SKIN, OR CLOTHING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED RESPIRATOR.
+Ventilation:USE ONLY IN A CHEMICAL FUME HOOD.
+Protective Gloves:RUBBER GLOVES.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES AND FULL LENGTH
+    FACESHIELD .
+Other Protective Equipment:ANSI APPROVED EYE WASH AND DELUGE SHOWER .
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Vapor Pres:<1MM 20C
+Vapor Density:5.61
+Appearance and Odor:BLACK CRYSTALLINE POWDER.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS. FORMS EXPLOSIVE MIXTURES WITH: SODIUM,
+    POTASSIUM.
+Stability Condition to Avoid:SENSITIVE TO MOISTURE. VERY HYGROSCOPIC.
+Hazardous Decomposition Products:HAZARDOUS COMBUSTION TOXIC FUMES OF:
+    HYDROGEN CHLORIDE GAS.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:RTECS #: LJ9100000 FERRIC CHLORIDE. TOXICITY
+    DATA: ORL-WMN LDLO: 4 ML.KG, ORL-RAT LD50: 450 MG/KG, ORL-MUS LD50:
+    895 MG/KG, INV-MUS LD50:58 MG/KG, VHTODE 40,31,1998, GISAAA 39 (5),
+    16,1974, TRENAF 27, 159,1976, YKKZAJ 87,677,1967. TARGET ORGAN
+    DATA: PATERNAL EFFECTS (SPERMATOGENESIS). PATERNAL EFFECTS (TESTES,
+    EPIDIDYMIS, SPERM DUCT). EFFECTS ON FERTILITY (PRE-IMPLANTATION
+    MORTALITY). ONLY SELECTED  REGISTRY OF TOXIC EFFECTS OF CHEMICAL
+    SUBSTANCES (RTECS) DATA IS PRESENTED HERE. SEE ACTUAL ENTRY IN
+    RTECS FOR COMPLETE INFORMATION.
+
+=====================  Ecological Information  =====================
+
+Ecological:DATA NOT YET AVAILABLE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTACT A LICENSED PROFESSIONAL WASTE DISPOSAL
+    SERVICE TO DISPOSE OF THIS MATEIRAL. OBSERVE ALL FEDERAL, STATE AND
+    LOCAL ENVIRONMENTAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:CONTACT ALDRICH CHEMICAL COMPANY FOR
+    TRANSPORTATION INFORMATION.
+
+=====================  Regulatory Information  =====================
+
+Federal Regulatory Information:EUROPEAN INFORMATION: CORROSIVE R 34.
+    CAUSES BURNS. R 20/21/22. HARMFUL BY INHALATION, IN CONTACT WITH
+    SKIN AND IF SWALLOWED. S 26. IN CASE OF CONTACT WITH EYES, RINSE
+    IMMEDIATELY WITH PLENTY OF WATER  AND SEEK MEDICAL ADVICE. S 27.
+    TAKE OFF IMMEDIATELY ALL CONTAMINATED CLOTHING. S 36/37/39. WEAR
+    SUITABLE PROTECTIVE CLOTHING, GLOVES AND EYE/FACE PROTECTION. S 22.
+    DO NOT BREATHE DUST.
+State Regulatory Information:OEL-MAK, ACGIH TLV-TWA 1 MG(FE)/M3,
+    DTLVS*TLV/BEI,1997, MSHA STANDARD-AIR: TWA 1 MG(FE)/M3 DTLV*
+    3,138,171, OEL-DENMARK:TWA 1 MG(FE)/M3 JAN 193, OEL-FINLAND:TWA 1
+    MG(FE)/M3 JAN 1993, OEL-THE NETHERLAN DS: TWA 1 MG(FE)/M3 JAN 1993.
+    OEL-SWITZERLAND: TWA 1 MG(FE)/MG JAN 1993. OEL-UNITED KINGDOM: TWA
+    1 MG(FE)/M3;STEL 2 MG(FE)/M3 JAN 1993. OEL IN BULGARIA, COLOMBIA,
+    JORDAN, KOREA CHECK ACGIH TLV. OEL IN  NEW ZEALAND, SINGAPORE,
+    VIETNAM CHECT ACGIH TLV. NOHS 1974: HZD 33160: NIS 51: TNF 3137;
+    NOS 37; TN E 27934. NOES 1983: HZD X6846; NIS 1; TNF 39; NOS 1; TNE
+    39, NOES 1983: HZD 33160; NIS; 70; TNF 5021: NOS 79: TNE 108492; 
+    (OTHER INFO)
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

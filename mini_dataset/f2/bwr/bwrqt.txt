@@ -1,0 +1,179 @@
+=====================  Product Identification  =====================
+
+Product ID:DL, TROUNCE CREAM PUMICE HAND CLEANER, 82026, 03-013
+MSDS Date:02/27/1989
+FSC:8520
+NIIN:00N057430
+MSDS Number: BWRQT
+=== Responsible Party ===
+Company Name:PERMATEX INDUSTRIAL CORP
+Address:705 N MOUNTAIN RD
+Box:11915
+City:NEWINGTON
+State:CT
+ZIP:06111-1411
+Country:US
+Info Phone Num:800-641-7376
+Emergency Phone Num:203-278-1280
+Preparer's Name:STEPHEN REPETTO
+CAGE:62377
+=== Contractor Identification ===
+Company Name:PERMATEX INDUSTRIAL
+Address:HARTFORD SQUARE N 10 COLUMBUS BLVD
+Box:City:HARTFORD
+State:CT
+ZIP:06106
+Country:US
+Phone:877-376-2839
+CAGE:62377
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MINERAL SPIRITS
+CAS:64475-85-0
+RTECS #:PY8240000
+Fraction by Wt: 27-32%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 50-58%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:FATTY ACID SOAPS
+Fraction by Wt: 4-9%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:SURFACTANT; NON-IONIC
+Fraction by Wt: 3-8%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:PUMICE
+CAS:1332-09-8
+Fraction by Wt: 2-8%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:ACRYLIC ACID; (ACRYLIC ACID POLYMER)
+Fraction by Wt: 0.5-1%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:FRAGRANCE
+Fraction by Wt: TRACE
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:LANOLIN
+CAS:8006-54-0
+RTECS #:OE3201000
+Fraction by Wt: TRACE
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:ISOTHIAZOLINONES; (METHYL CHLOROISOTHIAZOLINONE)
+Fraction by Wt: TRACE
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:ALOE VERA
+CAS:85507-69-3
+Fraction by Wt: TRACE
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:3,5-XYLENOL, 4-CHLORO-; (P-CHLORO-M-XYLENOL)
+CAS:88-04-0
+RTECS #:ZE6850000
+Fraction by Wt: TRACE
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:ISOTHIZOLINONES; (METHYLISOTHIAZOLINONE)
+Fraction by Wt: TRACE
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50:(ORAL) >5000 MG/KG.
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:NONE SPECIFIED BY MANUFACTURER.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:NONE KNOWN.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGEST:DO NOT INDUCE VOMITING. CALL MD IMMEDIATELY.
+    INHAL:REMOVE TO FRESH AIR. IF SYMPTOMS PERSIST, OBTAIN MEDICAL
+    ATTENTION. SKIN:WASH W/SOAP & WATER. EYE:FLUSH FOR AT LEAST 15
+    MINUTES W/WATER. CALL  MD IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:>200F,>93C
+Extinguishing Media:CO*2 & CHEMICAL POWDER.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:RINSE AWAY W/WATER OR WIPE UP W/TOWEL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:HAND CLEANER SHOULD BE STORED BETWEEN
+    40F & 100F IN ORDER TO INSURE LONG LIFE OF EMULSION.
+Other Precautions:FOLLOW ALL GENERAL SAFETY PRECAUTIONS. KEEP AWAY FROM
+    CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN .
+Ventilation:SUFFICIENT TO MAINTAIN VAPOR CONCENTRATION BELOW TLV.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPRVD SFTY GLASSES OR GOG .
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:0.94
+pH:7.6
+Solubility in Water:SOLUBLE
+Appearance and Odor:WHITE VISCOUS LIQUID W/SCRUBBER PARTICLE; PLEASANT
+    SMELLING ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:NONE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:NORMAL REFUSE FOR SEWAGE. FOLLOW EPA, FEDERAL,
+    STATE & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

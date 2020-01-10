@@ -1,0 +1,133 @@
+=====================  Product Identification  =====================
+
+Product ID:TRICHEM 914 EPOXY HARDENER
+MSDS Date:11/11/1985
+FSC:8040
+NIIN:00F019133
+MSDS Number: BLPMC
+=== Responsible Party ===
+Company Name:TRIMONT CHEMICAL
+City:CUMBERLAND
+State:RI
+ZIP:02864
+Info Phone Num:(401) 333-4100
+Emergency Phone Num:(401) 333-4100
+CAGE:TRIMO
+=== Contractor Identification ===
+Company Name:TRIMONT CHEMICAL
+City:CUMBERLAND
+State:RI
+ZIP:02864
+Phone:(401) 333-4100
+CAGE:TRIMO
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MODIFIED POLYAMINE REACTION PRODUCT
+Fraction by Wt: 90%
+
+Ingred Name:PHENOL,CARBOLIC ACID SOLUTION
+CAS:108-95-2
+RTECS #:SJ3325000
+Fraction by Wt: 10%
+Other REC Limits:5 MG/CUM
+OSHA PEL:19 MG/CUM
+ACGIH TLV:19 MG/CUM (SKIN)
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION/CORNEAL
+    INJURY/PERMANENT VISION IMPAIRMENT/BLINDNESS. SKIN: SEVERE
+    INJURY/SENSITIZATION/ALLERGIC RESPONSES/ABSORPTION/WHITENING.
+    INGESTION: GASTROINTESTINAL IRRITATION/ULCERATION/ABSO RPTION THRU
+    MUCOUS MEMBRANE & GASTROINTESTINAL/CORROSIVE/STRICTURE. INHALATION:
+    RESPIRATORY SENSITIZATION/ASTHMA.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: IRRITATION/CORNEAL INJURY/PERMANENT
+    VISION IMPAIRMENT/BLINDNESS. SKIN: SEVERE
+    INJURY/SENSITIZATION/ALLERGIC RESPONSES/ABSORPTION/WHITENING.
+    INGESTION: GASTROINTESTINAL IRRITATION/ULCERATION/ABSO RPTION THRU
+    MUCOUS MEMBRANE & GASTROINTESTINAL/CORROSIVE/STRICTURE. INHALATION:
+    RESPIRATORY SENSITIZATION/ASTHMA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER FOR AT LEAST 15-30 MINS.
+    INGESTION: DON'T INDUCE VOMITING. GIVE LARGE AMOUNTS OF WATER OR
+    MILK. SKIN: FLUSH W/WATER & TREAT AS THERMAL BURN. INHALATION:
+    REMOVE TO FRESH A IR. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+    PHYSICIAN NOTE: IF LAVAGE IS PERFORMED, DO ENDOTRACHEAL &/OR
+    ESOPHAGOSCOPIC CONTROL. NO SPECIFIC ANTIDOTE. SUPPORTIVE CARE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:200F
+Lower Limits:1.5%
+Extinguishing Media:WATER FOG, ALCOHOL FOAM, CO2 OR DRY CHEMICAL
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS & FULL
+    PROTECTIVE CLOTHING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DIKE UP OR PUMP TO APPROPRIATE CONTAINER. USE
+    NONCOMBUSTIBLE ABSORBANT MATERIAL/SAND & SHOVEL INTO CONTAINER.
+    COLLECT IN WASTE DRUMS & SEAL FOR DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:GROUND ALL TRANSFER EQUIPMENT. HOLD
+    BULK STORAGE UNDER A NITROGEN BLANKET. PRODUCT SHOULDN'T COME IN
+    CONTACT W/COPPER OR COPPER-BEARING ALLOYS.
+Other Precautions:USE ONLY W/ADEQUATE VENTILATION. FOLLOW GOOD
+    HOUSEKEEPING PROCEDURES. AVOID BREATHING VAPORS/GASES RELEASED ON
+    EXPOSURE AT HIGH TEMPERATURES. AVOID CONTACT W/SKIN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE AN APPROVED AIR-PURIFYING RESPIRATOR OR
+    FULL-FACE RESPIRATOR FOR EXPOSURE >TLV.
+Ventilation:GENERAL LOCAL EXHAUST WHEN REQUIRED
+Protective Gloves:IMPERVIOUS
+Eye Protection:CHEMICAL GOGGLES
+Other Protective Equipment:IMPERVIOUS CLOTHING, BOOTS, APRON, FULL-BODY
+    SUIT, SAFETY SHOWER, & EYE WASH FOUNTAIN.
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING.
+    CONTAMINATED LEATHER ITEMS/SHOES/BELTS/WATCHBANDS SHOULD BE
+    REMOVED/DESTROYED.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:356F
+Vapor Pres:76
+Vapor Density:3.24
+Spec Gravity:1.08
+Solubility in Water:SLIGHT
+Appearance and Odor:AMBER COLORED LIQUID W/MODERATE AMINE ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+EPOXY RESINS AT ELEVATED TEMPERATURES, UNCONTROLLED CONDITIONS, COPPER
+    OR COPPER-BEARING ALLOYS
+Stability Condition to Avoid:HIGH TEMPERATURES
+Hazardous Decomposition Products:POISONOUS GASES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN LANDFILL OR INCINERATE IN
+    ACCORDANCE W/LOCAL, STATE, & FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

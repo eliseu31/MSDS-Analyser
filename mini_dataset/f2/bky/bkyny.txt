@@ -1,0 +1,115 @@
+=====================  Product Identification  =====================
+
+Product ID:DETECTOR TUBE, BLUE BAND
+MSDS Date:05/01/1990
+FSC:6665
+NIIN:00-903-4767
+MSDS Number: BKYNY
+=== Responsible Party ===
+Company Name:TRUETECH INC
+Address:680 ELTON AVENUE
+City:RIVERHEAD
+State:NY
+ZIP:11901
+Info Phone Num:(516) 727-8600
+Emergency Phone Num:(516) 727-8600
+CAGE:06421
+=== Contractor Identification ===
+Company Name:TRUETECH INC
+Address:680 ELTON AVE
+Box:City:RIVERHEAD
+State:NY
+ZIP:11901-2555
+Country:US
+Phone:516-727-8600
+CAGE:06421
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SILICA, AMORPHOUS, PRECIPITATED AND GEL
+CAS:7699-41-4
+RTECS #:VV8850000
+OSHA PEL:20 MPPCF
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:MERCURIC CYANIDE  (SARA III)
+CAS:592-04-1
+RTECS #:OW1515000
+OSHA PEL:0.1 MG HG/M3;SKIN;C
+ACGIH TLV:0.1 MG HG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:4,4-NITROBENZYLPYRIDINE
+CAS:1083-48-3
+RTECS #:UT6360000
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:EYES/SKIN: IRRITATION. INGESTION:
+    POISONOUS & FATAL. INHALATION: POISONOUS, DUST MAY CAUSE SILICOSIS,
+    CYANOSIS, & FATAL.
+Explanation of Carcinogenicity:SILICA GEL IS A SUSPECTED HUMAN
+    CARCINOGEN.
+Effects of Overexposure:EYES/SKIN: IRRITATION. INGESTION: POISONOUS &
+    FATAL. INHALATION: POISONOUS, DUST MAY CAUSE SILICOSIS, CYANOSIS, &
+    FATAL.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES/SKIN: FLUSH W/WATER. INHALATION: REMOVE TO FRESH AIR.
+    INGESTION: OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:CO2, DRY CHEMICAL POWDER, ALCOHOL, OR POLYMER FOAM.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR SUITABLE PROTECTIVE CLOTHING. COLLECT FOR
+    DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTACT W/ACIDS & STRONG
+    OXIDIZERS.
+Other Precautions:AVOID CONTACT W/SKIN & EYES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY REQUIRED
+Ventilation:GENERAL: RECOMMENDED
+Protective Gloves:RUBBER
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:EYEBATH
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Solubility in Water:INSOLUBLE
+Appearance and Odor:CRYSTALLINE SOLID, ODORLESS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACIDS, OXIDIZING AGENTS
+Hazardous Decomposition Products:CO, CO2, NITROGEN OXIDES, MERCURY,
+    MERCURY OXIDE, & HYDROGEN CYANIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

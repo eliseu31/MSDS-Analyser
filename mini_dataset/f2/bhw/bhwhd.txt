@@ -1,0 +1,170 @@
+=====================  Product Identification  =====================
+
+Product ID:336 AEROSOL
+MSDS Date:11/01/1990
+FSC:6850
+NIIN:00-050-0659
+MSDS Number: BHWHD
+=== Responsible Party ===
+Company Name:CRC CHEMICALS U.S.A./CRC INDUSTRIES, INC.
+Address:885 LOUIS DRIVE
+City:WARMINSTER
+State:PA
+ZIP:18974-2820
+Country:US
+Info Phone Num:215-674-4300
+Emergency Phone Num:215-674-4300
+Preparer's Name:ALLEN B. REED
+CAGE:10136
+=== Contractor Identification ===
+Company Name:CRC INDUSTRIES, INC.
+Address:885 LOUIS DRIVE
+Box:City:WARMINSTER
+State:PA
+ZIP:18974-2820
+Country:US
+Phone:215-674-4300/800-424-9300
+CAGE:10136
+Company Name:EISON INDUSTRIAL SALES INC/DBS GOV. PROCUREMENT
+Address:5800 OAKBROOK PKY
+Box:City:NORCROSS
+State:GA
+ZIP:30093-1805
+Country:US
+Phone:404-448-7100
+CAGE:1FY72
+Company Name:GOVERNMENT PROCUREMENT SPECIALISTS INC
+Address:5845 OAKBROOK PKY
+Box:City:NORCROSS
+State:GA
+ZIP:30093
+Country:US
+Phone:404-416-0761
+CAGE:0K2Y0
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HYDROTREATED LIGHT PETROLEUM DISTILLATE
+CAS:64742-47-8
+Fraction by Wt: 67%
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:INHIBITED PARAFFINIC OIL
+Fraction by Wt: 29%
+OSHA PEL:5 MG/M3 OIL MIST
+ACGIH TLV:5 MG/M3 OIL MIST
+
+Ingred Name:CARBON DIOXIDE
+CAS:124-38-9
+RTECS #:FF6400000
+Fraction by Wt: 4%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:5000 PPM
+ACGIH TLV:5000PPM/30000STEL;93
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:TLV FOR OIL IS 5 MG/M3.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE- MAY CAUSE BURNING AND
+    IRRITATION OF EYES. SKIN CONTACT WILL CAUSE DRYNESS. INHALATION OF
+    MIST MAY CAUSE BREATHING PROBLEMS. VAPORS MAY CAUSE HEADACHES,
+    DIZZINESS AND NAUSEA. CHRONIC- PROLONGED  EXPOSURE TO SKIN MAY
+    CAUSE DEVELOPMENT OF DERMATITIS
+Explanation of Carcinogenicity:THIS COMPOUND CONTAINS NO INGREDIENTS AT
+    CONCENTRATIONS OF 0.1% OR GREATER THAT ARE CARCINOGENS OR SUSPECT
+    CARCINOGENS.
+Effects of Overexposure:MAY CAUSE BURNING AND IRRITATION OF EYES. SKIN
+    CONTACT WILL CAUSE DRYNESS. INHALATION OF MIST MAY CAUSE BREATHING
+    PROBLEMS. VAPORS MAY CAUSE HEADACHES, DIZZINESS AND NAUSEA.
+Medical Cond Aggravated by Exposure:PREEXISTING SKIN AND RESPIRATORY
+    DISORDERS MAY BE AGGRAVATED BY EXPOSURE TO THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:GET MEDICAL ATTENTION IF SYMPTOMS PERSIST. SKIN:REMOVE
+    EXCESS. WASH SKIN WITH SOAP & WATER. EYE:FLUSH WITH WATER FOR 15
+    MINUTES, HOLDING EYELIDS OPEN. INHALED:REMOVE TO FRESH AIR &
+    PROVIDE OXYGEN/CPR	IF NEEDED. ORAL:DO NOT INDUCE VOMITING.GET
+    IMMEDIATE MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON-FLAMMABLE
+Extinguishing Media:WATER SPRAY, CARBON DIOXIDE, FOAM OR DRY CHEMICAL
+    FOR SURROUNDING FIRE. USE WATER SPRAY TO COOL FIRE EXPOSED
+    CONTAINERS.
+Fire Fighting Procedures:WEAR FULL PROTECTIVE CLOTHING AND
+    NIOSH-APPROVED SELF-CONTAINED BREATHING APPARATUS WITH FULL
+    FACEPIECE OPERATED IN THE POSITIVE PRESSURE MODE.
+Unusual Fire/Explosion Hazard:AEROSOL CONTAINERS MAY EXPLODE WHEN
+    HEATED ABOVE 130 DEG F.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA. ABSORB WITH INERT MATERIAL AND
+    PLACE IN A CLOSED CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY AREA. AEROSOLS
+    MAY EXPLODE IF CONTENTS ARE HEATED ABOVE 130F. VAPORS ARE HEAVIER
+    THAN AIR AND WILL TEND TO COLLECT IN LOW AREAS.
+Other Precautions:DANGER: CONTENTS UNDER PRESSURE. KEEP FROM HEAT OR
+    FLAME. HARMFUL OR FATAL IF SWALLOWED. DO NOT PUNCTURE, INCINERATE
+    OR STORE ABOVE 120 DEG. F. DO NOT SPRAY IN EYES OR MOUTH. USE ONLY
+    AS DIRECTED. DO  NOT BREATH VAPORS OR MISTS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NON REQUIRED UNDER NORMAL CONDITIONS. IF HIGH
+    VAPOR OR MIST CONCENTRATIONS EXPECTED, USE NIOSH-APPROVED
+    RESPIRATOR FOR ORGANIC VAPORS AND MISTS. WEAR SUPPLIED-AIR
+    RESPIRATOR PROTECTION IN CONFINED OR  ENCLOSED SPACES, IF NEEDED.
+Ventilation:ADEQUATE VENTILATION TO MAINTAIN OIL MIST BELOW PEL WHEN
+    SPRAYED.
+Protective Gloves:SOLVENT RESISTANT
+Eye Protection:SAFETY GLASSES.
+Other Protective Equipment:EYE WASH STATION, QUICK DRENCH SHOWER AND
+    IMPERVIOUS CLOTHING
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES.
+Supplemental Safety and Health
+FORMULA CHANGED. FOR PREVIOUS FORMULATION, SEE PNI A UNDER THE SAME
+    NSN.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V2
+Boiling Pt:B.P. Text:380F,193C
+Vapor Pres:0.23
+Vapor Density:>1
+Spec Gravity:0.8167
+Evaporation Rate & Reference:0.01 (TOLUENE=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:AMBER LIQUID, PLEASANT ODOR
+Percent Volatiles by Volume:70
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:KEEP FROM HEAT OR FLAME.
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PARTIALLY USED OR FULL AEROSOLS ARE HAZARDOUS
+    WASTE IF DISCARDED. DISPOSE OF IN CONFORMANCE WITH FEDERAL, STATE &
+    LOCAL REGULATIONS. DO NOT INCINERATE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

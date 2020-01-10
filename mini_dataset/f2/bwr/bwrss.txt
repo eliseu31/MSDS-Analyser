@@ -1,0 +1,194 @@
+=====================  Product Identification  =====================
+
+Product ID:363 HIGH STRENGTH FAST TACK SPRAY ADHESIVE, FCA363
+MSDS Date:10/29/1992
+FSC:8040
+NIIN:00N057654
+MSDS Number: BWRSS
+=== Responsible Party ===
+Company Name:CAMIE CAMPBELL
+Address:9225 WATSON INDUSTRIAL PK
+City:ST LOUIS
+State:MO
+ZIP:63126
+Country:US
+Info Phone Num:314-968-3222
+Emergency Phone Num:800-424-9300(CHEMTREC)
+Preparer's Name:JLM
+CAGE:31368
+=== Contractor Identification ===
+Company Name:CAMIE CAMPBELL
+Address:9225 WATSON INDUSTRIAL PARK
+City:ST LOUIS
+State:MO
+ZIP:63126
+Country:US
+Phone:314-968-3222
+CAGE:31368
+Company Name:CAMIE CAMPBELL
+Address:9225 WATSON INDUSTRIAL PK
+Box:City:ST. LOUIS
+State:MO
+ZIP:63126
+Country:US
+Phone:314-968-3222
+CAGE:31868
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:INGREDIENTS 2 & 3 ARE COMBINED AS ONE INGREDIENT AT 35%.
+RTECS #:9999999ZZ
+
+Ingred Name:METHYL ETHER; (DIMETHYL ETHER)
+CAS:115-10-6
+RTECS #:PM4780000
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:PROPANE
+CAS:74-98-6
+RTECS #:TX2275000
+OSHA PEL:1000 PPM
+ACGIH TLV:ASPHYXIANT
+
+Ingred Name:ACETONE (SARA 313) (CERCLA)
+CAS:67-64-1
+RTECS #:AL3150000
+Fraction by Wt: 15%
+OSHA PEL:1000 PPM
+ACGIH TLV:750 PPM; 1000 STEL
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:VOLATILE ORGANIC CONTENT:82.3% BY WT, 564 GRAMS/LITER TOTAL
+    PRODUCT. 564 GRAMS/LITER LESS WATER & EXEMPT, 0.89 LBS/CAN
+RTECS #:9999999VO
+
+Ingred Name:SUPP DATA: GIVEN MUST BE OBSERVED. DO NOT FLAME CUT, BRAZE
+    OR USE WELDING TORCH. INTENTIONAL MISUSE BY DELIB (ING 7)
+RTECS #:9999999ZZ
+
+Ingred Name:ING 6: CONCENTRATING & INHALING THIS PRODUCT MAY BE HARMFUL
+    OR FATAL.
+RTECS #:9999999ZZ
+
+Ingred Name:RESP PROT: YOUR SAFETY EQUIPMENT SUPPLIER. ENGINEERING OR
+    ADMINISTRATIVE CONTROLS SHOULD BE IMPLEMENTED TO REDUCE(ING 9)
+RTECS #:9999999ZZ
+
+Ingred Name:ING 8: EXPOSURE.
+RTECS #:9999999ZZ
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYE: CAN CAUSE SEV IRRIT, REDNESS,
+    TEARING, BLURRED VISION. SKIN: PLNGD/RPTD CONT CAN CAUSE MOD IRRIT,
+    DEFAT, DERM. INHAL: EXCESS INHAL OF VAPS CAN CAUSE NASAL & RESP
+    IRRIT, DIZZ, WEAKNESS, FATIGUE, N AUS, HDCH, POSS UNCON & EVEN
+    ASPHY. OVEREXP MAY CAUSE DMG TO CNS. OVEREXP TO MATL(OR ITS
+    COMPONENTS)(EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ: HAS APPARENTLY BEEN FOUND TO CAUSE
+    KIDNEY & EYE DMG IN LABORATORY ANIMALS.
+Medical Cond Aggravated by Exposure:CNS DISORDERS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: THORO WASH EXPOSED AREA W/SOAP & WATER. REMOVE CONTAMD
+    CLTHG. LAUNDER CONTAMD CLTHG BEFORE REUSE. GET MED ATTN IF IRRIT
+    PERSISTS. EYE: FLUSH W/LGE AMTS OF WATER, LIFTING UPPER & LOWER
+    LIDS OCCAS , GET MED ATTN. INGEST: DO NOT INDUCE VOMIT. GIVE 2
+    GLASSES OF WATER IF CONSCIOUS. NEVER GIVE ANYTHING BY MOUTH TO AN
+    UNCONSCIOUS PERSON. GET IMMED MED ATTN. INHAL: REMOVE INDIVIDUAL TO
+    FRESH(SUPDAT)
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:-156F,-104C
+Lower Limits:1.0%
+Upper Limits:27.0%
+Extinguishing Media:DRY CHEMICAL, CARBON DIOXIDE, FOAM, ALCOHOL.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT.
+Unusual Fire/Explosion Hazard:VAPS/HVR/AIR & TRAVEL ALONG GROUND/MAY BE
+    MOVED BY VENT & IGNITED BY IGNIT SOURCES AT LOCATIONS DISTANT FROM
+    MATL HNDLG POINT. ALL 5 GAL PAILS & LGR (SUPDAT)
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIM SOURCES OF IGNIT & VENT AREA. PERS NOT
+    PROPERLY EQUIP SHOULD BE EXCLUDED FROM AREA. STOP SPILL AT
+    SOURCE-PVNT SPREAD. AVOID INHAL OF VAPS & SKIN CONT W/LIQ. SOAK UP
+    ON ABSORB MATL & PLACE IN CNTN R FOR DISP. USE PLASTIC SCOOPS FOR
+    FLAMM MATLS.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:RECOMM MATL BE STORED IN COOL, DRY,
+    VENT AREA. KEEP AWAY FROM HEAT SOURCES, OPEN FLAME, SPARKS. DO NOT
+    STORE >120F. DO NOT STORE IN DIRECT SUNLIGHT.
+Other Precautions:DO NOT TRANSFER TO UNMARKED CNTNRS. KEEP FROM REACH
+    OF CHILDREN. DO NOT PUNCTURE, INCIN/PLACE AEROSOL PROD CNTNRS IN
+    COMPACTORS. CNTNRS OF MATL MAY BE HAZ WHEN EMPTIED, SINCE CNTNRS
+    RETAIN PROD RESIDU ES(VAP,LIQ &/SOLID). ALL HAZ (SUPDAT)
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF WORKPLACE EXPOS LMTS OF PROD/ANY COMPONENT IS
+    EXCEEDED, A NIOSH/MSHA APPRVD AIR SUPPLIED RESP IS ADVISED IN
+    ABSENCE OF PROPER ENVIRON CONTROL. OSHA REGS ALSO PERMIT OTHER
+    NIOSH/MSHA RESPS(NEG PRESS	TYPE) UNDER SPEC CNDTNS. SEE (SUPDAT)
+Ventilation:PROVIDE SUFF MECH VENT (GENL &/LOCAL EXHAUST) VENT TO
+    MAINTAIN EXPOSURE BELOW TLV(S).
+Protective Gloves:PVC/NITRILE, NEOPRENE GLOVES.
+Eye Protection:ANSI APPRVD CHEM WORKERS GOGGLES.
+Other Protective Equipment:TO PVNT RPTD/PLGD SKIN CONT, WEAR IMPERVIOUS
+    CLTHG & BOOTS. ANSI APPRVD EMERGENCY EYE BATH & DELUGE SHOWER .
+Work Hygienic Practices:WASH HANDS BEFORE EATING/SMOKING. SMOKE IN
+    DESIGNATED AREAS ONLY. REMOVE & LAUNDER CLTHG. ANSI APPRVD EMER EYE
+    BATH
+Supplemental Safety and Health
+EXPLO HAZ: SHOULD BE GROUNDED &/BONDED DURING MATL TRANSFERRAL. FOR
+    AEROSOL PRODS - EXPOS TO TEMPS OVER 130F MAY CAUSE CNTNRS TO BURST,
+    RELEASING HIGHLY FLAMM GAS. FIRST AID PROC: AIR. IF BRTHG IS DFC
+    LT, ADMIN O*2. GIVE ARTF RESP IF BRTHG HAS STOPPED. KEEP PERS WARM,
+    QUIET. GET MED ATTN. OTHER PREC: PRECAUTIONS (ING 6)
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>-43F,>-42C
+Vapor Pres:SEE INGS
+Vapor Density:HVR/AIR
+Spec Gravity:0.684
+Evaporation Rate & Reference:FASTER/BUAC
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:WHITE LIQUID W/MINT ODOR WHEN WET.
+Percent Volatiles by Volume:87.7
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING AGENTS, ACIDS.
+Stability Condition to Avoid:HEAT, SPARKS, WELDING ARCS, OPEN FLAME &
+    STATIC ELECTRICITY.
+Hazardous Decomposition Products:CARBON MONOXIDE & CARBON DIOXIDE,
+    VARIOUS HYROCARBONS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

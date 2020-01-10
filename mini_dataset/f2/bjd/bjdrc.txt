@@ -1,0 +1,177 @@
+=====================  Product Identification  =====================
+
+Product ID:PAINT LATEX BASE INT FLAT WHITE 37778
+MSDS Date:06/29/1990
+FSC:8010
+NIIN:00-045-3478
+MSDS Number: BJDRC
+=== Responsible Party ===
+Company Name:PRATT AND LAMBERT INC., INDUSTRIAL COATINGS DIV.
+Box:2153
+City:WICHITA
+State:KS
+ZIP:67201
+Country:US
+Info Phone Num:316-733-1361
+Emergency Phone Num:316-733-1361
+Preparer's Name:W.A. ELLISON, OPRTNS MGR
+CAGE:61196
+=== Contractor Identification ===
+Company Name:PRATT AND LAMBERT INC
+Box:6027
+City:CLEVELAND
+State:OH
+ZIP:44101-1027
+Country:US
+Phone:216-566-2902
+CAGE:61196
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHYLENE GLYCOL  (SARA III)
+CAS:107-21-1
+RTECS #:KW2975000
+Fraction by Wt: <5%
+OSHA PEL:C 50 PPM
+ACGIH TLV:C 50 PPM,VAPOR; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 20%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:SILICA, AMORPHOUS HYDRATED
+CAS:7631-86-9
+RTECS #:VV7322000
+Fraction by Wt: <5%
+OSHA PEL:6 MG/CU.M.
+ACGIH TLV:10 MG/CU.M.
+
+Ingred Name:SILICA, CRYSTALLINE - CRISTOBALITE
+CAS:14464-46-1
+RTECS #:VV7325000
+Fraction by Wt: 5%
+OSHA PEL:SEE TABLE Z3
+ACGIH TLV:0.05 MG/M3 RDUST9293
+
+Ingred Name:SILICA, CRYSTALLINE - QUARTZ
+CAS:14808-60-7
+RTECS #:VV7330000
+Fraction by Wt: <1%
+OSHA PEL:SEE TABLE Z3
+ACGIH TLV:0.1 MG/M3 RDUST;9293
+
+Ingred Name:VOC. .38 LB/GAL LESS WATER & NEGLIGIBLY PHOTOCHEMICALLY
+    REACTIVE MATERIALS 46 G/L LESS WATER CALCULATED
+RTECS #:9999999VO
+
+Ingred Name:VOC. .40 LB/GAL SOLIDS 48 G/L SOLIDS CALCULATED
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:REPEATED EXPOSURE TO CRYSTALLINE
+    SILICA MAY CAUSE PNEUMOCONIOSIS, A PROGRESSIVELY DISABLING LUNG
+    DISEASE. SEE FILE FOR MORE INFO. NOTE TO PHYSICIAN:PRINCIPAL TOXIC
+    EFFECTS OF ETHYLENE GLYCOL, WHEN SWA LLOWED ARE KIDNEY DAMAGE &
+    METABOLIC ACIDOSIS. ETHANOL IS ANTIDOTAL. SEE FILE FOR MORE
+    INFORMATION.
+Explanation of Carcinogenicity:IARC CONSIDERS CRYSTALLINE SILICA TO
+    HAVE LIMITED EVIDENCE OF CARCINOGENS IN HUMANS & SUFFICIENT
+    EVIDENCE IN LAB ANIMALS
+Effects of Overexposure:SWALLOW: ETHYLENE GLYCOL MAY CAUSE ABDOMINAL
+    DISCOMFORT, PAINT, DIZZ, MALAISE, LUMBAR PAINT, OLIGURIA, UREMIA,
+    CENTRAL NERVOUS SYSTEM DEPRESS. SEVERE KIDNEY DAMAGE FROM
+    SWALLOWING LARGE AMOUNTS & MAY  BE FATAL. INHALED: RESPIRATORY
+    IRRITATION. EYES: MAY CAUSE IRRITATION. SKIN: MAY CAUSE DEFATTING &
+    IRRITATION OF SKIN.
+Medical Cond Aggravated by Exposure:PREXISTING RESPIRATORY CONDITIONS
+    MAY BE AGGRAVATED BY EXPOSURE TO CRYSTALLINE SILICA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SWALLOW:IMMED GIVE 1 OR 2 GLASSES OF WATER & CALL PCC/EMERG
+    ROOM/PHYSICIAN FOR WAY TO INDUCE VOMIT.(NEVER GIVE ANYTHING BY
+    MOUTH TO AN UNCONSC PERSON). INHALED:REMOVE TO FRESH AIR.
+    EYES:FLUSH WITH LAR GE AMOUNTS OF WATER, LIFTING LIDS OCCASIONALLY
+    FOR AT LEAST 15 MINUTES. GET MED ATTN. SKIN:REMOVE CONTAMINATED
+    CLOTHING. WASH AFFECTED AREA W/SOAP & WATER. OBTAIN MEDICAL
+    ATTENTION IF IRRIT PERSISTS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:232F/111C
+Extinguishing Media:USE NFPA CLASS B FIRE EXTINGUISHERS FOR FLAMMABLE
+    LIQUID FIRES. POLYMER FOAM IF PREFERRED FOR LARGE FIRES.
+Fire Fighting Procedures:FIREFIGHTER SHOULD WEAR SCBA. USE WATER TO
+    COOL EXPOSED CONTAINERS TO PREVENT PRESSURE
+    BUILD-UP/AUTO-IGNITE/EXPLOSION FROM EXTREME HEAT. FOG NOZZLES
+    PREFERABLE.
+Unusual Fire/Explosion Hazard:OVEREXPOSURE TO DECOMPOSITION PRODUCTS
+    MAY CAUSE A HEALTH HAZARD. SYMPTOMS MAY NOT BE IMMEDIATELY
+    APPARENT. OBTAIN MEDICAL ATTENTION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONFINE IN SMALL AREA; USE ABSORBENT TO CLEAN
+    UP. PLACE IN CONTAINER FOR DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:PROTECT FROM FREEZING OR EXTREMELY
+    HIGH TEMPERATURES.
+Other Precautions:DO NOT TAKE INTERNALLY. CLOSE CONTAINER AFTER EACH
+    USE. KEEP AWAY FROM CHILDREN. DO NOT BREATHE SANDING DUST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF APPLIED BY SPRAYING, USE AN APPROPRIATE,
+    PROPERLY FITTED NIOSH/MSHA APPROVED RESPIRATOR TO REMOVE THE SPRAY
+    MIST. REFER TO OSHA 29 CFR 1910.134 "RESPIRATORY PROTECTION".
+Ventilation:GEN DILUTE & LOCAL EXHAUST VENT IN SUFFIC VOL/PATTERN TO
+    MAINTAIN CONCENTR OF HAZARD SUBSTANCE BELOW LOWEST EXPOS LIMIT
+Protective Gloves:IMPERMEABLE GLOVES (NEOPRENE).
+Eye Protection:SAFETY SPECTACLES WITH SIDE SHIELDS.
+Other Protective Equipment:NOT LIKELY TO BE NEEDED. WEAR FACE SHIELD AS
+    NECESSARY WHEN SPRAYING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:212 TO 432F
+Vapor Density:> THAN AIR
+Spec Gravity:1.3
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:64
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE KNOWN.
+Stability Condition to Avoid:AVOID EXCESSIVE HEAT AND SOURCES OF
+    IGNITION.
+Hazardous Decomposition Products:BURNING, INCLUDING WHEN HEATED BY
+    WELDING OR CUTTING, WILL PRODUCE SMOKE, CARBON MONOXIDE AND CARBON
+    DIOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN ACCORDANCE WITH FEDERAL, STATE AND
+    LOCAL LAWS. RCRA CLASSIFICATION: AS PRODUCED, THIS PRODUCT IS NOT A
+    WASTE. IF DISCARDED AS IS, IT IS NOT CLASSIFIED A HAZARDOUS WASTE
+    UNDER RCRA.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

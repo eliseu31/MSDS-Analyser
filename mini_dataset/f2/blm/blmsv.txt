@@ -1,0 +1,170 @@
+=====================  Product Identification  =====================
+
+Product ID:ANTI-FREEZE COOLANT
+MSDS Date:11/01/1991
+FSC:6850
+NIIN:00-181-7929
+MSDS Number: BLMSV
+=== Responsible Party ===
+Company Name:STARTEX CHEMICAL, INC.
+Box:687
+City:CONROE
+State:TX
+ZIP:77305
+Country:US
+Info Phone Num:409-539-6244
+Emergency Phone Num:409-539-6244
+CAGE:OYFV5
+=== Contractor Identification ===
+Company Name:CHEMICAL SPECIALISTS AND DEVELOPMENT INC
+Address:2210 HACKBERRY LN
+Box:687
+City:CONROE
+State:TX
+ZIP:77305
+Country:US
+Phone:409-756-1065
+CAGE:4N760
+Company Name:STARTEX CHEMICAL INC
+Address:5 HACKBERRY LANE
+Box:3087
+City:CONROE
+State:TX
+ZIP:77305
+Country:US
+Phone:800-424-9300(CHEMTREC)/936-539-6244
+CAGE:OYFV5
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHYLENE GLYCOL  (SARA III)
+CAS:107-21-1
+RTECS #:KW2975000
+Fraction by Wt: 80-95% %
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:C 50 PPM
+ACGIH TLV:C 50 PPM,VAPOR; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 1-4% %
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ACUTE ORAL LD50 (RAT)- 4.7-8.5 G/KG
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: INGESTION: ABDOMINAL DISCOMFORT
+    OR PAIN, NAUSEA, CENTRAL NERVOUS SYSTEM DEPRESSION. SEVERE KIDNEY
+    AND LIVER DAMAGE FROM LARGE AMOUNTS; MAY BE FATAL. INHALATION:
+    DROWSINESS, NARCOSIS. EYE: SLIGH T EYE IRRITATION. CHRONIC:
+    INHALATION OF MIST MAY PRODUCE SIGNS OF CNS DISTURBANCES,
+    UNCONSCIOUSNESS IN CONFINED SPACES.
+Explanation of Carcinogenicity:NONE OF THE COMPOUNDS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP, OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:MAY CAUSE DIZZINESS, MALAISE, LUMBAR PAIN,
+    OLIGURIA, UREMIA, AND CENTRAL NERVOUS SYSTEM DEPRESSION. MAY CAUSE
+    EYE, SKIN & RESPIRATORY TRACT IRRITATION.
+Medical Cond Aggravated by Exposure:PERSONS WITH A HISTORY OF KIDNEY OR
+    LIVER DISORDERS MAYBE AT INCREASED RISK FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. CALL A PHYSICIAN IF
+    DISCOMFORT PERSISTS. EYE: IMMEDIATELY FLUSH EYES WITH PLENTY OF
+    WATER FOR 15 MINUTES. CALL A PHYSICIAN. SKIN: WASH WITH PLENTY OF
+    SOAP & WATER. REM OVE CONTAMINATED CLOTHING/SHOES. INGESTION: IF
+    CONSCIOUS, GIVE 2 GLASSES OF WATER TO DRINK AND INDUCE VOMITING.
+    GIVE NOTHING BY MOUTH IF UNCONSCIOUS. CALL A PHYSICIAN IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:244F,118C
+Lower Limits:3.2
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL.
+Fire Fighting Procedures:COOL FIRE EXPOSED CONTAINERS WITH WATER SPRAY.
+    WATER OR FOAM MAY CAUSE FROTHING. IF A LEAK OR SPILL HAS NOT
+    IGNITED, USE WATER SPRAY TO DISPERSE VAPORS.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SMALL SPILL: WIPE/SOAK UP WITH PAPER TOWEL OR
+    INERT ABSORBANT. PUT IN DISPOSAL CONTAINER. FLUSH RESIDUE WITH
+    WATER. LARGE SPILL: VENTILATE AREA. IF POSSIBLE, STOP LEAK. DIKE TO
+    RETAIN RUN OFF. VACUUM  UP FREE LIQUID. FLUSH RESIDUE WITH WATER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER. WATER DILUTION
+    RECOMMENDED.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL VENTILATED
+    AREA. KEEP CONTAINERS TIGHTLY CLOSED WHEN NOT IN USE. PROTECT
+    CONTAINERS FROM PHYSICAL DAMAGE.
+Other Precautions:MINIMUM FEASIBLE HANDLING TEMPERATURES SHOULD BE
+    MAINTAINED. PERIODS OF EXPOSURE TO HIGH TEMPERATURES SHOULD BE
+    MINIMIZED. WATER CONTAMINATION SHOULD BE AVOIDED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF VENTILATION DOES NOT MAINTAIN INHALATION
+    EXPOSURES BELOW PEL(TLV), USE NIOSH/MSHA APPROVED ORGANIC VAPOR
+    CARTRIDGE AND DUST/MIST PRE-FILTER RESPIRATORS AS PER CURRENT 29
+    CFR 1910.134, INSTRUCTIONS/ WARNINGS AND NIOSH-RESPIRATOR
+    SELECTION.
+Ventilation:MECHANICAL (GENERAL) ROOM VENTILATION IS ADEQUATE IF USE IS
+    ENCLOSED. LOCAL EXHAUST IS NEEDED IF VENTED INTO WORK AREA.
+Protective Gloves:RUBBER
+Eye Protection:SAFETY GOGGLES WITH OPTIONAL FACE SHIELD
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER.
+    INDUSTRIAL-TYPE WORK CLOTHING AND APRON AS REQUIRED.
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES. DO NOT WEAR CONTAMINATED CLOTHING OR
+    FOOTWEAR.
+Supplemental Safety and Health
+DO NOT TAKE INTERNALLY. DO NOT GET ON SKIN OR IN EYES. AVOID PROLONGED
+    OR REPEATED BREATHING OF VAPOR. DO NOT BREATHE MISTS. WASH
+    THOROUGHLY AFTER HANDLING AND BEFORE EATING OR DRINKING OR SMOKING
+    OR	USING RESTROOM.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:388F,198C
+Vapor Pres:<0.1
+Vapor Density:2.14
+Spec Gravity:1.13
+pH:11NEAT
+Viscosity:24 F AT 20 C
+Evaporation Rate & Reference:< 1.0
+Solubility in Water:SOLUBLE
+Appearance and Odor:FLUORESCENT GREEN LIQUID, MILD ODOR
+Percent Volatiles by Volume:NIL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID STRONG, OXIDIZING CONDITIONS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE MAY BE
+    FORMED ON BURNING IN LIMITED AIR SUPPLY.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL SHOULD BE MADE IN ACCORDANCE WITH ALL
+    APPLICABLE FEDERAL, STATE AND LOCAL LAWS AND REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

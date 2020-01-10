@@ -1,0 +1,141 @@
+=====================  Product Identification  =====================
+
+Product ID:971
+MSDS Date:06/16/1986
+FSC:6850
+NIIN:01-263-4055
+MSDS Number: BJDWL
+=== Responsible Party ===
+Company Name:ARDROX INC
+Address:16961 KNOTT AVE
+City:LA MIRADA
+State:CA
+ZIP:90638-6015
+Country:US
+Info Phone Num:714-739-2821
+Emergency Phone Num:714-739-2821/800-424-9300(CHEMTREC)
+Preparer's Name:ABAYOMI I. OWEI
+CAGE:23373
+=== Contractor Identification ===
+Company Name:BRENT AMERICA,  INC.
+Address:16961 KNOTT AVE.
+Box:City:LA MIRADA
+State:CA
+ZIP:90638-6015
+Country:US
+Phone:714-739-2821
+CAGE:23373
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PHTHALATE ESTER
+Fraction by Wt: 25%
+Other REC Limits:5 MG/M3,MANUFACTURER
+
+Ingred Name:AROMATIC PETROLEUM SOLVENT
+CAS:8002-05-9
+RTECS #:SE7449000
+Fraction by Wt: >30%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:1600 MG/M3
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE-EYES:IRRITATION,
+    SKIN:IRRITATION, INHALATION:CENTRAL NERVOUS SYSTEM DISORDERS,
+    INGESTION:GASTROINTESTINAL TRACT IRRITATION.
+    CHRONIC-EYES:IRRITATION, SKIN:IRRITATION, INHALATION:CENTRAL
+    NERVOUS S YSTEM DISORDERS, INGESTION:IRRITATION.
+Explanation of Carcinogenicity:NONE OF THE COMPOUNDS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP, OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:EYES:IRRITATION, SKIN:IRRITATION,
+    INHALATION:HEADACHE, STUPOR, NAUSEA, DIZZINESS AND VOMITING,
+    INGESTION:MAY CAUSE STOMACH UPSET.
+Medical Cond Aggravated by Exposure:SKIN DISEASES COULD BE AGGRAVATED
+    BY REPEATED EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH W/WATER FOR AT LEAST 15 MIN, HOLD LIDS OPEN. 
+    SKIN:WASH WITH SOAP & WATER. REMOVE CONTAMINATED CLOTHING AND
+    LAUNDER BEFORE REUSE.  INHALED:REMOVE TO FRESH AIR. RESTORE
+    BREATHING IF NECESSARY .  INGESTED:DO NOT INDUCE VOMITING OR GIVE
+    EMETICS AND GET IMMEDIATE MEDICAL CARE. GIVE NOTHING BY MOUTH IF
+    UNCONSCIOUS.   IF IRRITATION PERSISTS OR IS SEVERE,SEE A DOCTOR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:210F,99C
+Autoignition Temp:Autoignition Temp Text:800F
+Lower Limits:1.1
+Upper Limits:5.9
+Extinguishing Media:USE CARBON DIOXIDE, FOAM, OR DRY CHEMICAL.
+Fire Fighting Procedures:DON'T USE WATER SPRAY SINCE THIS MAY SPREAD
+    HYDROCARBON FIRES. WARE SELF-CONTAINED BREATHING APPARATUS AND FULL
+    PROTECTIVE CLOTHING. COOL CONTAINERS NEAR FLAMES
+Unusual Fire/Explosion Hazard:HANDLE AS COMBUSTIBLE MATERIAL, EXPLOSION
+    MAY OCCUR FROM THE HEAT OF FIRE DUE TO VAPOR BUILD UP IN
+    CONTAINERS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WIPE/SOAK UP WITH CLOTH OR PAPER TOWEL OR
+    INERT ABSORBENT. PUT IN DISPOSAL CONTAINER. REMOVE RESIDUE WITH
+    WATER.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL VENTILATED
+    AREA. KEEP CONTAINERS TIGHTLY CLOSED WHEN NOT IN USE. PROTECT
+    CONTAINERS FROM PHYSICAL DAMAGE.
+Other Precautions:STORE AWAY FROM HEAT, SPARKS, OPEN FLAMES AND
+    OXIDIZERS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED ORGANIC VAPOR RESPIRATOR.
+Ventilation:GENERAL ROOM VENTILATION IS NORMALLY ADEQUATE. USE LOCAL
+    EXHAUST IF NECESSARY TO CONTROL EXPOSURE BELOW PEL/TLV.
+Protective Gloves:NEOPRENE, NITRILE, VPC OR NATURAL RUBBER
+Eye Protection:SAFETY GLASSES OR GOGGLES
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER.
+    INDUSTRIAL-TYPE WORK CLOTHING AND APRON AS REQUIRED.
+Work Hygienic Practices:WASH HANDS BEFORE HANDLING ANY FOOD FOR
+    CONSUMPTION.
+Supplemental Safety and Health
+AVOID PROLONGED OR REPEATED BREATHING OF VAPORS. AVOID REPEATED
+    EXPOSURE OR CONTACT WITH SKIN.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:450F,232C
+Spec Gravity:0.9
+Evaporation Rate & Reference:<1(BUTYL ACETATE = 1)
+Solubility in Water:COMPLETE(EMULSIFIES)
+Appearance and Odor:CLEAR YELLOW-GREEN LIQUID WITH A MILD ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HIGH TEMPERATURES AND OPEN FLAMES
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W ALL FEDERAL, STATE AND LOCAL
+    REGULATIONS. USE SPECIALIST WASTE DISPOSAL COMPANY.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

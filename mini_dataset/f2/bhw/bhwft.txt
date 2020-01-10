@@ -1,0 +1,136 @@
+=====================  Product Identification  =====================
+
+Product ID:PC12 007M PART A
+MSDS Date:12/10/1986
+FSC:8030
+NIIN:00-626-9322
+Kit Part:Y
+MSDS Number: BHWFT
+=== Responsible Party ===
+Company Name:DEXTER ELECTRONIC MATERIALS,THE DEXTER CORP
+Address:211 FRANKLIN ST
+City:OLEAN
+State:NY
+ZIP:14760
+Country:US
+Info Phone Num:716-372-6300
+Emergency Phone Num:716-372-6309
+Preparer's Name:JAMES P HORNBURG
+CAGE:04347
+=== Contractor Identification ===
+Company Name:DEXTER CORP THE DEXTER ELECTRONIC MATERIAL DIV
+Address:211 FRANKLIN ST.
+Box:City:OLEAN
+State:NY
+ZIP:14760-1297
+Country:US
+Phone:716-372-6300/6309
+CAGE:04347
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:N-BUTYL GLYCIDYL ETHER (BGE)
+CAS:2426-08-6
+RTECS #:TX4200000
+Fraction by Wt: 1-15%
+Other REC Limits:N/K 
+OSHA PEL:50 PPM
+ACGIH TLV:25 PPM; 9293
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:N/K 
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:POSITIVE SENSITIZER.ANIMAL MUTAGEN.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES:N/K .SKIN:MODERATELY IRRITATING,BUT A
+    POSITIVE SENSITIZER.INGESTION:N/K .INHALATION:MILD IRRITATION TO
+    RESPIRATORY PASSAGES.
+Medical Cond Aggravated by Exposure:N/K 
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH WITH WATER IMMEDIATELY FOR AT LEAST 15
+    MINUTES.SKIN:WASH IMMEDIATELY WITH SOAP & WATER.INGESTION:GIVE
+    LARGE AMOUNTS OF WATER OR MILK TO DRINK AND INDUCE VOMITING BY
+    TOUCHING BACK OF THROAT  WITH FINGER.GET MEDICAL
+    ATTENTION.INHALATION:N/K .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:155F,68C
+Extinguishing Media:USE CARBON DIOXIDE OR DRY CHEMICAL FOR SMALL
+    FIRES;FOAM (ALCOHOL,POLYMER OR ORDINARY) FOR LARGE FIRES.
+Fire Fighting Procedures:AVOID BREATHING SMOKE.
+Unusual Fire/Explosion Hazard:HAZARDOUS DECOMPOSITION PRODUCTS:CARBON
+    MONOXIDES,ALDEHYDES,ACIDS AND OTHER ORGANIC COMPOUNDS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:COVER WITH ABSORBENT MATERIAL,THEN SHOVEL INTO
+    WASTE CONTAINER.IF SPILL AREA IS TO BE SOLVENT-RINSED TO REMOVE
+    STICKINESS,BE AWARE OF SOLVENT VAPOR HAZARDS.
+Neutralizing Agent:N/K 
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A DRY AREA,AVOID SKIN
+    CONTACT.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:US BUREAU OF MINES APPROVED CANNISTER MASK,AIR
+    HOSE MASKS.
+Ventilation:LOCAL EXHAUST-PROVIDE ADEQUATE VENTILATION TO KEEP VAPOR
+    CONCENTRATION BELOW LOWER EXPLOSIVE LIMIT AND TLV (SEE SUPP DA)
+Protective Gloves:RUBBER OR PLASTIC
+Eye Protection:SAFETY GLASSES OR GOGGLES
+Other Protective Equipment:WEAR COVERALLS OR APRON TO AVOID CLOTHING
+    AND SKIN CONTAMINATION.
+Work Hygienic Practices:N/K 
+Supplemental Safety and Health
+WASTE DISPOSAL METHODS:CONTROLLED INCINERATION OR PUT INTO METAL
+    CONTAINERS FOR LANDFILL BURIAL.THIS IS NOT A HAZARDOUS WASTE UNDER
+    THE RESOURCE CONSERVATION AND RECOVERY ACT
+    (RCRA).VENTILATION:WITHIN  ACCEPTABLE LIMITS.MECHANICAL-GENERAL
+    DILUTION TYPE.
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:M.P/F.P Text:N/K 
+Decomp Temp:Decomp Text:N/K 
+Spec Gravity:1.08 (WATER=1)
+Evaporation Rate & Reference:>1 (BUTYL ACETATE=1)
+Solubility in Water:0
+Appearance and Odor:AMBER,MEDIUM VISCOSITY LIQUID,VERY SLIGHT
+    CHARACTERISTIC ODOR.
+Percent Volatiles by Volume:8
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTAMINATION WITH ALKALIES,ACIDS,AMINES AND WATER.
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:CARBON MONOXIDES,ALDEHYDES,ACIDS AND
+    OTHER ORGANIC COMPOUNDS.
+Conditions to Avoid Polymerization:EXOTHERMIC CURE MAY OCCUR WHEN LARGE
+    QUANTITIES ARE MIXED WITH CURING.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE IN ACCORDANCE WITH
+    FEDERAL,STATE AND LOCAL REGULATIONS.COORDINATION WITH SUPPORTING
+    INSTALLATION AND/OR MACOM ENVIRONMENTAL COORDINATION PRIOR TO
+    DISPOSAL IS RECOMMENDED TO DETERMINE  APPROPRIATE DISPOSAL METHODS
+    .(SEE SUPP DA)
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

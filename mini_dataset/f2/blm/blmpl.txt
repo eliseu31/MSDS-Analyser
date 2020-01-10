@@ -1,0 +1,122 @@
+=====================  Product Identification  =====================
+
+Product ID:C-4 REFRIGERATION OIL, 4304
+MSDS Date:04/11/1991
+FSC:9150
+NIIN:00N021981
+MSDS Number: BLMPL
+=== Responsible Party ===
+Company Name:CALGON VESTAL LABORATORIES
+Address:5035 MANCHESTER AVE
+City:ST LOUIS
+State:MO
+ZIP:63110
+Country:US
+Info Phone Num:314-535-1810
+Emergency Phone Num:314-535-1810;800-424-9300(CHEMTREC)
+CAGE:0LKT5
+=== Contractor Identification ===
+Company Name:CALGON VESTAL LABORATORIES
+Address:5035 MANCHESTER AVENUE
+Box:City:ST LOUIS
+State:MO
+ZIP:63110
+Country:US
+Phone:800-424-9300 (CHEMTREC)
+CAGE:0LKT5
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PETROLEUM DISTILLATES, CLAY-TREATED HEAVY NAPHTHENIC(LISTED
+    BY MFR AS "MINERAL OIL")
+CAS:64742-44-5
+RTECS #:SE7449700
+Fraction by Wt: 100%
+ACGIH TLV:5 MG/M3 (OIL MIST)
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50: ORAL(RAT) >30 G/KG.
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: EYE & SKIN: MAY CAUSE
+    REVERSABLE IRRITATION. INGEST: THE PRODUCT IS PRACTICALLY NON-TOXIC
+    THROUGH INGESTION. CHRONIC: NONE KNOWN.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:GOOD FIRST AID SHOULD BE FOLLOWED IN ALL CASES OF EXPOSURE.
+    EYES: FLUSH W/PLENTY OF WATER FOR A MINIMUM OF 15 MINUTES. IF
+    IRRITATION DEVELOPS, CALL MD. INGEST: CALL MD IMMEDIATELY . INHAL:
+    REMOV E TO FRESH AIR. SUPPORT BREATHING (GIVEO2/ARTF RESP) . SKIN:
+    FLUSH W/COPIOUS AMOUNTS OF WATER. CALL MD .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:340F,171C
+Extinguishing Media:WATER FOG, CHEMICAL FOAM, DRY CHEMICAL, CO2.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DIKE AREA TO CONTAIN AS MUCH SPILLED MATERIAL
+    AS POSSIBLE. REMOVE ANY REMAINING MATERIAL BY ABSORBING ON
+    VERMICULITE OR OTHER SUITABLE MATERIAL AND PLACE IN SEALED METAL
+    CONTAINER FOR DISPOSAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:WASH THOROUGHLY AFTER HANDLING. KEEP
+    CONTAINER CLOSED. EXERCISE CAUTION IN THE STORAGE & HANDLING OF ALL
+    CHEMICAL SUBSTANCES.
+Other Precautions:READ AND OBSERVE ANY LABEL PRECAUTIONS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT REQUIRED. IF NECESSARY, USE NIOSH/MSHA
+    APPROVED RESPIRATOR APPROPRIATE FOR EXPOSURE OF CONCERN .
+Ventilation:LOCAL EXHAUST.
+Protective Gloves:NOT REQUIRED. IMPERVIOUS GLOVES .
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NOT REQUIRED.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+% VOLAT: 100 (BY WEIGHT).
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:>212F,>100C
+Vapor Density:12+
+Spec Gravity:0.92
+Appearance and Odor:COLORLESS LIQUID, LITTLE ODOR.
+Percent Volatiles by Volume:SUPDAT
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS.
+Stability Condition to Avoid:NONE KNOWN.
+Hazardous Decomposition Products:EXPOSURE TO HIGH TEMPERATURE CAN
+    PRODUCE CO.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:MIX WITH FLAMMABLE SOLVENT AND INCINERATE IN
+    ACCORDANCE WITH LOCAL, STATE, AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,156 @@
+=====================  Product Identification  =====================
+
+Product ID:OMC HI-VIS GEAR LUBE 31-250, 173242
+MSDS Date:05/08/1989
+FSC:9150
+NIIN:00N021279
+MSDS Number: BLMJB
+=== Responsible Party ===
+Company Name:CITGO PETROLEUM CORP
+Box:3758
+City:TULSA
+State:OK
+ZIP:74102
+Info Phone Num:918-495-5933
+Emergency Phone Num:318-491-6215 800-424-9300(CHEMTREC)
+CAGE:7X110
+=== Contractor Identification ===
+Company Name:CITGO PETROLEUM CORP
+Address:6100 S YALE AVE
+Box:3758
+City:TULSA
+State:OK
+ZIP:74102
+Country:US
+Phone:918-495-5933
+CAGE:7X110
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:REFINED HEAVY PARAFFINIC DISTILLATES
+CAS:64741-88-4
+Fraction by Wt: 97-99%
+OSHA PEL:5 MG/M3 (OIL MIST)
+ACGIH TLV:5 MG/M3 (OIL MIST)
+
+Ingred Name:EXTREME PRESSURE, OXIDATION AND RUST INHIBITOR
+Fraction by Wt: 1-4%
+
+Ingred Name:VI IMPROVER
+Fraction by Wt: <0.1%
+
+Ingred Name:SUPP DATA: SURGICAL DEBRIDMENT. IF NOT FAMILIAR WITH
+    TECHNIQUE, SEEK SKILLED ADVICE. SUS VISCOSITY AT 100 F=740.
+RTECS #:9999999ZZ
+
+Ingred Name:VENT: MANDATED STANDARDS AS EVALUATED BY DESIGNATED
+    PERSONNEL.
+RTECS #:9999999ZZ
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50: (ORAL,RAT) >15 G/KG.
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: LOW RISK OF INHAL. IN ENCLOSED
+    SPACES/WHEN HOT, VAPS MAY REACH CONC SUFFICIENT TO CAUSE DROW,
+    DIZZ, HDCH, NAUS, OR LUNG IRRIT. MIST ABOVE TLV MAY CAUSE CHEM
+    PNEUM. SKIN: LOW IRRIT. EYE: MAY BE  MILDLY IRRIT. INGEST:
+    GENERALLY LOW TOXICITY. VERY LRG AMTS (SEE EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ: MAY CAUSE GENERALIZED DEPRESSION,
+    HEADACHE, DROWSINESS, NAUSEA, VOMITING OR DIARRHEA. SMALL DOSES MAY
+    PRODUCE IRRITATION AND DIARRHEA. INJECTION: ERYTHEMA, EDEMA,
+    IRRITATION. CHRONIC: PROLON GED AND/OR FREQUENT CONTACT MAY CAUSE
+    DRYING, DRACKING (DERMATITIS) OF FOLLICULITIS.
+Medical Cond Aggravated by Exposure:NONE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: REMOVE TO FRESH AIR. RESP SUPPORT IF NEC. SEEK MED
+    AID. SKIN: WASH W/SOAP & H2O. DO NOT WEAR HEAVILY CONTAM CLTHG
+    BEFORE LAUNDERING. EYES: FLUSH W/LRG VOL OF H2O. SEE PHYS IF ANY
+    COMPLICATIONS  ARISE. INGEST: DO NOT INDUCE VOMIT. SEEK MED AID.
+    INJECTION: SUBCUTANEOUS INJECTION IS MED EMER. SEEK MED AID IMMED.
+    NOTES TO PHYS: IF VISCOSITY IS < 100 SUS AT 100 F, CAREFUL GASTRIC
+    (SUPP DATA)
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:460F,238C
+Extinguishing Media:CO2, DRY CHEMICAL, FOAM, WATER FOG.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:WATER MAY CAUSE FROTHING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE SOURCES OF HEAT/IGNITION, PROVIDE ADEQ
+    VENT, CONTAIN LEAK. SMALL SPILL: ABSORB WITH SUITABLE MATL SUCH AS
+    RAGS, STRAW OR SAND. LRG SPILLS: CONTAIN SPILL IN EARTHEN DIKES FOR
+    LATER RECOVERY. REP ORT SPILLS AS REQUIRED TO APPROP AUTHORITIES.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE BELOW 150 F DO NOT APPLY HIGH
+    HEAT OR FLAME TO CONTAINER. KEEP SEPARATE FROM STRONG OXIDIZING
+    AGENTS.
+Other Precautions:EMPTY CNTNRS MAY CONTAIN PROD RESIDUE WHICH COULD
+    INCLUDE FLAM/EXPLO VAPS. CONSULT APPROP FED, STATE AND LOCAL
+    AUTHORITIES BEFORE REUSING, RECONDITIONING, RECLAIMING, RECYCLING
+    OR DISP OF EMPTY CNTNRS  &/OR WASTE RESIDUES OF PRODUCT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NORMALLY NONE REQUIRED. IF HIGH VAPOR OR MIST
+    CONCENTRATIONS EXPECTED-USE NIOSH/MSHA APPROVED RESPIRATOR FOR
+    ORGANIC VAPORS AND MISTS.
+Ventilation:USE IN WELL VENT AREA. IN CONFINED SPACES, MECH VENT MAY BE
+    REQD TO KEEP LEVS OF CERTAIN COMPONENTS BELOW (INGRED 5)
+Protective Gloves:OIL IMPERVIOUS GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:WEAR BODY-COVERING WORK CLOTHES TO AVOID
+    PROLONGED OR REPEATED EXPOSURE.
+Work Hygienic Practices:LAUNDER SOILED WORK CLOTHES BEFORE REUSE.
+Supplemental Safety and Health
+% VOLAT: NEGLIGIBLE. FIRST AID PROC: LAVAGE W/TIGHT FITTING/CUFFED TUBE
+    IS TO BE PREFERRED OVER EMESIS. IF VISCOSITY IS > 100 SUS AT 100 F,
+    EMESIS MAY BE INDUCED FOR LRG QTYS. ASPIR MAY CAUSE CHEM PNE
+    UM/LIPOID PNEUM. SUBCUTANEOUS INJECTIONREQS PROMPT (ING 4)
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:750F,399C
+Vapor Pres:<3 X 10.4
+Vapor Density:>1
+Spec Gravity:0.89
+Evaporation Rate & Reference:<1 (BUTYL ACETATE=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:AMBER LIQUID, SLIGHT SULFURIZED ODOR.
+Percent Volatiles by Volume:SUPDAT
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDANTS.
+Stability Condition to Avoid:NONE.
+Hazardous Decomposition Products:CO2, (CO UNDER INCOMPLETE COMBUSTION).
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:IT IS RESPONSIBILITY OF USER TO DETERMINE IF
+    MATL IS HAZ WASTE AT TIME OF DISP. CHECK BEFORE DISPOSING TO BE
+    SURE YOU ARE IN COMPLIANCE WITH ALL APPLICABLE FEDERAL STATE AND
+    LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

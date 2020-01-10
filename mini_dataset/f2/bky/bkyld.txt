@@ -1,0 +1,173 @@
+=====================  Product Identification  =====================
+
+Product ID:LUBRI-BOND 220 MIL L 23398D TYPE II
+MSDS Date:09/15/1986
+FSC:9150
+NIIN:00-468-2000
+MSDS Number: BKYLD
+=== Responsible Party ===
+Company Name:ELECTROFILM MFG CO
+Address:25395 RYE CANYON RD
+Box:55669
+City:VALENCIA
+State:CA
+ZIP:91355-5000
+Country:US
+Info Phone Num:805-257-2242
+Emergency Phone Num:805-257-2242
+Preparer's Name:CARL GREEN
+CAGE:85932
+=== Contractor Identification ===
+Company Name:ELECTROFILM MFG CO
+Address:27727 AVE SCOTT
+Box:55669
+City:VALENCIA
+State:CA
+ZIP:91355
+Country:US
+Phone:805-257-2242
+CAGE:85932
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TOLUENE (IARC CARC- GROUP 3)     *97-2*
+CAS:108-88-3
+RTECS #:XS5250000
+Other REC Limits:375 MG/CUM
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:PROPANE (DIMETHYLMETHANE)	*97-2*
+CAS:74-98-6
+RTECS #:TX2275000
+Other REC Limits:1800 MG/CUM
+OSHA PEL:1000 PPM
+ACGIH TLV:SIMPLE ASPHYXIANT
+
+Ingred Name:2-BUTOXYETHANOL (ETHYLENE GLYCOL MONOBUTYL ETHER), BUTYL
+    CELLOSOLVE, BUTYL GLYCOL, GLYCOL ETHER EB	 *97-2*
+CAS:111-76-2
+RTECS #:KJ8575000
+Other REC Limits:25 PPM (SKIN)
+OSHA PEL:50 PPM (SKIN)
+ACGIH TLV:25 PPM (SKIN)
+
+Ingred Name:MOLYBDENUM DISULFIDE
+CAS:1317-33-5
+RTECS #:QA4697000
+OSHA PEL:15 MG/CUM AS (MO)
+ACGIH TLV:10 MG/CUM AS (MO)
+
+Ingred Name:EPOXY RESIN
+
+Ingred Name:XYLENE, DIMETHYLBENZENE, XYLOL     (IARC - GROUP 3)  *97-2*
+CAS:1330-20-7
+RTECS #:ZE2100000
+Other REC Limits:100 PPM
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM, SKIN
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:DICHLOROMETHANE (METHYLENE CHLORIDE) (SUSP HUMAN CARC BY
+    ACGIH, SUSP ANIM CARC BY IARC GROUP 2B, SUSP CARC BY NTP)*97-2*
+CAS:75-09-2
+RTECS #:PA8050000
+OSHA PEL:500 PPM
+ACGIH TLV:174 MG/CUM (A2)
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ANTIMONY TRIOXIDE, ANTIMONY OXIDE (SUSP CARCINOGEN BY
+    ACGIH, ANIMAL CARCINOGEN IARC - GROUP 2B)	*97-2*
+CAS:1309-64-4
+RTECS #:CC5650000
+ACGIH TLV:0.5 MG/CUM (A2)
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:LEAD HYPOPHOSPHITE *97-2*
+CAS:10294-58-3
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:YES
+Health Hazards Acute and Chronic:INHALATION: ANESTHETIC. DEATH BY
+    ASPHYXIATION IS POSSIBLE. SKIN: MAY CAUSE IRRITATION. PROLONGED
+    EXPOSURE MAY CAUSE LIVER, KIDNEY & HEAT DAMAGE.
+Explanation of Carcinogenicity:METHYLENE CHLORIDE & ANTIMONY TRIOXIDE
+    (ONLY BY ACGIH) ARE A2 SUSPECTED HUMAN CARCINOGENS.
+Effects of Overexposure:ASPHYXIATION, NARCOSIS, IRRITATION
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. INGESTION: DON'T INDUCE
+    VOMITING. SKIN: WASH W/SOAP & WATER. OBTAIN MEDICAL ATTENTION IN
+    ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:-20F TO -30F
+Lower Limits:2.3
+Upper Limits:9.5
+Extinguishing Media:CO2, FOAM
+Fire Fighting Procedures:USE SELF-CONTAINED BREATHING APPARATUS IN
+    CLOSED AREAS.
+Unusual Fire/Explosion Hazard:HEATED CANS MAY EXPLODE, KEEP COOL IF
+    POSSIBLE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:BLOT UP W/ABSORBENT MATERIAL. SEAL IN
+    CONTAINERS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID STORAGE >80F. PRESSURIZED CAN,
+    DON'T INCINERATE. PUNCTURE W/CAUTION. USE IN WELL VENTILATED AREA.
+Other Precautions:AVOID SKIN CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE AN ORGANIC FUME & VAPOR RESPIRATOR.
+Ventilation:LOCAL EXHAUST: RECOMMENDED. MECHANICAL (GENERAL):
+    EXPLOSION-PROOF.
+Protective Gloves:RECOMMENDED
+Eye Protection:FULL SAFETY GLASSES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:-43.7F
+Vapor Density:1.5-2.6
+Spec Gravity:1.15-1.3
+Evaporation Rate & Reference:(BUTYL ACETATE=1): 12.5
+Solubility in Water:<0.1%
+Appearance and Odor:DARK GRAY W/PAINT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:FLAMES/HOT SURFACES & HIGH
+    HEAT/TEMPERATURES
+Hazardous Decomposition Products:PHOSGENE GAS AT HIGH TEMPERATURES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. PRESSURIZED CAN, DON'T INCINERATE. PUNCTURE
+    W/CAUTION.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

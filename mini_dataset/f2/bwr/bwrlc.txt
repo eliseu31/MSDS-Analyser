@@ -1,0 +1,181 @@
+=====================  Product Identification  =====================
+
+Product ID:MARCOLOY,1900 SILVER BRAZING KIT,PART A
+MSDS Date:06/01/1991
+FSC:3439
+NIIN:01-047-4141
+Kit Part:Y
+MSDS Number: BWRLC
+=== Responsible Party ===
+Company Name:MARCO CO
+Address:5722 UNION PACIFIC AVENUE
+City:LOS ANGELES
+State:CA
+ZIP:90022-5135
+Country:US
+Info Phone Num:213-723-0711
+Emergency Phone Num:213-723-0711
+CAGE:55278
+=== Contractor Identification ===
+Company Name:MARCO CO
+Address:5722 UNION PACIFIC AVENUE
+Box:City:LOS ANGELES
+State:CA
+ZIP:90022-5135
+Country:US
+Phone:213-723-0711
+CAGE:55278
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SILVER (SARA 313) (CERCLA)
+CAS:7440-22-4
+RTECS #:VW3500000
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:0.01 MG/M3
+ACGIH TLV:0.1 MG/M3; 9495
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:COPPER (SARA 313) (CERCLA)
+CAS:7440-50-8
+RTECS #:GL5325000
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:0.1MG/M3 FUME/1 DUST
+ACGIH TLV:0.2 MG/M3 FUME; 9495
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ZINC (SARA 313) (CERCLA)
+CAS:7440-66-6
+RTECS #:ZG8600000
+Other REC Limits:NONE RECOMMENDED
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:CADMIUM (SARA 313) (CERCLA)
+CAS:7440-43-9
+RTECS #:EU9800000
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:0.2 MG/M3 DUST; Z-2
+ACGIH TLV:0.01 MG/M3 DUST;9495
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+Ingred Name:NICKEL (SARA 313) (CERCLA)
+CAS:7440-02-0
+RTECS #:QR5950000
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9495
+
+Ingred Name:TIN
+CAS:7440-31-5
+RTECS #:XP7320000
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:2 MG/M3
+ACGIH TLV:2 MG/M3; 9495
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL RAT) IS UNKNOWN.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:YES
+Health Hazards Acute and Chronic:TARGET ORGANS:LUNGS, EYES, SKIN.
+    ACUTE- LITTLE/NO HAZARDS BEFORE USED IN WELDING. INHALING FUMES CAN
+    CAUSE LUNG DAMAGE. MAY CAUSE METAL FUME FEVER. ARC RAYS & UV LIGHT
+    CAN INJURE EYES & BURN SKIN. CHR ONIC- UNKNOWN.
+Explanation of Carcinogenicity:CONTAINS C	[7440-43-9] WHICH IS
+    LISTED BY NTP AND IARC AND REGULATED BY OSHA AS A CARCINOGEN.
+Effects of Overexposure:IRRITATION, DIZZINESS, WATERY EYES, HEADACHE,
+    NAUSEA, BREATHING DIFFICULTY, COUGHING, CHEST PAIN
+Medical Cond Aggravated by Exposure:PERSONS WITH IMPAIRED PULMONARY
+    FUNCTION, AIRWAY DISEASES AND CONDITIONS SUCH AS ASTHMA, EMPHYSEMA,
+    CHRONIC BRONCHITIS, ETC... CAN BE AGGRAVATED BY THE EXPOSURE TO
+    METAL FUMES.
+
+=======================  First Aid Measures  =======================
+
+First Aid:GET MEDICAL ATTENTION IF SYMPTOMS PERSIST. EMPLOY FIRST AID
+    TECHNIQUE RECOMMENDED BY RED CROSS. IF BREATHING IS DIFFICULT,
+    PROVIDE OXYGEN/CPR IF NEEDED. FOR ELECTRIC SHOCK, DISCONNECT POWER.
+    FOR ARC B URNS, APPLY COLD, CLEAN COMPRESSES & CALL A PHYSICIAN. IF
+    EYE CONTACT, FLUSH WITH WATER FOR 15 MINUTES. IF INGESTED, CALL
+    PHYSICIAN/POISON CONTROL CENTER. IF SKIN CONTACT, WASH WITH SOAP &
+    WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NOT RELEVANT
+Extinguishing Media:CARBON DIOXIDE, DRY CHEMICAL, SAND
+Fire Fighting Procedures:WEAR FULL PROTECTIVE CLOTHING AND
+    NIOSH-APPROVED SELF-CONTAINED BREATHING APPARATUS WITH FULL
+    FACEPIECE OPERATED IN THE POSITIVE PRESSURE MODE.
+Unusual Fire/Explosion Hazard:WELDING ARC AND SPARKS CAN IGNITE
+    COMBUSTIBLES AND FLAMMABLES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NOT RELEVANT
+Neutralizing Agent:NOT RELEVANT
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A DRY PLACE. KEEP OUT OF
+    REACH OF CHILDREN.
+Other Precautions:AVOID BREATHING OF FUMES. USE WITH ADEQUATE
+    VENTILATION. WASH THOROUGHLY AFTER HANDLING AND BEFORE EATING AND
+    DRINKING. REMOVE CONTAMINATED CLOTHING. LAUNDER BEFORE REUSE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH APPROVED SUPPLIED AIR RESPIRATORY
+    PROTECTION OR RESPIRABLE FUME RESPIRATOR WHEN WELDING, BRAZING OR
+    SOLDERING IN CONFINED SPACE OR WHERE LOCAL EXHAUST OR VENTILATION
+    DOES NOT KEEP EXPOSURE B ELOW TLV.
+Ventilation:USE GENERAL & LOCAL EXHAUST AT FLAME TO KEEP FUMES AND
+    GASES BELOW TLV'S IN THE WORKER'S BREATHING ZONE & GENERAL AREA.
+Protective Gloves:FLAME-PROOF WELDING GLOVES
+Eye Protection:SAFETY GLASSES UNDER WELDING HELMET
+Other Protective Equipment:EYE WASH STATION, SAFETY SHOWER, WORK
+    CLOTHING AND APRON FOR WELDING.
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES.
+Supplemental Safety and Health
+KEY1:T6. THIS PRODUCT IS A KIT CONSISTING OF TWO PARTS. PART ONE, HAS
+    PNI D; PART TWO HAS PNI E, SAME NSN. FORMULA CHANGED. FOR PREVIOUS
+    FORMULATIONS SEE PNI A, B AND C, SAME NSN. PRODUCT TYPE: SILVER 
+    BRAZING ALLOYS (FLUX COATED, PASTE & BARE WIRE).
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T6
+NRC/State Lic Num:NOT RELEVANT
+Viscosity:NOT RELEVANT
+Evaporation Rate & Reference:NOT RELEVANT
+Solubility in Water:INSOLUBLE
+Appearance and Odor:WIRE CONTAINING SILVER
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:WELDING FUMES (OXIDES OF METAL BEING
+    WELD) AND GASES SUCH AS OZONE, CARBON MONOXIDE, CARBON DIOXIDE,
+    NITROGEN OXIDES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PRIOR TO DISPOSAL, CONSIDER IF MATERIAL HAS
+    RECOVERY VALUE. DISPOSE OF IN ACCORDANCE WITH ALL LOCAL, STATE AND
+    FEDERAL REGULATIONS. PREVENT WASTE FROM CONTAMINATING ENVIRONMENT.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

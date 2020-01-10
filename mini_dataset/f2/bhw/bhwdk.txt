@@ -1,0 +1,152 @@
+=====================  Product Identification  =====================
+
+Product ID:RL 8740B-B COMP B
+MSDS Date:01/01/1987
+FSC:8010
+NIIN:01-160-6746
+Kit Part:Y
+MSDS Number: BHWDK
+=== Responsible Party ===
+Company Name:RM ENGINEERED PRODUCTS, INC.
+Address:4854 O'HEAR AVENUE
+City:NORTH CHARLESTON
+State:SC
+ZIP:29406
+Country:US
+Info Phone Num:803-744-6261
+Emergency Phone Num:803-744-6261
+CAGE:0DCP7
+=== Contractor Identification ===
+Company Name:RM ENGINEERED PRODUCTS INC
+Address:4854 O HEAR AVE
+Box:City:NORTH CHARLESTON
+State:SC
+ZIP:29406
+Country:US
+Phone:803-744-6261
+CAGE:0DCP7
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:1,6-DIISOCYANATOHEXANE  (HEXAMETHYLENE DIISOCYANATE)
+CAS:822-06-0
+RTECS #:MO1740000
+Fraction by Wt: 1.2%
+ACGIH TLV:0.005 PPM; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:HOMOPOLYMER OF HDI
+CAS:4035-89-6
+Fraction by Wt: 75%
+
+Ingred Name:N-BUTYL ACETATE  (SARA III)
+CAS:123-86-4
+RTECS #:AF7350000
+Fraction by Wt: 25%
+OSHA PEL:150 PPM/200 STEL
+ACGIH TLV:150 PPM/200STEL;9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Health Hazards Acute and Chronic:1 MG/M3 RECOMMENDED. N-BUTYL ACETATE
+    150 PPM. EXPOSURE ABOVE TLV MAY LEAD TO BRONCHITIS, BRONCHIAL SPASM
+    & PUMONARY EDEMA. MAY CAUSE IRRITATION OR CORROSIVE ACTION IN SKIN
+    AND EYES. INTERNAL TISSUE SE NSITIZATION IS KNOWN.
+Effects of Overexposure:1 MG/M3 RECOMMEND09JAN91UTYL ACETATE 150 PPM.
+    EXPOSURE ABOVE TLV MAY LEAD TO BRONCHITIS, BRONCHIAL SPASM &
+    PULMONARY EDEMA. MAY CAUSE IRRITATION OR CORROSIVE ACTION IN SKIN
+    AND EYES. INTERNAL TISSUE S ENSITIZATION IS KNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH CLEAN LUKEWARM WATER, OBTAIN MEDICAL
+    ATTENTION. SKIN: WASH WITH SOAP & WATER. INHALATION: MOVE TO AREA
+    FREE FROM RISK, ADMINISTER OXYGEN OR ARTIFICIAL RESPIRATION AS
+    NEEDED, OBTAIN ME DICAL ATTENTION. INGESTION: DO NOT INDUCE
+    VOMITING. CONSULT PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:82 F/28 C
+Lower Limits:1.7
+Upper Limits:7.6
+Extinguishing Media:USE DRY CHEMICAL, CARBON DIOXIDE, HIGH EXPANSION
+    CHEMICAL FOAM.
+Fire Fighting Procedures:FULL EMERGENCY EQUIPMENT, SELF CONTAINED
+    BREATHING APPARATUS AND FULL PROTECTIVE CLOTHING SHOULD BE WORN.
+    SOLVENT VAPORS ARE HEAVIER THAN AIR.
+Unusual Fire/Explosion Hazard:HDI VAPORS AND HIGHLY TOXIC GASSES MAY BE
+    GENERATED. CLOSED CONTAINERS MAY EXPLODE IN EXTREME HEAT OR BURST
+    WHEN CONTAMINATED WITH WATER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE NON-ESSENTIAL PERSONNEL. VENTILATE &
+    REMOVE ALL SOURCES OF IGNITION. COVER SPILL WITH ABSORBENT
+    MATERIAL. NOTIFY AUTHORITIES: REACT W/DECONTAMINATION SOLUTION FOR
+    10 MIN; TERGITOL TMN-10 (20% ) WATER (80%) RESPIRATORY PROTECTION
+    RECOMMENDED.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM HEAT, SPARKS AND OPEN
+    FLAME. STORE IN TIGHTLY CLOSED CONTAINERS TO PREVENT MOISTURE
+    CONTAMINATION.
+Other Precautions:GROUND CONTAINERS DURING STORAGE AND TRANSFER
+    OPERATIONS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AIRLINE RESPIRATORS UNLESS SAMPLING DATA ALLOWS
+    CHEMICAL CARTRIDGE RESPIRATORS.
+Ventilation:LOCAL EXHAUST: KEEP CONCENTRATION BELOW TLV. SPECIAL:
+    EXPLOSION PROOF. MECHANICAL: KEEP CONCENTRATION BELOW TLV.
+Protective Gloves:CHEMICAL RESISTANT.
+Eye Protection:SPLASH PROOF SAFETY GOGGLES.
+Other Protective Equipment:EYEWASH SHOWER.
+Supplemental Safety and Health
+N/K								       
+				      09JAN91
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>248F/>120C
+Vapor Pres:<15 @ 68 F
+Vapor Density:> THAN AIR
+Spec Gravity:1.06 (H20=1)
+Evaporation Rate & Reference:SLOWER THAN BU ACETATE
+Solubility in Water:INSOLUBLE
+Appearance and Odor:CLEAR PALE YELLOW LIQUID WITH SOLVENT ODOR.
+Percent Volatiles by Volume:30
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+WATER, AMINES, STRONG BASES, ALCOHOLS, METAL COMPOUNDS, SURFACE ACTIVE
+    MATERIALS.
+Stability Condition to Avoid:POLYMERIZATION MAY OCCUR WITH MOISTURE OR
+    OTHER ISOCYATE REACTIVE MATERIALS OR MAY OCCUR ABOVE 400 F.
+Hazardous Decomposition Products:BY HEAT AND FIRE: CARBON DIOXIDE,
+    CARBON MONOXIDE, OXIDES OF NITROGEN, TRACES OF HCN OR HDI.
+Conditions to Avoid Polymerization:MOISTURE, ISOCYANATE REACTIVE
+    MATERIALS OR TEMPERATURES ABOVE 400 F.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:IN ACCORDANCE WITH FEDERAL, STATE AND LOCAL
+    REGULATIONS. INCINERATION IS THE PREFERRED METHOD. EMPTY CONTAINERS
+    MUST BE HANDLED WITH CARE DUE TO PRODUCT RESIDUE AND FLAMMABLE
+    SOLVENT VAPORS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

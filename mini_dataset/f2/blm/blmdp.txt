@@ -1,0 +1,141 @@
+=====================  Product Identification  =====================
+
+Product ID:URALITE 3125 PART A
+MSDS Date:05/16/1988
+FSC:8010
+NIIN:00N020790
+Kit Part:Y
+MSDS Number: BLMDP
+=== Responsible Party ===
+Company Name:HEXCEL CORPORATION
+Address:20701 NORDHOFF STREET
+Box:2197
+City:CHATSWORTH
+State:CA
+ZIP:91311
+Info Phone Num:818-882-3022
+Emergency Phone Num:800-433-5072 800-367-7527
+CAGE:01490
+=== Contractor Identification ===
+Company Name:HEXCEL CORPORATION;CHEMICAL PRODUCTS DIVISION
+Address:20701-NORDHOFF STREET
+Box:2197
+City:CHATSWORTH
+State:CA
+ZIP:91311-5924
+Country:US
+Phone:818-882-3022
+CAGE:01490
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POLYTETRAMETHYLENE ETHER GLYCOL (MDI POLYMER)
+CAS:9048-58-2
+Fraction by Wt: 55-65%
+
+Ingred Name:METHYLENE BISPHENYL ISOCYANATE (MDI)  (SARA III)
+CAS:101-68-8
+RTECS #:NQ9350000
+Fraction by Wt: 35-45%
+OSHA PEL:C, 0.02 PPM
+ACGIH TLV:0.005 PPM; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MAY CAUSE BREATHLESSNESS, CHEST
+    DISCOMFORT AND REDUCED PULMONARY FUNCTION. MAY CAUSE SKIN AND EYE
+    IRRITATION.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:PRE-EXISTING EYE, SKIN, AND
+    RESPIRATORY DISORDERS MAY BE AGGRAVATED BY EXPOSURE TO THIS
+    PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: PROMPT WASHING WITH 99% ISOPROPYL ALCOHOL FOLLOWED BY
+    WASHING WITH SOAP AND WATER. EYE: IRRIGATE PROMPTLY WITH CLEAN
+    WATER FOR 15 MINUTES AND CALL A PHYSICIAN. INHALATION: TREAT
+    SYMPTOMATICALLY;  VASO-DILATORS, FRESH AIR, OXYGEN. CALLA
+    PHYSICIAN. INGESTION: CALL A PHYSICIAN AT ONCE. INDUCE VOMITING ON
+    PHYSICIAN'S ADVICE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:425F,218C
+Extinguishing Media:CO2 OR DRY CHEMICAL FOR SMALL FIRES. WATER AND FOAM
+    FOR LARGER FIRES.
+Fire Fighting Procedures:VAPORS ARE EXCEEDINGLY IRRITATING WHEN
+    INHALED. USE NIOSH/MSHA APPROVED SCBA AND FULL PROTECTIVE EQUIPMENT
+    .
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA THOROUGHLY. SPILLED COMPOUND
+    SHOULD BE ABSORBED IN SAWDUST OR OTHER ABSORBANT. STORE TEMPORARILY
+    IN AN OPEN CONTAINER. TREAT WITH A SOLUTION OF WATER, AMMONIA, AND
+    ISOPROPANOL BEFORE DI SPOSAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY AREA IN TIGHTLY
+    CLOSED CONTAINERS. DO NOT BREATHE VAPORS.
+Other Precautions:AVOID CONTACT WITH SKIN OR CLOTHING. CONTAMINATED
+    CLOTHING MUST BE LAUNDERED BEFORE WEARING AGAIN. CONTAMINATED SHOES
+    SHOULD BE THOROUGHLY CLEANED OR DISCARDED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NEEDED IN NORMAL APPLICATION. IN CASE OF
+    NEED, USE NIOSH/MSHA APPROVED AIR SUPPLIED MASK OR RESPIRATOR WITH
+    CANISTER FOR ORGANIC VAPORS.
+Ventilation:LOCAL EXHAUST: IF HANDLED INDOORS, PROVIDE MECHANICAL
+    EXHAUST VENTILATION.
+Protective Gloves:RUBBER OR NEOPRENE GLOVES.
+Eye Protection:CHEM WORK GOG/FULL LENGTH FACESHLD
+Other Protective Equipment:RUBBER OR PLASTIC APRONS.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+WASTE DISP METH: ENVIRONMENTAL WASTE DISPOSAL CONTRACTOR.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Vapor Pres:<0.0002
+Spec Gravity:1.143
+Solubility in Water:REACTIVE
+Appearance and Odor:PALE YELLOW LIQUID, SWEET ODOR.
+Percent Volatiles by Volume:NIL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTACT WITH WATER, ALCOHOLS, STRONG BASES, METAL COMPOUNDS OR
+    SURFACE ACTIVE MATERIALS.
+Stability Condition to Avoid:HEAT.
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONT IN SEALED CNTNRS. DISP OF IN CHEM WASTE
+    LANDFILL/USE CONTROLLED INCINERATION. DISP MUST BE I/A/W ALL FED,
+    STATE, & LOCAL ENVIRONMENTAL CNTRL REGS W/RESPECT TO HLTH, WATER,
+    LAND, OR AIR POLLUTION.  IF QUESTIONS ARISE, CONSULT A CERTIFIED
+    (SUP DAT)
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

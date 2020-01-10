@@ -1,0 +1,146 @@
+=====================  Product Identification  =====================
+
+Product ID:FLEXICOLOR STABILIZER AND REPLENISHER LF (S
+MSDS Date:03/08/1991
+FSC:6750
+NIIN:00N021391
+MSDS Number: BLMKN
+=== Responsible Party ===
+Company Name:EASTMAN KODAK CO
+Address:343 STATE ST
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-722-5151
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 95-100%
+
+Ingred Name:HEXAMETHYLENECTETRAMINE
+CAS:100-97-0
+RTECS #:MN4725000
+Fraction by Wt: < 1%
+
+Ingred Name:NONIONIC SURFACTANTS (MFR CAS NO 24938-91-8)
+CAS:9416-45-9
+Fraction by Wt: < 1%
+
+Ingred Name:POLYMALEIC ACID
+CAS:26099-09-2
+Fraction by Wt: < 1%
+
+Ingred Name:THIAZOLIN-3-ONE; SUBSTITUTED
+Fraction by Wt: < 1%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: LOW HAZARD FOR RECOMMENDED
+    HANDLING. EYES: NO SPECIFIC HAZARD KNOWN. MAY CAUSE TRANSIENT
+    IRRITATION. SKIN: LOW HAZARD FOR RECOMMENDED HANDLING. INGESTION:
+    EXPECTED TO BE A LOW INGESTION HA ZARD. HEXAMETHYLENETETRAMINE IN
+    ACID MAY LIBERATE FORMALDEHYDE, A CARCINOGEN OR POSSIBLE
+    CARCINOGEN.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: IF SYMP, REMOVE TO FRESH AIR. GET MEDICAL
+    ATTENTION IF SYMPTOMS PERSIST. EYES: ANY MATERIAL THAT CONTACTS EYE
+    SHOULD BE WASHED OUT IMMEDIATELY FOR 15 MINUTES WITH WATER. GET
+    MEDICAL ATTENT ION IF SYMPTOMS OCCUR. SKIN: WASH AFTEREACH CONTACT.
+    GET MEDICAL ATTENTION IF SYMPTOMS OCCUR. INGESTION: DRINK 1-2
+    GLASSES OF WATER. SEEK MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE MEDIA SUITABLE FOR SURROUNDING FIRE .
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH MATERIAL TO SEWER WITH LARGE AMOUNTS OF
+    WATER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER TIGHTLY CLOSED AND AWAY
+    FROM STRONG ACIDS.
+Other Precautions:CALIFORNIA PROPOSITION 65 REGULATED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF FORMALDEHYDE IS LIBERATED AT LEVS REQ RESP
+    PROT, A NIOSH/MSHA APPROVED FULL FACEPIECE W/CARTRIDGES/CANISTERS
+    FOR PROTECTION AGAINST FORMALDEHYDE/TYPE C SUP AIR RESP SHD BE
+    WORN. IF RESP ARE USED, A  PROGRAM, SHD BE INSTITUTED TO (SUP DAT)
+Ventilation:VENT CONSISTING OF 10 ROOM VOL PER HOUR IS RECOM.
+    SUPPLEMENTARY VENT/RESP PROT MAY BE NEEDED IN SPECIAL
+    CIRCUMSTANCES.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+TRADE NAME/PART #: (WORKING SOLUTION), CAT 160 4933. RESP PROT: ASSURE
+    COMPLIANCE WITH OSHA STANDARD 29CFR 1910.134 AND 29CFR 1910.1048.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:212F,100C
+Vapor Pres:18
+Vapor Density:0.6
+Spec Gravity:1.00
+pH:7.5
+Evaporation Rate & Reference:0.4 (N-BUTYL ACETATE=1)
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR TAN COLORED SOLUTION; LITTLE OR NO ODOR.
+Percent Volatiles by Volume:99
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS; STRONG ACIDS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:AMMONIA AND FORMALDEHYDE MAY BE
+    PRESENT.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISCHARGE, TREATMENT, OR DISPOSAL MAY BE SUBJECT
+    TO FEDERAL, STATE, OR LOCAL LAWS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

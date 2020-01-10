@@ -1,0 +1,165 @@
+=====================  Product Identification  =====================
+
+Product ID:MULTI-PURPOSE INK, AMP-578
+MSDS Date:12/03/1990
+FSC:7510
+NIIN:00N021339
+MSDS Number: BLMJN
+=== Responsible Party ===
+Company Name:ADVANCE PROCESS SUPPLY
+Address:400 NORTH NOBLE
+City:CHICAGO
+State:IL
+ZIP:60622-6383
+Country:US
+Info Phone Num:312-829-1400
+Emergency Phone Num:312-942-8577
+CAGE:29431
+=== Contractor Identification ===
+Company Name:ADVANCE PROCESS SUPPLY CO.
+Address:400 NORTH NOBLE STREET
+Box:City:CHICAGO
+State:IL
+ZIP:60622-6383
+Country:US
+Phone:312-942-8504
+CAGE:29431
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:2-(2-PROPOXYETHOXY) ETHANOL; (DIETHYLENE GLYCOL MONOPROPYL
+    ETHER)
+CAS:6881-94-3
+Fraction by Wt: 5.6-9.3%
+
+Ingred Name:DIACETONE ALCOHOL (4-HYDROXY-4-METHYL-2-PENTANONE)
+CAS:123-42-2
+RTECS #:SA9100000
+Fraction by Wt: 13-39%
+Other REC Limits:75 PPM (MFR)
+OSHA PEL:50 PPM
+ACGIH TLV:50 PPM; 9192
+
+Ingred Name:ETHANOL, 2-PROPOXY-; (3-PROPOXY ETHANOL) (ETHYLENE GLYCOL
+    MONOPROPYL ETHER)
+CAS:2807-30-9
+RTECS #:KM2800000
+Fraction by Wt: 15-22%
+
+Ingred Name:PETROLEUM NAPHTHA, LIGHT AROMATIC
+CAS:64742-95-6
+Fraction by Wt: 4.1-19%
+Other REC Limits:100 PPM (MFR)
+
+Ingred Name:FIRST AID PROC: INDUCE VOMIT IF CONSCIOUS & ALERT. DO NOT
+    GIVE ANYTHING TO UNCONSCIOUS PERSON BY MOUTH.
+RTECS #:9999999ZZ
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYE: LIQ CONT CAN CAUSE IRRIT, VAPS
+    MAY CAUSE IRRIT. SKIN: PRLNG/RPTD CONT MAY DEFAT, CAUSING DRYING &
+    DERM. MAY BE ABSORBENT THRU SKIN. MAY HAVE TOX EFT ON RED BLOOD
+    CELLS & MAY BE HAZ TO PREGNANT FE MALES. INHAL: MAY CAUSE IRRIT OF
+    NASAL & RESP TRACT. MAY CAUSE DEPRESS OF CNS, ANESTHESIA.
+    PRLNG/RPTD EXPOS (SUPP DATA)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:EYE: BURNING SENSATION, REDNESS, TEARING. SKIN:
+    DRYING, REDNESS, CRACKING. PRLNG/RPTD EXPOS MAY RESULT IN WEAKNESS,
+    TIREDNESS. INHAL: NOSE & THROAT IRRIT, HDCH, DROWS, DIZZ, LOSS OF
+    COORD, NAUSEA. PRL NG EXPOS TO HIGH CONC MAY RESULT IN UNCON.
+    INGEST: IRRIT OF DIGEST TRACT, NAUSEA, VOMIT, DIARRHEA, WEAKNESS,
+    (SUPP DATA)
+Medical Cond Aggravated by Exposure:PRE-EXISTING KIDNEY AND BLOOD
+    DISORDERS, ANEMIA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: IMMED FLUSH W/WATER FOR AT LEAST 15 MIN, HOLDING LIDS
+    OPEN PERIODICALLY. IF IRRIT PERSISTS/IS SEV, GET MD. SKIN: WASH
+    AFFECTED AREA THORO W/SOAP & WATER. REMOVE CONTAMD CLTHG. IF IRRIT
+    PERSISTS/I S SEVERE, GET MD. INHAL: REMOVE FROM EXPOS. IF BRTHG
+    DFCLT, GIVE O2. IF BRTHG STOPPED, USE ARTF RESP. INGEST: GET EMER
+    MED ATTN IF MORE THAN SMALL SWALLOW. GIVE 2 GLASSES OF WATER/MILK &
+    (SEE ING 5)
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:110F,43C
+Lower Limits:0.6%
+Upper Limits:12%
+Extinguishing Media:DRY CHEMICAL, CARBON DIOXIDE, ALCOHOL FOAM.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPRVD SCBA & FULL PROT EQUIP
+    . USE WATER SPRAY TO COOL FIRE EXPOS CNTNRS. AVOID SPREADING
+    BURNING LIQ W/WATER USED FOR COOLING PURPOSES.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION & THOROUGHLY
+    VENTILATE AREA. COVER W/SAND, VERMICULITE OR OTHER INERT ABSORBENT
+    & SCOOP INTO STORAGE CONTAINER WHICH CAN BE COVERED. WEAR
+    PROTECTIVE GEAR TO AVOID SKIN C ONTACT OR BREATHING VAPORS.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID PRLNG/RPTD BREATHING OF VAPOR.
+    AVOID PRLNG/RPTD CONTACT W/SKIN. USE VENTILATION ADEQUATE TO KEEP
+    EXPOSURES BELOW RECOMMENDED EXPOSURE LIMITS.
+Other Precautions:DO NOT TAKE INTERNALLY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED ORGANIC VAPOR RESPIRATOR
+    IF VAPORS EXCEED RECOMMENDED LEVELS.
+Ventilation:LOCAL AND MECHANICAL EXHAUST IF GENERAL AREA VENTILATION
+    DOES NOT REMOVE VAPORS.
+Protective Gloves:NEOPRENE, NITRILE RUBBER RECOMMENDED.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:IMPERVIOUS APRON, EYE WASH STATION.
+Work Hygienic Practices:WAASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+% VOLAT: 70-75.1. HLTH HAZ: MAY CAUSE ANEMIA & BIRTH DEFECTS IN
+    PREGNANT FEMALES. INGEST: CAN CAUSE GI IRRIT, NAUSEA, VOMIT,
+    DIARRHEA. MAY CAUSE RED BLOOD CELL DAM. MOD TOX BY INGEST. MAY
+    PRDCE CNS DE PRESS, & IF INGESTED IN LG QTYS MAY CAUSE DEATH. EFTS
+    OF OVEREXP: DIZZ, LOSS OF COORDINATION, & POSSIBLE UNCON & DEATH.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:301F,149C
+Vapor Pres:1.33
+Vapor Density:4
+Spec Gravity:0.973-1
+Evaporation Rate & Reference:SLOWER THAN BUTYL ACETATE
+Solubility in Water:DISPERSIBLE
+Appearance and Odor:CLEAR OR COLORED PASTE, MILD SOLVENT ODOR.
+Percent Volatiles by Volume:SUPDAT
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS.
+Stability Condition to Avoid:HIGH TEMPERATURES.
+Hazardous Decomposition Products:COX, SOX, NOXIOUS FUMES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF I/A/W ALL FEDERAL, STATE AND LOCAL
+    REGULATIONS, PREFERRABLY BY INCINERATION. EPA HAZARDOUS WASTE
+    NUMBER IS D001, IGNITABLE WASTE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

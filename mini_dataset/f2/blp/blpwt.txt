@@ -1,0 +1,115 @@
+=====================  Product Identification  =====================
+
+Product ID:HARVEY METAL POLISH
+MSDS Date:02/03/1992
+FSC:7930
+NIIN:00F019314
+MSDS Number: BLPWT
+=== Responsible Party ===
+Company Name:MDT BIOLOGIC CO SUB OF MDT CORP
+Address:19645 RANCHO WAY
+City:RANCHO DOMINGUEZ
+State:CA
+ZIP:90220-6039
+Country:US
+Info Phone Num:800-347-4638/213-608-2290
+Emergency Phone Num:213-608-2290/800-347-4638
+Preparer's Name:KRIS KURRUS
+CAGE:FO738
+=== Contractor Identification ===
+Company Name:MDT BIOLOGIC CO SUB OF MDT CORP
+Address:19645 RANCHO WAY
+City:RANCHO DOMINGUEZ
+State:CA
+ZIP:90220-6039
+Country:US
+Phone:800-347-4638/213-608-2290
+CAGE:FO738
+Company Name:MDT BIOLOGIC COMPANY SUB OF MDT CORP ( REPLACED BY 05852)
+Address:19645 RANCHO WAY
+Box:23077
+City:COMPTON
+State:CA
+ZIP:90220
+Country:US
+Phone:213-608-7705
+CAGE:41373
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DEODORIZED KEROSENE, DEOBASE
+CAS:8020-83-5
+RTECS #:HF9500000
+OSHA PEL:200 PPM
+ACGIH TLV:200 PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: BURNING IRRITATION. INGESTION:
+    TOXIC. SKIN: IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:BURNING, IRRITATION, DIZZINESS, HEADACHE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER FOR 15 MINS. SKIN: WASH W/SOAP & WATER.
+    INHALATION: MOVE TO FRESH AIR. OBTAIN MEDICAL ATTENTION IN ALL
+    CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:194.9F
+Extinguishing Media:CO2/DRY FOAM.
+Fire Fighting Procedures:NONE
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SOAK UP W/ABSORBENT MATERIAL & PLACE IN PROPER
+    WASTE DISPOSAL CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL DRY PLACE, OUT OF
+    DIRECT SUNLIGHT. USE IN A WELL VENTILATED AREA. USE COMMON SENSE &
+    CARE AROUND CHEMICALS. NEVER MIX CHEMICALS.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE
+Ventilation:LOCAL EXHAUST/MECHANICAL (GENERAL) IF AVAILABLE.
+Protective Gloves:RUBBER/PLASTIC
+Eye Protection:SAFETY GLASSES/GOGGLES
+Other Protective Equipment:NONE
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:401F
+Spec Gravity:0.839
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:CLEAR GOLD W/BANANA ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IAW/FEDERAL, STATE & LOCAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

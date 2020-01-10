@@ -1,0 +1,152 @@
+=====================  Product Identification  =====================
+
+Product ID:ARMATEX (BULK), 618
+MSDS Date:02/01/1989
+FSC:6850
+NIIN:00N057683
+MSDS Number: BWRTK
+=== Responsible Party ===
+Company Name:MALTER INTERNATIONAL
+Box:6099
+City:NEW ORLEANS
+State:LA
+ZIP:70174
+Country:US
+Info Phone Num:504-362-3232; 800-535-4095
+Emergency Phone Num:800-424-9300(CHEMTREC)
+CAGE:27978
+=== Contractor Identification ===
+Company Name:MALTER INTERNATIONAL BULK CHEMICAL DIVISION
+Address:80 FIRST STREET
+Box:City:GRETNA
+State:LA
+ZIP:70053
+Country:US
+Phone:504-362-3232, OR 800-535-4095
+CAGE:27978
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TOLUENE (SARA 313) (CERCLA)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 10-15%
+OSHA PEL:200 PPM
+ACGIH TLV:50 PPM, S
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:HYDROCARBON-BLACK SOLID; (NATURALLY OCCURING BLACK SOLID
+    HYDROCARBON)
+CAS:12002-43-6
+Fraction by Wt: 10-15%
+Other REC Limits:5 MG/M3 (MFR)
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:KEROSENE (PETROLEUM), HYDROTREATED; (HYDROTREATED LIGHT
+    PETROLEUM DISTILLATE (MINERAL SPIRITS)
+CAS:64742-47-8
+RTECS #:OA5504000
+Fraction by Wt: 5-7%
+OSHA PEL:500 PPM (MFR)
+ACGIH TLV:500 PPM (MFR)
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHAL:HEADACHE, NAUSEA, VAPORS CAN
+    AFFECT CNS & CAUSE RESPIRATORY IRRITATION. EYES:CONTACT IS
+    IRRITATING & MAY PRODUCE TEMPORARY DAMAGE TO EYE TISSUE.
+    SKIN:CONTACT IS DEFATTING & CAN LEAD TO DERMATITI S UPON REPEATED
+    EXPOSURE. INGEST:HAZARDEXISTS PRIMARILY FROM POSSIBLE ASPIRATION OF
+    TOLUENE INTO (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:HLTH HAZ:LUNGS. NOTE:TOLUENE APPEARS ON THE
+    NAVY LSIST OF OCCUP CHEM REPRO HAZARDS. SEEK CONSULTATION FROM
+    APPROPRIATE HEALTH PROFESSIONALS CONCERNING LATEST HAZARD LIST INFO
+    & SAFE HANDLING & EXPOSUR E INFO .
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:REMOVE TO FRESH AIR. EYES:FLUSH W/WATER FOR AT LEAST 15
+    MINUTES & IF IRRITATION PERSISTS SEE MD. SKIN:WASH OFF W/COPIOUS
+    AMOUNTS OF SOAP & WATER. INGEST:DO NOT INDUCE VOMITING. CALL MD
+    IMMEDIATE LY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:OC
+Flash Point:85.0F,29.4C
+Lower Limits:1.3%
+Upper Limits:7.1%
+Extinguishing Media:FOAM, DRY CHEMICAL, HALON, CO*2. WATER MAY NOT BE
+    EFFECTIVE. WATER SPRAY (FOG) MAY BE USED.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:KEEP AWAY FROM HEAT, SOURCES OF IGNITION
+    & OXIDIZERS. CLOSED CONTAINERS CONTAINING TOLUENE MAY EXPLODE IF
+    EXPOSED TO EXCESSIVE HEAT OF FIRE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONTAIN SPILL TO SMALLEST POSSIBLE AREA. USE
+    ABSORBENT MATERIALS TO SOAK UP SMALL SPILLS. RECOVER LIQUID FROM
+    LARGER SPILLS FOR REUSE OR DISPOSAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN CLOSED CONTAINERS IN COOL,
+    WELL VENTILATED AREAS.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN . NONE NECESSARY FOR GENERAL USE.
+Ventilation:LOCAL EXHAUST:NONE NECESSARY. MECHANICAL (GENERAL):NONE
+    NECESSARY. MAY BE NEEDED IN CONFINED AREAS.
+Protective Gloves:RUBBER GLOVES.
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGGS .
+Other Protective Equipment:EYE WASH FOUNTAIN & DELUGE SHOWER WHICH MEET
+    ANSI DESIGN CRITERIA . OTHER PROT CLTHG/EQUIP AS NEEDED TO (SUPDAT)
+Work Hygienic Practices:WASH HANDS THOROUGHLY AFTER USE.
+Supplemental Safety and Health
+OTHER PROT EQUIP:PREVENT AGAINST SPLASH OR EXCESSIVE SKIN CONTACT.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:300F,149C
+Spec Gravity:0.995 (H*2O=1)
+Solubility in Water:INSOLUBLE
+Appearance and Odor:BLACK, HIGHLY VISCOUS; SOLVENT SMELL.
+Percent Volatiles by Volume:38
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+MAY REACT W/STRONG OXIDIZING MATERIALS.
+Stability Condition to Avoid:AVOID EXCESSIVE HEAT & SOURCES OF
+    IGNITION.
+Hazardous Decomposition Products:FORMS CARBON MONOXIDE & CARBON DIOXIDE
+    DURING COMBUSTION ALONG W/THICK, BLACK SMOKE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PLACE CONTAMINATED MATERIALS IN DISPOSABLE
+    CONTAINERS & DISPOSE OF IN A MANNER CONSISTENT W/APPLICABLE
+    REGULATIONS. CONTACT LOCAL, STATE & FEDERAL ENVIRONMENTAL OR HEALTH
+    AUTHORITIES FOR SPECIFIC ENVI RONMENTAL OR HEALTH INFORMATION.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

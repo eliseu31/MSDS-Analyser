@@ -1,0 +1,194 @@
+=====================  Product Identification  =====================
+
+Product ID:5614/5113/5114 BLACK DRY INK/TONER (REPLENISHER), 6R840
+MSDS Date:08/30/1995
+FSC:6850
+NIIN:00N078031
+Status Code:A
+MSDS Number: CJQPL
+=== Responsible Party ===
+Company Name:XEROX CORPORATION
+Address:100 N MUSTARD RD
+City:OKLAHOMA CITY
+State:OK
+ZIP:73126
+Country:US
+Info Phone Num:800-828-6571
+Emergency Phone Num:716-422-2177
+Resp. Party Other MSDS Num.:A-0124; 602E03130
+CAGE:TO144
+=== Contractor Identification ===
+Company Name:XEROX CORPORATION
+Address:100 N MUSTARD RD
+Box:City:OKLAHOMA CITY
+State:OK
+ZIP:73126
+Country:US
+Phone:800-828-6571
+CAGE:TO144
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TONER CONTAINING STYRENE/ACRYLATE POLYMER, CARBON BLACK,
+    POLYPROPYLENE WAX, STYRENE-ETHYLENE/BUTYLENE COPOLYMER.
+Minumum % Wt:75.
+Maxumum % Wt:90.
+
+Ingred Name:STYRENE-BUTYL ACRYLATE POLYMER; (STYRENE/ACRYLATE POLYMER)
+CAS:25767-47-9
+Minumum % Wt:80.
+Maxumum % Wt:90.
+
+Ingred Name:CARBON BLACK
+CAS:1333-86-4
+RTECS #:FF5800000
+Minumum % Wt:5.
+Maxumum % Wt:10.
+OSHA PEL:3.5 MG/M3
+ACGIH TLV:3.5 MG/M3
+
+Ingred Name:POLYPROPYLENE; (POLYPROPYLENE WAX)
+CAS:9003-07-0
+RTECS #:UD1842000
+Minumum % Wt:5.
+Maxumum % Wt:10.
+
+Ingred Name:HYDROGENATED STYRENE-BUTADIENE POLYMER;
+    (STYRENE-ETHYLENE/BUTYLENE COPOLYMER)
+CAS:66070-58-4
+Minumum % Wt:1.
+Maxumum % Wt:3.
+
+Ingred Name:CARRIER CONTAINING IRON FERRITE CAS# 1309-38-2/1317-61-9.
+Minumum % Wt:10.
+Maxumum % Wt:25.
+
+Ingred Name:MAGNETITE; (IRON FERRITE)
+CAS:1309-38-2
+RTECS #:OM4800000
+> Wt:99.
+
+Ingred Name:IRON FERRITE
+CAS:1317-61-9
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:MINIMAL RESPIRATORY TRACT IRRITATION
+    MAY OCCUR AS WITH EXPOSURE TO LARGE AMOUNTS OF ANY NON-TOXIC DUST.
+Explanation of Carcinogenicity:CARBON BLACK: IARC MONOGRAPHS ON THE
+    EVALUATION OF CARCINOGENIC RISK OF CHEMICALS TO MAN. VOLUME 65, 
+    PAGE 149, 1996: GROUP 2B.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE WHEN USED AS DESCRIBED BY
+    PRODUCT LITERATURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH WATER FOR AT LEAST 15 MINUTES. SKIN: WASH
+    WITH SOAP AND WATER. INHALATION: REMOVE FROM EXPOSURE. INGESTION:
+    DILUTE STOMACH CONTENTS WITH SEVERAL GLASSES OF WATER. ADDITIONAL
+    INFORMATI ON: NONE.
+
+=====================  Fire Fighting Measures  =====================
+
+Lower Limits:N.A.
+Upper Limits:N.A.
+Extinguishing Media:WATER, FOAM, DRY CHEMICAL.
+Fire Fighting Procedures:WEAR NIOSH APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT . AVOID INHALATION OF SMOKE.
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP OR VACUUM SPILLED TONER AND CAREFULLY
+    TRANSFER INTO SEALABLE WASTE CONTAINER. SWEEP SLOWLY TO MINIMIZE
+    GENERATION OF DUST DURING CLEAN-UP. IF A VACUUM IS USED, THE MOTOR
+    MUST BE RATED AS DUST  TIGHT. A CONDUCTIVE HOSE BONDED TO THE
+    MACHINE SHOULD BE USED TO REDUCE STATIC BUILDUP (SEE SECTION 5).
+    RESIDUE CAN BE REMOVED WITH SOAP AND COLD WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NONE.
+Other Precautions:AVOID PROLONGED INHALATION OF EXCESSIVE DUST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED WHEN USED AS INTENDED IN XEROX
+    EQUIPMENT. USE NIOSH APPROVED RESPIRATOR APPROPRIATE FOR EXPOSURE
+    OF CONCERN .
+Protective Gloves:IMPERVIOUS GLOVES .NONE REQUIRED WHEN USED AS
+    INTENDED IN XEROX EQUIP.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:EYEWASH & DELUGE SHOWER MTG ANSI DESIGN
+    CRITERIA . FOR USE OTHER THAN NORMAL CUSTOMER - OPERATING
+    PROCEDURES (SUCH AS IN BULK TONER PROCESSING FACILITIES), GOGGLES &
+    RESP MAY BE REQUIRED. (SUPDAT)
+Supplemental Safety and Health
+OTHER PROT EQUIP: FOR MORE INFO,CNTCT XEROX. TOX INFO:PEL:15 MG/M3
+    (TOTAL DUST). 5 MG/M3 (RESP DUST).STEL:NE. CEILING: NE. XEROX EXPOS
+    LIMIT:2.5 MG/M3 (TOTAL DUST) 0.4 MG/M3 (RESP DUST). TOX INFO: ADD N
+    INFO: RSLTS OBTAINED FROM XEROX SPONSORED, CHRONIC TONER INHAL
+    STUDY, DEMONSTRATED NO LUNG CHANGE IN RATS(OTHER INFO)
+
+==================  Physical/Chemical Properties  ==================
+
+Vapor Density:N.A.
+Spec Gravity:5 (H*2O=1)
+pH:N.A.
+Appearance and Odor:BLACK GRANULAR/FAINT ODOR.
+Percent Volatiles by Volume:N.A.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE.
+Hazardous Decomposition Products:PRODUCTS OF COMBUSTION MAY BE TOXIC.
+    AVOID BREATHING SMOKE.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:THIS MATL HAS BEEN EVALUATED BY XEROX
+    CORPORATION & INFO BELOW REFLECTS VALUES FOR TONER ONLY. ORAL LD50:
+    >5 G/KG (RATS) PRACTICALLY NON-TOX. DERMAL LD50: >2G/KG (RABBITS)
+    PRACTICALLY NON-TOX. INHAL:  LC50: >5 MG/L (RATS, 4 HR EXPOS)
+    PRACTICALLY NON-TOX. >20 MG/L (RATS, CALCULATED 1 HR EXPOS)
+    NON-POISONOUS DOT. EYE IRRIT: NOT AN IRRIT. SKIN SENSIT: NOT
+    SENSIT. SKIN IRRIT: NOT AN IRRIT. HUMAN PATCH:  NON-SENSITIZING,
+    NON-IRRITG. MUTAGENICITY: NO MUTAGENICITY DETECTED IN AMES TEST.
+    CARCIN: NONE PRESENT. AQUATIC LC50: >1125 MG/L (RAINBOW TROUT),
+    NON-TOX. TLV:10 MG/M3 (TOTAL DUST). 5 MG/M3 (RESPIRAB LE DUST).
+    (SUP DAT)
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE ONLY IN A CLOSED CONTAINER. THIS
+    MATERIAL IS NOT A HAZARDOUS WASTE ACCORDING TO FEDERAL REGULATION
+    40 CFR 261. STATE AND LOCAL WASTE DISPOSAL REQUIREMENTS MAY
+    HOWEVER, BE MORE RESTRICTIVE.  CONSULT WITH THE APPROPRIATE STATE
+    AND LOCAL AUTHORITIES FOR SPECIFIC INFORMATION.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:DOT PROPER SHIPPING NAME: NOT APPLICABLE (NOT
+    REGULATED). ID NUMBER: NOT APPLICABLE. HAZARD CLASSIFICATION: NOT
+    APPLICABLE. PACKING GROUP: NOT APPLICABLE.
+
+=====================  Regulatory Information  =====================
+
+Federal Regulatory Information:WHMIS STATUS: THIS IS NOT A WHMIS
+    CONTROLLED PRODUCT.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

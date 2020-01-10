@@ -1,0 +1,151 @@
+=====================  Product Identification  =====================
+
+Product ID:OMC HI-VIS GEAR LUBE 31-250, 174980
+MSDS Date:05/08/1989
+FSC:9150
+NIIN:00N021281
+MSDS Number: BLMJC
+=== Responsible Party ===
+Company Name:CITGO PETROLEUM CORP
+Box:3758
+City:TULSA
+State:OK
+ZIP:74102
+Country:US
+Info Phone Num:918-495-5933
+Emergency Phone Num:318-491-6215;800-424-9300(CHEMTREC)
+CAGE:7X110
+=== Contractor Identification ===
+Company Name:CITGO PETROLEUM CORP
+Address:6100 S YALE AVE
+Box:3758
+City:TULSA
+State:OK
+ZIP:74102
+Country:US
+Phone:918-495-5933
+CAGE:7X110
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MINERAL OIL, PETROLEUM DISTILLATES, SOLVENT-REFINED HEAVY
+    PARAFFINIC; (REFINED PETROLEUM OIL).OTHER MFR CAS #64742-01-4.
+CAS:64741-88-4
+Fraction by Wt: 97-99%
+OSHA PEL:5 MG/M3 (OIL MIST)
+ACGIH TLV:5 MG/M3 (OIL MIST)
+
+Ingred Name:EXTREME PRESSURE, OXIDATION AND RUST INHIBITOR
+Fraction by Wt: 1-4%
+
+Ingred Name:VI IMPROVER
+Fraction by Wt: <0.1%
+
+Ingred Name:VENT: STANDARDS AS EVALUATED BY DESIGNATED PERSONNEL.
+RTECS #:9999999ZZ
+
+Ingred Name:SUPP DATA: SUS VISCOSITY AT 100F = 740.
+RTECS #:9999999ZZ
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50:(ORAL,RAT) >15 G/KG
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:(ACUTE) INHAL: LOW RISK OF INHAL. IN
+    ENCLOSED SPACES/WHEN HOT, VAPS MAY REACH CONC SUFFICIENT TO CAUSE
+    DROWS, DIZZ, HDCH, NAUS/LUNG IRRIT. MISTS >TLV CAUSE CHEM PNEUM.
+    SKIN: LOW IRRITANT. ABSORP: NO P ROBABLE ACUTE HAZARD. EYE: MAY BE
+    MILDLY IRRITATING. INGEST: GENERALLY LOW TOXICITY. VERY LRG AMTS
+    (SEE EFTS OF OVEREXP)
+Explanation of Carcinogenicity:CAS NO.64741-88-4 IS LISTED BY THE RTECS
+    AS AN IARC GROUP 1 CARCINOGEN.
+Effects of Overexposure:HLTH HAZ: MAY CAUSE GENERALIZED DEPRESS, HDCH,
+    DROWS, NAUS, VOMIT/DIARR. SM DOSES MAY PRODUCE IRRIT & DIARR.
+    INJECTION: ERYTHEMA, EDEMA, IRRIT. (CHRONIC) PROLONGED AND/OR
+    FREQUENT CONTACT MAY CAUSE DR YING, CRACKING (DERMAT) OR
+    FOLLICULITIS.
+Medical Cond Aggravated by Exposure:NONE
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: REMOVE TO FRESH AIR. RESPIRATORY SUPPORT IF NECESSARY.
+    SEEK MD. SKIN: WASH WITH SOAP & WATER. DO NOT WEAR HEAVILY
+    CONTAMINATED CLTHG BEFORE LAUNDERING. EYES: FLUSH W/LRG VOLUMES OF
+    WATER. SEE M D IF ANY COMPLICATIONS ARISE. INGEST: DO NOT INDUCE
+    VOMITING. SEEK MD. INJECTION: SUBCUTANEOUS INJECTION IS A MEDICAL
+    EMER. SEEK MD IMMED. NOTE TO MD: IF VISCOSITY IF <100 SUS @ 100F,
+    (SUPP DATA)
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:460F,238C
+Extinguishing Media:CO2, DRY CHEMICAL, FOAM, WATER FOG.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:WATER MAY CAUSE FROTHING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE SOURCES OF HEAT/IGNIT, PROVIDE ADEQ
+    VENT, CONTAIN LEAK. SM SPILLS: ABSORB W/SUITABLE MATL SUCH AS RAGS,
+    STRAW/ SAND. LRG SPILLS: CONTAIN SPILL IN EARTHEN DIKES FOR LATER
+    RECOVERY. RPT SPILLS AS  REQUIRED TO APPROPRIATE AUTHORITIES.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE <150F.DO NOT APPLY HIGH
+    HEAT/FLAME TO CNTNR.KEEP SEPARATE FROM STRONG OXIDIZING
+    AGENTS.AVOID PRLNGD CONT. REMOVE&CLEAN SOILED CLTHG BEFORE REUSE
+Other Precautions:CAUTION: EMPTY CNTNRS MAY CONTAIN PROD RESIDUE WHICH
+    COULD INCLUDE FLAM/EXPLO VAPS. CONSULT APPROP FED, ST & LOCAL
+    AUTHORITIES BEFORE REUSING, RECONDITIONING, RECLAIMING, RECYCLING
+    OR DISPOSING OF EMP TY CNTNRS AND/OR WASTE RESIDUES OF PROD.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NORMALLY NONE REQUIRED. IF HIGH VAPOR OR MIST
+    CONCENTRATIONS EXPECTED - USE NIOSH/MSHA APPROVED RESPIRATOR FOR
+    ORGANIC VAPORS AND MISTS.
+Ventilation:USE IN WELL VENT AREA. IN CONFINED SPACES, MECH VENT MAY BE
+    REQ TO KEEP LEV OF CERTAIN COMPONENTS 100 SUS @ 100F, EMESIS MAY
+    BE INDUCED FOR LRG QTYS. ASPIR MAY CAUSE CHEM PNEUM/ LIPOID PN EUM.
+    SUBCUTANEOUS INJECTION REQ PROMPT SURGICAL DEBRIDEMENT. IF NOT
+    FAMILIAR W/TECHNIQUE, SEEK SKILLED ADVICE.(SEE ING 5
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:750F,399C
+Vapor Pres:<0.0003
+Vapor Density:>1
+Spec Gravity:0.89
+Evaporation Rate & Reference:<1 (BUTYL ACETATE = 1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:AMBER LIQUID, SLIGHT SULFURIZED ODOR.
+Percent Volatiles by Volume:NEG
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDANTS.
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:CO2 (CO UNDER INCOMPLETE COMBUSTION).
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:IT IS RESPONSIBILITY OF USER TO DETERMINE IF
+    MATL IS HAZ WASTE AT TIME OF DISP. CHECK BEFORE DISPOSING TO BE
+    SURE YOU ARE IN COMPLIANCE W/ALL APPLIC LAWS & REGS. CHEMTREC/RCRA
+    EMERGENCY NUMBER: 800- 4 24-9346.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

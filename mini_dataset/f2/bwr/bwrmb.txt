@@ -1,0 +1,159 @@
+=====================  Product Identification  =====================
+
+Product ID:LEAD ACID BATTERY
+MSDS Date:01/01/1987
+FSC:6140
+NIIN:01-192-0250
+MSDS Number: BWRMB
+=== Responsible Party ===
+Company Name:SURRETTE AMERICA
+Address:15 PARK ST
+Box:249
+City:TILTON
+State:NH
+ZIP:03276
+Country:US
+Info Phone Num:603-286-8974
+CAGE:78657
+=== Contractor Identification ===
+Company Name:SURRETTE AMERICA
+Address:15 PARK ST
+Box:249
+City:TILTON
+State:NH
+ZIP:03276
+Country:US
+CAGE:78657
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LEAD  (SARA III)/LEAD OXIDE/LEAD SULFATE
+CAS:7439-92-1
+RTECS #:OF7525000
+Fraction by Wt: 60%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:SEE 1910.1025
+ACGIH TLV:0.15 MG/M3,DUST;9394
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:SULFURIC ACID  (SARA III)
+CAS:7664-93-9
+RTECS #:WS5600000
+Fraction by Wt: 10-30%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9394
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ANTIMONY  (SARA III)
+CAS:7440-36-0
+RTECS #:CC4025000
+Fraction by Wt: 1-5%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:0.5 MG/M3
+ACGIH TLV:0.5 MG (SB)/M3; 9394
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ARSENIC  (SARA III)
+CAS:7440-38-2
+RTECS #:CG0525000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:SEE 1910.1018
+ACGIH TLV:0.01 MG/M3, A1; 9394
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SULFURIC ACID:SKIN:SEVERE IRRIT,
+    BURNS, ULCERATION. EYES:CAUSES SEVERE BURNS, CORNEA DAMAGE,
+    BLINDNESS, BURNING, ITCHING WATERY EYES. RESP TRACT IRRITATION,
+    COUGHING. SKIN ITCHING.
+Explanation of Carcinogenicity:PER MSDS:CHEMICAL LISTED AS CARCINOGEN
+    OR POTENTIAL CARCINOGEN:NTP/IARC/OSHA:NO.
+Effects of Overexposure:SKIN:IRRIT, BURNS, ULCERATION. EYE: BURNS,
+    CORNEA DAMAGE, BLINDNESS, BURNING, ITCHING WATERY EYES. RESP TRACT
+    IRRIT, COUGHING. SKIN ITCHING.
+Medical Cond Aggravated by Exposure:CHRONIC RESPIRATORY DISEASE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH W/WATER FOR 15MINS. CALL PHYSICIAN. SKIN:RINSE
+    W/WATER FOR 15MINS. REMOVE CONTAMIN CLOTHING. INGEST:DRINK MILK. DO
+    NOT INDUCE VOMITING.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:676F,358C
+Extinguishing Media:CLASS ABC FIRE EXTINGUISHER, CO2, WATER.
+Fire Fighting Procedures:COOL EXTERIOR OF BATTERY TO PREVENT
+    RUPTURE.ACID MIST/VAP ARE CORROSIVE. PROTECIVE CLOTHING & RESP
+    EQPMT ARE REQUIRED.
+Unusual Fire/Explosion Hazard:HYDROGEN GAS IS PRODUCED WHILE CHARGING.
+    VENTILATE CHARGING AREA & REMOVE OPEN FLAMES/SPARKS/OTHER IGNITION
+    SOURCES THAT MAY CAUSE AN EXPLOSION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DILUTE SPILL CAUTIOUSLY W/5-6 VOLUMES OF
+    WATER. NEUTRALIZE W/SODA ASH OR LIME. WHEN EXPOSURE LEVEL IS NOT
+    KNONW WEAR NIOSH APPROVED POSITIVE PRESSURES SELF-CONTAINED
+    RESPIRATOR.
+Neutralizing Agent:SODA ASH OR LIME.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM REACTIVE MATERIALS.
+    KEEP AWAY FROM HEAT & FLAMES DURING & AFTER CHARGING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:SULFURIC ACID MIST-HALF MASK W/DUST & ACID MIST
+    FILTER.
+Protective Gloves:RUBBER GLOVES
+Eye Protection:GOGGLES OR FACE SHIELD.
+Other Protective Equipment:WEAR SAFETY GLASSES & PROPER PROTECTIVE
+    CLOTHING TO PREVENT ACID CONTACT W/EYES & SKIN.
+Work Hygienic Practices:WASH HANDS AFTER HADNLING BATTERY & SULFURIC
+    ACID.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C1
+Boiling Pt:B.P. Text:235F,113C
+Vapor Pres:13
+Spec Gravity:1.275
+Solubility in Water:MISCIBLE(AICD)
+Appearance and Odor:COLORLESS,ODORLESS-ACID MIST FROM CHARGING
+    BATTERIES HAS SHARP ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, COMBUSTIBLES, STRONG REDUCING AGENTS.
+Stability Condition to Avoid:CASE DECOMPOSES @328-410C(622-770F).
+    SPARKS/OPEN FLAMES.
+Hazardous Decomposition Products:COMBUSTION CAN PRODUCE CARBON DIOXIDE,
+    & CARBON MONOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PLACE IN ACID RESISTANT CONTAINER. DISPOSAL IS
+    MADE IN ACCORDANCE WITH GOVERNMENTAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

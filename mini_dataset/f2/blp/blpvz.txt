@@ -1,0 +1,138 @@
+=====================  Product Identification  =====================
+
+Product ID:146 2829, 28% ACETIC ACID
+MSDS Date:03/30/1994
+FSC:6750
+NIIN:00F019299
+MSDS Number: BLPVZ
+=== Responsible Party ===
+Company Name:EASTMAN KODAK CO.
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-724-4501/PACK=JOHN 716-588-3559
+Emergency Phone Num:716-722-5151(72)/FAX 716-724-9656
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ACETIC ACID  (SARA III)
+CAS:64-19-7
+RTECS #:AF1225000
+Fraction by Wt: 25-30%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:10 PPM
+ACGIH TLV:10 PPM/15 STEL; 9394
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 70-75%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): >3.2 ML/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION- VAPOR IRRITATING. MAY
+    CAUSE IRRITATION TO THE MUCOUS MEMBRANES AND UPPER RESPIRATORY
+    TRACT.  EYES- CAUSES BURNS. VAPOR CAUSES EYE IRRITATION AND
+    TEARING.  SKIN- CAUSES BURNS.  INGESTION- M AY BE FATAL IF
+    SWALLOWED. MAY CAUSE BURNS OF THE GASTROINTESTINAL TRACT IF
+    SWALLOWED.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: UPPER RESPIRATORY TRACT IRRITATION.
+    EYES/SKIN: BURNS & IRRITATION. INGESTION: HARMFUL & TOXIC.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. TREAT SYMPTOMATICALLY.
+    EYES/SKIN: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINS. INGESTION:
+    DON'T INDUCE VOMITING. IF CONSCIOUS GIVE, 1 GLASS OF MILK OR WATER.
+    NEVER GI VE ANYTHING BY MOUTH TO AN UNCONSCIOUS PERSON. OBTAIN
+    MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE APPROPRIATE AGENT FOR ADJACENT FIRE.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS AND
+    PROTECTIVE CLOTHING. FIRE OR EXCESSIVE HEAT MAY PRODUCE HAZARDOUS
+    DECOMPOSITION PRODUCTS.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NEUTRALIZE W/BAKING SODA (SODIUM BICARBONATE).
+    FLUSH MATERIAL TO SEWER W/PLENTY OF WATER.
+Neutralizing Agent:BAKING SODA (SODIUM BICARBONATE)
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM STRONG ALKALI. AVOID
+    CONTACT W/SKIN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE A NIOSH APPROVED RESPIRATOR FOR ORGANIC
+    VAPOR.
+Ventilation:GENERAL: RECOMMENDED. LOCAL EXHAUST OR AN ENCLOSED HANDLING
+    SYSTEM MAY BE NEEDED TO CONTROL AIR CONTAMINATION.
+Protective Gloves:RECOMMENDED
+Eye Protection:SAFETY GLASSES W/SIDE SHIELDS, GOGGLES
+Other Protective Equipment:FACE SHIELD
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING/SHOES
+    BEFORE REUSE.
+Supplemental Safety and Health
+THIS MATERIAL IS AN ACIDIC AQUEOUS SOLUTION. IT HAS A HIGH BIOLOGICAL
+    OXYGEN DEMAND, CAUSING OXYGEN DEPLETION IN AQUATIC SYSTEMS. IT HAS
+    A LOW POTENTIAL TO AFFECT AQUATIC ORGANISMS/SECONDARY WASTE TRE
+    ATMENT MICROORGANISMS/PLANT GROWTHS & GERMINATION.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C1
+Boiling Pt:B.P. Text:>212F
+Vapor Pres: 18
+Vapor Density:0.6
+Spec Gravity: 1.036
+pH: 3
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR SOLUTION W/SHARP ODOR.
+Percent Volatiles by Volume:100/WT
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, STRONG BASES.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:CARBON DIOXIDE, CARBON MONOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISCHARGE, TREATMENT OR DISPOSAL MAY BE SUBJECT
+    TO NATIONAL, STATE OR LOCAL LAWS.  FLUSH TO SEWER WITH LARGE
+    AMOUNTS OF WATER.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

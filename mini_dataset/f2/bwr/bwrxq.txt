@@ -1,0 +1,171 @@
+=====================  Product Identification  =====================
+
+Product ID:MIL-P-23377 TYPE II B-COMPONEN; F-07P39
+MSDS Date:10/29/1990
+FSC:8010
+NIIN:01-048-6539
+MSDS Number: BWRXQ
+=== Responsible Party ===
+Company Name:SEAL GROUP INC THE
+Address:3720 COTTAGE HILL ROAD
+City:MOBILE
+State:AL
+ZIP:36609
+Country:US
+Info Phone Num:205-666-1512
+Emergency Phone Num:205-666-1512
+CAGE:0EES0
+=== Contractor Identification ===
+Company Name:SEAL GROUP INC THE
+Address:3720 COTTAGE HILL ROAD
+Box:City:MOBILE
+State:AL
+ZIP:36609
+Country:US
+Phone:205-666-1512
+CAGE:0EES0
+Company Name:SHERWIN-WILLIAMS, SEAGUARD
+Address:3560 ELM AVE.
+Box:City:PORTSMOUTH
+State:VA
+ZIP:23704
+Country:US
+Phone:757-397-2223
+CAGE:60163
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: <40%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: <15%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: <35%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE-INHALATION:IRRITATION TO
+    RESPIRATORY TRACT, HEADACHE, DIZZINESS & NAUSEA. SKIN:PRIMARY
+    IRRITATION. EYE:PRIMARY IRRITATION. CHRONIC HEALTH EFFECTS ARE
+    POSSIBLE FROM LONG RERM EXPOSURE TO THIS MAT ERIAL, INCLUDING
+    DRYING, CRACKING & IRRITATION OF THE SKIN.
+Explanation of Carcinogenicity:MANUFACTURER GAVE NO INFORMATION ABOUT
+    CARCINOGENICITY. HMIS DOES NOT EXPECT IT TO BE CARCINOGENIC.
+Effects of Overexposure:INHALATION:RESPIRATORY IRRITATION, HEADACHE,
+    DIZZINESS & NAUSEA. SKIN:IRRITATION, DRYING, CRACKING.
+    EYE:IRRITATION.
+Medical Cond Aggravated by Exposure:PRE-EXISTING SENSITIVITY TO
+    SOLVENTS CAN CAUSE A HEIGHTENED REACTION TO EXPOSURE TO THIS
+    PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION:REMOVE TO FRESH AIR, RESTORE BREATHING. CONSULT A
+    PHYSICIAN. SKIN:FLUSH W/WATER. EYE:FLUSH IMMEDIATELY W/LARGE
+    AMOUNTS OF WATER. CONSULT A PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:25.0F,-3.9C
+Lower Limits:1.2
+Upper Limits:12.0
+Extinguishing Media:FOAM, CARBON DIOXIDE, DRY CHEMICAL, WATER FOG
+Fire Fighting Procedures:WATER MAY BE USED TO COOL CLOSED CONTAINERS TO
+    PREVENT PRESSURE BUILD-UP & POSSIBLE AUTOIGNITION OR EXPLOSION WHEN
+    EXPOSED TO EXTREME HEAT.
+Unusual Fire/Explosion Hazard:KEEP CONTAINERS TIGHETLY CLOSED. ISOLATE
+    FROM HEAT,SPARKS,& OPEN FLAME. CLOSED CONTAINERS MAY EXPLODE WHEN
+    EXPOSED TO EXTREME HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:AVOID BREATHIN SOLVENT VAPOR. ENSURE ADEQUATE
+    VENTILATION. AVOID SPARKS, FLAMES & ANYTHING WHICH COULD CAUSE
+    FIRE.
+Neutralizing Agent:MFR GAVE NO INFORMATION ON MSDS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL DRY AREA W/VENTILATION
+    SUITABLE FOR STORING MATERIALS SHOWN IN INGREDIENTS SECTION.
+Other Precautions:PROVIDE RESPIRATORY PROTECTION AGAINST FUMES
+    GENERATED DURING BURNING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR TYPES SUITABLE
+    FOR MATERIALS IN INGREDIENTS SECTION RECOMMENDED. APPROVED
+    CHEMICAL/MECHANICAL FILTERS RECOMMENDED WHEN VENTILATION
+    RESTRICTED. APPROVED AIRLONE RESPIRATO RS OR HOODS RECOMMENDED IN
+    CONFINED AREA
+Ventilation:SUFFICIENT VENTILATION SHOULD BE PROVIDED TO KEEP AIR
+    CONTAMINATION BELOW CURRENT APPLICABLE OSHA PEL OR ACGIH TLV.
+Protective Gloves:RECOMMENDED FOR PROLONGED/REPEATED
+Eye Protection:CHEM GOGGLES W/SIDE SHIELD OR FACE SHIED
+Other Protective Equipment:USE PROTECTIVE CREAMS WHERE SKIN CONTACT IS
+    LIKELY. REMOVE & WASH CONTAMINATED CLOTHING BEFORE REUSE.
+Work Hygienic Practices:WASH HANDS BEFORE EATING OR SMOKING. SMOKE IN
+    DESIGNATED AREAS ONLY.
+Supplemental Safety and Health
+MSDS RECEIVED FROM THE NAVY (FOCAL POINT N). NSN IDENTIFIED BY FOCAL
+    POINT N.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+NRC/State Lic Num:NONE
+Boiling Pt:B.P. Text:175F,79C
+Vapor Density:>1
+Evaporation Rate & Reference:IS SLOWER THAN ETHER
+Solubility in Water:INSOLUBLE
+Appearance and Odor:CLEAR LIQUID, ODOR OF AROMATIC&KETONES
+Percent Volatiles by Volume:82.8
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE KNOWN
+Stability Condition to Avoid:AS W/ANY OTHER ORGANIC MATERIAL,
+    COMBUSTION WILL PRODUCE CARBON DIOXIDE & PROBABLY CARBON MONOXIDE.
+Hazardous Decomposition Products:OXIDIZING MATERIALS CAN CAUSE A
+    VIGOROUS REACTION.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:SOAK LIQUIDS W/SAWDUST OR RAGS & REMOVE. FLUSH
+    W/WATER IF POSSIBLE. AVOID SKIN CONTACT. DISPOSAL SHOULD BE I/A/W
+    FEDERAL, STATE & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

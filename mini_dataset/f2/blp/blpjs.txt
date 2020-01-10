@@ -1,0 +1,135 @@
+=====================  Product Identification  =====================
+
+Product ID:1-341 SNPF ALKYD ENAMEL TRIM COLOR COPPER VERDE
+MSDS Date:05/21/1982
+FSC:8010
+NIIN:00F019088
+MSDS Number: BLPJS
+=== Responsible Party ===
+Company Name:PPG INDUSTRIES INC
+Address:ONE GATEWAY CENTER
+City:PITTSBURGH
+State:PA
+ZIP:15222
+Info Phone Num:(304) 843-1300
+Emergency Phone Num:(304) 843-1300
+CAGE:93915
+=== Contractor Identification ===
+Company Name:PPG INDUSTRIES INC CHEMICAL DIVISION
+Address:ONE GATEWAY CENTER
+City:PITTSBURGH
+State:PA
+ZIP:15222-1416
+Country:US
+Phone:304-843-1300
+CAGE:93915
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MINERAL SPIRITS, PETROLEUM SPIRITS
+CAS:64475-85-0
+RTECS #:PY8240000
+Fraction by Wt: <35%
+Other REC Limits:100 PPM
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:ETHYL BENZENE  (SARA III)
+CAS:100-41-4
+RTECS #:DA0700000
+Fraction by Wt: <5%
+Other REC Limits:100 PPM
+OSHA PEL:100 PPM/125 STEL
+ACGIH TLV:100 PPM/125STEL 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:1,3-DIOXOLAN-2-ONE, 4-METHYL-DIPROPLYENE CARBONATE,
+    PROPYLENE CARBONATE, CARBONIC ACID, CYCLIC PROPYLENE ESTER
+CAS:108-32-7
+RTECS #:FF9650000
+Fraction by Wt: <0.5%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: ANESTHETIC, IRRITATION OF
+    THE RESPIRATORY TRACT OR NERVOUS SYSTEM DEPRESSION, HEADACHE,
+    DIZZINESS, STAGGERING GAIT, CONFUSION, UNCONSCIOUSNESS, OR COMA.
+    SKIN/EYES: IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: ANESTHETIC, IRRITATION OF THE
+    RESPIRATORY TRACT, NERVOUS SYSTEM DEPRESSION, HEADACHE, DIZZINESS,
+    STAGGERING GAIT, CONFUSION, UNCONSCIOUSNESS, OR COMA. SKIN/EYES:
+    IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE FROM EXPOSURE. RESTORE BREATHING. KEEP
+    WARM & QUIET. EYES: FLUSH W/COPIOUS QUANTITIES OF RUNNING WATER FOR
+    AT LEAST 15 MINS. SKIN: WASH AFFECTED AREAS W/WATER. OBTAIN MEDICAL
+    ATTENT ION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:114F
+Lower Limits:1%
+Extinguishing Media:CO2, DRY CHEMICAL OR FOAM
+Fire Fighting Procedures:WATER SPRAY MAY BE INEFFECTIVE. IF WATER IS
+    USED, FOG NOZZLES ARE PREFERABLE. FULL PROTECTIVE CLOTHING & SELF
+    CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:WATER SPRAY MAY BE USED TO COOL CLOSED
+    CONTAINERS TO PREVENT PRESSURE BUILD-UP, POSSIBLE AUTOIGNITION &
+    EXPLOSION WHEN EXPOSED TO EXTREME HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION, FLAMES, HOT
+    SURFACES, ELECTRICAL, STATIC, OR FRICTIONAL SPARKS. VENTILATE AREA.
+    REMOVE W/INERT ABSORBENT & NON-SPARKING TOOL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T STORE >120F. STORE LARGE
+    QUANTITIES IN BUILDINGS DESIGNED & PROTECTED FOR STORAGE OF NFPA
+    CLASS II COMBUSTIBLE LIQUIDS. DON'T TAKE INTERNALLY.
+Other Precautions:CONTAINERS SHOULD BE GROUNDED WHEN POURING. AVOID
+    FREE FALL OF LIQUID IN EXCESS OF A FEW INCHES. DON'T FLAME CUT,
+    BRAZE OR WELD W/O NIOSH APPROVED RESPIRATORS OR APPROPRIATE
+    VENTILATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:OUTDOOR/OPEN AREAS: USE FILTER RESPIRATOR TC21C
+    TO REMOVE SOLID AIRBORNE PARTICULATES FROM OVERSPRAY. USE
+    COMBINATION ORGANIC VAPOR-FILTER RESPIRATORS TC23C DESIGNED TO
+    PURIFY THE AIR BY REMOVING SOLI D AIRBORNE PARTICULATES/ORGANIC
+    VAPORS.
+Ventilation:PROVIDE GENERAL DILUTION OR LOCAL EXHAUST IN VOLUME &
+    PATTERN TO KEEP AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:46.17%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:HOT SURFACES, HEAT, ELECTRICAL EQUIPMENT,
+    SPARKS & OPEN FLAME, STATIC, OR SPARKS. TEMP >120F.
+Hazardous Decomposition Products:CO, HYDROGEN CHLORIDE, CHLORINATED
+    PRODUCTS, CHLORINE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. DON'T INCINERATE CLOSED CONTAINERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

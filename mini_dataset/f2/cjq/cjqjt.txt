@@ -1,0 +1,147 @@
+=====================  Product Identification  =====================
+
+Product ID:275 MOORCRAFT SUPER SPEC LATEX FLAT PAINT
+MSDS Date:12/02/1997
+FSC:NIIN:Submitter:F BT
+Status Code:A
+MSDS Number: CJQJT
+=== Responsible Party ===
+Company Name:BENJAMIN MOORE & CO
+Address:51 CHESTNUT RIDGE RD
+City:MONTVALE
+State:NJ
+ZIP:07645
+Country:US
+Info Phone Num:201-573-9600
+Emergency Phone Num:201-573-9600
+CAGE:91950
+=== Contractor Identification ===
+Company Name:BENJAMIN MOORE & CO
+Address:51 CHESTNUT RIDGE RD
+Box:City:MONTVALE
+State:NJ
+ZIP:07645
+Country:US
+Phone:201-573-9600
+CAGE:91950
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+= Wt:15.8
+OSHA PEL:15 MG/M3
+ACGIH TLV:10 MG/M3
+
+Ingred Name:CALCIUM CARBONATE
+CAS:471-34-1
+RTECS #:FF9335000
+= Wt:34.9
+
+Ingred Name:DIATOMACEOUS EARTH
+CAS:61790-53-2
+RTECS #:VV7311000
+= Wt:7.7
+OSHA PEL:see Table Z-3
+ACGIH TLV:10 MG/M3
+
+Ingred Name:SILICA CRYSTALLINE
+CAS:14808-60-7
+RTECS #:VV7330000
+= Wt:.2
+OSHA PEL:see Table Z-3
+ACGIH TLV:0.1 MG/M3
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:YES
+Health Hazards Acute and Chronic:INHALATION: CAUSES NOSE & THROAT
+    IRRITATION; LUNG IRRITATION. SKIN/EYES: PRIMARY IRRITANT.
+    INGESTION: LARGE AMOUNTS COULD CAUSE SERIOUS INJURY. MAY CAUSE LUNG
+    DAMAGE.
+Explanation of Carcinogenicity:THIS PRODUCT CONTAINS ONE/MORE REPORTED
+    CARCINOGENS/SUSPECTED CARCINOGENS WHICH ARE NOTED.
+Effects of Overexposure:IRRITATION
+Medical Cond Aggravated by Exposure:NONE EXPECTED WHEN USED IAW/SAFE
+    HANDLING & USE INFORMATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. EYES: FLUSH THOROUGHLY
+    W/WATER. SKIN: WASH W/SOAP & WATER. INGESTION: DRINK 1-2 GLASSES OF
+    WATER TO DILUTE. DON'T INDUCE VOMITING. OBTAIN MEDICAL ATTENTION IN
+    ALL CASE S.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:>121.1C, 250.F
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL, WATER FOG
+Fire Fighting Procedures:COOL EXPOSED CONTAINERS W/WATER. USE SELF
+    CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:TOXIC GASES MAY FORM WHEN PRODUCT BURNS.
+    CLOSED CONTAINERS MAY BURST IF EXPOSED TO EXTREME HEAT/FIRE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH W/WATER. ABSORB W/SAWDUST/RAGS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:CLOSE CONTAINER AFTER EACH USE. KEEP
+    OUT OF REACH OF CHILDREN. DON'T THROW/DROP CONTAINERS.
+Other Precautions:AVOID CONTACT W/EYES & PROLONGED CONTACT
+    W/SKIN/BREATHING OF SPRAY MIST/SANDING DUST. DON'T TAKE INTERNALLY.
+    THIS PRODUCT CONTAINS PIGMENTS WHICH MAY BECOME A DUST NUISANCE
+    WHEN REMOVED BY ABRASIVE BL ASTING, SANDING/GRINDING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH APPROVED RESPIRATOR SPECIFIED FOR
+    PROTECTION AGAINST PAINT SPRAY MIST & SANDING DUST IN
+    RESTRICTED/CONFINED AREAS.
+Ventilation:ADEQUATE TO MAINTAIN WORKING ATMOSPHERE BELOW TLV & LEL.
+    MECHANICAL EXHAUST IN CONFINED AREAS.
+Protective Gloves:WATERPROOF DURING REPEATED CONTACT.
+Eye Protection:SPLASH GOGGLES/SAFETY GLASSES W/SIDE SHIELDS.
+Other Protective Equipment:CLOTHING ADEQUATE TO PROTECT SKIN.
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING & SHOES
+    BEFORE REUSE. WASH HANDS BEFORE EATING, SMOKING/USING THE WASHROOM.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Vapor Density:>1
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:59.1-70.2
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:ELEVATED TEMPERATURES, EXTREME HEAT/FIRE.
+Hazardous Decomposition Products:BURNING MAY PRODUCE CO2, CO
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DON'T INCINERATE SEALED CONTAINERS. DISPOSE OF
+    IN ACCORDANCE W/LOCAL, STATE & FEDERAL REGULATIONS.
+
+=====================  Regulatory Information  =====================
+
+State Regulatory Information:THIS PRODUCT MAY CONTAIN SMALL AMOUNTS OF
+    MATERIALS KNOWN TO THE STATE OF CALIFORNIA TO CAUSE CANCER &
+    REPRODUCTIVE HARM.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

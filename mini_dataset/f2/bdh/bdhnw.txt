@@ -1,0 +1,112 @@
+=====================  Product Identification  =====================
+
+Product ID:OE/HDO-40;LUBRICATING OIL
+MSDS Date:01/01/1987
+FSC:9150
+NIIN:00-188-9862
+MSDS Number: BDHNW
+=== Responsible Party ===
+Company Name:DELTA PETROLEUM CO.,INC.
+Emergency Phone Num:(504)833-2861
+CAGE:7A348
+=== Contractor Identification ===
+Company Name:DELTA PETROLEUM CO., INC
+Address:10352 RIVER ROAD,
+Box:10397
+City:ST. ROSE
+State:LA
+ZIP:70087
+Country:US
+Phone:504-832-2732
+CAGE:7A348
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LUBRICATING OIL (TAKE TLV AS OIL MIST)
+Fraction by Wt: >99%
+ACGIH TLV:5MG/CUM(OILMIST
+
+Ingred Name:METALLIC ORGANIC COMPOUNDS.
+Fraction by Wt: <1.0%
+ACGIH TLV:NOT SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:LOW ORDER OF TOXICITY AND IRRITANCY;MAY
+    IRRITATE EYES,SKIN AND RESPIRATORY TRACT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALE:REMOVE TO FRESH AIR, GIVE CPR/O*2 IF
+    NEED;EYES/SKIN:FLUSH W LG AMTS H*2O FOR 15 MIN;INGEST:RINSE MOUTH;
+    GET MEDICAL ATTENTION FOR EYES, BREATHING DIFFICULTY, OR OTHER
+    SYMPTOMS OF OVEREXPOSURE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:392F/200C (COC)
+Extinguishing Media:FOAM,DRY CHEMICAL, WATER SPRAY,WATERFOG CO*2.
+Fire Fighting Procedures:WATER SPRAY TO COOL CONTNRS;USE NIOSH/MSHA
+    APPROVED SCBA.
+Unusual Fire/Explosion Hazard:NONE SPECIFIED:USE REASONABLE
+    CARE;RESPIRATORY PROTECTION IS REQUIRED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPER PERSONAL PROTECTION:USE SUITABL
+    ABSORBENT MATERIALS LIKE SAND OR EARTH AND RECOVER FOR PROPER
+    DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AT ROOM TEMPERATURE.AWAY FROM
+    HEAT,OPEN FLAMES,AND OXIDIZING MATERIALS.KEEP CONTAINERS CLOSED
+    WHEN NOT IN USE.
+Other Precautions:AVOID CONTACT WITH SKIN AND EYES;DO NOT BREATHE
+    VAPORS/MIST.WASH THOROUGHLY AFTER HANDLING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR FOR ORGANIC
+    VAPORS/MIST IF >TLV
+Ventilation:MECH(GEN)OR LOCAL EXHAUST THAT PROVIDES ADEQUATE
+    VENTILATION
+Protective Gloves:NEOPRENE
+Eye Protection:GOGGLES/FACE SHIELD
+Other Protective Equipment:FULL WORK CLOTHING TO PREVENT REPEATED OR
+    PROLONGED CONTACT.
+Supplemental Safety and Health
+MSDS DATED:NIL;ITEM GRADE 40 OF SPEC MIL-L-2104.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:500F/260C
+Vapor Pres:5
+Vapor Density:1.0
+Spec Gravity:0.887
+Evaporation Rate & Reference:NEGLIGIBLE
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:LIQUID MILD ODOR
+Percent Volatiles by Volume:NEGL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:DO NOT HEAT ABOVE 140C.H*2S IS RELEASED.
+Hazardous Decomposition Products:COMBUSTION:CO,CO*2,H*2S ETC.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF COLLECTED MATERIAL IN ACCORDANCE WITH
+    LOCAL,STATE AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

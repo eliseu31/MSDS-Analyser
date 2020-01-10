@@ -1,0 +1,183 @@
+=====================  Product Identification  =====================
+
+Product ID:SCT ARCTIC OIL HEAVY DUTY,SAE 0W20,MIL SYMBOL/OEA ME-22
+MSDS Date:06/30/1999
+FSC:9150
+NIIN:00-491-7197
+Status Code:A
+MSDS Number: CJQSR
+=== Responsible Party ===
+Company Name:SOUTH COAST TERMINALS INC
+Address:7401 WALLISVILLE RD
+Box:15535
+City:HOUSTON
+State:TX
+ZIP:77020
+Country:US
+Info Phone Num:713-672-2401, EXT 232
+Emergency Phone Num:713-672-2401
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:1L506
+=== Contractor Identification ===
+Company Name:SOUTH COAST TERMINALS, INC
+Address:7401 WALLISVILLE ROAD
+Box:15535
+City:HOUSTON
+State:TX
+ZIP:77020
+Country:US
+Phone:713-672-2401/800-424-9300(CHEMTREC)
+Contract Num:SP0450-99-M-B335
+CAGE:1L506
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LUBRICATING OIL BASE STOCK
+Fraction by Wt: 80 - 90%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:5 MG/M3 OIL MIST
+ACGIH TLV:5 MG/M3 OIL MIST
+
+Ingred Name:ZINC DIALKYL DITHIOPHOSPHATE
+CAS:68457-79-4
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:POLYALPHAOLEFIN, ALIPHATIC DIESTER, ADDITIVE PACKAGE
+= Wt:100.
+OSHA PEL:NONE
+ACGIH TLV:NONE
+
+Ingred Name:ZINC SALT OF DIALKYL DITHIOPHOSPHORIC ACID
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL, RAT) > 5,000 MG/KG
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:TARGET ORGANS:NOT PROVIDED. HAZARD
+    IDENTIFICATION: INGESTION: THIS MATERIAL IS NOT CLASSIFIED AS TOXIC
+    BY ORAL ADMINISTRATION AS DEFINED IN 16 CFR 1500. EYE IRRITATION:
+    THIS MATERIAL IS NOT CLASSIFIED  AS AN IRRITANT BY OCCULAR
+    APPLICATION AS DEFINED BY 16 CFR 1500.  SKIN IRRITATION: THIS
+    MATERIAL IS NOT CLASSIFIED A PRIMARY IRRITANT OR AS A CORROSIVE BY
+    DERMAL APPLICATION AS DEFINED BY 16 CFR 1500 .  INHALATION: THIS
+    PRODUCT IS CONSIDERED ESSENTIALLY NON-TOXIC BY INHALAITON.
+
+=======================  First Aid Measures  =======================
+
+First Aid:ORAL: DO NOT INDUCE VOMITING.   IF CONSCIOUS, DRINK WATER TO
+    DILUTE. DO NOT GIVE SODIUM BICARBONATE, FRUIT JUICE/VINEGAR. NEVER
+    GIVE ANYTHING BY MOUTH IF VICTIM IS UNCONSCIOUS OR HAVING
+    CONVULSIONS. C ALL A PHYSICIAN OR POISON CONTROL CENTER
+    IMMEDIATELY.  EYE: IMMEDIATELY FLUSH EYES WITH PLENTY OF COOL WATER
+    FOR AT LEAST 15 MINUTES. DO NOT LET VICTIM RUB EYES. IF IRRITATION
+    OR REDNESS PERSISTS, SEE K MEDICAL ATTENTION. SKIN: WASH WITH SOAP
+    AND WATER. IF IRRITATION OR REDNESS PERSISTS, SEEK MEDICAL
+    ATTENTION. INHALATION: IF IRRITATION OF NOSE OR THROAT DEVELOPS,
+    MOVE AWAY FROM EXPOSURE. IF IRRITA TION PERSISTS, SEEK MEDICAL
+    ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:=200.C, 392.F
+Lower Limits:N/D
+Upper Limits:N/D
+Extinguishing Media:USE WATER SPRAY, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL. WATER MAY BE INEFFECTIVE BUT SHOULD BE USED TO KEEP
+    FIRE-EXPOSED CONTAINERS COOL.
+Fire Fighting Procedures:WEAR FIRE FIGHTING PROTECTIVE EQUIPMENT AND A
+    FULL FACED SELF CONTAINED BREATHING APPARATUS. COOL FIRE EXPOSED
+    CONTAINERS WITH WATER SPRAY. CONTAIN RUNOFF. IF A SPILL OR LEAK HAS
+    NOT BEEN IGNITED, USE  WATER SPRAY TO DISPERSE THE VAPORS. WATER
+    SPRAY MAY BE USED TO FLUSH SPILLS AWAY FROM FIRE.
+Unusual Fire/Explosion Hazard:FIREFIGHTERS SHOULD WEAR SELF-CONTAINED
+    BREATHING APPARATUS IN THE POSITIVE-PRESSURE MODE WITH FULL
+    FACEPIECE WHEN THERE IS POSSIBILITY OF EXPOSURE TO SMOKE,FUMES,OR
+    HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR APPROPRIATE  RESPIRATORY PROTECTION AND
+    PROTECTIVE CLOTHING. CONTAIN SPILLED MATERIAL. TRANSFER TO SECURE
+    CONTAINERS. WHERE NECESSARY, COLLECT USING ABSORBENT MEDIA. IN THE
+    EVENT OF AN UNCONTROLL ED RELEASE OF THIS MATERIAL, THE USER SHOULD
+    DETERMINE IF THE RELEASE IS REPORTABLE UNDER APPLICABLE LAWS AND
+    REGULATIONS. TREAT AS AN OIL SPILL. CONTAIN AND REMOVE BY
+    MECHANICAL MEANS.
+Neutralizing Agent:NOT RELEVENT
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NO SPECIAL PRECAUTIONS NECESSARY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NORMALLY NEEDED.
+Ventilation:MECHANICAL VENTILATION IS RECOMMENDED.
+Protective Gloves:CHEMICAL RESISTANT GLOVES
+Eye Protection:SAFETY GOGGLES OR SPLASH GOGGLES
+Other Protective Equipment:NONE
+Work Hygienic Practices:DO NOT TAKE INTERNALLY. AVOID SKIN CONTACT.
+    WASH SKIN AFTER USING PRODUCT. DO NOT EAT, DRINK OR SMOKE IN WORK
+    AREA.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+NRC/State Lic Num:NOT RELEVENT
+Boiling Pt:>260.C, 500.F
+B.P. Text:IBP(OIL)
+Vapor Pres:<0.01 @20C
+Vapor Density:>AIR
+Spec Gravity:0.87 - 0.88
+pH:NEUTRAL
+Solubility in Water:NEGLIGIBLE
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:HEATING TO DECOMPOITION. USING PRESSURE TO
+    EMPTY DRUMS OR EXPLOSION MAY RESULT.DO NOT WELD,HEAT,DRILL
+    CONTAINER.RESIDUE MAY IGNITE WITH EXPLOSIVE VIOLENCE IF HEATED
+    SUFFICIENTLY.
+Hazardous Decomposition Products:OXIDES OF
+    CARBON,SULFUR,NITROGEN,PHOSPHORUS AND ZINC.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:FOR A MAJOR COMPONENT OF THIS FORMULATION,
+    THE ACUTE ORAL LD50 VALUE WAS FOUND TO BE GREATER THAN 5.0 G/KG IN
+    MALE AND FEMALE SPRAGUE-DAWLEY RATS.
+
+=====================  Ecological Information  =====================
+
+Ecological:AVOID UNCONTROLLED RELEASE OF THIS MATERIAL. WHERE SPILLS
+    ARE POSSIBLE, A COMPREHENSIVE SPILL RESPONSE PLAN SHOULD BE
+    DEVELOPED AND IMPLEMENTED.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ALL RECOVERED MATERIAL SHOULD BE PACKAGED,
+    LABELED, TRANSPORTED, AND DISPOSED OR RECLAIMED IN ACCORDANCE WITH
+    APPLICABLE LAWS AND REGULAITONS AND IN CONFORMANCE WITH GOOD
+    ENGINEERING PRACTICES. AVOID  LANDFILLING OF LIQUIDS. RECLAIM WHERE
+    POSSIBLE.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:311/312 HAZARD CATEGORIES: IMMEDIATE HEALTH
+    (OIL MIST). 313 REPORTABLE INGREDIENTS: NONE.
+Federal Regulatory Information:LISTED IN TSCA INVENTORY.
+State Regulatory Information:
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

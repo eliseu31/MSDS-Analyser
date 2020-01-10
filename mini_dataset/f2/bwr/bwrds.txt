@@ -1,0 +1,183 @@
+=====================  Product Identification  =====================
+
+Product ID:N-1088B 4:1 BLEND
+MSDS Date:01/19/1995
+FSC:8010
+NIIN:01-187-9820
+Kit Part:Y
+MSDS Number: BWRDS
+=== Responsible Party ===
+Company Name:NILES CHEMICAL PAINT CO
+Address:225 FORT STREET
+Box:307
+City:NILES
+State:MI
+ZIP:49120
+Country:US
+Info Phone Num:616-683-3377
+Emergency Phone Num:219-236-5856
+Preparer's Name:MIKE LICHATOWICH
+CAGE:02388
+=== Contractor Identification ===
+Company Name:NILES CHEMICAL PAINT
+Address:225 FORT STREET
+Box:307
+City:NILES
+State:MI
+ZIP:49120
+Country:US
+Phone:616-683-3377/219-236-5856
+CAGE:02388
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL ISOBUTYL KETONE  (SARA 313) (CERCLA) (VAPOR PRESSURE
+    15 MM HG @ 20C)
+CAS:108-10-1
+RTECS #:SA9275000
+Fraction by Wt: 28%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:100 PPM
+ACGIH TLV:50 PPM; STEL 75 PPM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:EPOXY RESIN
+Fraction by Wt: 23%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:BUTYL ALCOHOL (SARA 313) (CERCLA) (VAPOR PRESSURE 4.4 MM HG
+    @ 20C)
+CAS:71-36-3
+RTECS #:EO1400000
+Fraction by Wt: 17%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:50 PPM
+ACGIH TLV:50 PPM (SKIN)
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:PM GLYCOL ETHER (VAPOR PRESSURE 12.5 MM HG @ 25C)
+Fraction by Wt: 11%
+Other REC Limits:NONE RECOMMENDED
+ACGIH TLV:100 PPM;STEL 150 PPM
+
+Ingred Name:XYLENE (SARA 313) (CERCLA) (VAPOR PRESSURE 7.0 MM HG @ 20C)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 11%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM;STEL 150 PPM
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:DIETHYLENE TRIAMINE (VAPOR PRESSURE 1.0 MM HG @ 20C)
+CAS:111-40-0
+RTECS #:IE1225000
+Fraction by Wt: 8%
+Other REC Limits:NONE RECOMMENDED
+ACGIH TLV:1.0 PPM
+
+Ingred Name:PROPRIETARY INGREDIENTS (MFR STATES UNIDENTIFIED
+    INGREDIENTS ARE NOT CONSIDERED HAZARDOUS UNDER FED HZD COMM REGS)
+Fraction by Wt: BALANCE
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES:SEVERE IRRITATION, TEARING,
+    REDNESS, BLURRED VISION. SKIN:HARMFUL IF ABSORBED THROUGH SKIN. CAN
+    BE ABSORBED IN TOXIC AMOUNTS ESPECIALLY FROM PROLONGED OR REPEATED
+    EXPOSURES. INHAL:NASAL & RESPIRA TORY IRRITATION,CNS DEPRESSION
+    (DIZZY,DRWSY,WEAK,FATIGUE,CONFUSION)
+    NAUSEA,HEADACHE,VERTIGO,UNCONSCIOUS,ASPHYXIATION. *
+Effects of Overexposure:* INGESTION: GASTROINTESTINAL IRRITATION,
+    ABDOMINAL PAIN, NAUSEA, VOMITING, DIARRHEA. 	       CHRONIC
+    EFFECTS OF OVEREXPOSURE: CORNEAL INFLAMMATION, PHOTOPHOBIA,
+    INCOHERENCE, CORNEAL VACUOLIZAT ION, ANOREXIA, NARCOSIS, COMA. 
+    TARGET ORGANS: SKIN, EYES, RESP SYSTEM, CNS, GI TRACT, BLOOD,
+    LIVER, KIDNEYS.
+Medical Cond Aggravated by Exposure:NONE KNOWN
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:MOVE VICTIM TO FRESH AIR IMMED.IF BREATHING
+    STOPPED,GIVE ARTIF RESP.GET MED AID ASAP. SKIN:IMMED FLUSH W/PLENTY
+    H2O.IF PENETRATES CLOTH,IMMED REMOVE CONTAM CLOTH.FLUSH W/H2O.GET
+    MED AID.WASH CLO TH & DECONTAM SHOES BEFORE REUSE. EYE:IMMED FLUSH
+    W/H2O 15 MIN,LIFT EYELIDS.GET MED AID IMMED.WEAR CONTACT
+    LENSES.INGEST:DRINK 1-2 GLASSES H2O.DON'T INDUCE VOMIT.SEE
+    DR/POISON CTR IMMED.TREAT SYMPTOMS
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:73.0F,22.8C
+Lower Limits:1.0
+Upper Limits:11.0
+Extinguishing Media:DRY CHEMICAL, FOAM, CO2
+Fire Fighting Procedures:WEAR SCBA W/FULL FACEPIECE IN POSITIVE
+    PRESSURE MODE & PR0TECT CLOTHING. USE WATER TO COOL CLOSED
+    CONTAINERS TO PREVENT PRESSURE BLDUP, AUTOIGNITION, EXPLOSION.
+Unusual Fire/Explosion Hazard:KEEP CNTNR CLSD.VAPOR HEAVY,TRAVEL ON
+    GRND TO IGNIT.KEEP FROM HEAT/IGNIT.CLSD CNTNR EXPLODE W/HEAT.APPLIC
+    TO HOT SRFCS REQ SPCL CAUTN.DECOMP PRODUCT-HEALTH HZD.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIM IGNIT SOURCE.MINIMIZE BREATHING
+    VAPOR.AVOID SKIN CONTACT. SMALL:ABSORB W/INERT
+    MAT'L(CLAY,SOIL,COMMERCL ABSORB).SHOVEL RECLAIMD LIQ & ABSORBNT
+    INTO RECOVERY/SALVAGE DRUM.LRG:DIKE(PREVENT MOVEMENT ).RECLAIM INTO
+    RECOVERY/SALVAGE DRUM ORTANK TRUCK
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID STORAGE IN HIGH TEMPERATURE
+    AREAS OR NEAR FIRE OR OPEN FLAME. KEEP CONTAINERS CLOSED WHEN NOT
+    IN USE. AVOID ROUGH HANDLING.
+Other Precautions:CONTAINERS OF THIS MATERIAL MAY BE HAZARDOUS WHEN
+    EMPTY. DO NOT WELD OR FLAME CUT ON EMPTY DRUMS. SHOCK FROM DROPPING
+    MAY SPLIT CONTAINERS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR FITTED 1/2 MASK (TC-23C-75) OR FULL
+    FACEPIECE RESPIRATOR (NIOSH/MSHA) DURING & AFTER APPLICATION UNLESS
+    AIR MONITORING DEMONSTRATES VAPOR/MIST LEVELS ARE BELOW APPLICABLE
+    LIMITS. FOLLOW RESPIRATO R MANUFACTURER'S DIRECTIONS FOR USE.
+Ventilation:KEEP AIR CONCEN  AIR
+Spec Gravity:0.904
+VOC Grams/Liter:5.17
+Viscosity:E
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:SLIGHT
+Appearance and Odor:LIQUID, ODOR OF SOLVENTS
+Percent Volatiles by Volume:74.72
+Corrosion Rate:MINIMAL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS
+Stability Condition to Avoid:HIGH TEMPERATURES
+Hazardous Decomposition Products:CAN PRODUCE CARBON MONOXIDE AND/OR
+    CARBON DIOXIDE.
+Conditions to Avoid Polymerization:HIGH TEMPERATURES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH APPLICABLE LOCAL,
+    STATE, AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,112 @@
+=====================  Product Identification  =====================
+
+Product ID:AW 250-1.6
+MSDS Date:01/01/1987
+FSC:8010
+NIIN:00F019361
+MSDS Number: BLPZC
+=== Responsible Party ===
+Company Name:SWD URETHANE COMPANY
+Address:222 S DATE ST
+City:MESA
+State:AZ
+ZIP:85202
+Info Phone Num:(602) 969-8413
+Emergency Phone Num:(602) 969-8413
+CAGE:FO963
+=== Contractor Identification ===
+Company Name:SWD URETHANE COMPANY
+Address:222 S DATE ST
+City:MESA
+State:AZ
+ZIP:85202
+Phone:(602) 969-8413
+CAGE:FO963
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TRICHLOROFLUOROMETHANE  (CFC-11)  (SARA III)
+CAS:75-69-4
+RTECS #:PB6125000
+Fraction by Wt: <40%
+Other REC Limits:1000 PPM MSHA
+OSHA PEL:1000 PPM
+ACGIH TLV:C, 1000 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+Ozone Depleting Chemical:1
+
+Ingred Name:TERTIARY AMINE CATALYSTS
+Fraction by Wt: <3%
+
+Ingred Name:ORGANO METALLIC CATALYSTS
+Fraction by Wt: <1%
+
+Ingred Name:POLYHYDROXY TERMINATED AMINO BASED COMPOUNDS
+Fraction by Wt: >56%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: ANESTHESIA. SKIN:
+    IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: ANESTHESIA. SKIN: IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR & ADMINISTER OXYGEN IF
+    NECESSARY. EYES: FLUSH W/WATER FOR AT LEAST 15 MINS. SKIN: WASH
+    W/SOAP & WATER. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:250F
+Extinguishing Media:CO2, DRY CHEMICAL, WATER
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS & FULL
+    PROTECTIVE CLOTHING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONTAIN SPILL W/DRY ABSORBENT. SHOVEL OR SWEEP
+    UP & PLACE IN AN APPROVED CONTAINER FOR DISPOSAL. STRONG ACIDS,
+    WILL NEUTRALIZE CATALYSTS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:RECOMMENDED STORAGE TEMP: 60F-75F.
+    THIS PRODUCT IS HYGROSCOPIC. CONTAINERS SHOULD BE TIGHTLY CLOSED TO
+    PREVENT MOISTURE CONTAMINATION.
+Other Precautions:AVOID CONTACT W/SKIN & EYES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AS REQUIRED
+Ventilation:LOCAL EXHAUST/MECHANICAL (GENERAL) TO KEEP 1
+Spec Gravity:>1
+Solubility in Water:COMPLETE
+Appearance and Odor:LIGHT BROWN LIQUID.
+Percent Volatiles by Volume:<40%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ISOCYANATES, & STRONG ACIDS WHICH WILL NEUTRALIZE CATALYSTS.
+Stability Condition to Avoid:TEMPERATURES <60 OR >75F & MOISTURE.
+Hazardous Decomposition Products:CO2, CO, TRACES OF HYDROGEN CYANIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

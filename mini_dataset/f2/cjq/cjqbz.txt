@@ -1,0 +1,179 @@
+=====================  Product Identification  =====================
+
+Product ID:PC DUSTER 2, OFFICEDUSTER 3, OFFICEDUSTER JR.
+MSDS Date:03/01/1998
+FSC:6830
+NIIN:01-434-1183
+Status Code:A
+MSDS Number: CJQBZ
+=== Responsible Party ===
+Company Name:ACCTECH LLC, CLEANTEX DIV (READ/RIGHT PRODUCTS)
+Address:33 MURRY HILL DRIVE
+City:NANUET
+State:NY
+ZIP:10954
+Country:US
+Info Phone Num:800-284-5577/327-1237
+Emergency Phone Num:800-327-1237
+Resp. Party Other MSDS Num.:3507,3508,3509,3510,3522,3607,3608,3609
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:09ZF6
+=== Contractor Identification ===
+Company Name:ACCTECH  LLC
+Address:33 MURRY HILL DRIVE
+Box:City:NANUET
+State:NY
+ZIP:10954
+Country:US
+Phone:800-284-5577
+CAGE:09ZF6
+Company Name:ALLEN GEORGE W CO INC
+Address:5640-J SUNNYSIDE AVE
+Box:City:BELTSVILLE
+State:MD
+ZIP:20705-2213
+Country:US
+Phone:301-614-9500
+Contract Num:SP0450-99-D-5319
+CAGE:025M2
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:1,1,1,2-TETRAFLUOROETHANE
+CAS:811-97-2
+= Wt:100.
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:TWA (8 HOUR)=1000 PPM.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EXCESSIVE INHALATION OF VAPORS MAY BE
+    FATAL. VAPORS REDUCE AVAILABLE OXYGEN IN AIR. REDUCED OXYGEN LEVELS
+    TO 12-14% PRODUCE SYMPTOMS OF ASPHYXIATION.  MATERIAL CAN INDUCE
+    CARDIAC SENSITIZATION TO EPIN EPHRINE AND CARDIAC ARRHYTHMIA.  SKIN
+    IRRITANT.  DIRECT EXPOSURE OF SKIN TO LIQUID MAY CAUSE FROSTBITE. 
+    EYE IRRITANT.
+Explanation of Carcinogenicity:NOT LISTED.
+Effects of Overexposure:INHALATION:SYMPTOMS OF ASPHYXIATION;LOSS OF
+    COORDINATION, INCREASED PULSE RATE, CARDIAC SENSITIZATION, DEEPER
+    RESPIRATION. SKIN:IRRITATION, FROSTBITE. EYE:MILD (VAPOR)
+    IRRITATION, SEVERE (LIQUID) IRRI TATION.
+Medical Cond Aggravated by Exposure:ANEMIA, ASTHMA, DERMAL SENSITIVITY
+    AND LOW BLOOD PRESSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH WATER FOR 15 MIN, INCLUDING UNDER EYELIDS.
+    GET MEDICAL HELP.  SKIN: FLUSH WITH WATER. TREAT FOR FROSTBITE IF
+    NECESSARY BY BATHING AREA WITH LUKEWARM WATER. GET MEDICAL
+    ATTENTION.	INH ALATION: REMOVE TO FRESH AIR. KEEP AT REST. RESTORE
+    AND/OR SUPPORT BREATHING AS NEEDED. GET PROMPT MEDICAL ATTENTION. 
+    INGESTION: INGESTION IS NOT CONSIDERED A POTENTIAL ROUTE OF
+    EXPOSURE.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:CARBON DIOXIDE, DRY CHEMICAL OR FOAM. WATER MAY BE
+    USED TO COOL CONTAINERS EXPOSED TO THE FIRE TO REDUCE PRESSURE
+    BUILDUP.
+Fire Fighting Procedures:NONE PROVIDED BY MFR.
+Unusual Fire/Explosion Hazard:CYLINDERS ARE UNDER PRESSURE AND MAY
+    RUPTURE UNDER FIRE CONDITIONS. DECOMPOSITION MAY PRODUCT
+    HYDROCHLORIC AND HYDROFLUORIC ACID. EXPOSURE TO HEAT OR PROLONGED
+    EXPOSURE TO SUN MAY CAUSE BURSTING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA, ESPECIALLY LOW PLACES WHERE
+    HEAVY VAPORS MAY COLLECT. REMOVE OPEN FLAMES. ISOLATE HAZARD UNTIL
+    ALL HAS HAS DISPERSED. WATER SPRAY MAY BE USED TO REDUCE VAPORS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A CLEAN, COOL, VENTILATED
+    AREA AWAY FROM SOURCES OF IGNITION AND OXIDIZING AGENTS. MAINTAIN
+    TEMPERATURES AT LESS THAN 120F. STORE AS A LEVEL 1 AEROSOL (NFPA
+    30B). OVER HEATING, PRESSURIZING,  OR RUSTING CAN CAUSE CAN TO
+    BURST RESULTING IN SERIOUS PERSONAL INJURY.
+Other Precautions:EMPTY CONTAINERS RETAIN RESIDUE; FOLLOW ALL LABEL
+    WARNINGS EVEN AFTER CONTAINER IS EMPTY. DISPOSE OF EMPTY CONTAINER
+    ACCORDING TO REGULATIONS. DO NOT REUSE THE CONTAINER .
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:UNDER NORMAL USE OF THIS PRODUCT, NO RESPIRATORY
+    PROTECTION IS REQUIRED. SELF-CONTAINED BREATHING APPARATUS IS
+    REQUIRED IF A LARGE RELEASE OCCURS.
+Ventilation:NORMAL VENTILATION FOR STANDARD PROCEDURES IS GENERALLY
+    ADEQUATE. USE LOCAL EXHAUST FOR LARGE RELEASES. MECHANICAL
+    VENTILATION IN LOW PLACES.
+Protective Gloves:LINED NITRILE OR NATURAL RUBBER GLOVES SHOULD BE WORN
+    WHEN HANDLING LIQUID.
+Eye Protection:CHEMICAL SPLASH GOGGLES SHOULD BE WORN WHEN HANDLING
+    LIQUID.
+Other Protective Equipment:NONE PROVIDED BY MFR.
+Work Hygienic Practices:NONE PROVIDED BY MFR.
+Supplemental Safety and Health
+AVOID INHALATION OF VAPORS AND REPEATED OR PROLONGED CONTACT OF LIQUID
+    WITH SKIN OR CLOTHING. DO NOT TAKE INTERNALLY.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:G3
+Boiling Pt:=-26.5C, -15.7F
+Vapor Pres:3634 MM HG @ 70 DEG F
+Vapor Density:4.34,AIR=1
+Spec Gravity:1.21 (G/CC @ 25 DEG C)
+Evaporation Rate & Reference:PRODUCT IS A GAS (BUAT=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:CLEAR LIQUIFIED GAS, ETHEREAL ODOR.
+Percent Volatiles by Volume:100 @ 25 C
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+INCOMPATIBLE WITH STRONG OXIDIZING AGENTS, CHLORINE, AND CHEMICALLY
+    ACTIVE METALS, SUCH AS: ALKALI OR ALALINE EARTH METALS-POWDERED AL,
+    ZN, ETC.
+Stability Condition to Avoid:STABLE UNLESS EXPOSED TO OPEN FLAMES OR
+    HIGH TEMPERATURES.
+Hazardous Decomposition Products:CAN BE DECOMPOSED BY HIGH TEMPERATURES
+    (OPEN FLAMES, GLOWING METAL SURFACES, ETC,) FORMING, HYDROFLUORIC
+    ACID, AND POSSIBLY CARBONYL HALIDES.
+Conditions to Avoid Polymerization:WILL NOT OCCUR UNDER NORMAL
+    CONDITIONS OF USE.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:NOT AVAILABLE.
+
+=====================  Ecological Information  =====================
+
+Ecological:NOT AVAILABLE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:FOLLOW FEDERAL, STATE & LOCAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:DOT: CONSUMER COMMODITY.	IATA/ICAO: CONSUMER
+    COMMODITY.	IMDG: 1,1,1,2-TETRAFLUOROETHANE.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:NOT LISTED AS A TOXIC CHEMICAL (SECTION131)
+    OR AN EXTREMELY HAZARDOUS SUBSTANCE (SECTION 302, 304, 311, & 312).
+     HAZARD CLASSES: ACUTE HEALTH & PRESSURE HAZARD.
+Federal Regulatory Information:LISTED IN THE TSCA INVENTORY.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

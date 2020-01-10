@@ -1,0 +1,174 @@
+=====================  Product Identification  =====================
+
+Product ID:TT-P-620C NO. 37875 WHITE, PC 700W29
+MSDS Date:07/21/1989
+FSC:8010
+NIIN:00-059-8822
+MSDS Number: BLMYF
+=== Responsible Party ===
+Company Name:GRIGGS PAINT
+Address:3602 S 16TH PL
+City:PHOENIX
+State:AZ
+ZIP:85040-1319
+Country:US
+Info Phone Num:602-243-3293
+Emergency Phone Num:602-243-3293
+Preparer's Name:ROBERT COMMISSO
+CAGE:DO312
+=== Contractor Identification ===
+Company Name:GRIGGS PAINT
+Address:3602 S 16TH PLACE
+Box:City:PHOENIX
+State:AZ
+ZIP:85040
+Country:US
+Phone:602-243-3293
+CAGE:58963
+Company Name:GRIGGS PAINT
+Address:3602 S 16TH PL
+City:PHOENIX
+State:AZ
+ZIP:85040-1319
+Phone:602-243-3293
+CAGE:DO312
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 5%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:TALC (CONTAINING NO ASBESTOS)
+CAS:14807-96-6
+RTECS #:WW2710000
+Fraction by Wt: 15%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:2 MG/M3 RDUST
+ACGIH TLV:2 MG/M3 RDUST; 9192
+
+Ingred Name:ALKYD-PHENOLIC RESIN
+Fraction by Wt: 25%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:VM&P NAPHTHA (LIGROINE)
+CAS:8032-32-4
+RTECS #:OI6180000
+Fraction by Wt: <5%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:300 PPM/400 STEL
+ACGIH TLV:300 PPM; 9192
+
+Ingred Name:VM&P NAPHTHA (VAPOR PRESSURE 30 MM HG @ 68 C)
+CAS:8030-30-6
+RTECS #:DE3030000
+Fraction by Wt: 5%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:200 PPM
+ACGIH TLV:300 PPM
+
+Ingred Name:VOC: 2.60 LB/GL (312 G/L)
+RTECS #:9999999VO
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:DIRECT CONTACT--EYES: IRRITATION.
+    PROLONGED AND/OR REPEATED CONTACT--SKIN: IRRITATION. INHALATION OF
+    HIGH CONCENTRATIONS OF VAPORS: LUNG CHANGES/NAUSEA/COUGH/PULMONARY
+    IRRITATION/ CENTRAL NERVOUS SYST EM DEPRESSION. INGESTION:
+    GASTROINTESTINAL DISTURBANCES. ASPIRATION INTO LUNGS:
+    PNEUMONITIS/PULMONARY EDEMA/HEMORRAGE.
+Effects of Overexposure:INHALATION: DROWSINESS, DIZZINESS, FATUGE,
+    FOLLOWED BY COMA. EYES: DIRECT CONTACT OR CONTACT W/VAPORS;
+    IRRITATION. SKIN: IRRITATION, DERMATITIS, DEFATTING. MAY BE
+    ABSORBED THROUGH SKIN.
+Medical Cond Aggravated by Exposure:PRE-EXISTING DISEASES, OR AILMENTS
+    INVOLVING SKIN, CENTRAL NERVOUS SYSTEM, LIVER, KIDNEY
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE CONTACT: IMMEDIATELY FLUSH WITH LARGE AMOUNTS OF WATER
+    FOR 15 MINUTES. SEEK MEDICAL AID. SKIN: WASH THOROUGHLY WITH SOAP
+    AND WATER. SEEK MEDICAL AID IF IRRITATION PERSISTS. INGESTION:
+    IMMEDIATELY  SEEK MEDICAL AID. DO NOT INDUCE VOMITING. DO NOT GIVE
+    ANYTHING BY MOUTH TO AN UNCONSCIOUS PERSON.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:100F,38C
+Lower Limits:1.0
+Extinguishing Media:FOAM, CARBON DIOXIDE, DRY CHEMICAL, WATER FOG.
+Fire Fighting Procedures:APPROVED GAS MASK REQUIRED FOR FIRE FIGHTING
+    PERSONNEL. WATER MAY BE USED TO COOL CONTAINERS. IF WATER IS USED.
+    FOG NOZZLES ARE PREFERRED.
+Unusual Fire/Explosion Hazard:KEEP CONTAINERS TIGHTLY CLOSED. ISOLATE
+    FROM HEAT, ELECTRICAL EQUIPMENT, SPARKS, AND OPEN FLAME. CLOSED
+    CONTAINERS MAY EXPLODE WHEN EXPOSED TO HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:STOP LEAK IF NO RISK INVOLVED. REMOVE ALL
+    SOURCES OF IGNITION. STAY UPWIND. ABSORB WITH INERT MATERIAL. FLUSH
+    AREA WITH WATER. VENTILATE AREA FOR AT LEAST 24 HOURS OR UNTIL AREA
+    HAS BEEN DECLARED SAFE .
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:CONTAINERS CLOSED/UPRIGHT--PREVENT
+    LEAKAGE. AVOID BREATHING VAPOR AND SPRAY MIST. AVOID SKIN AND EYE
+    CONTACT. AVOID FLAMES, WELDING, OPEN LIGHTS ETC.
+Other Precautions:MAINTAIN GOOD PERSONAL HYGIENE. DO NOT USE IN
+    CONFINED AREAS, TANK OR PIT, WITHOUT ADEQUATE VENTILATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF VENT DOES NOT MAINTAIN INHALE EXPOSURE BELOW
+    TLV (PEL), USE MSHA/NIOSH APPROVED UNITS. USE UNITS PER CURRENT
+    29CFR1910.134 AND FOLLOW MFRS' INSTRUCTIONS/WARNINGS. IF WITHIN
+    OSHA PROTECTION FACTOR,  AIR PURIFYING OV/FILTER UNITS OK USE.
+Ventilation:LOCAL AND MECHANICAL EXHAUST.
+Protective Gloves:RUBBER GLOVES.
+Eye Protection:SAFETY GLASSES W/SIDE SHEILDS OR GOGGLES
+Other Protective Equipment:EYE BATH AND SAFETY SHOWER.
+Work Hygienic Practices:MAINTAIN GOOD PERSONAL HYGIENE. DO NOT USE IN
+    CONFINED AREAS WITHOUT ADEQUATE VENTILATION.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:310F,154C
+Vapor Density:>AIR
+Spec Gravity:1.3 (H20 = 1)
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:ESSENTIALLY NIL
+Appearance and Odor:VISCOUS LIQUID WITH TYPICAL PAINT ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:FLAMES, SPARKS, SMOKING AND HEAT.
+Hazardous Decomposition Products:CARBON MONOXIDE AND CARBON DIOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:USE INERT ABSORBENT MATERIALS ON SPILLS. DISPOSE
+    OF IN ACCORDANCE WITH LOCAL, STATE AND FEDERAL REGUALTIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

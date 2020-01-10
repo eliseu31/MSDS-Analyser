@@ -1,0 +1,129 @@
+=====================  Product Identification  =====================
+
+Product ID:38414 ITEK PREMIUM PLATE TONER
+MSDS Date:02/13/1989
+FSC:6850
+NIIN:00F019085
+MSDS Number: BLPJP
+=== Responsible Party ===
+Company Name:FUJI HUNT PHOTOGRAPHIC CHEMICALS INC
+Address:5 GARRET MOUNTAIN PLAZA
+City:WEST PATERSON
+State:NJ
+ZIP:07424-3360
+Info Phone Num:(201) 977-8434
+Emergency Phone Num:(201) 977-8434
+CAGE:73877
+=== Contractor Identification ===
+Company Name:FUJI HUNT PHOTOGRAPHIC CHEMICALS INC
+Address:W 115 CENTURY RD
+Box:988
+City:PARAMUS
+State:NJ
+ZIP:07653-0988
+Country:US
+Phone:201-967-9603
+CAGE:73877
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOPARAFFINIC HYDROCARBONS (NAPHTHA PETROLEUM),
+    HYDROTREATED HEAVY, NON AROMATIC HEAVY NAPHTHA) ISOPAR G
+CAS:64742-48-9
+Fraction by Wt: 100%
+Other REC Limits:300 PPM EXXON
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL RATS LD50: 5 G/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: DIZZINESS, HEADACHE,
+    CENTRAL NERVOUS SYSTEM DEPRESSION, NAUSEA, MUCOUS MEMBRANE. EYES:
+    IRRITATION. SKIN: ABSORPTION W/SAME EFFECTS OF INHALATION &
+    DERMATITIS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: DIZZINESS, HEADACHE, CENTRAL
+    NERVOUS SYSTEM DEPRESSION, NAUSEA, MUCOUS MEMBRANE IRRITATION.
+    EYES: IRRITATION. SKIN: ABSORPTION W/SOME EFFECTS OF INHALATION &
+    DERMATITIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN/EYES: FLUSH W/WATER FOR 15 MINS. INGESTION: DRINK WATER
+    TO DILUTE. INHALATION: REMOVE TO FRESH AIR. OBTAIN MEDICAL
+    ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:102-128F
+Lower Limits:0.7%
+Upper Limits:7.0%
+Extinguishing Media:WATER SPRAY, DRY CHEMICAL, FOAM OR CO2.
+Fire Fighting Procedures:WATER SPRAY MAY BE INEFFECTIVE, BUT CAN BE
+    USED TO COOL FIRE EXPOSED CONTAINER & DISPERSE UNIGNITED VAPORS.
+    USE SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:COMBUSTIBLE LIQUID. AUTO-IGNITION TEMPS
+    IS 560F.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. ISOLATE AREA
+    OF SPILL BY DIKING. STOP SOURCE OF LEAK. TRANSFER CONTENTS TO
+    NON-LEAKING CONTAINER OR STORAGE VESSEL. ADD NON-COMBUSTIBLE DRY
+    ABSORBENT. CLEAN UP/PLACE IN  AN APPROPRIATE CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DISPOSE OF CONTAMINATED PRODUCT, EMPTY
+    CONTAINERS & MATERIALS USED IN CLEANING UP SPILLS OR LEAKS IN A
+    MANNER APPROVED FOR THIS MATERIAL.
+Other Precautions:DON'T TAKE INTERNALLY. AVOID CONTACT W/EYES, SKIN OR
+    CLOTHING. AVOID BREATHING MIST OR VAPOR. STORE IN A COOL, DRY,
+    WELL-VENTILATED PLACE AWAY FROM ALL SOURCES OF IGNITION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR NIOSH/MSHA APPROVED ORGANIC VAPOR
+    RESPIRATORS IN THE EVENT OF A LARGE SPILL.
+Ventilation:USE LOCAL EXHAUST
+Protective Gloves:GOGGLES
+Eye Protection:NITRILE
+Other Protective Equipment:COVERALLS, BOOTS
+Work Hygienic Practices:WASH ALL CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:313-380F
+Vapor Pres:30-36
+Vapor Density:5.0-5.3
+Spec Gravity:0.74-0.76
+Evaporation Rate & Reference:(BU AC = 1): 0.1-0.5
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:CLEAR, COLORLESS OR BLACK LIQUID W/A FAINT
+    HYDROCARBON ODOR.
+Percent Volatiles by Volume:100%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDANTS, LIQUID CHLORINE, CONCENTRATED OXYGEN, HYPOCHLORITES
+Stability Condition to Avoid:HEAT, SOURCES OF IGNITION SUCH AS STATIC
+    DISCHARGE
+Hazardous Decomposition Products:CO, CO2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. COMBUSTIBLE LIQUID.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

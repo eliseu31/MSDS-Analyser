@@ -1,0 +1,100 @@
+=====================  Product Identification  =====================
+
+Product ID:SULTAN TOPEX
+MSDS Date:01/01/1987
+FSC:6505
+NIIN:01-275-5390
+MSDS Number: BJDGZ
+=== Responsible Party ===
+Company Name:SULTAN DENTAL PRODUCTS
+Address:242 SOUTH DEAN STREET
+City:ENGLEWOOD
+State:NJ
+ZIP:07631
+Info Phone Num:(201) 894-5500
+Emergency Phone Num:(201) 894-5500
+CAGE:JO586
+=== Contractor Identification ===
+Company Name:SULTAN CHEMISTS INC
+Address:85 W FOREST AVE
+Box:City:ENGLEWOOD
+State:NJ
+ZIP:07631-4001
+Country:US
+Phone:201-871-1232
+CAGE:63536
+Company Name:SULTAN DENTAL PROD
+Address:242 SOUTH DEAN ST
+City:ENGLEWOOD
+State:NJ
+ZIP:07631
+Country:US
+Phone:201-894-5500
+CAGE:JO586
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM FLUORIDE  (SARA III)
+CAS:7681-49-4
+RTECS #:WB0350000
+OSHA PEL:2.5 PPM F
+ACGIH TLV:2.5 MG F/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:BENZOCAINE
+CAS:94-09-7
+RTECS #:DG2450000
+Fraction by Wt: 20%
+
+Ingred Name:FLAVORING
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN: PRODUCT HAS ACIDIC PH & CAN
+    CAUSE IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN: PRODUCT HAS ACIDIC PH & CAN CAUSE
+    IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES/SKIN: FLUSH WELL W/WATER & CONSULT PHYSICIAN. INGESTION:
+    INDUCE VOMITING & CONSULT PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:DOESN'T APPLY
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH W/WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AT ROOM TEMPERATURE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:DOESN'T APPLY
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Appearance and Odor:LIQUID
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:STORE AT ROOM TEMPERATURE
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,105 @@
+=====================  Product Identification  =====================
+
+Product ID:FLEX C SAE 30
+MSDS Date:05/28/1986
+FSC:9150
+NIIN:00-188-9858
+MSDS Number: BDHLP
+=== Responsible Party ===
+Company Name:AUTOLINE OIL CO.
+Address:900 S CAROLINE ST
+City:BALTIMORE
+State:MD
+ZIP:21231
+Country:US
+Info Phone Num:410-368-5000
+Emergency Phone Num:301-276-6400
+CAGE:KO038
+=== Contractor Identification ===
+Company Name:AUTOLINE LUBRICANTS INC
+Address:900 S. CAROLINE ST
+Box:City:BALTIMORE
+State:MD
+ZIP:21231-3313
+Country:US
+Phone:301-276-6400
+CAGE:04957
+Company Name:AUTOLINE OIL CO.
+CAGE:KO038
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BASE STOCK
+Fraction by Wt: 89%
+
+Ingred Name:LUBRIZOL 4801
+Fraction by Wt: 11%
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:PROLONGED/FREQUENT EXPOSURE CAN CAUSE MINOR
+    SKIN/EYE IRRIT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: WASH THOROUGHLY W/MILD SOAP & WATER. EYE: IMMED FLUSH
+    W/WATER AT LEAST 15 MIN. CALL MD.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:450F,232C
+Extinguishing Media:CO*2, DRY CHEM, FOAM, WATER SPRAY
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SELF-CNTND BRTHG
+    APPARATUS & PROPER PROT EQUIP.
+Unusual Fire/Explosion Hazard:DO NOT WELD, HEAT OR DRILL CONTAINER.
+    RESIDUE MAY IGNITE WITH EXPLOSIVE VIOLENCE IF HEATED SUFFICIENTLY.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE OIL ABSORBENT OR OTHER MEDIUM TO CLEAN &
+    ABSORB OIL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE
+Ventilation:NONE
+Protective Gloves:NONE
+Eye Protection:NONE
+Supplemental Safety and Health
+SOLUBILITY IN WATER:POOR.PRODUCT IS ALSO QUALIFIED UNDER MIL-L-46152
+    AND MIL-L-45199.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:>685F,>363C
+Vapor Pres:<1
+Vapor Density:>5
+Spec Gravity:0.89 (H*20=1)
+Evaporation Rate & Reference:<1 (BUTYL ACETATE = 1)
+Solubility in Water:<0.1%
+Appearance and Odor:DARK BROWN
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE OR PROPER DISPOSAL AREA, MFR. DISPOSE
+    IAW LOCAL, STATE, FED REG.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,145 @@
+=====================  Product Identification  =====================
+
+Product ID:AMMONIUM CHLORIDE
+MSDS Date:11/20/1992
+FSC:6810
+NIIN:00-281-2033
+MSDS Number: BHWSP
+=== Responsible Party ===
+Company Name:VAN WATERS AND ROGERS
+Address:2256 JUNCTION AVE
+City:SAN JOSE
+State:CA
+ZIP:95131
+Country:US
+Info Phone Num:206-447-5911 OR 714-864-2310
+Emergency Phone Num:408-435-8700 OR 714-864-2310
+CAGE:0AN91
+=== Contractor Identification ===
+Company Name:CHEMICAL COMMODITIES AGENCY, INC.
+Address:27447 PACIFIC STREET
+Box:City:HIGHLAND
+State:CA
+ZIP:92346-2640
+Country:US
+Phone:909-864-2310
+CAGE:60777
+Company Name:VAN WATERS AND ROGERS
+Address:2256 JUNCTION AVE
+City:SAN JOSE
+State:CA
+ZIP:95131
+Country:US
+Phone:408-435-8700/800-424-9300(CHEMTREC)
+CAGE:0AN91
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:AMMONIUM CHLORIDE  (SARA III)
+CAS:12125-02-9
+RTECS #:BP4550000
+Fraction by Wt: >99%
+OSHA PEL:10 MG/M3/20 STEL
+ACGIH TLV:10 MG/M3 FUME; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL RAT LD50 IS 1.65 GM/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:AMMONIUM CHLORIDE IS IRRITATING TO
+    BODY TISSUES.  DUSTS WILL IRRITATE THE UPPER RESPIRATORY TRACT
+    CAUSING COUGHING.
+Explanation of Carcinogenicity:AMMONIUM CHLORIDE IS NOT LISTED AS A
+    CARCINOGEN BY IARC, NTP, OR OSHA.
+Effects of Overexposure:EYE:IRRITATION.  SKIN:IRRITATION,POSSIBLE
+    DERMATITIS.  INHALED;RESPIRATORY IRRITATION,COUGHING,CHOKING,LARGE
+    QUANTITIES MAY BE TOXIC.  INGESTED:IRRITATION OF MOUTH & THROAT.
+    SUFFICIENT QUANTITY WILL P RODUCE NAUSEA,VOMITING,ACIDOSIS.
+Medical Cond Aggravated by Exposure:NONE GIVEN BY MANUMACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH W/WATER 15 MIN, HOLD LIDS OPEN.  SKIN:WASH WITH
+    SOAP & WATER. REMOVE CONTAMINATED CLOTHING AND LAUNDER BEFORE
+    REUSE.  INHALED:REMOVE TO FRESH AIR. RESTORE BREATHING IF
+    NECESSARY.	INGESTED:D O NOT INDUCE VOMITING. GIVE 2 LARGE GLASSES
+    OF MILK OR WATER AND GET IMMEDIATE MEDICAL CARE. GIVE NOTHING BY
+    MOUTH IF UNCONSCIOUS.   IF IRRITATION PERSISTS OR IS SEVERE,SEE A
+    DOCTOR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON-FLAMMABLE
+Extinguishing Media:PRODUCT IS NON FLAMMABLE.  EXTINGUISH FIRE WITH
+    MEDIA APPROPRIATE FOR SOURCE OF FIRE.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP,VACUUM OR OTHERWISE COLLECT, BEING
+    CAREFUL NOT TO RAISE DUST.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL,DRY AREA,PROTECTED
+    FROM MOISTURE.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESPIRATOR WILL NOT NORMALLY BE NECESSARY.  USE
+    NIOSH/MSHA APPROVED AIR SUPPLIED RESPIRATOR OR RESPIRATOR FOR
+    DUST/MIST IF EXPOSURE IS ABOVE THE TLV/PEL. SEE 29 CFR 1910.134 FOR
+    REGULATIONS PERTAINING  TO RESPIRATOR USE.
+Ventilation:NORMAL ROOM VENTILATION IS SUFFICIENT.  SUPPLEMENT WITH
+    LOCAL EXHAUST IF PEL/TLV IS EXCEEDED.
+Protective Gloves:SAFETY GLASSES OR SPLASH GOGGLES
+Eye Protection:SAFETY GLASSES OR SPLASH GOGGLES
+Other Protective Equipment:SAFETY SHOWER AND EYE WASH STATION, WORK
+    CLOTHING TO PROTECT AGAINST SKIN CONTACT.
+Work Hygienic Practices:USE GOOD CHEMICAL HYGIENE PRACTICE. AVOID
+    UNNECESSARY CONTACT.
+Supplemental Safety and Health
+MFR PRODUCT CODE = T1048.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:968F,520C
+Melt/Freeze Pt:M.P/F.P Text:653F,345C
+Decomp Temp:Decomp Text:644F,340C
+Vapor Pres:<1
+Spec Gravity:POWDER
+Solubility in Water:39%
+Appearance and Odor:WHITE CRYSTALLINE SOLID,NO ODOR
+Percent Volatiles by Volume:0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ALKALIES, AMMONIA IS RELEASED. ACIDS, HYDROGEN CHLORIDE IS RELEASED.
+    NITRATES, POTENTIALLY EXPLOSIVE COMBINATIONS FORM.
+Stability Condition to Avoid:STABLE UNLESS HEATED, DECOMPOSES TO
+    RELEASE AMMONIA AND HYDROGEN CHLORIDE GASES.
+Hazardous Decomposition Products:AMMONIA AND HYDROGEN CHLORIDE GASES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W ALL FEDERAL, STATE AND LOCAL
+    REGULATIONS.  MANUFACTURER MAKES NO SUGGESTION OF DISPOSAL METHOD.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

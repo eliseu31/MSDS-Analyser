@@ -1,0 +1,113 @@
+=====================  Product Identification  =====================
+
+Product ID:BIO T-200A
+MSDS Date:04/18/1994
+FSC:6850
+NIIN:01-387-4592
+MSDS Number: BWRZQ
+=== Responsible Party ===
+Company Name:GOLDEN TECHNOLOGY CO BIOCHEM SYSTEMS DIV
+Address:14452 W 44TH AVENUE
+City:GOLDEN
+State:CO
+ZIP:80402
+Country:US
+Info Phone Num:800-777-7870
+Emergency Phone Num:800-777-7870, CHEMTREC 800-424-9300
+CAGE:0XYG0
+=== Contractor Identification ===
+Company Name:BIOCHEM SYSTEMS INC
+Address:3511 N OHIO
+Box:City:WICHITA
+State:KS
+ZIP:67219
+Country:US
+Phone:316-838-4663 OR 800-777-7870
+CAGE:0XYG0
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NON-HAZARDOUS FOR INGREDIENTS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN/EYES: IRRITATION. INHALATION:
+    DROWSINESS, HEADACHE & UNCOORDINATION.
+Explanation of Carcinogenicity:NONE
+Medical Cond Aggravated by Exposure:EYE, SKIN & UPPER RESPIRATORY
+    INFLAMMATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH W/COPIOUS AMOUNTS OF WATER. SKIN: WASH W/PLENTY OF
+    MILD SOAP & WATER. INHALATION: REMOVE TO FRESH AIR. INGESTION: FOR
+    SMALL AMOUNTS, GIVE MILK OR WATER TO DILUTE. FOR LARGE QUANTITIES,
+    SEE  PHYSICIAN. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:121F
+Extinguishing Media:DRY CHEMICAL, CO2 OR HALON
+Fire Fighting Procedures:USE SELF-CONTAINED BREATHING APPARATUS. DON'T
+    USE WATER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:AVOID USE OF ANY IGNITION SOURCE NEAR SPILL.
+    CONTAIN MATERIAL W/INERT MATERIAL OR ABSORB IN INERT MEDIA SUCH AS
+    ACTIVATED CARBON OR KITTY LITTER. DON'T HOSE DOWN SPILLS. SMALL
+    SPILLS MAY BE WIPED UP.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN
+    GLASS/TIN/LINED/STAINLESS/STEEL/ EPOXY-LINED CONTAINERS TO PRESERVE
+    QUALITY. DON'T STORE IN PLASTIC. STORE CONTAINERS AWAY FROM HEAT.
+Other Precautions:PROTECT AGAINST PHYSICAL DAMAGE TO CONTAINERS. AVOID
+    CONTACT W/SKIN/EYES & MUCOUS MEMBRANES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE GOOD GENERAL VENTILATION, IF VAPOR
+    CONCENTRATION IS HIGH, USE NIOSH APPROVED RESPIRATORY DEVICE.
+Ventilation:GENERAL: MECHANICAL
+Protective Gloves:IMPERMEABLE
+Eye Protection:GOGGLES
+Other Protective Equipment:EMERGENCY EYE WASH & SHOWER STATIONS.
+Work Hygienic Practices:REMOVE & WASH CONTAMINATED CLOTHES BEFORE
+    REUSE. AVOID WEARING CLOTHES SATURATED W/CLEANER.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:348F
+Vapor Pres:2
+Vapor Density:<1
+Spec Gravity:0.84
+pH:8
+Solubility in Water:SLIGHT
+Appearance and Odor:CLEAR YELLOW LIQUID, CITRUS ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS. REACTS VIOLENTLY W/FLUORENE &
+    TETRAFLUOROETHYLENE.
+Hazardous Decomposition Products:CO
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/FEDERAL, STATE &
+    LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

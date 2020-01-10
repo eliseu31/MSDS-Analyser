@@ -1,0 +1,127 @@
+=====================  Product Identification  =====================
+
+Product ID:TT-P-24E TYIII GRAY 24692
+MSDS Date:01/01/1987
+FSC:8010
+NIIN:00-582-4672
+MSDS Number: BHWZM
+=== Responsible Party ===
+Company Name:TRIAD PAINT AND CHEMICAL CORP
+Address:810 EVERGREEN AVENUE
+City:BROOKLYN
+State:NY
+ZIP:11207
+Country:US
+Info Phone Num:(718) 443-2778
+Emergency Phone Num:(718) 443-2778
+CAGE:33151
+=== Contractor Identification ===
+Company Name:STEVEN INDUSTRIES
+Address:39 AVENUE C
+Box:8
+City:BAYONNE
+State:NJ
+ZIP:07002-3417
+Country:US
+Phone:201-437-6501
+CAGE:33150
+Company Name:TRIAD PAINT AND CHEMICAL CORP
+Address:810 EVERGREEN AVE
+Box:City:BROOKLYN
+State:NY
+ZIP:11207-1140
+Country:US
+CAGE:33151
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MINERAIL SPIRITS
+CAS:64741-41-9
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Health Hazards Acute and Chronic:VAPOR MIGHT BE IRRITATING TO EYES,
+    NOSE AND THROAT. EXCESSIVE EXPOSURE MAY RESULT IN HEADACHE,
+    DIZZINESS AND NAUSEA. DEFATTING TO SKIN.
+Effects of Overexposure:MAY RESULT IN HEADACHES DIZZINESS AND NAUESA
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: PROVIDE FRESH AIR AND REST. SKIN: WASH AFFECTED
+    AREA WITH SOAP AND	WATER. INGESTION: DO NOT INDUCE VOMITING. DRINK
+    ONE OR TWO GLASSES OF WATER TO  DILUTE. EYE: FLUSH WITH WATER FOR
+    15 MIN UTES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:41C/105F
+Lower Limits:1.0
+Upper Limits:6.0
+Extinguishing Media:FOAM, CO2, DRY CHEMICALS
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD WEAR SELF-CONTAINED
+    RESPIRATORS. WATER STREAM WILL SPREAD  OIL FIRES. DO NOT USE WATER.
+Unusual Fire/Explosion Hazard:KEEP WORK AREAS FREE OF HOT METAL
+    SURFACES AND OTHER SOURCES OF IGNITION. VAPOR FORMS EXPLOSIVE
+    MIXTURE BETWEEN UPPER AND LOWER EXPLOSIVE UNITS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:AVOID FLAME AND SPARK SOURCES. PROVIDE
+    ADEQUATE   VENTILATION. WIPE UP SPILL WITH INERT ABSORBENTS  AND
+    NON SPARKING TOOLS. SAFELY DISCARD SATURATED  ABSORENTS. AVOID
+    PROLONGED BREATHING OF VAPORS
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID OPEN FLAMES AND SPARK SOURCES.
+    PROVIDE	 ADEQUATE VENTILATION. AVOID EXCESSIVE HEAT.
+Other Precautions:DO NOT TAKE INTERNALLY. AVOID PROLONGED OR REPEATED
+    CONTACT WITH SKIN. AVOID	PROLONGED OR REPEATED BREATHING OF
+    VAPOR.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:ORGANIC CANISTER MASK AS ALL PACK INVENTILATION
+    IS INADEQUATE
+Ventilation:LOCAL EXHAUST IS RECOMMENDED.
+Protective Gloves:NEOPRENE RUBBER GLOVES
+Eye Protection:CHEMICAL SAFETY GLASSES
+Supplemental Safety and Health
+NK
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:315-352F
+Vapor Pres:100F
+Vapor Density:5.0
+Spec Gravity:1.645
+Evaporation Rate & Reference:.13
+Solubility in Water:NEG
+Appearance and Odor:GRAY COLORED LIQUID. HYDROCARBON ODOR
+Percent Volatiles by Volume:37.3
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:WARM STORAGE AND IGNITION SOURCES
+Hazardous Decomposition Products:CO, CO2, ACID FUMES, AND SMOKE WHEN
+    COMBUSTED.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL PROCEDURES MUST COMPLY WITH LOCAL,
+    STATE,AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

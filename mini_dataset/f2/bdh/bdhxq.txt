@@ -1,0 +1,57 @@
+=====================  Product Identification  =====================
+
+Product ID:A18M1386
+MSDS Date:01/01/1985
+FSC:6140
+NIIN:00-193-1709
+MSDS Number: BDHXQ
+=== Responsible Party ===
+Company Name:ROFLAN CO
+Box:913
+City:NEWBURYPORT
+State:MA
+ZIP:01950-5613
+Country:US
+CAGE:KO565
+=== Contractor Identification ===
+Company Name:ROFLAN CO
+Box:913
+City:NEWBURYPORT
+State:MA
+ZIP:01950-5613
+Country:US
+CAGE:KO565
+Company Name:THE ROFLAN COMPANY
+Box:913
+City:NEWBURYPORT
+State:MA
+ZIP:01950-5613
+Country:US
+CAGE:86796
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SULFURIC ACID  (SARA III)
+CAS:7664-93-9
+RTECS #:WS5600000
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=============  Exposure Controls/Personal Protection  =============
+
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C1
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

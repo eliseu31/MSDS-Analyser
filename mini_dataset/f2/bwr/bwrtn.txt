@@ -1,0 +1,214 @@
+=====================  Product Identification  =====================
+
+Product ID:WIL-BOND, 3606
+MSDS Date:10/20/1993
+FSC:8010
+NIIN:00N057689
+MSDS Number: BWRTN
+=== Responsible Party ===
+Company Name:WILSON IMPERIAL CO
+Address:115 CHESTNUT ST
+City:NEWARK
+State:NJ
+ZIP:07105
+Country:US
+Info Phone Num:201-589-6050
+Emergency Phone Num:201-589-6050;800-424-9300(CHEMTREC)
+CAGE:25585
+=== Contractor Identification ===
+Company Name:WILSON IMPERIAL CO
+Address:115 CHESTNUT ST
+Box:City:NEWARK
+State:NJ
+ZIP:07105
+Country:US
+Phone:201-589-6050
+CAGE:25585
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TOLUENE (SARA 313) (CERCLA). VP:25 @ 25C
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 70-75%
+OSHA PEL:200 PPM
+ACGIH TLV:50 PPM, S
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ISOPROPYL ALCOHOL (SARA 313). VP:32.8 @ 20C.
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: 10-20%
+OSHA PEL:400 PPM
+ACGIH TLV:400 PPM;500 STEL
+
+Ingred Name:ACETONE (SARA 313) (CERCLA). VP:180 @ 20C.
+CAS:67-64-1
+RTECS #:AL3150000
+Fraction by Wt: 5-10%
+OSHA PEL:1000 PPM
+ACGIH TLV:750 PPM;1000 STEL
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:LIGROINE; (VM&P NAPHTHA). VP:97.3 @ 20C. (SUBSTITUTION MAY
+    OCCUR W/INGS 5 OR 6)
+CAS:8032-32-4
+RTECS #:OI6180000
+Fraction by Wt: <5%
+OSHA PEL:300 PPM
+ACGIH TLV:300 PPM
+
+Ingred Name:LACOLENE; (SOLVENT NAPHTHA)
+CAS:64742-89-8
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:HYDROCARBONS, C7-9; (SOLVENT NAPHTHA)
+CAS:68920-06-9
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:METHYL ALCOHOL; (METHANOL) (SARA 313) (CERCLA). VP:97.3 @
+    20C.
+CAS:67-56-1
+RTECS #:PC1400000
+Fraction by Wt: <3.5%
+OSHA PEL:200 PPM, S
+ACGIH TLV:200 PPM;250 STEL, S
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:XYLENE (SARA 313) (CERCLA). VP:25 @ 25C.
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: <2%
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM;150 STEL
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ACETIC ACID, BUTYL ESTER; (BUTYL ACETATE)  (CERCLA). VP:8.4
+    @ 20C.
+CAS:123-86-4
+RTECS #:AF7350000
+Fraction by Wt: <2%
+OSHA PEL:150 PPM
+ACGIH TLV:150 PPM;200 STEL
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:OTHER PROT EQUIP:FOR REPEATED & PROLONGED USE OF THIS
+    PRODUCT.
+RTECS #:9999999ZZ
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:VAP & LIQ ARE EYE & SKIN IRRITS. BRTHG
+    EXCESSIVE QTYS OF VAP MAY CAUSE DIZZ, HDCH, NAUS & OTHER CENTRAL
+    NERV EFTS & MAY BE FATAL. PRLNG & RPTD INHAL OF VAPS MAY CAUSE
+    KIDNEY/LIVER DMG. RPTS HAVE ASSOC  RPTD & PRLNG OCCUP OVEREXP TO
+    SOLVS W/BRAIN & NERV SYS DMG. INTENTIONAL MISUSE BY DELIB
+    CONCENTRATING (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:HLTH HAZ:& INHALING CONTENTS MAY BE
+    HARMFUL/FATAL. NOTE:TOLUENE APPEARS ON NAVY LIST OF OCCUP CHEM
+    REPRO HAZS. SEEK CONSULTATION FROM APPROP HLTH PROFESSIONALS
+    CONCERNING LATEST HAZ LIST INFO & SAFE H NDLG & EXPOS INFO .
+Medical Cond Aggravated by Exposure:THOSE HAVING RESPIRATORY OR HEART
+    CONDITIONS SHOULD EXERCISE DUE CAUTION USING THIS PRODUCT. SKIN
+    CONTACT MAY AGGRAVATE EXISTING DERMATITIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:REMOVE VICTIM TO FRESH AIR & RESTORE BRTHG IF NEC. GET
+    EMER ASSISTANCE IMMED. FOR EYE CONT, FLUSH IMMED W/LG AMTS OF WATER
+    FOR AT LST 15 MINS. TAKE TO MD FOR MED TREATMENT. SKIN:WASH
+    AFFECTED AR EAS W/SOAP & WATER. REMOVE & LAUNDER CONTAM CLTHG
+    BEFORE REUSE. CONSULT MD IF IRRIT PERSISTS. INGEST:DO NOT INDUCE
+    VOMITING. CALL MD IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:29.0F,-1.7C
+Lower Limits:1.2%
+Extinguishing Media:DRY CHEMICAL.
+Fire Fighting Procedures:USE NIOSH/MSHA APPRVD SCBA & FULL PROT EQUIP .
+    CNTNRS EXPOS TO INTENSE HEAT, SHOULD BE COOLED W/WATER TO PVNT VAP
+    PRESS BUILD-UP, WHICH COULD RSLT(SUPDAT)
+Unusual Fire/Explosion Hazard:KEEP CONTAINER TIGHTLY CLOSED. ISOLATE
+    FROM HEAT, PILOT LIGHTS, ELECTRICAL EQUIPMENT, SPARKS & OPEN FLAME.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:KEEP ALL SOURCES OF IGNIT & HOT SURFS AWAY
+    FROM SPILL. FOR SM SPILL FLUSH W/WATER. FOR LG SPILL, USE SAND,
+    EARTH/OTHER SUITABLE ABSORB MATL. IF SPILL IS INDOORS, OPEN ALL
+    WINDOWS & DOORS, VENTILATE AR EA OF SPILL. REPORT SPILL TO APPROP
+    FED, (SUPDAT)
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL, DRY PLACE W/CONTAINER
+    PROPERLY SEALED. KEEP AWAY FROM HEAT, SPARKS, PILOT LIGHTS,
+    ELECTRIC OUTLETS & OPEN FLAME.
+Other Precautions:DO NOT MIX W/OTHER MATERIALS, OTHER THAN AS
+    RECOMMENDED IN LABEL INSTRUCTIONS. KEEP OUT OF REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED CHEMICAL CARTRIDGE
+    RESPIRATOR FOR SOLVENT VAPORS (TC-23-C OR EQUIVALENT).
+Ventilation:IF CURRENT VENT PRACTICES ARE NOT ADEQ TO MAINTAIN VAP
+    CONCS BELOW ESTABLISHED EXPOS LIMS, ADDNL LOC EXHST VENT (SUPDAT)
+Protective Gloves:SOLVENT RESISTANT GLOVES.
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGGS .
+Other Protective Equipment:EYE WASH FOUNTAIN & DELUGE SHOWER WHICH MEET
+    ANSI DESIGN CRITERIA . USE SOLV RESIST APRON/IMPERVIOUS CLTHG(ING
+    10)
+Work Hygienic Practices:WASH HANDS BEFORE EATING OR USING RESTROOM.
+Supplemental Safety and Health
+FIRE FIGHT PROC:IN CNTNR RUPTURE. SPILL PROC:STATE/LOC AUTHS & REQUEST
+    ASSISTANCE IF NEEDED. BEFORE ATTEMPTING TO CLEAN UP REFER TO HAZ
+    INFO IN OTHER SECTIONS OF THIS MSDS. VENT:CAPABLE OF MAINTAINING 
+    VAP LEVELS BELOW REC EXPOS LIMS MAY BEREQD. USE EXPLO-PROOF,
+    NON-SPARKING EQUIP.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>131F,>55C
+Vapor Pres:SEE INGS
+Vapor Density:HVR/AIR
+Spec Gravity:0.84 
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Appearance and Odor:NONE SPECIFIED BY MANUFACTURER.
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:HEAT, SPARKS, PILOT LIGHTS, STATIC
+    ELECTRICITY & FLAME. DO NOT USE IN CONFINED SPACES.
+Hazardous Decomposition Products:CARBON MONOXIDE & OTHER ORGANIC
+    COMPOUNDS MAY BE FORMED DURING COMBUSTION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:SEAL IN CLOSED METAL CONTAINER & DISPOSE OF
+    I/A/W LOCAL, STATE & FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,147 @@
+=====================  Product Identification  =====================
+
+Product ID:PAINT EPOXY POLY EXT TOPCOAT DK GRAY COMP A
+MSDS Date:09/07/1989
+FSC:8010
+NIIN:00-410-8467
+Kit Part:Y
+MSDS Number: BHWBG
+=== Responsible Party ===
+Company Name:CHEMRAY COATING CORP
+Address:209 N MICHIGAN AVE
+City:KENILWORTH
+State:NJ
+ZIP:07033
+Country:US
+Info Phone Num:201-245-1111
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+Preparer's Name:FRED ARMSTRONG
+CAGE:33832
+=== Contractor Identification ===
+Company Name:CHEMRAY COATING CORP
+Address:209 N MICHIGAN AVE
+Box:City:KENILWORTH
+State:NJ
+ZIP:07033
+Country:US
+Phone:201-245-1111
+CAGE:33832
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MAGNESIUM SILICATE (TALC NON-ASBESTIFORM)
+CAS:14807-96-6
+RTECS #:VV7720000
+Fraction by Wt: 38.5%
+OSHA PEL:20MPPCF (RESP)
+ACGIH TLV:2 MG/CUM
+
+Ingred Name:N-BUTYL ALCOHOL  (SARA III)
+CAS:71-36-3
+RTECS #:EO1400000
+Fraction by Wt: 28.2%
+OSHA PEL:100 PPM
+ACGIH TLV:S, C 50 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:VOC=3.36 LBS/GAL OR 403 GRAMS/LITER
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Health Hazards Acute and Chronic:OVEREXPOSURE-NAUSEA, HEADACHE,
+    DIZZINESS CAUSED BY OVER INHALATION. SKIN CONTACT CAUSES
+    DERMATITIS. CAN ABSORB THROUGH SKIN AND CAUSE AUDITORY AND
+    VESTIBULAR NERVE DAMAGE.
+Effects of Overexposure:OVEREXPOSURE-NAUSEA, HEADACHE, DIZZINESS CAUSED
+    BY OVER INHALATION. SKIN CONTACT CAUSES DERMATITIS. CAN ABSORB
+    THROUGH SKIN AND CAUSE AUDITORY AND VESTIBULAR NERVE DAMAGE.
+Medical Cond Aggravated by Exposure:NONE GENERALLY KNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE CONTACT: FLUSH WITH WATER 15 MINUTES OR UNTIL IRRITATION
+    SUBSIDES. IF IRRITATION PERSISTS, CALL PHYSICIAN. SKIN CONTACT:
+    REMOVE CONTAMINATED CLOTHING AND WASH THOROUGHLY WITH SOAP AND
+    WATER. INHAL ATION: IF OVERCOME BY VAPORS REMOVE TO FRESH AIR, CALL
+    PHYSICIAN. INGESTION: DO NOT INDUCE VOMITING, CALL PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:99 F/37.2 C
+Autoignition Temp:Autoignition Temp Text:689 F
+Lower Limits:1.4
+Upper Limits:11.2
+Extinguishing Media:CARBON DIOXIDE, FOAM, WATER FOG OR DRY CHEMICAL.
+Fire Fighting Procedures:USE AIR SUPPLIED BREATHING EQUIPMENT. COOL
+    ENCLOSED CONTINERS WITH WATER SPRAY. AVOID BREATHING VAPORS OR
+    FUMES.						.
+Unusual Fire/Explosion Hazard:IF LEAK OR SPILL HAS IGNITED, USE WATER
+    SPRAY TO DISPERSE THE VAPORS FROM FIRE FIGHTERS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL IGNITION SOURCES. KEEP FROM HEAT,
+    SPARKS AND OPEN FLAME. ADD ABSORBENT (SAND, EARTH, SAWDUST) TO
+    SPILL. VENTILATE AREA (OPEN WINDOWS, DOORS). LARGE SPILL: KEEP FROM
+    ENTERING SEWERS/WATERCOU RSES BY DIKING. ADVISE AUTHORITIES IF DOES
+    ENTER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM IGNITION SOURCES, KEEP
+    IN COOL, DRY, WELL VENTILATED AREAS. AVOID DIRECT SUNLIGHT AND
+    EXTREME TEMPERATURES, HOT OR COLD.
+Other Precautions:AVOID EYE, SKIN CONTACT, INHALATION &/OR INGESTION OF
+    MISTS, SPRAY OR VAPORS. AVOID BREATHING SANDING OR BLASTING DUST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE HYDROCARBON VAPOR CANISTER OR SUPPLIED AIR
+    RESPIRATOR IN CONFINED AREAS.
+Ventilation:LOCAL EXHAUST: FACE VELOCITY 60FPM. SPECIAL: USE ONLY
+    W/ADEQUATE VENTILATION. MECHANICAL: USE EXPLOSION PROOF EQUIPMENT.
+Protective Gloves:CHEMICAL RESISTANT.
+Eye Protection:SPLASH GOGGLES OR FACE SHIELD.
+Other Protective Equipment:USE CHEMICAL RESISTANT APRON OR CLOTHING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:244F,118C
+Melt/Freeze Pt:M.P/F.P Text:O F(-17.8C)
+Decomp Temp:Decomp Text:600 F(316C)
+Vapor Pres:2.7 @ 77 F
+Vapor Density:2.55 @ 77F
+Spec Gravity:1.236 (H2O=1)
+Viscosity:75-96@77FKREB
+Evaporation Rate & Reference:0.5 (BUTYL ACETATE=1)
+Solubility in Water:7.45% @ 77 F
+Appearance and Odor:DARK GRAY LIQUID WITH ALCOHOL ODOR.
+Percent Volatiles by Volume:53.3
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CAN REACT WITH OXIDIZING MATERIAL WHEN HEATED TO DECOMPOSITION.
+Stability Condition to Avoid:HIGH TEMPERATURES.
+Hazardous Decomposition Products:CARBON MONOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ASSURE CONFORMITY WITH APPLICABLE DISPOSAL
+    REGULATIONS. DISPOSE OF ABSORBED MATERIAL AT AN APPROVED DISPOSAL
+    SITE OR FACILITY. DISPOSE IN CONFORMITY WITH STATE AND FEDERAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

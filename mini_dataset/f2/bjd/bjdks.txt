@@ -1,0 +1,135 @@
+=====================  Product Identification  =====================
+
+Product ID:COMPLETE FOR FLOORS
+MSDS Date:06/27/1988
+FSC:7930
+NIIN:01-092-7940
+MSDS Number: BJDKS
+=== Responsible Party ===
+Company Name:S. C. JOHNSON & SON, INC.
+Address:1525 HOWE STREET
+City:RACINE
+State:WI
+ZIP:53403-5011
+Country:US
+Info Phone Num:414-631-2777
+Emergency Phone Num:414-631-2777
+Preparer's Name:ROBERT B. O'BRIEN
+CAGE:FO367
+=== Contractor Identification ===
+Company Name:S. C. JOHNSON & SON, INC.
+Address:1525 HOWE STREET
+City:RACINE
+State:WI
+ZIP:53403
+Phone:(414) 631-2777
+CAGE:FO367
+Company Name:SC JOHNSON AND SON INC
+Address:1525 HOWE ST
+Box:City:RACINE
+State:WI
+ZIP:53403-2236
+Country:US
+Phone:800-725-6737
+CAGE:32204
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MODIFIED ACRYLIC POLYMER
+Fraction by Wt: 10-20%
+
+Ingred Name:ETHYLENE GLYCOL  (SARA III)
+CAS:107-21-1
+RTECS #:KW2975000
+Fraction by Wt: 1-3%
+OSHA PEL:C 50 PPM
+ACGIH TLV:C 50 PPM,VAPOR; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:DIETHYLENE GLYCOL  MONETHYL ETHER
+CAS:111-90-0
+RTECS #:KK8750000
+Fraction by Wt: 1-3%
+
+Ingred Name:AMMONIUM HYDROXIDE	(SARA III)
+CAS:1336-21-6
+RTECS #:BQ9625000
+Fraction by Wt: 1-3%
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 80-90%
+
+=====================  Hazards Identification  =====================
+
+Health Hazards Acute and Chronic:NA
+Effects of Overexposure:NA
+
+=======================  First Aid Measures  =======================
+
+First Aid:NA
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NA
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL, WATER FOG
+Fire Fighting Procedures:NORMAL FIRE FIGHTING PROCEDURES MAY BE USED
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP OR SCRAPE UP AND CONTAINERIZE. ABSORB
+    WITH  OIL DRI OR SIMILAR INERT MATERIAL. DO NOT LET     SPILLED OR
+    LEAKING MATERIAL ENTER WATERCOURSE. MAYBE TOXIC TO AQUATIC LIFE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY PLACE WITH
+    ADEQUATE VENTILA- TION. KEEP FROM FREEZING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE
+Ventilation:NONE
+Protective Gloves:NONE
+Eye Protection:NONE
+Other Protective Equipment:NONE
+Work Hygienic Practices:USE GOOD PERSONAL HYGIENE PRACTICES.
+Supplemental Safety and Health
+NK
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>200F
+Vapor Pres:NA
+Vapor Density:NA
+Spec Gravity:1.0
+pH:9.2
+Solubility in Water:COMPLETE
+Appearance and Odor:OPAQUE, TAN LIQUID W/MILD WAX OR AMMONIACAL ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:WHEN EXPOSED TO FIRE, PRODUCES NORMAL
+    PRODUCTS OF COMBUSTION
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN ACCORDANCE WITH FEDERAL, STATE, AND  
+     LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

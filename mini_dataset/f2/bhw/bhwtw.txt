@@ -1,0 +1,123 @@
+=====================  Product Identification  =====================
+
+Product ID:SCALESTRIP
+MSDS Date:05/01/1990
+FSC:6850
+NIIN:01-169-8438
+MSDS Number: BHWTW
+=== Responsible Party ===
+Company Name:STEWART-HALL CHEMICAL CORP
+Address:222 WASHINGTON ST
+City:MOUNT VERNON
+State:NY
+ZIP:10553-1016
+Country:US
+Info Phone Num:914-668-6300
+Emergency Phone Num:914-668-6300
+Preparer's Name:H G
+CAGE:25718
+=== Contractor Identification ===
+Company Name:STEWART-HALL CHEMICAL CORP
+Address:222 WASHINGTON ST
+Box:City:MT VERNON
+State:NY
+ZIP:10553
+Country:US
+Phone:914-668-6300
+CAGE:25718
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PHOSPHORIC ACID  (SARA III)
+CAS:7664-38-2
+RTECS #:TB6300000
+Fraction by Wt: >50.0%
+OSHA PEL:1 MG/M3/3 STEL
+ACGIH TLV:1 MG/M3/3 STEL; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:OTHER COMPONENTS (TYPE NOT SPECIFIED)
+Fraction by Wt: BALANCE
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:CORROSIVE TO EYES AND SKIN;HARMFUL IF
+    INGESTED.ACID BURNS SKIN AND EYES OR INJURY.
+Explanation of Carcinogenicity:DATA PER MSDS
+Effects of Overexposure:SEE HEALTH HAZARDS DATA.
+Medical Cond Aggravated by Exposure:PRE-EXISTING CONDITIONS MAY WORSEN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:IF INHALED OR INGESTED,REMOVE TO FRESH AIR AND CONSULT A
+    PHYSICIAN IMMEDIATELY.FOR EYES AND SKIN,FLUSH WITH PLENTY OF WATER
+    FOR ABOUT 15-20 MINUTES AND SEEK MEDICAL ATTENTION IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:N0NE
+Extinguishing Media:NOT FLAMMABLE;USE ANY MEDIA FOR SURROUDING FIRE
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:NOT EXPECTED
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPER PERSONAL PROTECTION.CONTAIN FREE
+    LIQUID;NEUTRALIZE WITH LIME AND SODA ASH AND COLLECT FOR PROPER
+    DISPOSAL.
+Neutralizing Agent:LIME OF SODA ASH
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP FROM DIRECT SUNLIGHT.KEEP OUT OF
+    REACH OF CHILDREN.
+Other Precautions:DO NOT MIX WITH OTHER CHEMICALS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NORMALLY NOT NEEDED,USE NIOSH/MSHA APPROVED
+    RESPIRATOR FOR ACID MIST OR VAPORS.
+Ventilation:NORMAL ROOM VENTILATION
+Protective Gloves:RUBBER
+Eye Protection:SPLASHPROOF GOGGLES
+Other Protective Equipment:RUBBER BOOTS AND APRON;EYE WASH FACILITIES.
+Work Hygienic Practices:USE AS DIRECTED
+Supplemental Safety and Health
+AVOID CONTACT WITH EYES AND SKIN.DO NOT BREATHE VAPORS/MIST.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C1
+Boiling Pt:B.P. Text:226F,108C
+Spec Gravity:1.583
+pH:ACIDIC
+Evaporation Rate & Reference:1.0,WATER=1
+Solubility in Water:100 %,COMPLETE
+Appearance and Odor:LIGHT YELLOW.NO DISTINCT ODOR
+Percent Volatiles by Volume:50.0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS,ALKALIES
+Stability Condition to Avoid:HIGH TEMPERATURES
+Hazardous Decomposition Products:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF COLLECTED MATERIAL IN ACCORDANCE WITH
+    LOCAL,STATE AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

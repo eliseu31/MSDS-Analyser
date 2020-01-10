@@ -1,0 +1,156 @@
+=====================  Product Identification  =====================
+
+Product ID:PIP 205 PVC PIPE CEMENT
+MSDS Date:01/01/1993
+FSC:8040
+NIIN:00N057426
+MSDS Number: BWRQQ
+=== Responsible Party ===
+Company Name:PERMALITE PLASTICS
+Address:1537 MONROVIA AVE
+City:NEWPORT BEACH
+State:CA
+ZIP:92663
+Country:US
+Info Phone Num:714-548-1137
+Emergency Phone Num:800-633-0302
+CAGE:14703
+=== Contractor Identification ===
+Company Name:PERMALITE PLASTICS CORP
+Address:1537 MONROVIA AVE
+City:NEWPORT BEACH
+State:CA
+ZIP:92663-2806
+Country:US
+CAGE:14703
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:FURAN, TETRAHYDRO-; (TETRAHYDROFURAN)  (CERCLA)
+CAS:109-99-9
+RTECS #:LU5950000
+Fraction by Wt: 50-60%
+OSHA PEL:200 PPM
+ACGIH TLV:200 PPM;250 STEL
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:2-BUTANONE; (METHYL ETHYL KETONE) (MEK) (SARA 313) (CERCLA)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: 20-30%
+OSHA PEL:200 PPM
+ACGIH TLV:200 PPM;300 STEL
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:CYCLOHEXANONE (CERCLA)
+CAS:108-94-1
+RTECS #:GW1050000
+Fraction by Wt: 5-10%
+OSHA PEL:50 PPM, S
+ACGIH TLV:25 PPM, S
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MAY CAUSE DERMATITIS, IRRITATION &
+    DRYNESS OF MUCOUS MEMBRANES & SKIN ON PROLONGED BREATHING OF MIST
+    OR VAPORS OR PROLONGED & REPEATED CONTACT.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:IRRITATION &/OR DRYNESS OF SKIN, SORE THROAT,
+    LACRIMATION, SYMPTOMS SIMILAR TO ALCOHOL INEBRIATION & IN HIGHER
+    CONCENTRATIONS NARCOTIC EFFECTS.
+Medical Cond Aggravated by Exposure:DERMATITIS, BRONCHITIS, COMMON
+    COLDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:REMOVE PATIENT TO WELL-VENTILATED AREA, AWAY FROM
+    EXPOSURE TO FUMES. SKIN:WASH AFFECTED AREAS THOROUGHLY W/SOAP &
+    WATER. USE MOISTURIZING CREAMS FOR EXTREME DRYNESS. EYES:FLUSH
+    THOROUGHLY W/WATE R FOR AT LEAST 15 MINUTES. GET IMMEDIATE MEDICAL
+    ATTENTION. INGEST:DO NOT INDUCE VOMITING, CALL MD.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:42.8F,6.0C
+Lower Limits:2%
+Upper Limits:11.8%
+Extinguishing Media:CHEMICAL FIRE EXTINGUISHER, CO*2 OR FOAM.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:EXTREMELY FLAMMABLE. VAPORS ARE HEAVIER
+    THAN AIR & MAY TRAVEL ALONG GROUND OR MAY BE MOVED BY VENT &
+    IGNITED BY PILOT LIGHTS, FLAMES, SPARKS, HEATERS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE ALL IGNITION SOURCES, USE ABSORBENT
+    SWEEPING COMPOUND OR SAND TO ABSORB LIQUID SPILL, PLACE ABSORBED
+    MATERIAL IN METAL CANS OR CONTAINERS. WASH DOWN SPILL AREA W/WATER
+    THOROUGHLY.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE CONTAINERS AWAY FROM HEAT,
+    SPARKS OR OTHER IGNITION SOURCES. STORE IN A COOL, DRY PLACE. KEEP
+    CONTAINERS TIGHTLY CLOSED.
+Other Precautions:DO NOT TAKE INTERNALLY. HARMFUL OR FATAL IF
+    SWALLOWED. DO NOT SMOKE IN OR NEAR AREAS OF USE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN . NONE REQUIRED UNDER NORMAL USE.
+Ventilation:LOCAL EXHAUST. MECHANICAL (GENERAL): EXHAUST FANS IN CLOSED
+    QUARTERS.
+Protective Gloves:SOLV/OIL RESIST RUBBER/PLASTIC GLOVES.
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGGS(SUPDAT)
+Other Protective Equipment:EYE WASH FOUNTAIN & DELUGE SHOWER WHICH MEET
+    ANSI DESIGN CRITERIA .
+Work Hygienic Practices:WASH HANDS THOROUGHLY AFTER USE & BEFORE EATING
+    OR SMOKING. DO NOT SMOKE WHILE USING OR APPLYING MATERIAL.
+Supplemental Safety and Health
+EYE PROT:& FULL LENGTH FACESHIELD .
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:160F,71C
+Vapor Pres:150 @ 25C
+Vapor Density:3.2
+Spec Gravity:0.94 (H*2O=1)
+Evaporation Rate & Reference:2.5 (BUTYL ACETATE=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:CLEAR LIQUID; ETHER-LIKE ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:NO
+STRONG OXIDIZERS, STRONG ALKALIES, STRONG ACIDS.
+Stability Condition to Avoid:CAN FORM POTENTIALLY EXPLOSIVE PEROXIDES
+    UPON LONG-STANDING IN AIR.
+Hazardous Decomposition Products:CO, CO*2, HCL, CL, KETONES & OTHER
+    TOXIC GASES.
+Conditions to Avoid Polymerization:AVOID HEATING IF PEROXIDES ARE
+    PRESENT.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE CONTAMINATED ABSORBENT IN LANDFILL I/A/W
+    FEDERAL, STATE & LOCAL REGULATIONS OF ENVIRONMENTAL CONTROL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

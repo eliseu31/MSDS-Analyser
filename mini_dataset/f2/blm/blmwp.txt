@@ -1,0 +1,168 @@
+=====================  Product Identification  =====================
+
+Product ID:SAFETY BOOSTERS
+MSDS Date:02/07/1991
+FSC:1377
+NIIN:01-183-9436
+MSDS Number: BLMWP
+=== Responsible Party ===
+Company Name:HILTI INC
+Address:5400 S 122ND EAST AVE
+City:TULSA
+State:OK
+ZIP:74146
+Country:US
+Info Phone Num:918-252-6000 800-727-3427
+Emergency Phone Num:918-252-6000 800-727-3427
+CAGE:EO264
+=== Contractor Identification ===
+Company Name:HILTI INC
+Address:5400 S 122ND E AVE
+Box:21148
+City:TULSA
+State:OK
+ZIP:74121
+Country:US
+Phone:918-252-6000/800--879-6000
+CAGE:11239
+Company Name:HILTI INC
+Address:5400 S 122ND EAST AVE
+Box:21148
+City:TULSA
+State:OK
+ZIP:74121
+Country:US
+Phone:918-252-6000/800-879-6000
+CAGE:EO264
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LEAD STYPHNATE
+CAS:15245-44-0
+Fraction by Wt: 1%
+OSHA PEL:0.05 MG/M3 (MFR)
+ACGIH TLV:0.15 MG(PB)/M3
+
+Ingred Name:1-TETRAZENE, 1-GUANYL-4-NITROSAMINOGUANYL-; (TETRACENE)
+CAS:109-27-3
+RTECS #:XF6900000
+Fraction by Wt: 0.1%
+
+Ingred Name:BARIUM (II) NITRATE (1:2)
+CAS:10022-31-8
+RTECS #:CQ9625000
+Fraction by Wt: 1%
+OSHA PEL:0.5 MG(BA)/M3
+ACGIH TLV:0.5 MG(BA)/M3
+
+Ingred Name:NITROGLYCERIN (NG)	(SARA III)
+CAS:55-63-0
+RTECS #:QX2100000
+Fraction by Wt: 5-11%
+OSHA PEL:S,C, 0.2 MG/M3 STEL
+ACGIH TLV:S, 0.46 MG/M3; 9293
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+Ingred Name:NITROCELLULOSE
+CAS:9004-70-0
+RTECS #:QW0970000
+Fraction by Wt: 7-1%
+
+Ingred Name:BRASS
+Fraction by Wt: 65-85%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:POSSIBLE IRRIT FROM FUMES & GASES
+    UNDER CERTAIN CNDTNS SUCH AS EXCESS FIRING W/LITTLE AIR MOVEMENT.
+Explanation of Carcinogenicity:INORGANIC LEAD COMPOUND: GROUP 2B (IARC)
+Effects of Overexposure:EXCESSIVE EXPOSURE MIGHT CAUSE IRRIT TO THE
+    EYES, SKIN & RESP SYSTEM. ADVERSE HLTH EFFECTS ARE NOT EXPECTED
+    FROM LONG TERM EXPOSURE TO FUMES AND GASES; HOWEVER, GOOD PERSONAL
+    HYGIENE PRACTICES ARE ESS ENTIAL TO KEEP EXPOSURE TO A MINIMUM.
+Medical Cond Aggravated by Exposure:NONE ANTICIPATED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH W/PLENTY OF H*2O FOR AT LEAST 15 MIN. SEE MD IF
+    SYMP PERSIST. SKIN:PRACTICE GOOD HYGIENE BY WASHING W/SOAP & H*2O
+    AFTER USING & BEFORE MEALS. INHAL:MOVE TO FRESH AIR. GET MED ATTN
+    IF SYMP P ERSIST. INGEST:GET IMMED MED ATTN. OTHER: SEEK PROMPT MED
+    ATTN IF PHYSICAL INJURY OCCURS FROM PINS, RIVETS, SHRAPNEL, ETC.
+    FOR BLEEDING WOUNDS PLACE CLEAN MATL ON WOUND & APPLY FIRM PRESS
+    (SUPP DATA)
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER
+Fire Fighting Procedures:FLOOD AREA WITH WATER OR KEEP CARTRIDGES COOL
+    WITH WATER SPRAY. WEAR NIOSH/MSHA APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:CARTRIDGES CAN EXPLODE IF EXPOSED TO
+    TEMPERATURES ABOVE 200 C.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NONE SPECIFIED BY MANUFACTURER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM EXCESS, HEAT, ELECTICAL
+    CURRENT, STRONG ACIDS & OXIDIZERS. NFPA 495 REQUIRES 15 FT
+    SEPARATION FROM FLAMM LIQ, FLAM SOLIDS AND OXIDIZERS
+Other Precautions:STORE IN A COOL, DRY PLACE. DO NOT CRUSH OR DROP. USE
+    ONLY IN POWDER ACTUATED TOOLS DESIGNED TO HNDL THESE BOOSTERS.
+    EMPLOYEES MUST BE PROPERLY TRAINED AS PRESCRIBED BY APPLICABLE OSHA
+    REGULATIONS 29  CFR 1910.243 (D) OR 1926.302 (E).
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED PARTICULATE RESPIRATOR WHERE
+    AIR MOVEMENT IS INADEQUATE TO MAINTAIN EXPOSURE BELOW RECOMMENDED
+    LEVELS.
+Ventilation:GEN-I.E. NATURAL OR MECHANICALLY INDUCED FRESH AIR
+    MOVEMENTS THAT MAINTAIN VAP CONCENTRATION BELOW REC EXPOSURE LIMITS
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:MUFF OR AURAL INSERTS. REFER TO THE
+    APPLICABLE OSHA REG 29 CFR 1910.95 OR 1926.101.
+Work Hygienic Practices:WEAR GLOVES OR WASH HANDS THOROUGHLY AFTER
+    HANDLING AND BEFORE MEALS OR SNACKS.
+Supplemental Safety and Health
+WASTE DISP: DISPOSAL MUST BE IN ACCORDANCE WITH FEDERAL, STATE AND
+    LOCAL REGULATIONS . FIRST AID: ELEVATE WOUND & GET MEDICAL
+    ATTENTION.
+
+==================  Physical/Chemical Properties  ==================
+
+Appearance and Odor:BRASS CASING COLOR CODED ON STAR CRIMP
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS AND OXIDIZING MATERIALS.
+Stability Condition to Avoid:ACIDS, EXCESS HEAT, CRUSHING & ELECTRICAL
+    CURRENTS.
+Hazardous Decomposition Products:NO*X, ACRID FUMES AND LEAD.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:MISFIRES/BENT CARTRIDGES/ETC SHOULD BE STORED IN
+    CNTNR OF H*2O TO WHICH DETERGENT HAS BEEN ADDED AS A "WETTING"
+    AGENT. THE ONLY PROPER DISP METHOD IS TO INCINERATE IN SML AMTS IN
+    BURNER SPECIFICALLY D ESIGNED FOR DESTROYING HAZ AMMUNITION.(SUPP
+    DATA)
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

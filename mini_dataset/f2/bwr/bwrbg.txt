@@ -1,0 +1,183 @@
+=====================  Product Identification  =====================
+
+Product ID:520 ADHESIVE
+MSDS Date:03/19/1993
+FSC:8040
+NIIN:00-826-2936
+MSDS Number: BWRBG
+=== Responsible Party ===
+Company Name:ARMSTRONG WORLD INDUSTRIES INC
+Address:313 W LIBERTY ST
+Box:3001
+City:LANCASTER
+State:PA
+ZIP:17604
+Country:US
+Info Phone Num:717-396-2328
+Emergency Phone Num:800-255-3924
+CAGE:03938
+=== Contractor Identification ===
+Company Name:ARMSTRONG WORLD INDUSTRIES,  INC.
+Address:313 W. LIBERTY ST.
+Box:3209
+City:LANCASTER
+State:PA
+ZIP:17604
+Country:US
+Phone:717-396-2328; 717-396-2935
+CAGE:03938
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ACETONE (SARA 313) (CERCLA)
+CAS:67-64-1
+RTECS #:AL3150000
+Fraction by Wt: 25%
+OSHA PEL:1000 PPM
+ACGIH TLV:750 PPM/1000 STEL
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:TOLUENE (SARA 313) (CERCLA)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 16%
+OSHA PEL:200 PPM; Z-2
+ACGIH TLV:S, 50 PPM
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:HEXANE (CERCLA)
+CAS:110-54-3
+RTECS #:MN9275000
+Fraction by Wt: 34%
+OSHA PEL:500 PPM
+ACGIH TLV:50 PPM
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:1,3-BUTADIENE, 2-CHLORO-, POLYMERS; (SYNTHETIC RUBBER)
+CAS:9010-98-4
+RTECS #:EI9460000
+Fraction by Wt: 13%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:PHENOLIC RESIN
+Fraction by Wt: 9%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:RUBBER CURING INGREDIENTS
+Fraction by Wt: 3%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:TOLUENE APPEARS ON THE NAVY LISTING OF
+    OCCUP CHEM REPROD HAZARDS. SEEK CONSULTATION FROM APPROP HLTH
+    PROFESSIONALS CONCERNING LATEST HAZARD LIST INFO & SAFE HNDLG &
+    EXPOS INFO . ACUTE:EXCESSIVE  SKIN CONT MAY CAUSE DRYING & CRACKING
+    OF SKIN, & RSLT IN DERM. CONT W/EYES WILL CAUSE IRRIT. (EFTS OF
+    OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ:INHAL:IRRIT OF RESP TRACT, COUGHING,
+    HEADACHE, DIZZINESS, DROWSINESS, NAUSEA; UNCOORDINATED MOVEMENTS.
+Medical Cond Aggravated by Exposure:ANY CONDITION GENERALLY AGGRAVATED
+    BY SOLVENTS; PREEXISTING UPPER RESPIRATORY & LUNG DISEASE SUCH AS,
+    BUT NOT LIMITED TO BRONCHITIS, EMPHYSEMA, AND ASTHMA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGEST:CALL MD IMMEDIATELY . SKIN & EYES:FLUSH WITH PLENTY OF
+    WATER FOR @ LEAST 15 MINUTES. ADDITIONALLY WITH SKIN CONT, WASH
+    W/SOAP & WATER. REFER TO PHYS IF IRRIT OR SYMPTOMS PERSIST.
+    INHAL:RE MOVE TO FRESH AIR IF EXPOSED TO EXCESS CONC OF VAPOR. SEEK
+    MED ATTN IF SYMPTOMS PERSIST.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:<20F,<-7C
+Extinguishing Media:CARBON DIOXIDE, DRY CHEMICAL, HALON.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:CLOSED CNTNRS IN FIRE MAY RUPTURE DUE TO
+    PRESS BUILD-UP; USE WATER TO COOL CNTNRS TO PREVENT THIS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNIT. VENTILATE AREA OF
+    SPILL/LEAK; IF USING MECH VENT, MAKE SURE THAT IT IS EXPLO-PROOF OR
+    DOES NOT PRESENT IGNIT SOURCE. FOR EXPOS ABOVE TLV, WEAR APPRVD
+    RESP EQUIP. CONTAIN S PILL, PREVENTING IT FROM ENTERING
+    SEWER(SUPDAT)
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN AREA SUITABLE FOR FLAM
+    MIXTURES. REC STOR TEMP IS BELOW 90 DEGREES F. VAPS ARE FLAM & ARE
+    HVR/AIR.
+Other Precautions:PROHIBIT SMOKING & ELIM ALL OTHER SOURCES OF IGNIT,
+    SUCH AS REGULAR ELEC TOOLS & APPLIANCES, MAKING SURE THAT PILOTS ON
+    GAS-FIRED WATER HEATERS ARE EXTINGUISHED. WARNING:PROD CONTAINS
+    TOLUENE, CHEM KN OWN TO ST OF CA TO CAUSE  (SUPDAT)
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WITH ADEQ VENT, NIOSH/MSHA RESP EQUIP SHOULD NOT
+    BE NEEDED. IF ADEQ VENT IS NOT AFFORDED, WEAR NIOSH/MSHA RESP EQUIP
+    APPRVD FOR ORGANIC VAPORS.
+Ventilation:USE NATURAL CROSS-VENT, LOCAL (MECHANICAL) PICK-UP, AND/OR
+    GEN AREA (MECH)VENT TO PVNT AN ACCUM OF SOLV VAPS, (SUPDAT)
+Protective Gloves:IMPERVIOUS GLOVES.
+Eye Protection:ANSI APPRVD CHEM WORKERS GOGG .
+Other Protective Equipment:EYE WASH FOUNTAIN & DELUGE SHOWER MEETING
+    ANSI DESIGN CRITERIA .
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+SPILL RELEASE:LINES/WATERWAYS. USE ABSORB TO ASSIST W/PICK-UP OF MATL.
+    SCRAPE UP ADHESIVE & PLACE IN CNTNR. OTHER PRECAUT:BIRTH
+    DEFECTS/OTHER REPROD HARM. VENT:FROM LOWER LEV OF WORK SPACES. VENT
+    SHOU LD BE SUFFICIENT TO KEEP SOLV VAP CONC BELOW TLV.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>152F,>67C
+Spec Gravity:0.83 (H*2O=1)
+Evaporation Rate & Reference:NOT KNOWN
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:STRAW COLORED LIQUID WITH CHARACTERISTIC SOLVENT
+    ODOR
+Percent Volatiles by Volume:75(WT)
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE, AND
+    OTHER TOX VAPS & GASES THAT ARE COMMON TO THERMAL DEGRADATION OF
+    ORG CMPDS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCIN/OTHER METHOD APPROVED FOR IGNITIBLE WASTES
+    I/A/W FEDERAL, STATE, AND LOCAL REGULATIONS. THIS PROD CONTAINS
+    CHEM SUBJECT TO REPORTING REQUIREMENTS OF 313 OF TITLE III OF
+    SUPERFUND AMENDMENT & REA UTHORIZATION ACT OF 1986 & 40 CFR PART
+    372.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

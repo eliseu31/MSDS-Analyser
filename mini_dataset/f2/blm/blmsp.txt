@@ -1,0 +1,133 @@
+=====================  Product Identification  =====================
+
+Product ID:PW1010
+MSDS Date:05/29/1990
+FSC:7930
+NIIN:00N023075
+MSDS Number: BLMSP
+=== Responsible Party ===
+Company Name:KLEEN QUIP
+Address:255 HOURET DRIVE
+City:MILPITAS
+State:CA
+ZIP:95035
+Country:US
+Info Phone Num:408-263-3526
+Emergency Phone Num:408-263-3526; 800-433-9889
+CAGE:KLNQU
+=== Contractor Identification ===
+Company Name:KLEEN QUIP
+Address:255 HOURET DRIVE
+Box:City:MILPITAS
+State:CA
+ZIP:95035
+Country:US
+Phone:408-263-3526
+CAGE:KLNQU
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SILICIC ACID (H2S103), DISODIUM SALT; (SODIUM METASILICATE
+    ANHYDROUS)
+CAS:6834-92-0
+RTECS #:VV9275000
+Fraction by Wt: <4.5%
+
+Ingred Name:GLYCOLS, POLYETHYLENE, MONO(NONYLPHENYL)ETHER; (ALKYLPHENOL
+    ETHOXYLATE)
+CAS:9016-45-9
+RTECS #:MD0900000
+Fraction by Wt: <1.4%
+
+Ingred Name:ACETIC ACID, (ETHYLENEDINITRILO)TETRA-, TETRASODIUM SALT;
+    (ETHYLENE DIAMINE TETRAACETATE, SODIUM);
+CAS:64-02-8
+RTECS #:AH5075000
+Fraction by Wt: <3.5%
+
+Ingred Name:NON HAZARDOUS INGREDIENTS
+Fraction by Wt: 90.6%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: EYES: BLURRED VISION, REDNESS,
+    WATERING, BURNING. SKIN: REDNESS. INHAL: IRRITATION, COUGHING.
+    INGEST: BURNING SENSATION, NAUSEA. CHRONIC: NOT KNOWN.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: RINSE FOR 15 MINUTES WITH POTABLE WATER. IF IRRITATION
+    PERSISTS, SEEK MEDICAL ATTENTION. SKIN: RINSE WITH WATER. INHAL:
+    REMOVE VICTIM TO SOURCE OF FRESH AIR. IF SYMPTOMS PERSIST, SEEK
+    MEDICAL AT TENTION. INGEST: SEEK IMMEDIATE MEDICALATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:NONE
+Extinguishing Media:WATER OR FOAM.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPRVD SCBA AND FULL
+    PROTECTIVE EQUIPMENT . USE NORMAL PROCEDURES.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SMALL SPILL/LEAK: NEUTRALIZE WITH AN ACID.
+    RINSE TO DRAIN. LGE SPILL/LEAK: MOP UP EXCESS. NEUTRALIZE WITH AN
+    ACID. RINSE TO DRAIN.
+Neutralizing Agent:ACID
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AT TEMPERATURES BELOW 120F. WEAR
+    PROPER GLOVES, BOOTS, EYE AND FACE PROTECTIONS WHEN HANDLING.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR NIOSH/MSHA APPRVD RESPIRATOR APPROPRIATE
+    FOR EXPOSURE OF CONCERN .
+Ventilation:LOCAL EXHAUST.
+Protective Gloves:NEOPRENE GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:PROTECTIVE BOOTS AND FACE PROTECTION.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C2
+Boiling Pt:B.P. Text:212F,100C
+Spec Gravity:1.08
+pH:13
+Solubility in Water:100%
+Appearance and Odor:CLEAR VIOLET LIQUID. NO ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS, CORROSIVE ACTION ON MATLS: MODERATE ON SOFT METAL SUCH AS
+    ALUMINUM.
+Stability Condition to Avoid:EXTREME HIGH HEAT.
+Hazardous Decomposition Products:NOT KNOWN.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF I/A/W FEDERAL, STATE AND LOCAL
+    REGULATIONS .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

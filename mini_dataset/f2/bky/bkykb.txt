@@ -1,0 +1,150 @@
+=====================  Product Identification  =====================
+
+Product ID:X-822 ADHESIVE
+MSDS Date:12/06/1990
+FSC:8040
+NIIN:00-266-7429
+MSDS Number: BKYKB
+=== Responsible Party ===
+Company Name:BAKER SEALANTS & COATINGS COMPANY INC
+Address:234 SUYDAM AVENUE
+Box:B
+City:JERSEY CITY
+State:NJ
+ZIP:07304
+Country:8
+Info Phone Num:(201) 333-6986
+Emergency Phone Num:(201) 333-6986
+Preparer's Name:CHARLES FRIEDMAN
+CAGE:FO833
+=== Contractor Identification ===
+Company Name:BAKER SEALANTS & COATINGS CO., INC.
+Address:234 SUYDAM AVENUE
+Box:B
+City:JERSEY CITY
+State:NJ
+ZIP:07304-3306
+Phone:(201) 333-6986
+CAGE:FO833
+Company Name:BAKER SEALANTS AND COATINGS CO
+Address:234 SUYDAM AVE
+Box:City:JERSEY CITY
+State:NJ
+ZIP:07304-3306
+Country:US
+Phone:201-333-6986
+CAGE:34094
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:1,3-BUTADIENE POLYMER, STYRENE-BUTADIENE POLYMER
+CAS:9003-55-8
+RTECS #:WL6478000
+Fraction by Wt: 5-10%
+
+Ingred Name:BENZENE, (1-METHYETHYENYL)-, POLYMER W/2-METHYL-2-BUTENE &
+    1,3-PENTADIENE, HYDROCARBON RESIN
+CAS:62258-49-5
+Fraction by Wt: 5-10%
+
+Ingred Name:AROMATIC PETROLEUM DISTILLATE, HEAVY STRAIGHT RUN NAPHTHA
+    C6-C12 BOILING PT 149-446F
+CAS:64741-41-9
+Fraction by Wt: 70-90%
+Other REC Limits:500 PPM
+
+Ingred Name:SOLVENT NAPHTHA, HEAVY AROMATIC NAPHTHA
+CAS:64742-94-5
+RTECS #:WF3100000
+Fraction by Wt: 5-10%
+
+Ingred Name:VOL ORGANIC CMPD: 702
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION, REDNESS, TEARING,
+    BLURRED VISION. INHALATION: NASAL/RESPIRATORY IRRITATION, CENTRAL
+    NERVOUS SYSTEM EFFECT, DIZZINESS, WEAKNESS, FATIGUE, NAUSEA,
+    HEADACHE/POSSIBLE UNCONSCIOUSNESS/DEA TH. INGESETION:
+    GASTROINTESTINAL IRRITATION, NAUSEA, VOMITING/DIARRHEA. SKIN:
+    DERMATITIS, DEFATTING & IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INGESTION: GASTROINTESTINAL IRRITATION, NAUSEA,
+    VOMITING & DIARRHEA. EYES: IRRITATION, REDNESS, TEARING, BLURRED
+    VISION. SKIN: IRRITATION, DEFATTING, & DERMATITIS. INHALATION:
+    NASAL/RESPIRATORY IRRITA TION, CENTRAL NERVOUS SYSTEM EFFECT,
+    DIZZINESS, WEAKNESS, FATIGUE, NAUSEA, HEADACHE, DEATH &
+    UNCONSIOUSNESS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/LARGE AMOUNTS OF WATER. SKIN: WASH THOROUGHLY
+    W/SOAP & WATER. INHALATION: REMOVE TO FRESH AIR. IF BREATHING IS
+    DIFFICULT, ADMINISTER OXYGEN. INGESTION: DON'T INDUCE VOMITING.
+    KEEP PERSON  WARM & QUIET. ASPIRATION OF MATERIAL INTO THE LUNGS
+    DUE TO VOMITING CAN CAUSE CHEMICAL PNEUMONITIS WHICH CAN BE FATAL.
+    OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:90F
+Lower Limits:0.9%
+Upper Limits:6%
+Extinguishing Media:DRY CHEMICAL, CO2 OR FOAM.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:FLAMMABLE LIQUID.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:LARGE SPILLS: ELIMINATE ALL IGNITION SOURCES
+    SUCH AS FLARES, FLAMES, PILOTS & ELECTRICAL SPARKS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:ALL LARGE METAL CONTAINERS SHOULD BE
+    GROUNDED/BONDED WHEN MATERIAL IS TRANSFERRED. KEEP AWAY FROM
+    SOURCES OF IGNITION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR SELF-CONTAINED BREATHING APPARATUS.
+Ventilation:LOCAL EXHAUST/GENERAL
+Protective Gloves:IMPERVIOUS
+Eye Protection:SAFETY GLASSES
+Supplemental Safety and Health
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:240F
+Melt/Freeze Pt:M.P/F.P Text:<0F
+Vapor Pres:15
+Vapor Density:3.8
+Spec Gravity:0.76
+pH:7.0
+Evaporation Rate & Reference:(BU AC = 1): 2.0
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:CLEAR AMBER, ALIPHATIC ODOR.
+Percent Volatiles by Volume:90%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING AGENTS
+Stability Condition to Avoid:SOURCE OF IGNITION.
+Hazardous Decomposition Products:CO
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. REPORTABLY QUANTITY: 3,000 LBS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,150 @@
+=====================  Product Identification  =====================
+
+Product ID:ROYCO 81 MS
+MSDS Date:04/21/1992
+FSC:9150
+NIIN:00-543-7220
+MSDS Number: BWRWS
+=== Responsible Party ===
+Company Name:ROYAL LUBRICANTS COMPANY INC.
+Address:6 CAMPUS DR
+City:PARSIPPANY
+State:NJ
+ZIP:07054
+Country:US
+Info Phone Num:201-887-7410
+Emergency Phone Num:201-887-7411
+CAGE:07950
+=== Contractor Identification ===
+Company Name:ROYAL LUBRICANTS COMPANY INC.
+Address:215 MERRY LN
+Box:518
+City:EAST HANOVER
+State:NJ
+ZIP:07936
+Country:US
+Phone:973-887-7411/7410
+CAGE:07950
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PHENYLMETHYLSILOXANE
+CAS:63148-52-7
+Fraction by Wt: 40-70%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:MOLYBDENUM DISULFIDE
+CAS:1317-33-5
+RTECS #:QA4697000
+Fraction by Wt: 30-60%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:10 MG MO/M3
+ACGIH TLV:10 MG MO/M3
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL RAT) IS NOT KNOWN.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES:MILD IRRITATION. SKIN:SLIGHT
+    IRRITATION. INHALATION:VAPORS MAY BE SLIGHTLY IRRITATING TO NOSE,
+    THROAT, UPPER RESPIRATORY TRACT. INGESTION:GENERALLY CONSIDERED TO
+    HAVE A LOW ORDER OF ACUTE ORAL TO XICITY.
+Explanation of Carcinogenicity:MANUFACTURER GAVE NO INFORMATION ABOUT
+    CARCINOGENICITY. HMIS DOES NOT EXPECT IT TO BE CARCINOGENIC.
+Effects of Overexposure:IRRITATION OF EYES, SKIN, RESPIRATORY TRACT.
+Medical Cond Aggravated by Exposure:MFR GAVE NO INFORMATION ON MSDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:IF IRRITATION PERSISTS OR IS SEVERE, GET MEDICAL ATTENTION.
+    EYE:FLUSH W/WATER TO 15 MIN. SKIN:WASH W/SOAP & WATER. REMOVE
+    CONTAMINATED CLOTHING & LAUNDER BEFORE REUSE. INHALED:REMOVE FROM
+    EXPOSURE. AI D OR RESTORE BREATHING AS NEEDED. INGESTED:DO NOT
+    INDUCE VOMITING. IN GENERAL NO TREATMENT IS NECESSARY UNLESS LARGE
+    QUANTITIES OF THE PRODUCT HAVE BEEN INGESTED. HOWEVER, CALL FOR
+    MEDICAL ADVICE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:>400F,>204C
+Lower Limits:N/AV
+Upper Limits:N/AV
+Extinguishing Media:USE WATER FOG,FOAM,CO2,DRY CHEMICAL. DO NOT USE A
+    DIRECT STREAM OF WATER. PRODUCT WILL FLOAT AND MAY REIGNITE ON
+    SURFACE
+Fire Fighting Procedures:WILL NOT BURN UNLESS PRE-HEATED. COOL FIRE
+    EXPOSED CONTAINERS WITH WATER. DO NOT ENTER CONFINED FIRE SPACE
+    WITHOUT PROPER PROTECTIVE EQUIPMENT INCLUDING SCBA.
+Unusual Fire/Explosion Hazard:WILL EMIT TOXIC SULFUR OXIDES & HYDROGEN
+    SULFIDE ABOVE 750F. DELAYED LUNG DAMAGE CAN BE EXPERIENCED HOURS
+    AFTER EXPOSURE TO COMBUSTION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:MAY BURN ALTHOUGH NOT READILY IGNITABLE. USE
+    CAUTION! TAKE UP W/AN ABSORBENT MATERIAL. DISPOSE OF PROPERLY.
+Neutralizing Agent:MFR GAVE NO INFORMATION ON MSDS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL VENTILATED
+    PLACE. KEEP AWAY FROM OPEN FLAMES AND HIGH TEMPERATURES. WASH
+    W/SOAP & WATER BEFORE EATING, DRINKING, SMOKING.
+Other Precautions:LAUNDER CONTAMINATED CLOTHING BEFORE REUSE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE A NIOSH-APPROVED RESPIRATOR TO PREVENT
+    OVEREXPOSURE. I/A/W 29CFR1910.134 USE EITHER AN
+    ATMOSPHERE-SUPPLYING OR AN AIR-PURIFYING RESPIRATOR FOR ORGANIC
+    VAPORS.
+Ventilation:MFR GAVE NO INFORMATION ON MSDS.
+Protective Gloves:SEE OTHER PROTECTIVE EQUIPMENT
+Eye Protection:SAFETY GLASSES OR GOGGLES AS APPROPRIATE
+Other Protective Equipment:AVOID PROLONGED &/OR REPEATED SKIN CONTACT.
+    WEAR GLOVES & OTHER CLOTHING AS REQUIRED TO MINIMIZE CONTACT.
+Work Hygienic Practices:MFR:?  HMIS:USE GOOD INDUSTRIAL HYGIENE
+    PRACTICES. MINIMIZE CONTACT & WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+NRC/State Lic Num:NONE
+Boiling Pt:B.P. Text:>300F,>149C
+Melt/Freeze Pt:M.P/F.P Text:NOT AVAIL.
+Vapor Pres:<5  MM
+Vapor Density:NOT APPLIC
+Spec Gravity:1.0
+Evaporation Rate & Reference:NOT AVAILABLE
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:DARK LIQUID WITH NO DISTINCT ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CONTACT W/STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:AVOID HEAT, FLAME.
+Hazardous Decomposition Products:MIXTURE OF AIRBORNE SOLID, LIQUID
+    PARTICULATES, GASES, CARBON MONOXIDE, ORGANIC COMPOUNDS MAY BE
+    FORMED UPON COMBUSTION.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PLACE IN AN APPROPTIATE DISPOSAL FACILITY I/A/W 
+    LOCAL REGULATIONS. UNDER EPA-CWA PRODUCT IS CONSIDERED AN OIL.
+    SPILLS INTO OR LEADING TO SURFACE WATERS CAUSE A SHEEN & MUST BE
+    REPORTED TO THE NATIONA L RESPONSE CENTER; 800-424-8802.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

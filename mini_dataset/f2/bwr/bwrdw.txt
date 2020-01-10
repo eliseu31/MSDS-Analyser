@@ -1,0 +1,162 @@
+=====================  Product Identification  =====================
+
+Product ID:MAPP GAS (0916-0009)
+MSDS Date:01/01/1991
+FSC:3439
+NIIN:01-195-8717
+MSDS Number: BWRDW
+=== Responsible Party ===
+Company Name:VICTOR EQUIPMENT CO
+Address:AIRPORT RD
+Box:1007
+City:DENTON
+State:TX
+ZIP:76202
+Country:US
+Info Phone Num:817-566-2000
+Emergency Phone Num:817-566-2000
+CAGE:63026
+=== Contractor Identification ===
+Company Name:L AND M WELDING SUPPLY INC
+Address:568 WESTERN DR
+Box:City:MOBILE
+State:AL
+ZIP:36607-1420
+Country:US
+Phone:334-470-9997
+CAGE:1HJ95
+Company Name:VICTOR EQUIPMENT CO
+Address:2800 AIRPORT RD
+Box:1007
+City:DENTON
+State:TX
+ZIP:76202
+Country:US
+Phone:940-566-2000
+CAGE:63026
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL ACETYLENE (PROPYNE)
+CAS:74-99-7
+RTECS #:UK4250000
+Fraction by Wt: 44%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:1000 PPM
+ACGIH TLV:1000 PPM; 9293
+
+Ingred Name:LIQUIDFIED PETROLEUM GAS
+Fraction by Wt: 56%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:1000 PPM
+ACGIH TLV:1000 PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:A CENTRAL NERVOUS SYSTEM DEPRESSANT &
+    IRRITANT. INHALATION OF LOW CONCENTRATIONS WILL, CAUSE EXCITEMENT
+    &/OR DISORIENTATION.
+Explanation of Carcinogenicity:THIS COMPOUND CONTAINS NO INGREDIENTS AT
+    CONCENTRATIONS OF 0.1% OR GREATER THAT ARE CARCINOGENS OR SUSPECT
+    CARCINOGENS.
+Effects of Overexposure:CONTACT WITH LIQUID WILL CAUSE FROSTBITE,
+    IRRITATION OR BLINDNESS. BEING A SIMPLE ASPHYXIANT, INHALATION AT
+    HIGH CONCENTRATIONS SO AS TO EXCLUDE AN ADEQUATE SUPPLY OF OXYGEN
+    TO THE LUNGS WILL CAUSE UN CONSCIOUSNESS AND POSSIBLE DEATH.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:PROMPT MEDICAL ATTENTION IS MANDATORY IN ALL CASES OF
+    OVEREXPOSURE TO THIS FUEL GAS MIXTURE. INHALATION-MOVE TO AN
+    UNCONTAMINATED AREA & INHALE FRESH AIR. REMOVE QUICKLY. GIVE
+    MOUTH-TO-MOUTH RESUSCITA TION & SUPPLEMENTAL OXYGEN. FURTHER
+    TREATMENT SHOULD BE SYMPTOMATIC & SUPPORTIVE. SKIN-REMOVE
+    CONTAMINATED CLOTHING & FLUSH AREAS WITH LUKE WARM WATER. DO NOT
+    USE HOT WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:144F,62C
+Autoignition Temp:Autoignition Temp Text:850F
+Lower Limits:3.0
+Upper Limits:11.0
+Extinguishing Media:WATER FOG, DRY CHEMICAL FOAM.
+Fire Fighting Procedures:DO NOT EXTINGUISH. KEEP CYLINDER COOL WITH
+    WATER FOG. IF FLAME IS EXTINGUISHED, REOMVE ALL SOURCES OF IGNITION
+    & ALLOW CONTENTS TO VENT. INCREASE VENTILATION.
+Unusual Fire/Explosion Hazard:GAS IS HEAVIER THAN AIR AND MAY TRAVEL A
+    CONSIDRABLE DISTANCE TO A SOURCES OF IGNITION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE ALL PERSONNEL FROM AREA. USE
+    APPROPIATE PROTECTIVE EQUIPMENT. IF LEAK IS IN USER'S EQUIPMENT, BE
+    CERTAIN TO PURGE PIPING WITH AN INERT GAS PRIOR TO ATTEMPTING
+    REPAIRS. IF LEAK IS IN CONTAINER  OR CONTAINER VALVE, CONTACT THE
+    CLOSETS SUPPLIER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:USE ONLY IN WELL-VENTILATED AREAS.
+    VALAVE PROTECTION CAPS MUST REMAIN IN PLACE. DO NOT DRAG, SLIDE,
+    ROLL CYLINDERS. DO NOT HEAT CYLINDERS.
+Other Precautions:PROTECT CYLINDERS FROM PHYSICAL DAMAGE. STORE IN
+    COOL, DRY, WELL-VENTLATED AREA OF NON-COMBUSTIBLE CONSTRUCTION AWAY
+    FROM HEAVILY TRAFFICKED AREAS & EMERGENCY EXISTS. DO NOT ALLOW
+    STORAGE TEMPERATURE  TO EXCEED 130F. STORE UPRIGHT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESPIRATORY PROTECTION IS NOT NORMALLY REQUIRED.
+    DO NOT ENTER AREA OF HIGH CONCENTRATIONS UNTIL FIRST PURGING WITH
+    INERT GAS AND THEN VENTILATING WITH AIR.
+Ventilation:PROVIDE LOCAL EXHAUST OR MECHANICAL VENTILATION IF WELDING
+    OR CUTTING IN CONFINED AREAS.
+Protective Gloves:LEATHER GLOVES.
+Eye Protection:SAFETY GLASSES W/FILTER LENSES, SHADE 4.
+Other Protective Equipment:APRONS WHEN WELDING, CUTTING OR BRAZING.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING AND BEFORE
+    EATING, DRINKING OR SMOKING. LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE.
+Supplemental Safety and Health
+ELECTRICAL EQUIPMENT SHOULD BE NON-SPARKING OR EXPLOSION PROOF.
+    WARNING: ANY LEAKS OF MAPP GAS PRESENTS GREAT DANGER OF EXPLOSION
+    OR FIRE. KEEP ALL SOURCES OF IGNITION AWAY.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:G2
+Boiling Pt:B.P. Text:-54TO-10F
+Melt/Freeze Pt:M.P/F.P Text:-184F,-120C
+Vapor Pres:97 PSIG
+Vapor Density:.110LB/FT3
+Spec Gravity:1.48(GAS)
+Solubility in Water:SLIGHT
+Appearance and Odor:COLORLESS GAS; CHARACTERSITIC UNPLEASANT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NATURAL RUBBER, COPPER ALLOYS ABOVE 65% COPPER, SILVER. MERCURY,
+    HALOGENS, ACIDS, METALLIC SODIUM POTASSIUM.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:NONE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DO NOT ATTEMPT TO DISPOSE OF WASTE OR UNUSED
+    QUANTITIES. RETURN IN THE SHIPPING CONTAINER PROPERLY LABELED, WITH
+    VALVE PROTECTION CAP IN PLACE TO SUPPLIER FOR PROPER DISPOSAL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

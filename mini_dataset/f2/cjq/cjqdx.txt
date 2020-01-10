@@ -1,0 +1,140 @@
+=====================  Product Identification  =====================
+
+Product ID:MIL-P-17303 CLASS 2 TYPE E
+MSDS Date:03/01/1998
+FSC:5330
+NIIN:00N092025
+Status Code:A
+MSDS Number: CJQDX
+=== Responsible Party ===
+Company Name:AMERICAN BRAIDING AND MFG CORP
+Address:247 OLD TAVERN ROAD
+City:HOWELL
+State:NJ
+ZIP:07731
+Country:US
+Info Phone Num:908-938-6333   ...FAX 6377
+Emergency Phone Num:732-938-6333
+CAGE:4R345
+=== Contractor Identification ===
+Company Name:AMERICAN BRAIDING AND MFG CORP
+Address:247 OLD TAVERN ROAD
+Box:City:HOWELL
+State:NJ
+ZIP:07731
+Country:US
+Phone:732-938-6333   ...FAX 6377
+CAGE:4R345
+Company Name:GARDICO INC
+Address:1107 ELLIOTT AVE W
+Box:City:SEATTLE
+State:WA
+ZIP:98119-3102
+Country:US
+Phone:206-283-5850
+CAGE:2W343
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CHRYSOTILE; (ASBESTOS, CHRYSOTILE) ACGIH TLV: F/CC
+    EXCURSION LIMIT 30 MIN.
+CAS:12001-29-5
+RTECS #:CI6478500
+OSHA PEL:.2F/CC
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:YES
+Health Hazards Acute and Chronic:RESPIRATORY. LONG TERM EXPOSURE CAN
+    LEAD TO SERIOUS RESPIRATORY DISEASE. CARCINOGENICITY: YES, A HUMAN
+    CARCINOGEN.
+Explanation of Carcinogenicity:ASBESTOS, CHRYSOTILE: IARC MONOGRAPHS,
+    SUPPLEMENT, VOL 7, PG 106, 1987:GROUP 1. NTP 8TH ANNUAL REPORT ON
+    CARCINOGENS, 1998:KNOWN TO BE CARCINOGEN. OSHA REGULATED: CFR 29
+    1910.1008.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:NONE REQUIRED. INGEST: CALL MD IMMEDIATELY . INHALATION:
+    REMOVE TO FRESH AIR. SUPPORT BREATHING (GIVE OXYGEN/ARTIFICIAL
+    RESPIRATION) . EYES: IMMEDIATELY FLUSH EYES WITH POTABLE WATER FOR
+    A T LEAST 15 MINUTES. SEEK ASSISTANCE FROM MD . SKIN: FLUSH WITH
+    COPIOUS AMOUNTS OF WATER. CALL MD .
+
+=====================  Fire Fighting Measures  =====================
+
+Lower Limits:NON-FLAM
+Upper Limits:NON-FLAM
+Extinguishing Media:NONE REQUIRED. MEDIA SUITABLE FOR SURROUNDING FIRE
+    .
+Fire Fighting Procedures:N/A. USE NIOSH APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:N/A.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NORMAL CLEAN-UP.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CREATING DUST BY GRINDING OR
+    SANDING THIS PRODUCT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN . SELECT APPROPRIATE RESPIRATORY PROTECTION
+    FROM TALE I OF 1910.1001 BASED ON EMPLOYEE EXPOSURE.
+Ventilation:NOT REQUIRED.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:EYE WASH AND DELUGE SHOWER MEETING ANSI
+    DESIGN CRITERIA . OTHER PROTECTIVE CLOTHES OR EQUIPMENT NOT
+    REQUIRED.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:1.5 (H*2O=1)
+Solubility in Water:INSOLUBLE
+Appearance and Odor:BLACK SHINY BRAIDED ROPE.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS AND ALKALIS.
+Hazardous Decomposition Products:NONE.
+
+=====================  Ecological Information  =====================
+
+Ecological:DATA NOT YET AVAILABLE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:IN ACCORDANCE WITH LOCAL, STATE AND FEDERAL
+    LAWS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:CONTACT ALDRICH CHEMICAL COMPANY FOR
+    TRANSPORTATION INFORMATION.
+
+=====================  Regulatory Information  =====================
+
+Federal Regulatory Information:MATERIAL SAFETY DATA SHEET MAY BE USED
+    TO COMPLY WITH OSHA'S HAZARD COMMUNICATION STANDARD, 29 CFR
+    1910.1200. STANDARD MUST BE CONSULTED FOR SPECIFIC REQUIREMENTS.
+State Regulatory Information:
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

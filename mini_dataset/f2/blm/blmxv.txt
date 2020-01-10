@@ -1,0 +1,136 @@
+=====================  Product Identification  =====================
+
+Product ID:707 RECIP CONPRESSOR OIL
+MSDS Date:11/24/1997
+FSC:9150
+NIIN:01-345-6130
+MSDS Number: BLMXV
+=== Responsible Party ===
+Company Name:SOUTHWESTERN PETROLEUM CORP
+Address:534 N MAIN ST
+Box:789
+City:FORT WORTH
+State:TX
+ZIP:76101
+Country:US
+Info Phone Num:817-332-2336
+Emergency Phone Num:817-332-2336, CHEMTREC 800-424-9300
+CAGE:14392
+=== Contractor Identification ===
+Company Name:SOUTHWESTERN PETROLEUM CORP
+Address:534 N MAIN ST
+Box:961005
+City:FORT WORTH
+State:TX
+ZIP:76106
+Country:US
+Phone:817-348-7235
+CAGE:14392
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SEVERELY HYDROTREATED NAPTHENIC DISTILLATES
+CAS:64742-52-5
+RTECS #:PY8035001
+Fraction by Wt: >97%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHAL:NO SIGNIFICANT ADVERSE HEALTH
+    EFFECTS ARE EXPECTED TO OCCUR UPON SHORT TERM EXPO.EYE:NON-IRRIT ON
+    SHORT TERM EXPO.SKIN:PROL/REP CONTACT HAS PRODUCED MILD IRRIT &
+    INFLAMMATION.INGEST:NO ADVERSE H EALTH EFFECT ARE EXPECTED TO
+    OCCUR.
+Explanation of Carcinogenicity:PER MSDS:CARCINOGEN:NO.
+Effects of Overexposure:ACUTE:NOT EXPECTED TO PRESENT A SIGNIFICANT
+    HEALTH HAZ UPON SHORT TERM EXPO.CHRONIC:PROL &/OR REP CONTACT
+    W/THIS MATL MAY PRODUCE MILD SKIN IRRIT & INFLAMMATION.
+Medical Cond Aggravated by Exposure:PERSONNEL W/PRE-EXISTING SKIN
+    DISORDERS SHOULD AVOID COTNACT W/THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:REMOVE TO FRESH AIR;IF BREATH DIFFI PERSIST OBTAIN MED
+    ATTN.EYE:FLUSH W/WATER FOR 15MINS.IF PAIN/REDNESS PERSIST OBTAIN
+    MED ATTN.SKIN:WASH W/SOAP/WATER AFT WIPING OFF EXCESS
+    MATL.INGEST:IF MORE  THAN HALF CUP GIVE WATER,INDUCE
+    VOMITING.OBTAIN MED ATTN.OTHER:NAIF.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:435F,224C
+Autoignition Temp:Autoignition Temp Text:315C
+Lower Limits:NDA
+Upper Limits:NDA
+Extinguishing Media:USE WATER SPRAY,DRY CHEMICAL,FOAM,OR CARBON
+    DIOXIDE.
+Fire Fighting Procedures:USE WATER TO KEEP FIRE-EXPO CNTNRS
+    COOL.WATERSPRAY MAY BE USED TO FLUSH SPILLS AWAY FROM EXPOSURES.
+Unusual Fire/Explosion Hazard:WATER OR FOAM MAY CAUSE FROTHING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE INERT ABSORBANT MATL TO CONFINE SPILLS &
+    TO ABSORB MATERIAL.SCCOP INTO DISPOSABLE CONTAINERS.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NONE SPECIFIED BY MANUFACTURER.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:ADEQUATE VENTILATION OR NIOSH/MSHA APPROVED
+    RESPIRATORS TO MEET EXPOSURE LIMITS.
+Ventilation:ADEQUATE VENTILATION OR NIOSH/MSHA APPROVED RESPIRATORS TO
+    MEET EXPOSURE LIMITS.
+Protective Gloves:GLOVES
+Eye Protection:GOGGLES OR FACE SHIELD
+Other Protective Equipment:PROTECTIVE CLOTHING.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:>450F,>232C
+Melt/Freeze Pt:M.P/F.P Text:NA
+Decomp Temp:Decomp Text:NP
+Vapor Pres:NP
+Vapor Density:>10
+Spec Gravity:0.93
+pH:NA
+Viscosity:NP
+Evaporation Rate & Reference:NP
+Solubility in Water:NP
+Appearance and Odor:LUBE OIL ODOR, AMBER COLORE
+Percent Volatiles by Volume:NONE
+Corrosion Rate:NP
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDANTS (AS RELATED TO GENERAL ORGANIC MATERIALS).
+Stability Condition to Avoid:HEAT AND IGNITION SORUCES
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:LANDFILL OR INCINERATE AS LOCAL, STATE AND
+    FEDERAL REGULATIONS PERMIT.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

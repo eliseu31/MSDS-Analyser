@@ -1,0 +1,125 @@
+=====================  Product Identification  =====================
+
+Product ID:LIGHT CURING DENTAL RESTORATIVE #2974
+MSDS Date:03/22/1988
+FSC:6520
+NIIN:01-282-6324
+MSDS Number: BJDHD
+=== Responsible Party ===
+Company Name:JOHNSON & JOHNSON DENTAL PRODS CO
+Address:20 LAKE DRIVE
+City:EAST WINDSOR
+State:NJ
+ZIP:08520
+Info Phone Num:(201) 524-6723
+Emergency Phone Num:(201) 524-6723
+CAGE:64397
+=== Contractor Identification ===
+Company Name:JOHNSON & JOHNSON DENTAL CARE COMPANY
+Address:501 GEORGE STREET
+Box:City:NEW BRUNSWICK
+State:NJ
+ZIP:08903
+Country:US
+Phone:201-524-6723
+CAGE:64397
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:AROMATIC AND ALIPHATIC DIMETHACRYLATE MONOMERS
+Fraction by Wt: 21.78%
+
+Ingred Name:LITHIUM ALUMINUM SILICATE
+CAS:1302-66-5
+RTECS #:OJ5580000
+Fraction by Wt: 75.0%
+ACGIH TLV:2 MG/CUM
+
+Ingred Name:SILICA
+CAS:7631-89-9
+Fraction by Wt: 1.5%
+
+Ingred Name:SILICON TETRAHYDRIDE
+CAS:7803-62-5
+RTECS #:VV1400000
+Fraction by Wt: 1-2%
+Other REC Limits:5 PPM
+OSHA PEL:5 PPM
+ACGIH TLV:5 PPM; 9192
+
+Ingred Name:ACTIVATORS
+Fraction by Wt: <1.0%
+
+Ingred Name:STABILIZERS
+Fraction by Wt: <1.0%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL RATS LD50 = >5000 MG/KG
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION. SKIN: REPEATED
+    CONTACT MAY CAUSE REDDENING & IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: IRRITATION. SKIN: REPEATED CONTACT MAY
+    CAUSE REDDENING & IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH COPIOUS QUANTITIES OF WATER FOR 15 MIN. SEEK
+    MED ATTN. SKIN: WASH WITH SOAP/WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL
+Fire Fighting Procedures:USE PROTECTIVE GEAR. USE WATER FOG TO COOL
+    LARGE CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:MATERIAL MAY BURN IF EXPOSED TO FLAME.
+    KEEP AWAY FROM IGNITION SOURCES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP OR SCOOP UP & STORE IN APPROPRIATE
+    CONTAINERS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM IGNITION SOURCES.
+    PROTECT FROM HIGH HEAT. KEEP CONTAINERS CLOSED WHEN NOT IN USE.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED
+Protective Gloves:IMPERVIOUS
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:NONE
+Work Hygienic Practices:NONE
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:2.1
+Appearance and Odor:TRANSLUCENT TO OPAQUE PASTE; CHARACTERISTIC
+    METHACRYLATE ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:IGNITION SOURCES, HEAT, ELEVATED
+    TEMPERATURES, FLAME.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL REGULATIONS FOR
+    RELATIVELY NON-TOXIC ORGANICS. DON'T INCINERATE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,116 @@
+=====================  Product Identification  =====================
+
+Product ID:B&B RE-GEL
+MSDS Date:01/29/1996
+FSC:6850
+NIIN:01-390-9453
+MSDS Number: BWRNJ
+=== Responsible Party ===
+Company Name:B&B CHEMICAL COMPANY,INC.
+Address:875 WEST 20TH. STREET,
+City:HIALEAH
+State:FL
+ZIP:33010
+Country:US
+Info Phone Num:305-888-5247
+Emergency Phone Num:305-888-5247
+CAGE:21361
+=== Contractor Identification ===
+Company Name:B & B TRITECH, INC.
+Address:875 WEST 20TH. STREET,
+Box:City:HIALEAH
+State:FL
+ZIP:33010-2310
+Country:US
+Phone:305-888-5247
+CAGE:21361
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM SILICATE
+CAS:1344-09-8
+Fraction by Wt: <2%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:OVEREXPOSURE MAY CAUSE IRRITATION TO
+    SKIN & EYES.
+Explanation of Carcinogenicity:NO INGREDIENT OF A CONCENTRATION OF 0.1%
+    OR GREATER IS LISTED AS A CARCINOGEN OR SUSPECTED CARCINOGEN.
+Effects of Overexposure:SKIN-IRRITATION. EYES-IRRITATION.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION-IF CONSCIOUS, DRINK WATER AND INDUCE VOMITING. GET
+    MEDICAL ATTENTION. SKIN-FLUSH WITH SOAP AND WATER. EYES-FLUSH WITH
+    LOTS OF WATER FOR AT LEAST 15 MINUTES. GET MEDICAL ATTENTION.
+    INHALED-RE MOVE TO FRESH AIR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:NONE TO BOIL
+Lower Limits:NOT GIVEN
+Upper Limits:NOT GIVEN
+Extinguishing Media:WATER FOG, CARBON DIXOIDE, DRY CHEMICAL.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS AND
+    FULL PROTETCIVE GEAR.
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB WITH SAND OR INERT MATERIAL. MOP,
+    SQUEEGEE AND INDUSTRIAL VACUUM.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID EXTREME TEMPERATURES. AVOID
+    CONTACT WITH SKIN AND EYES.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY REQUIRED.
+Ventilation:USE WITH ADEQUATE VENTILATION.
+Protective Gloves:CHEMICAL GLOVES.
+Eye Protection:SAFETY GOGGLES.
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:WASH HANDS AFTER USE AND BEFORE EATING,
+    DRINKING, OR SMOKING. LAUNDER CONTAMINATED CLOTHES BEFORE REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:200F,93C
+Spec Gravity:1.01
+Evaporation Rate & Reference:<1 (ETHER=1)
+Solubility in Water:COMPLETE
+Appearance and Odor:VISCOUS, PINK LIQUID; MILD ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZERS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:NONE.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE AND
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

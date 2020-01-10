@@ -1,0 +1,143 @@
+=====================  Product Identification  =====================
+
+Product ID:707 SWEPCO COMPRESSOR OIL SAE 30
+MSDS Date:03/21/1991
+FSC:9150
+NIIN:01-345-6131
+MSDS Number: BLMXW
+=== Responsible Party ===
+Company Name:SOUTHWESTERN PETROLEUM CORP
+Address:534 N MAIN ST
+Box:789
+City:FORT WORTH
+State:TX
+ZIP:76101
+Country:US
+Info Phone Num:817-332-2336
+Emergency Phone Num:817-332-2336/800-424-9300(CHEMTREC)
+CAGE:14392
+=== Contractor Identification ===
+Company Name:SOUTHWESTERN PETROLEUM CORP
+Address:534 N MAIN ST
+Box:961005
+City:FORT WORTH
+State:TX
+ZIP:76106
+Country:US
+Phone:817-348-7235
+CAGE:14392
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HYDROTREATED HEAVY NAPHTHENIC DISTILLATE, PETROLEUM
+CAS:64742-52-5
+RTECS #:PY8035000
+Fraction by Wt: >97%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:5 MG/M3 OIL MIST
+ACGIH TLV:5 MG/M3 OIL MIST
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: NOT EXPECTED TO PRESENT A
+    SIGNIFICANT HEALTH HAZARD UPON SHORT TERM EXPOSURE. CHRONIC:
+    PROLONGED AND/OR REPEATED CONTACT WITH THIS MATERIAL MAY PRODUCE
+    MILD SKIN IRRITATION AND INFLAMATION.
+Explanation of Carcinogenicity:NONE OF THE INGREDIENTS IN THIS PRODUCT
+    IS LISTED BY NTP, IARC OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:EYES: NON-IRRITATING ON SHORT EXPOSURE. SKIN:
+    PROLONGED AND REPEATED CONTACT HAS PRODUCED MILD IRRITATION AND
+    INFLAMATION. INHALATION: NO SIGNIFICANT HEALTH EFFECTS ARE EXPECTED
+    TO OCCUR UPON SHORT EX POSURE. INGESTION: NO ADVERSE HEALTH EFFECTS
+    ARE EXPECTED TO OCCUR.
+Medical Cond Aggravated by Exposure:INDIVIDUALS WITH A HISTORY OF SKIN
+    DISORDERS SHOULD AVOID CONTACT WITH THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH PLENTY OF WATER FOR AT LEAST 15 MINUTES. IF
+    IRRITATION PERSISTS, SEE DOCTOR. SKIN: WASH WITH SOAP AND WATER
+    AFTER WIPING OFF EXCESS MATERIAL. INHALATION: REMOVE VICTIM TO
+    FRESH AIR. G IVE OXYGEN/CPR IF NEEDED. SEE DOCTOR. INGESTION: NO
+    ADVERSE HEALTH EFFECTS ARE EXPECTED TO OCCUR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:302F,150C
+Autoignition Temp:Autoignition Temp Text:315C
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL.
+Fire Fighting Procedures:WEAR FIRE FIGHTING PROTECTIVE EQUIPMENT AND A
+    FULL FACED SCBA. COOL FIRE EXPOSED CONTAINERS WITH WATER SPRAY.
+    WATER SPRAY MAY BE USED TO FLUSH SPILLS.
+Unusual Fire/Explosion Hazard:COMBUSTION OR HEAT OF FIRE MAY PRODUCE
+    HAZARDOUS DECOMPOSITION PRODUCTS AND VAPORS. WATER OR FOAM MAY
+    CAUSE FROTHING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE PERSONNEL. ELIMINATE IGNITION SOURCES.
+    VENTILATE AREA. WEAR PROTECTIVE CLOTHING AND EQUIPMENT. ABSORB IN
+    INERT MATERIAL AND PLACE IN APPROPIATE DISPOSAL CONTAINER AND
+    COVER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL, DRY, WELL VENTILATED
+    AREA. PROTECT FROM PHYSICAL DAMAGE, HEAT, IGNITION SOURCES AND
+    INCOMPATIBLE MATERIALS. KEEP CONTAINERS CLOSED.
+Other Precautions:AVOID EYE AND SKIN CONTACT. DO NOT BREATHE VAPORS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY REQUIRED. NIOSH/MSHA-APPROVED
+    RESPIRATOR OR SCBA AS APPROPIATE FOR EXPOSURE OF CONCERN.
+Ventilation:MECHANICAL (GENERAL) VENTILATION OR LOCAL EXHAUST
+    VENTILATION TO KEEP EXPOSURE LEVELS BELOW PEL.
+Protective Gloves:RUBBER GLOVES.
+Eye Protection:CHEMICAL SAFETY GOGGLES.
+Other Protective Equipment:PROTECTIVE CLOTHING AS REQUIRED TO MINIMIZE
+    EXPOSURE FROM PROLONGED OR REPEATED CONTACT. EYE BATH AND SAFETY
+    SHOWER.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING AND BEFORE
+    EATING. LAUNDER CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+NONE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:>450F,>232C
+Vapor Density:>10
+Spec Gravity:0.93
+Viscosity:SAE 30
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:AMBER COLOR LIQUID. LUBE OIL ODOR.
+Percent Volatiles by Volume:0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HIGH HEAT, OPEN FLAMES AND OTHER SOURCES
+    OF IGNITION
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE,
+    INCOMPLETELY BURNED CARBON PRODUCTS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTACT YOUR LOCAL ENVIRONMENTAL OFFICER.
+    DISPOSE OF IN ACCORDANCE WITH ALL FEDERAL, STATE AND LOCAL
+    REGULATIONS. MANUFACTURER SUGGESTS LANDFILL OR INCINERATION.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

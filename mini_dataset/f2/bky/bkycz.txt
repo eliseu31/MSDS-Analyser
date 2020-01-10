@@ -1,0 +1,168 @@
+=====================  Product Identification  =====================
+
+Product ID:83241 SHELL SOL BT-67 EC
+MSDS Date:08/08/1989
+FSC:6850
+NIIN:00F018526
+MSDS Number: BKYCZ
+=== Responsible Party ===
+Company Name:SHELL OIL COMPANY
+Box:4320
+City:HOUSTON
+State:TX
+ZIP:77210
+Info Phone Num:(713) 241-4819
+Emergency Phone Num:(713) 473-9461
+Preparer's Name:J. C. WILLETT
+CAGE:54527
+=== Contractor Identification ===
+Company Name:SHELL OIL COMPANY
+Box:2463
+City:HOUSTON
+State:TX
+ZIP:77210
+Country:US
+Phone:800-231-6950
+CAGE:54527
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LIGHT ALIPHATIC NAPHTHA, VM & P NAPHTHA
+CAS:64742-89-8
+Fraction by Wt: 91%
+OSHA PEL:400 PPM
+ACGIH TLV:400 PPM
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 9%
+Other REC Limits:100 PPM
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:HEXANE (N-HEXANE)
+CAS:110-54-3
+RTECS #:MN9275000
+Fraction by Wt: 2.8%
+Other REC Limits:50 PPM
+OSHA PEL:500 PPM
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL (RAT) LD50: >25 ML/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: NOSE/THROAT/RESPIRATORY
+    TRACT IRRITATION/CNS DEPRESSION/PERIPHERAL NERVE
+    DAMAGE/GIDDINESS/HEADACHE/DIZZINESS/NAUSEA/UNCONSCIOUSNESS/COUGHING
+    /LABORED BREATHING/CYANOSIS/MUSCULAR WEAKNESS/SE NSATION LOSS IN
+    ARMS & LEGS/DEATH. SKIN: IRRITATION/DERMATITIS/DEFATTING/DRYING.
+    EYES: IRRITATION. INGESTION: VOMITING.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: CNS
+    DEPRESSION/GIDDINESS/HEADACHE/DIZZINESS/NAUSEA/COUGHING/LABORED
+    BREATHING/CYANOSIS/PERIPHERAL NERVE DAMAGE/MUSCULAR WEAKNESS/LOSS
+    OF SENSATION IN ARMS & LEGS/NOSE/THROAT/RESPIRATORY TR ACT
+    IRRITATION/CARDIAC EFFECTS. SKIN: DERMATITIS/BLUISH COLOR. EYES:
+    IRRITATION. INGESTION: PNEUMONITIS.
+Medical Cond Aggravated by Exposure:EYE, SKIN, & RESPIRATORY DISORDERS,
+    IMPAIRED PERIPHERAL NERVE FUNCTION
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINS. SKIN:
+    WASH THOROUGHLY W/SOAP & WATER. INHALATION: REMOVE TO FRESH AIR.
+    GIVE CPR OR OXYGEN IF NEEDED. INGESTION: DON'T INDUCE VOMITING. IF
+    VOMITING O CCURS SPONTANEOUSLY, KEEP HEAD BELOW HIPS TO PREVENT
+    ASPIRATION OF LIQUID INTO LUNGS. OBTAIN MEDICAL ATTENTION IN ALL
+    CASES. (SEE SUPP).
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:<20F
+Lower Limits:1%
+Upper Limits:8%
+Extinguishing Media:WATER FOG, FOAM, DRY CHEMICAL, CO2. DON'T USE A
+    DIRECT STREAM OF WATER.
+Fire Fighting Procedures:EVACUATE AREA. WEAR FULL BUNKER GEAR (HELMET
+    W/FACE SHIELD/BUNKER COATS/GLOVES/BOOTS), INCLUDING POSITIVE
+    PRESSURE SCBA. COOL FIRE-EXPOSED CONTAINERS W/WATER.
+Unusual Fire/Explosion Hazard:PRODUCT MAY FLOAT/REIGNITE ON WATER
+    SURFACE. VAPORS TRAVEL TO IGNITION SOURCE/FLASH-FIRE RESULTS.
+    CONTAINERS BUILDUP PRESSURE/RUPTURE/WEAKEN. FLAMMABLE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE IGNITION SOURCES. EVACUATE AREA/WEAR
+    PROTECTIVE CLOTHING. SHUT OFF LEAK SOURCE SAFELY. DIKE/CONTAIN
+    W/CLAY/SAND. USE WATER FOG TO SUPPRESS VAPOR CLOUD. REMOVE W/VACUUM
+    TRUCK/PUMP TO VESSEL.  PLACE IN NON-LEAKING SEALED CONTAINERS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:EMPTY CONTAINERS MAY CONTAIN EXPLOSIVE
+    VAPORS. PREVENT VAPOR ACCUMULATION. AVOID BREATHING VAPORS. AVOID
+    STATIC ELECTRICITY, WHICH CREATES HAZARD.
+Other Precautions:GROUND FIXED EQUIPMENT. BOND/GROUND TRANSFER
+    CONTAINERS/EQUIPMENT. DON'T CUT/DRILL/GRIND/WELD NEAR CONTAINERS.
+    AVOID CONTACT W/SKIN & EYES. KEEP CONTAINERS CLOSED WHEN NOT IN
+    USE. USE W/ADEQUATE VENTI LATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF >TLV, USE A NIOSH-APPROVED RESPIRATOR TO
+    PREVENT OVEREXPOSURE. USE AN ATMOSPHERE-SUPPLYING RESPIRATOR OR AN
+    AIR-PURIFYING RESPIRATOR FOR ORGANIC VAPORS.
+Ventilation:USE EXPLOSION-PROOF VENTILATION AS REQUIRED TO CONTROL
+    VAPOR CONCENTRATIONS.
+Protective Gloves:CHEMICAL-RESISTANT
+Eye Protection:SAFETY GLASSES, GOGGLES
+Other Protective Equipment:CHEMICAL-RESISTANT CLOTHING
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING/SHOES
+    BEFORE REUSE. AIR-DRY CONTAMINATED CLOTHING IN A WELL VENTILATED
+    AREA.
+Supplemental Safety and Health
+INTENTIONAL ABUSE, MISUSE OR OTHER MASSIVE EXPOSURE TO TOLUENE MAY
+    CAUSE MULTIPLE ORGAN DAMAGE OR DEATH. THIS PRODUCT IS LISTED ON THE
+    EPA/TSCA INVENTORY OF CHEMICAL SUBSTANCES IN ACCORDANCE W/SARA TI
+    TLE III, SECTIN 313.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:190-246F
+Vapor Pres:90
+Vapor Density:3.5
+Spec Gravity:0.75
+Evaporation Rate & Reference:(N-BU AC = 1): 3.85
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:COLORLESS LIQUID W/HYDROCARBON ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HEAT, SPARKS, DIRECT FLAME, PILOT LIGHTS,
+    CIGARETTES, & OTHER SOURCES OF IGNITION
+Hazardous Decomposition Products:CO, UNIDENTIFIED ORGANIC COMPOUNDS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF FLUSH SOLUTIONS IN ACCORDANCE
+    W/FEDERAL, STATE, & LOCAL REGULATIONS. EXTREMELY FLAMMABLE. UN
+    1255.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

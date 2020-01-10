@@ -1,0 +1,125 @@
+=====================  Product Identification  =====================
+
+Product ID:TYPE B EXPAND LUBE 28115 281150000
+MSDS Date:11/20/1989
+FSC:9150
+NIIN:00-241-7008
+MSDS Number: BJDMZ
+=== Responsible Party ===
+Company Name:THOMAS C. WILSON, INC.
+Address:21-11 44TH AVENUE
+City:LONG ISLAND CITY
+State:NY
+ZIP:11101
+Country:US
+Info Phone Num:718-729-3360
+Emergency Phone Num:718-729-3360
+CAGE:66042
+=== Contractor Identification ===
+Company Name:THOMAS C. WILSON, INC.
+Address:21-11 44TH AVENUE
+Box:City:LONG ISLAND CITY
+State:NY
+ZIP:11101
+Country:US
+Phone:718-729-3360
+CAGE:66042
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: >40%
+Other REC Limits:NONE
+
+Ingred Name:FATTY ACIDS
+Fraction by Wt: <40%
+
+Ingred Name:FATTY ESTERS
+CAS:61789-97-7
+Fraction by Wt: <40%
+
+Ingred Name:FATTY OILS
+CAS:68440-15-3
+Fraction by Wt: <20%
+
+Ingred Name:POTASSIUM SALTS
+CAS:593-29-3
+Fraction by Wt: <20%
+
+Ingred Name:FATTY ACIDS
+CAS:61790-37-2
+Fraction by Wt: <10%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:NONE
+Explanation of Carcinogenicity:THIS PRODUCT HAS NO CARCINOGENS LISTED
+    BY IARC, NTP OR OSHA OR ACGIH GREATER THAN OR EQUAL TO 0.1%.
+Effects of Overexposure:NO KNOWN EFFECTS
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER. IF IRRITATION OCCURS AND PERSISTS,SEEK
+    MEDICAL AID.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:>400F, >204C
+Extinguishing Media:CARBON DIOXIDE, FOAM OR DRY CHEMICAL
+Fire Fighting Procedures:TREAT AS AN OIL FIRE.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:RECOVER FREE PRODUCT OR WASH WITH WATER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:PROTECT FROM FREEZING.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NORMALLY REQUIRED
+Ventilation:NOT NORMALLY REQUIRED
+Protective Gloves:NOT NORMALLY REQUIRED
+Eye Protection:NOT NORMALLY REQUIRED
+Other Protective Equipment:NONE
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:B3
+Spec Gravity:0.96
+pH:9.4
+Solubility in Water:EMULSIFIES
+Appearance and Odor:LIGHT YELLOW GREASE, MILD FATTY ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W FED, STATE, AND LOCAL REGS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

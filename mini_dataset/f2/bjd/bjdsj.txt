@@ -1,0 +1,163 @@
+=====================  Product Identification  =====================
+
+Product ID:THINNER, SYNTHETIC RESIN, ENAMEL
+MSDS Date:07/01/1988
+FSC:8010
+NIIN:00-558-7027
+MSDS Number: BJDSJ
+=== Responsible Party ===
+Company Name:CSD INC.
+Address:5 HACKBURY ST
+Box:687
+City:CONROE
+State:TX
+ZIP:77305-0687
+Country:US
+Info Phone Num:409-756-1065
+Emergency Phone Num:409-756-1065
+CAGE:JO933
+=== Contractor Identification ===
+Company Name:CSD INC.
+Address:5 HACKBERRY LANE
+Box:687
+City:CONROE
+State:TX
+ZIP:77305
+Country:US
+Phone:409-756-1065
+CAGE:JO933
+Company Name:CSD INC. (PRE 1985 NAME: MATHEWS, INC)
+Address:420 SEABOARD DRIVE
+Box:City:MATTHEWS
+State:NC
+ZIP:28105-5073
+Country:US
+Phone:704-821-9822
+CAGE:5W216
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:N-BUTYL ALCOHOL  (SARA III)
+CAS:71-36-3
+RTECS #:EO1400000
+Fraction by Wt: 20-23%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:100 PPM
+ACGIH TLV:S, C 50 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:VM & P NAPHTHA
+CAS:8030-30-6
+RTECS #:DE3030000
+Fraction by Wt: 50-57%
+Other REC Limits:NONE SPECIFIED
+ACGIH TLV:300 PPM
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 14-16%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ISOBUTYL ISOBUTYRATE
+CAS:97-85-8
+RTECS #:NQ5250000
+Fraction by Wt: 9-12%
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYE IRRITANT.	CAN CAUSE DERMATITIS,
+    ANESTETIC RESPIRATORY TRACT IRRITATION; NAUSEA, VOMITING,
+    HEADACHES, DIZZINESS; LIVER OR KIDNEY DAMAGE.  CAN BE ABSORBED
+    THROUGH SKIN; CAUSE BIRTH AND REPRODUCTIVE	DEFECTS IN SOME LAB
+    ANIMALS.
+Effects of Overexposure:NAUSEA, VOMITING, HEADACHES, DIZZINESS, AND
+    IRRITATION TO PARTS OF THE BODY.
+Medical Cond Aggravated by Exposure:DERMATITIS, ANESTETIC RESPIRATORY
+    TRACT IRRITATION, LIVER OR KIDNEY DAMAGE; CAN BE ABSORBED THROUGH
+    SKIN; CAUSE BIRTH & REPRODUCTIVE DEFECTS IN SOME LAB ANIMALS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH LARGE QUANTITIES OF WATER FOR 15 MINUTES. 
+    SKIN: WASH WITH LARGE QUNTITIES OF WATER.  INHALATION: REMOVE FROM
+    EXPOSURE & SEEK FRESH AIR. IF BREATHING STOPS, GIVE CPR. 
+    INGESTION: CONT ACT POISON CONTROL CENTER REGARDING VOMITING. GET
+    MEDICAL ATTENTION IMMEDIATELY FOR ANY OF THESE CONDITIONS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:50F/10C
+Lower Limits:.9
+Extinguishing Media:USE CARBON DIOXIDE, FOAM, OR DRY CHEMICAL FIRE
+    FIGHTING APPARTUS.
+Fire Fighting Procedures:USE SELF-CONTAINED BREATHING APPARTUS, WATER
+    SPRAY FOR COOLING.
+Unusual Fire/Explosion Hazard:AVOID EXCESSIVE WATER; KEEP WORK AREA
+    FREE OF HOT METAL SURFACES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION.  SLUSH SPILLED
+    MATERIAL INTO SUITABLE RETAINING AREAS OR CONTAINERS WITH LARGE
+    QUANTITIES OF WATER.  SMALL AMOUNTS OF SPILLED MATERIAL MAY BE
+    ABSORBED INTO AN APPROPRIA TE ABSORBANT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINERS COOL, DRY & AWAY FROM
+    IGNITE SOURCES. USE & STORE THIS PRODUCT W/ADEQUATE VENTILATION.
+    KEEP PRODUCT CONTAINERS CLOSED WHEN NOT IN USE.
+Other Precautions:AVOID INHALATION AND CONTACT WITH SKIN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED CARTRIDGE RESPIRATOR OR
+    SELF-CONTAINED BREATHING APPARTUS.
+Ventilation:MECHANICAL VENTILATION OR LOCAL EXHAUST TO REDUCE TLV TO
+    APPROVED LEVEL.
+Protective Gloves:IMPERMEABLE GLOVES (NEOPREME).
+Eye Protection:SAFETY GLASSES. GOGGLES, FACE SHEILDS.
+Other Protective Equipment:IMPERMEABLE APRONS.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:230F/111C
+Melt/Freeze Pt:M.P/F.P Text:>20F,>-7C
+Vapor Pres:22
+Vapor Density:3.0
+Spec Gravity:H20-1
+Solubility in Water:5-10
+Appearance and Odor:CLEAR, LITTLE IF ANY COLOR; CHARACTERISTIC ODOR.
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HEAT, SPARKS AND OPEN FLAME.
+Hazardous Decomposition Products:CARBON MONOXIDE FROM BURNING.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF PRODUCT IN ACCORDANCE WITH APPLICABLE
+    LOCAL, COUNTY, STATE AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,96 @@
+=====================  Product Identification  =====================
+
+Product ID:CREST 3133
+MSDS Date:07/30/1986
+FSC:8030
+NIIN:01-212-1420
+MSDS Number: BHWDQ
+=== Responsible Party ===
+Company Name:CREST PRODUCTS CORP
+Address:2000 S SUSAN ST
+City:SANTA ANA
+State:CA
+ZIP:92704-4415
+Country:US
+CAGE:34469
+=== Contractor Identification ===
+Company Name:CREST PRODUCTS CORP
+Address:2000 S SUSAN ST
+Box:City:SANTA ANA
+State:CA
+ZIP:92704-4415
+Country:US
+Phone:714-965-9292
+CAGE:34469
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:EPOXY RESIN
+Fraction by Wt: <90%
+Other REC Limits:NONE ESTABLISHED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SEE "OVEREXPOSURE SYMPTOMS"
+Effects of Overexposure:MAY BE IRRITATING TO SKIN IF CONTACTED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:AVOIDE SKIN CONTACT. SHOULD SKIN CONTACT OCCUR, WASH
+    CONTAMINATED AREA WITH SOAP AND WATER PROMPTLY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:>250F/121C
+Extinguishing Media:WATER, FOAM.
+Fire Fighting Procedures:NONE STATED.
+Unusual Fire/Explosion Hazard:NONE STATED
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WIPE UP SPILLED MATERIAL WITH DISPOSABLE
+    CLOTH-SATURATE WITH XYLENE AT USER OPTION.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NONE STATED.
+Other Precautions:NONE STATED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE USUALLY REQUIRED
+Ventilation:ADEQUATE VENTILATION DURING ACTUAL USE OF MATERIAL.
+Protective Gloves:RECOMMENDED.
+Eye Protection:SAFETY GLASSES.
+Other Protective Equipment:NONE STATED.
+Work Hygienic Practices:NONE STATED.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:>500F/260C
+Solubility in Water:SLIGHT
+Appearance and Odor:THICK OPAQUE TAN LIQUID
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE STATED.
+Stability Condition to Avoid:NONE STATED.
+Hazardous Decomposition Products:NONE STATED.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:NO SPECIAL PROCEFUES REQUIRED.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

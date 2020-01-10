@@ -1,0 +1,144 @@
+=====================  Product Identification  =====================
+
+Product ID:KADON LIQUID, 641052
+MSDS Date:10/26/1987
+FSC:6520
+NIIN:00-330-4762
+MSDS Number: BLMTK
+=== Responsible Party ===
+Company Name:CAULK/DENTSPLY
+Address:LAKEVIEW & CLARKE AVE
+Box:359
+City:MILFORD
+State:DE
+ZIP:19963-0359
+Country:US
+Info Phone Num:302-422-4511
+Emergency Phone Num:302-422-4511
+CAGE:11107
+=== Contractor Identification ===
+Company Name:CAULK/DENTSPLY
+Address:38 W CLARKE AVE
+Box:359
+City:MILFORD
+State:DE
+ZIP:19963-0359
+Country:US
+Phone:302-422-4511/ 703-451-1900
+CAGE:11107
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHACRYLIC ACID, METHYL ESTER; (METHYL METHACRYLATE
+    MONOMER)
+CAS:80-62-6
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:METHACRYLIC ACID, ETHYLENE ESTER; (ETHYLENE GLYCOL
+    DIMETHACRYLATE)
+CAS:97-90-5
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50: ORL(RAT) = 9.4 G/KG.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:HIGH VAPOR CONCENTRATION CAN INDUCE
+    NAUSEA, HEADACHE, SMARTING OF EYES, AND IRRITATION OF RESPIRATORY
+    SYSTEM. LIQUID CONTACT WITH EYES CAN CAUSE IRRITATION & POSSIBLE
+    CORNEAL DAMAGE.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:SORES OR OPEN WOUNDS OF THE SKIN.
+    MAY CAUSE ALLERGIC REACTION IN PEOPLE WITH SENSITIVITY TO ACRYLICS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: MOVE TO FRESH AIR. GIVE OXYGEN OR ARTIFICIAL
+    RESPIRATION AS REQUIRED. INGEST: INDUCE VOMITING & CONSULT MD
+    IMMEDIATELY. EYE: FLUSH PROMPTLY W/COPIOUS AMOUNT OF WATER FOR A
+    MINIMUM OF 15 MIN & C ONSULT MD IF IRRITATION IS APPARENT. SKIN:
+    WASH W/SOAP & WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:OC
+Flash Point:50.0F,10.0C
+Lower Limits:2.1%
+Upper Limits:12.5%
+Extinguishing Media:FOAM, CO*2, DRY CHEMICAL.
+Fire Fighting Procedures:WATER MAY BE INEFFECTIVE UNLESS USED AS A FINE
+    SPRAY/FOG. USE WATERSPRAY TO COOL FIRE EXPOSED CONTRS OF
+    METHYLMETHACRYLATE. WEAR NIOSH/MSHA APPRVD (SUPP DATA)
+Unusual Fire/Explosion Hazard:VAPORS MAY TRAVEL TO SOURCE OF
+    IGNITION/FLASH BACK. AVOID IGNITION SOURCE/EXCESSIVE TEMPS. HEAT
+    CAN INDUCE POLYMERIZATION W/RAPID RELEASE OF ENERGY. (SUPP DATA)
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE IGNITION SOURCES. AVOID BREATHING
+    VAPORS. DIKE & ABSORB SPILL W/INERT MATL (SAND/SODA ASH,
+    VERTICULITE, ETC.) AND TRANSFER TO CONTAINERS FOR DISPOSAL, USE
+    NON-SPARKING TOOLS. REMOVE SATURATE D CLTHG & WASH AFFECTED SKIN
+    AREAS W/SOAP & WATER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AT AMBIENT TEMPERATURES OUT OF
+    DIRECT SUNLIGHT-ADVISABLE TO USE OLDEST MATERIALS FIRST. USE
+    ADEQUATE VENTILATION.
+Other Precautions:AVOID REPEATED BREATHING & CONTACT W/SKIN. KEEP
+    CONTRS CLOSED AND AWAY FROM HEAT. KEEP AWAY FROM SPARKS AND OPEN
+    FLAME.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED SELF-CONTAINED BREATHING
+    APPARATUS DURING HIGH VAPOR CONCENTRATION.
+Ventilation:LOCAL EXHAUST TO KEEP BELOW TLV & LEL. MECHANICAL
+    VENTILATION SHOULD HAVE EXPLOSION-PROOF MOTORS.
+Protective Gloves:IMPERVIOUS GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:IMPERVIOUS APRON AND OVERSHOES DURING
+    CLEAN-UP OPERATION.
+Work Hygienic Practices:OBSERVE NORMAL CARE WHEN WORKING WITH
+    CHEMICALS.
+Supplemental Safety and Health
+FIRE FIGHT PROC: SCBA AND FULL PROTECTIVE EQUIPMENT . EXPLO HAZ: CLOSED
+    CONTAINERS MAY RUPTURE EXPLOSIVELY.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:214
+Vapor Pres:29
+Vapor Density:3.45
+Spec Gravity:0.94
+Solubility in Water:SLIGHT
+Appearance and Odor:COLORLESS LIQUID, SWEET METHACRYLATE SMELL.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+REDUCING AND OXIDIZING MATERIALS.
+Stability Condition to Avoid:ELEVATED TEMPERATURE AND IGNITION SOURCES.
+Hazardous Decomposition Products:ACRID FUMES AND CO &/OR CO*2.
+Conditions to Avoid Polymerization:ELEVATED TEMPERATURES REDUCING AND
+    OXIDIZING MATERIALS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH FEDERAL, STATE,
+    AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

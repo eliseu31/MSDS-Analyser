@@ -1,0 +1,134 @@
+=====================  Product Identification  =====================
+
+Product ID:FIBROUS ADHESIVE, FD84-07
+MSDS Date:12/11/1988
+FSC:8040
+NIIN:00N020903
+MSDS Number: BLMFH
+=== Responsible Party ===
+Company Name:HB FULLER CO
+Address:1200 WOLTERS BLVD
+City:VADNAIS HEIGHTS
+State:MN
+ZIP:55110
+Country:US
+Info Phone Num:612-481-3300
+CAGE:GO965
+=== Contractor Identification ===
+Company Name:H B FULLER CO
+Address:1200 WOLTER BLVD
+Box:City:VADNAIS HEIGHTS
+State:MN
+ZIP:55110
+Country:US
+Phone:612-481-3300
+CAGE:0HD19
+Company Name:HB FULLER CO
+Address:1200 WOLTERS BLVD
+Box:City:VADNAIS HEIGHTS
+State:MN
+ZIP:55110
+Country:US
+Phone:612-481-3300
+CAGE:GO965
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM SILICATE
+CAS:1344-09-8
+Fraction by Wt: >10%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: CONTACT WITH LIQUID PRODUCT WILL
+    CAUSE IRRITATION. SKIN: CONTACT WITH LIQUID WILL CAUSE IRRITATION.
+    INHAL: NO EXPECTED EFFECTS. CHRONIC: NO ANTICIPATED CHRONIC
+    EFFECTS.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NO KNOWN EFFECTS ON OTHER
+    ILLNESSES.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH IMMED WITH WATER FOR AT LEAST 15 MIN. CONSULT PHYS
+    IF IRRITATION PERSISTS. SKIN: WASH AFFECTED AREA WITH SOAP AND
+    WATER. LAUNDER CONTAMINATED CLOTHING BEFORE REUSE. INHAL: REMOVE
+    SUBJECT TO	FRESH AIR. INGEST: CALL MD IMMED .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:>200F,>93C
+Extinguishing Media:NON-FLAMMABLE IN LIQUID STATE; USE WATER SPRAY,
+    FOAM, DRY CHEMICAL OR CARBON DIOXIDE ON DRIED PRODUCT.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT.
+Unusual Fire/Explosion Hazard:THERE IS THE POSSIBILITY OF PRESSURE
+    BUILDUP IN CLOSED CONTAINERS WHEN HEATED. WATER SPRAY MAY BE USED
+    TO COOL CONTAINERS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DIKE IF NECESSARY, CONTAIN SPILL WITH INERT
+    ABSORBENT AND TRANSFER TO CONTAINERS FOR DISPOSAL. KEEP OUT OF
+    SEWERS, WATERSHEDS OR WATER SYSTEMS.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:PROTECT FROM FREEZING-PRODUCT
+    STABILITY MAY BE AFFECTED.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NORMALLY REQUIRED. USE NIOSH/MSHA APPROVED
+    RESPIRATOR APPROPRIATE FOR EXPOSURE OF CONCERN .
+Ventilation:STANDARD INDUSTRIAL VENTILATION.
+Protective Gloves:RUBBER GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:PROTECTIVE CLOTHING. LAUNDER CONTAMINATED
+    CLOTHING BEFORE REUSE.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+PH: 11.0-12.5. WASTE DISP METH: ASSISTANCE CONSULT H.B. FULLER
+    ENVIRONMENTAL SERVICES 612/481-1588.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:>200F,>93C
+Spec Gravity:1.4-1.7
+pH:SUPDAT
+Solubility in Water:MISCIBLE
+Appearance and Odor:LIQUID
+Percent Volatiles by Volume:45-68
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NOT ESTABLISHED.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:INCOMPLETE COMBUSTION CAN YIELD LOW
+    MOLECULAR WEIGHT HYDROCARBONS, CARBON MONOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PROD DOES NOT MEET DEFN OF HAZ WASTE UNDER U.S.
+    EPA HAZ WASTE REGS 40CFR2621. SOLIDIFY/DISPOSE OF IN AN APPRVD
+    INDUST LANDFILL; CONSULT YOUR ST/FED/LOC AUTH FOR PROPER DISP IN
+    EVENT MORE RESTRICTIVE R EQUIREMENTS APPLY. FOR ADDNL WASTE
+    DISP(SUPDAT)
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

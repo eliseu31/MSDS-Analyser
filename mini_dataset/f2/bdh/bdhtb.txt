@@ -1,0 +1,108 @@
+=====================  Product Identification  =====================
+
+Product ID:CALIBRATING FLUID,TYPE I
+MSDS Date:01/01/1985
+FSC:6850
+NIIN:00-189-6791
+MSDS Number: BDHTB
+=== Responsible Party ===
+Company Name:PHIPPS PRODUCTS CORP (MFG-PHILLIPS PETROLEUM CO)
+Address:186 LINCOLN ST SUITE 502
+City:BOSTON
+State:MA
+ZIP:02111-2403
+Country:US
+Emergency Phone Num:NONE
+CAGE:86511
+=== Contractor Identification ===
+Company Name:PHIPPS PRODUCTS CORP
+Address:186 LINCOLN ST SUITE 502
+Box:City:BOSTON
+State:MA
+ZIP:02111-2403
+Country:US
+Phone:OUT OF BUSINESS
+CAGE:86511
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:N-HEPTANE
+CAS:142-82-5
+RTECS #:MI7700000
+Fraction by Wt: 70%
+OSHA PEL:500 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9293
+
+Ingred Name:DIMETHYLCY CLOPENTANES
+Fraction by Wt: 25%
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:IRRITATING TO EYES &
+    SKIN,DIZZINESS,HEADACHE,NAUSEA,LOSS OF APETITE.UNCONSCIOUSNESS MAY
+    OCCUR
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES-FLUSH WITH WATER FOR 15 MIN.SKIN-WASH WITH SOAP &
+    WATER.CALL PHYSICIAN IF IRRITATED.INHALATION-REMOVE TO FRESH
+    AIR.GIVE OXYGEN IF UNCONSCIOUS.GIVE ARTIFICIAL RESPIRATION IF
+    NECESSARY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:25F CC (EST)
+Extinguishing Media:FOAM,DRY CHEMICAL,CARBON DIOXIDE,WATER
+Fire Fighting Procedures:SHUT OFF SOURCE OF FUEL,COOL ADJACENT
+    EQUIPMENT
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONTAIN SPILL,PROTECT FROM IGNITION
+    SOURCES,ABSORB IN EARTH OR SAWDUST FOR LARGE SPILL,USE SELF
+    CONTANED BREATHING APPARATUS
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:BOND AND GROUND DURING LIQUID
+    TRANSFER.AVOID IGNITION SOURCES
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:APPROVED GAS MASK WITH ORGANIC VAPOR CANISTER
+Ventilation:LOCAL - RECOMMENDED
+Protective Gloves:NEOPRENE,RUBBER
+Eye Protection:GOGGLES OR FACE SHIELD
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:B.P. Text:204-208F
+Vapor Pres:90
+Vapor Density:3.5
+Spec Gravity:0.6991
+Evaporation Rate & Reference:>1,BUTYL ACETATE
+Solubility in Water:INSOLUBLE
+Appearance and Odor:CLEAR LIQUID
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING AGENTS
+Stability Condition to Avoid:HEAT,SPARKS,OPEN FLAME
+Hazardous Decomposition Products:CARBON MONOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PLACE ABSORBED MATERIAL IN DOT CONTAINER
+    SUITABLE FOR SHIPPING FLAMMABLE WASTES TO DISPOSAL AREA
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

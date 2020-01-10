@@ -1,0 +1,128 @@
+=====================  Product Identification  =====================
+
+Product ID:ENDURE CONCRETE SEAL 30
+MSDS Date:07/19/1990
+FSC:8030
+NIIN:00F019141
+MSDS Number: BLPMM
+=== Responsible Party ===
+Company Name:THEOCHEM LABORATORIES
+Address:5131 W. IDLEWILD AVENUE
+Box:15367
+City:TAMPA
+State:FL
+ZIP:33684
+Info Phone Num:(813) 237-6463
+Emergency Phone Num:(813) 237-6463 OR (800) 424-9300
+CAGE:OADW7
+=== Contractor Identification ===
+Company Name:THEOCHEM LABORATORIES
+Address:5131 W. IDLEWILD AVENUE
+Box:15367
+City:TAMPA
+State:FL
+ZIP:33684
+Phone:(813) 237-6463 OR (800) 424-9300
+CAGE:OADW7
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MEDIUM ALIPHATIC NAPHTHA (AROMATIC 100), PARAFFIN-NAPTHANES
+    MINERAL SPIRITS
+CAS:64742-88-7
+Other REC Limits:100 PPM
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION. SKIN: IRRITATION &
+    DEFATTING. INHALATION: RESPIRATORY IRRITATION, NAUSEA, HEADACHE &
+    UNCONSCIOUSNESS. INGESTION: NAUSEA, VOMITING & CHEMICAL
+    PNEUMONITIS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: IRRITATION. SKIN: IRRITATION & DEFATTING.
+    INHALATION: RESPIRATORY IRRITATION, NAUSEA, HEADACHE &
+    UNCONSCIOUSNESS. INGESTION: NAUSEA, VOMITING & CHEMICAL
+    PNEUMONITIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINS. SKIN:
+    WASH W/SOAP & WATER. INHALATION: REMOVE TO FRESH AIR. GIVE CPR OR
+    OXYGEN IF NEEDED. INGESTION: DON'T INDUCE VOMITING. ASPIRATION OF
+    MATERIAL I NTO THE LUNGS MAY CAUSE CHEMICAL PNEUMONITIS. OBTAIN
+    MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TOC
+Flash Point:125F
+Lower Limits:1%
+Upper Limits:6%
+Extinguishing Media:FOAM, CO & DRY CHEMICAL
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS W/FULL
+    FACEPIECE.
+Unusual Fire/Explosion Hazard:VAPORS ARE >AIR & MAY TRAVEL ALONG THE
+    GROUND TO IGNITION SOURCES. DON'T CUT DRUM W/A TORCH AS AN
+    EXPLOSION MAY RESULT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE AREA. ELIMINATE IGNITION SOURCES.
+    WEAR PROTECTIVE CLOTHING. ABSORB SPILL ON PAPER, VERMICULITE OR
+    OTHER ABSORBENT MATERIAL. DIKE AREA TO PREVENT SPREADING. PUMP
+    LIQUID TO SALVAGE DRUMS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A DRY, COOL AREA AWAY FROM
+    HEAT & IGNITION SOURCES. KEEP CONTAINER CLOSED WHEN NOT IN USE.
+    KEEP OUT OF REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF >TLV USE A NIOSH APPROVED AIR SUPPLIED
+    RESPIRATOR.
+Ventilation:LOCAL EXHAUST IS ADEQUATE
+Protective Gloves:IMPERVIOUS SUCH AS NITRILE RUBBER
+Eye Protection:CHEMICAL GOGGLES
+Other Protective Equipment:BOOTS & IMPERVIOUS CLOTHING
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE.
+Supplemental Safety and Health
+CONTAINS CHEMICALS SUBJECT TO SECTION 313 OF THE EMERGENCY PLANNING &
+    COMMUNITY RIGHT-TO-KNOW ACT OF 1986 & OF 40 CFR 372.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:300F
+Vapor Pres:2
+Vapor Density:4.9
+Spec Gravity:0.85
+Evaporation Rate & Reference:(BU AC = 1): 0.12
+Solubility in Water:INSOLUBLE
+Appearance and Odor:THIN, LIGHT AMBER LIQUID W/SOLVENT ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS
+Stability Condition to Avoid:IGNITION SOURCES & HEAT
+Hazardous Decomposition Products:CO & CO2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE LIQUID & DISPOSE OF ABSORBENT IN
+    ACCORDANCE W/LOCAL, STATE & FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

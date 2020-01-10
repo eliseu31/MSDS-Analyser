@@ -1,0 +1,137 @@
+=====================  Product Identification  =====================
+
+Product ID:COMPRESSED AIR
+MSDS Date:06/01/1990
+FSC:4240
+NIIN:01-376-4394
+MSDS Number: BWRHQ
+=== Responsible Party ===
+Company Name:AIR PRODUCTS AND CHEMICALS INC
+Address:7201 HAMILTON BLVD
+City:ALLENTOWN
+State:PA
+ZIP:18195-1501
+Country:US
+Info Phone Num:215-481-6311
+Emergency Phone Num:215-481-6311
+CAGE:00742
+=== Contractor Identification ===
+Company Name:AIR PRODUCTS AND CHEMICALS INC
+Address:7201 HAMILTON BLVD
+Box:City:ALLENTOWN
+State:PA
+ZIP:18195-1501
+Country:US
+Phone:800-345-3148/ 800-752-1597
+CAGE:00742
+Company Name:FIRE FIGHTERS EQUIPMENT CO.
+CAGE:0DB99
+Company Name:SCOTT AVIATION
+Address:225 ERIE ST
+Box:City:LANCASTER
+State:NY
+ZIP:14086
+Country:US
+Phone:716-683-5100
+CAGE:53655
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NITROGEN
+CAS:7727-37-9
+RTECS #:QW9700000
+Fraction by Wt: 79%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:OXYGEN
+CAS:7782-44-7
+RTECS #:RS2060000
+Fraction by Wt: 21%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:AIR IS NONTOXIC AND IS NECESSARY TO
+    SUPPORT LIFE. INHALATION- EXCESSIVE INHALATION CAN RESULT IN
+    SYMPTOMS SIMILIAR TO THOSE OF EXPOSURE TO OXYGEN AND CAN RESULT IN
+    ACCUMULATION OF NITROGEN IN THE BLOO D.
+Effects of Overexposure:INHALATION- EXCESSIVE INHALATION CAN RESULT IN
+    DECOMPRESSION SICKNESS. MAY PRODUCE A VARIETY OF CENTRAL NERVOUS
+    SYSTEM MANIFESTATIONS INCLUDING TINGLING OF FINGERS AND TOES,
+    VISUAL AND ACOUSTICAL DIST URBANCES, ABNORMAL SENSATIONS,
+    IMPAIREDCOORDINATION, CONFUSION, MUSCLE TWITCHING AND SEIZURES.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:FACILITIES AT WHICH AIR IS BREATHED UNDER PRESSURE SHOULD BE
+    PREPARED TO DEAL WITH ILLNESS RELATED TO A HYPERBARIC ENVIRONMENT.
+    DECOMPRESSION EQUIPMENT MAY BE REQUIRED.
+
+=====================  Fire Fighting Measures  =====================
+
+Unusual Fire/Explosion Hazard:COMPRESSED AIR AT HIGH PRESSURE CAN
+    ACCELERATE THE BURNING OF MATERIALS WHICH ARE COMBUSTIBLE AT
+    ATMOSPHERIC PRESSURE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NO HAZARD.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:COMPRESSED GAS CYLINDERS CONTAIN GAS
+    WITH EXTREMELY HIGH PRESSURE AND SHOULD BY HANDLED WITH CARE.
+    SECURE CYLINDERS WHEN IN USE.
+Other Precautions:STORAGE SHOULD NOT BE IN HEAVY TRAFFIC AREAS TO
+    PREVENT ACCIDENTAL KNOCKING OVER OR DAMAGE. VALVE CAPS SHOULD
+    REMAIN ON CYLINDERS NOT CONNECTED FOR USE. STORAGE AREAS SHOULD BE
+    FREE OF COMBUSTIBLE MAT ERIALS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE
+Ventilation:NONE
+Protective Gloves:LEATHER WORK GLOVES RECOMMENDED.
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:SAFETY TOE SHOES ARE RECOMMENDED WHEN
+    HANDLING HIGH-PRESSURE CYLINDERS.
+Work Hygienic Practices:WASH HANDS THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:G3
+Boiling Pt:B.P. Text:-317F,-194C
+Melt/Freeze Pt:M.P/F.P Text:-351F,-213C
+Vapor Density:0.07520
+Spec Gravity:1.00
+Solubility in Water:1.87%
+Appearance and Odor:GASEOUS AIR IS ODORLESS AND COLORLESS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:AVOID THE USE OF OIL IN SYSTEMS AT FULL
+    CYLINDER PRESSURE.
+Hazardous Decomposition Products:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DO NOT ATTEMPT TO DISPOSE OF RESIDUAL AIR IN
+    COMPRESSED GAS CYLINDERS. RETURN TO MANUFACTURER WITH THE CYLINDER
+    VALVE TIGHTLY CLOSED, POSITIVE PRESSURE IN THE CYLINDER, AND VALVE
+    CAP IN PLACE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

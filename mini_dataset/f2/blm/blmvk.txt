@@ -1,0 +1,140 @@
+=====================  Product Identification  =====================
+
+Product ID:BIOBOR JF
+MSDS Date:08/31/1990
+FSC:6840
+NIIN:01-041-0098
+MSDS Number: BLMVK
+=== Responsible Party ===
+Company Name:U S BORAX AND CHEMICAL CORP
+Address:3075 WILSHIRE BLVD
+Box:2781 T
+City:LOS ANGELES
+State:CA
+ZIP:90010-1207
+Country:US
+Emergency Phone Num:714-774-2673
+Preparer's Name:P.L. STRONG
+CAGE:24611
+=== Contractor Identification ===
+Company Name:AMALGAMATED COAL AND PETROLEUM SPECIALISTS,INC,
+Address:6211 DISCOUNT DRIVE
+Box:9798
+City:FORT WAYNE
+State:IN
+ZIP:46899
+Country:US
+Phone:219-747-7828
+CAGE:63084
+Company Name:U S BORAX AND CHEMICAL CORP
+Address:3075 WILSHIRE BLVD
+Box:2781 T
+City:LOS ANGELES
+State:CA
+ZIP:90010-1207
+Country:US
+CAGE:24611
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HYDROTREATED HEAVY NAPHTHA
+CAS:64742-48-9
+Fraction by Wt: 4.5%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:2,2'-(1-METHYLTRIMETHYLENEDIOXY)
+    BIS-(4-METHYL-1,3,2-DIOXABORINANE)
+CAS:8063-89-6
+Fraction by Wt: 67.6%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:2,2'-OXYBIS (4,4,6-TRIMETHYL-1,3,2-DIOXABORINANE)
+Fraction by Wt: 27.4%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:INERT INGREDIENTS
+Fraction by Wt: 0.5%
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL RAT) IS 3.16 ML/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: EYE-SLIGHT/MODERATE IRRITATION.
+    HUMAN EYE IRRITANT. SKIN-ERYTHEMA IF SKIN IS NOT WASHED OFF AFTER
+    CONTACT. CORROSIVE-THIS PRODUCT IS NON-CORROSIVE. CHRONIC:
+    INGEST-ANIMAL STUDIES SHOW A DECREAS E IN SPERM PRODUCTION &
+    TESTICLE SIZE. EYE-CORNEAL OPACITY. SKIN-ATONIA, DESQUAMATION,
+    CORIACEOUSNESS, FISSURING, EDEMA.
+Explanation of Carcinogenicity:NONE OF THE CHEMICALS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:INGESTION-NAUSEA & VOMITING. INHALE-CAN CAUSE
+    DIZZINESS & NAUSEA.. EYE-TRANSIENT CONJUNCTIVAL BLISTERING.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE-FLUSH WITH TEPID WATER FOR 15 MINUTES. GET MEDICAL
+    ATTENTION. SKIN-WASH WITH SOAP AND WATER. INHALATION: REMOVE TO
+    FRESH AIR. INGESTION: DO NOT INDUCE VOMITING. DRINK 2-3 GLASSES OF
+    WATER OR MILK.  GET MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:102F,39C
+Extinguishing Media:CARBON DIOXIDE, FOAM-TYPE B, POWDER.
+Fire Fighting Procedures:WEAR BREATHING APPARATUS SUCH AS SCOTT AIRPAC.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:TAKE UP WITH ABSORBANT FOR ORGANIC LIQUIDS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM HEAT AND OPEN FLAME.
+Other Precautions:KEEP CONTAINER CLOSED WHEN NOT IN USE TO AVOID
+    PRODUCT EXPOSURE TO ATMOSPHERIC PRESSURE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:STANDARD DISPOSABLE FOR ORGANIC VAPORS.
+Ventilation:LOCAL EXHAUST IS SUFFICIENT.
+Protective Gloves:SOLVENT RESISTANT GLOVES.
+Eye Protection:CHEMICAL SPLASH GOGGLES/FACE SHIELD.
+Other Protective Equipment:NONE
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING AND BEFORE
+    EATING OR DRINKING. LAUNDER CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Spec Gravity:1.05
+Solubility in Water:NONE, HYDROLYZES
+Appearance and Odor:YELLOW LIQUID WITH AROMATIC ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+EXPOSURE TO WATER.
+Stability Condition to Avoid:EXPOSURE TO WATER; OPEN CONTAINERS.
+Hazardous Decomposition Products:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:COVERED LANDFILL. CONTACT YOUR STATE PESTICIDE
+    OR ENVIRONMENTAL CONTROL AGENCY OR HAZARDOUS WASTE REPRESENTATIVE
+    AT THE NEAREST EPA REGIONAL OFFICE FOR GUIDLINES. DO NOT
+    CONTAMINATE WATER, FOOD OR FEE D. READ CONTAINER LABEL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

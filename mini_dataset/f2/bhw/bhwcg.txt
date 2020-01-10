@@ -1,0 +1,151 @@
+=====================  Product Identification  =====================
+
+Product ID:TT-E-509C GRN 24672 ENAM ALK INTER SEMIGLOS
+MSDS Date:01/04/1990
+FSC:8010
+NIIN:00-901-8048
+MSDS Number: BHWCG
+=== Responsible Party ===
+Company Name:CHEMRAY COATINGS, CORP.
+Address:209 N. MICHIGAN AVE.
+Box:NA
+City:KENILWORTH
+State:NJ
+ZIP:07033
+Country:US
+Info Phone Num:201-245-1111 OR 800-924-9300
+Emergency Phone Num:201-245-1111 OR 800-924-9300
+Preparer's Name:FRED ARMSTRONG
+CAGE:OBRN9
+=== Contractor Identification ===
+Company Name:CHEMRAY COATING CORP
+Address:209 N MICHIGAN AVE
+Box:City:KENILWORTH
+State:NJ
+ZIP:07033
+Country:US
+Phone:201-245-1111
+CAGE:33832
+Company Name:CHEMRAY COATINGS CORP.
+Address:209 N. MICHIGAN AVE.
+Box:NA
+City:KENILWORTH
+State:NJ
+ZIP:07033
+Country:US
+Phone:800-924-9300
+CAGE:OBRN9
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ODORLESS MINERAL SPIRITS
+CAS:64741-65-7
+Fraction by Wt: 40%
+OSHA PEL:NONE ESTABLISHED
+ACGIH TLV:NONE ESTABLISHED
+
+Ingred Name:VOC. ORGANIC CMPD 3.15 LB/GAL LESS WATER & NPRS* 378 G/L
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Health Hazards Acute and Chronic:OVEREXPOSURE-NAUSEA, HEADACHE,
+    DIZZINESS CAUSED BY OVER INHALATION.
+Explanation of Carcinogenicity:NA
+Effects of Overexposure:OVEREXPOSURE-NAUSEA, HEADACHE, DIZZINESS CAUSED
+    BY OVER INHALATION.
+Medical Cond Aggravated by Exposure:NONE GENERALLY KNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE CONTACT: FLUSH WITH WATER 15 MINUTES OR UNTIL IRRITATION
+    SUBSIDES. IF IRRITATION PERSISTS CALL A PHYSICIAN. SKIN CONTACT:
+    REMOVE CONTAMINATED CLOTHING AND  WASH THOROUGHLY WITH SOAP AND
+    WATER. INH ALATION: IF OVERCOME BY VAPORS, REMOVETO FRESH AIR, CALL
+    A PHYSICIAN. INGESTION: DO NOT INDUCE VOMITING, CALL A	
+    PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:113 F/ 45 C
+Autoignition Temp:Autoignition Temp Text:473 F
+Lower Limits:1
+Upper Limits:6
+Extinguishing Media:CARBON DIOXIDE, FOAM, WATER FOG, DRY CHEMICAL.
+Fire Fighting Procedures:USE AIR SUPPLIED BREATHING EQUIPMENT FOR
+    ENCLOSED CONTAINERS WITH WATER SPRAY.  AVOID BREATHING VAPORS OR
+    FUMES.
+Unusual Fire/Explosion Hazard:IF LEAK OR SPILL HAS IGNITED, USE WATER
+    SPRAY TO DISPERSE THE VAPORS FROM FIRE  FIGHTERS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL IGNITION SOURCES. KEEP FROM HEAT,
+    SPARK& OPEN FLAME. ADD ABSORBENT (SAND, EARTH, SAWDUST)TO SPILL.
+    VENTILATE AREA (OPEN WINDOWS, DOORS) IF LARGE SPILL KEEP FROM
+    ENTERING SEWERS AND WATER-	 COURSES BY DIKING. ADVISE AUTHORITIES
+    IF ENTERED.
+Neutralizing Agent:NA
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM IGNITION SOURCES, KEEP
+    IN COOL,   DRY, WELL VENTILATED AREAS. AVOID DIRECT SUNLIGHT AND
+    EXTREME TEMPERATURES, HOT OR COLD.
+Other Precautions:AVOID EYE, SKIN CONTACT, INHALATION, INGESTION OF
+    MIST, SPRAY OR VAPORS.	  AVOID BREATHING SANDING OR BLASTING
+    DUST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE HYDROCARBON VAPOR CANISTER OR SUPPLIED AIR
+    RESPIRATOR IN CONFINED AREA.
+Ventilation:LOCAL EXHAUST-FACE VELOCITY 60FPM. SPECIAL-USE ONLY WITH
+    ADEQUATE VENTILATION. MECHANICAL-USE EXPLOSION PROOF EQUIPMENT.
+Protective Gloves:CHEMICAL RESISTANT.
+Eye Protection:SPLASH GOGGLES OR FACE SHIELDS.
+Other Protective Equipment:USE CHEMICAL RESISTANT APRONS OR CLOTHING.
+Supplemental Safety and Health
+NK
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:346 F/174 C
+Melt/Freeze Pt:M.P/F.P Text:0 F(-17.8C)
+Decomp Temp:Decomp Text:600 F/316 C
+Vapor Pres:5.3 @ 100F
+Vapor Density:4 @ 100 F
+Spec Gravity:1.25 (H20=1)
+pH:NA
+Viscosity:75-100 @ 77 F
+Evaporation Rate & Reference:0.1 (BUTYL ACETATE=1)
+Solubility in Water:NEGLIGIBLE.
+Appearance and Odor:GREEN LIQUID WITH VERY LIGHT ODOR.
+Percent Volatiles by Volume:47
+Corrosion Rate:NA
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CAN REACT WITH OXIDIZING MATERIAL WHEN HEATED TO	   
+    DECOMPOSITION.
+Stability Condition to Avoid:HIGH TEMPERATURE.
+Hazardous Decomposition Products:CARBON MONOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ASSURE CONFORMITY WITH APPLICABLE DISPOSAL
+    REGULA-TIONS. DISPOSE OF ABSORBED MATERIAL AT AN APPROVEDDISPOSAL
+    SITE OR FACILITY. DISPOSE IN CONFORMITY  WITH STATE AND FEDERAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

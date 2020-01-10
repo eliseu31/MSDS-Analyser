@@ -1,0 +1,165 @@
+=====================  Product Identification  =====================
+
+Product ID:104 1581 EKTACOLOR PRIME STABILIZER & REPLENISHER/EP-2NP
+MSDS Date:06/14/1996
+FSC:6750
+NIIN:01-329-6492
+MSDS Number: BWRGH
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-477-3194 MSDS :800- 242-2424
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+Company Name:EASTMAN KODAK CO US CUSTOMER SERVICE/GOVERNMENT SALES
+Address:800 LEE RD
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-3129
+Country:US
+Phone:800-828-6203
+CAGE:5K871
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 95-100%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:POLY(1-VINYL-2-PYRROLIDINONE)
+CAS:9003-39-8
+RTECS #:TR8160000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:ORGANO SILICONE
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:DIPROPYLENE GLYCOL
+CAS:110-98-5
+RTECS #:UB8785000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:1,2-BENZISOTHIAZOL-3(2H)-ONE
+CAS:2634-33-5
+RTECS #:DE4620000
+Fraction by Wt: <0.1%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): NOT GIVEN
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EXPECTED TO BE A LOW INHALATION HAZARD
+    FOR RECOMMENDED HANDLING. MAY CAUSE TRANSIENT EYE IRRITATION. LOW
+    SKIN CONTACT HAZARD FOR RECOMMENDED HANDLING. EXPECTED TO BE A LOW
+    INGESTION HAZARD.
+Explanation of Carcinogenicity:THIS COMPOUND CONTAINS NO INGREDIENTS AT
+    CONCENTRATIONS OF 0.1% OR GREATER THAT ARE CARCINOGENS OR SUSPECT
+    CARCINOGENS.
+Effects of Overexposure:EYE IRRITATION.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: IF SYMPTOMATIC, MOVE TO FRESH AIR. GET MEDICAL
+    ATTENTION IF SYMPTOMS PERSIST. EYES: WASH OUT IMMEDIATELY WITH
+    WATER. GET MEDICAL ATTENTION IF SYMPTOMS OCCUR. SKIN: WASH WITH
+    SOAP AND WATER . GET MEDICAL ATTENTION IF SYMPTOMS OCCUR.
+    INGESTION: DRINK 1-2 GLASSES OF WATER. SEEK MEDICAL ATTENTION.
+    NEVER GIVE ANYTHING BY MOUTH TO AN UNCONSCIOUS PERSON.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONFLAMMABLE
+Lower Limits:NOT GIVEN
+Upper Limits:NOT GIVEN
+Extinguishing Media:USE APPROPRIATE AGENT FOR ADJACENT FIRE.
+Fire Fighting Procedures:NONE SPECIFIED BY MANUFACTURER.
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH TO SEWER IF ALLOWABLE WITH LARGE AMOUNTS
+    OF WATER. OTHERWISE, ABSORB SPILL WITH VERMICULITE OR OTHER INERT
+    MATERIAL, THEN PLACE IN A CONTAINER FOR CHEMICAL WASTE. CLEAN
+    SURFACE TO REMOVE RESIDUA L CONTAMINATION.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:USE WITH ADEQUATE VENTILATION. WASH
+    THOROUGHLY AFTER HANDLING. KEEP FROM CONTACT WITH OXIDIZING
+    MATERIALS. KEEP CONTAINER TIGHTLY CLOSED.
+Other Precautions:KEEP AWAY FROM INCOMPATIBLE MATERIALS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SHOULD BE NEEDED.
+Ventilation:GOOD GENERAL VENTILATION, TYPICALLY 10 AIR CHANGES PER
+    HOUR, SHOULD BE USED. RATES SHOULD MATCH CONDITIONS.
+Protective Gloves:IMPERVIOUS
+Eye Protection:SAFETY GLASSES W/SIDE SHIELDS OR GOGGLES
+Other Protective Equipment:CHEMICAL RESISTANT CLOTHING AS NECESSARY TO
+    PREVENT SKIN CONTACT. AN EMERGENCY EYEWASH AND SHOWER SHOULD BE
+    AVAILABLE.
+Work Hygienic Practices:WASH HANDS THOROUGHLY WITH SOAP AND WATER
+    BEFORE EATING, DRINKING, SMOKING OR USING TOILET FACILITIES.
+Supplemental Safety and Health
+REMOVE AND WASH CONTAMINATED CLOTHING BEFORE REUSE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:>212F,>100C
+Melt/Freeze Pt:M.P/F.P Text:NOT GIVEN
+Vapor Pres:18
+Vapor Density:0.4
+Spec Gravity:1.015
+pH:7-9
+Evaporation Rate & Reference:NOT GIVEN
+Solubility in Water:COMPLETE
+Appearance and Odor:BROWN LIQUID, NO ODOR
+Percent Volatiles by Volume:95-100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE WITH COMMON MATERIALS AND CONTAMINANTS WITH WHICH THE MATERIAL MAY
+    REASONABLY COME INTO CONTACT.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISCHARGE, TREATMENT OR DISPOSAL MAY BE SUBJECT
+    TO NATIONAL, STATE OR LOCAL LAWS.  MAY REQUIRE NEUTRALIZATION IF PH
+    < 2.0 OR PH > 12.5. DISPOSE OF IN ACCORDANCE WITH ALL APPLICABLE
+    FEDERAL, STATE AND	LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

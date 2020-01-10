@@ -1,0 +1,132 @@
+=====================  Product Identification  =====================
+
+Product ID:LASER TYPE TONER CX/SX/LX/NX/4L/DX/FX/4019
+MSDS Date:12/15/1994
+FSC:6850
+NIIN:01-376-1766
+MSDS Number: BWRMQ
+=== Responsible Party ===
+Company Name:GRAYMAR OFFICE PRODUCTS COMPANY
+Address:2147 GREENSPRING DR.
+City:LUTHERVILLE TIMONIUM
+State:MD
+ZIP:21093
+Country:US
+Info Phone Num:301-560-1300
+Emergency Phone Num:410-560-1300
+CAGE:0M4D6
+=== Contractor Identification ===
+Company Name:GRAYMAR OFFICE PRODUCTS CO
+Address:2147 GREENSPRING DR
+Box:City:TIMONIUM
+State:MD
+ZIP:21093
+Country:US
+Phone:301-560-1300
+CAGE:0M4D6
+Company Name:STAMERRO ENTERPRISES INC. DBA EASTERN O
+CAGE:0ILF9
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CARBON BLACK
+CAS:1333-86-4
+RTECS #:FF5800000
+Fraction by Wt: <10%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:3.5 MG/M3
+ACGIH TLV:3.5 MG/M3; 9192
+
+Ingred Name:IRON OXIDE
+CAS:1317-61-9
+Fraction by Wt: 25-45%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:10 MG/M3
+ACGIH TLV:5 MG/M3
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:TLV-(RESP. DUST)5 MG/M3-AS NUISANCE DUST
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: MINIMAL RESPIRATORY TRACT
+    IRRITATION MAY OCCUR AS WITH EXPOSURE TO LARGE AMOUNTS OF ANY
+    NON-TOXIC DUST. CHRONIC: NONE SPECIFIED BY MANUFACTURER.
+Explanation of Carcinogenicity:NO INGREDIENT OF A CONCENTRATION OF 0.1%
+    OR GREATER IS LISTED AS A CARCINOGEN OR SUEPECTED CARCINOGEN.
+Effects of Overexposure:INHALED: COUGNING, WHEEZING, SHORTNESS OF
+    BREATH, SNEEZING.
+Medical Cond Aggravated by Exposure:NONE WHEN USED AS INTENDED IN THE
+    PRINTING EQUIPMENT FOR WHICH IT IS DESIGNED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:IN ANY CASE SEE A DOCTOR IF SYMPTOMS PERSIST. INHALED-REMOVE
+    FROM EXPOSURE. SKIN-WASH WITH SOAP & WATER. INGESTED-IF CONSCIOUS,
+    DILUTE STOMACH CONTENTS WITH WATER. EYES-FLUSH WITH WATER FOR 15
+    MINUTES .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Extinguishing Media:WATER FOG/SPRAY/MIST, CARBON DIOXIDE, DRY CHEMICAL,
+    FOAM.
+Fire Fighting Procedures:AVOID INHALATION OF SMOKE. DLA-HMIS: WEAR
+    SELF-CONTAINED BREATHING APPARATUS AND FULL PROTECTIVE GEAR.
+Unusual Fire/Explosion Hazard:MATERIAL IS COMBUSTIBLE. WHEN DISPERSED
+    IN AIR IT CAN FORM EXPLOSIVE MIXTURES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:AVOID CREATING DUST. SWEEP UP AND PLACE IN A
+    CONTAINER FOR LATER DISPOSAL. WASH SPILL AREA WITH CLEANSER &
+    WATER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL-VENTILATED
+    PLACE. AVOID PROLONGED INHALATION OF EXCESSIVE DUST.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY REQUIRED.
+Ventilation:NONE NORMALLY REQUIRED.
+Protective Gloves:NONE NORMALLY REQUIRED.
+Eye Protection:NONE NORMALLY REQUIRED.
+Other Protective Equipment:NONE NORMALLY REQUIRED.
+Work Hygienic Practices:WASH HANDS AFTER HANDLING AND BEFORE EATING,
+    DRINKING, OR SMOKING. LAUNDER CONTAMINATED CLOTHES BEFORE REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Melt/Freeze Pt:M.P/F.P Text:>212F,>100C
+Spec Gravity:1.5-1.7
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:FINE BLACK POWDER; MILD RESINOUS ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:PRODUCTS OF COMBUSTION CAN BE TOXIC
+    DEPENDING ON CONDITIONS. AVOID BREATHING SMOKE.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DO NOT INCINERATE. DISPOSE OF IN ACCORDANCE WITH
+    LOCAL, STATE AND FEDERAL ENVIRONMENTAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

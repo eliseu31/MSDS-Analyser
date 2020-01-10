@@ -1,0 +1,159 @@
+=====================  Product Identification  =====================
+
+Product ID:11700050 PEEL MASK
+MSDS Date:02/16/1989
+FSC:3426
+NIIN:01-200-3021
+MSDS Number: BHWYD
+=== Responsible Party ===
+Company Name:SIFCO SELECTIVE PLATING, DIV OF SIFCO INDUSTRIES
+Address:5708 SCHAFF ROAD
+City:CLEVELAND
+State:OH
+ZIP:44131-1394
+Country:US
+Info Phone Num:216-881-8600
+Emergency Phone Num:216-881-8600
+Preparer's Name:WERNER A.EHRENSCHNEIDER
+CAGE:DO645
+=== Contractor Identification ===
+Company Name:SIFCO SELECTIVE PLATING   DIV OF SIFCO INDUSTRIES INC.
+Address:5708 SCHAAF ROAD
+Box:City:CLEVELAND
+State:OH
+ZIP:44131-1394
+Country:US
+Phone:216-524-0099/ FAX:  -6331
+CAGE:11924
+Company Name:SIFCO SELECTIVE PLATING, DIV OF SIFCO INDUSTRIES INC
+Address:5708 SCHAAF ROAD
+City:CLEVELAND
+State:OH
+ZIP:44131-1394
+Country:US
+Phone:216-524-0099
+CAGE:DO645
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 60%
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:DIMETHYL SILOXANE
+CAS:63148-62-9
+RTECS #:JT6484500
+
+Ingred Name:MFR STATES,"TRADE SECRET INFO WILL BE DISCLOSED ONLY UPON
+    FULL COMPLIANCE WITH OSHA STD, 29 CFR 1910.1200."
+RTECS #:9999999ZZ
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:PRODUCT IS IRRITATING TO BODY
+    TISSUES. MAY CAUSE DROWSINESS AND IRRITATE NOSE & THROAT. LARGE
+    AMOUNTS CAN CAUSE SERIOUS INJURY. CHRONIC: REPEATED & PROLONGED
+    SKIN CONTACT CAUSES SERIOUS IRRITATI ON & BURNS. VAPORS MAY INJURE
+    LUNGS, LIVER, KIDNEY & CENTRAL NERVOUS SYSTEM.
+Explanation of Carcinogenicity:MFR LISTS NO INGREDIENT THAT IS LISTED
+    BY IARC, NTP OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:OVEREXPOSURE MAY LEAD TO EYE, SKIN &
+    RESPIRATORY TRACT IRRITATION. VAPORS MAY CAUSE DIZZINESS,
+    HEADACHES, NAUSEA, AND SKIN/EYE IRRITATION. INHALING LIQUID WHILE
+    VOMITING CAN SERIOUSLY INJURE LUNGS. MA Y BURN OR BE ABSORBED
+    THROUGH SKIN DURING PROLONGED OR REPEATED CONTACT, CAUSING SERIOUS
+    INTERNAL INJURY.
+Medical Cond Aggravated by Exposure:PERSONS WITH EXISTING EYE, SKIN,
+    AND RESPIRATORY DISORDERS MAY BE AT INCREASED RISK WHEN HANDLING OR
+    USING THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH W/WATER 15 MIN, HOLD LIDS OPEN.  SKIN:WASH WITH
+    SOAP & WATER. REMOVE CONTAMINATED CLOTHING AND LAUNDER BEFORE
+    REUSE.  INHALED:REMOVE TO FRESH AIR. RESTORE BREATHING IF
+    NECESSARY.	INGESTED:D O NOT INDUCE VOMITING. GIVE 2 LARGE GLASSES
+    OF MILK OR WATER AND GET IMMEDIATE MEDICAL CARE. GIVE NOTHING BY
+    MOUTH IF UNCONSCIOUS.   IF IRRITATION PERSISTS OR IS SEVERE,SEE A
+    DOCTOR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TOC
+Flash Point:41.0F,5.0C
+Lower Limits:1.2
+Upper Limits:7
+Extinguishing Media:USE CARBON DIOXIDE, FOAM, OR DRY CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    CONTAINERS TO BURST, EXPOSING HIGHLY FLAMMABLE CONTENTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE SOURCES OF IGNITION. USE ABSORBENT
+    MATERIAL TO COLLECT AND CONTAIN FOR SALVAGE OR DISPOSAL. VENTILATE
+    AREA.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER CLOSED AND AWAY FROM
+    HEAT, SPARKS, AND OPEN FLAME. FLAMMABLE LIQUID; EMPTY CONTAINERS
+    MAY CONTAIN HAZARDOUS VAPORS AND RESIDUES.
+Other Precautions:ALLOW EMPTY CONTAINER TO DRY IN A WELL VENTILATED
+    AREA FREE OF IGNITION SOURCES BEFORE DISPOSAL
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESPIRATOR WILL NOT NORMALLY BE NECESSARY.  USE
+    NIOSH/MSHA APPROVED AIR SUPPLIED RESPIRATOR OR RESPIRATOR FOR
+    ORGANIC DUST/VAPOR IF EXPOSURE IS ABOVE THE TLV/PEL. SEE 29 CFR
+    1910.134 FOR REGULATIONS P ERTAINING TO RESPIRATOR USE.
+Ventilation:LOCAL AND MECHANICAL(GENERAL) ARE BOTH RECOMMENDED. AVOID
+    OPEN ELECTRICAL IGNITION SOURCES NEAR PRODUCT VAPOR AREAS.
+Protective Gloves:RUBBER OR PLASTIC RECOMMENDED.
+Eye Protection:SAFETY GLASSES OR SAFETY GOGGLES
+Other Protective Equipment:EYE WASH STATION & SAFETY SHOWER. WEAR
+    INDUSTRIAL TYPE WORK CLOTHING AND APRON AS REQUIRED.
+Work Hygienic Practices:USE GOOD CHEMICAL HYGIENE PRACTICE. AVOID
+    UNNECESSARY CONTACT.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Spec Gravity:1.0-1.04
+Evaporation Rate & Reference:SLOWER THAN ETHYL ETHER
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:THICK BLUE PAINT,STRONG SOLVENT ODOR
+Percent Volatiles by Volume:60
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HIGH TEMPERATURES, SPARKS, AND OPEN FLAMES
+Hazardous Decomposition Products:TALC DUST AND CARBON DIOXIDE AND OTHER
+    TRACES OF INCOMPLETELY BURNED CARBON PRODUCTS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W ALL FEDERAL, STATE AND LOCAL
+    REGULATIONS.  DISPOSAL MAY BE DONE BY INCINERATION.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

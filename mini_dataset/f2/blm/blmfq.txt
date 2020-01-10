@@ -1,0 +1,192 @@
+=====================  Product Identification  =====================
+
+Product ID:ALL TITAN GRADES ADAMAX GRADES MIRROCUT & M
+MSDS Date:10/13/1987
+FSC:3439
+NIIN:00N020988
+MSDS Number: BLMFQ
+=== Responsible Party ===
+Company Name:HERTEL CUTTING TECH INC
+Address:141 MARKET STREET
+City:KENILWORTH
+State:NJ
+ZIP:07033
+Country:US
+Info Phone Num:201-241-1000
+Emergency Phone Num:201-241-1000
+CAGE:57309
+=== Contractor Identification ===
+Company Name:HERTEL CUTTING TECHNOLOGIES INC.
+Address:141 MARKET STREET
+Box:City:KENILWORTH
+State:NJ
+ZIP:07033-1723
+Country:US
+Phone:201-241-1000
+CAGE:57309
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TITANIUM NITRIDE
+Fraction by Wt: 0-60%
+OSHA PEL:5 MG(TI)/M3 (MFR)
+
+Ingred Name:TUNGSTEN CARBIDE. PEL & TLV:5 MG(W)/M3;10 MG(W)/M3 STEL.
+CAS:12070-12-1
+RTECS #:YO7250000
+Fraction by Wt: 0-20%
+OSHA PEL:SEE INGREDIENT NAME
+ACGIH TLV:SEE INGREDIENT NAME
+
+Ingred Name:CHROMIUM  (SARA III)
+CAS:7440-47-3
+RTECS #:GB4200000
+Fraction by Wt: 0-10%
+OSHA PEL:1 MG/M3
+ACGIH TLV:0.5 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:HAFNIUM
+CAS:7440-58-6
+RTECS #:MG4600000
+Fraction by Wt: 0-10%
+OSHA PEL:0.5 MG/M3
+ACGIH TLV:0.5 MG/M3; 9192
+
+Ingred Name:VANADIUM CARBIDE. PEL:0.5 MG(V*2O*5)/M3 RDUST. TLV:0.05
+    MG(V*2O*5)/M3 RDUST.
+CAS:11130-21-5
+Fraction by Wt: 0-10%
+OSHA PEL:SEE INGREDIENT NAME
+ACGIH TLV:SEE INGREDIENT NAME
+
+Ingred Name:ZIRCONIUM
+CAS:7440-67-7
+RTECS #:ZH7070000
+Fraction by Wt: 0-10%
+OSHA PEL:5 MG/M3/10 STEL
+ACGIH TLV:5 MG/M3/10 STEL;9192
+
+Ingred Name:TITANIUM CARBIDE
+CAS:12070-08-5
+Fraction by Wt: 30-90%
+OSHA PEL:5 MG(TI)/M3 (MFR)
+
+Ingred Name:NICKEL  (SARA III)
+CAS:7440-02-0
+RTECS #:QR5950000
+Fraction by Wt: 6-23%
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+
+Ingred Name:MOLYBDENUM
+CAS:7439-98-7
+RTECS #:QA4680000
+Fraction by Wt: 8-13%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3; 9293
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:INHAL:DUST FROM GRINDING CAN CAUSE
+    IRRIT OF NOSE/THROAT. NICKEL IS SUSPECTED OF CAUSING NASAL/LUNG
+    CANCER. SYMP INCL PAIN/BLEEDING/NASAL OBSTRUCTION/VISION
+    IMPAIRMENT/WEIGHT LOSS/VOICE RESONANCE CHANG E. SKIN:CONTACT CAN
+    CAUSE IRRIT/RASH DUE TO NICKEL SENSIT. EYE:CONTACT CAN CAUSE IRRIT.
+    INGEST: (SEE EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NICKEL:GROUP 1(IARC); GROUP 2(NTP).
+    CHROMIUM AND CERTAIN CHROMIUM COMPOUNDS:GROUP 1(IARC)
+Effects of Overexposure:HLTH HAZ:CERTAIN SCIENTIFIC INFORMATION
+    INDICATES NO ADVERSE EFFECTS ARE LIKELY FROM INGESTION OF SMALL
+    AMOUNTS OF DUST GENERATED FROM THESE PRODUCTS.
+Medical Cond Aggravated by Exposure:CERTAIN PULMONARY CONDITIONS OR
+    SKIN CONDITIONS, SUCH AS DRY SKIN MAY BE AGGRAVATED BY EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:IF SYMPTOMS DEVEL, REMOVE FROM EXPOSURE & SEE MD.
+    SKIN:IF IRRIT/RASH OCCURS, THORO WASH AFFECTED AREA W/ SOAP & WATER
+    & ISOLATE FROM EXPOSURE. IF IRRIT/RASH PERSISTS, SEE MD. EYE: IF
+    IRRIT OCCUR S, FLUSH W/COPIOUS AMTS OF WATER FOR ATLST 15 MIN. IF
+    IRRIT PERSISTS, SEE MD. INGEST:IF SUBSTANTIAL QTYS ARE SWALLOWED,
+    DILUTE W/LARGE AMOUNT OF WATER. INDUCE VOMIT & SEE MD.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:FOR POWDER FIRES USE DRY SAND, DRY DOLOMITE, ABC
+    TYPE FIRE EXTINGUISHER, OR FLOOD WITH WATER.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:DUSTS MAY PRESENT FIRE/EXPLO HAZ UNDER
+    RARE FAVORING CNDTNS OF PARTICLE SIZE, DISPERSION & STRONG IGNIT
+    SOURCE. HOWEVER, THIS IS NOT EXPECTED TO BE PROB(SUPDAT)
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENT AREA OF SPILL. CLEAN UP USING METHODS
+    WHICH AVOID DUST GENERATION SUCH AS VACUUM (W/APPROP FILTER TO
+    PREVENT AIRBORNE DUST LEVELS WHICH EXCEED PEL/TLV), WET DUST
+    MOP/WET CLEAN-UP. IF AIRBORNE DUS T IS GENERATED, USE APPROP
+    NIOSH/MSHA APPRVD RESP.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:MAINT GOOD HOUSEKEEPING PROC TO PVNT
+    DUST ACCUM DURING GRINDING. AVOID DUST INHAL & DIRECT SKIN CNTCT
+    W/DUST.
+Other Precautions:PERIODIC MEDICAL EXAMINATIONS ARE RECOMMENDED FOR
+    INDIVIDUALS REGULARLY EXPOSED TO DUST OR MIST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE APPROPRIATE NIOSH/MSHA APPROVED RESPIRATOR
+    IF AIRBORNE DUST CONCENTRATIONS EXCEED APPROPRIATE PEL OR TLV. ALL
+    APPROPRIATE REQUIREMENTS SET FORTH IN 20 CFR 1910.134 SHOULD BE
+    MET.
+Ventilation:USE LOC EXHST VENT WHICH IS ADEQ TO LIMIT PERSONAL EXPOS TO
+    AIRBORNE DUST TO LEVELS WHICH DO NOT EXCEED PEL/TLV.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:BARRIER CREAM RECOMMENDED. PRIOR TO APPLYING
+    BARRIER CREAM OR GLOVES, WASH THOROUGHLY.
+Work Hygienic Practices:WASH HANDS THORO AFT HNDLG, BEFORE EATING/
+    SMOKING. WASH EXPOSED SKIN @ END OF WORK SHIFT. DO NOT SHAKE CLTHG,
+    (SUPDAT)
+Supplemental Safety and Health
+EXPLO HAZ:UNDER NORMAL HANDLING CONDITIONS. HYGIENE PRACT:RAGS/OTHER
+    ITEMS TO REMOVE DUST. DUST SHOULD BE REMOVED BY WASHING/VACUUMING
+    (W/APPROP FILTERS) CLOTHING, RAGS OR OTHER ITEMS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Spec Gravity:5.5-7
+Solubility in Water:INSOLUBLE
+Appearance and Odor:GRAY TO BRIGHT METALLIC/NO ODOR.
+Percent Volatiles by Volume:0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS. CONTACT OF DUST W/STRONG OXIDIZERS MAY CAUSE FIRE OR
+    EXPLOSIONS.
+Hazardous Decomposition Products:NONE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF I/A/W APPROPRIATE FEDERAL, STATE &
+    LOCAL REGULATIONS. MAY BE SOLD AS SCRAP FOR RECLAIM.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

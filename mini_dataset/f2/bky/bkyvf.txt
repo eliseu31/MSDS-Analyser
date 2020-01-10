@@ -1,0 +1,148 @@
+=====================  Product Identification  =====================
+
+Product ID:MANGANESE DIOXIDE LITHIUM PRIMARY BATTERIES
+MSDS Date:05/10/1994
+FSC:6135
+NIIN:01-205-5965
+MSDS Number: BKYVF
+=== Responsible Party ===
+Company Name:SANYO ENERGY CORP, BATTERY DIV
+Address:200 RISER RD
+City:LITTLE FERRY
+State:NJ
+ZIP:07643
+Country:US
+Info Phone Num:201-641-2333
+Emergency Phone Num:619-661-6620
+CAGE:0C8Z7
+=== Contractor Identification ===
+Company Name:SANYO ENERGY CORP, BATTERY DIV
+Address:200 RISER RD
+Box:City:LITTLE FERRY
+State:NJ
+ZIP:07643
+Country:US
+Phone:201-641-2333
+CAGE:0C8Z7
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MANGANESE DIOXIDE
+CAS:1313-13-9
+RTECS #:OP0350000
+Other REC Limits:NONE RECOMME
+OSHA PEL:5 MG MN/M3 CEILING
+ACGIH TLV:5 MG MN/M3
+
+Ingred Name:LITHIUM METAL
+CAS:7439-93-2
+RTECS #:OJ5540000
+Other REC Limits:NONE RECOMME
+
+Ingred Name:1,3-DIOXALAN-2-0NE (ETHYLENE CARBONATE)
+CAS:96-49-1
+RTECS #:FF9550000
+Other REC Limits:NONE RECOMME
+
+Ingred Name:DIMETHOXYETHANE
+CAS:110-71-4
+RTECS #:KI1451000
+Other REC Limits:NONE RECOMME
+
+Ingred Name:4-ETHYL-1,3-DIOXOLAN-2-ONE (BUTYLENE CARBONATE)
+CAS:4437-85-8
+RTECS #:JI4582000
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:LITHIUM TRIFLUORO METHANE SULFONATE
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:CHEMICALS ARE IN A SEALED CAN.
+    EXPOSURE OCCURS WHEN BATTERY HAS BEEN ABUSED. DME IS SLIGHTLY TO
+    MODERATELY TOXIC. EC & BC ARE IRRITATING TO EYES.  LICF3SO3 IS
+    IRRITATING TO SKIN, EYES & MUCOUS MEMBRAN ES. CONTACT OF
+    ELECTROLYTE & EXTRUDED LITHIUM W/SKIN & EYES SHOULD BE AVOIDED.
+Explanation of Carcinogenicity:MFR GAVE THE ABOVE LISTINGS ON THE MSDS
+    BUT NO OTHER COMMENTS WERE RECORDED.
+Effects of Overexposure:DMD MAY BE A REPRODUCTIVE HAZARD. LITHIUM CAN
+    CAUSE THERMAL & CHEMICAL BURNS ON CONTACT W/SKIN.
+Medical Cond Aggravated by Exposure:AN ACUTE EXPOSURE WILL GENERALLY
+    NOT AGGRAVATE ANY MEDICAL CONDITION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:FOR CONTACT OF BATTERY INTERNALS WITH-SKIN:FLUSH IMMEDIATELY
+    W/WATER. -EYES:FLUSH WITH COPIOUS AMOUNTS OF WATER FOR 15 MINUTES.
+    IF IRRITATION PERSISTS, GET MEDICAL ATTENTION. DO NOT INHALE VENTED
+    MATE RIAL.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:WATER
+Fire Fighting Procedures:IN CASE OF FIRE IN AN ADJACENT AREA, USE
+    WATER, CO2 OR SRY CHEMICAL EXTINGUISHERS IF CELL ARE PACKED IN
+    THEIR ORIGIONAL CONTAINERS SINCE THE FUEL IS PAPER.
+Unusual Fire/Explosion Hazard:FOR BULK QUANTITIES OF UNPACKAGED CELL US
+    LITH-X (GRAPHITE BASE). IN THIS CASE USE NO WATER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:THE PREFERRED RESPONSE IS TO LEAVE AREA AND
+    ALLOW BATTERIES TO COOL AND VAPORS TO DISSIPATE. AVOID SKIN & EYE
+    CONTACT OR INHALATION OF VAPORS. REMOVE SPILLED LIQUID W/ABSORBENT
+    & INCINERATE.
+Neutralizing Agent:MFR GAVE NO INFORMATION ON MSDS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID MECHANICAL OR ELECTRICAL ABUSE.
+Other Precautions:BATTERIES MAY EXPLODE OR CAUSE BURN. IF DISASSEMBLED,
+    CRUSHED, RECHARGED OR EXPOSED TO FIRE OR HIGH TEMPERATURE. DO NOT
+    SHORT NOR INSTALL W/INCORRECT POLARITY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NESCESSARY UNDER CONDITIONS OF NORMAL USE.
+Ventilation:NOT NESCESSARY UNDER CONDITIONS OF NORMAL USE.
+Protective Gloves:NOT NESCESSARY UNDER CONDITIONS OF NORMA
+Eye Protection:NOT NESCESSARY UNDER CONDITIONS OF NORMA
+Other Protective Equipment:NOT NESCESSARY UNDER CONDITIONS OF NORMAL
+    USE.
+Work Hygienic Practices:MFR:?  HMIS:USE GOOD INDUSTRIAL HYGIENE
+    PRACTICE. IF HANDLING LEAKING BATTERIES USE STRICT CHEMICAL HYGIENE
+    PRACTICE.
+Supplemental Safety and Health
+AVOID ALL CONTACT W/BATTERY INTERNALS. WASH THOROUGHLY AFTER HANDLING.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F8
+NRC/State Lic Num:NONE
+pH:UNKNON
+Appearance and Odor:SEALED NON-RECHAGABLE BATTERY.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+MFR GAVE NO INFORMATION ON MSDS.
+Stability Condition to Avoid:DO NOT HEAT, DIASSEMBLE OR RECHARGE.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH APPROPRIATE
+    REGULATIONS. OPEN CELLS SHOULD BE TREATED AS HAZARDOUS WASTE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

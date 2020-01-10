@@ -1,0 +1,116 @@
+=====================  Product Identification  =====================
+
+Product ID:DISINFECTANT
+MSDS Date:03/03/1988
+FSC:6840
+NIIN:00-551-3698
+MSDS Number: BJDJX
+=== Responsible Party ===
+Company Name:UNIT CHEMICAL CORPORATION
+Address:4161 REDWOOD AVENUE
+City:LOS ANGELES
+State:CA
+ZIP:90066
+Country:US
+Info Phone Num:213-870-1923
+Emergency Phone Num:213-870-1923
+CAGE:06335
+=== Contractor Identification ===
+Company Name:UNIT CHEMICAL CORP
+Address:4161 REDWOOD AVE
+Box:City:LOS ANGELES
+State:CA
+ZIP:90066-5603
+Country:US
+CAGE:06335
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ALKYL DIMETHYL BENZYL AMMONIUM CHLORIDE
+CAS:8001-54-5
+RTECS #:BO3150000
+Fraction by Wt: 40%
+
+Ingred Name:UREA
+CAS:57-13-6
+RTECS #:YR6250000
+Fraction by Wt: 60%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:NONE
+Explanation of Carcinogenicity:THIS PRODUCT IS NOT CONSIDERED A
+    CARCINOGEN.
+Effects of Overexposure:EYE:  PAINFUL AND IRRITATING.		       
+				    SKIN:  PROLONG, OR REPEATED CONTACT
+    WITH THE SKIN CAUSES IRRITATION.
+Medical Cond Aggravated by Exposure:NONE
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:	FLUSH IMMEDIATELY WITH PLENTY OF WATER FOR 15 MINUTES. 
+		      SKIN:  WASH OFF SKIN WITH WATER.		       
+				  INGESTION:  CONSULT A PHYSICIAN
+    IMMEDIAT ELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:NON FLAMMABLE
+Fire Fighting Procedures:NONE
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP POWDER, RINSE WITH WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A DRY PLACE BETWEEN 50-120F.
+Other Precautions:AVOID CONTACT WITH ALUMINUM, BRASS, COPPER, AND BLACK
+    IRON.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE
+Ventilation:NONE
+Protective Gloves:NONE
+Eye Protection:NONE
+Other Protective Equipment:NONE
+Work Hygienic Practices:USE PRODUCT ACCORDING TO INSTRUCTIONS ON LABEL.
+Supplemental Safety and Health
+NK
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:250F
+Melt/Freeze Pt:M.P/F.P Text:250F
+Vapor Pres:NONE
+Vapor Density:NONE
+Spec Gravity:0.6
+Evaporation Rate & Reference:NONE
+Solubility in Water:COMPLETE
+Appearance and Odor:BUFF WHITE POWDER SLIGHT AMMONIA ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ANIONIC SOAPS (DEACTIVATES DISINFECTANTS) STRONG OXIDIZERS
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:QA-40 IS DEGRADEABLE IN ALL SEWAGE SYSTEMS AT   
+     200 PPM, QA-40 IS APPROVED FOR SANITIZING FOOD    CONTACT ITEMS
+    WITH NO POTABLE WATER RINSE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

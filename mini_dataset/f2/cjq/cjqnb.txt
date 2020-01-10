@@ -1,0 +1,148 @@
+=====================  Product Identification  =====================
+
+Product ID:PHENOL WIPE
+MSDS Date:02/25/1997
+FSC:7930
+NIIN:00N092264
+Status Code:A
+MSDS Number: CJQNB
+=== Responsible Party ===
+Company Name:SIMPLEX PRODUCTS
+Address:6 COMMERCIAL ST
+City:SHARON
+State:MA
+ZIP:02067
+Country:US
+Info Phone Num:770-422-2071
+Emergency Phone Num:770-422-2071
+Resp. Party Other MSDS Num.:251; REVISION 7.
+Preparer's Name:DL
+CAGE:TO258
+=== Contractor Identification ===
+Company Name:SIMPLEX PRODUCTS
+Address:6 COMMERCIAL ST
+Box:City:SHARON
+State:MA
+ZIP:02067
+Country:US
+Phone:770-422-2071
+CAGE:TO258
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOBUTANE
+CAS:75-28-5
+RTECS #:TI4300000
+OSHA PEL:800 PPM
+ACGIH TLV:800 PPM
+
+Ingred Name:ETHYLENE GLYCOL MONOBUTYL ETHER
+CAS:111-76-2
+RTECS #:KJ8575000
+OSHA PEL:240 MG/M3;50 PPM
+ACGIH TLV:121 MG/M3;25 PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: INHAL: EXCESSIVE INHALATION OF
+    VAPORS CAN BE HARMFUL & MAY CAUSE HEADACHE, DIZZINESS, ASPHYXIA,
+    ANESTHETIC EFFECTS & POSSIBLE UNCONSCIOUSNESS. EYE CONT:
+    IRRITATION. SKIN CONT: MILD IRRITATION.  INGEST: POSSIBLE CHEMICAL
+    PNEUMONITIS IF ASPIRATED INTO LUNGS. NAUSEA. ANIMAL STUDIES HAVE
+    CLEARLY DEMONSTRATED DOSE-RELATED ADVERSE EFTS ON CNS,
+    HEMATOPOIETIC TISSUES, BLOOD, KIDNEYS & LIVER ASSOCIAT ED WITH
+    ADMINISTRATION OF ETHYLENE GLYCOL MONOBUTYL ETHER (EGBE).
+    (EXTRACTED FROM DHHS (NIOSH) PUB NO. 90-118) . CHRONIC: (EFFECTS
+    DUE TO EXCESSIVE EXPOSURE TO THE RAW MATERIALS (EFTS OF OVEREXP )
+Effects of Overexposure:HLTH HAZS: OF THIS MIXTURE) MAY CAUSE DIARRHEA,
+    VOMITING, GASTROINTESTINAL IRRITATION. LAB ANIMALS HAVE EXPERIENCED
+    ANEMIA, LIVER, KIDNEY, LUNG, BLOOD DAMAGE TO GLYCOL ETHER EB.
+Medical Cond Aggravated by Exposure:MAY AGGRAVATE EXISTING EYE, SKIN,
+    OR UPPER RESPIRATORY CONDITIONS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE CONT: FLUSH WITH WATER FOR AT LEAST 15 MINUTES. IF
+    IRRITATED, SEEK MEDICAL ATTENTION. SKIN CONT: WASH WITH SOAP AND
+    WATER. IF IRRITATED, SEEK MEDICAL ATTENTION. INHALATION: REMOVE TO
+    FRESH AIR. RE SUSCITATE IF NECESSARY. GET MEDICAL ATTENTION.
+    INGESTION: DO NOT INDUCE VOMITING. DRINK TWO LARGE GLASSES OF
+    WATER. GET IMMEDIATE MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:N/A(NON-AEROSOL)
+Extinguishing Media:FOAM, DRY CHEMICAL, CARBON DIOXIDE.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:DO NOT EXPOSE AEROSOLS TO TEMPERATURES
+    ABOVE 130F OR THE CONTAINER MAY RUPTURE. NFPA RATING: HEALTH - 1;
+    FLAMMABILITY - 1; REACTIVITY - 0; SPECIAL - 0.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB WITH SUITABLE MEDIUM. INCINERATE OR
+    LANDFILL ACCORDING TO LOCAL, STATE OR FEDERAL REGULATIONS. DO NOT
+    FLUSH TO SEWER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT PUNCTURE OR INCINERATE
+    CONTAINERS. DO NOT STORE AT TEMPERATURES ABOVE 130F.
+Other Precautions:KEEP OUT OF REACH OF CHILDREN. AVOID FOOD
+    CONTAMINATION. AVOID BREATHING VAPORS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF VAPOR CONCENTRATION EXCEEDS TLV, USE
+    RESPIRATOR APPROVED BY NIOSH IN POSITIVE PRESSURE MODE.
+Ventilation:ADEQUATE VENTILATION TO KEEP VAPOR CONCENTRATION BELOW TLV.
+Protective Gloves:LATEX, IF SKIN EASILY IRRITATED.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:EYE WASH & DELUGE SHOWER MEETING ANSI DESIGN
+    CRITERIA .
+Work Hygienic Practices:WASH WITH SOAP AND WATER BEFORE HANDLING FOOD.
+    REMOVE CONTAMINATED CLOTHING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Vapor Pres:MAX 60 (AEROSOL)
+Spec Gravity:1(CONCENTRATE)(H*2O=1)
+Solubility in Water:COMPLETELY SOLUBLE
+Appearance and Odor:WHITE FOAM, LIGHT AIRY FRAGRANCE.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS.
+Stability Condition to Avoid:OPEN FLAME, WELDING ARCS, HEAT.
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:AEROSOL CANS WHEN VENTED TO ATMOSPHERIC PRESSURE
+    THROUGH NORMAL USE, POSE NO DISPOSAL HAZARD. DISPOSAL MUST BE IN
+    ACCORDANCE WITH FEDERAL, STATE, AND LOCAL REGULATIONS .
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:DOT HAZARD CLASSIFICATION: ORM-D.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:ETHYLENE GLYCOL MONOBUTYL ETHER APPEARS ON
+    SARA III LIST.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

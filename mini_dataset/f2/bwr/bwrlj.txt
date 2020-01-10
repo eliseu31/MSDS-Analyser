@@ -1,0 +1,163 @@
+=====================  Product Identification  =====================
+
+Product ID:DALIC SOLUTION,TIN,2090
+MSDS Date:06/03/1997
+FSC:6850
+NIIN:01-066-8311
+MSDS Number: BWRLJ
+=== Responsible Party ===
+Company Name:SIFCO METACHEMICAL DIV OF SIFCO INDUSTRIES,INC.
+Address:5708 SCHAAF ROAD
+City:CLEVELAND
+State:OH
+ZIP:44131-1394
+Country:US
+Info Phone Num:216-881-8600
+Emergency Phone Num:216-881-8600, 216-524-0099
+CAGE:11924
+=== Contractor Identification ===
+Company Name:SIFCO SELECTIVE PLATING   DIV OF SIFCO INDUSTRIES INC.
+Address:5708 SCHAAF ROAD
+Box:City:CLEVELAND
+State:OH
+ZIP:44131-1394
+Country:US
+Phone:216-524-0099/ FAX:  -6331
+CAGE:11924
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TIN (AS ORGANIC COMPOUND)
+CAS:7440-31-5
+RTECS #:XP7320000
+Fraction by Wt: 10 - 30%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:2 MG/M3
+ACGIH TLV:2 MG/M3; 9596
+
+Ingred Name:ETHYLENEDIAMINE (SARA 302) (CERCLA)
+CAS:107-15-3
+RTECS #:KH8575000
+Fraction by Wt: 7 - 13%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:10 PPM
+ACGIH TLV:S, 10 PPM; 9596
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 57 - 83%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:NOT RELEVANT
+ACGIH TLV:NOT RELEVANT
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL, RAT) IS NOT KNOWN.
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:TARGET ORGANS:EYES, SKIN, NASAL
+    CAVITY, LUNGS, LIVER & KIDNEYS. ACUTE- MAY CAUSE EYE & SKIN
+    IRRITATION. INHALATION MAY CAUSE SNEEZING, COUGHING. HARMFUL IF
+    SWALLOWED. MAY CAUSE MOUTH, THROAT, STOMACH  IRRITATION. CHRONIC-
+    MAY CAUSE DAMAGE TO SKIN, EYES, RESPIRATORY SYSTEM & TEETH. MAY
+    CAUSE SENSITIZATION, SKIN REACTION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:IRRITATION, REDNESS, SWELLING, NAUSEA,
+    SNEEZING, COUGHING, ALLERGIC SKIN REACTION AND SENSITIZATION,
+    WATERY EYES
+Medical Cond Aggravated by Exposure:PERSONS WITH PRE-EXISTING SKIN
+    DISORDERS, EYE PROBLEMS OR IMPAIRED RESPIRATORY FUNCTION MAY BE
+    MORE SUSCEPTIBLE TO THE EFFECTS OF THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:GET MEDICAL ATTENTION IF SYMPTOMS PERSIST.
+    EYES/SKIN:IMMEDIATELY FLUSH WITH WATER FOR 15 MINUTES. HOLD EYELIDS
+    OPEN. INHALED:REMOVE TO FRESH AIR. PROVIDE CPR/OXYGEN IF NECESSARY.
+    ORAL:DO NOT INDUCE VO MITING EXCEPT ON ADVICE OF COMPETENT MEDICAL
+    PERSONNEL. IF CONSCIOUS, DRINK PLENTY OF WATER OR MILK. NEVER GIVE
+    ANYTHING BY MOUTH TO AN UNCONSCIOUS PERSON.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Lower Limits:NOT RELEVANT
+Upper Limits:NOT RELEVANT
+Extinguishing Media:WATER SPRAY, CARBON DIOXIDE, FOAM OR DRY CHEMICAL
+    FOR SURROUNDING FIRE. USE WATER SPRAY TO COOL FIRE EXPOSED
+    CONTAINERS.
+Fire Fighting Procedures:WEAR PROTECTIVE CLOTHING AND NIOSH-APPROVED
+    SELF-CONTAINED BREATHING APPARATUS OPERATED IN POSITIVE PRESSURE
+    MODE.
+Unusual Fire/Explosion Hazard:CONTAINER MAY BURST. WATER RUNOFF CAN
+    CAUSE ENVIRONMENTAL DAMAGE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:RECOVER AS MUCH MATERIAL AS POSSIBLE. ABSORB
+    REMAINING OF SPILL WITH VERMICULITE. TRANSFER TO A SUITABLE
+    CONTAINER FOR DISPOSAL. AVOID TOUCHING SPILL.
+Neutralizing Agent:NOT RELEVANT
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AT 60-90F, IN CLOSED CONTAINER.
+    KEEP AWAY FROM INCOMPATIBLE MATERIALS.
+Other Precautions:WASH THOROUGHLY WITH SOAP AND WATER AFTER HANDLING
+    AND BEFORE EATING, DRINKING, SMOKING. KEEP OUT OF REACH OF
+    CHILDREN. DO NOT TAKE INTERNALLY. AVOID EYE AND SKIN CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF ENGINEERING CONTROLS DO NOT MAINTAIN AIRBORNE
+    CONCENTRATIONS TO AN ACCEPTABLE LEVEL, A NIOSH-APPROVED RESPIRATOR
+    MUST BE WORN. A PROGRAM SHOULD BE INSTITUTED TO ASSURE COMPLIANCE
+    WITH OSHA STANDARD	29 CFR 1910.134.
+Ventilation:LOCAL EXHAUST
+Protective Gloves:NITRILE, NEOPRENE, LATEX
+Eye Protection:SAFETY GLASSES/CHEMICAL SPLASH GOGGLES
+Other Protective Equipment:EYE WASH STATION, SAFETY SHOWER, PROTECTIVE
+    CLOTHING
+Work Hygienic Practices:OBSERVE GOOD INDUSTRIAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES. DO NOT WEAR CONTACT LENSES.
+Supplemental Safety and Health
+FORMULA CHANGED. FOR PREVIOUS FORMULATION, SEE PNI A, SAME NSN.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+NRC/State Lic Num:NOT RELEVANT
+Boiling Pt:B.P. Text:>212F,>100C
+Melt/Freeze Pt:M.P/F.P Text:<32F,<0C
+Spec Gravity:1.223 - 1.263
+pH:7- 7.4
+Evaporation Rate & Reference:<1 (ETHYL ETHER=1)
+Solubility in Water:COMPLETE
+Appearance and Odor:COLORLESS TO LIGHT YELLOW LIQUID - SLIGHT
+    AMMONIACAL ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, STRONG ACIDS, ALDEHYDES, KETONES
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE,
+    OXIDES OF NITROGEN, TIN OXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE AND
+    FEDERAL REGULATIONS. RECYLING IS RECOMMENDED. REPORTABLE QUANTITY
+    (RQ): >21,000 LITERS (MSDS).
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

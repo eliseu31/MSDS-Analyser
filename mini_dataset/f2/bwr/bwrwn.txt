@@ -1,0 +1,127 @@
+=====================  Product Identification  =====================
+
+Product ID:CATALYST FOR LENS BOND TYPES C-59 & DC90
+MSDS Date:12/15/1990
+FSC:8040
+NIIN:00-266-0828
+MSDS Number: BWRWN
+=== Responsible Party ===
+Company Name:SUMMERS LABORATORIES INC OPTICAL PRODUCTS DIVISION
+Address:321 MORRIS RD
+Box:162
+City:FORT WASHINGTON
+State:PA
+ZIP:19034-2003
+Country:US
+Info Phone Num:215-646-1477
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+CAGE:53836
+=== Contractor Identification ===
+Company Name:SUMMERS LABORATORIES INC OPTICAL PRODUCTS DIVISION
+Address:321 MORRIS RD
+Box:162
+City:FORT WASHINGTON
+State:PA
+ZIP:19034-2003
+Country:US
+CAGE:53836
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TERT-BUTYL PEROXYBENZOATE, <= 75% IN SOLUTION
+CAS:614-45-9
+RTECS #:SD9460000
+Fraction by Wt: 98% MIN
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL RAT) IS  3639-4838 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE-VERY HIGH LD50S FOR ORAL &
+    DERMAL. CHRONIC-INVITRO SISTER CHROMATID EXCHANGE ASSAY - POS.
+    MOUSE LYMPHOMA FORWARD MUTATION ASSAY - POS. AMES TEST - POS.
+Explanation of Carcinogenicity:MANUFACTURER GAVE NO INFORMATION ABOUT
+    CARCINOGENICITY. HMIS DOES NOT EXPECT IT TO BE CARCINOGENIC.
+Effects of Overexposure:EYES:MILD TRANSIENT IRRITATION.
+    SKIN:IRRITATION. INGESTION:UNLIKELY. INHALATION:LEAST LIKELY. NOT A
+    TOXIC SUBSTANCE.
+Medical Cond Aggravated by Exposure:NOT ESTABLISHED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:DO NOT INDUCE VOMITING. GET MEDICAL ATTENTION FOR LAVAGE.
+    WASH THOROUGHLY W/SOAP & WATER. FLUSH EYES FIR AT LEAST 15 MIN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:192F,89C
+Lower Limits:N/E
+Upper Limits:N/E
+Extinguishing Media:USE WATER FOG,DRY CHEMICAL,OR FOAM.
+Fire Fighting Procedures:IF LARGE AMOUNT INVOLVED, EVACUATE AREA &
+    FIGHT FIRE FROM SAFE DISTANCE. COOL SURROUNDING MATERIAL W/WATER.
+Unusual Fire/Explosion Hazard:CONTAMINATION, TEMPERATURE - CAN
+    DECOMPOSE WITH FORCE IF CONFINED DURING EXPOSURE TO FIRE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB W/VERMICULITE/PERLITE. SWEEP OR SCOOP
+    UP USING NON-SPARKING TOOLS. CONSULT ATOCHEM REP. AT 1-716-877-1740
+    FOR STATE HAZARDOUS WASTE AGENCY.
+Neutralizing Agent:MFR GAVE NO INFORMATION ON MSDS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM COMBUSTIBLES. KEEP
+    CONTAINER CLOSED. STORE IN A WELL VENTILATED AREA.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE ADEQUATE VENTILATION.
+Ventilation:LOCAL EXHAUST & MECHANICAL (GENERAL): YES.
+Protective Gloves:PVC OR NEOPRENE
+Eye Protection:SAFETY GLASSES OR FACE SHIELD
+Other Protective Equipment:USE ONLY NIOSH/MESA APPROVED EQUIPMENT.
+    EYEWASH STATION.
+Work Hygienic Practices:REMOVE CONTAMINATED CLOTHING & WASH W/SOAP &
+    WATER.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:P2
+NRC/State Lic Num:NONE
+Boiling Pt:B.P. Text:N/E
+Vapor Pres:3.36
+Vapor Density:6.7
+Spec Gravity:1.038
+Solubility in Water:INSOLUBLE
+Appearance and Odor:YELLOW LIQUID, UNPLEASANT PUNGENT ODOR.
+Corrosion Rate:UNKNOWNN
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:NO
+STRONG ACIDS, STRONG ALKALIS, STRONG OXIDIZERS & REDUCING AGENTS.
+Stability Condition to Avoid:EXPOSURE TO HEAT OR CONTAMINATION.
+Hazardous Decomposition Products:DECOMPOSITION PRODUCTS ARE FLAMMABLE.
+Conditions to Avoid Polymerization:MFR GAVE NO INFORMATION ON MSDS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:SEE ABOVE INFORMATION  .DO NOT DISCARD WITH
+    WASTE PAPER.  HMIS: DISPOSE I/A/W FEDERAL, STATE & LOCAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

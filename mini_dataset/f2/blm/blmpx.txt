@@ -1,0 +1,127 @@
+=====================  Product Identification  =====================
+
+Product ID:DEGASER 185
+MSDS Date:10/09/1990
+FSC:6850
+NIIN:00N022246
+MSDS Number: BLMPX
+=== Responsible Party ===
+Company Name:FOSECO INC
+Address:20200 SHELDON RD
+City:BROOK PARK
+State:OH
+ZIP:44142
+Country:US
+Info Phone Num:216-826-4548
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+Preparer's Name:TREVOR HARDY
+CAGE:2W462
+=== Contractor Identification ===
+Company Name:FOSECO, INC.
+Address:20200 SHELDON ROAD
+Box:City:CLEVELAND
+State:OH
+ZIP:44142
+Country:US
+Phone:440-826-4548
+CAGE:2W462
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HEXACHLOROETHANE  (SARA III)
+CAS:67-72-1
+RTECS #:KI4025000
+Fraction by Wt: 100%
+OSHA PEL:S, 1 PPM
+ACGIH TLV:S, 1 PPM; A2, 9394
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: DURING USE, DUST AND FUME MAY
+    CAUSE IRRITATION OF EYES, SKIN, NOSE AND MUCOUS MEMBRANES.
+    HEXACHLOROETHANE MAY BE ABSORBED BY SKIN. CHRONIC: HEXACHLOROETHANE
+    CAN CAUSE CNS DEPRESSION AND KIDNEY  AND LIVER DAMAGE. EYE AND SKIN
+    IRRITATION, COUGHING, HEADACHES, DIZZINESS, DROWSINESS AND SORE
+    THROAT.
+Explanation of Carcinogenicity:NONE SPECIFIED BY MANUFACTURER.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:PRE-EXISTING SKIN, RESPIRATORY,
+    LIVER AND KIDNEY AILMENTS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. SKIN: WASH WITH SOAP AND
+    WATER. EYES: IMMEDIATELY FLUSH WITH WATER FOR AT LEAST 15 MINUTES.
+    INGESTION: DRINK LARGE QUANTITIES OF WATER. DO NOT INDUCE VOMITING.
+    REFER T O PHYSICIAN IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON FLAMMABLE
+Extinguishing Media:MEDIA SUITABLE FOR SURROUNDING CONDITIONS.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:MAY EVOLVE TOXIC FUMES OF CHLORINATED
+    HYDROCARBONS. MAY REACT WITH ALKALIES TO PRODUCE EXPLOSIVE
+    CHLOROACETYLENES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP SPILLAGE. AVOID BREATHING DUST AND
+    SKIN CONTACT.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID SKIN AND EYE CONTACT. STORE IN
+    DRY PLACE BELOW 150 F. KEEP CONTAINER CLOSED WHEN NOT IN USE.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF TLV IS EXCEEDED USE NIOSH/MSHA APPROVED
+    RESPIRATOR WITH ORGANIC VAPOR CARTRIDGE.
+Ventilation:RECOMMENDED SUFFICIENT TO MAINTAIN BELOW TLV.
+Protective Gloves:IMPERVIOUS EG. BUTYL RUBBER.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:367F,186C
+Vapor Pres:1 @ 90F
+Vapor Density:8.2
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:WHITE TABLET, CAMPHORACEOUS ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+HOT STRONG ALKALIES, FINELY DIVIDED METALS (FE, ZN, AL).
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:IN USE, ALUMINUM CHLORIDE, AND TRACES
+    OF PHOSGENE AND FLUORIDES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:HEXACHLOROETHANE IS DEFINED AS HAZARDOUS WASTE
+    BY EPA (U131). DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE AND
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

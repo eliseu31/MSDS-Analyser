@@ -1,0 +1,155 @@
+=====================  Product Identification  =====================
+
+Product ID:30192-04C BATTERY, STORAGE
+MSDS Date:07/03/1990
+FSC:6140
+NIIN:01-316-7903
+MSDS Number: BKYYV
+=== Responsible Party ===
+Company Name:MARATHON POWER TECHNOLOGIES
+Address:8301 IMPERIAL DRIVE
+Box:8233
+City:WACO
+State:TX
+ZIP:76714-8233
+Info Phone Num:(817) 776-0650
+Emergency Phone Num:(817) 776-0650
+Preparer's Name:T. MESSING
+CAGE:74025
+=== Contractor Identification ===
+Company Name:MARATHON POWER TECHNOLOGIES CO
+Address:8301 IMPERIAL DR
+Box:City:WACO
+State:TX
+ZIP:76712-6588
+Country:US
+Phone:254-741-5405
+CAGE:74025
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CADMIUM  (SARA III)
+CAS:7440-43-9
+RTECS #:EU9800000
+Other REC Limits:A2 CARCINOGEN
+OSHA PEL:SEE 1910.1027
+ACGIH TLV:0.01 MG/M3 DUST;9394
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+Ingred Name:CADMIUM HYDROXIDE
+CAS:21041-95-2
+OSHA PEL:0.2 MG/CUM
+ACGIH TLV:0.05 MG/CUM
+
+Ingred Name:NICKEL  (SARA III)
+CAS:7440-02-0
+RTECS #:QR5950000
+Other REC Limits:1 MG/CUM
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+
+Ingred Name:NICKEL HYDROXIDE
+CAS:12054-48-7
+RTECS #:OR7040000
+OSHA PEL:1 MG NI/M3
+ACGIH TLV:0.1 MG NI/M3; 9293
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+Ingred Name:POTASSIUM HYDROXIDE  (SARA III)
+CAS:1310-58-3
+RTECS #:TT2100000
+Other REC Limits:2 MG/CUM (CEILING)
+OSHA PEL:C, 2 MG/M3
+ACGIH TLV:C 2 MG/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): 225 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: IRRITATION OF MUCOUS
+    MEMBRANES/DRYNESS OF
+    MOUTH/THROAT/HEADACHE/NAUSEA/DIZZINESS/IRREVERSIBLE/LUNG
+    INJURY/KIDNEY DISEASE/UPPER RESPIRATORY TRACT & LUNG
+    TISSUE/CHEMICAL PNEUMONIA/MOUTH/THRO AT/STOMACH TISSUE DESTRUCTION.
+    INGESTION: VOMITING/DIARRHEA/ABDOMINAL CRAMPS. SKIN: SENSITIVITY &
+    ALLERGIC RASH.
+Explanation of Carcinogenicity:NICKEL & NICKEL COMPOUNDS ARE CONSIDERED
+    TO BE AN A1 CARCINOGEN & CADMIUM IS CONSIDERED TO BE AN A2
+    CARCINOGEN.
+Effects of Overexposure:INHALATION: IRRITATION OF MUCOUS
+    MEMBRANE/DRYNESS OF
+    MOUTH/THROAT/HEADACHE/NAUSEA/DIZZINESS/IRREVERSIBLE/LUNG
+    INJURY/KIDNEY DISEASE/UPPER RESPIRATORY TRACT & LUNG TISSUE
+    DAMAGE/CHEMICAL PNEUMONIA/MOUT H/THROAT/STOMACH TISSUE DESTRUCTION.
+    INGESTION: VOMITING/DIARRHEA/ABDOMINAL CRAMPS. SKIN: SENSITIVITY &
+    ALLERGIC RASH.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES/SKIN: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINUTES.
+    INGESTION: IF PATIENT IS CONSCIOUS, GIVE LARGE QUANTITIES OF WATER.
+    DON'T INDUCE VOMITING. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON-FLAMMABLE
+Extinguishing Media:USE EXTINGUISHING MEDIA APPROPRIATE FOR SURROUNDING
+    FIRE.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS WITH
+    FULL FACE-PIECE OPERATED IN POSITIVE PRESSURE MODE.
+Unusual Fire/Explosion Hazard:CONTACT W/STRONG OXIDIZERS MAY CAUSE FIRE
+    OR EXPLOSION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE INDUSTRIAL ABSORBENT TO COLLECT LIQUID
+    POTASSIUM HYDROXIDE. BATTERY & CELL CASES WILL NORMALLY CONTAIN
+    MATERIALS OF CONCERN.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T INVERT. AVOID BREAKING, CRUSHING
+    OR OTHERWISE DESTROYING THE PHYSICAL INTEGRITY OF THE CELL OR
+    BATTERY.
+Other Precautions:USE ADEQUATE VENTILATION. AVOID CONTACT W/SKIN &
+    EYES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WHEN HANDLING POTASSIUM HYDROXIDE SOLUTION WEAR
+    A DUST OR MIST MASK.
+Ventilation:LOCAL EXHAUST WHEN HANDLING THE LIQUID IN THE BATTERY.
+Protective Gloves:RUBBER
+Eye Protection:GOGGLES, FACE SHIELD
+Other Protective Equipment:PROTECTIVE CLOTHING
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Solubility in Water:INSOLUBLE
+Appearance and Odor:SILVER COLOR METAL, NO ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, NITRATES, NITRIC ACID
+Hazardous Decomposition Products:CADMIUM FUMES OR VAPORS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

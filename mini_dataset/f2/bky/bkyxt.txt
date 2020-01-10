@@ -1,0 +1,133 @@
+=====================  Product Identification  =====================
+
+Product ID:1201 RED ENAMEL GLYPTAL
+MSDS Date:12/16/1987
+FSC:5970
+NIIN:01-278-7797
+MSDS Number: BKYXT
+=== Responsible Party ===
+Company Name:GLYPTAL INC
+Address:305 EASTERN AVENUE
+City:CHELSEA
+State:MA
+ZIP:02150
+Info Phone Num:(617) 884-6918
+Emergency Phone Num:(617) 884-6918
+CAGE:65313
+=== Contractor Identification ===
+Company Name:GLYPTAL INC
+Address:305 EASTERN AVE
+Box:NONE
+City:CHELSEA
+State:MA
+ZIP:02150-3344
+Country:US
+Phone:617-884-6918
+CAGE:65313
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS)	(SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 34.4%
+Other REC Limits:100 PPM
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:LIGHT ALIPHATIC NAPHTHA, VM & P NAPHTHA
+CAS:64742-89-8
+Fraction by Wt: 5.6%
+ACGIH TLV:300 PPM
+
+Ingred Name:TALC (CONTAINING NO ASBESTOS)
+CAS:14807-96-6
+RTECS #:WW2710000
+Fraction by Wt: 17%
+OSHA PEL:2 MG/M3 RDUST
+ACGIH TLV:2 MG/M3 RDUST; 9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN: IRRITATION, DEFATTING, DRYING, &
+    DERMATITIS. EYES: IRRITATION. INHALATION: CENTRAL NERVOUS SYSTEM
+    DEPRESSION, HEADACHES, DIZZINESS, NAUSEA, & LOSS OF CONSCIOUSNESS.
+    INGESTION: VOMITING, CHEMICAL  PNEUMONITIS, & PULMONARY
+    EDEMA/HEMORRHAGE.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN: IRRITATION, DEFATTING, DRYING, &
+    DERMATITIS. EYES: IRRITATION. INHALATION: CENTRAL NERVOUS SYSTEM
+    DEPRESSION, HEADACHES, DIZZINESS, NAUSEA, & LOSS OF CONSCIOUSNESS.
+    INGESTION: VOMITING, CHEMICAL  PNEUMONITIS, & PULMONARY
+    EDEMA/HEMORRHAGE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION: IF VOMITING OCCURS SPONTANEOUSLY, KEEP HEAD BELOW
+    HIPS TO PREVENT ASPIRATION OF LIQUID INTO LUNGS, CAN CAUSE CHEMICAL
+    PNEUMONITIS & PULMONARY EDEMA/HEMORRHAGE. INHALATION: REMOVE TO
+    FRESH A IR. GIVE OXYGEN OR CPR IF NEEDED. EYES:FLUSH W/PLENTY OF
+    WATER. SKIN: WASH THOROUGHLY W/WATER. USE HAND LOTION. OBTAIN
+    MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:75F
+Lower Limits:1%
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL, WATER FOG
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS
+    W/POSITIVE PRESSURE MODE. USE WATER TO KEEP FIRE EXPOSED CONTAINERS
+    COOL TO REDUCE PRESSURE.
+Unusual Fire/Explosion Hazard:CONTAINERS EXPOSED TO HEAT MAY CAUSE
+    PRESSURE BUILD-UP. FLAMMABLE LIQUID.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE AN ABSORBENT MATERIAL SUCH AS VERMICULITE
+    TO REMOVE SPILLED MATERIAL. PROVIDE ADEQUATE VENTILATION.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, WELL-VENTILATED AREA.
+    AVOID EXCESSIVE HEAT, SPARKS, & OPEN FLAMES. GROUND CONTAINERS &
+    TRANSFER VESSELS.
+Other Precautions:KEEP FREE FALL OF LIQUID TO A FEW INCHES TO AVOID
+    BUILD-UP OF STATIC ELECTRICITY. DON'T TAKE INTERNALLY. AVOID
+    CONTACT W/SKIN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IN CONFINED AREAS USE AN APPROVED SELF-CONTAINED
+    RESPIRATOR.
+Ventilation:KEEP AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:56.1%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS, ACIDS, METALLIC HALIDES (SALTS), SUCH AS FERRIC &
+    ALUMINUM CHLORIDES.
+Stability Condition to Avoid:EXCESSIVE HEAT, SPRAKS, OPEN FLAMES, &
+    OTHER IGNITION SOURCES SUCH AS OPEN MOTORS, & SWITCHES.
+Hazardous Decomposition Products:CO
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:SOLVENTS MAY BE DISTILLED OFF OR REMOVED.
+    DISPOSE OF WASTE PAINT & RESIDUE AS IGNITABLE MATERIAL D001, IN
+    ACCORDANCE W/FEDERAL, STATE, & LOCAL REGULATIONS. FLAMMABLE LIQUID.
+    UN1263.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

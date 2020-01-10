@@ -1,0 +1,81 @@
+=====================  Product Identification  =====================
+
+Product ID:6170, DEIONIZED WATER
+MSDS Date:02/05/1998
+FSC:6810
+NIIN:01-075-0618
+Status Code:A
+MSDS Number: CJQKL
+=== Responsible Party ===
+Company Name:INDUSTRIAL MUNICIPAL EQUIPMENT, INC.
+Address:132 WILBUR PLACE
+Box:335
+City:BOHEMIA
+State:NY
+ZIP:11716
+Country:US
+Info Phone Num:516-666-4323
+Emergency Phone Num:(800)424-9300
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:53390
+=== Contractor Identification ===
+Company Name:INDUSTRIAL MUNICIPAL EQUIPMENT, INC.(FORMERLY BOHEMIA,NY)
+Address:1430 PROGRESS WAY SUITE 105
+Box:City:SYKESVILLE
+State:MD
+ZIP:21784
+Country:US
+Phone:410-795-0500; FAX:410-795-1373
+Contract Num:SP0450-00-M-D009
+CAGE:53390
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DEIONIZED WATER
+= Wt:100.
+Code:F
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL.
+Unusual Fire/Explosion Hazard:NONE INDICATED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SPILL RESPONSE: ABSORB WITH SAND OR VEMICULITE
+    AND SCOOP UP AND CONTAINERIZE FOR PROPER DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER TIGHTLY CLOSED. STORE
+    IN A COOL, DRY, WELL VENTILATED AREA. KEEP AWAY FROM IGNITION
+    SOURCE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:=100.C, 212.F
+Spec Gravity:1.00000
+Solubility in Water:MISCIBLE
+Appearance and Odor:CLEAR, COLORLESS, ODORLESS LIQUID.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Condition to Avoid:NONE INDICATED
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:DOT: NOT REGULATED.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

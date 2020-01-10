@@ -1,0 +1,125 @@
+=====================  Product Identification  =====================
+
+Product ID:8R453 & 8R2301 SINGLE STRIKE BLACK CORRECTABLE
+MSDS Date:11/18/1985
+FSC:7510
+NIIN:01-157-8318
+MSDS Number: BKYSX
+=== Responsible Party ===
+Company Name:XEROX CORPORATION
+Address:901 PAGE AVENUE
+City:FREMONT
+State:CA
+ZIP:94537
+Info Phone Num:(716) 422-2177
+Emergency Phone Num:(716) 422-2177
+CAGE:26921
+=== Contractor Identification ===
+Company Name:XEROX CORPORATION
+Address:100 CLINTON AVE SOUTH
+Box:City:ROCHESTER
+State:NY
+ZIP:14644-1877
+Country:US
+Phone:800-828-6571/716-422-2177
+CAGE:26921
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POLYOLEFIN FILM
+Fraction by Wt: >95%
+
+Ingred Name:CARBON BLACK
+CAS:1333-86-4
+RTECS #:FF5800000
+Fraction by Wt: <5%
+Other REC Limits:3.5 MG/CUM (NIOSH)
+OSHA PEL:3.5 MG/M3
+ACGIH TLV:3.5 MG/M3; 9192
+
+Ingred Name:MINERAL OIL (EXPOSURE REGULATED AS 'OIL MIST')
+CAS:8012-95-1
+RTECS #:PY8030000
+Fraction by Wt: <5%
+Other REC Limits:10 MG/CUM STEL
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3/10 STEL;9192
+
+Ingred Name:BUTYL STEARATE
+CAS:123-95-5
+RTECS #:WI2900000
+Fraction by Wt: <5%
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: <5%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:SILICON DIOXIDE
+CAS:7631-86-9
+RTECS #:VV3100000
+Fraction by Wt: <5%
+OSHA PEL:80 MG/CUM
+
+Ingred Name:POLYAMIDE OF C18 FATTY ACID PRIMERS & TETA; POLYAMIDE RESIN
+CAS:68410-23-1
+Fraction by Wt: <5%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN/EYES: IRRITATION.
+Explanation of Carcinogenicity:CARBON BLACK IS A SUSPECTED HUMAN
+    CARCINOGEN BY ACGIH.
+Effects of Overexposure:SKIN/EYES: IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: WASH W/SOAP & WATER. EYES: FLUSH W/WATER. OBTAIN
+    MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:CO2, WATER, FOAM, OR DRY CHEMICAL
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID INHALATION OF DECOMPOSITION
+    PRODUCTS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE WHEN USED AS INTENDED.
+Protective Gloves:NONE WHEN USED AS INTENDED.
+Eye Protection:NONE WHEN USED AS INTENDED.
+Other Protective Equipment:NONE WHEN USED AS INTENDED.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Vapor Pres:0
+Vapor Density:0
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:RIBBON CARTRIDGE W/MINIMAL ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Hazardous Decomposition Products:CO, CO2, & OTHER TOXIC PRODUCTS OF
+    DECOMPOSITION
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:NO SPECIAL PROCEDURES.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

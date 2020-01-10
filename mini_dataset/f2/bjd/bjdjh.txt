@@ -1,0 +1,234 @@
+=====================  Product Identification  =====================
+
+Product ID:11018-M XLM 0.156 10 LBS WELDING ROD
+MSDS Date:03/01/1989
+FSC:3439
+NIIN:00-165-4165
+MSDS Number: BJDJH
+=== Responsible Party ===
+Company Name:TELEDYNE MCKAY
+Address:850 GRANTLEY RD
+Box:1509
+City:YORK
+State:PA
+ZIP:17405
+Country:US
+Info Phone Num:717-849-2490
+Emergency Phone Num:717-845-7581
+CAGE:76254
+=== Contractor Identification ===
+Company Name:HOBART BROS CO  MCKAY WELDING PRODUCTS DIV
+Address:400 TRADE SQ E
+Box:City:TROY
+State:OH
+ZIP:45373-2900
+Country:US
+Phone:513-332-5706
+CAGE:76254
+Company Name:SHAMROCK SUPPLY CO
+Address:301 E. ALTON AVE
+Box:City:SANTA ANA
+State:CA
+ZIP:92707
+Country:US
+Phone:714-556-4422
+CAGE:48111
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:IRON
+CAS:7439-89-6
+RTECS #:NO4565500
+Fraction by Wt: 96%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:10 MG/M3 FE2O3 AS FE
+ACGIH TLV:5 MG/M3 FE2O3 AS FE
+
+Ingred Name:NICKEL  (SARA III)
+CAS:7440-02-0
+RTECS #:QR5950000
+Fraction by Wt: 1.60%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+
+Ingred Name:MANGANESE  (SARA III)
+CAS:7439-96-5
+RTECS #:OO9275000
+Fraction by Wt: 1.50%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:(C) 5 MG/M3 DUST
+ACGIH TLV:5 MG/M3 DUST 9293
+
+Ingred Name:MOLYBDENUM
+CAS:7439-98-7
+RTECS #:QA4680000
+Fraction by Wt: 0.40%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3; 9293
+
+Ingred Name:SILICON
+CAS:7440-21-3
+RTECS #:VW0400000
+Fraction by Wt: 0.40%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:CARBON BLACK
+CAS:1333-86-4
+RTECS #:FF5800000
+Fraction by Wt: 0.07%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:3.5 MG/M3
+ACGIH TLV:3.5 MG/M3; 9192
+
+Ingred Name:ALPHA-ALUMINA (ALUMINUM OXIDE)  (EPA LISTS ONLY FIBROUS
+    FORMS)  (SARA III)
+CAS:1344-28-1
+RTECS #:BD1200000
+Fraction by Wt: TRACE
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:CALCIUM OXIDE
+CAS:1305-78-8
+RTECS #:EW3100000
+Fraction by Wt: TRACE
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:5 MG/M3
+ACGIH TLV:2 MG/M3; 9192
+
+Ingred Name:MAGNESIUM OXIDE
+CAS:1309-48-4
+RTECS #:OM3850000
+Fraction by Wt: TRACE
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:15 MG/M3 PARTICULATE
+ACGIH TLV:10 MG/M3;TDUST; 9293
+
+Ingred Name:SODIUM OXIDE
+CAS:1313-59-3
+Fraction by Wt: TRACE
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: TRACE
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:CALCIUM FLUORIDE
+CAS:7789-75-5
+RTECS #:EW1760000
+Fraction by Wt: TRACE
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:2.5 MG/M3 (F)
+ACGIH TLV:2.5 MG/M3 (F); 8990
+
+Ingred Name:POTASSIUM OXIDE
+CAS:12136-47-7
+Fraction by Wt: TRACE
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:STRONTIUM OXIDE
+CAS:1314-11-0
+Fraction by Wt: TRACE
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:FUMES AND GASES CAN BE DANGEROUS TO
+    YOUR HEALTH. ARC RAYS CAN INJURE EYES AND BURN SKIN. ELECTRIC SHOCK
+    CAN KILL. NOISE CAN DAMAGE HEARING.
+Explanation of Carcinogenicity:NICKEL IS LISTED UNDER IARC, NTP.
+Effects of Overexposure:ACUTE:METALLIC TASTE,NAUSEA,TIGHTNESS OF
+    CHEST,FEVER,DIZZINESS,DRYNESS,IRRITATION OF EYES,NOSE AND THROAT.
+    CHRONIC:EXCESSIVE LEVELS MAY CAUSE BRONQUIAL ASTHMA,LUNG FIBROSIS
+    AND PNEUMOCONIOSIS.
+Medical Cond Aggravated by Exposure:AGGRAVATION OF EXISTING RESPIRATORY
+    OR ALLERGIC CONDITIONS.HIGHER LEVEL OF LUNG RELATED PROBLEMS AMONG
+    SMOKERS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:REMOVE FROM EXPOSURE AND OBTAIN PROMPT MEDICAL ATTENTION. IF
+    NOT BREATHING,GIVE CPR/OXYGEN. EMPLOY FIRST AID TECHNIQUES
+    RECOMMENDED BY AMERICAN RED CROSS.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:AS APPROPIATE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:WELDING ARCS, SPARKS, ETC. MAY IGNITE
+    COMBUSTIBLE MATERIAL.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CLEAN UP ANY GRINDING DUST OR WASTE RESIDUE
+    AND PLACE IN APPROPIATE DISPOSAL CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN DRY AREA. ELECTRODES EXPOSED
+    TO MOISTURE MAY EXPLODE VIOLENTLY IF USED. DRY MOIST RODS BY BAKING
+    AT 300F FOR TEN HOURS.
+Other Precautions:TRAIN WELDER TO KEEP HIS HEAD OUT OF THE
+    FUMES.MONITOR AIR TO ENSURE ACCEPTABLE EXPOSURES.AVOID ELECTRICAL
+    SHOCK BY MAINTAINING DRY WORK AREA. WELDING ARC CAN IGNITE
+    COMBUSTIBLES AND FLAMMABLES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:FUME RESPIRATOR OR AIR SUPPLIED RESPIRATOR IN
+    CONFINED SPACES OR WHERE VENTILATION DOES NOT KEEP EXPOSURE BELOW
+    TLV.
+Ventilation:LOCAL EXHAUST TO KEEP BELOW TLV.
+Protective Gloves:WELDER'S GLOVES.
+Eye Protection:HELMET OR FACE SHIELD WITH FILTER LENS.
+Other Protective Equipment:SUBSTANTIAL DARK CLOTH,ARM
+    PROTECTOR,APRON,HAT AND SHOULDER PROTECTION. AIR SAMPLING TO
+    DETERMINE CORRECTIVE MEASURES.
+Work Hygienic Practices:WASH HANDS THOROUGHLY BEFORE EATING,SMOKING OR
+    USING SANITARY FACILITIES.
+Supplemental Safety and Health
+NONE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Solubility in Water:INSOLUBLE
+Appearance and Odor:WELDING ROD.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:FUMES OF METALS AND METAL OXIDES FROM
+    ELECTRODE AND BASE METAL, FLUORIDES, CARBON MONOXIDE, CARBON
+    DIOXIDE, OZONE, NOX.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT WITH YOUR LOCAL ENVIRONMENTAL
+    OFFICER.DISPOSE OF FUMES,FLUX OR WELD GRINDING RESIDUE FROM THE
+    WORK AREA OR FROM FILTERS IN ACCORDANCE WITH FEDERAL,STATE AND
+    LOCAL ENVIRONMENTAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

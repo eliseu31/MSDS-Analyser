@@ -1,0 +1,123 @@
+=====================  Product Identification  =====================
+
+Product ID:628 402 SG AROPLATE-II
+MSDS Date:04/17/1989
+FSC:8010
+NIIN:00F019199
+MSDS Number: BLPQH
+=== Responsible Party ===
+Company Name:FRAZEE PAINT & WALLCOVERINGS
+Address:6625 MIRAMAR ROAD
+City:SAN DIEGO
+State:CA
+ZIP:92121
+Info Phone Num:(619) 276-9500
+Emergency Phone Num:(619) 276-9500
+Preparer's Name:ZEKE
+CAGE:FO493
+=== Contractor Identification ===
+Company Name:FRAZEE PAINT & WALL COVERINGS
+Address:6625 MIRAMAR ROAD
+City:SAN DIEGO
+State:CA
+ZIP:92121
+Phone:(619) 276-9500
+CAGE:FO493
+Company Name:FRAZEE S R CO (FRAZEE INDUSTRIES)
+Address:6625 MIRAMAR RD
+City:SAN DIEGO
+State:CA
+ZIP:92121-2508
+Country:US
+Phone:619-276-9500/619-543-6000
+CAGE:6D488
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:AROMATIC PETROLEUM DISTILLATE, HEAVY STRAIGHT RUN NAPHTHA
+    C6-C12 BOILING PT 149-446F
+CAS:64741-41-9
+Fraction by Wt: 35%
+ACGIH TLV:125 PPM
+
+Ingred Name:VOL ORGANIC CMPD: 3.49 LB/GL (418 G/L)
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: ANESTHESIA, DIZZINESS,
+    BREATHING DIFFICULTY, HEADACHE, LOSS OF COORDINATION,
+    UNCONSCIOUSNESS, & ASPHYXIATION. EYES: IRRITATION. SKIN:
+    IRRITATION, DRY, OR CRACKING FROM DEFATTING ACTION, &  DERMATITIS.
+    INGESTION: NAUSEA, ASPIRATION INTO LUNGS MAY CAUSE CHEMICAL
+    PNEUMONITIS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN: IRRITATION, DEFATTING, DERMATITIS. EYES:
+    REDNESS, TEARING & BLURRED VISION. INHALATION: NASAL/RESPIRATORY
+    TRACT IRRITATION, DIZZINESS, FATIGUE, HEADACHE, NAUSEA, ANESTHESIA,
+    VOMITING, POSSIBLE U NCONSCIOUSNESS & ASPHYXIATION. INGESTION:
+    ASPIRATED INTO LUNGS MAY CAUSE CHEMICAL PNEUMONITIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: CLEAN W/SOAP & WATER. INGESTION: DON'T INDUCE VOMITING.
+    INHALATION: REMOVE TO FRESH AIR. EYES: FLUSH W/WATER. OBTAIN
+    MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:109F
+Lower Limits:1%
+Upper Limits:6%
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL, WATER FOG
+Fire Fighting Procedures:DON'T USE WATER EXCEPT IN THE FORM OF A FOG,
+    EXCLUDE AIR. SELF CONTAINED BREATHING APPARATUS SHOULD BE USED.
+Unusual Fire/Explosion Hazard:VAPORS FORMS EXPLOSIVE MIXTURE W/AIR
+    BETWEEN UPPER/LOWER EXPLOSIVE LIMITS. EXCESS HEAT MAY CAUSE
+    CONTAINERS TO RUPTURE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE ABSORBANT MATERIAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:TOOLS TO OPEN ANY CONTAINER MUST BE
+    NON-SPARKING. IN ADDITION, ELECTROSTATIC GROUNDING OF THE
+    CONTAINERS MUST BE PROVIDED.
+Other Precautions:AVOID BREATHING OF VAPORS, CONTACT W/SKIN. AVOID ALL
+    SOURCES OF HEAT, OPEN FLAMES, SPARKS & STATIC ELECTRICITY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE A NIOSH APPROVED CARTRIDGE RESPIRATOR OR GAS
+    MASK SUITABLE TO KEEP AIRBORNE MISTS & VAPOR CONCENTRATIONS AIR
+Spec Gravity:1.1
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:WHITE VISCOUS LIQUID, MINERAL SPIRITS ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:SOURCES OF HEAT, OPEN FLAMES, SPARKS &
+    STATIC ELECTRICITY.
+Hazardous Decomposition Products:CO, CO2, VARIOUS HYDROCARBONS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS FOR SOLVENT-BASED & PAINT WASTE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

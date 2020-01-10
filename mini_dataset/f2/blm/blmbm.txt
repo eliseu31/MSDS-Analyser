@@ -1,0 +1,124 @@
+=====================  Product Identification  =====================
+
+Product ID:ARP 11
+MSDS Date:07/01/1988
+FSC:6850
+NIIN:00N020067
+MSDS Number: BLMBM
+=== Responsible Party ===
+Company Name:ALLIED KELITE
+Address:29111 MELFORD ROAD
+City:NEW HUDSON
+State:MI
+ZIP:48165
+Country:US
+Info Phone Num:313-644-5626
+Emergency Phone Num:313-437-8161
+CAGE:IO020
+=== Contractor Identification ===
+Company Name:ALLIED KELITE
+Address:29111 MELFORD ROAD
+Box:City:NEW HUDSON
+State:MI
+ZIP:48165
+Country:US
+Phone:313-644-5626
+CAGE:IO020
+Company Name:WITCO ALLIED-KELITE DIV OF WITCO CHEMICAL CORP
+Address:400 MIDLAND AVE
+Box:City:HIGHLAND PARK
+State:MI
+ZIP:48203-3734
+Country:US
+Phone:313-437-8161/800-424-9300(CHEMTREC)
+CAGE:99442
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PHOSPHORIC ACID  (SARA III)
+CAS:7664-38-2
+RTECS #:TB6300000
+OSHA PEL:1 MG/M3/3 STEL
+ACGIH TLV:1 MG/M3/3 STEL; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:AN IRRITANT OF EYES, SKIN OR
+    RESPIRATORY TRACT. WILL CAUSE PHOSPHORIC ACID BURN. CHRONIC:
+    PROLONGED OR REPEATED SKIN CONTACT MAY CAUSE DERMATITIS.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH WATER AT LEAST 15 MINUTES. REPORT TO
+    MEDICAL. SKIN: WASH WITH SOAP AND WATER. INHAL: REMOVE TO FRESH
+    AIR. INGEST: REPORT TO MD.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NOT FLAMMABLE
+Extinguishing Media:WATER
+Fire Fighting Procedures:MATERIAL WILL GENERATE ACID FUMES. WEAR
+    NIOSH/MSHA APPROVED SCBA AND FULL PROTECTIVE EQUIPMENT. AVOID
+    VAPORS AND COMBUSTION PRODUCTS.
+Unusual Fire/Explosion Hazard:IF UNDILUTED MATERIAL IS HEATED TO 170F
+    OR ABOVE, IT WILL FLASH IF IGNITED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:PROTECT FROM SKIN CONTACT. PICK UP WITH
+    ABSORBENT MATERIALS AND CONTAIN FOR DISPOSAL. LABEL ACCURATELY.
+Neutralizing Agent:SODA ASH OR LIME.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM DIRECT HEAT.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN .
+Ventilation:GENERAL ROOM VENTILATION IS ADEQUATE.
+Protective Gloves:RUBBER GLOVES/NEOPRENE
+Eye Protection:CHEM WORK GOG/FULL LENGTH FCSHLD 
+Other Protective Equipment:AS NECESSARY TO PREVENT SKIN CONTACT.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C1
+Spec Gravity:1.19
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR, VISCOUS SOLUTION, SLIGHT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID ADDING TO CONCENTRATED CAUSTIC (I.E. BASES).
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:PHOSPHORUS OXIDES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTACT CENTRAL WASTE MANAGEMENT FOR CURRENT
+    DISPOSAL METHODS. DISPOSE OF I/A/W/ FEDERAL, STATE, AND LOCAL
+    REGULATIONS .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

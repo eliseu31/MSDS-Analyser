@@ -1,0 +1,174 @@
+=====================  Product Identification  =====================
+
+Product ID:807 2449 EKTACOLOR PRIME DEVELOPER REPLENISHER/RA- 4,PART A
+MSDS Date:02/06/1998
+FSC:6750
+NIIN:01-320-4809
+Kit Part:Y
+MSDS Number: BWRGB
+=== Responsible Party ===
+Company Name:EASTMAN KODAK
+Address:343 STATE STREET
+City:RODCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-722-5151/800-242-2424
+Emergency Phone Num:716-722-5151/800-242-2424
+CAGE:5K871
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+Company Name:EASTMAN KODAK CO US CUSTOMER SERVICE/GOVERNMENT SALES
+Address:800 LEE RD
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-3129
+Country:US
+Phone:800-828-6203
+CAGE:5K871
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 60-65%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:NOT RELEVANT
+ACGIH TLV:NOT RELEVANT
+
+Ingred
+    Name:4-(N-ETHYL-N-2-METHANESULFONYLAMINOETHYL)-2-METHYLPHENYLENEDIA
+    MINE SESQUISULFATE MONOHYDRATE
+CAS:25646-71-3
+RTECS #:PB0431000
+Fraction by Wt: 25-30%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:TRIETHANOLAMINE
+CAS:102-71-6
+RTECS #:KL9275000
+Fraction by Wt: 10 - 15%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:SUBSTITUTED STILBENE,
+CAS:82640-05-9
+Fraction by Wt: 1 - 5%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL, RAT) IS UNKNOWN.
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:TARGET ORGANS:EYES. ACUTE- EYES:NO
+    SPECIFIC HAZARD KNOWN. MAY CAUSE TRANSIENT IRRITATION. SKIN:LOW
+    HAZARD FOR RECOMMENDED HANDLING. INHALATION:EXPECTED TO BE A LOW
+    HAZARD FOR RECOMMENDED HANDLING. ORA L:EXPECTED TO BE A LOW
+    INGESTION HAZARD.CHRONIC- UNKNOWN.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:TRANSIENT IRRITATION
+Medical Cond Aggravated by Exposure:INDIVIDUALS WITH PRE-EXISTING EYE
+    PROBLEMS MAY BE MORE SUCCEPTIBLE TO THE EFFECTS FROM EXPOSURE TO
+    THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:GET MEDICAL HELP IF SYMPTOMS PERSIST. INHALED:REMOVE TO FRESH
+    AIR. EYES:FLUSH WITH WATER FOR 15 MINUTES, HOLDING EYELIDS OPEN.
+    SKIN:WASH WITH SOAP & WATER. ORAL:DO NOT INDUCE VOMITING. IF
+    CONSCIOUS, D RINK 1-2 GLASSES OF WATER. SEEK MEDICALATTENTION.
+    NEVER GIVE ANYTHING BY MOUTH TO AN UNCONSCIOUS PERSON.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:100F - 200F EST.
+Extinguishing Media:USE WATER SPRAY, CARBON DIOXIDE (CO2), ALCOHOL FOAM
+    OR DRY CHEMICAL. USE WATER SPRAY TO COOL FIRE EXPOSED CONTAINERS.
+Fire Fighting Procedures:WEAR PROTECTIVE CLOTHING AND NIOSH-APPROVED
+    SELF-CONTAINED BREATHING APPARATUS. HAZARDOUS DECOMPOSITION
+    PRODUCTS MAY BE FORMED.
+Unusual Fire/Explosion Hazard:CAN CAUSE DECOMPOSITION. COMBUSTIBLE
+    SOLVENT MAY ACCUMULATE IN THE CONTAINER HEADSPACE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH TO SEWER WITH LARGE AMOUNT OF WATER IF
+    PERMITTED. OTHERWISE, ABSORB SPILL WITH INERT MATERIAL SUCH AS
+    VERMICULITE. PLACE IN A CONTAINER FOR DISPOSAL. CLEAN AREA
+    THOROUGHLY TO REMOVE RESIDUAL CON TAMINATION.
+Neutralizing Agent:NOT RELEVANT
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN CLOSED CONTAINERS AWAY FROM
+    IGNITION SOURCES & STRONG OXIDIZING AGENTS.
+Other Precautions:AVOID CONTACT WITH EYES, SKIN AND CLOTHING. USE WITH
+    ADEQUATE VENTILATION. WASH THOROUGHLY AFTER HANDLING. DO NOT
+    BREATHE VAPORS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SHOULD BE NEEDED.
+Ventilation:GOOD GENERAL VENTILATION IS SUFFICIENT FOR MOST CONDITIONS
+    (10 ROOM VOLUMES PER HOUR).
+Protective Gloves:NITRILE RUBBER RECOMMENDED
+Eye Protection:SAFETY GLASSES WITH SIDE SHIELDS/GOGGLES
+Other Protective Equipment:SAFETY SHOWER AND EYE WASH FOUNTAIN SHOULD
+    BE LOCATED NEARBY. WEAR APPROPRIATE PROTECTIVE CLOTHING FOR RISK OF
+    EXPOSURE.
+Work Hygienic Practices:OBSERVE GOOD INDUSTRIAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES.
+Supplemental Safety and Health
+KEY1:C4. THIS IS A 3-PART KIT. PART A HAS PNI B, PART B HAS PNI L, PART
+    C HAS PNI J, WORKING SOLUTION HAS PNI X. FORMULA CHANGED.
+    ECOLOGICAL INFORMATION:A LOW BIOCHEMICAL OXYGEN DEMAND. A LOW
+    POTENTIA L TO AFFECT GERMINATION OF SOME PLANTS.AFTER DILUTION WITH
+    LARGE AMOUNT OF WATER, NO ADVERSE EFFECTS EXPECTED.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:B3
+NRC/State Lic Num:NOT RELEVANT
+Boiling Pt:B.P. Text:>212F,>100C
+Melt/Freeze Pt:M.P/F.P Text:NOT GIVEN
+Decomp Temp:Decomp Text:>356F,>180C
+Vapor Pres:18 @ 68F
+Vapor Density:0.6
+Spec Gravity:1.03
+pH:10.8
+Evaporation Rate & Reference:NOT GIVEN
+Solubility in Water:COMPLETE
+Appearance and Odor:LIGHT YELLOW LIQUID - SLIGHT AMINE ODOR
+Percent Volatiles by Volume:70- 75
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:TEMPERATURES ABOVE 176F/80C
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE,
+    OXIDES OF NITROGEN
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISCHARGE, TREATMENT OR DISPOSAL MAY BE SUBJECT
+    TO FEDERAL, STATE OR LOCAL REGULATIONS. FLUSH TO SEWER WITH LARGE
+    AMOUNT OF WATER, IF PERMITTED. FOLLOW LABEL INSTRUCTION FOR EMPTY
+    CONTAINERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

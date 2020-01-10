@@ -1,0 +1,139 @@
+=====================  Product Identification  =====================
+
+Product ID:CHEVRON PEARL KEROSENE
+MSDS Date:01/01/1987
+FSC:9140
+NIIN:00-242-6751
+MSDS Number: BKYJT
+=== Responsible Party ===
+Company Name:CHEVRON ENVIRONMENTAL HEALTH CENTER
+Box:1272
+City:RICHMOND
+State:CA
+ZIP:94802
+Info Phone Num:(415) 232-1514 EXT. 4957
+Emergency Phone Num:(415) 232-1514 EXT. 4957
+CAGE:0AHD1
+=== Contractor Identification ===
+Company Name:CHEVRON ENVIRONMENTAL HEALTH CENTER INC
+Address:15299 SAN PABLO AVE
+Box:4054
+City:RICHMOND
+State:CA
+ZIP:94804
+Country:US
+Phone:800-582-3835
+CAGE:0AHD1
+Company Name:CHEVRON RESEARCH CO
+Address:576 STANDARD AVE
+Box:City:RICHMOND
+State:CA
+ZIP:94804
+Country:US
+Phone:510-237-4411
+CAGE:96004
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:KEROSENE, KEROSINE
+CAS:8008-20-6
+RTECS #:OA5500000
+Fraction by Wt: 98%
+Other REC Limits:100 MG/CUM NIOSH
+
+Ingred Name:AROMATICS HYDROCARBON C8+
+Fraction by Wt: 2%
+
+Ingred Name:BENZENE  (SARA III)
+CAS:71-43-2
+RTECS #:CY1400000
+Fraction by Wt: <0.1%
+Other REC Limits:16 MG/CUM
+OSHA PEL:1PPM/5STEL;1910.1028
+ACGIH TLV:10 PPM; A2; 9192
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): >10 G/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:YES
+Health Hazards Acute and Chronic:EYES: IRRITATION. SKIN: IRRITATION,
+    DRYNESS, CRACKING DUE TO DEFATTING. INHALATION: CENTRAL NERVOUS
+    SYSTEM DEPRESSION, HEADACHE, DIZZINESS, LOSS OF APPETITE &
+    COORDINATION, & WEAKNESS. INGESTION: ASPI RATION INTO THE LUNGS MAY
+    CAUSE CHEMICAL PNEUMONITIS.
+Explanation of Carcinogenicity:BENZENE IS CONSIDERED TO BE AN A2
+    CARCINOGEN BY ACGIH.
+Effects of Overexposure:EYES: IRRITATION. SKIN: IRRITATION, DRYNESS,
+    CRACKING DUE TO DEFATTING. INHALATION: CENTRAL NERVOUS SYSTEM
+    DEPRESSION, HEADACHE, DIZZINESS, LOSS OF APPETITE & COORDINATION, &
+    WEAKNESS. INGESTION: ASPI RATION INTO THE LUNGS MAY CAUSE CHEMICAL
+    PNEUMONITIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES/SKIN: FLUSH W/WATER. INHALATION: REMOVE TO FRESH AIR. IF
+    BREATHING HAS STOPPED, APPLY ARTIFICIAL RESPIRATION. INGESTION:
+    DON'T INDUCE VOMITING. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:146F
+Lower Limits:0.9%
+Upper Limits:5.4%
+Extinguishing Media:CO2, DRY CHEMICAL, FOAM, OR WATER SPRAY
+Fire Fighting Procedures:DON'T ENTER ENCLOSED OR CONFINED SPACE W/O
+    WEARING PROPER PROTECTIVE EQUIPMENT & SELF-CONTAINED BREATHING
+    APPARATUS.
+Unusual Fire/Explosion Hazard:AUTOIGNITION TEMPERATURE: 500F.
+    COMBUSTIBLE LIQUID.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE ALL OPEN FLAMES IN VICINITY OF
+    SPILL. CLEAN UP IMMEDIATELY. ABSORB SPILL W/ABSORBENT CLAY,
+    DIATOMACEOUS EARTH, OR OTHER SUITABLE MATERIAL. A FIRE/VAPOR HAZARD
+    MAY EXIST SINCE THESE CLEANUP M ATERIALS WILL ONLY ABSORB LIQUID,
+    NOT VAPOR.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:READ & OBSERVE PRECAUTIONS ON PRODUCT
+    LABEL. CONTAINS PETROLEUM DISTILLATES. KEEP AWAY FROM HEAT/OPEN
+    FLAMES. KEEP OUT OF REACH OF CHILDREN.
+Other Precautions:DANGER  COMBUSTIBLE. DON'T SWALLOW. AVOID CONTACT
+    W/SKIN & EYES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE OF AN APPROVED AIR-SUPPPLIED RESPIRATOR OR
+    SELF-CONTAINED BREATHING EQUIPMENT FOR ORGANIC VAPOR/MIST IS
+    RECOMMENDED.
+Ventilation:PROVIDE ADEQUATE VENTILATION TO KEEP VAPOR/MIST
+    CONCENTRATION 99%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING MATERIALS
+Stability Condition to Avoid:OPEN FLAMES & HEAT
+Hazardous Decomposition Products:CO, CO2 & WATER VAPOR
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PLACE ALL CONTAMINATED MATERIALS IN DISPOSAL
+    CONTAINERS & BURY IN AN APPROVED DUMPING AREA. DISPOSE OF IN
+    ACCORDANCE W/FEDERAL, STATE, & LOCAL REGULATIONS. COMBUSTIBLE
+    LIQUID.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

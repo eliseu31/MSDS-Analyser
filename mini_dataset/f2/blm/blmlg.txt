@@ -1,0 +1,115 @@
+=====================  Product Identification  =====================
+
+Product ID:FIXER
+MSDS Date:05/19/1988
+FSC:6750
+NIIN:00N021472
+MSDS Number: BLMLG
+=== Responsible Party ===
+Company Name:IMTEC INFORMATION SYSTEMS
+Address:1829 UNDERWOOD BLVD SUITE 4
+City:DELRAN
+State:NJ
+ZIP:08075
+Country:US
+Info Phone Num:800-257-7460
+Emergency Phone Num:800-257-7460
+CAGE:62691
+=== Contractor Identification ===
+Company Name:IMTEC INFORMATION SYSTEMS
+Address:1829 UNDERWOOD BLVD SUITE 4
+Box:City:DELRAN
+State:NJ
+ZIP:08075
+Country:US
+Phone:800-257-7460
+CAGE:62691
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:THIOSULFURIC ACID, DIAMMONIUM SALT;(AMMONIUM THIOSULFATE)
+CAS:7783-18-8
+RTECS #:XN6465000
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50:ORAL (RAT):2890 MG/KG
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:NONE.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:MAY IRRITATE EYES ON CONTACT. INGESTION MAY
+    CAUSE STOMACH PAIN AND UPSET.
+Medical Cond Aggravated by Exposure:NONE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH WITH PLENTY OF WATER FOR AT LEAST 15 MINUTES;IF
+    DISCOMFORT PERSISTS, GET MEDICAL AID. INGEST:HARMFUL IF SWALLOWED.
+    DRINK WATER OR MILK, INDUCE VOMITING, AND SEEK MEDICAL AID
+    IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NOT COMBUSTIBLE
+Extinguishing Media:NOT APPLICABLE. USE EXTINGUISHING MEDIA SUITABLE
+    FOR SURROUNDING FIRE .
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:AT EXTREMELY HIGH TEMPERATURES, MAY EMIT
+    AMMONIA, SULFUR DIOXIDE OR SULFUR.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:MOP UP SMALL SPILLS ON WASTE TOWELLING AND
+    DISPOSE OF THE WASTE IN A PROPER CONTAINER; LOCAL, STATE, AND
+    FEDERAL REGULATIONS TAKING PRECEDENCE. FLUSH LARGE SPILLS TO SEWER
+    WITH PLENTY OF WATER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY PLACE.
+Other Precautions:NONE REQUIRED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN (F PN).
+Ventilation:NOT REQUIRED.
+Protective Gloves:NONE REQUIRED
+Eye Protection:CHEMCIAL WORKERS GOGGLES (F PN).
+Other Protective Equipment:NOT REQUIRED.
+Work Hygienic Practices:EYE-WASH FACILITY.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:>212F,>100C
+Spec Gravity:1.1
+pH:8.2
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR, COLORLESS; SLIGHT AMMONIA ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS.
+Stability Condition to Avoid:NONE.
+Hazardous Decomposition Products:SULFUR DIOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:FLUSH TO SEWER WITH PLENTY OF WATER. DISPOSE OF
+    IN ACCORDANCE WITH LOCAL, STATE, AND FEDERAL REGULATIONS .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

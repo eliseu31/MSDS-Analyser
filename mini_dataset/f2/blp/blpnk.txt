@@ -1,0 +1,123 @@
+=====================  Product Identification  =====================
+
+Product ID:0284 EMC-13 AEROSOL
+MSDS Date:01/17/1989
+FSC:6850
+NIIN:00F019160
+MSDS Number: BLPNK
+=== Responsible Party ===
+Company Name:SELIG CHEMICAL INDUSTRIES
+Address:840 SELIG DR, SW
+City:ATLANTA
+State:GA
+ZIP:30378
+Info Phone Num:(404) 691-9220
+Emergency Phone Num:(404) 691-9220
+CAGE:86938
+=== Contractor Identification ===
+Company Name:SELIG CHEMICAL INDUS, DIV OF NATIONAL SERVICE INDUS
+Address:840 SELIG DR SW
+Box:City:ATLANTA
+State:GA
+ZIP:30378
+Country:US
+Phone:404-691-9220
+CAGE:86938
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL CHLOROFORM (1,1,1-TRICHLOROEHANE)  (SARA III)
+CAS:71-55-6
+RTECS #:KJ2975000
+Fraction by Wt: 96%
+Other REC Limits:450 PPM STEL
+OSHA PEL:350 PPM/450 STEL
+ACGIH TLV:350 PPM/450STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+Ozone Depleting Chemical:1
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN: DEFAT. EYES: IRRITATION.
+    INHALATION: DIZZINESS, NAUSEA & HEADACHE. INGESTION: NAUSEA,
+    VOMITING, HARMFUL.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN: DEFAT. EYES: IRRITATION. INHALATION:
+    DIZZINESS, NAUSEA & HEADACHE. INGESTION: NAUSEA, VOMITING, HARMFUL.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: WASH W/SOAP & WATER. USE SKIN CREAM W/LANOLIN. EYES:
+    FLUSH W/PLENTY OF WATER FOR 15 MINS. INHALATION: REMOVE TO FRESH
+    AIR. ADMINISTER OXYGEN, IF NEEDED. INGESTION: GIVE PLENTY OF WATER.
+    DON'T IN DUCE VOMITING. OBTAIN MEDICAL ATTENTIONIN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Lower Limits:8%
+Upper Limits:10.5%
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL
+Fire Fighting Procedures:SELF-CONTAINED RESPIRATOR APPARATUS.
+Unusual Fire/Explosion Hazard:WHEN AEROSOLS ARE EXPOSED TO TEMP >120F
+    CANS MAY BURST.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:LARGE SPILLS ARE UNLIKELY DUE TO AEROSOL
+    PACKAGING. IF SPILLED, ABSORB W/AN ABSORBENT MATERIAL, PICK UP &
+    DEPOSIT IN SEALABLE CONTAINER FOR DISPOSAL AS HAZARDOUS WASTE.
+    THOROUGHLY CLEAN SPILL AREA W/D ETERGENT SOLUTION. RINSE W/CLEAN
+    WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP OUT OF REACH OF CHILDREN. AVOID
+    CONTACT W/SKIN & EYES. CONTAINER MAY BURST IF HEATED >120F. AVOID
+    INHALATION OF VAPORS.
+Other Precautions:AVOID CONTAMINATION OF FOOD. DON'T CRUSH, PUNCTURE OR
+    INCINERATE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:CHEMICAL CARTRIDGE RESPIRATOR IF IN CONFINED
+    AREA.
+Ventilation:MECHANICAL
+Protective Gloves:RUBBER OR NEOPRENE
+Eye Protection:SAFETY GOGGLES, GLASSES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:165-191F
+Vapor Pres:90-100PSIG
+Spec Gravity:1.3
+Evaporation Rate & Reference:(CARBON TETRACHL. = 1): 1
+Solubility in Water:INSOLUBLE
+Appearance and Odor:CLEAR, COLORLESS LIQUID, CHORINATED SOLVENT ODOR.
+Percent Volatiles by Volume:100%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+WATER
+Hazardous Decomposition Products:PHOSGENE, CHLORINE, HYDROGEN CHLORIDE
+    & CO.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:WHEN DISPOSING OF SPENT CONTAINERS, DON'T CRUSH,
+    PUNCTURE OR INCINERATE. CONSULT LOCAL, STATE & FEDERAL AGENCIES FOR
+    PROPER DISPOSAL METHOD IN YOUR AREA. FEDERAL HAZARDOUS WASTE: F001.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

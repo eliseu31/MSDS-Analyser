@@ -1,0 +1,162 @@
+=====================  Product Identification  =====================
+
+Product ID:HYSOL HD5020 CATALYST 20 OR A
+MSDS Date:05/17/1989
+FSC:7510
+NIIN:00-888-8527
+MSDS Number: BKYNT
+=== Responsible Party ===
+Company Name:DEXTER CORPORATION
+Address:15051 DON JULIAN ROAD
+Box:1282
+City:INDUSTRY
+State:CA
+ZIP:91749-1282
+Info Phone Num:(818) 968-6511
+Emergency Phone Num:(818) 916-9107
+CAGE:79436
+=== Contractor Identification ===
+Company Name:DEXTER CORP DEXTER ELECTRONIC MATERIALS
+Address:15051 E DON JULIAN RD
+Box:City:INDUSTRY
+State:CA
+ZIP:91746-1282
+Country:US
+Phone:626-968-6511
+CAGE:79436
+Company Name:DEXTER CORP DEXTER ELECTRONIC MATERIALS DIV
+Address:15051 E DON JULIAN RD
+Box:City:LA PUENTE
+State:CA
+ZIP:91746
+Country:US
+Phone:818-968-6511
+CAGE:12405
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TETRAETHYLENEPENTAMINE
+CAS:112-57-2
+RTECS #:KH8585000
+Fraction by Wt: 15-35%
+
+Ingred Name:2-BUTOXYETHANOL
+CAS:111-76-2
+RTECS #:KJ8575000
+Fraction by Wt: 15-35%
+Other REC Limits:25 PPM (SKIN)
+OSHA PEL:S, 50 PPM
+ACGIH TLV:S, 25 PPM; 9293
+
+Ingred Name:VOL ORGANIC CMPD: 209 GM/L
+RTECS #:9999999VO
+
+Ingred Name:2,4,6-TRI(DIMETHYLAMINOMETHYL)PHENOL, DMP-30
+CAS:90-72-2
+RTECS #:SN3500000
+Fraction by Wt: 35-60%
+
+Ingred Name:FORMALDEHYDE  (SARA III)
+CAS:50-00-0
+RTECS #:LP8925000
+Fraction by Wt: TRACE
+OSHA PEL:SEE 1910.1048
+ACGIH TLV:C 0.3 PPM; A2; 9293
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL RATS LD50: 470 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION W/CORNEAL INJURY.
+    EFFECTS MAY BE SLOW TO HEAL. SKIN: IRRITATION, ABSORPTION OF
+    HARMFUL AMOUNTS. INGESTION: INJURY. INHALATION: ADVERSE, IRRITATION
+    TO UPPER RESPIRATORY TRACT/LUNGS, BL OOD, LUNG, LIVER/KIDNEY
+    EFFECTS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: IRRITATION W/CORNEAL INJURY. SKIN:
+    IRRITATION. A SINGLE PROLONGED EXPOSURE MAY RESULT IN THE MATERIAL
+    BEIGN ABSORBED IN AMOUNTS WHICH COULD CAUSE DEATH. INGESTION:
+    INJURY. INHALATION: ADVERSE EF FECTS, IRRITATION TO UPPER
+    RESPIRATORY TRACT/LUNGS, BLOOD, LUNG, LIVER/KIDNEY EFFECTS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES/SKIN: FLUSH W/PLENTY OF WATER FOR AT LEAST 30 MINS.
+    INHALATION: REMOVE TO FRESH AIR. IF BREATHING IS DIFFICULT, GIVE
+    OXYGEN. INGESTION: DON'T INDUCE VOMITING. GIVE LARGE QUANTITIES OF
+    WATER TO DI LUTE MATERIALS, & TRANSPORT TO MEDICAL FACILITY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:155F
+Extinguishing Media:CO2, DRY CHEMICALS, FOAM, WATER SPRAY OR FOG.
+Fire Fighting Procedures:PERSONNEL ENGAGED IN FIGHTING FIRE SHOULD WEAR
+    SELF-CONTAINED BREATHING APPARATUS TO GUARD AGAINST POSSIBLE
+    HARMFUL FUMES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE IGNITION SOURCES. PROVIDE ADEQUATE
+    VENTILATION. COVER SPILL W/ABSORBENT MATERIAL/REMOVE TO WASTE
+    CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN CLOSED CONTAINERS IN A COOL,
+    DRY AREA AWAY FROM HEAT. USE ONLY W/ADEQUATE VENTILATION. WT/GAL:
+    1.74 LBS/GAL.
+Other Precautions:AVOID PROLONGED/REPEATED BREATHING OF VAPORS OR
+    CONTACT W/SKIN. WT/GAL: 1.74 LBS/GAL.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR A PROPERLY FITTED NIOSH/MSHA APPROVED
+    SELF-CONTAINED BREATHING APPARATUS OR INDUSTRIAL TYPE CANISTER MASK
+    IN ENCLOSED AREAS W/POOR OR NO VENTILATION SYSTEM.
+Ventilation:LOCAL EXHAUST: PREFERRED. MECHANICAL: ACCEPTABLE.
+Protective Gloves:RUBBER, PLASTIC
+Eye Protection:CHEMICAL GOGGLES, FACE SHIELD, GLASSES
+Other Protective Equipment:HYDROCARBON APRONS, EYE WASH & SAFETY
+    SHOWER.
+Work Hygienic Practices:REMOVE/WASH CONTAMINATED CLOTHING BEFORE REUSE.
+    DESTROY CONTAMINATED SHOES.
+Supplemental Safety and Health
+NOTE TO PHYSICIAN: CORROSIVE. MAY CAUSE STRICTURE. IF LAVAGE IS
+    PERFORMED, SUGGEST ENDOTRACHEAL &/OR ESOPHAGOSCOPIC CONTROL. IF
+    BURN IS PRESENT, TREAT AS ANY BURN, AFTER DECONTAMINATION. MAT
+    CAUSE RES PIRATORY SENSITIZATION. NO SPECIFIC ANTIDOTE. SUPPORT
+    CARE. TREATMENT BASED ON JUDGEMENT OF THE PHYSICIAN IN RESPONSE.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:340F
+Vapor Density:4.07
+Spec Gravity:0.965
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Appearance and Odor:AMBER LIQUID, AMINE ODOR.
+Percent Volatiles by Volume:25%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+COPPER, COPPER BASE ALLOYS, CHLORINATED ORGANIC COMPOUNDS
+Stability Condition to Avoid:HIGH TEMPERATURE, OPEN FLAME, HEAT,
+    IGNITION SOURCES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

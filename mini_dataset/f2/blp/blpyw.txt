@@ -1,0 +1,120 @@
+=====================  Product Identification  =====================
+
+Product ID:539 MOLYBDENUM INDICATOR
+MSDS Date:08/01/1986
+FSC:6850
+NIIN:00F019357
+MSDS Number: BLPYW
+=== Responsible Party ===
+Company Name:DEARBORN DIV/W R GRACE & CO
+Address:300 GENESEE ST
+City:LAKE ZURICH
+State:IL
+ZIP:60047
+Info Phone Num:(312) 438-8241
+Emergency Phone Num:(312) 438-8241
+Preparer's Name:S MORSS
+CAGE:FO962
+=== Contractor Identification ===
+Company Name:DEARBORN DIV/W R GRACE & CO
+Address:300 GENESEE ST
+City:LAKE ZURICH
+State:IL
+ZIP:60047
+Phone:(312) 438-8241
+CAGE:FO962
+Company Name:GRACE W R AND CO DEARBON DIV
+Address:300 GENESEE ST
+Box:City:LAKE ZURICH
+State:IL
+ZIP:60047
+Country:US
+Phone:708-438-1800
+CAGE:71881
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:1,5-DIPHENYLCARBAZONE
+CAS:538-62-5
+Fraction by Wt: <1%
+
+Ingred Name:METHYL ALCOHOL (METHANOL)  (SARA III)
+CAS:67-56-1
+RTECS #:PC1400000
+Fraction by Wt: BALANCE
+Other REC Limits:200 PPM
+OSHA PEL:S,200PPM/250STEL
+ACGIH TLV:S,200PPM/250STEL; 93
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INGESTION: POISON.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INGESTION: POISON.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. INGESTION: TREAT IMMEDIATELY
+    FOR METHANOL POISONING. EYES: FLUSH W/WATER. SKIN: WASH W/SOAP &
+    WATER. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:54F
+Extinguishing Media:FOAM, CO2, OR DRY CHEMICAL
+Unusual Fire/Explosion Hazard:FLAMMABLE LIQUID. UN1230. AUTOIGNITION
+    TEMPERATURE: 878F.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EXTINGUISH ALL FLAMES. SOAK UP ON TOWELS OR
+    PAPER & PLACE IN A CLOSED CONTAINER FOR DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE CONTAINERS CLOSED IN A COOL, DRY
+    PLACE. FOR INDUSTRIAL USE ONLY. AVOID INHALATION OF VAPORS OR
+    MISTS.
+Other Precautions:USE W/ADEQUATE VENTILATION. AVOID CONTACT W/SKIN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AS REQUIRED
+Ventilation:ADEQUATE
+Protective Gloves:POLYVINYL CHLORIDE
+Eye Protection:SAFETY GLASSES OR GOGGLES
+Other Protective Equipment:ADEQUATE CLOTHING
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>60F
+Spec Gravity:0.79
+Solubility in Water:MISCIBLE
+Appearance and Odor:PINK TO RED
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:HEAT & FLAMES
+Hazardous Decomposition Products:CO, & CO2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:MAY BE BURNED UNDER CONTROLLED CONDITIONS
+    ACCORDING TO LOCAL, STATE & FEDERAL REGULATIONS. FLAMMABLE LIQUID.
+    UN 1230.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

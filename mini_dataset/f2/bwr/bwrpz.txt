@@ -1,0 +1,137 @@
+=====================  Product Identification  =====================
+
+Product ID:ACRYLIC SEALANT PA-02 (WATER-BASED)
+MSDS Date:01/01/1993
+FSC:8030
+NIIN:00N057212
+MSDS Number: BWRPZ
+=== Responsible Party ===
+Company Name:PERMATITE MFG
+Address:1600 E CLIFF RD
+City:BURNSVILLE
+State:MN
+ZIP:55337
+Country:US
+Info Phone Num:612-882-0916
+Emergency Phone Num:800-424-9300(CHEMTREC)
+CAGE:0MHJ9
+=== Contractor Identification ===
+Company Name:PERMATITE MFG
+Address:1600 E CLIFF RD
+Box:City:BURNSVILLE
+State:MN
+ZIP:55337
+Country:US
+Phone:612-882-0916
+CAGE:0MHJ9
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ACRYLIC EMULSION; (ACRYLIC EMULSION POLYMER)
+Fraction by Wt: 35-45%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:CARBONIC ACID, CALCIUM SALT(1:1); (CALCIUM CARBONATE)
+CAS:471-34-1
+RTECS #:FF9335000
+Fraction by Wt: 35-45%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 5-10%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:TITANIUM OXIDE;(TITANIUM DIOXIDE) MFR INVALID
+    CAS#:134663-67-7.
+CAS:13463-64-7
+RTECS #:XR2275000
+Fraction by Wt: 3-5%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: MAY CAUSE SOME TRANSIENT
+    REDDENING OF SKIN. CHRONIC: NONE CURRENTLY KNOWN.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH WATER FOR AT LEAST 15 MINUTES. CONTACT MD.
+    SKIN: REMVOE W/SOAP & WATER. CONTACT MD IR IRRIT PERSISTS. INHAL:
+    REMOVE TO FRESH AIR. INGEST: CALL MD IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE NFPA CLASS B FIRE EXTINGUISHER (CO*2, FOAM).
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT.
+Unusual Fire/Explosion Hazard:CLOSED CONTAINERS MAY EXPODE WHEN EXPOSED
+    TO EXTREME HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONTAIN & PICK UP SPILL WITH AN ABSORBENT
+    MATERIAL AS REQUIRED & DISPOSE OF.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL DRY PLACE AWAY FROM
+    ACIDS & OXIDIZERS & EXTREME HEAT, SOURCES OF IGNITION.
+Other Precautions:AVOID CONTACT WITH SKIN & EYES. AVOID PROLONGED
+    BREATHING. KEEP AWAY FROM HEAT, USE WITH ADEQUATE VENTILATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED ORGANIC VAPOR MASK.
+Ventilation:USE MECHANICAL VENTILATION TO MINIMIZE FUMES IN USE AREA.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPRVD CHEM WORKERS GOGGLES.
+Other Protective Equipment:NONE.
+Work Hygienic Practices:OBSERVE NORMAL INDUSTRIAL HYGIENIC PRACTICES.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:212F,100C
+Vapor Density:LTR/AIR
+Spec Gravity:1.496
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Appearance and Odor:NONE SPECIFIED BY MANUFACTURER.
+Percent Volatiles by Volume:27.5
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE.
+Stability Condition to Avoid:NONE.
+Hazardous Decomposition Products:BURNING CAN PRODUCE CARBON DIOXIDE
+    &/CARBON MONOXIDE & OXIDES OF NITOGEN. OTHER TOXIC FUMES AND VAPORS
+    MAY BE RELEASED.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

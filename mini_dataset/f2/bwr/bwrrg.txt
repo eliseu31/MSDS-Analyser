@@ -1,0 +1,141 @@
+=====================  Product Identification  =====================
+
+Product ID:PFS-727-R RUST INHIBITOR
+MSDS Date:12/01/1993
+FSC:7930
+NIIN:00N057544
+MSDS Number: BWRRG
+=== Responsible Party ===
+Company Name:PROFESSIONAL FINISHING SYSTEMS INC
+Address:7605 HAZELTINE AVE
+City:VAN NUYS
+State:CA
+ZIP:91045
+Country:US
+Info Phone Num:818-781-2743
+Emergency Phone Num:818-781-2743
+CAGE:0FYY9
+=== Contractor Identification ===
+Company Name:PROFESSIONAL FINISHING SYSTEMS INC
+Address:7605 HAZELTINE AVE
+Box:City:VAN NUYS
+State:CA
+ZIP:91045
+Country:US
+Phone:818-781-2743
+CAGE:0FYY9
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SURFACTANTS (TYPE NOT SPECIFIED)
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:DETERGENTS
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:SOFTENER; (SOFTENING AGENT)
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:INHIBITORS
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:EMULSIFIERS
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MAY PRODUCE SKIN AND EYE IRRITATION OR
+    DRYING OF SKIN (AS ANY SOAP WOULD REMOVE NATURAL SKIN OILS).
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: IMMEDIATELY FLUSH WITH LARGE AMOUNTS OF WATER FOR AT
+    LEAST 15 MINUTES. IF IRRITATION PERSISTS, SEEK MEDICAL ATTENTION.
+    SKIN: WASH WITH WATER, TOWEL DRY. INGESTION: INDUCE VOMITING AND
+    SEEK MEDICA L ATTENTION. NEVER INDUCE VOMITING IN AN UNCONSCIOUS
+    PERSON. INHALATION: REMOVE FROM EXPOSURE. SUPPORT BREATHING (GIVE
+    ARTIFICIAL RESPRIATION/OXYGEN) .
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:FOR SOURCE OF FIRE-FOAM, DRY CHEMICAL, CARBON
+    DIOXIDE.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT . VAPOR MAY BE HARMFUL.
+Unusual Fire/Explosion Hazard:THERMAL DECOMPOSITION MAY PRODUCE
+    AMMONIA, OXIDES OF CARBON AND NITROGEN. USE APPROPRIATE APPROVED
+    PROTECTION AT ALL TIMES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB WITH FLOOR CLEANING AGENTS OR SAWDUST
+    TYPE ABSORBENTS, OR HOSE DOWN DRAIN WITH PLENTY OF WATER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID EXTREME HEAT OR COLD (FREEZING
+    OR BOILING TEMP.).
+Other Precautions:EXERCISE CAUTION WHEN HANDLING ALL INDUSTRIAL
+    MATERIALS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE
+    FOR EXPOSURE OF CONCERN .
+Ventilation:GENERAL VENTILATION SUFFICIENT TO KEEP AIRBORNE
+    CONCENTRATION BELOW CURRENT EXPOSURE LIMITS .
+Protective Gloves:RUBBER OR NEOPRENE GLOVES.
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGG .
+Other Protective Equipment:NOT APPLICABLE.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+PH: 12.0-13.0 (1% SOLUTION).
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:220F,104C
+Spec Gravity:1.07 (H*2O=1)
+pH:SUPDAT
+Solubility in Water:COMPLETELY SOLUBLE
+Appearance and Odor:PURPLE LIQUID, NONVISCOUS, MILD ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS AND OXIDANTS.
+Stability Condition to Avoid:NOT APPLICABLE.
+Hazardous Decomposition Products:OXIDES OF CARBON AND NITROGEN.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:MATERIAL, IN AND OF ITSELF, IS BIODEGRADABLE AND
+    NON-HAZARDOUS. DURING USE IT MAY BECOME CONTAMINATED REQUIRING
+    LABORATORY ANALYSIS TO DETERMINE PROPER DISPOSAL METHODS. DISPOSE
+    OF IN ACCORDANCE WITH  FEDERAL, STATE AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

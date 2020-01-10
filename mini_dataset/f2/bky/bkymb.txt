@@ -1,0 +1,104 @@
+=====================  Product Identification  =====================
+
+Product ID:CS 3300 TYPE 1 CLASS B (PART A)
+MSDS Date:04/02/1990
+FSC:8030
+NIIN:00-616-9191
+MSDS Number: BKYMB
+=== Responsible Party ===
+Company Name:FLAMEMASTER CORP
+Address:11120 SHERMAN WAY
+City:SUN VALLEY
+State:CA
+ZIP:91352
+Info Phone Num:(818) 982-1650
+Emergency Phone Num:(818) 982-1650
+CAGE:14439
+=== Contractor Identification ===
+Company Name:FLAMEMASTER CORP THE CHEM SEAL DIV
+Address:11120 SHERMAN WAY
+Box:City:SUN VALLEY
+State:CA
+ZIP:91352-4949
+Country:US
+Phone:818-982-1650
+CAGE:14439
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:THIOL TERMINATED POLYETHER, POLYDITHIOETER (OR LIQ.
+    POLYSULFIDE POLYMER)
+CAS:68611-50-7
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES/INGESTION: IRRITATION. SKIN:
+    DERMATITIS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES/INGESTION: IRRITATION. SKIN: DERMATITIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER. SKIN: WASH W/SOAP & WATER.
+    INGESTION: INDUCE VOMITING. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:>200F
+Extinguishing Media:DRY CHEMICAL, FOAM, CO2 OR WATER
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SCOOP UP & TRANSFER TO CONTAINER FOR REACTION
+    W/CURING AGENT. CLEANUP RESIDUE W/1,1,1 TRICHLOROETHANE THEN W/SOAP
+    & WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL DRY AREA & AWAY FROM
+    STRONG ACIDS. TRAIN EMPLOYEES IN SAFE HANDLING OF THIS PRODUCT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AS REQUIRED
+Ventilation:PROVIDE LOCAL AIR OR MECHANICAL FAN EXHAUST VENTILATION
+Protective Gloves:RUBBER
+Eye Protection:SAFETY GLASSES
+Work Hygienic Practices:WASH HANDS BEFORE EATING, SMOKING OR DRINKING
+    AFTER HANDLING
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:M.P/F.P Text:ROOM TEMP.
+Vapor Pres:NIL
+Vapor Density:NIL
+Spec Gravity:1.33
+Evaporation Rate & Reference:(BU AC = 1): <1
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:PINK PASTE, W/POLYSULFIDE ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS & STRONG ACIDS
+Stability Condition to Avoid:OPEN FLAME
+Hazardous Decomposition Products:HYDROGEN SULFIDE, CO, CO2, SULFUR
+    DIOXIDE, & SMOKE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:REACT W/CURING AGENT & DISPOSE AS SOLID WASTE
+    ACCORDING TO FEDERAL, STATE, & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,194 @@
+=====================  Product Identification  =====================
+
+Product ID:T70 C 20 SHER-WOOD MOISTURE RESISTANT LACQUER GLOSS
+MSDS Date:10/24/1988
+FSC:8010
+NIIN:00F018527
+MSDS Number: BKYDB
+=== Responsible Party ===
+Company Name:SHERWIN WILLIAMS COMPANY
+Address:101 PROSPECT AVE NORTHWEST
+City:CLEVELAND
+State:OH
+ZIP:44115
+Info Phone Num:(216) 566-2902
+Emergency Phone Num:(216) 566-2917
+CAGE:54626
+=== Contractor Identification ===
+Company Name:SHERWIN WILLIAMS COMPANY
+Address:101 PROSPECT AVE NW
+City:CLEVELAND
+State:OH
+ZIP:44115
+Country:US
+Phone:216-566-2902
+CAGE:54626
+Company Name:SHERWIN-WILLIAMS CO THE
+Address:101 PROSPECT AVE NW
+Box:City:CLEVELAND
+State:OH
+ZIP:44115-1042
+Country:US
+Phone:800-251-2486/216-566-2242
+CAGE:54636
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOBUTYL ALCOHOL  (SARA III)
+CAS:78-83-1
+RTECS #:NP9625000
+Fraction by Wt: 5%
+Other REC Limits:50 PPM
+OSHA PEL:100 PPM
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:METHYL N-AMYL KETONE
+CAS:110-43-0
+RTECS #:MJ5075000
+Fraction by Wt: <5%
+Other REC Limits:50 PPM
+OSHA PEL:100 PPM
+ACGIH TLV:50 PPM; 9192
+
+Ingred Name:ISOBUTYL ACETATE  (SARA III)
+CAS:110-19-0
+RTECS #:AI4025000
+Fraction by Wt: 20%
+Other REC Limits:150 PPM
+OSHA PEL:150 PPM
+ACGIH TLV:150 PPM; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:LIGHT ALIPHATIC NAPHTHA, VM & P NAPHTHA
+CAS:64742-89-8
+Fraction by Wt: 5%
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:ISOPARAFFINIC HYDROCARBONS (NAPHTHA PETROLEUM),
+    HYDROTREATED HEAVY, NON AROMATIC HEAVY NAPHTHA) ISOPAR G
+CAS:64742-48-9
+Fraction by Wt: 10%
+Other REC Limits:300 PPM EXXON
+ACGIH TLV:300 PPM
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 10%
+Other REC Limits:100 PPM
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS)	(SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: <5%
+Other REC Limits:100 PPM
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: 15%
+Other REC Limits:400 PPM
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES/SKIN: IRRITATION, REDNESS,
+    ITCHING & BURNING SENSATION. INHALATION: RESPIRATORY SYSTEM
+    IRRITATION, NERVOUS SYSTEM DEPRESSION, UNCONSCIOUSNESS, HEADACHE,
+    DIZZINESS, NAUSEA, LOSS OF COORDINATION, L IVER/URINARY/BLOOD
+    FORMING/CARDIO-VASCULAR/REPRODUCTIVE SYSTEM EFFECTS, PERMANENT
+    BRAIN/NERVOUS SYSTEM DAMAGE, & DEATH.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES/SKIN: IRRITATION, REDNESS, ITCHING, &
+    BURNING SENSATION. INHALATION: RESPIRATORY SYSTEM IRRITATION,
+    NERVOUS SYSTEM DEPRESSION, UNCONSCIOUSNESS, HEADACHE, DIZZINESS,
+    NAUSEA, LOSS OF COORDINATION, 
+    LIVER/URINARY/BLOOD-FORMING/CARDIO-VASCULAR/REPRODUCTIVE SYSTEM
+    EFFECTS, PERMANENT BRAIN/NERVOUS SYSTEM DAMAGE, & DEATH.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER FOR 15 MIN. SKIN: WASH W/SOAP &
+    WATER. INHALATION: REMOVE TO FRESH AIR & RESTORE BREATHING. KEEP
+    WARM & QUIET. INGESTION: DON'T INDUCE VOMITING. GIVE SEVERAL
+    GLASSES OF W ATER. NEVER GIVE ANYTHING BY MOUTH TO AN UNCONSCIOUS
+    PERSON. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:22F
+Lower Limits:0.9%
+Extinguishing Media:CO2, DRY CHEMICAL OR FOAM
+Fire Fighting Procedures:WATER SPRAY MAY BE INEFFECTIVE. IF WATER IS
+    USED, FOG NOZZLES ARE PREFERABLE. WEAR FULL PROTECTIVE CLOTHING &
+    SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:WATER MAY BE USED TO COOL CLOSED
+    CONTAINERS TO PREVENT PRESSURE BUILD-UP, POSSIBLE AUTOIGNITION &
+    EXPLOSION WHEN EXPOSED TO EXTREME HEAT. FLAMMABLE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. VENTILATE AREA
+    & REMOVE W/INERT ABSORBENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER TIGHTLY CLOSED WHEN NOT
+    IN USE. USE W/ADEQUATE VENTILATION. AVOID BREATHING VAPOR/SPRAY
+    MIST & CONTACT W/SKIN/EYES. DON'T INGEST.
+Other Precautions:USE APPROVED BONDING/GROUNDING PROCEDURES. KEEP AWAY
+    FROM CHILDREN. TRANSFER ONLY TO APPROVED CONTAINERS W/APPROPRIATE
+    LABELING. DON'T SMOKE. INTENTIONAL MISUSE BY DELIBERATELY
+    CONCENTRATING & INHALIN G THE CONTENTS CAN BE HARMFUL/FATAL.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:PROPERLY FITTED VAPOR/PARTICULATE RESPIRATOR IF
+    >TLV, WHEN SANDING/ABRADING THE DRIED FILM, WEAR A NIOSH/MSHA
+    APPROVED DUST/MIST RESPIRATOR FOR DUST WHICH MAY BE GENERATED FROM
+    PRODUCT UNDERLYING PAIN T OR ABRASIVE.
+Ventilation:LOCAL EXHAUST: PREFERABLE. GENERAL EXHAUST: ACCEPTABLE TO
+    KEEP AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:84%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:EXTREME HEAT/ELECTRICAL
+    EQUIPMENT/SPARKS/OPEN FLAMES/HOT SURFACES/PILOT
+    LIGHTS/STOVES/HEATERS/OTHER IGNITION SOURCES
+Hazardous Decomposition Products:CO & CO2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:WASTE MUST BE TESTED FOR IGNITABILITY TO
+    DETERMINE THE APPLICABLE EPA HAZARDOUS WASTE NUMBERS. INCINERATE IN
+    APPROVED FACILITY ACCORDING TO FEDERAL, STATE, & LOCAL REGULATIONS
+    REGARDING POLLUTION. DON 'T INCINERATE CLOSED CONTAINERS.
+    FLAMMABLE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

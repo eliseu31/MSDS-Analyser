@@ -1,0 +1,148 @@
+=====================  Product Identification  =====================
+
+Product ID:MP402T
+MSDS Date:10/21/1986
+FSC:6140
+NIIN:00-401-4956
+MSDS Number: BJDQG
+=== Responsible Party ===
+Company Name:SAFT AMERICA INC, POWER SOURCES DIV
+Address:711 INDUSTRIAL BLVD
+Box:1886
+City:VALDOSTA
+State:GA
+ZIP:31603
+Country:US
+Info Phone Num:912-247-2331
+Emergency Phone Num:912-247-2331
+Preparer's Name:WILLIAM O. WILDER, JR.
+CAGE:09052
+=== Contractor Identification ===
+Company Name:AVEX ELECTRONICS CORP
+Address:1683 WINCHESTER ROAD
+Box:1026
+City:BENSALEM
+State:PA
+ZIP:19020-4510
+Country:US
+Phone:215-638-1515
+CAGE:58414
+Company Name:PERROTT ENGINEERING LABS INC
+Address:7201 LEE HIGHWAY
+Box:City:FALLS CHURCH
+State:VA
+ZIP:22046-3706
+Country:US
+Phone:703-532-0700
+CAGE:23759
+Company Name:SAFT AMERICA INC.
+Address:711 INDUSTRIAL BLVD
+Box:1886
+City:VALDOSTA
+State:GA
+ZIP:31602
+Country:US
+Phone:912-247-2331
+CAGE:09052
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CADMIUM AND CADMIUM HYDROXIDE
+Fraction by Wt: 14.63%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:0.1 MG/M3 (FUME)
+ACGIH TLV:0.05 MG/M3
+
+Ingred Name:NICKEL AND NICKEL HYDROXIDE
+Fraction by Wt: 26.07%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:1.0 MG/M3
+ACGIH TLV:1.0 MG/M3
+
+Ingred Name:POTASSIUM HYDROXIDE  (SARA III)
+CAS:1310-58-3
+RTECS #:TT2100000
+Fraction by Wt: 6.5%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:C, 2 MG/M3
+ACGIH TLV:C 2 MG/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT) IS 365 KG/M3 (KOH)
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:POTASSIUM HYDROXIDE SOLUTION IS
+    CORROSIVE. WILL BURN EYES AND SKIN.
+Explanation of Carcinogenicity:NICKEL AND CADMIUM ARE SUSPECTED HUMAN
+    CARCINOGENS.
+Effects of Overexposure:ACUTE:EYE AND SKIN BURNS FROM POTASSIUM
+    HYDROXIDE. NICKEL & CADMIUM COMPOUNDS MAY CAUSE CONTACT DERMATITIS.
+    CHRONIC:NICKEL COMPOUNDS MAY CAUSE CANCER. CADMIUM COMPOUNDS MAY
+    CAUSE RENAL FAILURE AND RES PIRATORY PROBLEMS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH RUNNING WATER FOR 15 MINUTES WHILE HOLDING
+    EYELID. GET MEDICAL ATTENTION IMMEDIATELY. SKIN: WASH WITH WATER.
+    REMOVE CONTAMINATED CLOTHING. GET MEDICAL ATTENTION. INHALATION:
+    REMOVE TO  FRESH AIR. GIVE MOUTH-TO-MOUTH RESUSCITATION IF NOT
+    BREATHING. GET MEDICAL ATTENTION. INGESTION: DO NOT INDUCE
+    VOMITING. IF CONSCIOUS GIVE DRINK OF WATER TO DILUTE. GET MEDICAL
+    ATTENTION IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING FIRE.
+Unusual Fire/Explosion Hazard:CADMIUM OXIDE FUMES, VAPORS AND DUST MAY
+    BE GIVEN OFF FROM FIRE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FOLLOW HAZARDOUS WASTE CLEAN-UP PROCEDURES
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT BREAK OPEN BATTERY CASE.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF MATERIALS ARE BEING INCINERATED, WEAR
+    SELF-CONTAINED BREATHING APPARATUS.
+Protective Gloves:RUBBER
+Eye Protection:GOGGLES
+Other Protective Equipment:RUBBER OR PLASTIC GARMENTS
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:Z7
+Appearance and Odor:NICKEL-CADMIUM SEALED BATTERY WITH PLASTIC CASE
+    2.0W X 5.0L X 2.0H (INCHES).
+
+=================  Stability and Reactivity Data  =================
+
+Hazardous Decomposition Products:SUBLIMES AS CADMIUM OXIDE AT 2800 DEG
+    F.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:SEND TO A CERTIFIED HAZARDOUS WASTE DISPOSAL
+    SITE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

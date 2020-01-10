@@ -1,0 +1,152 @@
+=====================  Product Identification  =====================
+
+Product ID:LCR12V17BP, POWERSONIC RECHARGEABLE BATTERIES
+MSDS Date:01/14/1990
+FSC:6140
+NIIN:01-417-9154
+Status Code:A
+MSDS Number: CJQVW
+=== Responsible Party ===
+Company Name:POWER-SONIC CORP
+Address:3106 SPRING ST
+Box:5242
+City:REDWOOD CITY
+State:CA
+ZIP:94063-3929
+Country:US
+Info Phone Num:415-364-5001
+Emergency Phone Num:415-364-5001
+CAGE:56309
+=== Contractor Identification ===
+Company Name:CELL ENERGY INC
+Address:3190-B ORANGE GROVE AVE
+Box:City:NORTH HIGHLANDS
+State:CA
+ZIP:95660-5706
+Country:US
+Phone:916-484-7974
+Contract Num:SP0430-99-M-AR23
+CAGE:1U269
+Company Name:POWER-SONIC CORP
+Address:3106 SPRING ST
+Box:5242
+City:REDWOOD CITY
+State:CA
+ZIP:94063-3929
+Country:US
+Phone:650-364-5001
+CAGE:56309
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SULFURIC ACID  (SARA III)
+CAS:7664-93-9
+RTECS #:WS5600000
+Fraction by Wt: 17%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:LEAD  (SARA III)
+CAS:7439-92-1
+RTECS #:OF7525000
+Fraction by Wt: 60%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:0.05 MG/M3;1910.1025
+ACGIH TLV:0.15 MG/M3;DUST 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:LEAD OXIDE
+CAS:1314-41-6
+RTECS #:OG5425000
+Fraction by Wt: 20%
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:RISK ONLY OCCURS IF BATTERY IS
+    RUPTURED. ACUTE: BURNS, SKIN IRRITION AND EYE DAMAGE FROM SULFURIC
+    ACID ELECTROLYTE. INHALATION: NASAL AND RESPIRATORY IRRITATION FROM
+    SULFUR OXIDE FUMES. INGESTION: STO MACH IRRITATION. CHRONIC: NONE
+    SPECIFIED BY MANUFACTURER.
+Explanation of Carcinogenicity:THIS PRODUCTS INGREDIENTS ARE NOT FOUND
+    IN OSHA, NTP OR IARC LIST'S OF CARCINOGENS.
+Effects of Overexposure:INHALE: NASAL AND RESPIRATORY IRRITATION FROM
+    SULFUR DIOXIDE FUMES. EYE OR SKIN: BURNS, SKIN IRRITATION AND EYE
+    DAMAGE. INGESTA: STOMACH IRRITATION.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE-FLUSH WITH WATER AND OBTAIN MEDICAL ADVICE. SKIN-FLUSH
+    WITH WATER AND OBTAIN MEDICAL ADVICE. INHALE-DISCONNECT BATTERIES
+    AND VENTILATE AREA. INGEST-DRINK LARGE QUANTITIES OF WATER OR MILK,
+    FOLLOWE D MY MILK OF MAGNESIA. CONTACT PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:DIRECT FLAME
+Extinguishing Media:USE WATER SPRAY, FOAM, OR DRY CHEMICAL.
+Fire Fighting Procedures:THE NON-CONDUCTIVE POLYSTRENE CASING IS NON-
+    FLAMMABLE PER UL94 RATING VE-0 OR VE-1.
+Unusual Fire/Explosion Hazard:KEEP AWAY FROM OPEN FLAMES AND SPARKS.
+    IMPROPER CHARGING AND IGNITION OF RESULTING GASES CAN CAUSE
+    EXPLOSION, PARTICULARY IN GAS TIGHT ENCLOSURES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:THE ELECTROLYTE IS IMMOBILIZED AND COMPLETELY
+    SECURED WITHIN THE BATTERY CASE. IF CASE IS CRACKED AVOID CONTACT
+    WITH ELECTROLYT, WRAP TIGHTLY IN POLYETHYLENE BAGS AND SAVE FOR
+    DISPOSAL. NEUTRALIZE RES IDUE WITH SODIUM BICARBONATE SOLUTION AND
+    RINSE WITH WATER.
+Neutralizing Agent:DILUTE SODIUM BICARBONATE SOLUTION.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:PROTECT AGAINST CRACKING OF CASE
+    MATERIAL. ADHERE TO PROPER CHARGING PROCEDURES.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Supplemental Safety and Health
+CHARGING MUST BE DONE IN A WELL VENTILATED AREA.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:Z4
+Appearance and Odor:RECTANGULAR/SQUARE IN SHAPE-ORANGE IN COLOR-NO
+    ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+SOLVENTS MAY DISSOLVE CASE MATERIAL.
+Hazardous Decomposition Products:SEVERE OVERCHARGING AND OVERHEATING
+    MAY CAUSE HYDROGEN, OXYGEN AND SULFUR DIOXIDE FUMES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:SEND FOR RECYCLING OR DISPOSE OF IN ACCORDANCE
+    W/LOCAL, STATE & FEDERAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:NON-SPILLABLE BATTERY. NOT REGULATED.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

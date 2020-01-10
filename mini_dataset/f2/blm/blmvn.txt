@@ -1,0 +1,175 @@
+=====================  Product Identification  =====================
+
+Product ID:SAFETY SILV 56 OR 1200
+MSDS Date:04/01/1990
+FSC:3439
+NIIN:01-047-4141
+Kit Part:Y
+MSDS Number: BLMVN
+=== Responsible Party ===
+Company Name:HARRIS J W CO INC
+Address:10930 DEERFIELD RD.
+City:CINCINNATI
+State:OH
+ZIP:45242-4110
+Country:US
+Info Phone Num:513-891-2000
+Emergency Phone Num:800-543-4536
+CAGE:JO820
+=== Contractor Identification ===
+Company Name:J. W. HARRIS CO., INC
+Address:10930 DEERFIELD RD
+Box:City:CINCINNATI
+State:OH
+ZIP:45242-4110
+Country:US
+Phone:513-891-2000
+CAGE:JO820
+Company Name:J. W. HARRIS CO., INC.
+Address:10930 DEERFIELD ROAD
+Box:City:CINCINNATI
+State:OH
+ZIP:45242-4110
+Country:US
+Phone:513-891-2000
+CAGE:27911
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:COPPER  (SARA III)
+CAS:7440-50-8
+RTECS #:GL5325000
+Fraction by Wt: 22%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:0.1MG/M3 FUME/1 DUST
+ACGIH TLV:0.2MG/M3 FUME; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:SILVER  (SARA III)
+CAS:7440-22-4
+RTECS #:VW3500000
+Fraction by Wt: 56.0%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:0.01 MG/M3
+ACGIH TLV:0.1 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:ZINC OXIDE
+CAS:1314-13-2
+RTECS #:ZH4810000
+Fraction by Wt: 17%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:15MG/M3 TDUST/5 FUME
+ACGIH TLV:10MG/M3 TDUST; 9293
+
+Ingred Name:NICKEL  (SARA III)
+CAS:7440-02-0
+RTECS #:QR5950000
+Fraction by Wt: 5.0%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+
+Ingred Name:POTASSIUM FLUOBORATE AS F
+CAS:14075-53-3
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:POTASSIUM METABORATE
+CAS:11113-50-1
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:POTASSIUM BORATE
+CAS:1332-77-0
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SHORT TERM EXPOSURE TO WELDING/BRAZING
+    FUMES, GASES OR DUST MAY RESULT IN DISCOMFORT SUCH AS DIZZINESS,
+    NAUSEA, FEVER, DRYNESS AND/OR IRRITATION OF NOSE, THROAT AND EYES.
+    SKIN SENSITIVITY MAY ALSO BE  NOTED. ACUTE EXPOSURE FROM SOME TOXIC
+    GASES MAY CAUSE PULMONARY EDEMA, ASPHYXIATION AND EXCESSIVE
+    EXPOSURE CAN BE FATAL.
+Effects of Overexposure:IRRITATION OF EYES, NOSE, THROAT, DIFFICULTY IN
+    BREATHING,	ASPHYXIATION AND PULMONARY EDEMA.
+Medical Cond Aggravated by Exposure:DISEASE OF THE SKIN AND LUNG.
+
+=======================  First Aid Measures  =======================
+
+First Aid:REMOVE INDIVIDUAL FROM EXPOSURE AND CONSULT A PHYSICIAN. FOR
+    METAL BURNS, EXPOSURE AREAS SHOULD BE COOLED WITH WATER, AND
+    MEDICAL ATTENTION SOUGHT. EYES:FLUSH WITH  WATER FOR 15 MINUTES.
+    INHALATION:RE MOVE TO FRESH AIR. PROVIDE CPR/OXYGEN AS NEEDED. GET
+    MEDICAL HELP IF SYMPTOMS PERSIST.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE DRY CHEMICAL., OR CLASS D FIRE EXTINGUISHERS.
+Fire Fighting Procedures:WEAR FIRE FIGHTING PROTECTIVE EQUIPMENT AND A
+    FULL FACED SELF CONTAINED BREATHING APPARATUS. EVACUATE AREA. COOL
+    FIRE EXPOSED CONTAINERS WITH WATER SPRAY.
+Unusual Fire/Explosion Hazard:HEAT OF FIRE MAY PRODUCE HAZARDOUS METAL
+    FUMES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:PICK UP METAL RODS. VACUUMING OF DUST IS
+    RECOMMENDED. DRY SWEEPING OF DUST MAY RESULT IN HIGH CONCENTRATIONS
+    OF AIRBORNE DUST. WEAR DUST MASK WHEN SWEEPING METAL DUST.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID ACCIDENTAL INGESTION BY USING
+    GOOD PERSONAL HYGIENE PRACTICES. WASH THOROUGHLY BEFORE EATING OR
+    SMOKING.
+Other Precautions:AVOID INHALING FUMES OR DUST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:A NIOSH/MSHS APPROVED METAL DUST/FUME RESPIRATOR
+    SHOULD BE WORN WHERE APPLICABLE LIMITS MAY BE EXCEEDED.
+Ventilation:LOCAL EXHAUST OR MECHANICAL (GENERAL) VENTILATION IS
+    ADEQUATE.
+Protective Gloves:CANVAS, LEATHER OR HEAT RESISTANT.
+Eye Protection:SAFETY GLASSES WITH A FACE SHIELD.
+Other Protective Equipment:WEAR FACE SHIELD AND IMPERVIOUS APRON WHEN
+    SPLASHING OF MOLTEN METAL IS LIKELY.
+Work Hygienic Practices:GOOD HOUSEKEEPING PROCEDURES SHOULD BE
+    MAINTAINED, AND PERSONNEL SHOULD WASH THOROUGHLY BEFORE EATING OR
+    SMOKING.
+Supplemental Safety and Health
+FOOD AND DRINK SHOULD NOT BE CONSUMED OR TOBACCO PRODUCTS USED, NOR
+    COSMETIC APPLIED IN AREAS WHERE METAL EXPOSURE ARE POSSIBLE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Melt/Freeze Pt:M.P/F.P Text:1170F,632C
+Solubility in Water:INSOLUBLE
+Appearance and Odor:METALLIC WIRE, ROD OR STRIP. NO ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS AND BASES.
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:METAL OXIDE/METAL FUMES MAY BE
+    EVOLVED. TOXIC FUMES FROM FLUX.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:SCRAP OR WASTE SHOULD BE RECYCLED OR DISPOSED OF
+    IN ACCORDANCE WITH LOCAL, STATE AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

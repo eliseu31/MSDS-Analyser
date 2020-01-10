@@ -1,0 +1,129 @@
+=====================  Product Identification  =====================
+
+Product ID:MIL-C-87936A TY I;OCTAKLEEN 5131
+MSDS Date:05/02/1990
+FSC:6850
+NIIN:01-184-7453
+MSDS Number: BJDMC
+=== Responsible Party ===
+Company Name:OCTAGON PROCESS INC.
+Address:596 RIVER ROAD
+City:EDGEWATER
+State:NJ
+ZIP:07020-1105
+Country:US
+Info Phone Num:201-945-9400
+Emergency Phone Num:201-945-9400
+CAGE:82925
+=== Contractor Identification ===
+Company Name:OCTAGON PROCESS INC.
+Address:596 RIVER ROAD
+Box:City:EDGEWATER
+State:NJ
+ZIP:07020
+Country:US
+Phone:201-945-9400
+CAGE:82925
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ALKLAINE DETERGENT MATERIAL
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:OTHER COMPONENTS
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:NONYLPHENOL POLYETHOXATE
+CAS:9016-45-9
+RTECS #:MD0900000
+Other REC Limits:NONE RECOMME
+
+Ingred Name:SODIUM XYLENE SULFONATE
+CAS:1300-72-7
+Other REC Limits:NONE RECOMME
+
+Ingred Name:TETRASODIUM ETHYLENE DIAMINE TETRAACETATE
+CAS:64-02-8
+RTECS #:AH5075000
+Other REC Limits:NONE RECOMME
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:UNKNOWN  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:IRRITATION OF EYES AND SKIN.
+    REDNESS OR BURNS OF EYES AND SKIN ARE POSSIBLE.CHRONIC:MILD
+    DERMATITIS.
+Explanation of Carcinogenicity:DATA PER MGF MSDS.
+Effects of Overexposure:IRRITATION,BURNING OR REDNESS OF SKIN AND EYES.
+Medical Cond Aggravated by Exposure:NO DATA IS AVAILABLE
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES AND SKIN:FLUSH WITH LARGE AMOUNT OF WATER FOR ABOUT
+    15-20 MINUTES;SEEK MEDICAL ATTENTION IMMEDIATELY.INHALATION:REMOVE
+    TO FRESH AIR;CALL A PHYSICIAN.INGESTION:SEEK MEDICAL ATTENTION
+    IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:NONE FLAMMABLE ;USE ANY MEDIA FOR SURROUNDING FIRES
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:NONE EXPECTED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPER PERSONAL PROTECTION;CONTAIN FREE
+    LIQUID;USE SUITABLE INERT ABSORBENT MATERIAL AND COLLECT FOR PROPER
+    DISPOSAL IN AN APPROVED CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DRY AND WELL VENTILATED
+    AREA.KEEP CONTAINER CLOSED WHEN NOT IN USE.
+Other Precautions:WASH THOROUGHLY AFTER EACH USE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NORMALLY NOT NEEDED WITH ADEQUATE VENTILATION.
+Ventilation:LOCAL/GENERAL TO MAINTAIN PEL/TLV.
+Protective Gloves:IMPERVIOUS
+Eye Protection:SAFETY GLASSES/GOGGLES
+Other Protective Equipment:PROTECTIVE CLOTHINGS.EYE-WASH
+    FACILITIES,SAFETY SHOWER.
+Work Hygienic Practices:AVOID CONTACT WITH EYES AND SKIN;DO NOT BREATHE
+    VAPORS/MIST/DUST.WASH THOROUGHLY AFTER EACH USE.
+Supplemental Safety and Health
+DO NOT USE CONTAMINATED CLOTHES.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:212F,100C
+Spec Gravity:1.03-1.05
+Solubility in Water:COMPLETE
+Appearance and Odor:OFF WHITE LIQUID,MILD NON-OFFENSIVE ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE REPORTED.
+Stability Condition to Avoid:HIGH TEMPERATURES
+Hazardous Decomposition Products:NOT SPECIFIED
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT LOCAL AUTHORITIES;DISPOSAL MUST BE IN
+    ACCORDANCE WITH LOCAL,STATE AND FEDERAL REGULATIONS
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

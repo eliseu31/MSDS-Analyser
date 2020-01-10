@@ -1,0 +1,177 @@
+=====================  Product Identification  =====================
+
+Product ID:NICKEL-CADMIUM BATTERY
+MSDS Date:12/08/1988
+FSC:6135
+NIIN:00N020155
+MSDS Number: BLMBS
+=== Responsible Party ===
+Company Name:ENERGY RESEARCH CORP
+Address:3 GREAT PASTURE ROAD
+City:DANBURY
+State:CT
+ZIP:06813
+Country:US
+Info Phone Num:203-792-1460
+Emergency Phone Num:800-424-8802/800-424-9300(CHEMTREC)
+CAGE:63161
+=== Contractor Identification ===
+Company Name:ENERGY RESEARCH CORP
+Address:3 GREAT PASTURE ROAD
+Box:City:DANBURY
+State:CT
+ZIP:06813
+Country:US
+Phone:203-792-1460
+CAGE:63161
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BATTERY ELECTROLYTE CONSISTS OF ING 7, 8, 9.
+RTECS #:9999999ZZ
+
+Ingred Name:POTASSIUM HYDROXIDE  (SARA III)
+CAS:1310-58-3
+RTECS #:TT2100000
+OSHA PEL:C, 2 MG/M3
+ACGIH TLV:C 2 MG/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:LITHIUM HYDROXIDE; (1% LITHIUM HYDROXIDE) MFR CAS #:
+    1310-66-33
+CAS:1310-65-2
+RTECS #:OJ6307070
+
+Ingred Name:COBALT HYDROXIDE
+CAS:1307-86-4
+RTECS #:GG0904000
+Other REC Limits:0.1 MG/M3(MFR)
+OSHA PEL:0.05 MG/M3 (AS CO)
+ACGIH TLV:0.05 MG/M3 (AS CO)
+
+Ingred Name:BATTERY CASING CONSISTS OF ING 11.
+RTECS #:9999999ZZ
+
+Ingred Name:POLYPHENYLENE OXIDE (NDRYL) SG: 1.08.
+
+Ingred Name:BATTERY ELECTRODES CONSIST OF INGREDIENTS 2, 3, 4, AND 5.
+RTECS #:9999999ZZ
+
+Ingred Name:CADMIUM OXIDE  (SARA III)
+CAS:1306-19-0
+RTECS #:EV1925000
+Fraction by Wt: 17.7%
+Other REC Limits:0.2 MG/MG(CD)(MFR)
+OSHA PEL:SEE 1910.1027
+ACGIH TLV:0.05 MG(CD)/M3; 9293
+
+Ingred Name:NICKEL HYDROXIDE  (SARA III)
+CAS:12054-48-7
+RTECS #:QR7040000
+OSHA PEL:1 MG NI/M3
+ACGIH TLV:0.1 MG NI/M3; 9293
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+Ingred Name:NICKEL  (SARA III)
+CAS:7440-02-0
+RTECS #:QR5950000
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+
+Ingred Name:ETHYLENE, TETRAFLUORO-, POLYMER; (TEFLON)(TETRAFLUORO
+    ETHYLENE POLYMER)
+CAS:116-14-3
+RTECS #:KX4025000
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:KOH CONTACT WITH SKIN OR EYES MAY
+    CAUSE SEVERE IRRITATION OR BURNS. INGESTION OF KOH MAY RESULT IN
+    SEVER INTESTINAL IRRITATION WITH BURNS TO MOUTH. CADMIUM POISONING
+    CAUSES LUNG AND KIDNEY INJURY. CAD MIUM IS A SUSPECT CARCINOGEN.
+    NIOSH RECOMMENDS THAT NICKEL BE TREATED AS AN OCCUPATIONAL
+    CARCINOGEN.
+Explanation of Carcinogenicity:CADMIUM OXIDE: IARC GRP 2A, NTP GRP 2:
+    NICKEL HYDROXIDE: IARC GRP 1, NTP GRP 2; NICKEL: IARC GRP 1, NTP
+    GRP 2.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:INGEST OF KOH MAY RESULT IN SEVERE
+    INTESTINAL IRRITATION WITH BURNS TO MOUTH.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH COPIOUS AMOUNTS OF WATER FOR AT LEAST 15
+    MINUTES. GET MD. SKIN: FLUSH WITH COPIOUS AMOUNTS OF WATER FOR AT
+    LEAST 15 MINUTES. GET MD. INHAL:REMOVE TO FRESH AIR. SUPPORT
+    BREATHING (GIVE  O2/ARTF RESP). INGEST: DO NOT INDUCE VOMITING.
+    GIVE LARGE AMOUNTS OF WATER FOLLOWED BY DILUTED VINEGAR, FRUIT
+    JUICE, OR WHITES OF EGGS.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:DRY CHEMICAL, FOAM.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE CLOTHING IF INVOLVED IN FIRE.
+Unusual Fire/Explosion Hazard:POLYPHENYLENE OXIDE EVOLVES CARBON
+    MONOXIDE WHEN BURNED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL PROT
+    CLOTHING. VENTILATE AREA. NEUTRALIZE SPILL SLOWLY WITH DILUTE
+    HYDROCHOLORIC, ACETIC OR BORIC ACID. FLUSH AREA WITH FLOODING
+    AMOUNTS OF WATER.
+Neutralizing Agent:DILUTE HYDROCHLORIC, ACETIC OR BORIC ACID.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:WEAR RUBBER GOVES, USE INSULATED
+    TOOLS, PROTECT EYES WITH SAFETY GOGGLES OR FACESHIELD.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED WHERE ADEQUATE VENTILATION EXISTS.
+    WEAR NIOSH/MSHA APPROVED RESPIRATOR FOR EXPOSURE OF CONCERN .
+Ventilation:LOCAL EXHAUST, MECHANICAL.
+Protective Gloves:RUBBER GLOVES
+Eye Protection:CHEM WORK GOG/FULL LENGTH FCSHLD 
+Other Protective Equipment:INSULATED TOOLS.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:ING 7
+Spec Gravity:ING 7, 11
+Solubility in Water:ING 7
+Appearance and Odor:KOH CLEAR LIQUID; NO ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+MAGNESIUM REACTS WITH CADMIUM EXPLOSIVELY.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:CADMIUM OXIDE FUMES UPON DECOMPOSITION
+    WHEN REACTED WITH MAGNESIUM.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN ACCORDANCE WITH EXISTING FEDERAL,
+    STATE AND LOCAL ENVIRONMENTAL LAWS AND REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

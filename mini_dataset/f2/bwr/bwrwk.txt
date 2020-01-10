@@ -1,0 +1,145 @@
+=====================  Product Identification  =====================
+
+Product ID:146 4262;HYPO CLEARING AGENT;CONC;KAN 354583
+MSDS Date:09/07/1994
+FSC:6750
+NIIN:00-264-6763
+MSDS Number: BWRWK
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-722-5151
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM SULFITE
+CAS:7757-83-7
+RTECS #:WE2150000
+Fraction by Wt: 75-80%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:SODIUM METABISULFITE
+CAS:7681-57-4
+RTECS #:UX8225000
+Fraction by Wt: 15-20%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3; 9394
+
+Ingred Name:SODIUM CITRATE, TRIBASIC
+CAS:68-04-2
+RTECS #:GE8300000
+Fraction by Wt: 1-5%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:TETRASODIUM ETHYLENE DIAMINE TETRAACETATE
+CAS:64-02-8
+RTECS #:AH5075000
+Fraction by Wt: 1-5%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT) IS >1600MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES:MAY CAUSE
+    IRRITATION.SKIN:EXPECTED TO BE A LOW HAZARD.INGEST:EXPECTED TO BE A
+    LOW HAZARD.INHAL:EXPECTED TO BE A LOW HAZARD.
+Explanation of Carcinogenicity:THERE ARE NO INGREDIENTS ABOVE 0.1%
+    WHICH ARE IDENTIFIED AS CARCINOGENS BY NTP,IARC OR OSHA.
+Effects of Overexposure:EYES:TRANSCIENT IRRITATION.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:REMOVE CONTAMINATED CLOTHING;WASH WITH SOAP AND
+    WATER.GET MEDICAL ATTENTION.EYES:FLUSH WITH WATER FOR 15
+    MINUTES.GET MEDICAL ATTENTION.INHAL:REMOVE TO FRESH AIR.GIVE OXYGEN
+    OR ARTIFICIAL RESPIRAT ION IF NEEDED.INGEST:DO NOT INDUCE
+    VOMITING.GET PROMPT QUALIFIED MEDICAL ATTENTION.IF CONSCIOUS,GIVE
+    1-2 GLASSES OF WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE MEDIA APPROPRIATE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:USE A SELF-CONTAINED BREATHING APPARATUS AND
+    FULL PROTECTIVE EQUIPMENT.
+Unusual Fire/Explosion Hazard:FIRE CONDITIONS MAY EVOLVE TOXIC FUMES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA.USE PROPER PROTECTIVE AND
+    RESPIRATORY EQUIPMENT.SWEEP OR VACUUM;DO NOT CREATE DUST;PLACE IN A
+    DRY CONTAINER FOR DISPOSAL.CLEAN SPILL AREA WITH WATER.SMALL SPILLS
+    CAN BE FLUSHED TO SEWER  WITH PLENTY OF WATER.
+Neutralizing Agent:NOT REPORTED.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL,DRY,WELL-VENTILATED
+    PLACE.KEEP CONTAINER CLOSED WHEN NOT IN USE.USE WITH ADEQUATE
+    VENTILATION.KEEP AWAY FROM ACIDS.
+Other Precautions:FOLLOW LABEL DIRECTIONS.AVOID BREATHING VAPORS.AVOID
+    SKIN AND EYE CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NEEDED IN NORMAL SERVICE.
+Ventilation:USE GENERAL DILUTION VENTILATION.MFR RECOMMENDS 10 AIR
+    CHANGES/HOUR.
+Protective Gloves:IMPERVIOUS
+Eye Protection:SAFETY GLASSES WITH SIDESHIELDS.
+Other Protective Equipment:PROTECTIVE CLOTHING,AS NEEDED.PROVIDE A
+    LOCAL EYE WASH STATION AND SAFETY SHOWER.
+Work Hygienic Practices:WASH HANDS.SEPERATE WORK CLOTHES FROM STREET
+    CLOTHES.LAUNDER WORK CLOTHES BEFORE REUSE.KEEP FOOD OUT OF THE WORK
+    AREA.
+Supplemental Safety and Health
+KEY1;N1.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Vapor Pres:NEGLIGIBLE
+Spec Gravity:>1.0
+Solubility in Water:APPRECIABLE
+Appearance and Odor:SOLID;WHITE;ODORLESS
+Percent Volatiles by Volume:NEGLIG
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:SULFUR DIOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH FEDERAL,STATE AND
+    LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

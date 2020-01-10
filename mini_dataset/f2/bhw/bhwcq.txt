@@ -1,0 +1,52 @@
+=====================  Product Identification  =====================
+
+Product ID:DRIVER, LOUDSPEAKER DR-GOT
+MSDS Date:04/06/1990
+FSC:5965
+NIIN:00-988-8767
+MSDS Number: BHWCQ
+=== Responsible Party ===
+Company Name:TELECTRO SYSTEMS CORP.
+Address:96-18 43RD AVENUE
+City:CORONA
+State:NY
+ZIP:11368
+Country:US
+Info Phone Num:718-651-8900
+Emergency Phone Num:718-651-8924
+CAGE:30040
+=== Contractor Identification ===
+Company Name:TELECTRO SYSTEMS CORP.
+Address:96-18 43RD AVENUE
+Box:City:CORONA
+State:NY
+ZIP:11368
+Country:US
+Phone:718-651-8900
+CAGE:30040
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MAGNETIC MATERIAL
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM MAGNETICALLY SENSITIVE
+    EQUIPMENT OR MATERIAL (E.G. AIRPLANE NAVIGATION SYSTEMS, ETC.)
+
+=============  Exposure Controls/Personal Protection  =============
+
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

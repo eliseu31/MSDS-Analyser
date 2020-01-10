@@ -1,0 +1,196 @@
+=====================  Product Identification  =====================
+
+Product ID:SWAT, 5040
+MSDS Date:02/15/1991
+FSC:7930
+NIIN:00N092165
+Status Code:A
+MSDS Number: CJQLK
+=== Responsible Party ===
+Company Name:BUCKEYE INTERNAIONAL INC
+Address:2700 WAGNER PLACE
+City:MARYLAND HEIGHTS
+State:MO
+ZIP:63043
+Country:US
+Info Phone Num:314-291-1900
+Emergency Phone Num:800-228-5635
+Preparer's Name:MARK GINDLING
+CAGE:0YG51
+=== Contractor Identification ===
+Company Name:BUCKEYE INTERNATIONAL INC
+Address:2700 WAGNER PL
+Box:City:MARYLAND HEIGHTS
+State:MO
+ZIP:63043-3422
+Country:US
+Phone:314-291-1900/800-228-5635X076
+CAGE:0YG51
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:AMMONIUM HYDROXIDE; (26 DEGREE AMMONIUM HYDROXIDE)
+CAS:1336-21-6
+RTECS #:BQ9625000
+= Wt:1.75
+OSHA PEL:50 PPM
+ACGIH TLV:35 MG/M3
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:POTASSIUM HYDROXIDE
+CAS:1310-58-3
+RTECS #:TT2100000
+= Wt:2.
+ACGIH STEL:C2 MG/M3
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:MONOETHANOLAMINE
+CAS:141-43-5
+RTECS #:KJ5775000
+= Wt:5.
+OSHA PEL:6 MG/M3;3 PPM
+ACGIH TLV:7.5 MG/M3;3 PPM
+ACGIH STEL:15 MG/M3;6 PPM
+
+Ingred Name:2-BUTOXYETHANOL
+CAS:111-76-2
+RTECS #:KJ8575000
+= Wt:5.
+OSHA PEL:240 MG/M3;50 PPM
+ACGIH TLV:121 MG/M3;25 PPM
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+> Wt:75.25
+
+Ingred Name:NONYLPHENOL ETHOXYLATE; (NONYL PHENOL ETHOXYLATE)
+CAS:9016-45-9
+RTECS #:AX0247000
+< Wt:5.
+
+Ingred Name:SODIUM XYLENE SULFONATE
+CAS:1300-72-7
+RTECS #:ZE5100000
+< Wt:5.
+
+Ingred Name:PERFUME COLORING AND ADDITIVES LESS THAN 1%
+< Wt:1.
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: VAPORS MAY BE HARMFUL.
+    CORROSIVE. WILL CAUSE BURNS TO EYES AND SKIN. MAY BE HARMFUL OR
+    FATAL IF SWALLOWED. CHRONIC: ANIMAL STUDIES CLEARLY DEMONSTRATED
+    DOSE-RELATED ADVERSE EFFECTS ON CNS, HEMA TOPOIETIC TISSUES, BLOOD,
+    KIDNEYS, AND LIVER, ASSOCIATED WITH THE ADMINISTRATION OF ETHYLENE
+    GLYCOL MONOBUTYL ETHER (EGBE). (EXTRACTED FROM DHHS (NIOSH) PUB NO
+    90-118) .
+Effects of Overexposure:INHALATION: IRRITATION OF THROAT. SKIN: REDNESS
+    OF SKIN OR WARNING SENSATION. EYES: REDNESS OR BURNING SENSATION.
+    INHALATION: DIZZINESS, HEADACHE. INGESTION: NAUSEA. HEADACHE.
+Medical Cond Aggravated by Exposure:DERMATITIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH COOL WATER FOR AT LEAST 15 MINUTES. SEE
+    PHYSICIAN. SKIN: FLUSH WITH WATER FOR 15 MINUTES. IF IRRITATION
+    PERSISTS, SEE PHYSICIAN. INHALATION: REMOVE TO FRESH AIR.
+    INGESTION: GIVE TWO L ARGE GLASSES OF WATER. DO NOT INDUCE
+    VOMITING. CALL PHYSICIAN IMMEDIATELY! NEVER GIVE ANYTHING BY MOUTH
+    TO AN UNCONSCIOUS PERSON.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:MEDIA SUITABLE FOR SURROUNDING FIRE .
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT . WEAR ALKALI RESISTANT CLOTHING.
+Unusual Fire/Explosion Hazard:PRODUCTS OF COMBUSTION. OXIDES OF SULFUR,
+    CARBON AND NITROGEN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:PICK UP WITH MOP, WET/DRY VAC OR ABSORBENT
+    MATERIAL. RINSE AREA WITH CLEAN WATER AND ALLOW FLOOR TO DRY BEFORE
+    ALLOWING TRAFFIC.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP OUT OF REACH OF CHILDREN! KEEP
+    CONTAINER CLOSED WHEN NOT IN USE. STORE AWAY FROM ACIDS. STORE AT
+    ROOM TEMPERATURE. STORE ON LOW SHELVES. RINSE CONTAINER BEFORE
+    DISCARDING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE UNDER NORMAL USE. NIOSH APPROVED RESPIRATOR
+    APPROPRIATE FOR EXPOSURE OF CONCERN .
+Ventilation:ADEQUATE TO KEEP VAPORS DISPERSED.
+Protective Gloves:NITRILE RUBBER GLOVES.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES AND FULL LENGTH
+    FACESHIELD .
+Other Protective Equipment:EYE WASH AND DELUGE SHOWER MEETING ANSI
+    DESIGN CRITERIA . WEAR WATER OR CHEMICAL RESISTANT FOOTWEAR WHEN
+    SCRUBBING FLOORS.
+Supplemental Safety and Health
+PHYSICAL DATA: PH (CONC): 13.5+/-0.2. PH (USE DILUTION) 1:8:
+    12.4+/-0.2.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:=100.C, 212.F
+Spec Gravity:1.02
+pH:SUPDAT
+Evaporation Rate & Reference:1.0 (WATER =1)
+Solubility in Water:INFINITE
+Appearance and Odor:LIQUID AMMONIA, CLEAR RED SOLUTION.
+Percent Volatiles by Volume:94.0 (WT)
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+DO NOT MIX WITH CHLORINE BLEACH OR ACIDS.
+Stability Condition to Avoid:NONE KNOWN.
+Hazardous Decomposition Products:NONE KNOWN.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+=====================  Ecological Information  =====================
+
+Ecological:NO INFORMATION AVAILABLE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DILUTE WITH WATER AND ADJUST PH WITH ACID TO A
+    PH BELOW 9.0, THEN FLUSH TO SANITARY SEWER, OR SEND TO SANITARY
+    LANDFILL, FOLLOWING LOCAL, STATE AND FEDERAL LAWS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:PROPER D.O.T. SHIPPING NAME: CORROSIVE LIQUID,
+    N.O.S., UN1488 (CONTAINS ETHANOLAMINE AND POTASSIUM HYDROXIDE). 
+    D.O.T. HAZARD CLASSIFICATION: CORROSIVE MATERIAL.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:2-BUTOXY ETHANOL IS SARA TITLE III SEC 313
+    REPORTABLE.  REPORTABLE UNDER SARA TITLE III SECTION 311/312 AS AN
+    ACUTE AND DELAYED HEALTH HAZARD.
+Federal Regulatory Information:THIS PRODUCT IS NOT REGULATED UNDER
+    CERCLA OR RCRA.
+State Regulatory Information:
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

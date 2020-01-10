@@ -1,0 +1,155 @@
+=====================  Product Identification  =====================
+
+Product ID:PLAST 75/69 METHYL ETHYL KETONE PEROXIDE
+MSDS Date:03/01/1991
+FSC:5985
+NIIN:00F019127
+MSDS Number: BLPLS
+=== Responsible Party ===
+Company Name:FIBRE GLAST DEVELOPMENTS CORP
+Address:1944 NEVA DRIVE
+City:DAYTON
+State:OH
+ZIP:45414
+Info Phone Num:(513) 274-1159
+Emergency Phone Num:(513) 435-0850
+CAGE:1B420
+=== Contractor Identification ===
+Company Name:FIBRE GLAST DEVELOPMENTS
+Address:1944 NEVA DR
+Box:City:DAYTON
+State:OH
+ZIP:45414-5525
+Country:US
+CAGE:1B420
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL ETHYL KETONE PEROXIDE
+CAS:1338-23-4
+RTECS #:WL9450000
+Fraction by Wt: 34%
+Other REC Limits:0.2 PPM
+OSHA PEL:0.7 PPM
+ACGIH TLV:C 1.5 MG/CUM
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+Ingred Name:DIMETHYLPHTHALATE  (SARA III)
+CAS:131-11-3
+RTECS #:TI1575000
+Fraction by Wt: 52%
+Other REC Limits:5 MG/CUM
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: 2%
+Other REC Limits:590 MG/CUM
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:HYDROGEN PEROXIDE  (SARA III)
+CAS:7722-84-1
+RTECS #:MX0900000
+Fraction by Wt: 1%
+Other REC Limits:1 PPM
+OSHA PEL:1 PPM
+ACGIH TLV:1 PPM; 9192
+
+Ingred Name:PROPRIETARY ADDITIVE (PHLEGMATIZER)
+Fraction by Wt: 11%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL (RAT) LD50: 6,900 MG/KG (SEE SUP)
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: MUCOUS MEMBRANE IRRITATION
+    & VERTIGO.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: MUCOUS MEMBRANE IRRITATION &
+    VERTIGO.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: WASH THOROUGHLY W/SOAP & WATER. EYES: FLUSH W/WATER FOR
+    30 MINS. INGESTION: TAKE LARGE QUANTITIES OF MILK OR WATER.
+    INHALATION: REMOVE TO FRESH AIR. OBTAIN MEDICAL ATTENTION IN ALL
+    CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:>200F
+Extinguishing Media:CO2, FOAM, WATER FOG W/LIGHT WATER ADDITIVES, OR
+    DRY CHEMICAL.
+Fire Fighting Procedures:WATER FROM SAFE DISTANCE, PREFERABLY W/FOG
+    NOZZLE. IF DRY CHEMICAL IS USED THOROUGHLY WET AREA TO PREVENT
+    REIGNITION.
+Unusual Fire/Explosion Hazard:DRY CHEMICAL EXTINGUISHING AGENT MAY
+    CATALYZE DECOMPOSITION. MEKP ADDED TO HOT SOLVENTS OR MONOMERS WILL
+    CAUSE A VIOLENT REACTION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DIKE TO PREVENT RUNOFF FROM ENTERING
+    DRAINS/SEWERS/STREAMS & TRANSFER INTO CONTAINER. SPILLED MATERIAL
+    SHOULD BE SWEPT UP W/AN INERT/MOIST/DILUENT SUCH AS PERLITE,
+    VERMICULITE, OR SAND, & PLACE IN A C LEAN POLYETHYLENE LINED
+    DRUM/POLYETHYLENE DRUM.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID INHALATION OF VAPORS. AVOID
+    SWALLOWING & CONTACT W/EYES & SKIN. KEEP IN ORIGINAL, CLOSED
+    CONTAINER OUT OF DIRECT SUNLIGHT & AT TEMPS <80F.
+Other Precautions:DON'T STORE OR USE NEAR FOOD OR DRINK. DON'T ADD MEKP
+    TO HOT SOLVENTS/MONOMERS AS VIOLENT DECOMPOSITION/REACTION MAY
+    RESULT. DON'T SPRAY RAW MEKP INTO CURING, RAW RESIN OR FLUES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:GENERAL (MECHANICAL)
+Protective Gloves:SOLVENT RESISTANT
+Eye Protection:SAFETY GOGGLES
+Supplemental Safety and Health
+THIS PRODUCT CONTAINS CHEMICALS SUBJECT TO THE REPORTING REQUIREMENTS
+    OF SECTION 313 OF TITLE III OF THE SUPERFUND AMENDMENTS &
+    REAUTHORIZATION ACT OF 1986. LD50 INFORMATION IS FOR DIMETHYL
+    PHTHALATE.
+
+==================  Physical/Chemical Properties  ==================
+
+Vapor Density:>1
+Spec Gravity:1.1
+Solubility in Water:SLIGHT
+Appearance and Odor:WATER WHITE LIQUID WSLIGHT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+DIMETHYLANILINE, COBALT NAPTHENATE, & OTHER PROMOTERS, ACCELERATORS,
+    REDUCING AGENTS, OR ANY HOT MATERIAL
+Stability Condition to Avoid:SUNLIGHT & TEMPERATURES >80F
+Hazardous Decomposition Products:PEROXIDES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. UN 2550.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,110 @@
+=====================  Product Identification  =====================
+
+Product ID:3299,LACQUER
+MSDS Date:01/01/1987
+FSC:8030
+NIIN:00-166-8813
+MSDS Number: BDFDH
+=== Responsible Party ===
+Company Name:UNIROYAL, INC.
+Emergency Phone Num:219-255-8222
+CAGE:KO401
+=== Contractor Identification ===
+Company Name:UNIROYAL INC
+Address:ELM ST
+Box:2000
+City:NAUGATUCK
+State:CT
+ZIP:06770
+Country:US
+CAGE:89902
+Company Name:UNIROYAL, INC.
+CAGE:KO401
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:GRAPHITE, SYNTHETIC
+CAS:7440-44-0
+RTECS #:FF5250100
+Fraction by Wt: 0.50%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:2 MG/M3 TDUST; 9293
+
+Ingred Name:VEHICLE(VINYL RESIN & NITRILE RUBBER)
+Fraction by Wt: 15.8%
+
+Ingred Name:ACETONE  (SARA III)
+CAS:67-64-1
+RTECS #:AL3150000
+Fraction by Wt: 83.4%
+OSHA PEL:1000PPM
+ACGIH TLV:750PPM/1000STEL;9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ADDITIVES(CALCIUM STEARATE)
+Fraction by Wt: 0.30%
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:EYE,THROAT,SKIN,LUNG IRRITANT/NARCOSIS ON
+    GREATLY EXCESSIVE EXPOSURE
+
+=======================  First Aid Measures  =======================
+
+First Aid:WASH SKIN THROUGHLY FLUSH EYES WITH WATER,REMOVE TO FRESH
+    AIR,REMOVE CONTAMINATED CLOTHING GIVE ARTIFICIAL RESPIRATION IF
+    NEEDED,CALL DOCTOR.FOR NARCOSIS ADMINISTER OXYGEN, CALL PHYSICIAN
+    IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:-2F/-18.9C	 TOC
+Lower Limits:02.6
+Upper Limits:12.8
+Extinguishing Media:FOAM,DRY CHEMICAL,FOG,CARBON DIOXIDE
+Unusual Fire/Explosion Hazard:AVOID FIRE,HEAT,SPARKS,IGNITION
+    SOURCES,STORAGE IN DIRECT SUNLIGHT
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA MECHANICALLY,KEEP FROM
+    FLAME,FIRE,SPARKS,IGNITION SOURCES;DO NOT BREATHE VAPORS; CLEAN UP
+    WITH ABSORBENT MATERIAL PUT IN AIR TIGHT CONTAINERS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINERS CLOSED,UPRIGHT,AWAY
+    FROM FIRE,FLAME,SPARKS,IGNITION SOURCES,DIRECT SUNLIGHT
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:LOCAL EXHAUST
+Protective Gloves:GLOVES,
+Eye Protection:GOGGLES/GLASSES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:B.P. Text:134F-56.7 C
+Vapor Pres:184
+Vapor Density:2.00
+Spec Gravity:0.8360
+Evaporation Rate & Reference:7.7-BUTYL ACETATE
+Solubility in Water:NONE
+Appearance and Odor:BLACK LIQUID STRONG ACETONE ODOR
+Percent Volatiles by Volume:84.0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

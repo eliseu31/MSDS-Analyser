@@ -1,0 +1,192 @@
+=====================  Product Identification  =====================
+
+Product ID:PHENOSEAL VINYL ADHESIVE CAULK, SERIES 100
+MSDS Date:04/07/1997
+FSC:8040
+NIIN:00N026899
+Status Code:A
+MSDS Number: CJQNZ
+=== Responsible Party ===
+Company Name:GLOUCESTER CO INC
+Address:235 COTTAGE ST
+Box:428
+City:FRANKLIN
+State:MA
+ZIP:02038
+Country:US
+Info Phone Num:508-528-2200
+Emergency Phone Num:508-528-2200
+Preparer's Name:LAWRENCE H. BOISE
+CAGE:0BXJ1
+=== Contractor Identification ===
+Company Name:GLOUCESTER CO INC
+Address:235 COTTAGE ST
+Box:428
+City:FRANKLIN
+State:MA
+ZIP:02038
+Country:US
+Phone:508-528-2200
+CAGE:0BXJ1
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:VINYL ACETATE MONOMER
+CAS:108-05-4
+RTECS #:AK0875000
+< Wt:.1
+OSHA PEL:10 PPM TWA
+OSHA STEL:20 PPM
+ACGIH TLV:35 MG/M3;10 PPM
+ACGIH STEL:53 MG/M3;15 PPM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:N-BUTYL ACETATE
+CAS:123-86-4
+RTECS #:AF7350000
+< Wt:1.5
+OSHA PEL:710 MG/M3;150 PPM
+OSHA STEL:200 PPM
+ACGIH TLV:713 MG/M3;150 PPM
+ACGIH STEL:950 MG/M3;200 PPM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:PROPYLENE GLYCOL
+CAS:57-55-6
+RTECS #:TY2000000
+Minumum % Wt:2.
+Maxumum % Wt:3.
+
+Ingred Name:2,2,4-TRIMETHYL-1,3-PENTANEDIOL MONOISOBUTYRATE
+CAS:25265-77-4
+RTECS #:UF6000000
+Minumum % Wt:2.
+Maxumum % Wt:4.
+
+Ingred Name:3,3'-OXYDI-1-PROPANOL DIBENZOATE
+CAS:27138-31-4
+< Wt:10.
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYE: DIRECT CONTACT CAN CAUSE
+    IRRITATION. SKIN: MAY CAUSE TEMPORARY IRRITATION.
+Explanation of Carcinogenicity:VINYL ACETATE IS IDENTIFIED BY IARC AS A
+    POTENTIAL CARCINOGEN, 2B, POSSIBLY CARCINOGENIC TO HUMANS (BASED ON
+    INADEQUATE HUMAN DATA AND LIMITED ANIMAL DATA).
+Effects of Overexposure:IRRITATION TO EYES, SKIN OR RESPIRATORY TRACT.
+Medical Cond Aggravated by Exposure:PERSONS WITH PRE-EXISTING SKIN
+    DISORDERS MAY BE MORE SUSCEPTIBLE TO IRRITATING EFFECTS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: IMMEDIATELY FLUSH WITH PLENTY OF WATER FOR AT LEAST 15
+    MINUTES. IF IRRITATION PERSISTS, SEEK MEDICAL ATTENTION. SKIN:
+    IMMEDIATELY WASH AFFECTED AREAS THOROUGHLY WITH SOAP AND WATER.
+    INGESTION: C ONSULT MD. INHALATION: REMOVE TO FRESH AIR.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER SPRAY, CARBON DIOXIDE, FOAM.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:DIRED POLYMER FILMS ARE CAPABLE OF
+    BURNING. MATERIAL MAY SPLATTER IF TEMPERATURES EXCEED BOILING POINT
+    (212F).
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:KEEP SPILLS AND CLEANING RUNOFF OUT OF
+    MUNICIPAL SEWERS AND OPEN BODIES OF WATER. TRANSFER LIQUIDS AND
+    SOLID DIKING MATERIAL TO SEPARATE SUITABLE CONTAINERS FOR RECOVERY
+    OR DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP MATERIAL FROM FREEZING.
+Other Precautions:KEEP OUT OF REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN . NO SPECIAL REQUIREMENTS UNDER NORMAL USE AND
+    CONDITIONS.
+Ventilation:LOCAL EXHAUST; MECHANICAL (OTHER); ROOM VENTILATION.
+Protective Gloves:IMPERVIOUS GLOVES.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:ANSI APPROVED EYE WASH & DELUGE SHOWER . USE
+    OTHER PROTECTIVE CLOTHING OR EQUIPMENT AS APPROPRIATE TO PREVENT
+    PROLONGED OR REPEATED CONTACT WITH SKIN.
+Work Hygienic Practices:WASH THORO AFTER HANDLING. USE GOOD PERSONAL
+    HYGIENE PRACTICES. WASH HANDS BEFORE EATING, DRINKING, SMOKING OR
+    USING RESTROOM FACILITIES. PROMPTLY REMOVE CONTAM CLOTHING &
+    LAUNDER THORO BEFORE REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:=100.C, 212.F
+B.P. Text:WATER
+Melt/Freeze Pt:=0.C, 32.F
+M.P/F.P Text:WATER
+Vapor Pres:NOT DETERMINED
+Vapor Density:HVR/AIR
+Spec Gravity:1.1-1.3 (WATER=1)
+Evaporation Rate & Reference:<1 (BUTYL ACETATE=1)
+Solubility in Water:DILUTABLE
+Appearance and Odor:MILKY (OR COLORED) AQUEOUS PASTE.
+Percent Volatiles by Volume:40 (BY WT)
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+MATERIALS THAT REACT WITH WATER.
+Stability Condition to Avoid:NONE KNOWN.
+Hazardous Decomposition Products:WHEN EXPOSED TO FIRE, PRODUCES NORMAL
+    PRODUCTS OF COMBUSTION.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:AVAILABLE EPIDEMIOLOGICAL STUDIES DO NOT
+    CONFIRM AN INCREASED RISK OF CANCER IN EXPOSED HUMANS; AVAILABLE
+    EVIDENCE SUGGESTS THAT VINYL ACETATE IS NOT LIKELY TO CAUSE CANCER
+    IN HUMANS EXCEPT UNDER UNCO MMON OR UNLIKELY ROUTES OR LEVELS OF
+    EXPOSURE (ACGIH, ANIMAL CARCINOGEN, A3).
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:OBSERVE ALL APPLICABLE LOCAL, STATE AND FEDERAL
+    REGULATIONS.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:THE SUPERFUND AMENDMENTS AND REAUTHORIZATION
+    ACT OF 1986 TITLE III REQUIRES SUBMISSION OF ANNUAL REPORTS OF
+    RELEASE OF TOXIC CHEMICALS THAT APPEAR IN 40 CFR 372 (OR SARA 313).
+    THIS PRODUCT CONTAINS TH E FOLLOWING CHEMICALS SUBJECT TO THE
+    REPORTING REQUIREMENTS OF SECTION 313 OF THE EMERGENCY PLANNING AND
+    COMMUNITY RIGHT-TO-KNOW ACT OF 1986 (40 CFR 372). CHEMICAL (CAS NO;
+    % BY WT): NONE ABOVE DEMINI MIS REPORTING LEVEL.
+Federal Regulatory Information:TESTS BY AN INDEPENDENT LABORATORY
+    ACCORDING TO THE TOXIC SUBSTANCES CONTROL ACT (TSCA) INDICATE THAT
+    THE MIXTURE IS NON-TOXIC ACCORDING TO ACUTE ORAL TOXICITY TESTS 40
+    CFR 798.1175 AND A NON-IRRITANT  TO OCCULAR TISSUE ACCORDING TO 40
+    CFR 798.4500. IT IS CONSIDERED A SKIN IRRITANT ACCORDING TO
+    PROCEDURES OUTLINED IN 40 CFR 798.4470. THIS MSDS IS PREPARED
+    PURSUANT TO THE OSHA HAZARDOUS COMMUNICATIO N STANDARD (29 CFR
+    1910.1200).
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

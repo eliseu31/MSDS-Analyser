@@ -1,0 +1,164 @@
+=====================  Product Identification  =====================
+
+Product ID:PR-1139-R TYPE IV DARK GRAY PART B
+MSDS Date:12/07/1990
+FSC:5610
+NIIN:00-857-4391
+Kit Part:Y
+MSDS Number: BLPFY
+=== Responsible Party ===
+Company Name:PRODUCTS RESEARCH & CHEMICAL CORP
+Address:5430 SAN FERNANDO RD
+Box:1800
+City:GLENDALE
+State:CA
+ZIP:91209
+Country:US
+Info Phone Num:818-240-2060
+Emergency Phone Num:800-228-5635;800-424-9300(CHEMTREC)
+Preparer's Name:AO
+CAGE:DO563
+=== Contractor Identification ===
+Company Name:PRC-DESOTO INTERNATIONAL, INC. A PPG INDUSTRIES COMPANY
+Address:5430 SAN FERNANDO RD
+Box:1800
+City:GLENDALE
+State:CA
+ZIP:91209
+Country:US
+Phone:818-240-2060
+CAGE:83574
+Company Name:PRODUCTS RESEARCH & CHEMICAL
+Address:NOW DBA COURTAULDS AEROSPACE
+Box:1800
+City:GLENDALE
+State:CA
+ZIP:91209
+Phone:818-240-2060
+CAGE:DO563
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL N-AMYL KETONE
+CAS:110-43-0
+RTECS #:MJ5075000
+Fraction by Wt: 15%
+OSHA PEL:100 PPM
+ACGIH TLV:50 PPM; 9192
+
+Ingred Name:ALPHA-ALUMINA (ALUMINUM OXIDE)  (EPA LISTS ONLY FIBROUS
+    FORMS)  (SARA III)
+CAS:1344-28-1
+RTECS #:BD1200000
+Fraction by Wt: 5%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:ALUMINUM  (SARA III)
+CAS:7429-90-5
+RTECS #:BD0330000
+OSHA PEL:15MG/M3 DUST/5 FUME
+ACGIH TLV:10MG/M3 DUST; 9192
+
+Ingred Name:MAGNESIUM SILICATE; (SILICIC ACID, MAGNESIUM SALT)
+CAS:1343-88-0
+
+Ingred Name:POLYPROPYLENE GLYCOL; (POLYOXYPROPYLENE GLYCOL)
+CAS:25322-69-4
+RTECS #:TR5250000
+
+Ingred Name:FIBROUS GLASS; (CRUSHED GLASS)
+CAS:65997-17-3
+
+Ingred Name:PHENYLETHYLENE; (AROMATIC POLYOL) LIMITS GIVEN AS STYRENE
+CAS:25119-62-4
+OSHA PEL:50 PPM; 100 STEL
+ACGIH TLV:50 PPM; 100 STEL
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: MAY CAUSE BURNING, TEARING AND
+    REDDENING. SKIN: PROLONGED EXPOSURE MAY CAUSE DRYING & CRACKING OF
+    SKIN. POSSIBLE DERMATITIS. INHAL: MAY CAUSE DIZZINESS, DROWSINESS
+    AND FATIGUE. INGEST: MAY CAUSE  DROWSINESS, DIZZINESS AND NAUSEA.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/LUKE WARM WATER FOR A MINIMUM OF 15 MINUTES. IF
+    SYMPTOMS PERSIST, CONSULT MD. SKIN: WASH W/SOAP & WATER. IF
+    SYMPTOMS PERSIST, CONSULT MD. INHAL: REMOVE TO FRESH AIR. IF
+    SYMPTOMS ARE PRES ENT, CONSULT MD. INGEST: CALL MD IMMEDIATELY .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:102F,39C
+Lower Limits:SEE ING 1
+Upper Limits:SEE ING 1
+Extinguishing Media:CO*2, DRY CHEMICAL, FOAM.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT . USE WATER TO COOL HEAT EXPOSED CONTAINERS.
+Unusual Fire/Explosion Hazard:HIGH TEMPERATURES MAY CAUSE PRESSURE
+    BUILDUP IN CLOSED CONTAINERS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL IGNITION SOURCES. WEAR NIOSH/MSHA
+    APPROVED AIR-SUPPLIED RESPIRATOR FOR MAJOR UNVENTILATED SPILL.
+    COVER W/ABSORBANT. SCOOP INTO CONTAINERS. CLEAN-UP RESIDUE WITH
+    1,1,1-TRICHLOROETHANE.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NONE SPECIFIED BY MANUFACTURER.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WHEN APPLYING IN CONFINED AREAS, OR IN OTHER
+    CIRCUMSTANCES LIKELY TO PRODUCE AIRBORNE LEVELS OF SOLVENT IN
+    EXCESS OF PEL, USE NIOSH/MSHA APPROVED ORGANIC VAPOR CARTRIDGE
+    RESPIRATOR OR NIOSH/MSHA APPRO VED AIR-SUPPLIED RESPIRATOR.
+Ventilation:GENERAL VENTILATION TO MAINTAIN VAPORS BELOW PEL.
+Protective Gloves:SOLVENT RESISTANT GLOVES.
+Eye Protection:CHEM WORK GOGGLES/FULL LENGTH FSHLD.
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Vapor Density:SEE ING 1
+Spec Gravity:1.6
+Evaporation Rate & Reference:SEE ING 1
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:THIN GRAY PASTE WITH AGGREGATE.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE KNOWN.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:CO*X.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:EPA WASTE NO. D-001. DISPOSE OF SPILLAGE IN
+    COMPLIANCE WITH FEDERAL, STATE, AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

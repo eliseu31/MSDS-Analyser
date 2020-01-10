@@ -1,0 +1,138 @@
+=====================  Product Identification  =====================
+
+Product ID:CARBON DIOXIDE,GAS
+MSDS Date:09/04/1987
+FSC:6830
+NIIN:01-100-2215
+MSDS Number: BJDZM
+=== Responsible Party ===
+Company Name:SCOTT SPECIALTY GASES
+Address:ROUTE 611 NORTH
+City:PLUMSTEADVILLE
+State:PA
+ZIP:18949
+Country:US
+Info Phone Num:215-766-8861
+Emergency Phone Num:215-766-8861
+CAGE:51847
+=== Contractor Identification ===
+Company Name:SCOTT SPECIALTY GASES
+Address:6141 EASTON RD (6141 ROUTE 611)
+Box:310
+City:PLUMSTEADVILLE
+State:PA
+ZIP:18934
+Country:US
+Phone:215-766-8861/ FAX: 215-766-0416
+CAGE:51847
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CARBON DIOXIDE
+CAS:124-38-9
+RTECS #:FF6400000
+Fraction by Wt: 100%
+Other REC Limits:N/K 
+OSHA PEL:5000 PPM
+ACGIH TLV:5000PPM/30000STEL;93
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:N/K 
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ASPHYXIANT.HIGH CONCENTRATIONS CAN
+    CAUSE PARALYSIS OF THE BREATHING CONTROL CENTERS OF THE NERVOUS
+    SYSTEM.CONTACT WITH LIQUID CAN CAUSE FROSTBITE.CHRONIC
+    EFFECTS:NONE.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES/SKIN:CONTACT WITH LIQUID CAN CAUSE
+    FROSTBITE.INGESTION:N/K
+    .INHALATION:ASPHYXIANT.HEADACHE,DIZZINESS,MUSCULAR
+    WEAKNESS,SHORTNESS OF BREATH.HIGH CONCENTRATIONS CAN CAUSE
+    PARALYSIS OF TH E BREATHING CONTROL CENTERS OF THE NERVOUS SYSTEM.
+Medical Cond Aggravated by Exposure:N/K 
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:N/K .SKIN:FLUSH AFFECTED AREA WITH TEPID WATER TO REDUCE
+    FREEZING OF TISSUE.GET MEDICAL ATTENTION.INGESTION:N/K
+    .INHALATION:REMOVE TO FRESH AIR.GIVE OXYGEN/ARTIFICIAL RESPIR ATION
+    AS NEEDED.GET MEDICAL ATTENTION FOR SERIOUS EXPOSURE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONFLAMMABLE
+Lower Limits:N/K 
+Upper Limits:N/K 
+Extinguishing Media:USE WHAT IS APPROPRIATE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:USE WATER SPRAY TO COOL FIRE EXPOSED
+    CONTAINERS TO PREVENT RUPTURE.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE AREA OF MAJOR SPILL OR
+    RELEASE.VENTILATE AREA.FOR LARGE LEAKS,WEAR SELF-CONTAINED
+    BREATHING APPARATUS.
+Neutralizing Agent:N/K 
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DARK,WELL-VENTILATED
+    AREA AWAY FROM SOURCES OF HEAT.SECURE CYLINDER.MOVE W/ HAND TRUCK &
+    USE NO TOOLS ON CYLINDER.DO NOT DEFACE LABELS.
+Other Precautions:RETURN WITH POSITIVE PRESSURE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:SELF-CONTAINED BREATHING APPARATUS.
+Ventilation:CONSULT LOCAL SAFETY/HEALTH AUTHORITIES IF ADDITIONAL
+    GUIDANCE IS NEEDED .RECOMMENDED.
+Protective Gloves:RECOMMENDED TO PREVENT FREEZE BURNS.
+Eye Protection:SAFETY GLASSES.
+Other Protective Equipment:SAFETY SHOES WHEN HANDLING CYLINDERS.
+Work Hygienic Practices:N/K 
+Supplemental Safety and Health
+BOILING POINT:SUBLIMES AT -109.3F,-78.3C.VAPOR PRESSURE:57.46 ATM AT
+    21.1C,69.8F.WASTE DISPOSAL METHOD:OR TO A REMOTE OUTSIDE AREA.ALLOW
+    GAS TO BLEED OFF AT A MODERATE RATE OR SOLID TO SUBLIME.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:G3
+Boiling Pt:B.P. Text:SEE SUPP DA
+Melt/Freeze Pt:M.P/F.P Text:N/K 
+Decomp Temp:Decomp Text:N/K 
+Vapor Pres:SEE SUPP
+Vapor Density:1.53,AIR=1
+Spec Gravity:0.713 (WATER=1)
+Solubility in Water:0.759 V/V AT 0C,32F
+Appearance and Odor:COLORLESS,ODORLESS GAS,LIQUID OR WHITE SOLID.
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CO*2,BEING WEAKLY ACIDIC,WILL REACT WITH ALKALINE MATERIALS TO FORM
+    CARBONATES AND BICARBONATES.
+Stability Condition to Avoid:N/K 
+Hazardous Decomposition Products:NONE
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISP MUST BE IAW FED,STATE,& LOC
+    REGS.COORDINATION W/ SUPPORTING INSTALLATION/MACOM ENVIRONMENTAL
+    COORDINATION PRIOR TO DISP IS REC TO DETERM APPROPRIATE DISP METH
+    .REMOVE LEAKING CYLINDER & SCR AP SOLID TO HOOD W/ FORCED VENT (SEE
+    SUPP DATA)
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

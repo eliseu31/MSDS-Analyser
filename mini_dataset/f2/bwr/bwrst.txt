@@ -1,0 +1,154 @@
+=====================  Product Identification  =====================
+
+Product ID:BRAKE PARTS CLEANED 507
+MSDS Date:06/04/1993
+FSC:6850
+NIIN:00N057655
+MSDS Number: BWRST
+=== Responsible Party ===
+Company Name:TERAND IND
+Box:9947
+City:FT LAUDERDALE
+State:FL
+ZIP:33310
+Country:US
+Info Phone Num:305-974-5540
+Emergency Phone Num:800-255-3924
+CAGE:IO989
+=== Contractor Identification ===
+Company Name:TERAND IND
+Box:9947
+City:FT LAUDERDALE
+State:FL
+ZIP:33310
+Country:US
+Phone:305-974-5540
+CAGE:IO989
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHANE,1,1,1-TRICHLORO-; (1,1,1-TRICHLOROETHANE) (SARA 313)
+    (CERCLA)
+CAS:71-55-6
+RTECS #:KJ2975000
+Fraction by Wt: <95%
+OSHA PEL:350 PPM
+ACGIH TLV:350 PPM; 450 STEL
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+Ozone Depleting Chemical:1
+
+Ingred Name:ISOPROPYL ALCOHOL (SARA 313)
+CAS:67-63-0
+RTECS #:NT8050000
+OSHA PEL:400 PPM
+ACGIH TLV:400 PPM; 500 STEL
+
+Ingred Name:CARBON DIOXIDE;(PROPELLANT)
+CAS:124-38-9
+RTECS #:FF6400000
+OSHA PEL:5000 PPM
+ACGIH TLV:5000 PPM; 30000 STEL
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHAL: MIN EFTS BELOW 1000 PPM; DIZZ,
+    DROW & THROAT IRRIT AT LEVELS >1000 PPM. UNCON & DEATH POSS AT
+    LEVELS >10,000 PPM. BLOOD PRESS DEPRESS, CARD SENSIT, VENTRICULAR
+    ARRHY CAN RSLT FROM EXPOS TO NEAR  ANESTH LEVELS. SKIN: PLNGD/RPTD
+    CONT CAN CAUSE MOD IRRIT, DEFATT & DERM. INGEST:CAN CAUSE GI IRRIT,
+    (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ:NAUS, VOMIT & DIARR. ASPIR OF MATL
+    INTO LUNGS CAN CAUSE CHEM PNEUM. EYES: CAN CAUSE SEV IRRIT,
+    REDNESS, TEARING & BLURRED VISION. CHLOROCARBON MATLS HAVE PRDCED
+    SENSIT OF THE MYOCARDIUM TO EP INEPHRINE IN LAB ANIMALS & COULD
+    HAVE ASIMILAR EFTS IN HUMANS. ADRENOMIMETICS (E.G., EPINEPHRINE)
+    MAY BE (SUPDAT)
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH W/WATER, LIFTING UPPER & LOWER LIDS FOR AT LEAST
+    15 MINS, GET MED ATTN. SKIN: WASH EXPOSED AREAS WITH SOAP & WATER.
+    INHAL: REMOVE TO FRESH AIR. IF BREATHING IS DIFFICULT, ADMIN O*2.
+    IF BRTH G STOPS, GIVE ARTF RESP. GET MED ATTN. INGEST: DO NOT
+    INDUCE VOMIT. GET MED ATTN IMMED. ASPIR OF MATL INTO LUNGS DUE TO
+    VOMIT CAN CAUSE CHEM PNEUM.
+
+=====================  Fire Fighting Measures  =====================
+
+Lower Limits:7.5% @ 25C
+Upper Limits:15.0% @ 25C
+Extinguishing Media:FOAM, DRY CHEMICAL, CARBON DIOXIDE.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPRVD PRESS DEMAND SCBA &
+    FULL PROT EQUIP. KEEP CNTRS COOL. USE EQUIP/SHIELDING REQD TO PROT
+    PERS AGAINST BURST, RUPTURE/VENTING CNTRS.
+Unusual Fire/Explosion Hazard:AT ELEVATED TEMPERATURES (ABOVE 120F)
+    CNTNRS MAY VENT, RUPTURE OR BURST. THERMAL DECOMPOSITION PRODUCTS
+    MAY INCLUDE HCL & PHOSGENE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CLEAN UP AREA BY MOPPING OR WITH ABSORBENT
+    MATLS & PLACE IN CLOSED CNTNRS FOR DISPOSAL. CONTACT FEDERAL, STATE
+    & LOCAL DISPOSAL AUTHORITIES FOR APROVED PROCEDURES.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT STORE AT TEMPERATURES ABOVE
+    120F.
+Other Precautions:NO SMOKING IN AREA F USE. DO NOT USE IN THE GENERAL
+    VICINITY OF ARC WELDING, OPEN FLAMES OR HOT SURFACES. HEAT & OR UV
+    RADIA MAY CAUSE THE FORMATION OF HCL &/PHOSGENE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED ORGANIC TYPE RESPIRATOR
+    ACCEPTABLE IF CONCENTRATION IS 350-1000 PPM.
+Ventilation:PROVIDE SUFFICIENT MECH(GENL) &/LOCAL EXHAUST VENT TO
+    MAINTAIN EXPOSURE BELOW TLV(S).
+Protective Gloves:NEOPRENE, NITRILE RUBBER/PVC GLOVES.
+Eye Protection:ANSI APPRVD CHEM WORKERS GOGGLES.
+Other Protective Equipment:LONG SLEEVES SHOULD BE WORN.
+Work Hygienic Practices:DO NOT EAT, DRINK OR SMOKE IN WORK AREA. WASH
+    HANDS BEFORE EATING.
+Supplemental Safety and Health
+EFTS OF OVEREXP: CONTRAINDICATED EXCEPT FOR LIFE-SUSTAINING USES IN
+    HUMANS ACUTELY/CHRONICALLY EXPOSED TO CHLOROCARBONS. VP: 90 PSIG @
+    75F.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>162F,>72C
+Vapor Pres:SUPDAT
+Spec Gravity:1.3 (H*2O=1)
+Appearance and Odor:CLEAR, COLORLESS LIQUID W/MILD SWEETISH ODOR.
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ALKALIES, OXIDIZERS, ALUMINUM & OTHER REACTIVE METALS.
+Stability Condition to Avoid:DO NOT EXPOSE TO TEMPERATURES ABOVE 120F.
+Hazardous Decomposition Products:AT ABNORMALLY HIGH TEMPERATURES, POSS
+    TRACE AMTS OF PHOSGENE OR HYDROGEN CHLORIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:WHEN USED PROPERLY, AEROSOL PRODUCTS DO NOT
+    GENERATE HAZ WASTE. EMPTY DE-PRESS CNTNRS SHOULD BE RECYCLED.
+    CONSULT LOCAL, STATE & FEDERAL AUTHORITIES FOR APPROVED PROCEDURES.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,132 @@
+=====================  Product Identification  =====================
+
+Product ID:3ASMO1565 SPECTRUM MATCHER RUBINE RED
+MSDS Date:11/12/1985
+FSC:8010
+NIIN:00F019266
+MSDS Number: BLPTM
+=== Responsible Party ===
+Company Name:AKZO COATINGS AMERICA INC
+Address:650 STEPHENSON HWY
+City:TROY
+State:MI
+ZIP:48083
+Info Phone Num:(313) 589-3660
+Emergency Phone Num:(313) 589-3660
+CAGE:EO776
+=== Contractor Identification ===
+Company Name:AKZO COATINGS AMERICA INC/TROY, MI 48083
+CAGE:EO776
+Company Name:AKZO COATINGS INC
+Address:434 W. MEATS STREET
+Box:City:ORANGE
+State:CA
+ZIP:92661
+Country:US
+Phone:714-637-1750; CHEMTREC 800-424-9300
+CAGE:98502
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:2-BUTOXYETHANOL
+CAS:111-76-2
+RTECS #:KJ8575000
+Fraction by Wt: 55-70%
+Other REC Limits:25 PPM (SKIN)
+OSHA PEL:S, 50 PPM
+ACGIH TLV:S, 25 PPM; 9293
+
+Ingred Name:QUINACRIDOE VIOLET
+CAS:1047-16-1
+Fraction by Wt: <5%
+ACGIH TLV:10 MG/CUM
+
+Ingred Name:SILICA GEL, CHROMAROD SII, DYNAGROUT SB, FRACTOSIL 500,
+    GASIL, GEMODEZ, KIESELGEL, LICHROPREP, NEOBEAD, POLYPOR
+CAS:63231-67-4
+RTECS #:VV7340000
+Fraction by Wt: <5%
+ACGIH TLV:6 MG/CUM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN: DERMATITIS, EXTRACTION OF
+    NATURAL OILS, IRRITATION, & ABSORPTION. EYES: IRRITATION, BURNS, &
+    CORNEAL INJURY. INHALATION: COUGHING, HEADACHE, NAUSEA, VOMITING.
+    KIDNEY, LIVER, BLOOD, & BONE MARROW  INJURY/DAMAGE. RESPIRATORY
+    SYSTEM IRRITATION OR PROBLEMS. INGESTION: TOXIC, HEADACHE, NAUSEA,
+    VOMITING, & WEAKNESS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN: DERMATITIS, EXTRACTION OF NATURAL OILS,
+    IRRITATION, & ABSORPTION. EYES: IRRITATION, BURNS, & CORNEAL
+    INJURY. INHALATION: COUGHING, HEADACHE, NAUSEA, VOMITING. KIDNEY,
+    LIVER, BLOOD, & BONE MARROW  INJURY/DAMAGE. RESPIRATORY SYSTEM
+    IRRITATION OR PROBLEMS. INGESTION: TOXIC, HEADACHE, NAUSEA,
+    VOMITING, & WEAKNESS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. GIVE ARTIFICIAL RESPIRATION
+    IF NECESSARY. SKIN: WASH W/SOAP & WATER. EYES: FLUSH W/WATER FOR AT
+    LEAST 15 MIN. INGESTION: DRINK 1 OR 2 GLASSES OF WATER TO DILUTE.
+    DON'T  INDUCE VOMITING. TREAT SYMPTOMATICALLY. OBTAIN MEDICAL
+    ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:143F
+Lower Limits:1.1%
+Extinguishing Media:FOAM, CO2, OR DRY CHEMICALS
+Fire Fighting Procedures:WATER MAY BE INEFFECTIVE. USE WATER TO COOL
+    CONTAINERS EXPOSED TO FIRE. WEAR SELF-CONTAINED BREATHING
+    APPARATUS.
+Unusual Fire/Explosion Hazard:CLOSED CONTAINERS MAY EXPLODE WHEN
+    EXPOSED TO EXTREME HEAT. COMBUSTIBLE LIQUID.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. VENTILATE
+    AREA. REMOVE W/INERT ABSORBENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:CLOSE CONTAINERS AFTER EACH USE. DON'T
+    TAKE INTERNALLY. USE APPROVED BONDING/GROUNDING PROCEDURES. OBSERVE
+    LABEL PRECAUTIONS. AVOID CONTACT W/SKIN.
+Other Precautions:AVOID BREATHING VAPORS. LIQUID MAY PENETRATE SHOES &
+    LEATHER CAUSING DELAYED IRRITATION. KEEP CONTAINERS TIGHTLY CLOSED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IN CONFINED AREAS USE NIOSH/MSHA APPROVED
+    AIRLINE RESPIRATOR OR HOOD.
+Ventilation:SUFFICIENT TO KEEP AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Appearance and Odor:RUBINE RED
+Percent Volatiles by Volume:65.4%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:ELECTRICAL EQUIPMENT, SPARKS, HOT
+    SURFACES,	    EXTREME HEAT, OPEN FLAME, & OTHER SOURCES OF
+    IGNITION
+Hazardous Decomposition Products:CO, CO2, SMOKE, & OXIDES OF NITROGEN
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL BY INCINERATION IN COMPLIANCE W/LOCAL,
+    STATE, & FEDERAL REGULATIONS CONCERNING POLLUTION. DON'T INCINERATE
+    CLOSED CONTAINERS. COMBUSTIBLE LIQUID. UN1263.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

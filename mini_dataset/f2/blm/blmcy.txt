@@ -1,0 +1,157 @@
+=====================  Product Identification  =====================
+
+Product ID:RAPID SET EPOXY BLACK, PART B
+MSDS Date:05/01/1991
+FSC:8040
+NIIN:00N020643
+Kit Part:Y
+MSDS Number: BLMCY
+=== Responsible Party ===
+Company Name:MORTON INTERNATIONAL BAUER COATINGS FACILITY
+Address:1021 N MISSION RD
+City:LOS ANGELES
+State:CA
+ZIP:90033
+Info Phone Num:213-225-4154
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+CAGE:DO471
+=== Contractor Identification ===
+Company Name:MORTON INTERNATIONAL; SPECIALTY CHEM GRP
+Address:333 WEST WACKER
+City:CHICAGO
+State:IL
+ZIP:60606-1292
+Phone:815-338-1800
+CAGE:DO471
+Company Name:MORTON INTL INC SPECIALTY CHEMICALS GROUP
+Address:333 W WACKER DR
+City:CHICAGO
+State:IL
+ZIP:60606-1218
+Country:US
+Phone:312-807-2000
+CAGE:32063
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PHENOL, 2,4,6-TRIS (DIMETHYLAMINOMETHYL)-; (DMP)
+CAS:90-72-2
+RTECS #:SN3500000
+
+Ingred Name:POLYSULFIDE POLYMER; (THIOL TERMINATED POLYMER,
+    POLYDITHIOETER)
+CAS:68611-50-7
+
+Ingred Name:TALC (CONTAINING NO ASBESTOS)
+CAS:14807-96-6
+RTECS #:WW2710000
+OSHA PEL:2 MG/M3 RDUST
+ACGIH TLV:2 MG/M3 RDUST; 9192
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INGEST: GI DISTRESS. SKIN: REPEATED OR
+    PROLONGED LIQ CONT MAY CAUSE SKIN IRRIT W/DISCOMFORT AND
+    DERMATITIS. MAY ALSO CAUSE ALLERGIC SKIN REACTIONS. CAN BE ABSORBED
+    THROUGH SKIN IN HARMFUL AMOUNTS. EYE : CAUSES SEVERE EYE
+    IRRITATION. LIQ SPASHES IN EYE MAY RESULT IN CHEMICAL BURNS.
+    INHALATION: MAY (SEE EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ: CAUSE NOSE & THROAT IRRITATION. MAY
+    CAUSE NERVOUS SYS DEPRESSION CHARACT BY FOLLOWING PROGRESSIVE
+    STEPS: HDCH DIZZ, NAUS, STAGGERING GAIT, CONFUSION, UNCON. CHRONIC:
+    DMP=DIMETHYLAMINOMETHYL  PHENOL-MAY AGGRAVATE EXISTING SKIN, EYEAND
+    LUNG CONDITIONS.
+Medical Cond Aggravated by Exposure:EXISTING SKIN, EYE AND LUNG
+    CONDITIONS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGEST: GI DISTRESS. CALL PHYS IMMED AND HAVE NAMES OF
+    INGREDS AVAILABLE.	SKIN: IN CASE OF CONTACT, IMMED WASH WITH SOAP
+    AND PLENTY OF WATER. EYE: IMMED FLUSH EYES W/PLENTY OF WATER FOR AT
+    LEAST 15 M IN. CALL PHYS. INHAL: IF AFFECTED BY INHAL OF VAP/SPRAY
+    MIST, REMOVE TO FRESH AIR. IF NOT BRTHG, GIVE ARTF RESP,
+    PREFEREABLY MOUTH TO MOUTH. IF BRTHG DFCLTY PERSISTS, OR OCCURS
+    LATER, CONSULT PHYS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:315F,157C
+Extinguishing Media:USE CHEMICAL FOAM, DRY CHEMICAL, OR CARBON DIOXIDE.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA AND FULL PROT
+    EQUIP . WATER FROM FOG NOZZLES MAY BE USED TO COOL CLOSED
+    CONTAINERS TO PREVENT PRESSURE BUILDUP.
+Unusual Fire/Explosion Hazard:WHEN HEATED ABOVE FLASHPOINT, EMITS FLAM
+    VAPS WHICH, WHEN MIXED W/AIR, CAN BURN OR BE EXPLO. FINE
+    MISTS/SPRAYS MAY BE FLAM AT TEMPS BELOW FLASH POINT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. VENTILATE
+    AREAS. REMOVE MATERIAL WITH INERT ABSORBENT AND USE NON-SPARKING
+    TOOLS.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE BELOW 120 F. DO NOT CUT, GRIND,
+    WELD, OR DRILL NEAR THIS CONTAINER.
+Other Precautions:AVOID EXPOS TO VAPS. GROUND CNTNR WHILE POURING. MIN
+    DISTANCE OF FREE FALL TO AVOID STATIC ELEC GEN. CNTNRS, EVEN THOSE
+    THAT HAVE BEEN EMPTIED, WILL RETAIN PROD RESIDUE & VAPS. ALWAYS
+    OBEY HAZ WARNING S & HNDL CNTNRS AS IF TYEY WERE FULL.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:VENT WORKING SPACES TO BELOW THRESHOLD LIMIT
+    VALUE. IF LOCAL EXHAUST NOT AVAILABLE, USE NIOSH/MSHA APPROVED
+    RESPIRATORY DEVICE.
+Ventilation:LOCAL EXHAUST TO MAINTAIN VAPOR CONCENTRATION BELOW
+    THRESHOLD LIMIT VALUE.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEM WRKRS GOG & FULL LGTH FSHLD .
+Other Protective Equipment:EMERG EYE WASH.
+Work Hygienic Practices:REMOVE & WASH CONTAM CLTHG BEFORE REUSE.
+    DISCARD SHOES IF SATURATED. WHEN PART A IS MIXED W/PART B AN (SUPP
+    DATA)
+Supplemental Safety and Health
+HYGIENE PRACT: EXOTHERMIC RXN OCCURS WHICH WILL PRDCE TEMPS IN EXCESS
+    OF 200 F. ADDITIONAL PROTECTIVE EQUIPMENT MUST BE WORN TO PROPERLY
+    HANDLE THIS PRODUCT MIX.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Vapor Density:HVR/AIR
+Spec Gravity:1.4843 
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Appearance and Odor:NONE SPECIFIED BY MANUFACTURER.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:HEAT, SPARKS, OPEN FLAME.
+Hazardous Decomposition Products:MAY LIBERATE CARBON MONOXIDE, CARBON
+    DIOXIDE, AND UNIDENTIFIED ORGANIC COMPOUNDS IN BLACK SMOKE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF WASTE IN ACCORDANCE WITH LOCAL,
+    STATE, AND FEDERAL REGULATIONS. DO NOT INCINERATE IN A CLOSED
+    CONTAINER. COMPLY WITH ALL APPLICABLE GOVERNMENTAL REGULATIONS ON
+    SPILL REPORTING.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

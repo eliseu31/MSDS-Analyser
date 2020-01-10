@@ -1,0 +1,131 @@
+=====================  Product Identification  =====================
+
+Product ID:CONATHANE EN-9OZR, PART B, BLACK
+MSDS Date:01/20/1989
+FSC:5970
+NIIN:01-276-0966
+Kit Part:Y
+MSDS Number: BHWDW
+=== Responsible Party ===
+Company Name:CONAP INC.
+Address:1405 BUFFALO STREET
+City:OLEAN
+State:NY
+ZIP:14760
+Country:US
+Info Phone Num:716-372-9650
+Emergency Phone Num:716-372-9650
+Preparer's Name:GEORGE C. KARPIN
+CAGE:16245
+=== Contractor Identification ===
+Company Name:CONAP INC.,WHOLLY OWNED SUBSIDIARY OF CYTEC INDUSTRIES
+    INC.
+Address:1405 BUFFALO STREET
+Box:City:OLEAN
+State:NY
+ZIP:14760
+Country:US
+Phone:716-372-9650
+CAGE:16245
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:N,N-BIS(2-HYDROXYPROPYL)ANILINE
+CAS:63549-56-4
+
+Ingred Name:2-ETHYL-1,3-HEXANEDIOL
+CAS:94-96-2
+RTECS #:MO2625000
+Fraction by Wt: 40-60%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL RAT LD50 IS NOT KNOWN
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MAY CAUSE IRRITATION AND POSSIBLE
+    ALLERGIC REACTIONS.  INHALATION MAY EFFECT THE CENTRAL NERVOUS
+    SYSTEM PRODUCING HEADACHE,ETC.
+Explanation of Carcinogenicity:NONE OF THE COMPOUNDS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP, OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:POSSIBLE SKIN IRRITATION OR SENSITIZATION, EYE
+    IRRITATION.  INHALED:DIZZINESS,INCREASED PULSE RATE, HYPERTENSION.
+Medical Cond Aggravated by Exposure:OVEREXPOSURE IS UNLIKELY TO
+    AGGRAVATE EXISTING MEDICAL CONDITIONS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH W/WATER 15 MIN, HOLD LIDS OPEN.  SKIN:REMOVE
+    CONTAMINATED CLOTHING AND LAUNDER BEFORE REUSE. WASH WITH SOAP &
+    WATER.  INHALED:REMOVE TO FRESH AIR. RESTORE BREATHING AS NEEDED. 
+    INGESTED:GIVE  2 LARGE GLASSES OF MILK OR WATER AND IMMEDIATELY
+    INDUCE VOMITING.  GIVE NOTHING BY MOUTH IF UNCONSCIOUS.  GET
+    IMMEDIATE MEDICAL CARE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:>250F,>121C
+Extinguishing Media:USE CARBON DIOXIDE, FOAM, DRY CHEMICAL, OR WATER
+    FOG.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WIPE UP OR ABSORB ON SUITABLE MATERIAL AND
+    SHOVEL UP. AVOID ALL PERSONAL CONTACT. CLEAN AREA WITH SOAP AND
+    WATER.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL ,WELL VENTILATED AREA
+    PER LABEL.
+Other Precautions:FOLLOW RECOMMENDED CURING SCHEDULE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESPIRATOR WILL NOT NORMALLY BE NECESSARY.  USE
+    NIOSH/MSHA APPROVED AIR SUPPLIED RESPIRATOR OR RESPIRATOR FOR
+    ORGANIC  DUST/MIST IF EXPOSURE IS ABOVE THE TLV/PEL. SEE 29 CFR
+    1910.134 FOR REGULATIONS P ERTAINING TO RESPIRATOR USE. SEE SUPP
+Ventilation:USE OF LOCAL EXHAUST RECOMMENDED BY MFR.
+Protective Gloves:IMPERVIOUS; RUBBER OR PLASTIC
+Eye Protection:SAFETY GLASSES OR SPLASH GOGGLES
+Other Protective Equipment:AS NECESSARY TO AVOID PROLONGED AND/OR
+    REPEATED CONTACT.
+Work Hygienic Practices:USE GOOD CHEMICAL HYGIENE PRACTICE. AVOID ANY
+    UNNECESSARY CONTACT. READ PART A MSDS BEFORE USING KIT.
+Supplemental Safety and Health
+THIS IS PART A OF A TWO PART PRODUCT.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T3
+Spec Gravity:1.00
+pH:UNKNON
+Appearance and Odor:CLEAR LIQUID, NO ODOR
+Percent Volatiles by Volume:NIL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:EXTREME HEAT
+Hazardous Decomposition Products:CARBON MONOXIDE,CARBON DIOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W FEDERAL,STATE,LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

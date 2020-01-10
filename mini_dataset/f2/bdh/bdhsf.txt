@@ -1,0 +1,82 @@
+=====================  Product Identification  =====================
+
+Product ID:SUPREME XHD 30
+MSDS Date:01/01/1985
+FSC:9150
+NIIN:00-189-6729
+MSDS Number: BDHSF
+=== Responsible Party ===
+Company Name:DRYDEN OIL COMPANY, INC
+Emergency Phone Num:301-574-5000
+CAGE:40310
+=== Contractor Identification ===
+Company Name:DRYDEN OIL CO INC
+Address:9300 PULASKI HWY
+Box:City:BALTIMORE
+State:MD
+ZIP:21220
+Country:US
+Phone:301-574-5000
+CAGE:40310
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MINERAL OIL (EXPOSURE REGULATED AS 'OIL MIST')
+CAS:8012-95-1
+RTECS #:PY8030000
+Fraction by Wt: UNK
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3/10 STEL;9192
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:495F; 257C, COC
+Extinguishing Media:CO*2, FOAM, DRY POWDER
+Fire Fighting Procedures:NONE
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE ABSORBENT MATERIAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NONE
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:LOCAL EXHAUST RECOMMENDED
+Supplemental Safety and Health
+VAPOR PRESSURE,VAPOR DENSITY & % VOLATILE BY VOLUME ARE NIL. SPEC:
+    MIL-L-2104C. CONTAINER SIZE: 55 GAL DRUM, MFR'S ADDRESS: 9300
+    PULASKI HIGHWAY, BALTIMORE, MARYLAND 21220.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:720F; 382C
+Spec Gravity:30
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:LIGHT AMBER, SLIGHT ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Hazardous Decomposition Products:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:MANUFACTURER RECOMMENDS DISPOSING AS USED
+    CRANKCASE OIL. DISPOSAL METHODS MUST BE IAW FEDERAL, STATE & LOCAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

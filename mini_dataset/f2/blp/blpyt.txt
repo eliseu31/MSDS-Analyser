@@ -1,0 +1,102 @@
+=====================  Product Identification  =====================
+
+Product ID:BUILD 50 PART A
+MSDS Date:02/13/1987
+FSC:8030
+NIIN:00F019356
+MSDS Number: BLPYT
+=== Responsible Party ===
+Company Name:BEHR PROCESS CORPORATION
+Address:3400 W SEGERSTROM AVE
+City:SANTA ANA
+State:CA
+ZIP:92704
+Info Phone Num:(714) 545-7101
+Emergency Phone Num:(800) 854-0133 OR (714) 545-7101
+CAGE:0J2D7
+=== Contractor Identification ===
+Company Name:BEHR PROCESS CORPORATION
+Address:3400 GERRY AVE
+Box:City:SANTA ANA
+State:CA
+ZIP:92704
+Country:US
+Phone:714-545-7101
+CAGE:0J2D7
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:C12 & C14 ALKYL GLYCIDYL ETHERS
+Fraction by Wt: 8-12%
+
+Ingred Name:BISPHENOL A DIGLYCIDYL ETHER RESIN, EPOXY RESIN,	       
+    ARALDITE 6004, 4,4'-ISOPROPYLIDENEDIPHENOL-EPICHLOROHYDRIN
+CAS:25068-38-6
+RTECS #:KD4380000
+Fraction by Wt: 88-92%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES/SKIN: IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES/SKIN: IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER. SKIN: WASH W/MILD SOAP &
+    WATER. INHALATION: REMOVE TO FRESH AIR. INGESTION: INDUCE VOMITING.
+    DRINK PLENTY OF WATER. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:>200F
+Extinguishing Media:A-B-C DRY CHEMICAL OR B-C FOAM
+Fire Fighting Procedures:USE SELF-CONTAINED BREATHING APPARATUS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:AVOID ALL PERSONAL CONTACT. ABSORB W/ABSORBENT
+    MATERIAL & SHOVEL INTO CLOSABLE CONTAINER. FLUSH CONTAMINATED AREAS
+    W/WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID ALL PERSONAL CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AS REQUIRED.
+Ventilation:POSITIVE VENTILATION SHOULD BE PROVIDED.
+Protective Gloves:IMPERVIOUS
+Eye Protection:GOGGLES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:1.1
+Solubility in Water:INSOLUBLE
+Appearance and Odor:CLEAR COLORLESS TO PALE YELLOW LIQUID
+Percent Volatiles by Volume:0%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, ACIDS & BASES IN BULK
+Hazardous Decomposition Products:TOXIC CO, CO2 & ALDEHYDES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF AS NON-HAZARDOUS WASTE IN ACCORDANCE
+    W/LOCAL, STATE, & FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

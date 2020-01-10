@@ -1,0 +1,110 @@
+=====================  Product Identification  =====================
+
+Product ID:OIL SLICK REMOVER
+MSDS Date:01/01/1985
+FSC:6850
+NIIN:00-172-9110
+MSDS Number: BDFKR
+=== Responsible Party ===
+Company Name:ICI AMERICAN INC.(CHEM.COMMODITIES-DIST)
+Address:NEW MURPHY RD AND CONCORD PIKE
+City:WILMINGTON
+State:DE
+ZIP:19897
+Country:US
+Emergency Phone Num:NONE
+CAGE:KO421
+=== Contractor Identification ===
+Company Name:ICI AMERICAN INC.(CHEM.COMMODITIES-DIST)
+Address:NEW MURPHY RD AND CONCORD PIKE
+Box:City:WILMINGTON
+State:DE
+ZIP:19897
+Country:US
+CAGE:KO421
+Company Name:ICI AMERICAS INC FILMS DIV
+Address:NEW MURPHY RD AND CONCORD PIKE
+Box:City:WILMINGTON
+State:DE
+ZIP:19897
+Country:US
+CAGE:70657
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:2-ETHYL BUTANOL
+CAS:97-95-0
+RTECS #:EL3850000
+= Wt:25.
+ACGIH TLV:(S) 50 PPM
+
+Ingred Name:SORBITAN MONO-OLEATE
+CAS:9005-65-6
+RTECS #:WG2932500
+= Wt:75.
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:EYES: IRRITATES & BURNS;INGEST: HARMFUL ;
+    INHAL: IRRITATES; SKIN: DERMATITIS
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES/SKIN: FLUSH IMMEDIATELY W/PLENTY OF WATER FOR AT LEAST
+    15 MIN. -GET MEDICAL ATTN; INHAL: REMOVE INDIVIDUAL TO FRESH AIR;
+    GIVE ARTIFICIAL RESPIRATION AS REQUIRED. CALL A PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:=53.3C, 128.F
+Extinguishing Media:WATER, CO*2, DRY CHEMICAL
+Fire Fighting Procedures:WEAR SELF-CNTND BRTHG APPARATUS.
+Unusual Fire/Explosion Hazard:MAY BE IGNITED BY
+    HEAT,SPARK,FLAME.CONTAINER MAY EXPLODE IN HEAT OR FIRE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WIPE UP WITH VERMICULITE OR SANE.SHOVEL
+    ABSORBED MATERIAL INTO SEALABLE CONTAINER FOR DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:WASH THOROUGHLY AFTER HANDLING. KEEP
+    AWAY FROM HEAT,SPARKS & FIRE. KEEP CONTAINER CLOSED. DONOT TRANSFER
+    TO UNMARKED CONTAINER. DONOT GET IN EYES.
+Other Precautions:AVOID BREATHING VAPOR
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AS REQUIRED TO MINIMIZE EXPOSURE
+Ventilation:LOCAL EXHAUST & MECHANICAL TO MAINTAIN CONC. BELOW TLV
+Protective Gloves:RESISTANCE TYPE
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:AS REQUIRED BY LOCAL PROCEDURES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Appearance and Odor:AMBER LIQUID
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CORROSIVES, OXIDIZING AGENTS
+Stability Condition to Avoid:HEAT & SOURCES OF IGNITION
+Hazardous Decomposition Products:CO*2, CO, & WATER VAPOR
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE IN APPROVED EQUIPMENT IAW ESTABLISHED
+    FEDERAL,STATE & LOCAL ENVIRONMENTAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

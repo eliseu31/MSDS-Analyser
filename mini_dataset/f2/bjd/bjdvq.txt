@@ -1,0 +1,128 @@
+=====================  Product Identification  =====================
+
+Product ID:HALON 1301 897893
+MSDS Date:05/20/1986
+FSC:1680
+NIIN:01-212-2917
+MSDS Number: BJDVQ
+=== Responsible Party ===
+Company Name:KIDDE INC
+Address:2500 AIRPORT DRIVE
+City:WILSON
+State:NC
+ZIP:27893-9604
+Country:US
+Info Phone Num:307-744-5487
+Emergency Phone Num:919-237-7004
+CAGE:MO903
+=== Contractor Identification ===
+Company Name:KIDDE INC
+Address:1394 S. THIRD STREET
+Box:City:MEBANE
+State:NC
+ZIP:27302
+Country:US
+Phone:919-556-6811
+CAGE:MO903
+Company Name:KIDDE INC WALTER KIDDE DIV AEROSPACE OPNS
+Address:2500 AIRPORT DRIVE
+Box:City:WILSON
+State:NC
+ZIP:27893-9604
+Country:US
+Phone:252-237-7004
+CAGE:61423
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TRIFLUOROBROMOMETHANE  (HALON 1301)  (SARA III)
+CAS:75-63-8
+RTECS #:PA5425000
+Fraction by Wt: >99%
+OSHA PEL:1000 PPM
+ACGIH TLV:1000 PPM; 9192
+Ozone Depleting Chemical:1
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:MAY CAUSE LIGHT HEADEDNESS, GIDDINESS,
+    DIZZINESS, SHORTNESS OF BREATH
+Medical Cond Aggravated by Exposure:AT CONCENTRATIONS OF 10% BY VOLUME
+    & HIGHER MAY CAUSE POSSIBLE NARCOSIS & CARDIAC ARRHYTHMIAS
+
+=======================  First Aid Measures  =======================
+
+First Aid:REMOVE TO FRESH AIR. CALL A MD. DO NOT GIVE EPINEPHRINE OR
+    SIMILAR DRUGS. FLUSH W/ WATER FOR SKIN OR EYE CONTACT.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONFLAMMABLE
+Extinguishing Media:HALON 1301
+Fire Fighting Procedures:SCBA TO PROTECT AGAINST VAPORIZED MATERIAL
+    DECOMPOSITION PRODUCTS (BROMINE, FLUORINE, HALOGEN ACIDS & CARBONYL
+    HALIDES)
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA - ESPECIALLY LOW PLACES WHERE
+    HEAVY VAPORS MAY COLLECT. REMOVE OPEN FLAMES.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE CONTAINERS IN A CLEAN, DRY AREA
+    DO NOT HEAT >125F
+Other Precautions:AVOID CONTAINER DAMAGE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE FULL FACE PIECE SUPPLIED AIR RESPIRATOR OR
+    SCBA FOR CONCENTRATIONS > TLV
+Ventilation:IF TLV IS EXCEEDED. LEV IF TLV IS EXCEEDED. VENTILATE SUMPS
+    & PITS WHERE VAPORS MAY COLLECT
+Protective Gloves:PVA OR PVC
+Eye Protection:CHEMICAL WORKERS GOGGLES
+Other Protective Equipment:SAFETY SHOWER & EYE WASH STATION NEAR WORK
+    AREA.
+Work Hygienic Practices:GOOD HYGIENE PRACTICES AS WITH ANY INDUSTRIAL
+    CHEMICAL
+Supplemental Safety and Health
+THIS IS PART "B" OF A TWO PART PRODUCT BUT NOT A KIT.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:G3
+Boiling Pt:B.P. Text:72.0F,22.2C
+Vapor Pres:12,152
+Vapor Density:8.71 G/L
+Spec Gravity:1.538 G/L
+Solubility in Water:0.03 @ 77F
+Appearance and Odor:SLIGHT ETHERAL ODOR, COLORLESS GAS & LIQUID
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+LIQUID CONTACT W/ ALKALI & ALKALINE EARTH METALS - POWDERED ALUMINIUM,
+    ZINC, BERYLLIUM, ETC.
+Stability Condition to Avoid:STABLE UNDER NORMAL CONDITIONS - AVOID
+    CONTACT W/ OPEN FLAMES OR TEMPS ABOVE 1000 F
+Hazardous Decomposition Products:HYDROGEN FLOURIDES, HYDROGEN
+    BROMIDES,FREE BROMINE & CARBONYL HALIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:EVAPORATE OUT DOORS
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

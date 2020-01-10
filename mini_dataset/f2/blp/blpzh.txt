@@ -1,0 +1,120 @@
+=====================  Product Identification  =====================
+
+Product ID:62-3024 BLACK DEVELOPER K212
+MSDS Date:05/30/1989
+FSC:6850
+NIIN:00F019364
+MSDS Number: BLPZH
+=== Responsible Party ===
+Company Name:A B DICK COMPANY
+Address:5700 WEST TOUHY AVE
+City:CHICAGO
+State:IL
+ZIP:60648
+Info Phone Num:(312) 763-1900
+Emergency Phone Num:(312) 763-1900
+Preparer's Name:KENNETH W. PINTER
+CAGE:HO951
+=== Contractor Identification ===
+Company Name:DICK A B CO
+Address:7400 CALDWELL AVE
+Box:City:NILES
+State:IL
+ZIP:60714-4628
+Country:US
+Phone:847-779-1900
+CAGE:17638
+Company Name:DICK A B CO
+Address:5700 WEST TOUHY AVENUE
+Box:City:CHICAGO
+State:IL
+ZIP:60648
+Country:US
+Phone:312-647-8800
+CAGE:HO951
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CARBON BLACK
+CAS:1333-86-4
+RTECS #:FF5800000
+Fraction by Wt: 10-15%
+Other REC Limits:3.5 MG/CUM (NIOSH)
+OSHA PEL:3.5 MG/M3
+ACGIH TLV:3.5 MG/M3; 9192
+
+Ingred Name:POLYOLEFIN
+Fraction by Wt: <10%
+
+Ingred Name:ACRYLIC RESIN
+Fraction by Wt: 20-25%
+
+Ingred Name:SILICON DIOXIDE
+CAS:7631-86-9
+RTECS #:VV3100000
+Fraction by Wt: <1%
+OSHA PEL:80 MG/CUM
+
+Ingred Name:STYRENE ACRYLATE COPOLYMER
+Fraction by Wt: 60-65%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): >5 G/KG
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: RESPIRATORY TRACT
+    IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: RESPIRATORY TRACT IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION: DILUTE STOMACH W/SEVERAL GLASSES OF WATER. EYES:
+    FLUSH W/WATER. SKIN: WASH W/SOAP & WATER. INHALATION: REMOVE TO
+    FRESH AIR. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER FOG, FOAM, OR DRY CHEMICAL
+Unusual Fire/Explosion Hazard:TONER IS COMBUSTIBLE POWDER. WHEN
+    DISPERSED IN AIR, FORMS EXPLOSIVE MIXTURES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP OR VACUUM
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID INHALATION OF EXCESSIVE DUST OR
+    SMOKE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NORMALLY REQUIRED
+Ventilation:MECHANICAL: ACCEPTABLE
+Eye Protection:NOT NORMALLY REQUIRED
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Appearance and Odor:BLACK GRANULES W/FAINT ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Hazardous Decomposition Products:SMOKE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,142 @@
+=====================  Product Identification  =====================
+
+Product ID:CR2430 SANYO LITHIUM BATTERY COIN CELL TYPE 2CR5
+MSDS Date:11/17/1987
+FSC:6135
+NIIN:01-320-4815
+MSDS Number: BKYYY
+=== Responsible Party ===
+Company Name:SANYO ENERGY CORPORATION
+Address:600 SUPREME DRIVE
+City:BENSENVILLE
+State:IL
+ZIP:60106
+Info Phone Num:(312) 595-5600
+Emergency Phone Num:(312) 595-5600
+CAGE:0C8Z7
+=== Contractor Identification ===
+Company Name:SANYO ENERGY CORP, BATTERY DIV
+Address:200 RISER RD
+Box:City:LITTLE FERRY
+State:NJ
+ZIP:07643
+Country:US
+Phone:201-641-2333
+CAGE:0C8Z7
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MANGANESE DIOXIDE
+CAS:1313-13-9
+RTECS #:OP0350000
+Fraction by Wt: 25-35%
+OSHA PEL:5 MG/CUM
+ACGIH TLV:5 MG/CUM (MN)
+
+Ingred Name:1,3-DIOXOLAN-2-ONE, 4-METHYL-DIPROPLYENE CARBONATE,
+    PROPYLENE CARBONATE, CARBONIC ACID, CYCLIC PROPYLENE ESTER
+CAS:108-32-7
+RTECS #:FF9650000
+Fraction by Wt: 2-8%
+
+Ingred Name:DIOXOLANE
+CAS:100-79-8
+RTECS #:JI0400000
+Fraction by Wt: 2-6%
+
+Ingred Name:LITHIUM
+CAS:7439-93-2
+RTECS #:OJ5540000
+Fraction by Wt: 2-4%
+
+Ingred Name:THIONYL CHLORIDE
+CAS:7719-09-7
+RTECS #:XM5150000
+Other REC Limits:1 PPM
+OSHA PEL:C 1 PPM
+ACGIH TLV:C 1 PPM; 9192
+
+Ingred Name:DIMETHOXYETHANE
+Fraction by Wt: <5%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN/EYES: CHEMICAL BURNS, IRRITATION,
+    & HARMFUL. INGESTION: HARMFUL.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN/EYES: CHEMICAL BURNS, IRRITATION, &
+    HARMFUL. INGESTION: HARMFUL.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: WASH W/SOAP & WATER. EYES: FLUSH THOROUGHLY W/WATER &
+    CONTINUE FLUSHING FOR AT LEAST 15 MINS. INGESTION: OBTAIN MEDICAL
+    ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER/CO2/DRY CHEMICAL. LITHIUM FIRE: LITH-X
+    (GRAPHITE BASE)/DON'T USE WATER/CO2/DRY CHEMICAL/FOAM/HALOGEN
+    EXTINGUISHER.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS & FULL
+    PROTECTIVE CLOTHING IN ADJACENT AREA. USE WATER TO COOL BATTERY
+    ONLY IF LITHIUM FOIL ISN'T EXPOSED.
+Unusual Fire/Explosion Hazard:BATTERY RUPTURES AT HIGH TEMPS.
+    RECHARGING OF BATTERY CAUSES AN EXPLOSION. INCINERATION MAY
+    VAPORIZE/VENT THE LIQUID ELECTROLYTE/CAUSE CELL TO RUPTURE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE EQUIPMENT & VENTILATE AREA.
+    NEUTRALIZE W/LIME OR OTHER BASIC SUBSTANCES.
+Neutralizing Agent:LIME OR OTHER BASIC SUBSTANCES
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID FUME INHALATION IN FIRE/CONTACT
+    W/SKIN/EYE/INGESTION/PROLONGED SHORT CIRCUIT/METAL COVERED
+    TABLE/BELT/OPENING/SEAL DAMAGE. STORE IN COOL PLACE.
+Other Precautions:PREVENT CONDENSATION. AVOID HIGH TEMPS, WHICH RESULTS
+    IN SHORTENED BATTERY LIFE. DON'T JUMBLE BATTERY IN BULK CONTAINER.
+    APPLY INSULATING MATERIAL TO ASSEMBLY WORK SURFACE. SOLDER/WELD
+    W/PRECAUTION. S TORE IN CLIMATE CONTROLLED WAREHOUSE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NECESSARY UNDER CONDITIONS OF NORMAL USE.
+Ventilation:NOT NECESSARY UNDER CONDITIONS OF NORMAL USE.
+Protective Gloves:AS REQUIRED.
+Eye Protection:AS REQUIRED.
+Supplemental Safety and Health
+THIONYL CHLORIDE IS CORROSIVE TO METALS & PLASTICS.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:168.8F
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+WATER IN ANY FORM, CONDUCTIVE MATERIALS, & CORROSIVE COMPOUNDS
+Stability Condition to Avoid:ELEVATED TEMPERATURES >212F
+Hazardous Decomposition Products:CAUSTIC SMOKE OF LITHIUM OXIDE,
+    HYDROGEN, SULFUR DIOXIDE GAS, & HYDROGEN CHLORIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DON'T RECHARGE, WHICH CAUSES LEAKAGE/EXPLOSION.
+    BURY IN LANDFILL ACCORDING TO APPROPRIATE FEDERAL/STATE/LOCAL REGS
+    AS HAZARDOUS WASTE. DON'T PUNCTURE/MUTILATE/INCINERATE. SUBMERSE
+    EXPOSED LITHIUM FOIL  IN MINERAL OIL IN PLASTIC BAGS TO
+    STOPOXIDATION.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

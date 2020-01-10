@@ -1,0 +1,128 @@
+=====================  Product Identification  =====================
+
+Product ID:BRAKE FLUID 455
+MSDS Date:01/01/1985
+FSC:9150
+NIIN:00-190-0932
+MSDS Number: BDHVM
+=== Responsible Party ===
+Company Name:DOW CHEMICAL COMP.(MFR); PHIPPS PRODUCTS CORP(DIST
+Emergency Phone Num:517-636-4400
+CAGE:0BHP4
+=== Contractor Identification ===
+Company Name:DOW CHEMICAL CO
+Address:100 LARKIN CENTER
+Box:City:MIDLAND
+State:MI
+ZIP:48674
+Country:US
+Phone:800-258-2436
+CAGE:96717
+Company Name:THE DOW CHEMICAL COMPANY
+Address:1776 DOW BUILDING
+Box:368
+City:MIDLAND
+State:MI
+ZIP:48674-1776
+Country:US
+Phone:800-258-2436 / 989-636-0773
+CAGE:0BHP4
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TRIETHYLENE GLYCOL ETHYL ETHER
+RTECS #:KK8950000
+Fraction by Wt: UNK
+ACGIH TLV:UNK
+
+Ingred Name:TRIETHYLENE GLYCOL N-BUTYL.ETHER
+CAS:143-22-6
+RTECS #:KJ9450000
+Fraction by Wt: UNK
+ACGIH TLV:UNK
+
+Ingred Name:TRIETHYLENE GLYCOL METHYL ETHER
+RTECS #:KL6390000
+Fraction by Wt: UNK
+ACGIH TLV:UNK
+
+Ingred Name:CORROSION INHIBITOR
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:EYE:SLIGHT TRANSIENT IRRITAT; SKIN:SINGLE SHORT
+    EXPOS-NO IRRITAT;PROLNGD REPEATED-MINOR SKIN EFFECTS
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE/SKIN: FLUSH W/WATER-IF ILL EFFECTS OCCUR,SEE A DOCTOR;
+    INHALAT& INGESTION: NO PROBLEM ANTICIPATED. IF LARGE AMT. SWALLOWED
+    & PATIENT IS NOT UNCONSCIOUS OR CONVULSING, INDUCE VOMITING & CALL
+    A PHYS ICIAN. NO SPECIFIC ANTIDOTE KNOWN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:280F/137.8C COC
+Lower Limits:UNKN
+Extinguishing Media:CO*2, FOAM, DRY CHEM & H*2O FOG.
+Fire Fighting Procedures:NONE
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE IGNITION SOURCES. STOP LEAK.
+    EVACUATE AREA.DO NOT TOUCH SPILLAGE. SM SPILL:ABSORB W. INERT
+    ABSORBENT. PLACE IN CLOSED CONTAINER. FLUSH AREA W. WATER. LG
+    SPILL: DIKE AHEAD FOR LATER DISPOSAL.  NOTIFY AUTHORITIES.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DRY,WELL VENT,LOW FIRE
+    RISK AREA. PROTECT FROM PHYSICAL DAMAGE.AVOID ANY PHYSICAL CONTACT.
+    KEEP CONTAINERS TIGHTLY CLOSED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY NEEDED
+Ventilation:PROVIDE MECHAN(GEN/LOCAL EXHAUST)VENT TO MAINTN <TLV
+Protective Gloves:PVC/RUBBER
+Eye Protection:SAFETYGLASSES W/O SID.SHD
+Other Protective Equipment:AS REQUIRED TO PREVENT PROLONGED CONTACT.
+Supplemental Safety and Health
+MSDS DATED 4/17/72; HEALTH HAZ. DATA: SKIN ABSORPTION-NOT ABSORBED IN
+    TOXIC AMOUNTS; INHALAT-TLV,NONE SUGGESTED MATERIAL HAS LOW
+    VOLATILITY: ORAL INGESTION- LD50(RAT) 5000 TO 10000 MG/KG.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:470F/243.3C
+Vapor Pres:LOW
+Vapor Density:UNKN
+Spec Gravity:1.03
+Solubility in Water:INFINITE
+Appearance and Odor:PALE YELLOW COLOR; MILD ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZERS, CORROSIVES, PEROXIDES
+Stability Condition to Avoid:HIGH TEMPERATURES,IGNITION SOURCES
+Hazardous Decomposition Products:MAY FORM TOXIC MATL. CO*2, CO, VARIOUS
+    HYDROCARBONS,ETC.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:KEEP IN COVERED DRUMS,PENDING DISPOSAL. HANDLE &
+    DISPOSE IN FULL COMPLIANCE WITH ALL APPLICABLE
+    INTERNATIONAL,FEDERAL,STATE, & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

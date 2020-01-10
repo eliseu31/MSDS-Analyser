@@ -1,0 +1,217 @@
+=====================  Product Identification  =====================
+
+Product ID:COUNTER ASSAULT OC-10
+MSDS Date:02/01/1999
+FSC:6850
+NIIN:01-444-1128
+MSDS Number: CJQDP
+=== Responsible Party ===
+Company Name:COUNTER ASSAULT
+Address:120 INDUSTRY CT
+City:KALISPELL
+State:MT
+ZIP:59901
+Country:US
+Info Phone Num:406-257-4740
+Emergency Phone Num:800-695-3394
+CAGE:082C9
+=== Contractor Identification ===
+Company Name:BUSHWACKER BACKPACK AND SUPPLY CO
+Address:836 HOLT DR SUITE 306
+Box:City:BIGFORK
+State:MT
+ZIP:59911
+Country:US
+Phone:406-886-2410
+CAGE:1EFK1
+Company Name:COUNTER ASSAULT
+Address:120 INDUSTRY CT
+Box:City:KALISPELL
+State:MT
+ZIP:59901
+Country:US
+Phone:406-257-4740
+Contract Num:SP0450-00-M-D096
+CAGE:082C9
+Company Name:COUNTER ASSAULT
+Address:120 INDUSTRY CT
+Box:City:KALISPELL
+State:MT
+ZIP:59901
+Country:US
+Phone:406-257-4740
+Contract Num:SP0450-00-M-D136
+CAGE:082C9
+Company Name:COUNTER ASSAULT
+Address:120 INDUSTRY CT
+Box:City:KALISPELL
+State:MT
+ZIP:59901
+Country:US
+Phone:406-257-4740
+Contract Num:SP0450-00-M-D140
+CAGE:082C9
+Company Name:COUNTER ASSAULT
+Address:120 INDUSTRY CT
+Box:City:KALISPELL
+State:MT
+ZIP:59901
+Country:US
+Phone:406-257-4740
+Contract Num:SP0450-00-M-D158
+CAGE:082C9
+Company Name:COUNTER ASSAULT
+Address:120 INDUSTRY CT
+Box:City:KALISPELL
+State:MT
+ZIP:59901
+Country:US
+Phone:406-257-4740
+Contract Num:SP0450-00-M-D954
+CAGE:082C9
+Company Name:COUNTER ASSAULT
+Address:120 INDUSTRY CT
+Box:City:KALISPELL
+State:MT
+ZIP:59901
+Country:US
+Phone:406-257-4740
+Contract Num:SP0450-99-M-NE48
+CAGE:082C9
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:OLEORESIN CAPSICUM
+= Wt:10.
+
+Ingred Name:DUPONT HFC 134A PROPELLANT
+CAS:811-97-2
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NO DATA PROVIDED BY RESPONSIBLE PARTY.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Health Hazards Acute and Chronic:EYE EFFECTS: THIS PRODUCT IS AN EYE
+    IRRITANT. TEARING AND REDNESS MAY OCCUR.  SKIN EFFECTS: EXCESSIVE
+    `SKIN CONTACT WITH LIQUID MAY CAUSE FROSTBITE.
+Explanation of Carcinogenicity:NO DATA PROVIDED BY RESPONSIBLE PARTY.
+Effects of Overexposure:EYES: TEARING AND REDNESS MAY OCCUR. SKIN:
+    FROSTBITE.
+Medical Cond Aggravated by Exposure:NO DATA PROVIDED BY RESPONSIBLE
+    PARTY.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: REMOVE CONTACT LENSES. FLUSH EYES WITH LARGE QUANTITIES
+    OF WATER. TIP- IMMERSE FACE & OPEN EYES IN BASIN OF WATER.	SKIN:
+    WASH AFFECTED AREA WITH SOAP & WATER. AVOID TRANSFER TO MORE
+    SENSITIVE A REAS. WASH CONTAMINATED CLOTHING BEFORE REUSE. DO NOT
+    APPLY SALVES OR OTHER SKIN DRESSING WHICH MAY TRAP THE PEPPER
+    AGAINST THE SKIN.  INHALATION: INFLAMMATORY.  RESPIRATORY
+    IRRITATION MAY CAUSE FEELI NG OF RESTRICTED AIRWAY.  MOVE SUBJECT
+    TO FRESH AIR.  INGESTION: SEVERE HEARTBURN SENSATION MAY CAUSE
+    NAUSEA. IF IRRITATION PERSISTS, CONSULT A PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TOC
+Flash Point:NON-FLAMMABLE
+Extinguishing Media:THIS MATERIAL IS NON-FLAMMABLE. USE EXTINGUISHING
+    MEDIA APPROPRIATE  FOR SURROUNDING FIRES.
+Fire Fighting Procedures:FIREFIGHTERS SHOULD WEAR SELF-CONTAINED
+    BREATHING APPARATUS AND FULL PROTECTIVE CLOTHING. USE WATER SPRAY
+    TO COOL NEARBY CONTAINERS AND STRUCTURES EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:DO NOT EXPOSE TO HEAT OR FLAME, OR STORE
+    ABOVE 120 DEG F (49 DEG C).  HIGH INTERNAL PRESSURES MAY CAUSE
+    CYLINDERS TO RUPTURE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA. REMOVE SOURCES OF IGNITION. 
+    AVOID PROLONGED BREATHING OF VAPORS. CONFINE SPILL WITH INERT
+    ABSORBERS. WEAR PROTECTIVE EQUIPMENT DURING CLEAN UP. KEEP OUT OF
+    SEWERS, STORM DRAINS, SURFA CE WATER, AND SOIL.
+Neutralizing Agent:NO DATA PROVIDED BY RESPONSIBLE PARTY.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL, DRY AREA, AWAY FROM
+    SOURCES OF IGNITION. WHEN STORING LARGE QUANTITIES,  PROTECT
+    AGAINST FIRE. DO NOT STORE IN DIRECT SUNLIGHT OR ABOVE 120 DEGREES
+    F.
+Other Precautions:DO NOT TAKE INTERNALLY. IF INGESTED, DO NOT INDUCE
+    VOMITING. CONSULT A PHYSICIAN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED CHEMICAL/MECHANICAL TYPE
+    FILTER SYSTEM TO REMOVE A COMBINATION OF PARTICLES, GAS AND VAPOR.
+    USE AIR LINE, IF NECESSARY.
+Ventilation:USE ADEQUATE VENTILATION IN VOLUME AND PATTERN TO KEEP PEL
+    AND TVLS BELOW RECOMMENDED LEVEL TO PRODUCE EXPLOSION OR FIRE.
+    GENERAL MECHANICAL VENTILATION
+Protective Gloves:USE RUBBER GLOVES
+Eye Protection:SAFETY GLASSES OR GOGGLES WITH SPLASH GUARDS OR SIDE
+    SHIELDS
+Other Protective Equipment:PREVENT PROLONGED SKIN CONTACT TO
+    CONTAMINATED CLOTHING
+Work Hygienic Practices:NO DATA PROVIDED BY RESPONSIBLE PARTY.
+Supplemental Safety and Health
+NO DATA PROVIDED BY RESPONSIBLE PARTY.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V2
+Boiling Pt:=6.9C, 44.4F
+Vapor Pres:71 PSIA@70F
+Vapor Density:3 (AIR=1)
+Spec Gravity:< 1 (WATER=1)
+Solubility in Water:1.2%
+Appearance and Odor:AMBER TO LIGHT RED, SLIGHT ETHEREAL ODOR.
+Percent Volatiles by Volume:90
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS, ALKALIS, ORGANIC ACID ANHYDRIDES, OXIDIZING MATERIALS, 
+    SODIUM, POTASSIUM AND MAGNESIUM.
+Stability Condition to Avoid:HIGH TEMPERATURE SOURCES WHICH MAY INDUCE
+    THERMAL DECOMPOSITION.
+Hazardous Decomposition Products:NO DATA PROVIDED BY RESPONSIBLE PARTY.
+Conditions to Avoid Polymerization:WILL NOT OCCUR
+
+===================  Toxicological Information	===================
+
+Toxicological Information:TLV= 50 PPM, PEL= 500 PPM, WEEL 1000 PPM 8 HR
+    TWA.
+
+=====================  Ecological Information  =====================
+
+Ecological:OZONE DEPLETING POTENTIAL=ZERO (DOES NOT CONTAIN CHLORINE). 
+    GLOBAL WARMING POTENTIAL=NEGLIGIBLE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN ACCORDANCE WITH FEDERAL, STATE, AND
+    LOCAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:DOT SHIPPING CLASS: ORM-D CONSUMER COMMODITY.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:NOT INCLUDED IN MONTREAL PROTOCOL.
+Federal Regulatory Information:NO DATA PROVIDED BY RESPONSIBLE PARTY.
+State Regulatory Information:NO DATA PROVIDED BY RESPONSIBLE PARTY.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

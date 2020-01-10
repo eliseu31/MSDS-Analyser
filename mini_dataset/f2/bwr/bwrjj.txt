@@ -1,0 +1,145 @@
+=====================  Product Identification  =====================
+
+Product ID:864 8834 KODAK POLYMAX T DEVELOPER (WORKING SOLUTION)
+MSDS Date:07/14/1993
+FSC:6750
+NIIN:00-051-4977
+MSDS Number: BWRJJ
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-477-3194 MSDS :800- 242-2424
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 90-95%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:POTASSIUM SULFITE
+CAS:10117-38-1
+RTECS #:WT3530000
+Fraction by Wt: 1-5%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:POTASSIUM CARBONATE
+CAS:584-08-7
+RTECS #:TS7750000
+Fraction by Wt: 1-5%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:DIETHYLENE GLYCOL
+CAS:111-46-6
+RTECS #:ID5950000
+Fraction by Wt: 1-5%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:1,3,5-TRINITROBENZENE  (SARA III)
+CAS:99-35-4
+RTECS #:DC3850000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION- LOW HAZARD FOR RECOMMENDED
+    HANDLING. EYES- CAUSES IRRITATION.	SKIN- CAUSES IRRITATION. MAY
+    CAUSE ALLERGIC SKIN REACTION.  INGESTION- EXPECTED TO BE A LOW
+    INGESTION HAZARD.
+Effects of Overexposure:NONE SPECIFIED BY MANUFACTURER.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION- IF SYMPTOMATIC, MOVE TO FRESH AIR.  EYES- WASH
+    OUT IMMEDIATELY WITH WATER FOR AT LEAST 15 MINUTES. GET MEDICAL
+    ATTENTION.	SKIN- WASH WITH SOAP (NON-ALKALINE TYPE OF SKIN
+    CLEANER) AND WATE R. GET MEDICAL ATTENTION IF SYMPTOMS OCCUR. 
+    INGESTION- DRINK 1-2 GLASSES OF WATER. SEEK MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:ANY MEDIA SUITABLE FOR SURROUNDING MATERIAL.
+Fire Fighting Procedures:NONE
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH TO SEWER WITH LARGE AMOUNTS OF WATER.
+    MAY REQUIRE NEUTRALIZATION IF PH <3 OR >12. OTHERWISE, ABSORB SPILL
+    WITH VERMICULITE OR OTHER INERT MATERIAL, THEN PLACE IN A CONTAINER
+    FOR CHEMICAL WASTE.  CLEAN SURFACE THOROUGHLY TO REMOVE
+    CONTAMINATION.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER CLOSED.
+Other Precautions:KEEP FROM CONTACT WITH OXIDIZING MATERIALS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY REQUIRED.
+Ventilation:GOOD GENERAL VENTILATION SHOULD BE USED (TYPICALLY 10 AIR
+    CHANGES PER HOUR). MATCH RATE TO CONDITIONS.
+Protective Gloves:WEAR IMPERVIOUS GLOVES.
+Eye Protection:WEAR SAFETY GLASSES WITH SIDE SHIELDS.
+Other Protective Equipment:EYE BATH, WASHING FACILITIES, SAFETY SHOWER.
+Work Hygienic Practices:WASH HANDS THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:B3
+Boiling Pt:B.P. Text:>212F,>100C
+Vapor Pres:18
+Vapor Density:0.6
+Spec Gravity:>1
+pH:10.7
+Solubility in Water:COMPLETE
+Appearance and Odor:TAN LIQUID. COLORLESS. ODORLESS.
+Percent Volatiles by Volume:90-95
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE WITH COMMON MATERIALS AND CONTAMINANTS WITH WHICH THE MATERIAL MAY
+    REASONABLY COME INTO CONTACT.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:CARBON DIOXIDE, CARBON MONOXIDE,
+    OXIDES OF SULFUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISCHARGE, TREATMENT, OR DISPOSAL MAY BE SUBJECT
+    TO NATIONAL, STATE, OR LOCAL LAWS. FLUSH TO SEWER WITH LARGE
+    AMOUNTS OF WATER.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

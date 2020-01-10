@@ -1,0 +1,134 @@
+=====================  Product Identification  =====================
+
+Product ID:INDUSTRIAL ENAMEL-LOW VOC TOPCOATS (SEE SUPP FOR CODES)
+MSDS Date:02/06/1990
+FSC:8010
+NIIN:00F019096
+MSDS Number: BLPKC
+=== Responsible Party ===
+Company Name:RUST-OLEUM CORP
+Address:11 HAWTHORN PKWY
+City:VERNON HILLS
+State:IL
+ZIP:60061-1583
+Country:US
+Info Phone Num:708-367-7700
+Emergency Phone Num:708-367-7700
+CAGE:08882
+=== Contractor Identification ===
+Company Name:RUST-OLEUM CORP
+Address:11 HAWTHORN PARKWAY
+Box:City:VERNON HILLS
+State:IL
+ZIP:60061-1583
+Country:US
+Phone:847-367-7700
+CAGE:08882
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:STODDARD SOLVENT (PETROLEUM DISTILLATE), MINERAL SPIRITS
+CAS:8052-41-3
+RTECS #:WJ8925000
+Fraction by Wt: 25-45%
+Other REC Limits:525 MG/CUM
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:WEIGHT PER GALLON IN POUNDS: 7.7-11.5
+RTECS #:9999999WG
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: HARMFUL. MAY AFFECT THE
+    BRAIN & NERVOUS SYSTEM. OVEREXPOSURE MAY LEAD PROGRESSIVELY TO
+    UNCONSCIOUSNESS OR COMA. EYES/SKIN: IRRITATION. MAY LEAD TO
+    DERMATITIS. INGESTION: GASTROINTESTINAL I RRITATION. ASPIRATION
+    HAZARD.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: DIZZINESS, HEADACHE OR NAUSEA,
+    STAGGERING GAIT, CONFUSION, UNCONSCIOUSNESS OR COMA. NOSE & THROAT
+    IRRITATION. EYES/SKIN: IRRITATION. INGESTION: NAUSEA, VOMITING &
+    DIARRHEA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. RESTORE BREATHING. EYES:
+    FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINS. SKIN: WASH W/SOAP &
+    WATER, WHILE REMOVING CONTAMINATED CLOTHING. INGESTION: DON'T
+    INDUCE VOMITIN G. KEEP PERSON WARM, QUIET. ASPIRATION OF MATERIAL
+    INTO THE LUNGS CAN CAUSE CHEMICAL PNEUMONITIS WHICH CAN BE FATAL.
+    OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:104F
+Extinguishing Media:CO2, DRY CHEMICAL OR FOAM
+Fire Fighting Procedures:USE FULL PROTECTIVE EQUIPMENT & SCBA. WATER
+    SPRAY MAY BE INEFFECTIVE. USE WATER TO COOL CLOSED CONTAINERS. IF
+    WATER IS USED, FOG NOZZLES ARE PREFERRED.
+Unusual Fire/Explosion Hazard:CLOSED CONTAINERS MAY EXPLODE WHEN
+    EXPOSED TO EXTREME HEAT. DON'T APPLY TO HOT SURFACES. COMBUSTIBLE
+    LIQUIDS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. VENTILATE AREA
+    & REMOVE W/INERT ABSORBENT & NON-SPARKING TOOLS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T STORE >120F. STORE LARGE
+    QUANTITIES IN BUILDINGS DESIGNED & PROTECTED FOR STORAGE OF NFPA
+    CLASS II COMBUSTIBLE LIQUIDS. COMBUSTIBLE LIQUID.
+Other Precautions:CONTAINERS SHOULD BE GROUNDED WHEN POURING. EMPTY
+    CONTAINERS MAY BE HAZARDOUS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH APPROVED CHEMICAL CARTRIDGE RESPIRATOR
+    (TC23C) TO REMOVE SOLID AIRBORNE PARTICLES OF OVERSPRAY & ORGANIC
+    VAPORS DURING SPRAY APPLICATION. IN CONFINED SPACES: USE NIOSH
+    APPROVED SUPPLIED AIR  RESPIRATOR OR HOODS (TC19C).
+Ventilation:PROVIDE GENERAL DILUTION OR LOCAL EXHAUST IN VOLUME &
+    PATTERN TO KEEP BELOW TLV.
+Protective Gloves:REQUIRED
+Eye Protection:SAFETY GLASSES
+Work Hygienic Practices:REMOVE CONTAMINATED CLOTHING & WASH BEFORE
+    REUSE.
+Supplemental Safety and Health
+PRODUCT CODES: 7623, 7625, 7627, 7633, 7638, 7643, 7645, 7656, 7664,
+    7665, 7669, 7671, 7673, 7675, 7679, 7682, 7686 & 7692.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:307-389F
+Vapor Density:>1
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:47-54
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:OPEN FLAMES, HEAT, SPARKS, HOT SURFACES OR
+    OTHER SOURCES OF IGNITION.
+Hazardous Decomposition Products:CO2, CO
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. DON'T INCINERATE CLOSED CONTAINERS. EMPTY
+    CONTAINER MAY BE HAZARDOUS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

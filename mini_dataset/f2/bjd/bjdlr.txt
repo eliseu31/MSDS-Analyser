@@ -1,0 +1,147 @@
+=====================  Product Identification  =====================
+
+Product ID:VV-C-850A AM. 1 TYPE 11,GRADE D
+MSDS Date:11/20/1985
+FSC:9150
+NIIN:00-252-6373
+MSDS Number: BJDLR
+=== Responsible Party ===
+Company Name:CONVOY OIL CORP
+Address:1410 N FRONT ST
+City:PHILADELPHIA
+State:PA
+ZIP:19122-3902
+Country:US
+Info Phone Num:215-739-5281
+Emergency Phone Num:215-739-5281
+Preparer's Name:STANLEY JAKUBOWSKI
+CAGE:6A438
+=== Contractor Identification ===
+Company Name:CONVOY OIL CORP
+Address:1410 N FRONT STREET
+Box:29366
+City:PHILADELPHIA
+State:PA
+ZIP:19125
+Country:US
+Phone:215-739-5281
+CAGE:6A438
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:REFINED HEAVY PARAFFINIC DISTILLATES
+CAS:64741-88-4
+Fraction by Wt: >90.0%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:5 MG/M3 (OIL MIST)
+ACGIH TLV:5 MG/M3 (OIL MIST)
+
+Ingred Name:SULFURIZED FATTY MATERIAL
+CAS:61790-49-6
+Fraction by Wt: 1-10%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:OTHER COMPONENTS (TYPE NOT SPECIFIED)
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL RAT) IS 25GM/KG
+Routes of Entry: Inhalation:UNKNOWN  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:PER MSDS NO KNOWN ADVERSE
+    EFFECTS; MAY CAUSE IRRITATION OF EYES AND SKIN.CHRONIC: NO DATA
+    AVAILABLE.
+Explanation of Carcinogenicity:DATA PER MSDS
+Effects of Overexposure:MAY CAUSE IRRITATION OF EYES AND SKIN.NO KNOWN
+    ADVERSE HEALTH EFFECTS.
+Medical Cond Aggravated by Exposure:PERSONS WITH A HISTORY OF AILMENTS
+    OR WITH A PRE-EXISTING DISEASE INVOLVING THE EYES, SKIN, OR
+    RESPIRATORY TRACT MAY BE AT INCREASED RISK FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION:REMOVE TO FRESH AIR. RESUSCITATE IF NOT BREATHING.
+    GET MEDICAL ATTENTION. EYES:IMMEDIATELY FLUSH WITH PLENTY OF WATER
+    FOR 15 MINUTES HOLDING EYELIDS OPEN. GET MEDICAL ATTENTION.
+    SKIN:REMOVE  CONTAMINATED CLOTHING. WASH WITH SOAP AND WATER. IF
+    IRRITATION PERSISTS, GET MEDICAL ADVICE.  INGESTION:DO NOT INDUCE
+    VOMITING. GIVE NOTHING BY MOUTH IF UNCONSCIOUS. GET IMMEDIATE
+    MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:400F,204C
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS. PRODUCT MAY BURN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPER PERSONAL PROTECTION;CONTAIN FREE
+    MATERIAL IF POSSIBLE;USE SUITABLE INERT ABSORBENT MATERIAL AND
+    RECOVER FOR PROPER DISPOSAL IN AN APPROVED CONTAINER.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL VENTILATED
+    AREA. KEEP CONTAINERS TIGHTLY CLOSED WHEN NOT IN USE. PROTECT
+    CONTAINERS FROM PHYSICAL DAMAGE.
+Other Precautions:DO NOT TAKE INTERNALLY. DO NOT BREATHE MIST. AVOID
+    PROLONGED OR REPEATED BREATHING OF VAPOR. AVOID CONTACT WITH EYES.
+    USE WITH ADEQUATE VENTILATION. WASH THOROUGHLY AFTER HANDLING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR AS REQUIRED
+    IF ABOVE PEL/TLV OR SCBA IN AN ENCLOSED AREA.
+Ventilation:LOCAL/GENERAL TO MAINTAIN PEL/TLV.
+Protective Gloves:NEOPRENE, NITRILE, OR NATURAL RUBBER
+Eye Protection:SAFETY GOGGLES WITH OPTIONAL FACE SHIELD
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER,WORK
+    CLOTHING AND APRON AS REQUIRED.
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES. DO NOT WEAR CONTAMINATED CLOTHING OR
+    FOOTWEAR.
+Supplemental Safety and Health
+AVOID PROLONGED OR REPEATED EXPOSURE. DO NOT GET ON SKIN OR IN EYES. DO
+    NOT BREATHE VAPORS OR MISTS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:WIDE RANGE
+Melt/Freeze Pt:M.P/F.P Text:5F,-15C
+Spec Gravity:0.88
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:DARK BROWN LIQUID,SULFUR ODOR
+Percent Volatiles by Volume:NIL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HIGH TEMPERATURES
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE AND
+    OTHER UNIDENTIFIED COMPONENTS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT LOCAL AUTHORITIES.DISPOSAL MUST BE MADE
+    IN ACCORDANCE WITH ALL APPLICABLE FEDERAL, STATE AND LOCAL LAWS AND
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

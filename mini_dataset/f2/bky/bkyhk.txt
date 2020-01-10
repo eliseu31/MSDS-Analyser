@@ -1,0 +1,142 @@
+=====================  Product Identification  =====================
+
+Product ID:CALLA 301
+MSDS Date:01/01/1987
+FSC:6850
+NIIN:00-159-8534
+MSDS Number: BKYHK
+=== Responsible Party ===
+Company Name:CALLA CHEM DIV. OF DIVERSIFIED CHEM CORP.
+Address:8100 ELECTRIC AVENUE
+City:STANTON
+State:CA
+ZIP:90680
+Info Phone Num:(714) 828-4470
+Emergency Phone Num:(714) 828-4470
+CAGE:KO349
+=== Contractor Identification ===
+Company Name:CALLA CHEM DIV. OF DIVERSIFIED CHEM CORP.
+Address:8100 ELECTRIC AVENUE
+City:STANTON
+State:CA
+ZIP:90680
+Phone:(714) 828-4470
+CAGE:KO349
+Company Name:CALLA CHEMICAL OPNS DIV OF BAKER PERFORMANCE CHEM
+Box:City:SANTA FE SPRINGS
+State:CA
+Country:US
+CAGE:19457
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM PHOSPHATE, TRIBASIC	(SARA III)
+CAS:7758-29-4
+RTECS #:YK4570000
+Fraction by Wt: 8%
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:SODIUM PHOSPHATE, TRIBASIC	(SARA III)
+CAS:7601-54-9
+RTECS #:TC9490000
+Fraction by Wt: 2%
+Other REC Limits:5 MG/CUM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:SODIUM METASILICATE, (SODIUM SILICATE & WATER GLASS)
+CAS:6834-92-0
+RTECS #:VV9275000
+Fraction by Wt: 2.5%
+
+Ingred Name:SODIUM NITRATE
+CAS:7631-99-4
+RTECS #:WC5600000
+Fraction by Wt: 1.5%
+
+Ingred Name:NONIONIC ACTIVE AGENTS
+Fraction by Wt: 16%
+
+Ingred Name:SODIUM XYLENE SULFONATE
+CAS:1330-72-7
+RTECS #:ZE5100000
+Fraction by Wt: 5%
+
+Ingred Name:2-BUTOXYETHANOL
+CAS:111-76-2
+RTECS #:KJ8575000
+Fraction by Wt: 5%
+Other REC Limits:25 PPM (SKIN)
+OSHA PEL:S, 50 PPM
+ACGIH TLV:S, 25 PPM; 9293
+
+Ingred Name:WATER, H2O
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 60%
+
+Ingred Name:FOOD COLORING
+Fraction by Wt: TRACE
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: DAMAGE.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: DAMAGE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINUTES. OBTAIN
+    MED ATTN. SKIN: WASH W/WATER. GET MED ATTN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE TO BOILING
+Extinguishing Media:WATER
+Fire Fighting Procedures:NONE
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WASH DOWN SPILLS WITH WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:MATERIAL MAY BE STORED OUTSIDE.
+    MATERIAL IS FREEZABLE AT 8 F.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:LOCAL EXHAUST: NORMAL
+Protective Gloves:IMPERVIOUS
+Eye Protection:GOGGLES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:211F
+Vapor Pres:17.5
+Spec Gravity:1.08
+Solubility in Water:COMPLETE
+Appearance and Odor:RED ORANGE LIQUID W/PLEASANT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:BE CERTAIN THAT FEDERAL, STATE AND LOCAL LAWS
+    ARE COMPLIED WITH.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

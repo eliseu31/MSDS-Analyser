@@ -1,0 +1,145 @@
+=====================  Product Identification  =====================
+
+Product ID:CEREBROSPINAL FLUID DILUTING FLUID, 5000
+MSDS Date:04/01/1999
+FSC:6550
+NIIN:00N092114
+Status Code:A
+MSDS Number: CJQGY
+=== Responsible Party ===
+Company Name:ENG SCIENTIFIC INC (FORMERLY A J P SCIENTIFIC INC)
+Address:82 INDUSTRIAL EAST
+Box:1589
+City:CLIFTON
+State:NJ
+ZIP:07015
+Country:US
+Info Phone Num:973-472-7200; 201-472-7200
+Emergency Phone Num:973-472-7200
+CAGE:55930
+=== Contractor Identification ===
+Company Name:ENG SCIENTIFIC INC (FORMERLY A J P SCIENTIFIC INC)
+Address:82 INDUSTRIAL EAST
+Box:1589
+City:CLIFTON
+State:NJ
+ZIP:07015
+Country:US
+Phone:973-472-7200; 201-472-7200
+CAGE:55930
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ACETIC ACID; (ACETIC ACID, GLACIAL)
+CAS:64-19-7
+RTECS #:AF1225000
+= Wt:.1
+OSHA PEL:25 MG/M3;10 PPM
+ACGIH TLV:25 MG/M3;10 PPM
+ACGIH STEL:37 MG/M3;15 PPM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50: (ORAL, RAT) 3310 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:LIQUID: BURNS EYES, SKIN. VAPORS:
+    IRRITATING TO EYES, NOSE, THROAT, LUNGS. INHALATION OF CONCENTRATED
+    VAPORS: MAY CAUSE DAMAGE TO MUCOUS MEMBRANES. THRESHOLD LIMIT
+    VALUE: TWA 10 PPM. DERMAL (RABBIT) L D50 1.06 G/KG.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: IMMEDIATELY FLUSH WITH WATER FOR AT LEAST 15 MINUTES;
+    CALL PHYSICIAN. SKIN: REMOVE CONTAMINATED CLOTHING, FLUSH WELL WITH
+    WATER, CALL PHYSICIAN. INHALATION: GIVE ARTIFICIAL RESPIRATION IF
+    BREATH ING HAS STOPPED AND CALL PHYSICIAN. INGESTION: IF CONSCIOUS,
+    GIVE WATER AND CALL PHYSICIAN IMMEDIATELY. DO NOT INDUCE VOMITING.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:=42.8C, 109.F
+Lower Limits:4.0%
+Upper Limits:16.0%
+Extinguishing Media:USE WATER SPRAY, CARBON DIOXIDE, DRY CHEMICAL,
+    ALCOHOL-TYPE OR UNIVERSAL TYPE FOAMS APPLIED BY MANUFACTURER'S
+    RECOMMENDED TECHNIQUE.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT . USE WATER SPRAY TO KEEP FIRE-EXPOSED CONTAINERS COOL,
+    TO FLUSH SPILLS AWAY FROM EXPOSURES AND DILUTE SPILLS TO
+    NON-FLAMMABLE MIXTURES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR GLOVES AND SOAK UP SPILLED SOLUTION WITH
+    DISPOSABLE TOWELS. SMALL SPILLS SHOULD BE FLUSHED WITH LARGE
+    QUANTITIES OF WATER. LARGE SPILLS SHOULD BE COLLECTED FOR DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:PROTECT UNITS AGAINST PHYSICAL DAMAGE.
+Other Precautions:STORE COOL, DRY AREA. STORE IN TIGHTLY CLOSED
+    CONTAINERS. DO NOT INGEST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT ORDINARILY REQUIRED. USE NIOSH APPROVED
+    RESPIRATOR APPROPRIATE FOR EXPOSURE OF CONCERN .
+Ventilation:GENERAL (MECHANICAL) ROOM VENT SHOULD BE SUITABLE. SPECIAL
+    LOCAL VENT SHOULD BE USED AT POINTS WHERE VAPS ARE EXPECTED TO BE
+    VENTED TO THE WORKPLACE AIR.
+Protective Gloves:RUBBER GLOVES.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES & FULL LENGTH
+    FACESHIELD .
+Other Protective Equipment:ANSI APPROVED EYE WASH AND DELUGE SHOWER .
+    LAB COAT.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:=117.8C, 244.F
+Melt/Freeze Pt:=-97.6C, -143.9F
+Vapor Pres:11.4 MM HG @ 20C
+Vapor Density:2.1(AIR=1)
+Spec Gravity:1.05 (H*2O=1)
+Solubility in Water:INFINITELY
+Appearance and Odor:CLEAR LIQUID; PUNGENT ODOR.
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE.
+Stability Condition to Avoid:AVOID OPEN FLAMES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:FLUSH WITH WATER, CONTROLLED BURNING. NOTE:
+    DISPOSAL OF HAZARDOUS MATERIAL MAY BE SUBJECT TO FEDERAL, STATE AND
+    LOCAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:DOT PROPER SHIPPING NAME: ENVIRONMENTALLY
+    HAZARDOUS SUBSTANCE, SOLID, N.O.S. (CUPRIC ACETATE). DOT ID NUMBER:
+    UN3077.
+
+=====================  Regulatory Information  =====================
+
+Federal Regulatory Information:THIS PRODUCT IS A "MIXTURE." THE CAS
+    NUMBERS OF ALL COMPONENTS ARE LISTED ON THE TSCA INVENTORY. CUPRIC
+    ACETATE: CERCLA RQ: 100 LBS.
+State Regulatory Information:
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

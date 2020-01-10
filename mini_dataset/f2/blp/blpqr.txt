@@ -1,0 +1,179 @@
+=====================  Product Identification  =====================
+
+Product ID:52901 BLOXFIL INTERIOR/EXTERIOR ACRYLIC
+MSDS Date:08/29/1988
+FSC:8010
+NIIN:00F019207
+MSDS Number: BLPQR
+=== Responsible Party ===
+Company Name:DEVOE & RAYNOLDS CO
+Address:4000 DUPONT CIRCLE
+Box:7600
+City:LOUISVILLE
+State:KY
+ZIP:40207
+Info Phone Num:(502) 589-9340
+Emergency Phone Num:(502) 589-9340
+CAGE:EO559
+=== Contractor Identification ===
+Company Name:DEVOE & RAYNOLDS CO, INC.
+Box:7600
+CAGE:EO559
+Company Name:DEVOE AND RAYNOLDS CO DIV OF GROW GROUP INC
+Address:4000 DUPONT CIR
+Box:7600
+City:LOUISVILLE
+State:KY
+ZIP:40207
+Country:US
+Phone:502-361-2536/502-589-9340
+CAGE:6R552
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:VOL ORGANIC CMPD: 0.81 LBS/GAL (LESS WATER)
+RTECS #:9999999VO
+
+Ingred Name:WATER, H2O
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 40%
+
+Ingred Name:CALCIUM CARBONATE (MARBLE) (LIMESTONE)
+CAS:1317-65-3
+RTECS #:EV9580000
+Fraction by Wt: 20%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9192
+
+Ingred Name:TALC (CONTAINING NO ASBESTOS)
+CAS:14807-96-6
+RTECS #:WW2710000
+Fraction by Wt: 10%
+OSHA PEL:2 MG/M3 RDUST
+ACGIH TLV:2 MG/M3 RDUST; 9192
+
+Ingred Name:ACRYLIC RESIN
+Fraction by Wt: 10%
+
+Ingred Name:PERLITE
+CAS:93763-70-3
+RTECS #:SD5254000
+Fraction by Wt: 10%
+Other REC Limits:30 MPPCF
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9192
+
+Ingred Name:KAOLIN
+CAS:1332-58-7
+RTECS #:GF1670500
+Fraction by Wt: <5%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:2 MG/M3 TDUST; 9293
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: <5%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:ETHYLENE GLYCOL  (SARA III)
+CAS:107-21-1
+RTECS #:KW2975000
+Fraction by Wt: <5%
+Other REC Limits:10 MG/CUM
+OSHA PEL:C 50 PPM
+ACGIH TLV:C 50 PPM,VAPOR; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:SILICA, CRYSTALLINE - QUARTZ
+CAS:14808-60-7
+RTECS #:VV7330000
+Fraction by Wt: <1%
+Other REC Limits:0.05 MG/CUM NIOSH
+OSHA PEL:SEE TABLE Z3
+ACGIH TLV:0.1 MG/M3 RDUST;9293
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:SKIN/EYES: IRRITATION. INHALATION:
+    IRRITATION OF THE RESPIRATORY TRACT, HEADACHE, NAUSEA, DIZZINESS &
+    SILICOSIS.
+Explanation of Carcinogenicity:CRYSTALLINE SILICA IS CONSIDERED TO BE A
+    2A HUMAN CARCINOGEN.
+Effects of Overexposure:INHALATION: SILICOSIS, IRRITATION OF THE
+    RESPIRATORY TRACT, HEADACHE, NAUSEA, DIZZINESS. SKIN/EYES:
+    IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/LARGE AMOUNTS OF WATER FOR AT LEAST 15 MINS.
+    SKIN: REMOVE W/SOAP & WATER. INGESTION: DRINK 1 OR 2 GLASSES OF
+    WATER TO DILUTE. DON'T INDUCE VOMITING. TREAT SYMPTOMATICALLY.
+    INHALTION: REM OVE TO FRESH AIR. OBTAIN MEDICAL ATTENTION IN ALL
+    CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:CO2, DRY CHEMICAL, FOAM, OR NFPA APPROVED METHOD
+    FOR TREATING CLASS B FIRE.
+Fire Fighting Procedures:USE FULL PROTECTIVE EQUIPMENT & SCBA. WATER
+    SPRAY MAY BE INEFFECTIVE. IF WATER IS USED, FOG NOZZLES ARE
+    PREFERABLE.
+Unusual Fire/Explosion Hazard:WATER MAY BE USED TO COOL CLOSED
+    CONTAINERS TO PREVENT PRESSURE BUILD-UP, POSSIBLE AUTOIGNITION, &
+    EXPLOSION DUE TO EXTREME HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WASH W/WATER. CONTAIN SPILLED MATERIAL &
+    REMOVE W/INERT ABSORBENT. STORE IN CLOSED CONTAINER UNTIL PROPERLY
+    DISPOSED.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE <110F & KEEP FROM FREEZING. KEEP
+    CONTAINER CLOSED WHEN NOT IN USE. DON'T REUSE EMPTY CONTAINERS.
+    KEEP OUT OF REACH OF CHILDREN.
+Other Precautions:DON'T GET IN EYES. DON'T BREATH VAPORS/SPARY MIST OR
+    SANDING DUST. USE ONLY W/ADEQUATE VENTILATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:OUTDOORS: WHEN SANDING/GRINDING/FLAME
+    CUTTING/WELDING/BRAZING USE A MECHANICAL FILTER FOR SOLID AIRBORNE
+    PARTICLES. RESTRICTED: USE CHEMICAL/MECHANICAL FILTERS FOR
+    PARTICULATE/VAPOR CONCENTRATION. CON FINED: USE AIR SUPPLY
+    RESPIRATOR/HOOD.
+Ventilation:GENERL DILUTION OR LOCAL EXHAUST IN VOLUME & PATTERN TO
+    KEEP AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Appearance and Odor:WHITE LIQUID
+Percent Volatiles by Volume:62.3%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:TEMPS. <110F, FREEZING, & EXTREME HEAT
+Hazardous Decomposition Products:FUMES OF CO, CO2, OXIDES OF NITROGEN &
+    METALS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. INCINERATE ONLY IN APPROVED FACILITY. DON'T
+    INCINERATE CLOSED CONTAINERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

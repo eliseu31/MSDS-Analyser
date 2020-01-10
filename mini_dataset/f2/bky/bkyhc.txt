@@ -1,0 +1,154 @@
+=====================  Product Identification  =====================
+
+Product ID:RED 11136
+MSDS Date:02/13/1991
+FSC:8010
+NIIN:00-141-2952
+MSDS Number: BKYHC
+=== Responsible Party ===
+Company Name:NATIONAL AEROSOL PRODUCT CO
+Address:2193 E 14 ST
+City:LOS ANGELES
+State:CA
+ZIP:90021-2843
+Info Phone Num:(213) 627-2668
+Emergency Phone Num:(213) 627-2668
+CAGE:59986
+=== Contractor Identification ===
+Company Name:NATIONAL AEROSOL PRODUCTS CO SUB OF GROW GROUP INC
+Address:2193 E 14TH STREET
+Box:City:LOS ANGELES
+State:CA
+ZIP:90021-2843
+Country:US
+CAGE:59986
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LIGHT ALIPHATIC NAPHTHA, VM & P NAPHTHA
+CAS:64742-89-8
+Fraction by Wt: 26%
+OSHA PEL:2000 MG/CUM
+ACGIH TLV:1350 MG/CUM
+
+Ingred Name:METHYLENE CHLORIDE	(SARA III)
+CAS:75-09-2
+RTECS #:PA8050000
+Fraction by Wt: 34%
+OSHA PEL:500 PPM/C,1000; Z2
+ACGIH TLV:50 PPM, A2; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:PROPANE
+CAS:74-98-6
+RTECS #:TX2275000
+Fraction by Wt: <30%
+Other REC Limits:1800 MG/CUM
+OSHA PEL:1000 PPM
+ACGIH TLV:ASPHYXIANT; 9192
+
+Ingred Name:ISOBUTANE, 2-METHYLPROPANE
+CAS:75-28-5
+RTECS #:TZ4300000
+Fraction by Wt: <30%
+Other REC Limits:1000 PPM
+OSHA PEL:1800 MG/CUM
+ACGIH TLV:1000 PPM
+
+Ingred Name:VOL ORGANIC CMPD: 3.94 LBS/GAL LESS WATER
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:NO	 OSHA:NO
+Health Hazards Acute and Chronic:EYES/SKIN: IRRITATION. INHALATION:
+    RESPIRATORY TRACT
+    IRRITATION/DIZZINESS/HEADACHE/NAUSEA/WEAKNESS/FATIGUE/PERMANENT
+    BRAIN/NERVOUS SYSTEM DAMAGE/DIFFICULTY BREATHING/RESPIRATORY
+    ARREST/DUST LUNG DISEA SE/UNCONSCIOUSNESS. INGESTION:
+    STOMACH/INTESTINAL IRRITATION/NAUSEA/VOMITING/DIARRHEA/CHEMICAL
+    PNEUMONITIS/FATAL.
+Explanation of Carcinogenicity:METHYLENE CHLORIDE IS A SUSPECTED HUMAN
+    A2 CARCINOGEN BY ACGIH.
+Effects of Overexposure:EYES/SKIN: IRRITATION. INHALATION: RESPIRATORY
+    TRACT IRRITATION/PERMANENT BRAIN/NERVOUS SYSTEM
+    DAMAGE/DIZZINESS/HEADACHE/NAUSEA/WEAKNESS/FATIGUE/RESPIRATORY
+    ARREST/DIFFICULTY BREATHING/DUST LUNG DISEA SE/UNCONSCIOUSNESS.
+    INGESTION: STOMACH/INTESTINAL
+    IRRITATION/NAUSEA/VOMITING/DIARRHEA/CHEMICAL PNEUMONITIS/FATAL.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MIN. SKIN: WASH
+    THOROUGHLY W/SOAP & WATER. INHALATION: REMOVE TO FRESH AIR. RESTORE
+    USING APPROVED CPR TECHNIQUES IF BREATHING STOPS. INGESTION: DON'T
+    IND UCE VOMITING. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:-156F
+Lower Limits:12%
+Extinguishing Media:CO2, DRY CHEMICAL, FOAM, OR OTHER CLASS B
+    EXTINGUISHING MEDIA
+Fire Fighting Procedures:WATER SPRAY MAY BE INEFFECTIVE. IF WATER IS
+    USED, FOG NOZZLES ARE PREFERABLE. FULL PROTECTIVE CLOTHING & SCBA.
+    USE WATER TO KEEP FIRE-EXPOSED CONTAINERS COOL.
+Unusual Fire/Explosion Hazard:HEAT EXPOSED CONTAINERS MAY BUILD UP
+    PRESSURE, AUTOIGNITE OR EXPLODE. FLAMMABLE LIQUID. VAPORS MAY
+    IGNITE EXPLOSIVELY OR FLASHBACK FROM LONG DISTANCES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION (FLAMES, HOT
+    SURFACES & ELECTRICAL STATIC OR FRICTIONAL SPARKS). VENTILATE AREA.
+    CONTAIN SPILLED MATERIAL & REMOVE W/INERT ABSORBENT USING
+    NON-SPARKING TOOLS. STORE IN C LOSED CONTAINERS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T USE WELDING/CUTTING TORCH ON OR
+    NEAR CONTAINER. DON'T BREATH VAPORS, SPRAY MIST, SANDING DUST. KEEP
+    OUT OF REACH OF CHILDREN. DON'T SMOKE.
+Other Precautions:CONTENTS UNDER PRESSURE. EXPOSURE TO HEAT OR
+    PROLONGED EXPOSURE TO SUN MAY CAUSE BURSTING. DON'T
+    PUNCTURE/INCINERATE/STORE >120F/PLACE IN GARBAGE COMPACTORS OR
+    REUSE EMPTY CONTAINERS. KEEP CONTAINER C LOSED WHEN NOT IN USE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH APPROVED MECHANICAL FILTER RESPIRATOR
+    IN OUTDOOR/OPEN AREAS. USE NIOSH CHEMICAL/MECHANICAL FILTERS IN
+    RESTRICTED AREAS. USE AIR SUPPLY RESPIRATOR/HOOD IN CONFINED AREAS.
+    USE APPROVED RESPIRA TORS WHEN FLAME CUTTING/WELDING/BRAZING.
+Ventilation:GENERAL DILUTION OR LOCAL EXHAUST IN VOLUME & PATTERN TO
+    KEEP AIR
+Evaporation Rate & Reference:FASTER THAN ETHER
+Appearance and Odor:RED LIQUID
+Percent Volatiles by Volume:90%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HEAT, SPARKS, FLAME, & ALL SOURCES OF
+    IGNITION.
+Hazardous Decomposition Products:CO, CO2, METAL OXIDES & CHLORINE
+    COMPOUNDS.	      CLORINE COMPOUNDS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE &
+    FEDERAL REGULATIONS. INCINERATE ONLY IN APPROVED FACILITY. DON'T
+    INCINERATE CLOSED CONTAINERS. FLAMMABLE LIQUID.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

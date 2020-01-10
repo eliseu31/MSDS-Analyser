@@ -1,0 +1,173 @@
+=====================  Product Identification  =====================
+
+Product ID:ROYCO 46
+MSDS Date:07/18/1995
+FSC:9150
+NIIN:00-935-6597
+MSDS Number: BHWJP
+=== Responsible Party ===
+Company Name:ROYAL LUBRICANTS COMPANY INC.
+Address:MERRY LN
+Box:518
+City:EAST HANOVER
+State:NJ
+ZIP:07936
+Country:US
+Info Phone Num:201-887-7410/201-887-8404
+Emergency Phone Num:201-887-7410/800-424-9300(CHEMTREC)
+CAGE:07950
+=== Contractor Identification ===
+Company Name:AMERICAN INK AND OIL CORP
+Address:33 ENDICOTT STREET
+Box:City:NORWOOD
+State:MA
+ZIP:02062-3006
+Country:US
+Phone:781-762-0026 / FAX: 781-762-1617
+CAGE:82956
+Company Name:INLAND PACKAGING INC
+Address:209 PETERSON DR
+Box:644
+City:ELIZABETHTOWN
+State:KY
+ZIP:42701-9804
+Country:US
+Phone:502-737-6757
+CAGE:66172
+Company Name:ROYAL LUBRICANTS COMPANY INC.
+Address:215 MERRY LN
+Box:518
+City:EAST HANOVER
+State:NJ
+ZIP:07936
+Country:US
+Phone:973-887-7411/7410
+CAGE:07950
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SYNTHETIC ESTER/DI(2-ETHYLHEXYL) SEBACATE
+CAS:122-62-3
+RTECS #:VS1000000
+Fraction by Wt: 80 - 90%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:BARIUM DINONYL-NAPHTHALENESULFONATE
+CAS:25619-56-1
+Fraction by Wt: <2%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:DIISOPROPYL HYDROGEN PHOSPHITE
+CAS:1809-20-7
+RTECS #:SZ6600000
+Fraction by Wt: <2%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:OTHER COMPONENTS
+Fraction by Wt: <10%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:TLV FOR OIL MIST IS 5 MG/M3.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:TARGET ORGANS:EYES, SKIN, RESPIRATORY
+    & GI TRACTS. ACUTE- IRRITATING TO EYES AND SKIN. MAY CAUSE MILD
+    SKIN SENSITIZATION. INHALATION OF VAPOR (GENERATED AT HIGH
+    TEMPERATURES ONLY)/OIL MIST MAY CAUSE M ILD IRRITATION OF
+    RESPIRATORY TRACT. LOW ORDER OF ACUTE ORAL TOXICITY. CHRONIC- SKIN
+    SENSITIZATION (RASHES).
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:IRRITATION, NAUSEA, SKIN SENSITIZATION
+Medical Cond Aggravated by Exposure:PERSONS WITH PRE-EXISTING SKIN
+    DISORDERS OR EYE PROBLEMS MAY BE MORE SUSCEPTIBLE TO THE EFFECTS OF
+    THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:GET MEDICAL HELP IF SYMPTOMS PERSIST. INHALED:MOVE TO FRESH
+    AIR. PROVIDE OXYGEN IF NEEDED. EYES:FLUSH WITH WATER FOR 15
+    MINUTES, HOLDING EYELIDS OPEN. SKIN:WIPE OFF EXCESS. WASH SKIN WITH
+    SOAP & WATER . ORAL:DO NOT INDUCE VOMITING. IN GENERAL, NO
+    TREATMENT IS NECESSARY UNLESS LARGE QUANTITIES OF PRODUCT ARE
+    INGESTED. GET MEDICAL ATTENTION. NOTE TO PHYSICIAN:EMESIS NOT
+    NEEDED IN MOST OILS & GREASE
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:>200F,>93C
+Extinguishing Media:WATER FOG, FOAM, DRY CHEMICAL/CARBON DIOXIDE. DON'T
+    USE DIRECT STREAM OF WATER. PRODUCT WILL FLOAT AND CAN BE
+    REIGNITED.
+Fire Fighting Procedures:DO NOT ENTER ANY ENCLOSED OR CONFINED AREA
+    WITHOUT PROPER PROTECTIVE EQUIPMENT AND NIOSH-APPROVED
+    SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:UNKNOWNAY BE FORMED. DOES NOT BURN UNLESS
+    PREHEATED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:PICK UP SPILL WITH INERT MATERIAL SUCH AS
+    SAND, CLAY, EARTH. SHOVEL INTO CONTAINERS FOR DISPOSAL. PREVENT
+    RUN-OFF TO ENTER WATERWAYS, SEWERS. THIS IS AN OIL. SPILLS INTO OR
+    LEADING TO SURFACE WATER TH AT CAUSE A SHEEN MUST BE REPORTED:
+    800-424-8802.
+Neutralizing Agent:NOT RELEVANT
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL, DRY, VENTILATED PLACE
+    AWAY FROM FLAMES AND STRONG OXIDIZERS. KEEP OUT OF REACH OF
+    CHILDREN.
+Other Precautions:AVOID CONTACT WITH EYES AND SKIN. WASH THOROUGHLY
+    AFTER HANDLING. LAUNDER CLOTHING BEFORE REUSE. AVOID INHALING
+    MISTS. EMPTY CONTAINERS OF THIS PRODUCT MAY BE HAZARDOUS DUE TO THE
+    RETENTION OF RESIDUE S. DO NOT TAKE INTERNALLY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY REQUIRED. IF WORKING IN CONFINED
+    AREAS, IF EXCESSIVE MISTING IS EXPECTED OR IF EXPOSURE MAY OR DOES
+    EXCEED RECOMMENDED PERMISSIBLE EXPOSURE LIMITS (PEL), WEAR
+    NIOSH-APPROVED ORGANIC VAPO R RESPIRATOR.
+Ventilation:GENERAL ROOM VENTILATION SHOULD BE SUFFICIENT.
+Protective Gloves:NITRILES IF PROLONGED/REPEATED CONTACT
+Eye Protection:SAFETY GOGGLES IF SPLASHING ANTICIPATED
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER.
+    INDUSTRIAL-TYPE WORK CLOTHING AND APRON AS REQUIRED.
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES. DISCARD CONTAMINATED LEATHER GLOVES AND
+    SHOES.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+NRC/State Lic Num:NOT RELEVANT
+Solubility in Water:INSOLUBLE
+Appearance and Odor:TAN SEMI-FLUID, SLIGHT ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:OPEN FLAMES, HEAT
+Hazardous Decomposition Products:A COMPLEX MIXTURE OF AIRBORNE SOLID,
+    LIQUID, PARTICULATES & GASES WILL EVOVLE. CARBON MONOXIDE & OTHER
+    COMPD. MAY FORM.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN AN APPROPRIATE DISPOSAL FACILITY
+    IN COMPLIANCE WITH LOCAL, STATE AND FEDERAL REGULATIONS. REUSE IS
+    RECOMMENDED. CONTAINS BARIUM. HAZARDOUS WASTE NUMBER: D005
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,146 @@
+=====================  Product Identification  =====================
+
+Product ID:1323 BAN-O
+MSDS Date:08/21/1992
+FSC:6840
+NIIN:01-384-9236
+MSDS Number: BWRZP
+=== Responsible Party ===
+Company Name:HILL MFG CO INC
+Address:1500 JONESBORO RD
+City:ATLANTA
+State:GA
+ZIP:30315
+Country:US
+Info Phone Num:404-522-8364
+Emergency Phone Num:800-535-5053
+Preparer's Name:RICK GLISSON
+CAGE:FO866
+=== Contractor Identification ===
+Company Name:HILL MANUFACTURING CO INC
+Address:1500 JONESBORO DR
+Box:City:ATLANTA
+State:GA
+ZIP:30315
+Country:US
+Phone:404-522-8364
+CAGE:66086
+Company Name:HILL MFG CO INC
+Address:1500 JONESBORO ROAD
+City:ATLANTA
+State:GA
+ZIP:30315
+Phone:(404) 522-8364
+CAGE:FO866
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOPROPYL ALCOHOL; (ISOPROPANOL)  (SARA 313)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: 40-60%
+OSHA PEL:400 PPM
+ACGIH TLV:400 PPM;500 STEL
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES:CAN CAUSE SEVERE IRRITATION,
+    REDNESS, TEARING & BLURRED VISION. SKIN:PROLONGED OR REPEATED
+    CONTACT CAN CAUSE MODERATE IRRITATION, DEFATTING, DERMATITIS.
+    INHAL:EXCESSIVE INHALATION OF VAPORS CAN C AUSE NASAL & RESPIRATORY
+    IRRITATION, DIZZINESS, WEAKNESS, FATIGUE, NAUSEA, HEADACHE.
+    INGEST:CAN CAUSE (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:HLTH HAZ:GASTROINTESTINAL IRRITATION, NAUSEA,
+    VOMITING & DIARRHEA.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH W/LG AMTS OF WATER FOR AT LST 15 MINS, LIFTING
+    UPPER & LOWER LIDS OCCAS, GET MED ATTN. SKIN:THORO WASH EXPOS AREA
+    W/SOAP & WATER. REMOVE CONTAM CLTHG. LAUNDER CONTAM CLTHG BEFORE
+    RE-USE. IN HAL:REMOVE INDIVIDUAL TO FRESH AIR. IF BRTHG IS DFCLT,
+    ADMIN OXYGEN. IF BRTHG HAS STOPPED GIVE ARTF RESP. KEEP PERS WARM,
+    QUIET & GET MED ATTN. INGEST:IMMED DRINK 2 GLASSES OF WATER &
+    INDUCE (SUPDAT)
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:74.0F,23.3C
+Lower Limits:2.5%
+Upper Limits:12.1%
+Extinguishing Media:DRY CHEMICAL, FOAM, CARBON DIOXIDE, WATER.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:FLAMMABLE. KEEP AWAY FROM HEAT, SPARKS &
+    OPEN FLAME.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SMALL SPILL:FLUSH AREA W/PLENTY OF WATER.
+    LARGE SPILL:SOAK UP W/ABSORBENT MATERIAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:ALWAYS STORE UNUSED PORTION IN
+    ORIGINAL CONTAINER W/CAP SECURE. NEVER STORE IN UNLABELED OR
+    IMPROPERLY LABELED CONTAINER. FLAMMABLE.
+Other Precautions:KEEP AWAY FROM HEAT, SPARKS & OPEN FLAME. DO NOT
+    STORE NEAR OXIDIZERS. STORE IN A COOL, DRY PLACE. AS W/ALL CHEMS,
+    USE W/DUE CARE ACCORDING TO LABEL INSTRUCTIONS & PRECS. KEEP OUT OF
+    REACH OF CHILDREN . FOR COMMERCIAL/INDUSTRIAL USE ONLY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN . NONE NORMALLY NEEDED.
+Ventilation:NONE NORMALLY NEEDED.
+Protective Gloves:RUBBER GLOVES.
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGGS .
+Other Protective Equipment:EYE WASH FOUNTAIN & DELUGE SHOWER WHICH MEET
+    ANSI DESIGN CRITERIA . NONE NORMALLY NEEDED.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+FIRST AID PROC:VOMIT BY EITHER GIVING IPECAC SYRUP OR BY PLACING FINGER
+    AT BACK OF THROAT. NEVER GIVE ANYTHING TO AN UNCONSCIOUS PERSON.
+    GET MEDICAL ATTENTION IMMEDIATELY.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:180F,82C
+Vapor Pres:33
+Vapor Density:HVR/AIR
+Spec Gravity:0.9 (H*2O=1)
+pH:NEUT
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:FORMS AN EMULSION
+Appearance and Odor:THIN, CLEAR, AMBER LIQUID W/PLEASANT ODOR.
+Percent Volatiles by Volume:>90
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS.
+Hazardous Decomposition Products:CARBON DIOXIDE & CARBON MONOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:SMALL SPILL:FLUSH DOWN DRAIN W/PLENTY OF WATER.
+    LARGE SPILL:DISPOSE ABSORBENT MATERIAL IN A LANDFILL I/A/W LOCAL,
+    STATE & FEDERAL REGULATIONS.
+
+ ======================================================================
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

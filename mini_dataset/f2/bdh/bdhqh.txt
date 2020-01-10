@@ -1,0 +1,111 @@
+=====================  Product Identification  =====================
+
+Product ID:DIMETHYCARBINOL
+MSDS Date:01/01/1985
+FSC:6850
+NIIN:00-188-9875
+MSDS Number: BDHQH
+=== Responsible Party ===
+Company Name:SHAPE PRODUCTS
+Address:1127 57TH AVE.
+City:OAKLAND
+State:CA
+ZIP:94621-4427
+Country:US
+Info Phone Num:415-534-1186
+Emergency Phone Num:415-534-1186
+CAGE:3D869
+=== Contractor Identification ===
+Company Name:SHAPE PRODUCTS
+Address:1127 57TH AVE.
+Box:City:OAKLAND
+State:CA
+ZIP:94621-4427
+Country:US
+Phone:510-534-1186 OR 800-444-0015
+CAGE:3D869
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: 57.0%
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:VAPORS CAUSE MILD IRRIT. OF EYES & UPPER
+    RESPIRATORY TRACT, ANESTHETIC, IRRIT EYES, VOMITING
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:REMOVE FROM EXPOSURE IMMED.;CALL A MD.;IF BREATHING IS
+    IRREGULAR OR HAS STOPPED,STA4RT RESUCITATION & ADMINISTER
+    OXYGEN.EYES:FLUSH WITH WATER FOR AT LEAST 15 MIN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:59F
+Lower Limits:2.0
+Upper Limits:12.0
+Extinguishing Media:DRY CHEMICAL,ALCOHOL FOAM,CARBON DIOXIDE
+Fire Fighting Procedures:WATER MAY BE INEFFECTIVE. COOL CONTAINERS WITH
+    WATER
+Unusual Fire/Explosion Hazard:FLASHBACK ALONG VAPOR TRAIL MAY OCCUR.
+    VAPOR MAY EXPLODE IF IGNITED IN AN ENCLOSED AREA.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:KEEP AWAY FROM OXIDIZERS.STOP DISCHARGE IF
+    POSSIBLE.KEEP PEOPLE AWAY.SHUT OFF IGNITION SOURCES & CALL FIRE
+    DEPARTMENT.STAY UPWIND & USE WATER SRAY TO KNOCK DOWN VAPOR.AVOID
+    CONTACT W/LIQUID & VAPOR.IS OLATE & REMOVE DISCHARGED MATERIAL
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:WEAR SAFETY GLASSES,RUBBER GLOVES,A
+    FACE SHIELD,COVERALLS & A MULTIPURPOSE GAS MASK.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:SELF-CONTAINED BREATHING APPARATUS,OR ORGANIC
+    VAPOR CANISTER
+Protective Gloves:RUBBER
+Eye Protection:CHEMICAL GOGGLES
+Other Protective Equipment:FACE SPLASH SHIELD,COVERALLS
+Supplemental Safety and Health
+ITEM IS TYPE II OF MILITARY SPEC.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:B.P. Text:181F
+Vapor Pres:33
+Spec Gravity:0.96
+Evaporation Rate & Reference:7.7,ETHER.
+Solubility in Water:APPRECIABLE
+Appearance and Odor:COLORLESS LIQUID,PLEASANT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+KEEP AWAY FROM OXIDIZERS
+Hazardous Decomposition Products:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:SPRAY INTO THE FURNACE.INCINERATEION WILL BECOME
+    EASIER BY MIXING WITH A MORE FLAMMABLE SOLVENT-THE INCINERATOR
+    SHOULD BE AN APPROVED TYPE & FURNACE MUST BE OPERATED UNDER
+    APPROVED PROCEDURES.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

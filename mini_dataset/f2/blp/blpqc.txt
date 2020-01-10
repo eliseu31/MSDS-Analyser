@@ -1,0 +1,145 @@
+=====================  Product Identification  =====================
+
+Product ID:3320 BRUCE EVERBOND LP MASTIC
+MSDS Date:07/01/1983
+FSC:8040
+NIIN:00F019195
+MSDS Number: BLPQC
+=== Responsible Party ===
+Company Name:FRANKLIN INTERNATIONAL INC
+Address:2020 BRUCK ST
+City:COLUMBUS
+State:OH
+ZIP:43207
+Info Phone Num:(614) 443-0241
+Emergency Phone Num:(614) 443-0241 OR 445-1411
+CAGE:FO059
+=== Contractor Identification ===
+Company Name:FRANKLIN INTERNATIONAL
+Address:2020 BRUCK STREET
+Box:City:COLUMBUS
+State:OH
+ZIP:43207
+Country:US
+Phone:800-877-4583/614-445-1493
+CAGE:25589
+Company Name:FRANKLIN INTERNATIONAL
+Address:2020 BRUCK ST
+City:COLUMBUS
+State:OH
+ZIP:43207
+Phone:800-877-4583
+CAGE:FO059
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL CHLOROFORM (1,1,1-TRICHLOROEHANE)  (SARA III)
+CAS:71-55-6
+RTECS #:KJ2975000
+Fraction by Wt: 37%
+Other REC Limits:450 PPM STEL
+OSHA PEL:350 PPM/450 STEL
+ACGIH TLV:350 PPM/450STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+Ozone Depleting Chemical:1
+
+Ingred Name:RUBBER BINDER
+
+Ingred Name:RESIN
+Other REC Limits:10 MG/CUM (DUST)
+
+Ingred Name:INERT REINFORCING INGREDIENTS (TYPE NOT SPECIFIED)
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION, REDNESS, TEARING, &
+    BLURRED VISION. SKIN: IRRITATION, DEFATTING, & DERMATITIS.
+    INHALATION: NASAL & RESPIRATORY IRRITATION, DIZZINESS, WEAKNESS,
+    FATIGUE, NAUSEA, HEADACHE, UNCONSCIOUS NESS, ASPHYXIATION.
+    INGESTION: GASTROINTESTINAL IRRITATION, NAUSEA, VOMITING, &
+    DIARRHEA.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: IRRITATION, REDNESS, TEARING, & BLURRED
+    VISION. SKIN: IRRITATION, DEFATTING, & DERMATITIS. INHALATION:
+    CARDIAC & LIVER ABNORMALITIES, & KIDNEY & LUNG DAMAGE. INGESTION:
+    GASTROINTESTINAL IRRITATI ON, NAUSEA, VOMITING, & DIARRHEA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: THOROUGHLY WASH W/SOAP & WATER. INHALATION: REMOVE TO
+    FRESH AIR. IF BREATHING IS DIFFICULT, ADMINISTER OXYGEN. IF
+    BREATHING HAS STOPPED, GIVE ARTIFICIAL RESPIRATION. KEEP WARM &
+    QUIET. DON'T GIV E STIMULANTS. EPINEPHRINE OR EPHEDRINE MAY
+    ADVERSELY AFFECT THE HEART W/FATAL RESULTS. INGESTION: DON'T INDUCE
+    VOMITING. EYES: FLUSH W/LARGE AMOUNTS OF WATER. OBTAIN MEDICAL
+    ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Lower Limits:9%
+Upper Limits:19%
+Extinguishing Media:CO2, DRY CHEMICAL, & WATER FOG
+Fire Fighting Procedures:WATER MAY BE USED TO KEEP FIRE-EXPOSED
+    CONTAINERS COOL UNTIL FIRE IS OUT. WEAR SELF-CONTAINED BREATHING
+    APPARATUS W/FULL FACEPIECE OPERATED IN POSITIVE MODE.
+Unusual Fire/Explosion Hazard:HIGH ENERGY IGNITION SOURCES CAN CAUSE
+    SLOW FLAME FRONT PROPAGAION THROUGH VAPOR/AIR MIXTURES (9-19%).
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SCRAPE UP MATERIAL & RETURN TO CONTAINER OR
+    SUITABLE WASTE CONTAINER FOR DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTAMINATION OF WATER. AVOID
+    ALUMINUM OR GALVANIZED PUMPING OR PRESSURE SYSTEMS. AVOID CONTACT
+    W/SKIN & EXCESSIVE INHALATION.
+Other Precautions:SINCE EMPTY CONTAINERS CONTAIN PRODUCT RESIDUE, ALL
+    HAZARD PRECAUTIONS MUST BE OBSERVED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE SUITABLE NIOSH/MSHA APPROVED RESPIRATOR
+    WHERE >TLV.
+Ventilation:LOCAL EXHAUST/MECHANICAL (GENERAL) TO MAINTAIN <350 PPM.
+Protective Gloves:IMPERVIOUS SUCH AS POLYETHYLENE
+Eye Protection:GOGGLES OR SAFETY GLASSES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:165F
+Vapor Density:>1
+Spec Gravity:1.4
+Evaporation Rate & Reference:(ETHER = 1): <1
+Solubility in Water:INSOLUBLE
+Appearance and Odor:BROWN, MEDIUM VISCOUS MASTIC W/SOLVENT ODOR.
+Percent Volatiles by Volume:37%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, STRONG ALKALIES, WATER, ALUMINUM OR GALVANIZED
+    PLUMBING.
+Stability Condition to Avoid:WELDING ARCS & OTHER HIGH ENERGY IGNITION
+    SOURCES
+Hazardous Decomposition Products:HYDROGEN CHLORIDE & TRACE AMOUNTS OF
+    CHLORINE & PHOSGENE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF CONTAINER OR CONTENTS IN ACCORDANCE
+    W/ALL LOCAL, STATE, & FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

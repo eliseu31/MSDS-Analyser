@@ -1,0 +1,105 @@
+=====================  Product Identification  =====================
+
+Product ID:MIL-1999&ML1792,10W30
+MSDS Date:01/01/1987
+FSC:9150
+NIIN:00-186-6699
+MSDS Number: BDHCY
+=== Responsible Party ===
+Company Name:IMPERIAL OIL CO INC
+Emergency Phone Num:291 591 9400
+CAGE:JO028
+=== Contractor Identification ===
+Company Name:IMPERIAL OIL CO INC
+Address:FOOT OF ORCHARD PL
+Box:279
+City:MORGANVILLE
+State:NJ
+ZIP:07751
+Country:US
+Phone:732-591-9400/FAX: 732-591-8825
+CAGE:58563
+Company Name:IMPERIAL OIL CO INC
+Address:ORCHARD PLACE
+Box:279
+City:MORGANVILLE
+State:NJ
+ZIP:07751
+Country:US
+Phone:201-591-9400
+CAGE:JO028
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LUBRICATING OIL
+Fraction by Wt: 100%.
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:MAY CAUSE SKIN & EYE IRRITATION W/PROLONGED
+    CONTACT
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH W/LG.AMTS OF WTR FOR AT LEAST 15 MIN.-SKIN:WASH
+    W/SOAP & WTR.-INGESTION:CALL DOCTOR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:445F/229C,COC
+Extinguishing Media:CO*2,WTR FOG,FOAM OR DRY CHEMICAL,SAND/EARTH.
+Fire Fighting Procedures:WEAR MESA/NIOSH APPVD SCBA(SCH.13)./COOL
+    CNTNRS W/WTR SPRAY
+Unusual Fire/Explosion Hazard:DENSE SMOKE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DIKE & CONTAIN SPILL W/INERT MTL./TRANSFER
+    LIQ.TO DRUMS FOR RECOVERY/ABSROB REMAINNG RESIDUE/SWEEP UP AND
+    DISPOSE AS SOLID WASTE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEE=P CONTAINERS CLOSED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE
+Ventilation:NONE
+Protective Gloves:RUBBER
+Eye Protection:SAFETY GOGGLES & FACE SHD
+Other Protective Equipment:EYEWASH FACILITY.
+Supplemental Safety and Health
+UNDATED MSDS
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:>600F/315C
+Vapor Pres:<1.
+Vapor Density:<1
+Spec Gravity:<1.
+Evaporation Rate & Reference:<1.
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:DARK AMBER, NO ODOR
+Percent Volatiles by Volume:0.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRG.OXIDIZING AGTS:HYDROGN PEROX.,CHROMIC AC.,BROMINE
+Hazardous Decomposition Products:OXIDES OF NITROGN,OXIDE OF
+    SULFUR,CO,CO*2.-
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IAW LOCAL, STATE, & FDL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

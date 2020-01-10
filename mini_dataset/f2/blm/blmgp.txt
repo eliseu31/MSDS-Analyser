@@ -1,0 +1,140 @@
+=====================  Product Identification  =====================
+
+Product ID:IPB CAPACITOR FLUID
+MSDS Date:09/01/1988
+FSC:9150
+NIIN:00N021187
+MSDS Number: BLMGP
+=== Responsible Party ===
+Company Name:MAGNETEK UNIVERSAL MANUFACTURING
+Address:902 CRESCENT AVE
+City:BRIDGEPORT
+State:CT
+ZIP:06607
+Country:US
+Info Phone Num:203-336-0161
+Emergency Phone Num:203-336-0161
+CAGE:0LG51
+=== Contractor Identification ===
+Company Name:MAGNETEK UNIVERSL MANUFACTURING
+Address:200 ROBIN RD
+Box:City:PARAMUS
+State:NJ
+ZIP:07652
+Country:US
+Phone:201-987-7800/FAX 201-967-0904
+CAGE:0LG51
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MONO-ISOPROPYL BIPHENYL IPB
+Fraction by Wt: >94%
+ACGIH TLV:50 MG/M3 (MFR)
+
+Ingred Name:BIPHENYL, ISOPROPYL-; (DI+TRI-ISOPROPYL BIPHENYL)
+CAS:25640-78-2
+RTECS #:DV5410000
+Fraction by Wt: >4%
+
+Ingred Name:STABILIZERS (EPOXY & PHENOLIC)
+Fraction by Wt: <1%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:NONE.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:POSSIBLE MILD EYE IRRITATION. REPETITIVE OR
+    PROLONGED SKIN CONTACT MAY CAUSE IRRITATION.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: MOVE TO FRESH AIR. EYE: FLUSH W/LARGE AMOUNTS OF WATER
+    FOR A MINIMUM OF 15 MINUTES. CONSULT WITH AN MD. SKIN: WASH WITH
+    SOAP & WATER. IF IRRITATION PERSISTS, CONSULT AN MD. INGEST: CALL
+    MD IMME DIATELY .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:293F,145C
+Lower Limits:0.5%
+Upper Limits:3.2%
+Extinguishing Media:WATER SPRAY, DRY CHEMICAL, FOAM, CO2.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT . WATER SPRAY IS ONLY RECOMMENDED TO COOL FIRE
+    EXPOSED SURFACES AND TO PROTECT PEOPLE.
+Unusual Fire/Explosion Hazard:HIGH HEAT, SPARKS, OPEN FLAME OR STRONG
+    OXIDIZERS MAY IGNITE THE MATERIAL.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DIKE & CONTAIN SPILL W/SAND, EARTH OR FULLER'S
+    EARTH & TRANSFER LIQUID & SOLID DIKING MATERIAL TO SEGREGATED
+    CONTAINERS FOR RECOVERY OR DISPOSAL. REMOVE CONTAM CLTHG & WASH
+    BEFORE REUSE. KEEP SPILLS A WAY FROM SEWERS OR OPEN BODIES OF
+    WATER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:FREEZES @ 41F (5C), BECOMES "GEL LIKE"
+    AT TEMPS OF ABOUT 10C(50F). MAY REACT ON SURFACES TO FORM A CRUSTED
+    LIKE COATING AT TEMPS >100C.
+Other Precautions:HUMANS: NEAT 0-60 PATCH TEST ON BACKS OF 200 SUBJECTS
+    FOR A 5 DAY PERIOD; RPTD 48 HRS PATCH TEST AFTER 3 WEEK INTERVAL.
+    RSLTS: NO REACTION ON ANY SUBJECT (NEGATIVE RESPONSE).
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED UNDER NORMAL CONDITIONS &
+    TEMPERATURES. IF NECESSARY, USE NIOSH/MSHA APPROVED RESPIRATOR
+    APPROPRIATE FOR EXPOSURE OF CONCERN .
+Ventilation:MECHANICAL (GENERAL); LOCAL EXHAUST: NORMAL ROOM
+    VENTILATION.
+Protective Gloves:IMPERVIOUS (E.G. POLYNITRILE) MATERIAL.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:IMPERVIOUS APRON.
+Work Hygienic Practices:MAINTAIN A CLEAN WORK AREA. KEEP LIQUID
+    CONFINED TO AREA & CONTAINERS OR VESSELS.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:540F,282C
+Melt/Freeze Pt:M.P/F.P Text:-50F,-46C
+Vapor Pres:0.01 @ 25C
+Vapor Density:6
+Spec Gravity:0.988
+Evaporation Rate & Reference:SLOW THAN BUTYL ACETATE
+Solubility in Water:<1000 PPM
+Appearance and Odor:CLEAR, COLORLESS OILY LIQUID WITH FRAGRANT AROMATIC
+    ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS.
+Stability Condition to Avoid:HIGH HEAT, SPARKS, OPEN FLAME.
+Hazardous Decomposition Products:NONE UNDER NORMAL USE. IF BURNED, COX
+    WILL RESULT (E.G. CO2, CO, ETC.)
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:LANDFILL CONTAMINATED SOLID MATERIAL ACCORDING
+    TO CURRENT LOCAL, STATE, & FEDERAL REGULATIONS. MAY HAVE TO
+    INCINERATE LIQUID USING APPROVED EQUIPMENT.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

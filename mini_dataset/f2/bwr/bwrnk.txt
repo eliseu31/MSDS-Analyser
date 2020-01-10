@@ -1,0 +1,159 @@
+=====================  Product Identification  =====================
+
+Product ID:159 7392, FLEXICOLOR FIXER AND REPLEN. CONCENTRATE
+MSDS Date:04/15/1994
+FSC:6750
+NIIN:01-394-0157
+Kit Part:Y
+MSDS Number: BWRNK
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-477-3194 MSDS :800- 242-2424
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:AMMONIUM THIOSULFATE
+CAS:7783-18-8
+RTECS #:XN6465000
+Fraction by Wt: 50-60%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 30-40%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:AMMONIUM SULFITE (SARA III)
+CAS:10196-04-0
+Fraction by Wt: 1-5%
+Other REC Limits:NONE RECOMMENDED
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:SODIUM BISULFITE (SASA III)
+CAS:7631-90-5
+RTECS #:VZ2000000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3; 9394
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:AMMONIUM ACETATE (SARA III)
+CAS:631-61-8
+RTECS #:AF3675000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:TLV FOR SODIUM BISULFITE IS 5MG/M3 TWA
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES:MAY CAUSE
+    IRRITATION.SKIN:EXPECTED TO BE A LOW HAZARD.MAY CAUSE
+    IRRITATION.INGEST:EXPECTED TO BE A LOW HAZARD.MAY CAUSE GI TRACT
+    IRRITATION.INHAL:EXPECTED TO BE A LOW HAZARD.MAY CAUSE RESPIRATORY 
+    IRRITATION.
+Explanation of Carcinogenicity:THERE ARE NO INGREDIENTS ABOVE 0.1%
+    WHICH ARE IDENTIFIED AS CARCINOGENS BY NTP,IARC OR OSHA.
+Effects of Overexposure:NONE SPECIFIED BY MANUFACTURER.
+Medical Cond Aggravated by Exposure:UNLIKELY TO AGGRIVATE EXISTING
+    MEDICAL CONDITIONS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:REMOVE CONTAMINATED CLOTHING;WASH WITH SOAP AND
+    WATER.EYES:FLUSH WITH WATER FOR 15 MINUTES.INHAL:REMOVE TO FRESH
+    AIR.GIVE OXYGEN OR ARTIFICIAL RESPIRATION IF NEEDED.INGEST:GET
+    PROMPT QUALIFIED ME DICAL ATTENTION.IF CONSCIOUS,GIVE 1-2 GLASSES
+    OF WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE MEDIA APPROPRIATE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:USE A SELF-CONTAINED BREATHING APPARATUS AND
+    FULL PROTECTIVE EQUIPMENT.
+Unusual Fire/Explosion Hazard:FIRE CONDITIONS MAY EVOLVE TOXIC FUMES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SOAK UP WITH NON-COMBUSTIBLE INERT
+    ADSORBANT(EG.CLAY);PLACE COLLECTED MATERIEL IN AN APPROPRIATE
+    CONTAINER FOR DISPOSAL.FLUSH SMALL SPILLS TO SEWER WITH PLENTY OF
+    WATER.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL PLACE.KEEP CONTAINER
+    CLOSED. AVOID BREATHING VAPORS.AVOID SKIN AND EYE CONTACT.KEEP AWAY
+    FROM OXIDIZING AGENTS.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NEEDED IN NORMAL SERVICE.
+Ventilation:USE GENERAL DILUTION VENTILATION WITH 10 AIR CHANGES/HOUR.
+Protective Gloves:IMPERIOUS TYPE.
+Eye Protection:SAFETY GLASSES WITH SIDE SHIELDS.
+Other Protective Equipment:PROTECTIVE CLOTHING,AS NEEDED.PROVIDE A
+    LOCAL EYE WASH STATION AND SAFETY SHOWER.
+Work Hygienic Practices:USE REASONABLE CARE IN HANDLING THIS
+    PRODUCT.WASH HANDS AFTER USE AND BEFORE EATING.
+Supplemental Safety and Health
+KEY1;N1. KAN:48529
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:>212F,100C
+Vapor Pres:18
+Vapor Density:0.6
+Spec Gravity:1.35
+pH:6.2
+Solubility in Water:COMPLETE
+Appearance and Odor:LIQUID;YELLOW;ODORLESS
+Percent Volatiles by Volume:30-40
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS,STRONG BASES,SODIUM HYPOCHLORITE.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:AMMONIA,SULFUR DIOXIDE,CHLORAMINE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH FEDERAL,STATE AND
+    LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

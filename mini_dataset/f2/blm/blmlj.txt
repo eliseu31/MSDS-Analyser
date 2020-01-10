@@ -1,0 +1,122 @@
+=====================  Product Identification  =====================
+
+Product ID:XL-740HT
+MSDS Date:12/01/1987
+FSC:9150
+NIIN:00N021474
+MSDS Number: BLMLJ
+=== Responsible Party ===
+Company Name:INGERSOLL-RAND CO
+Address:800-D BEATY ST
+Box:1840
+City:DAVIDSON
+State:NC
+ZIP:28036
+Country:US
+Info Phone Num:704-896-4001
+Emergency Phone Num:704-892-7100
+CAGE:51436
+=== Contractor Identification ===
+Company Name:INGERSOLL-RAND
+Address:800D BEATTY ST
+Box:City:DAVIDSON
+State:NC
+ZIP:28036
+Country:US
+Phone:704-896-4001
+CAGE:3W293
+Company Name:INGERSOLL-RAND CO
+Address:INDUSTRIAL PARK
+Box:1840
+City:CAMPBELLSVILLE
+State:KY
+ZIP:42718
+Country:US
+Phone:501-465-3511
+CAGE:51436
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NON HAZARDOUS INGREDIENTS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN: WITH REPEATED CONTACT, A SKIN
+    DEFATTER. MAY DEVELOP REDNESS OR MILD IRRITATION. SKIN ABSORPTION:
+    NOT KNOWN. EYES: MILD IRRITATION.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:NONE SPECIFIED BY MANUFACTURER.
+Medical Cond Aggravated by Exposure:MAY AGGRAVATE PREVIOUS SKIN
+    CONDITION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGEST: INDUCE VOMITING. GET MED ATTN. INHAL: REMOVE TO FRESH
+    AIR. EYES: IMMED FLUSH WITH POTABLE WATER FOR A MINIMUM OF 15 MIN,
+    SEEK ASSISTANCE FROM MD . SKIN: FLUSH WITH COPIOUS AMOUNTS OF WAT
+    ER. CALL MD .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:525F,274C
+Extinguishing Media:WATER SPRAY, DRY CHEMICAL, FOAM OR CARBON DIOXIDE.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT  TO FIGHT FIRE. WATER MAY CAUSE FROTHING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB WITH SAND OR INERT ABSORBENT MATERIAL
+    AND REMOVE TO DISPOSAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:WASH THOROUGHLY AFTER HANDLING. DO NOT
+    GET IN EYES OR ON SKIN OR CLOTHING.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED EQUIPMENT: FILTER-DUST
+    FUMES, MIST.
+Ventilation:LOCAL EXHAUST.
+Protective Gloves:RUBBER OR BUTYL RUBBER GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:>600F,>316C
+Vapor Pres:NIL @20C
+Spec Gravity:0.97@15.5C
+Solubility in Water:NIL
+Appearance and Odor:GREEN FLUID, ESTER ODOR.
+Percent Volatiles by Volume:NIL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTACT WITH STRONG OXIDIZERS.
+Stability Condition to Avoid:OPEN FLAMES.
+Hazardous Decomposition Products:BURNING WILL PRODUCE OXIDES OF CARBON.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:OBEY RELEVANT LOCAL, STATE AND FEDERAL LAWS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

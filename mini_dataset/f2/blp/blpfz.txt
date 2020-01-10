@@ -1,0 +1,145 @@
+=====================  Product Identification  =====================
+
+Product ID:COMPRESSED ASBESTOS SHEET
+MSDS Date:01/01/1987
+FSC:5330
+NIIN:00-885-3424
+MSDS Number: BLPFZ
+=== Responsible Party ===
+Company Name:KLINGER RICHARD INC
+Address:2350 CAMPBELL RD
+City:SIDNEY
+State:OH
+ZIP:45365-9501
+Country:US
+Info Phone Num:513-498-1181
+Emergency Phone Num:513-498-1181
+CAGE:9U500
+=== Contractor Identification ===
+Company Name:GERARD PACKING AND BELTING CORP
+Address:24 MIDLAND AVENUE
+Box:City:HICKSVILLE
+State:NY
+ZIP:11801
+Country:US
+Phone:516-935-2400
+CAGE:2G277
+Company Name:KLINGER RICHARD INC
+Address:2350 CAMPBELL RD
+Box:City:SIDNEY
+State:OH
+ZIP:45365-9501
+Country:US
+Phone:937-498-1181
+CAGE:9U500
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ASBESTOS, CHRYSOTILE
+CAS:12001-29-5
+RTECS #:CI6478500
+Fraction by Wt: 70%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:0.2 FIBERS/CC
+ACGIH TLV:2 FIBERS/CC; A1;9192
+
+Ingred Name:STYRENE-BUTADIENE POLYMER (RUBBER)
+CAS:9003-55-8
+RTECS #:WL6478000
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:YES
+Health Hazards Acute and Chronic:ACUTE-DUST MAY CAUSE IRRITATION OF
+    EYES & SKIN.CHRONIC-OVEREXPOSURE TO ASBESTOS DUST MAY LEAD TO
+    PLEURAL PLAQUE,ASBESTOSIS,LUNG CANCER.INGESTION MAY LEAD TO
+    INCREASED RISK OF DIGESTIVE TRACT CANCER.
+Explanation of Carcinogenicity:ASBESTOS IS REGULATED BY OSHA AS A
+    CARCINOGEN.
+Effects of Overexposure:ASBESTOSIS IS ASSOCIATED WITH SYMPTOMS OF
+    LABORED BREATHING, CHEST PAIN,COUGHING AND FINGER CLUBBING. LIKE
+    OTHER AEROSOLS, ASBESTOS FIBERS MAY IRRITATE THE UPPER RESPIRATORY
+    TRACT.
+Medical Cond Aggravated by Exposure:PRE-EXISTING CONDITIONS SUCH AS
+    CHRONIC BRONCHITIS, ASTHMA OR DERMATITIS. WHEN COMBINED WITH
+    SMOKING, THE RISK OF ASBESTOS-RELATED DISEASES INCREASES UP TO 25
+    TIMES.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SEEK MEDICAL ATTENTION.IN CASE OF EYE IRRITATION GENTLY RINSE
+    WITH WATER FOR 15 MINUTES WHILE KEEPING EYELIDS OPEN.SKIN:WASH
+    FREQUENTLY WITH WATER.INHALATION:REMOVE TO FRESH AIR.INGESTION:SEE
+    A DOCTOR .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:DOES NOT FLASH
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL FOR SURROUNDING FIRE.
+Fire Fighting Procedures:WEAR FIRE FIGHTING PROTECTIVE EQUIPMENT AND A
+    FULL FACED SELF CONTAINED BREATHING APPARATUS. EVACUATE AREA. COOL
+    FIRE EXPOSED CONTAINERS WITH WATER SPRAY.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:TREAT DUST AS FREE ASBESTOS. DO NOT DRY SWEEP
+    OR USE COMPRESSED AIR.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORAGE-IN NORMAL HANDLING OF SHEET &
+    CUT GASKETS,NO SIGNIFICANT RELEASE OF ASBESTOS OCCUR.
+Other Precautions:WHERE DUST PRODUCING ACTIVITIES LIKE WIRE BRUSHING
+    DURING GASKET REMOVAL,DRILLING, GRINDING,SAWING,OR SANDING OCCUR,
+    LOCAL VENTILATION, RESPIRATORS, HEPA VACUUMS, AND/OR WET METHODS
+    MUST BE USED TO EN SURE THAT RELEASED FIBERS ARE CONTAINED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/OSHA APPROVED HIGH EFFICIENCY DUST
+    RESPIRATOR WHEN AIRBORNE FIBER CONCENTRATIONS EXCEED THE PEL.
+Ventilation:LOCAL/GENERAL TO MAINTAIN PEL/TLV. CHECK LOCAL REGULATIONS
+    FOR EMISSION STANDARDS.
+Protective Gloves:NEOPRENE, NITRILE, OR NATURAL RUBBER
+Eye Protection:SAFETY GOGGLES WITH OPTIONAL FACE SHIELD
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER,WORK
+    CLOTHING AND APRON AS REQUIRED.
+Work Hygienic Practices:DON'T TAKE PROTECTIVE GEAR/CLOTHING HOME IF
+    EXPOSED TO DUST.DON'T SHAKE.DON'T EAT IN AREA WHERE ASBESTOS/DUST
+    PRESENT.
+Supplemental Safety and Health
+EXPOSURE TO ANY INHALABLE MATERIAL SHOULD BE MINIMIZED BY ADEQUATE,
+    EFFECTIVE CONTAINMENT AND PERSONAL CLEANLINESS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T6
+Spec Gravity:5
+Solubility in Water:INSOLUBLE
+Appearance and Odor:OFF WHITE & GLOSSY
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CERTAIN SOLVENTS, STRONG MINERAL ACIDS, STRONG BASES
+Stability Condition to Avoid:FLAME & HIGH HEAT (TO 750F)
+Hazardous Decomposition Products:HYDROCARBON FUMES AND ASBESTOS DUST
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:APPROVED LANDFILL IN ACCORDANCE WITH ALL LOCAL,
+    STATE AND FEDERAL REGULATIONS. INCINERATION IN A SUITABLE
+    COMBUSTION CHAMBER (>1000C).
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

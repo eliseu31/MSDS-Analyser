@@ -1,0 +1,123 @@
+=====================  Product Identification  =====================
+
+Product ID:DYNA-BOND CATALYST ADHESIVE
+MSDS Date:02/01/1988
+FSC:6520
+NIIN:00F011196
+MSDS Number: BJDDR
+=== Responsible Party ===
+Company Name:UNITEK CORPORATION
+Address:2724 SOUTH PECK ROAD
+City:MONROVIA
+State:CA
+ZIP:91016
+Info Phone Num:(818) 574-4000
+Emergency Phone Num:(818) 574-4000
+CAGE:90444
+=== Contractor Identification ===
+Company Name:UNITEK CORPORATION
+Address:2724 S PECK RD
+Box:City:MONROVIA
+State:CA
+ZIP:91016-5005
+Phone:(213) 445-7960
+CAGE:90444
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BISPHENOL A GLYCIDYLMETHACRYLATE, BIS-GMA
+CAS:1565-94-2
+RTECS #:UD3438000
+
+Ingred Name:TRIETHYLENE GLYCOL DIMETHACRYLATE
+CAS:109-16-0
+RTECS #:OZ4100000
+
+Ingred
+    Name:1,3-PROPANEDIOL,2-ETHYL-2-(HYDROXYMETHYL)-,TRIACRYLATE,(MFM),
+    TRIMETHYLOLPROPANE TRIACRYLATE
+CAS:15625-89-5
+RTECS #:AT4810000
+Other REC Limits:1 MG/CUM
+
+Ingred Name:BENZOYL PEROXIDE, DI-BENZOYLPEROXIDE
+CAS:94-36-0
+RTECS #:DM8575000
+Fraction by Wt: 5%
+OSHA PEL:5 MG/CUM
+ACGIH TLV:5 MG/CUM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYE: MAY CAUSE MINOR IRRITATION &
+    REDNESS. SKIN: PROLONGED/REPEATED CONTACT TO UNPOLYMERIZED MATERIAL
+    MAY CAUSE IRRITATION & ALLERGIC SENSITIZATION. INGESTION: THIS
+    MATERIAL MAY BE A SLIGHT HEALTH HAZ ARD.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYE: MAY CAUSE MINOR IRRITATION & REDNESS.
+    SKIN: PROLONGED/REPEATED CONTACT TO UNPOLYMERIZED MATERIAL MAY
+    CAUSE IRRITATION & ALLERGIC SENSITIZATION. INGESTION: THIS MATERIAL
+    MAY BE A SLIGHT HEALTH HAZ ARD.
+Medical Cond Aggravated by Exposure:ALLERGIC SENSITIZATION
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: WASH W/LARGE QUANTITIES OF LUKEWARM WATER FOR 15
+    MINUTES. CONTACT PHYSICIAN. SKIN: WASH W/SOAP & WATER THEN FLUSH
+    W/LUKEWARM WATER FOR 15 MINUTES. INGESTION: CONTACT PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:>240F
+Extinguishing Media:DRY CHEMICAL, CO2, FOAM
+Unusual Fire/Explosion Hazard:LARGE CONTAINERS OF BULK MATERIAL MAY
+    RUPTURE WHEN EXPOSED TO HEAT. SEALED CONTAINER MAY RUPTURE
+    EXPLOSIVELY.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CLEAN UP SMALL SPILLS W/PAPER TOWELS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL <75F, DARK PLACE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:GENERALLY NOT REQUIRED UNDER NORMAL CONDITIONS
+    OF USE.
+Ventilation:GENERAL AREA VENTILATION
+Eye Protection:AS NECESSARY TO PREVENT EXCESSIVE
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:1.34
+Evaporation Rate & Reference:(BU AC = 1): <1
+Solubility in Water:SLIGHT
+Appearance and Odor:VISCOUS TRANSLUCENT PASTE, MILD ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS, PEROXIDES, STRONG ALKALIES
+Stability Condition to Avoid:HEAT & DIRECT SUNLIGHT. STORE >100F.
+Hazardous Decomposition Products:TOXIC FUMES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:UNIVERSAL OR BASE ADHESIVE & CATALYST ADHESIVE
+    SHOULD BE MIXED/ALLOWED TO GEL/CURE. USE PROPER LANDFILL DISPOSAL
+    OR INCINERATION. DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

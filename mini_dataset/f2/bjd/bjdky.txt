@@ -1,0 +1,185 @@
+=====================  Product Identification  =====================
+
+Product ID:TX207 KIT; PART A; FREON TP-35 AEROSOL
+MSDS Date:07/01/1988
+FSC:7045
+NIIN:01-171-0778
+Kit Part:Y
+MSDS Number: BJDKY
+=== Responsible Party ===
+Company Name:TEXWIPE CO
+Address:650 E CRESENT AVE
+Box:575
+City:UPPER SADDLE RIVER
+State:NJ
+ZIP:07458-1827
+Country:US
+Info Phone Num:201-327-9100
+Emergency Phone Num:201-327-9100
+Preparer's Name:SCOTT FAHY
+CAGE:21994
+=== Contractor Identification ===
+Company Name:G & A GIESTING AND ASSOCIATES SALES DIV.
+Address:2854 BLUE ROCK ROAD
+Box:39398
+City:CINCINNATI
+State:OH
+ZIP:45239-6335
+Country:US
+Phone:513-382-4048
+CAGE:6S313
+Company Name:TEXWIPE CO
+Address:650 E CRESENT AVE
+Box:308
+City:UPPER SADDLE RIVER
+State:NJ
+ZIP:07458-1827
+Country:US
+Phone:201-327-5577
+CAGE:21994
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:1,1,2-TRICHLORO-1,2,2-TRIFLUOROETHANE (FREON 113)  (SARA
+    III)
+CAS:76-13-1
+RTECS #:KJ4000000
+Fraction by Wt: 62.8%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:1000PPM/1250STEL
+ACGIH TLV:1000PPM/1250STEL9192
+Ozone Depleting Chemical:1
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: 34.0%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+Ingred Name:NITROMETHANE
+CAS:75-52-5
+RTECS #:PA9800000
+Fraction by Wt: O.29%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM; 9192
+
+Ingred Name:CARBON DIOXIDE
+CAS:124-38-9
+RTECS #:FF6400000
+Fraction by Wt: 3.0%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:5000 PPM
+ACGIH TLV:5000PPM/30000STEL;93
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT) IS >10,000 MG/KG (CALC.)
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:PRODUCT IS MILDLY IRRITATING TO BODY
+    TISSUES, AND IS A CENTRAL NERVOUS SYSTEM DEPRESSANT, CAUSING NAUSEA
+    AND DIZZINESS.  CHRONIC OVER EXPOSURE MAY CAUSE DERMATITIS, CARDIAC
+    IRREGULARITIES.
+Explanation of Carcinogenicity:THE PRODUCT CONTAINS NO INGREDIENT THAT
+    IS LISTED BY IARC, NTP OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:HEADACHE, DIZZINESS, DROWSINESS, NAUSEA,
+    TINGLING OR NUMBNESS OF THE EXTREMITIES, SENSES OF FULLNESS IN THE
+    HEAD, SENSE OF WARMTH, STUPOR OR DULLNESS, LETHARGY AND
+    DRUNKENNESS. VERY HIGH CONCENTRATION S MAY LEAD TO UNCONSCIOUSNESS
+    OR EVEN DEATH IN CONFINED OR POORLY VENTILATED AREAS.
+Medical Cond Aggravated by Exposure:CARDIO VASCULAR DISEASE,R.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH W/WATER 15 MIN,HOLD LIDS OPEN. SKIN:WASH WITH SOAP
+    & WATER. REMOVE CONTAMINATED CLOTHING AND LAUNDER BEFORE REUSE.
+    INHALED:REMOVE TO FRESH AIR. RESTORE BREATHING IF NECESSARY.
+    INGESTED:DO NO T INDUCE VOMITING. GIVE 2 LARGE GLASSESOF MILK OR
+    WATER AND GET IMMEDIATE MEDICAL CARE. GIVE NOTHING BY MOUTH IF
+    UNCONSCIOUS. IF IRRITATION PERSISTS OR IS SEVERE,SEE A DOCTOR. DO
+    NOT GIVE EPINEPHRINE
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TOC
+Flash Point:NONE
+Extinguishing Media:PRODUCT IS NON FLAMMABLE.  EXTINGUISH FIRE WITH
+    MEDIA APPROPRIATE FOR SOURCE OF FIRE.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:CONTENTS UNDER PRESSURE! EXPOSURE TO
+    TEMPERATURES OVER 130 F MAY RESULT IN RUPTURE OF THE CONTAINER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SMALL SPILL: WIPE UP WITH RAGS OR TOWELS.
+    VENTILATE AREA.   RESIDUE WILL EVAPORATE QUICKLY. DO NOT FLUSH TO
+    SEWER OR WATERWAY.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE BELOW 130 F. CONTENTS UNDER
+    PRESSURE. DO NOT PUNCTURE OR INCINERATE. DEPRESSURIZE BEFORE
+    DISPOSAL.
+Other Precautions:VAPORS ARE HEAVIER THAN AIR AND WILL COLLECT IN LOW
+    AREAS. DO NOT ENTER WHERE VAPORS ARE SUSPECTED WITHOUT SELF
+    CONTAINED BREATHING APPARATUS AND AN OBSERVER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED AIR SUPPLIED RESPIRATOR
+    OR RESPIRATOR FOR ORGANIC VAPOR IF EXPOSURE IS ABOVE THE TLV/PEL.
+    IF EXPOSED ABOVE 1000 PPM USE ONLY A SUPPLIED AIR RESPIRATOR. SEE
+    29 CFR 1910.134 FOR  REGULATIONS PERTAINING TO RESPIRATOR USE
+Ventilation:NORMAL ROOM VENTILATION IS USUALLY SUFFICIENT.  SUPPLEMENT
+    WITH LOCAL EXHAUST IF PEL/TLV IS EXCEEDED.
+Protective Gloves:BUTYL GLOVES RECOMMENDED.
+Eye Protection:SAFETY GLASSES OR SPLASH GOGGLES
+Other Protective Equipment:APRON AND WORK CLOTHING AS NEEDED TO
+    MINIMIZE EXPOSURE. EYE WASH STATION & SAFETY SHOWER RECOMMENDED.
+Work Hygienic Practices:USE GOOD CHEMICAL HYGIENE PRACTICE. AVOID
+    UNNECESSARY CONTACT. WASH THOROUGHLY BEFORE EATING OR DRINKING.
+Supplemental Safety and Health
+THIS MSDS COVERS THE AEROSOL CONTAINER IN THE KIT.  MFR SELLS IT
+    SEPARATELY AS TX109. SEE NSN 6810-00-546-4343.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V3
+Boiling Pt:B.P. Text:120F,49C
+Vapor Pres:284 MM
+Vapor Density:4.9 G/CC
+Spec Gravity:1.15
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:VOLITILE LIQUID CONTAINED IN AEROSOL CAN, SLIGHT
+    SOLVENT ODOR
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ALKALI AND ALKALINE EARTH METALS, OTHER REACTIVE METALS
+Stability Condition to Avoid:TEMPERATURES  ABOVE 130F.
+Hazardous Decomposition Products:WHEN INVOLVED IN FIRE, PRODUCT EMITS
+    HIGHLY TOXIC AND IRRITATING FUMES OF HYDROGEN CHLORIDE AND
+    PHOSGENE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:(LIQUID) DISPOSE I/A/W ALL FEDERAL, STATE AND
+    LOCAL REGULATIONS.	MANUFACTURER SUGGESTS RECYCLE (PREFERRED) OR
+    LAND FILL. (CONTAINER) DEPRESSURIZE BEFORE DISPOSAL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

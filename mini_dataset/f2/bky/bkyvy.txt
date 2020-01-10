@@ -1,0 +1,123 @@
+=====================  Product Identification  =====================
+
+Product ID:P7 ECONOLINE FILMS
+MSDS Date:07/01/1988
+FSC:6750
+NIIN:01-228-8301
+MSDS Number: BKYVY
+=== Responsible Party ===
+Company Name:ANITEC IMAGE CORPORATION
+Address:40 CHARLES STREET
+Box:4444
+City:BINGHAMTON
+State:NY
+ZIP:13902
+Info Phone Num:(607) 774-3242
+Emergency Phone Num:(607) 774-3242 OR 774-3300
+CAGE:61263
+=== Contractor Identification ===
+Company Name:ANITEC IMAGE CORP
+Address:40 CHARLES ST
+Box:4444
+City:BINGHAMTON
+State:NY
+ZIP:13902
+Country:US
+Phone:607-774-3333
+CAGE:61263
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POLYESTER
+Fraction by Wt: >90%
+
+Ingred Name:SILVER CHLORIDE
+CAS:9007-35-6
+RTECS #:VW3675000
+ACGIH TLV:10 MG/CUM
+
+Ingred Name:SILVER BROMIDE
+CAS:7785-23-1
+ACGIH TLV:10 MG/CUM
+
+Ingred Name:GELATIN, GELATINE
+CAS:9000-70-0
+RTECS #:LX8580000
+
+Ingred Name:CADMIUM CHLORIDE  (SARA III)
+CAS:10108-64-2
+RTECS #:EV0175000
+Fraction by Wt: TRACE
+OSHA PEL:SEE 1910.1027
+ACGIH TLV:0.05 MG(CD)/M3; 9293
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:SKIN: THIS PRODUCT CONTAINS SMALL
+    AMOUNTS OF A CADIUM SALT & MAY CAUSE LOCALIZED IRRITATION.
+Explanation of Carcinogenicity:CADMIUM IS A SUSPECTEC 2B CARCINOGEN.
+Effects of Overexposure:SKIN: THIS PRODUCT CONTAINS SMALL AMOUNTS OF A
+    CADMIUM SALT & MAY CAUSE LOCALIZED IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE FROM SOURCE OF EXPOSURE. SKIN: WASH
+    THOROUGHLY W/WATER. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:WATER MIST, ALCOHOL FOAM, CO2, OR DRY CHEMICAL
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:UNEXPOSED FILM SHEETS MAY BE REPACKAGED FOR
+    FUTURE USE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY PLACE AWAY FROM
+    HEAT, RADIATION OR LIGHT SOURCES. DON'T IMMERSE INTO WATER OR
+    CHEMICALS PRIOR TO PROCESSING.
+Other Precautions:AVOID EXPOSURE TO SOLUTIONS & INHALATION OF
+    COMBUSTION FUMES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Protective Gloves:DISPOSABLE COTTON
+Work Hygienic Practices:WASH HANDS AFTER HANDLING FILM/FOLLOWING
+    EXPOSURE TO FILM PROCESSING SOLUTIONS.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Vapor Pres:NEGLIGIBLE
+Vapor Density:NEGLIGIBLE
+Spec Gravity:N/KL
+Evaporation Rate & Reference:(BU AC = 1): NEGLIGIBLE
+Solubility in Water:INSOLUBLE
+Appearance and Odor:GREY EMULSION COATED FILM W/NO DISTINGUISHING ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:HEAT, LIGHT & OTHER RADIATION SOURCES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL OF FILM & FILM PROCESSING SOLUTIONS
+    SHOULD BE MADE IN CONFORMANCE W/APPLICABLE LOCAL, STATE & FEDERAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,140 @@
+=====================  Product Identification  =====================
+
+Product ID:KONICA/ROYAL 4003ZMR/4290 DEVELOPER
+MSDS Date:08/18/1989
+FSC:3610
+NIIN:01-249-3572
+MSDS Number: BHWQM
+=== Responsible Party ===
+Company Name:KONICA BUSINESS MACHINES U S A INC
+Address:500 DAY HILL RD
+City:WINDSOR
+State:CT
+ZIP:06095-1716
+Country:US
+Info Phone Num:203-683-2222 X-2093
+Emergency Phone Num:800-424-9300
+CAGE:89431
+=== Contractor Identification ===
+Company Name:SHIN-ETSU CHEMICAL CO LTD
+Address:6-1, 2-CHOME, OHTEMACHI, CHIYODAKU
+Box:City:TOKYO, JAPAN
+Phone:03-3246-5171
+CAGE:89431
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CARRIER: THE FOLLOWING TWO INGREDIENTS ARE "CARRIER"
+RTECS #:9999999ZZ
+Fraction by Wt: 94-98%
+
+Ingred Name:FERRITE
+CAS:54427-17-7
+Other REC Limits:NONE ESTABLISHED
+OSHA PEL:NONE ESTABLISHED
+ACGIH TLV:NONE ESTABLISHED
+
+Ingred Name:RESIN
+Other REC Limits:NONE ESTABLISHED
+
+Ingred Name:TONER: THE FOLLOWING FIVE INGREDIENTS ARE "TOMNER"
+RTECS #:9999999ZZ
+Fraction by Wt: 2-6%
+
+Ingred Name:POLYESTER RESIN
+Other REC Limits:NONE ESTABLISHED
+
+Ingred Name:CARBON BLACK
+CAS:1333-86-4
+RTECS #:FF5800000
+OSHA PEL:3.5 MG/M3
+ACGIH TLV:3.5 MG/M3; 9192
+
+Ingred Name:WAX
+CAS:8002-74-2
+RTECS #:RV0350000
+Other REC Limits:NONE ESTABLISHED
+
+Ingred Name:HIGHER FATTY ETHYLENE DIAMIDE
+Other REC Limits:NONE ESTABLISHED
+OSHA PEL:NONE ESTABLISHED
+ACGIH TLV:NONE ESTABLISHED
+
+Ingred Name:SILICA GEL
+CAS:112945-52-5
+RTECS #:VV7310000
+Other REC Limits:NONE ESTABLISHED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 > 5000 MG/KG (MOUSE)
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MINIMAL RESPIRATORY TRACT IRRITATION
+    MAY OCCUR AS WITH ANY LARGE AMOUNTS OF NON-TOXIC DUST.
+Effects of Overexposure:SEE "HEALTH HAZARDS"
+Medical Cond Aggravated by Exposure:NONE CURRENTLY DETERMINED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGEST:DILUTE STOMACH CONTENTS WITH SEVERAL GLASSES OF WATER;
+    INHALE:REMOVE FROM EXPOSURE; EYE:FLUSH WITH WATE FOR 15 MINUTES,
+    CONSULT A PHYSICIAN; SKIN:WASH WITH SOAP AND WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:WATER,FOAM,CARBON DIOXIDE OR DRY CHEMICAL.
+Fire Fighting Procedures:WHEN IN A MACHINE, TREAT AS ELECTRICAL FIRE
+    AND DO NOT USE WATER OR FOAM.
+Unusual Fire/Explosion Hazard:DEVELOPER IS NOT A COMBUSTIBLE POWDER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP OR VACUUM.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP FROM CONTACT WITH OXIDIZING
+    MATERIALS. KEEP OUT OF REACH OF CHILDREN.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE USUALLY.
+Ventilation:NORMAL VENTILATION.
+Protective Gloves:NONE USUALLY.
+Eye Protection:SAFETY GLASSES.
+Other Protective Equipment:NONE.
+Work Hygienic Practices:NONE SPECIAL.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Spec Gravity:5.0
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:GRAYISH,DARK BLUE,DARK GREEN OR DARK RED AND
+    GRANULAR. ODORLESS
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:NONE STATED.
+Hazardous Decomposition Products:CARBON DIOXIDE AND CARBON MONOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:NO SPECIAL DISPOSAL PROCEDURES REQUIRED. INSURE
+    CONFORMITY WITH FEDERAL, STATE AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

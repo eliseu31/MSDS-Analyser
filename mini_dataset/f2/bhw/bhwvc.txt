@@ -1,0 +1,149 @@
+=====================  Product Identification  =====================
+
+Product ID:SO412-00 FETAL CELL STAIN KIT,SO410 FIXER
+MSDS Date:06/25/1990
+FSC:6550
+NIIN:01-288-8056
+MSDS Number: BHWVC
+=== Responsible Party ===
+Company Name:SIMMLER INC.
+Address:4156 HOFFMEISTER AVENUE
+Box:25179
+City:ST. LOUIS
+State:MO
+ZIP:63125
+Country:US
+Info Phone Num:314-638-6300
+Emergency Phone Num:800-323-0786
+CAGE:52585
+=== Contractor Identification ===
+Company Name:SIMMLER INC.
+Address:4156 HOFFMEISTER AVENUE
+Box:25179
+City:ST. LOUIS
+State:MO
+ZIP:63125
+Country:US
+Phone:800-323-0786
+CAGE:52585
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHYL ALCOHOL (ETHANOL) *DENATURED WITH ETHYL
+    ACETATE,METHYL ISOBUTYL KETONE, ISOPROPANOL*
+CAS:64-17-5
+RTECS #:RQ6300000
+Fraction by Wt: <76%
+OSHA PEL:1000 PPM
+ACGIH TLV:1000 PPM; 8990
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: >20%
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: >4%
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL RAT LD50 IS NOT KNOWN
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:YES
+Health Hazards Acute and Chronic:PRODUCT IS IRRITATING TO BODY TISSUES
+    AND MAY BE TOXIC IF INGESTED.
+Explanation of Carcinogenicity:THE PRODUCT CONTAINS NO INGREDIENT THAT
+    IS LISTED BY IARC, NTP OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:EYE:IRRITATION	SKIN DRYING,IRRITATION 
+    INHALED:MAY EFFECT THE CENTRAL NERVOUS SYSTEM CAUSING HEADACHE,
+    DIZZINESS.	INGESTED:MAY BE HARMFUL IF TAKEN INTERNALLY.
+Medical Cond Aggravated by Exposure:NONE GIVEN BY MANUMACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH W/WATER 15 MIN, HOLD LIDS OPEN.  SKIN:WASH WITH
+    SOAP & WATER. REMOVE CONTAMINATED CLOTHING AND LAUNDER BEFORE
+    REUSE.  INHALED:REMOVE TO FRESH AIR. RESTORE BREATHING IF
+    NECESSARY.	INGESTED:D O NOT INDUCE VOMITING. GIVE 2 LARGE GLASSES
+    OF MILK OR WATER AND GET IMMEDIATE MEDICAL CARE. GIVE NOTHING BY
+    MOUTH IF UNCONSCIOUS.   IF IRRITATION PERSISTS OR IS SEVERE,SEE A
+    DOCTOR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:68.0F,20.0C
+Lower Limits:3.3
+Upper Limits:19.0
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WIPE UP WITH CLOTH OR PAPER. BEWARE OF
+    IGNITION SOURCES.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL DRY AREA. KEEP TIGHTLY
+    CLOSED AND AWAY FROM IGNITION SOURCES.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESPIRATOR WILL NOT NORMALLY BE NECESSARY.  USE
+    NIOSH/MSHA APPROVED AIR SUPPLIED RESPIRATOR OR RESPIRATOR FOR
+    ORGANIC VAAPOR IF EXPOSURE IS ABOVE THE TLV/PEL. SEE 29 CFR
+    1910.134 FOR REGULATIONS PERTA INING TO RESPIRATOR USE.
+Ventilation:NORMAL ROOM VENTILATION IS SUFFICIENT.  SUPPLEMENT WITH
+    LOCAL EXHAUST IF PEL/TLV IS EXCEEDED.
+Protective Gloves:RUBBER, VINYL OR OTHER IMPERVIOUS
+Eye Protection:SAFETY GLASSES OR SPLASH GOGGLES
+Other Protective Equipment:NONE
+Work Hygienic Practices:USE GOOD CHEMICAL HYGIENE PRACTICE. AVOID
+    UNNECESSARY CONTACT.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:B.P. Text:172F,78C
+Melt/Freeze Pt:M.P/F.P Text:-173F,-114C
+Vapor Pres:47 MM
+Vapor Density:1.6
+Spec Gravity:0.82
+Evaporation Rate & Reference:3.3 (BUTYL ACETATE = 1)
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR COLORLESS LIQUID, ALCOHOL ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ALKYLENE OXIDES,ACIDS,HALOGENS
+Stability Condition to Avoid:HIGH TEMPERATURES, SPARKS, AND OPEN FLAMES
+Hazardous Decomposition Products:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W ALL FEDERAL, STATE AND LOCAL
+    REGULATIONS.  MANUFACTURER SUGGESTS THAT DISPOSAL MAY BE DONE BY
+    INCINERATION.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

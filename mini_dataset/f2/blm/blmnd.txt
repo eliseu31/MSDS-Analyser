@@ -1,0 +1,157 @@
+=====================  Product Identification  =====================
+
+Product ID:3M BRAND DRY SILVER PAPER TYPE 7770, 98-657
+MSDS Date:07/21/1992
+FSC:6750
+NIIN:00N021758
+MSDS Number: BLMND
+=== Responsible Party ===
+Company Name:MINNESOTA MINING & MFG CO
+Address:3M CTR 224-2S-25
+City:ST. PAUL
+State:MN
+ZIP:55144-1000
+Country:US
+Info Phone Num:612-733-1110
+Emergency Phone Num:612-733-1110
+CAGE:76381
+=== Contractor Identification ===
+Company Name:MINNESOTA MINING AND  MFG CO, DBA 3M
+Address:3M CENTER BLDG 224-5S-04
+Box:City:SAINT PAUL
+State:MN
+ZIP:55144-1000
+Country:US
+Phone:866-556 5712 / 612-733-1110
+CAGE:76381
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MERCURIC BROMIDE
+CAS:7789-47-1
+RTECS #:OV7415000
+Fraction by Wt: <0.1%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:0.1 MG/M3 (HG)
+ACGIH TLV:0.05 MG/M3 (HG)
+
+Ingred Name:MERCURIC ACETATE  (SARA III)
+CAS:1600-27-7
+RTECS #:AI8575000
+Fraction by Wt: <0.1%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:0.1 MG HG/M3;SKIN;C
+ACGIH TLV:0.1 MG HG/M3; 9192
+
+Ingred Name:BEHENIC ACID
+CAS:112-85-6
+Fraction by Wt: 1-5%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:PAPER BACKING
+Fraction by Wt: 85-90%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:SILVER BEHENATE
+CAS:2489-05-6
+Fraction by Wt: 1-5%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:0.01 MG/M3 (AG)
+ACGIH TLV:0.01 MG/M3 (AG)
+
+Ingred Name:POLY VINYL BUTYRAL RESIN
+CAS:63148-65-2
+Fraction by Wt: 1-5%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:CELLULOSE ACETATE (RESIN)
+CAS:9004-35-7
+Fraction by Wt: 1-5%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:2,2'-METHYLENE-BIS-6-(TERT-BUTYL)-P-CRESOL
+CAS:119-47-1
+RTECS #:PA3500000
+Fraction by Wt: 1-5%
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES- DUST MAY CAUSE MILD IRRITATION. 
+    SKIN- REPEAED CONTACT WITH THE DUST MAY CAUSE SKIN IRRITATION AND
+    ALLERGIC REACTIONS IN SOME INDIVIDUALS.  INHALATION- VAPORS AND/OR
+    DUST MAY CAUSE RESPIRATORY I RRITATION.  INGESTION- MAY CAUSE
+    DIGESTIVE SYSTEM IRRITATION. *SEE SUPPLEMENTAL SECTION FOR CHRONIC
+    EFFECTS*
+Effects of Overexposure:MAY INCLUDE HEADACHE, TREMORS, IMPAIRED MEMORY,
+    PHYSCHOLOGICAL DISORDERS, LOSS OF APPETITE, INSOMNIA, EXCESSIVE
+    SALIVATION, SWOLLEN GUMS, INCREASED EXCITABILITY, CHILLS, NAUSEA,
+    SHORTNESS OF BREATH, W EAKNESS, FATIGUE, MENSTRUAL DISORDERS AND
+    DECREASED SPERM COUNT.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES- IMMEDIATELY FLUSH EYES WITH PLENTY OF WATER.
+    IMMEDIATELY CALL A PHYSICIAN.  SKIN- WASH AFFECTED AREA WITH SOAP
+    AND WATER.	INHALATION- REMOVE PERSON TO FRESH AIR.  INGESTION- NO
+    FIRST AID NORMAL LY REQUIRED.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER SPRAY, CARBON DIOXIDE, DRY CHEMICAL.
+Fire Fighting Procedures:FOR LARGE QUANTITIES OF PAPER, WEAR
+    SELF-CONTAINED BREATHING APPARATUS (SCBA) AND FULL PROTECTIVE GEAR.
+
+==================  Accidental Release Measures  ==================
+
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL PLACE.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY REQUIRED.
+Ventilation:USE IN A WELL-VENTILATED AREA.
+Protective Gloves:NONE NORMALLY REQUIRED.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+PROLONGED OR REPEATED OVEREXPOSURE TO MERCURY CAN CAUSE KIDNEY, LIVER,
+    LUNG, NERVOUS SYSTEM AND REPRODUCTIVE SYSTEM DAMAGE AND HAS BEEN
+    ASSOCIATED WITH BIRTH DEFECTS AND FETAL TOXICITY IN HUMANS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Solubility in Water:SLIGHT
+Appearance and Odor:COATED PAPER IN ROLL FORMAT, WHITE, SLIGHT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:AVOID EXPOSURE TO LIGHT, ELEVATED
+    TEMPERATURES, AND HUMID ENVIRONMENTS PRIOR TO DEVELOPMENT.
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE,
+    HYDROCARBONS, SILVER OXIDE, AND TRACE LEVELS OF MERCURY OXIDES AND
+    HYDROGEN BROMIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:RECLAMATION OF SILVER AND MERCURY BY A PERMITTED
+    WASTE RECOVERY FACILITY IS PREFERRED.  DISPOSAL METHODS MUST BE IN
+    ACCORDANCE WITH APPLICABLE FEDERAL, STATE AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

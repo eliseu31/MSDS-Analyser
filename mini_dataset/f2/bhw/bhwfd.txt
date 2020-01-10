@@ -1,0 +1,137 @@
+=====================  Product Identification  =====================
+
+Product ID:CK-1 & AC AGENT SIMULANT VIAL (SEE SUPP)
+MSDS Date:01/01/1987
+FSC:6910
+NIIN:00-106-4800
+Kit Part:Y
+MSDS Number: BHWFD
+=== Responsible Party ===
+Company Name:CHEMTRONICS,INC/NOW,JET RESEARCH (NO LONGER MFR)
+Address:180 OLD BEE TREE RD
+City:SWANNANOA
+State:NC
+ZIP:28778
+Country:US
+Info Phone Num:704-298-7941
+Emergency Phone Num:704-298-7941
+CAGE:KO083
+=== Contractor Identification ===
+Company Name:CHEMTRONICS INC
+Address:180 OLD BEE TREE RD
+Box:City:SWANNANOA
+State:NC
+ZIP:28778-3409
+Country:US
+Phone:NOT LISTED IN PHONE DIRECTORY
+CAGE:60737
+Company Name:CHEMTRONICS,INC/NOW,JET RESEARCH (NO LONGER MFR)
+Address:180 OLD BEE TREE RD
+Box:City:SWANNANOA
+State:NC
+ZIP:28778
+Country:US
+Phone:704-298-7941
+CAGE:KO083
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM HYPOCHLORITE  (SARA III)
+CAS:7681-52-9
+RTECS #:NH3486300
+Other REC Limits:N/K 
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:N/K 
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SEE SIGNS AND SYMPTOMS OF
+    OVEREXPOSURE.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES:CAUSES SUBSTANTIAL BUT TEMPORARY EYE
+    BURNS.SKIN:MAY IRRITATE SKIN.VAPORS MAY IRRITATE
+    SKIN.INGESTION:CAUSES NAUSEA AND VOMITING.INHALATION:N/K 
+Medical Cond Aggravated by Exposure:N/K 
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:IMMEDIATELY FLUSH WITH WATER FOR 15 MINUTES.SKIN:WASH
+    WITH SOAP AND WATER.INGESTION:DRINK 2 GLASSES OF WATER.IF PROBLEMS
+    PERSIST,SEE MD.INHALATION:MOVE TO FRESH AIR AND GIVE ARTIFICIAL
+    RESPIRATIO	IF NECESSARY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON-FLAMMABLE
+Lower Limits:N/K 
+Upper Limits:N/K 
+Extinguishing Media:NONE NECESSARY-AQUEOUS SALT SOLUTION.
+Fire Fighting Procedures:COOL CONTAINERS DURING A FIRE TO PREVENT
+    RUPTURE AND RELEASE OF HAZARDOUS GASES.
+Unusual Fire/Explosion Hazard:IN EXTREME FIRE TEMPERATURES,CONTAINERS
+    MIGHT RELEASE CHLORINE GAS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SMALL QUANTITIES MAY BE FLUSHED TO
+    SEWER.LARGER SPILL SHOULD BE DILUTED WITH WATER AND ABSORBED OR
+    MOPPED.
+Neutralizing Agent:N/K 
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DRY PLACE.RINSE EMPTY
+    CONTAINER WITH WATER.
+Other Precautions:POISONOUS HYDROGEN CYANIDE IS PRODUCED WHEN MIXED
+    WITH B-2 AGENT SIMULANT (SODIUM THIOCYANATE).
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IN CONFINED AREAS USE RESPIRATOR WITH CHLORINE
+    CARTRIDGE.
+Ventilation:CONSULT LOCAL SAFETY/HEALTH AUTHORITIES IF ADDITIONAL
+    GUIDANCE IS NEEDED .NORMAL CONDITIONS-NONE NEEDED.
+Protective Gloves:RUBBER
+Eye Protection:SPLASH PROOF GOGGLES.
+Other Protective Equipment:N/K 
+Work Hygienic Practices:N/K 
+Supplemental Safety and Health
+PART NO:(M72-A1 TNG SET,CHEM).
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:212F,100C
+Melt/Freeze Pt:M.P/F.P Text:N/K 
+Decomp Temp:Decomp Text:N/K 
+Spec Gravity:1.085 (WATER=1)
+Evaporation Rate & Reference:>1 (BUTYL ACETATE=1)
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR,LIGHT YELLOW SOLUTION WITH CHLORINE ODOR.
+Percent Volatiles by Volume:94
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS,STRONG BASES,SODIUM THIOCYANATE (B-2 AGENT SIMULANT).
+Stability Condition to Avoid:N/K 
+Hazardous Decomposition Products:CHLORINE,HYDROGEN CHLORIDE.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE IN ACCORDANCE WITH
+    FEDERAL,STATE AND LOCAL REGULATIONS.COORDINATION WITH SUPPORTING
+    INSTALLATION AND/OR MACOM ENVIRONMENTAL COORDINATION PRIOR TO
+    DISPOSAL IS RECOMMENDED TO DETERMINE  APPROPRIATE DISPOSAL METHODS
+    .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

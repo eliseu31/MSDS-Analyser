@@ -1,0 +1,159 @@
+=====================  Product Identification  =====================
+
+Product ID:FP-93A(M) PENETRANT
+MSDS Date:01/01/1997
+FSC:6850
+NIIN:00-782-2732
+Status Code:A
+MSDS Number: CJQCV
+=== Responsible Party ===
+Company Name:MET-L-CHEK COMPANY
+Address:1639 EUCLID ST
+City:SANTA MONICA
+State:CA
+ZIP:90404-3770
+Country:US
+Info Phone Num:310-450-1111
+Emergency Phone Num:310-450-1111
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:98733
+=== Contractor Identification ===
+Company Name:MET-L-CHEK COMPANY
+Address:1639 EUCLID ST
+Box:00000
+City:SANTA MONICA
+State:CA
+ZIP:90404
+Country:US
+Phone:310-450-1111/FAX 310452-4046
+Contract Num:SP0450-99-M-C631
+CAGE:98733
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PETROLEUM HYDROCARBON SEVERELY HYDROTREATED MIDDLE
+    DISTILLATE
+CAS:64742-46-7
+RTECS #:JN9379645
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:5 MG/M3 OIL MIST
+ACGIH TLV:5 MG/M3 OIL MIST
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:TARGET ORGANS: N/P. HEALTH HAZARDS:
+    EYE CONTACT - PRESUMED NON-IRRITATING. SKIN CONTACT - SLIGHTLY
+    IRRITATING. INHALATION - VAPORS OR OIL MIST MAY CAUSE MILD
+    IRRITATION OF UPPER RESPIRATORY TRACT. ING ESTION - MAY RESULT IN
+    VOMITING. ASPIRATION MUST BE AVOIDED.
+Effects of Overexposure:SKIN CONTACT- IRRITATION. INGESTION- POSSIBLE
+    VOMITING.
+Medical Cond Aggravated by Exposure:PRE-EXISTING SKIN AND RESPIRATORY
+    DISORDERS MAY BE AGGRAVATED BY EXPOSURE TO THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE CONTACT - FLUSH WITH WATER. SKIN CONTACT - FLUSH W/WATER,
+    WASH WITH SOAP AND WATER. INHALATION - REMOVE TO FRESH AIR, PROVIDE
+    OXYGEN IF BREATHING IS DIFFICULT. INGESTION - DO NOT INDUCE
+    VOMITING.  GET MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:=98.9C, 210.F
+Extinguishing Media:USE WATER FOG, FOAM, DRY CHEMICAL, CO2. DO NOT USE
+    DIRECT STREAM OF WATER.
+Fire Fighting Procedures:MATERIAL WILL NOT BURN UNLESS PREHEATED. DO
+    NOT ENTER CONFINED FIRE-SPACE WITHOUT FULL BUNKER GEAR, INCLUDING A
+    POSITIVE PRESSURE NIOSH APPROVED SELF-CONTAINED BREATHING
+    APPARATUS.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SOAK UP WITH ABSORBENT SUCH AS CLAY, SAND, OR
+    OTHER SUITABLE MATERIAL. DISPOSE OF IN ACCORDANCE WTH FEDERAL AND
+    STATE REGULATIONS FOR OIL RESIDUE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM HEAT, OPEN FLAMES AND
+    OXIDIZING MATERIALS.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF EXPSOURE EXCEEDS TLV USE NIOSH APPROVED
+    RESPIRATOR TO PREVENT OVEREXPOSURE.
+Ventilation:LOCAL EXHAUST OR MECHANICAL VENTILATION:TO MAINTAIN TLV.
+Protective Gloves:CHEMICAL RESISTANT TO MINIMIZE SKIN CONTACT.
+Eye Protection:NO SPEICAL PROTECTION REQUIRED.
+Other Protective Equipment:AS REQUIRED TO MINIMIZE SKIN CONTACT.
+Work Hygienic Practices:MINIMIZE SKIN CONTACT.	WASH WITH SOAP AND
+    WATER BEFORE EATING, DRINKING, SMOKING OR USING TOILET.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V5
+Boiling Pt:>204.4C, 400.F
+Melt/Freeze Pt:=-59.4C, -75.F
+Spec Gravity:ABOUT 0.86
+Solubility in Water:INSOLUBLE
+Appearance and Odor:YELLOW-GREEN LIQUID, SLIGHT HYDROCARBON ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING MATERIALS
+Stability Condition to Avoid:HEAT, OPEN FLAMES AND OXIDIZING MATERIALS.
+Hazardous Decomposition Products:CAN PRODUCE CARBON MONOXIDE & OTHER
+    UNIDENTIFIED ORGANIC COMPOUNDS
+Conditions to Avoid Polymerization:HEAT, OPEN FLAMES & OXIDIZING
+    MATERIALS.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:NONE SPECIFIED BY MANUFACTURER.
+
+=====================  Ecological Information  =====================
+
+Ecological:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PLACE IN APPROPRIATE DISPOSAL FACILITY IN
+    ACCORDANCE WITH LOCAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:NONE SPECIFIED BY MANUFACTURER.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:NONE SPECIFIED BY MANUFACTURER.
+Federal Regulatory Information:NONE SPECIFIED BY MANUFACTURER.
+State Regulatory Information:CALIFORNIA PROPOSITION 65
+    NOTICE-DETECTABLE AMOUNTS OF SOME CHEMICALS KNOWN TO THE STATE OF
+    CALIFORNIA TO CAUSE BIRTH DEFECTS OR OTHER REPRODUCTIVE HARM MAY BE
+    FOUND IN VARIOUS PRODUCTS YOU PURCHASE F ROM MET-L-CHEK, IN THEIR
+    VAPORS OR MAY RESULT FROM THEIR USE.  READ AND FOLLOW LABEL
+    DIRECTIONS AND INFORMATION GIVEN ON MATERIAL SAFETY DATA SHEETS,
+    AND USE CARE WHEN HANDLING OR USING ALL NON-DESTRU CTIVE TEST
+    CHEMICAL PRODUCTS.	FOR FURTHER INFORMATION, CONTACT THE MET-L-CHEK
+    COMPANY, 1639 EUCLID  ST SANTA MONICA CA 90404.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

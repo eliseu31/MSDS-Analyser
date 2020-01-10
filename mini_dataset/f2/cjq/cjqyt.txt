@@ -1,0 +1,132 @@
+=====================  Product Identification  =====================
+
+Product ID:STAINBLASTER B, 16640
+MSDS Date:01/02/1997
+FSC:7930
+NIIN:00N092082
+Status Code:A
+MSDS Number: CJQYT
+=== Responsible Party ===
+Company Name:ECOLAB INC
+Address:ECOLAB CENTER
+City:ST PAUL
+State:MN
+ZIP:55102
+Country:US
+Info Phone Num:800-352-5326
+Emergency Phone Num:800-328-0026
+CAGE:85884
+=== Contractor Identification ===
+Company Name:ECOLAB PROFESSIONAL PRODUCTS DIVISION OF ECOLAB INC.
+Address:ECOLAB CENTER
+Box:City:ST PAUL
+State:MN
+ZIP:55102
+Country:US
+Phone:800-352-5326
+CAGE:85884
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM HYPOCHLORITE
+CAS:7681-52-9
+RTECS #:NH3486300
+= Wt:1.
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:NON-HAZARDOUS INGREDIENTS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EFFECTS OF OVEREXP TO CONCENTRATE:
+    SKIN AND EYES: CAUSES CHEMICAL BURNS. EYE CONTACT MAY CAUSE
+    BLINDNESS. IF SWALLOWED: HARMFUL. CAUSES CHEMICAL BURNS OF MOUTH,
+    THROAT AND STOMACH. IF INHALED: VAPORS  OR MIST CAUSE IRRITATION,
+    INCLUDING A BURNING TASTE, SNEEZING, COUGHING AND DIFFICULTY
+    BREATHING. PEOPLE WITH ASTHMA OR OTHER LUNG PROBLEMS MAY BE MORE
+    AFFECTED.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH AT ONCE W/COOL RUNNING WATER. REMOVE CONT LENSES.
+    CONTINUE FLUSHING FOR AT LST 15 MINS, HOLDING EYELIDS APART SO AS
+    TO RINSE ENTIRE EYE. CALL PHYS IMMED. SKIN: IMMEDIATELY FLUSH
+    W/PLENTY O F COOL RUNNING WATER FOR AT LST 15 MINS WHILE REMOVING
+    CONTAMINATED CLOTHING & SHOES; DISCARD OR WASH WELL BEFORE REUSE.
+    IF SWALLOWED: RINSE MOUTH AT ONCE, THEN DRINK 1-2 LG GLASSES OF
+    WATER. DO NOT I NDUCE VOMIT. NEVER GIVE ANYTHING BY MOUTH TO UNCON
+    PERSON. IF INHALED: IMMEDIATELY MOVE TO FRESH AIR. IMMED CALL MED
+    EMER NUMBER, 1-800-328-0026, A POIS CTL CTR/PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:MEDIA SUITABLE FOR SURROUNDING FIRE .
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:PRODUCT DOES NOT SUPPORT COMBUSTION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPER PROTECTIVE EQUIPMENT. CLEANUP: DIKE
+    OR DAM LARGE SPILLS. PUMP TO CONTAINERS OR SOAK UP ON INERT
+    ABSORBENT. FLUSH RESIDUE TO SANITARY SEWER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP OUT OF REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AVOID BREATHING MISTS OR VAPORS OF THIS PRODUCT.
+    NIOSH APPROVED RESPIRATOR APPROPRIATE FOR EXPOSURE OF CONCERN .
+Protective Gloves:INDUSTRIAL RUBBER GLOVES.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES AND FULL LENGTH
+    FACESHIELD .
+Other Protective Equipment:ANSI APPROVED EYE WASH & DELUGE SHOWER .
+    OTHER PROTECTION NECESSARY TO AVOID SKIN CONTACT.
+Supplemental Safety and Health
+SOL IN H*2O: MIXES WITH WATER IN ALL PROPORTIONS.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:>100.C, 212.F
+Spec Gravity:1.00-1.10
+pH:10.5-11.5(100%)
+Solubility in Water:SUPDAT
+Appearance and Odor:CLEAR LIGHT YELLOW LIQUID WITH CHLORINE ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+DO NOT MIX WITH ACIDS OR AMMONIA - WILL CAUSE HAZARDOUS VAPORS.
+Stability Condition to Avoid:MIX ONLY WITH WATER. DO NOT MIX WITH ACIDS
+    OR AMMONIA - WILL CAUSE HAZARDOUS VAPORS.
+Hazardous Decomposition Products:HIGH TEMPERATURES MAY GENERATE
+    HAZARDOUS DECOMPOSITION PRODUCTS INCLUDING CHLORINE GAS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:UNUSED PRODUCT IS RCRA CORROSIVE (D002).
+    DISPOSAL MUST BE IN ACCORDANCE WITH FEDERAL, STATE, AND LOCAL
+    REGULATIONS .
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:NO SARA 313 TOXIC CHEMICALS PRESENT IN
+    PRODUCT.
+Federal Regulatory Information:THIS PRODUCT CONTAINS NO OTHER
+    COMPONENTS CONSIDERED HAZARDOUS ACCORDING TO THE CRITERIA OF 29 CFR
+    1910.1200.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

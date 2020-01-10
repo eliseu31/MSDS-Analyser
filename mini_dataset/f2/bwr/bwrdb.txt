@@ -1,0 +1,157 @@
+=====================  Product Identification  =====================
+
+Product ID:URALITE 3130 PART A
+MSDS Date:06/01/1991
+FSC:8030
+NIIN:01-152-0971
+Kit Part:Y
+MSDS Number: BWRDB
+=== Responsible Party ===
+Company Name:HEXCEL CORP
+Address:20701 NORDHOFF ST
+Box:2197
+City:CHATSWORTH
+State:CA
+ZIP:91311
+Country:US
+Info Phone Num:818-882-3022
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+Preparer's Name:DEIRDRE S CRUTCHFIELD
+CAGE:0RNW1
+=== Contractor Identification ===
+Company Name:HEXCEL CORP
+Address:11555 DUBLIN BLVD
+Box:2197
+City:DUBLIN
+State:CA
+ZIP:94568
+Country:US
+Phone:415-828-4200
+CAGE:0RNW1
+Company Name:HEXCEL CORPORATION;CHEMICAL PRODUCTS DIVISION
+Address:20701-NORDHOFF STREET
+Box:2197
+City:CHATSWORTH
+State:CA
+ZIP:91311-5924
+Country:US
+Phone:818-882-3022
+CAGE:01490
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOCYANIC ACID, METHYLENEDI-4,1-CYCLOHEXYLENE ESTER;
+    (DICYCLOHEXYLMETHANE-4,4'DIISOCYANATE (AKA H*12 MDI))
+CAS:5124-30-1
+RTECS #:NQ9250000
+Fraction by Wt: 10-20%
+OSHA PEL:C 0.01 PPM
+ACGIH TLV:0.005 PPM
+
+Ingred Name:POLYPROPYLENE POLYETHYLENE POLYGLYCOL/H*12 MDI POLYMER
+CAS:68310-52-1
+Fraction by Wt: 80-90%
+
+Ingred Name:VOLATILE ORGANIC CONTENT:24 GRAMS/LITER
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:SKIN EXPOSURE MAY CAUSE
+    IRRITATION. REPEATED OR PROLONGED EXPOSURE CAN RESULT IN DERMATITIS
+    AND SKIN SENSITIZATION (ALLERGIC EFFECTS). VAPORS ARE EXCEEDINGLY
+    IRRITATING TO MUCOUS MEMBRANE AND EY ES, CAUSING ACUTE TEMPORARY
+    CHEST DISCOMFORT AND BREATHING DIFFICULTY. VAPORS CAN CAUSE
+    RESPIRATORY (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ:SENSITIZATION IN SUSPECTIBLE PEOPLE.
+    SEVERE IRRITATION AND/OR SENSITIZATION MAY RESULT FROM OVEREXPOSURE
+    TO THIS PRODUCT. INGESTION MAY CAUSE GASTRO-INTESTINAL BURNING AND
+    DISCOMFORT.
+Medical Cond Aggravated by Exposure:PRE-EXISTING EYE, SKIN AND
+    RESPIRATORY DISORDERS MAY BE AGGRAVATED BY EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:IMMED FLUSH W/PLENTY OF WATER FOR @ LEAST 15 MINS. GET
+    MED ATTN. SKIN:IMMED WASH W/SOAP & PLENTY OF WATER. WASH CONTAMD
+    CLTHG BEFORE RE-USE & DESTROY CONTAMD SHOES. INHAL:REMOVE TO FRESH
+    AIR. IF  NOT BRTHG, GIVE ARTF RESP, PREFERABLY MOUTH-TO-MOUTH. IF
+    BRTHG IS DFCLT, GIVE OXYG. GET MED ATTN. INGEST:GET MED ATTN IMMED.
+    INDUCE VOMIT ONLY UPON ADVICE OF PHYS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:430F,221C
+Extinguishing Media:USE CO*2 OR DRY CHEMICAL FOR SMALL FIRES, AND WATER
+    AND FOAM FOR LARGE ONES.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONTAIN W/SUITABLE DIKING MATL. VENTILATE AREA
+    THORO. KEEP ALL UNNEC PEOPLE AWAY. SPILLED MATL SHOULD BE ABSORB IN
+    SAWDUST, SAND/OTHER ABSORB. PLACE IN OPEN-TOP CNTNR. NEUT W/SOLN OF
+    90-95% WATER, 5-8 % CONCENTRATED AMMONIA & 1-2% DETERGENT(SUPDAT)
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL DRY AREA IN TIGHTLY
+    CLOSED CONTAINERS. AVOID MOISTURE CONTAMINATION.
+Other Precautions:AVOID BREATHING VAPORS. KEEP AWAY FROM HEAT, SPARKS,
+    AND OPEN FLAMES. USE ADEQUATE VENTILATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN .
+Ventilation:IF HANDLED INDOORS, PROVIDE MECHANICAL EXHAUST VENTILATION.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPRVD SAFETY GLASSES .
+Other Protective Equipment:EYEWASH FOUNTAIN & DELUGE SHOWER MEETING
+    ANSI DESIGN CRITERIA .
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+SPILL RELEASE:BEFORE DISP. KEEP CNTNR OPEN FOR @ LEAST 15 HRS SO THAT
+    EVOLVED CARBON DIOXIDE CAN ESCAPE.
+
+==================  Physical/Chemical Properties  ==================
+
+Vapor Density:1.03
+Evaporation Rate & Reference:NOT KNOWN
+Solubility in Water:NOT KNOWN
+Appearance and Odor:CLEAR TO SLIGHTLY YELLOW LIQUID WITH A FAINTLY
+    SWEET ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CONTACT W/WATER, ALCOHOLS, STRONG BASES, METAL COMPOUNDS OR SURFACE
+    ACTIVE MATERIALS.
+Stability Condition to Avoid:STORE IN COOL, WELL VENTILATED AREA IN
+    TIGHTLY CLOSED CONTAINERS. AVOID MOISTURE CONTAMINATION.
+Hazardous Decomposition Products:CARBON DIOXIDE, CARBON MONOXIDE, AND
+    NITROGEN OXIDES. ISOCYANATE VAPORS & MISTS MAY ALSO EVOLVE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTROLLED INCIN/BURIED LANDFILL DISPOSAL SHOULD
+    BE I/A/W ALL FEDERAL, STATE AND LOCAL ENVIRONMENTAL CONTROL
+    REGULATIONS.
+
+ ======================================================================
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

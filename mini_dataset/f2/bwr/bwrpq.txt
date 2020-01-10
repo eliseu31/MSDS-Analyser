@@ -1,0 +1,150 @@
+=====================  Product Identification  =====================
+
+Product ID:SUPER JAGUAR, 4391
+MSDS Date:08/02/1992
+FSC:8520
+NIIN:00N057124
+MSDS Number: BWRPQ
+=== Responsible Party ===
+Company Name:CERTIFIED LABS DIV NCH CORP
+Address:2727 CHEMSEARCH BLVD
+Box:152170
+City:IRVING
+State:TX
+ZIP:75015
+Country:US
+Info Phone Num:214-438-1381
+Emergency Phone Num:214-438-1381
+Preparer's Name:B SANFORD
+CAGE:20913
+=== Contractor Identification ===
+Company Name:NCH CORP
+Address:2727 CHEMSEARCH BLVD
+Box:152170
+City:IRVING
+State:TX
+ZIP:75015-2170
+Country:US
+Phone:972-438-0563
+CAGE:20913
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:GLYCOLS, POLYETHYLENE, MONO (P-NONYLPHENYL) ETHER; (NONYL
+    PHENOL POLYETHYLENE GLYCOL). LD50 (ORAL,RAT):1310 MG/KG.
+CAS:26027-38-3
+RTECS #:MD0906000
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:CYCLOHEXENE, 1-METHYL-4-(1-METHYLETHENYL)-, (R)-; (ORANGE
+    TERPENES). LD50 (ORAL,RAT): 4400 MG/KG.
+CAS:5989-27-5
+RTECS #:GW6360000
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:POLYETHYLENE
+CAS:9002-88-4
+RTECS #:TQ3325000
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:GLYCOLS, POLYETHYLENE, MONO(NONYLPHENYL) ETHER;
+    (NONYLPHENOL POLYETHOXATE)
+CAS:9016-45-9
+RTECS #:MD0900000
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE INGREDIENTS.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: DIRECT CONTACT WITH EYES MAY
+    CAUSE IRRITATION. MAY CAUSE NAUSEA AND DIZZINESS IF INGESTED IN
+    LARGE QUANTITIES. CHRONIC: DIRECT CONTACT WITH EYES FOR PROLONGED
+    PERIOD OF TIME CAN CAUSE CORNEAL D AMAGE.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: REMOVE FROM AREA TO FRESH AIR. SEEK MED ATTN IF RESP
+    IRRIT DEVELOPS OR IF BRTHG BECOMES DFCLT. EYE: RINSE WITH WATER.
+    REMOVE ANY CONTACT LENSES AND CONTINUE FLUSHING WITH PLENTY OF
+    WATER FOR AT  LEAST 15 MINS. SEEK MED ATTN IF IRRIT DEVELOPS. SKIN:
+    WASH AFFECTED AREAS W/SOAP & WATER FOR SEVERAL MINS. SEEK MED ATTN
+    IF IRRIT DEVELOPS. INGEST: GIVE 3-4 GLASSES OF WATER,BUT DO NOT
+    INDUCE(SUPDAT)
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:155F,68C
+Extinguishing Media:FOAM, "ALCOHOL" FOAM, CARBON DIOXIDE, DRY CHEMICAL,
+    WATER SPRAY.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT . PRODUCT IS COMBUSTIBLE. USE EXTINGUISHING
+    MEDIA SUITABLE FOR SURROUNDING FIRE.
+Unusual Fire/Explosion Hazard:NONE KNOWN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SCOOP UP WITH SHOVEL OR WIPE UP WITH RAGS.
+    PLACE IN CLOSED CONTAINER. FLUSH AREA WITH WATER.
+Neutralizing Agent:FLUSH WITH LARGE AMOUNTS OF WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:MAX STORAGE TEMPERATURE: 120F, MINIMUM
+    STORAGE TEMPERATURE: 32F. STORE AT MODERATE TEMPERATURES.
+Other Precautions:KEEP OUT OF REACH OF CHILDREN. READ ENTIRE LABEL
+    BEFORE USING PRODUCT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE
+    FOR EXPOSURE OF CONCERN .
+Ventilation:GENERAL VENTILATION SUFFICIENT TO KEEP AIRBORNE
+    CONCENTRATION BELOW CURRENT EXPOSURE LIMITS .
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGG .
+Other Protective Equipment:NOT APPLICABLE.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+FIRST AID PROCEDURES: VOMITING. IF VOMITING OCCURS GIVE FLUIDS AGAIN.
+    SEEK MEDICAL ATTENTION.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:212F,100C
+Spec Gravity:0.986 (H*2O=1)
+pH:8.6
+Solubility in Water:APPRECIABLE
+Appearance and Odor:LIGHT ORANGE, OPAQUE, SEMI-VISCOUS, CITRUS ODOR.
+Percent Volatiles by Volume:90
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NOT APPLICABLE.
+Stability Condition to Avoid:NOT APPLICABLE.
+Hazardous Decomposition Products:ACRID SMOKE AND IRRITATING FUMES UPON
+    THERMAL DECOMPOSITION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH STATE, FEDERAL AND
+    LOCAL REGULATIONS CONCERNING POLLUTION.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

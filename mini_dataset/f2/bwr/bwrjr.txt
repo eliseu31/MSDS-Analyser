@@ -1,0 +1,121 @@
+=====================  Product Identification  =====================
+
+Product ID:DRY LUBE
+MSDS Date:03/21/1995
+FSC:9620
+NIIN:00-233-6712
+MSDS Number: BWRJR
+=== Responsible Party ===
+Company Name:ASBURY GRAPHITE MILLS INC
+Address:41 MAIN STREET
+City:ASBURY
+State:NJ
+ZIP:08802-1222
+Country:US
+Info Phone Num:908-537-2155 / FAX 908-537-2908
+Emergency Phone Num:908-537-2155
+CAGE:84195
+=== Contractor Identification ===
+Company Name:ASBURY GRAPHITE MILLS INC
+Address:405 OLD MAIN STREET
+Box:City:ASBURY
+State:NJ
+ZIP:08802
+Country:US
+Phone:908-537-2155
+CAGE:84195
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:GRAPHITE
+CAS:7782-42-5
+RTECS #:MD9659600
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:15 MPPCF; Z-3
+ACGIH TLV:2 MG/M3 RDUST; 9394
+
+Ingred Name:SILICA
+CAS:14808-60-7
+RTECS #:VV7330000
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:10 MG/M3 RDUST; Z-3
+ACGIH TLV:0.1 MG/M3 RDUST;9394
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:CASES OF PULMONARY FIBROSIS, EMPHYSEMA
+    AND CORPULMONALE MAY RESULT FROM PROLONGED INHALATION OF DUST
+    (CHRONIC). MINOR SKIN &/OR EYE IRRITATION MAY OCCUR.
+Explanation of Carcinogenicity:PER MSDS:CRYSTALINE SILICA HAS BEEN
+    IDENTIFIED AS PROBABLE HUMAN CARCINOGEN.
+Effects of Overexposure:INHALATION:NOSE &/OR THROAT IRRITATION,
+    HSORTNESS OF BREAHT. SKIN/EYE:REDNESS OF SKIN, IRRITATION OF EYES.
+Medical Cond Aggravated by Exposure:EMPHYSEMA, ASTHMA, OR OTHER
+    RESPIRATORY PROBLEMS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:REMOVE FROM DUST AREA. SEEK MED ATTN IF SYMPTOMS
+    PERSIST. SKIN:WASH W/MILD SOAP & WATER. EYES:RINSE EYES W/STERILE
+    EYE WASH. SEEK MED ATTN IF ANY IRRITATION PERSISTS.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER.
+Fire Fighting Procedures:SPRAY WITH WATER.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP OR VACUUM.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:HANDLE & TRANSFER IN A MANNER WHICH
+    AVOIDS EXCESSIVE DUSTING. STORE AWAY FROM OXIDIZING AGENTS.
+Other Precautions:GRAPHITE IS A GOOD CONDUCTOR OF ELECTRICITY.
+    EXCERCISE CAUATION WHEN HANDLING GRAPHITE IN AREAS WHERE CONTACT
+    WITH ELECTRICAL CIRCUITRY IS POSSIBLE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE OSHA APPROVED RESPIRATOR FOR NUISANCE DUST.
+Ventilation:LOCAL EXHAUST:TO DUST COLLECTOR. MECHANICAL (GENERAL):TO
+    MAINTAIN DUST LEVEL BELOW ACGIH-TLV.
+Protective Gloves:CONVENTIONAL WORK GLOVES
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:NOT REQUIRED.
+Work Hygienic Practices:KEEP WORK AREA CLEAN. USE ADEQUATE DUST
+    COLLECTION/VENTILATION TO MAINTAIN LEVELS OF DUST BELOW ACGIH-TLV.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Spec Gravity:2.19-2.26
+Solubility in Water:INSOLUBLE
+Appearance and Odor:GREY TO BLACK, NO ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING AGENTS.
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:CO2, CO (CARBON MONOXIDE AND CARBON
+    DIOXIDE).
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF AN APPROVED MANNER BASED ON
+    FEDERAL/LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

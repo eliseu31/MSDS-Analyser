@@ -1,0 +1,141 @@
+=====================  Product Identification  =====================
+
+Product ID:BUFFER QX1, 20021
+MSDS Date:09/22/1997
+FSC:6550
+NIIN:01-415-0073
+MSDS Number: CJQNH
+=== Responsible Party ===
+Company Name:QIAGEN INC
+Address:28159 AVENUE STANFORD
+City:SANTA CLARITA
+State:CA
+ZIP:91355
+Country:US
+Info Phone Num:800-362-7737
+Emergency Phone Num:800-362-7737
+CAGE:01QTQ
+=== Contractor Identification ===
+Company Name:QIAGEN INC
+Address:28159 AVENUE STANFORD
+Box:City:SANTA CLARITA
+State:CA
+ZIP:91355
+Country:US
+Phone:800-362-7737
+CAGE:01QTQ
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM PERCHLORATE MONOHYDRATE
+CAS:7791-07-3
+RTECS #:SC9850000
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:WARNING: STRONG OXIDIZER, HARMFUL.
+    HARMFUL IF INHALED OR SWALLOWED. CAUSES EYE AND SKIN IRRITATION.
+    MATERIAL IS IRRITATING TO MUCOUS MEMBRANES AND UPPER RESPIRATORY
+    TRACT. TARGET ORGANS: THYROID, BLOO D.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE CONTACT: IMMEDIATELY FLUSH EYES WITH COPIOUS AMOUNTS OF
+    WATER FOR AT LEAST 15 MINUTES. ASSURE ADEQUATE FLUSHING OF EYES BY
+    SEPARATING EYELIDS WITH FINGERS. SKIN CONTACT: IMMEDIATELY WASH
+    SKIN WITH  SOAP AND COPIOUS AMOUNTS OF WATER. INHALATION: REMOVE TO
+    FRESH AIR. IF NOT BREATHING GIVE ARTIFICIAL RESPIRATION. IF
+    BREATHING IS DIFFICULT, GIVE OXYGEN. INGESTION: WASH OUT MOUTH WITH
+    WATER PROVIDED  PERSON IS CONSCIOUS. CALL A PHYSICIAN. REMOVE AND
+    WASH CONTAMINATED CLOTHING PROMPTLY.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:NONCOMBUSTIBLE. USE EXTINGUISHING MEDIA APPROPRIATE
+    TO SURROUNDING FIRE CONDITIONS.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT .
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR NIOSH APPROVED SELF-CONTAINED BREATHING
+    APPARATUS, CHEMICAL SAFETY GOGGLES, RUBBER BOOTS AND HEAVY RUBBER
+    GLOVES. ABSORB ON SAND OR VERMICULITE AND PLACE IN CLOSED
+    CONTAINERS FOR DISPOSAL. VENTIL ATE AREA AND WASH SPILL SITE AFTER
+    MATERIAL PICKUP IS COMPLETE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE TIGHTLY CLOSED AT 20-25C.
+Other Precautions:SEVERE EYE IRRITANT. KEEP TIGHTLY CLOSED. STORE IN A
+    DRY PLACE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED RESPIRATOR.
+Ventilation:MECHANICAL EXHAUST REQUIRED.
+Protective Gloves:RUBBER GLOVES.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:ANSI APPROVED EYE WASH AND DELUGE SHOWER .
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING. DO NOT GET IN
+    EYES, ON SKIN, OR ON CLOTHING. DO NOT BREATHE VAPOR.
+Supplemental Safety and Health
+WASTE DISP METH: HANDLE CONTAMINATED PACKAGING IN THE SAME WAY AS THE
+    SUBSTANCE ITSELF. UNLESS SPECIFIED DIFFERENTLY, NONCONTAMINATED
+    PACKAGING MAY BE TREATED LIKE HOUSEHOLD WASTE OR RECYCLED.
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:1.53 (20C)
+pH:5.1 (20C)
+Solubility in Water:SOLUBLE (20C)
+Appearance and Odor:YELLOW LIQUID; NO ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+REDUCING AGENTS, STRONG ACIDS, ORGANIC MATERIALS.
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE AND
+    HYDROGEN CHLORIDE GAS.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:TOXICITY DATA: IPR-MUS LD50: 1150 MG/KG
+    JAFCAU 14,512,66. ONLY SELECTED REGISTRY OF TOXIC EFFECTS OF
+    CHEMICAL SUBSTANCES (RTECS) DATA IS PRESENTED HERE. SEE ACTUAL
+    ENTRY IN RTECS FOR COMPLETE INFORMAT ION.
+
+=====================  Ecological Information  =====================
+
+Ecological:N/A.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE I/A/W FEDERAL, STATE & LOCAL
+    REGS . THERE ARE NO UNIFORM REGS FOR THE DISPOSAL OF CHEMICALS OR
+    RESIDUES. CHEMICAL RESIDUES GENERALLY COUNT AS SPECIAL WASTE. WE
+    RECOMMEND THAT YO U CONTACT EITHER THE AUTHORITIES IN CHARGE OR
+    APPROVED WASTE DISPOSAL COMPANIES WHICH WILL ADVISE YO U ON HOW TO
+    DISPOSE OF SPECIAL WASTE. (SUPDAT)
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:N/A.
+
+=====================  Regulatory Information  =====================
+
+Federal Regulatory Information:LABELING: SN, HARMFUL, R 22.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,132 @@
+=====================  Product Identification  =====================
+
+Product ID:LIQUID ACIDIC DESCALER
+MSDS Date:01/01/1987
+FSC:6850
+NIIN:00-755-4728
+MSDS Number: BLPFV
+=== Responsible Party ===
+Company Name:CHEMED CORP DUBOIS CHEMICAL CO
+Address:1300 DUBOIS TOWER
+City:CINCINNATI
+State:OH
+ZIP:45202
+Country:US
+Emergency Phone Num:513-554-4200
+Preparer's Name:M. ANTOSIAK
+CAGE:72008
+=== Contractor Identification ===
+Company Name:DIVERSEY LEVER INC DUBOIS CHEMICALS DIV
+Address:3630 E KEMPER RD
+Box:City:SHARONVILLE
+State:OH
+ZIP:45241
+Country:US
+Phone:513-554-4200/ 800-543-4906
+CAGE:72008
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HYDROGEN CHLORIDE  (HYDROCHLORIC ACID)  (SARA III)
+CAS:7647-01-0
+RTECS #:MW4025000
+Fraction by Wt: <2%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:C 5 PPM
+ACGIH TLV:C 5 PPM; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:PHOSPHORIC ACID  (SARA III)
+CAS:7664-38-2
+RTECS #:TB6300000
+Fraction by Wt: <30%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:1 MG/M3/3 STEL
+ACGIH TLV:1 MG/M3/3 STEL; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:CORROSIVE TO SKIN AND EYES. MISTS ARE
+    CORROSIVE TO SKIN, EYES, AND RESPIRATORY TRACT.
+Effects of Overexposure:SEVERE IRRITATION AND BURNING OF TISSUES.
+Medical Cond Aggravated by Exposure:SENSITIVE SKIN AND EYES.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR.  EYES: FLUSH THOROUGHLY WITH
+    FRESH WATER, FOR AT LEAST 15 MIN. GET MEDICAL ATTENTION.  SKIN:
+    FLUSH WITH FRESH WATER, WASH WITH SOAP AND WATER. REMOVE
+    CONTAMINATED CLOT HES AND SHOES.  INGESTION: GIVE MILK ORWATER, DO
+    NOT INDUCE VOMITING. GET MEDICAL ATTENTION. NEVER GIVE ANYTHING BY
+    MOUTH TO AN UNCONSCIOUS PERSON.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:CARBON DIOXIDE, FOAM.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS AND
+    FULL PROTECTIVE CLOTHING WHEN FIGHTING FIRES INVOLVING CHEMICALS.
+Unusual Fire/Explosion Hazard:THIS MATERIAL IS CORROSIVE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WIPE UP SMALL AMOUNTS. RESTRICT LARGE AMOUNTS
+    AND NEUTRALIZE WITH BICARBONATE OF SODA. PUT RESIDUE INTO SOLID
+    WASTE.
+Neutralizing Agent:BICARBONATE OF SODA.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT PRESSURE CONTAINER TO EMPTY.
+    KEEP FROM FREEZING. KEEP CAP ON CONTAINER.
+Other Precautions:THIS IS A CORROSIVE MATERIAL.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE A NIOSH-APPROVED ORGANIC VAPOR RESPIRATOR
+    WITH A HIGH EFFICIENCY PARTICULATE FILTER.
+Ventilation:LOCAL VENTILATION.
+Protective Gloves:ACID RESISTANT
+Eye Protection:GOGGLES WHEN POURING
+Other Protective Equipment:WEAR CHEMICAL APRON WHEN HANDLING.
+Work Hygienic Practices:WASH HANDS THOROUGHLY AFTER HANDLING THIS
+    PRODUCT.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C1
+Boiling Pt:B.P. Text:215F,102C
+Vapor Pres:17.5
+Spec Gravity:1.19
+Evaporation Rate & Reference:>1 (N-BUTYL ACETATE=1)
+Solubility in Water:SOLUBLE
+Appearance and Odor:RED LIQUID, PUNGENT ODOR.
+Percent Volatiles by Volume:60
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CONCENTRATED ALKALI, REACTIVE METALS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:HYDROCHLORIC ACID AND CARBON MONOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE, AND
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

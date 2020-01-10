@@ -1,0 +1,164 @@
+=====================  Product Identification  =====================
+
+Product ID:FLOQUIL RAILROAD COLORS FLOQUIL MILITARY (S
+MSDS Date:12/15/1988
+FSC:8010
+NIIN:00N021522
+MSDS Number: BLMLZ
+=== Responsible Party ===
+Company Name:FLOQUIL-POLLYS COLOR CORP
+Address:ROUTE 30 NORTH
+City:AMSTERDAM
+State:NY
+ZIP:12010-9204
+Country:US
+Info Phone Num:518-843-3610
+Emergency Phone Num:518-843-3610
+Preparer's Name:JOE GABA
+CAGE:IO092
+=== Contractor Identification ===
+Company Name:FLOQUIL-POLLY S COLOR CORP
+Address:RT 30 N
+Box:City:AMSTERDAM
+State:NY
+ZIP:12010-9204
+Country:US
+Phone:518-843-3610
+CAGE:90398
+Company Name:FLOQUIL-POLLYS COLOR CORP
+Address:ROUTE 30 NORTH
+Box:City:AMSTERDAM
+State:NY
+ZIP:12010-9204
+Country:US
+Phone:518-843-3610
+CAGE:IO092
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 10%
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS)	(SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 22%
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:AROMATIC NAPHTHA; (NAPHTHA, LT. AROMATIC)
+CAS:68516-20-1
+Fraction by Wt: >1%
+ACGIH TLV:50 PPM (MFR)
+
+Ingred Name:VM&P NAPHTHA (LIGROINE)
+CAS:8032-32-4
+RTECS #:OI6180000
+Fraction by Wt: >1%
+OSHA PEL:300 PPM/400 STEL
+ACGIH TLV:300 PPM; 9192
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: MAY CAUSE DIZZINESS, LOSS
+    OF BALANCE AND COORDINATION, UNCONSCIOUSNESS, RESPIRATORY FAILURE
+    AND DEATH.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:BREATHING DIFFICULTY, DIZZINESS, LIGHT-
+    HEADEDNESS, DRYNESS OF RESPIRATORY TRACT.
+Medical Cond Aggravated by Exposure:ANY MEDICAL CONDITION, ALLERGY,
+    SENSITIZATION WHICH MAY BECOME WORSE UPON EXPOSURE TO THE PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH IMMEDIATELY W/LARGE AMOUNTS OF WATER FOR A
+    MINIMUM OF 15 MINUTES. TAKE TO MD FOR TREATMENT. INHAL: REMOVE TO
+    FRESH AIR, RESTORE BRTHG. CONSULT MD. SKIN: WASH AREAS W/SOAP &
+    WATER. REMOVE C ONTAMINATED CLOTHING. CONSULT MD. INGEST: DILUTE BY
+    DRINKING 2 GLASSES OF WATER. DO NOT INDUCE VOMITING. CONSULT MD.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:56.0F,13.3C
+Lower Limits:1%
+Upper Limits:6.7%
+Extinguishing Media:WATER SPRAY, ALCOHOL FOAM, DRY CHEMICAL, FOAM, CO2,
+    OR ANY CLASS B EXTINGUISHING AGENT.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:IF WATER IS USED, FOG NOZZLES ARE
+    PREFERRED. VAPORS ARE HEAVIER THAN AIR AND MAY TRAVEL CONSIDERABLE
+    DISTANCE TO A SOURCE OF IGNITION AND FLASHBACK. (SUPP DATA)
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ISOLATE, ABSORB AND VENTILATE (OPEN ALL
+    DOORS). REMOVE ALL IGNITION SOURCES, FLAMES, HOT SURFACES. AVOID
+    BREATHING OF VAPORS. USE RESPIRATORY PROTECTIVE DEVICE.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID HIGH TEMPERATURES. DO NOT STORE
+    OR USE NEAR HEAT, SPARKS OR FLAME. PREVENT PROLONGED/REPEATED
+    BREATHING OF VAPOR OR SPRAY MIST.
+Other Precautions:DO NOT TAKE INTERNALLY. AVOID BREATHING OF VAPORS OR
+    DUST. KEEP OUT OF REACH OF CHILDREN. AVOID PROLONGED CONTACT WITH
+    SKIN. DO NOT GET IN EYES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR CARTRIDGE TYPE.
+Ventilation:MECHANICAL VENTILATION SUFFICIENT TO PREVENT EXCEEDING
+    LISTED TLV. USE EXPLOSION-PROOF EQUIPMENT.
+Protective Gloves:NEOPRENE (HAZARD B OR GREATER).
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Work Hygienic Practices:FOLLOW GOOD HOUSEKEEPING & PERSONAL HYGIENE.
+    PERSONAL CONTACT SHOULD BE AVOIDED.
+Supplemental Safety and Health
+MFR'S PART NO/TRADE NAME: & FLO-PAQUE COLORS. EXPLO HAZ: USE WATER FOG
+    TO COOL CONTAINERS TO PREVENT RUPTURING.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F3
+Boiling Pt:B.P. Text:230F,110C
+Vapor Pres:25
+Vapor Density:2
+Spec Gravity:1
+Evaporation Rate & Reference:1.6-1.8 (BUTYL ACETATE=1)
+Appearance and Odor:LIQUID COLORED (VARIOUS) AROMATIC ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING MATERIALS CAN CAUSE VIGOROUS REACTION.
+Hazardous Decomposition Products:COMBUSTION WILL PRODUCE FUMES, SMOKE,
+    CO2 AND PROBABLY CO.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W FEDERAL, STATE, AND LOCAL
+    REGULATIONS. BEFORE ATTEMPTING CLEAN-UP, REFER TO HAZARD CAUTION
+    INFORMATION.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

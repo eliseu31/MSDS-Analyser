@@ -1,0 +1,178 @@
+=====================  Product Identification  =====================
+
+Product ID:AEROSOL COATINGS 01944,FLAT BLK LAC.37038
+MSDS Date:08/01/1989
+FSC:8010
+NIIN:00-582-5382
+MSDS Number: BHWZN
+=== Responsible Party ===
+Company Name:SPRAYON PRODUCTS
+Address:26300 FARGO AVE
+City:BEDFORD HEIGHTS
+State:OH
+ZIP:44146-1310
+Country:US
+Info Phone Num:216-292-7400
+Emergency Phone Num:216-292-7400
+CAGE:5E481
+=== Contractor Identification ===
+Company Name:SPRAYON PRODUCTS
+Address:26300 FARGO AVE
+Box:City:BEDFORD HEIGHTS
+State:OH
+ZIP:44146-1310
+Country:US
+Phone:216-292-7400
+CAGE:5E481
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CARBON BLACK
+CAS:1333-86-4
+RTECS #:FF5800000
+Fraction by Wt: .620%
+OSHA PEL:3.5 MG/M3
+ACGIH TLV:3.5 MG/M3; 9192
+
+Ingred Name:ISOBUTYL ACETATE
+CAS:110-19-0
+RTECS #:AI2025000
+Fraction by Wt: 10%
+OSHA PEL:150 PPM
+ACGIH TLV:150 PPM/700 MG/M3
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:MAGNESIUM SILICATE (AS DUST)
+CAS:1343-90-4
+RTECS #:OM4360000
+Fraction by Wt: 4.34%
+ACGIH TLV:2.00 MG/M3
+
+Ingred Name:ISOBUTYL ALCOHOL  (SARA III)
+CAS:78-83-1
+RTECS #:NP9625000
+Fraction by Wt: <5%
+OSHA PEL:100 PPM
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: <5%
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ACETONE  (SARA III)
+CAS:67-64-1
+RTECS #:AL3150000
+Fraction by Wt: 45%
+OSHA PEL:1000PPM
+ACGIH TLV:750PPM/1000STEL;9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ETHYL ETHOXYPROPIONATE
+CAS:763-69-9
+RTECS #:UF3325000
+Fraction by Wt: 5%
+OSHA PEL:NONE ESTABLISHED
+ACGIH TLV:50 PPM
+
+Ingred Name:PROPANE
+CAS:74-98-6
+RTECS #:TX2275000
+Fraction by Wt: 15%
+OSHA PEL:1000 PPM
+ACGIH TLV:ASPHYXIANT; 9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:IN A CONFINED AREA VAPORS IN HIGH
+    CONCENTRATION ARE ANESTHETIC, IRRITANT TO SKINAND UPPER RESPIRATORY
+    SYSTEM. REPORTS HAVE ASSOCIATED REPEATED/PROLONGED OVEREX POSURE TO
+    SOLVENTS WITH PERMANENT BRAIN  AND NERVOUS SYSTEM DAMAGE, ALSO
+    KIDNEYAND LIVER DAMAGE.
+Effects of Overexposure:MAY RESULT IN LIGHT HEADEDNESS, STAGGERING
+    GAIT, GIDDINESS AND POSSIBLE NAUSEA. HARMFUL OR FATAL IF INGESTED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH WITH WATER FOR 15 MINUTES. 		       
+		      SKIN: WASH WITH SOAP AND WATER		       
+				  INHAL: REMOVE PATIENT TO FRESH
+    AIRINGST:  DO NOT INDUCE VOMITING, CALL PHYSICIAN IMMEDIATELY
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TOC
+Flash Point:<20F/-28.89C
+Extinguishing Media:CARBON DIOXIDE, DRY CHEMICAL, OR FOAM
+Fire Fighting Procedures:WATER MAY BE INEFFECTIVE,WATER MAY BE USED TO
+    KEEP FIRE EXPOSED CONTAINERS COOL.
+Unusual Fire/Explosion Hazard:DO NOT SPRAY NEAR OPEN FLAME. KEEP AT
+    ROOM TEMPERATURE AS EXPOSURE TO DIRECT SUNLIGHT OR OTHER HEAT MAY
+    CAUSE BURSTING
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. VENTILATE.
+    AVOID  BREATHING VAPORS AND REMOVE WITH INERT ABSORBENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT STORE ABOVE 120F. KEEP AT ROOM
+    TEMPERATURE AS EXPOSURE TO DIRECT SUNLIGHT OR HEAT MAY CAUSE 
+    BURSTING.
+Other Precautions:DO NOT PUNCTURE OR INCINERATE, DO NOT SPRAY NEAR FIRE
+    OR OPEN FLAME. KEEP OUT OFREACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AVOID BREATHING OF VAPOR OR SPRAY MIST.
+Ventilation:LOCAL EXHAUST VENTILATION
+Protective Gloves:RECOMMENDED
+Eye Protection:SAFETY GLASSES W/UNPERFORATED SIDESHIELD
+Supplemental Safety and Health
+NK
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V3
+Boiling Pt:B.P. Text:NR
+Melt/Freeze Pt:M.P/F.P Text:NA
+Vapor Pres:NA
+Vapor Density:>AIR
+Spec Gravity:NA
+Viscosity:KN
+Evaporation Rate & Reference:FASTER THAN ETHER
+Solubility in Water:NA
+Appearance and Odor:COATINGS
+Percent Volatiles by Volume:84
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:DO NOT STORE ABOVE 120F
+Hazardous Decomposition Products:CARBON MONOXIDE/DIOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DO NOT INCINERATE. DISPOSE OF IN ACCORDANCE WITH
+     FEDERAL, STATE, AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

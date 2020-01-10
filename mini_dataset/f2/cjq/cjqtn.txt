@@ -1,0 +1,167 @@
+=====================  Product Identification  =====================
+
+Product ID:5065 BUCKEYE MIDDLEWEIGHT CLEANER DEGREASER,WATER BASED
+MSDS Date:01/01/1997
+FSC:6850
+NIIN:01-412-8883
+MSDS Number: CJQTN
+=== Responsible Party ===
+Company Name:BUCKEYE INTERNATIONAL INC
+Address:2700 WAGNER PLACE
+City:MARYLAND HEIGHTS
+State:MO
+ZIP:63043
+Country:US
+Info Phone Num:314-291-1900
+Emergency Phone Num:800-228-5635 EXT 076
+Preparer's Name:MARK GINDLING
+CAGE:0YG51
+=== Contractor Identification ===
+Company Name:BUCKEYE INTERNATIONAL INC
+Address:2700 WAGNER PL
+Box:City:MARYLAND HEIGHTS
+State:MO
+ZIP:63043-3422
+Country:US
+Phone:314-291-1900/800-228-5635X076
+Contract Num:SP0450-01-M-D599
+CAGE:0YG51
+Company Name:BUCKEYE INTERNATIONAL INC
+Address:2700 WAGNER PL
+Box:City:MARYLAND HEIGHTS
+State:MO
+ZIP:63043-3422
+Country:US
+Phone:314-291-1900/800-228-5635X076
+Contract Num:SP0450-99-M-NG85
+CAGE:0YG51
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+> Wt:91.
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:SODIUM METASILICATE
+CAS:6834-92-0
+RTECS #:VV9275000
+< Wt:3.
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:SODIUM TRIPOLYPHOSPHATE
+CAS:7758-29-4
+RTECS #:YK4570000
+< Wt:3.
+Other REC Limits:NONE RECOMMENDED
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:PERFUME COLORING & ADDITIVES LESS THAN 1%.
+< Wt:3.
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NO DATA PROVIDED BY MANUFACTURER
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MAY CAUSE EYE AND SKIN IRRITATION.
+Explanation of Carcinogenicity:NO DATA PROVIDED BY MANUFACTURER
+Effects of Overexposure:SKIN: REDNESS OF SKIN OR A  WARMING SENSATION.
+    EYE: REDNESS OR BURNING SENSATION.
+Medical Cond Aggravated by Exposure:CAN CAUSE DEFATTING OF SKIN TISSUE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH WITH COOL WATER FOR 15 MINUTES. IF IRRITATION
+    OCCURS AND PERSISTS, SEE PHYSICIAN. INGESTION: GIVE TWO LARGE
+    GLASSES OF WATER. DO NOT INDUCE VOMITING. CALL PHYSICIAN. NEVER
+    GIVE ANYTHING MY  MOUTH TO AN UNCONSCIOUS PERSON.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:NONE
+Autoignition Temp:Autoignition Temp Text:NP
+Lower Limits:NA
+Upper Limits:NA
+Extinguishing Media:NOT APPLICABLE. HMIS:USE APPROPRIATE FIRE
+    EXTINGUISHING MEDIA FOR SURROUNDING FIRE/MATLS.
+Fire Fighting Procedures:NONE
+Unusual Fire/Explosion Hazard:PRODUCT OF COMBUSTION:OXIDES OF SULFUR,
+    CARBON, SILICON, PHOSPHORUS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:PICK UP WITH MOP, WET/DRY VAC OR ABSORBENT
+    MATERIAL. RINSE AREA WITH CLEAR WATER AND ALLOW FLOOR TO DRY BEFORE
+    ALLOWING TRAFFIC
+Neutralizing Agent:NO DATA PROVIDED BY MANUFACTURER
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP OUT OF REACH OF CHILDREN ! KEEP
+    CONTAINER CLOSED WHEN NOT IN USE. STORE AT ROOM TEMPERATURE.
+Other Precautions:THIS PRODUCT IS NOT REGULATED UNDER RCRA WHEN PRODUCT
+    LABEL AND MSDS SPILL DIRECTIONS ARE FOLLOWED. NOT REPORTABLE UNDER
+    SARA TITLE III SECTION 311/312. THIS PRODUCT IS NOT REGULATED UNDER
+    CERCLA.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED.
+Ventilation:NORMAL ROOM VENTILATION.
+Protective Gloves:RUBBER GLOVES OR OTHER IMPERVIOUS GLOVES
+Eye Protection:SAFETY GLASSES, OR CHEMICAL SPLASH GOGGLES
+Other Protective Equipment:FOOTWEAR THAT KEEPS FEET DRY IS SUGGESTED.
+Work Hygienic Practices:FOLLOW GOOD PERSONAL HYGIENE PRACTICES.
+Supplemental Safety and Health
+PH OF USE DILUTION: 11.8 +/- 0.2.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:B3
+Boiling Pt:=100.C, 212.F
+Spec Gravity:1.04
+pH:12.8 (CONC)
+Evaporation Rate & Reference:1.0 (WATER=1)
+Solubility in Water:INFINITE
+Appearance and Odor:CITRUS ODOR, CLEAR PURPLE SOLUTION, LIQUID.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+DO NOT MIX WITH CHLORINE BLEACH OR ACIDS.
+Stability Condition to Avoid:NONE KNOWN.
+Hazardous Decomposition Products:NONE KNOWN. PRODUCTS OF COMBUSTIN:
+    OXIDES OF SULFUR, CARBON, SILICON, PHOSPHORUS.
+Conditions to Avoid Polymerization:WILL NOT OCCUR
+
+===================  Toxicological Information	===================
+
+Toxicological Information:NO DATA PROVIDED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:FLUSH TO SANITARY SEWER, OR SEND TO SANITARY
+    LANDFILL, FOLLOWING LOCAL, STATE, AND FEDERAL LAWS.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:NOT REPORTABLE UNDER SARA TITLE III SEC
+    311.312.
+Federal Regulatory Information:THIS PRODUCT IS NOT REGULATED UNDER
+    CERCLA.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

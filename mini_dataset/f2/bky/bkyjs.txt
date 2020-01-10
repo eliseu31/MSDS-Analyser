@@ -1,0 +1,169 @@
+=====================  Product Identification  =====================
+
+Product ID:KEROSENE K-1
+MSDS Date:01/13/1989
+FSC:9140
+NIIN:00-242-6751
+MSDS Number: BKYJS
+=== Responsible Party ===
+Company Name:AMERADA HESS CORPORATION
+Address:1 HESS PLAZA
+City:WOODBRIDGE
+State:NJ
+ZIP:07095-1229
+Info Phone Num:(201) 750-6000
+Emergency Phone Num:(201) 750-6000
+CAGE:4N717
+=== Contractor Identification ===
+Company Name:AMERADA HESS CORP
+Address:1 HESS PLAZA
+Box:City:WOODBRIDGE
+State:NJ
+ZIP:07095-1229
+Country:US
+Phone:908-750-6000, CHEMTREC 800-424-9300
+CAGE:4N717
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NAPHTHALENE  (SARA III)
+CAS:91-20-3
+RTECS #:QJ0525000
+Fraction by Wt: <3%
+Other REC Limits:10 PPM
+OSHA PEL:10 PPM/15 STEL
+ACGIH TLV:10 PPM/15 STEL; 9192
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:KEROSENE, KEROSINE
+CAS:8008-20-6
+RTECS #:OA5500000
+Fraction by Wt: 100%
+Other REC Limits:100 MG/CUM NIOSH
+
+Ingred Name:SULFUR
+CAS:7704-34-9
+RTECS #:WS4250000
+Fraction by Wt: <0.04%
+
+Ingred Name:PARAFFINS
+
+Ingred Name:AROMATICS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: LIGHT
+    DROWSINESS/HEADACHE/FATIGUE/NAUSEA/EFFECT OF OLFACTORY
+    SENSES/ANESTHETIC EFFECTS/DIZZINESS. INGESTION: GASTROINTESTINAL
+    DISTURBANCES/CHEMICAL PNEUMONITIS/DEATH/VOMITING/CYANOSIS/HARM FUL.
+    SKIN: DEFATTING, REDNESS, ITCHING,INFLAMMATION, CRACKING, &
+    SECONDARY INFECTION. EYES: BLURRED VISION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: LIGHT
+    DROWSINESS/HEADACHE/FATIGUE/NAUSEA/EFFECT OF OLFACTORY
+    SENSES/ANESTHETIC EFFECTS/DIZZINESS. INGESTION: GASTROINTESTINAL
+    DISTURBANCES/CHEMICAL PNEUMONITIS/DEATH/VOMITING/CYANOSIS/HARM FUL.
+    SKIN: DEFATTING, REDNESS, ITCHING,INFLAMMATION, CRACKING, &
+    SECONDARY INFECTION. EYES: BLURRED VISION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. PROVIDE OXYGEN THERAPY OR
+    RESUSCITATION. SKIN: WASH W/SOAP & WATER. HIGH PRESSURE SKIN
+    INJECTIONS ARE SERIOUS MEDICAL EMERGENCIES. EYES: FLUSH W/WATER FOR
+    AT LEAST 15  MINS. INGESTION: RINSE MOUTH W/WATER. KEEP CALM &
+    WARM. DON'T INDUCE VOMITING. AVOID ASPIRATION INTO THE LUNGS, WHICH
+    MAY CAUSE CHEMICAL PNEUMONIA. OBTAIN MEDICAL ATTENTION IN ALL
+    CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:>100F
+Lower Limits:0.7%
+Upper Limits:5%
+Extinguishing Media:ANY APPROVED EXTINGUISHING AGENT FOR CLASS B FIRES
+    SUCH AS DRY CHEMICAL, FOAM, CO2, OR HALON
+Fire Fighting Procedures:WATER IS INEFFECTIVE, BUT WATER FOG IS USED
+    FOR INTENSITY CONTROL/COOLING EXPOSED AREAS. WEAR SCBA IN POSITIVE
+    PRESSURE IN ENCLOSED AREAS. APPROACH FROM UPWIND.
+Unusual Fire/Explosion Hazard:VAPORS IN EMPTY PRODUCT
+    CONTAINERS/VESSELS READILY FORM EXPLOSIVE MIXTURES IN AIR/MIGRATE
+    TO DISTANT IGNITION SOURCE/FLASHBACK. RUNOFF TO SEWERS ARE A
+    HAZARD.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONTAIN SPILLS. ABSORB FREE LIQUID W/ABSORBENT
+    MATERIAL/PADS/SAND/EARTH. REMOVE IGNITION SOURCE/SAFELY STOP FLOW.
+    AVOID ENTRANCE INTO ALL BODIES OF WATER. EVACUATE AREA/WEAR
+    PROTECTIVE EQUIPMENT. SPIL LS ARE SLIPPERY. OPEN SPILLS EMIT
+    FLAMMABLE VAPOR.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTACT W/SKIN/EYES/INHALATION
+    OF VAPOR/MIST. KEEP CONTAINERS TIGHTLY CLOSED. DON'T SMOKE. DON'T
+    CUT/GRIND/DRILL/WELD/HEAT/PRESSURIZE.
+Other Precautions:STORE IN COOL/DRY/ISOLATED/WELL-VENTILATED AREA.
+    BOND/GROUND TRANSFER LINES TO PREVENT STATIC ELECTRICITY
+    ACCUMULATION. EMPTY CONTAINERS CONTAIN TOXIC/FLAMMABLE/COMBUSTIBLE
+    RESIDUE/VAPORS. DON'T REUSE  CONTAINER. DON'T WEAR CONTACT LENSES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR SELF-CONTAINED BREATHING APPARATUS IN
+    POSITIVE PRESSURE IN CONFINED SPACES OR WHEN EXPOSED TO HEAVY MIST.
+Ventilation:MECHANICAL: EXPLOSION-PROOF (APPROVED FOR CLASSIFIED AREA).
+    LOCAL EXHAUST: AS REQUIRED TO REDUCE AIRBORNE CONCENTRATION.
+Protective Gloves:IMMPERVIOUS
+Eye Protection:CHEMICAL GOGGLES OR FULL FACE SHIELD
+Other Protective Equipment:IMPERVIOUS CLOTHING, EYE WASH/BATH
+Work Hygienic Practices:WASH BEFORE EATING/DRINKING/SMOKING.
+    REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE REUSE. DISCARD OIL
+    SOAKED SHOES.
+Supplemental Safety and Health
+THIS PRODUCT CONTAINS CHEMICALS THAT ARE SUBJECT TO THE REPORTING
+    REQUIREMENTS OF SECTION 313 OF TITLE III OF THE SUPERFUND
+    AMENDMENTS & REAUTHORIZATION ACT OF 1986. CONTAMINATED WATER OR
+    SOIL MAY BE  HAZARDOUS TO ANIMAL/AQUATIC LIFE.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:300-580F
+Vapor Pres:2-3 PSIG
+Vapor Density: 4.5
+Spec Gravity: 0.75-0.80
+Evaporation Rate & Reference:(BU AC = 1): 0.04
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:PALE YELLOW TO WATER WHITE W/CHARACTERISTIC
+    HYDROCARBON ODOR.
+Percent Volatiles by Volume:100%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING AGENTS, COMBINATIONS OF NITRIC & SULFURIC ACIDS
+Stability Condition to Avoid:SOURCES OF IGNITION SUCH AS HEAT, FIRE,
+    SPARKS, OR OPEN FLAMES
+Hazardous Decomposition Products:TOXIC PRODUCTS, CO, & DENSE OILY SMOKE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF PRODUCT/CONTAMINATED MATERIAL AS EPA
+    IGNITABLE HAZARDOUS WASTE. USE ONLY APPROVED TREATMENT
+    TRANSPORTERS/DISPOSAL SITE IN COMPLIANCE W/ALL APPLICABLE
+    LAWS/REGULATIONS. MAINTAIN SURVEILLANCE  OF ABSORBED MATERIAL UNTIL
+    FINAL DISPOSAL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

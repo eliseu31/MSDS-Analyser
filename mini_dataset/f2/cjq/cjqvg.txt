@@ -1,0 +1,181 @@
+=====================  Product Identification  =====================
+
+Product ID:CARBON DIOXIDE IN HELIUM, 21232
+MSDS Date:07/01/1997
+FSC:6830
+NIIN:00N092291
+Status Code:A
+MSDS Number: CJQVG
+=== Responsible Party ===
+Company Name:SCOTT SPECIALTY GASES
+Address:500 WEAVER PARK RD
+City:LONGMONT
+State:CO
+ZIP:80501
+Country:US
+Info Phone Num:888-253-1635
+Emergency Phone Num:888-253-1635
+CAGE:0SHS3
+=== Contractor Identification ===
+Company Name:SCOTT SPECIALTY GASES
+Address:500 WEAVER PARK RD
+Box:City:LONGMONT
+State:CO
+ZIP:80501
+Country:US
+Phone:888-253-1635
+CAGE:0SHS3
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CARBON DIOXIDE (CO*2). MAC: 5000 PPM (M) OTHER STEL: 3000
+    PPM (M).  CONCENTRATION: .0001-.5 PCT
+CAS:124-38-9
+RTECS #:FF6400000
+Minumum % Wt:0.
+Maxumum % Wt:.5
+Other REC Limits:STEL: 30,000 PPM (M)
+OSHA PEL:9000 MG/M3;5000 PPM
+ACGIH TLV:9000 MG/M3;5000 PPM
+ACGIH STEL:54000 MG/M3
+
+Ingred Name:HELIUM (HE)
+CAS:7440-59-7
+RTECS #:MH6520000
+Fraction by Wt: BALANCE
+Other REC Limits:SIMPLE ASPHXIANT
+OSHA PEL:SIMPLE ASPHYXIANT
+ACGIH TLV:SIMPLE ASPHYXIANT
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NOT APPLICABLE.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: MIXTURE ACTS AS A SIMPLE
+    ASPHYXIANT BY DISPLACING AIR NECESSARY FOR LIFE. SYMPTOMS INCLUDE
+    RAPID RESPIRATION, MUSCULAR INCOORDINATION, FATIGUE, DIZZINESS,
+    NAUSEA, VOMITING, UNCONSCIOUSNESS AND  DEATH. CHRONIC: NONE KNOWN.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE KNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: IMMEDIATELY REMOVE VICTIM TO FRESH AIR. IF
+    BREATHING IS DIFFICULT, GIVE OXYGEN. IF BREATHING HAS STOPPED, GIVE
+    ARTIFICIAL RESPIRATION. EYE/SKIN/INGESTION: NONE. IN EVENT OF
+    EXPOSURE, CONSU LT MD. NOTE TO MD: NONE. STANDARD FIRST AID
+    PROCEDURES: INGESTION: CALL MD IMMEDIATELY . SKIN: FLUSH W/COPIOUS
+    AMOUNTS OF WATER. CALL MD . EYE: IMMEDIATELY FLUSH W/POTABLE WATER
+    FOR AT LEA ST 15 MINUTES, SEEK ASSISTANCE FROM MD .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONFLAMMABLE
+Lower Limits:NONFLAMMABLE
+Upper Limits:NONFLAMMABLE
+Extinguishing Media:USE WHAT IS APPROPRIATE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT . KEEP FIRE EXPOSED CYLINDERS COOL WITH WATER SPRAY. IF
+    POSSIBLE, STOP THE PRODUCT FLOW.
+Unusual Fire/Explosion Hazard:CYLINDER RUPTURE MAY OCCUR UNDER FIRE
+    CONDITIONS. HAZARDOUS COMBUSTION PRODUCTS: NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE AND VENTILATE AREA. REMOVE LEAKING
+    CYLINDER TO EXHAUST HOOD OR SAFE OUTDOOR AREA. SHUT OFF SOURCE IF
+    POSSIBLE AND REMOVE SOURCE OF HEAT. SPECIALIZED EQUIPMENT: NONE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:SECURE CYL WHEN USING TO PROT FROM
+    FALLING. USE SUITABLE HAND TRUCK TO MOVE CYLS. STORE IN WELL VENTED
+    AREAS. KEEP VALVE PROT CAP ON CYLS WHEN NOT IN USE. HIGH PRESSURE
+    GAS. CAN CAUSE RAPID SUFFOCATIO N.
+Other Precautions:PROTECT CNTNRS FROM PHYSICAL DMG. DO NOT DEFACE
+    CYLS/LBLS. CYLS SHOULD BE REFILLED BY QUALIFIED PRODUCERS OF
+    COMPRESSED GAS. SHIPMENT OF A COMPRESSED GAS CYL WHICH HAS NOT BEEN
+    FILLED BY THE OWNER OR  WITH HIS WRITTEN CONSENT IS A VIOLATION OF
+    FEDERAL LAW (49 CFR).
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE A NIOSH APPROVED SELF-CONTAINED BREATHING
+    APPARATUS IN CASE OF EMERGENCY OR NON-ROUTINE USE.
+Ventilation:PROVIDE ADEQUATE GENERAL AND LOCAL EXHAUST VENTILATION TO
+    MAINTAIN CONCENTRATIONS BELOW EXPOSURE LIMITS AND TO AVOID
+    ASPHYXIATION.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:ANSI APPROVED EYE WASH & DELUGE SHOWER .
+    SAFETY SHOES WHEN HANDLING CYLINDERS.
+Supplemental Safety and Health
+PHYSICAL & CHEMICAL PROPERTIES: ODOR THRESHOLD: NOT APPLICABLE. VAP
+    DENSITY: 0.14496 (AIR=1).
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:GAS
+Vapor Density:0.14496
+Spec Gravity:GAS (H*2O=1)
+Evaporation Rate & Reference:GAS
+Solubility in Water:V/V @ 20C: 0.0068
+Appearance and Odor:COLORLESS, ODORLESS GAS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE.
+Stability Condition to Avoid:STABLE UNDER NORMAL STORAGE CONDITIONS.
+    AVOID STORAGE IN POORLY VENTILATED AREAS. AVOID STORAGE NEAR A HEAT
+    SOURCE.
+Hazardous Decomposition Products:NONE.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:LETHAL CONCENTRATION (LC50): NONE
+    ESTABLISHED. LETHAL DOSE 50 (LD50(): NOT APPLICABLE.
+    TERATOGENICITY: NOT APPLICABLE. REPRODUCTIVE EFFECTS: NOT
+    APPLICABLE. MUTAGENICITY: NOT APPLICABLE.
+
+=====================  Ecological Information  =====================
+
+Ecological:NO ADVERSE ECOLOGICAL EFFECTS ARE EXPECTED.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF NON-REFILLABLE CYLINDERS I/A/W
+    FEDERAL, STATE & LOCAL REGULATIONS. ALLOW GAS TO VENT SLOWLY TO
+    ATMOSPHERE IN AN UNCONFINED AREA OR EXHAUST HOOD. IF CYLINDERS ARE
+    REFILLABLE TYPE, RETURN CYL INDERS TO SUPPLIER WITH ANY VALVE
+    OUTLET PLUGS OR CAPS SECURED & VALVE PROTECTION CAPS IN PLACE.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:CONCENTRATION: 0.0001-0.5%. DOT DESCRIPTION (U.S.
+    ONLY): PROPER SHIPPING NAME: COMPRESSED GASES, N.O.S. HAZARD CLASS:
+    2.2 (NONFLAMMABLE). IDENTIFICATION NUMBER: UN1956. REPORTABLE
+    QUANTITIES: NONE. LA BELING: NONFLAMMABLE GAS. ADR/RID (EU ONLY):
+    CLASS 2, 1A. SPECIAL PRECAUTIONS: CYLINDERS SHOULD BE TRANSPORTED
+    IN A SECURE UPRIGHT POSITION IN A WELL VENTILATED TRUCK.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:SARA: THE THRESHOLD PLANNING QUANTITY FOR
+    THIS MIXTURE IS 10,000 LBS.
+Federal Regulatory Information:OSHA: PROCESS SAFETY MANAGEMENT:
+    MATERIALS ARE NOT LISTED IN APPENDIX A OF 29 CFR 1910.119 AS HIGHLY
+    HAZARDOUS CHEMICALS. TSCA: MATERIALS ARE LISTED IN TSCA INVENTORY.
+    EU NUMBER: N/AV. NUMBER IN ANNEX  1 OF DIR 67/548: MIXTURE IS NOT
+    LISTED IN ANNEX 1. EU CLASSIFICATION: N/AV. R: AS. S: 9, 23.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

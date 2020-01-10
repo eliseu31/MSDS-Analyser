@@ -1,0 +1,130 @@
+=====================  Product Identification  =====================
+
+Product ID:PERFECT PUTDOWN ADHESIVE, TA-717
+MSDS Date:12/02/1988
+FSC:8040
+NIIN:00N020829
+MSDS Number: BLMFC
+=== Responsible Party ===
+Company Name:H B FULLER CO
+Address:1200 WOLTERS BLVD
+City:VADNAIS HEIGHTS
+State:MN
+ZIP:55110
+Info Phone Num:612-481-3300
+Emergency Phone Num:612-481-3300
+Preparer's Name:JOHN R DOLMAR
+CAGE:0HD19
+=== Contractor Identification ===
+Company Name:H B FULLER CO
+Address:1200 WOLTER BLVD
+Box:City:VADNAIS HEIGHTS
+State:MN
+ZIP:55110
+Country:US
+Phone:612-481-3300
+CAGE:0HD19
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:STODDARD SOLVENT
+CAS:8052-41-3
+RTECS #:WJ8925000
+Fraction by Wt: 1-10%
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM; 9293
+
+Ingred Name:ETHYLENE GLYCOL  (SARA III)
+CAS:107-21-1
+RTECS #:KW2975000
+Fraction by Wt: 1-10%
+OSHA PEL:C 50 PPM
+ACGIH TLV:C 50 PPM,VAPOR; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: HARMFUL IF SWALLOWED. EYE
+    CONTACT MAY CAUSE IRRIT. PRLNGD/RPTD SKIN CONTACT WITH PRODUCT MAY
+    CAUSE IRRITATION. INHALATION OF HIGH VAPOR CONCENTRATION MAY CAUSE
+    DIZZINESS OR HEADACHES. CHRONIC:  NO ANTICIPATED CHRONIC EFFECTS.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NO KNOWN EFFECTS ON OTHER
+    ILLNESSES.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGEST: GIVE ONE GLASS OF H2O/MILK. DO NOT INDUCE VOMIT. GET
+    IMMED MED ATTN. EYE: FLUSH IMMED W/H2O FOR AT LEAST 15 MIN. GET
+    IMMED MED ATTN. SKIN: WASH AFFECTED AREA WITH SOAP AND WATER.
+    REMOVE CONTAM INATED CLOTHING AND LAUNDER BEFORE REUSE. INHALATION:
+    REMOVE TO FRESH AIR. KEEP WARM AND QUIET. GET MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:>200F,>93C
+Extinguishing Media:DRY CHEMICAL, CARBON DIOXIDE, CHEMICAL FOAM, WATER
+    SPRAY.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:CLOSED CONTAINERS MAY RUPTURE WHEN
+    EXPOSED TO EXTREME HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NONE SPECIFIED BY MANUFACTURER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NONE SPECIFIED BY MANUFACTURER.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY REQUIRED. USE NIOSH/MSHA APPROVED
+    RESPIRATOR APPROPRIATE FOR EXPOSURE OF CONCERN .
+Ventilation:NONE SPECIFIED BY MANUFACTURER.
+Protective Gloves:RUBBER GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:EYE WASH.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:>200F,>93C
+Spec Gravity:1.1381 
+pH:8.9
+Appearance and Odor:LIQUID.
+Percent Volatiles by Volume:36(WT)
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:IMCOMPLETE COMBUSTION CAN YIELD LOW
+    MOLECULAR WEIGHT HYDROCARBONS AND CARBON MONOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN ACCORDANCE WITH FEDERAL, STATE, AND
+    LOCAL REGULATIONS .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

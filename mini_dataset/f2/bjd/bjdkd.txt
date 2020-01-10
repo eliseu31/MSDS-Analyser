@@ -1,0 +1,123 @@
+=====================  Product Identification  =====================
+
+Product ID:PAINT STRIPPER 7 (MIL-R-81294C) OR B
+MSDS Date:01/02/1988
+FSC:8010
+NIIN:00-926-1489
+MSDS Number: BJDKD
+=== Responsible Party ===
+Company Name:CREST INDUSTRIAL CHEMICALS
+Address:6341 BEVERLY HILL
+City:HOUSTON
+State:TX
+ZIP:77057
+Country:US
+Info Phone Num:713-780-1828
+Emergency Phone Num:713-780-1828
+CAGE:77513
+=== Contractor Identification ===
+Company Name:CREST INDUSTRIAL CHEMICALS INC
+Address:6341 BEVERLY HILL
+Box:42242
+City:HOUSTON
+State:TX
+ZIP:77057-6500
+Country:US
+Phone:713-780-1828
+CAGE:77513
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYLENE CHLORIDE	(SARA III)
+CAS:75-09-2
+RTECS #:PA8050000
+OSHA PEL:500 PPM/C,1000; Z2
+ACGIH TLV:50 PPM, A2; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:SODIUM CHROMATE  (SARA III)
+CAS:7775-11-3
+RTECS #:GB2955000
+OSHA PEL:0.1 PPM CRO3;CEILING
+ACGIH TLV:0.05 MG CR/M3; 9192
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+Ingred Name:PHENOLIC BODIES
+ACGIH TLV:5 PPM (SKIN)
+
+=====================  Hazards Identification  =====================
+
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:YES
+Explanation of Carcinogenicity:METHYLENE CHLORIDE AND CHROMATES ARE
+    LISTED AS CARCINOGENS. BY OSHA.
+Effects of Overexposure:IRRITATION OF NOSE AND EYES, SLIGHT NARCOSIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN CONTACT: WASH WITH SOAP AND WATER. EYE CONTACT: FLUSH
+    WITH WATER, OBTAIN	 MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:NONE
+Extinguishing Media:CARBON DIOXIDE OR CHEMICAL FOAM.
+Fire Fighting Procedures:THERMAL DECOMPOSITION WILL PRODUCE TOXIC
+    OXIDES OF CHLORINE, WEAR GAS MASKS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA. MOP UP SPILLAGE AND DISPOSE OF
+       I.A.W. LOCAL, STATE AND FEDERAL REGULATIONS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:TRANSPORT AND STORE IN CLOSED
+    CONTAINERS AT TEMP- ERATURES UP TO 110 F.
+Other Precautions:DO NOT STORE IN DIRECT RAYS OF SUN, OPEN CONTAINERS
+    CAREFULLY TO AVOID BURSTING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:FRESH AIR MASK.
+Ventilation:USE LOCAL EXHAUST.
+Protective Gloves:USE PROTECTIVE GLOVES.
+Eye Protection:USE EYE PROTECTION.
+Other Protective Equipment:USE SOLVENT RESISTANT APRONS.
+Supplemental Safety and Health
+NK
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T3
+Boiling Pt:B.P. Text:110 F
+Melt/Freeze Pt:M.P/F.P Text:80%
+Vapor Pres:350 MM
+Vapor Density:>1 (AIR=1)
+Spec Gravity:1.10 (H2O=1)
+Evaporation Rate & Reference:>1 (BUTYL ACETATE=1)
+Solubility in Water:APPRECIABLE
+Appearance and Odor:VISCOUS YELLOW LIQUID PHENOLIC ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID STRONG OXIDIZERS.
+Hazardous Decomposition Products:THERMAL DECOMPOSITION WILL PRODUCE
+    TOXIC OXIDES OF CHLORINE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:TREAT FOR PHENOLIC BODIES AND CHROMATE. DISPOSE
+    OFI.A.W. LOCAL, STATE AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

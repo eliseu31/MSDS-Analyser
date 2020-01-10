@@ -1,0 +1,146 @@
+=====================  Product Identification  =====================
+
+Product ID:AEROSHELL GREASE 7 (CANCELLED NSN)
+MSDS Date:09/13/1985
+FSC:9150
+NIIN:00-190-0885
+MSDS Number: BDHTJ
+=== Responsible Party ===
+Company Name:SHELL OIL COMPANY
+Box:4320
+City:HOUSTON
+State:TX
+ZIP:77210
+Country:US
+Emergency Phone Num:713-473-9461
+CAGE:54527
+=== Contractor Identification ===
+Company Name:SHELL OIL COMPANY
+Box:2463
+City:HOUSTON
+State:TX
+ZIP:77210
+Country:US
+Phone:800-231-6950
+CAGE:54527
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SYNTHETIC ESTER CAS# 103-24-2
+CAS:103-24-2
+RTECS #:CM2000000
+Fraction by Wt: 87%
+
+Ingred Name:FATTY ACID AMIDES CAS# 68910-93-0
+CAS:68910-93-0
+Fraction by Wt: 2%
+
+Ingred Name:BENTONITE (AS NUISANCE DUST OR PARTICULATES NOT OTHERWISE
+    REGULATED)
+CAS:1302-78-9
+RTECS #:CT9450000
+Fraction by Wt: 6%
+OSHA PEL:15 MG/M3 TOTAL DUST
+ACGIH TLV:10 MG/M3 TDUST;8990
+
+Ingred Name:FATTY ACID AMIDES CAS#64754-98-9
+CAS:64754-98-9
+Fraction by Wt: 2%
+Fraction by Wt: 3%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:N/K FOR PRODUCT;6-12 G/KG(RAT)(INGRED 1)
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYE CONTACT MAY BE MILDLY IRRITATING
+    TO THE EYES. PROLONGED/REPEATED SKIN CONTACT MAY CAUSE VARIOUS SKIN
+    DISORDERS SUCH AS DERMATITIS, FOLLICULITIS OR OIL ACNE. RELEASE
+    DURING HIGH PRESSURE USAGE MAY  RESULT IN INJECTION OF OIL INTO THE
+    SKIN CAUSING LOCAL NECROSIS
+Effects of Overexposure:IRRITATION TO SKIN AND EYES. LOCAL NECROSIS IS
+    EVIDENCED BY DELAYED ONSET OF PAIN AND TISSUE DAMAGE A FEW HOURS
+    FOLLOWING INJECTION.
+Medical Cond Aggravated by Exposure:PREEXISTING SKIN DISORDERS MAY BE
+    AGGRAVATED BY EXPOSURE TO THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH WITH WATER FOR 15 MINUTES. GET MEDICAL ATTENTION.
+    SKIN: REMOVE CONTAMINATED CLOTHING & WIPE EXCESS OFF. WASH WITH
+    SOAP & WATER. LAUNDER CLOTHING BEFORE REUSE. IF IRRITATION
+    PERSISTS, GET ME DICAL ATTENTION. INHALATION: REMOVE VICTIM TO
+    FRESH AIR & PROVIDE OXYGEN IF BREATHING IS DIFFICULT. GET MEDICAL
+    ATTENTION. INGESTION: DO NOT INDUCE VOMITING. SET MEDICAL
+    ATTENTION/ADVICE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:420F,215C
+Extinguishing Media:USE WATER FOG, DRY CHEMICAL OR CO*2. DO NOT USE A
+    DIRECT STREAM OF WATER.
+Fire Fighting Procedures:WEAR NIOSH APPROVED SCBA & PROPER PROTECTIVE
+    EQUIPMENT. COOL FIRE EXPOSED CONTAINERS WITH WATER.
+Unusual Fire/Explosion Hazard:PRODUCT WILL FLOAT ON WATER AND CAN BE
+    REIGNITED ON SURFACE OF WATER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SCOOP UP EXCESS GREASE. CLEAN AREA WITH
+    APPROPRIATE CLEANER.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL, DRY PLACE WITH ADEQUATE
+    VENTILATION. KEEP AWAY FROM OPEN FLAMES AND HIGH TEMPERATURES.
+Other Precautions:MINIMIZE SKIN CONTACT. WASH WITH SOAP AND WATER
+    BEFORE EATING, DRINKING, SMOKING OR USING TOILET FACILITIES. SPILLS
+    ENTERING SURFACE WATERS OR ANY WATERCOURSES OR SEWERS MUST BE
+    REPORTED TO THE NATION AL RESPONSE CENTER:1-800-424-8802.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT ORDINARILY REQUIRED.
+Ventilation:NOT ORDINARILY REQUIRED.
+Protective Gloves:OIL RESISTANT
+Eye Protection:SAFETY GOGGLES
+Other Protective Equipment:PROTECTIVE CLOTHING TO MINIMIZE SKIN
+    CONTACT.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING & BEFORE EATING
+    OR SMOKING. PROPERLY DISPOSE OF CONTAMINATED LEATHER ARTICLES.
+Supplemental Safety and Health
+NSN HAS BEEN CANCELLED & REPLACED BY 9150-00-985-7247.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:N/K PER MFR
+Spec Gravity:<1.0
+Evaporation Rate & Reference:N/K PER MFR
+Solubility in Water:INSOLUBLE
+Appearance and Odor:BUFF COLORED,SMOOTH,BUTTERY GREASE,SLIGHT ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:HEAT,OPEN FLAME
+Hazardous Decomposition Products:A COMPLEX MIXTURE OF AIRBORNE SOLID,
+    LIQUID PARTICULATES AND GASES WILL EVOLVE WHEN THIS MATERIAL
+    UNDERGOES COMBUSTION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN AN APPROPRIATE DISPOSAL FACITLTY
+    IN COMPLIANCE W/ LOCAL,STATE & FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

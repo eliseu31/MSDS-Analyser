@@ -1,0 +1,135 @@
+=====================  Product Identification  =====================
+
+Product ID:ZL-37 ZYGLO PENETRANT
+MSDS Date:04/27/1990
+FSC:6850
+NIIN:01-306-1383
+MSDS Number: BLPHM
+=== Responsible Party ===
+Company Name:MAGNAFLUX
+Address:7300 WEST LAWRENCE AVE
+City:CHICAGO
+State:IL
+ZIP:60656
+Country:US
+Info Phone Num:708-867-8000
+Emergency Phone Num:800-429-9300 (CHEMTREC)
+Preparer's Name:BRUCE C GRAHAM
+CAGE:59042
+=== Contractor Identification ===
+Company Name:ILLINOIS TOOL WORKS INC MAGNAFLUX DIV
+Address:3624 WEST LAKE AVENUE
+Box:City:GLENVIEW
+State:IL
+ZIP:60025
+Country:US
+Phone:847-657-5300/
+CAGE:37676
+Company Name:MAGNAFLUX
+Address:7300 WEST LAWRENCE AVE
+City:CHICAGO
+State:IL
+ZIP:60656
+Country:US
+Phone:708-867-8000
+CAGE:59042
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MINERAL OIL, SLAB OIL; (WHITE MINERAL OIL)
+CAS:8042-47-5
+RTECS #:PY8047000
+Fraction by Wt: 10%
+
+Ingred Name:KEROSENE
+CAS:8008-20-6
+RTECS #:OA5500000
+Fraction by Wt: 5%
+ACGIH TLV:100 PPM (MFR)
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHAL: DIZZINESS, NAUSEA. SKIN:
+    IRRITATION. DISSOLVES SKIN OILS. EYE: MILDLY IRRITATING. INGEST:
+    POSSIBLE GASTRIC UPSET.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: REMOVE TO FRESH AIR. SKIN: USE SOOTHING LOTION. EYE:
+    RINSE COPIOUSLY WITH WATER FOR AT LEAST 15 MINUTES. INGEST: CALL MD
+    IF SEVERE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:200F,93C
+Extinguishing Media:CARBON DIOXIDE, FOAM.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT . KEEP CONTAINERS COOL WITH WATER SPRAY. DO
+    NOT SPRAY WATER ON BURNING ZL-37.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NONE SPECIFIED BY MANUFACTURER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID BREATHING VAPOR OR SPRAY MIST.
+    AVOID FREQUENT OR PROLONGED SKIN EXPOSURE. DO NOT GET IN EYES.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR WITH CHEMICAL
+    CARTRIDGE IF USING IN POORLY VENTILATED AREA.
+Ventilation:USE IN SPRAY BOOTH OR WHERE VENTILATION IS ADEQUATE TO
+    CARRY VAPORS AND OVERSPRAY FROM OCCUPIED AREAS.
+Protective Gloves:NITRILE RUBBER GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:410F,210C
+Vapor Pres:0.5 @ 100F
+Vapor Density:>1
+Spec Gravity:0.96
+pH:NEUT
+Evaporation Rate & Reference:NEGLIGIBLE
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:GREEN, OILY LIQUID
+Percent Volatiles by Volume:5
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:ON COMBUSTION, OXIDES OF CARBON AND
+    NITROGEN.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF I/A/W FEDERAL, STATE AND LOCAL
+    REGULATIONS . INCINERATE OR SEND TO WASTE DISPOSER WHO CAN
+    INCINERATE IT.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

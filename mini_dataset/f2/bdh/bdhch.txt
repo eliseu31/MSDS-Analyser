@@ -1,0 +1,122 @@
+=====================  Product Identification  =====================
+
+Product ID:SR 4230 SAE 30
+MSDS Date:04/16/1986
+FSC:9150
+NIIN:00-186-6681
+MSDS Number: BDHCH
+=== Responsible Party ===
+Company Name:SUN REFINING AND MARKETING COMPANY
+Address:1801 MARKET ST.TEN PENN CENTER; 18 FLOOR
+City:PHILADELPHIA
+State:PA
+ZIP:19103
+Info Phone Num:215-447-1852
+Emergency Phone Num:215-447-1852
+CAGE:8X531
+=== Contractor Identification ===
+Company Name:OCTAGON PROCESS INC.
+Address:596 RIVER ROAD
+Box:City:EDGEWATER
+State:NJ
+ZIP:07020
+Country:US
+Phone:201-945-9400
+CAGE:82925
+Company Name:SUN REFINING AND MARKETING COMPANY
+Address:1801 MARKET ST,TEN PENN CTR
+Box:City:PHILADELPHIA
+State:PA
+ZIP:19103-1699
+Country:US
+Phone:215-977-6133
+CAGE:8X531
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SOLVENT REFINED HEAVY PARAFFINIC DISTILLATE OIL
+
+Ingred Name:ZINC DIALKYL DITHIOSULFATES
+
+Ingred Name:METHACRYLATE COPOLYMER
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 > 15 G/KG (RAT)
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Effects of Overexposure:EYE-MILD IRRIT;SKIN-MOD IRRIT W/PROLONGED
+    EXPOS. LOW TOXIC-LD50>15/KG
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE-FLUSH W/WATER.IF IRRIT-GET MED ATTN. SKIN-WASH W/SOAP &
+    WATER. IF REDNESS/SWELL-GET MED ATTN. INGEST-GIVE LIQ & INDUCE
+    VOMIT,GET MED ATTN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:430F/220C/COC
+Autoignition Temp:Autoignition Temp Text:695F
+Extinguishing Media:WATER FOG,CHEM FOAM,CHEM POWDER,CARBON DIOXIDE
+Fire Fighting Procedures:USE SLF-CONTND BREATH APPARATUS IN ENCLOSED
+    AREA.
+Unusual Fire/Explosion Hazard:NONE NOTED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONTAIN SPILL. ABSORB ON INERT MATL. DO NOT
+    FLUSH TO DRAIN/STORM SEWER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NFPA CLASS IIIA STORAGE. AVOID
+    PROLONGED/REPEATED CONTACT W/SKIN. WASH THOROUGHLY AFTER HANDLING.
+Other Precautions:CAUTION: PROLONGED OR REPEATED CONTACT W/USED MOTOR
+    OIL MAY BE HARMFUL TO SKIN & COULD CAUSE SKIN CANCER, PROMPTLY WASH
+    AFFECTED AREA W/SOAP & WATER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NORM NOT NEEDED
+Ventilation:ADEQUATE TO KEEP EXPOS BELOW TLV
+Protective Gloves:IMPERVIOUS
+Eye Protection:SPLASH-PROOF GOGGLES
+Other Protective Equipment:FULL WORK CLOTHING TO PREVENT REPEATED OR
+    PROLONGED CONTACT.
+Supplemental Safety and Health
+MSDS DTD 4/86
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:WIDE RANGE
+Vapor Pres:NIL
+Vapor Density:15+
+Spec Gravity:0.89
+Evaporation Rate & Reference:SLOW
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:DARK FLUID,ENGINE OIL ODOR
+Percent Volatiles by Volume:NIL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS
+Stability Condition to Avoid:AVOID IGNITION SOURCES
+Hazardous Decomposition Products:CARBON MONOXIDE & ASPHYXIANTS;TRACES
+    OF OXIDES OF SULFUR/ZIN
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:FOLLOW FED,STATE & LOCAL REGS;CONTRACT TO
+    AUTHORIZED DISPOSAL SERVICE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

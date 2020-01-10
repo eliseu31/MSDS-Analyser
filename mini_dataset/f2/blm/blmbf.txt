@@ -1,0 +1,122 @@
+=====================  Product Identification  =====================
+
+Product ID:KRONOS, ALL GRADES 1
+MSDS Date:11/01/1989
+FSC:8010
+NIIN:00N019822
+MSDS Number: BLMBF
+=== Responsible Party ===
+Company Name:KRONOS INC
+Address:3000 N SAM HOUSTON PKW
+Box:60087
+City:HOUSTON
+State:TX
+ZIP:77205
+Country:US
+Info Phone Num:800-866-5600
+Emergency Phone Num:800-424-9300
+CAGE:0HT07
+=== Contractor Identification ===
+Company Name:KRONOS INC
+Address:3000 N SAM HOUSTON PKW
+Box:City:HOUSTON
+State:TX
+ZIP:77205
+Country:US
+Phone:800-866-5600
+CAGE:0HT07
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: >80%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:ALUMINUM HYDROXIDE
+CAS:21645-51-2
+RTECS #:BD0940000
+Fraction by Wt: 0-9%
+OSHA PEL:2MG (AL)/M3
+
+Ingred Name:SILICON DIOXIDE; AMORPHOUS;(AMORPHOUS SILICA)
+CAS:7631-86-9
+Fraction by Wt: 0-11%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50:(ORAL RAT) >7500 MG/KG
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:IRRITATING TO RESPIRATORY SYSTEM.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:NORMAL WASHING TO REMOVE DUST. FLUSH WITH POTABLE WATER
+    FOR A MINIMUM OF 15 MINUTES. CALL MD . INHAL: REMOVE TO FRESH AIR.
+    INGEST:CALL MD. SKIN:FLUSH WITH COPIOUS AMOUNT OF WATER FOR AT LEAS
+    T 15 MINUTES. CALL MD .
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE MEDIA SUITABLE FOR SURROUNDING FIRE .
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CLEAN AREA. RETURN ALL MATERIAL POSSIBLE TO
+    CONTAINER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID BREATHING DUST. USE WITH
+    ADEQUATE VENTILATION.
+Other Precautions:NONE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATORY PROTECTION MUST
+    BE USED IN ACCORDANCE WITH EXISTING STANDARDS. USE NIOSH/MSHA
+    APPROVED RESPIRATOR IF TLV IS EXCEEDED.
+Ventilation:PROVIDE AS REQUIRED TO KEEP TLV BELOW ACCEPTABLE LIMITS.
+Protective Gloves:IMPERVIOUS GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE SPECIAL.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Spec Gravity:3.7-4.2
+Appearance and Odor:WHITE POWDER
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE.
+Stability Condition to Avoid:NONE.
+Hazardous Decomposition Products:NONE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN ACCORDANCE WITH LOCAL, STATE AND
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

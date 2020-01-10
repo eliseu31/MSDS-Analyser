@@ -1,0 +1,115 @@
+=====================  Product Identification  =====================
+
+Product ID:LITHIUM THIONYL CHLORIDE BATTERY
+MSDS Date:12/08/1992
+FSC:6135
+NIIN:01-301-8776
+MSDS Number: BWRYC
+=== Responsible Party ===
+Company Name:VARTA BATTERIES INC
+Address:300 EXECUTIVE BLVD
+City:ELMSFORD
+State:NY
+ZIP:10523
+Country:US
+Info Phone Num:408-727-0300
+Emergency Phone Num:516-621-4980
+CAGE:4M310
+=== Contractor Identification ===
+Company Name:VARTA BATTERIES INC
+Address:300 EXECUTIVE BLVD
+Box:City:ELMSFORD
+State:NY
+ZIP:10523-1202
+Country:US
+Phone:914-592-2500
+CAGE:4M310
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:THIONYL CHLORIDE; (SOCL*2)
+CAS:7719-09-7
+RTECS #:XM5150000
+Fraction by Wt: 50%
+OSHA PEL:1 PPM, C
+ACGIH TLV:1 PPM, C
+
+Ingred Name:SULFUR DIOXIDE; (SO*2)  (SARA 302)
+CAS:7446-09-5
+RTECS #:WS4550000
+OSHA PEL:5 PPM
+ACGIH TLV:2 PPM;5 STEL
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:CORROSIVE LIQUID, CAUSES BURNS,
+    HARMFUL IF INHALED.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGEST:CALL MD IMMEDIATELY . INHAL:REMOVE TO FRESH AIR.
+    SUPPORT BREATHING (GIVE O*2/ARTF RESP) . EYES:IMMEDIATELY FLUSH
+    W/POTABLE WATER FOR A MINIMUM OF 15 MINUTES, SEEK ASSISTANCE FROM
+    MD	. SKIN:FLUSH W/COPIOUS AMOUNTS OF WATER. CALL MD .
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:LIT-X-EXTINGUISHER.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT . NO WATER ALLOWED (APPLICABLE FOR WAREHOUSES). USE ONLY
+    MFR'S RECOMMENDED PROCEDURES.
+Unusual Fire/Explosion Hazard:RELEASE OF SO*2, H*2 & HCL IF OPENED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:GET FULL PROTECTIVE EQUIPMENT. USE LARGE
+    CONTAINER FILLED W/OIL, FILTERED MASKS. VENTILATE CONTAMINATED
+    AREA.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:WARNING: FIRE, EXPLOSION & SEVERE BURN
+    HAZARD. DO NOT RECHARGE, DISASSEMBLE, HEAT >212F, INCINERATE OR
+    EXPOSE CONTENTS TO WATER.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN . NOT APPLICABLE.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGGS(SUPDAT)
+Other Protective Equipment:EYE WASH FOUNTAIN & DELUGE SHOWER WHICH MEET
+    ANSI DESIGN CRITERIA .
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+EYE PROT:& FULL LENGTH FACESHIELD .
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+INTERNAL CONTENTS W/WATER.
+Stability Condition to Avoid:FIRE, HEAT OVER 150C.
+Hazardous Decomposition Products:SO*2, HCL, H*2.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE I/A/W FEDERAL, STATE & LOCAL
+    REGULATIONS . BURY IN GROUND 1 METER DEEP OR DISPOSE OF W/SPECIAL
+    EQUIPMENT, OR USE PROFESSIONAL BATTERY DISPOSAL SERVICE. DISPOSAL
+    SERVICES BY BDT  (716) 634-6794.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

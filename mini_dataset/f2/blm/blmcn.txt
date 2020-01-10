@@ -1,0 +1,125 @@
+=====================  Product Identification  =====================
+
+Product ID:2-DIETHYLAMINOETHANETHIOL HYDROCHLORIDE, D3
+MSDS Date:05/04/1988
+FSC:6810
+NIIN:00N020465
+MSDS Number: BLMCN
+=== Responsible Party ===
+Company Name:SIGMA CHEMICAL COMPANY
+Box:14508
+City:ST LOUIS
+State:MO
+ZIP:63178
+Country:US
+Info Phone Num:800-325-3010; 314-771-5750
+Emergency Phone Num:314-771-5765
+CAGE:21076
+=== Contractor Identification ===
+Company Name:SIGMA CHEMICAL COMPANY
+Address:3050 SPRUCE ST
+Box:14508
+City:ST LOUIS
+State:MO
+ZIP:63178
+Country:US
+Phone:314-771-5765
+CAGE:21076
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHANETHIOL, 2-(DIETHYLAMINO)-, HYDROCHLORIDE;
+    (2-DIETHYLAMINOETHANETHIOL HYDROCHLORIDE) (SEE INGREDIENT 2)
+CAS:1942-52-5
+RTECS #:KJ0700000
+OSHA PEL:10 PPM, S
+ACGIH TLV:10 PPM, S
+
+Ingred Name:ING 1: LIMITS GIVEN AS 2-DIMETHYLAMINOETHANETHIOL.
+RTECS #:9999999ZZ
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MAY BE HARMFUL BY INAHALTION,
+    INGESTION, OR SKIN ABSORPTION. CAUSES EYE AND SKIN IRRITATION.
+    MATERIAL IS IRRITATING TO MUCOUS MEMBRANES AND UPPER RESPIRATORY
+    TRACT. EXPOSURE CAN CAUSE: NAUSEA, HEADACH E AND VOMITING.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: IMMEDIATELY FLUSH EYES WITH COPIOUS AMOUNT OF WATER FOR
+    AT LEAST 15 MINTUES. SKIN: IMMEDIATELY WASH SKIN WITH SOAP AND
+    COPIOUS AMOUNTS OF WATER. INHAL: REMOVE TO FRESH AIR. IF NOT
+    BREATHING GIVE  ARTIFICIAL REPIRATON. IF BREATHING IS DIFFICULT,
+    GIVE OXYGEN. CALL MD. INGEST: CALL MD IMMEDIATELY .
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER SPRAY, CARBON DIOXIDE, DRY CHEMICAL POWDER,
+    ALCOHOL, POLYMER FOAM.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT.
+Unusual Fire/Explosion Hazard:EMITS TOXIC FUMES UNDER FIRE CONDITIONS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR SCBA, RUBBER BOOTS AND HEAVY RUBBER
+    GLOVES. SWEEP UP, PLACE IN A BAG AND HOLD FOR WASTE DISPOSAL. AVOID
+    RAISING DUST. VENTILATE AREA AND WASH SPILL SITE AFTER MATERIAL
+    PICKUP IS COMPLETE.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID INHAL, DO NOT GET IN EYES, ON
+    SKIN, ON CLOTHING. WASH THOROUGHLY AFTER HANDLING. IRRITANT. KEEP
+    TIGHTLY CLOSED. STENCH. STORE IN COOL PALACE.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR NIOSH/MSHA APPROVED RESPIRATOR.
+Ventilation:USE ONLY IN A CHEMICAL FUME HOOD.
+Protective Gloves:RUBBER GLOVES.
+Eye Protection:CHEM WORK GOG W/FULL LENGTH FCSHIELD.
+Other Protective Equipment:SAFETY SHOWER AND EYE BATH.
+Work Hygienic Practices:WASH CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:>340F,>171C
+Melt/Freeze Pt:M.P/F.P Text:340F,171C
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:TOXIC FUMES OF: CARBON MONOXIDE AND
+    CARBON DIOXIDE, NITROGEN OXIDES, SULFUR OXIDES, HYDROGEN CHLORIDE
+    GAS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISSOLVE OR MIX THE MATERIAL WITH A COMBUSTIBLE
+    SOLVENT AND BURN IN A CHEMICAL INCINERATOR EQUIPPED WITH AN
+    AFTERBURNER AND SCRUBBER. OBSERVE ALL FEDERAL, STATE, AND LOCAL
+    LAWS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

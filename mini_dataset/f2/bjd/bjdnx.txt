@@ -1,0 +1,127 @@
+=====================  Product Identification  =====================
+
+Product ID:FLUORESCEIN GREEN CONCENTRATE 71-440132-00
+MSDS Date:05/18/1987
+FSC:6810
+NIIN:01-117-2211
+MSDS Number: BJDNX
+=== Responsible Party ===
+Company Name:DWYER INSTRUMENTS INC
+Address:JCT 212 AND US 12
+Box:373
+City:MICHIGAN CITY
+State:IN
+ZIP:46360
+Country:US
+Info Phone Num:219-872-9141
+Emergency Phone Num:219-872-9141
+CAGE:85274
+=== Contractor Identification ===
+Company Name:CAROLINA EQUIPMENT & SUPPLY
+Address:7251 CROSS COUNTRY RD
+Box:City:NORTH CHARLESTON
+State:SC
+ZIP:29418
+Country:US
+Phone:803-760-3000
+CAGE:6K233
+Company Name:DWYER INSTRUMENTS INC
+Address:JCT 212 AND US 12
+Box:373
+City:MICHIGAN CITY
+State:IN
+ZIP:46360
+Country:US
+Phone:219-872-9141
+CAGE:85274
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM TETRADECYL SULFATE.
+CAS:1191-50-0
+RTECS #:XB8660000
+Fraction by Wt: 58.6%
+
+Ingred Name:TRIPHENYLMETHANE
+
+Ingred Name:XANTHENE
+
+Ingred Name:DISTILLED WATER
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NOT AVAILABLE FOR COMPONENT
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:PROLONGED CONTACT W/SKIN MAY CAUSE
+    MODERATE IRRITATION. EYES: MAY CAUSE SEVERE IRRITATION.
+Explanation of Carcinogenicity:TRIPHENYLMETHANE IS ANIMAL POSITIVE
+    (16,171, 78)
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:WASH AREA W/SOAP AND WATER. LAUNDER CONTAM CLTHG BEFORE
+    REUSE. EYES:FLUSH W/LGE AMTS OF WATER, LIFTING UPPER & LOWER
+    EYELIDS. GET MD. INGEST:INDUCE VOMITING; GET MD. INHAL:IF AFFECTED,
+    REMOVE IND IVIDUAL TO FRESH AIR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE KNOWN
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH SMALL SPILLS W/LGE AMTS OF WATER. LGE
+    SPILLS SHOULD BE COLLECTED FOR DISPOSAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN .
+Ventilation:PROVIDE SUFFICIENT MECHANICAL (GENERAL OR LOCAL)
+    VENTILATION.
+Protective Gloves:RUBBER OR PLASTIC
+Eye Protection:CHEM WORK GOGGLES 
+Other Protective Equipment:NONE KNOWN
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Spec Gravity:1.043
+Solubility in Water:MISCIBLE
+Appearance and Odor:GREEN LIQUID WITH MILD ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE KNOWN
+Stability Condition to Avoid:NONE KNOWN
+Hazardous Decomposition Products:THERMAL DECOMPOSITION MAY PRODUCE
+    SULFUR OXIDES, CO, CO2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W LOCAL, STATE & FEDERAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

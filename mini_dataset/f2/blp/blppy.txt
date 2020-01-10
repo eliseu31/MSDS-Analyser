@@ -1,0 +1,93 @@
+=====================  Product Identification  =====================
+
+Product ID:10-1065 ADJUST-N-DUST
+MSDS Date:11/24/1986
+FSC:6850
+NIIN:00F019192
+MSDS Number: BLPPY
+=== Responsible Party ===
+Company Name:GC ELECTRONICS
+Address:1801 MORGAN ST
+City:ROCKFORD
+State:IL
+ZIP:61105-1209
+Info Phone Num:(815) 968-9661
+Emergency Phone Num:(815) 968-9661
+CAGE:72653
+=== Contractor Identification ===
+Company Name:GC THORSEN
+Address:1801 MORGAN STREET
+Box:City:ROCKFORD
+State:IL
+ZIP:61105
+Country:US
+Phone:815-968-9661
+CAGE:72653
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DICHLORODIFLUOROMETHANE  (SARA III)
+CAS:75-71-8
+RTECS #:PA8200000
+Other REC Limits:1000 PPM
+OSHA PEL:1000 PPM
+ACGIH TLV:1000 PPM; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+Ozone Depleting Chemical:1
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: DIZZINESS, NAUSEA,
+    UNCONSCIOUSNESS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: DIZZINESS, NAUSEA, UNCONSCIOUSNESS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: MOVE TO FRESH AIR. GIVE OXYGEN, ARTIFICIAL
+    RESPIRATION. OBTAIN MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:CO2, FOAM
+Fire Fighting Procedures:USE SELF CONTAINED BREATHING APPARATUS
+Unusual Fire/Explosion Hazard:TOXIC GASES EMITTED WHEN EXPOSED TO
+    FLAME. TEMPERATURES >120F, MAY BURST CAN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VOLATILIZES AS IT LEAVES THE CAN. VENTILATE
+    AREA.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL DRY AREA FROM FLAME OR
+    EXCESSIVE HEAT. STORE <120F.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:MECHANICAL: AS REQUIRED TO KEEP 1
+Spec Gravity:1.32
+Evaporation Rate & Reference:(BU AC = 1): >1
+Solubility in Water:INSOLUBLE
+Appearance and Odor:COLORLESS LIQUID/GAS - SLIGHT ETHEREAL ODOR.
+Percent Volatiles by Volume:100%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:FLAME, EXCESSIVE HEAT. TEMPS >120F.
+Hazardous Decomposition Products:TOXIC GASES, CO, CO2, CHLORINE
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

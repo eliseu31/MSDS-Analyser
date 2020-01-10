@@ -1,0 +1,140 @@
+=====================  Product Identification  =====================
+
+Product ID:10-3330 SOLUBLE OIL
+MSDS Date:03/13/1987
+FSC:9150
+NIIN:01-071-4222
+MSDS Number: BLPGP
+=== Responsible Party ===
+Company Name:BUEHLER LTD
+Address:41 WAUKEGAN RD
+City:LAKE BLUFF
+State:IL
+ZIP:60044-1687
+Country:US
+Info Phone Num:312-295-6500
+Emergency Phone Num:312-295-6500
+Preparer's Name:TOM DERAM
+CAGE:09410
+=== Contractor Identification ===
+Company Name:BUEHLER LTD.
+Address:41 WAUKEGAN RD.
+Box:City:LAKE BLUFF
+State:IL
+ZIP:60044-1687
+Country:US
+Phone:847-295-8500
+CAGE:09410
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 61-60%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:TRIETHANOLAMINE
+CAS:102-71-6
+RTECS #:KL9275000
+Fraction by Wt: 21-25%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:TRIETHANOLAMINE BORIC ACID SALT
+CAS:100049-36-2
+Fraction by Wt: 6-10%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:TRIETHANOLAMINE CAPRYLIC ACID SALT
+CAS:22919-56-8
+Fraction by Wt: 6-10%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:ALIPHATIC AMINE SALT
+Fraction by Wt: 1-5%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:NAPHTHO(3,2,1-X1) XANTHENE 2,8-DIMETHYL
+CAS:81-37-8
+Fraction by Wt: <1%
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MANUFACTURER STATES THAT UNDER NORMAL
+    CONDITIONS, THIS PRODUCT IS BELIEVED NOT TO BE AN IRRITANT.
+Effects of Overexposure:MAY CAUSE EYE AND SKIN IRRITATION.
+Medical Cond Aggravated by Exposure:NONE KNOWN
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: WASH EXPOSED AREAS WITH SOAP AND WATER.  EYES: FLUSH
+    WITH WATER FOR 15 MIN. AND GET MEDICAL ATTENTION.  INGESTION: DO
+    NOT INDUCE VOMITING. DRINK WATER OR MILK AND GET MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER, CARBON DIOXIDE, DRY CHEMICAL.
+Fire Fighting Procedures:NONE- THIS PRODUCT DOES NOT BURN.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONTAIN SPILL, REMOVE TO DRUM WITH PUMP OR
+    INERT ABSORBENT SUCH AS CLAY.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:WASH THOROUGHLY AFTER HANDLING. WASH
+    CONTAMINATED CLOTHING BEFORE RE-USE. AVOID CONTACT WITH SKIN AND
+    EYES.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESPIRATORY PROTECTION IF MISTS EXCEED 5
+    MG/CUBIC METER.  NOT REQUIRED UNDER NORMAL USE.
+Ventilation:MAINTAIN ADEQUATE VENTILATION.
+Protective Gloves:RUBBER GLOVES WHEN HANDLING CONCENRATE
+Eye Protection:CHEMICAL GOGGLES
+Other Protective Equipment:IMPERVIOUS APRON
+Work Hygienic Practices:GOOD PERSONAL HYGIENE TO BE FOLLOWED AT ALL
+    TIMES.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:B3
+Boiling Pt:B.P. Text:212F,100C
+Vapor Pres:15
+Spec Gravity:1.09
+pH:9
+Solubility in Water:100%
+Appearance and Odor:LIQUID-CLEAR GREENISH/ORANGE COLOR, SWEET ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+MINERAL ACIDS, PETROLEUM OIL.
+Stability Condition to Avoid:NONE KNOWN
+Hazardous Decomposition Products:AMMONIA, CARBON DIOXIDE, AND CARBON
+    MONOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH FEDERAL, STATE, OR
+    LOCAL WASTE REGULATIONS. RECOMMENDED WASTE WATER TREATMENT - NO
+    SPECIAL CHEMICAL TREATMENT REQUIRED.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

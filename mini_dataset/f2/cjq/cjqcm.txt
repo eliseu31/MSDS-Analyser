@@ -1,0 +1,177 @@
+=====================  Product Identification  =====================
+
+Product ID:PH LEVEL 1 OR 2
+MSDS Date:04/13/1999
+FSC:6810
+NIIN:01-456-3606
+Status Code:A
+MSDS Number: CJQCM
+=== Responsible Party ===
+Company Name:ANALYTICAL PRODUCTS GROUP INC
+Address:2730 WASHINGTON BLVD
+City:BELPRE
+State:OH
+ZIP:45714
+Country:US
+Info Phone Num:740-423-4200/800-272-4442
+Emergency Phone Num:740-423-4200/800-272-4442
+Resp. Party Other MSDS Num.:CATALOG NUMBER: 600/3372/4060
+CAGE:0HWA6
+=== Contractor Identification ===
+Company Name:ANALYTICAL PRODUCTS GROUP INC
+Address:2730 WASHINGTON BLVD
+Box:City:BELPRE
+State:OH
+ZIP:45714
+Country:US
+Phone:740-423-4200/800-272-4442
+CAGE:0HWA6
+Company Name:INDUSTRIAL CHEMICAL COMMODITIES INC
+Address:15944 DERWOOD RD
+Box:City:ROCKVILLE
+State:MD
+ZIP:20855
+Country:US
+Phone:800-284-5279
+Contract Num:SP0450-99-M-ND11
+CAGE:1ELU0
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HYDROCHLORIC ACID
+CAS:7647-01-0
+RTECS #:MW4025000
+< Wt:2.
+OSHA PEL:C7 MG/M3;C5 PPM
+ACGIH STEL:C7.5 MG/M3;C5 PPM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:SODIUM HYDROXIDE
+CAS:1310-73-2
+RTECS #:WB4900000
+< Wt:1.
+OSHA PEL:2 MG/M3
+ACGIH STEL:C2 MG/M3
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:POTASSIUM HYDROGEN PHTHALATE
+CAS:877-24-7
+< Wt:5.
+
+Ingred Name:BORIC ACID
+CAS:10043-35-3
+RTECS #:ED4550000
+< Wt:5.
+
+Ingred Name:POTASSIUM DIHYDROGEN PHOSPHATE
+CAS:7778-77-0
+< Wt:5.
+
+Ingred Name:POTASSIUM CHLORIDE
+CAS:7447-40-7
+RTECS #:TS8050000
+< Wt:5.
+
+Ingred Name:SODIUM BORATE DECAHYDRATE
+CAS:1303-96-4
+RTECS #:VZ2275000
+< Wt:1.
+ACGIH TLV:5 MG/M3
+
+Ingred Name:SODIUM BICARBONATE
+CAS:144-55-8
+RTECS #:VZ0950000
+< Wt:1.
+
+Ingred Name:TRIS(HYDROXYMETHYL)AMINOMETHANE
+CAS:77-86-1
+RTECS #:TY2900000
+< Wt:1.
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+> Wt:80.
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:NO ACUTE OR CHRONIC HEALTH HAZARDS.
+Effects of Overexposure:NONE KNOWN.
+Medical Cond Aggravated by Exposure:NONE KNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SEEK MEDICAL ASSISTANCE FOR TREATMENT, OBSERVATION AND
+    SUPPORT IF NECESSARY.  EYES: FLUSH WITH WATER.  SKIN: FLUSH WITH
+    WATER.  INHALATION: N/A.  INGESTION: DRINK EXCESS WATER TO FLUSH
+    SYSTEM AND/OR I NDUCE VOMITING (SALTS MAY MODIFY ELECTROLYTE
+    BALANCE OF SOME INDIVIDUALS).
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:NON-FLAMMABLE, USE EXTINGUISHER MEDIA APPROPRIATE
+    FOR SURROUNDING THE FIRE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB AND PLACE IN WASTE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:TREAT AS NON-HAZARDOUS SAMPLE.
+Other Precautions:ANALYTICAL STANDARDS SHOULD NEVER BE HEATED OR
+    EVAPORATED TO DRYNESS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED
+Ventilation:LOCAL EXHAUST
+Protective Gloves:NONE REQUIRED
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:MAINTAIN EYE WASH AND QUICK DRENCH SHOWERS
+    IN WORK AREA
+Work Hygienic Practices:NONE PROVIDED BY MFR.
+Supplemental Safety and Health
+NONE PROVIDED BY MFR.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C3
+Solubility in Water:SOLUBLE
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+WATER REACTIVE MATERIALS
+Stability Condition to Avoid:NONE KNOWN
+Hazardous Decomposition Products:NONE KNOWN
+Conditions to Avoid Polymerization:WILL NOT OCCUR
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN A MANNER CONSISTENT WITH FEDERAL,
+    STATE, AND LOCAL REGULATIONS.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:SARA TITLE III, SECTION 313: COMPONENTS IN
+    THIS PRODUCT AT A LEVEL WHICH COULD REQUIRE REPORTING UNDER STATUTE
+    ARE: LEAD.
+State Regulatory Information:CALIFORNIA REGULATORY INFORMATION,
+    CALIFORNIA STATE PROPOSITION 65: WARNING THIS PRODUCT CONTIANS
+    LEAD, KNOWN TO THE STWTW OF CALIFORNIA TO CAUSE BIRTH DEFECTS OR
+    OTHER REPRODUCTIVE HARM. ALSO CALIFOR NIA SCAQMD RULE 443.1, VOC'S
+    NONE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

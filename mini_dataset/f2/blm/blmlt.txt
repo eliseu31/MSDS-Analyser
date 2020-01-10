@@ -1,0 +1,137 @@
+=====================  Product Identification  =====================
+
+Product ID:SC-100 HARDENER COMPONENT
+MSDS Date:05/21/1991
+FSC:8040
+NIIN:00N021485
+Kit Part:Y
+MSDS Number: BLMLT
+=== Responsible Party ===
+Company Name:AMERICAN SAFETY TECHNOLOGIES INC
+Address:565 EAGLE ROCK AVE
+City:ROSELAND
+State:NJ
+ZIP:07068
+Country:US
+Info Phone Num:201-403-2600
+Emergency Phone Num:201-403-2600;800-424-9300(CHEMTREC)
+Preparer's Name:F LOELOFF
+CAGE:AMSAT
+=== Contractor Identification ===
+Company Name:AMERICAN SAFETY TECHNOLOGIES INC.
+Address:565 EAGLE ROCK AVENUE
+City:ROSELAND
+State:NJ
+ZIP:07068
+Country:US
+Phone:800-424-9300
+CAGE:AMSAT
+Company Name:SAFETY COATINGS, INC
+Address:HIGHWAY 59 NORTH
+Box:399
+City:FOLEY
+State:AL
+ZIP:36536
+Country:US
+Phone:205-943-1638
+CAGE:SAFET
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POLYAMINE; (MODIFIED CYCLOALIPHATIC). LD50:ORAL(RAT)>2.3
+    G/KG.
+
+Ingred Name:MODIFIED ALIPHATIC AMINE
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE INGREDIENT 1.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES:CAUSES BURNS & SEV IRRIT.
+    SKIN:CAUSES BURNS. MAY BE ABSORBED THRU SKIN IN HARMFUL AMTS.
+    INHAL:CAUSES RESP TRACT IRRIT, HDCHS, DIZZ, NAUS & VOMIT.
+    INGEST:CONTAINS MATL THAT IS TOX BY INGEST. CAUSE S DMG TO MUCOUS
+    MEMBRANES.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:IRRITATION, SENSITIZATION & DERMATITIS.
+Medical Cond Aggravated by Exposure:ALLERGY, EDZEMA & OTHER SKIN
+    CONDITIONS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH W/LG AMTS OF H2O FOR @ LST 15 MIN. GET MD.
+    SKIN:REMOVE CONTAM CLTHG; WASH CNTCT AREA W/MILD SOAP & H2O. IF
+    SWELLING OR IRRIT DEVELOPS, GET MD. INHAL:REMOVE TO FRESH AIR. IF
+    BRTHG HAS STOPPE D, ADMIN ARTF RESP & GET MD. INGEST:DO NOT INDUCE
+    VOMIT. IF CONSCIOUS, DILUTE BY ADMINISTERING H2O OR MILK. GET MD.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:>200F,>93C
+Extinguishing Media:CO2 OR DRY CHEMICAL FOR SMALL FIRES. AQUEOUS FOAM
+    OR WATER FOR LARGE FIRES.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:WATER OR FOAM MAY CAUSE FROTHING WHICH
+    CAN BE VIOLENT, ESPECIALLY IF SPRAYED INTO CONTAINERS OF HOT OR
+    BURNING LIQUID.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:AVOID ALL PERSONAL CONTACT. DIKE SPILL. ABSORB
+    WITH INERT MATERIAL AND COLLECT FOR DISPOSAL. FLUSH AREA WITH
+    WATER; PREVENT WASHINGS FROM ENTERING WATERWAYS.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID ALL PERSONAL CONTACT. DO NOT
+    EXCEED 110F/43C IN STORAGE AREA.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR WITH ORGANIC
+    VAPOR CARTRIDGE IF REQUIRED.
+Ventilation:MECH VENT & LOC EXHST RECOMMENDED. MECH EXHST NOT
+    RECOMMENDED AS SOLE MEANS OF CONTROLLING EMPLOYEE EXPOSURE.
+Protective Gloves:IMPERVIOUS GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:IN OPERATIONS WHERE CNTCT MAY OCCUR
+    COVERALLS, APRON & IMPERVIOUS FOOT COVERING ARE RECOMMENDED. SFTY
+    SHOWER & (SUPDAT)
+Work Hygienic Practices:IMMEDIATELY REMOVE & THOROUGHLY LAUNDER
+    CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+OTHER PROT EQUIP:EYE WASH FACILITY SHOULD BE AVAILABLE TO EMPLOYEES.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C2
+Spec Gravity:1.0
+Evaporation Rate & Reference:<1.0 (BUTYL ACETATE=1)
+Solubility in Water:SOLUBLE
+Appearance and Odor:CLEAR LIQUID, AMINE ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:EXCESSIVE HEAT & PRESSURE.
+Hazardous Decomposition Products:CO2, CO & NOX.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF I/A/W ALL FEDERAL, STATE & LOCAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,99 @@
+=====================  Product Identification  =====================
+
+Product ID:CYTOXAN TABLETS 50 MG.
+MSDS Date:03/01/1990
+FSC:6505
+NIIN:00-733-5246
+MSDS Number: BKYMM
+=== Responsible Party ===
+Company Name:US PHARM. & NUTRITIONAL GROUP
+Address:2400 W LLOYD EXPRESSWAY
+City:EVANSVILLE
+State:IN
+ZIP:47721
+Info Phone Num:(812) 429-5678 OR (812) 429-5000
+Emergency Phone Num:(812) 429-5678 OR (812) 429-5000
+CAGE:DO726
+=== Contractor Identification ===
+Company Name:E R SQUIBB MEDATOPE DIV
+Address:5 GORDIS RD  BLDG 124
+Box:191
+City:NEW BRUNSWICK
+State:NJ
+ZIP:08903
+Country:US
+Phone:609-921-4081
+CAGE:4T649
+Company Name:US PHARM. & NUTRITIONAL GROUP
+Address:2400 W LLOYD EXPRESSWAY
+City:EVANSVILLE
+State:IN
+ZIP:47721
+Phone:812-429-5140
+CAGE:DO726
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CYCLOPHOSPHAMIDE HYDRATE
+CAS:6055-19-2
+RTECS #:RP6157750
+Fraction by Wt: 9%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): 1045 MG/KG.
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:EYES: CONJUNCTIVITIS. SKIN: ABSORPTION
+    & SENSITIZATION. INGESTION: CYTOTOXIC AGENT, BONE MARROW
+    SUPPRESSION, GENITO-URINARY, LUNG, CARDIAC & GASTROINTESTINAL
+    TOXICITY.
+Explanation of Carcinogenicity:HUMAN POSITIVE
+Effects of Overexposure:EYES: CONJUNCTIVITIS. SKIN: ABSORPTION &
+    SENSITIZATION. INGESTION: CYTOTOXIC AGENT, BONE MARROW SUPPRESSION,
+    GENITO-URINARY, LUNG, CARDIAC & GASTROINTESTINAL TOXICITY.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER FOR 15 MIN. SKIN: WASH W/SOAP &
+    WATER. INGESTION/INHALATION: OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER, CO2 & DRY CHEMICAL
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS & FULL
+    PROTECTIVE CLOTHING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SCOOP UP TABLETS & PLACE IN SUITABLE
+    CONTAINER. IF TABLETS ARE CRUSHED, CLEAN UP LARGER PIECES, CLEAN
+    REMAINING POWDER W/DAMP CLOTH TOWELS TO SUPPRESS DUST. CLEAN
+    W/DETERGENT & WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AT TEMPERATURES 77F & BELOW.
+    AVOID CUTS FROM GLASS IF BOTTLES BREAK.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH APPROVED DUST RESPIRATOR IF >TLV.
+Ventilation:LOCAL EXHAUST TO MAINTAIN 77F
+Hazardous Decomposition Products:TOXIC FUMES OF CHLORINE, OXIDES OF
+    NITROGEN & PHOSPHORUS
+Conditions to Avoid Polymerization:TEMPERATURES >120F.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL BY INCINERATION IN COMPLIANCE W/LOCAL,
+    STATE, & FEDERAL REGULATIONS. U058 (HAZARDOUS WASTE).
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

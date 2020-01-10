@@ -1,0 +1,202 @@
+=====================  Product Identification  =====================
+
+Product ID:5R587 DOCUCOLOR 40 BLACK DEVELOPER
+MSDS Date:03/30/1999
+FSC:6850
+NIIN:01-462-0091
+MSDS Number: CJQDT
+=== Responsible Party ===
+Company Name:FUJI XEROX CO., LTD
+Address:1600 TAKEMATSU, MINAMISHIGARA-SHI
+City:KANAGAWA-KEN, 250-01
+Country:JA
+Info Phone Num:800-828-6571
+Emergency Phone Num:716-422-2177
+Resp. Party Other MSDS Num.:B-0293
+Preparer's Name:NOT PROVIDED.
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:TO211
+=== Contractor Identification ===
+Company Name:FUJI XEROX CO., LTD
+Address:1600 TAKEMATSU, MINAMISHIGARA-SHI
+Box:City:KANAGAWA-KEN, 250-01
+Country:JA
+Phone:800-828-6571
+CAGE:TO211
+Company Name:XEROX CORP
+Address:800 CARILLON PKY
+Box:City:SAINT PETERSBURG
+State:FL
+ZIP:33742-4020
+Country:US
+Phone:727-556-2097
+Contract Num:SP0450-00-M-D516
+CAGE:02DH1
+Company Name:XEROX CORPORATION
+Address:6620 W BROAD ST 5TH FLOOR
+Box:City:RICHMOND
+State:VA
+ZIP:23230-1716
+Country:US
+Phone:804-289-5400
+Contract Num:SP0450-99-M-NF40
+CAGE:1B785
+Company Name:XEROX CORPORATION
+Address:Box:-
+City:ROCHESTER
+State:NY
+ZIP:14644
+Country:US
+Phone:800-828-6571/716-422-2177
+CAGE:TO490
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CU-ZN FERRITE POWDER
+CAS:66402-68-4
+> Wt:86.
+
+Ingred Name:POLYESTER
+CAS:128781-91-9
+> Wt:4.5
+
+Ingred Name:CARBON BLACK
+CAS:1333-86-4
+RTECS #:FF5800000
+Minumum % Wt:.1
+Maxumum % Wt:.25
+OSHA PEL:3.5 MG/M3
+ACGIH TLV:3.5 MG/M3
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL, RAT) > 5,000 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MINIMAL RESPIRATORY TRACT IRRITATION
+    MAY OCCUR AS WITH EXPOSURE TO LARGE AMOUNTS OF ANY NON-TOXIC DUST.
+Explanation of Carcinogenicity:NO CARCINOGENS PRESENT.
+Effects of Overexposure:MINIMAL RESPIRATORY TRACT IRRITATION MAY OCCUR
+    AS WITH EXPOSURE TO LARGE AMOUNTS OF ANY NON-TOXIC DUST.
+Medical Cond Aggravated by Exposure:NONE WHEN USED AS DESCRIBED BY
+    PRODUCT LITERATURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH WATER. SKIN: WASH WITH SOAP AND WATER.
+    INHALATION: REMOVE FROM EXPOSURE. INGESTION: DILUTE STOMACH
+    CONTENTS WITH SEVERAL GLASSES OF WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE WATER SPRAY, FOG OR FOAM.
+Fire Fighting Procedures:AVOID INHALATION OF SMOKE. WEAR PROTECTIVE
+    CLOTHING AND SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:TONER IS A COMBUSTIBLE POWDER. LIKE MOST
+    ORGANIC MATERIALS IN POWDER FORM, IT CAN FORM EXPLOSIVE MIXTURES
+    WHEN DISPERSED IN AIR.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP/VACUUM SPILLED TONER AND CAREFUALLY
+    TRANSFER INTO SEALABLE WASTE CONTAINER. SWEEP SLOWLY TO MINIMIZE
+    GENERATION OF DUST DURING CLEANUP. IF VACUUM IS USED, MOTOR MUST BE
+    RATED AS DUST TIGHT. A  CONDUCTIVE HOSE BONDED TO THE MACHINE
+    SHOULD BE USED TO REDUCE STATIC BUILDUP. RESIDUE CAN BE REMOVED
+    WITH SOAP AND COLD WATER. GARMENTS MAY BE WASHED OR DRY-CLEANED,
+    AFTER REMOVAL OF LOOSE TONER.
+Neutralizing Agent:NOT RELEVANT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NONE
+Other Precautions:AVOID PROLONGED INHALATION OF EXCESSIVE DUST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED WHEN USED AS INTENDED IN XEROX
+    EQUIPMENT.
+Ventilation:NOT PROVIDED.
+Protective Gloves:NONE REQUIRED WHEN USED AS INTENDED IN XEROX
+    EQUIPMENT.
+Eye Protection:NONE REQUIRED WHEN USED AS INDENDED IN XEROX EQUIPMENT.
+Other Protective Equipment:FOR USE OTHER THAN NORMAL CUSTOMER -
+    OPERATING PROCEDURES (SUCH AS BULK TONER PROCESSING FACILITIES),
+    GOGGLES AND RESPIRATORS MAY BE REQUIRED. FOR MORE INFORMATION,
+    CONTACT XEROX.
+Work Hygienic Practices:NOT PROVIDED.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+NRC/State Lic Num:NOT RELEVANT.
+Boiling Pt:B.P. Text:NOT APPLICAPLE.
+Melt/Freeze Pt:M.P/F.P Text:NOT DETERMINED.
+Decomp Temp:Decomp Text:NOT PROVIDED.
+Vapor Pres:NOT APPLICAPLE.
+Spec Gravity:NOT DETERMINED.
+Viscosity:NOT APPLICAPLE.
+Evaporation Rate & Reference:NOT APPLICAPLE.
+Solubility in Water:NOT DETERMINED.
+Appearance and Odor:BLACK POWDER / FAINT ODOR.
+Percent Volatiles by Volume:NOT RELEVANT
+Corrosion Rate:NOT PROVIDED.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE KNOWN
+Stability Condition to Avoid:NOT PROVIDED.
+Hazardous Decomposition Products:PRODUCTS OF COMBUSTION MAY BE TOXIC.
+    AVOID BREATHING SMOKE.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:TLV: 10 MG/M3 (TOTAL DUST) DERMAL LD50: >5
+    G/KG (RABBIT) PRACTICALLY NON-TOXIC. PEL: 15 MG/M3 (TOTAL DUST) 5
+    MG/M3 (RESPIRABLE DUST). INHALATION LC50: >5 MG/L (RATS, 4 HR
+    EXPOSURE)  PRACTICALLY NON-TO XIC >20 MG/L (RATS, CALCULATED 1 HR
+    EXPOSURE) NON-POISONOUS, DOT. EYE IRRITATION: NOT AN IRRITANT. SKIN
+    SENSITIZATION: NOT A SENSITIZER. SKIN IRRITATION: NOT AN IRRITANT.
+    HUMAN PATCH: NON-IRRITATING,  NON-SENSITIZING. MUTAGENICITY:
+    NON-MUTAGENIC IN AMES ASSAY. AQUATIC LC50: > 1000 MG/L (RAINBOW
+    TROUT) NON-TOXIC.
+
+=====================  Ecological Information  =====================
+
+Ecological:AQUATIC LC50: > 1000 MG/L (RAINBOW TROUT) NON-TOXIC.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:THIS MATERIAL IS NOT A HAZARDOUS WASTE ACCORDING
+    TO FEDERAL REGULATION 40 CFR 261 WHEN DISPOSED. STATE AND LOCAL
+    WASTE DISPOSAL REQUIREMENTS HOWEVER, MAY BE MORE RESTRICTIVE.
+    PLEASE, CONSULT WITH THE  APPROPRIATE STATE AND LOCAL WASTE
+    DISPOSAL AUTHORITIES. INCINERATE ONLY IN A CLOSED CONTAINER.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:DOT PROPER SHIPPING NAME: NOT REGULATED.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:CU-ZIN FERRITE POWDER IS A TOXIC CHEMICAL
+    SUBJECT TO THE REPORTING REQUIREMENTS OF SECTION 313 OF TITLE III
+    OF THE SUPERFUND AMENDMENTS AND REAUTHORIZATION ACT OF 1986 AND 40
+    CFR PART 372.
+Federal Regulatory Information:NOT PROVIDED.
+State Regulatory Information:NOT PROVIDED.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

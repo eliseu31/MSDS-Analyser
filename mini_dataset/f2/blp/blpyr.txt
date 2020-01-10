@@ -1,0 +1,221 @@
+=====================  Product Identification  =====================
+
+Product ID:FSVP88156 GREEN POLYCRON H/B
+MSDS Date:08/21/1986
+FSC:8010
+NIIN:00F019354
+MSDS Number: BLPYR
+=== Responsible Party ===
+Company Name:PPG INDUSTRIES INC
+Address:260 KAPPA DR
+City:PITTSBURGH
+State:PA
+ZIP:15238
+Info Phone Num:(412) 963-5822
+Emergency Phone Num:(304) 843-1300
+CAGE:93915
+=== Contractor Identification ===
+Company Name:PPG INDUSTRIES INC CHEMICAL DIVISION
+Address:ONE GATEWAY CENTER
+City:PITTSBURGH
+State:PA
+ZIP:15222-1416
+Country:US
+Phone:304-843-1300
+CAGE:93915
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BENZIN, NAPHTHA, MINERAL SPIRITS, PETROLEUM NAPHTHA
+CAS:8030-30-6
+RTECS #:DE3030000
+Fraction by Wt: 1%
+Other REC Limits:STEL 400 PPM
+OSHA PEL:500 PPM
+ACGIH TLV:300 PPM
+
+Ingred Name:ISOBUTYL ALCOHOL  (SARA III)
+CAS:78-83-1
+RTECS #:NP9625000
+Fraction by Wt: 1%
+Other REC Limits:50 PPM
+OSHA PEL:100 PPM
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:LIGHT ALIPHATIC NAPHTHA, VM & P NAPHTHA
+CAS:64742-89-8
+Fraction by Wt: 5%
+OSHA PEL:300 PPM
+ACGIH TLV:300 PPM
+
+Ingred Name:PROPYLENEGLYCOL MONOMETHYL ETHER ACETATE,
+    1-METHOXY-2-PROPANOL ACETATE
+CAS:108-65-6
+RTECS #:AI8925000
+Fraction by Wt: 1%
+
+Ingred Name:METHYL ALCOHOL (METHANOL)  (SARA III)
+CAS:67-56-1
+RTECS #:PC1400000
+Fraction by Wt: 1%
+Other REC Limits:200 PPM
+OSHA PEL:S,200PPM/250STEL
+ACGIH TLV:S,200PPM/250STEL; 93
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:RESINS
+Fraction by Wt: <50%
+Other REC Limits:10 MG/CUM (DUST)
+
+Ingred Name:ADDITIVES
+Fraction by Wt: <50%
+
+Ingred Name:FILM FORMERS
+Fraction by Wt: <50%
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 5%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:IRON HYDROXIDE OXIDE
+CAS:20344-49-4
+Fraction by Wt: 1%
+OSHA PEL:10 MG/CUM
+ACGIH TLV:10 MG/CUM
+
+Ingred Name:BARIUM SULFATE
+CAS:7727-43-7
+RTECS #:CR0600000
+Fraction by Wt: 10%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:SILICA
+CAS:7631-89-9
+Fraction by Wt: 5%
+OSHA PEL:10 MG/CUM
+ACGIH TLV:10 MG/CUM
+
+Ingred Name:SOLVENT NAPHTHA, PETROLEUM, LIGHT AROMATIC C8-C10 (AROMATIC
+    100)
+CAS:64742-95-6
+Fraction by Wt: 5%
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS)	(SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 5%
+Other REC Limits:100 PPM
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:N-BUTYL ALCOHOL  (SARA III)
+CAS:71-36-3
+RTECS #:EO1400000
+Fraction by Wt: 5%
+Other REC Limits:300 MG/CUM
+OSHA PEL:100 PPM
+ACGIH TLV:S, C 50 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: WATERING, REDNESS, ITCHING,
+    BURNING SENSATION, VISUAL DISTURBANCES. SKIN: DRYNESS, ITCHING,
+    CRACKING, BURNING, REDNESS & SWELLING. INHALATION: HEADACHES,
+    NAUSEA, DIZZINESS & LOSS OF COORDINATION , BREATHING DIFFICULTIES.
+    INGESTION: CORROSIVE.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INGESTION: POISON, FATAL, BLINDNESS. EYES:
+    IRRITATION. SKIN: IRRITATION, ABSORBED, ALLERGIC REACTION.
+    INHALATION: HARMFUL, IRRITATION OF THE RESPIRATORY SYSTEM,
+    PERMANENT BRAIN & NERVOUS SYSTEM DAMAGE .
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION: INDUCE VOMITING BY GIVING 1 TSP OF SYRUP OF IPECAC
+    OR STICKING FINGER DOWN THROAT. GIVE 2 TSPS OF BAKING SODA IN A
+    GLASS OF WATER. EYES: FLUSH W/PLENTY OF WATER FOR AT LEAST 30 MINS.
+    SKIN:  WIPE OFF, USE WATERLESS HAND CLEANER & WASH W/SOAP & WATER.
+    INHALATION: REMOVE TO FRESH AIR. APPLY ARTIFICIAL RESPIRATION &
+    OTHER SUPPORTIVE MEASURES. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:72F
+Lower Limits:1.6%
+Extinguishing Media:USE NFPA CLASS B EXTINGUISHERS SUCH AS CO2, DRY
+    CHEMICAL, OR UNIVERSAL AQUEOUS FILM FORMING FOAM.
+Fire Fighting Procedures:WATER SPRAY MAY BE INEFFECTIVE. IF WATER IS
+    USED, FOG NOZZLES ARE PREFERABLE. WEAR SELF CONTAINED BREATHING
+    APPARATUS.
+Unusual Fire/Explosion Hazard:WATER SPRAY MAY BE USED TO COOL CLOSED
+    CONTAINERS TO PREVENT PRESSURE BUILD-UP, POSSIBLE
+    AUTOIGNITION/EXPLOSION WHEN EXPOSED TO EXTREME HEAT. FLAMMABLE
+    LIQUID.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:PROVIDE MAXIMUM VENTILATION. REMOVE ALL
+    SOURCES OF IGNITION. TAKE UP SPILLED MATERIAL W/SAWDUST,
+    VERMICULITE, OR OTHER ABSORBENT MATERIAL & PLACE INTO CONTAINERS
+    FOR DISPOSAL. WEAR PROTECTIVE EQUIPMEN T.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T STORE >120F. AVOID CONTACT
+    W/SKIN & INHALATION: OF VAPOR/SPRAY MIST. KEEP CONTAINERS TIGHTLY
+    CLOSED.
+Other Precautions:GROUND CONTAINERS WHEN POURING. AVOID FREE FALL OF
+    LIQUIDS IN EXCESS OF A FEW INCHES. INTENTIONAL MISUSE BY
+    DELIBERATELY CONCENTRATING/INHALING CONTENTS CAN BE HARMFUL/FATAL.
+    AVOID WELDING/BRAZING/FLA ME-CUTTING ON SURFACES COATED W/PRODUCT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR NIOSH/MSHA APPROVED (TC-23C) PAINT SPRAY OR
+    AIR SUPPLIED (TC-19C) RESPIRATORS.
+Ventilation:GENERAL DILUTION/LOCAL & VAPOR EXHAUST IN VOLUME & PATTERN
+    TO KEEP AIR
+Evaporation Rate & Reference:(BU-AC = 100): 86
+Solubility in Water:2.3%
+Percent Volatiles by Volume:38.20%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ALKALIES, STRONG MINERAL ACIDS, OR STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:HEAT, ELECTRICAL EQUIPMENT, SPARKS, OPEN
+    FLAMES, HOT SURFACES, TEMPS >120F, & SOURCES OF IGNITION.
+Hazardous Decomposition Products:CO, OXIDES OF NITROGEN, FORMALDEHYDE,
+    TOXIC GASES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. FLAMMABLE LIQUID. EMPTY CONTAINERS SHOULD BE
+    RECYCLED OR DISPOSED OF THROUGH AN APPROVED WASTE MANAGEMENT
+    FACILITY.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

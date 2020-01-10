@@ -1,0 +1,172 @@
+=====================  Product Identification  =====================
+
+Product ID:CSD 857 B
+MSDS Date:12/01/1989
+FSC:8010
+NIIN:00-160-5786
+MSDS Number: BHWYT
+=== Responsible Party ===
+Company Name:ASHLAND CHEMICAL CO. DIV. OF ASHLAND OIL INC
+Address:3849 FISHER ROAD
+Box:2219
+City:COLUMBUS
+State:OH
+ZIP:43216
+Country:US
+Info Phone Num:606-324-1133
+Emergency Phone Num:614-790-3333
+CAGE:7L600
+=== Contractor Identification ===
+Company Name:ASHLAND CHEMICAL CO DIV OF ASHLAND OIL INC
+Address:3849 FISHER RD
+Box:2219
+City:COLUMBUS
+State:OH
+ZIP:43216
+Country:US
+Phone:614-790-3333 / 800-325-3751
+CAGE:7L600
+Company Name:CSD
+Address:5 HACKBERRY LANE
+Box:3087
+City:CONROE
+State:TX
+ZIP:77305
+Country:US
+Phone:409-756-1065/1083 FAX DAVID /SHANAN
+CAGE:SW216
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: 15-20%
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+Ingred Name:ISOBUTYL ACETATE  (SARA III)
+CAS:110-19-0
+RTECS #:AI4025000
+Fraction by Wt: 30-35%
+OSHA PEL:150 PPM
+ACGIH TLV:150 PPM; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ALIPHATIC PETROLEUM DISTILLATES
+CAS:34742-89-8
+Fraction by Wt: 15-20%
+OSHA PEL:400 PPM
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: 12%
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 12%
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Health Hazards Acute and Chronic:EYES: IRRITATION, REDNESS, TEARING MAY
+    CAUSE  OTHER EYE DAMAGE.		     INHAL: IRRITATION TO NASAL
+    AND RESPIRATORY, CENTRAL NERVOUS SYSTEM SKIN: IRRI.  TO DERMATITIS,
+    INGEST: LIVER ABNORMALITI ES, KIDNEY, MAY CAUSE ASPIRATION INTOTHE
+    LUNGS, PNEUMONITIS WHICH CAN BE FATAL.
+Effects of Overexposure:EYES: IRRITATION, REDNESS, TEARING SKIN:
+    PROLONGED OR REPEATED CONTACT CAN CAUSEMODERATE IRRIT. DEFATTING,
+    DERMARTITIS. INHAL: IRRITATION TO RESPIR SYS, CNTRL  NERV SYS,
+    DIZZINESS, WEAKNESS, FATIGUE,  NAUSEA, HEADACHE, UNCONSCIOUSNESS,
+    FATALINGEST: GASTROINTESTINAL IRRI. NAUSEA, VOMITING, DIARRHEA.
+Medical Cond Aggravated by Exposure:EYE DAMAGE: SKIN: DERMATITIS INHAL:
+    IRR. RESP.	  LUNG, CNTRL NERV. BRAIN DAMAGE, LIVER ABNORM. KID NEY
+    INGEST: GASTRO/PNEUMONITIS WHICH CAN BE FATAL
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH LARGE AMOUNTS OF WATER, LIFTING UPPER AND
+    LOWER LIDS WHILE	 FLUSHING. SKIN: THOROUGHLY WAS EXPOSED AREA
+    WITH SOAP AND WATER. REMOVE CONTAM. CLOTHING WASH BEFORE REUSE.
+    INHAL: REMOV E PERSON TO FRESH AIR IF BREATHING ISDIFFICULT ADMIN.
+    OXYGEN/CPF. KEEP PERSON WARM GET MED. ATTEN. INGEST: DO NOT   
+    INDUCE VOMITING KEEP PERSON WARM GET MED. ATTEN. ASPIR. INTO LUNGS
+    MAY BE FATAL.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:19F/-7.2C
+Extinguishing Media:REGULAR FOAM OR CARBON DIOXIDE OR DRY CHEMICAL
+Fire Fighting Procedures:WEAR SELF CONTAINED BREATHING APPARATUS WITH A
+    FULL FACEPIECE OPERATED IN THE   POSITIVE PRESSURE DEMAND MODE WHEN
+    FIGHTING FIRES.
+Unusual Fire/Explosion Hazard:ALL CNTRS SHOULD BE GROUNDED/BONDED,
+    PROD. IS HIGHLY EXPLOSIVE, VPRS MAY TRAVEL AT GROUND/BY VENT TO
+    IGNITABLE SOURCE OF HEAT, SPARKS, FLAMES, SATIC DISCHARGE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SMLL: ABSORB LIQUID ON PAPAER, VERMICULITE,
+    FLOOR ABSORB/ABSORB MATERIAL. LRG: ELIM ALL ING. SOURCESSTOP SPILL
+    AT SOURCE DIKE AREA TO PREVNT SPREADINGPUMP LIQ. TO SALVGE TANK.
+    REMANING USE SAND/CLAY/  EARTH/FLOOR ABSORBENT AND SHOVEL INTO
+    CONTAINERS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE A NIOSH/MSHA APPROVED AIR SUPPLIED RESP OR
+    OSHA REG MUST BE A NEGATIVE PRES SURE TYPE, WHEN EXPOSURE LIMTS ARE
+    EXCEEDED, TO MAINTAIN OR IMPLEMENT PROPER	 VENTILATION WHEN USING
+    PRODUCT.
+Ventilation:PROVIDE SUFFICIENT MECHANICAL (GENERAL AND/OR LOCAL
+    EXHAUST)TO MAINTAIN EXPOSURE BELOW TLV LEVELS PERMITTED.
+Protective Gloves:NITRIL RUBBER, POLYETHYLENE RESISTANT
+Eye Protection:CHEMICAL SPLASH GOGGLES
+Other Protective Equipment:TO PREVENT REPEATED OR PROLONGED SKIN
+    CONTACT, WEAR	  IMPERVIOUS CLOTHING AND BOOTS.
+Supplemental Safety and Health
+TO PREVENT REPEATED OR PROLONGED SKIN CONTACT, WEAR IMPERVIOUS CLOTHING
+    AND     BOOTS, AND FOLLOW MANUFACTURERS SAFETY PRECAUTIONS.
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:<1.000
+Evaporation Rate & Reference:SLOWER THAN ETHER
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, ALL IGNITABLE SOURCES TO EXPOSURE  OF THIS
+    PRODUCT.
+Stability Condition to Avoid:FLAMMABLE LIQUID PRODUCT. STRONG OXIDIZING
+    AGENTS.
+Hazardous Decomposition Products:MAY FORM TOXIC MATERIALS, CARBON
+    DIOXIDE AND CARBON MONOXIDEVARIOUS HYDROCARBONS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH ALL LOCAL, STATE
+    ANDFEDERAL REGULATIONS.				 SINCE EMPTIED
+    CONTAINERS RETAIN PRODUCT RESIDUES	ALL CONTAINERS OF THIS PROD.
+    MAY BE HAZARDOUS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

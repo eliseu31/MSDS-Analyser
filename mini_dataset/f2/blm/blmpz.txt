@@ -1,0 +1,145 @@
+=====================  Product Identification  =====================
+
+Product ID:202 001 DURATEC WHITE, 202 001
+MSDS Date:04/21/1988
+FSC:8010
+NIIN:00N022248
+MSDS Number: BLMPZ
+=== Responsible Party ===
+Company Name:FRAZEE PAINT & WALL COVERINGS
+Address:6625 MIRAMAR ROAD
+City:SAN DIEGO
+State:CA
+ZIP:92121
+Country:US
+Info Phone Num:619-276-9500
+Emergency Phone Num:619-276-9500
+CAGE:FO493
+=== Contractor Identification ===
+Company Name:FRAZEE INDUSTRIES INC
+Address:6625 MIRAMAR RD
+City:SAN DIEGO
+State:CA
+ZIP:92121
+Country:US
+Phone:858-626-3600
+CAGE:1GK99
+Company Name:FRAZEE PAINT & WALL COVERINGS
+Address:6625 MIRAMAR ROAD
+City:SAN DIEGO
+State:CA
+ZIP:92121
+Phone:(619) 276-9500
+CAGE:FO493
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHYLENE GLYCOL  (SARA III)
+CAS:107-21-1
+RTECS #:KW2975000
+OSHA PEL:C 50 PPM
+ACGIH TLV:C 50 PPM,VAPOR; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:PROPIONIC ACID,2-METHYL-,MONOESTER WITH
+    2,2,4-TRIMETHYL-1,3-PENTANEDIOL;(2,2,4-TRINETHYLPENTANEDIOL-1,3
+    (SEE INGRED 3)
+CAS:25265-77-4
+RTECS #:UF6000000
+
+Ingred Name:INGRED 2: MONOISOBUTYRATE). VP: 1.0 @ 68F
+CAS:25265-77-4
+RTECS #:UF6000000
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: VAPOR OR MIST CAN CAUSE
+    HEADACHE, NAUSEA AND IRRITATION OF NOSE, THROAT AND LUNGS. SKIN AND
+    EYE: USE GOOD PERSONAL HYGIENE PRACTICES WHILE WORKING WITH THIS
+    MATERIAL. DRY CONTAMINATED CLOT HING BEFORE REUSE. SKIN ABSORPTION:
+    NONE EXPECTED. INGESTION: MAY BE HARMFUL IF SWALLOWED. CONSULT (SEE
+    EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ: PHYSICIAN. ACUTE & CHRONIC: NONE
+    EXPECTED.
+Medical Cond Aggravated by Exposure:NONE EXPECTED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: MOVE SUBJECT TO FRESH AIR. SKIN: WASH WELL WITH
+    SOAP AND WATER. EYE: FLUSH WITH COPIOUS AMOUNTS OF WATER FOR AT
+    LEAST 15 MINUTES. CONSULT PHYSICIAN. INGESTION: CONSULT PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Lower Limits:3.2%
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL, WATER FOG.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:POLYMER FILM CAN BURN. MATERIAL CAN
+    SPLATTER ABOVE 212 F.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WIPE UP IMMEDIATELY AND SAFELY DISCARD
+    ABSORBANTS. IN EVENT OF LARGE SPILLS, DIKE AREA AND PUMP MATERIAL
+    TO AN EPA PERMITTED WASTE TANK.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:USE WITH ADEQUATE VENTILATION AVOID
+    PROLONGED BREATHING OF VAPOR. AVOID PROLONGED OR REPEATED SKIN
+    CONTACT. KEEP AWAY FROM EXCESSIVE HEAT.
+Other Precautions:AVOID ALL SOURCES OF HEAT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT REQUIRED IF GOOD VENTILATION IS MAINTAINED.
+    IF NECESSARY, WEAR NIOSH/MSHA APPROVED OR EQUIVALENT RESPIRATOR.
+Ventilation:MAINTAIN GOOD VENTILATION.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEM WORK GOG & FULL LGTH FACESHLD
+Other Protective Equipment:IMPERVIOUS CLOTHING AND BOOTS.
+Work Hygienic Practices:DAILY CHANGE OF CLOTHES, BARRIER CREAMS AND
+    DAILY SHOWERS ARE RECOMMENDED.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:212F,100C
+Vapor Pres:SEE INGRED
+Vapor Density:HVR/AIR
+Spec Gravity:1.4
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:DILUTABLE
+Appearance and Odor:WHITE VISCOUS LIQUID. FAINT TO MILD ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+UNKNOWN.
+Stability Condition to Avoid:EXCESS HEAT MAY CAUSE CONTAINERS TO
+    RUPTURE.
+Hazardous Decomposition Products:CO, CO2 ON COMBUSTION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE AND
+    FEDERAL REGULATIONS CURRENTLY IN FORCE FOR THIS PRODUCT HAZARD
+    CLASS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

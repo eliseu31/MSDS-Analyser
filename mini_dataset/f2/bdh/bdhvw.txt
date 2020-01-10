@@ -1,0 +1,112 @@
+=====================  Product Identification  =====================
+
+Product ID:XD-6 DEVELOPER
+MSDS Date:01/01/1987
+FSC:6850
+NIIN:00-190-7894
+MSDS Number: BDHVW
+=== Responsible Party ===
+Company Name:NASHUA CORP - CDS SUPPLY
+Emergency Phone Num:(603) 880-5555
+CAGE:KO138
+=== Contractor Identification ===
+Company Name:NASHUA CORP - CDS SUPPLY, DIST
+CAGE:KO138
+Company Name:NASHUA CORP OFFICE PRODUCTS DIV.
+Address:44 FRANKLIN ST
+Box:City:NASHUA
+State:NH
+ZIP:03060
+Country:US
+Phone:603-880-2323
+CAGE:34936
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:FLINT SHOT >95% OF >95% CARRIER
+Fraction by Wt: >90%
+
+Ingred Name:ETHYLCELLULOSE <5% OF >95% CARRIER
+Fraction by Wt: >4.8%
+
+Ingred Name:SOLVENT RED#24 <1% OF >95% CARRIER; CAS #85-83-6=0.95
+Fraction by Wt: >0.9%
+
+Ingred Name:VINYLTOLUENE-BUTADIENE COPOLYMER WT % RANGE 80-90% OF <5%
+    TONER =/5X5/100=4.25%
+Fraction by Wt: <4.0%
+
+Ingred Name:CARBON BLACK
+CAS:1333-86-4
+RTECS #:FF5800000
+Fraction by Wt: <0.8%
+OSHA PEL:3.5 MG/M3
+ACGIH TLV:3.5 MG/M3; 9192
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALE:REMOVE TO FRESH AIR, GIVE CPR/O*2 IF
+    NEED;EYES/SKIN:FLUSH W LG AMTS H*2O FOR 15 MIN;INGEST:RINSE MOUTH;
+    GET MEDICAL ATTENTION FOR EYES, BREATHING DIFFICULTY, OR OTHER
+    SYMPTOMS OF OVEREXPOSURE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:CO*2, FOAM, DRY CHEM & H*2O FOG.
+Fire Fighting Procedures:WEAR SELF-CNTD BRTHG,APP H*20 SPRAY TO COOL
+    CONTR.
+Unusual Fire/Explosion Hazard:FINELY DIVIDED POWDER OF MATL CAN FORM
+    EXPLOSIVE MIXTURES WHEN SUSPENDED IN AIR.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE APPROPRIATE PROTECTIVE EQUIP DURING CLEAN
+    UP. VACUUM OR SWEEP UP AS WITH ANY NON-TOXIC POWDER.PLACE WASTE IN
+    DISPOSAL CONTAINERS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DRY,WELL VENTILATED
+    AREA. PROTECT FROM PHYSICAL DAMAGE.AVOID ANY PHYSICAL CONTACT. KEEP
+    CONTAINERS TIGHTLY CLOSED
+Other Precautions:AVOID BREATHING DUST OF SPILLED MATL.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SHOULD BE NEEDED
+Ventilation:NORMAL ROOM VENTILATION.
+Protective Gloves:AS REQUIRED
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:NORMAL WORK CLOTHING COVERING ARMS & LEGS.
+Supplemental Safety and Health
+MSDS FROM NASHUA CORP EFFCTV:1/26/27; THE TONE ALSO CONTAINS <1%
+    AMORPHOUS SILICA IN <5% TONER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:BLACK POWDER,FAINT ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:OXIDES OF CARBON
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:KEEP IN COVERED DRUMS,PENDING DISPOSAL. HANDLE &
+    DISPOSE IN FULL COMPLIANCE WITH ALL APPLICABLE
+    INTERNATIONAL,FEDERAL,STATE, & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,153 @@
+=====================  Product Identification  =====================
+
+Product ID:1 B 56
+MSDS Date:11/18/1996
+FSC:5960
+NIIN:00-193-5094
+MSDS Number: BDHYR
+=== Responsible Party ===
+Company Name:VARIAN ASSOC./COMMUNICATION & POWER,MICROWAVE DIV.
+Address:150 SOHIER RD
+City:BEVERLY
+State:MA
+ZIP:01915-5595
+Country:US
+Info Phone Num:508-922-6000   EXT.285
+Emergency Phone Num:508-922-6000 (M-F, 8 AM - 4 PM)
+Preparer's Name:FRANK E. TROJAN
+CAGE:KO569
+=== Contractor Identification ===
+Company Name:COMMUNICATIONS AND POWER INDUSTRIES INC
+Address:150 SOHIER RD
+City:BEVERLY
+State:MA
+ZIP:01915-5595
+Country:US
+Phone:978-922-6000  EXT.285
+CAGE:88236
+Company Name:M/A-COM INC
+Address:1011 PAWTUCKET BLVD
+Box:3295
+City:LOWELL
+State:MA
+ZIP:01853-3295
+Country:US
+Phone:617-272-3000 (DAYTIME ONLY)
+CAGE:96341
+Company Name:VARIAN ASSOC./COMMUNICATION & POWER,MICROWAVE DIV.
+Address:150 SOHIER RD
+Box:City:BEVERLY
+State:MA
+ZIP:01915-5595
+Country:US
+Phone:508-922-6000   EXT.285
+CAGE:KO569
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:COBALT (60) RADIOISOTOPE
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NOT GIVEN FOR PRODUCT
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE AND CHRONIC- PRODUCT IS AN
+    ARTICLE. IT IS A RECEIVER PROTECTOR TUBE WHICH CONTAINS A SMALL
+    AMOUNT OF COBALT 60. THE TUBE IS SEALED AND NORMAL HANDLING WILL
+    PRESENT NO RADIATION PROBLEMS. IF MATE RIAL COMES IN CONTACT WITH
+    SKIN, MAY CAUSE BURNS. OVEREXPOSURE MAY CAUSE NAUSEA, VOMITING,
+    DIARRHEA.
+Explanation of Carcinogenicity:CAUTION! CONTAINS RADIOACTIVE MATERIAL.
+Effects of Overexposure:NONE IN NORMAL HANDLING CONDITION. IF MATERIAL
+    COMES IN CONTCT WITH SKIN, MAY CAUSE BURNS, NAUSEA, VOMITING,
+    DIARRHEA.
+Medical Cond Aggravated by Exposure:DISORDERS OF SKIN AND URT MAY BE
+    WORSENED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:IF CONTACTED: CALL PHYSICIAN IF SYMPTOMS PERSIST.
+    EYE:IMMEDIATELY FLUSH WITH WATER FOR 15 MINUTES. HOLD EYELIDS OPEN.
+    CALL PHYSICIAN. SKIN:WASH WITH SOAP & WATER. INHALED:REMOVE TO
+    FRESH AIR. PROVIDE	CPR/OXYGEN IF NEEDED. ORAL:IF CONSCIOUS, DRINK
+    WATER & INDUCE VOMITING. CALL A PHYSICIAN/POISON CONTROL CENTER
+    IMMEDIATELY. NEVER GIVE FLUID/INDUCE VOMITING IF PATIENT IS
+    UNCONSCIOUS/HAS CONVULSIONS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NOT RELEVANT
+Lower Limits:NOT GIVEN
+Upper Limits:NOT GIVEN
+Extinguishing Media:NONFLAMMABLE. USE EXTINGUISHING MEDIA SUITABLE FOR
+    SURROUNDING FIRE.
+Fire Fighting Procedures:NONFLAMMABLE. USE STANDARD FIREFIGHTING
+    PROCEDURES FOR SURROUNDING MATERIALS IN THE FIRE.
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:IF BROKEN, WEAR PROTECTIVE EQUIPMENT. COLLECT
+    AND TRANSFER TO PROPER CONTAINER FOR DISPOSAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:HANDLE WITH CARE.
+Other Precautions:WASH HANDS BEFORE EATING OR DRINKING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED IF USED AS INTENDED
+Ventilation:NONE REQUIRED IF USED AS INTENDED
+Protective Gloves:RUBBER, IF BROKEN
+Eye Protection:NONE REQUIRED IF USED AS INTENDED
+Other Protective Equipment:NONE REQUIRED IF USED AS INTENDED
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES.
+Supplemental Safety and Health
+THE MANUFACTURER STATES THIS DEVICE IS A MANUFACTURED ARTICLE IN
+    ACCORDANCE WITH 49 CFR 173.422. THIS DEVICE IS AN ARTICLE IN
+    ACCORDANCE WITH 29 CFR 1910.1200. THIS ELECTRON TUBE IS
+    MANUFACTURED IN CO MPLIANCE WITH 10 CFR 30.15(A)(8). NRC LICENSE
+    NUMBER: 20- 02237-04, 20-02237-03 E.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:A2
+NRC/State Lic Num:NOT RELEVANT
+Boiling Pt:B.P. Text:5252F,2900C
+Melt/Freeze Pt:M.P/F.P Text:2723F,1495C
+Decomp Temp:Decomp Text:NOT KNOWN
+Vapor Pres:NIL
+Vapor Density:NOT GIVEN
+Spec Gravity:8.9
+Viscosity:NOT RELEVANT
+Evaporation Rate & Reference:NOT RELEVANT
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:SILVER COLORED METAL, NO ODOR
+Percent Volatiles by Volume:NIL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH ALL LOCAL, STATE
+    AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,154 @@
+=====================  Product Identification  =====================
+
+Product ID:F-152 A-COMP 27886, F-09P03
+MSDS Date:12/10/1990
+FSC:8010
+NIIN:00N021900
+Kit Part:Y
+MSDS Number: BLMPC
+=== Responsible Party ===
+Company Name:SEAGRAVE COATINGS CORP OF VA
+Address:4030 SEAGUARD AVE
+City:PORTSMOUTH
+State:VA
+ZIP:23701
+Country:US
+Info Phone Num:804-488-4411
+Emergency Phone Num:804-488-4411
+Preparer's Name:NSO
+CAGE:60163
+=== Contractor Identification ===
+Company Name:SHERWIN-WILLIAMS, SEAGUARD
+Address:3560 ELM AVE.
+Box:City:PORTSMOUTH
+State:VA
+ZIP:23704
+Country:US
+Phone:757-397-2223
+CAGE:60163
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 50%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:N-BUTYL ALCOHOL  (SARA III)
+CAS:71-36-3
+RTECS #:EO1400000
+Fraction by Wt: 35%
+OSHA PEL:100 PPM
+ACGIH TLV:S, C 50 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ODORLESS MINERAL SPIRITS. VP:0.5 @ 20C.
+CAS:64741-65-7
+Fraction by Wt: 1%
+Other REC Limits:100 PPM (MFR)
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION:IRRITATION TO RESPIRATORY
+    TRACT, HEADACHE, DIZZINESS & NAUSEA. SKIN CONTACT:PRIMARY
+    IRRITATION. EYE CONTACT: PRIMARY IRRITATION. CAUSES EYE BURNS &
+    SKIN IRRITATION.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:PRE-EXISTING SENSITIVITY TO
+    SOLVENTS CAN CAUSE HEIGHTENED REACTION TO EXPOSURE TO THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:REMOVE TO FRESH AIR. RESTORE BREATHING. CONSULT MD.
+    SKIN:FLUSH WITH WATER. EYE:FLUSH IMMEDIATELY WITH LARGE AMOUNTS OF
+    WATER FOR AT LEAST 15 MINUTES. CONSULT MD. INGEST:CALL MD
+    IMMEDIATELY (FP N ).
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:99.0F,37.2C
+Lower Limits:1%
+Upper Limits:11.2%
+Extinguishing Media:CO2, DRY CHEMICAL, WATER FOG, FOAM.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPRVD SCBA & FULL PROT EQUIP
+    . H2O MAY BE USED TO COOL CLSD CNTNRS TO PVNT PRESS BUILD-UP & POSS
+    AUTO-IGNIT/EXPLO WHEN EXPOSED (SUPDAT)
+Unusual Fire/Explosion Hazard:KEEP CNTNRS TIGHTLY CLSD. ISOLATE FROM
+    HEAT, SPKS & OPEN FLAME. CLSD CNTNRS MAY EXPLODE WHEN EXPOSED TO
+    EXTREME HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:AVOID BREATHING SOLVENT VAPOR. ENSURE ADEQUATE
+    VENTILATION. AVOID SPARKS, FLAMES & ANYTHING WHICH COULD CAUSE
+    FIRE. ADD ABSORBENT. TRANSFER TO APPROPRIATE CONTAINER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL, DRY AREA W/VENTILATION
+    SUITABLE FOR STORING MATERIALS.
+Other Precautions:PROVIDE RESPIRATORY PROTECTION AGAINST FUMES
+    GENERATED DURING BURNING. SUBJECT TO REPORTING REQUIREMENTS OF
+    SECTION 313 OF EPA & CRA & 40 CFR 372.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPRVD RESP TYPES SUITABLE FOR
+    MATERIALS IN INGREDIENT SECTION RECOMMENDED. NIOSH/MSHA APPRVD
+    CHEM/MECH FILTERS RECOMMENDED WHEN VENT IS RESTRICTED. NIOSH/MSHA
+    APPRVD AIRLINE TYPE RESPS/HOO DS RECOMMENDED IN CONFINED AREAS.
+Ventilation:SUFFICIENT VENT, IN VOL & PATTERN, SHOULD BE PROVIDED TO
+    KEEP AIR CONTAM BELOW CURRENT APPLIC PEL/TLV LIMIT.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEM WORK GOGG/FULL LENGTH FCSHLD.
+Other Protective Equipment:USE PROT CREAMS WHERE SKIN CONTACT IS
+    LIKELY. EMERGENCY EYE WASH & DELUGE SHOWER .
+Work Hygienic Practices:WASH THORO AFT HNDLG. WASH HANDS BEFORE EATING/
+    SMOKING. SMOKE IN DESIGNATED AREAS ONLY. REMOVE & WASH CONTAM (SUPP
+    DATA
+Supplemental Safety and Health
+FIRE FIGHT PROC:TO EXTREME HEAT. HYGIENE PRACT:CLOTHING BEFORE REUSE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:244F,118C
+Vapor Pres:SEE INGRED
+Vapor Density:>AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:INSOLUBLE
+Appearance and Odor:WHITE LIQUID; ODOR:ALCOHOL SOLVENT.
+Percent Volatiles by Volume:56.8
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE KNOWN.
+Stability Condition to Avoid:OXIDIZING MATERIALS CAN CAUSE A VIGOROUS
+    REACTION.
+Hazardous Decomposition Products:AS WITH ANY OTHER ORGANIC MATERIAL,
+    COMBUSTION WILL PRODUCE CO2 & CO.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:SOAK LIQUIDS W/SAWDUST OR RAGS & REMOVE. FLUSH
+    W/ WATER IF POSSIBLE. AVOID SKIN CONTACT. DISPOSAL SHOULD BE I/A/W
+    LOCAL, STATE & FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

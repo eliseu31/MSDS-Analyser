@@ -1,0 +1,142 @@
+=====================  Product Identification  =====================
+
+Product ID:MAGNESIUM PERCHLORATE, 0240-1119
+MSDS Date:10/29/1990
+FSC:6810
+NIIN:00N057747
+MSDS Number: BWRTX
+=== Responsible Party ===
+Company Name:PERKIN-ELMER CORP
+Address:761 MAIN AVE
+City:NORWALK
+State:CT
+ZIP:06859
+Country:US
+Info Phone Num:203-762-1000
+Emergency Phone Num:203-762-4464
+CAGE:GO172
+=== Contractor Identification ===
+Company Name:PERKIN ELMER CORP
+Address:761 MAIN AVE
+Box:City:NORWALK
+State:CT
+ZIP:06859
+Country:US
+Phone:203-762-1000
+CAGE:46555
+Company Name:PERKIN-ELMER CORP
+Address:HDQS 761 MAIN AVE
+City:NORWALK
+State:CT
+ZIP:06859-0001
+Country:US
+Phone:203-762-1000
+CAGE:GO172
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PERCHLORIC ACID, MAGNESIUM SALT; (MAGNESIUM PERCHLORATE)
+CAS:10034-81-8
+RTECS #:SC8925000
+Fraction by Wt: 100%
+OSHA PEL:5 MG MG/M3 CEILING
+ACGIH TLV:10 MG MG/M3
+
+Ingred Name:EYE PROT:AND FULL LENGTH FACE SHIELD .
+RTECS #:9999999ZZ
+
+Ingred Name:FIRST AID PROC:CONTINUES, GET MEDICAL ATTENTION.
+RTECS #:9999999ZZ
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION:IRRITATING TO THE MUCOUS
+    MEMBRANES. INGESTION:CAN CAUSE BURNS TO THE MOUTH AND ESOPHAGUS,
+    VOMITING AND DIARRHEA. SKIN:IRRITATING. EYES:IRRITATING. CHRONIC:NO
+    DATA FOUND.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NON DATA FOUND.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:MOVE PERSON TO FRESH AIR. ADMIN OXYG IF PERSON EXPER
+    DFCLTY IN BRTHG. INGEST:IMMED ADMIN WATER OR MILK. NEVER ADMIN
+    ANYTHING BY MOUTH TO AN UNCON PERSON. IMMED CONT LOC POIS CTL CTR.
+    SKIN:REMOVE  CONTAM CLTHG, THEN FLUSH SKIN W/WATER FOR AT LST 15
+    MIN. WASH CLTHG THORO, & SEPARATELY, BEFORE RE-USE. EYE:FLUSH
+    W/WATER FOR AT LST 15 MIN, OCCAS LIFTING UPPER & LOWER LIDS. IF
+    IRRIT (ING 3)
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER OR FOAM.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONCOMBUSTIBLE, HOWEVER MAGNESIUM
+    PERCHLORATE IS A STRONG OXIDIZER AND CONTACT WITH COMBUSTIBLES CAN
+    RESULT IN IGNITION. EXPLOSION:SEE MATERIALS TO AVOID.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SPILLS MAY BE SWEPT UP, AVOIDING GENERATION OF
+    DUST. BE AWARE THAT MAGNESIUM PERCHLORATE CAN IGNITE COMBUSTIBLES.
+    PLACE MATERIAL IN A SEALED CONTAINER FOR PROPER DISPOSAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER TIGHTLY SEALED AND
+    PROTECTED FROM PHYSICAL DAMAGE. STORE IN A COOL, DRY AREA. STORE
+    AWAY FROM INCOMPATIBLE MATERIALS.
+Other Precautions:AVOID INHALATION, INGESTION AND CONTACT WITH EYES AND
+    SKIN. KEEP CONTAINER TIGHTLY SEALED WHEN NOT IN USE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR.
+Ventilation:LABORATORY HOOD OR LOCAL EXHAUST.
+Protective Gloves:CHEMICAL RESISTANT GLOVES.
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGGS(ING 2)
+Other Protective Equipment:CHEMICAL RESISTANT CLOTHING. ANSI APPROVED
+    EMERGENCY EYE BATH AND DELUGE SHOWER .
+Work Hygienic Practices:WASH THOROUGHLY AFTER USE.
+Supplemental Safety and Health
+MP:484F, 251C (DECOMPOSES). MATLS TO AVOID:CONT W/FOLLOWING
+    MATLS:ACIDS, AMMONIA, BENZENE, BUTYL FLUORIDE, CALCIUM HYDRIDE,
+    CHARCOAL, DIMETHYL SULFOXIDE, ETHANOL, ETHYLENE OXIDE, HYDROCARBS,
+    ORG MATTE R, PHOSPHORUS, STRONTIUM HYDRIDE, TRIMETHYL PHOSPHITE,
+    POWDERED METALS, REDUCING AGENTS, SULFUR.
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:M.P/F.P Text:SUPP DATA
+Spec Gravity:2.21(H*2O=1)
+Solubility in Water:SOLUBLE
+Appearance and Odor:WHITE CRYSTALS, NO ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+EXTREMELY VIOLENT/EXPLO REACTIONS HAVE BEEN REPORTED TO OCCUR WHEN
+    MAGNESIUM PERCHLORATE IS ALLOWED TO COME INTO(SUPDAT)
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:CHLORINE IS LIBERATED WHEN HEATED TO
+    DECOMPOSITION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:COMPLY WITH ALL FEDERAL, STATE AND LOCAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

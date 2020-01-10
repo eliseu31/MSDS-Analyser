@@ -1,0 +1,165 @@
+=====================  Product Identification  =====================
+
+Product ID:ID 7325T108, 340 VOC H.S. TOPCOAT RED 11136
+MSDS Date:04/03/1990
+FSC:8010
+NIIN:01-293-1366
+Kit Part:Y
+MSDS Number: BHWRS
+=== Responsible Party ===
+Company Name:DEXTER COATINGS
+Address:31500 HAYMAN
+City:HAYWORD
+State:CA
+ZIP:94544
+Country:US
+Info Phone Num:415-471-7171, DAY
+Emergency Phone Num:415-791-1961, NIGHT
+Preparer's Name:S. MORRIS
+CAGE:0HKK2
+=== Contractor Identification ===
+Company Name:DEXTER CORP THE DEXTER CROWN METRO AEROSPACE DIV
+Address:31500 HAYMAN ST
+Box:City:HAYWARD
+State:CA
+ZIP:94544-7120
+Country:US
+Phone:510-471-7171
+CAGE:98795
+Company Name:DEXTER SPECIALTY COATINGS
+Address:31500 HAYMAN ST
+Box:City:HAYWARD
+State:CA
+ZIP:94544
+Country:US
+Phone:415-791-1961
+CAGE:0HKK2
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:N-BUTYL ACETATE  (SARA III)
+CAS:123-86-4
+RTECS #:AF7350000
+Fraction by Wt: <10%
+OSHA PEL:150 PPM/200 STEL
+ACGIH TLV:150 PPM/200STEL;9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: <10%
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:METHYL N-AMYL KETONE
+CAS:110-43-0
+RTECS #:MJ5075000
+Fraction by Wt: 10-20%
+OSHA PEL:100 PPM
+ACGIH TLV:50 PPM; 9192
+
+Ingred Name:1-METHOXY 2-PROPANOL ACETATE (VAPOR PRESSURE 3.8 MMHG @
+    20C)
+CAS:108-65-6
+RTECS #:AI8295000
+Fraction by Wt: <10%
+
+Ingred Name:ETHYL 3-ETHOXYPROPIONATE (VAPOR PRESSURE 1.11 MMHG @ 20C)
+CAS:763-69-9
+RTECS #:UF3325000
+Fraction by Wt: <10%
+
+Ingred Name:VOC: 3.3 POUNDS PER GALLON LESS WATER
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: OVER EXPOSURE BY INHALATION MAY
+    CAUSE IRRITATION OF THE RESPIRATORY TRACT, HEADACHES, DIZZINESS OR
+    DROWSINESS. SKIN OR EYE CONTACT: IRRITANT TO THE EYES AND SKIN. MAY
+    ALSO AFFECT THE RESPIRATOR Y TRACT, LIVER, AND CENTRAL NERVOUS
+    SYSTEM.
+Effects of Overexposure:ACUTE: OVER EXPOSURE BY INHALATION MAY CAUSE
+    IRRITATION OF THE RESPIRATORY TRACT, HEADACHES, DIZZINESS OR
+    DROWSINESS. SKIN OR EYE CONTACT: IRRITANT TO THE EYES AND SKIN. MAY
+    ALSO AFFECT THE RESPIRATOR Y TRACT, LIVER AND CENTRAL NERVOUS
+    SYSTEM.
+Medical Cond Aggravated by Exposure:UNKNOWN AT THIS TIME.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE FROM EXPOSURE. EYE CONTACT: FLUSH
+    IMMEDIATELY WITH LARGE AMOUNTS OF RUNNING WATER FOR AT LEAST 15
+    MINUTES. SKIN CONTACT: REMOVE CONTAMINATED CLOTHING AND WASH SKIN
+    WITH SOAP AND WAT ER. INGESTION: DRINK WATER. IF NECESSARY, CONSULT
+    A PHYSICIAN FOR ANY OF THESE CONDITIONS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:26 F/-3 C
+Lower Limits:1.05
+Extinguishing Media:USE WATER FOG, FOAM, DRY CHEMICAL OR CARBON
+    DIOXIDE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. AVOID
+    BREATHING VAPORS. VENTILATE AREA AND REMOVE WITH INERT ABSORBANT
+    AND NON-SPARKING TOOLS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:CONTAINERS SHOULD BE GROUNDED WHEN
+    POURING. AVOID FREE FALL OF LIQUID IN EXCESS OF A FEW INCHES. DRUM
+    SHOULD BE INDUSTRIALLY CLEANED PRIOR TO REUSE.
+Other Precautions:MAKE SURE DRUM IS COMPLETELY EMPTY BEFORE ATTEMPTING
+    TO WELD OR BRAZE. DO NOT FLAME CUT, BRAZE OR WELD WITHOUT A NIOSH
+    APPROVED RESPIRATOR OR APPROPRIATE VENTILATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:GENERAL DILUTION/LOCAL EXHAUST FAILS TO
+    ADEQUATELY DILUTE TWA/PEL USE RESPIRATORY PROTECTION: IN ACCORD
+    W/29CFR 1910.134, USE NIOSH/MSHA APPROVED AIR LINE TYPE
+    RESPIRATOR/HOODS FOR ENCLOSE/CONFINED AR EAS.AIR PURIFYING
+    RESPIRATOR OTHER AREAS
+Ventilation:GENERAL DILUTION OR LOCAL EXHAUST VENTILATION TO KEEP
+    TWA/LEL BELOW ACCEPTABLE LIMITS & TO REMOVE DECOMPOSITION PRODUCTS
+Protective Gloves:CHEM RESISTANT IF REPEAT/PROLONG CONTACT
+Eye Protection:SAFETY EYEWARE TO PROTECT AGAINST SPLASH
+Work Hygienic Practices:KEEP CONTAINER CLOSED WHEN NOT IN USE.
+Supplemental Safety and Health
+DO NOT TAKE INTERNALLY.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>172F,>78C
+Vapor Density:> THAN AIR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Hazardous Decomposition Products:FUMES MAY CONTAIN CARBON MONOXIDE &
+    OXIDES OF NITROGEN. MAY PRODUCE HAZARDOUS FUMES WHEN HEATED TO
+    DECOMP AS IN WELDING.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE AND
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

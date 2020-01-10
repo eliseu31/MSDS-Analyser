@@ -1,0 +1,111 @@
+=====================  Product Identification  =====================
+
+Product ID:3843 ORTHODONTIC MODEL MIX, HAND
+MSDS Date:10/01/1986
+FSC:6520
+NIIN:00F018569
+MSDS Number: BKYGB
+=== Responsible Party ===
+Company Name:KERR MFG CO DIV OF SYBRON CORP
+Address:28200 WICK ROAD
+City:ROMULUS
+State:MI
+ZIP:48174
+Info Phone Num:(313) 946-7800
+Emergency Phone Num:(313) 946-7800
+CAGE:FO943
+=== Contractor Identification ===
+Company Name:KERR MFG CO DIV OF SYBRON CORP
+Address:28200 WICK ROAD
+City:ROMULUS
+State:MI
+ZIP:48174
+Phone:(313) 946-7800
+CAGE:FO943
+Company Name:SYBRON KERR
+Address:28200 WICK RD
+Box:455
+City:ROMULUS
+State:MI
+ZIP:48174-0809
+Country:US
+CAGE:6J081
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CALCIUM SULFATE
+CAS:7778-18-9
+RTECS #:WS6920000
+Fraction by Wt: 97%
+Other REC Limits:5 MG/CUM (DUST)
+OSHA PEL:15 MG/M3 TOTAL DUST
+ACGIH TLV:10 MG/M3 TDUST; 9192
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 3%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES/SKIN: IRRITATION. INGESTION: MAY
+    RESULT IN OBTRUCTION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES/SKIN: IRRITATION. INGESTION: MAY RESULT IN
+    OBSTRUCTION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER. SKIN: WASH W/SOAP & WATER. INGESTION:
+    OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON-FLAMMABLE
+Extinguishing Media:NOT COMBUSTIBLE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP. AVOID CREATING EXCESSIVE DUST.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL, DRY PLACE W/CONTAINER
+    SEALED. MOISTURE OR THE PRESENCE OF LIQUID WATER WILL HARDEN THE
+    PRODUCT DURING STORAGE. AVOID BREATHING DUST.
+Other Precautions:USE ACCORDING TO DIRECTIONS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE DUST MASK SUITABLE FOR NUISANCE DUST.
+Ventilation:AS REQUIRED
+Protective Gloves:AS REQUIRED
+Eye Protection:DUST GOGGLES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity: 2.68
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:LANDFILL ACCORDING TO FEDERAL, STATE & LOCAL
+    REGULATIONS. NORMAL DISPOSAL AS FOR ANY INERT POWDER. MAY PLUG
+    DRAINS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

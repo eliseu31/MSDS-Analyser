@@ -1,0 +1,153 @@
+=====================  Product Identification  =====================
+
+Product ID:60,505-10 LUBRICATING OIL, MIL-L-2104-10W
+MSDS Date:11/01/1990
+FSC:9150
+NIIN:00-191-2772
+MSDS Number: BDHWJ
+=== Responsible Party ===
+Company Name:BATTENFELD AMERICA INC
+Address:1575 CLINTON ST
+City:BUFFALO
+State:NY
+ZIP:14200
+Country:US
+Info Phone Num:716-822-8410
+Emergency Phone Num:716-822-8410
+Preparer's Name:THOMAS MISELLE
+CAGE:61808
+=== Contractor Identification ===
+Company Name:BATTENFELD AMERICA INC
+Address:1575 CLINTON ST
+Box:City:BUFFALO
+State:NY
+ZIP:14206
+Country:US
+Phone:716-822-8410
+CAGE:61808
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MINERAL OIL
+CAS:64742-65-0
+RTECS #:PY8038500
+Fraction by Wt: 77.55%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:MINERAL OIL
+CAS:64742-41-2
+Fraction by Wt: 10.00%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:ACRYLIC COPOLYMER  (ROHM & HAAS CO. PHILADELPHIA,PA)
+Fraction by Wt: 0.25%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:LUBRIZOL 4856A (LUBRIZOL,  CLEVELAND, OH)
+Fraction by Wt: 12.20%
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MANUFACTURER STATES,"PRODUCT HAS BEEN
+    USED FOR YEARS WITH NO KNOWN ILL EFFECTS.  IT CONTAINS NO KNOWN
+    CARCINOGENS OT MUTAGENS AS DEFINED BY OSHA OR IARC."  PRODUCT IS
+    VERY MILDLY IRRITATING TO BODY TI SSUES.  MOST LIKELY HAZARD IS
+    THAT OF BREATHING THE MIST OR VAPORS SHOULD THE  PRODUCT BE HEATED
+    OR MISTED.
+Explanation of Carcinogenicity:THE PRODUCT CONTAINS NO INGREDIENT THAT
+    IS LISTED BY IARC, NTP OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:EYE:MILD IRRITATION. SKIN:POSSIBLE MILD
+    IRRITATION. INHALED:RESPIRATORY IRRITATION,POSSIBLE PULMONARY EDEMA
+    IF MIST IS INHALED.  INGESTED:NONE GIVEN BY MANUFACTURER
+    (SUPPLIER).
+Medical Cond Aggravated by Exposure:NONE REPORTED
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH W/WATER 15 MIN, HOLD LIDS OPEN.  SKIN:WASH WITH
+    SOAP & WATER. REMOVE CONTAMINATED CLOTHING AND LAUNDER BEFORE
+    REUSE.  INHALED:REMOVE TO FRESH AIR. RESTORE BREATHING IF
+    NECESSARY.	INGESTED:D O NOT INDUCE VOMITING. GIVE 2 LARGE GLASSES
+    OF MILK OR WATER AND GET IMMEDIATE MEDICAL CARE. GIVE NOTHING BY
+    MOUTH IF UNCONSCIOUS.   IF IRRITATION PERSISTS OR IS SEVERE,SEE A
+    DOCTOR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:440F,227C
+Autoignition Temp:Autoignition Temp Text:470F
+Extinguishing Media:USE CARBON DIOXIDE, FOAM, DRY CHEMICAL, OR WATER
+    FOG.  WATER, ESPECIALLY STREAM, MAY CAUSE FROTHING.
+Fire Fighting Procedures:WEAR FIRE FIGHTING PROTECTIVE EQUIPMENT AND A
+    FULL FACED SELF CONTAINED BREATHING APPARATUS. EVACUATE AREA. COOL
+    FIRE EXPOSED CONTAINERS WITH WATER SPRAY.
+Unusual Fire/Explosion Hazard:COMBUSTION OR HEAT OF FIRE MAY PRODUCE
+    HAZARDOUS DECOMPOSITION PRODUCTS AND VAPORS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:RECOVER AS LIQUID IF POSSIBLE. ADSORB
+    REMAINDER ON EARTH,SAND,SAWDUST,ETC. KEEP OUT OF DRAINS, SEWERS,
+    AND WATERWAYS.  STORE IN CLOSED CONTAINERS PENDING DISPOSAL.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DRY,WELL VENTILATED
+    AREA.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESPIRATOR WILL NOT NORMALLY BE NECESSARY.  USE
+    NIOSH/MSHA APPROVED AIR SUPPLIED RESPIRATOR OR RESPIRATOR FOR OIL
+    MIST IF EXPOSURE IS ABOVE THE TLV/PEL. SEE 29 CFR 1910.134 FOR
+    REGULATIONS PERTAINING  TO RESPIRATOR USE.
+Ventilation:NORMAL ROOM VENTILATION SHOULD BE SUFFICIENT. SUPPLEMENT
+    WITH LOCAL EXHAUST IF NEEDED (OIL MIST).
+Protective Gloves:NEOPRENE OR BUTYL RUBBER (OIL RESISTANT)
+Eye Protection:SAFETY GLASSES OR SPLASH GOGGLES       S
+Other Protective Equipment:AS NEEDED TO PREVENT PROLONGED/REPEATED
+    CONTACT.
+Work Hygienic Practices:USE GOOD INDUSTRIAL HYGIENE PRACTICE.  MINIMIZE
+    PERSONAL CONTACT. WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+MSDS RECEIVER FROM NAVY. NAVY IDENTIFIED NSN.  ALSO DOD LABEL WAS
+    SUPPLIED, THIS PROBABLY FILLED OUT BY NAVY.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:700F,371C
+Spec Gravity:0.89
+pH:UNKNON
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:FLUID OIL, BLAND ODOR
+Percent Volatiles by Volume:UNKNON
+Corrosion Rate:N/KNOWN
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HIGH HEAT, OPEN FLAMES AND OTHER SOURCES
+    OF IGNITION
+Hazardous Decomposition Products:CARBON DIOXIDE,CARBON MONOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W FEDERAL,STATE, LOCAL REGULATIONS. 
+    MFR SUGGESTS RECYCLE OR IF THAT IS NOT PRACTICLE TO INCINERATE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

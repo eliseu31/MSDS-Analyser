@@ -1,0 +1,130 @@
+=====================  Product Identification  =====================
+
+Product ID:WEIGHT COUNTERBALANCE 1283159-101
+MSDS Date:08/10/1989
+FSC:1560
+NIIN:00-283-7161
+MSDS Number: BJDNF
+=== Responsible Party ===
+Company Name:CAMECO
+Address:1 ELDORADO PL
+City:PORT HOPE
+State:ON
+Country:CA
+Emergency Phone Num:416-885-4511
+Preparer's Name:JOHN S. FRIEDMANN
+CAGE:5X881
+=== Contractor Identification ===
+Company Name:CAMECO
+Address:1 ELDORADO PLACE
+Box:City:PORT HOPE, ONTARIO, CANADA
+Phone:416-885-4511
+CAGE:5X881
+Company Name:CAMECO SPECIALTY METALS DEPT
+Address:1 ELDORADO PL
+Box:City:PORT HOPE
+State:ON
+Country:CA
+CAGE:2C003
+Company Name:LOCKHEED AERONAUTICAL SYSTEMS
+Address:2555 N HOLLYWOOD WAY
+Box:551
+City:BURBANK
+State:CA
+ZIP:91520-0001
+Country:US
+Phone:818-847-6121
+CAGE:36659
+Company Name:TIMEPLEX, INC.
+CAGE:7B265
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SOLID DEPLETED URANIUM METAL CASTINGS U-238
+Fraction by Wt: 100%
+Other REC Limits:NONE KNOWN
+
+Ingred Name:U*30*8 LOW SPECIFIC ACTIVITY <2.5X10E4 BQ/GM. PWDR RESULTS
+    FROM BURNING URANIUM.
+Fraction by Wt: 100%
+ACGIH TLV:0.05 MG/M3
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:LOW LEVEL RADIATION DOSE CAN RESULT
+    FROM CONTINUED EXPOSURE. INHALATION OF URANIUM DUST CAN RESULT IN
+    RADIATION DOSE TO LUNG AND/OR KIDNEY UPSET DUE TO CHEMICAL
+    TOXICITY.
+Explanation of Carcinogenicity:NONE SPECIFIED BY MANUFACTURER.
+Effects of Overexposure:NONE SPECIFIED BY MANUFACTURER.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:FOR OVEREXPOSE TO AIRBORNE DUST, REMOVE PERSON TO PREVENT
+    FURTHER EXPOSURE AND SHOWER. RECOMMEND USE OF RESPIRATORS FOR
+    EXPOSURE TO AIRBORNE DUST.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE METAL-X TYPE EXTINGUISHER, DRY SAND OR SLAG.
+Fire Fighting Procedures:DO NOT USE WATER.
+Unusual Fire/Explosion Hazard:PYROPHORIC IN FINELY DIVIDED STATE AS A
+    RESULT OF MACHINING OR GRINDING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SIGNIFICANT ONLY IF FINELY DIVIDED. CLEAN UP
+    TO MINIMIZE DUSTING. SURVEY FOR ALPHA RADIOACTIVITY.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:IN SOLID FORM - WASH HANDS AFTER
+    HANDLING BARE METAL, NORMAL INDUSTRIAL HANDLING & HYGIENE.
+Other Precautions:IN DUST FORM (AS RESULT OF METAL FIRE) - AVOID
+    INHALATION, DO NOT USE WATER ON FIRES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATORS FOR DUSTS CAUSED
+    BY FIRES. NOT REQUIRED FOR INTENDED USE.
+Ventilation:ADEQUATE GENERAL AND LOCAL EXHAUST SHOULD BE AVAILABLE.
+Protective Gloves:OPTIONAL FOR EXTENDED HANDLING PERIOD.
+Eye Protection:NORMAL INDUSTRIAL SAFETY.
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+AUTOIGNITION TEMP 800C.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:6904F,3818C
+Melt/Freeze Pt:M.P/F.P Text:2070F,1132C
+Spec Gravity:.68 LB/IN3
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:SILVER GREY, NO ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:CONTACT WITH OPEN IGNITION SOURCES.
+Hazardous Decomposition Products:U*30*8 POWDER RESULTS FROM BURNING
+    URANIUM. LIMIT AVERAGE AIRBORNE CONCENTRATION TO 0.05 MG/M3.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PLACE IN SEALABLE CONTAINER (METAL, WOOD, ETC.)
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

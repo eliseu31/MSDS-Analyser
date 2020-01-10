@@ -1,0 +1,173 @@
+=====================  Product Identification  =====================
+
+Product ID:SODIUM CHLORIDE, 99+% ACS REAGENT, 223514
+MSDS Date:07/01/1999
+FSC:6810
+NIIN:00N016561
+Status Code:A
+MSDS Number: CJQMC
+=== Responsible Party ===
+Company Name:ALDRICH CHEMICAL CO INC
+Address:1001 W ST PAUL
+City:MILWAUKEE
+State:WI
+ZIP:53233
+Country:US
+Info Phone Num:414-273-3850
+Emergency Phone Num:414-273-3850
+CAGE:60928
+=== Contractor Identification ===
+Company Name:ALDRICH CHEMICAL CO INC
+Address:1001 WEST ST PAUL AVE
+Box:355
+City:MILWAUKEE
+State:WI
+ZIP:53233
+Country:US
+Phone:414-273-3850
+CAGE:60928
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM CHLORIDE (A.C.S. REAGENT)
+CAS:7647-14-5
+RTECS #:VZ4725000
+> Wt:99.
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL, RAT): 3 GM/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:IRRITANT. IRRITATING TO EYES,
+    RESPIRATORY SYSTEM AND SKIN. IN CASE OF CONTACT WITH EYES, RINSE
+    IMMEDIATELY WITH PLENTY OF WATER AND SEEK MEDICAL ADVICE. WEAR
+    SUITABLE PROTECTIVE CLOTHING. KEEP TIGHTLY	CLOSED. ACUTE: MAY BE
+    HARMFUL BY INHALATION , INGESTION, OR SKIN ABSORPTION. CAUSES EYE
+    IRRITATION. CAUSES SKIN IRRITATION. MATERIAL IS IRRITATING TO
+    MUCOUS MEMBRANES AND UPPER RESPIRATORY TRACT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: IMMEDIATELY FLUSH WITH COPIOUS AMOUNTS OF WATER FOR AT
+    LEAST 15 MINUTES. SKIN:  IMMEDIATELY WASH WITH SOAP AND COPIOUS
+    AMOUNTS OF WATER. INHAL: REMOVE TO FRESH AIR. IF NOT BREATHING GIVE
+    ARTIFIC IAL RESPIRATION. IF BREATHING IS DIFFICULT, GIVE OXYGEN.
+    INGEST: WASH OUT MOUTH WITH WATER PROVIDED PERSON IS CONSCIOUS.
+    CALL A PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:NONCOMBUSTIBLE. USE EXTINGUISHING MEDIA APPROPRIATE
+    TO SURROUNDING FIRE CONDITIONS.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT . FOR FIRES INVOLVING THIS MATERIAL, DO NOT ENTER ANY
+    ENCLOSED OR CONFINED FIRE SPACE WITHOUT PROPER PROTECTIVE
+    EQUIPMENT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR RESPIRATOR, CHEMICAL SAFETY GOGGLES,
+    RUBBER BOOTS AND HEAVY RUBBER GLOVES. SWEEP UP, PLACE IN A BAG AND
+    HOLD FOR WASTE DISPOSAL. AVOID RAISING DUST. VENTILATE AREA AND
+    WASH SPILL SITE AFTER MATER IAL PICKUP IS COMPLETE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT BREATHE DUST. DO NOT GET IN
+    EYES, ON SKIN, ON CLOTHING. IRRITANT. KEEP TIGHTLY CLOSED.
+    HYGROSCOPIC. STORE IN COOL DRY PLACE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN .
+Ventilation:MECHANICAL EXHAUST REQUIRED.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:ANSI APPROVED EYE WASH AND DELUGE SHOWER .
+    USE PROTECTIVE CLOTHING AND MASK.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+STATE REGULATION INFO: 8 EHQ-0892-921. EPA TSCA TEST SUBMISSION
+    (TSCATS) DATA BASE, DECEMBER 1998.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Melt/Freeze Pt:=801.1C, ######F
+Vapor Pres:1MM @ 865 C
+Spec Gravity:2.165
+Appearance and Odor:WHITE CRYSTALLINE POWDER.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, STRONG ACIDS, PROTECT FROM MOISTURE.
+Hazardous Decomposition Products:NATURE OF DECOMPOSITION PRODUCTS NOT
+    KNOWN.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:RTECS#: VZ4725000. SODIUM CHLORIDE.
+    IRRITATION DATA: SKN-RBT 50 MG/24H MLD BIOFX* 20-3/1971. SKN-RBT
+    500 MG/24H MLD 28ZPAK -, 7,1972. EYE-RBT 100 MG/MLD BIOFX*
+    20-3/1971 EYE-RBT 100 MG/24H MOD 28ZPAK  -, 7,1972 EYE-RBT 10 MG
+    MOD TXAPA9 55, 5012, 1980. TOXICITY DATA: ORL-MAN LDLO: 1 GM/KG
+    MACPAJ 65,1587,1990 ORL-RAT LD50: 3 GM/KG TXAPA9 20, 57, 1971
+    IHL-RAT LC50:>42 GM/M3/1H BIOFX* 20-3/1971 ORL-MUS	LD50: 4 GM/KG
+    FRPPAO 27,19,1972 IPR-MUS LD50: 2602 MG/KG COREAF 256, 1043, 1963
+    SCU-MUS LD50: 3 GM/KG ARZNAD 7,455,1957 IVN-MUS LD50: 645 MG/KG
+    ARZNAD 7,445,1957 ICV-MUS LD50: 131 MG/KG TYKNAQ 27,131 ,1980
+    (OTHER INFO)
+
+=====================  Ecological Information  =====================
+
+Ecological:DATA NOT YET AVAILABLE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTACT A LICENSED PROFESSIONAL WASTE DISPOSAL
+    SERVICE TO DISPOSE OF THIS MATERIAL. OBSERVE ALL FEDERAL, STATE AND
+    LOCAL ENVIRONMENTAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:CONTACT ALDRICH CHEMICAL COMPANY FOR
+    TRANSPORTATION INFORMATION.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:NK --OTHER INFO: EFFECTS ON EMBRYO OR FETUS
+    (FETAL DEATH). SPECIFIC DEVELOPMENTAL ABNORMALITIES
+    (MUSCULOSKELETAL SYSTEM). NUTRITIONAL AND GROSS METABOLIC (CHANGES
+    IN: NA). ONLY SELECTED REGISTRY OF TO XIC EFFECTS OF CHEMICAL
+    SUBSTANCE (RTECS) DATA IS PRESENTED HERE. SEE ACTUAL ENTRY IN RTECS
+    FOR COMPLETE INFORMATION.
+Federal Regulatory Information:EUROPEAN INFORMATION: IRRITANT R
+    36/37/38. IRRITATING TO EYES, RESPIRATORY SYSTEM AND SKIN. S 26 IN
+    CASE OF CONTACT WITH EYES, RINSE IMMEDIATELY WITH PLENTY OF WATER
+    AND SEEK MEDICAL ADVICE. S 36 WEAR	SUITABLE PROTECTIVE CLOTHING.
+State Regulatory Information:REVIEWS, STANDARDS, & REGS: OEL=MAK. EPA
+    FIFRA 1988 PESTICIDE SUBJECT TO REGISTRATION/RE-REGISTRATION FEREAC
+    54,7740,1989. NOHS 1974, HZD 68880; NIS 265;TNF 63391; NOS 163; TNE
+    630453. NOES 1983: HZD  E0256; NIS 1; TNF 403; NOS 5; TNE 4029; TFE
+    2015. NOES 1983: HZD 6880; NIS 336; TNF 69628; NOS 211; TNE
+    1743954; TFE 817249. EPA GENETOX PROGRAM 1988, NEGATIVE: IN VITRO
+    GYTOGENETICS-NONHUMAN; SPERM M ORPHOLOGY-MOUSE. EPA GENETOX PROGRAM
+    1988, INCOLCULSIVE: MAMMALIAN MICRONUCLEUS. EPA TSCA SECTION 8  (B)
+    CHEMICAL INVENTORY. EPA TSCA SECTION 8 (D) UNPUBLISHED HLTH/SAFETY
+    STUDIES. EPA TSCA SECTION 8 (E) RISK NOTIFICATION, (SUPDAT)
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,125 @@
+=====================  Product Identification  =====================
+
+Product ID:NITROGEN
+MSDS Date:08/01/1985
+FSC:6830
+NIIN:00-442-5684
+MSDS Number: BKYKT
+=== Responsible Party ===
+Company Name:UNION CARBIDE CORPORATION LINDE DIV
+Address:39 OLD RIDGEBURY ROAD
+City:DANBURY
+State:CT
+ZIP:06817-0001
+Info Phone Num:(304) 744-3487
+Emergency Phone Num:(304) 744-3487
+CAGE:61637
+=== Contractor Identification ===
+Company Name:UNION CARBIDE CORP
+Address:39 OLD RIDGEBURY ROAD
+Box:City:DANBURY
+State:CT
+ZIP:06817-0001
+Country:US
+Phone:800-822-4357/732-563-5522 (MSDS)
+CAGE:61637
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NITROGEN
+CAS:7727-37-9
+RTECS #:QW9700000
+Fraction by Wt: 100%
+ACGIH TLV:ASPHYXIANT; 9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: ASPHYXIATION, HEADACHE,
+    DROWSINESS, DIZZINESS, EXCITATION, EXCESS SALIVATION, VOMITING,
+    UNCONSCIOUSNESS, DIFFICULTY BREATHING, & DEATH. SKIN: FROSTBITE.
+    EYES: IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: ASPHYXIATION, HEADACHE, DROWSINESS,
+    DIZZINESS, EXCITATION, EXCESS SALIVATION, VOMITING,
+    UNCONSCIOUSNESS, DIFFICULTY BREATHING, & DEATH. SKIN: FROSTBITE.
+    EYES: IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: FLUSH W/WARM WATER (NOT >105F). INHALATION: REMOVE TO
+    FRESH AIR. GIVE CPR OR OXYGEN IF NEEDED. EYES: FLUSH THOROUGHLY
+    W/WATER FOR AT LEAST 15 MINS. OBTAIN MEDICAL ATTENTION IN ALL
+    CASES. NOTE TO  PHYSICIAN: THERE IS NO SPECIFIC ANTIDOTE. TREATMENT
+    SHOULD BE DIRECTED AT THE CONTROL OF SYMPTOMS & THE CLINICAL
+    CONDITION.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE MEDIA APPROPRIATE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:EVAUCATE AREA. USE WATER SPRAY TO COOL
+    CONTAINERS, THEN MOVE CONTAINERS AWAY FROM FIRE W/OUT RISK.
+Unusual Fire/Explosion Hazard:GAS CANNOT CATCH FIRE. CONTAINER MAY
+    RUPTURE DUE TO HEAT OR FIRE. CONTAINERS MAY VENT WHEN EXPOSED TO
+    ELEVATED TEMPERATURES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE AREA. USE PROTECTIVE EQUIPMENT. SHUT
+    OFF LEAK IF W/OUT RISK. VENTILATE AREA OR MOVE LEAKING CONTAINER TO
+    WELL-VENTILATED AREA. TEST AREA FOR SUFFICIENT OXYGEN CONTENT PRIOR
+    TO PERMITTING RE-E NTRY OF PERSONNEL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NEVER WORK ON A PRESSURIZED SYSTEM. IF
+    LEAKING, CLOSE CYLINDER VALVE, BLOW DOWN THE SYSTEM BY VENTING TO A
+    SAFE PLACE, THEN FIX THE LEAK.
+Other Precautions:HIGH PRESSURE GAS. USE PIPING & EQUIPMENT ADEQUATELY
+    DESIGNED TO WITHSTAND PRESSURES TO BE ENCOUNTERED. STORE & USE
+    W/ADEQUATE VENTIATION. CLOSE VALVE WHEN NOT IN USE & WHEN EMPTY.
+    READ & UNDERSTAND A LL LABELS & INSTRUCTIONS OF PRODUCT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE AN APPROVED MSHA/NIOSH RESPIRATOR.
+Ventilation:LOCAL EXHAUST: PREFERRED. MECHANICAL: ACCEPTABLE.
+Protective Gloves:RECOMMENDED
+Eye Protection:RECOMMENDED
+Other Protective Equipment:METATARSAL SHOES
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:-320.46F
+Melt/Freeze Pt:M.P/F.P Text:-345.8F
+Vapor Density:0.967
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:COLORLESS, ODORLESS GAS AT NORMAL TEMPERATURE &
+    PRESSURE.
+Percent Volatiles by Volume:100%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+LITHIUM, NEODYMIUM, TITANIUM, & OZONE.
+Stability Condition to Avoid:TEMPERATURES >125F
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:SLOWLY RELEASE INTO ATMOSPHERE. DISCARD ANY
+    PRODUCT, RESIDUE, DISPOSABLE CONTAINER OR LINER IN AN
+    ENVIRONMENTALLY ACCEPTABLE MANNER IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

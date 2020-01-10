@@ -1,0 +1,165 @@
+=====================  Product Identification  =====================
+
+Product ID:PROPYL ACETATE, 108 3047
+MSDS Date:04/14/1987
+FSC:6810
+NIIN:00N092094
+Status Code:A
+MSDS Number: CJQJF
+=== Responsible Party ===
+Company Name:ACROS ORGANICS
+Address:711 FORBES AVE
+City:PITTSBURGH
+State:PA
+ZIP:15219-4785
+Country:US
+Info Phone Num:800-227-6701
+Emergency Phone Num:800-424-9300
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:ACR0S
+=== Contractor Identification ===
+Company Name:ACROS ORGANICS
+Address:ONE REAGENT LANE
+Box:City:FAIRLAWN
+State:NJ
+ZIP:07410
+Country:US
+Phone:800-227-6701
+CAGE:ACR0S
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PROPYL ACETATE
+CAS:109-60-4
+RTECS #:AJ3675000
+= Wt:100.
+OSHA PEL:840 MG/M3;200 PPM
+OSHA STEL:250 PPM
+ACGIH TLV:835 MG/M3;200 PPM
+ACGIH STEL:1040 MG/M3;250 PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: VERY HIGH VAPOR
+    CONCENTRATIONS MAY CAUSE NARCOSIS. SKIN: PROLONGED OR REPEATED USE
+    MAY CAUSE DEFATTING. EYE: CAUSE TRANSIENT IRRITATION. INGESTION:
+    LOW INGESTION HAZARD.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. TREAT SYMPTOMATICALLY. IF
+    SYMPTOMS ARE PRESENT GET MEDICAL ATTENTION. SKIN: IMMEDIATELY FLUSH
+    WITH PLENTY OF WATER. EYES: IMMEDIATELY FLUSH WITH PLENTY OF WATER
+    FOR AT  LEAST 15 MINUTES AND GET MEDICAL ATTENTION IF SYMPTOMS
+    PERSIST. INGESTION: DRINK 1-2 GLASSES OF WATER. SEEK MEDICAL
+    ADVICE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:=13.C, 55.4F
+Extinguishing Media:WATER SPRAY; DRY CHEMICAL; CARBON DIOXIDE;
+    "ALCOHOL" FOAM.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT . WATER MAY BE INEFFECTIVE IN FIGHTING FIRE. USE WATER
+    SPRAY TO KEEP FIRE-EXPOSED CONTAINERS COOL.
+Unusual Fire/Explosion Hazard:VAPORS ARE HEAVIER THAN AIR AND MAY
+    TRAVEL ALONG THE GROUND OR BE MOVED BY VENTILATION TO AN IGNITION
+    SOURCE AND FLASH BACK.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. ABSORB
+    MATERIAL IN VERMICULITE OR OTHER SUITABLE ABSORBENT AND PLACE IN
+    IMPERVIOUS CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP FROM CONTACT WITH OXIDIZING
+    MATERIALS. KEEP CONTAINER TIGHTLY CLOSED AND AWAY FROM STRONG ACIDS
+    OR STRONG BASES. CLASSIFIED AS A FLAMMABLE LIQUID. KEEP AWAY FROM
+    HEAT, SPARKS AND FLAME. USE WITH  ADEQUATE VENTILATION. KEEP
+    CONTAINER CLOSED.
+Other Precautions:COMPLY WITH ALL FEDERAL, STATE AND LOCAL CODES
+    PERTAINING TO THE STORAGE, HANDLING, DISPENSING AND DISPOSAL OF
+    FLAMMABLE LIQUIDS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:A NIOSH APPROVED ORGANIC VAPOR RESPIRATOR SHOULD
+    BE WORN, IF NEEDED.
+Ventilation:GOOD GENERAL ROOM VENTILATION SHOULD BE USED. LOCAL EXHAUST
+    MAY BE NEEDED.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:ANSI APPROVED EYE WASH & DELUGE SHOWER .
+    PROTECTIVE CLOTHING SHOULD BE WORN.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:=100.C, 212.F
+Vapor Pres:23 MMHG @ 20C (68F)
+Spec Gravity:0.88 (WATER=1)
+Evaporation Rate & Reference:NOT AVAILABLE (N-BUAC=1)
+Solubility in Water:APPRECIABLE (BY WT)
+Appearance and Odor:COLORLESS LIQUID; PEAR-LIKE ODOR.
+Percent Volatiles by Volume:100 (WT)
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS, STRONG ACID, STRONG BASES.
+Hazardous Decomposition Products:COMBUSTION WILL PRODUCE CARBON DIOXIDE
+    AND PROBABLY CARBON MONOXIDE.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+=====================  Ecological Information  =====================
+
+Ecological:DATA NOT YET AVAIL. TOXICOLOGICAL INFO: OLFACTION EFTS;
+    LACRIMATION; OTHER EYE EFTS). BEHAVIORAL (EXCITEMENT). LUNGS,
+    THORAX OR RESPIRATION (CHANGE IN TRACHEA OR BRONCHI; CHANGES IN
+    PULMONARY VASCULAR	RESISTANCE; PLEURAL EFFUSION; COUGH; DYSPNAE;
+    SPUTUM; OTHER CHANGES). GASTROINTESTINAL (CHANGES IN STRUCTURE OR
+    FUNC OF SALIVARY GLANDS). ONLY SELECTED REGISTRY OF TOX EFTS OF
+    CHEM SUBSTANCES (RTECS)  DATA IS PRESENTED HERE. SEE ACTUAL ENTRY
+    IN RTECS FOR COMPLETE INFO. FED REG INFO: (0.14 MG/M3) CFRGBR
+    29,1915.1000, 1993. OSHA PEL (FED CONT): CL 0.02 PPM (0.14 MG/M3)
+    CFRGBR 41,50-204.50,1994. (TRA NSPORT INFO)
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE BY INCINERATION OR CONTRACT WITH
+    LICENSED CHEMICAL WASTE DISPOSAL AGENCY. DISCHARGE, TREATMENT, OR
+    DISPOSAL MAY BE SUBJECT TO FEDERAL, STATE OR LOCAL LAWS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:CNTCT ALDRICH CHEMICAL COMPANY FOR TRANSPORTATION
+    INFO. ECOLOGICAL INFO: OEL-ARAB REPUBLIC OF EGYPT: TWA 0.02 PPM
+    (0.14 MG/M3) JAN 1993. OEL-BELGIUM: TWA 0.005 PPM (0.036 MG/M3);
+    STEL 0.02 PPM JAN 199 3. OEL-DENMARK: TWA 0.005 PPM (0.035 MG/M3);
+    CARCIN JAN 1993. OEL-FRANCE: TWA 0.01 PPM (0.08 MG/M3); STEL 0.02
+    PPM (0.16 MG/M3) JAN 1993. OEL-GERMANY: TWA 0.01 PPM (0.07 MG/M3)
+    JAN 1993. OEL-HUNGARY:  STEL 0.04 MG/M3 JAN 1993. OEL-JAPAN: TWA
+    0.02 PPM (0.14 MG/M3) JAN 1993. OEL-THE NETHERLANDS: TWA 0.02 PPM
+    (0.14 MG/M3); SKIN JAN 1993. OEL-THE PHILIPPINES: TWA 0.02 PPM
+    (0.14 MG/M3) JAN 1993. OEL-RUS SIA: STEL 0.05 MG/M3 (SARA REG INFO)
+
+=====================  Regulatory Information  =====================
+
+State Regulatory Information:
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

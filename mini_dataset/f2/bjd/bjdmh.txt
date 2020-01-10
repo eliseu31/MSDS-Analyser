@@ -1,0 +1,166 @@
+=====================  Product Identification  =====================
+
+Product ID:AUTOPOS 2000 IMAGE ACTIVATOR BOTTLE #2
+MSDS Date:01/01/1987
+FSC:6750
+NIIN:01-293-8110
+Kit Part:Y
+MSDS Number: BJDMH
+=== Responsible Party ===
+Company Name:ALTA CHEMICAL CORP.
+Address:11526 SORRENTO VALLEY ROAD, SUITE F
+City:SAN DIEGO
+State:CA
+ZIP:92121-1314
+Country:US
+Info Phone Num:619-453-5010
+Emergency Phone Num:619-453-5010
+CAGE:8L886
+=== Contractor Identification ===
+Company Name:ALTA CHEMICAL CORP.
+Address:11526 SORRENTO VALLEY ROAD, SUITE F
+Box:City:SAN DIEGO
+State:CA
+ZIP:92121-1314
+Country:US
+Phone:619-453-5010
+CAGE:8L886
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HYDROQUINONE  (SARA III)
+CAS:123-31-9
+RTECS #:MX3500000
+Fraction by Wt: <5%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:2 MG/M3
+ACGIH TLV:2 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:SODIUM HYDROXIDE  (SARA III)
+CAS:1310-73-2
+RTECS #:WB4900000
+Fraction by Wt: <2%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:2 MG/M3
+ACGIH TLV:C 2 MG/M3; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:SODIUM SULFITE
+CAS:7757-83-7
+RTECS #:WE2150000
+Fraction by Wt: <10%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:P-METHYLAMINOPHENOL SULFATE (METOL)
+CAS:55-55-1
+RTECS #:SL8650000
+Fraction by Wt: <5%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:6 MG/M3
+ACGIH TLV:6 MG/M3
+
+Ingred Name:METHYLETHANOLAMINE
+CAS:109-83-1
+RTECS #:KL6650000
+Fraction by Wt: <5%
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 80%
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL RAT) IS NOT ESTABLISHED.
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: INHALATION: LOW HAZARD. EYES:
+    CAUSES IRRITATION. SKIN: CAUSES IRRITATION.
+Explanation of Carcinogenicity:NONE OF THE COMPOUNDS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP, OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:MAY CAUSE EYE AND SKIN IRRITATION.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: IMMEDIATELY FLUSH WITH PLENTY OF WATER FOR 15 MINUTES
+    HOLDING EYELIDS OPEN. GET IMMEDIATE MEDICAL ATTENTION. SKIN: REMOVE
+    CONTAMINATED CLOTHING AND SHOES. WASH SKIN WITH SOAP AND WATER. GET
+    MEDI CAL ATTENTION IF REQUIRED. INGESTION: GIVE NOTHING BY MOUTH IF
+    UNCONSCIOUS. IMMEDIATELY GIVE ONE GLASS OF MILK OR WATER AND INDUCE
+    VOMITING. CALL A PHYSICIAN AT ONCE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Autoignition Temp:Autoignition Temp Text:NONE
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:PREVENT SPREAD OF SPILL. ABSORB WITH SAND OR
+    INERT MATERIAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINERS TIGHTLY CLOSED WHEN
+    NOT IN USE.
+Other Precautions:AVOID CONTACT WITH SKIN AND EYES. DO NOT SWALLOW.
+    WASH THOROUGHLY AFTER HANDLING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AN APPROPRIATE NIOSH-APPROVED RESPIRATOR FOR
+    ORGANIC VAPOR SHOULD BE WORN IF NEEDED.
+Ventilation:MECHANICAL (GENERAL) ROOM VENTILATION IS NORMALLY ADEQUATE.
+Protective Gloves:NEOPRENE OR NATURAL RUBBER
+Eye Protection:SAFETY GOGGLES RECOMMENDED.
+Other Protective Equipment:INDUSTRIAL-TYPE WORK CLOTHING AND APRON AS
+    REQUIRED.
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES. DO NOT WEAR CONTAMINATED CLOTHING OR
+    FOOTWEAR.
+Supplemental Safety and Health
+LAUNDER CONTAMINATED CLOTHING PRIOR TO REUSE. THIS IS PART "B" OF A 4
+    PART PRODUCT. SEE OTHER P/N IND, THIS NSN FOR ADDITIONAL
+    INFORMATION.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:212F,100C
+Vapor Pres:18
+Vapor Density:.6
+Spec Gravity:1.15
+pH:11.3
+Evaporation Rate & Reference:1 (WATER = 1)
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR, LIGHT BLUE GREEN SOLUTION, SLIGHT ODOR
+Percent Volatiles by Volume:80
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL SHOULD BE MADE IN ACCORDANCE WITH ALL
+    APPLICABLE FEDERAL, STATE AND LOCAL LAWS AND REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

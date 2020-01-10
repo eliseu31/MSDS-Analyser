@@ -1,0 +1,137 @@
+=====================  Product Identification  =====================
+
+Product ID:INNERBOND INSTRUMENT LUBRICATING OIL 1500
+MSDS Date:06/01/1989
+FSC:9150
+NIIN:01-234-7440
+MSDS Number: BHWQB
+=== Responsible Party ===
+Company Name:INLAND PACKAGING
+Box:644
+City:ELIZABETHTOWN
+State:KY
+ZIP:42701-9804
+Country:US
+Info Phone Num:502-737-6758
+Emergency Phone Num:502-737-6758
+CAGE:66172
+=== Contractor Identification ===
+Company Name:INLAND PACKAGING INC
+Address:209 PETERSON DR
+Box:644
+City:ELIZABETHTOWN
+State:KY
+ZIP:42701-9804
+Country:US
+Phone:502-737-6757
+CAGE:66172
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DISTILLATES, HYDROTREATED HEAVY PARAFFINIC
+CAS:64742-54-7
+RTECS #:PY8035500
+Fraction by Wt: >95%
+OSHA PEL:300 PPM
+ACGIH TLV:300 PPM
+
+Ingred Name:PROPRIETARY ADDITIVES (CONTAINS POLYMERS, DYE, SULFUR, ZINC
+    AND PHOSPHOROUS)
+Fraction by Wt: <5%
+Other REC Limits:NONE ESTABLISHED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 > 3.16 G/KG (RAT)
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:HEALTH STUDIES HAVE SHOWN THAT MANY
+    PETROLEUM HYDROCARBONS & SYNTHETIC LUBRICANTS POSE POTENTIAL HUMAN
+    HEALTH RISKS WHICH MAY VARY FROM PERSON TO PERSON. AS A
+    PRECAUTION,EXPOSURE TO LIQUID,VAPORS,MIST S,OR FUMES SHOULD BE
+    MINIMIZED.
+Effects of Overexposure:PROLONGED OR REPEATED SKIN CONTACT MAY CAUSE
+    SKIN IRRITATION.
+Medical Cond Aggravated by Exposure:NONE RECOGNIZED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH WITH CLEAR WATER FOR 15 MINUTES OR UNTIL IRRITATION
+    SUBSIDES; SKIN:REMOVE ANY CONTAMINATED CLOTHING AND WASH SKIN
+    THOROUGHLY WITH SOAP & WATER; INHALE:UNLIKELY, IF OVERCOME BY VAPOR
+    FROM HOT  PRODUCT,REMOVE FROM EXPOSURE AND CALL PHYSICAIN, ADMISTER
+    OXYGEN IF NEEDED; INGEST:DO NOT INDUCE VOMITING, CALL A PHYSICIAN
+    IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:478F/248C
+Extinguishing Media:FOAM,WATER SPRAY,WATER FOG,DRY CHEMICAL,CARBON
+    DIOXIDE AND VAPORIZING LIQUID TYPE EXTINGUISHING AGENTS.
+Fire Fighting Procedures:FIRE FIGHTER SHOULD WEAR SUPPLIED-AIR
+    BREATHING EQUIPMENT. USE WATER TO KEEP FIRE-EXPOSED CONTAINERS
+    COOL.
+Unusual Fire/Explosion Hazard:NONE STATED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ADD SAND,EARTH OR OTHER SUITABLE ABSORBENT TO
+    SPILL AREA. DO NOT LET PRODUCT ENTER SEWERS,WATERCOURSES.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:USE PRODUCT WITH CAUTION AROUND
+    HEAT,SPARKS,PILOT LIGHTS,STATIC ELECTRICITY, AND OPEN FLAME.
+Other Precautions:NONE STATED
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USUALLY NONE NEEDED. IF NEEDED, USE SUPPLIED-AIR
+    RESPIRATORY PROTECTION IN CONFINED OR ENCLOSED SPACES.
+Ventilation:USE LOCAL EXHAUST TO CAPTURE VAPOR,MISTS, OR FUMES, IF
+    NECESSARY.
+Protective Gloves:CHEMICAL RESISTANT RECOMMENDED.
+Eye Protection:CHEMICAL SPLASH GOGGLES
+Other Protective Equipment:NONE STATED
+Work Hygienic Practices:NONE
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:635F/335C
+Melt/Freeze Pt:M.P/F.P Text:15F/-9C
+Vapor Pres:0.01
+Vapor Density:>5
+Spec Gravity:0.89
+pH:7
+Evaporation Rate & Reference:<0.01 (BUTYL ACETATE=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:LIQUID
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTACT WITH STRONG OXIDANTS SUCH AS LIQUID CHLORINE,CONCENTRATED
+    OXYGEN,SODIUM HYPOCHLORITE,CALCIUM HYPOCHLORITE
+Stability Condition to Avoid:EMPTY CONTAINERS RETAIN RESIDUE AND CAN BE
+    DANGEROUS.
+Hazardous Decomposition Products:FUMES,SMOKE,CARBON MONOXIDE,SULFUR
+    OXIDES,ALDEHYDES AND OTHER DECOMPOSITION PRODUCTS,IF INCOMPLETE
+    COMBUSTION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:COMPLY WITH ALL FEDERAL, STATE, AND LOCAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

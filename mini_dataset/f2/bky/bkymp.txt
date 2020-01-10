@@ -1,0 +1,104 @@
+=====================  Product Identification  =====================
+
+Product ID:DIETHYL TOLUAMIDE, DEET
+MSDS Date:01/01/1987
+FSC:6840
+NIIN:00-753-4963
+MSDS Number: BKYMP
+=== Responsible Party ===
+Company Name:MCLAUGHLIN GORMLEY KING COMPANY
+Address:8810 TENTH AVENUE NORTH
+City:MINNEAPOLIS
+State:MN
+ZIP:55427
+Info Phone Num:(612) 544-0341
+Emergency Phone Num:(612) 544-0341
+CAGE:5L549
+=== Contractor Identification ===
+Company Name:MCLAUGHLIN GORMLEY KING COMPANY
+Address:8810 TENTH AVENUE NORTH
+Box:City:MINNEAPOLIS
+State:MN
+ZIP:55427
+Country:US
+Phone:800-646-6466
+CAGE:5L549
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHYL ALCOHOL (ETHANOL)
+CAS:64-17-5
+RTECS #:KQ6300000
+Fraction by Wt: 25%
+Other REC Limits:1900 MG/CUM
+OSHA PEL:1000 PPM
+ACGIH TLV:1000 PPM; 9192
+
+Ingred Name:N,N-DIETHYL-META-TOLUAMIDE, DEET, DIETHYLTOLUAMIDE, FLYPEL
+CAS:134-62-3
+RTECS #:XS3675000
+Fraction by Wt: 75%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): 1959 MG/KG
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Explanation of Carcinogenicity:NONE
+
+=======================  First Aid Measures  =======================
+
+First Aid:NO ANTIDOTES. INGESTION: INDUCE VOMITING BY GIVING SALTY OR
+    SOAPY WATER. EYES: FLUSH W/WATER. SKIN: WASH OFF W/SOAP & WATER.
+    OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TOC
+Flash Point:310F
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SOAK UP ON ABSORBENT MATERIAL & DISCARD IN
+    TRASH.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTACT W/EYES OR ON MUCOUS
+    MEMBRANES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AS REQUIRED
+Ventilation:LOCAL EXHAUST/MECHANICAL/GENERAL: ADEQUATE
+Protective Gloves:RECOMMENDED
+Eye Protection:GOGGLES
+Other Protective Equipment:PROTECTIVE CLOTHING
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:232F
+Vapor Pres:0.00167
+Spec Gravity:0.9959
+Solubility in Water:INSOLUBLE
+Appearance and Odor:NEAR ODORLESS, 30-35 HAZEN.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+PLASTICS OR LACQUERED SURFACES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

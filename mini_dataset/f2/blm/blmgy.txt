@@ -1,0 +1,120 @@
+=====================  Product Identification  =====================
+
+Product ID:UNICHLOR 5510
+MSDS Date:01/20/1988
+FSC:6810
+NIIN:00N021201
+MSDS Number: BLMGY
+=== Responsible Party ===
+Company Name:DOVER CHEMICAL CORP
+Address:W 15TH AND DAVIS STS
+City:DOVER
+State:OH
+ZIP:44622
+Country:US
+Info Phone Num:216-343-7711
+Emergency Phone Num:216-343-7711
+CAGE:2R633
+=== Contractor Identification ===
+Company Name:DOVER CHEMICAL COMPANY
+Address:W 15TH & DAVIS STS
+Box:City:DOVER
+State:OH
+ZIP:44622
+Country:US
+Phone:216-343-7711
+CAGE:2R633
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PARAFFIN WAXES AND HYDROCARBON WAXES, CHLORINATED;
+    (CHLORINATED PARAFFINS)
+CAS:63449-39-8
+RTECS #:RV0450000
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:(ACUTE & CHRONIC) THIS PARTICULAR PROD
+    HAS NOT BEEN SHOWN TO HAVE ADVERSE HLTH EFFECTS IN YRS OF MFR OR
+    USE. CHLORINATED PARAFFINS ARE A CLASS OF CMPDS THAT ARE SIMILARLY
+    MANUFACTURED, BUT VARY IN MOL ECULAR STRUCTURE BY CARBON CHAIN
+    LENGTH& DEGREE OF CHLORINATION.
+Explanation of Carcinogenicity:CHLOROPARAFFIN WAXES & HYDROCARBON
+    WAXES: GROUP 2B (IARC).
+Effects of Overexposure:NONE SPECIFIED BY MANUFACTURER.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: WASH WITH SOAP AND WATER. EYES: FLUSH WITH LARGE
+    AMOUNTS OF WATER FOR AT LEAST 15 MINUTES. INHAL: REMOVE TO FRESH
+    AIR. CONSULT MD. INGEST: CALL MD IMMEDIATELY .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:>450F,>232C
+Extinguishing Media:DRY CHEMICAL, FOAM, OR WATER FOG.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT . PROTECT AGAINST DECOMPOSITION PRODUCTS.
+Unusual Fire/Explosion Hazard:HEATING OF NONVENTED CONTAINER MAY CAUSE
+    EXPLOSION - KEEP SURROUNDING CONTAINERS COOL WITH WATER SPRAY.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE CLOTHING, DIKE AREA TO PREVENT
+    MATERIAL FROM ENTERING WATERWAYS, USE ABSORBENT MATERIAL AND SHOVEL
+    INTO DISPOSAL CONTAINER, OR PUMP FROM DIKE AREA INTO RECLAIM
+    CONTAINER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT STORE NEAR OPEN FLAME OR HEAT
+    SOURCE.
+Other Precautions:DO NOT WEAR CONTAMINATED CLOTHING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT REQUIRED UNDER NORMAL CONDITIONS. NIOSH/MSHA
+    APPROVED RESPIRATOR APPROPRIATE FOR EXPOSURE OF CONCERN .
+Ventilation:LOCAL EXHAUST RECOMMENDED.
+Protective Gloves:IMPERVIOUS GLOVES RECOMMENDED.
+Eye Protection:CHEM WORK GOGG&FULL LENGTH FACESHLD
+Other Protective Equipment:LONG SLEEVE AND TROUSERS, EYEWASH, SAFETY
+    SHOWER.
+Work Hygienic Practices:WASH PRIOR TO EATING, DRINKING, SMOKING OR USE
+    OR RESTROOM AND WHEN LEAVING WORK.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Spec Gravity:1.3
+Appearance and Odor:CLEAR LIGHT COLOR - NO DISTINCTIVE ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AND REDUCING AGENTS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:HYDROGEN CHLORIDE, CO.
+Conditions to Avoid Polymerization:HEAT IN EXCESS OF 300F.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ACCORDING TO ALL LOCAL, STATE AND FEDERAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

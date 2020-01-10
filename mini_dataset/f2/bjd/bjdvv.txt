@@ -1,0 +1,148 @@
+=====================  Product Identification  =====================
+
+Product ID:PHILLYBOND BLUE 6A HARDENER
+MSDS Date:09/27/1989
+FSC:8040
+NIIN:01-244-9799
+Kit Part:Y
+MSDS Number: BJDVV
+=== Responsible Party ===
+Company Name:PHILADELPHIA RESINS CORP
+Address:130 COMMERCE DR
+Box:454
+City:MONTGOMERYVILLE
+State:PA
+ZIP:18936
+Country:US
+Info Phone Num:508-777-1100
+Emergency Phone Num:215-855-8450
+CAGE:20420
+=== Contractor Identification ===
+Company Name:ITW PHILADELPHIA RESINS
+Address:130 COMMERCE DR
+Box:City:MONTGOMERYVILLE
+State:PA
+ZIP:18936
+Country:US
+Phone:215-855-8450
+CAGE:20420
+Company Name:JERED BROWN BROTHERS INC.
+Address:1300 COOLIDGE
+Box:2006
+City:TROY
+Phone:313-643-6930 / FAX 313-643-6098
+CAGE:65090
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POLYAMINE AMIDE (CORROSIVE TO SKIN AND EYES)
+Fraction by Wt: 10-30%
+
+Ingred Name:AMIDOAMINE RESIN (SEVERE SKIN AND EYE IRRITANT. SKIN
+    SENSITIZER)
+Fraction by Wt: 10-30%
+
+Ingred Name:MODIFIED POLYAMINE (SKIN, EYE AND RESPIRATORY IRRITANT)
+Fraction by Wt: 1-5%
+
+Ingred Name:TETRAETHYLENEPENTAMINE(CORROSIVE TO SKIN,EYES AND MUCOUS
+    MEMBRANES)
+CAS:112-57-2
+RTECS #:KH8585000
+Fraction by Wt: 5-10%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL(RAT)205MG/KG TEPA,DERMAL(RAB)660
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES:MAY CAUSE IRRITATION AND POSSIBLY
+    BURNS. SKIN:MAY BE CORROSIVE TO SKIN. MAY CAUSE IRRITATION AND
+    SENSITIZATION. INHALATION:PROLONGED INHALATION OF HEATED VAPORS MAY
+    CAUSE IRRITATION OF THE NOSE,  THROAT, AND RESPIRATORY TRACT.
+    INGESTION:CAUSE SEVERE DAMAGE TO MUCOUS MEMBRANES.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:MAY CAUSE ASTHMA AND SKIN SENSITIZATION OR
+    OTHER ALLERGIC RESPONSE.
+Medical Cond Aggravated by Exposure:PRE-EXISTING SKIN AND EYE ALLERGIES
+    MAY INCREASE THE CHANCE OF DEVELOPING INCREASED ALLERGY SYMPTOMS
+    FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:FLUSH EYES W/WATER 30 MIN.EYELIDS OPEN. GET MD. SKIN:REMOVE
+    CONTAMINATED CLOTHING,WASH W/SOAP & WATER. GET MD.INHALATION:REMOVE
+    TO FRESH AIR. ADMIN OXYGEN IF BREATHING DIFFICULT. GET MD.
+    INGESTION:DO  NOT INDUCE VOMITING.GIVE MILK/WATER TO DILUTE.
+    IMMEDIATELY CONSULT PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:>200F,>93C
+Extinguishing Media:CO*2, DRY CHEMICAL, FOAM
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD WEAR SCBA IN CONFINED
+    AREAS
+Unusual Fire/Explosion Hazard:CLOSED CONTAINERS MAY RUPTURE WHEN
+    EXPOSED TO HIGH HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:AVOID PERSONAL CONTACT. SCRAPE UP AS MUCH
+    MATERIAL AS POSSIBLE AND PLACE IN A SUITABLE, LABELED, CONTAINER
+    FOR WASTE DISPOSAL. RESIDUE MAY BE REMOVED USING A SAFETY SOLVENT.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE	IN COOL/DRY PLACE
+    W/VENTILATION. KEEP AWAY FROM OPEN FLAMES AND HIGH TEMP. PRACTICE
+    GOOD HOUSEKEEPING. WASH THOROUGHLY AFTER HANDLING.
+Other Precautions:TAKE PROPER PRECAUTIONS AGAINST OVEREXPOSURE TO THE
+    DUSTS THAT MAY BE GENERATED FROM SANDING OR MACHINING THE CURED
+    MATERIAL.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED RESPIRATORY PROTECTION REQUIRED
+    IN CONFINED AREAS. FOR EMERGENCIES, SCBA OR FULL FACE RESPIRATOR IS
+    RECOMMENDED.
+Ventilation:MATERIAL IS IN PASTE FORM. VAPORS WILL NOT READILY FORM. IN
+    CONFINED AREAS, LOCAL VENTILATION MAY BE REQUIRED.
+Protective Gloves:CHEM RESISTANT RUBBER
+Eye Protection:SAFETY GLASSES OR GOGGLES
+Other Protective Equipment:CLEAN LONG-SLEEVE AND LONG LEG CLOTHING.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+KEY1:T6.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T6
+Spec Gravity:1.48
+Evaporation Rate & Reference:(BUAC=1)NON-VOLATILE
+Solubility in Water:APPRECIABLE
+Appearance and Odor:TAN PASTE W/SLIGHT AMMONIACAL ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS, OXIDIZING MATERIAL, MINERAL ACIDS AND EPOXY RESINS UNDER
+    UNCONTROLLED CONDITIONS
+Stability Condition to Avoid:HEAT, SPARKS AND OPEN FLAMES.
+Hazardous Decomposition Products:CARBON DIOXIDE, CARBON MONOXIDE, AND
+    OXIDES OF NITROGEN
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W APPLICABLE FEDERAL,STATE AND LOCAL
+    REGULATIONS
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

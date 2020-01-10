@@ -1,0 +1,147 @@
+=====================  Product Identification  =====================
+
+Product ID:PR-1826 PRIMER (SILANE SOLUTION)
+MSDS Date:02/07/1989
+FSC:8030
+NIIN:01-290-5135
+Kit Part:Y
+MSDS Number: BHWVF
+=== Responsible Party ===
+Company Name:PRODUCTS RESEARCH & CHEMICAL CORPORATION
+Address:5430 SAN FERNANDO RD
+Box:1800
+City:GLENDALE
+State:CA
+ZIP:91209
+Country:US
+Info Phone Num:818-240-2060
+Emergency Phone Num:800-228-5635
+Preparer's Name:D.J.
+CAGE:8K647
+=== Contractor Identification ===
+Company Name:PRODUCTS RESEARCH & CHEMICAL CORPORATION
+Address:5430 SAN FERNANDO RD
+Box:1800
+City:GLENDALE
+State:CA
+ZIP:91209
+Country:US
+Phone:800-228-5635
+CAGE:8K647
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: 80%
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:EPOXY RESIN
+CAS:25068-38-6
+RTECS #:KC2100000
+Fraction by Wt: 5%
+OSHA PEL:NOT EST
+ACGIH TLV:NOT EST
+
+Ingred Name:TRIMETHOXY DIAMINO SILANE
+CAS:1760-24-3
+RTECS #:KV7400000
+Fraction by Wt: <5%
+OSHA PEL:NOT EST.
+ACGIH TLV:NOT EST.
+
+Ingred Name:PHENYLTRIETHOXY SILANE
+CAS:780-69-8
+RTECS #:VV4900000
+Fraction by Wt: <5%
+OSHA PEL:NOT EST.
+ACGIH TLV:NOT EST.
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: 10%
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN: MAY CAUSE ALLERGIC SKIN RASH    
+					     INHALATION/INGESTION: CAN
+    CAUSE LIVER AND KIDNEY DAMAGE
+Effects of Overexposure:EYE: IRRITATION 			       
+				    SKIN: LOCAL IRRITATION	       
+						INHAL: IRRITATION TO
+    NOSE,THROAT,HEADACH
+    E,FATIGUE,CONFUSION,DIZZINESS,DROWINESS,NUMBNESS, &
+    UNCONSCIOUSNESS.; INGST: NAUSEA, VOMITING
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH W/LUKE WARM WATER FOR 15 MINUTES. CONSULT A
+    PHYSICIAN.		     SKIN: WASH W/SOAP & WATER. CONSULT A
+    PHYSICIAN.				       INHAL: REMOVE TO FRESH
+    AIR. CONSULT A PH YSICIAN.INGST: DO NOT INDUCE VOMITING. CONSULT A
+    PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:23F/-5C
+Lower Limits:1.8
+Upper Limits:11% (MEK)
+Extinguishing Media:CO2, DRY CHEMICAL, FOAM, WATER FOG
+Fire Fighting Procedures:USE AIR SUPPLIED RESPIRATOR. USE WATER TO COOL
+    HEAT EXPOSED CONTAINERS.
+Unusual Fire/Explosion Hazard:HIGH TEMPERATURES MAY CAUSE PRESSURE
+    BUILD UP IN CLOSED CONTAINERS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL IGNITION SOURCES. WEAR S.C.B.A. FOR
+       MAJOR UNVENTILATED SPILLS. COVER WITH ABSORBANT.  SCOOP INTO
+    CONTAINERS. CLEAN UP RESIDUE WITH 1,1, 1-TRICHLOROETHANE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE AN ORGANIC VAPOR CARTRIDGE RESPIRATOR OR AIR
+    SUPPLIED RESPIRATOR
+Ventilation:GENERAL VENTILATION
+Protective Gloves:SOLVENT RESISTANT GLOVES
+Eye Protection:CHEMICAL GOGGLES OR FULL FACE SHIELD
+Supplemental Safety and Health
+KEY1:F3.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Vapor Density:2.5 (MEK)
+Spec Gravity:0.80
+Evaporation Rate & Reference:3.2 (MEK)
+Solubility in Water:APPRECIABLE
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Hazardous Decomposition Products:OXIDES OF CARBON AND NITROGEN
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF SPILLAGE IN COMPLIANCE WITH
+    FEDERAL,ANDSTATE REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

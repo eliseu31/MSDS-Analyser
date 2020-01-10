@@ -1,0 +1,176 @@
+=====================  Product Identification  =====================
+
+Product ID:TURCO 4008
+MSDS Date:03/01/1994
+FSC:6850
+NIIN:00-306-6756
+MSDS Number: BWRJY
+=== Responsible Party ===
+Company Name:TURCO PRODUCTS INC SUB ELF ATOCHEM NORTH AMERICA
+Address:7300 BOLSA AVE
+City:WESTMINSTER
+State:CA
+ZIP:92684-3600
+Country:US
+Info Phone Num:714-890-3600
+Emergency Phone Num:714-890-3600
+Preparer's Name:JOHN F. GRAINGER, DIR
+CAGE:61102
+=== Contractor Identification ===
+Company Name:TURCO PRODUCTS, INC. DIVISON OF ELF ATOCHEM NORTH AMERICA
+Address:2000 MARKET ST
+Box:City:PHILADELPHIA
+State:PA
+ZIP:19103-3222
+Country:US
+Phone:215-419-7890
+CAGE:61102
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:2-PROPANOL,1,1',1'',1'''-(ETHYLENEDINITRILO)TETRA-
+CAS:102-60-3
+RTECS #:UB5604000
+Fraction by Wt: <5%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:POTASSIUM HYDROXIDE  (SARA III)
+CAS:1310-58-3
+RTECS #:TT2100000
+Fraction by Wt: 20%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:C, 2 MG/M3
+ACGIH TLV:C 2 MG/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ETHANOL, 2,2',2"-NITRILOTRI-; (TRIETHANOLAMINE)
+CAS:102-71-6
+RTECS #:KL9275000
+Fraction by Wt: 10%
+Other REC Limits:NONE RECOMMENDED
+ACGIH TLV:5 MG/M3
+
+Ingred Name:DIETHANOLAMINE  (SARA III)
+CAS:111-42-2
+RTECS #:KL2975000
+Fraction by Wt: <5%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:3 PPM
+ACGIH TLV:3 PPM; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:POTASSIUM PHENOLATE
+CAS:100-67-4
+Fraction by Wt: 5%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:WATER (NON-HAZARDOUS)
+CAS:7732-18-5
+RTECS #:ZC0110000
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:ACETIC ACID,POTASSIUM SALT/POTASSIUM ACETATE
+    (NON-HAZARDOUS)
+CAS:127-08-2
+RTECS #:AJ3325000
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES- SEVERE BURNS; POSSIBLE PERMANENT
+    TISSUE DAMAGE & POSSIBLE BLINDNESS.  SKIN- SEVERE IRRITATION,
+    POSSIBLE CHEMICAL BURNS & POSSIBLE PERMANENT DAMAGE.  INHALATION-
+    MAY CAUSE MODERATE TO SEVERE IRRI TATION OF RESPIRATORY TRACT,
+    POSSIBLE PERMANENT DAMAGE.	INGESTION- SEVERE IRRITATION, DAMAGE TO
+    GASTROINTESTINAL TRACT.
+Effects of Overexposure:NONE SPECIFIED BY MANUFACTURER.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES- SPEED IS ESSENTIAL!  IMMEDIATELY FLUSH THOROUGHLY WITH
+    LARGE AMOUNTS OF WATER. FOLLOW WITH SALINE, 30 MIN.  SKIN-
+    IMMEDIATELY FLUSH WITH LARGE AMOUNTS OF WATER.  INHALATION- REMOVE
+    TO FRESH AIR.  GIVE ARTIFICAL RESPIRATION IF BREATHINGHAS STOPPED. 
+    INGESTION- DO NOT INDUCE VOMITING; IF CONSCIOUS GIVE WATER FREELY
+    AND GET MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:ANY MEDIA SUITABLE FOR SURROUNDING MATERIAL.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS AND
+    PROTECTIVE CLOTHING.
+Unusual Fire/Explosion Hazard:CONTACT WITH WATER AND REACTIVE METALS,
+    SUCH AS ALUMINUM, ZINC, TIN, ETC., MAY LEAD TO GENERATION OF
+    HYDROGEN GAS IN EXPLOSIVE AMOUNTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONFINE SPILL. STOP LEAK AT SOURCE IF THIS CAN
+    BE DONE SAFELY. VENTILATE AREA. NONESSENTIAL PERSONNEL SHOULD LEAVE
+    THE AREA UNTIL CLEANUP IS COMPLETED. PUMP LIQUID INTO DOT-APPROVED
+    DRUMS FOR DISPOSAL . ABSORB REMAINING LIQUID ONTO INERT ABSORBENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN DRY PROTECTED AREA. CAUTION:
+    HAZARDOUS CARBON MONOXIDE GAS CAN FORM UPON CONTACT WITH FOOD AND
+    BEVERAGE PRODUCTS.
+Other Precautions:CAREFULLY ADD TO WATER WHILE MIXING, TAKING CARE TO
+    AVOID SPLASHING. USE APPROPRIATE SAFETY EQUIPMENT TO ELIMINATE
+    POSSIBILITY OF SKIN OR EYE CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH-APPROVED RESPIRATOR FOR DUST AND MISTS IS
+    ADVISED. IF RESPIRATORS ARE USED, A FORMAL TRAINING AND SCREENING
+    PROGRAM MUST BE INITIATED.
+Ventilation:MAINTAIN SUFFICIENT MECHANICAL VENTILATION TO KEEP VAPOR
+    CONCENTRATION BELOW TLV.
+Protective Gloves:ALKALI RESISTANT MATERIAL.
+Eye Protection:FACE SHIELD OR GOGGLES.
+Other Protective Equipment:BOOTS AND APRON MADE OF ALKALI RESISTANT
+    MATERIALS.
+Work Hygienic Practices:WASH HANDS THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:B1
+Boiling Pt:=132.2C, 270.F
+Vapor Pres:25
+Vapor Density:>1
+Spec Gravity:1.42
+pH:13.0
+Evaporation Rate & Reference:<1 (N-BUTYL ACETATE=1)
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR, AMBER LIQUID; PHENOL ODOR.
+Percent Volatiles by Volume:25
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS, REACTIVE METALS, ORGANIC MATERIALS.
+Stability Condition to Avoid:CONTACT WITH INCOMPATIBLE MATERIALS.
+Hazardous Decomposition Products:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:(1) TRANSFER TO RECLAIMING CENTER FOR RECYCLING
+    OR REUSE, IF POSSIBLE. (2) TRANSFER TO LICENSED WASTE TREATMENT OF
+    DISPOSAL SITE FOR DISPOSITION UNDER APPLICABLE LOCAL, STATE AND
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

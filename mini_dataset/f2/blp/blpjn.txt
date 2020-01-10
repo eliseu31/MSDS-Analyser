@@ -1,0 +1,146 @@
+=====================  Product Identification  =====================
+
+Product ID:77-198 NEOPRENE ADHESIVE
+MSDS Date:08/23/1989
+FSC:8040
+NIIN:00F019084
+MSDS Number: BLPJN
+=== Responsible Party ===
+Company Name:IGI ADHESIVES INC
+Address:6100 CENTENNIAL BLVD
+City:NASHVILLE
+State:TN
+ZIP:37209
+Info Phone Num:(615) 350-8989
+Emergency Phone Num:(615) 350-8989 OR 350-8555
+Preparer's Name:MERLE ELLIS
+CAGE:IDIAD
+=== Contractor Identification ===
+Company Name:IGI ADHESIVES INC
+Address:6100 CENTENNIAL BLVD
+City:NASHVILLE
+State:TN
+ZIP:37209
+Phone:(615) 350-8989 OR 350-8555
+CAGE:IDIAD
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 17%
+Other REC Limits:100 PPM
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ACETONE  (SARA III)
+CAS:67-64-1
+RTECS #:AL3150000
+Fraction by Wt: 33%
+Other REC Limits:590 MG/CUM
+OSHA PEL:1000PPM
+ACGIH TLV:750PPM/1000STEL;9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:HEXANE (N-HEXANE)
+CAS:110-54-3
+RTECS #:MN9275000
+Other REC Limits:50 PPM
+OSHA PEL:500 PPM
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:C6 ISOMERS OF HEXANE
+Other REC Limits:STEL 1000 PPM
+OSHA PEL:500 PPM
+ACGIH TLV:500 PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INGESTION: NUMBNESS, RESPIRATORY TRACT
+    IRRITATION & MUSCLE WEAKNESS. SKIN: DEFATTING, DERMATITIS &
+    IRRITATION. EYES: IRRITATION. INHALATION: LIGHTHEADEDNESS, NAUSEA,
+    DIZZINESS, GIDDINESS, BREATHING DI FFICULTY, UNCONSCIOUSNESS,
+    ASPHYXIATION, CENTRAL NERVOUS SYSTEM, LIVER & KIDNEY DAMAGE.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INGESTION: NUMBNESS, RESPIRATORY TRACT
+    IRRITATION & MUSCLE WEAKNESS. SKIN: DEFATTING, DERMATITIS &
+    IRRITATION. EYES: IRRITATION. INHALATION: LIGHTHEADEDNESS, NAUSEA,
+    DIZZINESS, GIDDINESS, BREATHING DI FFICULTY, UNCONSCIOUSNESS,
+    ASPHYXIATION, CENTRAL NERVOUS SYSTEM, LIVER, & KIDNEY DAMAGE.
+Medical Cond Aggravated by Exposure:CENTRAL & PERIPHERAL NERVOUS
+    SYSTEM, EYE & SKIN DISORDERS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION: DON'T INDUCE VOMITING. SKIN: WASH W/SOAP & WATER
+    OR SKIN CLEANSER. EYES: FLUSH W/PLENTY OF WATER. INHALATION: REMOVE
+    TO FRESH AIR. IF BREATHING DIFFICULTY, ADMINISTER OXYGEN. IF
+    BREATHING S TOPS, BEGIN ARTIFICIAL RESPIRATION. KEEP WARM & QUIET.
+    OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:<0F
+Lower Limits:1.2%
+Upper Limits:13%
+Extinguishing Media:CO2, DRY CHEMICAL, FOAM OR HALON
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:COOL DRUMS W/WATER SPRAY TO PREVENT
+    PRESSURE EXPLOSION. VAPORS IN CONFINED SPACES MAY BUILD-UP & IGNITE
+    EXPLOSIVELY.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE/ELIMINATE ALL SOURCES OF IGNITION.
+    VENTILATE AREA OF SPILL OR LEAK. ABSORB ON PAPER TOWELS. RETAIN BY
+    DIKING & ABSORB W/ABSORBENT MATERIAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP PRODUCT CONTAINERS COOL, DRY &
+    AWAY FROM SOURCES OF IGNITION. USE & STORE W/ADEQUATE VENTILATION.
+    AVOID BREATHING VAPORS.
+Other Precautions:DON'T WEAR CONTACT LENSES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED AIR-SUPPLIED OR ORGANIC
+    VAPOR RESPIRATOR IF >TLV.
+Ventilation:LOCAL EXHAUST: REQUIRED. GENERAL: IF ROOM ISN'T
+    RECIRCULATED, BUT EXHAUSTED, MAY BE ADEQUATE TO KEEP 1
+Spec Gravity:0.812
+Evaporation Rate & Reference:(BU AC = 1): <1
+Solubility in Water:MODERATE
+Appearance and Odor:YELLOW, BLUE IN COLOR W/SOLVENT ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS, & ACIDS.
+Stability Condition to Avoid:FLAME, SPARKS, EXTREME HEAT, OTHER SOURCES
+    OF IGNITION
+Hazardous Decomposition Products:CO, CO2 & HYDROGEN CHLORIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTAMINATED ABSORBENT MATERIAL OR WASTE PRODUCT
+    MUST BE DISPOSED OF IN ACCORDANCE W/RESOURCE CONSERVATION &
+    RECOVERY ACT, FEDERAL, STATE, & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

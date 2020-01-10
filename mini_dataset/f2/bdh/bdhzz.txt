@@ -1,0 +1,136 @@
+=====================  Product Identification  =====================
+
+Product ID:PROTEK-SORB PACKAGING ADSORBENT
+MSDS Date:01/10/1992
+FSC:6850
+NIIN:00-194-3291
+MSDS Number: BDHZZ
+=== Responsible Party ===
+Company Name:DAVISON CHEMICAL DIV., W.R.GRACE & CO.
+Box:2117
+City:BALTIMORE
+State:MD
+ZIP:21203
+Country:US
+Info Phone Num:301-659-9000
+Emergency Phone Num:301-659-9058
+Preparer's Name:J.H. CONVEY
+CAGE:7U659
+=== Contractor Identification ===
+Company Name:DAVISON CHEMICAL DIVISION OF WR GRACE & COMPANY
+Address:5500 CHEMICAL RD
+Box:City:BALTIMORE
+State:MD
+ZIP:21226-1698
+Country:US
+Phone:410-354-8954
+CAGE:7U659
+Company Name:DEANCO INC
+Address:7933 QUEENAIR DR
+Box:City:GAITHERSBURG
+State:MD
+ZIP:20879-4137
+Country:US
+Phone:301-948-5444
+CAGE:9K946
+Company Name:W R GRACE & CO. DAVISON CHEMICAL DIVISION
+Address:10 E BALTIMORE STREET
+Box:2117
+City:BALTIMORE
+State:MD
+ZIP:21202-1630
+Country:US
+Phone:410-659-9000
+CAGE:16210
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SILICA GEL
+CAS:63231-67-4
+RTECS #:VV7322000
+Fraction by Wt: 100%
+Other REC Limits:NONE SPECIFIED BY M.
+OSHA PEL:6 MG/M3
+ACGIH TLV:10 MG/M3
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL RAT LD50 IS >31,600 MG/KG
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:THERE IS VERY LITTLE HAZARD TO THIS
+    PRODUCT. EFFECTS REPORTED ARE A DRYING OF SKIN OR MUCOUS MEMBRANES
+    WITH PROLONGED/ REPEATED CONTACT.
+Effects of Overexposure:IRRITATION OR DRYING OF EYES,SKIN,MUCOUS
+    MEMBRANES.
+Medical Cond Aggravated by Exposure:RESPIRATORY AILMENTS SUCH AS
+    EMPHYSEMA,ETC.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH WITH WATER FOR 15 MIN, OCCASIONALLY OPENING EYELID.
+    IF IRRITATION OR DISCOMFORT PERSIST GET MEDICAL ATTENTION.
+    SKIN:WASH WITH SOAP & WATER. INHALATION:REMOVE TO FRESH AIR.
+    INGESTION:MATERIAL	WILL PASS THROUGH BODY NORMALLY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:NON-FLAMMABLE. USE MEDIA APPROPRIATE FOR
+    SURROUNDING FIRE.
+Fire Fighting Procedures:NONE.
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VACUUM,SWEEP UP. WEAR DUST MASK AND GLOVES.
+Neutralizing Agent:NONE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL,DRY,WELL VENTILATED
+    AREA.KEEP TIGHTLY CLOSED TO PROTECT QUALITY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NORMALLY NEEDED. USE NIOSH/MSHA APPROVED
+    DUST RESPIRATOR IF PEL/TLV IS EXCEEDED,OR IF RESPIRATORY DISCOMFORT
+    IS ENCOUNTERED.
+Ventilation:MECH(GEN)OR LOCAL EXHAUST THAT PROVIDES ADEQUATE
+    VENTILATION
+Protective Gloves:COTTON.
+Eye Protection:SAFETY GLASSES.
+Work Hygienic Practices:USE GOOD INDUSTRIAL HYGIENE PRACTICE.
+Supplemental Safety and Health
+PH IN 5% SLURRY IS APPROXIMATELY 3.8-4.1 (SILICA GEL).
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Spec Gravity:2.1
+pH:4
+Solubility in Water:INSLOUBLE
+Appearance and Odor:BAGS CONTAINING WHITE GRANULR/BEADED SILICA GEL,
+    ODORLESS.
+Percent Volatiles by Volume:0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+REACTS WITH HF
+Stability Condition to Avoid:HUMID, MOISTURE
+Hazardous Decomposition Products:NONE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W FEDERAL,STATE,LOCAL REGULATIONS.
+    HMIS:NOT A HAZARDOUS WASTE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

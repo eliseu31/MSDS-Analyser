@@ -1,0 +1,123 @@
+=====================  Product Identification  =====================
+
+Product ID:LAUD, 08542
+MSDS Date:07/24/1992
+FSC:7930
+NIIN:00-193-7839
+MSDS Number: BDHZS
+=== Responsible Party ===
+Company Name:DIVERSEY CORP
+Address:12025 TECH ENTER DR
+City:LIVONIA
+State:MI
+ZIP:48150
+Country:US
+Info Phone Num:800-543-4906
+Emergency Phone Num:800-424-9300/303-592-1024
+CAGE:0XZ81
+=== Contractor Identification ===
+Company Name:DIVERSEY CORP
+Address:12025 TECH CENTER DR
+Box:City:LIVONIA
+State:MI
+ZIP:48150
+Country:US
+Phone:303-458-5000/303-592-1024
+CAGE:0XZ81
+Company Name:DIVERSEY CORP;DIVERSEY WYANDOTTE DIV
+Address:1532 BIDDLE AVENUE
+City:WYANDOTTE
+State:MI
+ZIP:48192-3707
+Country:US
+Phone:313-281-0930/303-592-1024/816-1485
+CAGE:59327
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM METASILICATE
+CAS:6834-92-0
+RTECS #:VV9275000
+Fraction by Wt: <20%
+
+Ingred Name:SODIUM DODECYLBENZENE SULFONATE
+CAS:25155-30-0
+RTECS #:DB6825000
+Fraction by Wt: <3%
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:EYES: SEVERE IRRIT/BURNS MAY CAUSE REDNESS,PAIN
+    & POSS REVERSIBLE CORNEAL DAMAGE. (SEE SUPP DATA)
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH IMMED W/H*20 MINIMUM 15 MIN. GET IMMED MED ATTN.
+    SKIN: FLUSH W/H*20. IF IRRIT DEVELOPS,CALL A PHYS. INGEST: DRINK
+    LRG AMTS H*20/MILK. DONT INDUCE VOMIT. GET MED ATTN. INHAL: REMOVE
+    TO FRES H AIR. IF BREATHING DIFF PERSISTS,GET MED ATTN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:CO*2, DRY CHEMICAL, WATER.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP & PLACE IN A METAL CONTAINER. BURY IN
+    AN APPROVED CHEMICAL LANDFILL. RINSE AFFECTED AREAS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL,DRY AREA. DONT STORE
+    W/ACIDS. KEEP OUT OF REACH OF CHILDREN. DONT CONTAMINATE FOOD OR
+    FEED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:MECHANICAL TO CONTROL DUST OR MIST.
+Protective Gloves:RUB/CHEM RESIST
+Eye Protection:GOGGS/SIDE-SHLD SFTY GLAS
+Other Protective Equipment:CLOTHING TO PREVENT SKIN CONTACT
+Supplemental Safety and Health
+SPEC GRAV: 68 LBS/CUFT. EFFECTS OF OVEREXP: SKIN- IRRITATING. INGEST-
+    POSS PAIN,NAUSEA & GASTRIC DISTRESS. INHAL- IRRIT TO NOSE,THROAT &
+    LUNG TISSUE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Vapor Pres:0.1 @20C
+Solubility in Water:23%
+Appearance and Odor:WHITE TO TAN FREE-FLOWING POWDER; DETERGENT ODOR
+Percent Volatiles by Volume:0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID FLAMMABLE LIQUIDS, ORGANIC HALOGENS AND MOISTURE AS WELL.
+Stability Condition to Avoid:CONCENTRATED MINERAL ACIDS WILL CAUSE
+    RELEASE OF CO*2.
+Hazardous Decomposition Products:CO*2 & CO AT HIGH TEMP COMBUST. CL GAS
+    W/DRY,ORG CL BLEACH.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:MAKES ALKALINE SOLUTION W/WATER. MAY REQUIRE
+    NEUTRALIZATION W/DILUTE ACIDS TO A SPECIFIC PH BEFORE DISCHARGE TO
+    A SANITARY SEWER. WASTE DISPOSAL MUST BE IAW FEDERAL,STATE & LOCAL
+    CODES.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

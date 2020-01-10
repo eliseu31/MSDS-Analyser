@@ -1,0 +1,157 @@
+=====================  Product Identification  =====================
+
+Product ID:218-000 CAMP DRY AEROSOL
+MSDS Date:06/30/1989
+FSC:6850
+NIIN:00F019134
+MSDS Number: BLPMD
+=== Responsible Party ===
+Company Name:KIWI BRANDS INC
+Address:ROUTE 662 NORTH
+City:DOUGLASSVILLE
+State:PA
+ZIP:19518
+Info Phone Num:(215) 385-3041
+Emergency Phone Num:(215) 385-3041
+CAGE:1GT09
+=== Contractor Identification ===
+Company Name:KIWI BRANDS INC
+Address:ROUTE 662 NORTH
+Box:City:DOUGLASSVILLE
+State:PA
+ZIP:19518
+Phone:(215) 385-3041
+CAGE:1GT09
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL CHLOROFORM (1,1,1-TRICHLOROEHANE)  (SARA III)
+CAS:71-55-6
+RTECS #:KJ2975000
+Fraction by Wt: 25%
+Other REC Limits:450 PPM STEL
+OSHA PEL:350 PPM/450 STEL
+ACGIH TLV:350 PPM/450STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+Ozone Depleting Chemical:1
+
+Ingred Name:STODDARD SOLVENT
+CAS:8052-41-3
+RTECS #:WJ8925000
+Fraction by Wt: 59%
+Other REC Limits:350 MG/CUM
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM; 9293
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS)	(SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 1%
+Other REC Limits:100 PPM
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:1,2,4-TRIMETHYLBENZENE  (SARA III)
+CAS:95-63-6
+RTECS #:DC3325000
+Fraction by Wt: <1.7%
+OSHA PEL:25 PPM
+ACGIH TLV:25 PPM; 9192
+
+Ingred Name:CARBON DIOXIDE
+CAS:124-38-9
+RTECS #:FF6400000
+Other REC Limits:10000 PPM
+OSHA PEL:5000 PPM
+ACGIH TLV:5000PPM/30000STEL;93
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN: IRRITATION, BURNS, DRYNESS, &
+    DERMATITIS. INHALATION: LIVER/KIDNEY/NERVOUS SYSTEM EFFECTS,
+    RESPIRATORY IRRITATION, DIZZINESS, NAUSEA, OR HEADACHES. EYES:
+    IRRITATION & PAIN. INGESTION: FATAL, HAR MFUL, OR INJURY.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INGESTION: HARMFUL, FATAL, OR INJURY. SKIN:
+    IRRITATION, BURNS, DRYNESS, OR DERMATITIS. INHALATION:
+    LIVER/KIDNEY/NERVOUS SYSTEM EFFECTS, RESPIRATORY IRRITATION,
+    DIZZINESS, NAUSEA, OR HEADACHES. EYES: I RRITATION & PAIN.
+Medical Cond Aggravated by Exposure:SENSITIVITY
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. EYES: FLUSH W/PLENTY OF
+    WATER FOR AT LEAST 15 MINS. SKIN: WASH THOROUGHLY W/SOAP & WATER.
+    INGESTION: DON'T INDUCE VOMITING. OBTAIN MEDICAL ATTENTION IN ALL
+    CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point: 106F
+Extinguishing Media:FOAM, DRY CHEMICAL, CO2, WATER FOG OR SPRAY
+Fire Fighting Procedures:USE AIR SUPPLIED BREATHING EQUIPMENT. COOL
+    EXPOSED CONTAINERS W/WATER SPRAY.
+Unusual Fire/Explosion Hazard:FLAMMABLE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL IGNITION SOURCES. VENTILATE AREA.
+    KEEP OUT OF WATER SUPPLY. MOP, WIPE, OR SOAK UP W/ABSORBENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID INHALATION OF VAPORS & CONTACT
+    W/EYES & SKIN. ALWAYS DIRECT SPRAY AWAY FROM FACE. USE IN A WELL
+    VENTILATED AREA. DON'T WEAR CONTACT LENSES.
+Other Precautions:DON'T STORE >120F, NEAR OPEN FLAMES, OR OTHER
+    IGNITION SOURCES. DON'T STORE W/STRONG OXIDANTS. DON'T TAKE
+    INTERNALLY. DON'T EAT, DRINK, OR SMOKE IN WORK AREAS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT REQUIRED WHEN USED IN A WELL VENTILATED
+    AREA.
+Ventilation:LOCAL EXHAUST: REQUIRED IF USING LARGE AMOUNTS OF PRODUCT
+    IN A CONFINED AREA.
+Protective Gloves:CHEMICAL RESISTANT
+Eye Protection:SAFETY GLASSES
+Supplemental Safety and Health
+INTENTIONAL MISUSE BY DELIBERATELY CONCENTRATING & INHALING VAPORS CAN
+    BE HARMFUL OR FATAL. THIS PRODUCT CONTAINS A CHEMICAL SUBJECT TO
+    SECTION 313 OF SARA TITLE III.
+
+==================  Physical/Chemical Properties  ==================
+
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:CLEAR WATER WHITE - PALE STRAW W/MINERAL
+    SPIRIT/TRICHLOROETHANE ODOR
+Percent Volatiles by Volume:88%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS
+Stability Condition to Avoid:EXCESSIVE HEAT, HIGH TEMPERATURES, OPEN
+    FLAME, OR OTHER SOURCES OF IGNITION
+Hazardous Decomposition Products:CO, HYDROGEN CHLORIDE, & VERY SMALL
+    AMOUNTS OF PHOSGENE & CHLORINE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF PRODUCT IN ACCORDANCE W/LOCAL, STATE,
+    & FEDERAL REGULATIONS. D001 (IGNITABLE). DON'T PUNCTURE OR
+    INCINERATE CONTAINER. FLAMMABLE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

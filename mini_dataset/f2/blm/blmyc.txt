@@ -1,0 +1,187 @@
+=====================  Product Identification  =====================
+
+Product ID:PAINT LATEX BASE INT FLAT WHITE 37778
+MSDS Date:11/09/1990
+FSC:8010
+NIIN:00-045-3478
+MSDS Number: BLMYC
+=== Responsible Party ===
+Company Name:PRATT AND LAMBERT INC
+Address:16116 EAST 13TH STREET
+Box:2153
+City:WICHITA
+State:KS
+ZIP:67201
+Country:US
+Info Phone Num:316-733-1361
+Emergency Phone Num:716-873-6000(24 HRS)/800-255-3924
+Preparer's Name:W A ELLISON
+CAGE:61196
+=== Contractor Identification ===
+Company Name:PRATT AND LAMBERT INC
+Box:6027
+City:CLEVELAND
+State:OH
+ZIP:44101-1027
+Country:US
+Phone:216-566-2902
+CAGE:61196
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHYLENE GLYCOL  (SARA III)
+CAS:107-21-1
+RTECS #:KW2975000
+Fraction by Wt: <5%
+Other REC Limits:LFL 3.0/UFL 15.0
+OSHA PEL:C 50 PPM
+ACGIH TLV:C 50 PPM,VAPOR; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 20%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:SILICA, AMORPHOUS HYDRATED
+CAS:112945-52-5
+RTECS #:VV7310000
+Fraction by Wt: <5%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:6 MG/CU.M.
+ACGIH TLV:10 MG/CU.M.
+
+Ingred Name:SILICA, CRYSTALLINE - CRISTOBALITE
+CAS:14464-46-1
+RTECS #:VV7325000
+Fraction by Wt: 5%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:SEE TABLE Z3
+ACGIH TLV:0.05 MG/M3 RDUST9293
+
+Ingred Name:SILICA, CRYSTALLINE - QUARTZ
+CAS:14808-60-7
+RTECS #:VV7330000
+Fraction by Wt: <1%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:SEE TABLE Z3
+ACGIH TLV:0.1 MG/M3 RDUST;9293
+
+Ingred Name:VOC: .38 LB/GAL LESS WATER & NEGLIGIBLY PHOTOCHEMICALLY
+    REACTIVE MATERIALS 46 G/L LESS WATER CALCULATED
+RTECS #:9999999VO
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:VOC: .40 LB/GAL SOLIDS 48 G/L SOLIDS CALCULATED
+RTECS #:9999999VO
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:REPEATED EXPOSURE TO CRYSTALLINE
+    SILICA MAY CAUSE PNEUMOCONIOSIS, A PROGRESSIVELY DISABLING LUNG
+    DISEASE. SWALLOW: SEVERE KIDNEY DAMAGE FOLLOWS THE SWALLOWING OF
+    LARGE VOLUMES OF ETHYLENE GLYCOL. MAY  BE FATAL.
+Explanation of Carcinogenicity:CRYSTALLINE SILICA HAS LIMITED EVIDENCE
+    IN EXPERIMENTAL ANIMAL.
+Effects of Overexposure:SWALLOW: MAY CAUSE ABDOMINAL DISCOMFORT OR
+    PAIN, DIZZINESS, MALAISE, LUMBAR PAIN, OLIGURIA, UREMIA & CENTRAL
+    NERVOUS SYSTEM DEPRESSION. INHALATION: RESPIRATORY IRRITATION.
+    EYES: IRRITATION. SKIN: MAY  CAUSE IRRITATION. SKIN: MAY CAUSE
+    DEFATTING & IRRITATION OF THE SKIN.
+Medical Cond Aggravated by Exposure:PRE-EXISTING RESPIRATORY CONDITIONS
+    MAY BE AGGRAVATED BY EXPOSURE TO CRYSTALLINE SILICA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SWALLOW: IMMED GIVE 1 OR 2 GLASSES OF WATER & CALL POISON
+    CONTROL CENTER/HOSPITAL/PHYSICIAN FOR WAY TO INDUCE VOMIT. (NOTHING
+    BY MOUTH TO UNCONSCIOUS PERSON). INHAL: REMOVE TO FRESH AIR. EYE:
+    FLUSH W/ LRG AMT OF WATER, LIFTING LIDS FOR AT LEAST 15 MIN. GET
+    MED ATTN. SKIN: REMOVE CONTAM CLOTHING. WASH AREA W/SOAP WATER.
+    OBTAIN MED ATTN IF IRRIT PERSISTS. ALSO SEE NOT TO PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:232F,111C
+Lower Limits:3.0
+Upper Limits:15.0
+Extinguishing Media:USE NFPA CLASS B FIRE EXTINGUISHER DESIGNED FOR
+    FLAMMABLE LIQUID FIRES. POLYMER FOAM IS PREFERRED FOR LARGE FIRES.
+Fire Fighting Procedures:WEAR SCBA. WATER MAY BE INEFFECTIVE, USE TO
+    COOL EXPOSED CONTAINER TO PREVENT PRESSURE
+    BUILD-UP/AUTO-IGNITE/EXPLOSION FROM HIGH HEAT. FOG NOZZLES
+    PREFERRED.
+Unusual Fire/Explosion Hazard:DURING EMERGENCY CONDITIONS, OVEREXPOSURE
+    TO DECOMPOSITION PRODUCTS MAY CAUSE HEALTH HAZARD. SYMPTOMS MAY NOT
+    BE IMMEDIATELY APPARENT. OBTAIN MEDICAL ATTENTION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONFINE IN SMALL AREA. USE ABSORBENT TO CLEAN
+    UP. PLACE IN CONTAINER FOR DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:PROTECT FROM FREEZING OR EXTREMELY
+    HIGH TEMPERATURES.
+Other Precautions:DO NOT TAKE INTERNALLY. CLOSE CONTAINERS AFTER EACH
+    USE. KEEP AWAY FROM CHILDREN. DO NOT BREATHE SANDING DUST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF APPLIED BY SPRAYING, USE AND APPROPRIATE,
+    PROPERLY FITTED NIOSH/MSHA APPROVED RESPIRATOR TO REMOVE THE SPRAY
+    MIST. REFER TO OSHA 29 CFR 1910.134 "RESPIRATORY PROTECTION".
+Ventilation:GENERAL DILUTE & LOCAL EXHAUST VENT IN VOL/PATTERN TO
+    MAINTAIN CONCENTRATIONS OF HAZARDOUS SUBSTANCES BELOW LOWEST LIMIT
+Protective Gloves:IMPERMEABLE GLOVES (NEOPRENE)
+Eye Protection:SAFETY GLASSES W/SIDESHIELDS, FACESHIELD
+Other Protective Equipment:NOT LIKELY TO BE NEEDED
+Supplemental Safety and Health
+ETHANOL IS ANTIDOTAL & ITS EARLY ADMIN MAY BLOCK FORMATION OF
+    NEPHROTOXIC METABOLITIES OF ETHYLENE GLYCOL IN LIVER. ETHANOL
+    SHOULD BE GIVEN INTRAVENOUSLY, AS A 5% SOLUTION IN SODIUM
+    BICARBONATE, AT A  RATE OF ABOUT 10ML ETHANOL PER HOUR. DESIRED
+    THARAPEUTIC LEVEL OF ETHANOL IN BLOOD IS 100 MG/DL. SEE FILE FOR
+    MORE INFO
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V7
+Boiling Pt:B.P. Text:212 TO 432F
+Vapor Density:> AIR
+Evaporation Rate & Reference:SLOWER THAN DIETHYL ETHER
+Appearance and Odor:PAINT
+Percent Volatiles by Volume:64
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:AVOID EXCESSIVE HEAT (>100 F) & SOURCES OF
+    IGNITION.
+Hazardous Decomposition Products:BURNING, INCLUDING WHEN HEATED BY
+    WELDING OR CUTTING, WILL PRODUCE SMOKE, CARBON MONOXIDE & CARBON
+    DIOXIDE
+Conditions to Avoid Polymerization:WILL NOT OCCUR
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN ACCORDANCE WITH FEDERAL, STATE &
+    LOCAL LAWS. AS PRODUCED, THIS PRODUCT IS NOT A WASTE. IF DISCARDED
+    AS IS, IT IS NOT CLASSIFIED A HAZARDOUS WASTE UNDER RCRA.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

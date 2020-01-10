@@ -1,0 +1,167 @@
+=====================  Product Identification  =====================
+
+Product ID:PAINT EPOXY POLYAMIDE, EXT TOPCOAT DARK GRAY
+MSDS Date:07/17/1991
+FSC:8010
+NIIN:00-410-8465
+Kit Part:Y
+MSDS Number: BHWBD
+=== Responsible Party ===
+Company Name:CHEMRAY COATING CORP
+Address:209 N MICHIGAN AVE
+City:KENILWORTH
+State:NJ
+ZIP:07033
+Country:US
+Info Phone Num:201-245-1111
+Emergency Phone Num:201-245-1111
+Preparer's Name:FRED ARMSTRONG
+CAGE:33832
+=== Contractor Identification ===
+Company Name:CHEMRAY COATING CORP
+Address:209 N MICHIGAN AVE
+Box:City:KENILWORTH
+State:NJ
+ZIP:07033
+Country:US
+Phone:201-245-1111
+CAGE:33832
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MAGNESIUM SILICATE-TALC (NON-ASBESTIFORM)
+CAS:14807-96-6
+RTECS #:WW2710000
+Fraction by Wt: 38.5%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:20 MPPCF (RESP)
+ACGIH TLV:2 MG/CUM
+
+Ingred Name:N-BUTYL ALCOHOL (SARA 313) N-BUTANOL
+CAS:71-36-3
+RTECS #:EO1400000
+Fraction by Wt: 28.2%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:100 PPM
+ACGIH TLV:S, C 50 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:VOC: 403 GRAMS/LITER OR 3.36 LBS/GAL
+RTECS #:9999999VO
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Health Hazards Acute and Chronic:INHAL: MILD IRRIT (RESP TRACT),
+    FATIGUE, HEADACHE, VERTIGO, SORE THROAT, COUGH, NAUSEA, SHORT OF
+    BREATH, PULMONARY INJURY, CENTRAL NERV SYS DEPRESS W/DIZZINESS,
+    DULLNESS, DROWSINESS. GIDDINESS, PROSTR ATION, NARCOSIS, ATAXIA,
+    DEATH (SOME ANIMALS), UNCONSCIOUSNESS. AUDITORY NERVE/VESTIBULAR
+    INJURY, HEARING LOSS, LUNG *
+Effects of Overexposure:*HERMORRHAGE, REDUCED ERYTHROCYTE COUNT,
+    LYMPHOCYTOSIS, ALBUMINURIA, EARLY DEGEN LIVER/CORTICAL/KIDNEY
+    (TUBULAR DEGEN) CHANGES-ANIMALS. SKIN:IRRIT W/REDNESS, DRYING,
+    DEFATTING, CRACKING, ECZEMATOID DE RMATITIS. EYE:IRRIT W/REDNESS,
+    TEARING BLURRED VISION, CONJUNCTIVITIS, CORNEAL EDEMA-LACRIMATION,
+    CORNEAL INFLAMATION**
+Medical Cond Aggravated by Exposure:BECAUSE OF ITS IRRITATING &
+    DEFATTING PROPERTIES THIS MATERIAL MAY AGGRAVATE AN EXISTING,
+    DERMATITIS. BREATHING OF VAPOR AND/OR MIST MAY AGGRAVATE ASTHMA &
+    INFLAMMATORY OR FIBROTIC PULMONARY DISEASE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGES: GIVE 2 GLASSES OF WATER. DO NOT INDUCE VOMITING. CALL
+    PHYSICIAN. SKIN: REMOVE CONTAM CLOTHING & FLUSH W/WATER. WASH
+    CLOTHING BEFORE REUSE. INHAL: REMOVE TO FRESH AIR. GIVE ARTIF RESP
+    IF NOT BRE ATHING, QUALIFIED PERSON MAY GIVE OXYGEN IF BREATH
+    DIFFICULT. CALL DR. EYE: IMMED FLUSH W/WATER 15 MIN. OBTAIN
+    ATTENTION PREFERABLY FROM AN OPTHALMOLOGIST.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:99.0F,37.2C
+Autoignition Temp:Autoignition Temp Text:689 F
+Lower Limits:1.4
+Upper Limits:11.2
+Extinguishing Media:CARBON DIOXIDE, FOAM, WATER FOG, DRY CHEMICAL.
+Fire Fighting Procedures:USE AIR SUPPLIED BREATHING EQUIPMENT. COOL
+    ENCLOSED CONTAINERS WITH WATER SPRAY, AVOID BREATHING VAPOR OR
+    FUMES.
+Unusual Fire/Explosion Hazard:IF LEAK OR SPILL HAS IGNITED, USE WATER
+    SPRAY TO DISPERSE THE VAPORS FROM FIRE FIGHTERS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL IGNITION SOURCES. KEEP FROM
+    HEAT/SPARKS/FLAME. ADD ABSORBENT (SAND/EARTH/SAWDUST) TO SPILL.
+    VENT AREA (OPEN WINDOWS/DOORS). LARGE SPILL: KEEP PRODUCT FROM
+    SEWERS/WATERCOURSES BY DIKING. ADV ISE AUTHORITIES IF PRODUCT
+    ENTERED.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM IGNITION SOURCES. KEEP
+    IN COOL, DRY, WELL VENTED AREAS. AVOID DIRECT SUNLIGHT & EXTREME
+    TEMPERATURES--HOT OR COLD.
+Other Precautions:AVOID EYE, SKIN CONTACT, INHALATION, INGESTION OF
+    MISTS, SPRAY OR VAPORS. AVOID BREATHING SANDING OR BLASTING DUST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE HYDROCARBON VAPOR CANISTER OR SUPPLIED AIR
+    RESPIRATOR IN CONFINED AREAS.
+Ventilation:LOCAL EXHAUST-FACE VELOCITY 60FPM. SPECIAL-USE ONLY
+    W/ADEQUATE VENT. MECHANICAL-USE EXPLOSION PROOF EQUIPMENT.
+Protective Gloves:CHEMICAL RESISTANT
+Eye Protection:SPLASH GOGGLES OR FACE SHIELD
+Other Protective Equipment:USE CHEM RESISTANT APRON OR CLOTHING.
+Work Hygienic Practices:WASH CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+**PHOTOPHOBIA. INGEST: GASTRO TRACT IRRIT, ABDOM PAIN, NAUSEA,
+    VOMITING, DIARRHEA, PARALYSIS, PUPIL CONSTRICT,
+    CORNEAL/PUPILLARY/CILIARY REFLEXES REDUCTION, NYSTAGMUS,
+    SALIVATION, REDUC BODY TEMP & RE SP, DEEP NARCOSIS, MARKED HEPATIC
+    HEPERMIA, LIVER/KIDNEY DEGENERATION, DEATH IN ANIMALS. CAUSED LIVER
+    DAMAGE IN RATS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:244F,118C
+Melt/Freeze Pt:M.P/F.P Text:0F,-18C
+Decomp Temp:Decomp Text:600F,316C
+Vapor Pres:2.7 @ 25C
+Vapor Density:2.55
+Spec Gravity:1.236 (WATER=1)
+Viscosity:75-96 KU @25C
+Evaporation Rate & Reference:0.5 (BU AC=1)
+Solubility in Water:7.45%
+Appearance and Odor:DARK GRAY LIQUID WITH ALCOHOL ODOR.
+Percent Volatiles by Volume:53.3
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CAN REACT WITH OXIDIZING MATERIAL WHEN HEATED TO DECOMPOSITION.
+Stability Condition to Avoid:HIGH TEMPERATURES
+Hazardous Decomposition Products:CARBON MONOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ASSURE CONFORMITY WITH APPLICABLE DISPOSAL
+    REGULATIONS. DISPOSE OF ABSORBED MATERIAL AT AN APPROVED DISPOSAL
+    SITE OR FACILITY. DISPOSE IN CONFORMITY WITH STATE AND FEDERAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

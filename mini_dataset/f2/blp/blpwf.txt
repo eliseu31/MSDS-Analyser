@@ -1,0 +1,131 @@
+=====================  Product Identification  =====================
+
+Product ID:ARDROX 906/P303A
+MSDS Date:01/03/1989
+FSC:6850
+NIIN:00F019302
+MSDS Number: BLPWF
+=== Responsible Party ===
+Company Name:ARDROX INC
+Address:16961 KNOTT AVENUE
+City:LA MIRADA
+State:CA
+ZIP:90638
+Info Phone Num:(714) 739-2821
+Emergency Phone Num:(714) 739-2821
+CAGE:23373
+=== Contractor Identification ===
+Company Name:BRENT AMERICA,  INC.
+Address:16961 KNOTT AVE.
+Box:City:LA MIRADA
+State:CA
+ZIP:90638-6015
+Country:US
+Phone:714-739-2821
+CAGE:23373
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:AROMATIC NAPHTHA, AROMATIC NAPTHA
+CAS:64741-68-0
+OSHA PEL:5 MG/CUM (MIST)
+ACGIH TLV:300 PPM
+
+Ingred Name:NONYLPHENOL, POLYOXYETHYLENE ETHER, TERGITOL NPX
+CAS:9016-45-9
+RTECS #:MD0900000
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: RESPIRATORY SYSTEM & LUNG
+    IRRITATION, ANESTHESIA. SKIN: IRRITATION & ABSORPTION IN HARMFUL
+    AMOUNTS. EYES: IRRITATION. INGESTION: NAUSEA, VOMITING, DIARRHEA, &
+    UNCONSCIOUSNESS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: RESPIRATORY SYSTEM & LUNG
+    IRRITATION, ANESTHESIA. SKIN: IRRITATION & ABSORPTION IN HARMFUL
+    AMOUNTS. EYES: IRRITATION. INGESTION: NAUSEA, VOMITING, DIARRHEA, &
+    UNCONSCIOUSNESS.
+Medical Cond Aggravated by Exposure:SKIN CONDITIONS
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. IF BREATHING STOPS, GIVE
+    MOUTH-TO-MOUTH RESUSCITATION. IF BREATHING IS DIFFICULT, GIVE
+    OXYGEN. KEEP WARM & AT REST. SKIN: WASH W/PLENTY OF SOAP & WATER.
+    EYES: WASH W/W ATER FOR AT LEAST 15 MINS. INGESTION: DON'T INDUCE
+    VOMITING. IF VICTIM IS CONSCIOUS, GIVE LARGE AMOUNTS OF WATER.
+    DON'T GIVE FLUIDS TO UNCONSCIOUS PERSON. OBTAIN MEDICAL ATTENTION
+    IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:>200F
+Extinguishing Media:DRY CHEMICAL, FOAM, OR CO2
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS. USE
+    WATER TO KEEP FIRE-EXPOSED CONTAINERS COOL, FLUSH SPILLS FROM FIRE,
+    & COOL SURROUNDING EQUIPMENT/STRUCTURES.
+Unusual Fire/Explosion Hazard:MODERATE FIRE HAZARD WHEN EXPOSED TO HEAT
+    OR FLAME.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:MOP UP/SOAK UP/DIKE W/NON-COMBUSTIBLE
+    ABSORBENT INORGANIC MATERIAL. PREVENT RUNOFF FROM ENTERING SEWERS,
+    STORM DRAINS, SURFACE WATER, & SOIL. TRANSFER CONTAMINATED
+    ABSORBENT TO A DOT-APPROVED CONTAINE R. WEAR PROTECTIVE EQUIPMENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T WEAR CONTACT LENSES. AVOID
+    CONTACT W/SKIN & EYES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH APPROVED CANNISTER-TYPE RESPIRATOR. IN
+    CONFINED OR POORLY VENTILATED AREAS, USE AN APPROVED
+    POSITIVE-PRESSURE, SELF-CONTAINED BREATHING APPARATUS.
+Ventilation:MECHANICAL: TO KEEP <TLV. LOCAL EXPLOSION-PROOF EXHAUST:
+    NECESSARY FOR SOME OPERATIONS.
+Protective Gloves:IMPERMEABLE
+Eye Protection:SAFETY GLASSES OR CHEMICAL GOGGLES
+Other Protective Equipment:PROTECTIVE CLOTHING, BOOTS, APRON, FULL-BODY
+    SUIT & FACE SHIELD.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING CHEMICALS.
+    REMOVE/WASH CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+NOTE TO PHYSICIAN: TREATMENT IS BASED ON JUDGEMENT OF PHYSICIAN IN
+    RESPONSE TO REACTIONS OF PATIENT.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text: 400F
+Spec Gravity:1
+Solubility in Water:APPRECIABLE
+Appearance and Odor:DEEP RED MOBILE LIQUID W/SOLVENT ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:HEAT, FLAME, OR OTHER IGNITION SOURCES
+Hazardous Decomposition Products:CO, & CO2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DON'T DUMP INTO SEWERS/GROUND/BODY OF WATER.
+    DISPOSE OF CONTAMINATED MATERIALS IN MANNER APPROVED FOR THIS
+    MATERIAL ACCORDINGTO FEDERAL/STATE/LOCAL REGULATIONS. EMPTY
+    CONTAINERS MAY HAVE RESIDUES/GASE S/MISTS & ARE SUBJECT TO PROPER
+    WASTE DISPOSAL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

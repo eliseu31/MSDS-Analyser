@@ -1,0 +1,109 @@
+=====================  Product Identification  =====================
+
+Product ID:ION EXCHANGE COMPOUND,O-I-12798,CLASS2
+MSDS Date:01/23/1998
+FSC:6810
+NIIN:00-912-4766
+Status Code:A
+MSDS Number: CJQLH
+=== Responsible Party ===
+Company Name:C.T. CHEMICALS, INC./CULL-TECH CHEMICALS INC.
+Address:4110 COLUMBIA ROAD
+City:LEBANON
+State:OH
+ZIP:45036-9588
+Country:US
+Info Phone Num:513-336-6160/459-9744
+Emergency Phone Num:513-891-2219
+Resp. Party Other MSDS Num.:OSHA HCS
+Preparer's Name:ROBERT S. BOKON
+CAGE:0CVK4
+=== Contractor Identification ===
+Company Name:C.T. CHEMICALS, INC./CULL-TECH CHEMICALS INC.
+Address:4110 COLUMBIA ROAD
+Box:City:LEBANON
+State:OH
+ZIP:45036-9588
+Country:US
+Phone:513-336-6160/459-9744
+Contract Num:SP0450-99-MNA-49
+CAGE:0CVK4
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NON-HAZARDOUS
+= Wt:100.
+
+=====================  Hazards Identification  =====================
+
+Health Hazards Acute and Chronic:TARGET ORGANS: N/P. ACUTE: NONE.
+    CHRONIC: NONE.
+Effects of Overexposure:NONE
+Medical Cond Aggravated by Exposure:EYE CONTACT: FOREIGN PARTICULATE
+    MATTER MAY CAUSE MECHANICAL IRRITATION OF THE EYE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE CONTACT: FLUSH WITH WATER FOR 15 MINUTES, CONSULT
+    PHYSICIAN IF IRRITATION PERSISTS. SKIN CONTACT: NONE. INHALATION:
+    NONE. INGESTION: NONE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NO FLASH POINT
+Autoignition Temp:=427.C, 800.6F
+Extinguishing Media:CARBON DIOXIDE,DRY CHEMICAL,WATER FOG
+Fire Fighting Procedures:WEAR MSHA/NIOSH APPROVED,PRESSURE DEMAND SELF
+    CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:RESIN BEADS ON FLOOR MAY MECHANICALLY CAUSE
+    FLOOR TO BE SLIPPERY.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE BELOW 120F AND ABOVE 32F.
+Other Precautions:KEEP DRUMS AND PLASTIC BAGS SEALED TO PREVENT DRYING
+    OR MOISTURE LOSS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE
+Ventilation:NONE
+Eye Protection:SAFETY GLASSES ANSI Z87.1
+Other Protective Equipment:NONE
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Spec Gravity:1.26
+Evaporation Rate & Reference:N/A NO REF
+Solubility in Water:INSOLUBLE
+Appearance and Odor:AMBER TO MAHOGANY COLORED SPHERICAL BEADS WITHOUT
+    ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CONCENTRATED NITRIC ACID OR STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:TEMPERATURES OVER 428F
+Hazardous Decomposition Products:CARBON DIOXIDE,STYRENE
+    MONOMER,DIVINYLBENZENE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:SWEEP UP AND TRANSFER MATERIAL: MATERIAL CAN BE
+    DISPOSED OF IN ORDINARY TRASH.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

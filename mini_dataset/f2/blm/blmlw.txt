@@ -1,0 +1,121 @@
+=====================  Product Identification  =====================
+
+Product ID:OPC DRUM
+MSDS Date:03/11/1988
+FSC:8040
+NIIN:00N021488
+MSDS Number: BLMLW
+=== Responsible Party ===
+Company Name:YAMANASHI ELECTORIC CO LTD
+Address:462 OSATO-CHO KOFU-SHI
+City:YAMANASHI
+Info Phone Num:0552-41-2221
+Emergency Phone Num:0552-41-2221
+CAGE:YAMAN
+=== Contractor Identification ===
+Company Name:YAMANASHI ELECTORIC CO LTD
+Address:462 OSATO-CHO KOFU-SHI
+Box:City:YAMANASHI
+Phone:0552-41-2221
+CAGE:YAMAN
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BINDER RESIN
+CAS:25134-45-6
+Fraction by Wt: 0.5%
+
+Ingred Name:CHARGE CARRIER TRANSPORT MATERIAL
+CAS:103079-11-4
+Fraction by Wt: 0.4%
+
+Ingred Name:PIGMENT
+CAS:26201-32-1
+Fraction by Wt: 0.1%
+
+Ingred Name:ALUMINUM  (SARA III)
+CAS:7429-90-5
+RTECS #:BD0330000
+Fraction by Wt: 99%
+OSHA PEL:15MG/M3 DUST/5 FUME
+ACGIH TLV:10MG/M3 DUST; 9192
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:THIS COATED COMPOUNDS OF OPC DURM
+    (SY-B001) EMERGED SATISFACTORILY FROM THE ACUTE TOXICITY TEST,
+    DOSAGE RANGE, 100-400 MG/KG, AND THEY ARE NOT MUTAGENIC.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:NOTHING.
+Medical Cond Aggravated by Exposure:NOTHING.
+
+=======================  First Aid Measures  =======================
+
+First Aid:NO STEPS REQUIRED. EYES: IMMEDIATELY FLUSH WITH POTABLE WATER
+    FOR A MINIMUM OF 15 MIN. SEEK MEDICAL ASSISTANCE FROM MD . SKIN:
+    FLUSH WITH COPIOUS AMOUNTS OF WATER. CALL MD . INHAL: REMOVE  TO
+    FRESH AIR. SUPPORT BREATHING. (GIVE O2/ARTF RESP). INGEST: GET MD
+    IMMEDIATELY .
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER, FOAM, CO2 AND DRY CHEMICALS.
+Fire Fighting Procedures:NO SPECIAL EXTINGUISHING MEDIA IS REQUIRED.
+    BUT AVOID INHALATION OF SMOKE. WEAR NIOSH/MSHA APPROVED SCBA AND
+    FULL PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:THIS MATERIAL HAS NO UNUSUAL FIRE AND
+    EXPLOSION HAZARDS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:IF BREAKED TO IN PIECES AND SPILLED, SWEEP UP
+    OR VACUUM.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NOT NECESSARY.
+Other Precautions:NOT NECESSARY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NECESSARY. NIOSH/MSHA APPROVED RESPIRATOR
+    APPROPRIATE FOR EXPOSURE OF CONCERN .
+Ventilation:NOT NECESSARY.
+Protective Gloves:NOT NECESSARY. IMPERVIOUS GLOVES .
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NOT NECESSARY.
+Work Hygienic Practices:NOT NECESSARY.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Spec Gravity:1.2
+Solubility in Water:INSOLUBLE
+Appearance and Odor:GREENISH-BLUE, SOLID CYLINDER AND ODORLESS
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Hazardous Decomposition Products:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:NO SPECIAL DISPOSAL TECHNIQUE REQUIRED. DISPOSE
+    IN ACCORDANCCE WITH FEDERAL, STATE OR LOCAL ENVIRONMENTAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

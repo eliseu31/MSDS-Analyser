@@ -1,0 +1,138 @@
+=====================  Product Identification  =====================
+
+Product ID:MIL-C-51340,CLEANING COMPOUND
+MSDS Date:01/01/1987
+FSC:6850
+NIIN:00-664-5641
+MSDS Number: BLPFS
+=== Responsible Party ===
+Company Name:SHAPE PRODUCTS
+Address:1127 57TH AVE.
+City:OAKLAND
+State:CA
+ZIP:94621-4427
+Country:US
+Info Phone Num:415-534-1186
+Emergency Phone Num:415-534-1186
+Preparer's Name:DGSC-SSH
+CAGE:3D869
+=== Contractor Identification ===
+Company Name:SHAPE PRODUCTS
+Address:1127 57TH AVE.
+Box:City:OAKLAND
+State:CA
+ZIP:94621-4427
+Country:US
+Phone:510-534-1186 OR 800-444-0015
+CAGE:3D869
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TRICHLOROETHYLENE  (SARA III)
+CAS:79-01-6
+RTECS #:KX4550000
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:100 PPM/100 STEL
+ACGIH TLV:50 PPM/100,A5STEL;93
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL, RAT = 4920 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:CAUSES EYE AND SKIN IRRITATION.
+    INHALATION MAY CAUSE DROWZINESS/UNCONSCIOUSNESS, VISUAL
+    DISTURBANCES, CONFUSION. INGESTION:NAUSEA, VOMITING, DROWSINESS.
+    CHRONIC:LIVER AND KIDNEY DAMAGE, CNS EFFECTS.
+Effects of Overexposure:IRRITATION OF EYES AND SKIN, DRYING OF SKIN.,
+    VISUAL DISTURBANCES, CONFUSION, DROWSINESS, VOMITING, REDUCED LIVER
+    AND KIDNEY FUNCTION.
+Medical Cond Aggravated by Exposure:EYES, RESPIRATORY, LIVER AND KIDNEY
+    DISEASES.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION:REMOVE TO FRESH AIR. PROVIDE CPR/OXYGEN IF NEEDED.
+    GET MEDICAL HELP. EYE:FLUSH WITH WATER FOR 15 MINUTES. SKIN:WASH
+    WITH SOAP AND WATER. INGESTION:DO NOT INDUCE VOMITING. GET MEDICAL
+    ATTENT ION IMMEDIATELY. IN ALL CASES:GET MEDICAL HELP IF SYMPTOMS
+    PERSIST.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Lower Limits:8.0
+Upper Limits:10.5
+Extinguishing Media:WATR FOG, CO2, DRY CHEMICAL AND FOAM.
+Fire Fighting Procedures:FULL PROTECTIVE CLOTHING AND NIOSH/MSHA
+    APPROVED SCBA IN AN ENCLOSED AREA.
+Unusual Fire/Explosion Hazard:CANS MAY BURST IN THE HEAT OF FIRE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPER PERSONAL PROTECTION. WEAR SELF
+    CONTAINED RESPIRATOR. DIKE, ABSORB IN INERT MATERIAL OR RECOVER BY
+    PUMPING.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL, DRY AND WELL VENTILATED
+    AREA. KEEP CONTAINERS TIGHTLY CLOSED WHEN NOT IN USE.
+Other Precautions:AVOID BREATHING VAPORS. USE IN A WELL VENTILATED
+    AREA.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR FOR ORGANIC
+    VAPORS IF CONCENTRATION IS ABOVE PEL/TLV OR SCBA IN AN ENCLOSED
+    AREA.
+Ventilation:GENERAL OR MECHANICAL.
+Protective Gloves:PVA
+Eye Protection:GOGGLES
+Other Protective Equipment:IMPERVIOUS APRON
+Work Hygienic Practices:DO NOT BREATH VAPORS, AVOID CONTACT WITH EYES
+    AND SKIN. DO NOT SMOKE OR EAT IN WORKING AREA. WASH HANDS AFTER
+    USE.
+Supplemental Safety and Health
+INFORMATION PRESENTED HEREIN IS ACCURATE AND RELIABLE TO THE BEST OF
+    OUR KNOWLEDGE AND BELIEF BUT IS NOT GUARANTEED TO BE SO. IT IS THE
+    USER'S RESPONSIBILITY TO TAKE ALL SAFETY PRECAUTIONS AS MAY BE N
+    ECESSARY. WE HEREBY DISCLAIM ALL LIABILITY WITH RESPECT TO IT'S
+    USE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T4
+Boiling Pt:=87.2C, 189.F
+Vapor Pres:58 MM
+Vapor Density:4.53
+Spec Gravity:1.46
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:CLEAR LIQUID, CHLOROFORM-LIKE ODOR
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ALKALI HYDROXIDES, REACTIVE METALS SUCH AS BARIUM, LITHIUM,
+    SODIUM, MAGNESIUM, TITANIUM AND BERYLLIUM.
+Stability Condition to Avoid:EXTREME HEAT, FLAMES AND UV LIGHT
+Hazardous Decomposition Products:OXIDES OF CARBON, PHOSGENE, AND
+    HYDROGEN CHLORIDE VAPORS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE MADE IN ACCORDANCE WITH LOCAL,
+    STATE AND FEDERAL  REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

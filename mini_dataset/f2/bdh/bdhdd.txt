@@ -1,0 +1,153 @@
+=====================  Product Identification  =====================
+
+Product ID:SR 3813 10W-30 (LUBRICATING OIL)
+MSDS Date:04/04/1986
+FSC:9150
+NIIN:00-186-6699
+MSDS Number: BDHDD
+=== Responsible Party ===
+Company Name:SUN REFINING AND MARKETING COMPANY
+Address:TEN PENN CENTER 1801 MARKET STREET
+City:PHILADELPHIA
+State:PA
+ZIP:19103
+Info Phone Num:215-293-6323
+Emergency Phone Num:215-293-6323
+Preparer's Name:RAMONA PANSON
+CAGE:8X531
+=== Contractor Identification ===
+Company Name:OCTAGON PROCESS INC.
+Address:596 RIVER ROAD
+Box:City:EDGEWATER
+State:NJ
+ZIP:07020
+Country:US
+Phone:201-945-9400
+CAGE:82925
+Company Name:SUN REFINING AND MARKETING COMPANY
+Address:1801 MARKET ST,TEN PENN CTR
+Box:City:PHILADELPHIA
+State:PA
+ZIP:19103-1699
+Country:US
+Phone:215-977-6133
+CAGE:8X531
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SEVERELY SOLVENT REFINED HEAVY PARAFFINIC DISTILLATE
+    (PETROLEUM)
+CAS:64741-88-4
+RTECS #:PY8040500
+Other REC Limits:5MG/CUM
+OSHA PEL:5MG/CUM (OIL MIST)
+ACGIH TLV:5MG/CUM (OIL MIST)
+
+Ingred Name:ETHYLENE PROPYLENE COPOLYMER
+CAS:9010-79-1
+
+Ingred Name:ZINC DIALKYL DITHIOPHOSPHATE (CONTAINS 0.10-0.13% ZINC)
+CAS:68457-79-4
+
+Ingred Name:MAGNESIUM SULFONATE
+CAS:61789-87-5
+
+Ingred Name:METHACRYLATE COPOLYMERS
+
+Ingred Name:SODIUM SULFONATE
+CAS:68608-26-4
+
+Ingred Name:CALCIUM PHENATE
+
+Ingred Name:POLYBUTENYLAMIDE
+
+Ingred Name:POLYALKENYLSUCCINIC ANHYDRIDE
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50>15G/KG
+Health Hazards Acute and Chronic:EYES:MILD IRRITATION;SKIN:PRACTICALLY
+    NON-TOXIC IF ABSORBED.MILD IRRITATION WITH PROLONGED OR REPEATED
+    CONTACT.
+Explanation of Carcinogenicity:PROLONGED OR REPEATED CONTACT COULD
+    CAUSE SKIN CANCER (PER MANUFACTURER)
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE NOTED
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH W/WATER.IF IRRITATION PERSISTS,SEEK MEDICAL
+    ATTENTION;SKIN:WASH W/SOAP & WATER UNTIL NO ODOR REMAINS.WASH
+    CLOTHING BEFORE REUSE;INHALATION:REMOVE TO FRESH AIR;INGESTION:GIVE
+    LIQUIDS & INDUC E VOMIT UNLESS VICTIM IS UNCONSCIOUS.OBTAIN MEDICAL
+    ASSISTANCE.IF SMALL AMOUNT ENTER MOUTH,RINSE OUT UNTIL TASTE IS
+    GONE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:420F,216C (MIN)
+Autoignition Temp:Autoignition Temp Text:700F
+Extinguishing Media:WATER FOG,CHEMICAL FOAM,DRY CHEMICAL,CO*2
+Fire Fighting Procedures:WEAR SCBA IN CONFINED AREAS.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONTAIN SPILL.ABSORB IN INERT MATERIAL AND
+    PLACE IN APPROPRIATE DIAPOSAL CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DRY,WELL VENTILATED,LOW
+    FIRE RISK AREA. KEEP CONTAINERS CLOSED.
+Other Precautions:AVOID PROLONGED OR REPEATED CONTACT WITH SKIN. COULD
+    CAUSE SKIN CANCER. PROMPTLY WASH AFFECTED AREA WITH SOAP & WATER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY REQUIRED UNLESS PRODUCT IS HEATED
+    OR MISTED. USE ONLY NIOSH/MSHA APPROVED RESPIRATORY PROTECTION.
+Ventilation:LOCAL EXHAUST
+Protective Gloves:RUBBER
+Eye Protection:SPLASH GOGGLES
+Other Protective Equipment:AS REQUIRED TO PREVENT PROLONGED CONTACT
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING. WASH CLOTHING
+    BEFORE REUSE
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:WIDE RANGE
+Vapor Pres:NIL
+Vapor Density:10+
+Spec Gravity:0.87
+pH:7.0
+Viscosity:11 CS
+Evaporation Rate & Reference:1000X SLOWER(ETHYL ETH=1)
+Solubility in Water:NIL
+Appearance and Odor:DARK AMBER FLUID,LITTLE ODOR
+Percent Volatiles by Volume:NIL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS.
+Stability Condition to Avoid:HEAT,IGNITION SOURCES
+Hazardous Decomposition Products:CO,TRACE OXIDES OF S,P,ZN,ASPHYXIANTS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DO NOT FLUSH TO DRAIN,STORM SEWER.CONTRACT TO
+    AUTHORIZED DISPOSAL SERVICE.COMPLY WITH ALL APPLICABLE
+    FEDERAL,STATE & LOCAL REGS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,113 @@
+=====================  Product Identification  =====================
+
+Product ID:MORALUBE MOTOR OIL, GRADE 50
+MSDS Date:01/01/1985
+FSC:9150
+NIIN:00-188-9865
+MSDS Number: BDHPJ
+=== Responsible Party ===
+Company Name:MORAINE INDUSTRIES INC.
+Emergency Phone Num:(414) 567-7523
+CAGE:KO039
+=== Contractor Identification ===
+Company Name:MORAINE INDUSTRIES INC.
+CAGE:KO039
+Company Name:MORAINE OIL CO INC
+Address:1212 W 2ND ST
+Box:678
+City:OCONOMOWOC
+State:WI
+ZIP:53066
+Country:US
+Phone:414-567-7523
+CAGE:2K440
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MINERAL OIL (EXPOSURE REGULATED AS 'OIL MIST')
+CAS:8012-95-1
+RTECS #:PY8030000
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3/10 STEL;9192
+
+Ingred Name:DETERGENT
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:LOW TOXICITY MAY CAUSE MILD SKIN IRRIT ON
+    REPEATED/PROLONGED CNTCT. MAY CAUSE EYE BURNS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:IN CASE OF SKIN CNTCT, WASH THOROUGHLY W/SOAP & WARM WATER.
+    IF SPLASHED INTO EYES, FLUSH W/CLEAR WATER FOR AT LEAST 15 MIN OR
+    UNTIL IRRIT SUBSIDES. CALL MD.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:440F COC
+Lower Limits:1
+Upper Limits:6
+Extinguishing Media:FOAM, DRY CHEM, CO*2, WATER SPRAY, FOG
+Fire Fighting Procedures:USE AIR-SUPP EQUIP IN ENCL AREA. WATER-COOL
+    EXPOSED CNTNRS.
+Unusual Fire/Explosion Hazard:AVOID BRTHNG VAPOR OR FUMES. DO NOT MIX
+    OR STORE W/STRONG OXIDANTS LIKE LIQ CL OR CONC OXYGEN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:RECOVER FREE LIQ. ADD ABSORBENT TO SPILL AREA.
+    KEEP PROD OUT OF SEWERS & WATERCOURSES BY DIKING OR IMPOUNDNG.
+    ADVISE AUTH IF PROD HAS OR MAY ENTER SEWERS, WATERCOURSES &
+    EXTENSIVE LAND AREAS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CNTNRS CLOSED WHEN NOT IN USE. DO
+    NOT HANDLE OR STORE NEAR HEAT, SPARKS, FLAME OR STRONG OXIDANTS.
+Other Precautions:AVOID BRTHNG OIL MIST. REMOVE OIL-SOAKED CLOTHING &
+    LAUNDER BEFORE REUSE. DISCARD OIL-SOAKED SHOES. WASH SKIN
+    THOROUGHLY AFTER CNTCT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NORM NEEDED. IN CONFINED OR ENCLOSED AREA
+    USE NIOSH/MSHA APP.
+Ventilation:LOCAL EXH TO CAPTURE FUMES & VAPORS
+Protective Gloves:CHEM RESISTANT
+Eye Protection:SPLASH GOGGLES, FACE SHLD
+Other Protective Equipment:USE CHEM RESIST APRON OR CLOTHING TO AVOID
+    PROLONGED CNTCT
+Supplemental Safety and Health
+VAPOR PRESS<5MMHG. VAP DESNITY>1.PERCENT VOLATIE-NEGLIGIBLE. CONFORMS
+    TO MIL-L-2104C.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:500-900F
+Spec Gravity:0.89
+Evaporation Rate & Reference:NEGLIGIBLE
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:DARK AMBER COLORED LIQUID.MIL HYDROCARBON ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDANTS, LIQ CL, CONC OXYGEN. NA OR CA HYPOCHLORITE.
+Hazardous Decomposition Products:FUMES, SMOKE, CO, SOX, IN THE CASE OF
+    INCOMPLETE COMBUSTION
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ASSURE CONFORMITY W/APPLICABLE DISPOSAL REG.
+    DISPOSE OF ABSORBED MATL AT APPRVD WASTE DISPOSAL SITE OR FACILITY.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

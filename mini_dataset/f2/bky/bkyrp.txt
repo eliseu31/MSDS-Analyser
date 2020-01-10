@@ -1,0 +1,79 @@
+=====================  Product Identification  =====================
+
+Product ID:5003195 SPRING
+MSDS Date:07/01/1985
+FSC:5360
+NIIN:01-056-8656
+MSDS Number: BKYRP
+=== Responsible Party ===
+Company Name:GOODYEAR AEROSPACE CORP
+City:AKRON
+State:OH
+ZIP:44315-0001
+Info Phone Num:(216) 796-2121
+Emergency Phone Num:(216) 796-2121 OR (216) 796-8663
+Preparer's Name:D.E. GLEGHORN
+CAGE:EO533
+=== Contractor Identification ===
+Company Name:GOODYEAR AEROSPACE CORPORATION
+Address:1210 MASSILLON ROAD
+City:AKRON
+State:OH
+ZIP:44315
+Phone:(216) 796-2121
+CAGE:EO533
+Company Name:LORAL CORP DEFENSE SYSTEMS DIV-AKRON
+Address:1210 MASSILLON RD
+Box:City:AKRON
+State:OH
+ZIP:44315-0001
+Country:US
+Phone:216-796-2800
+CAGE:25500
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NON-HAZARDOUS FOR INGREDIENTS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Explanation of Carcinogenicity:NONE
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Fire Fighting Procedures:STANDARD FIRE FIGHTING PROCEDURES ARE EXPECTED
+    TO BE ADEQUATE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:USE STANDARD PROCEDURES FOR HANDLING &
+    STORING. AVOID INHALATION OF VAPORS/DUSTS & SKIN/EYE CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE FOR NORMAL USE.
+Ventilation:GENERAL VENTILATION IS EXPECTED TO BE ADEQUATE DURING
+    NORMAL USE.
+Protective Gloves:AS REQUIRED
+Eye Protection:AS REQUIRED
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Appearance and Odor:STEEL SPRING
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

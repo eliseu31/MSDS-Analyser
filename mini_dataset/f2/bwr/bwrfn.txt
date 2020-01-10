@@ -1,0 +1,163 @@
+=====================  Product Identification  =====================
+
+Product ID:106 5259 EKTACHROME R-3000 BLEACH FIX,PART B
+MSDS Date:04/19/1996
+FSC:6750
+NIIN:01-273-8176
+Kit Part:Y
+MSDS Number: BWRFN
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-722-5151
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+Company Name:EASTMAN KODAK CO US CUSTOMER SERVICE/GOVERNMENT SALES
+Address:800 LEE RD
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-3129
+Country:US
+Phone:800-828-6203
+CAGE:5K871
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 55 - 60%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:FERRIC AMMONIUM ETHYLENEDIAMINETETRAACETIC ACID
+CAS:21265-50-9
+Fraction by Wt: 40 - 45%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:ETHYLENEDIAMINE-TETRAACETIC ACID (EDTA) (CERCLA)
+CAS:60-00-4
+RTECS #:AH4025000
+Fraction by Wt: 1 - 5%
+Other REC Limits:NONE RECOMMENDED
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL, RAT) IS NOT KNOWN.
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:TARGET ORGANS:EYES. ACUTE- EYES:MAY
+    CAUSE TRANSIENT IRRITATION. SKIN:LOW HAZARD FOR RECOMMENDED
+    HANDLING. INHALATION: EXPECTED TO BE A LOW HAZARD FOR RECOMMENDED
+    HANDLING. ORAL:EXPECTED TO BE A LOW IN GESTION HAZARD. CHRONIC-
+    UNKNOWN.
+Explanation of Carcinogenicity:THIS COMPOUND CONTAINS NO INGREDIENTS AT
+    CONCENTRATIONS OF 0.1% OR GREATER THAT ARE CARCINOGENS OR SUSPECT
+    CARCINOGENS.
+Effects of Overexposure:TRANSIENT EYE IRRITATION
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:GET MEDICAL HELP IF SYMPTOMS PERSIST. INHALED:REMOVE TO FRESH
+    AIR. PROVIDE CPR/OXYGEN IF NEEDED. EYES:FLUSH WITH WATER FOR 15
+    MINUTES, HOLDING EYELIDS OPEN. SKIN:WASH WITH SOAP & WATER. ORAL:DO
+    NOT IN DUCE VOMITING. IF CONSCIOUS, DRINK 1-2 GLASSES OF WATER.
+    SEEK MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONFLAMMABLE
+Lower Limits:NOT GIVEN
+Upper Limits:NOT GIVEN
+Extinguishing Media:WATER SPRAY, CARBON DIOXIDE, ALCOHOL FOAM OR DRY
+    CHEMICAL. USE WATER SPRAY TO COOL FIRE EXPOSED CONTAINER.
+Fire Fighting Procedures:WEAR PROTECTIVE CLOTHING AND NIOSH-APPROVED
+    SELF-CONTAINED BREATHING APPARATUS. HAZARDOUS DECOMPOSITION
+    PRODUCTS MAY BE FORMED.
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH TO SEWER WITH LARGE AMOUNT OF WATER.
+    OTHERWISE, ABSORB SPILL WITH INERT MATERIAL SUCH AS VERMICULITE,
+    THEN PLACE IN A CONTAINER FOR CHEMICAL WASTE. CLEAN SURFACE
+    THOROUGHLY TO REMOVE RESIDUAL CO NTAMINATION. PREVENT RUNOFF FROM
+    ENTERING SEWERS.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM INCOMPATIBLE
+    MATERIALS. KEEP CONTAINER TIGHTLY CLOSED.
+Other Precautions:KEEP OUT OF REACH OF CHILDREN. AVOID EYE CONTACT. USE
+    WITH ADEQUATE VENTILATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY REQUIRED.
+Ventilation:GOOD GENERAL VENTILATION IS SUFFICIENT FOR MOST CONDITIONS
+    (10 ROOM VOLUMES PER HOUR).
+Protective Gloves:LATEX FOR REPEATED/PROLONGED CONTACT
+Eye Protection:SAFETY GLASSES WITH SIDE SHIELD/GOGGLES
+Other Protective Equipment:EYE BATH, WASHING FACILITIES, SAFETY SHOWER
+Work Hygienic Practices:OBSERVE GOOD INDUSTRIAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES. WASH THOROUGHLY BEFORE EATING,
+    DRINKING/SMOKING.
+Supplemental Safety and Health
+KEY1:N1. THIS PRODUCT IS A KIT CONSISTING OF TWO PARTS. PART A, HAS PNI
+    A; PART B HAS PNI B, SAME NSN. UNIT PACKAGE YIELDS 1.0 GALLON.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+NRC/State Lic Num:NOT RELEVANT
+Boiling Pt:B.P. Text:>212F,>100C
+Melt/Freeze Pt:M.P/F.P Text:NOT GIVEN
+Decomp Temp:Decomp Text:NOT GIVEN
+Vapor Pres:18 @ 68F
+Vapor Density:0.6
+Spec Gravity:1.26
+pH:7.0
+Evaporation Rate & Reference:NOT GIVEN
+Solubility in Water:COMPLETE
+Appearance and Odor:DARK RED LIQUID - AMMONIA ODOR
+Percent Volatiles by Volume:55- 60
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+BASES, STRONG OXIDIZING AGENTS, SODIUM HYPOCHLORITE (BLEACH). CONTACT
+    WITH BASE LIBERATES FLAMMABLE MATERIALS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:AMMONIA, CHLORAMINE, CARBON MONOXIDE,
+    CARBON DIOXIDE, OXIDES OF NITROGEN, OXIDES OF SULFUR
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISCHARGE, TREATMENT OR DISPOSAL MAY BE SUBJECT
+    TO NATIONAL, STATE OR LOCAL REGULATIONS. FLUSH TO SEWER WITH LARGE
+    AMOUNT OF WATER, IF PERMITTED.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

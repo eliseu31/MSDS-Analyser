@@ -1,0 +1,151 @@
+=====================  Product Identification  =====================
+
+Product ID:PURPLE PRIMER CLEANER
+MSDS Date:10/24/1990
+FSC:6850
+NIIN:00N021806
+MSDS Number: BLMNH
+=== Responsible Party ===
+Company Name:J C WHITLAM MANUFACTURING CO
+Address:200 WEST WALNUT ST
+City:WADSWORTH
+State:OH
+ZIP:44281
+Country:US
+Info Phone Num:216-334-2524
+Emergency Phone Num:216-334-2524 OR 216-869-3212
+CAGE:53777
+=== Contractor Identification ===
+Company Name:J C WHITLAM MANUFACTURING CO
+Box:City:WADSWORTH
+State:OH
+ZIP:44281
+Country:US
+Phone:216-334-2524
+CAGE:53777
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:TETRAHYDROFURAN  (SARA III)
+CAS:109-99-9
+RTECS #:LU5950000
+OSHA PEL:200 PPM/250 STEL
+ACGIH TLV:200 PPM/250STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:INHALATION OF HIGH
+    CONCENTRATIONS MAY CAUSE LOSS OF CONSCIOUSNESS AND MAY ENDANGER
+    HEALTH OR LIFE. EYE CONTACT MAY CAUSE BURNS. CHRONIC:PROLONGED OR
+    REPEATED CONCENTRATION MAY RESULT IN CENTRAL  NERVOUS SYSTEM
+    DEPRESSION AND NARCOSIS.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:EYES:REDNESS, IRRITATION. SKIN:REDDENING AND
+    SWELLING, DERMATITIS. INGEST:GI IRRITATION. INHAL:IRRITATION OF
+    NASAL PASSAGES AND THROAT. CAUSES STUPOR.
+Medical Cond Aggravated by Exposure:RESPIRATORY DISEASES, DERMATITIS,
+    LIVER RELATED DISEASES OR CONDITIONS CENTRAL NERVOUS RELATED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGEST:DO NOT INDUCE VOMITING. CONTACT A PHYSICIAN
+    IMMEDIATELY. INHAL:REMOVE TO FRESH AIR. GIVE OXYGEN IF NEED. EYE:
+    FLUSH EYES WITH WATER FOR AT LEAST 15 MINUTES. SKIN:WASH WITH SOAP
+    AND WATER. CONTA CT PHYSICIAN IF IRRITATED.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:1F,-17C
+Lower Limits:1.1%
+Upper Limits:11.5%
+Extinguishing Media:DRY CHEMICAL, CARBON DIOXIDE, WATER FOG, FOAM, OR
+    ALCOHOL FOAM
+Fire Fighting Procedures:USE SPRAY NOZZ DISCHARGE TO ASSIST IN
+    CONTROLLING FIRE. WEAR NIOSH/MSHA APPRVD SCBA & FULL PROT EQUIP .
+    DO NOT USE H2O ON FIRE! H2O MAY BE USED(SUP DAT)
+Unusual Fire/Explosion Hazard:VAPOR IS HEAVIER THAN AIR AND CAN TRAVEL
+    CONSIDERABLE DISTANCE TO SOURCE OF IGNITION AND FLASH BACK.
+    MATERIAL CAUSES SPECIAL HAZARD BECAUSE IT FLOATS ON WATER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE IGNITION SOURCES. AVOID EYE OR SKIN
+    CONTACT. PLACE LEAKING CONTAINERS IN WELL VENTILATED AREA. IF FIRE
+    POTENTIAL EXISTS, BLANKET WITH FOAM, CONTAIN SPILL. FOLLOW ALL
+    APPLICABLE SAFETY AND RE GULATORY PROCEDURES.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL, WELL-VENT AREA. KEEP
+    AWAY FROM HEAT/SPARKS/FLAME. KEEP CNTNR CLSD. USE SPARK RESISTANT
+    TOOLS.
+Other Precautions:USE ADEQ VENT, AVOID BREATHING VAPORS. AVOID CONTACT
+    WITH EYES, SKIN, CLOTHING. WASH THOROUGHLY WITH SOAP AND WATER
+    AFTER HANDLING. WASH CONTAMINATED CLOTHING THOROUGHLY BEFORE
+    RE-USE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED ORGANIC VAPOR CARTRIDGE OR
+    CANISTER RESPIRATOR OR PROVIDE NORMAL VENTILATION.
+Ventilation:LOCAL EXHAUST RECOMMENDED TO CONTROL EXPOSURE. MECHANICAL
+    MUST BE EXPLOSION PROOF.
+Protective Gloves:PVA GLOVES.
+Eye Protection:CHEM WORK GOG & FULL LGTH FCSHLD .
+Other Protective Equipment:IMPERVIOUS BODY COVERING & BOOTS IN AREAS
+    WHERE SPILLS & SPLASHING CAN OCCUR. EMERGENCY EYE WASH & DELUGE
+    SHOWER .
+Work Hygienic Practices:WASH HANDS BEFORE EATING OR USING TOILET
+    FACILITIES.
+Supplemental Safety and Health
+FIRE FIGHT PROC:TO COOL NEARBY CONTAINERS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F3
+Boiling Pt:B.P. Text:153F,67C
+Vapor Pres:20
+Vapor Density:3.5
+Spec Gravity:0.8
+Evaporation Rate & Reference:6.1 (BUTYL ACETATE=1)
+Solubility in Water:100%
+Appearance and Odor:NONE SPECIFIED BY MANUFACTURER.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CAUSTIC SODA AND OTHER STRONG ALKALIS; STRONG INORGANIC ACIDS; AMINES;
+    OXIDIZING AGENTS.
+Stability Condition to Avoid:HEAT, SPARKS AND FLAME.
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:THIS PRODUCT WHEN SPILLED/DISPOSED IS A HAZ
+    SOLID WASTE AS DEFINED IN RCRA REG (40CFR261). PREFERRED METHOD IS
+    INCINERATION/ BIOLOGICAL TREATMENT IN FEDERAL, STATE & LOCAL
+    APPROVED FACILITY. DISPOSE O F IN ACCORDANCE WITH LOCAL, STATE, AND
+    FEDERAL REG
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

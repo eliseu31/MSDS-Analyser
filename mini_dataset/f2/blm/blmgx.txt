@@ -1,0 +1,187 @@
+=====================  Product Identification  =====================
+
+Product ID:190 HB PART B
+MSDS Date:10/10/1989
+FSC:8040
+NIIN:00N021200
+Kit Part:Y
+MSDS Number: BLMGX
+=== Responsible Party ===
+Company Name:CARBOLINE
+Address:350 HANLEY INDUSTRIAL CT
+City:ST LOUIS
+State:MO
+ZIP:63144-1599
+Country:US
+Info Phone Num:314-644-1000
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+CAGE:HO925
+=== Contractor Identification ===
+Company Name:CARBOLINE
+Address:350 HANLEY INDUSTRIAL CT
+Box:City:ST LOUIS
+State:MO
+ZIP:63144-1599
+Country:US
+Phone:314-644-1000
+CAGE:HO925
+Company Name:CARBOLINE CO
+Address:350 S HANLEY INDUSTRIAL CT
+Box:City:ST. LOUIS
+State:MO
+ZIP:63144-1599
+Country:US
+Phone:314-644-1000
+CAGE:06634
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PROPYLENE GLYCOL MONOMETHYL ETHER
+CAS:107-98-2
+RTECS #:UB7700000
+Fraction by Wt: 5%
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+
+Ingred Name:N-BUTYL ALCOHOL  (SARA III)
+CAS:71-36-3
+RTECS #:EO1400000
+Fraction by Wt: 5%
+OSHA PEL:100 PPM
+ACGIH TLV:S, C 50 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: 5%
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+Ingred Name:TALC (CONTAINING NO ASBESTOS)
+CAS:14807-96-6
+RTECS #:WW2710000
+Fraction by Wt: 50%
+OSHA PEL:2 MG/M3 RDUST
+ACGIH TLV:2 MG/M3 RDUST; 9192
+
+Ingred Name:POLYAMIDO-AMINE. VP: 1.0
+Fraction by Wt: 15%
+
+Ingred Name:ETHYL ALCOHOL (ETHANOL)
+CAS:64-17-5
+RTECS #:KQ6300000
+Fraction by Wt: 15%
+OSHA PEL:1000 PPM
+ACGIH TLV:1000 PPM; 9192
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS)	(SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 15%
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:HARMFUL IF INHAL. MAY AFFECT
+    BRAIN/NERVOUS SYSTEM CAUSING DIZZ, HDCH OR NAUS. MAY CAUSE NOSE &
+    THROAT IRRIT. CONTACT: MAY BE HARMFUL IF ABSORBED THRU SKIN. MAY
+    CAUSE EYE/SKIN BURNS. CONTAINS A SKIN SE NSIT. AVOID ALL EYE/SKIN
+    CONT. NOTE: REPORTS HAVE ASSOC RPTD/PRLNGD OCC OVEREXP TO SOLV
+    W/PERM BRAIN/NERVOUS SYSTEM DMG.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:IF SENSITIZED TO AMINES, EPOXIES OR
+    OTHER CHEMICALS DO NOT USE. SEE MD IF A MEDICAL CONDITION EXISTS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:WHEN EXPOSED - ALWAYS GET MEDICAL ATTENTION. EYES: FLUSH WITH
+    WATER FOR 15 MINUTES. SKIN: WASH WITH SOAP AND WATER. REMOVE
+    CONTAMINATED CLOTHING AND CLEAN BEFORE REUSE. INHAL: REMOVE TO
+    FRESH AIR . PR OVIDE OXYGEN IF BREATHING IS DIFFICULT.USE
+    ARTIFICIAL RESP IF NOT BREATHING. GET MED ATTN. INGEST: DO NOT
+    INDUCE VOMITING! ALWAYS GET MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:73.0F,22.8C
+Lower Limits:1%
+Upper Limits:19%
+Extinguishing Media:DRY CHEMICAL, FOAM, CO2, WATER FOG.
+Fire Fighting Procedures:EVAC HAZ AREA OF UNPROTECTED PERS. USE A
+    NIOSH/MSHA APPROVED SCBA AND FULL PROTECTIVE EQUIPMENT . COOL
+    SURROUNDING CNTRS WITH FIRE.
+Unusual Fire/Explosion Hazard:VAPORS ARE HEAVIER THAN AIR AND WILL
+    ACCUMULATE. VAPORS WILL FORM EXPLOSIVE CONCENTRATIONS WITH AIR.
+    VAPORS TRAVEL LONG DISTANCES AND WILL FLASHBACK.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIM ALL IGNIT SOURCES. HANDLING EQUIP MUST BE
+    GROUNDED TO PREVENT SPARKING. EVAC AREA OF UNPROTECTED PERS.
+    CONTAIN & SOAK UP RESIDUAL W/ABSORB (CLAY OR SAND). TAKE UP ABSORB
+    MATL AND SEAL TIGHTLY FOR  PROPER DISPOSAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM HEAT,SPARKS,OPEN FLAME,
+    & STRONG OXIDIZING AGENTS. KEEP CNTRS CLOSED. STORE IN COOL DRY
+    PLACE W/ADEQ VENT
+Other Precautions:IF POURING/TRANSFERRING MATLS GROUND ALL CNTRS AND
+    TOOLS. DO NOT WELD, HEAT, OR DRILL ON FULL OR EMPTY CNTRS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE ONLY W/VENT TO KEEP LEVELS BELOW EXPOS
+    GUIDELINES. USE NIOSH/MSHA APPRVD AIR-PURIFYING RESP WHEN
+    NECESSARY.
+Ventilation:USE EXPLOSION PROOF VENT AS REQUIRED.
+Protective Gloves:CHEMICAL RESISTANT GLOVES.
+Eye Protection:CHEMICAL WORKERS GLOVES.
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:WASH WITH SOAP AND WATER BEFORE EATING
+    DRINKING, OR USING TOILET FACILITIES. LAUNDER CONTAM CLOTHING
+    BEFORE REUSE.
+Supplemental Safety and Health
+KEY1:F4.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F3
+Boiling Pt:B.P. Text:173F,78C
+Vapor Pres:SEE ING
+Vapor Density:HVR/AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Appearance and Odor:NONE SPECIFIED BY MANUFACTURER.
+Percent Volatiles by Volume:47
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTACT WITH STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:HEAT, SPARKS AND OPEN FLAMES.
+Hazardous Decomposition Products:CO AND UNIDENTIFIED ORGANIC COMPOUNDS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE AND
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

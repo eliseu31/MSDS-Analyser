@@ -1,0 +1,174 @@
+=====================  Product Identification  =====================
+
+Product ID:LUBRA-LIFT, 1719
+MSDS Date:03/02/1993
+FSC:9150
+NIIN:00N057125
+MSDS Number: BWRPR
+=== Responsible Party ===
+Company Name:CERTIFIED LABS DIV NCH CORP
+Address:2727 CHEMSEARCH BLVD
+Box:152170
+City:IRVING
+State:TX
+ZIP:75015
+Country:US
+Info Phone Num:214-438-1381
+Emergency Phone Num:214-438-1381
+Preparer's Name:K. RAHN
+CAGE:20913
+=== Contractor Identification ===
+Company Name:NCH CORP
+Address:2727 CHEMSEARCH BLVD
+Box:152170
+City:IRVING
+State:TX
+ZIP:75015-2170
+Country:US
+Phone:972-438-0563
+CAGE:20913
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MINERAL OIL, PETROLEUM DISTILLATES, HYDROTREATED (SEVERE),
+    HEAVY PARAFFINIC; (NEUTRAL OIL). LD50:(ORAL,RAT) >5 G/KG.
+CAS:64742-54-7
+RTECS #:PY8035501
+OSHA PEL:5 MG/M3 (MFR)
+ACGIH TLV:5 MG/M3 (MFR)
+
+Ingred Name:AROMATIC PETROLEUM OIL
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:SOLVENT NAPHTHA; (DISTILLATE)
+CAS:64742-94-5
+RTECS #:WF3100000
+OSHA PEL:100 PPM (MFR)
+ACGIH TLV:100 PPM (MFR)
+
+Ingred Name:BUTYLATED PHENOL
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:PHOSPHORODITHIOIC ACID, ZINC SALT; (ZINC DITHIOPHOSPHATE)
+CAS:19210-06-1
+RTECS #:TE4800000
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:2-NAPHTHALENOL-1-(PHENYL AZO); (SOLVENT YELLOW 14)
+CAS:842-07-9
+RTECS #:QL4900000
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:SUPP DATA:OCCURED, GASTRIC LAVAGE USING A CUFFED
+    ENDOTRACHEAL TUBE IS INDICATED.
+RTECS #:9999999ZZ
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE INGREDIENT 1.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:DIRECT CONTACT W/EYES WILL CAUSE
+    IRRITATION. INHALATION OF VAPORS MAY CAUSE HEADACHE, DIZZINESS &
+    RESPIRATORY TRACT IRRITATION. CONTACT W/SKIN MAY CAUSE IRRITATION.
+    THIS PRODUCT HAS LOW ORAL TOX ICITY, BUT EVEN MINUTE AMOUNTS
+    ASPIRATED INTO LUNGS DURING INGESTION OR SUBSEQUENT VOMITING CAN
+    CAUSE (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:HLTH HAZ:PULMONARY EDEMA & CAN LEAD TO LUNG
+    DAMAGE OR POSSIBLY DEATH IN SEVERE CIRCUMSTANCES.
+    CHRONIC:PRLNG/RPTD SKIN CONT MAY CAUSE REDDENING, IRRIT LEADING TO
+    DERM. DIRECT EXTENDED CONT W/EYES MAY C AUSE MARKED IRRIT. PRLNG
+    INHAL CAN AFFECT CNS. TARGET ORGANS: CENTRAL NERVOUS SYSTEM.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:REMOVE FROM AREA TO FRESH AIR. SEEK MED ATTN IF RESP
+    IRRIT DEVELOPS/IF BRTHG BECOMES DFCLT. EYE:IMMED RINSE W/WATER.
+    REMOVE ANY CONT LENSES & CONTINUE FLUSHING W/RUNNING WATER FOR AT
+    LST 15 MINS . HOLD EYELIDS APART TO ENSURE RINSING OF ENTIRE SURF
+    OF EYES & LIDS W/WATER. GET IMMED MED ATTN. SKIN:WASH AFFECTED
+    AREAS W/PLENTY OF SOAP & WATER FOR SEVERAL MINS. SEEK MED ATTN IF
+    IRRIT (SUPP DATA)
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:375F,191C
+Lower Limits:0.9%
+Upper Limits:7%
+Extinguishing Media:FOAM, CO*2, DRY CHEMICAL, WATER SPRAY.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT . USE WATER SPRAY TO COOL EXPOSED CONTAINERS.
+Unusual Fire/Explosion Hazard:PETROLEUM VAPORS ARE HEAVIER THAN AIR &
+    MAY ACCUMULATE IN LOW AREAS OR AREAS W/INADEQUATE VENTILATION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE ALL SOURCES OF IGNITION. ABSORB
+    W/INERT MATERIAL & PLACE IN APPROPRIATE CONTAINER. FOR LARGER
+    SPILLS, STOP LEAK & CONTAIN SPILL. REMOVE VIA VACUUM TRUCK OR
+    ISOLATE IN LABELLED CONTAINER FOR  DISPOSAL.
+Neutralizing Agent:NONE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORAGE TEMPERATURE: MAX:120F;
+    MIN:32F. STORE INDOORS. STORE AT MODERATE TEMPERATURES.
+Other Precautions:KEEP OUT OF REACH OF CHILDREN. READ ENTIRE LABEL
+    BEFORE USING PRODUCT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IN EMERGENCY SITUATIONS >5000 PPM: NIOSH/MSHA
+    APPROVED CHEMICAL CARTRIDGE RESPIRATOR W/ORGANIC VAPOR CARTRIDGE &
+    FULL FACEPIECE.
+Ventilation:GENERAL EXHAUST IS ADEQUATE UNDER MOST CONDITIONS.
+Protective Gloves:NEOPRENE GLOVES.
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGGS .
+Other Protective Equipment:EYE WASH FOUNTAIN & DELUGE SHOWER WHICH MEET
+    ANSI DESIGN CRITERIA .
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+FIRST AID PROC:DEVELOPS. INGEST:GIVE 3-4 GLASSES OF WATER, BUT DO NOT
+    INDUCE VOMIT. IF VOMIT OCCURS, GIVE FLUIDS AGAIN. GET IMMED MED
+    ATTN. NOTES TO MD:IF >0.2 ML/KG HAS BEEN INGESTED & VOMIT HAS NOT 
+    OCCURED, INDUCE EMESIS CAREFULLY. KEEP HEAD BELOW HIPS TO AVOID
+    ASPIR. IF GAG REFLEX IS INHIBITED/UNCON HAS (ING 7)
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:550F,288C
+Vapor Pres:<0.01
+Vapor Density:>5
+Spec Gravity:0.87 (H*2O=1)
+Evaporation Rate & Reference:<0.01 (BUTYL ACETATE=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:AMBER, TRANSPARENT; PETROLEUM ODOR.
+Percent Volatiles by Volume:<1
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS.
+Hazardous Decomposition Products:FUMES, SMOKE, OXIDES OF CARBON,
+    ALDEHYDES & OTHER INCOMPLETE COMBUSTION PRODUCTS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF I/A/W ALL APPLICABLE FEDERAL, STATE &
+    LOCAL ENVIRONMENTAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

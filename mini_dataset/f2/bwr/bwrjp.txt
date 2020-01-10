@@ -1,0 +1,153 @@
+=====================  Product Identification  =====================
+
+Product ID:ANTI-SEIZE COMPOUND
+MSDS Date:06/12/1992
+FSC:8030
+NIIN:00-180-6315
+MSDS Number: BWRJP
+=== Responsible Party ===
+Company Name:CHEMICAL COMMODITIES AGENCY, INC.
+Address:27447 PACIFIC STREET
+City:HIGH LAND
+State:CA
+ZIP:92346-2640
+Country:US
+Info Phone Num:909-864-2310/FAX 6220
+Emergency Phone Num:909-864-2310
+CAGE:60777
+=== Contractor Identification ===
+Company Name:CHEMICAL COMMODITIES AGENCY, INC.
+Address:27447 PACIFIC STREET
+Box:City:HIGHLAND
+State:CA
+ZIP:92346-2640
+Country:US
+Phone:909-864-2310
+CAGE:60777
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MINERAL OIL, HYDROTREATED (MILD), HEAVY NAPHTHENIC
+    DISTILLATE, PETROLEUM
+CAS:64742-52-5
+RTECS #:PY8035000
+Fraction by Wt: 40-60%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:COPPER  (SARA III)
+CAS:7440-50-8
+RTECS #:GL5325000
+Fraction by Wt: 20-40%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:0.1MG/M3 FUME/1 DUST
+ACGIH TLV:0.2 MG/M3 FUME; 9394
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:SILICA, CRYSTALLINE - QUARTZ
+CAS:14808-60-7
+RTECS #:VV7330000
+Fraction by Wt: 1-3%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:SEE TABLE Z-3
+ACGIH TLV:0.1 MG/M3 RDUST;9394
+
+Ingred Name:GRAPHITE, NATURAL
+CAS:7782-42-5
+RTECS #:MD9659600
+Fraction by Wt: 10-20%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:15 MPPCF; Z-3
+ACGIH TLV:2 MG/M3 RDUST; 9394
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:EYES:MAY CAUSE IRRITATION.SKIN:MAY
+    CAUSE IRRITATION AND DEFATTING.INGEST:MAY CAUSE GI TRACT
+    IRRITATION.MAY CAUSE LUNG DAMAGE IF VOMITED AFTER
+    INGESTING.INHAL:MAY CAUSE RESPIRATORY IRRITATION.
+Explanation of Carcinogenicity:THIS PRODUCT CONTAINS ENCAPSULATED
+    SILICON DIOXIDE.EXPOSURE MAY OCCUR WHEN GRINDING CURED COMPOUND.
+Effects of Overexposure:SKIN:REDNESS.INGEST:NAUSEA,VOMITING.
+Medical Cond Aggravated by Exposure:PERSONS WITH PRE-EXISTING HEART AND
+    SKIN AILMENTS MAY BE AT INCREASED RISK FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:REMOVE CONTAMINATED CLOTHING;WASH WITH SOAP AND
+    WATER.CONSULT PHYSICIAN.EYES:FLUSH WITH WATER FOR 15 MINUTES.GET
+    MEDICAL ATTENTION.INHAL:REMOVE TO FRESH AIR.GIVE OXYGEN OR
+    ARTIFICIAL RESPIRATION  IF NEEDED.INGEST:DO NOT INDUCE VOMITING.GET
+    PROMPT QUALIFIED MEDICAL ATTENTION.IF CONSCIOUS,GIVE WATER OR
+    MILK.IF SPONTANEOUS VOMIITING OCCURS,KEEP HEAD LOWER THAN HIPS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:>300F,>149C
+Extinguishing Media:DRY CHEMICAL,CARBON DIOXIDE,FOAM.
+Fire Fighting Procedures:USE A SELF-CONTAINED BREATHING APPARATUS AND
+    FULL PROTECTIVE EQUIPMENT.COOL FIRE EXPOSED CONTAINERS WITH WATER
+    FOG.
+Unusual Fire/Explosion Hazard:CONTAINERS MAY BURST AT ELEVATED
+    TEMPERATURES.DECOMPOSITION PRODUCTS MAY BE TOXIC.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SOAK UP WITH NON-COMBUSTIBLE INERT
+    ADSORBANT(EG.CLAY);PLACE COLLECTED MATERIAL IN AN APPROPRIATE
+    CONTAINER FOR DISPOSAL;CLEAN SPILL AREA TO REMOVE SLIPPERINESS.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL,DRY,WELL-VENTILATED
+    PLACE.KEEP CONTAINER CLOSED WHEN NOT IN USE.
+Other Precautions:AVOID SKIN AND EYE CONTACT.DO NOT INHALE
+    VAPORS/MISTS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WHERE ENVIRONMENTAL CONTROLS ARE LACKING OR IN
+    ENCLOSED SPACES USE A NIOSH/MSHA APPROVED RESPIRATOR FOR ORGANIC
+    VAPORS.
+Ventilation:USE LOCAL EXHAUST.
+Protective Gloves:CLOTH OR SYNTHETIC RUBBER.
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:PROVIDE A LOCAL EYE WASH STATION.
+Work Hygienic Practices:USE REASONABLE CARE IN HANDLING THIS
+    PRODUCT.WASH HANDS AFTER USE AND BEFORE EATING.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+pH:7
+Evaporation Rate & Reference:<1 (N-BUTYL ACETATE=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:PASTE.COLOR AND ODOR NOT REPORTED.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:CARBON DIOXIDE,CARBON MONOXIDE,ACRID
+    FUMES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH FEDERAL,STATE AND
+    LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,153 @@
+=====================  Product Identification  =====================
+
+Product ID:BA-23
+MSDS Date:09/12/1990
+FSC:6135
+NIIN:00-050-0915
+MSDS Number: BJDMP
+=== Responsible Party ===
+Company Name:BREN-TRONICS INC
+Address:10 BRAYTON CT
+City:COMMACK
+State:NY
+ZIP:11725-3104
+Country:US
+Emergency Phone Num:516-499-5155
+CAGE:51828
+=== Contractor Identification ===
+Company Name:BATTERY ASSEMBLERS INC
+Address:211-4 KNICKERBOCKER AVE
+Box:City:BOHEMIA
+State:NY
+ZIP:11716
+Country:US
+Phone:407-323-3390/EM:516-567-8855/8278
+CAGE:0B0Y5
+Company Name:BREN-TRONICS INC
+Address:10 BRAYTON CT
+Box:City:COMMACK
+State:NY
+ZIP:11725-3104
+Country:US
+Phone:631-499-5155
+CAGE:51828
+Company Name:WESTINGHOUSE ELECTRIC CORP,CORPORATE STANDARDS
+Address:1310 BEULAH RD
+Box:City:PITTSBURGH
+State:PA
+ZIP:15235-5068
+Country:US
+Phone:412-256-1000
+CAGE:79500
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POTASSIUM HYDROXIDE  (SARA III)
+CAS:1310-58-3
+RTECS #:TT2100000
+Fraction by Wt: 20%
+OSHA PEL:C, 2 MG/M3
+ACGIH TLV:C 2 MG/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:(MNO*2) MANGANESE DIOXIDE
+CAS:1313-13-9
+RTECS #:OP0350000
+Fraction by Wt: 60%
+ACGIH TLV:5 MG (MN)/M3
+
+Ingred Name:ZINC  (SARA III)
+CAS:7440-66-6
+RTECS #:ZG8600000
+Fraction by Wt: 19%
+OSHA PEL:10 MG ZNO/M3
+ACGIH TLV:10 MG ZNO/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:MERCURY  (SARA III)
+CAS:7439-97-6
+RTECS #:OV4550000
+Fraction by Wt: <1%
+OSHA PEL:S, C, 0.1 MG/M3
+ACGIH TLV:S, 0.05 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:KOH IS CAUSTIC. SKIN CONTACT CAN CAUSE
+    BURNS, EYE CONTACT MAY CAUSE PERMANENT INJURY.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:IF LEAKAGE FROM BATTERY CONTACTS SKIN, FLUSH W/WATER. FOR EYE
+    CONTACT, FLUSH W/LARGE AMOUNTS OF WATER FOR 15 MIN AND CONTACT MD.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:FIRE FIGHTERS SHOULD USE SCBA.
+Fire Fighting Procedures:NONE SPECIFIED BY MANUFACTURER.
+Unusual Fire/Explosion Hazard:CAN EXPLODE WHEN SUBJECTED TO HEAT. MAY
+    RELEASE TOXIC MERCURY VAPORS, IF BATTERY IS BROKEN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:AVOID EYE AND SKIN CONTACT.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:WHEN HANDLING LEAKING BATTERIES USE
+    NEOPRENE, RUBBER OR LATEX NITRILE GLOVES. STORE AT ROOM TEMPERATURE
+    AND IN A DRY PLACE.
+Other Precautions:DO NOT RECHARGE OR DISPOSE OF IN A FIRE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN. .
+Ventilation:NONE SPECIFIED BY MANUFACTURER.
+Protective Gloves:SEE PRECAUTIONS FOR HANDLING AND STORAGE
+Eye Protection:CHEMICAL WORKERS GOGGLES. .
+Other Protective Equipment:EMERGENCY EYE WASH & DELUGE SHOWER IN
+    IMMEDIATE VICINITY.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:0F,-18C
+Vapor Pres:4MM HG@68
+Spec Gravity:1.433
+Solubility in Water:SOLUBLE
+Appearance and Odor:KOH CLEAR LIQUID
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:WHEN HEATED BATTERY MAY EMIT HAZARDOUS
+    VAPORS OF KOH AND HG.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DO NOT INCINERATE SINCE BATTERY MAY EXPLODE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

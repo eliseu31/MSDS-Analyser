@@ -1,0 +1,144 @@
+=====================  Product Identification  =====================
+
+Product ID:LOW EXPANSION CEMENT (POWDER) - NO. 29P
+MSDS Date:12/01/1993
+FSC:8040
+NIIN:01-081-7247
+Kit Part:Y
+MSDS Number: BWRCQ
+=== Responsible Party ===
+Company Name:SAUEREISEN CEMENTS COMPANY
+Address:160 GAMMA DRIVE
+City:PITTSBURGH
+State:PA
+ZIP:15238
+Country:US
+Info Phone Num:412-963-0303
+Emergency Phone Num:412-963-0303/800-424-9300
+CAGE:80703
+=== Contractor Identification ===
+Company Name:SAUEREISEN CEMENTS COMPANY
+Address:160 GAMMA DRIVE
+Box:City:PITTSBURGH
+State:PA
+ZIP:15238
+Country:US
+Phone:412-963-0303
+CAGE:80703
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SILICA, CRYSTALLINE - QUARTZ
+CAS:14808-60-7
+RTECS #:VV7330000
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:10 MG/M3 RDUST; Z-3
+ACGIH TLV:0.1 MG/M3 RDUST;9394
+
+Ingred Name:ZIRCONIUM(IV) SILICATE
+CAS:14940-68-2
+RTECS #:ZH9000000
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:5MG/M3 AS ZR
+ACGIH TLV:5MG/M3 AS ZR
+
+Ingred Name:SODIUM SILICOFLUORIDE
+CAS:16893-85-9
+RTECS #:VV8410000
+Other REC Limits:2.5 MG/M3 TVL & PEL
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL-RAT) 125 MG/KG
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: INORGANIC FLUORIDES ARE HIGHLY
+    IRRITATING AND TOXIC. MAY CAUSE IRRITATION TO RESPIRATORY TRACT,
+    SKIN AND EYES. CHRONIC: EXPOSURE TO FLUORIDES OVER YEARS MAY
+    PRODUCE EMBRITTLEMENT OF BONE, AND I NCREASE CALCIFICATION OF
+    LIGAMENTS. REPEATED INHALATION OF SILICA DUST MAY CAUSE SILICOSIS.
+Explanation of Carcinogenicity:SILICA IS LISTED IN NTP AND IARC.
+Effects of Overexposure:LARGE DOSES CAN CAUSE NAUSEA, VOMITTING,
+    DIARRHEA, CIRCULATORY AND/OR RESPIRATORY COMPLAINTS AND SKIN RASHES
+    MAY OCCUR.
+Medical Cond Aggravated by Exposure:RESPIRATORY DISEASES INCLUDING
+    ASTHMA AND EMPHYSEMA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE CONTACT: FLUSH EYES IMMEDIATELY WITH WATER FOR AT LEAST
+    15 MINUTES. GET MEDICAL ATTENTION. SKIN: WASH CONTACT AREA
+    THOROUGHLY WITH SOAP AND WATER. REMOVE CONTAMINATED CLOTHING. GET
+    MEDICAL ATTENTI ON IF ERYTHERMA DEVELOPS. INHALATION: REMOVE TO
+    FRESH AIR AT ONCE. GET MEDICAL ATTENTION. INGESTION: DRINK AS MUCH
+    WATER AS POSSIBLE. INDUCE VOMITING. GET MEDICAL ATTENTION
+    IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:WATER SPRAY, "ALCOHOL FOAM", DRY CHEMICAL, CARBON
+    DIOXIDE.
+Unusual Fire/Explosion Hazard:EMITS FLUORIDE FUMES IF HEATED TO
+    DECOMPOSITION TEMPERATURES (932F).
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP, SCOOP OR VACUUM DISCHARGED MATERIAL.
+    RESPIRATORY PROTECTION SHOULD BE WORN AT ALL TIMES AND SKIN CONTACT
+    AVOIDED.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL VENTILATED
+    AREA. KEEP CONTAINERS TIGHTLY CLOSED WHEN NOT IN USE. PROTECT
+    CONTAINERS FROM PHYSICAL DAMAGE.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE DUST RESPIRATORS IN COMPLIANCE WITH OSHA
+    STANDARD 1910.134.
+Ventilation:NORMAL VENTILATION FOR GOOD WORKING CONDITIONS SHOULD BE
+    USED.
+Protective Gloves:WORK GLOVES RECOMMENDED.
+Eye Protection:SAFETY GLASSES WITH SIDE SHIELDS.
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER.
+    INDUSTRIAL-TYPE WORK CLOTHING TO PREVENT SKIN CONTACT, ARMS, LEGS,
+    NECK, FACE.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING
+Supplemental Safety and Health
+MANUFACTURER HAS LISTED AN INGREDIENT AS SODIUM FLUORIDE; CAS #
+    16893-85-9. THIS CAS # IS LISTED AS SODIUM SILICOFLUORIDE ALSO
+    KNOWN AS SODIUM FLUOROSILICATE. THIS INGREDIENT IS UN2674 FOR
+    TRANSPORTAT ION AND IS CLASS 6.1 PACKAGE GROUP 111.MANUFACTURER
+    DOES NOT DENOTE A LABEL TO COVER "KEEP AWAY FROM FOOD".
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T4
+Spec Gravity:4.5
+Solubility in Water:GREATER THAN 0.001%
+Appearance and Odor:WHITE POWDER; ODORLESS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS AND ACID VAPORS
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:HYDROGEN FLUORIDE GAS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:MATERIAL COULD BE DISPOSED OF IN APPROVED
+    LANDFILL ACCORDING TO FEDERAL, STATE AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,117 @@
+=====================  Product Identification  =====================
+
+Product ID:NORCAST A-4000 PART B
+MSDS Date:01/01/1987
+FSC:8040
+NIIN:01-027-4900
+MSDS Number: BHWTL
+=== Responsible Party ===
+Company Name:R.H. CARLSON COMPANY, INCORPORATED
+Address:41 CHESTNUT STREET
+City:GREENWICH
+ZIP:06836
+Country:US
+Info Phone Num:203-661-9288
+Emergency Phone Num:203-661-9288
+CAGE:MO500
+=== Contractor Identification ===
+Company Name:R.H. CARLSON COMPANY, INC.
+Address:41 CHESTNUT STREET
+City:GREENWICH
+State:CT
+ZIP:06830
+Country:US
+Phone:203-531-5500
+CAGE:MO500
+Company Name:R.H.CARLSON COMPANY,INC.
+Address:41-CHESTNUT STREET
+Box:1687
+City:GREENWICH
+State:CT
+ZIP:06830-5921
+Country:US
+Phone:203-531-5500
+CAGE:33530
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:GAMMA AMINO PROPYL TRIETHEORY SILANE
+CAS:919-30-2
+RTECS #:TX2100000
+Fraction by Wt: 100%
+ACGIH TLV:2000 PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Effects of Overexposure:SEVERE EYE IRRITATION. SKIN IRRITATION
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH WITH WATER FOR 15 MIN. SKIN: WASH WITH MILD SOAP
+    AND WATER, APPLY SKIN CREAM. INHALATION: REMOVE TO FRESH AIR. AND
+    INGESTION: GIVE PINT OF MILK AND INDUCE VOMITING, CALL PHYSICIAN.
+    REMOVE C ONTAMINATED CLOTHING.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:220F/104.44C
+Lower Limits:NA
+Upper Limits:NA
+Extinguishing Media:WATER, FOAM, WATER SPRAY
+Fire Fighting Procedures:NONE
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB IN INERT MATERIALS AS SAND OR SAWDUST
+    AND PLACE IN METAL CONTAINER FOR DISPOSAL
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:THE MATERIAL REACTS WITH ATMOSPHERIC
+    MOISTURE
+Other Precautions:STORE IN A DRY LOCATION
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED
+Ventilation:LOCAL, YES AND MECHANICAL, YES
+Protective Gloves:RECOMMENDED
+Eye Protection:UNVENTED GOGGLES RECOMMENDED
+Supplemental Safety and Health
+NK
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:423 F
+Vapor Pres:50 @ 286F
+Vapor Density:7.8 AIR
+Spec Gravity:.942
+Evaporation Rate & Reference:NA
+Solubility in Water:DECOMPOSES
+Appearance and Odor:ESSENTIALLY COLORLESS LIQUID, FAINT ODOR
+Percent Volatiles by Volume:NA
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+DECOMPOSES IN WATER
+Hazardous Decomposition Products:THERMAL DECOMPOSITION ABOVE 575F WILL
+    PRODUCE,CO2,SIO2,AND  NO2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE OR TREAT WITH DILUTE MINERAL ACID AND
+    DISPOSE OF EXCESS IN LANDFILL
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

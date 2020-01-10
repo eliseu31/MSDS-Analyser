@@ -1,0 +1,166 @@
+=====================  Product Identification  =====================
+
+Product ID:DTNSRDC 2844-1118 COMPONENT B 13-112
+MSDS Date:11/01/1988
+FSC:8010
+NIIN:01-224-4906
+Kit Part:Y
+MSDS Number: BJDPL
+=== Responsible Party ===
+Company Name:FINNAREN AND HALEY INC.
+Address:901 WASHINGTON STREET
+City:CONSHOHOCKEN
+State:PA
+ZIP:19428-2057
+Country:US
+Info Phone Num:215-825-1900
+Emergency Phone Num:215-825-1900
+CAGE:NO237
+=== Contractor Identification ===
+Company Name:FINNAREN & HALEY INC
+Address:901 WASHINGTON ST
+Box:City:CONSHOHOCKEN
+State:PA
+ZIP:19428
+Country:US
+Phone:1-610-825-1900
+CAGE:9V982
+Company Name:FINNAREN AND HALEY INC
+Address:901 WASHINGTON STREET
+Box:City:CONSHOHOCKEN
+State:PA
+ZIP:19428-2057
+Country:US
+Phone:215-825-1900
+CAGE:NO237
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:EPOXY RESIN
+Fraction by Wt: 28%
+
+Ingred Name:TALC (CONTAINING NO ASBESTOS)
+CAS:14807-96-6
+RTECS #:WW2710000
+Fraction by Wt: 18%
+OSHA PEL:2 MG/M3 RDUST
+ACGIH TLV:2 MG/M3 RDUST; 9192
+
+Ingred Name:N-BUTYL ACETATE  (SARA III)
+CAS:123-86-4
+RTECS #:AF7350000
+Fraction by Wt: 30%
+Other REC Limits:VP 10MMHG @ 20C
+OSHA PEL:150 PPM/200 STEL
+ACGIH TLV:150 PPM/200STEL;9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:2-ETHOXYETHANOL (EGEE)  (SARA III)
+CAS:110-80-5
+RTECS #:KK8050000
+Fraction by Wt: 15%
+Other REC Limits:VP 3.8 MMHG @ 20C
+OSHA PEL:S,200 PPM
+ACGIH TLV:S, 5 PPM; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:ASPIRATION OF MATERIAL INTO
+    LUNGS CAN CAUSE CHEMICAL PNEUMONITIS WHICH CAN BE FATAL. MAY CAUSE
+    NERVOUS SYSTEM DEPRESSION. ACUTE:SKIN IRRITATION, DEFATTING,
+    DERMATITIS.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:INGEST:NAUSEA, VOMITING, DIARRHEA.
+    INHAL:HEADACHE, DIZZINESS, NAUSEA, STAGGERING, CONFUSION, UNCON.
+    EYE:REDNESS, TEARING, BLURRED VISION. SKIN:MODERATE IRRIT,
+    DEFATTING, DERMATITIS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:REMOVE TO FRESH AIR. RESTORE BREATHING. CALL MD.
+    EYES:FLUSH IMMED WITH LARGE AMOUNTS OF WATER FOR 15 MIN. CALL MD.
+    SKIN:WASH AFFECTED AREAS WITH SOAP AND WATER. REMOVE CONTAMINATED
+    CLOTHING. SEE  MD IF IRRITATION PERSISTS. INGEST:DO NOT INDUCE
+    VOMITING. CONSULT MD OR POISON CONTROL CENTER IMMED. TREAT
+    SYMPTOMATICALLY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:84.0F,28.9C
+Lower Limits:1.4%
+Extinguishing Media:FOAM, CARBON DIOXIDE OR DRY CHEMICAL.
+Fire Fighting Procedures:NONE SPECIFIED BY MANUFACTURER.
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE SOURCES OF IGNITION AND PROVIDE
+    VENTILATION. LARGE SPILLS MAY BE SCOOPED UP WITH NONSPARKING TOOLS.
+    SMALL QUANTITIES MAY BE PICKED UP WITH ABSORBENT MATERIAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:CLSD CONTRS MAY EXPLODE WHEN EXPOSED
+    TO EXTREME HEAT.STORE AWAY FROM HIGH TEMP, SPARKS AND FLAMES. AVOID
+    PRLNG SKIN CONTACT. DO NOT BREATH SPRAY MIST.
+Other Precautions:GROUND CONTRS WHILE POURING AND LIMIT FREE FALL TO A
+    FEW INCHES TO PREVENT STATIC SPARKS.AVOID SPON COMBUST OF CONTAMD
+    RAGS AND OTHER IGNITIBLE ORG ACCUM BY IMMED IMMERSION IN WATER.DO
+    NOT CUT, PUNCTU RE OR WELD ON OR NEAR THE CONTAINER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:PROVIDE ADEQUATE VENTILATION. IF TVL OF THE
+    PRODUCT IS EXCEEDED,A NIOSH/MSHA JOINTLY APPROVED SELF-CONTAINED
+    BREATHING APPARATUS WITH A FULL FACEPIECE OPERATED IN PRESSURE MODE
+    IS ADVISED.
+Ventilation:PROVIDE SUFFICIENT MECHANICAL AND/OR LOCAL EXHAUST
+    VENTILATION TO MAINTAIN EXPOSURE BELOW TVL.
+Protective Gloves:NITRILE RUBBER GLOVES.
+Eye Protection:CHEMICAL SPLASH GOGGLES.
+Other Protective Equipment:TO PREVENT PROLONGED SKIN CONTACT, WEAR
+    IMPERVIOUS CLOTHING AND BOOTS. EYEWASH FACILITY, EMERGENCY SHOWER.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:252F,122C
+Vapor Pres:SEE INGRED
+Vapor Density:>AIR
+Spec Gravity:1.11
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Appearance and Odor:LIQUID
+Percent Volatiles by Volume:64
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:MAY PRODUCE NOXIOUS FUMES WHEN HEATED
+    TO DECOMPOSITION, AS IN WELDING. FUMES MAY CONTAIN CO, NITROGEN
+    OXIDES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PLACE IN CLOSED CONTAINERS. INCINERATE (FIRST
+    OPEN CLOSED CONTAINERS) OR USE SECURE LANDFILL IN ACCORDANCE WITH
+    LOCAL, STATE, AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

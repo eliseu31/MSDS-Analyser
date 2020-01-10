@@ -1,0 +1,127 @@
+=====================  Product Identification  =====================
+
+Product ID:SOLID HEAT BLUE, 10132
+MSDS Date:04/07/1992
+FSC:9110
+NIIN:00N092079
+Status Code:A
+MSDS Number: CJQSB
+=== Responsible Party ===
+Company Name:ECOLAB INC
+Address:ECOLAB CENTER
+City:ST PAUL
+State:MN
+ZIP:55102
+Country:US
+Info Phone Num:800-352-5326
+Emergency Phone Num:800-328-0026
+CAGE:85884
+=== Contractor Identification ===
+Company Name:ECOLAB PROFESSIONAL PRODUCTS DIVISION OF ECOLAB INC.
+Address:ECOLAB CENTER
+Box:City:ST PAUL
+State:MN
+ZIP:55102
+Country:US
+Phone:800-352-5326
+CAGE:85884
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WOOD ALCOHOL; METHANOL (WOOD ALCOHOL))
+CAS:67-56-1
+RTECS #:PC1400000
+OSHA PEL:260 MG/M3;200 PPM
+ACGIH TLV:262 MG/M3;200 PPM
+ACGIH STEL:328 MG/M3;250 PPM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: CAUSES IRRITATION. SKIN: MAY
+    CAUSE IRRITATION, DEPENDING UPON THE DURATION OF EXPOSURE.
+    INGESTION: CAN CAUSE IRRITATION, NAUSEA, STOMACH DISTRESS AND
+    BLINDNESS. INHALATION: MAY CAUSE BREATHING D IFFICULTIES,
+    DIZZINESS, HEADACHE OR UNCONSCIOUSNESS AND BLINDNESS.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH AT ONCE W/COOL RUNNING H*2O. REMOVE CONTACT
+    LENSES. HOLDING EYELIDS APART, CONTINUE FLUSHING FOR AT LEAST 15
+    MIN. SKIN: FLUSH SKIN W/PLENTY OF COOL RUNNING WATER. WASH
+    THOROUGHLY W/SOAP &  H*2O. WASH CONTAMD CLOTHING WELL BEFORE REUSE.
+    INGEST: RINSE MOUTH; THEN DRINK 1 OR 2 LARGE GLASSES OF H*2O. DO
+    NOT INDUCE VOMITING. NEVER GIVE ANYTHING BY MOUTH TO AN UNCONSCIOUS
+    PERSON. CALL THE ECO LAB MEDICAL EMERGENCY NUMBER IMMEDIATELY,
+    1-800-328-0026. INHAL: IN CASE OF BREATHING DIFFICULTY, MOVE IMMED
+    TO FRESH AIR. IF INGESTION, CALL MED EMERGENCY NUMBER
+    1-800-328-0026. IRRIT/DISCOMFORT PERS ISTS, CALL A MD.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TOC
+Flash Point:=12.2C, 54.F
+Extinguishing Media:USE FOG, FOAM, FINE WATER SPRAY, DRY CHEMICAL OR
+    CO*2.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL IGNITION SOURCES. SMALL AMOUNTS MAY
+    BE FLUSHED TO THE SEWER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP OUT OF REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN .
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:ANSI APPROVED EYE WASH AND DELUGE SHOWER .
+Work Hygienic Practices:NO REQUIREMENTS BEYOND STANDARD INDUSTRIAL
+    HYGIENE PRACTICES.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Solubility in Water:NOT SOLUBLE
+Appearance and Odor:SOLID WITH MILD ALCOHOLIC ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+HIGH TEMPERATURES, HEAT, SPARKS, OPEN FLAME.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:RCRA D001; CONSULT FEDERAL, STATE OR LOCAL
+    AUTHORITIES FOR LIMITS ON CHEMICAL WASTE DISPOSAL.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:PROPER SHIPING NAME: PESTICIDE. U. S. DOT HAZARD
+    CLASS: NOT REGULATED. US DOT LD NA: NA. LABEL REQUIREMENTS: NONE.
+
+=====================  Regulatory Information  =====================
+
+State Regulatory Information:
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

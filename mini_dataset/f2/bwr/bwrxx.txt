@@ -1,0 +1,174 @@
+=====================  Product Identification  =====================
+
+Product ID:PASTE SILICONE, RTV9858
+MSDS Date:02/12/1993
+FSC:8040
+NIIN:01-221-6090
+MSDS Number: BWRXX
+=== Responsible Party ===
+Company Name:GE SILICONES
+Address:260 HUDSON RIVER RD
+City:WATERFORD
+State:NY
+ZIP:12188
+Country:US
+Info Phone Num:518-237-3330
+Emergency Phone Num:518-237-3330
+Preparer's Name:D.A. POLSINELLI
+CAGE:GESIL
+=== Contractor Identification ===
+Company Name:GE SILICONES
+Address:260 HUDSON RIVER ROAD
+City:WATERFORD
+State:NY
+ZIP:12188
+Country:US
+Phone:518-237-3330
+CAGE:GESIL
+Company Name:GENERAL ELECTRIC CO, SILICONE PRODUCTS BUSINESS DEPT
+Address:260 HUDSON RIVER RD
+Box:City:WATERFORD
+State:NY
+ZIP:12188
+Country:US
+Phone:518-237-3330/800-332-3390
+CAGE:01139
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:STANNANE, DIBUTYLBIS(LAUROYLOXY)-; (DIBUTYL TIN DILAURATE).
+    LD50 (ORAL,RAT): 1,470 MG/KG.
+CAS:77-58-7
+RTECS #:WH7000000
+Fraction by Wt: 5-10%
+OSHA PEL:0.1 MG/M3 (SN)
+ACGIH TLV:0.1 MG/M3 (SN)
+
+Ingred Name:TITANIUM OXIDE; (TITANIUM DIOXIDE)
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 10-30%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST
+
+Ingred Name:SILICA, CRYSTALLINE - QUARTZ
+CAS:14808-60-7
+RTECS #:VV7330000
+Fraction by Wt: 30-60%
+OSHA PEL:N/K 
+ACGIH TLV:0.1 MG/M3 RDUST
+
+Ingred Name:DOW CORNING 200 FLUID; (DIMETHYLPOLYSILOXANES). LD50
+    (ORAL,RAT): >40,000 MG/KG.
+CAS:63148-62-9
+RTECS #:JJ6484500
+Fraction by Wt: 30-60%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:VOLATILE ORGANIC CONTENT: 13 G/L
+RTECS #:9999999VO
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE INGREDIENTS.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: INGESTION: HARMFUL IF
+    SWALLOWED. SKIN: CAUSES MODERATE SKIN IRRITATION. INHALATION:
+    CAUSES MODERATE RESPIRATORY IRRITATION. EYE: MAY CAUSE SEVERE EYE
+    IRRITATION. CHRONIC: FORMALDEHYDE IS SKIN A ND RESPIRATORY
+    SENSITIZER, EYE AND THROAT IRRITANT, ACUTE TOXICANT, AND POTENTIAL
+    CANCER HAZARD.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE KNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGEST: INDUCE VOMIT IMMED BY GIVING 2 GLASSES OF WATER &
+    STICKING FINGER DOWN THROAT; NEVER GIVE ANYTHING TO AN UNCON
+    PERSON. GET MED ATTN. SKIN: REMOVE CONTAMD CLTHG & LAUNDER BEFORE
+    REUSE. WASH W/S OAP & WATER. REMOVE CONTAMD SHOES & DISCARD. GET
+    MED ATTN IF IRRIT PERSISTS. INHAL: REMOVE TO FRESH AIR, IF NOT
+    BRTHG GIVE ARTF RESP, PREF MOUTH-TO-MOUTH. IF BRTHG IS DFCLT GIVE
+    OXYGEN. GET (SUPDAT)
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:200F,93C
+Extinguishing Media:USE MEDIA SUITABLE FOR SURROUNDING FIRE CONDITIONS
+    .
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WIPE, SCRAPE/SOAK UP IN AN INERT MATL & PUT IN
+    CNTNR FOR DISP. WASH WALKING SURFS W/DETERGENT & WATER TO REDUCE
+    SLIPPING HAZ. WEAR PROPER PROT EQUIP AS SPECIFIED IN PROT EQUIP
+    SEC. WARN OTHER WORKERS  OF SPILL. INCREASE AREA VENTILATION.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER CLOSED WHEN NOT IN USE.
+    AVOID BREATHING VAPORS, IF EXPOSED TO HIGH VAPOR CONCENTRATION,
+    LEAVE AREA AT ONCE.
+Other Precautions:AVOID CONTACT WITH SKIN AND EYES. USE ONLY IN WELL
+    VENTILATED AREA. KEEP AWAY FROM FOOD AND SMOKING MATERIALS. WASH
+    HANDS BEFORE EATING AND SMOKING. CAUTION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE IN WELL VENTILATED AREA. USE NIOSH/MSHA
+    APPROVED RESPIRATORY PROTECTION IF TLV EXCEEDED OR OVEREXPOSURE IS
+    LIKELY.
+Ventilation:LOCALIZED VENTILATION SHOULD BE USED TO CONTROL DUST
+    LEVELS. USE ONLY IN WELL VENTILATED AREA. MECHANICAL VENTILATION.
+Protective Gloves:RUBBER GLOVES.
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGG .
+Other Protective Equipment:SHOWERS. ANSI APPRVD EYEWASH STATIONS.
+    RUBBER APRON. WEAR PROTECTIVE CLOTHING .
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+FIRST AID PROCEDURES: MEDICAL ATTENTION. EYES: IMMEDIATELY FLUSH WITH
+    PLENTY OF WATER FOR AT LEAST 15 MINUTES AND GET MEDICAL ATTENTION
+    IMMEDIATELY AFTER FLUSHING.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>545F,>285C
+Vapor Pres:NEGLIGIBLE
+Vapor Density:NEGLIGIBLE
+Spec Gravity:1.61 (H*2O=1)
+Evaporation Rate & Reference:<1 (BUTYL ACETATE=1)
+Solubility in Water:INSOLUBLE
+Appearance and Odor:WHITE LIQUID, FATTY ACID ODOR.
+Percent Volatiles by Volume:<4
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING AGENTS.
+Stability Condition to Avoid:NONE KNOWN.
+Hazardous Decomposition Products:CARBON DIOXIDE, SILICON DIOXIDE, TIN
+    FUMES, FORMALDEHYDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL SHOULD BE MADE IN ACCORDANCE WITH
+    FEDERAL, STATE AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

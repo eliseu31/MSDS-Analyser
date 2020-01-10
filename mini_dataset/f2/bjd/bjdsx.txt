@@ -1,0 +1,158 @@
+=====================  Product Identification  =====================
+
+Product ID:WRIGHT'S BLOOD STAINING SOLUTION
+MSDS Date:11/25/1985
+FSC:6550
+NIIN:00-764-4729
+Kit Part:Y
+MSDS Number: BJDSX
+=== Responsible Party ===
+Company Name:J.T.BAKER CHEMICAL CO.
+Address:222 RED SCHOOL LANE
+City:PHILLIPSBURG
+State:NJ
+ZIP:08865-2219
+Country:US
+Info Phone Num:201-859-2151
+Emergency Phone Num:201-859-2151 800-424-9300(CHEMTREC)
+CAGE:DO870
+=== Contractor Identification ===
+Company Name:BAXTER HEALTHCARE CORP
+Box:1750 R
+City:STONE MOUNTAIN
+State:GA
+ZIP:30083-1112
+Country:US
+CAGE:13134
+Company Name:J & H BERGE INC
+Address:4111 SO. CLINTON AVE
+Box:City:SOUTH PLAINFIELD
+State:NJ
+ZIP:07080-1322
+Country:US
+Phone:908-561-1234
+CAGE:25518
+Company Name:J.T.BAKER CHEMICAL CO.
+Address:222 RED SCHOOL LANE
+City:PHILLIPSBURG
+State:NJ
+ZIP:08865-2219
+Country:US
+Phone:201-859-2151
+CAGE:DO870
+Company Name:MALLINCKRODT BAKER,  INC.
+Address:222 RED SCHOOL LANE
+Box:City:PHILLIPSBURG
+State:NJ
+ZIP:08865
+Country:US
+Phone:800-582-2537
+CAGE:70829
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL ALCOHOL (METHANOL)  (SARA III)
+CAS:67-56-1
+RTECS #:PC1400000
+Fraction by Wt: 80-90%
+OSHA PEL:S,200PPM/250STEL
+ACGIH TLV:S,200PPM/250STEL; 93
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:GLYCERIN
+CAS:56-81-5
+RTECS #:MA8050000
+Fraction by Wt: 10-15%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 (MIST) 9293
+
+Ingred Name:DYE MIXTURE
+Fraction by Wt: 5-1%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL/5628MG/KG(RAT)IPR/9540MG/KG(RAT)
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:NONE SPECIFIED BY MANUFACTURER.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:INHALE:VAPORS MAY CAUSE
+    HEADACHE,NAUSEA,DIZZINESS,FATIGUE AND WEAKNESS IN ARMS & LEGS.
+    INGEST:MAY CAUSE NAUSEA,VOMITING,BLINDNESS,MAY BE FATAL.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGEST:IF CONSCIOUS,IMMED INDUCE VOMITING. EYES:IN CASE OF
+    CONTACT IMMED FLUSH EYES W/PLENTY OF WATER FOR AT LEAST 15 MIN.
+    SKIN:FLUSH SKIN W/WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:11C 52F
+Lower Limits:6.0%
+Upper Limits:36%
+Extinguishing Media:USE ALCOHOL FOAM, DRY CHEMICAL OR CARBON DIOXIDE.
+    WATER MAY BE  INEFFECTIVE.
+Fire Fighting Procedures:WEAR PROPER PROT EQUIP & SCBA W/FULL FACEPIECE
+    OPERATED IN POSITIVE PRESS MODE.MOVE CONTR FROM FIRE AREA IF CAN BE
+    DONE W/O RISK.USE WATER TO KEEP CONTR COOL.
+Unusual Fire/Explosion Hazard:GIVES OFF FLAMMABLE VAPORS.VAPORS MAY
+    FORM EXPLO MIX W/AIR.CLOSED CONTR EXPOS TO HEAT MAY EXPLODE.
+    CONTACT W/STRONG OXIDIZERS MAY CAUSE FIRE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR SCBA & FULL PROT CLTHNG.SHUT OFF IGNIT
+    SOURCES;NO FLARES,SMOKING OR FLAMES IN AREA.STOP LEAK IF W/O
+    RISK.USE WATER SPRAY TO REDUCE VAPORS.FLUSH AREA W/WATER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:BOND AND GROUND CONTAINERS WHEN
+    TRANSFERRING LIQUID. KEEP CONTAINER TIGHTLY CLOSED. STORE IN A
+    COOL,DRY,WELL-VENT FLAMMABLE LIQUID STORAGE AREA.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SPECIFIED BY MANUFACTURER.
+Ventilation:NONE SPECIFIED BY MANUFACTURER.
+Protective Gloves:RUBBER GLOVES
+Eye Protection:GOGGLES AND SHIELD
+Other Protective Equipment:LAB COAT AND APRON
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:0.79
+Solubility in Water:NOT KNOWN
+Appearance and Odor:DARK BLUE LIQUID WITH CHARACTERISTIC ALCOHOL ODOR
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:HEAT, FLAME, AND OTHER SOURCES OF
+    IGNITION.
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:TAKE UP W/SAND OR OTHER NON-COMBUST ABSORBENT
+    MATL & PLACE INTO CONTR FOR LATER DISPOSAL. DISPOSE IN ACCORD W/ALL
+    FED,  STATE AND LOCAL REGS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

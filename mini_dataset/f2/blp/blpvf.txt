@@ -1,0 +1,176 @@
+=====================  Product Identification  =====================
+
+Product ID:3255 PRIMEEZ ACRYLIC PRIMER SURFACER, RED OXIDE
+MSDS Date:02/08/1988
+FSC:8010
+NIIN:00F019282
+MSDS Number: BLPVF
+=== Responsible Party ===
+Company Name:MARTIN-SENOUR CO/DIV SHERWIN-WILLIAMS CO
+Address:2500 S SENOUR AVE
+City:CHICAGO
+State:IL
+ZIP:60608-5724
+Info Phone Num:(216) 566-2902
+Emergency Phone Num:(216) 566-2917
+CAGE:16772
+=== Contractor Identification ===
+Company Name:MARTIN-SENOUR CO THE DIV SHERWIN-WILLIAMS CO
+Address:2500 S SENOUR AVE
+Box:City:CHICAGO
+State:IL
+ZIP:60608-5724
+Country:US
+CAGE:16772
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 30%
+Other REC Limits:100 PPM
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: 5%
+Other REC Limits:400 PPM
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+Ingred Name:METHYL ISOBUTYL KETONE  (SARA III)
+CAS:108-10-1
+RTECS #:SA9275000
+Fraction by Wt: 5%
+Other REC Limits:50 PPM
+OSHA PEL:100 PPM/75 STEL
+ACGIH TLV:50 PPM/75 STEL; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:N-BUTYL ACETATE  (SARA III)
+CAS:123-86-4
+RTECS #:AF7350000
+Fraction by Wt: <5%
+Other REC Limits:150 PPM
+OSHA PEL:150 PPM/200 STEL
+ACGIH TLV:150 PPM/200STEL;9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:TALC (CONTAINING NO ASBESTOS)
+CAS:14807-96-6
+RTECS #:WW2710000
+Fraction by Wt: 25-30%
+OSHA PEL:2 MG/M3 RDUST
+ACGIH TLV:2 MG/M3 RDUST; 9192
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 0-5%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:ACRYLIC POLYMER
+CAS:77358-01-1
+Fraction by Wt: 20%
+
+Ingred Name:IRON OXIDE
+CAS:1309-37-1
+RTECS #:NO7400000
+Fraction by Wt: 5%
+OSHA PEL:10 MG/M3 (FE)
+ACGIH TLV:5 MG/M3(FE),B2; 9293
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES/SKIN: IRRITATION, REDNESS,
+    ITCHING, & BURNING SENSATION. INHALATION: RESPIRATORY SYSTEM
+    IRRITATION, NERVOUS SYSTEM DEPRESSION, UNCONSCIOUSNESS, DEATH,
+    HEADACHE, DIZZINESS, NAUSEA, LOSS OF COORDIN ATION. LIVER, URINARY,
+    BLOOD FORMING, &CARDIO-VASCULAR SYSTEM EFFECTS. PERMANENT BRAIN &
+    NERVOUS SYSTEM DAMAGE.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES/SKIN: IRRITATION, REDNESS, ITCHING, &
+    BURNING SENSATION. INHALATION: RESPIRATORY SYSTEM IRRITATION,
+    NERVOUS SYSTEM DEPRESSION, UNCONSCIOUSNESS, DEATH, HEADACHE,
+    DIZZINESS, NAUSEA, LOSS OF COORDIN ATION. LIVER, URINARY, BLOOD
+    FORMING, &CARDIO-VASCULAR EFFECTS. PERMANENT BRAIN & NERVOUS SYSTEM
+    DAMAGE.
+Medical Cond Aggravated by Exposure:NONE GENERALLY RECOGNIZED
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR & RESTORE BREATHING. KEEP
+    WARM & QUIET. SKIN: WASH W/SOAP & WATER. EYES: FLUSH W/PLENTY OF
+    WATER FOR 15 MINS. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:40F
+Lower Limits:1%
+Extinguishing Media:CO2, DRY CHEMICAL, OR FOAM
+Fire Fighting Procedures:WATER SPRAY MAY BE INEFFECTIVE. IF WATER IS
+    USED, FOG NOZZLES ARE PREFERABLE. WEAR FULL PROTECTIVE CLOTHING &
+    SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:WATER SPRAY MAY BE USED TO COOL CLOSED
+    CONTAINERS TO PREVENT PRESSURE BUILD-UP, POSSIBLE AUTOIGNITION &
+    EXPLOSION WHEN EXPOSED TO EXTREME HEAT. FLAMMABLE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. VENTILATE &
+    REMOVE W/INERT ABSORBENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER CLOSED WHEN NOT IN USE.
+    TRANSFER ONLY TO APPROVED CONTAINERS W/COMPLETE & APPROPRIATE
+    LABELING. DON'T TAKE INTERNALLY. DON'T SMOKE.
+Other Precautions:USE ONLY W/ADEQUATE VENTILATION. AVOID BREATHING
+    VAPOR/SPRAY MIST. DON'T GET IN EYES OR ON SKIN. INTENTIONAL MISUSE
+    BY DELIBERATELY CONCENTRATING & INHALING THE CONTENTS CAN BE
+    HARMFUL OR FATAL. KEEP  OUT OF REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE PROPERLY FITTED NIOSH/MSHA APPROVED ORGANIC
+    VAPOR/PARTICULATE RESPIRATOR. WHEN SANDING OR ABRADING THE DRIED
+    FILM, WEAR A DUST MASK OR PARTICULATE RESPIRATOR.
+Ventilation:LOCAL EXHAUST OR GENERAL EXHAUST TO KEEP AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Appearance and Odor:RED
+Percent Volatiles by Volume:62-64%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:HEAT/ELECTRICAL EQUIPMENT &
+    TOOLS/SPARKS/OPEN FLAME/PILOT LIGHTS/HEATERS/STOVES/APPLIANCES &
+    ALL OTHER IGNITION SOURCES.
+Hazardous Decomposition Products:CO, & CO2
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:MAY BE RCRA HAZARDOUS WASTE. TEST FOR
+    IGNITABILITY TO DETERMINE EPA HAZARDOUS WASTE NUMBERS. INCINERATE
+    IN APPROVED FACILITY ACCORDING TO FEDERAL, STATE, & LOCAL
+    REGULATIONS. DON'T INCINERATE CLOSED    CONTAINERS. FLAMMABLE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

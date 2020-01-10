@@ -1,0 +1,163 @@
+=====================  Product Identification  =====================
+
+Product ID:AMMONIUM SULFATE, 99+% ACS REAGENT, 221252
+MSDS Date:07/01/1998
+FSC:6810
+NIIN:00N014152
+Status Code:A
+MSDS Number: CJQKP
+=== Responsible Party ===
+Company Name:ALDRICH CHEMICAL CO INC
+Address:1001 W ST PAUL
+City:MILWAUKEE
+State:WI
+ZIP:53233
+Country:US
+Info Phone Num:414-273-3850
+Emergency Phone Num:414-273-3850
+CAGE:60928
+=== Contractor Identification ===
+Company Name:ALDRICH CHEMICAL CO INC
+Address:1001 WEST ST PAUL AVE
+Box:355
+City:MILWAUKEE
+State:WI
+ZIP:53233
+Country:US
+Phone:414-273-3850
+CAGE:60928
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:AMMONIUM SULFATE  LD50: (ORAL, RAT) 2840 MG/KG
+CAS:7783-20-2
+RTECS #:BS4500000
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE INGREDIENT
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE EFFECTS: MAY BE HARMFUL BY
+    INHALATION, INGESTION OR SKIN ABSORPTION. CAUSES EYE AND SKIN
+    IRRITATION. MATERIAL IS IRRITATING TO MUCOUS MEMBRANES AND UPPER
+    RESPIRATORY TRACT. SEE ALSO TOXICOLOGICA L INFORMATION.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: IN CASE OF CONTACT, IMMEDIATELY FLUSH EYES WITH COPIOUS
+    AMOUNTS OF WATER FOR AT LEAST 15 MINUTES. SKIN: IN CASE OF CONTACT,
+    IMMEDIATELY WASH SKIN WITH SOAP AND COPIOUS AMOUNTS OF WATER.
+    INHALATI ON: REMOVE TO FRESH AIR. IF NOT BREATHING GIVE ARTIFICIAL
+    RESPIRATION. IF BREATHING IS DIFFICULT, GIVE OXYGEN. INGESTION:
+    WASH OUT MOUTH WITH WATER PROVIDED PERSON IS CONSCIOUS. CALL A
+    PHYSICIAN. WASH  CONTAMINATED CLOTHING BEFORE REUSE.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER SPRAY. CARBON DIOXIDE, DRY CHEMICAL POWDER OR
+    APPROPRIATE FOAM.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:EMITS TOXIC FUMES UNDER FIRE CONDITIONS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR NIOSH APPROVED RESPIRATOR, CHEMICAL
+    SAFETY GOGGLES, RUBBER BOOTS AND HEAVY RUBBER GLOVES. SWEEP UP,
+    PLACE IN A BAG AND HOLD FOR WASTE DISPOSAL. AVOID RAISING DUST.
+    VENTILATE AREA AND WASH SPILL S ITE AFTER MATERIAL PICKUP IS
+    COMPLETE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP TIGHTLY CLOSED. STORE IN A COOL,
+    DRY PLACE.
+Other Precautions:THE ADDITION OF SODIUM HYPOCHLORITE TO A SOLUTION OF
+    ACIDIFIED AMMONIUM SULFATE LED TO FORMATION OF NITROGEN TRICHLORIDE
+    & RESULTED IN EXPLOSION. CONTACT OF POTASSIUM OR SODIUM-POTASSIUM
+    ALLOY W/A MIX TURE OF AMMONIUM SULFATE & AMMONIUM NITRATE RESULTS
+    IN AN EXPLOSION. HEATING A MIXTURE OF POTASSIUM  CHLORATE (SUPDAT)
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED RESPIRATOR.
+Ventilation:MECHANICAL EXHAUST REQUIRED.
+Protective Gloves:COMPATIBLE CHEMICAL-RESISTANT GLOVES.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:ANSI APPROVED EYE WASH AND DELUGE SHOWER .
+Work Hygienic Practices:AVOID INHALATION. AVOID CONTACT WITH EYES, SKIN
+    AND CLOTHING. AVOID PROLONGED OR REPEATED EXPOSURE. WASH THOROUGHLY
+    AFTER HANDLING.
+Supplemental Safety and Health
+OTHER PRECS: & AMMONIUM SULFATE RESULTS IN DECOMP W/INCANDESENCE.
+    MIXING AMMONIUM SULFATE W/FUSED POTASSIUM NITRITE RESULTS IN
+    VIGOROUS REACTION W/FLAMES. DECOMPOSES AT 455F RELEASING AMMONIA &
+    SULFUR  TRIOXIDE.
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:1.769
+Appearance and Odor:WHITE CRYSTALS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS. STRONG BASES.
+Hazardous Decomposition Products:TOXIC FUMES OF: SULFUR OXIDES,
+    AMMONIA, NITROGEN OXIDES.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:TO THE BEST OF OUR KNOWLEDGE, CHEM, PHYSICAL
+    & TOXICOLOGICAL PROPERTIES HAVE NOT BEEN THOROUGHLY INVESTIGATED.
+    RTECS#: BS4500000. AMMONIUM SULFATE (2:1). TOX DATA - ORAL-MOUSE
+    LD50: 640 MG/KG GISAAA 5 3(2),93,1988. IPR-MOUSE LD50: 610 MG/KG
+    UCPHAQ 2,1,1941. TARGET ORGAN DATA - BEHAVIORAL (SOMNOLENCE)
+    (TREMOR) (CONVLS OR EFT ON SEIZURE THRESHOLD) (MUSC CONTRACTION OR
+    SPASTICITY). LUNGS, THORAX OR RE SPIRATION (DYSPNAE) (OTHER
+    CHANGES). GASTROINTESTINAL (HYPERMOTILITY, DIARR) (NAUS OR VOMIT)
+    (OTHER CHGS). ONLY SELECTED REGISTRY OF TOX EFTS OF CHEM SUBSTANCES
+    (RTECS) DATA IS PRESENTED HERE. SEE ACT RUAL ENTRY IN RTECS FOR
+    COMPLETE INFO.
+
+=====================  Ecological Information  =====================
+
+Ecological:DATA NOT YET AVAILABLE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISSOLVE OR MIX THE MATERIAL WITH A COMBUSTIBLE
+    SOLVENT AND BURN IN A CHEMICAL INCINERATOR EQUIPPED WITH AN
+    AFTERBURNER AND SCRUBBER. OBSERVE ALL FEDERAL, STATE AND LOCAL
+    ENVIRONMENTAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:CONTACT ALDRICH CHEMICAL COMPANY FOR
+    TRANSPORTATION INFORMATION.
+
+=====================  Regulatory Information  =====================
+
+Federal Regulatory Information:EUROPEAN INFO - IRRITANT. R 36/37/38
+    IRRITATING TO EYES, RESPIRATORY SYSTEM AND SKIN. S 26 IN CASE OF
+    CONTACT W/EYES, RINSE IMMED W/PLENTY OF WATER & SEEK MED ADVICE. S
+    36 WEAR SUITABLE PROT CLTHG. RE VIEWS, STDS & REGS - OEL=MAK. NOHS
+    1974: HZD 80158; NIS 67; TNF 5059; NOS 72; TNE 55229. NOES 1983:
+    HZD 80158; NIS 100; TNF 8713; NOS 82; TNE 159582; TFE 47852. EPA
+    GENETOX PROGRAM 1988, NEG: CELL TRA NSFORM. -SA7/SHE. EPA TSCA
+    SECTION 8(B) CHEM INVENTORY. EPA TSCA SECTION 8(D) UNPUBLISHED
+    HEALTH/SAF ETY STUDIES. EPA TSCA TEST SUBMISSION (TSCATS) DATA
+    BASE, JUNE 1998.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

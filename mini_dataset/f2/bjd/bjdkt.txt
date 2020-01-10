@@ -1,0 +1,99 @@
+=====================  Product Identification  =====================
+
+Product ID:33106426 NITROGEN, ANALYZED REAGENT
+MSDS Date:01/01/1987
+FSC:6830
+NIIN:01-096-7474
+MSDS Number: BJDKT
+=== Responsible Party ===
+Company Name:NATIONAL WELDERS SUPPLY COMPANY, INC.
+Address:HIGHWAY 117 NORTH
+Box:1093
+City:GOLDSBORO
+State:NC
+ZIP:27530-8560
+Country:US
+Emergency Phone Num:NONE
+CAGE:9C482
+=== Contractor Identification ===
+Company Name:NATIONAL WELDERS SUPPLY CO INC
+Address:HWY 117 NORTH
+Box:1093
+City:GOLDSBORO
+State:NC
+ZIP:27530-8560
+Country:US
+CAGE:9C482
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NITROGEN
+CAS:7727-37-9
+RTECS #:QW9700000
+Fraction by Wt: 99.999%+
+Other REC Limits:NONE SPECIFIED
+ACGIH TLV:ASPHYXIANT; 9192
+
+Ingred Name:ARGON
+CAS:7440-37-1
+RTECS #:CF2300000
+Fraction by Wt: 35% PPM
+Other REC Limits:NONE SPECIFIED
+ACGIH TLV:ASPHYXIANT; 9192
+
+Ingred Name:HYDROGEN (PPM IS MAX PERMITTED BY PID)
+CAS:1333-74-0
+RTECS #:MW8900000
+Fraction by Wt: 2% PPM
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:NEON
+CAS:7440-01-9
+RTECS #:QP4450000
+Fraction by Wt: 10% PPM
+Other REC Limits:NONE SPECIFIED
+ACGIH TLV:ASPHYXIANT 9192
+
+Ingred Name:OXYGEN (PPM IS MAX PERMITTED BY PID)
+CAS:7782-44-7
+RTECS #:RS2060000
+Fraction by Wt: 1% PPM
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:CARBON DIOXIDE
+CAS:124-38-9
+RTECS #:FF6400000
+Fraction by Wt: 0.5% PPM
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:5000 PPM
+ACGIH TLV:5000PPM/30000STEL;93
+
+Ingred Name:HYDROCARBONS (PPM IS MAX PERMITTED BY PID)
+Fraction by Wt: 0.5% PPM
+Other REC Limits:NONE SPECIFIED
+
+Ingred Name:WATER (PPM IS MAX PERMITTED BY PID)
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 0.2% PPM
+Other REC Limits:NONE SPECIFIED
+
+=============  Exposure Controls/Personal Protection  =============
+
+Supplemental Safety and Health
+USES CYLINDER NSN 8120-01-123-9272. NO MSDS RECEIVED. TRANSPORTATION
+    INFORMATION DEVELOPED IN RESPONSE TO A QUESTION FROM ONE OF THE
+    DEPOTS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:G3
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

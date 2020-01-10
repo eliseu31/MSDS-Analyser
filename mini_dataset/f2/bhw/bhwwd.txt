@@ -1,0 +1,127 @@
+=====================  Product Identification  =====================
+
+Product ID:CASTOR OIL AA STD
+MSDS Date:03/04/1986
+FSC:9150
+NIIN:00-261-7455
+MSDS Number: BHWWD
+=== Responsible Party ===
+Company Name:ASHLAND CHEMICAL CO.
+Box:2219
+City:COLUMBUS
+State:OH
+ZIP:43216
+Country:US
+Info Phone Num:614-790-3333
+Emergency Phone Num:800-274-5263
+CAGE:5A188
+=== Contractor Identification ===
+Company Name:AMERICAN INK AND OIL CORP
+Address:33 ENDICOTT STREET
+Box:City:NORWOOD
+State:MA
+ZIP:02062-3006
+Country:US
+Phone:781-762-0026 / FAX: 781-762-1617
+CAGE:82956
+Company Name:ASHLAND CHEMICAL CO
+Address:5200 PAUL BLAZEL MEMORIAL PARKWAY
+Box:City:DUBLIN
+State:OH
+ZIP:43017
+Country:US
+Phone:614-889-4505
+CAGE:5A188
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CASTOR OIL
+CAS:8001-79-4
+RTECS #:FI4100000
+Fraction by Wt: >95.0%
+
+Ingred Name:OTHER COMPONENTS (TYPE NOT SPECIFIED)
+Fraction by Wt: BALANCE
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:UNKNOWN  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:MAY CAUSE IRRITATION OF EYES AND
+    SKIN.PER MSDS NO ADVERSE HEALTH EFFECTS ARE EXPECTED.
+Explanation of Carcinogenicity:DATA PER MSDS
+Effects of Overexposure:SEE HEALTH HAZARDS DATA.
+Medical Cond Aggravated by Exposure:RRE EXISTING CONDITIONS MAY BE
+    WORSEN
+
+=======================  First Aid Measures  =======================
+
+First Aid:IF INHALED OR INGESTED,REMOVE TO FRESH AIR AND CONSULT A
+    PHYSICIAN.FOR EYES AND SKIN,FLUSH WITH PLENTY OF WATER FOR ABOUT
+    15-20 MINUTES AND SEEK MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:445F,229C
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPER PERSONAL PROTECTION.CONTAIN FREE
+    MATERIAL IF POSSIBLE.USE SUITABLE INERT ABSORBENT MATERIAL AND
+    COLLECT FOR PROPER DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL AND DRY AREA.KEEP AWAY
+    FROM HEAT,OPEN FLAMES AND SPARKS.
+Other Precautions:WASH THOROUGHLY AFTER EACH USE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NORMALLY NOT REQUIRED.USE NIOSH/MSHA APPROVED
+    RESPIRATOR FOR ORGANIC VAPORS OR MIST IF ABOVE PEL/TLV.
+Ventilation:LOCAL/GENERAL TO MAINTAIN PEL/TLV.
+Protective Gloves:IMPERVIOUS
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:WORKING CLOTHES AND EYE WASH FACILITIES.
+Work Hygienic Practices:USE AS DIRECTED,AVOID CONTACT WITH EYES AND
+    SKIN.
+Supplemental Safety and Health
+WASH THOROUGHLY AFTER EACH USE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:595F,313C
+Spec Gravity:0.96
+Evaporation Rate & Reference:<1.0 (ETHER=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:FATTY ACID
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HIGH TEMPERATURES
+Hazardous Decomposition Products:OXIDES OF CARBON
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT LOCAL AUTHORITIES.DISPOSAL MUST BE IN
+    ACCORDANCE WITH LOCAL STATE AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

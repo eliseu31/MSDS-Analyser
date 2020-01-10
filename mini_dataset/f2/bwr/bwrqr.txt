@@ -1,0 +1,142 @@
+=====================  Product Identification  =====================
+
+Product ID:SINOMENINE, 36560-2
+MSDS Date:06/20/1994
+FSC:6505
+NIIN:00N057427
+MSDS Number: BWRQR
+=== Responsible Party ===
+Company Name:ALDRICH CHEMICAL CO INC
+Box:355
+City:MILWAUKEE
+State:WI
+ZIP:53201
+Country:US
+Info Phone Num:414-273-3850
+Emergency Phone Num:414-273-3850
+CAGE:60928
+=== Contractor Identification ===
+Company Name:ALDRICH CHEMICAL CO INC
+Address:1001 WEST ST PAUL AVE
+Box:355
+City:MILWAUKEE
+State:WI
+ZIP:53233
+Country:US
+Phone:414-273-3850
+CAGE:60928
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:9-ALPHA, 13-ALPHA, 14-ALPHA-MORPHINAN-6-ONE,
+    7,8-DIDEHYDRO-4-HYDROXY-3, 7-DIMETHOXY-17-METHYL-; (SINOMENINE)
+CAS:115-53-7
+RTECS #:QD2170000
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:CHLOROFORM (SARA 302/313) (CERCLA)
+CAS:67-66-3
+RTECS #:FS9100000
+OSHA PEL:50 PPM, C
+ACGIH TLV:10 PPM
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50:(ORAL,MOUSE) 580 MG/KG.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:MAY BE FATAL IF INHALED,
+    SWALLOWED OR ABSORBED THRU SKIN. CAUSES EYE & SKIN IRRITATION.
+    MATERIAL IS IRRITATING TO MUCOUS MEMBRANES & UPPER RESPIRATORY
+    TRACT. MAY CAUSE NERVOUS SYSTEM DISTURBANCE S. CHRONIC:CARCINOGEN.
+    DAMAGE TO LIVER,KIDNEYS, HEART. EXPOSURE TO &/OR CONSUMPTION OF
+    ALCOHOL MAY (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:CHLOROFORM:IARC MONOGRAPHS, SUPP, VOL 7,
+    PG 152, 1987:GRP 2B. NTP 7TH ANNUAL RPT ON CARCINS, 1994:ANTIC TO
+    BE (SUPDAT)
+Effects of Overexposure:HLTH HAZ:INCREASE TOXIC EFFECTS. MAY ALTER
+    GENETIC MATERIAL. TARGET ORGANS:HEART, LIVER, KIDNEYS. TARGET ORGAN
+    DATA:BEHAVIORAL (SOMNOLENCE, CONVLS/EFT ON SEIZURE THRESHOLD);
+    LUNGS, THORAX/RESP (RESP D EPRESS).
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:REMOVE TO FRESH AIR. IF BRTHG BECOMES DFCLT, CALL MD.
+    EYES:FLUSH W/COPIOUS AMTS OF WATER FOR AT LST 15 MINS. ASSURE ADEQ
+    FLUSHING BY SEPARATING EYELIDS W/FINGERS. CALL MD. INGEST:WASH OUT
+    MOUTH  W/WATER PROVIDED PERS IS CONSCIOUS. CALL MD. SKIN:FLUSH
+    W/COPIOUS AMTS OF WATER FOR AT LST 15 MINS. REMOVE CONTAM CLTHG &
+    SHOES. CALL MD.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER SPRAY, CARBON DIOXIDE, DRY CHEMICAL POWDER OR
+    APPROPRIATE FOAM.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:EMITS TOXIC FUMES UNDER FIRE CONDITIONS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR NIOSH/MSHA APPRVD RESPIRATOR, CHEMICAL
+    SAFETY GOGGLES, RUBBER BOOTS & HEAVY RUBBER GLOVES. SWEEP UP, PLACE
+    IN A BAG & HOLD FOR WASTE DISPOSAL. AVOID RAISING DUST. VENTILATE
+    AREA & WASH SPILL SITE  AFTER MATERIAL PICKUP IS COMPLETE.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT BREATHE DUST. DO NOT GET IN
+    EYES, ON SKIN, ON CLOTHING. HIGHLY TOXIC. CARCINOGEN. MUTAGEN.
+    IRRITANT. KEEP TIGHTLY CLOSED.
+Other Precautions:STORE IN A COOL, DRY PLACE. MAY CAUSE CANCER. MAY
+    CAUSE HERITABLE GENETIC DAMAGE. TOXIC BY INHALATION, IN CONTACT
+    W/SKIN & IF SWALLOWED. IRRITATING TO EYES, RESPIRATORY SYSTEM &
+    SKIN. IN CASE OF ACCID ENT OR IF YOU FEEL UNWELL, (SUPP DATA)
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR.
+Ventilation:MECHANICAL EXHAUST REQUIRED.
+Protective Gloves:COMPATIBLE CHEMICAL-RESISTANT GLOVES.
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGGS .
+Other Protective Equipment:ANSI APPRVD SAFETY SHOWER & EYE BATH . WEAR
+    SUITABLE PROTECTIVE CLOTHING
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+EXPLAN OF CARCIN:CARCINOGEN. ANIMAL:LIVER, KIDNEY TUMORS, CNS EFFECTS.
+    OTHER PREC:SEEK MEDICAL ADVICE IMMEDIATELY (SHOW LABEL WHERE
+    POSSIBLE).
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:M.P/F.P Text:356F,180C
+Appearance and Odor:TAN POWDER & CHUNKS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:TOXIC FUMES OF: CARBON MONOXIDE,
+    CARBON DIOXIDE, NITROGEN OXIDES, HYDROGEN CHLORIDE GAS, PHOSGENE
+    GAS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISSOLVE OR MIX MATERIAL W/COMBUSTIBLE SOLVENT &
+    BURN IN A CHEMICAL INCINERATOR EQUIPPED W/AFTERBURNER & SCRUBBER.
+    OBSERVE ALL FEDERAL, STATE & LOCAL ENVIRONMENTAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,184 @@
+=====================  Product Identification  =====================
+
+Product ID:PP10A
+MSDS Date:02/28/1990
+FSC:3439
+NIIN:00N023018
+MSDS Number: BLMSK
+=== Responsible Party ===
+Company Name:BAY STATE ABRASIVES
+Address:12 UNION STREET
+City:WESTBORO
+State:MA
+ZIP:01581
+Country:US
+Info Phone Num:800-366-4431
+Emergency Phone Num:800-366-4431
+CAGE:70752
+=== Contractor Identification ===
+Company Name:BAY STATE/STERLING INC
+Address:12 UNION STREET
+Box:City:WESTBOROUGH
+State:MA
+ZIP:01581-1459
+Country:US
+Phone:508-366-4431
+CAGE:70752
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ALUMINUM  (SARA III)
+CAS:7429-90-5
+RTECS #:BD0330000
+Fraction by Wt: 0-10%
+Other REC Limits:20 MG/M3 STEL (MFR)
+OSHA PEL:15MG/M3 DUST/5 FUME
+ACGIH TLV:10MG/M3 DUST; 9192
+
+Ingred Name:MOLYBDENUM
+CAS:7439-98-7
+RTECS #:QA4680000
+Fraction by Wt: 0-5%
+Other REC Limits:20 MG/M3 STEL (MFR)
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3; 9293
+
+Ingred Name:ALLOY CONTAINS 1 OR MORE OF LISTED INGREDIENTS. CONSULT
+    MFRS TECH DATA SHEET FOR DETAILS/COMPOSITION OF SPECIFIC ALLOY.
+RTECS #:9999999ZZ
+
+Ingred Name:NICKEL  (SARA III)
+CAS:7440-02-0
+RTECS #:QR5950000
+Fraction by Wt: 70-100%
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+
+Ingred Name:GRAPHITE, NATURAL
+CAS:7782-42-5
+RTECS #:MD9659600
+Fraction by Wt: 0-25%
+OSHA PEL:15 MPPCF RDUST
+ACGIH TLV:2 MG/M3 RDUST; 9293
+
+Ingred Name:COPPER  (SARA III)
+CAS:7440-50-8
+RTECS #:GL5325000
+Fraction by Wt: 0-30%
+Other REC Limits:1 MG/M3 DUST/MIST
+OSHA PEL:0.1MG/M3 FUME/1 DUST
+ACGIH TLV:0.2MG/M3 FUME; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:CHROMIUM  (SARA III)
+CAS:7440-47-3
+RTECS #:GB4200000
+Fraction by Wt: 0-20%
+OSHA PEL:1 MG/M3
+ACGIH TLV:0.5 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:SKIN CONTACT MAY CAUSE ALLERGIC RASH.
+    NICKEL IS NOT TOX IF INGESTED. INTRAMUSCULAR INJECTION &
+    IMPLANTATION OF NICKEL POWDER PROD LOCALIZED TUMORS IN RATS & MICE.
+    INHAL OF NATL GRAPHITE DUST IN MASSIV E CONC CAUSES GRAPHITE
+    PNEUMOCONIOSIS. SYMP INCLUDE: EXPECTORATION OF BLACK SPUTUM,
+    DYSPNEA & COUGH (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NICKEL & NICKEL CMPDS: IARC GRP 1, NTP
+    GRP 2; CHROMIUM & CERTAIN CR CMPDS: IARC GRP 1, NTP GRP 1.
+Effects of Overexposure:HLTH HAZ: RADIOGRAPHIC CHANGES INCLUDE
+    APPEARANCE OF PINPOINT & MACRONODULAR DENSITIES IN ALL LUNG FIELDS.
+    CHROMIUM METAL IS RELATIVELY NONTOXIC. FERROCHROME ALLOYS HAVE
+    CAUSED DECREASED PULMONARY FUN CTIONS IN HUMANS, POSSIBLE
+    HISTOLOGIC FIBROSIS OF LUNGS, WHICH MAY PROGRESS TO CLINICALLY
+    EVIDENT PNEUMOCONIOSIS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: WASH WITH SOAP AND WATER AFTER PROLONGED HANDLING OF
+    POWDER. EYE: FLUSH WITH GENEROUS AMOUNTS OF WATER FOR AT LEAST 15
+    MINUTES. IF IRRITATION PERSISTS GET MD. INHAL: REMOVE TO FRESH AIR.
+    SUPPORT  BREATHING (GIVE O*2/ARTF RESP). INGEST: CALL MD
+    IMMEDIATELY .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:SEE EXPLO HAZ
+Extinguishing Media:DRY POWDER, DRY SAND, DRY DOLOMITE AND DRY
+    GRAPHITE.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:THERE IS WEAK FIRE & EXPLOS HAZ WHEN DUST
+    IS EXPOS TO HEAT/FLAME. EXPLOS SEVERITY IS 0.068 COMPARED TO 1.00
+    FOR PITTSBURGH COAL DUST. MOST METAL PWDRS (SUPDAT)
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE EQUIPMENT AND CLOTHING.
+    COLLECT SPILLED MATERIAL FOR RECLAMATION OR DISPOSAL IN SEALED
+    CONTAINERS. AVOID INHALATION OF DUST. REMOVE SOURCES OF HEAT OR
+    IGNIT. KEEP AIRBORNE DUST AT MINI MUM WHEN CLEANING UP.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:PROVIDE GENL & LOC EXHST VENT TO MEET
+    TLV REQUIREMENTS IN WORKPLACE. WHERE WORKERS ARE EXPOSED TO DUST,
+    NIOSH/MSHA APPRVD RESP ARE TO BE WORN.
+Other Precautions:MAINTAIN NORMAL HOUSEKEEPING PROCEDURES FOR NUISANCE
+    DUST. DO NOT PERMIT EATING & SMOKING IN AREAS WHERE POWDER IS
+    HANDLED, PROCESSED OR STORED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:UTILIZE NIOSH/MSHA APPROVED RESPIRATORY
+    PROTECTION DEVICES FOR NUISANCE DUST.
+Ventilation:USE LOCAL EXHAUST VENT TO KEEP DUST CONC BELOW TLV FOR
+    NICKEL AND CHROMIUM.
+Protective Gloves:IMPERVIOUS GLOVES (NEOPRENE/RUBBER)
+Eye Protection:CHEMICAL WORKERS GOGGLES.
+Other Protective Equipment:EYE WASH STATION READILY ACCESSIBLE TO AREAS
+    OF USE.
+Work Hygienic Practices:PROTECTIVE CLOTHING SHOULD BE CHANGED ON A
+    DAILY BASIS.
+Supplemental Safety and Health
+FIRE FIGHT PROC: ARE COMBUSTIBLE AND CAN FORM EXPLOSIVE MIX W/AIR.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Melt/Freeze Pt:M.P/F.P Text:>2400F
+Spec Gravity:4.42-8.5
+Solubility in Water:INSOLUBLE
+Appearance and Odor:METALLIC GRAY POWDER WITH NO ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CONTACT W/STRONG ACIDS FORM FLAMM & EXPLOSIVE HYDROGEN GAS. CONTACT
+    W/SULFER MAY CAUSE EVOLUTION OF HEAT.
+Stability Condition to Avoid:HIGH TEMPERATURES.
+Hazardous Decomposition Products:TOXIC GASES AND VAPORS (NICKEL
+    CARBONYL AND NO*X) MAY BE RELEASED IN A FIRE INVOLVING NICKEL.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:RECYCLE OR DISPOSE IN SEALED CONTAINERS
+    ACCORDING TO LOCAL, STATE AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

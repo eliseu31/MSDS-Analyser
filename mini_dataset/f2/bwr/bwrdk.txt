@@ -1,0 +1,167 @@
+=====================  Product Identification  =====================
+
+Product ID:NON-CHLORO BRAKLEEN (AEROSOL) 5088
+MSDS Date:04/28/1993
+FSC:6850
+NIIN:01-167-0678
+MSDS Number: BWRDK
+=== Responsible Party ===
+Company Name:CRC CHEMICALS U.S.A./CRC INDUSTRIES, INC.
+Address:885 LOUIS DRIVE
+City:WARMINSTER
+State:PA
+ZIP:18974-2820
+Country:US
+Info Phone Num:215-674-4300
+Emergency Phone Num:215-674-4300
+Preparer's Name:JON BRONW
+CAGE:10136
+=== Contractor Identification ===
+Company Name:CRC INDUSTRIES, INC.
+Address:885 LOUIS DRIVE
+Box:City:WARMINSTER
+State:PA
+ZIP:18974-2820
+Country:US
+Phone:215-674-4300/800-424-9300
+CAGE:10136
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ACETONE  (SARA III)
+CAS:67-64-1
+RTECS #:AL3150000
+Fraction by Wt: 13-18%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:1000 PPM
+ACGIH TLV:750PPM/1000STEL;9294
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:N-HEPTANE
+CAS:142-82-5
+RTECS #:MI7700000
+Fraction by Wt: 40-50%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:500 PPM
+ACGIH TLV:400 PPM/500STEL;9394
+
+Ingred Name:METHYL ALCOHOL (METHANOL)  (SARA III)
+CAS:67-56-1
+RTECS #:PC1400000
+Fraction by Wt: 2-4%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:S,200PPM
+ACGIH TLV:S,200PPM/250STEL; 94
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS)	(SARA III)
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 25-30%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM/150STEL;9394
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:CARBON DIOXIDE
+CAS:124-38-9
+RTECS #:FF6400000
+Fraction by Wt: 4-7%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:5000 PPM
+ACGIH TLV:5000PPM/30000STEL;94
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHAL:DIZZ, BREATHING DIFFICULTIES,
+    ANESTHETIC EFFECTS, NAU, MAY IRRIT UPPER RESP TRACT, HEADACHES,
+    CENTRAL NERVOUS SYS EFFECTS, IRREGULAR HEARTBEATS, UNCONSC.
+    EYE:IRRIT. SKIN:DERMATITIS.
+Explanation of Carcinogenicity:PER MSDS:CHEM LISTED AS CARCINOGEN OR
+    POTENTIAL CARCINOGEN:NTP/IARC/OSHA:NO.
+Effects of Overexposure:DIZZINESS, BREATHING DIFFICULTIES, ANESTHETIC
+    EFFECTS, NAUSEA, IRRIT UPPER RESP TRACT, HEADACHES, CENTRAL NERVOUS
+    SYSTEM EFFECTS, IRREGULAR HEARTBEATS, UNCONSCIOUSNESS, EYE IRRIT,
+    DERMATITIS.
+Medical Cond Aggravated by Exposure:BREATHING PROBLEMS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:REMOVE TO FRESH AIR. APPLY ARTIFICIAL RESPIRATION IF
+    NECESSARY. EYES:FLUSH W/LARGE AMTS OF WATER FOR 15MINS. SKIN:WASH
+    W/WATER. REMOVE CONTAMIN CLOTHING. INGEST:DO NOT INDUCE VOMITING.
+    CALL PHYS ICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:<20F,<-7C
+Lower Limits:1.0
+Upper Limits:13.0
+Extinguishing Media:CO2, FOAM, FOG.
+Fire Fighting Procedures:NONE SPECIFIED BY MANUFACTURER. HOWEVER USE
+    APPROPRIATE PROTECTIVE EQMPT/CLOTHING AS CONDITIONS WARRANT.
+Unusual Fire/Explosion Hazard:AEROSOLS MAY EXPLODE WHEN HEATED ABOVE
+    120F.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USUALLY NOT A PROBLEM W/AEROSOLS. AREA SHOULD
+    BE VENTILATED AN DAN ABSORBENT USED TO PICK UP EXCESS MATERIAL.
+    REMOVE ALL IGNITION SOURCES.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL DRY AREA.
+Other Precautions:AEROSOL CONTAINERS MAY EXPLODE WHEN HEATED ABOVE
+    120F. VAPORS WILL COLLECT IN LOW AREAS-BE SURE TO MAINTAIN ADEQUATE
+    VENTILATION & USE IN AREAS WITH NO SOURCES OF IGNITION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE SELF-CONTAINED BREATHING APPARATUS ABOVE
+    TLV.
+Ventilation:USE MECHANICAL MEANS TO INSURE VAPOR CONC BELOW THE TLV.
+Protective Gloves:SOLVENT RESISTANT.
+Eye Protection:SFETY GLASSES.
+Other Protective Equipment:NOT NORMALLY REQUIRED FOR AEROSOL PRODUCT
+    USAGE.
+Work Hygienic Practices:WASH HANDS AFTER HANDLING. WASH CONTAMINATED
+    CLOTHING PRIOR TO REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V3
+Boiling Pt:B.P. Text:131F,55C
+Spec Gravity:0.762
+Evaporation Rate & Reference:FAST
+Solubility in Water:PARTIALLY SOLUBLE
+Appearance and Odor:CLEAR, WATER WHITE LIQUID.
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:SOURCES OF IGNITION.
+Hazardous Decomposition Products:CARBON MONOXIDE AND CARBON DIOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ALL USED/UNUSED PRODUCT SHOULD BE DISPOSED OF IN
+    CONFORMANCE WITH LOCAL, STATE AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

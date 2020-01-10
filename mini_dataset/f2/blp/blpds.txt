@@ -1,0 +1,129 @@
+=====================  Product Identification  =====================
+
+Product ID:49120  CLASS 65  CLOTH FABRIC
+MSDS Date:08/15/1988
+FSC:8305
+NIIN:00-148-7364
+MSDS Number: BLPDS
+=== Responsible Party ===
+Company Name:PPG INDUSTRIES INC CHEMICAL DIVISION
+Address:ONE GATEWAY CENTER
+City:PITTSBURGH
+State:PA
+ZIP:15222-1416
+Country:US
+Info Phone Num:412-434-4110
+Emergency Phone Num:304-843-1300
+CAGE:93915
+=== Contractor Identification ===
+Company Name:PPG INDUSTRIES INC CHEMICAL DIVISION
+Address:ONE GATEWAY CENTER
+City:PITTSBURGH
+State:PA
+ZIP:15222-1416
+Country:US
+Phone:304-843-1300
+CAGE:93915
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:GLASS FIBER SUBSTRATE
+Fraction by Wt: >96%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:SEE SILICA DUST
+ACGIH TLV:10 MG/M3
+
+Ingred Name:SIZING
+Fraction by Wt: <3.5%
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EXPOSURE TO GLASS FIBERS MAY PRODUCE
+    ITCHING, RASH, CONJUNCTIVITIS, COUGHING OR SNEEZING.  THEY ARE
+    PRIMARILY AN INHALLATION HAZARD.
+Explanation of Carcinogenicity:PRODUCT IS CONTINUOUS FILAMENT GLASS
+    WHICH IS LISTED BY IARC AS CLASS 3 'INSUFFICIENT EVIDENCE TO
+    CLASSIFY". SEE SUPP DA
+Effects of Overexposure:ITCHING OR RASH OF SKIN WHERE CONTACTED. 
+    COUGHING OR SNEEZING IF FIBERS ARE INHALED.
+Medical Cond Aggravated by Exposure:NONE GIVEN BY MANUFACTURER
+    (SUPPLIER).
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH W/WATER 15 MIN, HOLD LIDS OPEN. SKIN:WASH WITH SOAP
+    & WATER. INHALED:REMOVE FROM EXPOSURE.   IF FIBER GLASS BECOMES
+    IMBEDED IN THE SKIN, SEE A DOCTOR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON-FLAMMABLE
+Extinguishing Media:PRODUCT IS NON FLAMMABLE.  EXTINGUISH FIRE WITH
+    MEDIA APPROPRIATE FOR SOURCE OF FIRE.
+Fire Fighting Procedures:WEAR FIRE FIGHTING PROTECTIVE EQUIPMENT AND A
+    FULL FACED SELF CONTAINED BREATHING APPARATUS. EVACUATE AREA. COOL
+    FIRE EXPOSED CONTAINERS WITH WATER SPRAY.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NO SPECIAL PRECAUTIONS ARE NECESSARY.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NONE GIVEN BY MANUFACTURER (SUPPLIER).
+     HMIS: AVOID CAUSING DUST.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESPIRATOR WILL NOT NORMALLY BE NECESSARY.  USE
+    NIOSH/MSHA APPROVED AIR SUPPLIED RESPIRATOR OR RESPIRATOR FOR DUST
+    IF EXPOSURE IS ABOVE THE TLV/PEL. SEE 29 CFR 1910.134 FOR
+    REGULATIONS PERTAINING TO R ESPIRATOR USE.
+Ventilation:NORMAL ROOM VENTILATION IS SUFFICIENT.  SUPPLEMENT WITH
+    LOCAL EXHAUST IF PEL/TLV IS EXCEEDED.
+Protective Gloves:CLOTH/OTHER GLOVES MAY REDUCE IRRITATION
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:LONG SLEEVED SHIRTS BUTTONED AT THE WRIST
+    AND NECK.
+Work Hygienic Practices:USE GOOD INDUSTRIAL HYGIENE PRACTICE.  WASH
+    AFTER USING THE PRODUCT AND BEFORE EATING, DRINKING, ETC.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Melt/Freeze Pt:M.P/F.P Text:1472F,800C
+Spec Gravity:SOLID
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:A TEXTURIZED PRODUCT CONSISTING OF WHITE GLASS
+    BOUND INTO STRANDS, NO ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE GIVEN BY MANUFACTURER (SUPPLIER).	GLASS IS SOLUBLE IN
+    HYDROFLUORIC ACID.
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W ALL FEDERAL, STATE AND LOCAL
+    REGULATIONS.  MANUFACTURER SUGGESTS THAT DISPOSAL MAY BE DONE AS
+    ORDINARY REFUSE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

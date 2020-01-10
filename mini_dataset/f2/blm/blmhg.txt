@@ -1,0 +1,154 @@
+=====================  Product Identification  =====================
+
+Product ID:LITE N EASY, 3401
+MSDS Date:09/01/1989
+FSC:8030
+NIIN:00N021224
+MSDS Number: BLMHG
+=== Responsible Party ===
+Company Name:HUNTING SPECIALTY PRODUCTS INC
+Address:265 S WEST STREET
+City:LEBANON
+State:OH
+ZIP:45036
+Country:US
+Info Phone Num:513-241-9202
+Emergency Phone Num:513-241-9202
+CAGE:HUNTI
+=== Contractor Identification ===
+Company Name:HUNTING SPECIALTY PRODUCTS, INC.
+Address:265 S. WEST STREET
+City:LEBANON
+State:OH
+ZIP:45036
+Country:US
+Phone:800-733-4413
+CAGE:HUNTI
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:STYRENE, MONOMER  (SARA III)
+CAS:100-42-5
+RTECS #:WL3675000
+Fraction by Wt: 18%
+OSHA PEL:100 PPM
+ACGIH TLV:S,50PPM/100STEL;9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:TALC (CONTAINING NO ASBESTOS)
+CAS:14807-96-6
+RTECS #:WW2710000
+Fraction by Wt: 55%
+OSHA PEL:2 MG/M3 RDUST
+ACGIH TLV:2 MG/M3 RDUST; 9192
+
+Ingred Name:AMORPHOUS SILICATE
+Fraction by Wt: 5%
+OSHA PEL:10 MG/M3 (MFR)
+
+Ingred Name:UNSATURATED POLYESTER RESIN
+Fraction by Wt: 22%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:IARC HAS CLASSIFIED STYRENE AS A
+    POSSIBLE HUMAN CARCINOGEN (CLASS 2B). IARC 2B CLASSIFICATION IS NOT
+    BASED ON SIGNIFICANT NEW EVIDENCE THAT STYRENE MIGHT BE A
+    CARCINOGEN BUT ON REVISED IARC CLASSIFICA TION SCHEME AND NEW DATA
+    ON STYRENE OXIDE. IRRIT TO SKIN, EYE AND ALL PARTS RESP TRACT. MAY
+    CAUSE (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:STYRENE: GROUP 2B.
+Effects of Overexposure:HLTH HAZ: DEPRESSION OF THE NERVOUS SYSTEM AND
+    SOMEWHAT ANESTHETIC.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH PROMPTLY WITH COPIOUS AMOUNTS OF WATER FOR AT
+    LEAST 15 MINUTES. SEEK MED ATTN IMMED. SKIN: WASH THOROUGHLY WITH
+    SOAP AND WATER. REMOVE CONTAM CLOTH AND SEEK MED ATTN. INHAL:
+    REMOVE VICTIM  TO A WELL VENTILATED AREA. USE O2 OR ARTF RESP AS
+    REQUIRED. SEEK MED ATTN IMMED. INGEST: DO NOT INDUCE VOMITING. SEEK
+    MED ATTN IMMED.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TOC
+Flash Point:95.0F,35.0C
+Lower Limits:1.1%
+Upper Limits:6.1%
+Extinguishing Media:WATER FOG, DRY CHEMICAL, FOAM AND CO2 OR ANY CLASS
+    B EXTINGUISHING AGENT.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:IF EXPOSED TO ELEVATED TEMPERATURE FOR
+    EXTENDED LENGTH OF TIME SPONTANEOUS EXOTHERMIC POLYMERIZATION MAY
+    OCCUR RESULTING IN VIOLENT RUPTURE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EXTINGUISH ALL SOURCES OF FLAME AND IGNITION
+    ABSORB WITH INERT MATERIAL SUCH AS VERMICULITE/SAND. SWEEP UP &
+    COLLECT IN CNTRS TO DISP AS SOLID WASTE. WASH THE AREA W/TRI-SODIUM
+    PHOSPHATE AND WATER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE BELOW 90F IN COOL DRY PLACE,
+    KEEP AWAY FROM SOURCES OF HEAT AND IGNITION. USE EXPLOSION PROOF
+    EQUIPMENTS.
+Other Precautions:OPEN CNTRS SLOWLY TO RELIEVE ANY INTERNAL PRESSURE.
+    USE WITH ADEQUATE VENTILATION. KEEP OUT OF REACH OF CHILDREN!
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED CHEMICAL RESPIRATOR WITH
+    SCBA REQUIRED.
+Ventilation:ANY COMBINATION OF LOCAL AND GENERAL VENTILATION TO DRAW
+    FUMES AWAY FROM WORKERS.
+Protective Gloves:PLASTIC/RUBBER CHEM RESISTANT GLOVES.
+Eye Protection:CHEM WORK GOG/FULL LENGTH FCSHLD .
+Other Protective Equipment:PROTECTIVE CLOTHING, SHOES, EYE WASH STATION
+    AND SAFETY SHOWERS SHOULD BE AVAILABLE.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:SEE ING
+Vapor Pres:SEE ING
+Vapor Density:HVR/AIR
+Spec Gravity:1.8
+Evaporation Rate & Reference:SLOWER THAN BUTYL ACETATE
+Appearance and Odor:PIGMENTED PASTE, TYPICAL STYRENE ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS, PEROXIDE AND OTHER OXIDIZING AGENTS.
+Stability Condition to Avoid:STORAGE IN OPEN CONTAINER, PROLONGED
+    STORAGE ABOVE 100F, EXPOSURE TO EXCESSIVE HEAT OR OPEN FLAME.
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+Conditions to Avoid Polymerization:POLYMERIZATION MAY OCCUR IF EXPOSED
+    TO HIGH TEMPERATURES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE AND
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

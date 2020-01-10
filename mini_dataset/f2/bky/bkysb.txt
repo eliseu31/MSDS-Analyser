@@ -1,0 +1,124 @@
+=====================  Product Identification  =====================
+
+Product ID:NEON
+MSDS Date:12/01/1986
+FSC:6830
+NIIN:01-103-5907
+MSDS Number: BKYSB
+=== Responsible Party ===
+Company Name:AIR PRODUCTS & CHEMICALS INC
+Address:7201 HAMILTON BLVD
+City:ALLENTOWN
+State:PA
+ZIP:18195-1501
+Info Phone Num:(800) 523-9374 OR (800) 322-9092
+Emergency Phone Num:(800) 523-9374 OR (800) 322-9092
+CAGE:00742
+=== Contractor Identification ===
+Company Name:AIR PRODUCTS AND CHEMICALS INC
+Address:7201 HAMILTON BLVD
+Box:City:ALLENTOWN
+State:PA
+ZIP:18195-1501
+Country:US
+Phone:800-345-3148/ 800-752-1597
+CAGE:00742
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NEON
+CAS:7440-01-9
+RTECS #:QP4550000
+Fraction by Wt: 100%
+ACGIH TLV:SIMPLE ASPHYXIANT
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: INADEQUATE SUPPLY OF
+    OXYGEN TO LUNGS CAUSES DIZZINESS, DEEPER BREATHING, NAUSEA, &
+    UNCONSCIOUSNESS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: INADEQUATE SUPPLY OF OXYGEN TO THE
+    LUNGS CAUSES DIZZINESS, DEEPER BREATHING, NAUSEA, &
+    UNCONSCIOUSNESS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. IF NOT BREATHING, GIVE
+    ARTIFICIAL RESPIRATION, PREFERABLY MOUTH-TO-MOUTH, OR GIVE OXYGEN
+    IF BREATHING IS DIFFICULT. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON-FLAMMABLE
+Extinguishing Media:THIS MATERIAL IS AN INERT GAS.
+Fire Fighting Procedures:SAFELY COOL CONTAINERS EXPOSED TO FLAMES
+    W/WATER UNTIL WELL AFTER FIRE IS OUT. MOVE CYLINDER FROM THE FIRE
+    AREA SAFELY. WEAR SCBA/FULL PROTECTIVE EQUIPMENT.
+Unusual Fire/Explosion Hazard:CYLINDERS MAY VENT RAPIDLY OR EXPLODE
+    FROM HEAT OF FIRE. COMPRESSED GAS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE ALL PERSONNEL. USE APPROPRIATE
+    PROTECTIVE EQUIPMENT. IF LEAK IS IN CONTAINER OR CONTAINER VALVE,
+    CALL EMERGENCY NUMBER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:USE IN DRY/COOL/WELL-VENTILATED AREA.
+    KEEP VALVE PROTECTION CAP IN PLACE UNLESS CONTAINER IS SECURED
+    W/VALVE OUTLET PIPED TO USE POINT. STORE UPRIGHT.
+Other Precautions:DON'T DRAG/SLIDE/ROLL/REFILL CYLINDERS. USE PRESSURE
+    REGULATOR WHEN CONNECTING CYLINDER TO LOWER PRESSURE PIPING/SYSTEM.
+    STORE SECURED TO PREVENT FALLING/BEING KNOCKED OVER. AVOID
+    UNNECESSARY CONTACT.  (SEE SUPP).
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR POSITIVE PRESSURE AIR LINE W/MASK OR
+    SELF-CONTAINED BREATHING APPARATUS.
+Ventilation:LOCAL EXHAUST TO PREVENT ACCUMULATION OF HIGH
+    CONCENTRATIONS, WHICH COULD REDUCE OXYGEN LEVEL TO <18% BY VOLUME.
+Protective Gloves:ANY APPROPRIATE MATERIAL MAY BE USED.
+Eye Protection:SAFETY GOGGLES OR GLASSES
+Other Protective Equipment:SAFETY SHOES
+Supplemental Safety and Health
+PRECAUTIONS (CONT'D): USE FIRST-IN-FIRST OUT INVENTORY SYSTEM TO
+    PREVENT FULL CONTAINER BEING STORED FOR EXCESSIVE PERIOD OF TIME.
+    DON'T HEAT CYLINDER TO INCREASE DISCHARGE RATE OF PRODUCT FROM
+    CYLIND ER. USE CHECK VALVE/TRAP TO PREVENT HAZARDOUS BACK FLOW INTO
+    CYLINDERS. USE SUITABLE HAND TRUCK FOR CYLINDER MOVEMENT.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:-410.9F
+Melt/Freeze Pt:M.P/F.P Text:-415.5F
+Spec Gravity:0.696
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:COLORLESS, ODORLESS GAS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:HEAT OF FIRE, PHYSICAL DAMAGE, &
+    TEMPERATURES >125F
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS REGARDING HEALTH & POLLUTION. DON'T DISPOSE OF
+    UNUSED QUANTITIES. RETURN THE PROPERLY LABELED SHIPPING CONTAINER
+    TO AIR PRODUCTS FOR DISP OSAL. UN 1065. SEGREGATE FULL & EMPTY
+    CONTAINERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

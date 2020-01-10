@@ -1,0 +1,126 @@
+=====================  Product Identification  =====================
+
+Product ID:ACID GREEN 1, 401-001-40
+MSDS Date:05/16/1994
+FSC:6810
+NIIN:00N057690
+MSDS Number: BWRTP
+=== Responsible Party ===
+Company Name:KEYSTONE ANILINE CORP
+Address:2501 WEST FULTON ST
+City:CHICAGO
+State:IL
+ZIP:60612
+Country:US
+Info Phone Num:312-666-2015
+Emergency Phone Num:800-255-3924
+CAGE:24877
+=== Contractor Identification ===
+Company Name:KEYSTONE ANILINE CORP
+Address:2501 W FULTON
+Box:City:CHICAGO
+State:IL
+ZIP:60612-2103
+Country:US
+Phone:312-666-2015
+CAGE:24877
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:FERRATE(3-), TRIS(5,6-DIHYDRO-5-(HYDROXIMINO)-6-
+    OXO-2-NAPHTHALENESULFONATO(2-)-N(SUP 5), O(SUP 6))-, TRISODIUM;
+    (ING 2)
+CAS:19381-50-1
+RTECS #:LJ8930000
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:ING 1:(ACID GREEN 1)
+RTECS #:9999999ZZ
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50:(ORAL,RAT) >2000 MG/KG.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYE/SKIN EFFECTS:EXPECTED TO BE
+    SLIGHTLY IRRITATING. INHAL:POTENTIAL FOR IRRITATION.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:MOVE TO FRESH AIR. IF DIFFICULTY IN BREATHING,
+    ADMINISTER OXYGEN & GET IMMEDIATE MEDICAL ATTENTION. INGEST:SEEK
+    MEDICAL ATTENTION IMMEDIATELY. EYE:FLUSH W/FLOWING WATER FOR AT
+    LEAST 15 MINUTES.  GET MEDICAL ATTENTION. SKIN:WASH AFFECTED AREA
+    W/SOAP & WATER, IF IRRITATION DEVELOPS, CONSULT MD. REMOVE &
+    LAUNDER CONTAMINATED CLOTHING BEFORE REUSE.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER, CO*2, FOAM.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:DUST MAY BE EXPLOSIVE IF MIXED W/AIR IN
+    CRITICAL PROPORTIONS & IN THE PRESENCE OF A SOURCE OF IGNITION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WHERE EXPOSURE IS NOT KNOWN, WEAR A NIOSH/MSHA
+    APPROVED DUST RESPIRATOR. SWEEP UP AS MUCH AS POSSIBLE, WASH
+    RESIDUES W/WATER & FINALLY SWEEP W/ABSORBENT MATERIAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:IN ACCORDANCE W/GOOD INDUSTRIAL
+    PRACTICES, HANDLE W/CARE & AVOID PERSONAL CONTACT.
+Other Precautions:<13% OF THIS PRODUCT MAY CONTAIN EXTREMELY SMALL
+    (TRACE) AMOUNTS OF CHEM(S) KNOWN TO CALIFORNIA TO CAUSE CANCER,
+    BIRTH DEFECTS OR OTHER REPRODUCTIVE HARM.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR A NIOSH/MSHA APPROVED DUST RESPIRATOR.
+Ventilation:LOCAL EXHAUST IS RECOMMENDED, MECHANICAL EXHAUST IS
+    ACCEPTABLE.
+Protective Gloves:IMPERVIOUS RUBBER GLOVES.
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGGS .
+Other Protective Equipment:WEAR APPROP EQUIP TO PVNT PROBABILITY OF
+    EXPOS & PERSONAL CONT. DELUGE SAFETY SHOWER & EYE WASH SHOULD BE
+    (SUPP DATA)
+Work Hygienic Practices:WASH HANDS & FACE THOROUGHLY AFTER HANDLING
+    MATERIAL. AS A PREC, CONTACT LENSES SHOULD NOT BE WORN W/HANDLING
+    THIS PROD.
+Supplemental Safety and Health
+OTHER PROT EQUIP:LOCATED NEAR WORK AREA.
+
+==================  Physical/Chemical Properties  ==================
+
+Solubility in Water:SOLUBLE
+Appearance and Odor:DARK GREEN POWDER; NO ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID OXIDIZING & REDUCING AGENTS.
+Stability Condition to Avoid:NONE KNOWN.
+Hazardous Decomposition Products:IF EVOLVED IN A FIRE, BURNING MAY
+    PRODUCE OXIDES OF CARBON, NITROGEN & OTHER FLAMMABLE & NOXIOUS
+    FUMES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:BURY OR INCINERATE ACCORDING TO FEDERAL, STATE &
+    LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

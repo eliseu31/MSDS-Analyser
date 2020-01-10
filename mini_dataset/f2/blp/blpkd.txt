@@ -1,0 +1,118 @@
+=====================  Product Identification  =====================
+
+Product ID:TARKETT VINYLWELD FUSTER
+MSDS Date:01/28/1987
+FSC:8030
+NIIN:00F019097
+MSDS Number: BLPKD
+=== Responsible Party ===
+Company Name:TARKETT INC
+Address:1139 LEHIGH AVE
+City:WHITEHALL
+State:PA
+ZIP:18052
+Info Phone Num:(215) 266-5500 OR 266-5562
+Emergency Phone Num:(215) 266-5500 OR 266-5562
+CAGE:OGTM2
+=== Contractor Identification ===
+Company Name:TARKETT INC
+Address:1139 LEHIGH AVE
+City:WHITEHALL
+State:PA
+ZIP:18052
+Phone:(215) 266-5500 OR 266-5562
+CAGE:OGTM2
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TETRAHYDROFURAN  (SARA III)
+CAS:109-99-9
+RTECS #:LU5950000
+Fraction by Wt: 83%
+Other REC Limits:200 PPM
+OSHA PEL:200 PPM/250 STEL
+ACGIH TLV:200 PPM/250STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: 9%
+Other REC Limits:590 MG/CUM
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INGESTION: TOXIC, NAUSEA, VOMITING,
+    DIARRHEA. IHALATION: NOSE/THROAT IRRITATION, DIZZINESS, HEADACHES,
+    NARCOSIS. EFFECTS TO RESPIRATORY SYSTEM & CENTRAL NERVOUS SYSTEM.
+    SKIN/EYES: IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INGESTION: TOXIC, NAUSEA, VOMITING, DIARRHEA.
+    INHALATION: NOSE/THROAT IRRITATION, DIZZINESS, HEADACHES, NARCOSIS.
+    EFFECTS TO RESPIRATORY SYSTEM & CENTRAL NERVOUS SYSTEM. SKIN/EYES:
+    IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER FOR 15 MINS. SKIN: WASH W/SOAP & WATER.
+    INHALATION: MOVE TO FRESH AIR. IF BREATHING STOPS, ADMINISTER
+    ARTIFICIAL RESPIRATION. SKIN: WASH W/SOAP & WATER. INGESTION: IF
+    CONSCIOUS, GI VE 2 GLASSES OF WATER. INDUCE VOMITING.OBTAIN MEDICAL
+    ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TOC
+Flash Point:<0F
+Lower Limits:1.8%
+Upper Limits:11.8%
+Extinguishing Media:REGULAR FOAM, CO2 & DRY CHEMICAL
+Fire Fighting Procedures:SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:VAPORS ARE HEAVIER THAN AIR & MAY TRAVEL
+    ALONG THE GROUND OR BE MOVED BY VENTILATION. CAN FORM EXPLOSIVE
+    PEROXIDES UPON LONG STANDING IN AIR.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE ALL IGNITION SOURCES. DIKE & PUMP
+    LIQUID TO CONTAINERS. ABSORB REMAINING LIQUID W/SAND, CLAY, EARTH,
+    ETC. SHOVEL INTO CONTAINERS & CLOSE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CLOSURE TIGHT & CONTAINER UPRIGHT
+    TO PREVENT LEAKAGE. STORE DRUM OUT OF SUN, AWAY FROM HEAT, SPARKS
+    OR OPEN FLAMES & IN WELL VENTILATED AREA.
+Other Precautions:STORE BETWEEN 40-100F. AVOID INHALATION OF DUSTS &
+    VAPORS. AVOID CONTACT W/SKIN & EYES. KEEP OUT OF REACH OF CHILDREN.
+    DON'T TAKE INTERNALLY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR A NIOSH/MSHA APPROVED CARTRIDGE RESPIRATOR
+    OR GAS MASK IF PEL/TLV IS EXCEEDED.
+Ventilation:IN VOLUME & PATTERN TO KEEP 100F.
+Hazardous Decomposition Products:CO, CO2, WATER, VARIOUS HYDROCARBONS,
+    PEROXIDES
+Conditions to Avoid Polymerization:PRESENCE OF CATIONIC INITIATORS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

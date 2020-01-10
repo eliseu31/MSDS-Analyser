@@ -1,0 +1,110 @@
+=====================  Product Identification  =====================
+
+Product ID:HONEY BEE DEODORANT
+MSDS Date:01/01/1990
+FSC:6840
+NIIN:00-811-4601
+MSDS Number: BHWBX
+=== Responsible Party ===
+Company Name:MCGEAN-ROHCO INC., CEE-BEE CHEMICAL DIV.
+Address:9520 E. CEEBEE DR.
+City:DOWNEY
+State:CA
+ZIP:90241-5501
+Country:US
+Info Phone Num:213-803-4311
+Emergency Phone Num:213-803-4311(CHEMTREC-800-424-9300)
+Preparer's Name:W. L. BECKTEL
+CAGE:71361
+=== Contractor Identification ===
+Company Name:MCGEAN-ROHCO INC
+Address:9520 E CEE BEE DR
+Box:City:DOWNEY
+State:CA
+ZIP:90241-5501
+Country:US
+Phone:562-803-4311/FAX: 562-803-6701
+CAGE:71361
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:AMMONIUM, BENZYLDIMETHYLTETRADECYL-CHLORIDE
+CAS:139-08-2
+RTECS #:BO7150000
+Fraction by Wt: <35.0%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Explanation of Carcinogenicity:NONE OF THE COMPOUNDS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP, OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:IRRITAION TO THE EYES AND SKIN.
+Medical Cond Aggravated by Exposure:PERSONS WITH A HISTORY OF AILMENTS
+    OR WITH A PRE-EXISTING DISEASE INVOLVING THE EYES, SKIN MAY BE AT
+    INCREASED RISK FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:FLOOD EYES AND SKIN WITH WATER FOR 15 MINUTES. IF IRRITATION
+    PERSISTS, SEEK MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WIPE UP. WASH AREA WITH SOAP AND WATER.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL VENTILATED
+    AREA.
+Other Precautions:AVOID PROLONGED OR REPEATED CONTACT WITH THE SKIN OR
+    EYES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NORMALLY REQUIRED.
+Ventilation:MECHANICAL (GENERAL) ROOM VENTILATION IS NORMALLY ADEQUATE.
+    LOCAL EXHAUST MAY BE REQUIRED IF WORK AREA NOT VENTED.
+Protective Gloves:RUBBER
+Eye Protection:CHEMICAL GOGGLES.
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER.
+    SUFFICIENT TO PREVENT SKIN CONTACT.
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:302F,150C
+Vapor Pres:SOLID @20C
+Vapor Density:>1
+Spec Gravity:0.5
+Solubility in Water:COMPLETE
+Appearance and Odor:BLUE POWDER WITH PLEASANT ODOR
+Percent Volatiles by Volume:4.0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:FLUSH TO SEWER WITH WATER. DISPOSAL SHOULD BE
+    MADE IN ACCORDANCE WITH ALL APPLICABLE FEDERAL, STATE AND LOCAL
+    LAWS AND REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

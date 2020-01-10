@@ -1,0 +1,145 @@
+=====================  Product Identification  =====================
+
+Product ID:DESIGNERS GOUACHE COLOUR JET BLACK
+MSDS Date:06/30/1986
+FSC:8010
+NIIN:00N057833
+MSDS Number: BWRVN
+=== Responsible Party ===
+Company Name:WINSOR AND NEWTON INC
+Address:11 CONSTITUTION AVE
+City:PISCATAWAY
+State:NJ
+ZIP:08855-1396
+Country:US
+Info Phone Num:201-562-0770
+Emergency Phone Num:201-562-0770
+CAGE:IO938
+=== Contractor Identification ===
+Company Name:WINSOR & NEWTON COLART AMERICAS INC
+Address:11 CONSTITUTION AVE
+Box:City:PISCATAWAY
+State:NJ
+ZIP:08855-1396
+Country:US
+Phone:908-562-0770/800-628-3385
+CAGE:03103
+Company Name:WINSOR AND NEWTON INC
+Address:555 WINSOR DR
+Box:City:SECAUCUS
+State:NJ
+ZIP:07094-2708
+Country:US
+Phone:201-864-9100
+CAGE:IO938
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ANILINE; (ANILINE BLACK PBK 1)
+CAS:62-53-3
+RTECS #:BW6650000
+Fraction by Wt: 40.00%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:3,5-XYLENOL, 4-CHLORO-; (4-CHLOR-3,5-XYLENOL)
+CAS:88-04-0
+RTECS #:ZE6850000
+Fraction by Wt: <0.5%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:GLUTARALDEHYDE
+CAS:111-30-8
+RTECS #:MA2450000
+Fraction by Wt: <0.2%
+OSHA PEL:C 0.2 PPM
+ACGIH TLV:C 0.2 PPM
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:HIGH PHENOL CONTENT MAY CAUSE SKIN
+    SENSITIZATION. MAY BE IRRITATING TO SKIN AND EYES. ABSORPTION
+    THROUGH THE SKIN ON REPEATED CONTACT MAY CAUSE ABDOMINAL PAINS AND
+    KIDNEY DAMAGE.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:WASH WITH WATER FOR AT LEAST 15 MINUTES. GET MEDICAL
+    HELP. SKIN:WASH OFF IMMEDIATELY WITH WATER. INHALATION:REMOVE FROM
+    EXPOSURE. TREAT AS INGESTION. INGESTION:GIVE WATER TO DRINK. GET
+    MEDICAL AD VICE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Extinguishing Media:MEDIA SUITABLE FOR SURROUNDING FIRE .
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT . NON FLAMMABLE BUT WILL BURN WHEN WATER
+    EVAPORATES.
+Unusual Fire/Explosion Hazard:NOT APPLICABLE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB ON INERT MATERIAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP IN CLOSED CONTTAINERS. AVOID
+    EXTREMES OF TEMPERATURE. AVOID CONTACT WITH SKIN AND EYES. AVOID
+    INGESTION.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE
+    FOR EXPOSURE OF CONCERN .
+Ventilation:ENSURE ADEQUATE VENTILATION, PARTICULARLY IF SPRAYING.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGGS .
+Other Protective Equipment:EYE WASH FOUNTAIN & DELUGE SHOWER MEETING
+    ANSI DESIGN CRITERIA .
+Work Hygienic Practices:NORMAL HYGIENE.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>100F,>38C
+Vapor Pres:CA.17
+Vapor Density:WATER
+Spec Gravity:1.5
+pH:CA.7
+Evaporation Rate & Reference:0.36 (BUAC=1)
+Solubility in Water:MISCIBLE
+Appearance and Odor:BLACK CREAMY CONSISTENCY PASTE
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CORRODES ALUMINUM.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:CO MAY BE EVOLVED IN A FIRE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ACCORDING TO LOCAL, STATE AND FEDERAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

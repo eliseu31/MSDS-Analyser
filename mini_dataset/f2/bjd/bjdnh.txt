@@ -1,0 +1,137 @@
+=====================  Product Identification  =====================
+
+Product ID:RTV-CAT 12 (#52144), PART A
+MSDS Date:09/20/1989
+FSC:5970
+NIIN:00-449-5161
+Kit Part:Y
+MSDS Number: BJDNH
+=== Responsible Party ===
+Company Name:POLYMER PLASTICS CORP
+Address:65 DAVIDS DR
+City:HAUPPAUGE
+State:NY
+ZIP:11788
+Country:US
+Info Phone Num:516-231-1300
+Emergency Phone Num:516-231-1300
+CAGE:0H381
+=== Contractor Identification ===
+Company Name:ADVANCED INDUSTRIES INC
+Address:415 NORTHCUTT STREET
+Box:5666
+City:LONGVIEW
+State:TX
+ZIP:75608
+Country:US
+Phone:214-236-4101
+CAGE:0GA21
+Company Name:ELECTRICAL INSULATION SUPPLIES INC
+Address:2100 MAGNOLIA ST
+Box:267
+City:RICHMOND
+State:VA
+ZIP:23223-2310
+Country:US
+Phone:804-649-9221
+CAGE:7L738
+Company Name:POLYMER PLASTICS CORP
+Address:65 DAVIDS DRIVE
+Box:City:HAUPPAUGE
+State:NY
+ZIP:11788
+Country:US
+Phone:516-231-1300, 800-255-3924
+CAGE:0H381
+Company Name:PRECISION CABLE MFG CO INC
+Address:1290 E I 30
+Box:1448
+City:ROCKWALL
+State:TX
+ZIP:75087-1448
+Country:US
+Phone:972-771-1233
+CAGE:54840
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SILICON FLUID
+CAS:63148-62-9
+RTECS #:JT6485000
+Fraction by Wt: 50-75%
+Other REC Limits:NONE ESTABLISHED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:UNDER ORDINARY HANDLING AND USES, NO
+    ADVERSE EFFECTS HAVE BEEN REPORTED.
+Effects of Overexposure:SEE "HEALTH HAZARDS".
+Medical Cond Aggravated by Exposure:NONE STATED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE OR SKIN CONTACT: FLUSH WITH LARGE VOLUNES OF WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE APPROPRIATE AGENT FOR SURROUNDING FIRE.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:NONE STATED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB LIQUID ON PAPER AND PICK UP WITH
+    SHOVEL. POWDERS AND CEMENTS MAY BE SWEPT UP USING DUSTLESS METHOD.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:USE PRECAUTION.
+Other Precautions:NONE STATED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WHERE UNDER HIGH CONCENTRATION ENVIRONMENT, USE
+    NIOSH APPROVED ORGANIC VAPOR CARTRIDGE OR RESPIRATOR DESIGNED TO
+    REMOVE COMBINATION OF PARTICULATES AND VAPOR.
+Ventilation:USE LOCAL EXHAUST.
+Protective Gloves:RECOMMENDED.
+Eye Protection:SAFETY GLASSES.
+Other Protective Equipment:NONE STATED.
+Work Hygienic Practices:NONE STATED.
+Supplemental Safety and Health
+THIS INSULATING COMPOUND KIT CONSISTS OF 2 PARTS: PART A: RTV-CAT 12
+    AND PART B: EPUSIL RTV-116. BOTH PART A AND B COMES IN 1-LB CAN.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Vapor Pres:25.7 MMHG
+Spec Gravity:1.45
+Evaporation Rate & Reference:SLOWER THAN BUTYL ACETATE
+Appearance and Odor:LIQUID
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE STATED.
+Stability Condition to Avoid:AVOID ELEVATED TEMPERATURES.
+Hazardous Decomposition Products:NONE STATED.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PLACE IN CLOSED CONTAINERS AND DISPOSAL SHOULD
+    BE MADE IN ACCORDANCE WITH ALL APPLICABLE FEDERAL, STATE AND LOCAL
+    LAWS AND REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

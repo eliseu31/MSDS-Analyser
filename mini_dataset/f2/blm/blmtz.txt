@@ -1,0 +1,157 @@
+=====================  Product Identification  =====================
+
+Product ID:SURF-KOTE A-5021 BULK
+MSDS Date:04/08/1991
+FSC:9150
+NIIN:00-954-7422
+MSDS Number: BLMTZ
+=== Responsible Party ===
+Company Name:HOHMAN PLATING AND MFG INC
+Address:814 HILLROSE AVE
+City:DAYTON
+State:OH
+ZIP:45404-1132
+Country:US
+Info Phone Num:513-228-2191
+Emergency Phone Num:800-424-9300(CHEMTREC)
+CAGE:01094
+=== Contractor Identification ===
+Company Name:HOHMAN PLATING AND MFG INC
+Address:814 HILLROSE AVE
+Box:City:DAYTON
+State:OH
+ZIP:45404-1132
+Country:US
+Phone:937-228-2191
+CAGE:01094
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ANTIMONY TRIOXIDE  (SARA III)
+CAS:1309-64-4
+RTECS #:CC5650000
+Fraction by Wt: <4%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:0.5 MG/M3 (SB)
+ACGIH TLV:0.5 MG SB/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:BASIC LEAD PHOSPHITE
+CAS:1241-20-7
+Fraction by Wt: <8%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:0.05 MG/M3
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: <65%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:MOLYBDENUM DISULFIDE
+CAS:1317-33-5
+RTECS #:QA4697000
+Fraction by Wt: <25%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:15 MG/M3
+ACGIH TLV:10 MG/M3
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: HEADACHES, DIZZINESS, POSSIBLE
+    UNCONSCIOUSNESS AND ASPHYXIATION. CHRONIC: VISUAL IMPAREMENT, LUNG,
+    KIDNEY, LIVER AND SPLEEN DAMAGE.
+Explanation of Carcinogenicity:NONE OF THE CHEMICALS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:IRRITATION, HEADACHE, DIZZINESS, IMPAIRMENT OF
+    COORDINATION AND COMA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:REMOVE FROM EXPOSURE. VENTILATE THE SUBJECT IF NECESSARY. IF
+    INGESTED CONTACT A PHYSICIAN. UTILIZE ORDINARY METHODS OF PERSONAL
+    HYGIENE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:113F,45C
+Lower Limits:1.27
+Upper Limits:7
+Extinguishing Media:USE CARBON DIOXIDE, FOAM, OR DRY CHEMICAL.
+Fire Fighting Procedures:WEAR FULL FIRE FIGHTING PROTECTIVE CLOTHING
+    AND SELF CONTAINED POSITIVE PRESSURE BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:THE VAPORS ARE MORE DENSE THAN AIR, LEAD
+    OXIDES, CARBON OXIDES, SULFUR OXIDES, AND ACRID FUMES MAY BE
+    PRODUCED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONTAIN THE SPILL. SCRAPE UP AND RECLAIM. IF
+    CONTAMINATED SCRAPE UP AND TREAT AS A HAZARDOUS WASTE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A FLAMMABLE SAFETY CABINET.
+    AVOID CONTACT WITH THE MATERIAL AVOID INHALATION OF MIST AND
+    VAPORS.
+Other Precautions:FOLLOW INSTRUCTIONS ON THE LABEL. AFTER USE UTILIZE
+    ORDINARY METHODS OF PERSONAL HYGIENE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:THE NEED FOR RESPIRATORY PROTECTION SHOULD BE
+    DETERMINED BY AN INDUSTRIAL HYGIENE EVALUATION.  IF PROTECTION IS
+    REQUIRED USE NIOSH APPROVED EQUIPMENT.
+Ventilation:MECHANICAL (GENERAL) VENTILATION IS ACCEPTABLE IF EXPOSURE
+    LIMITS ARE NOT EXCEEDED. LOCAL EXHAUST IS PREFERABLE.
+Protective Gloves:VITON OR NITRILE.
+Eye Protection:SAFETY GLASSES/CHEMICAL SPLASH GOGGLES
+Other Protective Equipment:SAFETY SHOWER AND EYE BATH. WEAR AN APRON
+    AND FOOT COVERING.
+Work Hygienic Practices:DO NOT SMOKE OR EAT WHERE THIS MATERIAL IS
+    PRESENT.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:>230F,>110C
+Vapor Density:>1
+Spec Gravity:1.16
+pH:UNK
+Evaporation Rate & Reference: 2.7
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:THIS MATERIAL IS A BLUE BLACK LIQUID WITH AN
+    ORGANIC SOLVENT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING AGENTS.
+Stability Condition to Avoid:OPEN FLAMES AND/OR EXCESSIVE HEAT.
+Hazardous Decomposition Products:IN A FIRE LEAD OXIDES, CARBON DIOXIDE,
+    SULFUR OXIDES AND ACRID FUMES MAY BE PRODUCED.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE IN AN APPROVED INCINERATOR. FIXATE TO
+    PASS THE TCLP AND BURY IN AN APPROVED LANDFILL. FEDERAL, STATE AND
+    LOCAL REGULATIONS MUST BE FOLLOWED.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

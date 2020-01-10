@@ -1,0 +1,110 @@
+=====================  Product Identification  =====================
+
+Product ID:DEGREASER
+MSDS Date:01/01/1987
+FSC:6850
+NIIN:00F018509
+MSDS Number: BKYCF
+=== Responsible Party ===
+Company Name:SERV-ALL PRODUCTS & MFG
+Address:542 BUTLER ST
+City:MARIETTA
+State:GA
+ZIP:30060
+Info Phone Num:(404) 427-2939
+Emergency Phone Num:(404) 427-2939
+CAGE:SERVA
+=== Contractor Identification ===
+Company Name:SERV-ALL PRODUCTS & MFG
+Address:542 BUTLER ST
+Box:City:MARIETTA
+State:GA
+ZIP:30060
+Phone:(404) 427-2939
+CAGE:SERVA
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM HYDROXIDE  (SARA III)
+CAS:1310-73-2
+RTECS #:WB4900000
+Fraction by Wt: 5%
+Other REC Limits:2MG/M3 CEILING NIOSH
+OSHA PEL:2 MG/M3
+ACGIH TLV:C 2 MG/M3; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:SODIUM METASILICATE; SODIUM SILICATE; WATER GLASS; DISODIUM
+    SALT SILIC ACID
+CAS:6834-92-0
+RTECS #:VV9275000
+Fraction by Wt: 2%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN/EYES: BURNS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN/EYES: BURNS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINS. SKIN:
+    WASH THOROUGHLY W/SOAP & WATER. OBTAIN MEDICAL ATTENTION IN ALL
+    CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:STOP SPILL AT SOURCE. ABSORB W/SUITABLE
+    ABSORBENT. AVOID FALLS BECAUSE SPILLS ARE SLIPPERY.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL AREA. KEEP CONTAINER
+    CLOSED WHEN NOT IN USE. KEEP OUT OF REACH OF CHILDREN. AVOID
+    CONTACT W/SKIN & EYES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AS REQUIRED
+Ventilation:LOCAL EXHAUST
+Protective Gloves:RUBBER
+Eye Protection:SPLASH PROOF GLASSES
+Other Protective Equipment:RUBBER APRON
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:219F
+Spec Gravity:1.1
+Evaporation Rate & Reference:(WATER = 1): 1
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR, COLORLESS TO LIGHT AMBER LIQUID W/DETERGENT
+    ODOR
+Percent Volatiles by Volume:83%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,151 @@
+=====================  Product Identification  =====================
+
+Product ID:CHLOROTHENE SOLVENT (MMS8)
+MSDS Date:01/01/1989
+FSC:8040
+NIIN:01-167-4923
+MSDS Number: BHWDN
+=== Responsible Party ===
+Company Name:PANDUIT CORP
+Address:17301 RIDGELAND
+City:TINLEY PARK
+State:IL
+ZIP:60477-3048
+Country:US
+Info Phone Num:312-532-1800
+Emergency Phone Num:312-532-1800
+CAGE:IO448
+=== Contractor Identification ===
+Company Name:PANDDUIT CORP
+Address:17301 RIDGELAND
+Box:City:TINLEY
+State:IL
+ZIP:60477-3048
+Country:US
+Phone:708-532-1800
+CAGE:06383
+Company Name:PANDUIT CORP
+Address:17301 RIDGELAND AVE
+Box:City:TINLEY PARK
+State:IL
+ZIP:60477
+Country:US
+Phone:708-532-1800
+CAGE:IO448
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL CHLOROFORM (1,1,1-TRICHLOROEHANE)  (SARA III)
+CAS:71-55-6
+RTECS #:KJ2975000
+Fraction by Wt: 96.5%
+OSHA PEL:350 PPM/450 STEL
+ACGIH TLV:350 PPM/450STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+Ozone Depleting Chemical:1
+
+Ingred Name:1,4-DIOXANE (DIETHYLENE DIOXIDE)  (SARA III)
+CAS:123-91-1
+RTECS #:JG8225000
+Fraction by Wt: 2.5%
+OSHA PEL:S, 100 PPM
+ACGIH TLV:S, 25 PPM; 9293
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:1,2-BUTYLENE OXIDE	(SARA III)
+CAS:106-88-7
+RTECS #:EK3675000
+Fraction by Wt: .47%
+Other REC Limits:NONE ESTABLISHED
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:NITROMETHANE
+CAS:75-52-5
+RTECS #:PA9800000
+Fraction by Wt: .34%
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM; 9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SEE "OVEREXPOSURE SYMPTOMS"
+Effects of Overexposure:EYE:MAY CAUSE TEMPORARY IRRITATION; SKIN:MAY
+    DRY OUT SKIN, ABSORBTION IS NOT LIKELY; INHALE:WARNING SIGNS ARE
+    DIZZINESS AT 1000 PPM, UNCONCIOUSNESS AT 10,000 PPM.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION:REMOVE TO FRESH AIR. GIVE FRESH AIR/OXYGEN IF
+    NEEDED; EYES:IMMEDIATELY FLUSH WITH PLENTY OF WATER FOR 15 MINUTES;
+    SKIN:WASH WITH SOAP AND WATER; INGEST:UNLIKELY TO OCCUR, IF
+    INGESTED, DO NO T INDUCE VOMITING, GET MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:WATER FOG.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:VAPORS OF THIS SOLVENT MAY DEVELOP A
+    FLAMMABLE ATMOSPHERE IN CONFINED AREAS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:MOP UP, WIPE UP, OR SOAK UP WITH ABSORBENT.
+    REMOVE TO OUT OF DOORS.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID BREATHING VAPORS,STORE IN A COOL
+    DRY PLACE,CONCENTRATED VAPORS ARE HEAVIER THAN AIR AND WILL COLLECT
+    IN LOW AREAS - DO NOT ENTER THESE AREAS.
+Other Precautions:KEEP AWAY FROM METALLIC ALUMINUM AND ZINC POWDERS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NORMALLY NEEDED. IN EMERGENCIES, USE
+    APPROVED AIR PURIFYING TYPE.
+Ventilation:NORMAL VENTILATION.
+Protective Gloves:NOT NORMALLY NEEDED.
+Eye Protection:SAFETY GOGGLES.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T4
+Boiling Pt:B.P. Text:165F/74C
+Vapor Pres:100 MMHG
+Spec Gravity:1.321
+Solubility in Water:0.04 WT %
+Appearance and Odor:COLORLESS LIQUID, IRRITATING ODOR AT HIGH
+    CONCENTRATIONS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CONTACT WITH WATER OVER LONG TIME PERIODS; PROLINGED CONTACT WITH
+    ALUMINUM ALLOYS,ZINC POWDERS.
+Stability Condition to Avoid:AVOID OPEN FLAMES,WELDING ARC, HIGH
+    TEMPERATUES SOURCES.
+Hazardous Decomposition Products:HYDROGEN CHLORIDE AND VERY SMALL
+    AMOUNTS OF PHOSGENE AND CHLORINE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:SENT TO LICENSED RECLAIMER OR TO PERMITTED
+    INCINERATORS. ANY DISPOSAL PRACTICE MUST BE IN COMPLIANCE WITH
+    FEDERAL,STATE,AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

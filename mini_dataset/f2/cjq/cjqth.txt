@@ -1,0 +1,195 @@
+=====================  Product Identification  =====================
+
+Product ID:SOLDERMATE 232
+MSDS Date:06/08/1999
+FSC:3439
+NIIN:00-469-3398
+MSDS Number: CJQTH
+=== Responsible Party ===
+Company Name:BOW SOLDER PRODUCTS CO INC
+Address:1 CROSSMAN ROAD
+City:SAYREVILLE
+State:NJ
+ZIP:08772
+Country:US
+Info Phone Num:732-316-2100
+Emergency Phone Num:INFOTRAC 800-535-5053/800-526-4496
+Resp. Party Other MSDS Num.:9908
+CAGE:52329
+=== Contractor Identification ===
+Company Name:BOW ELECTRONIC SOLDERS
+Address:1 CROSSMAN ROAD
+Box:City:SAYREVILLE
+State:NJ
+ZIP:08872
+Country:US
+Phone:732-316-2100/ FAX: 732-316-2177
+Contract Num:SP0490-00-M-BC24
+CAGE:52329
+Company Name:BOW ELECTRONIC SOLDERS
+Address:1 CROSSMAN ROAD
+Box:City:SAYREVILLE
+State:NJ
+ZIP:08872
+Country:US
+Phone:732-316-2100/ FAX: 732-316-2177
+Contract Num:SP0490-99-M-R-J88
+CAGE:52329
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:AMMONIUM CHLORIDE (CERCLA)
+CAS:12125-02-9
+RTECS #:BP4550000
+< Wt:30.
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:10 MG/M3
+ACGIH TLV:10 MG/M3 FUME; 9596
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ZINC CHLORIDE (SARA 313) (CERCLA)
+CAS:7646-85-7
+RTECS #:ZH1400000
+< Wt:10.
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:1 MG/M3
+ACGIH TLV:1MG/M3/2STEL(FUME)96
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Minumum % Wt:60.
+Maxumum % Wt:65.
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 ORAL RAT FOR ZINC CHLORID=350 MG/KG
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES-CAUSES SEVERE IRRITATION,
+    EXPERIENCED AS DISCOMFORT OR PAIN, EXCESSIVE BLINKING & TEAR
+    PEODUCTION, MARKED BY EXCESS REDNESS & SWELLING OF THE CONJUCTIVA,
+    & CHEMICAL BURNS OF THE EYE.  SKIN-SUBSTA NCE MAY CAUSE SKIN
+    IRRITATION. PROLONGED CONTACT WILL CAUSE CAUSTIC BURN ON SKIN. 
+    INGESTION-MAY CAUSE ABDOMINAL DISCOMFORT, NAUSEA, VOMITING AND
+    DIARRHEA. INHALATION-THIS FORMULA DOES NOT EMIT ANY HA RMFUL
+    VAPORS.
+Explanation of Carcinogenicity:NOT CARCOGENIC PER PSHA, NTP, IARC FOR
+    LISTED INGREDIENTS.
+Effects of Overexposure:EYES: BURNING AND OR ITCHING OF EYE. SKIN:
+    REDNESS OF THE SKIN AND IN SEVERE CASES BLISTERS.  INGESTION: BURNS
+    OF TISSUES OF MOUTH, THROAT AND STOMACH.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES-IMMEDIATELY FLUSH EYES WITH PLENTY OF WATER & CONTINUE
+    WASHING FOR 15 MINS. DO NOT REMOVE CONTACT LENSES, IF WORN. OBTAIN
+    MEDICAL ATTENTION WITHOUT DELAY, PREFERABLY FROM AN OPTHAMOLOGIST.
+    SKIN-F OR BURNS, TREAT ACCORDING TO SEVERITY. FOR IRRITATION, WASH
+    THOROUGHLY, SEEK MEDICAL ADVICE FOR PROPER SKIN CREAM. INGESTION-IF
+    SWALLOWED, DO NOT INDUCE VOMITING. CALL A PHYSICIAN OR POISON
+    CONTROL CE NTER IMMEDIATELY. NEVER GIVE ANYTHING BY MOUTH TO AN
+    UNCONSCIOUS PERSON. PERFORM MOUTH-TO-MOUTH RESUSITATION IF VICTIM
+    IS NOT BREATHING.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON-FLAMMABLE
+Fire Fighting Procedures:NO SPECIAL PRECAUTIONS NEEDED. MATERIAL IS
+    NON-FLAMMABLE (>80%WATER). VAPORS FORM OVERHEATED FLUX MAY EMIT
+    AMMONIA SMELL.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SMALL SPILL: FOR SPILLS UNDER 1 PINT, DILUTE
+    WITH WATER AND ABSORB LIQUID USING NORMAL SPILL CLEANING EQUIPMENT.
+    LARGE SPILL: FOR LARGE SPILLS, NEUTRALIZE WITH SODIUM BICARBONATE
+    AND DILUTE WITH WATER .
+Neutralizing Agent:SODIUM BICARBONATE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINERS CLOSED WHEN NOT IN
+    USE. STORAGE: GENERAL STORAGE CONDITIONS. SHELF LIFE: UNOPENED
+    CONTAINERS HAVE A ONE YEAR SHELF-LIFE. OPENED CONTAINERS HAVE A ONE
+    YEAR SHELF LIFE.
+Other Precautions:EMERGENCY OVERVIEW: IMMEDIATE CONCERNS: CAUSES SKIN
+    BURNS, IRRITATION AND POSSIBLE ALLERGIC REACTION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE EXPECTED TO BE NEEDED.
+Protective Gloves:CHEMICAL RESISTANT GLOVES RESISTANT TO CORROSIVE
+    CHEMICALS.
+Eye Protection:WEAR SAFETY GLASSES WITH SIDE SHIELDS (GOGGLES).
+Other Protective Equipment:WEAR SUITABLE PROTECTIVE CLOTHING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C1
+Boiling Pt:=102.C, 215.6F
+Spec Gravity:1.14
+pH:4.0 TO 6.0
+Solubility in Water:COMPLETELY	MISCIBLE
+Appearance and Odor:ODORLESS, ODORLESS LIQUID
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:AVOID STRONG BASES. COULD GENERATE HEAT.
+Hazardous Decomposition Products:ZINC CHLORIDE FUME, HYDROGEN CHLORIDE,
+    AMMONIA.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:ACUTE: INGESTION: ORAL RAT LD50 FOR ZINC
+    CHLORIDE IS 350 MG/KG, AND FOR AMMONIUM CHLORIDE IS 1650 MG/KG.
+    CARCINOGENICITY: IARC: NOT ESTABLISHED. NTP: NOT ESTABLISHED. OSHA:
+    NOT ESTABLISHED.
+
+=====================  Ecological Information  =====================
+
+Ecological:GENERAL COMMENTS: NO STUDIES HAVE BEEN DONE FOR THIS FORMULA
+    BUT IT IS KNOWN THAT COMPONENTS OF THIS FORMULA ARE HARMFUL TO
+    AQUATIC SYSTEM. AVOID CONTAMINATION OFLOCAL  GROUND WATER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF ANY UNUSED PORTION OF THE PRODUCT IN
+    A CHEMICAL LANDFILL IN COMPLIANCE WITH LOCAL, STATE AND FEDERAL
+    REGULATIONS. FOR LARGE SPILLS: NEUTRALIZE SPILLS AND DISPOSE OF
+    MATERIAL USING AN APPROV ED WASTE HANDLER. EMPTY CONTAINER: EMPTY
+    CONTAINER MAY BE DISPOSED OF IN A NORMAL MANNER.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:DOT (DEPARTMENT OF TRANSPORTATION). PROPER
+    SHIPPING NAME: CORROSIVE LIQUIDS, N.O.S.. TEHCNICAL NAME: ZINC
+    CHLORIDE SOLUTION. HOT HAZARD: NO. COMBUSTIBLE HOT DRUM: NO.
+    COMBUSTIBLE CLASS: NO. HAZARD CLA SS: 8. NA/UN NUMBER: 1840.
+    PACKING GROUP: III. LABEL: CORROSIVE. INTERNATIONAL (I.M.O.) PROPER
+    SHIPPING NAME: CORROSIVE LIQUID, N.O.S. LABEL: CORROSIVE. AIR
+    (I.C.A.0.) PROPER SHIPPING NAME: CORROSIVE	LIQUIDS, N.O.S. LABEL:
+    CORROSIVE.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:SARA TITLE III: FIRE: NO. PRESSURE
+    GENERATING: NO. REACTIVITY: NO. ACUTE: YES. CHRONIC: YES.
+Federal Regulatory Information:CERCLA RQ: 1000 POUNDS FOR ZINC
+    CHLORIDE.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

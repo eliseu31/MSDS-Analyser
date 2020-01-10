@@ -1,0 +1,209 @@
+=====================  Product Identification  =====================
+
+Product ID:DOW CORNING 200(R) FLUID, 1.5CST
+MSDS Date:09/22/1993
+FSC:9150
+NIIN:01-193-2060
+MSDS Number: BWRMC
+=== Responsible Party ===
+Company Name:DOW CORNING (CORP HQ)
+Address:SOUTH SAGINAW ROAD
+City:MIDLAND
+State:MI
+ZIP:48686
+Country:US
+Info Phone Num:800-248-2481   PROD INFORMATION
+Emergency Phone Num:517-496-5900
+Preparer's Name:NOT PROVIDED
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:71984
+=== Contractor Identification ===
+Company Name:DOW CORNING CORP
+Address:2200 W SALZBURG RD
+Box:City:AUBURN
+State:MI
+ZIP:48611
+Country:US
+Phone:517-496-4388
+CAGE:71984
+Company Name:SDB CONSULTANTS LTD
+Address:401 WHITNEY AVE SUITE 120
+Box:City:GRETNA
+State:LA
+ZIP:70056
+Country:US
+Phone:504-366-9105
+Contract Num:SP0450-00-M-C197
+CAGE:0PGK2
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:OCTAMETHYLTRISILOXANE
+CAS:107-51-7
+= Wt:1.
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:DECAMETHYLCYCLOPENTASILOXANE
+CAS:541-02-6
+= Wt:1.
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:OCTAMETHYLCYCLOTETRASILOXANE
+CAS:556-67-2
+= Wt:2.
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:DECAMETHYLTETRASILOXANE
+CAS:141-62-8
+= Wt:95.
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:DODECAMETHYLPENTASILOXANE
+CAS:141-63-9
+RTECS #:9999999ZZ
+= Wt:1.
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NOT AVAILABLE
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EFFECTS OF OVEREXPOSURE: ACUTE
+    EFFECTS: EYE: DIRECT EYE CONTACT MAY CAUSE TEMPORARY DISCOMFORT
+    WITH MILD REDNESS AND DRYNESS SIMILAR TO WINDBURN. SKIN: A SINGLE
+    PROLONGED EXPOSURE (24 TO 48 HOURS) CAU SES NO KNOWN ADVERSE
+    EFFECT. INHALATION: NO IRRITATION TO EYES AND RESPIRATORY PASSAGES.
+    NO INJURY IS LIKELY FROM RELATIVELY SHORT EXPOSURES OF LESS THAN 8
+    HOURS. ORAL: SMALL AMOUNTS TRANSFERRED TO TH E MOUTH BY FINGERS
+    DURING USE, ETC., SHOULD NOT INJURE. SWALLOWING LARGE AMOUNTS MAY
+    CAUSE DIGESTIVE DISCOMFORT. REPEATED EXPOSURE EFFECTS: SKIN: NONE
+    KNOWN. INHALATION: NONE KNOWN. ORAL: NONE KNOWN.
+Explanation of Carcinogenicity:PER MSDS:CARCINOGENS:NONE KNOWN.
+Effects of Overexposure:NOT PROVIDED
+Medical Cond Aggravated by Exposure:NOT PROVIDED
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: IMMEDIATELY FLUSH WITH WATER. SKIN: NO FIRST AID SHOULD
+    BE NEEDED. INHALATION: NO FIRST AID SHOULD BE NEEDED. ORAL: NO
+    FIRST AID SHOULD BE NEEDED. COMMENTS: TREAT SYMPTOMATICALLY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:=57.2C, 135.F
+Autoignition Temp:Autoignition Temp Text:N/D
+Lower Limits:N/D
+Upper Limits:N/D
+Extinguishing Media:CARBON DIOXIDE (CO2), WATER, WATER FOG (OR SPRAY),
+    DRY CHEMICAL, FOAM.
+Fire Fighting Procedures:SELF-CONTAINED BREATHING APPARATUS AND
+    PROTECTIVE CLOTHING SHOULD BE WORN IN FIGHTING FIRES INVOLVING
+    CHEMICALS. HEAT EXPOSURE PRESSURIZES CLOSED CONTAINERS. COOL WITH
+    WATER SPRAY. IF LARGE AMOUNT IS  INVOLVED, EVACUATE AREA.
+Unusual Fire/Explosion Hazard:VAPORS ARE HEAVIER THAN AIR AND CAN
+    TRAVEL ALONG GROUND TO REMOTE IGNITION SOURCES. STATIC ELECTRICITY
+    MAY ACCUMULATE AND IGNITE VAPORS. PREVENT A POSSIBLE FIRE HAZARD BY
+    SUITABLE MEANS, SUCH AS, BOND ING AND GROUNDING, INERT GAS PURGE,
+    VAPOR DILUTION, AND THE LIKE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:MOP UP/ WIPE UP/SOAK UP WITH ABSORBENT AND
+    CONTAIN FOR SALVAGE/DISPOSAL. FOR LARGER SPILLS, PROVIDE DIKING.
+    CLEAN ANY REMAINING SLIPPERY SURFACES BY APPROPRIATE TECHNIQUES,
+    SUCH AS SEVERAL MOPPINGS OR  SWABBINGS WITH APPROPRAIATE SOLVENTS;
+    WASHING WITH MILD CAUSTIC DETERGENTS OR SOLUTIONS OR HIGH PRESSURE
+    STEAM FOR LARGE AREAS. OBSERVE ANY APPLICABLE SAFETY PRECAUTIONS.
+    REMOVE ANY IGNITION SOURCES.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER CLOSED AND AWAY FROM
+    HEAT, SPARKS, AND OPEN FLAMES.
+Other Precautions:NOT PROVIDED
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NO RESPIRATORY PROTECTION SHOULD BE NEEDED. NO
+    SUITABLE RESPIRATOR SHOULD BE NEEDED.
+Ventilation:GENERAL VENTILATION RECOMMENDED.
+Protective Gloves:NO SPECIAL PROTECTION NEEDED.
+Eye Protection:USE PROPER PROTECTION - SAFETY GLASSES AS A MINIMUM.
+Other Protective Equipment:NOT PROVIDED
+Work Hygienic Practices:WASHING AT MEALTIME AND END OF SHIFT IS
+    ADEQUATE.
+Supplemental Safety and Health
+SDB CONSULTANTS PART NUMBER: VVD 1078.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+NRC/State Lic Num:NOT RELEVANT
+Boiling Pt:B.P. Text:NOT DETERMINED
+Decomp Temp:Decomp Text:NOT PROVIDED
+Vapor Pres:NOT DETERMINED
+Vapor Density:N/D
+Spec Gravity:0.85 @25C
+Viscosity:1.50 CST
+Evaporation Rate & Reference:NOT PROVIDED
+Solubility in Water:NONE
+Appearance and Odor:LIQUID, COLORLESS, ODORLESS.
+Corrosion Rate:NOT PROVIDED
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING MATERIALS CAN CAUSE A REACTION.
+Stability Condition to Avoid:NOT PROVIDED
+Hazardous Decomposition Products:SILICON DIOXIDE. CARBON OXIDES AND
+    TRACES OF INCOMPLETELY BURNED CARBON COMPOUNDS. FORMALDEHYDE.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:COMPLETE INFORMATION NOT YET AVAILABLE.
+
+=====================  Ecological Information  =====================
+
+Ecological:COMPLETE INFORMATION NOT YET AVAILABLE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:COMPLETE INFORMATION NOT YET AVAILABLE. CALL DOW
+    CORNING ENVIRONMENTAL MGMT 517-496-6315 IF MORE INFORMATION IS
+    DESIRED. DISPOSAL OF COLLECTED PRODUCT, RESIDUES, AND CLEANUP
+    MATERIALS MAY BE GOVRNMENT ALLY REGULATED. OBSERVE ALL APPLICABLE
+    LOCAL, STATE, AND FEDERAL WASTE MANAGEMENT REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:PROPER SHIPPING NAME: COMBUSTIBLE LIQUID, N.O.S.
+    HAZARD TECHNICAL NAME: POLYDIMETHYLSILOXANE. HAZARD CLASS:
+    COMBUSTIBLE LIQUID. UN/NA NUMBER: NA1993. PACKING GROUP: III. CALL
+    DOW CORNING TRANSPORTATIO N, (517) 496-8577, IF ADDITIONAL
+    INFORMATION IS REQUIRED.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:SECTION 312 HAZARD CLASS: FIRE. SECTION 313
+    TOXIC CHEMICALS: NONE PRESENT OR NONE PRESENT IN REGULATED
+    QUANTITIES.
+Federal Regulatory Information:TSCA STATUS: ALL CHEMICAL SUBSTANCES
+    FOUND IN THIS PRODUCT COMPLY WITH THE TOXIC SUBSTANCE CONTROL ACT
+    INVENTORY REPORTING REQUIREMENTS.
+State Regulatory Information:NO INGREDIENT REGULATED BY MA
+    RIGHT-TO-KNOW LAW PRESENT. NEW JERSEY: 541-02-6  1% 
+    DECAMETHYLCYCLOPENTASILOXANE. 141-63-9  1% 
+    DODECAMETHYLPENTASILOXANE.	107-51-7  1% OCTAMETHYLTRISILOXANE. 
+    556-67-2   2%  OCTAMETHYLCYCLOTETRASILOXANE.  141-62-8  95% 
+    DECAMETHYLTETRASILOXANE
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

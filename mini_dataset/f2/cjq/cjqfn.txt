@@ -1,0 +1,156 @@
+=====================  Product Identification  =====================
+
+Product ID:CALIBRATING FLUID (MINERAL SPIRITS) MIL-C-7024 TYPE II
+MSDS Date:06/03/1997
+FSC:6850
+NIIN:01-011-5669
+Status Code:A
+MSDS Number: CJQFN
+=== Responsible Party ===
+Company Name:HOME OIL CO
+Address:3511 N OHIO
+Box:2609
+City:WICHITA
+State:KS
+ZIP:67201
+Country:US
+Info Phone Num:316-838-4663
+Emergency Phone Num:800-633-8253/316-838-4667
+CAGE:0A9L8
+=== Contractor Identification ===
+Company Name:HOC INDUSTRIES, INC
+Address:3511 N. OHIO
+Box:2609
+City:WICHITA
+State:KS
+ZIP:67219
+Country:US
+Phone:316-838-4663
+Contract Num:SP0450-99-MNA11
+CAGE:0A9L8
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HYDROTREATED HEAVY NAPHTHA (PETROLEUM), MIXTURE OF C8 - C12
+    ALIPHATIC
+CAS:64742-48-9
+= Wt:100.
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: EYES AND SKIN- MAY CAUSE
+    IRRITATION. INHALATION: OVEREXPOSURE TO MIST OR VAPORS MAY CAUSE
+    DIZZINESS, DROWSINESS, MASSIVE EXPOSURE MAY CAUSE UNCONSCIOUNESS.
+    INGESTION:MAY IRRITATE STOMACH AND IN TESTINES. MAY BE ASPIRATED
+    INTO LUNGS IF SWALLOWED RESULTING IN PULMONARY EDEMA AND CHEMICAL
+    PNEUMONITIS. CHRONIC: REPEATED SKIN CONTACT MAY CAUSE DERMATITIS.
+Explanation of Carcinogenicity:THIS PRODUCT IS NOT CURRENTLY LISTED AS
+    A CARCINOGEN BY NTP, OSHA OR IARC.
+Effects of Overexposure:RESPIRATORY SYSTEM: OVEREXPOSURE TO MIST OR
+    VAPORS MAY CAUSE DIZZINESS, DROWSINESS, HEADACHE, NAUSEA. MASSIVE
+    OVEREXPOSURE MAY CAUSE UNCONSCIOUSNESS.EYES- REDNESS, IRRITATION.
+    SKIN- DRYNESS, IRRITATIO N.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES-FLUSH THOROUGHLY WITH WATER FOR AT LEAST 15 MIN,
+    OCCASIONALLY LIFTING THE LOWER AND UPPER LIDS. GET MEDICAL
+    ATTENTION PROMPPTLY. SKIN-WASH EXPOSED AREA WITH SOAP AND WATER. IF
+    IRRITATION DEVELOPS , SEEK MEDICAL ATTENTION. INGESTION-DO NOT
+    INDUCE VOMITING. CALL A DOCTOR IMMEDIATELY. INHALATION-REMOVE
+    EXPOSED PERSON TO FRESH AIR. IF NOT BREATHING, GIVE MOUTH-TO-MOUTH
+    ARTIFICIAL RESPIRATION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:=40.C, 104.F
+Autoignition Temp:=282.2C, 540.F
+Lower Limits:0.7
+Upper Limits:6
+Extinguishing Media:USE DRY CHEMICAL, FOAM OR CARBON DIOXIDE.
+Fire Fighting Procedures:EVACUATE AREA OF ALL UNNECESSARY PERSONNEL.
+    SHUT OFF SOURCE, IF POSSIBLE. WATER FOG OR SPRAY SHOULD BE USED TO
+    KEEP FIRE-EXPOSED CONTAINERS & EQUIPMENT COOL.
+Unusual Fire/Explosion Hazard:DO NOT SPRAY WATER DIRECTLY ON FIRE.
+    PRODUCT WILL FLOAT AND COULD BE REIGNITED ON SURFACE OF WATER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE EQUIPMENT. ELIMINATE SOURCES
+    OF IGNITION. VENTILATE AREA. CONTAIN AND PICK UP SPILL WITH
+    NON-FLAMMABLE ABSORBENT SUCH AS SAND, EARTH, VERMICULITE. GROUND
+    ALL HANDLING EQUIPMENTS.PREVEN T LIQUID FROM ENTERING SEWERS OR
+    WATERWAYS.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL, DRY, WELL VENTILATED
+    PLACE AWAY FROM SOURCES OF IGNITION AND INCOMPATIBLE MATERIALS. USE
+    SPARK PROOF TOOLS. GROUND AND INTERCONNECT CONTAINERS FOR TRANSFER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF VAPOR, MIST OR DUST IS GENERATED IN EXCESS OF
+    PERMISSIBLE CONCENTRATIONS USE RESPIRATOR APPROVED BY NIOSH.
+Ventilation:LOCAL EXHAUST VENTILATION RECOMMENDED. RECOMMENDED EXPOSURE
+    LIMIT IS 100 PPM TWA ACGIH AND OSHA.
+Protective Gloves:GLOVES RESISTANT TO PETROLEUM DISTILLATE
+Eye Protection:CHEMICAL TYPE GOGGLES MUST BE WORN.
+Other Protective Equipment:PROTECTIVE CLOTHING SUCH AS UNIFORMS,
+    COVERALLS OR LAB COATS SHOULD BE WORN.
+Work Hygienic Practices:LAUNDER OR DRY CLEAN SOILED CLOTHES.
+Supplemental Safety and Health
+USE IN WELL VENTILATED AREA, AVOID OVEREXPOSURE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:310F - 360F
+Vapor Pres:2.7 @ 60F
+Vapor Density:5
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:COLORLESS LIQUID, PETROLEUM NAPHTHA ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS
+Hazardous Decomposition Products:OXIDES OF CARBON.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE OR DISPOSE OF IN ACCORDANCE W/LOCAL,
+    STATE & FEDERAL REGULATIONS. WASTE ID #D001.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:REGULATED AS: FLAMMABLE LIQUID,
+    N.O.S,3,UN1993,III.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:SEC 302/304 EXTREMELY HAZARDOUS SUBSTANCE:
+    NONE. SEC 311 HAZ CATEGORIZATION: ACUTE, CHRONIC AND FIRE. UNDER
+    SEC 313 OF TITLE III THE FOLLOWING CHEMICALS ARE SUJECT TO
+    REPORTING REQUIREMENTS: XYLENE AN D 1,2,4 TRIMETHYLBENZENE.
+Federal Regulatory Information:THIS PRODUCT IS LISTED ON THE EPA/TSCA
+    INVENTORY OF CHEMICAL SUBSTANCES.
+
+=======================  Other Information  =======================
+
+ ======================================================================
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

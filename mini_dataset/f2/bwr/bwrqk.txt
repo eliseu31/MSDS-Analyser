@@ -1,0 +1,163 @@
+=====================  Product Identification  =====================
+
+Product ID:CARB AND BRAKE CLEANER, 32152
+MSDS Date:11/17/1993
+FSC:7930
+NIIN:00N057356
+MSDS Number: BWRQK
+=== Responsible Party ===
+Company Name:CMC INDUSTRIES INC
+Box:1479
+City:VISTA
+State:CA
+ZIP:92085
+Country:US
+Info Phone Num:714-938-1149;619-599-3080
+Emergency Phone Num:714-938-1149;619-599-3080
+CAGE:CMCXN
+=== Contractor Identification ===
+Company Name:CMC INDUSTRIES INC
+Box:City:VISTA
+State:CA
+ZIP:92085
+Country:US
+Phone:714-938-1149;619-599-3080
+CAGE:CMCXN
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TOLUENE (SARA 313) (CERCLA)
+CAS:108-88-3
+RTECS #:XS5250000
+OSHA PEL:200 PPM
+ACGIH TLV:50 PPM, S
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:HEXANE; (N-HEXANE) (CERCLA)
+CAS:110-54-3
+RTECS #:MN9275000
+OSHA PEL:500 PPM
+ACGIH TLV:50 PPM
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:METHANOL; (METHYL ALCOHOL) (SARA 313) (CERCLA)
+CAS:67-56-1
+RTECS #:PC1400000
+OSHA PEL:200 PPM, S
+ACGIH TLV:200 PPM;250PPMSTEL,S
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYE: EYE IRRITANT. SKIN: CAN POSSIBLY
+    CAUSE CONTACT DERMATITIS. INHALATION: OVEREXPOSURE TO VAPORS CAUSE
+    RESPIRATORY IRRITATION, MUSCULAR WEAKNESS, HEADACHE, AND NAUSEA.
+    LIVER DAMAGE AND/OR KIDNEY DAM AGE, PLUS PERIPHERAL NERVOUS SYSTEM
+    DAMAGE. TOLUENE APPEARS ON NAVY LISTING OF OCCUPATIONAL CHEMICAL
+    (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HEALTH HAZARDS: REPRODUCTIVE HAZARDS. SEEK
+    CONSULTATION FROM APPROPRIATE HEALTH PROFESSIONALS CONCERNING
+    LATEST HAZARD LIST INFORMATION AND SAFE HANDLING AND EXPOSURE
+    INFORMATION .
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: WASH IMMEDIATELY WITH PLENTY OF WATER FOR AT LEAST 15
+    MINUTES. CALL PHYSICIAN. SKIN: WASH IMMEDIATELY WITH SOAP AND
+    WATER. INHALATION: REMOVE FROM EXPOSURE. PROVIDE FRESH AIR AND
+    REST. USE ARTIFI CIAL RESPIRATION IF NEEDED. INGESTION: CALL
+    PHYSICIAN IMMEDIATELY. DO NOT INDUCE VOMITING.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:-7F,-22C
+Lower Limits:1.1%
+Upper Limits:7.5%
+Extinguishing Media:CARBON DIOXIDE, DRY CHEMICAL, MECHANICAL FOAM,
+    WATER FOG.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT . STRAIGHT STREAM MAY SPREAD FIRE. WATER SPRAY
+    MAY BE USED FOR COOLING.
+Unusual Fire/Explosion Hazard:VAPORS MAY FLASH OR EXPLODE IF IGNITED.
+    VAPORS MAY SPREAD LONG DISTANCES. KEEP SOURCES OF IGNITION AWAY
+    FROM DRUMS EVEN WHEN EMPTY.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL POSSIBLE IGNITION SOURCES. AVOID
+    BREATHING VAPORS. PROVIDE ADEQUATE VENTILATION. IN CASE OF SPILLAGE
+    ABSORB AND DISPOSE OF IN ACCORDANCE WITH FEDERAL, STATE AND LOC
+    REGS. CALL EMER NUMBER I F SPILLAGE POSES THREAT TO MAN OR
+    ENVIRONMENT.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CLOSURES TIGHT & UPRIGHT TO PVNT
+    LEAKAGE. KEEP CLSD WHEN NOT IN USE. DO NOT TRANSFER TO UNMARKED
+    CONTAINER. READ ALL WARNING LABELS.
+Other Precautions:STORE IN COOL, WELL VENT AREA. GROUND CNTNRS WHEN
+    FILLING/EMPTYING. ALL CNTNRS OF SOLV MUST BE PACKED & LBLD I/A/W
+    ALL LOC, ST & FED GOVERNMENT REGS. EMPTY DRUMS & OTHER CNTNRS MAY
+    CONTAIN EXPLO VAPS. KEEP ALL IGNIT SOURCES AWAY FROM(SUPDAT)
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF TLV IS EXCEEDED, USE NIOSH/MSHA APPROVED SELF
+    CONTAINED BREATHING APPARATUS.
+Ventilation:STORE & USE IN OPEN UNCONFINED/PROVIDE LOC EXHST. PROVIDE
+    SUFF VENT TO KEEP TLV BELOW MAX. USE EXPLO PROOF VENT (SUPDAT)
+Protective Gloves:CHEMICAL RESISTANT GLOVES.
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGG .
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+OTHER PREC: DRUMS AND OTHER CONTAINERS EVEN IF THEY ARE EMPTY. USED
+    DRUMS AND OTHER CONTAINERS ARE NOT SUITED FOR USE AS TRASH
+    CONTAINERS, RAFTS, BARBEQUE PITS OR ANY SIMILAR USE. VENTILATION:
+    EQUIP.  AVOID POTENTIAL IGNITION SOURCES. AVOIDBRTHG VAPS. VAPS MAY
+    BURN/EXPLO IF IGNITED. MECH VENT: USE EXPLO PROOF EQUIP.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:156F,69C
+Melt/Freeze Pt:M.P/F.P Text:-139F,-95C
+Vapor Pres:124
+Vapor Density:3.0
+Spec Gravity:.668
+Evaporation Rate & Reference:9.1
+Solubility in Water:0.014
+Appearance and Odor:CLEAR LIQUID, MILD ODOR SWEET.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:HEAT, SPARKS, FLAME AND OTHER SOURCES OF
+    IGNITION.
+Hazardous Decomposition Products:CARBON MONOXIDE IF BURNED WITH
+    INSUFFICIENT AIR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN ACCORDANCE WITH LOCAL, STATE AND
+    FEDERAL REGULATIONS. USE QUALIFIED DISPOSAL COMPANY TO INCINERATE,
+    OR OTHERWISE DISCARD AT AN APPROVED FACILITY. DO NOT INCINERATE
+    CLOSED CONTAINER.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

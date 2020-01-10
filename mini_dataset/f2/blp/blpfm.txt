@@ -1,0 +1,139 @@
+=====================  Product Identification  =====================
+
+Product ID:SODIUM THIOSULFATE,CRYSTALS
+MSDS Date:01/02/1991
+FSC:6750
+NIIN:00-356-5781
+MSDS Number: BLPFM
+=== Responsible Party ===
+Company Name:GENERAL CHEMICAL CORP
+Address:90 E HALSEY RD
+Box:395
+City:PARSIPPANY
+State:NJ
+ZIP:07054
+Country:US
+Info Phone Num:800-631-8050/201-515-1840
+Emergency Phone Num:800-631-8050/201-515-1840(FAX-3232)
+CAGE:0AU44
+=== Contractor Identification ===
+Company Name:GENERAL CHEMICAL CORPORATION
+Address:90 EAST HALSEY ROAD
+Box:City:PARSIPPANY
+State:NJ
+ZIP:07054
+Country:US
+Phone:973-515-1840
+CAGE:0AU44
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM THIOSULFATE,5-HYDRATE
+CAS:10102-17-7
+RTECS #:WE6660000
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE-INHALATION:BREATHING OF
+    DUST/MIST MAY IRRITATE RESPIRATORY TRACT.INGESTION:RELATIVELY LOW
+    IN ACUTE TOXICITY BUT MAY CAUSE IRRITATION OF THE GI TRACT &
+    PURGING,IF LARGE QUANTITY IS INGESTED.EYE:M AY IRRITATE/BURNS &
+    CAUSE TEMPORARY CONJUNCTIVITIS.SKIN:PROLONGED/REPEATED CONTACT MAY
+    CAUSE IRRITATION.CHRONIC-NONE.
+Effects of Overexposure:BREATHING OF DUST/MIST MAY IRRITATE RESPIRATORY
+    TRACT. INGESTION IS RELATIVELY LOW IN ACUTE TOXICITY BUT MAY CAUSE
+    IRRITATION OF THE GI TRACT & PURGING,IF LARGE QUANTITY IS INGESTED.
+    MAY IRRITATE/BURN S EYES AND CAUSE TEMPORARY CONJUNCTIVITIS.
+    PROLONGED/REPEATED SKIN CONTACT MAY CAUSE IRRITATION.
+Medical Cond Aggravated by Exposure:PRE-EXISTING RESPIRATORY TRACT
+    DISORDERS MAY BE MORE SUSCEPTIBLE TO THIS MATERIAL.
+
+=======================  First Aid Measures  =======================
+
+First Aid:GET MEDICAL HELP IF SYMPTOMS PERSIST.INHALATION:REMOVE TO
+    FRESH AIR.HAVE A QUALIFIED PERSON GIVE OXYGEN IF NEEDED.EYES:FLUSH
+    WITH WATER FOR 15 MINUTES HOLDING EYELIDS OPEN.SKIN:WASH WITH SOAP
+    & WATER. THEN FLUSH WITH WATER UNTIL ALL CHEMICAL IS
+    REMOVED.INGESTION:IF CONSCIOUS,GIVE 2 TO 4 GLASSES OF WATER &
+    INDUCE VOMITING BY TOUCHING FINGER TO BACK OF THROAT.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:MEDIA APPROPRIATE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:WEAR FIRE FIGHTING PROTECTIVE EQUIPMENT AND A
+    FULL FACED SELF CONTAINED BREATHING APPARATUS. EVACUATE AREA. COOL
+    FIRE EXPOSED CONTAINERS WITH WATER SPRAY.
+Unusual Fire/Explosion Hazard:TOXIC AND IRRITATING GASES AND RESIDUE
+    MAY EVOLVE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR NIOSH/MSHA APPROVED DUST RESPIRATOR.
+    SHOVEL OR SWEEP UP AND PLACE IN AN APPROVED DOT CONTAINER AND SEAL.
+    AVOID RAISING DUST. CAUTIOUSLY SPRAY RESIDUE WITH PLENTY OF WATER
+    TO COMPLETE CLEAN-UP.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORAGE-STORE IN A COOL,DRY AREA AWAY
+    FROM ACIDS OR OXIDIZERS.
+Other Precautions:THIS PRODUCT IS NOT FOR FOOD OR DRUG USE. AVOID
+    BREATHING DUST  OR MIST. USE WITH ADEQUATE VENTILATION. AVOID
+    CONTACT WITH EYES, SKIN AND CLOTHING. WASH THOROUGHLY AFTER
+    HANDLING AND BEFORE EATING OR  DRINKING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF DUSTY OR MISTY CONDITION PREVAILS, USE DUST
+    OR MIST RESPIRATOR, APPROVED BY NIOSH. IF SULFUR DIOXIDE SHOULD BE
+    RELEASED, USE A SUPPLIED-AIR RESPIRATOR OR SELF-CONTAINED BRATHING
+    APPARATUS, APPROVED  BY NIOSH.
+Ventilation:A SYSTEM OF LOCAL EXHAUST IS RECOMMENDED TO KEEP EMPLOYEE
+    EXPOSURES BELOW THE TLV.
+Protective Gloves:COTTON
+Eye Protection:CHEMICAL SAFETY GOGGLES WITH HARD HAT
+Other Protective Equipment:EYE WASH STATION AND SAFETY SHOWER.
+    IMPERVIOUS BOOTS, APRON, OR COVERALLS AS REQUIRED. DO NOT WEAR
+    CONTACT LENSES.
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Melt/Freeze Pt:M.P/F.P Text:118F,48C
+Decomp Temp:Decomp Text:>212F,>100C
+Spec Gravity:1.685
+pH:8.6
+Solubility in Water:42% @ 0C
+Appearance and Odor:WHITE GRANULES WITH NO ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+WATER-REACTIVE MATERIALS SUCH AS SODIUM, STRONG OXIDIZERS, ACIDS, 
+    SODIUM NITRITE
+Stability Condition to Avoid:HIGH TEMPERATURE (ABOVE 100C)
+Hazardous Decomposition Products:TOXIC, CORROSIVE & OXIDIZER SULFUR
+    DIOXIDE GAS AND FLAMMABLE, STRONGLY IRRITANT SODIUM SULFIDE RESIDUE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL SHOULD BE MADE IN ACCORDANCE WITH ALL
+    APPLICABLE FEDERAL, STATE AND LOCAL LAWS AND REGULATIONS. FLUSH TO
+    SEWER WITH PLENTY OF WATER, IF PERMITTED BY APPLICABLE DISPOSAL
+    REGULATIONS. OTHERWISE , DISPOSE OF BY AN APPROVED CONTRACTOR.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

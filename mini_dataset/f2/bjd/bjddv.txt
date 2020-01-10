@@ -1,0 +1,122 @@
+=====================  Product Identification  =====================
+
+Product ID:175 DEVELOPER SOLUTION
+MSDS Date:07/12/1982
+FSC:6525
+NIIN:00F012006
+MSDS Number: BJDDV
+=== Responsible Party ===
+Company Name:XEROX MEDICAL SYSTEMS
+Address:125 N. VINEDO STREET
+City:PASADENA
+State:CA
+ZIP:91107
+Info Phone Num:(800) 828-6571
+Emergency Phone Num:(716) 422-2177
+CAGE:FO084
+=== Contractor Identification ===
+Company Name:XEROX CORPORATION
+Address:100 CLINTON AVE SOUTH
+Box:City:ROCHESTER
+State:NY
+ZIP:14644-1877
+Country:US
+Phone:800-828-6571/716-422-2177
+CAGE:26921
+Company Name:XEROX MEDICAL SYSTEM/PASADENA, CA 91107
+CAGE:FO084
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOPARAFFINIC HYDROCARBONS (NAPHTHA PETROLEUM),
+    HYDROTREATED HEAVY, NON AROMATIC HEAVY NAPHTHA) ISOPAR G
+CAS:64742-48-9
+Fraction by Wt: 100%
+Other REC Limits:300 PPM EXXON
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:HUMAN PATCH: (1/100 DILUTION)
+    POTENTIALLY IRRITATING, NON-SENSITIZING. INGESTION: POSES MAXIMUM
+    RISK OF SEVERE RESPIRATORY DISTRESS BY ASPIRATION, CENTRAL NERVOUS
+    SYSTEM DEPRESSION. INHALATION: ABNORM AL HEART RHYTHMS, RESPIRATORY
+    ARREST, CENTRAL NERVOUS SYSTEM TOXICITY.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INGESTION: POSES MAXIMUM RISK OF SEVERE
+    RESPIRATORY DISTRESS BY ASPIRATION, CENTRAL NERVOUS SYSTEM
+    DEPRESSION. INHALATION: ABNORMAL HEART RHYTHMS, RESPIRATORY ARREST,
+    CENTRAL NERVOUS SYSTEM TOXICITY.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH THOROUGHLY W/WATER. INHALATION: REMOVE FROM
+    EXPOSURE. INGESTION: DILUTE STOMACH CONTENT W/SEVERAL GLASSES OF
+    WATER. SKIN: REMOVE CONTAMINATED CLOTHING. WASH THOROUGHLY W/SOAP &
+    WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point: 104F
+Lower Limits:0.8%
+Upper Limits:7.0%
+Extinguishing Media:FOAM, DRY CHEMICAL, CO2, WATER FOG
+Fire Fighting Procedures:USE AIR-SUPPLIED BREATHING EQUIPMENT FOR
+    ENCLOSED AREAS. COOL EXPOSED CONTAINERS W/WATER SPRAY.
+Unusual Fire/Explosion Hazard:DON'T MIX OR STORE W/STRONG OXIDANTS LIKE
+    LIQUID CHLORINE OR CONCENTRATED OXYGEN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE IGNITION SOURCES. RECOVER FREE LIQUID
+    USING AN ABSORBANT MATERIAL (EARTH, SAND, SAWDUST, ETC.)
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER CLOSED. AVOID BREATHING
+    VAPORS OR FUMES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE
+Protective Gloves:NEOPRENE, NITRILE
+Eye Protection:NONE
+Other Protective Equipment:NONE
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:157-176C
+Vapor Pres:<10
+Vapor Density:5.0
+Spec Gravity:0.77
+Evaporation Rate & Reference:(N-BU AC = 1): 0.03
+Solubility in Water:IMMISCIBLE
+Appearance and Odor:BLACK LIQUID; SLIGHT ODOR
+Percent Volatiles by Volume: 92%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDANTS
+Stability Condition to Avoid:HEAT, STRONG LIGHT, SPARKS, OPEN FLAMES
+Hazardous Decomposition Products:FUMES, SMOKE & CO
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:THE WASTE TONER MAY BE CLASSIFIED AS AN
+    IGNITABLE HAZARDOUS WASTE UNDER FEDERAL & STATE REGULATIONS &
+    SHOULD BE DISPOSED AT AN APPROVED DISPOSAL SITE OR FACILITY IN
+    ACCORDANCE W/FEDERAL, STATE & LOCAL  REGULATIONS.
+    COMBUSTIBLE/FLAMMABLE U.N. 1993.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

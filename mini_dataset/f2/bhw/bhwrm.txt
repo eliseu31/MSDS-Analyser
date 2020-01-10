@@ -1,0 +1,140 @@
+=====================  Product Identification  =====================
+
+Product ID:ID 0320T136, H.S. HARDENER MIL-C-85285
+MSDS Date:02/28/1990
+FSC:8010
+NIIN:01-293-0780
+Kit Part:Y
+MSDS Number: BHWRM
+=== Responsible Party ===
+Company Name:DEXTER COATINGS
+Address:31500 HAYMAN
+City:HAYWORD
+State:CA
+ZIP:94544
+Country:US
+Info Phone Num:415-471-7171, DAY
+Emergency Phone Num:415-791-1961, NIGHT
+Preparer's Name:CAP
+CAGE:0HKK2
+=== Contractor Identification ===
+Company Name:DEXTER CORP THE DEXTER CROWN METRO AEROSPACE DIV
+Address:31500 HAYMAN ST
+Box:City:HAYWARD
+State:CA
+ZIP:94544-7120
+Country:US
+Phone:510-471-7171
+CAGE:98795
+Company Name:DEXTER SPECIALTY COATINGS
+Address:31500 HAYMAN ST
+Box:City:HAYWARD
+State:CA
+ZIP:94544
+Country:US
+Phone:415-791-1961
+CAGE:0HKK2
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: 10-20%
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:VOC: 1.352 POUNDS PER GALLON LESS WATER.
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: OVER EXPOSURE BY INHALATION MAY
+    CAUSE IRRITATION OF THE RESPIRATORY TRACT, HEADACHES, DIZZINESS OR
+    DROWSINESS. SKIN OR EYE CONTACT: IRRITANT TO THE EYES, SKIN AND
+    SKIN SENSITIVITY. MAY ALSO AFF ECT THE RESPIRATORY TRACT, CENTRAL
+    NERVOUS SYSTEM, ALLERGIC RESPIRATORY AND SKIN REACTION.
+Effects of Overexposure:ACUTE: OVER EXPOSURE BY INHALATION MAY CAUSE
+    IRRITATION OF THE RESPIRATORY TRACT, HEADACHES, DIZZINESS OR
+    DROWSINESS. SKIN OR EYE CONTACT: IRRITANT TO THE EYES, SKIN AND
+    SKIN SENSITIVITY. MAY ALSO AFF ECT THE RESPIRATORY TRACT, CENTRAL
+    NERVOUS SYSTEM, ALLERGIC RESPIRATORY AND SKIN REACTION.
+Medical Cond Aggravated by Exposure:RESPIRATORY PROBLEMS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE FROM EXPOSURE. EYE CONTACT: FLUSH
+    IMMEDIATELY WITH LARGE AMOUNTS OF RUNNING WATER FOR AT LEAST 15
+    MINUTES. SKIN CONTACT: REMOVE CONTAMINATED CLOTHING AND WASH SKIN
+    WITH SOAP AND WAT ER. INGESTION: DRINK WATER. IF NECESSARY, CONSULT
+    A PHYSICIAN FOR ANY OF THESE CONDITIONS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:26 F/-3 C
+Lower Limits:1.80
+Extinguishing Media:USE WATER FOG, FOAM, DRY CHEMICAL OR CARBON
+    DIOXIDE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. AVOID
+    BREATHING VAPORS. VENTILATE AREA AND REMOVE WITH INERT ABSORBANT
+    AND NON-SPARKING TOOLS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:CONTAINERS SHOULD BE GROUNDED WHEN
+    POURING. AVOID FREE FALL OF LIQUID IN EXCESS OF A FEW INCHES.
+Other Precautions:MAKE SURE DRUM IS COMPLETELY EMPTY BEFORE ATTEMPTING
+    TO WELD OR BRAZE. DRUM SHOULD BE INDUSTRIALLY CLEANED PRIOR TO
+    REUSE. DO NOT FLAME CUT, BRAZE OR WELD WITHOUT A NIOSH APPROVED
+    RESPIRATOR OR APPROP RIATE VENTILATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:DO NOT BREATHE VAPOR OR MIST. USE NIOSH/MSHA
+    TC19C AIR LINE RESPIRATOR OR TC23C VAPOR/PARTICULATE RESPIRATOR IF
+    ISOCYANATES ARE 10 X LESS THAN TLV.
+Ventilation:GENERAL DILUTION OR LOCAL EXHAUST VENTILATION TO KEEP
+    TWA/LEL BELOW ACCEPTABLE LIMITS & TO REMOVE DECOMPOSITION PRODUCTS
+Protective Gloves:CHEM RESISTANT IF REPEAT/PROLONG CONTACT
+Eye Protection:SAFETY EYEWARE TO PROTECT AGAINST SPLASH
+Work Hygienic Practices:KEEP CONTAINERS CLOSED WHEN NOT IN USE.
+Supplemental Safety and Health
+DO NOT TAKE INTERNALLY.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>172F,>78C
+Vapor Density:> THAN AIR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:NO
+WATER
+Stability Condition to Avoid:WILL REACT W/WATER OR WATER CONTAINING
+    PRODUCT, GIVE OFF HEAT/FUMES. DON'T ALLOW WATER TO ENTER SEALED
+    DRUM, MAY EXPLODE
+Hazardous Decomposition Products:FUMES MAY CONTAIN CARBON MONOXIDE &
+    OXIDES OF NITROGEN. MAY PRODUCE HAZARDOUS FUMES WHEN HEATED TO
+    DECOMP AS IN WELDING.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE AND
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

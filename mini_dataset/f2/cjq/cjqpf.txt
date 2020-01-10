@@ -1,0 +1,162 @@
+=====================  Product Identification  =====================
+
+Product ID:DL-MALIC ACID, 99%, M1210
+MSDS Date:04/01/1999
+FSC:6810
+NIIN:00N092200
+Status Code:A
+MSDS Number: CJQPF
+=== Responsible Party ===
+Company Name:ALDRICH CHEMICAL CO INC
+Address:1001 WEST ST PAUL
+City:MILWAUKEE
+State:WI
+ZIP:53233
+Country:US
+Info Phone Num:414-273-3850
+Emergency Phone Num:414-273-3850
+CAGE:60928
+=== Contractor Identification ===
+Company Name:ALDRICH CHEMICAL CO INC
+Address:1001 WEST ST PAUL AVE
+Box:355
+City:MILWAUKEE
+State:WI
+ZIP:53233
+Country:US
+Phone:414-273-3850
+CAGE:60928
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MALIC ACID; (DL-MALIC ACID) (MANUFACTURER CAS # 617-48-1)
+CAS:6915-15-7
+RTECS #:ON7175000
+= Wt:99.
+Other REC Limits:N/K 
+OSHA PEL:N/K 
+OSHA STEL:N/K 
+ACGIH TLV:N/K 
+ACGIH STEL:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE TOXICOLOGICAL INFORMATION.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: HARMFUL IF INHALED OR
+    SWALLOWED. CAUSE SEVERE IRRITATION. HIGH CONCENTRATIONS ARE
+    EXTREMELY DESTRUCTIVE TO TISSUES OF THE MUCOUS MEMBRANES AND UPPER
+    RESPIRATORY TRACT, EYES AND SKIN. SYMPTOMS O F EXPOSURE MAY INCLUDE
+    BURNING SENSATION, COUGHING, WHEEZING, LARYNGITIS, SHORTNESS OF
+    BREATH, HEADACHE, NAUSEA AND VOMITING.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES/SKIN: IMMEDIATELY FLUSH WITH COPIOUS AMOUNTS OF WATER
+    FOR AT LEAST 15 MINUTES WHILE REMOVING CONTAMINATED CLOTHING AND
+    SHOES. ASSURE ADEQUATE FLUSHING OF THE EYES BY SEPARATING THE
+    EYELIDS WITH F INGERS. INHALATION: REMOVE TO FRESH AIR. IF NOT
+    BREATHING, GIVE ARTIFICIAL RESPIRATION. IF BREATHING IS DIFFICULT,
+    GIVE OXYGEN. INGESTION: WASH OUT MOUTH WITH WATER PROVIDED PERSON
+    IS CONSCIOUS. CALL	A PHYSICIAN. WASH CONTAMINATED CLOTHING BEFORE
+    REUSE.
+
+=====================  Fire Fighting Measures  =====================
+
+Autoignition Temp:=340.C, 644.F
+Extinguishing Media:CARBON DIOXIDE, DRY CHEMICAL POWDER OR APPROPRIATE
+    FOAM. WATER SPRAY.
+Fire Fighting Procedures:WEAR NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:THIS MATERIAL, LIKE MOST MATERIALS IN
+    POWDER FORM, IS CAPABLE OF CREATING A DUST EXPLOSION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR NIOSH APPROVED RESPIRATOR, CHEMICAL
+    SAFETY GOGGLES, RUBBER BOOTS AND HEAVY RUBBER GLOVES. SWEEP UP,
+    PLACE IN A BAG AND HOLD FOR WASTE DISPOSAL. AVOID RAISING DUST.
+    VENTILATE AREA AND WASH SPILL S ITE AFTER MATERIAL PICKUP IS
+    COMPLETE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT BREATHE DUST. DO NOT GET IN
+    EYES, ON SKIN, ON CLOTHING. AVOID PROLONGED OR REPEATED EXPOSURE.
+    SEVERE IRRITANT. HARMFUL SOLID. KEEP TIGHTLY CLOSED. STORE IN A
+    COOL DRY PLACE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED RESPIRATOR.
+Ventilation:USE ONLY IN A CHEMICAL FUME HOOD.
+Protective Gloves:RUBBER GLOVES.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:EYEWASH AND DELUGE SHOWER MEETING ANSI
+    DESIGN CRITERIA .
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:>131.C, 267.8F
+M.P/F.P Text:131C - 133C
+Vapor Pres:<0.1 MM @ 20C
+Vapor Density:4.6
+Appearance and Odor:WHITE CRYSTALS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+BASES, OXIDIZING AGENTS, REDUCING AGENTS, ALKALI METALS.
+Stability Condition to Avoid:AVOID HEAT.
+Hazardous Decomposition Products:TOXIC FUMES OF CARBON MONOXIDE AND
+    CARBON DIOXIDE.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:RTECS #: ON7175000, MALIC ACID. IRRITATION
+    DATA: SKIN-RABBIT: 20 MG/24H MOD, 85JCAE -, 657, 1986. EYE-RABBIT:
+    750 UG/24H SEV, 85JCAE -, 657, 1986. TOXICITY DATA: IPR-RAT LD50:
+    100 MG/KG, 38MKAJ 2C, 49 37, 1982. ORAL-MOUSE LD50: 1600 MG/KG,
+    KODAK #82-0458. IPR-MOUSE LD50: 50 MG/KG, 38MKAJ 2C, 4937, 1982.
+    ONLY SELECTED REGISTRY OF TOXIC EFFECTS OF CHEMICAL SUBSTANCES
+    (RTECS) DATA IS PRESENTED HERE. S EE ACTUAL ENTRY IN RTECS FOR
+    COMPLETE INFORMATION.
+
+=====================  Ecological Information  =====================
+
+Ecological:DATA NOT YET AVAILABLE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISSOLVE OR MIX THE MATERIAL WITH A COMBUSTIBLE
+    SOLVENT AND BURN IN A CHEMICAL INCINERATOR EQUIPPED WITH AN
+    AFTERBURNER AND SCRUBBER. OBSERVE ALL FEDERAL, STATE AND LOCAL
+    ENVIRONMENTAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:CONTACT ALDRICH CHEMICAL COMPANY FOR
+    TRANSPORTATION INFORMATION.
+
+=====================  Regulatory Information  =====================
+
+Federal Regulatory Information:EUROPEAN INFORMATION: HARMFUL; R 20/22:
+    HARMFUL BY INHALATION AND IF SWALLOWED; S 26: IN CASE OF CONTACT
+    WITH EYES, RINSE IMMEDIATELY WITH PLENTY OF WATER AND SEEK MEDICAL
+    ADVICE; S 36: WEAR SUITABLE  PROTECTIVE CLOTHING.
+State Regulatory Information:
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

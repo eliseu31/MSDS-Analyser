@@ -1,0 +1,154 @@
+=====================  Product Identification  =====================
+
+Product ID:TRACER TECH P-135D
+MSDS Date:05/01/1990
+FSC:6850
+NIIN:01-263-2263
+MSDS Number: BJDWG
+=== Responsible Party ===
+Company Name:ARDROX INC
+Address:16961 KNOTT AVE
+City:LA MIRADA
+State:CA
+ZIP:90638-6015
+Country:US
+Info Phone Num:714-739-2821
+Emergency Phone Num:714-739-2821/800-424-9300(CHEMTREC)
+Preparer's Name:SHEREE L. KINZEL
+CAGE:23373
+=== Contractor Identification ===
+Company Name:BRENT AMERICA,  INC.
+Address:16961 KNOTT AVE.
+Box:City:LA MIRADA
+State:CA
+ZIP:90638-6015
+Country:US
+Phone:714-739-2821
+CAGE:23373
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WHITE MINERAL OIL
+CAS:8042-47-5
+RTECS #:PY8047000
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:5 MG/M3 (MIST)
+ACGIH TLV:5 MG/M3 (MIST)
+
+Ingred Name:AROMATIC NAPHTA
+CAS:64741-68-0
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:400 MG/M3
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE-EYES:IRRITATING, SKIN:MODERATE
+    IRRITATION, INHALATION:IRRITATING TO THROAT AND LUNGS,
+    INGESTION:IRRITATING TO THROAT.  CHRONIC-EYES:IRRITATION,
+    SKIN:CONTACT DERMATITIS AND ABSORPTION OF MATERIAL .
+    INHALATION:SYMPTOMS RELATED TO NERVOUS SYSTEM, GASTROINTESTINAL
+    TRACT, AND LUNGS. INGESTION:SYMPTOMS RELATED TO CNS.
+Explanation of Carcinogenicity:NONE OF THE CHEMICALS IN THIS PRODUCT IS
+    LISTED BY IARC, NTP OR OSHA AS A CARCINOGEN.
+Effects of Overexposure:EYES:IRRITATION, SKIN:CONTACT
+    DERMATITIS(REDDENING, DRYNESS, AND CHAPPING),
+    INHALATION:NON-SPECIFIC SYMPTOMS RELATED TO THE NERVOUS
+    SYSTEM,GASTROINTESTINAL TRACT,AND LUNGS, INGESTION:BURNING OF THE
+    TH ROAT AND MAY RESULT IN DROWSINESS,DULLNESS,NUMBNESS,WEAKNESS AND
+    NAUSEA,LOSS OF CONSCIOUSNESS AND CONVULSIONS.
+Medical Cond Aggravated by Exposure:PERSONS WITH A HISTORY OF SKIN AND
+    RESPIRATORY DISORDERS MAY BE AT INCREASED RISK FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: IMMEDIATELY FLUSH WITH PLENTY OF WATER FOR 15 MINUTES.
+    GET MEDICAL ATTENTION. SKIN: WASH WITH SOAP AND WATER. INHALATION:
+    REMOVE TO FRESH AIR. INGESTION: DO NOT INDUCE VOMITING. GET MEDICAL
+    ATTEN TION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:>200F,>93C
+Autoignition Temp:Autoignition Temp Text:428F
+Lower Limits:1.1
+Upper Limits:6.0
+Extinguishing Media:USE CARBON DIOXIDE, FOAM, OR DRY CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:DENSE SMOKE MAY BE GENERATED WHILE
+    BURNING. CARBON MONOXIDE, CARBON DIOXIDE, AND OTHER OXIDES MAY BE
+    GENERATED AS PRODUCTS OF COMBUSTION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE EQUIPMENT, ELIMINATE SOURCES
+    OF IGNITION, AND VENTILATE AREA AS REQUIRED. ABSORB SPILL WITH
+    NON-COMBUSTIBLE ABSORBENT INORGANIC MATERIAL. PLACE WASTE IN DOT
+    APPROVED CONTAINER FOR DISP OSAL.
+Neutralizing Agent:NOT RELEVANT
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL VENTILATED
+    AREA AWAY FROM SOURCES OF IGNITION. KEEP CONTAINER CLOSED WHEN NOT
+    IN USE. PROTECT FROM PHYSICAL DAMAGE.
+Other Precautions:DO NOT CUT, GRIND, WELD OR DRILL ON OR NEAR THIS
+    CONTAINER. DON'T EAT, DRINK, OR SMOKE NEAR CHEMICALS. DON'T STORE
+    IN DIRECT SUNLIGHT, HIGH TEMPERATURES, OR BELOW FREEZING POINT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF VENTILATION DOES NOT MAINTAIN INHALATION
+    EXPOSURES BELOW PEL (TLV), USE NIOSH/MSHA APPROVED RESPIRATOR AS
+    PER CURRENT 29 CFR 1910.134, INSTRUCTIONS/WARNINGS AND
+    NIOSH-RESPIRATOR SELECTION.
+Ventilation:MECHANICAL (GENERAL) VENTILATION IS USUALLY ADEQUATE. LOCAL
+    EXPLOSION-PROOF EXHAUST VENTILATION MAY BE NECESSARY.
+Protective Gloves:IMPERMEABLE GLOVES ARE RECOMMENDED.
+Eye Protection:SAFETY GLASSES/CHEMICAL SPLASH GOGGLES
+Other Protective Equipment:SAFETY SHOWER AND EYE BATH. INDUSTRIAL TYPE
+    WORK CLOTHING AND APRON AS REQUIRED TO AVOID PROLONGED OR REPEATED
+    CONTACT.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING AND BEFORE
+    EATING OR DRINKING. LAUNDER CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+TRAIN EMPLOYEES ON SPECIAL HANDLING PROCEDURES BEFORE WORKING WITH THIS
+    PRODUCT. EXERCISE REASONABLE CAUTION. PERSONNEL SHOULD AVOID
+    BREATHING VAPORS AND/OR MISTS AND GETTING PRODUCT IN EYES & SKIN. O
+    THER MSDS'S BY THIS MFR. APPEAR UNDER THE SAME NSN AND CAN BE USED
+    INTERCHANGEABLY BECAUSE THEY ALL MEET SPECIFICATIONS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:>240F,>116C
+Spec Gravity:0.871
+Evaporation Rate & Reference:<1 (N-BUTYL ACETATE=1)
+Solubility in Water:MODERATE
+Appearance and Odor:FLUORESCENT YELLOW/GREEN MOBILE LIQ. MILD ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HIGH TEMPERATURES AND OPEN FLAMES
+Hazardous Decomposition Products:CARBON DIOXIDE, CARBON MONOXIDE AND
+    OTHER OXIDES. DENSE SMOKE MAY BE GENERATED WHILE BURNING.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH ALL APPLICABLE
+    FEDERAL, STATE AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

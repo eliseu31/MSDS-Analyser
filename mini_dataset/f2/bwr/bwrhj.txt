@@ -1,0 +1,161 @@
+=====================  Product Identification  =====================
+
+Product ID:WHITE/WHITE PRIMER PSI-1 PART A
+MSDS Date:06/24/1994
+FSC:8010
+NIIN:01-367-2378
+Kit Part:Y
+MSDS Number: BWRHJ
+=== Responsible Party ===
+Company Name:SMILAND PAINT CO
+Address:620 LAMAR ST
+City:LOS ANGELES
+State:CA
+ZIP:90031
+Country:US
+Info Phone Num:213-222-7000
+Emergency Phone Num:213-222-7000
+Preparer's Name:RAYMOND RUSSELL
+CAGE:SMILA
+=== Contractor Identification ===
+Company Name:SMILAND PAINT CO
+Address:620 LAMAR ST
+Box:City:LOS ANGELES
+State:CA
+ZIP:90031
+Country:US
+Phone:213-222-7000
+CAGE:SMILA
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHYLENE GLYCOL (SARA 313) (CERCLA)
+CAS:107-21-1
+RTECS #:KW2975000
+Fraction by Wt: 2%
+OSHA PEL:N/K 
+ACGIH TLV:50 PPM,VAPOR, C
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:ALUMINUM OXIDE(2:3); (ALUMINUM OXIDE) (SARA 313)
+CAS:1344-28-1
+RTECS #:BD1200000
+Fraction by Wt: 1%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST
+
+Ingred Name:BARIUM METABORATE. MFR'S INVALID CAS#: 1307-59-2.
+CAS:13701-59-2
+RTECS #:CQ9570000
+Fraction by Wt: 6%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:VOLATILE ORGANIC CONTENT: 0.62 LGS/GAL; 74 GRAMS/LITER.
+RTECS #:9999999VO
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHAL: ADVERSE HLTH EFTS FROM
+    VPAORS/SPRAY MISTS IN POORLY VENT AREAS MAY INCLUDE IRRIT OF MUC
+    MEMBS OF NOSE, THROAT & RESP TRACT & SYMPS OF HEADACHE & NAUSEA.
+    EYE: DIRECT CONTACT MAY CAUSE IRRIT. SKI N: PLNGD/RPTD CONTACT
+    W/PRODUCT MAY CAUSE SKIN IRRIT. SKIN(ABSORP): REDNESS, DRYING OF
+    SKIN/OTHER SIGNS(EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ: OF IRRIT OR CONTACT DERMATITIS.
+    INGEST: CAN CAUSE GI IRRITATION, NAUSEA, VOMITING & DIARRHEA. MAY
+    CAUSE IRRITATION TO SKIN, EYES & INTESTINAL SYSTEM. CHRONIC:
+    PLNGD/RPTD EXPOSURE ABOVE TLV M AY RESULT IN PERMANENT BRAIN &
+    NERVOUS SYSTEM DAMAGE.
+Medical Cond Aggravated by Exposure:NONE KNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/LGE AMOUNTS OF WATER FOR AT LEAST 15 MINUTES.
+    TAKE TO MD. SKIN: WASH AFFECTED AREAS W/SOAP & WATER. REMOVE
+    CONTAMD CLTHG. IF IRRIT PERSISTS, CONSULT MD. INHAL: REMOVE TO
+    FRESH AIR. TREAT  SYMPTOMATICALLY. CONSULT MD. INGEST: DRINK 1 OR 2
+    GLASSES OF WATER TO DILUTE. DO NOT INDUCE VOMITING. CONSULT
+    MD/POISON CONTROL CENTER IMMEDIATELY. TREAT SYMPTOMATICALLY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Lower Limits:3.2%
+Extinguishing Media:FOAM, CO*2, DRY CHEMICAL, WATER FOG.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT. COOL CONTAINERS WITH WATER SPRAY.
+Unusual Fire/Explosion Hazard:CLOSED CONTAINER EXPOSED TO HIGH
+    TEMPERATURE MAY EXPLODE OR BURST DUE TO BUILD UP OF STEAM PRESSURE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DIKE, CONTAIN OR ABSORB WITH INERT MATERIALS.
+    TRANSFER TO CONTAINER FOR RECOVERY OR DISPOSAL. PREVENT RUNOFF INTO
+    SEWERS, STREAMS OR OTHER BODIES OF WATER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT EXPOSE TO EXTREMES IN
+    TEMPERATURE. AVOID EXPOSURE TO HIGH TEMPERATURE. AVOID EXPOSURE TO
+    LEVELS ABOVE TLV. KEEP OUT OR REACH OF CHILDREN.
+Other Precautions:DO NOT TAKE INTERNALLY. AVOID PROLONGED OR REPEATED
+    EXPOSURE TO LEVELS ABOVE TLV.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NORMALLY REQUIRED. IF TLV IS EXCEEDED USE
+    NIOSH/MSHA APPROVED ORGANIC VAPOR & MIST SUPPLIED AIR OR
+    SELF-CONTAINED BREATHING APPARATUS.
+Ventilation:USE ADEQUATE MECHANICAL (GENERAL &/LOCAL) VENTILATION TO
+    MAINTAIN EXPOSURE BELOW TLV.
+Protective Gloves:POLYETHYLENE GLOVES.
+Eye Protection:ANSI APPRVD CHEM WORKERS GOGGLES.
+Other Protective Equipment:WEAR IMPERVIOUS CLOTHING. ANSI APPRVD EYE
+    WASH STATION .
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+PH: 7.7 - 8.5.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:212F,100C
+Melt/Freeze Pt:M.P/F.P Text:32.0F,0.0C
+Vapor Pres:1
+Vapor Density:<1
+Spec Gravity:1.4 (H*2O=1)
+pH:SUPDAT
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Appearance and Odor:TYPICAL WATER BASE, WHITE IN COLOR W/CLEAN ODOR.
+Percent Volatiles by Volume:60
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTACT WITH STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:NONE.
+Hazardous Decomposition Products:MAY FORM TOXIC MATERIALS, CARBON
+    DIOXIDE, CARBON MONOXIDE, VARIOUS HYDROCARBONS, ETC. ON THERMAL
+    DECOMPOSITION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

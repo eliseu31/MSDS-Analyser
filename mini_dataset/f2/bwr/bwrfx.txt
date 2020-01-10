@@ -1,0 +1,167 @@
+=====================  Product Identification  =====================
+
+Product ID:8700/8790/9700/9790 MICR DEVELOPER, 5R138
+MSDS Date:03/02/1994
+FSC:6750
+NIIN:01-292-9299
+MSDS Number: BWRFX
+=== Responsible Party ===
+Company Name:XEROX CORP
+Address:100 S CLINTON AVE
+City:ROCHESTER
+State:NY
+ZIP:14644
+Country:US
+Info Phone Num:800-828-6571
+Emergency Phone Num:716-422-2177;716-422-1230
+CAGE:0E6G9
+=== Contractor Identification ===
+Company Name:XEROX CORP
+Address:300 MAIN ST NO 27C
+City:EAST ROCHESTER
+State:NY
+ZIP:14645
+Country:US
+Phone:800-828-6571; 800-351-2024
+CAGE:0E6G9
+Company Name:XEROX CORPORATION
+Address:100 CLINTON AVE SOUTH
+Box:City:ROCHESTER
+State:NY
+ZIP:14644-1877
+Country:US
+Phone:800-828-6571/716-422-2177
+CAGE:26921
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:IRON NICKEL ZINC OXIDE; (CARRIER) (NI-ZN FERRITE POWDER)
+CAS:12645-50-0
+RTECS #:NO7118000
+Fraction by Wt: >95%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:TONER CONSISTING OF INGS 3-6
+Fraction by Wt: <5%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:STYRENE POLYMER WITH 1/3-BUTADIENE; (STYRENE/BUTADIENE
+    COPOLYMER)
+CAS:9003-55-8
+RTECS #:WL6478000
+Fraction by Wt: 70-75%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:BLACK IRON OXIDE; (MAGNETITE)
+CAS:12227-89-3
+Fraction by Wt: 25-30%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:AMORPHOUS SILICA
+CAS:112945-86-9
+Fraction by Wt: <1%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:SILICA GEL; (AMORPHOUS SILICA)
+CAS:112945-52-5
+RTECS #:VV7310000
+Fraction by Wt: <1%
+OSHA PEL:6 MG/M3
+ACGIH TLV:10 MG/M3
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50(ORAL,RAT):>9G/KG PRACTICALLY NONTOX
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MIN RESP TRACT IRRIT MAY OCCUR AS
+    W/EXPOS TO LG AMTS OF ANY NON-TOX DUST. IN XEROX SPONSORED CHRONIC
+    INHAL STUDY IN RATS USING SPECIAL TEST TONER, THERE WERE NO LUNG
+    CHANGES AT ALL IN LOWEST EXPOS LEV EL (1MG/M3), MOST RELEVANT LEVEL
+    TO POTNTL HUMAN EXPOS. VERY SLIGHT DEGREE OF FIBROSIS WAS NOTED IN
+    25%(EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:HLTH HAZS:OF ANIMALS AT MIDDLE EXPOS LEVEL
+    (4MG/M3) WHILE SLIGHT DEGREE OF FIBROSIS WAS OBSERVED AT HIGHEST
+    EXPOS LEVEL (16MG/M3) IN ALL ANIMALS. THESE FINDINGS ARE ATTRIBUTED
+    TO "LUNG OVERLOADING," A  GENERIC RESPONSE TO EXCESSIVE AMTS OF ANY
+    DUST RETAINED IN LUNGS FOR PRLNGD INTERVAL. SPECIAL TEST TONER WAS
+    (SUP DAT)
+Medical Cond Aggravated by Exposure:NONE WHEN USED AS DESCRIBED BY
+    PRODUCT LITERATURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH WITH WATER FOR AT LEAST 15 MINUTES. SKIN:WASH WITH
+    SOAP AND WATER. INHALATION:REMOVE FROM EXPOSURE. INGESTION:DILUTE
+    STOMACH CONTENT WITH SEVERAL GLASSES OF WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER, FOAM, DRY CHEMICAL.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT . AVOID INHALATION OF SMOKE.
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:IF SPILLED, SWEEP UP OR VACUUM.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NONE.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE
+    FOR EXPOSURE OF CONCERN . NONE REQUIRED WHEN USED AS INTENDED.
+Ventilation:NONE SPECIFIED BY MANUFACTURER.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGGS .
+Other Protective Equipment:FOR USE OTHER THAN NORM CUSTOMER-OPERATING
+    PROC (SUCH AS IN BULK TONER PROCESSING FACILITIES), GOGGS & RESPS
+    MAY(SUPDAT)
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+EFTS OF OVEREXP:TEN TIMES MORE RESPIRABLE THAN COMMERCIALLY AVAILABLE
+    XEROX TONER TO COMPLY WITH EPA TESTING PROTOCOL AND WOULD NOT
+    FUNCTION PROPERLY IN XEROX EQUIPMENT. OTHER PROT EQUIP:BE REQUIRED.
+     FOR MORE INFORMATION, CONTACT XEROX.
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:5 (H*2O=1)
+Appearance and Odor:BLACK GRANULAR/FAINT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE.
+Stability Condition to Avoid:AVOID PROLONGED INHALATION OF EXCESSIVE
+    DUST.
+Hazardous Decomposition Products:PRODUCTS OF COMBUSTION MAY BE TOXIC.
+    AVOID BREATHING SMOKE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:WHEN DISPOSED, THIS MATERIAL IS NOT A HAZARDOUS
+    WASTE ACCORDING TO FEDERAL REGULATION 40 CFR 261. HOWEVER, STATE
+    AND LOCAL REQUIREMENTS MAY BE MORE RESTRICTIVE. THEREFORE,
+    CONSULTATION WITH APPROP STA TE, LOC & FED WASTE DISP AUTHORITIES
+    ISADVISED.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,128 @@
+=====================  Product Identification  =====================
+
+Product ID:NEUTROX 51, 10-768
+MSDS Date:08/01/1990
+FSC:6850
+NIIN:00N057039
+MSDS Number: BWRPF
+=== Responsible Party ===
+Company Name:W R GRACE & CO
+Address:300 GENESEE ST
+City:LAKE ZURICH
+State:IL
+ZIP:60047
+Country:US
+Info Phone Num:708-438-1800
+Emergency Phone Num:708-438-1800
+Preparer's Name:S. MORSS
+CAGE:1BX64
+=== Contractor Identification ===
+Company Name:GRACE W R AND CO DEARBON DIV
+Address:300 GENESEE ST
+Box:City:LAKE ZURICH
+State:IL
+ZIP:60047
+Country:US
+Phone:708-438-1800
+CAGE:71881
+Company Name:W R GRACE & CO
+Address:55 HAYDEN AVE
+City:LEXINGTON
+State:MA
+ZIP:02173
+Country:US
+Phone:713-479-7348
+CAGE:1BX64
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NON-HAZARDOUS INGREDIENTS
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: INHALATION OF VAPORS OR
+    MIST MAY IRRITATE RESPIRATORY TRACT. INGESTION: MAY BE HARMFUL IF
+    SWALLOWED. SKIN: PROLONGED OR FREQUENT SKIN CONTACT MAY CAUSE
+    IRRITATION.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE AFFECTED PERSONS TO FRESH AIR AND TREAT
+    SYMPTOMS. INGESTION: IF CONSCIOUS, GIVE WATER OR CITRUS JUICE TO
+    DILUTE AND CONTACT PHYSICIAN. SKIN: WASH WITH SOAP AND WATER,
+    REMOVE CONTAMI NATED CLOTHING AND WASH BEFORE REUSE. EYE: FLUSH
+    WITH WATER FOR AT LEAST 15 MINUTES AND SEEK MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:142F,61C
+Extinguishing Media:FOAM, CARBON DIOXIDE, DRY CHEMICAL.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE KNOWN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE CLOTHING. DIKE SPILL AND SOAK
+    UP ON AN INERT ABSORBENT MATERIAL. PLACE IN CLOSED CONTAINER FOR
+    DISPOSAL. FLUSH AREA OF SPILL WITH WATER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE CONTAINERS CLOSED WHEN NOT IN
+    USE, AWAY FROM EXTREME TEMPERATURES.
+Other Precautions:FOR INDUSTRIAL USE ONLY. KEEP OUT OF REACH OF
+    CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE
+    FOR EXPOSURE OF CONCERN .
+Ventilation:USE ADEQUATE MECHANICAL VENTILATION.
+Protective Gloves:IMPERVIOUS GLOVES.
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGG .
+Other Protective Equipment:LONG SLEEVE WORK SHIRT AND PANTS.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>200F,>93C
+Spec Gravity:0.99 (H*2O=1)
+pH:11
+Evaporation Rate & Reference:<1 (BUTYL ACETATE=1)
+Solubility in Water:APPRECIABLE
+Appearance and Odor:PALE YELLOW LIQUID.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACIDS, STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:EXTREME HEAT, OPEN FLAMES.
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE,
+    OXIDES OF NITROGEN.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH APPLICABLE
+    FEDERAL, STATE AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

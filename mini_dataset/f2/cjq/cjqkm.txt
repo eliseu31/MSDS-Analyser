@@ -1,0 +1,141 @@
+=====================  Product Identification  =====================
+
+Product ID:ANILINE HYDROCHLORIDE, 105 6498
+MSDS Date:09/16/1986
+FSC:6810
+NIIN:00N092100
+Status Code:A
+MSDS Number: CJQKM
+=== Responsible Party ===
+Company Name:ACROS ORGANICS
+Address:711 FORBES AVE
+City:PITTSBURGH
+State:PA
+ZIP:15219-4785
+Country:US
+Info Phone Num:800-227-6701
+Emergency Phone Num:800-424-9300
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:ACR0S
+=== Contractor Identification ===
+Company Name:ACROS ORGANICS
+Address:ONE REAGENT LANE
+Box:City:FAIRLAWN
+State:NJ
+ZIP:07410
+Country:US
+Phone:800-227-6701
+CAGE:ACR0S
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ANILINE HYDROCHLORIDE
+CAS:142-04-1
+RTECS #:CY0875000
+= Wt:100.
+ACGIH TLV:8 MG/M3, S
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:OVEREXPOSURE MAY CAUSE
+    METHEMOGLOBINEMIA AND CYANOSIS. INHALATION: HARMFUL IF INHALED.
+    SKIN: CAUSES BURNS. HARMFUL IF ABSORBED THROUGH SKIN. EYE: CAUSES
+    BURNS.
+Explanation of Carcinogenicity:ANILINE HAS BEEN IDENTIFIED AS A
+    CARCINOGEN OR POTENTIAL CARCINOGEN FOR HAZARD COMMUNICATION
+    PURPOSES BY: IARC MONOGRAPHS.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:REMOVE TO FRESH AIR. TREAT SYMPTOMATICALLY. IF SYMPS
+    ARE PRESENT GET MED ATTN. SKIN:IMMED FLUSH W/PLENTY OF WATER FOR @
+    LST 15 MINS. GET MED ATTN IF SYMPS ARE PRESENT AFTER WASHING,
+    EYES:IMMED F LUSH W/PLENTY OF WATER FOR AT LST 15 MINS & GET MED
+    ATTN. INGEST:CALL MD IMMED . NOTE TO MD:ABSORPTION OF THIS PROD
+    INTO BODY LEADS TO FORM OF METHEMOGLOBIN WHICH, IN SUFFICIENT CONC
+    CAUSES CYAN OSIS. SINCE REVERSION OF METHEMOGLOBIN TO HEMOGLOBIN
+    OCCURS SPONT AFTER TERMINATION OF EXPOS, MOD DEGREES OF CYANOSIS
+    NEED TO BE TREATED ONLY BY SUPPORTIVE MEASURES SUCH AS BED REST &
+    OXYG INHAL. THRO RO CLEANSING OF ENTIRE CONTAM(SUPP DATA)
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER SPRAY, DRY CHEMICAL, CARBON DIOXIDE.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY PRODUCE
+    HAZARDOUS DECOMPOSITION PRODUCTS. THIS MATERIAL IN SUFFICIENT
+    QUANTITY AND REDUCED PARTICLE SIZE IS CAPABLE OF CREATING A DUST
+    EXPLOSION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP MATERIAL AND PACKAGE FOR SAFE FEED TO
+    AN INCINERATOR.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:PROTECT FROM LIGHT. KEEP FROM CONTACT
+    WITH OXIDIZING MATERIALS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:A NIOSH-APPROVED DUST RESPIRATOR SHOULD BE WORN,
+    IF NEEDED.
+Ventilation:GOOD GENERAL ROOM VENTILATION SHOULD BE USED. LOCAL EXHAUST
+    MAY BE NEEDED.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES & FULL LENGTH
+    FACESHIELD .
+Other Protective Equipment:ANSI APPROVED EYE WASH & DELUGE SHOWER .
+    PROTECTIVE CLOTHING SHOULD BE WORN.
+Supplemental Safety and Health
+FIRST AID PROC: AREA OF THE BODY, INCLUDING SCALP & NAILS, IS OF UTMOST
+    IMPORTANCE. IF CYANOSIS IS SEVERE, INTRAVENOUS INJECTION OF
+    METHYLENE BLUE, 1 MILLIGRAM PER KILOGRAM OF BODY WEIGHT MAY BE OF
+    VA LUE.
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:=198.C, 388.4F
+Vapor Pres:NEGLIGIBLE
+Spec Gravity:1.22 (WATER=1)
+Evaporation Rate & Reference:NEGLIGIBLE (N-BUAC=1)
+Solubility in Water:APPRECIABLE (BY WT)
+Appearance and Odor:WHITE CRYSTALLINE SOLID.
+Percent Volatiles by Volume:NEGLIG (WT)
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS.
+Stability Condition to Avoid:STABLE, HOWEVER, CAN DECOMPOSE ABOVE 260C.
+    AVOID TEMPERATURES ABOVE 160C.
+Hazardous Decomposition Products:COMBUSTION WILL PRODUCE CARBON DIOXIDE
+    AND PROBABLY CARBON MONOXIDE. HYDROGEN CHLORIDE GAS AND OXIDES OF
+    NITROGEN MAY ALSO BE PRESENT.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE BY INCINERATION OR CONTRACT WITH
+    LICENSED CHEMICAL WASTE DISPOSAL AGENCY. DISCHARGE, TREATMENT, OR
+    DISPOSAL MAY BE SUBJECT TO FEDERAL, STATE OR LOCAL LAWS.
+
+=====================  Regulatory Information  =====================
+
+State Regulatory Information:
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

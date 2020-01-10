@@ -1,0 +1,164 @@
+=====================  Product Identification  =====================
+
+Product ID:825 4237 T-MAX RS DEVELOPER AND REPLENISHER, PART B
+MSDS Date:10/16/1996
+FSC:6750
+NIIN:01-388-7764
+Kit Part:Y
+MSDS Number: BWRNG
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-477-3194 MSDS :800- 242-2424
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+Company Name:EASTMAN KODAK CO US CUSTOMER SERVICE/GOVERNMENT SALES
+Address:800 LEE RD
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-3129
+Country:US
+Phone:800-828-6203
+CAGE:5K871
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DIETHYLENE GLYCOL
+CAS:111-46-6
+RTECS #:ID5950000
+Fraction by Wt: 95%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:ACETIC ACID  (SARA III)
+CAS:64-19-7
+RTECS #:AF1225000
+Fraction by Wt: 1-5%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:10 PPM
+ACGIH TLV:10 PPM/15 STEL; 9394
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:1,4-DIPHENYL-3-(PHENYLIAMINO)-1H-1,2,4-TRIAZOLIUM HYDROXIDE
+CAS:2218-94-2
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): NOT GIVEN
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EXPECTED TO BE A LOW INHALATION HAZARD
+    FOR RECOMMENDED HANDLING. EYE CONTACT MAY CAUSE IRRITATION. LOW
+    SKIN CONTACT HAZARD FOR RECOMMENDED HANDLING. HARMFUL IF SWALLOWED.
+    CAN CAUSE KIDNEY DAMAGE.
+Explanation of Carcinogenicity:THIS COMPOUND CONTAINS NO INGREDIENTS AT
+    CONCENTRATIONS OF 0.1% OR GREATER THAT ARE CARCINOGENS OR SUSPECT
+    CARCINOGENS.
+Effects of Overexposure:EYE IRRITATION, KIDNEY DAMAGE.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: IF SYMPTOMATIC, MOVE TO FRESH AIR. GET MEDICAL
+    ATTENTION IF SYMPTOMS PERSIST. EYES: WASH OUT IMMEDIATELY WITH
+    WATER. GET MEDICAL ATTENTION IF SYMPTOMS OCCUR. SKIN: WASH WITH
+    SOAP AND WATER . GET MEDICAL ATTENTION IF SYMPTOMS OCCUR.
+    INGESTION: INDUCE VOMITING AS DIRECTED BY MEDICAL PERSONNEL. NEVER
+    GIVE ANYTHING BY MOUTH TO AN UNCONSCIOUS PERSON. CALL PHYSICIAN OR
+    POISON CONTROL ASAP.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:>200F,>93C
+Lower Limits:NOT GIVEN
+Upper Limits:NOT GIVEN
+Extinguishing Media:WATER SPRAY, CARBON DIOXIDE, DRY CHEMICAL, ALCOHOL
+    FOAM.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS AND
+    PROTECTIVE CLOTHING.
+Unusual Fire/Explosion Hazard:MAY FORM PEROXIDES OF UNKNOWN STABILITY.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH TO SEWER IF ALLOWABLE WITH LARGE AMOUNTS
+    OF WATER. OTHERWISE, ABSORB SPILL WITH VERMICULITE OR OTHER INERT
+    MATERIAL, THEN PLACE IN A CONTAINER FOR CHEMICAL WASTE. CLEAN
+    SURFACE TO REMOVE RESIDUA L CONTAMINATION.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:USE WITH ADEQUATE VENTILATION. STORE
+    AWAY FROM HEAT AND LIGHT. KEEP FROM CONTACT WITH OXIDIZING
+    MATERIALS. KEEP CONTAINER TIGHTLY CLOSED.
+Other Precautions:THE ROUTINE USE OF A NONALKALINE (ACID) TYPE OF HAND
+    CLEANER AND REGULAR CLEANING OF WORKING SURFACES WILL HELP MINIMIZE
+    THE POSSIBILITY OF A SKIN REACTION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SHOULD BE NEEDED.
+Ventilation:GOOD GENERAL VENTILATION, TYPICALLY 10 AIR CHANGES PER
+    HOUR, SHOULD BE USED. RATES SHOULD MATCH CONDITIONS.
+Protective Gloves:IMPERVIOUS
+Eye Protection:SAFETY GLASSES W/SIDE SHIELDS OR GOGGLES
+Other Protective Equipment:CHEMICAL RESISTANT CLOTHING AS NECESSARY TO
+    PREVENT SKIN CONTACT. AN EMERGENCY EYEWASH AND SHOWER SHOULD BE
+    AVAILABLE.
+Work Hygienic Practices:WASH HANDS THOROUGHLY WITH SOAP AND WATER
+    BEFORE EATING, DRINKING, SMOKING OR USING TOILET FACILITIES.
+Supplemental Safety and Health
+REMOVE AND WASH CONTAMINATED CLOTHING BEFORE REUSE. KEY1:N1.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T6
+Boiling Pt:B.P. Text:>212F,>100C
+Melt/Freeze Pt:M.P/F.P Text:NOT GIVEN
+Decomp Temp:Decomp Text:NOT GIVEN
+Vapor Pres:18
+Vapor Density:0.6
+Spec Gravity:1.12
+Evaporation Rate & Reference:NOT GIVEN
+Solubility in Water:COMPLETE
+Appearance and Odor:AMBER LIQUID, VINEGAR ODODR
+Percent Volatiles by Volume:< 5%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:MINIMIZE EXPOSURE TO AIR. UPON PROLONGED
+    STORAGE, MAY FORM PEROXIDES OF UNKNOWN STABILITY.
+Hazardous Decomposition Products:CARBON DIOXIDE, CARBON MONOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISCHARGE, TREATMENT OR DISPOSAL MAY BE SUBJECT
+    TO NATIONAL, STATE OR LOCAL LAWS.  MAY REQUIRE NEUTRALIZATION IF PH
+    < 2.0 OR PH > 12.5. DISPOSE OF IN ACCORDANCE WITH ALL APPLICABLE
+    FEDERAL, STATE AND	LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

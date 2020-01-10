@@ -1,0 +1,148 @@
+=====================  Product Identification  =====================
+
+Product ID:MIL-L-60858/PQ RUST PREVENTIVE 160
+MSDS Date:01/16/1989
+FSC:9150
+NIIN:00-664-6518
+MSDS Number: BLPFT
+=== Responsible Party ===
+Company Name:HULS AMERICA INC
+Address:80 CENTENNIAL AVE
+Box:456
+City:PISCATAWAY
+State:NJ
+ZIP:08855-0456
+Country:US
+Info Phone Num:201-980-6800
+Emergency Phone Num:201-980-6800
+CAGE:63182
+=== Contractor Identification ===
+Company Name:HULS AMERICA INC
+Address:TURNER PLACE
+Box:365
+City:PISCATAWAY
+State:NJ
+ZIP:08855
+Country:US
+Phone:201-763-7173
+CAGE:63182
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM SALTS OF PETROLEUM SULFONIC ACIDS
+CAS:68608-24-4
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:LIQUID IS IRRITATING TO EYES. VAPOR
+    MAY CAUSE EYE IRRITATION. LIQUID IS SLIGHTLY IRRITATING TO SKIN.
+    PROLONGED OR REPEATED CONTACT CAN RESULT IN DERMATITIS. VAPORS MAY
+    BE IRRITATING TO NOSE, THROAT &  RESPIRATORY TRACT. INGESTION OF
+    PRODUCTMAY RESULT IN VOMITING. ASPIRATION OF VOMITUS INTO LUNGS MAY
+    CAUSE PNEUMONITIS.
+Explanation of Carcinogenicity:THIS COMPOUND CONTAINS NO INGREDIENTS AT
+    CONCENTRATIONS OF 0.1% OR GREATER THAT ARE CARCINOGENS OR SUSPECT
+    CARCINOGENS.
+Effects of Overexposure:MAY CAUSE EYE, SKIN & RESPIRATORY TRACT
+    IRRITATION. MAY ALSO CAUSE HEADACHE, DIZZINESS AND NAUSEA.
+    ASPIRATION PNEUMONITIS MAY CAUSE COUGHING, LABORED BREATHING,
+    CYANOSIS, AND IN SEVERE CASES, DEATH.
+Medical Cond Aggravated by Exposure:PERSONS WITH A HISTORY OF AILMENTS
+    OR WITH A PRE-EXISTING DISEASE INVOLVING THE SKIN MAY BE AT
+    INCREASED RISK FROM EXPOSURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH RUNNING WATER FOR 15 MINUTES WHILE HOLDING
+    EYELIDS OPEN. GET MEDICAL ATTENTION IMMEDIATELY. SKIN: WASH WITH
+    SOAP AND WATER. REMOVE CONTAMINATED CLOTHING. GET MEDICAL ADVICE.
+    INHALATIO N: REMOVE TO FRESH AIR. GIVE MOUTH-TO-MOUTH RESUSCITATION
+    IF NOT BREATHING. GET MEDICAL ATTENTION. INGESTION: DO NOT INDUCE
+    VOMITING. RINSE MOUTH & DRINK LARGE AMOUNTS OF WATER. GET MEDICAL
+    ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:440F,227C
+Extinguishing Media:WATER FOG, DRY CHEMICAL, FOAM OR CARBON DIOXIDE.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS AND
+    FULL TURN-OUT GEAR TO FIGHT FIRE. AVOID SPREADING LIQUID AND FIRE
+    BY WATER FLOODING.
+Unusual Fire/Explosion Hazard:EXPOSURE TO HEAT BUILDS UP PRESSURE IN
+    CLOSED CONTAINERS. COOL WITH WATER SPRAY.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WIPE UP SMALL SPILLS WITH PAPER TOWEL. WEAR
+    GLOVES, GOGGLES & RESPIRATOR. VENTILATE AREA. DO NOT BREATHE VAPOR.
+    ELIMINATE IGNITION SOURCES. DIKE TO RETAIN RUNOFF. VACUUM OR PUMP
+    FREE LIQUID. ABSORB RE SIDUE WITH INERT MATERIAL & PLACE IN SALVAGE
+    DRUM.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY PLACE. KEEP
+    CONTAINERS CLOSED WHEN MATERIAL IS NOT IN USE. KEEP AWAY FROM
+    IGNITION SOURCES. AVOID PROLONGED OR REPEATED CONTACT.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR A NIOSH/MSHA APPROVED CHEMICAL CARTRIDGE
+    RESPIRATOR WITH FULL FACEPIECE AND ORGANIC VAPOR CARTRIDGES IN
+    COMBINATION WITH A HIGH-EFFICIENCY PARTICULATE FILTER.
+Ventilation:LOCAL AND MECHANICAL(GENERAL) EXHAUST TO PROVIDE ADEQUATE
+    VENTILATION.
+Protective Gloves:NEOPRENE OR NITRILE RUBBER GLOVES
+Eye Protection:SAFETY GLASSES - CHEMICAL SPLASH GOGGLES
+Other Protective Equipment:WEAR INDUSTRIAL WORK CLOTHING. USE RUBBER
+    APRON OR BOOTS IF NEEDED. HAVE EMERGENCY EYE WASH AND SAFETY SHOWER
+    AVAILABLE.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING AND BEFORE
+    EATING, DRINKING OR SMOKING. LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE.
+Supplemental Safety and Health
+AVOID PROLONGED OR REPEATED EXPOSURE. DO NOT GET ON SKIN OR IN EYES. DO
+    NOT BREATHE VAPORS OR MIST. DO NOT INGEST. READ PRECAUTIONS ON
+    LABEL BEFORE USE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:>450F,>232C
+Vapor Pres:<0.1 MM HG
+Vapor Density:>1
+Spec Gravity:<1
+Evaporation Rate & Reference:>1 (N-BUTYL ACETATE=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:CLEAR LIQUID, MILD ODOR.
+Percent Volatiles by Volume:0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDANTS.
+Stability Condition to Avoid:EXTREME TEMPERATURES, SPARKS AND OPEN
+    FLAMES.
+Hazardous Decomposition Products:CARBON MONOXIDE AND CARBON DIOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL OF WASTE AND HAZARDOUS MATERIAL SHALL
+    COMPLY WITH LOCAL, STATE AND FEDERAL ENVIRONMENTAL PROTECTION
+    AGENCY REGULATIONS. SEND WASTE MATERIAL TO AN APPROVED RECYCLING
+    FACILITY IF FEASIBLE. CITY , STATE AND FEDERAL REGULATIONS MUST
+    BEFOLLOWED.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

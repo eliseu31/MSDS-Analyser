@@ -1,0 +1,194 @@
+=====================  Product Identification  =====================
+
+Product ID:GLYCOL ETHER DM
+MSDS Date:03/03/1997
+FSC:6850
+NIIN:01-377-5075
+Status Code:A
+MSDS Number: CJQCD
+=== Responsible Party ===
+Company Name:CHEMICAL SPECIALISTS AND DEVELOPMENT
+Address:5 HACKBERRY LANE
+Box:3087
+City:CONROE
+State:TX
+ZIP:77305
+Country:US
+Info Phone Num:409-756-1065/1083 FAX DAVID /SHANAN
+Emergency Phone Num:800-274-5263
+Resp. Party Other MSDS Num.:999.0004672-005.001
+CAGE:4N760
+=== Contractor Identification ===
+Company Name:CHEMICAL SPECIALISTS AND DEVELOPMENT INC
+Address:2210 HACKBERRY LN
+Box:687
+City:CONROE
+State:TX
+ZIP:77305
+Country:US
+Phone:409-756-1065
+Contract Num:SP0450-99-M-NF06
+CAGE:4N760
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DIETHYLENE GLYCOL MONOMETHYL ETHER
+CAS:111-77-3
+RTECS #:KL6125000
+= Wt:100.
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Health Hazards Acute and Chronic:EYES: MAY CAUSE MILD EYE IRRITATION.
+    SKIN: MAY CAUSE MILD SKIN IRRITATION.  SWALLOWING: SWALLOWING SMALL
+    AMOUNTS DURING NORMAL HANDLING IS NOT LIKELY TO CAUSE HARMFUL
+    EFFECTS. SWALLOWING LARGE AMOUNTS  MAY BE HARMFUL. INHALATION:
+    BREATHING SMALL AMOUNTS OF THIS MATERIAL DURING NORMAL HANDLING IS
+    NOT LIKELY TO CAUSE HARMFUL EFFECTS. BREATHING LARGE AMOUNTS MAY BE
+    AHRMFUL. SYMPTOMS USUALLY OCCUR AT C ONCENTRATION S HIGHER THAN THE
+    RECOMMENDED EXPOSURE LIMITS. TARGET ORGANS: LIVER, TESTES, KIDNEYS.
+Explanation of Carcinogenicity:NO DATA.
+Effects of Overexposure:STOMACH OR INTESTINAL UPSET (NAUSEA, VOMITING,
+    DIARRHEA), IRRITATION (NOSE, THROAT, AIRWAYS).
+Medical Cond Aggravated by Exposure:PRE-EXISTING DISORDERS OF THE
+    LIVER, KIDNEYS, TESTES.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:IMMEDIATELY FLUSH  GENTLY WITH WATER FOR AT LEAST 15
+    MINUTES, HOLD EYELIDS APART. IF SYMPTOMS DEVELOP, MOVE AWAY FROM
+    EXPOSURE. SEEK MEDICAL ATTENTION. SWALLOWING: SEEK MEDICAL
+    ATTENTION. IF SLEE PY OR DROWSY, NOTHING BY MOUTH. IF
+    CONSCIOU/ALERT, GIVE SYRUP OF IPECAC OR STICK FINGERS DOWN THROAT.
+    DO NOT LEAVE PERSON UNATTENDED. SKIN:REMOVE CONTAMINATED CLOTHES.
+    WASH EXPOSED AREA WITH SOAP & WA TER. IF SYMPTOMS PERSIST, SEEK
+    MEDICAL ATTENTION. LAUNDER CLOTHES BEFORE RESUE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:=91.7C, 197.F
+Autoignition Temp:Autoignition Temp Text:N/D
+Lower Limits:N/D
+Upper Limits:N/D
+Extinguishing Media:ALCOHOL FOAM, CARBON DIOXIDE, DRY CHEMICAL.
+Fire Fighting Procedures:WATER MAY BE USED TO EXTINGUISH FIRE BY
+    COOLING, AND DILUTING LIQUID WITH WATER. WEAR A SELF-CONTAINED
+    BREATHING APPARATUS WITH A FULL FACEPIECE OPERATED IN THE POSITIVE
+    PRESSURE DEMAND MODE WITH APPR OPRIATE TURN-OUT GEAR AND CHEMICAL
+    RESISTANT PERSONAL PROTECTIVE EQUIPMENT.
+Unusual Fire/Explosion Hazard:VAPORS ARE HEAVIER THAN AIR AND MAY
+    TRAVEL ALONG THE GROUND OR BE MOVED BY VENTILATION AND IGNITED BY
+    HEAT, PILOT LIGHTS, OTHER FLAMES AND IGNITION SOURCES AT LOCATIONS
+    DISTANT FROM MATERIAL HANDLING  POINT. NEVER USE WELDING, CUTTING
+    TORCH ON DRUM(EVEN EMPTY) BECAUSE PRODUCT(EVEN JUST RESIDUE)CAN
+    IGNITE EXPLOSIVELY
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB LIQUID ON VERMICULITE, FLOOR ABSORBENT
+    MATERIAL & TRANSFER TO HOOD. LARGE SPILL: ELIMINATE SOURCES OF
+    IGNITION. EXCLUDE UN PROTECTED PERSONS FROM SPILL AREA UNTIL
+    CLEAN-UP CPMPLETED. STOP SPILL  AT SOURCE. PREVENT FROM SPREADING.
+    KEEP OUT OF SEWERS,  WATERWAYS. NOTIFY AUTHORITIES IF RUN-OFF
+    OCCURS.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:CONTAINERS MAY BE HAZARDOUS WHEN
+    EMPTY. EMPTIES MAY RETAIN RESIDUE (VAPOR. LIQUID AND/OR SOLID). ALL
+    HAZARD PRECAUTIONS MUST BE GIVEN IN THE MSDS MUST BE OBSERVED. ALL
+    CONTAINERS SHOULD BE BONDED & GR OUNDED DURING MATERIAL TRANSFERS.
+Other Precautions:SUDDEN RELEASE OF HOT ORGANIC VAPORS OR MISTS FROM
+    PROCESS EQUIPMENT DURING OPERATIONS INVOLVING ELEVATED TEMPERATURES
+    & PRESSURE, MAY RESULT IN IGNITIONS WITHOUT THE PRESENCE OF OBVIOUS
+    IGNITION SOUR CES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF OVEREXPOSURE HAS BEEN DETERMINED/ DOCUMENTED,
+    A NIOSH/MSHA JOINTLY APPROVED AIR SUPPLIED RESPIRATOR IS ADVISED IN
+    ABSENCE OF PROPER ENVIRONMENTAL CONTROL. OSHA REG-ULATIONS ALSO
+    PERMIT OTHER NIOSH/ MSHA RESPIRATORS UNDER SPECIFIED CONDITIONS.
+    (SEE  SAFETY EQUIPMENT SUPPLIER.) ENGINEERING OR ADMINISTRATIVE
+    CONTROLS SHOULD BE IMPLEMENTED TO REDUCE EXPOSURE.
+Ventilation:PROVIDE SUFFICIENT MECHANICAL(GENERAL AND/OR LOCAL EXHAUST)
+    VENTILATION TO MAINTAIN EXPOSURE BELOW LEVEL OF OVEREXPOSURE.
+Protective Gloves:NITRILE RUBBER
+Eye Protection:CHEMICAL SPASH GOGGLES
+Other Protective Equipment:IMPERVIOUS CLOTHING AND BOOTS. EMERGENCY EYE
+    WASH STATIONS & SAFETY SHOWERS SHOULD BE AVAILABLE IN THE IMMEDIATE
+    VICINITY OF POTENTIL EXPOSURE.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V4
+Boiling Pt:B.P. Text:N/D
+Melt/Freeze Pt:=-85.C, -121.F
+Vapor Pres:.000 @ 68F
+Vapor Density:4.150
+Spec Gravity:1.021 - 1.025
+pH:N/D
+VOC Grams/Liter:8.51
+Viscosity:3.4 CPS
+Evaporation Rate & Reference:.02 (N-BUTYL ACETATE)
+Solubility in Water:COMPLETELY MISCIBLE
+Appearance and Odor:CLEAR, COLORLESS LIQUID, MILD ODOR.
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTACT WITH: STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:STABLE.
+Hazardous Decomposition Products:MAY FORM: CARBON DIOXIDE AND CARBON
+    MONOXIDE.
+Conditions to Avoid Polymerization:PRODUCT WILL NOT UNDERGO HAZARDOUS
+    POLYMERIZATION.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:NO DATA.
+
+=====================  Ecological Information  =====================
+
+Ecological:NO DATA.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE &
+    FEDERAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:US DOT: COMBUSTIBLE LIQUID, NOS, NA1993, PGIII
+    (ONLY IF CARRIED IN BULK PACKAGING---CONTAINER LARGER THAN 119
+    GALLONS).
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:SARA 302 COMPONENTS: NONE. SECTION 311/312
+    HAZARD CLASS: DELAYED, FIRE. SARA 313 COMPONENTS: DIETHYLENE GLYCOL
+    MONOMETHYL ETHER, CAS # 111-77-3, 100%.
+Federal Regulatory Information:TSCA: THE INTENTIONAL INGREDIENTS OF
+    THIS PRODUCT ARE LISTED. CERCLA RQ (40 CFR 302.4(A)) : NONE LISTED.
+State Regulatory Information:CALIFORNIA PROPOSITION 65: NONE. NEW
+    JERSEY RTK LABEL INFORMATION: DIETHYLENE GLYCOL MONOMETHYL ETHER,
+    CAS # 111-77-3. PENNSYLVANIA  RTK LABEL INFORMATION:  ETHANOL,
+    2-(2-METHOXYETHOXY)-, CAS # 111-77 -3.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

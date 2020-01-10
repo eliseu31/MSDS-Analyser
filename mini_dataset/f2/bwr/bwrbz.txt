@@ -1,0 +1,178 @@
+=====================  Product Identification  =====================
+
+Product ID:NICKEL-CADMIUM SEALED CELL BATTERY
+MSDS Date:02/28/1991
+FSC:6140
+NIIN:01-005-4864
+MSDS Number: BWRBZ
+=== Responsible Party ===
+Company Name:SAFT AMERICA INC, POWER SOURCES DIV
+Address:711 INDUSTRIAL BLVD
+Box:1886
+City:VALDOSTA
+State:GA
+ZIP:31603
+Country:US
+Info Phone Num:912-247-2331
+Emergency Phone Num:912-247-2331
+Preparer's Name:UNREADABLE
+CAGE:09052
+=== Contractor Identification ===
+Company Name:SAFT AMERICA INC.
+Address:711 INDUSTRIAL BLVD
+Box:1886
+City:VALDOSTA
+State:GA
+ZIP:31602
+Country:US
+Phone:912-247-2331
+CAGE:09052
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CADMIUM  (SARA III)
+CAS:7440-43-9
+RTECS #:EU9800000
+Fraction by Wt: 8-20%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:0.1MG/M3FUME;0.2DUST
+ACGIH TLV:0.05 MG/M3 DUST;9192
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+Ingred Name:CADMIUM HYDROXIDE
+CAS:21041-95-2
+Fraction by Wt: 8-20%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:0.05 MG CD/M3
+ACGIH TLV:0.05 MG CD/M3
+
+Ingred Name:CADMIUM OXIDE  (SARA III)
+CAS:1306-19-0
+RTECS #:EV1925000
+Fraction by Wt: 8-20%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:6B RULE IN PROCESS
+ACGIH TLV:0.05 MG CD/M3
+
+Ingred Name:NICKEL  (SARA III)
+CAS:7440-02-0
+RTECS #:QR5950000
+Fraction by Wt: 15-35%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+
+Ingred Name:NICKEL HYDROXIDE  (SARA III)
+CAS:12054-48-7
+RTECS #:QR7040000
+Fraction by Wt: 15-35%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:0.1 MG NI/M3
+ACGIH TLV:0.1 MG NI/M3; 9192
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+Ingred Name:NICKEL OXIDE
+CAS:1313-99-1
+RTECS #:QR8400000
+Fraction by Wt: 15-35%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:1 MG/M3 AS NI
+ACGIH TLV:1 MG/M3 AS NI
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:YES
+Health Hazards Acute and Chronic:INHALATION OF DUST OR FUME FROM
+    CADMIUM & ITS CMPDS MAY CAUSE IRRITATION OF THE NOSE &
+    THROAT.INGESTION OF CADMIUM DUST MAY CAUSE GI TRACT IRRITATION.
+    NICKEL & CERTAIN NICKEL CMPDS MAY CAUSE LOCAL DER MATITIS ON
+    CONTACT.INHALATION MAY CAUSEUPPER RESPIRATORY IRRITATION.INGESTION
+    MAY CAUSE GI TRACT IRRITATION.
+Explanation of Carcinogenicity:NICKEL & CADMIUM & THEIR COMPOUNDS ARE
+    LISTED AS CARCINOGENS OR POTENTIAL CARCINOGENS.
+Effects of Overexposure:HEALTH HAZARD CONT'D: CHRONIC: LONG TERM
+    EXPOSURE MAY CAUSE EMPHYZEMA, KIDNEY DISFUNCTION, BONE LESIONS,
+    LUNG CANCER. SYMPTOMS: INHALED-COUGHING, CHEST PAIN, SWEATING
+    CHILLS, SHORTNESS OF BREATH, WEAK NESS. INGESTION-NAUSEA, VOMITING,
+    DIARRHEA, ABDOMINAL CRAMPS. SKIN-RASH, ITCHING.
+Medical Cond Aggravated by Exposure:RESPIRATORY SYSTEM DISORDERS,
+    PROSTATE DISORDERS, LIVER & KIDNEY DISORDERS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION-REMOVE FROM EXPOSURE. SEE PHYSICIAN. EYES-FLUSH
+    WITH WATER FOR 15 MINUTES. SEE PHYSICIAN IF SYMPTOMS DEVELOP.
+    SKIN-FLUSH WITH WATER FOR 15 MINUTES. SEE DOCTOR IF SYMPTOMS
+    DEVELOP. INGESTED- INDUCE VOMITING IF CONSCIOUS. SEE A PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:DRY CHEMICAL, CARBON DIOXIDE, WATER.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS AND
+    FULL PROTECTIVE GEAR IF INVOLVED IN FIRE.
+Unusual Fire/Explosion Hazard:NOT APPLICABLE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONTAIN THE SPILL. COLLECT THE SPILLED
+    MATERIAL AND PLACE IN A PLASTIC-LINED CONTAINER. HEPA VACUUMING IS
+    PREFERRED. FLUSH SPILL AREA WITH WATER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER CLOSED. AVOID CONTACT
+    WITH CLOTHING. AVOID GENERATING DUST.
+Other Precautions:KEEP FOOD AND TOBACCO AWAY FROM WORK AREA. WEAR
+    NISOH/MSHA APPROVED DUST MASKS OR RESPIRATORS; IMPERVIOUS GLOVES;
+    SAFETY GLASSES OR GOGGLES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF ENGINEERING CONTROLS FAIL OR NON-ROUTINE
+    PROCEDURES OR AN EMERGENCY OCCURS; WEAR NIOSH/MSHA APPROVED
+    RESPIRATOR WITH DUST CARTDIDGE OR SUPPLIED AIR RESPIRATOR OR SCBA,
+    AS REQUIRED. USE IAW 29 CFR 1 910.134 & MANUFACTURER'S
+    RECOMMENDATIONS
+Ventilation:USE ADEQUATE MECHANICAL VENTILATION OR LOCAL EXHAUST TO
+    MAINTAIN EXPOSURE BELOW TLV(S) OR PEL(S).
+Protective Gloves:IMPERVIOUS-PVC.
+Eye Protection:SAFETY GLASSES/CHEMICAL SPLASH GOGGLES.
+Other Protective Equipment:DO NOT WEAR CONTAMINATED CLOTHES HOME.
+    SHOWER & CHANGE OR WEAR COVERALLS.
+Work Hygienic Practices:WASH HANDS AFTER HANDLING AND BEFORE EATING,
+    DRINKING, OR SMOKING. LAUNDER CONTAMINATED CLOTHES BEFORE REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:Z5
+Spec Gravity:1.6
+Appearance and Odor:SEALED BATTERY; NICAD; 15.6 VOLTS; 1.042 X 4.452
+    INCHES; PVC CASE; 2 TERMINALS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:GENERAL STORAGE PROCEDURES FOR HAZARDOUS
+    MATERIALS ARE ACCEPTABLE.
+Hazardous Decomposition Products:METAL OXIDE FUMES MAY BE EVOLVED AT
+    TEMPERATURES ABOVE MELTING POINT.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE AND
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

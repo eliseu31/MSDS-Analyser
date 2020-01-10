@@ -1,0 +1,156 @@
+=====================  Product Identification  =====================
+
+Product ID:001013A1 PD 680 TYPE II
+MSDS Date:05/11/1988
+FSC:6850
+NIIN:00-637-6135
+MSDS Number: BKYMF
+=== Responsible Party ===
+Company Name:CALENDAR CHEMICALS
+Address:2920 UNION ST
+Box:81241
+City:SAN DIEGO
+State:CA
+ZIP:92138-1241
+Country:US
+Info Phone Num:(619) 695-8250
+Emergency Phone Num:(619) 695-8250
+CAGE:67003
+=== Contractor Identification ===
+Company Name:CALENDAR CHEMICALS
+Address:2920 UNION ST
+Box:81241
+City:SAN DIEGO
+State:CA
+ZIP:92138-1241
+Country:US
+CAGE:67003
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HYDROTREATED LIGHT DISTILLATE, PETROLEUM; C12-C15
+    ISOPARAFFINIC HYDROCARBONS
+CAS:64742-47-8
+Other REC Limits:300 PPM (MFR)
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:MINERAL SPIRITS, ALKYL BENZENES, C-10 - C-12
+CAS:68515-25-3
+
+Ingred Name:VOL ORGANIC CMPD: 783 GRAMS/LITER
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES:
+    PAIN/TEARING/INFLAMMATION/IRRITATION. SKIN:
+    IRRITATION/DEFATTING/DRYING/DERMATITIS. INHALATION: IRRITATION TO
+    NOSE/THROAT/RESPIRATORY TRACT, CNS DEPRESSION,
+    GIDDINESS/HEADACHE/DIZZINESS/NAUSEA/U
+    NCONSCIOUSNESS/DEATH/COUGH/LABORED BREATHING/CYANOSIS &
+    CONVULSIONS. INGESTION: VOMITING/HARMFUL.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: PAIN/TEARING/INFLAMMATION/IRRITATION.
+    SKIN; IRRITATION/DEFATTING/DRYING/DERMATITIS. INHALATION:
+    IRRITATION TO NOSE/THROAT/RESPIRATORY TRACT, CNS DEPRESSION,
+    GIDDINESS/HEADACHE/DIZZINESS/NAUSEA/U
+    NCONSCIOUSNESS/DEATH/COUGH/LABORED BREATHING/CYANOSIS/CONVULSIONS.
+    INGESTION: VOMITING/HARMFUL.
+Medical Cond Aggravated by Exposure:EYE & RESPIRATORY DISORDERS
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER FOR 15 MINS. SKIN: WASH W/SOAP
+    & WATER. INHALATION: REMOVE TO FRESH AIR, IF BREATHING IS
+    DIFFICULT, PROVIDE OXYGEN/ARTIFICIAL RESPIRATION. INGESTION: INDUCE
+    VOMITING ONLY  IF CONSCIOUS. KEEP HEAD BELOW HIPS TO PREVENT
+    ASPIRATION OF LIQUID INTO LUNGS RESULTING IN PNEUMONITIS. OBTAIN
+    MEDICAL ATTENTION IN ALL CASES. (SEE SUPP).
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:142F
+Lower Limits:1%
+Upper Limits:6%
+Extinguishing Media:WATER FOG, FOAM, DRY CHEMICAL, CO2. DON'T USE A
+    DIRECT STREAM OF WATER.
+Fire Fighting Procedures:WEAR POSITIVE PRESSURE NIOSH APPROVED
+    SELF-CONTAINED BREATHING APPARATUS & FULL BUNCKER GEAR. USE WATER
+    FOG, IF VAPOR CLOUD FORMS.
+Unusual Fire/Explosion Hazard:USE WATER TO COOL CONTAINERS EXPOSED TO
+    HEAT TO PREVENT VAPOR PRESSURE BUILDUP/RUPTURE/WEAKENING.
+    AUTOIGNTION TEMP: 489F. PRODUCT >AIR & MAY FLOAT/REIGNITE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE AREA. WEAR PROTECTIVE EQUIPMENT. SHUT
+    OFF SOURCE OF LEAK SAFELY. SOAK UP RESIDUE W/ABSORBENT
+    (VERMICULITE/SUITABLE MATERIAL). PLACE IN NON-LEAKING CONTAINERS.
+    DIKE/CONTAIN RUNOFF. REMOVE W/VA CUUM TRUCKS/PUMP TO SALVAGE
+    VESSEL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE CONTAINERS IN SAFE NON-TRAFFIC
+    AREA. KEEP CONTAINER CLOSED/WELL IDENTIFIED/SEAL TIGHTLY. AVOID
+    BREATHING OF VAPORS, CONTACT W/EYES/SKIN.
+Other Precautions:DON'T CUT/DRILL/GRIND/WELD ON/NEAR EMPTY CONTAINERS.
+    NO SMOKING. WHEN TRANSFERRING, USE BONDING PROCEDURES. GROUND TO
+    PREVENT SPARKING. AVOID CONTACT W/ALL IGNITION SOURCES/STRONG
+    OXIDIZING AGENTS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE A NIOSH APPROVED RESPIRATOR WHEN ANTICIPATED
+    EXPOSURE EXCEEDS TLV. USE EITHER AN ATMOSPHERE-SUPPLYING RESPIRATOR
+    OR AN AIR-PURIFYING RESPIRATOR FOR ORGANIC VAPORS.
+Ventilation:USE EXPLOSION-PROOF VENTILATION AS REQUIRED TO CONTROL
+    VAPOR CONCENTRATIONS.
+Protective Gloves:CHEMICAL-RESISTANT
+Eye Protection:SAFETY GLASSES, GOGGLES, FACESHIELD
+Other Protective Equipment:PROTECTIVE CLOTHING, RUBBER BOOTS, BUNKER
+    COATS, & HELMET W/FACE SHIELD
+Work Hygienic Practices:REMOVE/LAUNDER/AIR-DRY CONTAMINATED CLOTHING &
+    SHOES BEFORE REUSE.
+Supplemental Safety and Health
+PHYSICIAN NOTE: INDUCE VOMITING BY GIVING 2 GLASSES OF WATER FOLLOWED
+    BY 2 TSPS SYRUP OF IPECAC OR INDUCE VOMITING BY TOUCHING FINGER TO
+    BACK OF THROAT. IF SYMPTOMS SUCH AS LOSS OF GAG REFLEXES/CONVUL
+    SIONS/UNCONSCIOUSNESS OCCUR BEFORE EMESIS, USE GASTRIC LAVAGE,
+    FOLLOWING INTUBATION W/CUFFED ENDOTRACHEAL TUBE.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:365-428F
+Vapor Pres:1
+Vapor Density:5.3
+Spec Gravity:0.783
+Evaporation Rate & Reference:(BU AC = 1): 0.1
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:WATER WHITE W/PAINT THINNER ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:IGNITION SOURCES SUCH AS SPARKS, HEAT, OR
+    FLAMES
+Hazardous Decomposition Products:CO, & UNIDENTIFIED ORGANIC COMPOUNDS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF WASTE IN ACCORDANCE W/FEDERAL, STATE
+    & LOCAL REGULATIONS. COMBUSTIBLE LIQUID. DOT UN1255.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

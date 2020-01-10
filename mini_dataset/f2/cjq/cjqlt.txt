@@ -1,0 +1,181 @@
+=====================  Product Identification  =====================
+
+Product ID:DINITROL AV 100D
+MSDS Date:07/30/1996
+FSC:6850
+NIIN:01-370-2596
+Status Code:A
+MSDS Number: CJQLT
+=== Responsible Party ===
+Company Name:DINOL AB
+Box:149
+City:S-281 22 HASSLEHOLM
+Emergency Phone Num:020-996000+4608337043
+Resp. Party Other MSDS Num.:HV/270D
+Preparer's Name:LENA ALMESTRAND
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:NO489
+=== Contractor Identification ===
+Company Name:DINOL AB
+Box:149
+City:S-281 22 HASSLEHOLM
+CAGE:NO489
+Company Name:DINOL U.S., INC.
+Address:14826 NE 95TH STREET
+Box:City:REDMOND
+State:WA
+ZIP:98052
+Country:US
+Phone:425-556-5114/800-331-4304
+Contract Num:SP0450-99-M-NA43
+CAGE:0L040
+Company Name:DINOL U.S., INC.
+Address:14826 NE 95TH STREET
+Box:City:REDMOND
+State:WA
+ZIP:98052
+Country:US
+Phone:425-556-5114/800-331-4304
+Contract Num:SP0450-99-M-ND74
+CAGE:0L040
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NAPHTHA (PETROLEUM), HYDROTREATED HEAVY
+CAS:64742-48-9
+Minumum % Wt:20.
+Maxumum % Wt:30.
+
+Ingred Name:INHIBITOR (SULFONATE BASED)
+CAS:25619-56-1
+Minumum % Wt:5.
+Maxumum % Wt:10.
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:>5000 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: MAY BE HARMFUL AT INHALATION AT
+    LONG EXPOSURE.  DRIES THE SKIN. MAY BE HARMFUL IF INGESTED.
+    FLAMMABLE.
+Explanation of Carcinogenicity:THE PETROLEUM NAPHTA / PETROLEUM
+    DISTILLATE / LUBRICATING OIL FULFILL THE REQUIREMENTS  FOR NOT
+    BEING CLASSIFIED AS CANCEROGENIC [< O.1% BENSENE ALT <3%(W/W) DMSO
+    EXTRACT (IP 346)].
+Effects of Overexposure:SKIN: DRIES THE SKIN.  INGESTION: MAY BE
+    HARMFUL. STRONG COUGH, VOMITING. EYES: IRRITATION. INHALATION: MAY
+    BE	HARMFUL AT LONG EXPOSURE.
+Medical Cond Aggravated by Exposure:NOT PROVIDED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: MOVE TO FRESH AIR AND REST. ADMINISTER 
+    ARTIFICIAL RESPIRATION IF NEEDED.  INGESTION: GIVE 3 OZ OF USP
+    WHITE MINERAL OIL OR EDIBLE VEGETABLE OIL TO DRINK. TAKE TO
+    HOSPITAL IF STRONG COUGH  OR VOMITING OCCURS, OR IF LARGER QUANTITY
+    HAS BEEN CONSUMED. DO NOT INDUCE VOMITING. GET MEDICAL ATTENTION.
+    SKIN: REMOVE SOAKED CLOTHING. WASH SKIN WITH SOAP AND WATER.  EYES:
+    RINSE WITH WATER. CONTAC T PHYSICIAN IF DISCOMFORT CONTINUES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:>47.C, 116.6F
+Autoignition Temp:>200.C, 392.F
+Lower Limits:0.50
+Upper Limits:7
+Extinguishing Media:FIRE MAY BE EXTINGUISHED USING POWDER, FOAM OR
+    CARBON DIOXIDE (CO2). CONTAINERS CLOSE TO FIRE SHOULD BE REMOVED OR
+    COOLED WITH WATER.
+Fire Fighting Procedures:CONTAINERS CLOSE TO FIRE SHOULD BE REMOVED OR
+    COOLED WITH WATER.
+Unusual Fire/Explosion Hazard:MAY REACT VIOLENTLY WITH OXIDIZING
+    MATERIALS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE ALL IGNITION SOURCES. EVACUATE AREA.
+    WEAR APPROPRIATE SAFETY EQUIPMENT. SHUT OFF SOURCE OF LEAK. DIKE
+    AND CONTAIN LEAK. PUMP FREE MATERIAL INTO SALVAGE VESSELS. SOAK UP
+    RESIDUE WITH A SUITAB LE ABSORBENT. COLLECT ABSORBENT IN OPEN-HEAD
+    DRUMS ONLY, SEAL DRUM SECURELY AND DELIVER FOR DISPOSAL ACCORDING
+    TO LOCAL, STATE, AND FEDERAL REGULATIONS AND LAWS.
+Neutralizing Agent:NOT PROVIDED.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP PRODUCT AND CONTAINERS FROM
+    FLAME, SPARKS,  IGNITION SOURCES, HIGH TEMPERATURES, HEATING AND
+    ELECTRICAL EQUIPMENT. GROUND CONTAINER DURING LIQUID TRANSFERS.
+    CLEAN UP SPILLS USING ABSORBENT MATERI AL. STORE AT TEMPERATURES
+    BETWEEN 40F AND 100F IN A DRY,  WELL VENTILATED AREA.
+Other Precautions:DO NOT BREATHE GAS, FUMES, VAPORS, SPRAY. AVOID SKIN
+    CONTACT. IN CASE OF INSUFFICIENT VENTILATION, WEAR SUITABLE
+    RESPIRATORY EQUIPMENT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IN CASE OF INSUFFICIENT VENTILATION, WEAR
+    SUITABLE RESPIRATORY EQUIPMENT. IF RESPIRATORY PROTECTION  REQUIRED
+    USE RESPIRATOR WITH GAS CARTRIDGE (ORGANIC SUBSTANCES).
+Ventilation:PROVIDE GOOD VENTILATION. MECHANICAL VENTILATION OR LOCAL
+    EXHAUST VENTILATION MAY BE REQUIRED.
+Protective Gloves:USE PROTECTIVE GLOVES MADE OF NEOPRENE, NITRILE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:150 TO 200 C
+Vapor Pres:< 1 (KPA) @20C
+Vapor Density:> 1(AIR=1)
+Spec Gravity:0.97
+Viscosity:0.50 PAS AT 23 C
+Evaporation Rate & Reference:< 0.12 (BUAC=1)
+Solubility in Water:.01 (G/100G H20 20C)
+Appearance and Odor:FLUID, LIGHT BROWN; NO ODOR MENTIONED.
+
+=================  Stability and Reactivity Data  =================
+
+UNSPECIFIED
+
+===================  Toxicological Information	===================
+
+Toxicological Information:TOXIC DOSE-LD 50: >5000.00 MG/KG (ORAL RAT).
+    TOXIC CONC.-LC 50: 3200.00 PPM/4H(INH-RAT)
+
+=====================  Ecological Information  =====================
+
+Ecological:PRODUCT NOT CLASSIFIED AS HARMFUL TO  ENVIRONMENT. PETROLEUM
+    NAPHTA NOT CLASSIFIED AS ENVIRONMENTALLY HARMFUL AND HAS LOW
+    TOXICITY FOR WATER ORGANISMS. MAJOR LOCAL OUTLETS COULD BE A RISK,
+    NAPHTA IS E ASILY DEGRADABLE. BIO ACCUMULATION:PETROLEUM NAPHTA CAN
+    BE BIOACCUMULATED. DEGRADABILITY: NO INFORMATION AVAILABLE FOR
+    PRODUCT. SOLVENT IS EASILY DEGRADABLE. ACUTE FISH TOXICITY: NO
+    INFORMATION FOR PR ODUCT. FOR .PETROLEUM NAPHTA: LC50 (FISH) 10-100
+    MG/L, EC50(DAPHNIA) 10-100 MG/L, IC50(ALGAES) 10-100 MG/L. WATER
+    HAZARD CLASSIFICATION: NO INFORMATION AVAILABLE FOR PRODUCT WGK 1
+    (OWN ESTIMATION).
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF WASTE MATERIAL IN ACCORDANCE WITH
+    LOCAL, STATE, AND FEDERAL LAWS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:PER MSDS, TRANSPORTATION DATA: GROUND/RAIL:
+    PROPER SHIPPING NAME: COATING SOLUTION. UN 1139, CLASS 3; FLAMMABLE
+    LIQUIDS. SEA TRANSPORT: UN 1139, CLASS 3.3, IMDG PAGE 3321, PKG
+    III, MARINE POLLUTANT: N O. AIR TRANSPORT: UN 1139, CLASS 3,
+    PKGIII.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

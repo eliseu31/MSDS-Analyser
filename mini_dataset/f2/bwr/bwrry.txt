@@ -1,0 +1,121 @@
+=====================  Product Identification  =====================
+
+Product ID:ML4002
+MSDS Date:04/04/1994
+FSC:5330
+NIIN:00N057631
+MSDS Number: BWRRY
+=== Responsible Party ===
+Company Name:SEPCO CORP
+Address:2750 MONTGOMERY HIGHWAY
+Box:1599
+City:PELHAM
+State:AL
+ZIP:35124
+Country:US
+Info Phone Num:205-663-2251
+Emergency Phone Num:205-663-2251
+Preparer's Name:LARRY JOBMAN
+CAGE:16281
+=== Contractor Identification ===
+Company Name:SEPCO CORP
+Address:HWY 31 S
+Box:1599
+City:PELHAM
+State:AL
+ZIP:35124
+Country:US
+Phone:205-663-2251
+CAGE:16281
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHYLENE, TETRAFLUORO-, POLYMER; (POLYTETRAFLUOROETHYLENE)
+CAS:116-14-3
+RTECS #:KX4025000
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:NONE SPECIFIED BY MANUFACTURER.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: REMOVE TO FRESH AIR. SUPPORT BREATHING(GIVE O*2/ARTF
+    RESP). EYE: FLUSH W/POTABLE WATER FOR AT LEAST 15 MINS. CALL MD.
+    SKIN: FLUSH W/COPIOUS AMOUNTS OF WATER. CALL MD. INGEST:  CALL MD
+    IMMEDIATELY .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:WILL NOT FLASH
+Extinguishing Media:WATER, FOAM, CO*2, DRY CHEMICAL.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT IN CLOSE PROXIMITY OF SERIOUS FIRE TO PROTECT
+    AGAINST DECOMPOSITION PRODUCTS OF PTFE.
+Unusual Fire/Explosion Hazard:PTFE WILL BURN WHEN IGNITED IN 100%
+    OXYGEN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NONE SPECIFIED BY MANUFACTURER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NONE REQUIRED.
+Other Precautions:CARE SHOULD BE TAKEN NOT TO CONTAMINATE TOBACCO &
+    OTHER SMOKING UTENSILS OR TO INCINERATE TO AVOID POLYMER FUME FEVER
+    W/FLU-LIKE SYMPTOMS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED(MFR). USE NIOSH/MSHA APPROVED
+    RESPIRATOR APPROPRIATE FOR EXPOSURE OF CONCERN .
+Ventilation:LOCAL EXHAUST: AMBIENT.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPRVD SAFETY GLASSES.
+Other Protective Equipment:NONE.
+Work Hygienic Practices:WASH HANDS AFTER HANDLING.
+Supplemental Safety and Health
+MATLS TO AVOID: AGENTS.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>300F,>149C
+Vapor Pres:<5
+Vapor Density:21
+Spec Gravity:1.2(H*20=1)
+Evaporation Rate & Reference:<1 (BUAC=1)
+Solubility in Water:INSOLUBLE (NIL)
+Appearance and Odor:BLACK W/NO ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NOT COMPAT W/MOLTEN ALKALI METALS, ELEMENTAL FLOURINE, SOME
+    INTERHALOGEN CMPDS, STRONG OXIDIZERS & REDUCING (SUPDAT)
+Stability Condition to Avoid:NONE.
+Hazardous Decomposition Products:TRACE AMTS OF HYDROGEN FLOURIDE &
+    PERFLUOROCARBON OLEFINS MAY BE EVOLVED ABOVE 400C(752F).
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:APPROVED LAND FILL, DISPOSAL METHODS MUST COMPLY
+    WITH LOCAL, STATE & FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

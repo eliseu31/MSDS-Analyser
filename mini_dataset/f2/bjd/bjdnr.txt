@@ -1,0 +1,160 @@
+=====================  Product Identification  =====================
+
+Product ID:MOLECULAR SIEVE TYPE 4A
+MSDS Date:08/31/1990
+FSC:4935
+NIIN:01-075-5215
+MSDS Number: BJDNR
+=== Responsible Party ===
+Company Name:UNION CARBIDE CORP,INDUSTRIAL CHEMICALS DIVISION
+Address:39 OLD RIDGEBURY ROAD
+City:DANBURY
+State:CT
+ZIP:06817-0001
+Country:US
+Info Phone Num:203-529-6226
+Emergency Phone Num:800-822-4357
+Preparer's Name:MOLECULAR SIEVES DEPT
+CAGE:61637
+=== Contractor Identification ===
+Company Name:AIR DRY CORP OF AMERICA
+Address:5297 MAUREEN LN
+Box:City:MOORPARK
+State:CA
+ZIP:93020
+Country:US
+Phone:805-529-6226
+CAGE:01496
+Company Name:UNION CARBIDE CORP
+Address:39 OLD RIDGEBURY ROAD
+Box:City:DANBURY
+State:CT
+ZIP:06817-0001
+Country:US
+Phone:800-822-4357/732-563-5522 (MSDS)
+CAGE:61637
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM OXIDE
+CAS:1313-59-3
+Fraction by Wt: <30%
+OSHA PEL:NONE
+ACGIH TLV:NONE
+
+Ingred Name:SILICON OXIDE
+CAS:112945-52-5
+RTECS #:VV7310000
+Fraction by Wt: <50%
+OSHA PEL:20 MPPCF
+ACGIH TLV:5MG/M3RESPRLBE DUST
+
+Ingred Name:ALPHA-ALUMINA (ALUMINUM OXIDE)  (EPA LISTS ONLY FIBROUS
+    FORMS)  (SARA III)
+CAS:1344-28-1
+RTECS #:BD1200000
+Fraction by Wt: <40%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MAY CAUSE IRRITATION OF THE NOSE AND
+    THROAT, ACCOMPANIED BY COUGH AND CHEST DISCOMFORT. MAY CAUSE
+    IRRITATION ON SKIN CONTACT SEEN AS LOCAL REDNESS. MAY CAUSE
+    IRRITATION ON EYE CONTACTSEEN AS EXCESS RE DNESS OF THE
+    CONJUNCTIVA. PROLONGED INHALATION MAY CAUSE LUNG DAMAGE.
+Explanation of Carcinogenicity:NONE SPECIFIED BY MANUFACTURER.
+Effects of Overexposure:SEE HEALTH HAZARDS
+Medical Cond Aggravated by Exposure:BREATHING OF DUST MAY AGGRAVATE
+    ASTHMA AND INFLAMMATORYOR FIBROTIC PULMONARY DISEASE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGEST:IF IN LARGE QUANTITIES,DRINK 2 GLASSES OF WATER.INDUCE
+    VOMITING IF PATIENT IS CONSCIOUS. SKIN:WASH W/SOAP & WATER.
+    INHAL:REMOVE TO FRESH AIR. EYE:FLUSH W/WATER FOR 15 MIN. NOTE TO
+    MD:PRODUCT IS  DESICCANT & GENERATES HEAT AS IT ADSORBS WATER. USED
+    PRODUCT CAN CONTAIN MATERIAL OF A HAZARDOUS NATURE. IDENTIFY THAT
+    MATERIAL AND TREAT ACCORDINGLY.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:UNUSED MATERIAL WILL NOT BURN. USE MEDIA
+    APPROPRIATE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:DEPENDS ON THE USE OF THE MATL.USED MATL.MAY
+    CONTAIN PRODS.OF A HAZ.NATURE.THE USER OF THIS PROD.MUST RELAY THE
+    HAZ.OF RETAINED MATERIAL TO FIRE FIGHTERS
+Unusual Fire/Explosion Hazard:IN FRESH,UNUSED STATE,MOLEC.SIEVES ARE
+    NOT FLAMMABLE.WHEN EXPOSED TO H2O,CAN GET HOT & HEAT TO BOILING
+    POINT OF H20. FLOODING WILL REDUCE TEMP TO SAFE LIMITS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP THE SPILL AREA. COLLECT AND PLACE THE
+    SPILLED MATERIALIN A WASTE DISPOSAL CONTAINER. AVOID RAISING DUST.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:PH RANGE IF IN AQUEOUS SLURRY 8-11. DO
+    NOT POUR LIQUID INTO PRODUCT AS BURNS CAN OCCUR.
+Other Precautions:EYE & SKIN IRRIT.BREATHING DUST MAY BE HARMFUL.OPEN
+    CONTAINER SLOWLY TO AVOID DUST.USE ADEQUATE VENT.KEEP CONTAINER
+    CLOSED.WASH THOROUGHLY AFTER HANDLING.DO NOT INGEST.AVOID BREATHING
+    DUST & PROLONGED  CONTACT W/SKIN.DO NOT GET IN EYES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WHERE THERE IS EXCESSIVE DUSTINESS, WEAR A
+    RESPIRATOR SELECTED AS PER OSHA 29 CFR 1910.134 AND APPROVED BY
+    NIOSH/MSHA.
+Ventilation:LOCAL EXHAUST AS APPROPRIATE TO MINIMIZE DUST.MECHANICAL:
+    NOTAPPLICABLE
+Protective Gloves:IMPERMEABLE TO DUST FOR HAND CONTACT
+Eye Protection:SAFETY GLASSES OR GOGGLES(29CFR1910.133)
+Other Protective Equipment:EYEWASH FOUNTAIN
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING. DO NOT PUT
+    PRODUCT IN MOUTH.
+Supplemental Safety and Health
+HAZ DECOMP PROD:HYDROCARBONS AND OTHER MATERIAL THAT CONTACTSEIVE
+    DURING NORMAL USE CAN BE RETAINED ON SEIVE. DECOMP PRODUCTS COME
+    FROM RETAINED MATERIAL. BEFORE USING SEIVE, KNOW HAZARDS OF THESE
+    PRO DUCTS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V7
+Spec Gravity:1.1 (PIECE)
+Appearance and Odor:DEPENDING ON PRODUCT, MAY APPEAR AS
+    BEAD,PELLET,MESH, CAKE OR POWDER; ODORLESS
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+SUDDEN CONTACT W/HIGH CONCENTRATIONS OF CHEMICALS HAVING HEATS OF
+    ADSORPTION SUCH AS OLEFINS, HC1, ETC.
+Stability Condition to Avoid:MOISTURE (WATER) CAN CAUSE RISE IN
+    TEMPERATURE WHICH MAY RESULTIN BURN.
+Hazardous Decomposition Products:SIEVE DOES NOT READILY DECOMPOSE
+    UNLESS SUBJECTED TO EXTREMETEMP OR CHEM COND.IF SO,MIX OF OXIDES
+    RESULTS.SEE SUPP. DATA
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISCARD ANY PRODUCT (INCLUDING ANY RETAINED
+    MATERIALS OF USE), DISPOSABLE CONTAINER OR LINER IN AN
+    ENVIRONMENTALLY ACCEPTABLE MANNER, IN FULL COMPLIANCE WITH FEDERAL,
+    STATE AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

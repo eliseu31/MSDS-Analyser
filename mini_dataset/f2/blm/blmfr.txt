@@ -1,0 +1,170 @@
+=====================  Product Identification  =====================
+
+Product ID:COPPER CHEMETS, VACUETTES AND VACU-VIALS, R
+MSDS Date:01/09/1989
+FSC:6550
+NIIN:00N020999
+MSDS Number: BLMFR
+=== Responsible Party ===
+Company Name:CHEMETRICS INC
+Address:ROUTE 28
+City:CALVERTON
+State:VA
+ZIP:22016
+Info Phone Num:800-356-3072
+Emergency Phone Num:800-356-3072
+Preparer's Name:HENRY B CASTANEDA
+CAGE:7K791
+=== Contractor Identification ===
+Company Name:CHEMETRICS INC
+Address:ROUTE 28
+Box:City:CALVERTON
+State:VA
+ZIP:22016
+Country:US
+Phone:800-356-3072; 540-788-9026
+CAGE:7K791
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:AMMONIUM HYDROXIDE	(SARA III)
+CAS:1336-21-6
+RTECS #:BQ9625000
+Fraction by Wt: 20.0%
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:BATHOCUPROINE
+Fraction by Wt: 0.1%
+
+Ingred Name:OXALIC ACID
+CAS:144-62-7
+RTECS #:RO2450000
+Fraction by Wt: 0.5%
+OSHA PEL:1 MG/M3/2 STEL
+ACGIH TLV:1 MG/M3/2 STEL; 9192
+
+Ingred Name:SODIUM BISULFITE  (SASA III)
+CAS:7631-90-5
+RTECS #:VZ2000000
+Fraction by Wt: 0.5%
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ACETONE  (SARA III)
+CAS:67-64-1
+RTECS #:AL3150000
+Fraction by Wt: <1%.O
+OSHA PEL:1000PPM
+ACGIH TLV:750PPM/1000STEL;9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ACETIC ACID  (SARA III)
+CAS:64-19-7
+RTECS #:AF1225000
+Fraction by Wt: 15%
+OSHA PEL:10 PPM
+ACGIH TLV:10 PPM/15 STEL; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:DEIONIZED WATER
+CAS:77-18-5
+Fraction by Wt: 62%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:CORROSIVE TO EYES, SKIN, AND MUCOUS
+    MEMBRANES. SKIN: MAY CAUSE DERMATITIS. EYE: MAY CAUSE IRRITATION,
+    CATARACTS, AND RETINAL ATROPHY. INGESTION: MAY CAUSE EXCESSIVE
+    SALIVATION, NAUSEA, VOMITING, GASTR IC IRRITATION, AND POSSIBLY
+    PERFORATION.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: THORO WASH AFFECTED AREAS W/SOAP/MILD DETERGENT & LRG
+    AMTS OF H2O. IN CASE OF CHEM BURNS, COVER AREA W/STERILE DRY
+    DRESSING. SEEK PROMPT MED ATTN. EYE: FLUSH CONT W/COPIOUS AMTS OF
+    H2O FOR AT LE AST 15 MIN. FORCIBLY HOLD EYELIDS APARTTO ENSURE
+    IRRIGATION OF ALL EYE & LID TISSUE. SEEK PROMPT MED ATTN. INGEST:
+    IF VICTIM IS CON & NOT CONVULSIVE, IMMED GIVE VICTIM LRG QTYS OF
+    H2O. (SUP DAT)
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NON-FLAMMABLE
+Lower Limits:16%
+Upper Limits:27%
+Extinguishing Media:DRY CHEMICAL, CARBON DIOXIDE, WATER SPRAY, OR FOAM.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:DECOMPOSES, RELEASING IRRITATING OR TOXIC
+    GASES, WHEN HEATED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DO NOT TOUCH SPILLED MATERIAL. TAKE UP WITH
+    SAND OR OTHER ABSORBENT MATERIAL AND PLACE INTO SMALL CONTAINERS
+    FOR DISPOSAL.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NONE SPECIFIED BY MANUFACTURER.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE
+    FOR EXPOSURE OF CONCERN .
+Ventilation:LOCAL EXHAUST.
+Protective Gloves:CHEMICAL RESISTANT GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:IMPERVIOUS CLOTHING. EMERGENCY EYE WASH &
+    DELUGE SHOWER .
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+FIRST AID PROC: DO NOT INDUCE VOMITING. SEEK PROMPT MEDICAL ATTENTION.
+    VAP PRESS: 420-475 (AS NH3).
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C2
+Melt/Freeze Pt:M.P/F.P Text:-107F,-77C
+Vapor Pres:SUPP DATA
+Vapor Density:0.6
+Spec Gravity:0.9
+Solubility in Water:COMPLETE
+Appearance and Odor:COLORLESS LIQUID, STRONG AMMONIA ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:MAY PRODUCE CORROSIVE VAPORS OF
+    AMMONIA AND TOXIC OXIDES OF NITROGEN.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF BY MEANS AS TO COMPLY WITH ALL LOCAL,
+    STATE AND FEDERAL REGULATIONS OR CONTACT AN APPROVED AND LICENSED
+    DISPOSAL AGENCY.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

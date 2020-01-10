@@ -1,0 +1,125 @@
+=====================  Product Identification  =====================
+
+Product ID:6/100
+MSDS Date:11/19/1985
+FSC:6810
+NIIN:00F012325
+MSDS Number: BJDHM
+=== Responsible Party ===
+Company Name:OTTAWA SILICA COMPANY
+Address:LA LAFETTE AND BOYCE DRIVE
+Box:577
+City:OTTAWA
+State:IL
+ZIP:61350
+Info Phone Num:(815) 434-0190
+Emergency Phone Num:(815) 434-0190
+Preparer's Name:WILLIAM D. DARROW
+CAGE:FO588
+=== Contractor Identification ===
+Company Name:CRYSTAL SILICA COMPANY
+CAGE:OO505
+Company Name:OTTAWA SILICA COMPANY
+Address:LA LAFETTE AND BOYCE DRIVE
+Box:577
+City:OTTAWA
+State:IL
+ZIP:61350
+Phone:(815) 434-0190
+CAGE:FO588
+Company Name:U.S. SILICA COMPANY
+Box:187
+City:BERKELEY SPRINGS
+State:WV
+ZIP:25411
+Country:US
+Phone:304-258-2500
+CAGE:28558
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SILICA, CRYSTALLINE - QUARTZ
+CAS:14808-60-7
+RTECS #:VV7330000
+Fraction by Wt: 100%
+Other REC Limits:0.05 MG/CUM NIOSH
+OSHA PEL:SEE TABLE Z3
+ACGIH TLV:0.1 MG/M3 RDUST;9293
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: CRYSTALLINE FIBER SILICON
+    DUST MAY CAUSE LUNG SCARRING/INJURY W/COUGH & SHORTNESS OF BREATH,
+    SILICOSIS DISABLING/FATAL PULMONARY FIBROSIS. EYES: IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: CRYSTALLINE FIBER SILICON DUST MAY
+    CAUSE LUNG SCARRING/INJURY WITH COUGH & SHORTNESS OF BREATH,
+    SILICOSIS DISABLING/FATAL PULMONARY FIBROSIS. EYES: IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: WASH WITH LARGE AMOUNTS OF WATER. GET MED ATTN.
+    EXAMINATION OF THE RESPIRATORY & CARDIOVASCULAR SYSTEM SHOULD BE
+    STRESSED.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:SAND MAY BE USED TO SMOTHER FIRE.
+Fire Fighting Procedures:SELF-CONTAINED BREATHING APPARATUS W/FULL
+    FACEPIECE OPERATED IN PRESSURE-DEMAND OR OTHER POSITIVE PRESSURE
+    MODE.
+Unusual Fire/Explosion Hazard:NO FIRE OR EXPLOSION HAZARD.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CLEANUP PERSONNEL MUST WEAR PROTECTIVE
+    EQUIPMENT. COLLECT SPILLED MATERIAL IN DUSTLESS, SAFE MANNER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:USE DUSTLESS OR WET SYSTEMS WHEN
+    HANDLING & DURING CLEAN UP.
+Other Precautions:MAINTAIN VENTILATION SYSTEM & POST APPROPRIATE
+    WARNING NOTICES WHERE PRODUCT IS USED, STORED & HANDLED. PRACTICE
+    GOOD HOUSEKEEPING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESPIRATORS MAY BE USED WHEN ENGINEERING & WORK
+    PRACTICE CONTROLS AREN'T TECHNICALLY FEASIBLE. NIOSH & MSHA
+    RESPIRATORS ARE PERMITTED IF >TLV.
+Ventilation:MAINTAIN GOOD VENTILATION.
+Protective Gloves:OPTIONAL
+Eye Protection:SAFETY GLASSES
+Work Hygienic Practices:PRACTICE GOOD HOUSEKEEPING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:4046F
+Melt/Freeze Pt:M.P/F.P Text:3050F
+Spec Gravity:2.65
+Appearance and Odor:WHITE, GRANULAR, NO ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+HYDROFLUORIC ACID (HF)
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CRYSTALLINE FREE SILICA MAY BE REUSED OR
+    DISPOSED OF IN AN UNRESTRICTED SANITARY LANDFILL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

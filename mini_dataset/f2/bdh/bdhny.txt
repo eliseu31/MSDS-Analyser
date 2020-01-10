@@ -1,0 +1,116 @@
+=====================  Product Identification  =====================
+
+Product ID:SR 4210 SAE 10
+MSDS Date:01/01/1985
+FSC:9150
+NIIN:00-188-9862
+MSDS Number: BDHNY
+=== Responsible Party ===
+Company Name:SUN REFINING & MARKETING CO,MFR;CHEM COMMOD,DIST.
+Emergency Phone Num:215-447-1852
+CAGE:1K762
+=== Contractor Identification ===
+Company Name:SUN REFINING & MARKETING CO
+Address:1801 MARKET ST
+City:PHILADELPHIA
+State:PA
+ZIP:19103
+Country:US
+CAGE:1K762
+Company Name:SUN REFINING AND MARKETING COMPANY
+Address:1801 MARKET ST,TEN PENN CTR
+Box:City:PHILADELPHIA
+State:PA
+ZIP:19103-1699
+Country:US
+Phone:215-977-6133
+CAGE:8X531
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PARAFFIN OIL,REFINED,CAS#64741884
+Fraction by Wt: UNK
+
+Ingred Name:DETERGENT(PROPRIETARY)
+Fraction by Wt: UNK
+
+Ingred Name:DISPERSING AGENT
+Fraction by Wt: UNK
+
+Ingred Name:INHIBITORS
+Fraction by Wt: UNK
+
+Ingred Name:ADDITIVES(CONTAINS
+    SULFUR,CALCIUM,ZINC,PHOSPHOROUS,NITROGEN),SEE SUPP DATA
+Fraction by Wt: UNK
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:INHALED:>25 MG/CUM MAY PRESENT
+    PROBLEMS.SKIN:IRRITATS W PROLONGED EXPOS.EYES:SLIGHT IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:WASH W.SOAP & H*2O EYES:FLUSH W. H*2O. INGESTED:GIVE 2
+    GLASSES H*2O; INDUCE VOMITING.CALL A PHYSICIAN. INHALE:REMOVE TO
+    FRESH AIR. GIVE CPR/OXYGEN IF NEED. KEEP WARM & QUIET. REMOVE
+    CONTAMINATED  CLOTHING. IF UNCONS DO NOT TAKE ANYTHING BY MOUTH.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:>405F/207C COC
+Autoignition Temp:Autoignition Temp Text:695F
+Lower Limits:UNK=
+Upper Limits:UNK
+Extinguishing Media:CO*2, FOAM, DRY CHEM & H*2O FOG.
+Fire Fighting Procedures:WEAR SELF-CNTND BRTHG APP IF INVOLVED IN FIRE.
+Unusual Fire/Explosion Hazard:NONE NOTED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE IGNITION SOURCES.DIKE & CITAIN SPILL
+    W INERT OIL ABSORBENT.CAUTION:AREA MAY BE SIPPERY.AVOID GALLS.NO
+    UNUSUAL HAZARD.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DRY,WELL VENT,LOW FIRE
+    RISK AREA. PROTECT FROM PHYSICAL DAMAGE.AVOID ANY PHYSICAL CONTACT.
+    KEEP CONTAINERS TIGHTLY CLOSED.
+Other Precautions:PROLONGED OR REPEATED CONTACT WITH USEDOIL MAY HARM
+    SKIN & CAUSE CANCER.PROMPTLY EASH AFFECTED AREA WITH SOAP AND
+    WATER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF EXCED TLV,NIOSH/MSHA APPR SELF-CNTND BRTHG
+    APP (POS PR MODE)
+Ventilation:PROVIDE MECHAN(GEN/LOCAL EXHAUST)VENT TO MAINTN 10
+Spec Gravity:0.88
+Evaporation Rate & Reference:0.001(ETHER=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:DARK FLUID,ENGINE OIL OROR;PH 6.6
+Percent Volatiles by Volume:NIL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:AVOID IGNITION SOURCES
+Hazardous Decomposition Products:CO,TRACE OXIDES OF
+    SULFUR,ZINC.ASPHYXIANTS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:KEEP IN COVERED DRUMS,PENDING DISPOSAL. HANDLE &
+    DISPOSE IN FULL COMPLIANCE WITH ALL APPLICABLE
+    INTERNATIONAL,FEDERAL,STATE, & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,169 @@
+=====================  Product Identification  =====================
+
+Product ID:AMERCOAT, 33AL PSTE
+MSDS Date:03/10/1989
+FSC:8030
+NIIN:00N022700
+MSDS Number: BLPBS
+=== Responsible Party ===
+Company Name:AMERON PROTECTIVE COATINGS
+Address:201 NORTH BERRY STREET
+City:BREA
+State:CA
+ZIP:92621
+Country:US
+Info Phone Num:714-529-1951
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+CAGE:0Y2E4
+=== Contractor Identification ===
+Company Name:AMERON INTERNATIONAL PROTECTIVE COATINGS GROUP
+Address:201 NORTH BERRY ST.
+Box:City:BREA
+State:CA
+ZIP:92821
+Country:US
+Phone:714-529-1951
+CAGE:55849
+Company Name:AMERON PROTECTIVE COATINGS
+Address:201 NORTH BERRY STREET
+Box:1020
+City:BREA
+State:CA
+ZIP:92622-1020
+Country:US
+Phone:714-529-1951
+CAGE:0Y2E4
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ALUMINUM  (SARA III)
+CAS:7429-90-5
+RTECS #:BD0330000
+Fraction by Wt: <75%
+OSHA PEL:15MG/M3 DUST/5 FUME
+ACGIH TLV:10MG/M3 DUST; 9192
+
+Ingred Name:VM & P NAPHTHA. VP: 5.2 @ 68F. LD50: 5 G/KG.
+CAS:64742-48-9
+Fraction by Wt: 26%
+Other REC Limits:500 PPM (MFR)
+OSHA PEL:300 PPM; 400 STEL
+ACGIH TLV:300 PPM
+
+Ingred Name:BENZENE  (SARA III)
+CAS:71-43-2
+RTECS #:CY1400000
+Fraction by Wt: SEE ING
+OSHA PEL:1PPM/5STEL;1910.1028
+ACGIH TLV:10 PPM; A2; 9192
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE INGREDIENT 2
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:VAPOR/SPRAY MIST &/OR DUST CAN BE
+    HARMFUL. IRRIT TO SKIN/MUC MEMB/EYES & RESP SYSTEM. EXCESSIVE INHAL
+    CAN CAUSE HDACH/NAUS/DIZZ OR ASPHYXIATION. RPTD/PRLNG OCCUP OVEREXP
+    TO SOLVENTS IS ASSOC W/PERM BR AIN/NERVOUS SYSYTEM DAMAGE. CAN BE
+    HARMFUL/FATAL IF SWALLOWED. OVEREXP CAN DAMAGE KIDNEYS & LIVER,
+    LUNGS, CNS.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:RESPIRATORY. SKIN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: PROVIDE FRESH AIR; IF BREATHING LABORED, GIVE OXYGEN
+    OR ARTIFICIAL RESPIRATION. SKIN: WASH THOROUGHLY W/SOAP & WATER.
+    EYES: FLUSH IMMEDIATELY W/PLENTY OF WATER FOR A MINIMUM OF 15
+    MINUTES & GET  MED ATTN. INGEST: DRINK 1 OR 2 GLASSESOF WATER TO
+    DILUTE. DO NOT INDUCE VOMITING. CONSULT MD OR POISON CONTROL CENTER
+    IMMEDIATELY. TREAT SYMPTOMATICALLY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:114F,46C
+Lower Limits:0.9%
+Upper Limits:6%
+Extinguishing Media:FOAM, CO*2, DRY CHEMICAL.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:CLOSED CONTRS MAY EXPLODE WHEN EXPOSED TO
+    EXTREME HEAT. ISOLATE FROM HEAT, ELECTRICAL EQUIPMENT, SPARKS &
+    OPEN FLAME. AVOID WATER. GENERATE HYDROGEN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:AVOID BRTHG OF VAPORS/DUST. USE ABSORBENT
+    CLEANUP MATERIALS OR SWEEP UP. PLACE IN SEPARATE CONTAINER. KEEP
+    OUT OF PUBLIC SEWERS & WATERWAYS. IF ENTRY IS THREATENED OR OCCURS,
+    NOTIFY LOCAL AUTHORITIES.  ELIMINATE ALL SOURCES OF IGNITION.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER CLOSED, UPRIGHT WHEN
+    NOT IN USE. STORE IN COOL, DRY, WELL-VENTILATED AREA. AVOID STORAGE
+    TEMPERATURES ABOVE 100F.
+Other Precautions:DO NOT TAKE INTERNALLY. AVOID PRLNG BRTHG OF
+    DUST/VAPS OR SPRAY MIST OR CONT W/SKIN & EYES. DO NOT WELD/FLAME
+    CUT AN EMPTY CONTR. GROUND CONTRS WHEN POURING. AVOID WATER CONTAM.
+    MOISTURE GENERATES HYD ROGEN. CONTAINS TOXIC CHEMICALS (SUPDAT)
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR. USE NIOSH/MSHA
+    APPROVED AIR-LINE RESPIRATORS IN CONFINED OR RESTRICTED VENTILATION
+    AREAS, OR W/POLYURETHANE OR ISOCYANATES. REFER TO 29CFR, OSHA PARTS
+    1910, 1915, & 191 6 FOR COATING OPERATIONS.
+Ventilation:SUFFICIENT VENTILATION, IN VOLUME & PATTERN, SHLD BE
+    PROVIDED TO KEEP AIR CONTAMINANT CONCS BELOW TLV LIMIT. (SUPDAT)
+Protective Gloves:NEOPRENE OR OTHER SUITABLE MATERIALS.
+Eye Protection:CHEM WORK GOG/FULL LENGTH FSHLD .
+Other Protective Equipment:FULL PROTECTIVE CLOTHING. SPARK-PROOF
+    EQUIPMENT.
+Work Hygienic Practices:WASH THOROUGHLY BEFORE EATING, SMOKING OR USING
+    WASHROOM. LAUNDER CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+OTHER PREC: SUBJECT TO REPORTING REQUIREMENTS OF SARA AND CERCLA (40CFR
+    302, 355, 372). VENT: REMOVE WELDING OR FLAME CUTTING DECOMPOSITION
+    PRODUCTS. REFER TO 29 CFR, OSHA PARTS 1910, 1915, AND 1916 F OR
+    COATING OPERATIONS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:250F,121C
+Vapor Pres:SEE INGRED
+Vapor Density:HVR/AIR
+Evaporation Rate & Reference:1 (BUTYL ACETATE = 1)
+Appearance and Odor:LIQUID WITH SOLVENT ODOR.
+Percent Volatiles by Volume:53
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS, ACIDS, ALKALIES.
+Stability Condition to Avoid:HEAT, OPEN FLAME, ARC OR SPARKS. WATER OR
+    MOISTURE.
+Hazardous Decomposition Products:BY FIRE, BURNING OR WELDING: CO AND
+    CO*2. ALUMINUM OXIDE FUMES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN SEPARATE, CLOSED METAL CONTAINER IN
+    ACCORDANCE W/ALL APPLICABLE FEDERAL, STATE, AND LOCAL REGULATIONS.
+    EPA WASTE NO. D001 D003.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

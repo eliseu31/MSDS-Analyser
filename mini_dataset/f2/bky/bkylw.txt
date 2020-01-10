@@ -1,0 +1,105 @@
+=====================  Product Identification  =====================
+
+Product ID:MIL-C-11796B/C1 1 PETROLEUM OILS/WAXES
+MSDS Date:01/01/1987
+FSC:8030
+NIIN:00-597-3288
+MSDS Number: BKYLW
+=== Responsible Party ===
+Company Name:STEVENS INDUSTRIES
+Address:39 AVE C
+Box:8
+City:BAYONNE
+State:NJ
+ZIP:07002
+Country:US
+Info Phone Num:201-437-6500
+Emergency Phone Num:201-437-6500
+CAGE:70372
+=== Contractor Identification ===
+Company Name:STEVENS INDUSTRIES
+Box:UNKNOW
+CAGE:70362
+Company Name:STEVENS INDUSTRIES
+Address:39 AVE C
+Box:8
+City:BAYONNE
+State:NJ
+ZIP:07002
+Country:US
+Phone:201-437-6500
+CAGE:70372
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MICROCRYSTALLINE WAX
+Fraction by Wt: 85%
+
+Ingred Name:REFINED NAPHTHENIC OILS
+CAS:64741-53-3
+Fraction by Wt: <15%
+
+Ingred Name:METHACRYLATE COPOLYMER
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Explanation of Carcinogenicity:NONE
+
+=======================  First Aid Measures  =======================
+
+First Aid:OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:400F
+Extinguishing Media:FOAM, CO2
+Fire Fighting Procedures:SAME AS PETROLEUM OIL FIRES.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ALLOW TO COOL & SCRAPE UP EXCESS. WASH AREA
+    W/ALKALINE/EMULSIFIABLE CLEANER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID OPEN FLAMES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED USUALLY.
+Ventilation:LOCAL EXHAUST
+Protective Gloves:OIL RESISTANT
+Eye Protection:GOGGLES/SIDE SHIELD GLASSES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:0.929
+Solubility in Water:INSOLUBLE
+Appearance and Odor:AMBER PASTE W/OIL/WAX ODOR.
+Percent Volatiles by Volume:0%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:OPEN FLAMES
+Hazardous Decomposition Products:CO2 & WATER
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IAW/FEDERAL, STATE & LOCAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

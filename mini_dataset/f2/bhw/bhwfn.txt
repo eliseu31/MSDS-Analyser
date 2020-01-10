@@ -1,0 +1,152 @@
+=====================  Product Identification  =====================
+
+Product ID:CORD,DETONATING,PRIMACORD DETONATING
+MSDS Date:02/01/1990
+FSC:1375
+NIIN:00-316-3636
+MSDS Number: BHWFN
+=== Responsible Party ===
+Company Name:ENSIGN-BICKFORD CO.
+Address:660 HOPMEADOW ST
+City:SIMSBURY
+State:CT
+ZIP:06070
+Country:US
+Info Phone Num:203-658-4411
+Emergency Phone Num:203-658-4411
+Preparer's Name:E L STEARNS
+CAGE:0B1W4
+=== Contractor Identification ===
+Company Name:ENSIGN-BICKFORD CO
+Address:660 HOPMEADOW ST
+Box:City:SIMSBURY
+State:CT
+ZIP:06070
+Country:US
+Phone:(203) 658-4411 OR (203) 843-22
+CAGE:0B1W4
+Company Name:THE ENSIGN-BICKFORD CO
+Address:660 HOPMEADOW ST
+Box:City:SIMSBURY
+State:CT
+ZIP:06070
+Phone:(203) 658-4411
+CAGE:0B2N1
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PENTAERYTHRITOL TETRANITRATE (PETN)
+CAS:78-11-5
+RTECS #:RZ2620000
+Other REC Limits:N/K 
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:CYCLONITE
+CAS:121-82-4
+RTECS #:XY9450000
+Other REC Limits:N/K 
+OSHA PEL:S, 1.5 MG/M3
+ACGIH TLV:S, 1.5MG/M3; 9192
+
+Ingred Name:CYCLOTETRAMETHYLENE TETRANITRAMINE (HMX)
+CAS:2691-41-0
+RTECS #:XF7450000
+Other REC Limits:N/K 
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:2,6-BIS(PICRYLAMINO)-3,5-DINITROPYRIDINE (PYX)
+CAS:38082-89-2
+RTECS #:US7546500
+Other REC Limits:N/K 
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:N/K 
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SEE SIGNS AND SYMPTOMS OF
+    OVEREXPOSURE.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES/SKIN/INGESTION/INHALATION:NOT A LIKELY
+    ROUTE OF EXPOSURE.
+Medical Cond Aggravated by Exposure:N/K 
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES/SKIN/INGESTION:N/A.INHALATION:IF DETONATION FUMES ARE
+    INHALED,REMOVE TO FRESH AIR.IF NOT BREATHING GIVE ARTIFICIAL
+    RESPIRATION,PREFERABLY MOUTH TO MOUTH.IF BREATHING IS DIFFICULT
+    GIVE OXYGEN.CALL  A PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Lower Limits:N/K 
+Upper Limits:N/K 
+Extinguishing Media:NONE
+Fire Fighting Procedures:DO NOT FIGHT FIRE.ISOLATE AREA.EVACUATE
+    PERSONNEL TO A SAFE PLACE.
+Unusual Fire/Explosion Hazard:MAY DETONATE IF OTHER OUSIDE INFLUENCES
+    ARE PRESENT.HAZARDOUS GASES PRODUCED IN A FIRE ARE NITROGEN OXIDES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REVIEW FIRE AND EXPLOSION HAZARDS AND SAFETY
+    PRECAUTIONS BEFORE PROCEEDING WITH CLEAN UP.USE APPROPRIATE
+    PERSONAL PROTECTION EQUIPMENT DURING CLEAN UP.
+Neutralizing Agent:N/K 
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:TRANSPORTATION AND STORAGE MUST BE IN
+    ACCORDANCE WITH FEDERAL AND STATE REGULATIONS.
+Other Precautions:REFER TO MANUFACTURER'S INSTRUCTIONS AND WARNINGS
+    SUPPLIED WITH PRODUCT.AVOID BREATHING FUMES OF DETONATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE
+Ventilation:CONSULT LOCAL SAFETY/HEALTH AUTHORITIES IF ADDITIONAL
+    GUIDANCE IS NEEDED .
+Protective Gloves:NONE
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:NONE
+Work Hygienic Practices:N/K 
+Supplemental Safety and Health
+WASTE DISP METH:CONSULT AN EXPLOSIVES MANUFACTURER FOR RECOMMENDED
+    METHODS FOR DESTROYING EXPLOSIVE MATERIALS.
+
+==================  Physical/Chemical Properties  ==================
+
+Decomp Temp:Decomp Text:N/K 
+Appearance and Odor:HIGH EXPLO CORE (15-400 GR/FT OF ANY ONE LISTED)
+    TEXTILE &/OR PLASTIC WRAPPED.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+INCOMPATIBLE WITH ACIDS,ALKALIES.
+Stability Condition to Avoid:DETONATING CORDS BECOME LESS STABLE WITH
+    HEAT.UNSTABLE WITH SHOCK.AVOID HEAT.
+Hazardous Decomposition Products:HAZARDOUS GASES PRODUCES ARE NITROGEN
+    OXIDES.
+Conditions to Avoid Polymerization:HEAT,SHOCK.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE IN ACCORDANCE WITH
+    FEDERAL,STATE AND LOCAL REGULATIONS.COORDINATION WITH SUPPORTING
+    INSTALLATION AND/OR MACOM ENVIRONMENTAL COORDINATION PRIOR TO
+    DISPOSAL IS RECOMMENDED TO DETERMINE  APPROPRIATE DISPOSAL METHODS
+    . (SEE SUPP)
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

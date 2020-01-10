@@ -1,0 +1,139 @@
+=====================  Product Identification  =====================
+
+Product ID:LEADED REGULAR GASOLINE
+MSDS Date:04/01/1983
+FSC:9130
+NIIN:00-142-9457
+MSDS Number: BKYHH
+=== Responsible Party ===
+Company Name:TOSCO CORPORATION
+Address:2401 COLORADO AVE
+City:SANTA MONICA
+State:CA
+ZIP:90406
+Info Phone Num:(415) 228-1220
+Emergency Phone Num:(415) 228-1220
+CAGE:KO243
+=== Contractor Identification ===
+Company Name:TOSCO CORP   (FORMERLY LION OIL IN PORTLAND,OR)
+Address:11400 NW ST HELENS RD
+Box:03416
+City:PORTLAND
+State:OR
+ZIP:97203
+Country:US
+CAGE:3R733
+Company Name:TOSCO CORPORATION
+Address:2401 COLORADO AVE
+City:SANTA MONICA
+State:CA
+ZIP:90406
+Phone:(415) 228-1220
+CAGE:KO243
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:GASOLINE
+CAS:8006-61-9
+RTECS #:LX3300000
+Fraction by Wt: <100%
+Other REC Limits:300 PPM
+OSHA PEL:300 PPM/500 STEL
+ACGIH TLV:300 PPM/500STEL;9192
+
+Ingred Name:LEAD  (SARA III)
+CAS:7439-92-1
+RTECS #:OF7525000
+Fraction by Wt: 0.1%
+OSHA PEL:0.05 MG/M3;1910.1025
+ACGIH TLV:0.15 MG/M3;DUST 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:EYES: IRRITATION. SKIN: DRYNESS,
+    IRRITATION, DERMATITIS, & DISORDERS. INHALATION:
+    PULMONARY/RESPIRATORY IRRITATION, DIZZINESS, NAUSEA,
+    UNCONSCIOUSNESS, BRONCHOPNEUMONIA, & CNS DEPRESSION. INGESTION: G
+    ASTROINTESTINAL IRRITATION, NAUSEA, VOMITING, DIARRHEA, CNS
+    DEPRESSION, RESTLESSNESS.
+Explanation of Carcinogenicity:LEAD IS A SUSPECTED HUMAN CARCINOGEN BY
+    ACGIH.
+Effects of Overexposure:EYES: IRRITATION. SKIN: DRYNESS, IRRITATION,
+    DERMATITIS, & DISORDERS. INHALATION: PULMONARY/RESPIRATORY
+    IRRITATION, DIZZINESS, NAUSEA, UNCONSCIOUSNESS, BRONCHOPNEUMONIA, &
+    CNS DEPRESSION. INGESTION: G ASTROINTESTINAL IRRITATION, NAUSEA,
+    VOMITING, DIARRHEA, CNS DEPRESSION, & RESTLESSNESS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF LOW PRESSURE WATER FOR AT LEAST 15
+    MINS. SKIN: WASH THOROUGHLY W/SOAP & WATER. INHALATION: REMOVE TO
+    FRESH AIR. IF CASE OF RESPIRATORY DISTRESS, GIVE OXYGEN OR CPR.
+    INGESTION:	DON'T INDUCE VOMITING. ASPIRATION INTO THE LUNGS WILL
+    CAUSE SEVERE CHEMICAL PNEUMONIA. OBTAIN MEDICAL ATTENTION IN ALL
+    CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:-45F
+Lower Limits:1.3%
+Upper Limits:8.2%
+Extinguishing Media:FOAM, DRY CHEMICAL, & CO2
+Fire Fighting Procedures:USE PROTECTIVE EQUIPMENT & SELF-CONTAINED
+    BREATHING APPARATUS IN ENCLOSED SPACES. COOL TANKS & CONTAINERS
+    EXPOSED TO FIRE W/WATER FOG/SPRAY.
+Unusual Fire/Explosion Hazard:RELEASES INVISIBLE VAPORS >AIR AT NORMAL
+    ATMOSPHERIC TEMPS/PRESSURES, WHICH ENTER SEWERS/CONFINED SPACES &
+    EXPLODE. HEATED CONTAINERS MAY RUPTURE. FLAMMABLE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:STOP FLOW OF MATERIAL. REMOVE ALL SOURCES OF
+    IGNITION. CONTAIN SPILL USING SAND/CLAY/DIATOMACEOUS EARTH/OR
+    ABSORBENT MATERIALS. EVACUATE AREA. RUN-OFF MAY CREATE AN EXPLOSION
+    HAZARD. FLUSH CONTAMINATE D AREA W/WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM SPARKS, OPEN FLAME, &
+    HEAT. KEEP CONTAINERS CLOSED. USE ONLY W/ADEQUATE VENTILATION.
+Other Precautions:INSTALL ALL ELECTRICAL EQUIPMENT IN STORAGE/USE AREAS
+    IN ACCORDANCE W/THE NATIONAL ELECTRIC CODE. AVOID CONTACT W/EYES &
+    SKIN. AVOID SPLASHING. ASPIRATION WILL CAUSE CHEMICAL PNEUMONIA.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NEEDED UNDER CONDITIONS W/ADEQUATE
+    VENTILATION. IF >TLV, USE A NIOSH APPROVED RESPIRATOR.
+Ventilation:NATURAL/MECHANICAL TO KEEP VAPOR CONCENTRATIONS 1
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:RED LIQUID W/GASOLINE ODOR.
+Percent Volatiles by Volume:>95%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS SUCH AS LIQUID CHLORINE & OXYGEN
+Stability Condition to Avoid:HIGH TEMPERATURES, SOURCES OF IGNITION,
+    OPEN FLAMES, & SPARKS.
+Hazardous Decomposition Products:CO FROM INCOMPLETE COMBUSTION
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF CONTAMINATED MATERIAL IN AN APPROVED
+    DISPOSAL SITE IN ACCORDANCE W/LOCAL, STATE, & FEDERAL REGULATIONS.
+    EXTREMELY FLAMMABLE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

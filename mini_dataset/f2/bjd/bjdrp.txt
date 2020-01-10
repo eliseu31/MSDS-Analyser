@@ -1,0 +1,135 @@
+=====================  Product Identification  =====================
+
+Product ID:PC-12 007M PART A (PA2008)
+MSDS Date:08/14/1991
+FSC:8040
+NIIN:00-085-4319
+Kit Part:Y
+MSDS Number: BJDRP
+=== Responsible Party ===
+Company Name:DEXTER ELECTRONIC MTLS DIV,THE DEXTER CORP
+Address:211 FRANKLIN ST
+City:OLEAN
+State:NY
+ZIP:14760-1297
+Country:US
+Info Phone Num:716-372-6300
+Emergency Phone Num:716-372-6309
+Preparer's Name:JAMES P. HORNBURG
+CAGE:04347
+=== Contractor Identification ===
+Company Name:AMERICAN DURABLE INC
+Address:6080 CLAUDE WAY E
+Box:City:INVER GROVE HEIGHTS
+State:MN
+ZIP:55075
+Country:US
+Phone:612-455-6314
+CAGE:7Z634
+Company Name:CADPRO INC
+CAGE:1BY43
+Company Name:DEXTER CORP THE DEXTER ELECTRONIC MATERIAL DIV
+Address:211 FRANKLIN ST.
+Box:City:OLEAN
+State:NY
+ZIP:14760-1297
+Country:US
+Phone:716-372-6300/6309
+CAGE:04347
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:N-BUTYL GLYCIDYL ETHER (BGE)
+CAS:2426-08-6
+RTECS #:TX4200000
+Fraction by Wt: 60-100%
+OSHA PEL:50 PPM
+ACGIH TLV:25 PPM; 9293
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:NONE SPECIFIED BY MANUFACTURER.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:NO ACUTE SYMPTOMS EXPECTED. A SENSITIZER. SKIN:
+    PROLONGED OR REPEATED EXPOSURE MAY CAUSE SKIN RASH.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:FLUSH SKIN AND EYE CONTACT WITH PLENTY OF WATER. THEN  WASH
+    SKIN THOROUGHLY WITH SOAP AND WATER. REMOVE CONTAMINATED CLOTHING.
+    WASH BEFORE REUSE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:155
+Extinguishing Media:USE CARBON DIOXIDE OR DRY CHEMICAL FOR SMALL
+    FIRES;FOAM (ALCOHOL POLYMER OR ORDINARY) FOR LARGE FIRES.
+Fire Fighting Procedures:AVOID BREATHING SMOKE. USE NIOSH/MSHA APPROVED
+    SCBA AND FULL PROTECTIVE EQUIPMENT.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:COVER WITH ABSORBENT MATERIAL, THEN SHOVEL
+    INTO WASTE CONTAINER. IF SPILL AREA IS TO BE SOLVENT-RINSED TO
+    REMOVE STICKINESS, BE AWARE OF SOLVENT VAPOR HAZARD.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN DRY AREA; AVOID SKIN CONTACT.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:MSHA APPROVED CANNISTER MASK, AIR HOSE MASKS.
+Ventilation:LOCAL EXHAUST - PROVIDE ADEQUATE VENTILALTION TO KEEP VAPOR
+    CONC. BELOW LEL AND TLV. MECHANICAL - GENERAL DILUTION.
+Protective Gloves:RUBBER OR PLASTIC.
+Eye Protection:SAFETY GLASSES OR GOGGLES
+Other Protective Equipment:WEAR COVERALLS OR APRON TO AVOID CLOTHING
+    AND SKIN CONTAMINATION.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:1.08
+Evaporation Rate & Reference:>1 (BU AC=1)
+Solubility in Water:0
+Appearance and Odor:AMBER, MEDIUM VISCOSITY LIQUID, VERY SLIGHT
+    CHARACTERISTIC ODOR.
+Percent Volatiles by Volume:8
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTAMINATION WITH ALKALIES, ACIDS, AMINES AND WATER.
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:CARBON MONOXIDES, ALDEHYDES, ACIDS AND
+    OTHER ORGANIC COMPOUNDS.
+Conditions to Avoid Polymerization:EXOTHERMIC CURE MAY OCCUR WHEN LARGE
+    QUANTITIES ARE MIXED WITH CURING
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTROLLED INCINERATION OR PUT INTO METAL WASTE
+    CONTAINER FOR LANDFILL BURIAL.  NEW YORK STATE DOES NOT PERMIT
+    LANDFILL BURIAL OF LIQUID. SOLIDIFY BY MIXING WITH EPOXY HARDENER
+    BEFORE LANDFILL BURIAL.  THIS IS NOT A HAZARDOUS WASTE UNDER THE
+    RCRA.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

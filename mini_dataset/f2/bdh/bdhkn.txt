@@ -1,0 +1,126 @@
+=====================  Product Identification  =====================
+
+Product ID:5962, ELECTRON TUBE
+MSDS Date:10/08/1991
+FSC:5960
+NIIN:00-188-6592
+MSDS Number: BDHKN
+=== Responsible Party ===
+Company Name:SHELLER-GLOBE CORP,VICTOREEN INSTRUMENTS DIV
+Address:6000 COCHRAN RD
+City:SOLON
+State:OH
+ZIP:44139-3395
+Country:US
+Info Phone Num:216-248-9300
+Emergency Phone Num:216-248-9300
+Preparer's Name:ROBERT A. JUCIUS
+CAGE:JO931
+=== Contractor Identification ===
+Company Name:SHELLER-GLOBE CORP,VICTOREEN INSTRUMENT DIV.
+Address:6000 COCHRAN RD
+Box:City:CLEVELAND
+State:OH
+ZIP:44139-3395
+Country:US
+CAGE:JO931
+Company Name:VICTOREEN INC
+Address:6000 COCHRAN RD
+Box:City:SOLON
+State:OH
+ZIP:44139-3395
+Country:US
+Phone:216-248-9300
+CAGE:63060
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NICKEL  (SARA III)	PRODUCT YIELDS 0.05 TO 0.10 MICROCURIES
+CAS:7440-02-0
+RTECS #:QR5950000
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NOT SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:METAL PRODUCTS IN THE NATURAL STATE DO
+    NOT PRESENT AN INHALATION, INGESTION OR CONTACT HAZARD, HOWEVER,
+    OPERATIONS SUCH AS BURNING, WELDING, SAWING, BRAZING AND GRINDING
+    MAY RELEASE FUMES/DUSTS WHICH  MAY PRESENT HEALTH HAZARDS IF TLV'S
+    AREEXCEEDED. THE RADIOACTIVE MATERIAL IN THE DEVICES REPRESENT NO
+    SIGNIFICANT HAZRD
+Explanation of Carcinogenicity:PRODUCT CONTAINS NO INGREDIENTS
+    CURRENTLY CLASSIFIED AS CARCINOGENIC BY NTP, IARC OR OSHA.
+Effects of Overexposure:BECAUSE OF THE AMOUNT OF NICKEL-63 CONTAINED IN
+    THE PRODUCT THIS SECTION IS NOT CONSIDERED APPLICABLE BY
+    MANUFACTURER.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:NONE SPECIFIED BY MANUFACTURER.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONFLAMMABLE
+Lower Limits:NOT GIVEN
+Upper Limits:NOT GIVEN
+Extinguishing Media:EXTINQUISH WITH AGENT SUITABLE FOR SURROUNDING
+    FIRE.
+Fire Fighting Procedures:WEAR CHEMICAL PROTECTIVE SUIT WITH SELF
+    CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:SOME OF MATERIAL MAY BURN. CONTAINER MAY
+    EXPLODE IN HEAT OF FIRE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:HANDLE BROKEN DEVICE WITH GLOVES AND FORCEPS.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:SHIELD ACCORDING TO EMITTED RADIATION.
+    PROTECT FROM FILM/FILM PLATES. KEEP CONTAINERS CLOSED. STORE IN
+    AREA FOR RADIOACTIVE MATERIALS.
+Other Precautions:THE MICROCURIE QUANTITIES OF NICKEL-63 REPRESENT NO
+    SIGINIFICANT EXTERNAL EXPOSURE HAZARD SINCE THE LOW ENERGY BETAS
+    EMITTED CANNOT PENETRATE THE OUTER SKIN LAYER. THE MATERIAL IS
+    CONTAINED IN AN INER T SEALED VESSEL.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SPECIFIED BY MANUFACTURER.
+Ventilation:PROVIDE MECHANICAL (GENERAL/LOCAL EXHAUST) VENTILATION TO
+    MAINTAIN CONCENTRATIONS 2300F,>126
+Vapor Pres:NOT GIVEN
+Vapor Density:NOT GIVEN
+Spec Gravity:ABOUT 7
+Evaporation Rate & Reference:NIL
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:GRAYISH TO BLACK PLAITING ON ANODES
+Percent Volatiles by Volume:NIL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+REACTS WITH STRONG ACIDS
+Stability Condition to Avoid:PHYSICAL DAMAGE
+Hazardous Decomposition Products:HYDROGEN GAS, METALLIC DUST/FUMES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTROLLED DISPOSAL REQUIRED-IN ACCORDANCE WITH
+    DOD REGULATIONS AND FEDERAL,STATE & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

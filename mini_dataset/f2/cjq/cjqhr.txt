@@ -1,0 +1,150 @@
+=====================  Product Identification  =====================
+
+Product ID:STAIN BLASTER S, 16620
+MSDS Date:02/14/1996
+FSC:7930
+NIIN:00N092081
+Status Code:A
+MSDS Number: CJQHR
+=== Responsible Party ===
+Company Name:ECOLAB INC
+Address:370 WABASHA ST.  ECOLAB CENTER
+City:ST PAUL
+State:MN
+ZIP:55102
+Country:US
+Info Phone Num:800-352-5326
+Emergency Phone Num:800-328-0026
+CAGE:85884
+=== Contractor Identification ===
+Company Name:ECOLAB PROFESSIONAL PRODUCTS DIVISION OF ECOLAB INC.
+Address:ECOLAB CENTER
+Box:City:ST PAUL
+State:MN
+ZIP:55102
+Country:US
+Phone:800-352-5326
+CAGE:85884
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NORMAL PARAFFINS (PETROLEUM); (NORMAL PARAFFIN)
+CAS:64771-72-8
+= Wt:55.
+OSHA PEL:300 PPM
+
+Ingred Name:D-LIMONENE; (MONOCYCLIC TERPENES)
+CAS:5989-27-5
+RTECS #:GW6360000
+= Wt:5.
+
+Ingred Name:NONYLPHENOL ETHOXYLATE
+CAS:9016-45-9
+RTECS #:MD0900000
+= Wt:11.
+
+Ingred Name:NONHAZARDOUS INGREDIENTS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:DANGER. EFFECTS OF OVEREXPOSURE TO
+    CONCENTRATE: EYES: CAUSES IRRITATION, LOSS OF NATURAL LUBRICATION.
+    SKIN: PROLONGED CONTACT MAY DEFAT SKIN, LEADING TO IRRITATION AND
+    DERMATITIS. INGESTION: HARMFUL O R FATAL IF SWALLOWED. INHALATION:
+    MAY RESULT IN DIZZINESS, HEADACHE, RESPIRATORY IRRITATION. UNDER
+    RECOMMENDED USE CONDITIONS, VAPOR LEVEL WILL BE TOO LOW TO PRESENT
+    INHALATION HAZARD.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH IMMEDIATELY WITH PLENTY OF COOL RUNNING WATER.
+    REMOVE CONTACT LENSES. HOLDING EYELIDS APART, CONTINUE FLUSHING FOR
+    AT LEAST 15 MINUTES. SKIN: FLUSH SKIN WITH PLENTY OF COOL RUNNING
+    WATER.  WASH THOROUGHLY WITH SOAP AND WATER. INGESTION: RINSE
+    MOUTH; THEN DRINK 1 OR 2 LARGE GLASSES OF WATER. DO NOT INDUCE
+    VOMITING. NEVER GIVE ANYTHING BY MOUTH TO AN UNCONSCIOUS PERSON.
+    INHALATION: IF AFF ECTED, MOVE TO FRESH AIR; IF BREATHING IS
+    DIFFICULT, ADMINIISTER OXYGEN. IF SWALLOWED OR IN CASE OF
+    PERSISTENT EYE OR SKIN IRRITATION, CALL A POISON CONTROL CENTER OR
+    PHYSICIAN IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:>65.6C, 150.F
+Lower Limits:UNK
+Upper Limits:UNK
+Extinguishing Media:USE FOG, FOAM OR FINE WATER SPRAY.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT .
+Unusual Fire/Explosion Hazard:COMBUSTIBLE LIQUID.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPER PROTECTIVE EQUIPMENT. REMOVE ALL
+    IGNITION SOURCES. MAXIMIZE VENTILATION. RECOVER IF POSSIBLE. ADD
+    ABSORBENT MATERIAL TO SOAK UP LIQUID. WASH SPILL AREA THOROUGHLY.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP OUT OF REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN .
+Protective Gloves:RUBBER GLOVES - PROTECTIVE CUFF OR GAUNTLET TYPE
+    PREFERRED.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:ANSI APPROVED EYE WASH AND DELUGE SHOWER .
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:=148.9C, 300.F
+Vapor Density:> AIR
+Spec Gravity:0.80-0.86
+pH:6-8 (100%)
+Evaporation Rate & Reference:< ETHER
+Solubility in Water:MODERATE (DISPERSES)
+Appearance and Odor:CLEAR LIQUID; CITRUS ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:STABLE UNDER NORMAL CONDITIONS OF
+    HANDLING. KEEP AWAY FROM OPEN FLAME OR OTHER IGNITION SOURCE. DO
+    NOT MIX W/ANYTHING BUT WATER. DO NOT STORE NEAR STRONG OXIDIZERS
+    SUCH AS CHLORINE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONSULT FEDERAL, STATE AND LOCAL AUTHORITIES FOR
+    RESTRICTIONS ON DISPOSAL OF CHEMICAL WASTE. RCRA D001.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:PROPER SHIPING NAME: PESTICIDE. U. S. DOT HAZARD
+    CLASS: NOT REGULATED. US DOT LD NA: NA. LABEL REQUIREMENTS: NONE.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:SARA 313 TOXIC CHEMICALS: NONE LISTED.
+Federal Regulatory Information:HAZARDOUS COMPONENTS: NORMAL PARAFFIN,
+    MONOCYCLIC TERPENES, NONYLPHENOL ETHOXYLATE. THIS PRODUCT CONTAINS
+    NO OTHER COMPONENTS CONSIDERED HAZARDOUS ACCORDING TO THE CRITERIA
+    OF 29 CFR 1910.1200.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

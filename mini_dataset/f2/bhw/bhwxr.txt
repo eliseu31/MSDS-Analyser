@@ -1,0 +1,141 @@
+=====================  Product Identification  =====================
+
+Product ID:SORBITRATE TABLETS
+MSDS Date:08/25/1987
+FSC:6505
+NIIN:01-031-4983
+MSDS Number: BHWXR
+=== Responsible Party ===
+Company Name:ICI AMERICAS INC.,ICI PHARMACEUTICALS DIV
+Address:CONCORD PIKE AND MURPHY ROAD
+City:WILMINGTON
+State:DE
+ZIP:19897
+Country:US
+Info Phone Num:302-886-3000
+Emergency Phone Num:800-327-8633 MEDICAL
+CAGE:0A273
+=== Contractor Identification ===
+Company Name:ZENECA INC., ZENECA PHARMACEUTICALS GROUP
+Address:1800 CONCORD PIKE
+Box:City:WILMINGTON
+State:DE
+ZIP:19803-2902
+Country:US
+Phone:302-886-3000
+CAGE:0A273
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOSORBIDE DINITRATE MIXTURE
+CAS:87-33-2
+RTECS #:LZ4386000
+Other REC Limits:S, 0.2 MG/M3
+
+Ingred Name:OTHER COMPONENTS (PROPIETARY OR NONHAZARDOUS PER
+    MANUFACTURER)
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 ORAL RAT IS 2000 MG/KG.
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ISOSORBIDE DINITRATE CAN BE SLOWLY
+    ABSORBED THROUGH SKIN, BUT IN TABLET FORM, NO ABSORPTION IS LIKELY
+    TO OCCUR. RELATIVE TO OTHER MATERIALS, A SINGLE DOSE OF THIS
+    PRODUCT IS SLIGHTLY TOXIC BY INGESTIO N. TABLETS ARE NOT LIKELY TO
+    BE INHALED, BUT ANY DUST CAN BE SLOWLY ABSORBED THROUGH MUCOUS
+    MEMBRANES.
+Effects of Overexposure:ADVERSE EFFECTS FROM SEVERE OVEREXPOSURE CAN
+    INCLUDE FLUSHING AND PERSPIRING SKIN, VISUAL DISTURBANCE, HEADACHE,
+    HYPOTENSION, GASTROINTESTINAL DISTRBANCE, CENTRAL NERVOUS SYSTEM
+    DEPRESSION AND CYANOSI S FOLLOWED BY CONVULSIONS, UNCONSCIOUSNESS,
+    SLOW BREATHING AND CIRCULATORY COLLAPSE.
+Medical Cond Aggravated by Exposure:NONE NOTED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:IMMEDIATELY FLUSH WITH PLENTY OF WATER FOR AT LEAST 15
+    MINTES.IF SYMPTOMS PERSIST,SEE DOCTOR. SKIN:WASH WITH PLENTY OF
+    SOAP AND WATER.IF SYMPTOMS PERSIST,SEE DOCTOR. INHALATION:REMOVE TO
+    FRESH AI R,IF NOT BREATHING,GIVE CPR.IF BREATHING IS DIFFICULT,GIVE
+    OXYGEN. INGESTION:GIVE 1-2 GLASSES OF WATER.INDUCE VOMIT.NOTHING BY
+    MOUTH IF UNCONSCIOUS.SEE DOCTOR.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE CARBON DIOXIDE, FOAM, DRY CHEMICAL, OR WATER
+    FOG.
+Fire Fighting Procedures:WEAR SCBA AND FULL PROTECTIVE EQUIPMENT. USE
+    BARRICADE DUE TO POSSIBILITY OF EXPLOSION. IF FIRE CANNOT BE
+    CONTROLLED IN EARLY STAGES, EVACUATE TO SAFE DISTANCE.
+Unusual Fire/Explosion Hazard:CONCENTRATED ISOSORBIDE DINITRATE IS A
+    POWERFUL EXPLOSIVE. WATER WILL DISSOLVE AWAY OTHER INGREDIENTS AND
+    CONCENTRATE ISOSORBIDE. THIS IS EXTREMELY HAZARDOUS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR SKIN PROTECTION DURING CLEANUP. SWEEP UP
+    AND RECOVER. WET MATERIAL WITH WATER IN A PLASTIC BAG. WHEN TABLETS
+    BEGIN TO DISINTEGRATE, DISCARD WITH GENERAL TRASH. WASH RESIDUE
+    WITH WATER AND FLUSH T O A SEWER SERVICED BY WASTEWATER TREATMENT
+    FACILTY
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID BREATHING DUST. PREVENT SKIN
+    CONTACT.
+Other Precautions:EMPTY CONTAINERS CONTAIN PRODUCT RESIDUE. DO NOT
+    REUSE EXCEPT FOR STORAGE OR SHIPMENT OF ORIGINAL PRODUCT. REMOVE
+    ALL PRODUCT RESIDUE AND PUNCTURE OR OTHERWISE DESTROY EMPTY
+    CONTAINER BEFORE DISPOSAL.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NEEDED WITH ADEQUATE VENTILATION. OTHERWISE,
+    USE NIOSH/MSHA APPROVED RESPIRATOR IF DUST IS THE ONLY CONCERN.
+    THERE IS NO AIR PURIFYING RESPIRATOR APPROVED FOR ISOSORBIDE
+    DINITRATE. ORGANIC CARTRID GES ARE NOT ADEQUATE.
+Ventilation:LOCAL EXHAUST.
+Protective Gloves:COTTON GLOVES OVER THIN LATEX GLOVES.
+Eye Protection:SAFETY GLASSES WITH SIDE SHIELD.
+Other Protective Equipment:EYE WASH STATION.
+Work Hygienic Practices:HANDS AND FACE SHOULD BE THOROUGHLY WASHED WITH
+    SOAP AND WATER PRIOR TO EATING, DRINKING OR SMOKING.
+Supplemental Safety and Health
+NOTE TO PHYSICIAN:SEVERE OVEREXPOSURE CAN LEAD TO METHEMOGLOBIN
+    FORMATION,WHICH IN SUFFICIENT CONCENTRATION RESULTS IN CLINICAL
+    CYANOSIS.IF MODERATE,TREAT ONLY BY SUPPORTIVE MEASURES.IF
+    SEVERE,INTRAVE NOUSLY ADMINISTER 1% METHYLENE BLUE,1-2MG/KG BODY
+    WEIGHT OVER 5 MINUTES INTERVAL.DO NOT EXCEED 7 MG/KG TOTAL DOSE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Melt/Freeze Pt:M.P/F.P Text:158F,70C
+Solubility in Water:SLIGHT
+Appearance and Odor:TABLETS
+Percent Volatiles by Volume:NEGL.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+WATER, ACIDS, ALKALIES, OXIDIZING AGENTS.
+Stability Condition to Avoid:HEAT.
+Hazardous Decomposition Products:CARBON DIOXIDE, CARBON MONOXIDE,
+    NITROGEN OXIDES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISCARDED PRODUCT IS NOT A HAZARDOUS WASTE UNDER
+    RCRA, 40CFR261. DISPOSE OF IN ACCORDANCE WITH ALL APPLICABLE
+    FEDERAL, STATE AND LOCAL REGULATIONS
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,163 @@
+=====================  Product Identification  =====================
+
+Product ID:WATERPROOF MASONRY PAINT - LIQUID
+MSDS Date:05/15/1989
+FSC:8010
+NIIN:00N021904
+MSDS Number: BLMPG
+=== Responsible Party ===
+Company Name:STA-DRI CO
+Address:1572 ANNAPOLIS RD
+City:ODENTON
+State:MD
+ZIP:21113
+Country:US
+Info Phone Num:301-551-9192
+Emergency Phone Num:301-551-9192
+CAGE:5X493
+=== Contractor Identification ===
+Company Name:STA-DRI CO
+Address:1572 ANNAPOLIS RD
+Box:City:ODENTON
+State:MD
+ZIP:21113
+Country:US
+Phone:301-551-9192
+CAGE:5X493
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NAPHTHA, HEAVY STRAIGHT RUN. VP: 3.1
+CAS:64741-41-9
+Fraction by Wt: 18-24%
+OSHA PEL:300 PPM
+ACGIH TLV:300 PPM
+
+Ingred Name:SILICA, CRYSTALLINE - QUARTZ
+CAS:14808-60-7
+RTECS #:VV7330000
+Fraction by Wt: 15.7%
+OSHA PEL:SEE TABLE Z3
+ACGIH TLV:0.1 MG/M3 RDUST;9293
+
+Ingred Name:PORTLAND CEMENT
+CAS:65997-15-1
+RTECS #:VV8770000
+Fraction by Wt: 26-33%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:RPTS HAVE ASSOC RPTD & PRLNGD OCCUP
+    OVEREXP TO SOLV W/PERM BRAIN & NERV SYS DMG. INTENTIONAL MISUSE BY
+    DELIB CONC & INHALING CONTENTS MAY BE HARMFUL/FATAL. DO NOT BREATHE
+    VAPS/SPRAY MIST. PETROLEUM SO LVENT IS A CNS DEPRESSANT & A MUC
+    MEMB IRRITANT.
+Explanation of Carcinogenicity:CRYSTALLINE SILICA: CLASS 2 (IARC).
+Effects of Overexposure:DIZZINESS, HEADACHE, INTOXICATION WITH EUPHORIA
+    LEADING TO UNCONSCIOUSNESS. PETROLEUM SOLVENTS MAY CAUSE NOSE,
+    SKIN, THROAT AND EYE IRRITATION.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH W/LUKE WARM WATER FOR AT LEAST 15 MIN.SEEK MD
+    IMMED.SKIN:FLUSH WASH W/COPIOUS AMTS OF LUKE WARM WATER.REMOVE
+    CONTAM CLOTHING PROMPTLY.CONT MD IMMED.INHAL:REMOVE EXPSD INDIV TO
+    FRESH AIR.REST ORE BRTHG IF REQ. CONT MD IMMED. INGEST:RINSE MOUTH
+    IMMED. GIVE EXPSD INDIV 6 TO 8 OZ OF LIQ. (NEVER GIVE ANYTHING BY
+    MOUTH TO UNCON PERSON.) DO NOT INDUCE VOMIT UNLESS ADVISED BY MD.
+    CONT MD IMMED.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:110F,43C
+Lower Limits:0.9%
+Upper Limits:7.0%
+Extinguishing Media:THE NATIONAL FIRE PROT ASSOCIATION CLASS B
+    EXTINGUISHER IS DESIGNED TO EXTINGUISH NFPA CLASS 1B FLAM LIQ
+    FIRES.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPRVD SCBA & FULL PROT EQUIP
+    . WATER SPRAY MAY BE INEFT. WATER MAY BE USED TO COOL CLSD CNTNRS
+    TO PVNT PRESS BUILDUP & POSS (SUPP DATA)
+Unusual Fire/Explosion Hazard:CONTAINERS EXPOSED TO INTENSE HEAT FROM
+    FIRES SHOULD BE COOLED WITH WATER TO PREVENT VAPOR PRESSURE BUILDUP
+    WHICH COULD RESULT IN CONTAINER RUPTURE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:STOP AND/OR CONTAIN DISCHARGE IF MAY BE DONE
+    SAFELY.KEEP ALL SOURCES OF IGNIT AWAY.VENT AREA OF SPILL.USE
+    NON-SPARK TOOLS FOR CLEANUP.COVER W/INERT MATL TO REDUCE FUMES.KEEP
+    OUT OF DRAINS, SEWERS/WATE RWAYS.CONT FIRE AUTH.NOTIFY LOCAL HLTH
+    (SUPP DATA)
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT STORE ABOVE 120F. DO NOT TAKE
+    INTERNALLY. CLOSE CONTAINER AFTER EACH USE. CAUTION: COMBUST! KEEP
+    OUT OF REACH OF CHILDREN!
+Other Precautions:USE ONLY WITH ADEQUATE VENTILATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IN OUTDOOR/OPEN AREAS USE NIOSH/MSHA APPRVD
+    MECHANICAL FILTER RESP TO REMOVE SOLID AIRBORNE PARTICLES OF
+    OVERSPRAY DURING SPRAY APPLICATN. IN RESTRICTED VENT AREAS USE
+    NIOSH/MSHA APPRVD CHEM-MECH FILT ERS TO REMOVE A COMBINATION (SUPP
+    DATA)
+Ventilation:USE VENT AS REQ TO CONTROL VAP CONC.AVOID PRLNGD/RPTD BRTHG
+    OF VAPS.IF EXPOS EXCEEDS TLV USE NIOSH/MSHA APPRVD RESP.
+Protective Gloves:NATL, RUBBER, NEOPRENE, BUNA N/NITRILE.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:WASH HANDS THORO BEFORE EATING & USING
+    WASHROOM. REMOVE CONTAM CLTHG IMMED & DO NOT WEAR UNTIL PROPERLY
+    LAUNDERED.
+Supplemental Safety and Health
+FIRE FIGHT PROC: AUTOIGNIT OR EXPLOSION WHEN EXPOSED TO EXTREME HEAT.
+    IF WATER IS USED, FOG NOZZLES ARE PREF. SPILL PROC: AND POLLUTION
+    CONTROL AGENCIES. CALL SPILL RESPONSE TEAMS IF LRG SPILL. RESP P
+    ROT: OF PARTICULATE & GAS & VAPOR. IN CONFINED AREAS USE NIOSH/MSHA
+    APPRVD AIR LINE TYPE RESP OR HOODS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F4
+Boiling Pt:B.P. Text:316F,158C
+Vapor Pres:3 @ 68F
+Vapor Density:HVR/AIR
+Spec Gravity:1.64 
+Evaporation Rate & Reference:SLOWER THAN BUTYL ACETATE
+Appearance and Odor:NONE SPECIFIED BY MANUFACTURER.
+Percent Volatiles by Volume:20
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+THIS PRODUCT IS INCOMPATIBLE WITH STRONG ACIDS.
+Stability Condition to Avoid:AVOID EXPOSURE TO SPARKS, OPEN FLAME, HOT
+    SURFACES AND ALL SOURCES OF HEAT AND IGNITION.
+Hazardous Decomposition Products:MAY PRODUCE HAZARDOUS FUMES WHEN
+    HEATED. FUMES MAY CONTAIN CO, CO2 AND NOX.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DO NOT FLUSH TO SEWER, WATERSHED OR WATERWAY.
+    DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE, AND FEDERAL
+    REGULATIONS. DO NOT INCINERATE CLOSED CONTAINERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

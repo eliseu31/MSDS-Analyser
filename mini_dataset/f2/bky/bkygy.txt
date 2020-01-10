@@ -1,0 +1,134 @@
+=====================  Product Identification  =====================
+
+Product ID:ERF172 FLAT EPOXY RESIN INK
+MSDS Date:01/15/1989
+FSC:7510
+NIIN:00-130-8468
+MSDS Number: BKYGY
+=== Responsible Party ===
+Company Name:NAZDAR COMPANY
+Address:1087 N NORTH BRANCH
+City:CHICAGO
+State:IL
+ZIP:60622
+Info Phone Num:(312) 943-8338
+Emergency Phone Num:(312) 943-8338
+CAGE:NAZDA
+=== Contractor Identification ===
+Company Name:NAZDAR COMPANY
+Address:1087 N NORTH BRANCH ST
+Box:City:CHICAGO
+State:IL
+ZIP:60622-4292
+Country:US
+Phone:312-943-8338;800-736-7636
+CAGE:76708
+Company Name:NAZDAR COMPANY
+Address:1087 N BRANCH ST
+City:CHICAGO
+State:IL
+ZIP:60622
+Country:US
+Phone:(312)943-8338
+CAGE:NAZDA
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:2-BUTOXYETHANOL
+CAS:111-76-2
+RTECS #:KJ8575000
+Fraction by Wt: 17-37%
+Other REC Limits:25 PPM (SKIN)
+OSHA PEL:S, 50 PPM
+ACGIH TLV:S, 25 PPM; 9293
+
+Ingred Name:SOLVENT NAPHTHA, PETROLEUM, LIGHT AROMATIC C8-C10 (AROMATIC
+    100)
+CAS:64742-95-6
+Fraction by Wt: 8-11%
+ACGIH TLV:100 PPM
+
+Ingred Name:VOL ORGANIC CMPD: 530 G/L OR 4.4 LB/GAL
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES/INGESTION: IRRITATION. SKIN:
+    ABSORPTION & IRRITATION. INHALATION: ANESTHETIC, RESPIRATORY TRACT
+    IRRITATION, ACUTE NERVOUS SYSTEM DEPRESSION, HEADACHE, DIZZINESS,
+    STAGGERING GAIT, CONFUSION, UNCON SCIOUSNESS, COMA, KIDNEY, LIVER &
+    BLOODDAMAGE.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES/INGESTION: IRRITATION. SKIN: ABSORPTION &
+    IRRITATION. INHALATION: ANESTHETIC, RESPIRATORY TRACT IRRITATION,
+    NERVOUS SYSTEM DEPRESSION, HEADACHE, DIZZINESS, STAGGERING GAIT,
+    UNCONSCIOUSNESS, COMA,  KIDNEY, LIVER & BLOOD DAMAGE. SKIN
+    ABSORPTION WILL PRODUCE SOME EFFECTS AS INHALATION
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MIN. SKIN: WASH
+    W/SOAP & WATER. INHALATION: REMOVE TO FRESH AIR. RESTORE BREATHING,
+    KEEP WARM & QUIET. INGESTION: DON'T INDUCE VOMITING. OBTAIN MEDICAL
+    ATT ENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:140F
+Lower Limits:1%
+Extinguishing Media:FOAM, DRY CHEMICAL OR CO2
+Fire Fighting Procedures:WATER SPRAY MAY BE INEFFECTIVE. IF WATER IS
+    USED, FOG NOZZLES ARE PREFERABLE. FULL PROTECTIVE CLOTHING & SCBA.
+    USE WATER TO KEEP FIRE-EXPOSED CONTAINERS COOL.
+Unusual Fire/Explosion Hazard:CLOSED CONTAINERS CAN CAUSE PRESSURE
+    BUILDUP, POSSIBLE AUTOIGNITION OR EXPLOSION WHEN EXPOSED TO EXTREME
+    HEAT. COMBUSTIBLE LIQUID CLASS II.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. AVOID
+    BREATHING VAPORS. VENTILATE AREA. REMOVE W/INERT, ABSORBENT &
+    NON-SPARKING TOOLS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T STORE >120F. STORE LARGE
+    QUANTITIES IN BUILDINGS DESIGNED FOR STORAGE OF NFPA CLASS II
+    COMBUTIBLE LIQUIDS. DON'T TAKE INTERNALLY.
+Other Precautions:CONTAINERS SHOULD BE GROUNDED WHEN POURING. AVOID
+    FREE FALL OF LIQUIDS IN EXCESS OF A FEW INCHES. PREVENT PROLONGED
+    SKIN CONTACT W/CONTAMINATED CLOTHING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED RESPIRATOR WHEN WELDING,
+    FAME CUTTING OR BRAZING.
+Ventilation:PROVIDE GENERAL DILUTION/LOCAL EXHAUST VENTILATION IN
+    VOLUME & PATTERN TO KEEP AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:60%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:ALL IGNITION SOURCES SUCH AS HEAT,
+    ELECTRICAL EQUIPMENT/STATIC, SPARKS, OPEN FLAME, FRICTIONAL SPARKS
+    & HOT SURFACES
+Hazardous Decomposition Products:CO, CO2 & HAZARDOUS FUMES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. DON'T INCINERATE CLOSED CONTAINERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

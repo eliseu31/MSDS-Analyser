@@ -1,0 +1,149 @@
+=====================  Product Identification  =====================
+
+Product ID:JOHNSONITE 920
+MSDS Date:06/28/1989
+FSC:8040
+NIIN:01-008-0966
+MSDS Number: BLPMJ
+=== Responsible Party ===
+Company Name:JOHNSONITE
+Address:16025 JOHNSON ST
+City:MIDDLEFIELD
+State:OH
+ZIP:44062
+Info Phone Num:(216) 543-8916
+Emergency Phone Num:(216) 543-8916
+Preparer's Name:B. L. EUDY
+CAGE:IO277
+=== Contractor Identification ===
+Company Name:JOHNSONITE
+Address:16025 JOHNSON ST
+City:MIDDLEFIELD
+State:OH
+ZIP:44062
+Country:US
+Phone:800-899-8916
+CAGE:IO277
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 28.4%
+Other REC Limits:100 PPM
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:HEXANE (N-HEXANE)
+CAS:110-54-3
+RTECS #:MN9275000
+Fraction by Wt: 7.1%
+Other REC Limits:50 PPM
+OSHA PEL:500 PPM
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:VOL ORGANIC CMPD: 392 GRAMS/LITER OF COATING (MATERIAL)
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYE: IRRITATION. SKIN:
+    IRRITATION/DEFATTING/DERMATITIS. INHALATION: NASAL & RESPIRATORY
+    IRRITATION/DIZZINESS/WEAK/FATIGUE/NAUSEA/HEADACHE/UNCONSCIOUSNESS/A
+    SPHYXIATION/EFFECTS TO LIVER, KIDNEY, LUNGS &  CONTROL & PERIPHERAL
+    NERVOUS SYSTEMS. INGESTION: GASTROINTESTINAL
+    IRRITATION/NAUSEA/VOMITING/DIARRHEA.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYE: IRRITATION. SKIN:
+    IRRITATION/DEFATTING/DERMATITIS. INHALATION: PERMANENT BRAIN &
+    NERVOUS SYSTEM DAMAGE. INGESTION: GASTROINTESTINAL IRRITATION,
+    NAUSEA, VOMITING, & DIARRHEA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER FOR 15 MINS. SKIN: WASH W/SOAP & WATER.
+    INHALATION: REMOVE TO FRESH AIR. IF BREATHING STOPS, ADMINISTER
+    ARTIFICIAL RESPIRATION. INGESTION: GIVE 2 GLASSES OF WATER IF
+    CONSCIOUS. IND UCE VOMITING. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:10F
+Lower Limits:1%
+Upper Limits:7.5%
+Extinguishing Media:REGULAR FOAM, CO2, & DRY CHEMICAL
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING GEAR W/FULL FACE
+    PIECE.
+Unusual Fire/Explosion Hazard:VAPORS ARE >AIR & MAY TRAVEL ALONG THE
+    GROUND OR BE MOVED BY VENTILATION. FLAMMABLE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE ALL IGNITION SOURCES. VENTILATE
+    AREA. COLLECT & PLACE IN WASTE CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE BETWEEN 40-100F IN WELL
+    VENTILATED AREA. NEVER USE PRESSURE TO EMPTY. DRUM ISN'T PRESSURE
+    VESSEL. DON'T INGEST. KEEP AWAY FROM CHILDREN.
+Other Precautions:KEEP CLOSURE TIGHT/UPRIGHT TO PREVENT LEAKAGE.
+    RELIEVE INTERNAL DRUM PRESSURE WHEN RECEIVED/ONCE WEEKLY
+    THEREAFTER. GROUND/BOND MATERIAL DRUM WHEN POURING. AVOID
+    INHALATION OF VAPOR/SPRAY MIST. DON'T  WELD/FLAME-CUT EMPTY DRUM.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF >TLV, WEAR NIOSH/MSHA APPROVED RESPIRATOR.
+Ventilation:USE SUFFICIENT VENTILATION IN VOLUME & PATTERN TO KEEP
+    <TLV.
+Protective Gloves:RECOMMENDED
+Eye Protection:SAFETY GLASSES, GOGGLES, OR FACE SHIELD
+Supplemental Safety and Health
+PRODUCT CONTAINS A CHEMICAL SUBJECT TO REPORTING UNDER SECTION 313 OF
+    TITLE III. PRODUCT AS SUPPLIED IS A LIQUID, & THERE ARE NO DUST
+    HAZARDS FROM THE POWDERS IN IT. WHEN PRODUCT IS PROCESSED, POWDERS 
+    SHOULD BE ENCAPSULATED. INTENTIONAL MISUSE BY DELIBERATELY
+    CONCENTRATING/INHALING CONTENTS MAY BE HARMFUL/FATAL.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:231-232F
+Vapor Pres:22
+Vapor Density:3
+Spec Gravity:0.9-1.1
+Evaporation Rate & Reference:(ETHER = 1): 4.5
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:OFF-WHITE VISCOUS LIQUID W/SLIGHT TOLUENE ODOR.
+Percent Volatiles by Volume:35.5%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS, BASES, & ACIDS
+Stability Condition to Avoid:HEAT, SPARKS, FLAME, SUNLIGHT, & OTHER
+    SOURCES OF IGNITION
+Hazardous Decomposition Products:CO, CO2, WATER, & VARIOUS HYDROCARBONS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. FLAMMABLE UN 1133. DON'T PUNCTURE, DRAG, OR
+    SLIDE CONTAINER.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

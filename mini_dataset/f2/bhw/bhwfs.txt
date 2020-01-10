@@ -1,0 +1,153 @@
+=====================  Product Identification  =====================
+
+Product ID:PRO GRIP 4000,SEALING COMPOUND
+MSDS Date:10/23/1985
+FSC:8030
+NIIN:00-615-9228
+MSDS Number: BHWFS
+=== Responsible Party ===
+Company Name:FEL-PRO INC
+Address:7450 N MCCORMICK BLVD
+City:SKOKIE
+State:IL
+ZIP:60076
+Country:US
+Info Phone Num:312-674-7700
+Emergency Phone Num:312-674-7700
+Preparer's Name:JOHN MICHNA
+CAGE:FO660
+=== Contractor Identification ===
+Company Name:FEL-PRO INC
+Address:7450 N MCCORMICK BLVD
+Box:C1103
+City:SKOKLE
+State:IL
+ZIP:60076
+Phone:(312) 674-7700
+CAGE:FO660
+Company Name:FEL-PRO INC DIV OF FELT PRODUCTS MFG CO
+Address:7450 N MCCORMICK
+Box:1103
+City:SKOKIE
+State:IL
+ZIP:60076-4046
+Country:US
+Phone:847-674-7700 OR 312-761-4500
+CAGE:73165
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHYL-2-CYANOACRYLATE
+CAS:708-85-0
+Fraction by Wt: >90%
+Other REC Limits:N/K 
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:N/K 
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SEE SIGNS AND SYMPTOMS OF
+    OVEREXPOSURE.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES:IRRITATION.EYELID
+    BONDING.SKIN:BONDING.INGESTION:N/K .INHALATION:EXPOSURE TO VAPOR
+    MAY CAUSE IRRITATION OF MUCOUS MEMBRANES.
+Medical Cond Aggravated by Exposure:N/K 
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH IMMEDIATELY AND THOROUGHLY WITH WATER HOLDING
+    EYELIDS APART TO PREVENT BONDING.DO NOT FORCE EYELIDS APART.CONSULT
+    PHYSICIAN IMMEDIATELY.SKIN:FLUSH IMMEDIATELY WITH WATER TO CAUSE
+    POLYMERIZA TION OF THE ADHESIVE AND REDUCE ITS AFFINITY FOR
+    SKIN.REPEATED SOAKING IN WARM WATER MAY AID IN LOOSENING BONDED
+    SKIN.INGESTION:N/K .INHALATION:REMOVE TO FRESH AIR.CONSULT
+    PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:180F,82.22C
+Extinguishing Media:DRY CHEMICAL OR CARBON DIOXIDE RECOMMENDED.WATER
+    SPRAY MAY RESULT IN HAZARDOUS POLYMERIZATION.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS AND
+    PROTECTIVE CLOTHING TO PREVENT CONTACT WITH SKIN OR EYES.
+Unusual Fire/Explosion Hazard:PYROLYSIS MAY RESULT IN FORMATION OF
+    TOXIC FUMES.ADHESIVE IN ABSORBENT MATERIAL MAY UNDERGO RAPID
+    POLYMERIZATION,CAUSING TEMP INCREASE/AUTOIGNITION. (SEE SUPP)
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE IGNITION SOURCES.USE CLOTHS TO
+    ABSORB ADHESIVE.INCINERATE IMMEDIATELY OR STORE IN A CLOSED METAL
+    CONTAINER.CLOTHES CONTAINING ADHESIVE MAY UNDERGO
+    AUTOIGNITION.PROTECT EYES,SKIN AND CLOTHING  FROM CONTACT WITH
+    ADHESIVE.
+Neutralizing Agent:N/K 
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FORM HEAT,OPEN
+    FLAME,IGNITION SOURCES.AVOID CONTACT WITH EYES,SKIN,CLOTHING.AVOID
+    VAPOR.USE WITH ADEQUATE VENTILATION.COMBUSTIBLE LIQUID.
+Other Precautions:N/K 
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:A NIOSH-MSHA APPROVED RESPIRATOR FOR ORGANIC
+    VAPOR SHOULD BE WORN IF VENTILATION IS INADEQUATE.
+Ventilation:LOCAL IF NEEDED.GENERAL SATISFACTORY IN MOST CONDITIONS.USE
+    VENTILATION ADEQUATE TO KEEP VAPORS BELOW IRRITATING LEVELS.
+Protective Gloves:POLYETHYLENE GLOVES RECOMMENDED.
+Eye Protection:SUFFICIENT TO PREVENT CONTACT.
+Other Protective Equipment:COVERALLS OR APRON MAY BE USED TO REDUCE
+    RISK OF CONTACT.
+Work Hygienic Practices:N/K 
+Supplemental Safety and Health
+BP:135F,57.22C AT 2 MMHG.EXPLO HAZ:HAZARDOUS DECOMPOSITION PRODUCTS
+    ARE:CARBON MONOXIDE,CARBON DIOXIDE AND OXIDES OF NITROGEN,POSSIBLE
+    TOXIC FUMES.CNDTNS (POLYM):WITH UNCONTROLLABLE RISE IN TEMPERATUR E
+    AND POSSIBLE AUTOIGNITION.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:SEE SUPP
+Melt/Freeze Pt:M.P/F.P Text:N/K 
+Decomp Temp:Decomp Text:N/K 
+Vapor Pres:<2 MMHG
+Vapor Density:3.8,AIR=1
+Spec Gravity:1.05 (WATER=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:CLEAR TO SLIGHTLY HAZY LIQUID.PUNGENT,UNPLEASANT
+    ODOR.VAPORS MILD LACHRYMATOR.
+Percent Volatiles by Volume:90
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING MATERIALS.
+Hazardous Decomposition Products:COMBUSTION MAY RESULT IN CARBON
+    MONOXIDE,CARBON DIOXIDE AND OXIDES OF NITROGEN.POSSIBLE TOXIC FUME
+    FORMATION.
+Conditions to Avoid Polymerization:CONTAMINATION OF ADHESIVE WITH
+    ACIDIC OR BASIC MATERIALS,PEROXIDES,OR WATER CAN CAUSE RAPID
+    POLYMERIZATION (SEE SUPP)
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE IN ACCORDANCE WITH
+    FEDERAL,STATE AND LOCAL REGULATIONS.COORDINATION WITH SUPPORTING
+    INSTALLATION AND/OR MACOM ENVIRONMENTAL COORDINATION PRIOR TO
+    DISPOSAL IS RECOMMENDED TO DETERMINE  APPROPRIATE DISPOSAL METHODS
+    .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,133 @@
+=====================  Product Identification  =====================
+
+Product ID:CONCRESIVE 1011
+MSDS Date:09/25/1991
+FSC:8040
+NIIN:00F019179
+MSDS Number: BLPPJ
+=== Responsible Party ===
+Company Name:MASTER BUILDERS INC
+Address:23700 CHAGRIN BLVD
+City:CLEVELAND
+State:OH
+ZIP:44122
+Info Phone Num:(216) 831-5500
+Emergency Phone Num:(216) 831-5500
+CAGE:FO873
+=== Contractor Identification ===
+Company Name:ADHESIVE ENGINEERING CO.
+Address:1411 INDUSTRIAL CO.
+Box:2449
+City:SAN CARLOS
+State:CA
+ZIP:94070
+Country:US
+CAGE:17433
+Company Name:MASTER BUILDERS DIV MARTIN MARIETTA CORP
+Address:23700 CHAGRIN BLVD
+City:CLEVELAND
+State:OH
+ZIP:44122-5506
+Phone:(216) 831-5500
+CAGE:FO873
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NONYL PHENOL
+CAS:25154-52-3
+RTECS #:SM5600000
+Fraction by Wt: 30-45%
+
+Ingred Name:AMINOETHYL PIPERAZINE
+CAS:140-31-8
+RTECS #:TK8050000
+Fraction by Wt: 10-20%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): 1600 MG/KG.	 SEE SUPP.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: NOSE, MUCOUS MEMBRANE, &
+    RESPIRATORY TRACT IRRITATION. EYES: SEVERE IRRITATION, REDNESS,
+    TEARING, & BLURRED VISION. SKIN: SEVERE IRRITATION, REDNESS,
+    ABSORPTION, BLISTERING, & BURNING. ING ESTION: MOUTH & THROAT
+    BURNS, GASTROINTESTINAL IRRITATION, NAUSEA, VOMITING, DIARRHEA, &
+    ULCERATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: NOSE, MUCOUS MEMBRANE, &
+    RESPIRATORY TRACT IRRITATION. EYES: PERMANENT IMPAIRMENT, OR
+    BLINDNESS. SKIN: SENSITIZATION, ALLERGIC REACTION, & ABSORPTION.
+    INGESTION: MOUTH & THROAT BURNS, GAST ROINTESTINAL IRRITATION,
+    NAUSEA, VOMITING, DIARRHEA, & ULCERATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: WASH W/SOAP & WATER. INHALATION: REMOVE TO FRESH AIR.
+    IF BREATHING DIFFICULTY, ADMINISTER OXYGEN. IF UNCONSCIOUS, GIVE
+    ARTIFICIAL RESPIRATION. EYES: FLUSH W/WATER FOR AT LEAST 30 MIN.
+    INGESTION:	DON'T INDUCE VOMITING. OBTAIN MEDICAL ATTENTION IN ALL
+    CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:200F
+Extinguishing Media:WATER FOG, FOAM, CO2, OR DRY CHEMICAL
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS & FULL
+    PROTECTIVE CLOTHING. ELECTRICAL GROUNDING IS NOT RECOMMENDED.
+Unusual Fire/Explosion Hazard:CORROSIVE LIQUID.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE EQUIPMENT. CONTAIN LEAK OR
+    SPILL, SALVAGE, CLEAN UP RESIDUE W/ABSORBENT MATERIAL. WASH DOWN
+    AREA W/WATER & DILUTE ACETIC ACID.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A DRY, COOL PLACE IN TIGHTLY
+    SEALED CONTAINERS. AVOID CONTACT W/SKIN. CORROSIVE LIQUID.
+Other Precautions:PRODUCT MUST BE USED ACCORDING TO DIRECTIONS FOR
+    SAFETY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE A NIOSH APPROVED RESPIRATOR IF >TLV IN
+    CONFINED SPACES, ROOMS OR TANKS.
+Ventilation:IN VOLUME & PATTERN TO PREVENT HEAVY VAPOR BUILD UP.
+Protective Gloves:RECOMMENDED
+Eye Protection:RECOMMENDED
+Other Protective Equipment:BOOTS & APRON
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING.
+Supplemental Safety and Health
+LD50 DATA IS FOR NONYL PHENOL.
+
+==================  Physical/Chemical Properties  ==================
+
+Vapor Density:>AIR
+Spec Gravity:1.4
+Solubility in Water:MISCIBLE
+Appearance and Odor:BLACK LIQUID W/AMMONICAL ODOR
+Percent Volatiles by Volume:0%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, ACIDS, ISOCYANATES, & ORGANIC PEROXIDES
+Hazardous Decomposition Products:SMOKE, FUMES, CO, CO2, ALDEHYDES,
+    VARIOUS HYDROCARBONS & NITROGEN OXIDES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:LANDFILL IF SOLIDIFIED OR INCINERATE ACCORDING
+    TO FEDERAL, STATE, & LOCAL REGULATIONS. CORROSIVE LIQUID. UN1760.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

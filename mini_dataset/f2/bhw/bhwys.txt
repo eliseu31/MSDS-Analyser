@@ -1,0 +1,163 @@
+=====================  Product Identification  =====================
+
+Product ID:ENAMEL ALKYD S. G. GRAY 26492 ID 745654
+MSDS Date:01/05/1989
+FSC:8010
+NIIN:00-104-8377
+MSDS Number: BHWYS
+=== Responsible Party ===
+Company Name:PRATT & LAMBERT, INC.
+Box:2153
+City:WICHITA
+State:KS
+ZIP:67201
+Country:US
+Info Phone Num:316-733-1361
+Emergency Phone Num:316-733-1361
+Preparer's Name:W.A. ELLISON
+CAGE:FO127
+=== Contractor Identification ===
+Company Name:PRATT & LAMBERT, INC/BUFFALO, NY 14240
+Box:22
+CAGE:FO127
+Company Name:PRATT AND LAMBERT INC
+Address:Box:6027
+City:CLEVELAND
+State:OH
+ZIP:44101-1027
+Country:US
+Phone:216-566-2902
+CAGE:61196
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MINERAL SPIRITS (VAPOR PRESSURE 2 MM HG @ 20 C)
+CAS:64475-85-0
+RTECS #:PY8240000
+Fraction by Wt: 35%
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:SILICA, CRYSTALLINE - CRISTOBALITE
+CAS:14464-46-1
+RTECS #:VV7325000
+Fraction by Wt: <5%
+OSHA PEL:SEE TABLE Z3
+ACGIH TLV:0.05 MG/M3 RDUST9293
+
+Ingred Name:TALC (CONTAINING NO ASBESTOS)
+CAS:14807-96-6
+RTECS #:WW2710000
+Fraction by Wt: 5%
+OSHA PEL:2 MG/M3 RDUST
+ACGIH TLV:2 MG/M3 RDUST; 9192
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 20%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:REPEATED EXPOSURE TO CRYSTALLINE
+    SILICA MAY CAUSE PNEUMONOCONIOSIS, A PROGRES-  SIVELY DISABLING
+    LUNG DISEASE. REPORTS HAVE ASSOCIATED PROLONGED/REPEATED
+    OCCUPATIONAL OVEREXPOSURE TO SOLVENTS WIWTH PE RMANENT BRAIN AND
+    NERVOUS SYSTEM DAMAGEINTENTIONAL MISUSE BY DILIBERATELY INHALING
+    MAY BE HARMFUL OR FATAL.
+Effects of Overexposure:EYE: IRRITATION SKIN: DEFATTING AND IRRITATIN
+    OF SKIN-DERMATITIS INHALATION:    NOSE, THROAT IRRITATION, ACUTE
+    CENTRAL NERVOUS SYSTEM DEPRESSION CHARACTERIZED  BY HEADACHES,
+    DIZZINESS, NAUSEA AND CONF USION. INGESTION:
+    GASTRONINTESTIONALIRRITATION, NAUSEA AND VOMITING, CAN CAUSE CHEM.
+    PNEUMONITIS WHICH CAN BE FATAL.
+Medical Cond Aggravated by Exposure:PREEXISTING RESPIRATORY CONDITIONS
+    MAY BE AGGRAVA TED BY EXPOSURE TO CRYSTAQLLINE SILICA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH WIHT LARGE AMOUNT OF WATER FOR AT LEAST 15
+    MINUTES. GET MED. ATTN.   SKIN: REMOVE CONTAMINATED CLOTHING. WASH
+    AFFECTED AREA WITH SOAP AND WATER. SEEKMED. ATTN. INHAL: REMOVE TO
+    FRESH AIR IM MEDIATELY. IF BREATHING HAS STOPPED GIVECPR. INGEST:
+    DO NOT INDUCE VOMITING. CALL POISON CONTROL CENTER, EMERGENCY
+    ROOM,OR PHYSICIAN IMMEDIATELY, GET MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:102F/38.89C
+Extinguishing Media:CARBON DIOXIDE, DRY CHEMICAL, ALCOHOL FOAM
+    EXTINGUISHERS    POLYMER FOAM PREFERRED FOR LARGEL FIRES
+Fire Fighting Procedures:FIREMEN SHOULD WEAR SELF-CONTAINED BREATHING
+    APPARATUS. WATER MAY BE INEFFECTIVEBUT MAY BE USED TO COOL EXPOSED
+    CONTAINERS, FOG NOZZLES ARE PREFERABLE.
+Unusual Fire/Explosion Hazard:KEEP CONTAINERS TIGHTLY CLOSED. ISOLATE
+    FROM HEAT, ELECTRICAL EQUIPMENT SPARKS, AND FLAME. CLOSED
+    CONTAINERS MAY EXPLODE WHEN EXPOSED TO EXTREME HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE AREA. ELIMINATE ALL SOURCES OF
+    IGNITION.DIKE AND CONTAIN SPILL WITH INERT MATERIAL. TRANSFER
+    LIQUIDS TO COVERED METAL CONTAINERS FOR RECOVERYOR DISPOSAL OR
+    REMOVE WITH INERT ABSORBENT. PREV	ENT CONTAMINATION OF SEWERS,
+    STREAMS AND WATERWAYS
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT STORE ABOVE 95F. STORE LARGE
+    QUANTITIES IN COMPLIANCE WITH OSHA 29 CFR 1910.106.
+Other Precautions:DONOT TAKE INTERNALLY. CLOSED CONTAINER AFTER EA USE.
+    DO NOT BREATH SANDING DUSTEMPTY CONTAINERS MUST NOT BE WASHED AND
+    REUSED FOR ANY PURPOSE. CONTAINERS	    SHOULD BE
+    GROUNDED/BONDED/NEVER USE PRES SURE TO EMPTY DONT CUT EMPTY
+    CONTAINERS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:CHEMICAL CARTRIDAGE RESPIRATOR, AIR SUPPLIED
+    RESPIRATOR
+Ventilation:PROVIDE GENERAL DILUTION AND LOCAL EXHAUST VENTILATION IN  
+    SUFFICIENT VOLUME AND PATTERN TO MAINTAIN BELOW TLV
+Protective Gloves:IMPERMEABLE GLOVES
+Eye Protection:SAFETY SPECTACLES
+Supplemental Safety and Health
+NK
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:280F-388F
+Vapor Density:>AIR
+Evaporation Rate & Reference:SLOWER THAN AIR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG AIDS OR ALKALINE MATERIALS
+Stability Condition to Avoid:AVOID EXCESSIVE HEAT AND SOURCES OF
+    IGNITION
+Hazardous Decomposition Products:BURNING INCLUDING WHEN HEATED BY
+    WELDING OR CUTTING WILL PRODUCE SMOKE, CARBON MONOXIDE, AND CARBON
+    DIOXIDE.
+Conditions to Avoid Polymerization:KEEP AWAY FROM SPARKS AND FLAME
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN ACCORDANCE WITH FEDERAL, STATE AND   
+     LOCAL LAWS. INCINERATE ONLY IN EPA PERMITTED FACILITY. DO NOT
+    INCINERATE CLOSED CONTAINERS. CONTAMINATED ABSORBANT MAY BE
+    DISPOSED IN HAZARDOUS WASTE  LANDFILL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,170 @@
+=====================  Product Identification  =====================
+
+Product ID:809 0532, KODAK FLEXICOLOR STABILIZER & REPLENISHER LF
+MSDS Date:07/19/1995
+FSC:6750
+NIIN:01-285-1770
+Kit Part:Y
+MSDS Number: BWRMJ
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-722-5151
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+Company Name:EASTMAN KODAK CO US CUSTOMER SERVICE/GOVERNMENT SALES
+Address:800 LEE RD
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-3129
+Country:US
+Phone:800-828-6203
+CAGE:5K871
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 95-100%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:HEXAMINE/HEXAMETHYLENETETRAMINE
+CAS:100-97-0
+RTECS #:MN4725000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:SODIUM DODECYLBENZENE SULFONATE (CERCLA)
+CAS:25155-30-0
+RTECS #:DB6825000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:DIPROPYLENE GLYCOL
+CAS:110-98-5
+RTECS #:UB8785000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:NON-IONIC SURFACTANT
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:1,2-BENZISOTHIAZOL-3(2H)-ONE/SUBSTITUTED THIAZOLIN-3-ONE
+CAS:2634-33-5
+RTECS #:DE4620000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: EXPECTED TO BE A LOW
+    HAZARD FOR RECOMMENDED HANDLING. EYES: NO SPECIFIC HAZARD KNOWN.
+    MAY CAUSE TRANSIENT IRRITATION. SKIN: LOW HAZARD FOR RECOMMENDED
+    HANDLING. INGESTION: EXPECTED TO BE A  LOW INGESTION HAZARD.
+Explanation of Carcinogenicity:NO INGREDIENT OF A CONCENTRATION OF 0.1%
+    OR GREATER IS LISTED AS A CARCINOGEN OR SUSPECTED CARCINOGEN.
+Effects of Overexposure:NONE SPECIFIED BY MANUFACTURER.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION-IF SYMPTOMATIC, MOVE TO FRESH AIR. GET MEDICAL
+    ATTENTION IF SYMPTOMS PERSIST. EYES-ANY MATERIAL THAT CONTACTS THE
+    EYES SHOULD BE WASH OUT IMMEDIATELY WITH WATER. GET MEDICAL
+    ATTENTION. SKIN : WASH WITH SOAP AND WATER. GET MEDICALATTENTION IF
+    SYMPTOMS OCCUR. INGESTION- DRINK 1-2 GLASSES OF WATER. SEEK MEDICAL
+    ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE APPROPIATE AGENT FOR ADJACENT FIRE.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS AND
+    PROTECTIVE CLOTHING.
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH TO SEWER WITH LARGE AMOUNTS OF WATER.
+    OTHERWISE, ABSORB SPILL WITH VERMICULITE OR OTHER INERT MATERIAL,
+    THEN PLACE IN A CONTAINER FOR CHEMICAL WASTE. CLEAN SURFACE
+    THOROUGHLY TO REMOVE RESIDUAL  CONTAMINATION.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER CLOSED. KEEP AWAY FROM
+    INCOMPATIBLE SUBSTANCES.
+Other Precautions:USE WITH ADEQUATE VENTILATION. WASH THOROUGHLY AFTER
+    HANDLING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF FORMALDEHYDE IS EMITTED AT LEVELS REQUIRING
+    RESPIRATORY PTOTECTION THE FOLLOWING RESPIRATOR TYPE SHOULD BE
+    WORN: FULL FACEPIECE WITH CARTRIDGE OR CANISTER SPECIFICALLY
+    APPROVED BY NIOSH FOR FORMALD EHYDE PROTECTION.
+Ventilation:GOOD GENERAL VENTILATION (TYPICALLY 10 AIR CHANGES/HR)
+    SHOULD BE USED. VENTILATION RATES SHOULD BE MATCHED TO CONDITIONS
+Protective Gloves:IMPERVIOUS GLOVES SHOULD BE WORN.
+Eye Protection:WEAR SAFETY GLASSES WITH SIDE SHIELDS.
+Other Protective Equipment:EYE BATH, SAFETY SHOWER, WASHING FACILITIES.
+    WEAR PROTECTIVE CLOTHING APPROPIATE FOR RISK OF EXPOSURE.
+Work Hygienic Practices:IT IS GOOD INDUSTRIAL HYGIENE PRACTICE TO
+    MINIMIZE EYE CONTACT. WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+KEEP OUT OF REACH OF CHILDREN.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:>212F,>100C
+Vapor Pres:18 MMHG
+Vapor Density:0.6 AIR=1
+Spec Gravity:1.00
+pH:7.5
+Solubility in Water:COMPLETE
+Appearance and Odor:LIQUID, AMBER, SLIGHT AMINE ODOR.
+Percent Volatiles by Volume:95-100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE.
+Stability Condition to Avoid:STABLE.
+Hazardous Decomposition Products:AMMONIA, FORMALDEHYDE.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISCHARGE, TREATMENT, OR DISPOSAL MAY BE SUBJECT
+    TO NATIONAL, STATE, OR LOCAL LAWS. FLUSH TO SEWER WITH LARGE
+    AMOUNTS OF WATER.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

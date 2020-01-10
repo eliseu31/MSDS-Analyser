@@ -1,0 +1,117 @@
+=====================  Product Identification  =====================
+
+Product ID:SILVER OXIDE
+MSDS Date:01/14/1991
+FSC:6810
+NIIN:00N057647
+MSDS Number: BWRSK
+=== Responsible Party ===
+Company Name:AMES GOLDSMITH CORP
+Address:21 ROGER ST
+City:GLENS FALLS
+State:NY
+ZIP:12801
+Country:US
+Info Phone Num:518-792-5808
+Emergency Phone Num:518-792-5808
+CAGE:6Y172
+=== Contractor Identification ===
+Company Name:AMES GOLDSMITH CORP
+Address:21 ROGER ST.
+Box:City:GLENS FALLS
+State:NY
+ZIP:12801
+Country:US
+Phone:518-792-5808
+CAGE:6Y172
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SILVER (SARA 313) (CERCLA)
+CAS:7440-22-4
+RTECS #:VW3500000
+Fraction by Wt: 93.1%
+OSHA PEL:0.01 MG/M3
+ACGIH TLV:0.1 MG/M3
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ARGYRIA, A BLUE-GREY DISCOLORATION OF
+    THE SKIN, MUCOUS MEMBRANES & EYES MAY RESULT FROM INHALATION OF
+    SILVER. DUST IRRITATING IF INHALED, MAY CAUSE NASAL BLEEDING.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:UNKNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: EXCESS EXPOS CAN CAUSE COSMETIC
+    DISCOLORATION(ARGYRIA). REMOVE TO FRESH AIR. EYES: WASH THOROUGHLY
+    W/WATER FOR AT LEAST 15 MINS. SKIN: WASH THOROUGHLY WITH WATER.
+    INGEST: INDUCE VOMITING.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:PROPER TO THE PRIMARY CAUSE OF FIRE.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT.
+Unusual Fire/Explosion Hazard:DECOMPOSES AT 300C, EMITTING OXYGEN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VACCUM UP, SAVE FOR RECLAMATION.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A SECURE PLACE, AVOID CONTACT
+    WITH ORGANICS.
+Other Precautions:NONE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:R57A(AMERICAN OPTICAL) HEPA TYPE RESPIRATOR.
+Ventilation:LOCAL EXHAUST TO DUSTBAG OR WET SCRUBBER.
+Protective Gloves:ELBOW LENGTH NEOPRENE GLOVES.
+Eye Protection:ANSI APPRVD SAFETY GLASSES .
+Other Protective Equipment:RUBBER OR PLASTIC APRON.
+Work Hygienic Practices:AVOID BREATHING DUST; WASH THOROUGHLY AFTER
+    HANDLING.
+Supplemental Safety and Health
+SOLUB IN H*2O: 0.0017 GR/100 ML @ 20C. MP: DECOMP @ 572F,300C. VP:
+    NON-VOLATILE.
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:M.P/F.P Text:SUPDAT
+Vapor Pres:SUPDAT
+Vapor Density:SUPDAT
+Spec Gravity:7.22 (H*2O=1)
+Solubility in Water:SUPDAT
+Appearance and Odor:BROWN-BLACK POWDER W/NO ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AMMONIA, ORGANIC VAPORS, REDUCING AGENTS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:NONE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:SEND TO REFINER FOR SILVER RECOVERY. DISPOSE OF
+    IN ACCORDANCE WITH LOCAL, STATE & FEDERAL REGULATIONS .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

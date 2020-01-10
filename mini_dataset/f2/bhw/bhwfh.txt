@@ -1,0 +1,143 @@
+=====================  Product Identification  =====================
+
+Product ID:CG AGENT SIMULANT VIAL,PHENYL (SEE SUPP)
+MSDS Date:01/01/1987
+FSC:6910
+NIIN:00-106-4800
+Kit Part:Y
+MSDS Number: BHWFH
+=== Responsible Party ===
+Company Name:CHEMTRONICS,INC NOW,JET RESEARCH
+Address:180 OLD BEE TREE ROAD
+City:SWANNANOA
+State:NC
+ZIP:28778
+Country:US
+Info Phone Num:704-298-7941
+Emergency Phone Num:704-298-7941
+CAGE:KO082
+=== Contractor Identification ===
+Company Name:CHEMTRONICS INC
+Address:180 OLD BEE TREE RD
+Box:City:SWANNANOA
+State:NC
+ZIP:28778-3409
+Country:US
+Phone:NOT LISTED IN PHONE DIRECTORY
+CAGE:60737
+Company Name:CHEMTRONICS,INC NOW JET RESEARCH(NO LONGER MFR)
+Address:180 OLD BEE TREE ROAD
+Box:City:SWANNANOA
+State:NC
+ZIP:28778
+Country:US
+Phone:703-298-7941
+CAGE:KO082
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PHENYL CHLOROFORMATE
+CAS:1885-14-9
+RTECS #:FG3850000
+Other REC Limits:N/K 
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 RAT ORAL 1410 MG/KG.(SEE SUPP)
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SEE SIGNS AND SYMPTOMS OF
+    OVEREXPOSURE.
+Explanation of Carcinogenicity:NONE
+Effects of
+    Overexposure:EYES:IRRITATION.SKIN:BURNS.INGESTION/INHALATION:IRRITA
+    TION OF MUCOUS MEMBRANES,COUGHING,HEADACHE AND NAUSEA MAY DEVELOP.
+Medical Cond Aggravated by Exposure:N/K 
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH W/ WATER FOR 15 MINUTES.SKIN:WASH W/ SOAP &
+    WATER.REMOVE CONTAMINATED CLOTHING.INGESTION:N/K .INHALATION:MOVE
+    TO FRESH AIR.ADMINISTER MOUTH-TO-MOUTH RESPIRATION IF
+    NECESSARY.SEEK  MEDICAL ATTENTION.REMOVE CONTAMINATED CLOTHING.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:168F,75.56C
+Lower Limits:N/K 
+Upper Limits:N/K 
+Extinguishing Media:DRY CHEMICAL,CO*2,ALCOHOL OR POLYMER FOAM.DO NOT
+    USE WATER.
+Fire Fighting Procedures:WEAR SCBA.AVOID CONTACT WITH EYES AND SKIN.USE
+    WATER TO COOL FIRE-EXPOSED CONTAIERS.
+Unusual Fire/Explosion Hazard:EMITS TOXIC CHLORIDE FUMES.CONTAINERS MAY
+    EXPLODE UNDER FIRE CONDITIONS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE SOURCES OF IGNITION.WEAR SCBA,RUBBER
+    GLOVES AND BOOTS DURING CLEAN-UP.ABSORB SPILL WITH SAND OR
+    VERMICULITE AND PLACE IN CLOSED CONTAINER.
+Neutralizing Agent:N/K 
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM HEAT,SPARKS AND
+    FLAME.KEEP CONTAINER CLOSED.USE ONLY WITH ADEQUATE VENTILATION.
+Other Precautions:AVOID CONTACT WITH ACIDS AND WATER.AVOID EYE AND SKIN
+    CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE MSHA APPROVED RESPIRATOR WITH ORGANIC
+    VAPORS/CHLORINE CARTRIDGE.
+Ventilation:CONSULT LOCAL SAFETY/HEALTH AUTHORITIES IF ADDITIONAL
+    GUIDANCE IS NEEDED .
+Protective Gloves:CHEMICAL RESISTANT.
+Eye Protection:SPLASH-PROOF GOGGLES.
+Other Protective Equipment:N/K 
+Work Hygienic Practices:N/K 
+Supplemental Safety and Health
+PART NO:ESTER (M72-A1 TRNG).BOILING PT:75C,167F AT 13 MMHG.LD50-LC50
+    MIXTURE:LD50 RABBIT SKIN 3970 MG/KG.WASTE DISPOSAL METHOD:MIXED
+    WITH OTHER COMBUSTIBLE LIQUIDS FOR INCINERATION USING AFTERBURNER A
+    ND SCRUBBER OBSERVING ALL POLLUTION REGULATIONS.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:SEE SUPP
+Melt/Freeze Pt:M.P/F.P Text:N/K 
+Decomp Temp:Decomp Text:N/K 
+Vapor Pres:N/K 
+Vapor Density:>1 (AIR=1)
+Spec Gravity:1.248 (WATER=1)
+Evaporation Rate & Reference:>1 (BUTYL ACETATE=1)
+Solubility in Water:N/K 
+Appearance and Odor:CLEAR LIQUID.
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACIDS
+Stability Condition to Avoid:MOISTURE
+Hazardous Decomposition Products:HYDROGEN CHLORIDE GAS.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE IAW FEDERAL,STATE & LOCAL
+    REGULATIONS.COORDINATION WITH SUPPORTING INSTALLATION/MACOM
+    ENVIRONMENTAL COORDINATION PRIOR TO DISPOSAL IS RECOMMENDED TO
+    DETERMINE APPROPRIATE DISPOSAL MET HODS .UNCONTAMINATED WASTE MAY
+    BE(SEE SUPP)
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

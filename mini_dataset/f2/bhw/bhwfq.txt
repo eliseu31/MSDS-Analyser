@@ -1,0 +1,146 @@
+=====================  Product Identification  =====================
+
+Product ID:CONAPOXY RN-1000
+MSDS Date:01/13/1989
+FSC:8030
+NIIN:00-433-9786
+Kit Part:Y
+MSDS Number: BHWFQ
+=== Responsible Party ===
+Company Name:CONAP INC
+Address:1405 BUFFALO ST
+City:OLEAN
+State:NY
+ZIP:14760
+Country:US
+Info Phone Num:716-372-9650
+Emergency Phone Num:716-372-9650
+Preparer's Name:GEORGE C KARPIN
+CAGE:DO146
+=== Contractor Identification ===
+Company Name:CONAP INC
+Address:1405 BUFFALO ST
+City:OLEAN
+State:NY
+ZIP:14760-1139
+Phone:716-372-9650
+CAGE:DO146
+Company Name:CONAP INC.,WHOLLY OWNED SUBSIDIARY OF CYTEC INDUSTRIES
+    INC.
+Address:1405 BUFFALO STREET
+Box:City:OLEAN
+State:NY
+ZIP:14760
+Country:US
+Phone:716-372-9650
+CAGE:16245
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:N-BUTYL GLYCIDYL ETHER (BGE)
+CAS:2426-08-6
+RTECS #:TX4200000
+Fraction by Wt: <15%
+Other REC Limits:N/K 
+OSHA PEL:50 PPM
+ACGIH TLV:25 PPM; 9293
+
+Ingred Name:DIGLYCIDYL ETHER OF BIS PHENOL A
+CAS:25068-38-6
+Fraction by Wt: >80%
+Other REC Limits:N/K 
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 RAT ORAL >2000 MG/KG.
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:POSSIBLE SKIN
+    SENSITIZER/DERMATITIS.BUTYL GLYCIDYL ETHER HAS BEEN POSITIVE IN
+    AMES,E COLI,MOUSE LYMPHOMA,DNA REPAIR (HUMAN WHITE BLOOD CELLS) IN
+    VITRO MUTAGENICITY TESTS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES:MINOR TRANSIENT IRRITATION.NO CORNEAL
+    INJURY LIKELY.SKIN:MINOR TRANSIENT IRRIT,POSSIBLE
+    SENSITIZER,DERMATITIS.ABSORPTION IN TOXIC AMOUNT NOT
+    LIKELY.INGESTION:LOW ACUTE ORAL TOXICITY.INHALATION:NO T CONSIDERED
+    A PROBLEM UNLESS HEATED TOA HIGH TEMPERATURE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:IMMED IRRIGATION WITH WATER FOR 5 MIN IS GOOD SFTY
+    PRACTICE.CONSULT MED PERSONNEL.SKIN:WASH OFF IN FLOWING WATER OR
+    SHOWER.INGESTION:INDUCE VOMITING IF LARGE AMOUNT
+    INGESTED.INHAL:REMOVE TO FRESH  AIR IF EFFECTS OCCUR.CONSULT MED
+    PERS.NOTE TO MD:EYES:STAIN FOR SIGNS OF CORNEAL INJ.SKIN:TREAT AS
+    CONT DERM.INGEST:NO SPECIFIC ANTIDOTE.TREATMENT BASED ON SOUND
+    JUDGEMENT OF MD & PATIENT REACTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:>200F,93C
+Extinguishing Media:FOAM,DRY CHEMICAL,CARBON DIOXIDE.
+Fire Fighting Procedures:USE SELF CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE PROPER PROTECTIVE EQUIPMENT.SOAK UP IN
+    ABSORBENT MATERIAL OR SCRAPE UP.RESIDUAL CAN BE REMOVED WITH
+    NON-FLAMMABLE SOLVENT SUCH AS METHYLENE CHLORIDE.
+Neutralizing Agent:N/K 
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:PRACTICE GOOD CAUTION.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NEEDED UNDER NORMAL CONDITIONS.
+Ventilation:GOOD ROOM VENTILATION NORMALLY ADEQUATE FOR MOST
+    OPERATIONS.MECHANICAL EXHAUST.
+Protective Gloves:RUBBER OR IMPERVIOUS PLASTIC.
+Eye Protection:SAFETY GLASSES W/O SIDE SHIELDS.
+Other Protective Equipment:CLEAN,BODY COVERING CLOTHING.
+Work Hygienic Practices:USE GOOD INDUSTRIAL HYGIENE.WASH CLOTHING
+    BEFORE REUSE.
+Supplemental Safety and Health
+N/K 
+
+==================  Physical/Chemical Properties  ==================
+
+Decomp Temp:Decomp Text:N/K 
+Solubility in Water:NONE
+Appearance and Odor:VISCOUS LIQUID WITH NO DISTINCT ODOR.
+Percent Volatiles by Volume:NIL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+BASE
+Stability Condition to Avoid:EXCESSIVE HEATING DEGRADES RESIN.
+Hazardous Decomposition Products:CARBON DIOXIDE,CARBON MONOXIDE FROM
+    THERMAL DECOMPOSITION.NONE UNDER NORMAL CONDITIONS.
+Conditions to Avoid Polymerization:MASSES >1 POUND OF PRODUCT PLUS
+    ALIPHATIC AMINE WILL CAUSE IRREVERSIBLE POLYMERIZATION W/
+    CONSIDERABLE HEAT BUILDUP.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE IN ACCORDANCE WITH
+    FEDERAL,STATE AND LOCAL REGULATIONS.COORDINATION WITH SUPPORTING
+    INSTALLATION AND/OR MACOM ENVIRONMENTAL COORDINATION PRIOR TO
+    DISPOSAL IS RECOMMENDED TO DETERMINE  APPROPRIATE DISPOSAL METHODS
+    .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

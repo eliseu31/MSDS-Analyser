@@ -1,0 +1,133 @@
+=====================  Product Identification  =====================
+
+Product ID:640511 OATEY FIBERGLASS RESIN
+MSDS Date:01/31/1986
+FSC:8040
+NIIN:00-790-9395
+MSDS Number: BKYNC
+=== Responsible Party ===
+Company Name:TRW INC
+Address:8001 E PLEASANT VALLEY RD
+City:CLEVELAND
+State:OH
+ZIP:44131-5526
+Info Phone Num:(216) 447-8130
+Emergency Phone Num:(216) 267-7100
+CAGE:TRWIN
+=== Contractor Identification ===
+Company Name:TRW
+Address:100 LAKE RD.
+Box:City:MEDINA
+State:OH
+ZIP:44256
+Country:US
+Phone:216-725-4511
+CAGE:31033
+Company Name:TRW INC
+Address:1435 HEIL QUAKER BLVD
+City:LA VERGNE
+State:TN
+ZIP:37086
+Phone:(216) 467-4195
+CAGE:TRWIN
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:STYRENE, MONOMER  (SARA III)
+CAS:100-42-5
+RTECS #:WL3675000
+Fraction by Wt: 37%
+Other REC Limits:50 PPM
+OSHA PEL:100 PPM
+ACGIH TLV:S,50PPM/100STEL;9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:PHTHALIC ANHYDRIDE, MALEIC ANHYDRIDE, ADIPIC ACID,
+    DIETHYLENE GLYCOL, PROPYLENE GLYCOL RESIN
+CAS:25464-21-5
+Fraction by Wt: 60-65%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: STYRENE IN SPRAYFILLER MAY
+    CAUSE IRRITATION TO THE NOSE, THROAT & RESPIRATORY TRACT, &
+    NARCOSIS. SKIN/INGESTION: IRRITATION. EYES: STYRENE IN SPRAY FILLER
+    MAY CAUSE IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: STYRENE IN SPRAYFILLER MAY CAUSE
+    NOSE, THROAT & RESPIRATORY TRACT, & NARCOSIS. SKIN/INGESTION:
+    IRRITATION. EYES: STYRENE IN SPRAY FILLER MAY CAUSE IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. IF BREATHING IS DIFFICULT,
+    GIVE OXYGEN. ADMINISTER ARTIFICIAL RESPIRATION IF NOT BREATHING.
+    KEEP WARM AT REST. EYES/SKIN: FLUSH W/WATER FOR 15 MINUTES.
+    INGESTION: DON' T INDUCE VOMITING. OBTAIN MEDICAL ATTENTION IN ALL
+    CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TOC
+Flash Point:98F
+Lower Limits:1.1%
+Upper Limits:6.1%
+Extinguishing Media:FOAM, CO2 & DRY CHEMICAL
+Fire Fighting Procedures:TREAT AS FUEL OIL.
+Unusual Fire/Explosion Hazard:FLAMMABLE LIQUID
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EXTINGUISH OPEN FLAMES IN AREA. WIPE UP SPRAY
+    FILLER. REMAINDER MAY BE CLEANED W/HOT SOAPY/WATER OR NON-FLAMMABLE
+    SOLVENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID PROLONGED/REPEATED CONTACT
+    W/SKIN & EYES. STORE IN COOL, DRY AREA. NO SMOKING OR OPEN LIGHTS
+    IN AREA. DON'T STORE IN DIRECT SUNLIGHT.
+Other Precautions:AVOID SPLASHING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:(SELF-CONTAINED AIR SUPPLY) CANISTER OR AIR PACK
+Ventilation:LOCAL EXHAUST: USE HOOD OVER WORKING AREA.
+Protective Gloves:SOLVENT RESISTANT
+Eye Protection:GLASSES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:293F
+Vapor Pres:6.5
+Vapor Density:1
+Spec Gravity:1.1%
+Evaporation Rate & Reference:(BU AC = 1): 1
+Solubility in Water:INSOLUBLE
+Appearance and Odor:BROWNISH-YELLOW LIQUID W/SWEET ODOR
+Percent Volatiles by Volume:37%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING AGENTS
+Stability Condition to Avoid:OPEN FLAMES & DIRECT SUNLIGHT
+Hazardous Decomposition Products:CO & LOW MOLECULAR WEIGHT HYDROCARBONS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE BY BURYING IN AN EPA APPROVED LANDFILL
+    OR BURNING IN LICENSED EPA APPROVED INCINERATOR. FLAMMABLE LIQUID.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

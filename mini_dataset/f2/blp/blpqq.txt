@@ -1,0 +1,132 @@
+=====================  Product Identification  =====================
+
+Product ID:23X7 DEFTOIL NATURAL
+MSDS Date:08/01/1989
+FSC:8010
+NIIN:00F019206
+MSDS Number: BLPQQ
+=== Responsible Party ===
+Company Name:DEFT INC
+Address:17451 VON KARMAN AVE
+City:IRVINE
+State:CA
+ZIP:92714
+Info Phone Num:(714) 474-0400
+Emergency Phone Num:(714) 474-0400
+CAGE:33458
+=== Contractor Identification ===
+Company Name:DEFT INC
+Address:17451 VON KARMAN AVE
+City:IRVINE
+State:CA
+ZIP:92714-6205
+Country:US
+Phone:800 424-9300
+CAGE:33458
+Company Name:DEFT,  INC.
+Address:17451 VON KARMAN AVE
+City:IRVINE
+State:CA
+ZIP:92614
+Country:US
+Phone:949-474-0400
+CAGE:33461
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MEDIUM ALIPHATIC NAPHTHA (AROMATIC 100), PARAFFIN-NAPTHANES
+    MINERAL SPIRITS
+CAS:64742-88-7
+Fraction by Wt: 60%
+Other REC Limits:100 PPM
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: IRRITATION OF RESPIRATORY
+    TRACT, NOSE, & THROAT/HEADACHE/DIZZINESS/STAGGERING
+    GAIT/CONFUSION/UNCONSCIOUSNESS/COMA/BREATHING DIFFICULTY. EYE:
+    IRRITATION/TEAR/REDNESS. SKIN: IRRITATION/SWELL ING/REDNESS/RASH.
+    INGESTION: IRRITATION/CORROSIVE ACTION IN MOUTH/STOMACH
+    TISSUE/DIGESTIVE TRACT.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: ASTHMA/ACUTE NERVOUS SYSTEM
+    DEPRESSION. EYE: SWELLING/STINGING SENSATION. SKIN:
+    ABSORPTION/DRYNESS/DEFATTING/CRACKING/SENSITIZATION/ALLERGIC
+    RESPONSES. INGESTION: CHEMICAL PNEUMONITIS.
+Medical Cond Aggravated by Exposure:ASTHMA OR OTHER RESPIRATORY
+    DISORDERS, SKIN ALLERGIES, ECZEMA, OR DERMATITIS
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. RESTORE BREATHING. SKIN:
+    WASH THOROUGHLY W/SOAP & WATER. EYES: FLUSH W/CLEAN LUKEWARM WATER
+    (LOW PRESSURE) FOR AT LEAST 15 MINS. INGESTION: DON'T INDUCE
+    VOMITING. DON' T GIVE ANYTHING TO AN UNCONSCIOUS PERSON. VOMITING
+    MAY CAUSE ASPIRATION OF THE SOLVENT, RESULTING IN CHEMICAL
+    PNEUMONITIS. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:105F
+Lower Limits:1%
+Extinguishing Media:FOAM, ALCOHOL FOAM, CO2, DRY CHEMICAL, OR WATER FOG
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS & FULL
+    PROTECTIVE CLOTHING.
+Unusual Fire/Explosion Hazard:WATER MAY BE USED TO COOL CLOSED
+    CONTAINERS TO PREVENT PRESSURE BUILD-UP, AUTOIGNITION, OR
+    EXPLOSION, WHICH IS CAUSED BY EXTREME HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE AREA. REMOVE ALL SOURCES OF IGNITION.
+    VENTILATE AREA. CONTAIN & REMOVE W/INERT ABSORBENT & NON-SPARKING
+    TOOLS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTACT W/SKIN & EYES. AVOID
+    STORING NEAR HIGH TEMPERATURES/FIRE/OPEN FLAMES/SPARKS/OR OTHER
+    IGNITION SOURCES. DON'T TAKE INTERNALLY.
+Other Precautions:STORE IN WELL VENTILATED AREA. KEEP CONTAINERS
+    TIGHTLY CLOSED/UPRIGHT TO PREVENT LEAKAGE. AVOID INHALATION OF
+    VAPORS/SPRAY MISTS. DON'T HANDLE UNTIL SAFETY PRECAUTIONS HAVE BEEN
+    READ & UNDERSTOOD. SMO KE IN SMOKING AREAS ONLY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR APPROVED AIR-PURIFYING OR FRESH
+    AIR-SUPPLIED RESPIRATOR FOR USE IN AN ORGANIC VAPOR ENVIRONMENT.
+Ventilation:EXHAUST: TO KEEP AIR
+Evaporation Rate & Reference:(N-BU AC = 1): 0.1
+Appearance and Odor:OPAQUE LIQUID W/SOLVENT ODOR.
+Percent Volatiles by Volume:64.2%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:HEAT, SPARKS, ELECTRICAL EQUIPMENT, OPEN
+    FLAME, HOT SURFACES, HIGH TEMPERATURES, FIRE, OR OTHER SOURCES OF
+    IGNITION
+Hazardous Decomposition Products:CO, CO2, OR OXIDES OF NITROGEN
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:WASTE MUST BE DISPOSED OF IN ACCORDANCE
+    W/FEDERAL, STATE, & LOCAL ENVIRONMENTAL CONTROL REGULATIONS. EMPTY
+    CONTAINERS MUST BE HANDLED W/CARE, DUE TO PRODUCT RESIDUE/FLAMMABLE
+    VAPOR. DON'T INCINERATE C LOSED CONTAINERS. UN 1263.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

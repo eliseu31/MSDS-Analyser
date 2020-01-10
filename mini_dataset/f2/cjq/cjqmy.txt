@@ -1,0 +1,217 @@
+=====================  Product Identification  =====================
+
+Product ID:GEL-LUBE LUBRICANT 13 OZ NET WT, 92660
+MSDS Date:04/28/1998
+FSC:9150
+NIIN:00N063975
+Status Code:A
+MSDS Number: CJQMY
+=== Responsible Party ===
+Company Name:PREMIER FARNELL CORPORATION
+Address:4500 EUCLID AVENUE
+City:CLEVELAND
+State:OH
+ZIP:44103
+Country:US
+Info Phone Num:216-391-8300
+Emergency Phone Num:216-391-8300
+Resp. Party Other MSDS Num.:FORMULA: 57379
+CAGE:18399
+=== Contractor Identification ===
+Company Name:PREMIER FARNELL CORPORATION
+Address:4500 EUCLID AVENUE
+Box:City:CLEVELAND
+State:OH
+ZIP:44103-3736
+Country:US
+Phone:216-391-8300
+CAGE:18399
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HEXANE.  LD50: (ORAL, RAT) 28710 MG/KG; LC50: (MIC) >99509
+    PPM.
+CAS:110-54-3
+RTECS #:MN9275000
+Minumum % Wt:25.
+Maxumum % Wt:30.
+OSHA PEL:1800 MG/M3;500 PPM
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:PROPANE.  LC50: (MLO) 10000 PPM.
+CAS:74-98-6
+RTECS #:TX2275000
+Minumum % Wt:5.
+Maxumum % Wt:10.
+OSHA PEL:1800 MG/M3;1000 PPM
+
+Ingred Name:LUBRICATING OIL
+Minumum % Wt:20.
+Maxumum % Wt:30.
+
+Ingred Name:N-BUTANE. LC50: (RAT) 277374 PPM.
+CAS:106-97-8
+RTECS #:EJ4200000
+Minumum % Wt:20.
+Maxumum % Wt:25.
+ACGIH TLV:1900 MG/M3;800 PPM
+
+Ingred Name:ISOHEXANE; (ISOHEXANE ISOMERS)
+CAS:107-83-5
+RTECS #:SA2985000
+Minumum % Wt:15.
+Maxumum % Wt:20.
+
+Ingred Name:CYCLOHEXANE.  LD50: (ORAL, RAT) 12705 MG/KG; LD50: (RABBIT)
+    180000.
+CAS:110-82-7
+RTECS #:GU6300000
+= Wt:1.
+OSHA PEL:1050 MG/M3;300 PPM
+ACGIH TLV:1030 MG/M3;300 PPM
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:BENZENE
+CAS:71-43-2
+RTECS #:CY1400000
+Fraction by Wt: TRACE
+OSHA PEL:see 1910.1028
+ACGIH TLV:32 MG/M3;10 PPM
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE INGREDIENTS
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:CAUSES EYE AND SKIN IRRITATION. EXCESS
+    INHALATION OF VAPORS MAY CAUSE RESPIRATORY IRRITATION, DIZZINESS,
+    WEAKNESS, FATIGUE, NAUSEA, HEADACHE AND POSSIBLE UNCONSCIOUSNESS,
+    EVEN DEATH. PROLONGED AND REP EATED INHALATION MAY BE HARMFUL TO
+    RESPIRATORY SYSTEM, LIVER AND KIDNEYS. REPEATED AND PROLONGED
+    OVEREXPOSURE TO SOLVENTS MAY CAUSE PERMANENT DAMAGE TO CNS. VAPORS
+    MAY CAUSE THE BEGINNING OF PERIPHERA L NEUROPATHY. INGESTION CAUSES
+    LOSS OF APPETITE AND PARESTHIA OF THE EXTREMITIES. MISUSE OR
+    DELIBERATE INHALATION MAY BE HARMFUL OR FATAL. WARNING: THIS
+    PRODUCT CONTAINS A CHEMICAL KNOWN TO THE STATE  (EFFECTS OF
+    OVEREXPOSURE)
+Effects of Overexposure:HEALTH HAZARDS: OF CALIFORNIA TO CAUSE CANCER.
+    ANY SUSPECTED CARCINOGEN = OR > 0.1%?: NO. CONTAINS BENZENE WHICH
+    APPEARS ON THE NAVY LIST OF OCCUPATIONAL CHEMICAL REPRODUCTIVE
+    HAZARDS. SEEK CONSULTATI ON FROM APPROPRIATE HEALTH PROFESSIONALS
+    CONCERNING LATEST HAZARD LIST INFORMATION AND SAFE HANDLING AND
+    EXPOSURE INFORMATION .
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: IMMEDIATELY FLUSH WITH PLENTY OF WATER FOR AT LEAST 15
+    MINUTES AND CALL PHYSICIAN. SKIN: WASH THOROUGHLY WITH PLENTY OF
+    WATER AND SOAP. LAUNDER CONTAMINATED CLOTHING BEFORE REUSE.
+    INHALATION: IF  AFFECTED, REMOVE TO FRESH AIR, ADMINISTER OXYGEN
+    AND CALL PHYSICIAN. INGESTION: GIVE 1-2 GLASSES OF WATER. SEEK
+    PHYSICIAN IMMEDIATELY. SHOW MSDS OR LABEL. DO NOT INDUCE VOMITING.
+    ASPIRATION CAUSES SE VERE LUNG IRRITATION, COUGHING AND PULMONARY
+    EDEMA.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:<-17.8C, 0.F
+PROPELLANT
+Lower Limits:1.0%
+Upper Limits:9.5%
+Extinguishing Media:FOAM, DRY CHEMICAL, CARBON DIOXIDE.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA AND FULL PROTECTIVE
+    EQUIPMENT . NFPA RATING: 2,4,0. HMIS: 2,4,0.
+Unusual Fire/Explosion Hazard:CLASSIFICATION: FLAMMABLE AEROSOL.
+    COMBUSTION PRODUCTS: CO, CO*2, PARTIALLY COMBUSTED HYDROCARBONS.
+    EXPOSURE TO FIRE, HEAT OR PROLONGED SUNLIGHT MAY CAUSE BURSTING.
+    CONTACT W/FLAME OR HOT SURFACES MAY  PRODUCE TOXIC GASES. EXPLOSIVE
+    POWER: HIGH. BURNING RATE: HIGH. IMPACT SENSITIVE: NO. STATIC
+    SENSITIVE: YES FLAMMABLE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITION. VENTILATE THE
+    AREA. CLEAN UP WITH ABSORBENT MATERIAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM HEAT, SPARKS, FLAME OR
+    SOURCES OF IGNITION. DO NOT PUNCTURE, INCINERATE, BURN OR STORE
+    CONTAINERS ABOVE 120F(47C). USE ONLY IN WELL VENTILATED AREAS. DO
+    NOT BREATHE VAPOR OR SPRAY MIST.  AVOID CONTACT W/EYES, SKIN &
+    CLOTHING. WASH THOROUGHLY AFTER USING. DO NOT TAKE (SUPDAT)
+Other Precautions:KEEP OUT OF REACH OF CHILDREN. ALWAYS READ AND FOLLOW
+    DIRECTIONS ON PRODUCT LABEL. ADDITIONAL TECHNICAL DATA SHEETS
+    AND/OR MATERIAL SAFETY DATA SHEETS (MSDS) AVAILABLE UPON REQUEST.
+    FOR PROFESSIONAL A ND INDUSTRIAL USE ONLY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF VENTILATION IS INADEQUATE, WEAR NIOSH
+    APPROVED RESPIRATORY EQUIPMENT.
+Ventilation:LOCAL: RECOMMENDED. MECHANICAL: RECOMMENDED. SPECIAL: KEEP
+    AWAY FROM HEAT AND FLAME. OTHER: N/A.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:ANSI APPROVED EYE WASH AND DELUGE SHOWER .
+Supplemental Safety and Health
+HNDLG/STOR PRECS: INTERNALLY. IN CASE OF ACCIDENT OR ILLNESS, SEEK
+    PHYSICIAN IMMEDIATELY, SHOW LABEL OR MSDS. PHYSICAL DATA -
+    WATER/OIL DIST COEFF: 0; THRESHOLD ODOR, PPM: N/A; GRAMS VOC/GRAM
+    SOLID =  N/A.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:<-17.8C, 0.F
+B.P. Text:PROPELLANT
+Vapor Density:HVR/AIR
+Spec Gravity:0.67
+VOC Pounds/Gallon:499
+VOC Grams/Liter:4.16
+Evaporation Rate & Reference:FASTER THAN ETHER
+Solubility in Water:NIL
+Appearance and Odor:CLEAR LIQUID; SOLVENT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NO.
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:ESTIMATED LD50, MG/KG: NO. ESTIMATED LC50,
+    PPM: NO. SENSITIZATION: NO. IRRITANT: YES EYES AND SKIN.
+    SYNERGISTIC AGENTS: NO.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF WASTE IN ACCORDANCE WITH ALL FEDERAL,
+    STATE AND LOCAL REGULATIONS. DO NOT PUNCTURE, INCINERATE OR BURN
+    CONTAINERS.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:HEXANE, CYCLOHEXANE AND BENZENE ARE LISTED
+    IN SARA TITLE III SECTION 313. LISTED IN: SARA TITLE III 302: NO;
+    304, CERCLA: NO.
+Federal Regulatory Information:ALL COMPONENTS OF THIS PRODUCT ARE
+    LISTED OR ARE EXEMPT FROM LISTING ON THE TSCA INVENTORY AND THE
+    CANADIAN DSL OR NDSL.
+State Regulatory Information:WARNING: THIS PRODUCT CONTAINS A CHEMICAL
+    KNOWN TO THE STATE OF CALIFORNIA TO CAUSE CANCER.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

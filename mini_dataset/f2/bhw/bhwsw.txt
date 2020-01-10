@@ -1,0 +1,136 @@
+=====================  Product Identification  =====================
+
+Product ID:ENAMEL ALKYD GLOSS RED 11136, ID 742114
+MSDS Date:05/24/1985
+FSC:8010
+NIIN:00-527-3199
+MSDS Number: BHWSW
+=== Responsible Party ===
+Company Name:PRATT & LAMBERT, INC.
+Box:2153
+City:WICHITA
+State:KS
+ZIP:67201
+Country:US
+Info Phone Num:316-733-1361
+Emergency Phone Num:316-733-1361
+Preparer's Name:W.A. ELLISON
+CAGE:FO127
+=== Contractor Identification ===
+Company Name:PRATT & LAMBERT, INC/BUFFALO, NY 14240
+Box:22
+CAGE:FO127
+Company Name:PRATT AND LAMBERT INC
+Address:Box:6027
+City:CLEVELAND
+State:OH
+ZIP:44101-1027
+Country:US
+Phone:216-566-2902
+CAGE:61196
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MOLYBDATE ORANGE
+CAS:12656-85-8
+RTECS #:QA4660000
+Fraction by Wt: 10-20%
+
+Ingred Name:METHYL ETHYL KETOXIME				       
+    (VAPOR PRESSURE 10 MMHG @ 20C)
+RTECS #:PM7783000
+Fraction by Wt: 0.5%
+
+Ingred Name:MINERAL SPIRITS					       
+    (VAPOR PRESSURE 3.20 MMHG @ 20C)
+CAS:64742-88-7
+Fraction by Wt: 40-50%
+ACGIH TLV:500 PPM
+
+Ingred Name:VOC. ORGANIC CMPD 4.0 LB/GL LESS WATER & NPRS* 480 G/L
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Effects of Overexposure:INHALATION: ANESTHETIC. IRRITATION OF
+    NOSE,THROAT,EYES & POSSIBLE DIZZINESS, &  NAUSEA. SPRAY MISTS
+    CONTAIN LEAD. LEAD POISONING IS CHARACTERIZED BY THE FOLLOW-ING
+    PROGRESSIVE STEPS: HEADACHES, DIZZIN ESS,STAGGERING GAIT,
+    CONFUSION, COMA, ORUNCONSCIOUSNESS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH IMMEDIATELY W/LG AMOUNTS OF WTR FOR 15 MINS.       
+		      SKIN:REMOVE CONTAMINATED CLOTHING & WASH ALL
+    AFFECTED AREA W/WATER.	       INHALATION:REMOVE FROM EXPOSURE
+    & PROVID E FRESH AIR.INGESTION: DO NOT INDUCE VOMITING. CONSULT A
+    PHYSICIAN IMMEDIATELY IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:104F/40.00C
+Lower Limits:1.10
+Extinguishing Media:CARBON DIOXIDE, DRY CHEMICAL, ALCOHOL FOAM, POLYMER
+    FOAM.
+Fire Fighting Procedures:S.C.B.A. SHOULD BE AVAILABLE FOR FIREFIGHTERS.
+    WATER MAY BE INEFFECTIVE BUT MAY BE USED TO COOL EXPOSED CONTAINERS
+    TO PREVENT PRESSURE BUILD UP.
+Unusual Fire/Explosion Hazard:KEEP CONTAINERS TIGHTLY CLOSED. ISOLATE
+    FROM HEAT,ELEC EQUIP.,SPARKS, & OPEN    FLAME. CLOSED CONTNRS MAY
+    EXPLODE WHEN EXPOSED TO EXTREME HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SOURCES OF IGNITIONS. REMOVE
+    W/INERT   ABSORBENT & NON SPARKING TOOLS. STEPS MUST BE	TAKEN
+    TO PREVENT CONTAMINATION OF GROUND WATER OR STREAMS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DONOT STORE ABOVE 120F. CONTAINERS
+    SHOULD BE	   GROUNDED AND BONDED TO THE RECEIVING CONTAINER.
+Other Precautions:DO NOT CUT OR WELD ON EMPTY CONTAINERS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE MECHANICAL RESPIRATOR IN OUTDOOR/OPEN AREAS.
+    CHEMICAL-MECHANICAL FILTERS    FOR RESTRICTED VENTILATION AREAS.
+Ventilation:GENERAL DILUTION OR LOCAL EXHAUST
+Protective Gloves:SOLVENT EMPERMEABLE
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:PROTECTIVE EQUIPMENT TO PREVENT SKIN CONTACT
+Supplemental Safety and Health
+NK
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:311-373F
+Vapor Density:> AIR
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:62
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS OR ALKALINE MATERIALS
+Stability Condition to Avoid:FIRES, HEAT, AND HOT SURFACES
+Hazardous Decomposition Products:BURNING WILL PRODUCE SMOKE AND OXIDES
+    OF CARBON & LEAD.
+Conditions to Avoid Polymerization:DO NOT ADD DRIERS OR REACTIVE
+    CHEMICALS W/O TECHNICAL SUPER-VISION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH FEDERAL, STATE,
+    AND LOCAL REGULATIONS. DO NOT INCINERATE CLOSED CONT- AINERS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

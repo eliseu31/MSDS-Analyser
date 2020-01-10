@@ -1,0 +1,183 @@
+=====================  Product Identification  =====================
+
+Product ID:CARBON-ZINC BATTERY(NO MERCURY FORMULA)
+MSDS Date:11/01/1990
+FSC:6135
+NIIN:00-120-1016
+MSDS Number: BWRJM
+=== Responsible Party ===
+Company Name:RAYOVAC CORP
+Address:601 RAYOVAC DRIVE
+Box:4960
+City:MADISON
+State:WI
+ZIP:53711-0960
+Country:US
+Info Phone Num:608-275-3340/FAX 608-275-4992
+Emergency Phone Num:608-275-4856/4824/4739
+Preparer's Name:MARSHEL BEASON,JR.
+CAGE:77542
+=== Contractor Identification ===
+Company Name:RAYOVAC CORP
+Address:601 RAYOVAC DRIVE
+Box:City:MADISON
+State:WI
+ZIP:53711
+Country:US
+Phone:608-275-4735/800-255-3924
+CAGE:77542
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MANGANESE DIOXIDE
+CAS:1313-13-9
+RTECS #:OP0350000
+Fraction by Wt: 28-32%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:5 MG MN/M3 CEILING
+ACGIH TLV:5 MG MN/M3
+
+Ingred Name:ZINC  (SARA III)
+CAS:7440-66-6
+RTECS #:ZG8600000
+Fraction by Wt: 16-20%
+Other REC Limits:NONE RECOMMENDED
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:CARBON BLACK
+CAS:1333-86-4
+RTECS #:FF5800000
+Fraction by Wt: 7-13%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:3.5 MG/M3
+ACGIH TLV:3.5 MG/M3; 9394
+
+Ingred Name:ZINC CHLORIDE  (SARA III)
+CAS:7646-85-7
+RTECS #:ZH1400000
+Fraction by Wt: 6-10%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:1 MG/M3
+ACGIH TLV:1MG/M3/2STEL(FUME)94
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:LEAD  (SARA III)
+CAS:7439-92-1
+RTECS #:OF7525000
+Fraction by Wt: <0.2%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:SEE 1910.1025
+ACGIH TLV:0.15 MG/M3;DUST 9394
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:CADMIUM  (AS CD);(SARA III)
+CAS:7440-43-9
+RTECS #:EU9800000
+Fraction by Wt: <0.005%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:0.2 MG/M3 DUST; Z-2
+ACGIH TLV:0.01 MG/M3 DUST;9394
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+Ingred Name:MERCURY  (SARA III)
+CAS:7439-97-6
+RTECS #:OV4550000
+Fraction by Wt: <0.0001%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:C, 0.1 MG/M3; Z-2
+ACGIH TLV:S, 0.05 MG/M3; 9394
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:YES	 OSHA:NO
+Health Hazards Acute and Chronic:NO HEALTH HAZARD UNLESS BATTERY
+    RUPTURES. IF BATTERY RUPTURES, IT MAY CAUSE EYES, SKIN AND
+    RESPIRATORY TRACT IRRITATION.
+Explanation of Carcinogenicity:LEAD IS LISTED UNDER IARC AND NTP.
+Effects of Overexposure:NO EXPOSURE EXPECTED UNLESS BATTERY RUPTURES.
+    IF BATTERY RUPTURES IT MAY CAUSE EYES, SKIN AND RESPIRATORY TRACT
+    IRRITATION.
+Medical Cond Aggravated by Exposure:UNLIKELY TO AGGRIVATE EXISTING
+    MEDICAL CONDITIONS UNDER NORMAL CONDITIONS OF USE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH PLENTY OF WATER AND GET IMMEDIATE MEDICAL
+    ATTENTION. SKIN: WASH WITH SOAP AND WATER. INHALATION: REMOVE TO
+    FRESH AIR.INGEST:GET IMMEDIATE QUALIFIED MEDICAL ASSISTANCE.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:IN BULK STORAGE AREAS, USE FOAM OR DRY POWDER.
+    WATER MAY CAUSE ELECTRICAL SHORTS.
+Fire Fighting Procedures:AS WITH ANY FIRE, WEAR SELF-CONTAINED
+    BREATHING APPARATUS TO AVOID INHALATION OF HAZARDOUS DECOMPOSITION
+    PRODUCTS.
+Unusual Fire/Explosion Hazard:LIKE ANY SEALED CONTAINER, BATTERY CELLS
+    MAY RUPTURE WHEN EXPOSED TO EXCESSIVE HEAT. THIS COULD RESULT IN
+    THE RELEASE OF CORROSIVE MATERIALS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:IN THE EVENT OF BATTERY RUPTURE, WEAR
+    PROTECTIVE EQUIPMENT, AND COLLECT ALL RELEASED MATERIAL IN A
+    PLASTIC BAG FOR WASTE DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN DRY PLACE. STORING UNPACKED
+    CELLS TOGETHER COULD RESULT IN CELL SHORTING AND HEAT BUILDUP.
+Other Precautions:DO NOT PACK, STORE, OR SHIP USED BATTERIES IN TIGHTLY
+    SEALED CONTAINERS. THE SLOW EVOLUTION OF HYDROGEN GAS FROM USED
+    BATTERIES MAY PRODUCE CONTAINER OVER-PRESSURE OR EXPLOSIVE
+    CONDITIONS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:FOR FIRE CONDITONS USE A SELF-CONTAINED
+    BREATHING APPARATUS.
+Ventilation:NOT NEEDED IN NORMAL SERVICE.
+Protective Gloves:NOT NEEDED IN NORMAL SERVICE.
+Eye Protection:NOT NEEDED IN NORMAL SERVICE.
+Other Protective Equipment:NOT NEEDED IN NORMAL SERVICE.
+Work Hygienic Practices:USE REASONABLE CARE IN HANDLING THIS
+    PRODUCT.WASH HANDS AFTER USE AND BEFORE EATING.
+Supplemental Safety and Health
+NONE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Appearance and Odor:RECTANGULAR BATTERY WITH ROUNDED CORNERS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE SPECIFIED BY MANUFACTURER.
+Stability Condition to Avoid:AVOID ELECTRICAL SHORTING.
+Hazardous Decomposition Products:OXIDES OR FUMES OF MANGANESE, ZINC,
+    MERCURY, LEAD, CADMIUM, AND TIN.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH ALL APPLICABLE
+    FEDERAL, STATE AND LOCAL REGULATIONS. MFR STATES THAT WHEN THESE
+    BATTERIES ARE SHREDDED AND TESTED FOR TCLP, THAT THERE ARE NO
+    HAZARDOUS WASTE CHARACTERIST ICS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

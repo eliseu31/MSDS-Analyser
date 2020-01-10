@@ -1,0 +1,92 @@
+=====================  Product Identification  =====================
+
+Product ID:230141 TOTAL BILIRUBIN REAGENT C: DYPHYLLINE
+MSDS Date:10/14/1987
+FSC:6550
+NIIN:01-258-9622
+Kit Part:Y
+MSDS Number: BKYWY
+=== Responsible Party ===
+Company Name:CIBA CORNING DIAGNOSTICS CORPORATION
+Address:132 ARTINO STREET
+City:OBERLIN
+State:OH
+ZIP:44074
+Info Phone Num:(216) 774-1041
+Emergency Phone Num:(216) 774-1041
+Preparer's Name:DEBBIE MULL
+CAGE:24143
+=== Contractor Identification ===
+Company Name:CIBA CORNING DIAGNOSTICS CORP GILFORD SYSTEMS
+Address:132 ARTINO ST
+Box:City:OBERLIN
+State:OH
+ZIP:44074-1206
+Country:US
+Phone:216-774--1041
+CAGE:24143
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DYPHYLLINE
+CAS:479-18-5
+RTECS #:XH5100000
+Fraction by Wt: 2.5%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN/EYES: IRRITATION. INHALATION:
+    RESPIRATORY IRRITATION. MILDLY ACIDIC.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN/EYES: IRRITATION. INHALATION: RESPIRATORY
+    IRRITATION. MILDLY ACIDIC.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN/EYES: FLUSH AREA W/WATER FOR 15 MINS. INHALATION: REMOVE
+    TO FRESH AIR. INGESTION: DRINK LARGE AMOUNTS OF MILK OR WATER.
+    OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH AFFECTED AREA W/WATER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:DUST MASK RECOMMENDED
+Ventilation:GENERAL
+Protective Gloves:REQUIRED
+Eye Protection:RECOMMENDED
+Work Hygienic Practices:FOLLOW GOOD LABORATORY PRACTICES.
+Supplemental Safety and Health
+THIS PRODUCT HAS BEEN LABELED IN COORDANCE W/CFR 21 FOOD & DRUG
+    ADMINISTRATION. REAGENT C IS NOT SUPPLIED/NEEDED IN CERTAIN KEI
+    CONFIGURATION.
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:M.P/F.P Text:322-324F
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR, COLORLESS SOLUTIONS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:HEAT
+Hazardous Decomposition Products:TOXIC FUMES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

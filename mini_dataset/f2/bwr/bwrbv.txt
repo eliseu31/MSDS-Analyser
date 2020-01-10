@@ -1,0 +1,180 @@
+=====================  Product Identification  =====================
+
+Product ID:140 120 VNF-1 BLEACH AND REPLENISHER, WORKING SOLUTION
+MSDS Date:04/09/1997
+FSC:6750
+NIIN:00-926-5202
+Kit Part:Y
+MSDS Number: BWRBV
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-477-3194 MSDS :800- 242-2424
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+Company Name:EASTMAN KODAK CO US CUSTOMER SERVICE/GOVERNMENT SALES
+Address:800 LEE RD
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-3129
+Country:US
+Phone:800-828-6203
+CAGE:5K871
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 75-80%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:POTASSIUM FERRICYANIDE
+CAS:13746-66-2
+RTECS #:LJ8225000
+Fraction by Wt: 15-20%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:SODIUM BROMIDE
+CAS:7647-15-6
+RTECS #:VZ3150000
+Fraction by Wt: 1-5%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:POLYETHYLENE GLYCOL
+CAS:25322-68-3
+RTECS #:TQ3500000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:BORON OXIDE
+CAS:1303-86-2
+RTECS #:ED7900000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3; 9596
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHAL:EXPECTED TO BE A LOW HAZARD FOR
+    RECOMMENDED HNDLG.IF CYANIDE GAS LIBERATED DUE TO CONTACT W/STRONG
+    ACID,IT MAY CAUSE DIZZ,HEAD,RAPID RESPIRATION,RAPID
+    PULSE,UNCONSC,CONVULSIONS,DEATH.EYES:NO SPE CIFIC HAZ
+    KNOWN.TRANSIENT IRRIT.SKIN:LOW HAZ FOR RECOMMENDED
+    HNDLG.INGEST:EXPECTED TO BE LOW INGEST HAZ.
+Explanation of Carcinogenicity:PER MSDS:CARCINOGENICITY
+    CLASSIFICATION:IARC/ACGIH/NTP/OSHA:NONE.
+Effects of Overexposure:TRANSIENT EYE IRRIT. EXPOSURE TO CYANIDE GAS
+    MAY CAUSE DIZZINESS,HEADAHCE,RAPID RESPIRATION,RAPID
+    PULSE,UNCONSCIOUSNESS,CONVULSIONS,DEATH.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:SYMPTOMATIC MOVE TO FRESH AIR.SYMPTOMS PERSISTS GET MED
+    ATTN.EYES:ANY MATL THAT CONTACTS EYE SHOULD BE WASHED OUT IMMED
+    W/WATER.SYMPTOMS OCCUR GET MED ATTN.SKIN:WASH
+    W/SOAP/WATER.SYMPTPOMS OCCUR  GET MED ATTN.INGEST:DRINK 1-2 GLASSES
+    OF WATER.SEEK MED ATTN.NEVER GIVE ANYTHING BY MOUTH IF UNCONSC.NOTE
+    TO DR:IN EVENT THAT HYDROGEN CYANIDE GAS RELEASED LOC EMERG
+    AMBUL/RESUSC SERV/DR SHOULD(SUPP)
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Autoignition Temp:Autoignition Temp Text:NP
+Extinguishing Media:WATER SPRAY, CARBON DIOXIDE (CO2), DRY CHEMICAL,
+    ALCOHOL FOAM.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS &
+    PROTECTIVE CLOTHING. FIRE OR EXCESSIVE HEAT MAY PRODUCE HAZARDOUS
+    DECOMPOSITION PRODUCTS.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH TO SEWER W/LG AMTS OF WATER.OTHERWISE
+    ABSORB SPILL W/VERMICULITE OR OTHER INERT MATL.THEN PLACE IN CNTNR
+    FOR CHEMICAL WASTE.CLEAN THOROUGHLY TO REMOVE RESIDUAL
+    CONTAMINATION.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:USE W/ADEQU VENTI.KEEP CNTNR TIGHTLY
+    CLOSED.KEEP AWAY FROM INCOMPATIBLE SUBSTANCES.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:A FULL-FACE POSITIVE-PRESSURE AIR-SUPPLIED
+    RESPIRATOR MUST BE WORN IF HAZ DECOMPOSITION PRODUCTS ARE LIKELY TO
+    BE RELEASED OR HAVE BEEN RELEASED.
+Ventilation:GOOD GENERAL VENTILATION (TYPICALLY 10 AIR CHANGES/HR)
+    SHOULD BE USED. VENTILATION RATES SHOULD BE MATCHED TO CONDITIONS
+Protective Gloves:IMPERVIOUS GLOVES.
+Eye Protection:SAFETY GLASSES W/SIDE SHIELDS, GOGGLES.
+Other Protective Equipment:EYEBATH, WASHING FACILITIES, SAFETY SHOWER.
+Work Hygienic Practices:WASH HANDS WELL AFT HANDLING.GOOD INDUSTRIAL
+    HYG PRAC TO MIN EYE/SKIN CONTACT.
+Supplemental Safety and Health
+1STAID:SHOULD BE INFOR THAT PATIENT EXPO TO HCN GAS. PH=6.7-7.3. 2-PART
+    KIT;KEY1:HCC=N1.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T6
+Boiling Pt:B.P. Text:>212F,>100C
+Melt/Freeze Pt:M.P/F.P Text:NA
+Decomp Temp:Decomp Text:NP
+Vapor Pres:18
+Vapor Density:0.6
+Spec Gravity:1.02
+pH:SUPPLE
+Viscosity:NP
+Evaporation Rate & Reference:NP
+Solubility in Water:COMPLETE
+Appearance and Odor:LIQUID, COLOR NOT AVAILABLE, ODORLESS
+Percent Volatiles by Volume:75-80
+Corrosion Rate:NP
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS,STRONG ACIDS.CONTACT W/ACID LIBERATES FLAMM
+    MATL.CONTACT W/ACIDS LIBERATES TOXIC GAS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:HAZ COMBUST PROD:OXIDES OF NITROGEN.
+    HAZ DECOMPO PRODUCTS:CYANIDES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISCHARGE/TREATMENT/DISPOSAL MAY BE SUBJECT TO
+    NATIONAL/STATE/LOCAL LAWS.FLUSH TO SEWER W/LG AMTS OF WATER.SINCE
+    EMPTIED CNTNRS RETAIN RESIDUE FOLLOW LABEL WARNINGS EVEN AFT
+    EMPTIED.NO SARA TITLE III  SEC 313 CHEMICALS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

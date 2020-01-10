@@ -1,0 +1,119 @@
+=====================  Product Identification  =====================
+
+Product ID:LC124 SPRAY BACK
+MSDS Date:08/02/1993
+FSC:NIIN:Submitter:F BT
+Status Code:A
+MSDS Number: CJQJL
+=== Responsible Party ===
+Company Name:CENTURY LABS
+Address:3200 SOUTH 24TH STREET
+City:KANSAS CITY
+State:KS
+ZIP:66106
+Country:US
+Info Phone Num:913-262-0227
+Emergency Phone Num:816-234-3000
+CAGE:TO337
+=== Contractor Identification ===
+Company Name:CENTURY LABS
+Address:3200 SOUTH 24TH STREET
+City:KANSAS CITY
+State:KS
+ZIP:66106
+Country:US
+Phone:913-262-0227
+CAGE:TO337
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DIETHYLENE GLYCOL MONOETHYL ETHER
+CAS:111-90-0
+RTECS #:KK8750000
+< Wt:5.
+
+Ingred Name:ISOPROPYL ALCOHOL
+CAS:67-63-0
+RTECS #:NT8050000
+< Wt:5.
+OSHA PEL:980 MG/M3;400 PPM
+ACGIH TLV:983 MG/M3;400 PPM
+ACGIH STEL:1230 MG/M3;500 PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Health Hazards Acute and Chronic:EYES: IRRITATION. SKIN: MAY CAUSE
+    ALLERGIC REACTIONS IN SENSITIVE INDIVIDUALS; IRRITATION. INGESTION:
+    LARGE QUANTITIES MAY BE UPSETTING TO GASTROINTESTINAL TRACT.
+Effects of Overexposure:IRRITATION, TEARING, GI UPSET
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER FOR 15 MINS. SKIN: WASH W/SOAP & WATER.
+    INHALATION: REMOVE TO FRESH AIR. INGESTION: DON'T INDUCE VOMITING.
+    DRINK LARGE AMOUNTS OF WATER. OBTAIN MEDICAL ATTENTION IN ALL
+    CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:=65.6C, 150.F
+Lower Limits:1.2
+Upper Limits:23.5
+Extinguishing Media:DRY CHEMICAL, CO2, FOAM
+Fire Fighting Procedures:WEAR SELF CONTAINED BREATHING APPARATUS &
+    PROTECTIVE CLOTHING.
+Unusual Fire/Explosion Hazard:UPON BURNING, TOXIC GASES MAY BE
+    RELEASED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DIKE FOR RECOVERY/DISPOSAL. MAY BE ABSORBED
+    ONTO APPROPRIATE ABSORBENT MATERIAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM SPARKS & OPEN FLAME.
+    KEEP CONTAINERS CLOSED. KEEP FROM FREEZING CONDITIONS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:REQUIRED
+Ventilation:SUFFICIENT VENTILATION IN VOLUME & PATTERN, SHOULD BE
+    PROVIDED TO KEEP AIR CONTAMINATION BELOW CURRENT APPLICABLE OSHA
+    PEL/ACGHI'S TLV LIMIT.
+Protective Gloves:RECOMMENDED FOR PROLONGED/REPEATED CONTACT
+Eye Protection:SAFETY GLASSES/GOGGLES
+Work Hygienic Practices:WASH AFTER EACH USE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:80-432F
+Vapor Density:>1
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:DISPERSES
+Appearance and Odor:HAZY WHITE W/CHARACTERISTIC ODOR
+Percent Volatiles by Volume:97.3
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:SPARKS, OPEN FLAMES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE &
+    FEDERAL REGULATIONS.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

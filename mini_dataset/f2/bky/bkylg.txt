@@ -1,0 +1,132 @@
+=====================  Product Identification  =====================
+
+Product ID:HYDROXYUREA, CAPSULES, 500 MG
+MSDS Date:08/02/1989
+FSC:6505
+NIIN:00-481-1788
+MSDS Number: BKYLG
+=== Responsible Party ===
+Company Name:E R SQUIBB & SONS
+Box:191
+City:NEW BRUNSWICK
+State:NJ
+ZIP:08903
+Info Phone Num:(201) 519-2885
+Emergency Phone Num:(201) 519-2845 OR 519-2198
+Preparer's Name:MS S VOIGT
+CAGE:GO233
+=== Contractor Identification ===
+Company Name:E R SQUIBB & SONS
+Address:5 GORDIS RD BLDG 124
+Box:191
+City:NEW BRUNSWICK
+State:NJ
+ZIP:08903
+Country:US
+Phone:609-921-4081
+CAGE:GO233
+Company Name:SQUIBB E R AND SONS INC, WORLD HQ
+Address:RT 206 AND PROVIDENCE LINE RD
+Box:5250
+City:PRINCETON
+State:NJ
+ZIP:08543-5250
+Country:US
+Phone:800-631-5244
+CAGE:78473
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HYDROXYUREA
+CAS:127-07-1
+RTECS #:YT4900000
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL RAT LD50: 5.8 G/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INGESTION: READILY ABSORBED. SIDE
+    EFFECTS: ANOREXIA, NAUSEA, VOMITING, DIARRHEA, CONSTIPATION,
+    STOMATITIS, RASH, BONE MARROW DEPRESSION, GASTROINTESTINAL TRACT
+    IRRITATION. SKIN: ALLERGIES.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN: ALLERGIC. INGESTION: READILY ABSORBED.
+    SIDE EFFECTS: ANOREXIA, NAUSEA, VOMITING, DIARRHEA, CONSTIPATION,
+    STOMATITIS, RASH, BONE MARROW DEPRESSION, GASTROINTESTINAL TRACT
+    IRRITATION.
+Medical Cond Aggravated by Exposure:ANEMIA, LEUKOPENIA,
+    THROMBOCYTOPENIA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/LARGE AMOUNTS OF WATER FOR 15-20 MINS. SKIN:
+    WASH W/SOAP & WATER FOR 15-20 MINS. INGESTION: INDUCE VOMITING IF
+    INGESTED W/IN 3 HOURS. NEVER INDUCE VOMITING IN A PERSON WHO IS
+    UNCONSCIOUS . INHALATION: REMOVE TO FRESH AIR, IF DIFFICULTY IN
+    BREATHING ADMINISTER OXYGEN, IF NOT BREATHING ADMINISTER CPR.
+    OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER
+Fire Fighting Procedures:WEAR SCBA & FULL PROTECTIVE CLOTHING. USE
+    WATER TO KEEP FIRE-EXPOSED CONTAINERS COOL. FIGHT FIRE FROM MAXIMUM
+    SAFE DISTANCE OR USE AN UNMANNED MONITOR.
+Unusual Fire/Explosion Hazard:COLLECTION OF SUCH GASES IN CONFINED
+    SPACE MAY RESULT IN AN EXPLOSION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE UNNECESSARY PERSONNEL FROM SPILL AREA.
+    SWEEP MATERIAL ONTO PAPER. PLACE IN A FIBER DRUM. VENTILATE &
+    DECONTAMINATE AFTER MATERIAL HAS BEEN PICKED UP.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID CONTACT W/SKIN, EYES, &
+    INHALATION OF DUST. STORE IN CONTAINERS OF NONRIGID CONSTRUCTION.
+Other Precautions:DRUG PRODUCT, HANDLE W/APPROPRIATE PRECAUTIONS. AS
+    W/ALL FIRES EVACUATE PERSONNEL TO SAFE AREA. MOVE CONTAINERS OF
+    CHEMICALS FROM FIRE AREA IF THIS CAN BE DONE WITHOUT RISK. DIVERT
+    RUNOFF TO A SAFE AR EA.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR A NIOSH APPROVED DUST & MIST RESPIRATOR.
+Ventilation:LOCAL EXHAUST VENTILATION SHOULD BE AVAILABLE IN AREAS
+    WHERE THIS SUBSTANCE IS HANDLED TO MINIMIZE DUSTING.
+Protective Gloves:LATEX
+Eye Protection:CHEMICAL SAFETY GOGGLES
+Other Protective Equipment:A DISPOSABLE SUIT SHOULD BE WORN FOR
+    CLEANING LARGE SPILLS.
+Work Hygienic Practices:REMOVE/WASH CONTAMINATED CLOTHING BEFORE REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:M.P/F.P Text:293-294.8F
+Solubility in Water:COMPLETE
+Appearance and Odor:WHITE SOLID
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:HIGH TEMPERATURE, HEAT, AIR, MOISTURE &
+    IGNITION SOURCES.
+Hazardous Decomposition Products:NOXIOUS PRODUCTS INCLUDING INCLUDING:
+    CO, CO2, NITROGEN OXIDES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

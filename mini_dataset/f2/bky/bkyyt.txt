@@ -1,0 +1,115 @@
+=====================  Product Identification  =====================
+
+Product ID:58702, STAMP PAD INK, 2 OZ RED
+MSDS Date:02/16/1988
+FSC:7510
+NIIN:01-316-7517
+MSDS Number: BKYYT
+=== Responsible Party ===
+Company Name:SANFORD CORPORATION
+Address:2740 WASHINGTON BLVD
+City:BELLWOOD
+State:IL
+ZIP:60104
+Info Phone Num:(800) 228-5635
+Emergency Phone Num:(800) 228-5635
+CAGE:EO365
+=== Contractor Identification ===
+Company Name:SANFORD CORPORATION
+Address:2740 WASHINGTON BLVD.
+Box:City:BELLWOOD
+State:IL
+ZIP:60104
+Country:US
+Phone:1-800-323-0749
+CAGE:86874
+Company Name:SANFORD CORPORATION
+Address:2740 WASHINGTON BLVD
+City:BELLWOOD
+State:IL
+ZIP:60104
+Country:US
+Phone:1-800-323-0749
+CAGE:EO365
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DYE
+
+Ingred Name:WATER, H2O
+CAS:7732-18-5
+RTECS #:ZC0110000
+
+Ingred Name:GLYCERIN
+CAS:56-81-5
+RTECS #:MA8050000
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 (MIST) 9293
+
+Ingred Name:GLYCOL ETHERS, DIETHYLENE GLYCOL
+CAS:111-46-6
+RTECS #:ID5950000
+
+Ingred Name:POLYETHYLENE GLYCOL
+CAS:25322-68-3
+RTECS #:TQ3500000
+Other REC Limits:10 MG/CUM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:PRODUCT IS NOT CONSIDERED TO BE
+    HAZARDOUS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:PRODUCT IS NOT CONSIDERED TO BE HAZARDOUS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:>390F
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WIPE UP W/ABSORBENT MATERIAL & DISCARD AS
+    SOLID WASTE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CAP ON BOTTLE WHEN NOT IN USE.
+Other Precautions:THIS PRODUCT IS CONSIDERED SAFE WHEN USED UNDER
+    NORMAL USE CONDITIONS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE UNDER NORMAL USE CONDITIONS
+Ventilation:NONE UNDER NORMAL USE CONDITIONS
+Protective Gloves:NONE UNDER NORMAL USE CONDITIONS
+Eye Protection:NONE UNDER NORMAL USE CONDITIONS
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>550F
+Vapor Pres:<0.1
+Spec Gravity:1.2-1.3
+Solubility in Water:COMPLETE
+Appearance and Odor:RED LIQUID W/BLAND ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

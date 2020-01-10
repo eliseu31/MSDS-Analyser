@@ -1,0 +1,129 @@
+=====================  Product Identification  =====================
+
+Product ID:CS 3100 SEALING COMPOUND TYPE II CLASS 2
+MSDS Date:06/03/1991
+FSC:8030
+NIIN:00-174-2597
+MSDS Number: BKYHP
+=== Responsible Party ===
+Company Name:FLAMEMASTER CORP CHEM SEAL DIV
+Address:11120 SHERMAN WAY
+City:SUN VALLEY
+State:CA
+ZIP:91352
+Info Phone Num:(818) 982-1650
+Emergency Phone Num:(818) 982-1650
+Preparer's Name:HERBERT MOORE
+CAGE:13422
+=== Contractor Identification ===
+Company Name:FLAMEMASTER CORPORATION
+Address:11120 SHERMAN WAY
+Box:City:SUN VALLEY
+State:CA
+ZIP:91352-4949
+Country:US
+Phone:818-982-1650
+CAGE:13422
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LEAD PEROXIDE, LEAD DIOXIDE
+CAS:1309-60-0
+RTECS #:OG0700000
+Fraction by Wt: 64%
+OSHA PEL:50 UG/CUM
+ACGIH TLV:0.15 MG/CUM
+
+Ingred Name:LEAD OXIDE YELLOW, LEAD OXIDE
+CAS:1317-36-8
+RTECS #:OG1750000
+Fraction by Wt: 6%
+OSHA PEL:0.05 MG/CUM
+ACGIH TLV:0.15 MG/CUM
+
+Ingred Name:VOL ORGANIC CMPD: 1 G/L
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INGESTION: WEAKNESS, STUPOR, KIDNEY
+    DAMAGE, ANEMIA, REPRODUCTIVE DEFECTS, HEADACHE, MUSCLE OR JOINT
+    PAIN, & NEUROMUSCULAR DYSFUNCTION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INGESTION: WEAKNESS, STUPOR, KIDNEY DAMAGE,
+    ANEAMIA, REPRODUCTIVE DEFECTS, HEADACHE, MUSCLE OR JOINT PAIN, &
+    NEUROMUSCULAR DYSFUNCTION.
+Medical Cond Aggravated by Exposure:ANEMIA, KIDNEY DISEASE, &
+    PREGNANCY.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION: INDUCE VOMITING. EYES: FLUSH W/PLENTY OF WATER.
+    OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:>200F
+Extinguishing Media:FOAM, DRY CHEMICAL, CO2, OR WATER.
+Fire Fighting Procedures:USE A SELF-CONTAINED BREATHING APPARATUS
+    W/FULL FACE PIECE IN CONFINED AREAS.
+Unusual Fire/Explosion Hazard:FIRE HAZARDS EXISTS IF CONTACT
+    W/OXIDIZABLE MATERIALS AT HIGH TEMPERATURES OCCURS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SCOOP UP & TRANSFER TO A SAFETY CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL DRY AREA. KEEP
+    CONTAINERS CLOSED.
+Other Precautions:AVOID CONTACT W/SKIN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF SOOT IS FORMED USE A NIOSH APPROVED
+    RESPIRATOR.
+Ventilation:LOCAL EXHAUST: AIR HOOD. MECHANICAL: FAN.
+Protective Gloves:RUBBER
+Eye Protection:SAFETY GLASSES
+Work Hygienic Practices:TRAIN PERSONNEL ON THE SAFE HANDLING OF THIS
+    PRODUCT. WASH HANDS BEFORE EATING, DRINKING OR SMOKING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:644F
+Vapor Pres:0
+Spec Gravity:3
+pH:6.8
+Evaporation Rate & Reference:(BU AC = 1): NIL
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:BROWN PASTE W/OILY ODOR.
+Percent Volatiles by Volume:3%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZABLE MATERIALS
+Stability Condition to Avoid:HIGH HEAT
+Hazardous Decomposition Products:LEAD OXIDE DUST & ORGANICS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:RETURN TO SMELTER FOR RECLAMATION OR REACT
+    W/BASE & DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, & FEDERAL
+    REGULATIONS. INCINERATION/DISPOSAL, AS IS OR IF MIXED W/PART A,
+    DISPOSE AS HAZARDOUS WASTE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

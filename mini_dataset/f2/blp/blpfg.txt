@@ -1,0 +1,153 @@
+=====================  Product Identification  =====================
+
+Product ID:PERCHLORIC ACID, 60-72%
+MSDS Date:10/31/1991
+FSC:6810
+NIIN:00-275-8129
+MSDS Number: BLPFG
+=== Responsible Party ===
+Company Name:FISHER SCIENTIFIC CO
+Address:585 ALPHA DR
+City:PITTSBURGH
+State:PA
+ZIP:15238-2911
+Country:US
+Info Phone Num:201-796-7100
+Emergency Phone Num:201-796-7100, CHEMTREC 800-424-9300
+CAGE:22527
+=== Contractor Identification ===
+Company Name:FISHER SCIENTIFIC CO
+Address:2000 PARK LN
+Box:City:PITTSBURGH
+State:PA
+ZIP:15275
+Country:US
+Phone:412-490-8586
+CAGE:22527
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PERCHLORIC ACID
+CAS:7601-90-3
+RTECS #:SC7501000
+Fraction by Wt: 60-72%
+Other REC Limits:NONE SPECIFIED BY M.
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 28-40%
+Other REC Limits:NONE SPECIFIED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 RAT ORAL 1100 MG/KG.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:TOXIC BY INGESTION AND INHALATION,
+    STRONG IRRITANT. EYES/SKIN:CORROSIVE. SEVERE BURNS TO SKIN AND
+    PERMANENT DAMAGE TO EYES. INHALATION:IRRITATION AND BURNING OF
+    MUCOUS MEMBRANE, PULMONARY EDEMA. INGES TION:BURNS OF MOUTH, THROAT
+    AND STOMACH.CHRONIC:MAY CAUSE EROSION OF TEETH, JAW NECROSIS,
+    BRONCHIAL PNEUMONIA.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES:SEVERE IRRITATION, REDNESS AND PAIN.
+    SKIN:IRRITATION/SEVERE BURNS. INGESTION:BURNS OF MOUTH, THROAT,
+    STOMACH, NAUSEA, VOMITING, DIARRHEA. INHALATION:COUGHING, CHOKING,
+    HEADACHE, DIZZINESS, WEAKNE SS.
+Medical Cond Aggravated by Exposure:SKIN DISORDERS OR IMPAIRED
+    RESPIRATORY FUNCTION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:WASH WITH PLENTY OF WATER FOR AT LEAST 15
+    MINUTES,LIFTING LIDS OCCASIONALLY.GET MEDICAL ATTENTION
+    IMMED.SKIN:IMMED FLUSH WITH PLENTY OF WATER WHILE REMOVING CONTAM
+    CLOTHING/SHOES.SEE DOCTOR FOR B URNS. INGEST:DO NOT INDUCE
+    VOMITING. GIVE LARGE QUANTITIES OF WATER OR MILK. CALL DOCTOR
+    IMMED. NEVER GIVE ANYTHING BY MOUTH TO UNCONSCIOUS PERSON.
+    INHALATION:REMOVE TO FRESH AIR. GET MED ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Lower Limits:N/K 
+Upper Limits:N/K 
+Extinguishing Media:DRY CHEMICALS, WATER SPRAY OR FOAM MAY BE USED TO
+    EXTINGUISH FIRES.
+Fire Fighting Procedures:USE NIOSH/MSHA APPRVD SCBA, FULL PROT EQUIP.
+    NOT COMBUSTIBLE, STRONG OXIDIZER, PRODUCES HEAT ON REACTION WITH
+    WATER.
+Unusual Fire/Explosion Hazard:MAY FORM SENSITIVE, POWERFUL EXPLOSIVE
+    MIXTURE WITH ORGANIC MATERIALS. HAZARDOUS DECOMPOSITION
+    PRODUCTS:TOXIC FUMES OF CHLORINE. MAY EXPLODE WITH HEAT OF FIRE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENT, EVACUATE AREA. WEAR PROTECTIVE CLOTHING
+    & RESPIRATOR. DIKE, CONTAIN. KEEP AWAY FROM SEWER OR SURFACE WATER.
+    COVER W/WEAK REDUCING AGENT ( HYPOBISULFITE OR FERROUS SALT).
+    NEUTRALIZE WITH SODIUM B ICARBONATE OR LIME.
+Neutralizing Agent:20% SODIUM BICARBONATE SOLUTION
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY, WELL VENTILATED
+    PLACE, SEPERATE FROM ALKALIES, ORGANIC MAT & REDUCING AGENTS.
+    PROTECT FROM FREEZING.
+Other Precautions:DO NOT GET IN EYES, ON SKIN/CLOTHING. AVOID BREATHING
+    VAPOR.KEEP CONTAINER CLOSED. USE W/ADEQ VENT. WASH THOROUGHLY AFTER
+    HANDLING. DO NOT STORE NEAR COMBUSTIBLES. DANGER! STRONG OXIDIZER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED AIR SUPPLIED, FULL FACEPIECE
+    RESPIRATOR, AIR-LINED HOOD,OR SELF CONTAINED BREATHING APPARATUS IS
+    RECOMMENDED.
+Ventilation:LOCAL EXHAUST SYSTEM OR MECHANICAL.
+Protective Gloves:RUBBER OR NEOPRENE.
+Eye Protection:CHEM SAFETY GOGGLES/FULL FACESHIELD.
+Other Protective Equipment:IMPERVIOUS BOOTS, APRON, COVERALLS. EYEWASH
+    FOUNTAIN AND QUICK-DRENCH FACILITIES IN WORK AREA.
+Work Hygienic Practices:DO NOT WEAR CONTACT LENSES.WASH CONTAMINATED
+    CLOTHING BEFORE REUSE. WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+FIRE FIGHT PROC:REACTS WITH METALS, RELEASES HEAT OF REACTIOON, MAY
+    CAUSE EXPLOSION. MATL TO AVOID:ACETIC ACID, CHARCOAL, OLEFINS,
+    ETHANOL, SULFUR, SULFURIC ACID. FOR LARGE FIRES FLOOD AREA WITH
+    WATER  FROM A SAFE DISTANCE.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C4
+Boiling Pt:=38.9C, 102.F
+Melt/Freeze Pt:=-3.9C, 25.F
+Vapor Density:3.46
+Spec Gravity:1.76
+pH:<2
+Solubility in Water:COMPLETE
+Appearance and Odor:ODORLESS, CLEAR, COLORLESS, FUMING, VOLATILE,
+    HYGROSCOPIC LIQUID.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+COMBUSTIBLE & ORGANIC MATERIALS. REACTS VIOLENTLY W/ BENZENE, CALCIUM
+    HYDRIDE, DETONATE BY SHOCK AND HEAT.
+Stability Condition to Avoid:DECOMPOSES ON HEATING, INCREASES BURNING
+    RATE OF COMBUSTIBLES.
+Hazardous Decomposition Products:TOXIC FUMES OF HDROGEN CHLORIDE  AND
+    CHLORINE WHEN HEATED.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE IN ACCORDANCE WITH FEDERAL,
+    STATE AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

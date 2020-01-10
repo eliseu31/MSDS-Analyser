@@ -1,0 +1,159 @@
+=====================  Product Identification  =====================
+
+Product ID:N-5839 GLOSS YELLOW SILICONE ENAMEL 13538
+MSDS Date:10/13/1994
+FSC:8010
+NIIN:01-349-9005
+MSDS Number: BWRGS
+=== Responsible Party ===
+Company Name:NILES CHEMICAL PAINT CO
+Address:225 FORT STREET
+Box:307
+City:NILES
+State:MI
+ZIP:49120
+Country:US
+Info Phone Num:616-683-3377
+Emergency Phone Num:219-236-5856
+Preparer's Name:MIKE LICHATOWICH
+CAGE:02388
+=== Contractor Identification ===
+Company Name:NILES CHEMICAL PAINT
+Address:225 FORT STREET
+Box:307
+City:NILES
+State:MI
+ZIP:49120
+Country:US
+Phone:616-683-3377/219-236-5856
+CAGE:02388
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HIGH SOLIDS SILICONE (VAPOR PRESSURE 1.5 MM HG @ 20C)
+Fraction by Wt: 36%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:GROUND LIMESTONE
+CAS:1317-65-3
+RTECS #:EV9580000
+Fraction by Wt: 28%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:# 100 SOLVENT (VAPOR PRESSURE 4.4 MM HG @ 20C)
+CAS:64742-95-6
+Fraction by Wt: 24%
+Other REC Limits:NONE RECOMMENDED
+ACGIH TLV:100 PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:UNKNOWN  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYE:SEVERE IRRIT, TEARING, REDNESS,
+    BLURRED VISION. SKIN:REDNESS, IRRIT, DEFATTING (LEADING TO
+    DERMATITIS). INHAL:NASAL & RESPIRATORY IRRIT, CNS DEPRESSION
+    (DIZZINESS, DROWSINESS, WEAKNESS, FATIGUE, C ONFUSION)
+    NAUSEA,HEADACHE,VERTIGO,UNCONSCIOUSNESS,ASPHYXIATION. INGEST:GI
+    IRRIT,ABDOMINAL PAIN,NAUSEA,VOMITING,DIARRHEA.
+Effects of Overexposure:CHRONIC: LIVER, KIDNEYS, CNS. PROLONGED
+    EXPOSURE TO SOLVENTS MAY CAUSE CHRONIC HEALTH EFFECTS.	       
+								       
+	    TARGET ORGANS: L IVER KIDNEY, CNS, SKIN, EYES, RESPIRATORY
+    SYSTEM, CNS.
+Medical Cond Aggravated by Exposure:NONE KNOWN
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:MOVE TO FRESH AIR IMMED.IF BREATH STOPPD,GIVE ARTIF
+    RESPRTN.GET MED AID ASAP.SKIN:IMMED FLUSH W/PLENTY H2O.IF MAT'L
+    PENETRATES CLOTH,IMMED REMOVE CONTAM CLOTH & FLUSH SKIN W/H2O.GET
+    MED AID.WASH  CLOTH & DECONTAM SHOES BEFORE REUSE.EYE:IMMED FLUSH
+    W/LRG AMT H2O 15 MIN,LIFT UPPER/LOWER LIDS.GET MED AID
+    IMMED.INGEST:DRINK 1-2 GLASS H2O.DON'T INDUCE VOMIT.SEE DR/POISON
+    CTR IMMED.TREAT SYMPTOMS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:107F,42C
+Lower Limits:0.8
+Upper Limits:0.0
+Extinguishing Media:DRY CHEMICAL, FOAM, CO2
+Fire Fighting Procedures:WEAR SCBA W/FULL FACPIECE (POSITIVE PRESSURE
+    MODE) & FULL PROTECT CLOTH. USE WATER TO COOL CLOSED CNTNR TO
+    PREVENT PRESSURE BLDUP/AUTO IGNIT/EXPLOSION W/HEAT.
+Unusual Fire/Explosion Hazard:KEEP CNTNR CLSD.VAPOR HEAVY,TRAVEL ON
+    GRND TO IGNIT.KEEP FROM HEAT/IGNIT.CLSD CNTNR EXPLODE W/HEAT.APPLIC
+    TO HOT SRFCS REQ SPCL CAUTN.DECOMP PRODUCT-HEALTH HZD.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIM IGNIT SOURCE.MINIMIZE BREATHING OF
+    VAPOR.AVOID SKIN CONTACT.SMALL:ABSORB W/INERT MAT'L
+    (CLAY,SOIL,COMMERCL ABSORB) SHOVEL RECLAIMED LIQ & ABSORBNT INTO
+    RECOVERY/SALVAGE DRUMS FOR DISPOSAL.LRG:DIK E,RECLAIM INTO
+    RECOVERY/SALVAGE DRUMS/TANK TRUCK.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID STORAGE IN HIGH TEMPERATURE AREA
+    OR NEAR FIRE OR OPEN FLAME. KEEP CONTAINERS CLOSED WHEN NOT IN USE.
+    AVOID ROUGH HANDLING.
+Other Precautions:CONTAINERS OF THIS MATERIAL MAY BE HAZARDOUS WHEN
+    EMPTY. DO NOT WELD OR FLAME CUT ON EMTPY DRUMS. SHOCK FROM DROPPING
+    MAY SPLIT CONTAINER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR AN APPROPRIATE PROPERLY FITTED HALF-MASK OR
+    FULL FACEPIECE RESPIRATOR (NIOSH/MSHA) DURING & AFTER APPLICATION
+    UNLESS AIR MONITORING DEMONSTRATES VAPOR/MIST LEVELS ARE BELOW
+    APPLICABLE LIMITS. FOL LOW RESPIRATOR MFR'S DIRECTIONS FOR USE.
+Ventilation:KEEP AIR CONC BELOW TLV/PEL.REMOVE DECOMP PRODCT FORMED
+    DURING WELD/FLAME CUT COATED SRFCS.VENT VAPOR FROM BAKING FINISH
+Protective Gloves:CHEM RESISTANT (NITRILE/VITON) GLOVES
+Eye Protection:CHEM GOGGLES,SAFETY GLASSES,FACE SHIELD
+Other Protective Equipment:DON'T WEAR CONTACT LENSES WHILE WORKING WITH
+    PRODUCT.
+Work Hygienic Practices:WASH PROMPTLY WHEN SKIN BECOMES CONTAMINATED.
+    REMOVE ANY CLOTHING THAT BECOMES WET (AVOID FLAMMABILITY HAZARD) *
+Supplemental Safety and Health
+* WASH BEFORE REUSE. WASH HANDS BEFORE EATING, SMOKING OR USING
+    RESTROOM.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:285 TO 398F
+Vapor Density:> AIR
+Spec Gravity:1.256
+Viscosity:100 KU MAX
+Evaporation Rate & Reference:SLOWER THAN ETHER
+Solubility in Water:SLIGHT
+Appearance and Odor:LIQUID, ODOR OF SOLVENTS
+Percent Volatiles by Volume:38.28
+Corrosion Rate:MINIMAL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS, STRONG ACIDS
+Stability Condition to Avoid:HIGH TEMPERATURES
+Hazardous Decomposition Products:CAN PRODUCE CARBON MONOXIDE AND/OR
+    CARBON DIOXIDE.
+Conditions to Avoid Polymerization:HIGH TEMPERATURES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH APPLICABLE LOCAL,
+    STATE, AND FEDERAL REGULATION. EPA HAZARDOUS WASTE CODE: D001
+    (IGNITABLE)
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

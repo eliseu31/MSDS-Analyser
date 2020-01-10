@@ -1,0 +1,113 @@
+=====================  Product Identification  =====================
+
+Product ID:TYPE 361A-20R SOLDER
+MSDS Date:01/01/1985
+FSC:3439
+NIIN:00-172-7781
+MSDS Number: BDFKL
+=== Responsible Party ===
+Company Name:MEASUREMENTS GROUP
+Emergency Phone Num:919-365-3800
+CAGE:88952
+=== Contractor Identification ===
+Company Name:MEASUREMENTS GROUP INC
+Address:9517 US 64 HWY
+Box:City:WENDELL
+State:NC
+ZIP:27591
+Country:US
+Phone:919-365-3800
+CAGE:88952
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TIN
+CAS:7440-31-5
+RTECS #:XP7320000
+Fraction by Wt: 63%
+OSHA PEL:2 MG/M3
+ACGIH TLV:2 MG/M3; 9192
+
+Ingred Name:LEAD  (SARA III)
+CAS:7439-92-1
+RTECS #:OF7525000
+Fraction by Wt: 36.6%
+OSHA PEL:0.05 MG/M3;1910.1025
+ACGIH TLV:0.15 MG/M3;DUST 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:ANTIMONY  (SARA III)
+CAS:7440-36-0
+RTECS #:CC4025000
+Fraction by Wt: 0.35%
+OSHA PEL:0.5 MG/M3
+ACGIH TLV:0.5 MG SB/M3; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ROSIN (CORE FLUX)
+Fraction by Wt: 3.4%
+
+Ingred Name:ALIPHATIC ALCOHOL
+Fraction by Wt: 0.18%
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:FLUX: CAN CAUSE IRRITATION OF SKIN & MUCOUS
+    MEMBRANE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:REMOVE VICTIM FROM CONTAMINATED AREA & KEEP EWARM & QUIET IN
+    FRESH AIR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:261F,127C COC
+Extinguishing Media:FLUX:CO*2,DRY CHEMICAL
+Unusual Fire/Explosion Hazard:IN A FIRE MATERIAL COULD EMIT TOXIC &
+    CORROSIVE FUMES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUX MAY BE WIPED FROM A SURFACE WITH
+    ISOPROPYL ALCOHOL & A SPONGE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:USE WITH ADEQUATE LOCAL
+    VENTILATION,STORE BELOW 100F,38C.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:LOCAL EXHAUST
+Supplemental Safety and Health
+ADDTNL INGRED:10017650H ORGANIC HALIDE 0.04%. FL PT IS FOR FLUX.
+    MELTING PT:361F,183C. DIMENSIONS:0.063 INCHES DIAMETER; 1 LB.
+    SPOOL. FED SPEC:QQ-S-571E.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Appearance and Odor:ALLOY:DULL SILVER. FLUX:AMBER. WIRE W/ROSIN CORE.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS
+Hazardous Decomposition Products:MAY EVOLVE ACIDS,HALOGENS,AMINES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:IN ACCORDANCE WITH LOCAL,STATE & FEDERAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

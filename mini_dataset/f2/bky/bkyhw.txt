@@ -1,0 +1,133 @@
+=====================  Product Identification  =====================
+
+Product ID:91% ISOPROPYL ALCOHOL PREMOISTENED WIPES 92193N
+MSDS Date:01/18/1990
+FSC:6810
+NIIN:00-183-4393
+MSDS Number: BKYHW
+=== Responsible Party ===
+Company Name:HEWLETT-PACKARD CO
+Address:16399 W BERNARDO DR
+City:SAN DIEGO
+State:CA
+ZIP:92127-1801
+Country:US
+Info Phone Num:619-487-4100
+Emergency Phone Num:619-487-4100
+CAGE:1X966
+=== Contractor Identification ===
+Company Name:CHEMART LABORATORIES OF CALIFORNIA INC
+Box:UNKNOW
+CAGE:NO726
+Company Name:HEWLETT PACKARD CO
+Address:16399 W BERNARDO DR
+Box:City:SAN DIEGO
+State:CA
+ZIP:92127-1899
+Country:US
+Phone:619-487-4100
+CAGE:98220
+Company Name:HEWLETT-PACKARD CO.
+Address:1320 KIFEER ROAD
+Box:44548
+City:SUNNYVALE
+State:CA
+ZIP:94144-4548
+Country:US
+Phone:408-738-8858
+CAGE:1X966
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOPROPANOL (ISOPROPYL ALCOHOL), 2-PROPANOL, DIMETHYL
+    CARBINOL
+CAS:67-63-0
+RTECS #:NT8050000
+Other REC Limits:400 PPM
+OSHA PEL:400 PPM
+ACGIH TLV:400 PPM
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): 5840 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INGESTION: GASTROINTESTINAL
+    IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INGESTION: NAUSEA, VOMITING, HEADACHES,
+    DIZZINESS, GASTROINTESTINAL IRRITATION. PROLONGED EXPOSURE TO SKIN
+    MAY CAUSE DRYNESS & CHAPPING.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION: IMMEDIATELY INDUCE VOMITING. INHALATION: REMOVE TO
+    FRESH AIR. IF BREATHING IS DIFFICULT, GIVE OXYGEN. EYES:
+    IMMEDIATELY FLUSH W/WATER. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:12C/53F
+Lower Limits:2%
+Upper Limits:12.7%
+Extinguishing Media:ALCOHOL FOAM, DRY CHEMICAL, CO2
+Fire Fighting Procedures:WEAR PROPER PROTECTIVE EQUIPMENT. MOVE EXPOSED
+    CONTAINERS FROM AREA IF IT CAN BE DONE W/OUT RISK. USE WATER TO
+    KEEP FIRE-EXPOSED CONTAINERS COOL.
+Unusual Fire/Explosion Hazard:CLOSED CONTAINERS EXPOSED TO HEAT MAY
+    EXPLODE. CONTACT W/STRONG OXIDIZERS MAY CAUSE FIRE. FLAMMABLE
+    LIQUID.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR SUITABLE PROTECTIVE CLOTHING. SHUT OFF
+    IGNITION SOURCES. USE WATER SPRAY TO REDUCE VAPORS. FLUSH AREA
+    W/WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NO SMOKING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:REQUIRED IF AIRBORNE CONCENTRATION EXCEEDS 1000
+    PPM. CHEMICAL CARTRIDGE RECOMMENDED FOR CONCENTRATIONS TO 1000 PPM.
+Ventilation:LOCAL EXHAUST/MECHANICAL (GENERAL): TO MEET TLV
+    REQUIREMENTS.
+Protective Gloves:NEOPRENE
+Eye Protection:SAFETY GLASSES W/SIDE SHIELDS
+Work Hygienic Practices:USE NORMAL CARE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:83C/181F
+Melt/Freeze Pt:M.P/F.P Text:-89C/-128F
+Vapor Pres:33
+Vapor Density:2.1
+Spec Gravity:0.78
+Evaporation Rate & Reference:(BU AC = 1): 2.83
+Solubility in Water:COMPLETE
+Appearance and Odor:LIQUID W/SLIGHT ODOR OF RUBBING ALCOHOL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:FIRE, HEAT, FLAME, FLARES & OTHER SOURCES
+    OF IGNITION
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/ALL APPLICABLE
+    FEDERAL, STATE, & LOCAL ENVIRONMENTAL REGULATIONS. EPA HAZARDOUS
+    WASTE NUMBER: D001 (IGNITABLE WASTE) FLAMMABLE LIQUID. UN1219.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

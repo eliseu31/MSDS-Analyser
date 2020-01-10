@@ -1,0 +1,123 @@
+=====================  Product Identification  =====================
+
+Product ID:REMOVER, FLOOR POLISH (GSA)
+MSDS Date:06/11/1990
+FSC:7930
+NIIN:00-045-6931
+MSDS Number: BJDRF
+=== Responsible Party ===
+Company Name:HILLYARD INC
+Address:302 N 4TH
+Box:909
+City:ST JOSEPH
+State:MO
+ZIP:64502
+Country:US
+Info Phone Num:816-233-1321
+Emergency Phone Num:816-233-1321
+CAGE:28745
+=== Contractor Identification ===
+Company Name:HILLYARD INDUSTRIES
+Address:302 NORTH FOURTH STREET
+Box:City:ST JOSEPH
+State:MO
+ZIP:64501
+Country:US
+Phone:816-233-1321 (EXT 2303)
+CAGE:28745
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM METASILICATE
+CAS:6834-92-0
+RTECS #:VV9275000
+Fraction by Wt: 5-10%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:2 MG/M3
+ACGIH TLV:2 MG/M3
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:CONCENTRATE IS CORROSIVE TO EYES AND
+    SKIN. PROLONGED AND REPEATED EXPOSURE TO SKIN MAY PRODUCE
+    DERMATITIS. INHALATION OF SPRAY MIST MAY RESULT IN VARYING DEGREES
+    OF IRRITATION.
+Effects of Overexposure:CONCENTRATED PRODUCT MAY PRODUCE SKIN AND EYE
+    BURNS. INGESTION MAY PRODUCE BURNS OF MUCOUS MEMBRANES OF THE
+    MOUTH, THROAT, ESOPHAGUS AND STOMACH.
+Medical Cond Aggravated by Exposure:SKIN PROBLEMS SUCH AS INDUSTRIAL
+    DERMATITIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:IN CASE OF CONTACT IMMEDIATELY FLUSH EYES OR SKIN WITH PLENTY
+    OF WATER FOR 15 MINUTES; REMOVE CONTACT LENSES AND FLUSH AGAIN; GET
+    MEDICAL ATTENTION. REMOVE ALL CONTAMINATED CLOTHING AND SHOES; WASH
+    BE FORE REUSE. IF SWALLOWED DRINK MILK, EGG WHITES, GELATINE
+    SOLUTION OR IF NOT AVAILABLE DRINK LARGE QUANTITIES OF WATER. GE
+    MEDICAL ATTENTION IMMEDIATLEY FOR ANY OF THESE CONDITONS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:NONE
+Extinguishing Media:USE WATER, CARBON DIOXIDE, FOAM, OR DRY CHEMICAL
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SMALL SPILLS: FLUSH WITH WATER AND PICK UP
+    WITH MOP OR WET VAC. LARGE SPILLS MAY BE ABSORBED WITH FLOOR DRY
+    MATERIAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER CLOSED WHEN NOT IN USE.
+    TRIPLE RINSE PACKAGE BEFORE DISCARDING WHEN EMPTY.
+Other Precautions:SPRAY MIST MAY PRODUCE RESPIRATORY IRRITATION OR
+    DAMAGE WITHOUT PROPER VENTILATION. DO NOT USE WITH FOG MIST SPRAYER
+    WITHOUT RESPIRATORY PROTECTION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:VENTILATE TO KEEP AIR BELOW TLV ON METASILICATE.
+Ventilation:LOCAL MECHANICAL EXHAUST VENTILATION RECOMMENDED.
+Protective Gloves:WEAR IMPERVIOUS GLOVES.
+Eye Protection:WEAR CHEMICAL SAFETY GOGGLES.
+Other Protective Equipment:IMPERVIOUS TO WATER AND ALKALINE LIQUIDS
+    WHERE CONTACT WITH CONC. IS A CONCERN.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:212F/100C
+Vapor Density:> 1
+Spec Gravity:1.043
+Evaporation Rate & Reference:< 1
+Solubility in Water:COMPLETE
+Appearance and Odor:COLORLESS LIQUID; NON-OBJECTIONABLE ODOR
+Percent Volatiles by Volume:95.1
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING MATERIALS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF I/A/W STATE & LOCAL REGULATIONS.
+    SINCE PH OF CONC. IS 12.5-13.5 THIS FALLS WITHIN DEFINITION OF
+    CORROSIVE PER EPA HAZARDOUS WASTE CLASSIFICATION. WHEN DILUTED WITH
+    NORMAL TAP WATER FOR USE  TO BELOW PH OF 12.5 IS NOT AN EPA
+    HAZARDOUS WASTE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

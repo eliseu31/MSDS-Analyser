@@ -1,0 +1,132 @@
+=====================  Product Identification  =====================
+
+Product ID:MIL-G-10924 GREASE
+MSDS Date:07/01/1988
+FSC:9150
+NIIN:00-190-0906
+MSDS Number: BDHTT
+=== Responsible Party ===
+Company Name:BATTENFELD GREASE & OIL CORP OF N.Y.
+Emergency Phone Num:716-695-2100
+CAGE:EO110
+=== Contractor Identification ===
+Company Name:BATTENFELD GREASE AND OIL CORP OF NEW YORK INC
+Address:1174 ERIE AVE
+Box:728
+City:NORTH TONAWANDA
+State:NY
+ZIP:14120-3036
+Country:US
+Phone:716-695-2100
+CAGE:60226
+Company Name:BATTENFELD GREASE AND OIL CORP OF NEW YORK INC
+Address:1174 ERIE AVE
+Box:728
+City:NORTH TONAWANDA
+State:NY
+ZIP:14120-3036
+Country:US
+Phone:716-695-2100
+CAGE:EO110
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CALCIUM 12 HYDROXYSTEARATE
+CAS:3159-62-4
+Fraction by Wt: 11%
+
+Ingred Name:MINERAL OIL
+CAS:64741-53-3
+RTECS #:PY8034000
+Fraction by Wt: 86%
+OSHA PEL:5 MG/CUM
+ACGIH TLV:5 MG/CUM
+
+Ingred Name:CALCIUM SULFONATE
+CAS:68783-96-0
+Fraction by Wt: 2%
+
+Ingred Name:SULFURIZED ISOBUTYLENE
+CAS:68511-50-2
+Fraction by Wt: 1%
+
+=====================  Hazards Identification  =====================
+
+Health Hazards Acute and Chronic:MFG STATES THAT THIS PRODUCT HAS BEEN
+    USED FOR YEARS WITH NO KNOWN ILL EFFECTS. IT CONTAINS NO KNOWN
+    CARCINOGENS OR MUTAGEN AS DEFINED BY OSHA OR IARC.
+Effects of Overexposure:NONE NOTED BY MFR. LOW TOXICITY & LOW HAZARD TO
+    HEALTH.
+
+=======================  First Aid Measures  =======================
+
+First Aid:REMOVE TO FRESH AIR; GET MEDICAL ATTENTION;GIVE CPR OR OXYGEN
+    IF NEED. IF CONTACT,FLUSH W. H*2O FOR 15 MIN. SPEED OF REMOVAL IS
+    CRITICAL. REMOVE & ISOLATE CONTAMINATED CLOTHING. KEEP WARM &
+    QUIET.EFFE CTS MAY BE DELAYED; OBSERVE VICTIM.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:340F-OC
+Lower Limits:UNK
+Upper Limits:UNK
+Extinguishing Media:CO*2, FOAM, DRY CHEM.
+Fire Fighting Procedures:NONE
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIM IGN SOURCES.USE PROTECTIVE EQUIPMENT
+    DURING CLEAN UP.ABSORB IN SAND,OIL SORB,OR A COMMERCIAL ABSORBENT &
+    SHOVEL INTO METAL CONTAINER.KEEP IN COVERED CONTAINERS PENDING
+    DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DRY,WELL VENT,LOW FIRE
+    RISK AREA. PROTECT FROM PHYSICAL DAMAGE.AVOID ANY PHYSICAL CONTACT.
+    KEEP CONTAINERS TIGHTLY CLOSED.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Protective Gloves:BUNA-N
+Eye Protection:SAFETY/CHEM GOGGLES
+Other Protective Equipment:NONE
+Supplemental Safety and Health
+MFG PRODUCT CODE:10779.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:>700F/371C
+Vapor Pres:<1
+Vapor Density:0.01
+Spec Gravity:0.92
+Evaporation Rate & Reference:0.001(BU AC=1)
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:AMBER SEMI-SOLID GREASE-BLAND.
+Percent Volatiles by Volume:UNK
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:INCOMPLETELY BURNED CARBON PRODUCTS,
+    CO*2, CO.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:SM & LG SPILL:DEPOSIT IN A POSTED TOXIC
+    SUBSTANCE LANDFILL IN ACCORDANCE WITH LOCAL, STATE AND FEDERAL
+    REGULATIONS
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

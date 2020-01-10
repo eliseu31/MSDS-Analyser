@@ -1,0 +1,142 @@
+=====================  Product Identification  =====================
+
+Product ID:AROCLOR 1254 1UG/UL 1ML, 44808
+MSDS Date:10/25/1991
+FSC:6810
+NIIN:00N021909
+MSDS Number: BLMPH
+=== Responsible Party ===
+Company Name:SUPELCO
+Address:SUPELCO PARK
+City:BELLEFONTE
+State:PA
+ZIP:16823-0048
+Country:US
+Info Phone Num:814-359-3441
+Emergency Phone Num:814-359-3441
+CAGE:IO100
+=== Contractor Identification ===
+Company Name:SIGMA-ALDRICH INC.
+Address:3050 SPRUCE STREET
+Box:14508
+City:ST. LOUIS
+State:MO
+ZIP:63103
+Country:US
+Phone:314-771-5765/414-273-3850X5996
+CAGE:54968
+Company Name:SUPELCO
+Address:SUPELCO PARK
+Box:City:BELLEFONTE
+State:PA
+ZIP:16823-0048
+Country:US
+Phone:814-359-3441
+CAGE:IO100
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CHLORODIPHENYL;54% CHLORINE (AROCHLOR 1254)  (SARA III)
+CAS:11097-69-1
+RTECS #:TQ1360000
+Fraction by Wt: 0.1%
+OSHA PEL:S, 0.5 MG/M3
+ACGIH TLV:S, 0.5MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:PENTANE, 2,2,4-TRIMETHYL-; (ISO-OCTANE)
+CAS:540-81-1
+RTECS #:SA3320000
+Fraction by Wt: 100%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50: (ORAL,RAT) 1295 MG/KG.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:CONTAINS MATERIAL(S) KNOWN TO STATE OF
+    CALIFORNIA TO CAUSE CANCER.
+Explanation of Carcinogenicity:AROCLOR: CLASS 2A (IARC); GROUP 2 (NTP)
+    (MFR).
+Effects of Overexposure:NONE SPECIFIED BY MANUFACTURER.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH EYES WITH WATER FOR AT LEAST 15 MINUTES. SKIN:
+    FLUSH SKIN WITH LARGE VOLUMES OF WATER. INHALATION: IMMEDIATELY
+    MOVE TO FRESH AIR. GIVE OXYGEN IF BREATHING IS LABORED. IF
+    BREATHING STOPS, G IVE ARTIFICIAL RESPIRATION. INGESTION: NEVER
+    GIVE ANYTHING BY MOUTH TO AN UNCONSCIOUS PERSON. NEVER TRY TO MAKE
+    AN UNCONSCIOUS PERSON VOMIT. DO NOT INDUCE VOMIT.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:10F,-12C
+Lower Limits:1.1%
+Upper Limits:6.0%
+Extinguishing Media:CO2, FOAM, DRY CHEMICAL.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:CAN REACT VIGOROUSLY WITH REDUCING
+    MATERIALS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:TAKE UP WITH ABSORBENT MATERIAL. VENTILATE
+    AREA.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN SEALED CONTAINER IN COOL, DRY
+    LOCATION. KEEP AWAY FROM HEAT. STORE IN DRY, WELL VENTILATED AREA.
+    KEEP AWAY FROM IGNITION SOURCES.
+Other Precautions:AVOID EYE OR SKIN CONTACT. AVOID BREATHING VAPORS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR NIOSH/MSHA APPROVED FACEMASK WITH ORGANIC
+    VAPOR CANISTER.
+Ventilation:USE ONLY IN WELL VENTILATED AREA.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F3
+Boiling Pt:B.P. Text:210F,99C
+Melt/Freeze Pt:M.P/F.P Text:-177F,-116C
+Vapor Pres:41
+Vapor Density:3.90
+Spec Gravity:.690
+Evaporation Rate & Reference:>1 (ETHER=1)
+Appearance and Odor:CLEAR COLORLESS LIQUID.
+Percent Volatiles by Volume:100
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+REDUCING AGENTS.
+Stability Condition to Avoid:NOT APPLICABLE.
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:COMPLY WITH ALL APPLICABLE FEDERAL, STATE, OR
+    LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,168 @@
+=====================  Product Identification  =====================
+
+Product ID:893 SPRED URETHANE FLOOR ENAMEL-HARBOR GRAY
+MSDS Date:02/12/1990
+FSC:8010
+NIIN:00F018533
+MSDS Number: BKYDJ
+=== Responsible Party ===
+Company Name:GLIDDEN COMPANY
+Address:925 EUCLID AVE
+City:CLEVELAND
+State:OH
+ZIP:44115
+Info Phone Num:(216) 826-5566
+Emergency Phone Num:(216) 826-5566
+CAGE:01PD6
+=== Contractor Identification ===
+Company Name:GLIDDEN CO MEMBER OF ICI WORLD PAINTS
+Address:925 EUCLID AVE
+Box:15049
+City:CLEVELAND
+State:OH
+ZIP:44115
+Country:US
+Phone:216-344-8000
+CAGE:72818
+Company Name:GLIDDEN PAINT, ICI PAINTS NORTH AMERICA
+Address:925 EUCLID AVE
+Box:City:CLEVELAND
+State:OH
+ZIP:44115
+Country:US
+Phone:800-545-2643/216-344-8207
+CAGE:01PD6
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TALC (CONTAINING NO ASBESTOS)
+CAS:14807-96-6
+RTECS #:WW2710000
+Fraction by Wt: 1-5%
+OSHA PEL:2 MG/M3 RDUST
+ACGIH TLV:2 MG/M3 RDUST; 9192
+
+Ingred Name:HYDROTREATED LIGHT DISTILLATE, PETROLEUM; C12-C15
+    ISOPARAFFINIC HYDROCARBONS
+CAS:64742-47-8
+Fraction by Wt: 30-40%
+Other REC Limits:300 PPM (MFR)
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 5-10%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:FATTY ACIDS, TAL-OIL, POLYMER W/GLYCEROL, PENTAERYTHRITO &
+    PHTHALIC ANHYDRIDE
+CAS:66070-62-0
+Fraction by Wt: 20-30%
+
+Ingred Name:POLYURETHANE ALKYD POLYMER W/PENTAERYTHIRITOL TDI & TUNG
+    OIL
+CAS:67989-28-0
+Fraction by Wt: 10-20%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL RATS LD50: 8000 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: RESPIRATORY TRACT
+    IRRITATION/FATIGUE/DROWSINESS/DIZZINESS/LIGHTHEADEDNESS/HEADACHE/UN
+    COORDINATION/NAUSEA/CNS
+    DEPRESSION/UNCONSCIOUSNESS/ASPHYXIATION/DEATH. SKIN:
+    DERMATITIS/DEFATTING. EYES : TEARING/BLURRED
+    VISION/REDNESS/IRRITATION. INGESTION: VOMITING/DIARRHEA/DIGESTIVE
+    SYSTEM PROBLEMS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: REPEATED/PROLONGED OVEREXPOSURE TO
+    SOLVENTS CAUSES PERMANENT BRAIN & NERVOUS SYSTEM DAMAGE.
+    INTENTIONAL MISUSE BY DELIBERATELY CONCENTRATING & INHALING THE
+    CONTENTS MAY BE HARMFUL & FATAL.  INGESTION: LUNG INFLAMMATION &
+    DAMAGE DUE TO ASPIRATION OF MATERIAL INTO LUNGS.
+Medical Cond Aggravated by Exposure:EYE, SKIN, RESPIRATORY DISORDERS,
+    LUNG DISORDERS, ASTHMA-LIKE CONDITIONS
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINS. SKIN:
+    WASH THOROUGHLY W/SOAP & WATER. INHALATION: REMOVE TO FRESH AIR.
+    GIVE CPR OR OXYGEN IF NEEDED. INGESTION: OBTAIN MEDICAL ATTENTION
+    IN ALL CASE S.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:105F
+Lower Limits:0.7%
+Extinguishing Media:DRY CHEMICAL, FOAM
+Fire Fighting Procedures:WATER MAY BE USED TO COOL & PROTECT EXPOSED
+    CONTAINERS.
+Unusual Fire/Explosion Hazard:CLOSED CONTAINERS MAY EXPLODE WHEN
+    EXPOSED TO EXTREME HEAT OR FIRE. VAPORS CAN FORM EXPLOSIVE MIXTURES
+    IN AIR AT ELEVATED TEMPERATURES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE SOURCES OF IGNITION. VENTILATE AREA.
+    COLLECT SPILLS W/ABSORBENT MATERIAL. SHUT OFF LEAK IF SAFE TO DO
+    SO. DIKE & CONTAIN SPILL. PUMP TO STORAGE OR SALVAGE VESSELS. USE
+    ABSORBENT TO PICK UP E XCESS RESIDUE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE <100F. KEEP AWAY FROM HEAT,
+    SPARKS, & OPEN FLAME. USE ONLY W/ADEQUATE VENTILATION. DON'T TAKE
+    INTERNALLY. KEEP OUT OF REACH OF CHILDREN.
+Other Precautions:AVOID CONTACT W/SKIN & EYES & BREATHING VAPORS. KEEP
+    CONTAINERS TIGHTLY CLOSED & UPRIGHT WHEN NOT IN USE. EMPTY
+    CONTAINERS MAY CONTAIN HAZARDOUS RESIDUES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF >TLV, WHERE RESPIRATORY PROTECTION IS
+    REQUIRED, USE ONLY NIOSH/MSHA APROVED RESPIRATORS. IF SENDING IS
+    DONE, WEAR A DUSTMASK TO AVOID BREATHING DUST.
+Ventilation:DILUTION OR LOCAL EXHAUST TO PREVENT BUILD-UP VAPORS.
+Protective Gloves:IMPERVIOUS
+Eye Protection:SAFETY GLASSES, GOGGLES
+Other Protective Equipment:EYE WASH, SAFETY SHOWER
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE. WASH HANDS THOROUGHLY AFTER HANDLING, BEFORE EATING OR
+    SMOKING.
+Supplemental Safety and Health
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:310-400F
+Spec Gravity:1.017
+Appearance and Odor:GREY LIQUID
+Percent Volatiles by Volume:53.84%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS, ACIDS, BASES, AMINES
+Stability Condition to Avoid:HEAT, ELEVATED TEMPERATURES. SPARKS, OPEN
+    FLAMES, & TEMPS >100F
+Hazardous Decomposition Products:CO, CO2, TOXIC GASES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. AVOID DISCHARGE TO NATURAL WATERS. KEEP
+    SALVAGE MATERIAL & RINSE WATER OUT OF SEWERS OR WATER COURSES.
+    COMBUSTIBLE LIQUID UN1263.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

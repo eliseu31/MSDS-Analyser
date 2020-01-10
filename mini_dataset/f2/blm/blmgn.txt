@@ -1,0 +1,116 @@
+=====================  Product Identification  =====================
+
+Product ID:884 SILICONE SEALANT
+MSDS Date:01/02/1988
+FSC:8030
+NIIN:00N021186
+MSDS Number: BLMGN
+=== Responsible Party ===
+Company Name:PECORA CORP
+Address:165 WAMBOLD RD
+City:HARLEYSVILLE
+State:PA
+ZIP:19438
+Country:US
+Info Phone Num:215-723-8051
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+CAGE:77157
+=== Contractor Identification ===
+Company Name:PECORA CORP
+Address:165 WAMBOLD RD
+Box:City:HARLEYSVILLE
+State:PA
+ZIP:19438
+Country:US
+Phone:215-723-6051
+CAGE:77157
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SILICONE SEALANT
+Fraction by Wt: 100%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYE IRRITATION. SLIGHT IRRITATION TO
+    SKIN. NO IRRITATION TO NOSE OR THROAT EXPECTED. NO KNOWN ADVERSE
+    CHRONIC HEALTH EFFECTS.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:MAY ENHANCE ALLERGIC CONDITIONS ON
+    CERTAIN PEOPLE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER FOR A MINIMUM OF 15 MINUTES. INGEST:
+    OBTAIN IMMEDIATE MEDICAL ATTENTION. SKIN: WIPE OFF AND FLUSH
+    W/WATER. INHAL: REMOVE TO FRESH AIR. SUPPORT BREATHING (GIVE
+    O2/ARTF RESP) .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:>212F,>100C
+Extinguishing Media:WATER, WATER FOG, CO2, DRY CHEMICAL, FOAM.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE KNOWN TO THE MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SCRAPE UP AND USE ABSORBENT MATERIAL TO REMOVE
+    ANY OIL-LIKE RESIDUES.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE BELOW 90F. USE REASONABLE CARE
+    AND CAUTION.
+Other Precautions:KEEP OUT OF THE REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SHOULD BE NEEDED. IF NECESSARY, USE NIOSH/
+    MSHA APPROVED RESPIRATOR APPROPRIATE FOR EXPOSURE OF CONCERN .
+Ventilation:MECHANICAL (GENERAL) RECOMMENDED.
+Protective Gloves:RUBBER GLOVES.
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:RUBBER APRON.
+Work Hygienic Practices:WASH BEFORE SMOKING OR EATING.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:>300F,>149C
+Vapor Pres:<5MM
+Spec Gravity:1.04
+Evaporation Rate & Reference:<1 (ETHER = 1)
+Solubility in Water:<0.1%
+Appearance and Odor:SMOOTH PASTE, MILD ODOR.
+Percent Volatiles by Volume:<5
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING MATERIALS.
+Stability Condition to Avoid:AIR OR MOISTURE CAUSES POLYMERIZATION.
+Hazardous Decomposition Products:NOX, SILICON DIOXIDE AND CO2.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH STATE, FEDERAL,
+    AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

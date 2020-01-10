@@ -1,0 +1,163 @@
+=====================  Product Identification  =====================
+
+Product ID:990 FLUX LOW THERMAL SOLDER FLUX
+MSDS Date:12/12/1988
+FSC:3439
+NIIN:00N057692
+MSDS Number: BWRTR
+=== Responsible Party ===
+Company Name:CRAMCO INC
+Address:80 SINNOTT RD
+City:SCARBOROUGH, ONTARIO, CANADA
+Info Phone Num:416-757-2878
+Emergency Phone Num:416-757-2878
+CAGE:3G310
+=== Contractor Identification ===
+Company Name:CRAMCO INC
+Address:80 SINNOTT RD
+Box:City:SCARBOROUGH, ONTARIO, CANADA
+Phone:416-757-2878
+CAGE:3G310
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SEC-BUTYL ALCOHOL (SARA 313); (SEC BUTANOL)
+    LD50(ORAL,RAT):6480 MG/KG
+CAS:78-92-2
+RTECS #:EO1750000
+Fraction by Wt: 15-40%
+OSHA PEL:150 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:ETHYL ALCOHOL (ETHANOL) LD50(ORAL,RAT):7080 MG/KG
+CAS:64-17-5
+RTECS #:KQ6300000
+Fraction by Wt: 10-30%
+OSHA PEL:1000 PPM
+ACGIH TLV:1000 PPM
+
+Ingred Name:ROSIN; (WW ROSIN POWDER)
+CAS:8050-09-7
+RTECS #:VL0480000
+Fraction by Wt: 30-60%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:DIMETHYLAMINE, HYDROCHLORIDE; (DIMETHYLAMINE-HCL) (CERCLA)
+    LD50(ORAL,RAT:1070 MG/KG
+CAS:506-59-2
+RTECS #:IQ0220000
+Fraction by Wt: 0.5-1.5%
+OSHA PEL:10 PPM
+ACGIH TLV:5 PPM
+
+Ingred Name:SPILL PROC:WEAR NIOSH/MSHA APPRVD AIR SUPPLIED RESP/HOOD &
+    PROT BOOTS & GLOVES. WASH AREA W/SOAP OR DETERGENT.
+RTECS #:9999999ZZ
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE INGREDIENTS
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE/CHRONIC:POTENTIAL FOR DYSPNEA,
+    COUGH & OTHER RESP DFCLTYS. MAY CAUSE IRRIT OF NOSE & THROAT, DIZZ,
+    DROW, FATG, LOSS OF COORD, CNS DEPRESSION. MAY ALSO CAUSE STAG,
+    CONFUSION, UNCON & COMA. PRLNGD  &/OR RPTD CONT CAN CAUSE DEFAT &
+    DERM.CAN CAUSE GI IRRIT, NAUS, VOMIT & DIARR. EXPERIMENTAL (EFTS OF
+    OVEREXPOS)
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:HLTH HAZS:NEOPLASTIGEN. EXPERIMENTAL TUMORIGEN.
+    EXPERIMENTAL REPRODUCTIVE EFFECTS. EXPERIMENTAL TERATOGEN.
+    MUTAGENIC DATA.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGEST:CALL MD IMMEDIATELY . INHAL:REMOVE TO FRESH AIR.
+    SUPPORT BREATHING (GIVE O*2/ARTF RESP) . EYES:IMMEDIATELY FLUSH
+    W/POTABLE WATER FOR A MINIMUM OF 15 MINUTES, SEEK ASSISTANCE FROM
+    MD	. SKIN:FLUSH W/COPIOUS AMOUNTS OF WATER. CALL MD .
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER FOG, ALCOHOL FOAM, DRY CHEMICAL, CO*2.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPRVD SCBA & FULL PROT EQUIP
+    . ISOLATE CNTNRS FROM HEAT, ELEC EQUIP, SPKS & OPEN FLAMES. KEEP
+    THEM COOL. PROT PERS AGAINST (SUP DAT)
+Unusual Fire/Explosion Hazard:MATL MAY BE IGNITED & VAPS MAY EXPLODE.
+    CNTNRS MAY RUPTURE/EXPLODE WHEN HEATED. FROTHING MAY OCCUR IF WATER
+    IS SPRAYED INTO BURNING LIQ, VAPS ARE HIGHLY(SUPDAT)
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIM ALL POTNTL SOURCES OF IGNIT. VENT AREA
+    WELL. EVACUATE ALL NON-ESSENTIAL PERS. USE SPK-PROOF TOOLS & EQUIP.
+    E.G., VENT. DIKE SPILL. ADD INERT ABSORB & PLACE MIX INTO SEALABLE
+    CNTNRS. PVNT SPILLED  MATL FROM ENTERING PUBLIC WATERS &
+    SEWAGE.(ING 5)
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STOR AREAS MUST BE WELL VENT. DO NOT
+    STORE W/STRONG OXIDIZERS. STORE AWAY FROM EXCESSIVE HEAT/OPEN
+    FLAME. AVOID CONT W/SKIN & EYES.
+Other Precautions:AVOID INGEST & INHAL. AVOID SPLASH FILLING & WORK
+    NEAR HEAT/IGNIT SOURCES. DO NOT WELD/FLAME-CUT CNTNRS. KEEP CNTNRS
+    CLSD AT ALL TIMES TO AVOID EVAP OF SOLV. AVOID HNDLG OF THIS
+    SUBSTANCE W/UNPROT HAN DS. ELIM ALL POTNTL SOURCES OF IGNIT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NORMAL CONDITIONS:NIOSH/MSHA APPROVED ORGANIC
+    VAPOUR CARTRIDGE RESPIRATOR. CONFINED SPACE:NIOSH/MSHA APPROVED AIR
+    SUPPLIED HOOD/ SELF CONTAINED BREATHING APPARATUS.
+    EMERGENCY:NIOSH/MSHA APPROVED SELF	CONTAINED BREATHING APPARATUS.
+Ventilation:NORMAL CONDITIONS:NORMAL EXHAUST AND GENERAL VENTILATION.
+    CONFINED SPACE:LOCAL EXHAUST AND AIR MOVER.
+Protective Gloves:NEOPRENE GLOVES.
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGGS .
+Other Protective Equipment:EYE BATH AND SAFETY SHOWER ON PREMISES. USE
+    CREAMS FOR SENSITIVE SKIN. WEAR PROTECTIVE BOOTS.
+Work Hygienic Practices:IF WORK CLTHS BECOME CONTAM, REMOVE THEM &
+    LAUNDER BEFORE REUSE. DO NOT DRINK, EAT/SMOKE IN WORK AREA.
+Supplemental Safety and Health
+PH:6.0-7.0. FIRE FIGHT PROC:BURSTING/VENTING CNTNRS. DO NOT USE WATER
+    EXCEPT AS FOG. DO NOT ALLOW ACCUM OF VAP/FUMES. KEEP COMBUST MATLS
+    CONTAM W/OIL IN CLSD, SEALED STEEL CNTNRS. AVOID CONT W/STRONG 
+    OXIDIZERS. EXPLO HAZS:VOLATILE. VAPS (HVR/AIR) MAY TRAVEL INTO
+    LOWER LEVELS & IGNITE.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:176F,80C
+Spec Gravity:0.94
+pH:SUPDAT
+Evaporation Rate & Reference:1.8 (BUTYL ACETATE=1)
+Solubility in Water:NOT SOLUBLE
+Appearance and Odor:DARK AMBER LIQUID, WINE LIKE ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING MATERIALS.
+Stability Condition to Avoid:INTENSE HEAT.
+Hazardous Decomposition Products:DURING THERMAL DECOMPOSITION, MAY
+    RELEASE A MIXTURE OF TOXIC GASES AND VAPORS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PLACE & SEAL IN CNTNRS. CONSULT W/YOUR LOC,
+    STATE & FED AUTH WASTE DISP AGENCY & MINISTRY OF ENVIRON FOR
+    INSTRUCTIONS & PROCEDURES FOR APPRVD WASTE DISP. DO NOT LET WASTE
+    ENTER PUBLIC WATER SYSTEMS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

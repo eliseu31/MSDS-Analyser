@@ -1,0 +1,122 @@
+=====================  Product Identification  =====================
+
+Product ID:AEROSHELL GREASE 6
+MSDS Date:01/01/1987
+FSC:9150
+NIIN:00-190-0893
+MSDS Number: BDHTK
+=== Responsible Party ===
+Company Name:SHELL OIL
+Emergency Phone Num:713-473-9461
+CAGE:KO551
+=== Contractor Identification ===
+Company Name:SHELL OIL
+CAGE:KO551
+Company Name:SHELL OIL COMPANY
+Address:Box:2463
+City:HOUSTON
+State:TX
+ZIP:77210
+Country:US
+Phone:800-231-6950
+CAGE:54527
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SOLVENT REFINED,HYDROTREATED PETROLEUM DISTILLATES CAS#
+    64742-54-7
+RTECS #:PY8035500
+Fraction by Wt: 86%
+
+Ingred Name:BENTONITE (AS NUISANCE DUST OR PARTICULATES NOT OTHERWISE
+    REGULATED)
+CAS:1302-78-9
+RTECS #:CT9450000
+Fraction by Wt: 6%
+OSHA PEL:15 MG/M3 TOTAL DUST
+ACGIH TLV:10 MG/M3 TDUST;8990
+
+Ingred Name:FATTY ACID AMIDES CAS# 68910-93-0
+Fraction by Wt: 4%
+Fraction by Wt: 4%
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:EYE:MILD IRRIT.SKIN:PRLG/RPTD CONT CAUSE
+    DERMAT,FOLLICULITIS.OIL ACNE.LOCAL NECROSIS WHEN INJECT.SUP
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH W/ WATER FOR 15 MIN.CALL MD.INHAL:REMOVE TO FRESH
+    AIR,GIVE O*2.CALL MD.INGEST:DO NOT INDUCE VOMIT.CALL MD.SKIN:REMOVE
+    CONTAM CLOTHING & WIPE OFF EXCESS.WASH W/ SOAP & WATER.CALL MD IF
+    IRRIT  PERSISTS OR IF INJECTED UNDER SKIN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:390F,199C PMCC
+Extinguishing Media:WATER FOG,DRY STREAM OF WATER.USE SCBA.SEE SUPP
+    DATA.
+Fire Fighting Procedures:DO NOT USE DIRECT STREAM OF WATER.USE SCBA.SEE
+    SUPP DATA.
+Unusual Fire/Explosion Hazard:PROD CAN FLOAT & REIGNIT ON WATER
+    SURFACE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SCOOP UP EXCESS GREASE.CLEAN AREA W/
+    APPROPRIATE CLEANER.SPILLS ENTERING SURFCE WATERS OR WATERCOURSES
+    THAT CAUSE SHEEN MUST BE REPORTED TO THE NATIONAL RESPONSE
+    CENTER,800-424-8802.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DRY PLACE W/ ADEQUATE
+    VENTILATION.KEEP AWAY FROM OPEN FLAMES AND HIGH
+    TEMPERATURES.MINIMIZE SKIN CONTACT.WASH CONTAM CLOTHING BEFORE USE
+Other Precautions:WASH W/ SOAP & WATER BEFORE
+    EATING,DRINKING,SMOKING,OR USING TOILET.PROPERLY DISPOSE OF
+    CONTAMINATED LEATHER ARTICLES(SHOES) THAT CAN NOT BE
+    DECONTAMINATED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT ORDINARILY REQUIRED
+Ventilation:LOCAL EXHAUST
+Protective Gloves:OIL RESIST
+Eye Protection:SAFETY GOGGLES
+Other Protective Equipment:PROTECTIVE CLOTHING TO MINIMIZE SKIN
+    CONTACT.
+Supplemental Safety and Health
+MSDS PREP:85256.SPEC FIRE PROCED:COOL EXPOS CONTNR W/
+    WATER.OVEREXPO:INHAL,INGEST:N/K.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Boiling Pt:B.P. Text:N/K PER MFR
+Evaporation Rate & Reference:N/K PER MFR
+Solubility in Water:INSOLUBLE
+Appearance and Odor:DARK AMBER,SMOOTH,SLIGHT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:HEAT,OPEN FLAME
+Hazardous Decomposition Products:THERMAL:CO,UNIDENTIFIED ORGANIC
+    COMPOUNDS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN AN APPROPRIATE DISPOSAL FACILITY
+    IN COMPLIANCE W/ LOCAL,STATE & FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

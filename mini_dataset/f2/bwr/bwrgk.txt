@@ -1,0 +1,187 @@
+=====================  Product Identification  =====================
+
+Product ID:815 9840 PRE-BLEACH & REPLENISH,PROCESS E-6&E-6 AR,WORK SOLN
+MSDS Date:07/24/1996
+FSC:6750
+NIIN:01-341-6133
+MSDS Number: BWRGK
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-477-3194 MSDS :800- 242-2424
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+Company Name:EASTMAN KODAK CO US CUSTOMER SERVICE/GOVERNMENT SALES
+Address:800 LEE RD
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-3129
+Country:US
+Phone:800-828-6203
+CAGE:5K871
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 89 - 94%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:NOT RELEVANT
+ACGIH TLV:NOT RELEVANT
+
+Ingred Name:STABILIZING AGENT
+Fraction by Wt: 5 - 10%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:POTASSIUM SULFITE
+CAS:10117-38-1
+RTECS #:WT3530000
+Fraction by Wt: 1 - 5%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:ETHYLENEDIAMINE-TETRAACETIC ACID (EDTA) (CERCLA)
+CAS:60-00-4
+RTECS #:AH4025000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:METHYL ALCOHOL (METHANOL) (SARA 313) (CERCLA)
+CAS:67-56-1
+RTECS #:PC1400000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:S, 200 PPM
+ACGIH TLV:S,200PPM/250STEL; 95
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:1-THIOGLYCEROL
+CAS:96-27-5
+RTECS #:TY8140000
+Fraction by Wt: <1%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL, RAT) IS NOT KNOWN.
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:TARGET ORGANS:EYES, GASTROINTESTINAL
+    TRACT. ACUTE- EYES:MAY CAUSE IRRITATION. SKIN:LOW HAZARD FOR
+    RECOMMENDED HANDLING. INHALATION:LOW HAZARD FOR RECOMMENDED
+    HANDLING. ORAL:HARMFUL IF INGESTED. CONTAI NS METHANOL. MAY CAUSE
+    VISUAL DISTURBANCES OR BLINDNESS. CHRONIC- UNKNOWN.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:IRRITATION, BLINDNESS
+Medical Cond Aggravated by Exposure:INDIVIDUALS WITH PRE-EXISTING EYE
+    PROBLEMS MAY BE MORE SUCCEPTIBLE TO THE EFFECTS FROM EXPOSURE TO
+    THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:GET MEDICAL HELP IF SYMPTOMS PERSIST. INHALED:MOVE TO FRESH
+    AIR. EYES:ANY MATERIAL THAT CONTACTS THE EYE SHOULD BE WASHED OUT
+    IMMEDIATELY WITH WATER. SKIN:WASH WITH SOAP & WATER. ORAL:DRINK 1-2
+    GLASSE S OF WATER. SEEK MEDICAL ATTENTION. NEVER GIVE ANYTHING BY
+    MOUTH TO AN UNCONSCIOUS PERSON.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:WATER SPRAY, CARBON DIOXIDE, FOAM OR DRY CHEMICAL
+    FOR SURROUNDING FIRE. USE WATER SPRAY TO COOL FIRE EXPOSED
+    CONTAINERS.
+Fire Fighting Procedures:WEAR PROTECTIVE CLOTHING AND NIOSH-APPROVED
+    SELF-CONTAINED BREATHING APPARATUS. HAZARDOUS DECOMPOSITION
+    PRODUCTS MAY BE FORMED.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH SPILL TO SEWER WITH LARGE AMOUNT OF
+    WATER IF REGULATIONS ALLOW OR ABSORB SPILL WITH VERMICULITE. PLACE
+    IN A CONTAINER FOR CHEMICAL WASTE. CLEAN SURFACE THOROUGHLY TO
+    REMOVE RESIDUAL CONTAMINATIO N.
+Neutralizing Agent:NOT RELEVENT
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER CLOSED. KEEP OUT OF
+    REACH OF CHILDREN. STORE AWAY FROM INCOMPATIBLE MATERIALS.
+Other Precautions:AVOID CONTACT WITH EYES, SKIN AND CLOTHING. USE WITH
+    ADEQUATE VENTILATION. WASH THOROUGHLY AFTER HANDLING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF FORMALDEHYDE IS EMITTED ABOVE TLV, WEAR
+    NIOSH- APPROVED FULL FACEPIECE RESPIRATORY PROTECTION AGAINST
+    FORMALDEHYDE. IF RESPIRATORS ARE USED, A PROGRAM SHOULD BE
+    INSTITUTED TO ASSURE COMPLIANCE WITH  OSHA STANDARD 29CFR
+    1910.134/1048.
+Ventilation:GOOD GENERAL VENTILATION (TYPICALLY 10 AIR CHANGES/HR)
+    SHOULD BE USED. VENTILATION RATES SHOULD BE MATCHED TO CONDITIONS
+Protective Gloves:RUBBER/LATEX RECOMMENDED
+Eye Protection:SAFETY GLASSES WITH SIDE SHIELDS/GOGGLES
+Other Protective Equipment:EYE WASH STATION, QUICK DRENCH SHOWER AND
+    IMPERVIOUS CLOTHING
+Work Hygienic Practices:OBSERVE GOOD PERSONAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES. DO NOT WEAR CONTAMINATED CLOTHING OR
+    FOOTWEAR.
+Supplemental Safety and Health
+SEE PNI B FOR CONCENTRATE. ECOLOGICAL INFORMATION: A LOW BIOCHEMICAL
+    OXYGEN DEMAND, A LOW POTENTIAL TO AFFECT AQUATIC ORGANISMS. WHEN
+    DILUTED WITH LARGE AMOUNT OF WATER, THIS MATERIAL RELEASED DIRECTL
+    Y OR INDIRECTLY INTO ENVIRONMENT IS NOTEXPECTED TO HAVE A
+    SIGNIFICANT IMPACT.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+NRC/State Lic Num:NOT RELEVANT
+Boiling Pt:B.P. Text:>212F,>100C
+Vapor Pres:18 @ 68F
+Vapor Density:0.6
+Spec Gravity:1.04 - 1.05
+pH:6.2
+Solubility in Water:COMPLETE
+Appearance and Odor:COLORLESS LIQUID - ODORLESS
+Percent Volatiles by Volume:90- 95
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS, STRONG BASES
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE,
+    SULFUR DIOXIDE, FORMALDEHYDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISCHARGE, TREATMENT OR DISPOSAL MAY BE SUBJECT
+    TO FEDERAL, STATE OR LOCAL LAWS. FLUSH TO SEWER WITH LARGE AMOUNT
+    OF WATER.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

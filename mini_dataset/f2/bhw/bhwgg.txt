@@ -1,0 +1,171 @@
+=====================  Product Identification  =====================
+
+Product ID:THERMOFIT S-1044 PRIMER
+MSDS Date:12/01/1988
+FSC:8040
+NIIN:01-152-4754
+MSDS Number: BHWGG
+=== Responsible Party ===
+Company Name:RAYCHEM CORP
+Address:300 CONSTITUTION DRIVE
+City:MENLO PARK
+State:CA
+ZIP:94025-1164
+Country:US
+Info Phone Num:415-361-4907
+Emergency Phone Num:415-361-4907
+Preparer's Name:GREGORY RAYMOND
+CAGE:06090
+=== Contractor Identification ===
+Company Name:RAYCHEM CORP
+Address:300 CONSTITUTION DRIVE
+Box:City:MENLO PARK
+State:CA
+ZIP:94025-1164
+Country:US
+Phone:415-361-4907
+CAGE:06090
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CARBON BLACK
+CAS:1333-86-4
+RTECS #:FF5800000
+Fraction by Wt: < 25%
+Other REC Limits:NONE RECOMME
+OSHA PEL:3.5 MG/M3
+ACGIH TLV:3.5 MG/M3; 9394
+
+Ingred Name:METHYL ALCOHOL (METHANOL)  (SARA III)
+CAS:67-56-1
+RTECS #:PC1400000
+Fraction by Wt: TRACE
+Other REC Limits:NONE RECOMME
+OSHA PEL:S,200PPM
+ACGIH TLV:S,200PPM/250STEL; 94
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: 75% %
+Other REC Limits:NONE RECOMME
+OSHA PEL:200 PPM
+ACGIH TLV:200 PPM/300STEL;9394
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:MAGNESIUM OXIDE
+CAS:1309-48-4
+RTECS #:OM3850000
+Fraction by Wt: < 25%
+Other REC Limits:NONE RECOMME
+OSHA PEL:10 MG/M3 PARTICULATE
+ACGIH TLV:10 MG/M3, FUME; 9394
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 ORAL (RAT) = 3400 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: IRRITATION OF SKIN, EYES,
+    MUCOUS MEMBRANES AND UPPER RESPIRATORY TRACT. INHALATION OF VAPORS
+    MAY CAUSE NAUSEA, DIZZINESS, HEADACHE, AND A NARCOTIC EFFECT.
+    EXTREME OVEREXPOSURE TO METHANOL MAY C AUSE BLINDNESS. CHRONIC:
+    REPEATED, PROLONGED SKIN EXPOSURE MAY RESULT IN DERMATITIS.
+Explanation of Carcinogenicity:THIS COMPOUND CONTAINS NO INGREDIENTS AT
+    CONCENTRATIONS OF 0.1% OR GREATER THAT ARE CARCINOGENS OR SUSPECT
+    CARCINOGENS.
+Effects of Overexposure:SKIN IRRITATION, EYE IRRITATION, MUCOUS
+    MEMBRANE IRRITATION, UPPER RESPIRATORY TRACT IRRITATION, DIZZINESS,
+    NAUSEA, HEADACHE, DERMATITIS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH WATR FOR AT LEAST 15 MINUTES. SEEK MEDICAL
+    ATTENTION. SKIN: WASH WITH MILD SOAP AND WATER. INGESTION: SEEK
+    MEDICAL ATTENTION. INHALATION: REMOVE TO FRESH AIR. TREAT
+    SYMPTOMATICALLY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TOC
+Flash Point:24.0F,-4.4C
+Lower Limits:1.7 % (MEK)
+Upper Limits:11.4 % (MEK)
+Extinguishing Media:CARBON DIOXIDE, DRY CHEMICAL, FOAM
+Fire Fighting Procedures:WEAR FIRE FIGHTING PROTECTIVE EQUIPMENT AND
+    FULL FACE-PIECE SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DON APPROPRIATE PERSONAL PROTECTIVE EQUIPMENT
+    BEFORE RESPONDING. CONTAIN SPILL WITH INERT ABSORBENT. TAKE
+    MEASURES TO STOP SPILLAGE AT SOURCE. TRANSFER CONTAMINATED
+    ABSORBENT INTO A CONTAINER AND HAND LE AS A HAZARDOUS WASTE.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:USE IN A WELL-VENTILATED AREA, AWAY
+    FROM SPARKS OR OTHER IGNITION SOURCES. DO NOT SMOKE, DRINK OR EAT
+    IN AREA OF USAGE. KEEP CONTAINER CLOSED.
+Other Precautions:FLAMMABLE LIQUID. AVOID SPARKS, FLAMES AND HEAT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF VENTILATION DOES NOT MAINTAIN INHALATION
+    EXOSURES BELOW PEL (TLV), USE NIOSH/MSHA APPROVED RESPIRATOR AS PER
+    CURRENT 29 CFR 1910.134, INSTRUCTIONS/WARNINGS AND NIOSH RESPIRATOR
+    SELECTION.
+Ventilation:IN ACCORDANCE WITH GOOD INDUSTRIAL HYGIENE PRACTICE, ENSURE
+    ADEQUATE VENTILATION DURING APPLICATION.
+Protective Gloves:BUTYL
+Eye Protection:RECOMMENDED
+Other Protective Equipment:EMERGENCY EYEWASH STATION AND SHOWER
+Work Hygienic Practices:WASH WITH SOAP AND WATER AFTER HANDLING PRODUCT
+    AND BEFORE EATING DRINKING OR SMOKING.
+Supplemental Safety and Health
+HTIS SPOKE WITH FRANK TAMAYO (RAYCHEM) WHO STATED THAT IF THE PRODUCT
+    IS UNUSED AND DISCARDED IN ITS ORIGINAL CONTAINER, THE EPA
+    HAZARDOUS WASTE CODES D001 AND D035 APPLY. IF THE PRIMER IS USED,
+    DISCA RDED OR SPENT (WIPED ON RAGS), THE EPA HW CODES D001, D035
+    AND F005 WILL APPLY INCLUDING RAGS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:B.P. Text:NOT GIVEN
+Melt/Freeze Pt:M.P/F.P Text:NOT GIVEN
+Vapor Pres:70
+Vapor Density:NOT GIVEN
+Spec Gravity:1.0
+Evaporation Rate & Reference:NOT GIVEN
+Solubility in Water:MISCIBLE
+Appearance and Odor:BLACK, LOW VISCOSITY FLUID, ODOR OF MEK
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZERS, STRONG REDUCING AGENTS, BASES
+Stability Condition to Avoid:SPARKS, FLAMES, HEAT, IGNITION SOURCES
+Hazardous Decomposition Products:FLUORINE COMPOUNDS
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PREVENT WASTE FROM CONTAMINATING SURROUNDING
+    ENVIRONMENT. DISCARD ANY PRODUCT, RESIDUE, DISPOSAL CONTAINER OR
+    LINER IN ACCORDANCE WITH ALL FEDERAL, STATE AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

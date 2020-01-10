@@ -1,0 +1,124 @@
+=====================  Product Identification  =====================
+
+Product ID:760034/760033, BATTERY, NONRECHARGEABLE
+MSDS Date:01/01/1987
+FSC:6135
+NIIN:01-244-3211
+MSDS Number: BHWDS
+=== Responsible Party ===
+Company Name:DAYTON-GRANGER INC.
+Address:3299 SW 95H AVE
+Box:350550
+City:FORT LAUDERDALE
+State:FL
+ZIP:33335
+Country:US
+Info Phone Num:305-463-3451
+Emergency Phone Num:305-463-3451
+CAGE:55635
+=== Contractor Identification ===
+Company Name:DAYTON-GRANGER INC.
+Address:3299 SW 95H AVE
+Box:City:FORT LAUDERDALE
+State:FL
+ZIP:33335
+Country:US
+Phone:305-463-3451
+CAGE:55635
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LITHIUM METAL (AS ANODE)
+CAS:7439-93-2
+RTECS #:OJ5540000
+Other REC Limits:NONE ESTABLISHED
+
+Ingred Name:SULFUR DIOXIDE  (SARA III)
+CAS:7446-09-5
+RTECS #:WS4550000
+OSHA PEL:5 PPM/5 STEL
+ACGIH TLV:2 PPM/5 STEL; 9293
+
+Ingred Name:ACETONITRILE  (SARA III)
+CAS:75-05-8
+RTECS #:AL7700000
+OSHA PEL:40PPM/60 STEL
+ACGIH TLV:40PPM/60STEL; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:LITHIUM BROMIDE (AS ELECTRLYTE)
+CAS:7550-35-8
+RTECS #:OJ5755000
+Other REC Limits:NONE ESTABLISHED
+OSHA PEL:NONE ESTABLISHED
+ACGIH TLV:NONE ESTABLISHED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:UNDER NORMAL USE,THE HERMETICALLY
+    SEALED LITHIUM/SULFUR DIOXED CELL WILL NOT LEAK,VENT OR EXPLODE AND
+    IS PERFECTLY SAFE TO USE WITHOUT TAKING ANY SPECIAL PRECAUTIONS.
+    HOWEVER,COMPONENTS SUCH AS SULFUR  DIOXIDE AND THE ORGANIC
+    SOLVENTS, ARE IRRITATING AND TOXIC.
+Effects of Overexposure:NONE USUALLY
+Medical Cond Aggravated by Exposure:NONE
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE WATER TO HANDLE LITHIUM BATTERY FIRES.
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS.
+    POISONOUS,FLAMMABLE GASES MAY BE RELEASED DURING FIRE SITUATION.
+Unusual Fire/Explosion Hazard:CELL WILL VENT OR RUPTURE WHEN THE
+    INTERNAL PRESSURE BUILDS UP TO 200F (OR 294 PSIG). USE WATER TO
+    COOL THE FIRE & REDUCE THE OVERALL HAZARD.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AT WELL-VENTILATED STRUCTURE,IN
+    A SPRINKLER-PROTECTED,NON-COMBUSTIBLE STRUCTURE WITH ADEQUATE
+    CLEARANCEBETWEEN WALL AND BATTERY STACKS.
+Other Precautions:PUBLICATIONS FOR DETAIL HANDLING: 1.N. IRVING SAX
+    "DANGEROUS PROPERTIES OF INDUSTRIAL MATERIALS: REINHOLD; 2.
+    MATHESON GAS DATA BOOK;MATHESON,EAST RUTHERFORD, N.J.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE USUALLY
+Ventilation:NORMAL VENTILATION
+Protective Gloves:NONE USUALLY
+Eye Protection:SAFETY GLASSES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:Z6
+Appearance and Odor:SOLID, BATTERY
+Percent Volatiles by Volume:0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE STATED.
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:OXIDES OF SULFUR, CARBON.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CELLS AND BATTERIES FOR DISPOSAL SHOULD BE
+    COLLECTED, TRANSPORTED AND DISPOSED IN A MANNER TO PREVENT
+    SHOUT-CIRCUITING,COMPACTING OR MUTILATION TO DESTROY THEIR PHYSICAL
+    INTEGRITY. CELLS SHOULD NOT BE  INCINERATED,UNLESS SUITABLE
+    PROCEDURESTAKEN.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

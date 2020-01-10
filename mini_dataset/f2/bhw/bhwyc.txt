@@ -1,0 +1,154 @@
+=====================  Product Identification  =====================
+
+Product ID:XD-33
+MSDS Date:04/02/1986
+FSC:6850
+NIIN:01-193-3847
+MSDS Number: BHWYC
+=== Responsible Party ===
+Company Name:NASHUA CORP COMPUTER SUPPLIES DIVISION
+Address:44 FRANKLIN ST
+City:NASHUA
+State:NH
+ZIP:03060-2665
+Country:US
+Info Phone Num:800-258-1370
+Emergency Phone Num:603-880-5555
+CAGE:04833
+=== Contractor Identification ===
+Company Name:NASHUA CORP COMPUTER SUPPLIES DIVISION
+Address:44 FRANKLIN ST
+Box:City:NASHUA
+State:NH
+ZIP:03060-2665
+Country:US
+Phone:603-880-5555
+CAGE:04833
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PRODUCT CONSISTS OF >95% CARRIER AND <5% TONER. THE
+    FOLLOWING INGREDIENTS 2 AND 3 DEPICT THE CARRIER.
+RTECS #:9999999ZZ
+Other REC Limits:NOT APPLICABLED
+
+Ingred Name:IRON POWDER
+CAS:7439-89-6
+RTECS #:NO4565500
+Fraction by Wt: >95%
+
+Ingred Name:STYRENE-ACRYLATE COPOLYMER
+Fraction by Wt: <5%
+
+Ingred Name:THE FOLLOWING INGREDIENTS 5, 6, 7 AND 8 DEPICT THE TONER.
+RTECS #:9999999ZZ
+Other REC Limits:NOT APPLICABLED
+
+Ingred Name:PROPOXYLATED BISPHENOL - A FUMARATE POLYESTER
+Fraction by Wt: 80-90%
+
+Ingred Name:CARBON BLACK
+CAS:1333-86-4
+RTECS #:FF5800000
+Fraction by Wt: 5-10%
+OSHA PEL:3.5 MG/M3
+ACGIH TLV:3.5 MG/M3; 9192
+
+Ingred Name:SILICA, AMORPHOUS, DUST
+CAS:112945-52-5
+RTECS #:VV7310000
+Fraction by Wt: <1%
+OSHA PEL:6 MG/M3
+ACGIH TLV:10 MG/M3; 8990
+
+Ingred Name:ZINC STEARATE
+CAS:557-05-1
+RTECS #:ZH5200000
+Fraction by Wt: <1%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:NO HEALTH HAZARDS WHEN USED AS
+    INTENDED.
+Effects of Overexposure:MINIMAL DISCOMFORT MAY OCCUR UPON INHALATION IN
+    HEAVY DUST CONDITIONS. NO INTERNAL EFFECTS.
+Medical Cond Aggravated by Exposure:NONE
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH WITH PLENTY OF WATER.IF IRRITATION PERSISTS,SEE
+    DOCTOR. SKIN:REMOVE CONTAMINATED CLOTHING.WASH WITH SOAP AND
+    WATER.IF IRRITATION PERSISTS SEE DOCTOR. INHALATION:REMOVE TO FRESH
+    AIR.GIVE CPR /OXYGEN IF NEEDED. SEE DOCTOR. INGESTION:DRINK LARGE
+    AMOUNT OF WATER,INDUCE VOMIT.SEE DOCTOR.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE WATER FOG, CARBON DIOXIDE, FOAM, OR DRY
+    CHEMICAL.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:COMBUSTIBLE MATERIAL, CAN FORM EXPLOSIVE
+    MIXTURES WHEN DISPERSED IN AIR. FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE.CLEAN UP USING METHODS THAT AVOID
+    DUST GENERATION SUCH AS VACUUM,WET DUST MOP OR WET CLEAN UP AND
+    PLACE IN APPROPIATE DISPOSAL CONTAINER AND COVER.IF DUST IS
+    GENERATED USE NIOSH/MSHA APPROVE D RESPIRATOR WITH DUST CARTRIDGE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DRY,WELL VENTILATED
+    AREA.PROTECT FROM PHYSICAL DAMAGE.AVOID ANY PHYSICAL CONTACT.KEEP
+    CONTAINERS TIGHTLY CLOSED.
+Other Precautions:NONE FOR OFFICE FACILITIES. EYE PROTECTION AND
+    RESPIRATORS MAY BE REQUIRED FOR BULK HANDLING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED WHEN USED AS INTENDED.
+Ventilation:NORMAL ROOM VENTILATION.
+Protective Gloves:NONE REQUIRED WHEN USED AS INTENDED.
+Eye Protection:NONE REQUIRED WHEN USED AS INTENDED.
+Other Protective Equipment:NONE REQUIRED WHEN USED AS INTENDED.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING. AVOID BREATHING
+    DUST IF SAMPLE IS SPILLED.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:BLACK GRANULAR SOLID. FAINT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:HIGH TEMPERATURES, AND OPEN FLAMES
+Hazardous Decomposition Products:TOXIC DECOMPOSITION PRODUCTS FORM ON
+    COMBUSTION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:NOTIFY YOUR LOCAL ENVIRONMENTAL OFFICER. KEEP IN
+    COVERED CONTAINERS PENDING DISPOSAL.DISPOSE OF IN ACCORDANCE WITH
+    FEDERAL.STATE AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

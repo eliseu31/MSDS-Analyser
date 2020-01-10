@@ -1,0 +1,138 @@
+=====================  Product Identification  =====================
+
+Product ID:CS 3204
+MSDS Date:06/01/1988
+FSC:8030
+NIIN:00-850-5717
+Kit Part:Y
+MSDS Number: BJDJZ
+=== Responsible Party ===
+Company Name:THE FLAMEMASTER CORPORATION
+Address:11120 SHERMAN WAY
+City:SUN VALLEY
+State:CA
+ZIP:91352
+Country:US
+Info Phone Num:818-982-1650
+Emergency Phone Num:818-982-1650
+Preparer's Name:RAY HOGENSON - Q.C. MGR
+CAGE:6N186
+=== Contractor Identification ===
+Company Name:FLAMEMASTER CORP THE CHEM SEAL DIV
+Address:11120 SHERMAN WAY
+Box:City:SUN VALLEY
+State:CA
+ZIP:91352-4949
+Country:US
+Phone:818-982-1650
+CAGE:14439
+Company Name:THE FLAMEMASTER CORPORATION
+CAGE:6N186
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POLYSULFIDE POLYMER
+Fraction by Wt: 54%
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Fraction by Wt: 3.6%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9293
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 3.6%
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:CALCIUM CARBONATE (MARBLE) (LIMESTONE)
+CAS:1317-65-3
+RTECS #:EV9580000
+Fraction by Wt: 31.8%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9192
+
+Ingred Name:MANGANESE DIOXIDE
+CAS:1313-13-9
+RTECS #:OP0350000
+Fraction by Wt: 7%
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:NONE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE CONTACT: WASH WITH WATER FOR APPROXIMATELY 15 MINUTES AND
+    GET IMMEDIATE MED-ICAL AID. AND SKIN CONTACT: WASH WITH PLENTY OF
+    SOAP AND WATER IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:210 F/ 99 C
+Autoignition Temp:Autoignition Temp Text:644 F
+Lower Limits:7%
+Upper Limits:90%
+Extinguishing Media:DRY CHEMICALS, CO2, ETC.
+Fire Fighting Procedures:NONE.
+Unusual Fire/Explosion Hazard:NONE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE ABSORBENT SOLVENT WIPE.
+Neutralizing Agent:NA
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID PROLONGED CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT REQUIRED.
+Ventilation:USE LOCAL EXHAUST.
+Protective Gloves:YES.
+Eye Protection:PROTECTIVE GLASSES.
+Supplemental Safety and Health
+NOT HAZARDOUS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:450 F
+Melt/Freeze Pt:M.P/F.P Text:NA
+Decomp Temp:Decomp Text:500 F
+Vapor Pres:2 MM HG
+Vapor Density:3.1(AIR=1)
+Spec Gravity:1.42 (H2O=1)
+pH:7
+Viscosity:10,000 POISES
+Evaporation Rate & Reference:0.02 (BUTYL ACETATE=1)
+Solubility in Water:INSOLUBLE
+Appearance and Odor:PART A-OFF WHITE PASTE AND PART B-BLACK PASTE.
+Percent Volatiles by Volume:4
+Corrosion Rate:NA
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+SULFURIC ACID, NITRIC ACID AND HYDROCHLORIC ACID.
+Hazardous Decomposition Products:NONE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:LAND BURIAL WHERE STATUTES PERMIT.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.
