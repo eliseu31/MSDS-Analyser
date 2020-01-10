@@ -68,7 +68,7 @@ python core/main.py -e mini_dataset
 python core/main.py -t 150 20 -l '["fire"]' -c decision_tree
 
 # predicts the fire procedures for the a MSDS file
-python core/main.py -p datasheets_smaller/f2/bdf/bdfkf.txt
+python core/main.py -p mini_dataset/demo_files/bdfkf.txt
 ```
 
 Additionally if you want to obtain the full dataset, from _hazards.com_:
