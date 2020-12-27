@@ -171,3 +171,16 @@ ROC:  0.8927749846456715
 ## Cite this Work
 
 Cite this dataset/work with the following reference (bibtex entry):
+
+```bash
+@inproceedings{msds-opp,
+    author = {Pereira, Eliseu},
+    year = {2020},
+    month = {02},
+    pages = {},
+    title = {MSDS-OPP: Operator Procedures Prediction in Material Safety Data Sheets},
+    doi = {10.24840/978-972-752-264-4}
+}
+```
+
+ 
